@@ -4,11 +4,11 @@
 ## Arquivos de Memória
 | Arquivo | Conteúdo |
 |---------|---------|
-| 01_PROJECTS.md | Projetos ativos (Órulo, Marca DD) |
-| 02_DECISIONS.md | Decisões permanentes de Diego |
-| 03_LESSONS.md | Lições aprendidas |
-| 04_PEOPLE.md | Pessoas-chave (Luísa, time, diretoria) |
-| 05_PENDING.md | Aguardando input ou ação |
+| projects.md | Projetos ativos (Órulo, Marca DD) |
+| decisions.md | Decisões permanentes de Diego |
+| lessons.md | Lições aprendidas |
+| people.md | Pessoas-chave (Luísa, time, diretoria) |
+| pending.md | Aguardando input ou ação |
 | daily/ | Notas diárias |
 
 ## Resumo Rápido

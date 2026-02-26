@@ -1,4 +1,4 @@
-# 04_PEOPLE.md — Pessoas & Contatos
+# people.md — Pessoas & Contatos
 
 ## Pessoais
 | Nome | Relação | Notas |

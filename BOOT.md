@@ -20,11 +20,11 @@
 - `[x] Revisar MEMORY.md` (índice de longo prazo)
 - `[x] Revisar memory/00_MEMORY_INDEX.md` (se existir)
 - `[x] Ler notas diárias dos últimos 7 dias em `memory/daily/``
-- `[x] Verificar memory/05_PENDING.md` — algo aguardando resposta ou ação?
+- `[x] Verificar memory/pending.md` — algo aguardando resposta ou ação?
 
 **5. Orientação de Estado:**
 - Responder internamente antes de qualquer coisa:
-  - O que está em aberto? (`05_PENDING.md`)
+  - O que está em aberto? (`pending.md`)
   - Algum OKR em risco?
   - É sexta-feira? → Propor Check-in Semanal
   - Há padrão de sombra emergindo?

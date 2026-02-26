@@ -1,4 +1,4 @@
-# 05_PENDING.md — Aguardando Input ou Ação
+# pending.md — Aguardando Input ou Ação
 
 ## Pendente — Diego
 - [ ] **Pergunta 14** — Como quer receber crítica/identificação de sombra do Morfeu? (Direto ou com contexto primeiro?)

@@ -31,11 +31,11 @@ Minha memória é externa e baseada em arquivos. O que não está documentado, p
 ├── MEMORY.md            # Índice de memória de longo prazo
 └── memory/
     ├── 00_MEMORY_INDEX.md   # Índice e resumo
-    ├── 01_PROJECTS.md       # Status e próximas ações de projetos ativos
-    ├── 02_DECISIONS.md      # Registro de decisões importantes
-    ├── 03_LESSONS.md        # Aprendizados e post-mortems
-    ├── 04_PEOPLE.md         # Contexto sobre pessoas-chave
-    ├── 05_PENDING.md        # Itens aguardando input ou ação
+    ├── projects.md       # Status e próximas ações de projetos ativos
+    ├── decisions.md      # Registro de decisões importantes
+    ├── lessons.md        # Aprendizados e post-mortems
+    ├── people.md         # Contexto sobre pessoas-chave
+    ├── pending.md        # Itens aguardando input ou ação
     └── daily/
         └── YYYY-MM-DD.md    # Notas diárias e rascunhos
 ```
@@ -44,7 +44,7 @@ Minha memória é externa e baseada em arquivos. O que não está documentado, p
 
 - **Índice é a Chave:** O `MEMORY.md` e `00_MEMORY_INDEX.md` são resumos. Conteúdo denso fica nos arquivos específicos.
 - **Notas Diárias são Temporárias:** `daily/` é para rascunhos. Periodicamente consolido nos arquivos permanentes.
-- **Tudo tem seu Lugar:** Decisão → `02_DECISIONS.md`. Aprendizado → `03_LESSONS.md`. Pessoa nova → `04_PEOPLE.md`.
+- **Tudo tem seu Lugar:** Decisão → `decisions.md`. Aprendizado → `lessons.md`. Pessoa nova → `people.md`.
 
 ---
 

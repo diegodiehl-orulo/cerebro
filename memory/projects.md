@@ -1,4 +1,4 @@
-# 01_PROJECTS.md — Projetos Ativos
+# projects.md — Projetos Ativos
 
 ## Setup Morfeu / OpenClaw — CONCLUÍDO ✅
 **Concluído em:** 2026-02-26

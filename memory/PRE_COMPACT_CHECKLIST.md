@@ -7,11 +7,11 @@
 
 ## Checklist de Extração (rodar ANTES da compactação)
 
-- [ ] **Decisões** — Alguma decisão importante foi tomada nesta sessão? → `02_DECISIONS.md`
-- [ ] **Lições** — Algo deu errado ou um padrão novo emergiu? → `03_LESSONS.md`
-- [ ] **Pessoas** — Alguma pessoa nova relevante foi mencionada? → `04_PEOPLE.md`
-- [ ] **Projetos** — Algum projeto novo ou mudança de status? → `01_PROJECTS.md`
-- [ ] **Pendências** — Algo ficou em aberto aguardando Diego ou terceiros? → `05_PENDING.md`
+- [ ] **Decisões** — Alguma decisão importante foi tomada nesta sessão? → `decisions.md`
+- [ ] **Lições** — Algo deu errado ou um padrão novo emergiu? → `lessons.md`
+- [ ] **Pessoas** — Alguma pessoa nova relevante foi mencionada? → `people.md`
+- [ ] **Projetos** — Algum projeto novo ou mudança de status? → `projects.md`
+- [ ] **Pendências** — Algo ficou em aberto aguardando Diego ou terceiros? → `pending.md`
 - [ ] **Nota diária** — Resumo do dia registrado em `daily/YYYY-MM-DD.md`?
 - [ ] **MEMORY.md** — Índice atualizado com novas informações relevantes?
 

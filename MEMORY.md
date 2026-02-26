@@ -8,11 +8,11 @@
 
 | Arquivo | O que contém |
 |---------|-------------|
-| `memory/01_PROJECTS.md` | Projetos ativos, concluídos e backlog |
-| `memory/02_DECISIONS.md` | Decisões permanentes com contexto |
-| `memory/03_LESSONS.md` | Lições aprendidas (🔒 estratégicas + ⏳ táticas) |
-| `memory/04_PEOPLE.md` | Equipe, parceiros, contatos |
-| `memory/05_PENDING.md` | Aguardando input ou ação |
+| `memory/projects.md` | Projetos ativos, concluídos e backlog |
+| `memory/decisions.md` | Decisões permanentes com contexto |
+| `memory/lessons.md` | Lições aprendidas (🔒 estratégicas + ⏳ táticas) |
+| `memory/people.md` | Equipe, parceiros, contatos |
+| `memory/pending.md` | Aguardando input ou ação |
 | `memory/daily/YYYY-MM-DD.md` | Notas diárias (raw capture) |
 
 ## 🔄 Ciclo de Memória

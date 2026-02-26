@@ -1,4 +1,4 @@
-# 03_LESSONS.md — Lições Aprendidas
+# lessons.md — Lições Aprendidas
 
 > Erros, padrões e aprendizados do dia a dia com o Morfeu.
 > 🔒 Estratégicas = permanentes | ⏳ Táticas = expiram em 30 dias

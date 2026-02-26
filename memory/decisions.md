@@ -1,4 +1,4 @@
-# 02_DECISIONS.md — Decisões Permanentes
+# decisions.md — Decisões Permanentes
 
 > Decisões que o Morfeu deve respeitar SEMPRE.
 > Formato: O que decidiu + Por que + Data
