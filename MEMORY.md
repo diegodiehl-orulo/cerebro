@@ -4,6 +4,29 @@
 
 ---
 
+## 📂 Topic Files
+
+| Arquivo | O que contém |
+|---------|-------------|
+| `memory/01_PROJECTS.md` | Projetos ativos, concluídos e backlog |
+| `memory/02_DECISIONS.md` | Decisões permanentes com contexto |
+| `memory/03_LESSONS.md` | Lições aprendidas (🔒 estratégicas + ⏳ táticas) |
+| `memory/04_PEOPLE.md` | Equipe, parceiros, contatos |
+| `memory/05_PENDING.md` | Aguardando input ou ação |
+| `memory/daily/YYYY-MM-DD.md` | Notas diárias (raw capture) |
+
+## 🔄 Ciclo de Memória
+
+```
+Sessão (conversa) → memory/daily/YYYY-MM-DD.md (raw)
+                          ↓ consolidação periódica
+                     Topic files (curado)
+                          ↓ índice atualizado
+                     MEMORY.md (sumário)
+```
+
+---
+
 ## Quem sou
 Morfeu 🔵 — Estrategista-Chefe e Mentor de Alta Performance do DD.
 Arquétipo: Arquiteto da Clareza. Tom: direto, provocador, sem conforto vazio.
@@ -18,52 +41,32 @@ Ver `USER.md` para contexto completo (431 linhas).
 
 ---
 
-## Projetos Ativos
-- **Órulo:** B2B imobiliário. SaaS. MRR ~R$10M/ano. Time de ~10 pessoas.
-- **Marca DD:** Autoridade digital. Q1=fundação, Q2=consistência.
-Ver `memory/01_PROJECTS.md`
+## 📸 Estado Atual
 
-## OKRs Q1 2026
-1. Saúde e Energia (S.A.V.E.R.S., treino 5x, sono 7.5h)
-2. Relacionamentos (Luísa, família, círculo social)
-3. Órulo (MRR, praças, rituais, playbooks)
-4. Autoridade Digital (contratar social media, primeiros posts)
+### Projetos Ativos
+- **Módulo 4 (Memória)** — ~80% concluído. Bloqueio: embedding provider para busca semântica
+- **Órulo** — operação contínua. Próxima viagem: Vitória (ES) em 04/03
+- **Marca DD** — planejamento Q1, execução Q2
 
-## Pessoas Relevantes
-- **Luísa** — parceira. Noites e fins de semana protegidos.
-- **Camila** — irmã.
-- **Mãe** — ligação semanal como meta.
-Ver `memory/04_PEOPLE.md`
-
-## Viagens 2026
-Ciclos: março–julho e agosto–novembro. ~1 semana/mês fora.
-Próxima: Vitória (ES) em 04/03.
-Nos dias de viagem: agenda 100% presencial, sem tarefas remotas.
-
----
-
-## Vocabulário Essencial (usar naturalmente)
-MRR, CAC, Churn, Pipeline, Forecast, SDR, Closer, PRM, Z2A/Zé,
-DA (Distribuição Avançada), GDD, Score de Praça, VGV, VSO,
-Sócio-Local, Embaixador, Praça, Stack de Ativação.
+### Pendências
+- Escolher embedding provider (Voyage AI ou Gemini) para ativar memory_search()
+- Enviar Biblioteca Estratégica (12+ docs) para importação
+- Responder pergunta 14 (como receber crítica do Morfeu)
 
 ---
 
 ## Configuração Técnica do Servidor
 *Setup: 2026-02-26*
 - OpenClaw: systemd ativo | Dashboard: https://openclaw.diegodiehl.com
-- Telegram: `@Base_DD_bot` + `@larissa_personal_assistant_bot` | dmPolicy: allowlist | só ID `8671853499`
-- Segurança: UFW ativo, Fail2ban ativo (13+ IPs banidos), SSH key-only
+- Telegram: `@Base_DD_bot` + `@larissa_personal_assistant_bot` | só ID `8671853499`
+- Segurança: UFW ativo, Fail2ban ativo, SSH key-only
 - Cloudflare Tunnel: ativo (gru18, SP)
 - Vaultwarden: https://cofre.diegodiehl.com | conta: agente.morfeu.dd@gmail.com
-- Credenciais: salvas no cofre (Anthropic, Telegram x2, OpenClaw token)
-
----
+- Tokens: contextTokens=160k | reserveTokensFloor=30k | memoryFlush=ativo
 
 ## Lembretes Agendados
-- **02/03 às 12h** — Refinamento de tom de voz do Morfeu (analisar vídeo/palestra de Diego)
+- **02/03 às 12h** — Refinamento de tom de voz (analisar vídeo/palestra de Diego)
 
 ---
 
-## Memória Detalhada
-Ver `memory/` para projetos, decisões, lições, pessoas e pendências.
+*Última atualização: 2026-02-26*

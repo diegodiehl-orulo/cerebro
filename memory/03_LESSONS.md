@@ -1,39 +1,37 @@
 # 03_LESSONS.md — Lições Aprendidas
 
-> Formato: [DATA] | Lição | Contexto | Aplicar quando
-
-## Como registrar uma lição
-Quando algo dá errado ou um padrão emerge, o Morfeu registra:
-```
-[YYYY-MM-DD] | LIÇÃO: [o que aprendi]
-CONTEXTO: [o que aconteceu]
-APLICAR QUANDO: [situação em que isso é relevante]
-```
+> Erros, padrões e aprendizados do dia a dia com o Morfeu.
+> 🔒 Estratégicas = permanentes | ⏳ Táticas = expiram em 30 dias
 
 ---
 
-## Lições Registradas
+## 🔒 Estratégicas
 
-[2026-02-26] | LIÇÃO: O campo dmAllowlist não existe no OpenClaw — o correto é allowFrom
-CONTEXTO: Tentei configurar allowlist do Telegram com campo errado, gateway rejeitou
-APLICAR QUANDO: Qualquer configuração de acesso no Telegram
+### Docker bypassa UFW — sempre bindar em 127.0.0.1 (2026-02-26)
+**Contexto:** Painel web estava exposto na internet mesmo com UFW ativo
+**Regra:** Qualquer container Docker com porta exposta → `127.0.0.1:PORTA` no compose, nunca `0.0.0.0`
 
-[2026-02-26] | LIÇÃO: Docker bypassa UFW por padrão — bindar em 127.0.0.1 no compose
-CONTEXTO: Painel web estava exposto na internet mesmo com UFW ativo
-APLICAR QUANDO: Sempre que criar container Docker com porta exposta
+### allowFrom, não dmAllowlist (2026-02-26)
+**Contexto:** Campo errado na config do Telegram — gateway rejeitou silenciosamente
+**Regra:** O campo correto para allowlist do Telegram no OpenClaw é `allowFrom`
 
-[2026-02-26] | LIÇÃO: openclaw gateway restart dentro da sessão derruba a própria sessão
-CONTEXTO: Várias tentativas de restart causaram erros na sessão
-APLICAR QUANDO: Usar systemctl --user restart openclaw-gateway.service no lugar
+### Reiniciar gateway via systemctl, não openclaw CLI (2026-02-26)
+**Contexto:** `openclaw gateway restart` dentro de sessão ativa derruba a própria sessão
+**Regra:** Usar sempre `systemctl --user restart openclaw-gateway.service`
 
-[2026-02-26] | LIÇÃO: openclaw memory index --all não existe — usar --force
-CONTEXTO: Tentei rodar conforme PRD do curso; flag errada
-APLICAR QUANDO: Sempre que indexar memória
+---
 
-[2026-02-26] | LIÇÃO: agents.defaults.compaction.memoryFlush é objeto, não boolean
-CONTEXTO: Tentei setar como true, gateway rejeitou com erro de validação
-APLICAR QUANDO: Qualquer config de compactação
+## ⏳ Táticas
 
-[2026-02-26] | LIÇÃO: FTS-only mode não indexa arquivos sem embedding provider
-CONTEXTO: openclaw memory index --verbose revelou: "Skipping memory file sync in FTS-only mode"
-APLICAR QUANDO: Para ativar busca semântica real, precisamos de Voyage AI ou Gemini (free tier)
+### `openclaw memory index --all` não existe (2026-02-26) [expira: 2026-03-26]
+Usar `--force` no lugar: `openclaw memory index --force`
+
+### `agents.defaults.compaction.memoryFlush` é objeto, não boolean (2026-02-26) [expira: 2026-03-26]
+Deve ser passado como JSON com `enabled`, `softThresholdTokens`, `systemPrompt`, `prompt`
+
+### Busca semântica requer embedding provider (2026-02-26) [expira: 2026-03-26]
+FTS-only mode não indexa arquivos. Precisa de Voyage AI ou Gemini para ativar `memory_search()` completo
+
+---
+
+*Revisão mensal: deletar táticas vencidas.*
