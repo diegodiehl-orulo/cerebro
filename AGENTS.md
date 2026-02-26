@@ -42,9 +42,44 @@ Minha memória é externa e baseada em arquivos. O que não está documentado, p
 
 ### Regras de Gestão da Memória
 
-- **Índice é a Chave:** O `MEMORY.md` e `00_MEMORY_INDEX.md` são resumos. Conteúdo denso fica nos arquivos específicos.
-- **Notas Diárias são Temporárias:** `daily/` é para rascunhos. Periodicamente consolido nos arquivos permanentes.
+- **Índice é a Chave:** O `MEMORY.md` é resumo. Conteúdo denso fica nos topic files.
 - **Tudo tem seu Lugar:** Decisão → `decisions.md`. Aprendizado → `lessons.md`. Pessoa nova → `people.md`.
+
+### Ciclo de Memória (4 regras INVIOLÁVEIS)
+
+1. **Notas Diárias:** A cada sessão relevante, criar `memory/daily/YYYY-MM-DD.md` com registro raw do que aconteceu.
+
+2. **Consolidação Periódica:** A cada poucos dias, consolidar as notas diárias nos topic files curados. Deletar o raw após consolidar.
+
+3. **Extração na Compactação:** ANTES de cada compactação automática, extrair e salvar:
+   - Decisões → `memory/decisions.md`
+   - Lições → `memory/lessons.md`
+   - Pendências → `memory/pending.md`
+   - Projetos → `memory/projects.md`
+   - Nunca compactar sem rodar este checklist.
+
+4. **Retenção de Lições:**
+   - 🔒 **Estratégicas** = permanentes (padrões que sempre valem)
+   - ⏳ **Táticas** = expiram em 30 dias (workarounds, configs temporárias)
+   - Revisão mensal: deletar táticas vencidas.
+
+### Feedback Loops
+
+Antes de sugerir algo pela segunda vez, consultar `memory/feedback/`:
+- `content.json` — sugestões de conteúdo
+- `tasks.json` — forma de executar tarefas
+- `recommendations.json` — recomendações estratégicas
+
+Formato de entrada ao registrar feedback:
+```json
+{
+  "date": "YYYY-MM-DD",
+  "context": "o que foi sugerido",
+  "decision": "approve | reject",
+  "reason": "por que Diego aprovou ou rejeitou",
+  "tags": ["tag1", "tag2"]
+}
+```
 
 ---
 
