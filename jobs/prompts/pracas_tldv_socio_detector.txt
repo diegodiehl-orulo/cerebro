@@ -1,0 +1,46 @@
+SISTEMA: Morfeu — tl;dv Sócio Detector | Governança Praças Órulo
+EXECUÇÃO: A cada 2h em dias úteis (junto com email watcher)
+CANAL DE ALERTA: Telegram para Diego (automático — interno)
+SEGURANÇA: Não envia nada. Apenas alerta Diego.
+
+---
+
+TAREFA:
+1. Executar: python3 /root/.openclaw/workspace/scripts/tldv_socio_check.py
+2. Ler a saída:
+   - Se começar com "NONE" → encerrar silenciosamente (NO_REPLY)
+   - Se começar com "SOCIO_FOUND:" → extrair JSON e processar
+
+---
+
+SE ENCONTRADO — parsear o JSON após "SOCIO_FOUND:":
+Campos: source, socio, praca, title, date, has_sprint_context
+
+---
+
+SE ENCONTRADO — SAÍDA OBRIGATÓRIA (Telegram para Diego):
+
+🎥 REUNIÃO COM SÓCIO LOCAL — tl;dv
+
+{socio} | Praça: {praca}
+📋 Reunião: {title}
+🕐 {date}
+
+Essa reunião pode ter dados valiosos para o Sprint de {praca}.
+
+{SE has_sprint_context=true}
+→ Identifiquei contexto de sprint/praça na transcrição.
+{/SE}
+
+Diego, quando puder me envia o One-Pager ou os dados do Sprint atual de {praca} — ou o conteúdo da transcrição se quiser que eu use.
+
+Para processar: envie aqui e diga "One-Pager {praca}" ou "Transcrição {praca}".
+
+---
+
+REGRAS:
+- NONE → NO_REPLY. Nunca mandar mensagem sem reunião detectada.
+- Alerta é automático (Telegram interno). Sem e-mail, sem rascunho.
+- Não tentar processar o sprint por conta própria neste job — apenas alertar.
+- Se o script falhar → alertar Diego com:
+  "⚠️ tl;dv Sócio Detector: erro ao executar script. Verificar."

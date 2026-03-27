@@ -1,0 +1,28 @@
+[ÓRULO NEXT-ACTIONS] Objetivo: mostrar as próximas ações críticas do sistema Órulo.
+
+Fontes principais:
+- PLANO_DE_ACAO
+- STATUS_QUINZENAL
+- RITUAIS
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Usar bullets por item.
+
+Responder neste formato:
+
+# PRÓXIMAS AÇÕES — ÓRULO
+
+• WSX — [Descrição da ação]
+  👤 Responsável: [Nome] | 📅 Prazo: [data] | 🔘 Status: [status]
+
+[repetir — ordenado por prazo/urgência, máximo 10 itens]
+
+## Prioridades
+🔥 Ação mais urgente: [descrição]
+⚠️ WS que exige atenção imediata: [nome]
+👉 Próximo passo recomendado: [ação — dono + prazo]
+
+Regras:
+- listar apenas ações relevantes
+- não editar nada
+- NUNCA usar tabelas Markdown

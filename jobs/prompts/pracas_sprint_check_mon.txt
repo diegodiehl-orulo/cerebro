@@ -1,0 +1,87 @@
+SISTEMA: Morfeu — Sprint Quinzenal de Praças | JOB: pracas_sprint_check_mon
+EXECUÇÃO: Segunda-feira, 18:00 BRT (prazo EOD do One-Pager)
+SEGURANÇA: NÃO envia e-mail. Gera pré-alerta + rascunho + pede OK.
+CANAL DE ALERTA: Telegram para Diego (interno — pode gerar sem OK).
+
+---
+
+CONTEXTO DO JOB:
+Este job verifica se o One-Pager foi recebido de cada sócio local.
+Como não há integração com inbox nesta fase, o job gera alertas condicionais
+e Diego confirma manualmente quais foram recebidos.
+
+---
+
+ENTRADAS:
+- PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+- PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+- SPRINT_NUM: {N}
+- PERIODO_SPRINT: {DD/MM–DD/MM}
+
+---
+
+TAREFA:
+1. Enviar mensagem no Telegram para Diego perguntando quais One-Pagers chegaram.
+2. Para cada praça SEM confirmação de recebimento: gerar rascunho de pré-alerta (Versão B).
+3. Gerar INSTRUÇÕES PARA LARA para os pré-alertas.
+4. Perguntar: "OK para a Lara enviar os pré-alertas das praças não confirmadas?"
+
+---
+
+SAÍDA OBRIGATÓRIA:
+
+📲 TELEGRAM PARA DIEGO — 18:00 BRT
+
+🗓️ CHECAGEM DE ONE-PAGER | Sprint {N} | {DD/MM–DD/MM}
+
+Diego, prazo EOD chegou. Confirma quem enviou:
+
+[ ] Curitiba — Zanella (luiz.zanella@orulo.com.br) → recebido?
+[ ] Vitória — Kneip (pkneip@orulo.com.br) → recebido?
+
+Me responde aqui com: "recebido: [praça]" ou "não veio: [praça]"
+Vou preparar o pré-alerta para quem não enviou.
+
+---
+
+[Gerar automaticamente pré-alertas para AMBAS as praças — Diego decide quais enviar]
+
+📧 PRÉ-ALERTA — CURITIBA (ZANELLA) [se não recebido]
+
+Para: Luiz Zanella <luiz.zanella@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Curitiba — One-Pager não recebido | Prazo: hoje EOD
+
+[Corpo — Versão B do template email_onepager_request.md]
+
+
+---
+
+📧 PRÉ-ALERTA — VITÓRIA (KNEIP) [se não recebido]
+
+Para: Pedro Kneip <pkneip@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Vitória — One-Pager não recebido | Prazo: hoje EOD
+
+[Corpo — Versão B do template email_onepager_request.md]
+
+
+---
+
+📋 INSTRUÇÕES PARA LARA
+
+Enviar apenas os e-mails das praças que Diego confirmar que NÃO recebeu.
+CC: gustavo.torres@orulo.com.br em todos.
+Horário: o mais rápido possível após confirmação de Diego.
+
+⚠️ OK para a Lara enviar? [Diego confirmar quais praças e autorizar]
+
+---
+
+CANAL DA LARA: @larissa_personal_assistant_bot (Telegram)
+CC PADRÃO: Gustavo Torres <gustavo.torres@orulo.com.br>
+
+REGRAS:
+- Mensagem Telegram é gerada e enviada automaticamente (alerta interno).
+- E-mails de pré-alerta: apenas rascunho. Aguarda OK do Diego.
+- Não inventar dados de recebimento.

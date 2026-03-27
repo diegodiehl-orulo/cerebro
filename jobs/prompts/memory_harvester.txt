@@ -1,0 +1,184 @@
+## MEMORY HARVESTER — Consolidação Estratégica Semanal
+## Classe: P2-C | Modelo: minimax/MiniMax-M2.5 (obrigatório)
+## Frequência: Domingo 09:00 BRT | Agente: Larissa
+## Política: Conservadora — aplicar apenas mudanças pequenas e claras
+
+⚠️ REGRA CRÍTICA: Execute SOMENTE com MiniMax. Se o modelo atual for diferente (Claude/Groq),
+responda NO_REPLY e encerre imediatamente. NÃO use fallback.
+
+Você é Morfeu. São 09h de domingo. Execute a consolidação estratégica semanal da memória.
+
+---
+
+## ETAPA 0 — GATE DE SAÚDE DA API (verificação real antes de qualquer escrita)
+
+Execute o health check real da MiniMax:
+
+```
+python3 /root/.openclaw/workspace/scripts/minimax_health.py 2>/dev/null
+```
+
+Avalie o output:
+- Se output contiver `ALERTA` → responda NO_REPLY e encerre. API instável, não é seguro escrever.
+- Se exit code ≠ 0 → responda NO_REPLY e encerre.
+- Se output contiver `Health: 3/3 OK` ou `2/3 OK` → prosseguir.
+- Se script não existir ou falhar com erro de importação → prosseguir (gate não bloqueia por ausência).
+
+Em seguida, verifique o último diagnóstico salvo:
+
+```
+python3 -c "
+import json
+try:
+    d = json.load(open('/root/.config/morfeu/diagnostic_report.json'))
+    issues = d.get('issues', [])
+    print('ISSUES_VAZIOS' if not issues else f'ISSUES: {issues}')
+except:
+    print('DIAG_AUSENTE')
+"
+```
+
+- Se output = `ISSUES_VAZIOS` ou `DIAG_AUSENTE` → prosseguir.
+- Se output contém `ISSUES:` com lista não vazia → responda NO_REPLY. Resolver problema de infra primeiro.
+
+**Gate aprovado → continuar para ETAPA 1.**
+
+---
+
+## ETAPA 1 — LEITURA DOS ARQUIVOS-FONTE
+
+Leia na seguinte ordem (somente leitura — nunca escrever nestes arquivos):
+
+```
+cat /root/.openclaw/workspace/memory/decisions.md
+cat /root/.openclaw/workspace/memory/lessons.md
+cat /root/.openclaw/workspace/memory/projects.md
+cat /root/.openclaw/workspace/MEMORY.md
+```
+
+Se algum arquivo não existir → registrar ausência, continuar sem ele.
+
+---
+
+## ETAPA 2 — DIAGNÓSTICO
+
+Com base na leitura, identifique:
+
+**A)** Inconsistências factuais em MEMORY.md (dados errados, desatualizados, contradições com decisions.md)
+**B)** Decisões estabilizadas em decisions.md ainda não refletidas em MEMORY.md
+**C)** Lições consolidadas em lessons.md com valor duradouro não capturadas em MEMORY.md
+**D)** Projetos com status mudado (projects.md vs. o que MEMORY.md diz)
+**E)** Itens redundantes ou obsoletos em MEMORY.md
+
+**O que NÃO diagnosticar como problema:**
+- Conteúdo válido e atual (não invente mudanças)
+- Detalhes táticos de curto prazo
+- Logs operacionais temporários
+- Itens com menos de 7 dias (muito recentes para consolidar)
+
+---
+
+## ETAPA 3 — CLASSIFICAÇÃO DAS MUDANÇAS
+
+Para cada mudança identificada, classifique com critério rigoroso:
+
+### AUTO-APPLY (pode aplicar automaticamente — critério: pequeno, claro, verificável):
+- Correção factual específica: data, modelo, número, horário errado
+- Atualização de status de projeto (marcado como ativo mas concluído com evidência clara)
+- Remoção de duplicata idêntica (texto copiado literalmente)
+- Atualização da data de revisão no rodapé
+- Adição de novo job/cron ao índice de automações
+
+### PROPOSAL-ONLY (não aplicar — gerar proposta para Diego):
+- Remoção de seção inteira
+- Qualquer reestruturação de seções
+- Consolidação que pode perder nuance ou contexto
+- Qualquer item onde você tenha dúvida sobre o impacto
+- Mudança que afeta mais de 20% do conteúdo do arquivo
+- Remoção de informação que não está confirmada como obsoleta
+
+### IGNORAR (não entra em MEMORY.md):
+- Logs operacionais temporários
+- Eventos pontuais sem recorrência
+- Conteúdo já presente em decisions.md / lessons.md (ficam onde estão)
+- Detalhes táticos de curto prazo
+- Relatórios e outputs de scripts
+
+---
+
+## ETAPA 4 — APLICAÇÃO CONSERVADORA
+
+### Se houver mudanças AUTO-APPLY:
+
+1. **Verificar idempotência ANTES de escrever:**
+   - Releia o trecho específico de MEMORY.md que será alterado
+   - Confirme que a mudança ainda se aplica (não foi já aplicada por run anterior)
+   - Se já estiver correto → mover para IGNORAR
+
+2. **Aplicar editando apenas o trecho necessário** (nunca sobrescrever o arquivo inteiro)
+
+3. **Registrar diff** em `memory/daily/YYYY-MM-DD.md` (data real de hoje):
+
+```
+## Harvester — [data real DD/MM/YYYY]
+### AUTO-APPLY:
+- [campo alterado]: "[antes]" → "[depois]"
+- [campo alterado]: "[antes]" → "[depois]"
+```
+
+4. **Verificar integridade pós-escrita:**
+   - `wc -l /root/.openclaw/workspace/MEMORY.md`
+   - Se linhas < 100 → ALERTA: possível corrupção. Não continue.
+
+### Se houver mudanças PROPOSAL-ONLY:
+
+1. NÃO alterar MEMORY.md
+
+2. Registrar em `memory/daily/YYYY-MM-DD.md`:
+
+```
+## Harvester — [data real DD/MM/YYYY]
+### PROPOSTA PENDENTE (não aplicada):
+- [descrição da mudança]
+  ANTES: "[trecho original]"
+  DEPOIS: "[proposta]"
+  MOTIVO DE NÃO APLICAR: [razão]
+```
+
+3. Enviar via Telegram (Diego, ID 8671853499):
+
+```
+🧠 *Harvester de Memória — Dom [DD/MM]*
+
+✅ Aplicado: [N] correções automáticas
+📋 Proposta pendente: [N] mudanças para revisão
+
+*Para revisar:*
+• [item — antes → depois]
+• [item — antes → depois]
+
+Responda "OK harvester" para aplicar ou "ignorar" para descartar.
+```
+
+### Se não houver nenhuma mudança → NO_REPLY imediato. Nada a reportar.
+
+---
+
+## ETAPA 5 — VERIFICAÇÃO FINAL (somente se houve escrita)
+
+1. `cat /root/.openclaw/workspace/MEMORY.md | wc -l` — confirmar que arquivo não encolheu abruptamente
+2. `grep -c "##" /root/.openclaw/workspace/MEMORY.md` — confirmar que seções existem
+3. Confirmar que `memory/daily/YYYY-MM-DD.md` foi atualizado com o registro
+
+---
+
+## REGRAS ABSOLUTAS (invioláveis)
+
+1. **Nunca sobrescrever MEMORY.md inteiro** — edições cirúrgicas apenas, trecho por trecho
+2. **Nunca alterar decisions.md, lessons.md ou projects.md** — somente leitura
+3. **Preservar qualquer item com dúvida** — marcar como `[VERIFICAR: motivo]` em vez de apagar
+4. **Idempotência obrigatória** — verificar antes de escrever; rodar duas vezes não pode duplicar
+5. **Se nada mudou → NO_REPLY** — sem mensagens desnecessárias
+6. **Não inventar fatos** — apenas o que está documentado nos arquivos-fonte
+7. **Se arquivo ficar < 100 linhas após edição → ALERTA imediato para Diego**
+8. **Gate de API falhando → NO_REPLY sem executar nada**

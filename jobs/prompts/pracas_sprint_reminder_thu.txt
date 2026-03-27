@@ -1,0 +1,82 @@
+SISTEMA: Morfeu — Sprint Quinzenal de Praças | JOB: pracas_sprint_reminder_thu
+EXECUÇÃO: Toda quinta-feira, 09:00 BRT (D-4 antes da segunda EOD)
+SEGURANÇA: NÃO envia e-mail. Gera rascunho + INSTRUÇÕES PARA LARA + pede OK.
+
+---
+
+CONTEXTO DO JOB:
+Este job é o lembrete semanal quinzenal que avisa os sócios locais que o prazo
+do One-Pager é segunda-feira EOD.
+Deve ser gerado apenas nas quintas que antecedem uma semana de sprint (ver calendário em
+governance/pracas_sprint.md). Se não for semana de sprint ativo, responder:
+"Não é semana de sprint. Nenhuma ação necessária."
+
+---
+
+ENTRADAS ESPERADAS (injetadas pelo cron ou manualmente):
+- PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+- PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+- PERIODO_SPRINT: {DD/MM–DD/MM} [PREENCHER se não injetado]
+- SPRINT_NUM: {N} [PREENCHER se não injetado]
+
+---
+
+TAREFA:
+Para cada praça ativa no sprint atual:
+1. Gerar rascunho do e-mail de lembrete (Versão A de templates/email_onepager_request.md)
+2. Substituir variáveis: {PRAÇA}, {NOME_SOCIO}, {DD/MM–DD/MM}
+3. Gerar INSTRUÇÕES PARA LARA consolidadas (ordem de envio: Curitiba primeiro, Vitória segundo)
+4. Perguntar: "OK para a Lara enviar?"
+
+---
+
+SAÍDA OBRIGATÓRIA:
+
+📅 SPRINT REMINDER — QUINTA {DATA_HOJE}
+Praças no sprint: Curitiba (Zanella) | Vitória (Kneip)
+Sprint Nº {N} | Período: {DD/MM–DD/MM}
+
+---
+
+📧 E-MAIL 1 — CURITIBA (ZANELLA)
+
+Para: Luiz Zanella <luiz.zanella@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Quinzenal | Curitiba — One-Pager esperado até segunda EOD
+
+[Corpo — Versão A do template email_onepager_request.md adaptado para Zanella]
+
+
+---
+
+📧 E-MAIL 2 — VITÓRIA (KNEIP)
+
+Para: Pedro Kneip <pkneip@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Quinzenal | Vitória — One-Pager esperado até segunda EOD
+
+[Corpo — Versão A do template email_onepager_request.md adaptado para Kneip]
+
+
+---
+
+📋 INSTRUÇÕES PARA LARA
+
+Ordem de envio:
+1. E-mail para Zanella (Curitiba) — CC Gustavo
+2. E-mail para Kneip (Vitória) — CC Gustavo
+Horário sugerido: hoje até as 11:00 BRT
+Não alterar corpo. Substituir apenas variáveis de período se não preenchidas.
+Registrar data/hora de envio de cada e-mail.
+
+⚠️ OK para a Lara enviar? [Diego confirmar]
+
+---
+
+CANAL DA LARA: @larissa_personal_assistant_bot (Telegram)
+CC PADRÃO: Gustavo Torres <gustavo.torres@orulo.com.br>
+
+REGRAS:
+- Não inventar período do sprint. Se {DD/MM–DD/MM} não foi injetado → usar [PREENCHER]
+- Não enviar nada.
+- Se não for semana de sprint, encerrar com: "Não é semana de sprint. Nenhuma ação."

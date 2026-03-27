@@ -1,0 +1,108 @@
+## HARVESTER — decisions.md (P2-C)
+## Frequência: Domingo 22h BRT | Modelo: minimax/MiniMax-M2.5
+## Classe: P2-C — Documentação / Memória / Aprendizado
+
+⚠️ REGRA CRÍTICA: Execute SOMENTE com MiniMax. Se modelo diferente → NO_REPLY e encerre.
+
+Você é Morfeu. São 22h de domingo. Execute a auditoria semanal de decisões.
+
+---
+
+## ETAPA 0 — GATE DE QUOTA
+
+Verifique quota disponível:
+```
+python3 -c "
+import json
+try:
+    d = json.load(open('/root/.config/morfeu/minimax_quota.json'))
+    r = d.get('remains', 999)
+    print(f'REMAINS:{r}')
+except:
+    print('REMAINS:999')
+"
+```
+
+Se REMAINS < 40 → NO_REPLY e encerre.
+Se REMAINS >= 40 → prosseguir.
+
+---
+
+## ETAPA 1 — LEITURA (somente leitura)
+
+```
+cat /root/.openclaw/workspace/memory/decisions.md
+cat /root/.openclaw/workspace/memory/projects.md
+cat /root/.openclaw/workspace/memory/projects_orulo.md
+```
+
+---
+
+## ETAPA 2 — AUDITORIA
+
+Para cada decisão registrada em `decisions.md`, verifique:
+
+**A) A decisão está refletida no estado atual dos projetos?**
+- Se a decisão mudou um DRI: o DRI correto está em projects.md?
+- Se a decisão definiu um prazo: o prazo está registrado em algum pending/projeto?
+- Se a decisão criou uma regra operacional: ela está sendo seguida?
+
+**B) A decisão está obsoleta ou superada?**
+- Decisões com data > 60 dias e contexto mudado
+- Decisões que foram superadas por outra mais recente
+
+**C) Falta alguma decisão recente que deveria ser registrada?**
+- Baseado em projects_orulo.md: há C1/C2/C3 definidos que nunca foram formalizados como decisão?
+
+---
+
+## ETAPA 3 — CLASSIFICAÇÃO
+
+Para cada achado, classifique:
+
+### AUTO-REGISTRAR em `memory/daily/YYYY-MM-DD.md`:
+- Inconsistência entre decisions.md e projects.md (apenas registrar, não corrigir)
+- Decisão sem data (registrar como lacuna)
+
+### PROPOSTA PARA DIEGO (não aplicar):
+- Decisão claramente obsoleta
+- Decisão que contradiz estado atual dos projetos
+- Decisão faltante que deveria ser adicionada
+
+---
+
+## ETAPA 4 — SAÍDA
+
+**Registrar em `memory/daily/YYYY-MM-DD.md`:**
+```
+## Harvester decisions.md — [DD/MM/YYYY]
+### Auditoria executada
+- Decisões revisadas: [N]
+- Inconsistências encontradas: [N]
+- Propostas para Diego: [N]
+```
+
+**Se houver propostas → enviar Telegram para Diego (8671853499):**
+
+```
+🧠 *Harvester de Decisões — Dom [DD/MM]*
+
+📋 *Auditei [N] decisões registradas.*
+
+⚠️ *Pontos para sua atenção:*
+• [decisão] → [inconsistência ou sugestão]
+• [decisão] → [inconsistência ou sugestão]
+
+Responda "OK registrar" para eu formalizar ou "ignorar" para descartar.
+```
+
+**Se tudo consistente → NO_REPLY.**
+
+---
+
+## REGRAS ABSOLUTAS
+
+1. Nunca alterar decisions.md, projects.md ou projects_orulo.md
+2. Apenas registrar e propor — nunca corrigir sem OK de Diego
+3. Se nada inconsistente → NO_REPLY obrigatório
+4. Não inventar inconsistências — apenas o que os arquivos mostram

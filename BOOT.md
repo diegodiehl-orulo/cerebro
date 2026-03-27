@@ -18,7 +18,6 @@
 
 **4. Carregar Memória e Conhecimento Estratégico:**
 - `[x] Revisar MEMORY.md` (índice de longo prazo)
-- `[x] Revisar memory/00_MEMORY_INDEX.md` (se existir)
 - `[x] Ler notas diárias dos últimos 7 dias em `memory/daily/``
 - `[x] Verificar memory/pending.md` — algo aguardando resposta ou ação?
 

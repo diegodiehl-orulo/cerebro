@@ -1,0 +1,48 @@
+# JOB SIMPLIFICADO — pracas_sprint_checkin | Qua 09h / Sex 11h
+
+ENTRADAS FIXAS:
+- Curitiba: Zanella | luiz.zanella@orulo.com.br
+- Vitória: Kneip | pkneip@orulo.com.br
+- SPRINT_NUM / PERIODO: [ler projects_orulo.md]
+- C1/C2/C3 de cada praça: [ler projects_orulo.md]
+
+Se sprint não ativo → responder "NO_REPLY"
+
+TAREFA:
+Gerar alerta Telegram com perguntas rápidas + rascunho.
+
+SAÍDA:
+
+📲 *CHECK-IN {DIA} | Sprint {N}*
+
+---
+
+📍 CURITIBA — Zanella
+Compromissos: C1={c1} | C2={c2} | C3={c3}
+
+❓ 4 Perguntas:
+1. {c2} — quantas ações até agora?
+2. Algo travando?
+3. Tem evidência para mandar?
+4. Pedido à Matriz — já recebeu?
+
+📨 Rascunho:
+---
+Zanella, check-in:
+1. {c2} — volume?
+2. Algo travando?
+3. Evidência?
+4. Pedido Matriz?
+
+Responde aqui.
+Diego
+---
+
+---
+
+📍 VITÓRIA — Kneip
+[mesmo formato]
+
+---
+
+⚠️ Diego envia ou OK Lara.

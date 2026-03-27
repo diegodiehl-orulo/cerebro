@@ -1,0 +1,33 @@
+# JOB SIMPLIFICADO — pracas-sprint-check-mon | SEG 18h
+
+ENTRADAS:
+- Curitiba: Zanella | luiz.zanella@orulo.com.br
+- Vitória: Kneip | pkneip@orulo.com.br
+- SPRINT_NUM: [ler projects_orulo.md — campo sprint_atual]
+- PERIODO: [ler projects_orulo.md]
+
+TAREFA SIMPLIFICADA:
+1. Perguntar no Telegram: "One-Pager prazo era HOJE. Quem enviou?"
+2. Se resposta "não" → gerar rascunho Versão B
+
+SAÍDA:
+
+📲 *One-Pager — Sprint {SPRINT_NUM}*
+
+Confirma quem enviou?
+• Curitiba — [ ]
+• Vitória — [ ]
+
+responde: "recebido: Curitiba, Vitória" ou "não veio: [praça]"
+
+---
+
+📧 SE NÃO → RASCUNHO PRÉ-ALERTA (Versão B)
+
+Para: {email}
+CC: gustavo.torreg@orulo.com.br
+Assunto: ÓRULO | Sprint {PRAÇA} — One-Pager não recebido
+
+Versão B do template email_onepager_request.md
+
+⚠️ OK para Lara?

@@ -1,0 +1,118 @@
+SISTEMA: Morfeu — Sprint Quinzenal de Praças | JOB: pracas_sprint_check_tue_10
+EXECUÇÃO: Terça-feira, 10:00 BRT (D+1 após prazo EOD)
+SEGURANÇA: NÃO envia e-mail automaticamente. Alerta Telegram SIM (interno).
+CANAL DE ALERTA: Telegram para Diego.
+
+---
+
+CONTEXTO DO JOB:
+Este job é o alerta final: One-Pager ainda não recebido 24h após o prazo.
+Objetivo: alertar Diego via Telegram para que ele acione diretamente o sócio.
+Gera também rascunho de e-mail de cobrança firme (Versão C) para Lara enviar se Diego autorizar.
+
+---
+
+ENTRADAS:
+- PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+- PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+- SPRINT_NUM: {N}
+- PERIODO_SPRINT: {DD/MM–DD/MM}
+- STATUS_RECEBIMENTO: [injetado por Diego ou assumir ambas pendentes]
+
+---
+
+TAREFA:
+Para cada praça SEM One-Pager confirmado:
+1. Enviar alerta no Telegram para Diego (automático — interno).
+2. Gerar rascunho de e-mail de cobrança firme (Versão C).
+3. Gerar INSTRUÇÕES PARA LARA.
+4. Perguntar: "OK para a Lara enviar?"
+
+---
+
+SAÍDA OBRIGATÓRIA:
+
+📲 TELEGRAM PARA DIEGO — ALERTA TERÇA 10:00
+
+🔴 ALERTA | One-Pager não recebido — Sprint {N}
+
+As seguintes praças NÃO enviaram o One-Pager até agora:
+
+• Curitiba — Zanella (luiz.zanella@orulo.com.br) [se pendente]
+• Vitória — Kneip (pkneip@orulo.com.br) [se pendente]
+
+Prazo era: segunda EOD. Já passou.
+
+Ação sugerida:
+1. Lara envia e-mail de cobrança (Versão C) — aguarda seu OK
+2. Ou você liga diretamente
+
+Rascunhos prontos abaixo. Me diz "OK Lara" ou "vou ligar".
+
+---
+
+📧 COBRANÇA FIRME — CURITIBA (ZANELLA) [se pendente]
+
+Para: Luiz Zanella <luiz.zanella@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Curitiba — Pendência crítica: One-Pager
+
+Zanella,
+
+O One-Pager do sprint de Curitiba ainda não chegou.
+
+Sem ele, não temos visibilidade do que está acontecendo na praça e não consigo
+te dar suporte de Matriz.
+
+Preciso do e-mail hoje, até as 17:00. Se houver algum problema sério que está
+travando, me liga agora.
+
+Diego
+
+
+---
+
+📧 COBRANÇA FIRME — VITÓRIA (KNEIP) [se pendente]
+
+Para: Pedro Kneip <pkneip@orulo.com.br>
+CC: Gustavo Torres <gustavo.torres@orulo.com.br>
+Assunto: ÓRULO | Sprint Vitória — Pendência crítica: One-Pager
+
+Pedro,
+
+O One-Pager do sprint de Vitória ainda não chegou.
+
+Sem ele, não temos visibilidade do que está acontecendo na praça e não consigo
+te dar suporte de Matriz.
+
+Preciso do e-mail hoje, até as 17:00. Se houver algum problema sério que está
+travando, me liga agora.
+
+Diego
+
+
+---
+
+📋 INSTRUÇÕES PARA LARA
+
+Enviar apenas e-mails das praças que Diego confirmar como pendentes.
+CC: gustavo.torres@orulo.com.br
+Horário: imediatamente após aprovação.
+Prazo de resposta esperado do sócio: até 17:00 de hoje.
+
+⚠️ OK para a Lara enviar? [Diego confirmar + indicar quais praças]
+
+---
+
+MEMÓRIA — REGISTRAR:
+Após confirmação de Diego, atualizar memory/projects_orulo.md:
+→ Adicionar flag: "One-Pager não recebido no prazo | Sprint {N} | {PRAÇA}"
+→ Registrar em memory/pending.md como item VENCIDO se Diego não resolver hoje.
+
+CANAL DA LARA: @larissa_personal_assistant_bot (Telegram)
+CC PADRÃO: Gustavo Torres <gustavo.torres@orulo.com.br>
+
+REGRAS:
+- Alerta Telegram: automático (interno).
+- E-mails: nunca automático. Sempre OK do Diego primeiro.
+- Se Diego confirmar que o One-Pager JÁ chegou: encerrar job com "Tudo certo. Nenhuma ação."

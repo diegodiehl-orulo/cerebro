@@ -1,0 +1,33 @@
+# JOB SIMPLIFICADO — pracas-sprint-check-tue-10 | TER 10h
+
+ENTRADAS:
+- Curitiba: Zanella | luiz.zanella@orulo.com.br
+- Vitória: Kneip | pkneip@orulo.com.br
+- SPRINT_NUM: [ler projects_orulo.md]
+- PERIODO: [ler projects_orulo.md]
+
+TAREFA SIMPLIFICADA:
+1. Telegram: "One-Pager D+1. Quem está pendente?"
+2. Se pendente → gerar rascunho Versão C
+
+SAÍDA:
+
+📲 *ALERTA — One-Pager | Sprint {SPRINT_NUM}*
+
+Pendentes (prazo era 2ª EOD):
+• Curitiba — Zanella
+• Vitória — Kneip
+
+Ação: "OK Lara" para cobrar ou "vou ligar".
+
+---
+
+📧 COBRANÇA (se pendente)
+
+Para: {email}
+CC: gustavo.torres@orulo.com.br
+Assunto: ÓRULO | Sprint {PRAÇA} — Pendência: One-Pager
+
+Versão C do template.
+
+⚠️ OK para Lara?

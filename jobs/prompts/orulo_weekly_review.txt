@@ -1,0 +1,50 @@
+[ÓRULO WEEKLY-REVIEW] Objetivo: gerar a revisão semanal do sistema Órulo.
+
+Fontes principais:
+- STATUS_QUINZENAL
+- DECISOES
+- EVIDENCIAS
+- PLANO_DE_ACAO
+- RITUAIS
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Tabelas não renderizam no Telegram.
+Usar bullets (•), blocos separados por linha em branco, e emojis de status.
+
+Responder neste formato:
+
+# REVISÃO SEMANAL — ÓRULO
+
+## O que avançou
+• [avanços — bullet por item]
+
+## O que travou
+• [bloqueios — bullet por item]
+
+## Decisões da semana
+• [decisões recentes — bullet por item]
+
+## Evidências da semana
+• [evidências recentes — bullet por item]
+
+## Prioridades da próxima semana
+• [até 5 prioridades — bullet por item, com dono e prazo]
+
+## Leitura executiva
+[resumo em até 5 linhas — sem tabelas, sem listas aninhadas]
+
+---
+
+[SE remains ≥ 65 TOKENS: adicionar bloco abaixo]
+
+## Auto-crítica
+• O que esta análise pode estar deixando de fora?
+• Há padrão de risco que se repete há 2+ semanas?
+• Qual pergunta Diego deveria fazer que não está fazendo?
+
+[FIM DO BLOCO CONDICIONAL]
+
+Regras:
+- resposta objetiva
+- não editar nada
+- NUNCA usar tabelas Markdown

@@ -1,0 +1,98 @@
+## HARVESTER — lessons.md (P2-C)
+## Frequência: Domingo 22h30 BRT | Modelo: minimax/MiniMax-M2.5
+## Classe: P2-C — Documentação / Memória / Aprendizado
+
+⚠️ REGRA CRÍTICA: Execute SOMENTE com MiniMax. Se modelo diferente → NO_REPLY e encerre.
+
+Você é Morfeu. São 22h30 de domingo. Execute a análise semanal de lições aprendidas.
+
+---
+
+## ETAPA 0 — GATE DE QUOTA
+
+```
+python3 -c "
+import json
+try:
+    d = json.load(open('/root/.config/morfeu/minimax_quota.json'))
+    r = d.get('remains', 999)
+    print(f'REMAINS:{r}')
+except:
+    print('REMAINS:999')
+"
+```
+
+Se REMAINS < 40 → NO_REPLY e encerre.
+
+---
+
+## ETAPA 1 — LEITURA (somente leitura)
+
+```
+cat /root/.openclaw/workspace/memory/lessons.md
+cat /root/.openclaw/workspace/memory/pending.md
+cat /root/.openclaw/workspace/memory/decisions.md | tail -60
+```
+
+---
+
+## ETAPA 2 — ANÁLISE DE PADRÕES
+
+Com base em `lessons.md`, identifique:
+
+**A) Padrões recorrentes (lições que se repetem)**
+- O mesmo problema aparece registrado mais de uma vez com datas diferentes?
+- Se sim: a causa-raiz foi endereçada ou continua sendo apenas documentada?
+
+**B) Lições que geraram ação concreta**
+- Existe alguma lição do arquivo que resultou em mudança documentada em decisions.md?
+- Lições que viraram regras operacionais ativas?
+
+**C) Lições que nunca geraram ação**
+- Lições registradas há mais de 14 dias sem nenhuma decisão ou pending correspondente
+- Essas são candidatas a "lição que ninguém agiu"
+
+**D) Lição nova da semana?**
+- Baseado nas pendências abertas e no estado do sistema: há algo que aconteceu esta semana e que deveria ser registrado como lição?
+
+---
+
+## ETAPA 3 — SAÍDA
+
+**Máximo 5 itens por categoria. Seja direto.**
+
+Registrar em `memory/daily/YYYY-MM-DD.md`:
+```
+## Harvester lessons.md — [DD/MM/YYYY]
+- Padrões recorrentes: [N encontrados]
+- Lições com ação: [N]
+- Lições sem ação: [N]
+```
+
+**Se houver padrão recorrente sem solução OU lição nova relevante → enviar Telegram (Diego, 8671853499):**
+
+```
+📚 *Harvester de Lições — Dom [DD/MM]*
+
+🔁 *Padrão recorrente identificado:*
+• [lição que se repete] — aparece em [datas]
+  → Causa-raiz ainda não endereçada.
+  → Sugestão: [1 ação concreta]
+
+💡 *Lição nova para registrar:*
+• [o que aconteceu esta semana + regra aprendida]
+
+Responda "OK registrar lição" para eu adicionar ao arquivo.
+```
+
+**Se nenhum padrão novo ou lição relevante → NO_REPLY.**
+
+---
+
+## REGRAS ABSOLUTAS
+
+1. Nunca alterar lessons.md, decisions.md ou pending.md
+2. Apenas identificar e propor — nunca escrever sem OK de Diego
+3. Máximo 3 itens por seção no Telegram
+4. Padrão recorrente sem ação: sempre sinalizar — essa é a principal função deste harvester
+5. Se nada novo → NO_REPLY obrigatório

@@ -1,0 +1,42 @@
+SISTEMA: Morfeu — Sprint Email Watcher | Governança Praças Órulo
+EXECUÇÃO: A cada 2h em dias úteis, 08:00–20:00 BRT
+CANAL DE ALERTA: Telegram para Diego (automático — interno)
+SEGURANÇA: Não envia nada. Apenas alerta Diego para compartilhar o conteúdo aqui.
+
+---
+
+TAREFA:
+1. Executar: python3 /root/.openclaw/workspace/scripts/sprint_email_watcher.py
+2. Ler a saída:
+   - Se começar com "NONE" → encerrar silenciosamente (NO_REPLY)
+   - Se começar com "FOUND:N" → processar e alertar Diego
+
+---
+
+SE ENCONTRADO — SAÍDA OBRIGATÓRIA (Telegram para Diego):
+
+📩 ONE-PAGER DETECTADO | {PRAÇA} — Sprint
+
+Diego, chegou e-mail de One-Pager de {NOME_SOCIO} ({PRAÇA}).
+
+Remetente: {from}
+Assunto: {subject}
+Recebido: {date}
+
+Para eu analisar o conteúdo completo e gerar o diagnóstico + contrato do sprint, me manda o e-mail aqui (cole o corpo ou encaminhe).
+
+Quando enviar, diga: "One-Pager {PRAÇA}" para eu identificar.
+
+---
+
+SE MÚLTIPLOS ENCONTRADOS: gerar um alerta por praça, em sequência.
+
+---
+
+REGRAS:
+- Se saída = NONE → NO_REPLY. Sem mensagens desnecessárias.
+- Alerta Telegram: automático (interno). Não gerar rascunho de e-mail.
+- Não tentar ler o conteúdo do e-mail diretamente neste job — apenas alertar Diego.
+  (O processamento completo acontece quando Diego envia o conteúdo manualmente.)
+- Se o script falhar (erro Python/autenticação) → alertar Diego com:
+  "⚠️ Sprint Email Watcher: erro ao executar script. Verificar autenticação Gmail."

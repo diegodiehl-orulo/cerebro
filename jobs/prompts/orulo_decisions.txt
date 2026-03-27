@@ -1,0 +1,26 @@
+[ÓRULO DECISIONS] Objetivo: listar decisões recentes do sistema Órulo.
+
+Fonte principal: aba DECISOES da planilha WS_OPERATING_SYSTEM_H1_2026
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Usar bullets por item.
+
+Responder neste formato:
+
+# DECISÕES RECENTES — ÓRULO
+
+• [Data] | WSX | [Descrição da decisão]
+  👤 Responsável: [Nome] | Impacto: [texto curto]
+
+[repetir até 7 decisões — linha em branco entre itens se necessário]
+
+## Leitura rápida
+📌 Principal decisão: [resumo 1 linha]
+🏆 WS com mais decisões: [nome]
+⚠️ Decisão que exige acompanhamento: [descrição]
+
+Regras:
+- listar decisões recentes
+- se não houver, informar claramente
+- não editar nada
+- NUNCA usar tabelas Markdown

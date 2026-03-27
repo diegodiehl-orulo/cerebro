@@ -1,0 +1,37 @@
+[ÓRULO WS-RISKS] Objetivo: mostrar os workstreams com maior risco operacional.
+
+Fonte principal: planilha WS_OPERATING_SYSTEM_H1_2026
+
+Critérios de risco:
+- sem atualização recente
+- sem decisão recente
+- sem evidência recente
+- sem próximo passo claro
+- sem ritual futuro definido
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Usar formato CARD por workstream.
+
+Responder neste formato:
+
+# RISCOS DOS WORKSTREAMS
+
+[emoji risco] WSX — [Nome]
+👤 DRI: [Nome ou "Não definido"]
+⚠️ Problema: [texto curto]
+👉 Ação sugerida: [texto curto]
+
+[repetir para cada WS em risco — linha em branco entre blocos]
+[incluir apenas WS com risco AMARELO ou VERMELHO]
+
+## Resumo
+🔴 WS mais crítico: [nome]
+📌 Padrão de risco: [texto curto]
+👉 Prioridade executiva: [texto curto]
+
+Legenda: 🔴 crítico | 🟡 atenção
+
+Regras:
+- resposta curta
+- não editar nada
+- NUNCA usar tabelas Markdown

@@ -1,0 +1,32 @@
+{
+  "metadata": {
+    "praca_id": "CWB",
+    "source": "export_crm_2026-04-01.csv"
+  },
+  "records": [
+    {
+      "date": "2026-03-31",
+      "mrr": 150000,
+      "corretores_ativos": 250,
+      "deals_criados": 45
+    },
+    {
+      "date": "2026-02-28",
+      "mrr": 120000,
+      "corretores_ativos": 240,
+      "deals_criados": 0
+    },
+    {
+      "date": "2026-01-31",
+      "mrr": 115000,
+      "corretores_ativos": 235,
+      "deals_criados": 50
+    },
+    {
+      "date": "2025-12-31",
+      "mrr": null,
+      "corretores_ativos": 220,
+      "deals_criados": 48
+    }
+  ]
+}

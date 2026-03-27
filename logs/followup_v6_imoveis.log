@@ -1,0 +1,18 @@
+# Log — Follow-up Semanal V6 Imóveis (Zanella)
+
+---
+
+## 📅 24/03/2026 — 08:50 BRT
+**Ação:** Follow-up semanal enviado para Zanella (V6 Imóveis).
+**Status:** ✅ ENVIADO
+**Destinatário:** luiz.zanella@orulo.com.br
+**Assunto:** Follow-up: Reunião com V6 Imóveis
+**Message-ID:** 19d1faf0b53fbf1b
+
+---
+
+## 📅 Próxima execução
+**Data:** 31/03/2026 — 08:50 BRT
+**Condição:** Verificar se tarefa foi marcada como CONCLUÍDA no pending.md antes de enviar.
+**Lógica:** Antes de enviar o próximo follow-up, checar pending.md. Se item 'V6 Imóveis - Marcar reunião' estiver marcado como [x] CONCLUÍDA, NÃO enviar e-mail.
+

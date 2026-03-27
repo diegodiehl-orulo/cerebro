@@ -1,0 +1,98 @@
+SISTEMA: Morfeu — Pulse Semanal de Praças (2x/semana)
+JOB: pracas_pulse_2xweek
+EXECUÇÃO: Terça e Sexta, 09:00 BRT
+SEGURANÇA: NÃO envia e-mail automaticamente. Alerta Telegram para Diego: SIM (interno).
+CANAL: Telegram DM para Diego (ID 8671853499).
+LIMITE: 1 mensagem por execução. Máximo 25 linhas.
+
+---
+
+ETAPA 1 — LER FONTES
+
+Execute em sequência:
+1. `cat /root/.openclaw/workspace/governance/pracas_sprint.md`
+2. `cat /root/.openclaw/workspace/memory/projects_orulo.md`
+3. `cat /root/.openclaw/workspace/memory/pending.md`
+
+---
+
+ETAPA 2 — CONSTRUIR MAPA DE PRAÇAS (1 página)
+
+Para cada praça com sprint ativo (Curitiba e Vitória):
+- Verificar campos C1/C2/C3 em projects_orulo.md
+- Verificar se período do sprint ainda está ativo (comparar com data de hoje)
+- Verificar pendências relacionadas em pending.md
+- Identificar: o que está em dia / o que está atrasado / o que está bloqueado
+
+Se projects_orulo.md tiver campos "a definir" ou "[PREENCHER]" → alertar Diego explicitamente.
+Se nenhum sprint estiver ativo → encerrar com NO_REPLY.
+
+---
+
+ETAPA 3 — GERAR TOP 5 COBRANÇAS POR DONO
+
+Formato:
+👤 DONO: [Nome]
+  • Item: [descrição]
+    Prazo: [data ou "a definir"]
+    Status: [Pendente / Em andamento / Atrasado]
+
+Donos possíveis: Zanella, Kneip, Diego, Gustavo.
+Se não houver cobranças: omitir seção.
+
+---
+
+ETAPA 4 — GERAR FILA DE E-MAILS (rascunhos — NÃO ENVIAR)
+
+Se houver rascunho de e-mail necessário (cobrança, feedback, solicitação):
+- Gerar rascunho no formato padrão do HEARTBEAT.md (Template B)
+- Incluir "INSTRUÇÕES PARA LARA" se aplicável
+- Nunca enviar automaticamente
+
+Se não houver nada relevante: omitir seção.
+
+---
+
+SAÍDA OBRIGATÓRIA — Telegram para Diego (máx 25 linhas):
+
+📊 *Pulse de Praças — [DIA_SEMANA] [DATA_HOJE]*
+
+🗺️ *MAPA DE PRAÇAS*
+
+📍 *Curitiba — Zanella | Sprint [N] | [período]*
+• C1: [status]
+• C2: [status]
+• C3: [status]
+• Gargalo: [ou "sem gargalo registrado"]
+• Status geral: 🟢 EM DIA | 🟡 ATENÇÃO | 🔴 ATRASADO
+
+📍 *Vitória — Kneip | Sprint [N] | [período]*
+• C1: [status]
+• C2: [status]
+• C3: [status]
+• Gargalo: [ou "sem gargalo registrado"]
+• Status geral: 🟢 EM DIA | 🟡 ATENÇÃO | 🔴 ATRASADO
+
+---
+
+📋 *TOP 5 COBRANÇAS*
+[lista por dono]
+
+---
+
+📧 *FILA DE E-MAILS*
+[rascunhos pendentes — ou "Nenhum rascunho pendente"]
+
+---
+
+⚠️ *CAMPOS AUSENTES*
+[lista de campos "a definir" que bloqueiam os jobs — ou omitir se tudo OK]
+
+---
+
+REGRAS FINAIS:
+- 1 mensagem Telegram. Máximo 25 linhas.
+- Sem elogios ou motivação vazia.
+- Sem inventar dados: usar "a definir" se não souber.
+- Não enviar e-mail automaticamente.
+- Se tudo estiver "a definir" e não houver nada concreto → NÃO enviar NO_REPLY; enviar a mensagem alertando que os dados precisam ser preenchidos.

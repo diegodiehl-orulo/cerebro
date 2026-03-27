@@ -1,0 +1,511 @@
+# jobs/cron_plan.yml
+# Plano de Jobs: Governança de Praças — Sprint Quinzenal
+# Sistema: Órulo | Versão: 2.0 (unificado) | Criado: 2026-03
+# Timezone: America/Sao_Paulo (BRT)
+# Governance: governance/pracas_sprint.md
+#
+# ─── REGRAS GLOBAIS DE SEGURANÇA ──────────────────────────────────────
+# - Nenhum job envia e-mail automaticamente.
+# - Alertas Telegram para Diego: automáticos (são internos).
+# - Todo e-mail: rascunho + "INSTRUÇÕES PARA LARA" + "OK para enviar?".
+# - Instruções para Lara: enviar via @larissa_personal_assistant_bot.
+# - Não inventar dados: usar [PREENCHER] quando faltar.
+# ──────────────────────────────────────────────────────────────────────
+#
+# STATUS: Todos PENDENTES de ativação.
+# Ativar com: "OK para ativar [nome]" → Morfeu cria via cron tool.
+# Registrar jobId gerado aqui após ativar.
+
+---
+
+jobs:
+
+  # ══════════════════════════════════════════════════════════════════
+  # BLOCO 1 — COLETA DO ONE-PAGER (ciclo quinzenal)
+  # ══════════════════════════════════════════════════════════════════
+
+  # ─── JOB 1: LEMBRETE DE QUINTA ────────────────────────────────────
+  # D-4 antes da segunda EOD. Roda toda quinta; o prompt decide se é
+  # semana de sprint ou não.
+  - name: pracas-sprint-reminder-thu
+    description: "Lembrete quinzenal — One-Pager esperado até segunda EOD"
+    status: ATIVO ✅
+    jobId: "39e87458-f1bc-493c-acf1-6f7503537f5e"
+
+    schedule:
+      kind: cron
+      expr: "0 9 * * THU"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_reminder_thu
+        Prompt em: jobs/prompts/pracas_sprint_reminder_thu.txt
+
+        ENTRADAS:
+        - PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+        - PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+        - PERIODO_SPRINT: [PREENCHER — ler de memory/projects_orulo.md]
+        - SPRINT_NUM: [PREENCHER — ler de memory/projects_orulo.md]
+
+        Canal Lara: @larissa_personal_assistant_bot
+        CC padrão: gustavo.torres@orulo.com.br
+        Não enviar nada. Gerar rascunho + Instruções Lara + pedir OK.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ─── JOB 2: CHECAGEM DE SEGUNDA (18:00) ───────────────────────────
+  # Pergunta a Diego quais One-Pagers chegaram. Gera pré-alertas prontos.
+  - name: pracas-sprint-check-mon
+    description: "Checagem segunda 18h — recebido? Se não → pré-alerta gerado"
+    status: ATIVO ✅
+    jobId: "1a8a8f9a-6d03-4533-9007-b15b7f5ba3f5"
+
+    schedule:
+      kind: cron
+      expr: "0 18 * * MON"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_check_mon
+        Prompt em: jobs/prompts/pracas_sprint_check_mon.txt
+
+        ENTRADAS:
+        - PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+        - PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+        - SPRINT_NUM: [PREENCHER — ler de memory/projects_orulo.md]
+        - PERIODO_SPRINT: [PREENCHER — ler de memory/projects_orulo.md]
+
+        Canal Lara: @larissa_personal_assistant_bot
+        CC padrão: gustavo.torres@orulo.com.br
+        Telegram para Diego: automático (interno).
+        E-mails de pré-alerta: apenas rascunho, aguardar OK.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ─── JOB 3: ALERTA DE TERÇA (10:00) ──────────────────────────────
+  # One-Pager ainda ausente D+1. Alerta Telegram automático + cobrança firme.
+  - name: pracas-sprint-check-tue-10
+    description: "Alerta terça 10h — ausência crítica. Telegram + cobrança firme para Lara."
+    status: ATIVO ✅
+    jobId: "3a13d632-3620-4686-b69e-6507e192a17a"
+
+    schedule:
+      kind: cron
+      expr: "0 10 * * TUE"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_check_tue_10
+        Prompt em: jobs/prompts/pracas_sprint_check_tue_10.txt
+
+        ENTRADAS:
+        - PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+        - PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+        - SPRINT_NUM: [PREENCHER — ler de memory/projects_orulo.md]
+        - PERIODO_SPRINT: [PREENCHER — ler de memory/projects_orulo.md]
+        - STATUS_RECEBIMENTO: [ler resposta do Job 2 em pending.md ou assumir ambas pendentes]
+
+        Canal Lara: @larissa_personal_assistant_bot
+        CC padrão: gustavo.torres@orulo.com.br
+        Telegram para Diego: automático (interno).
+        E-mails de cobrança: apenas rascunho, aguardar OK.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ─── JOB 4: ANÁLISE DO ONE-PAGER (ao receber) ────────────────────
+  # Manual — Diego cola o e-mail na sessão do Morfeu.
+  # Futuro: gatilho por leitura de inbox (integração a definir).
+  - name: pracas-sprint-on-receive
+    description: "Análise do One-Pager recebido — diagnóstico, contrato, retorno, memória"
+    status: MANUAL (sem cron ativo)
+    jobId: "N/A"
+
+    schedule:
+      kind: manual
+      note: "Diego cola o e-mail do sócio local na sessão. Futuro: gatilho por inbox."
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_on_receive
+        Prompt em: jobs/prompts/pracas_sprint_on_receive.txt
+
+        ENTRADA: Diego colará o e-mail do sócio local nesta sessão.
+
+        Saídas: Telegram (automático) + Diagnóstico + Rascunho de retorno (aguarda OK)
+        + Atualização de memória (memory/projects_orulo.md + memory/pending.md)
+
+        Canal Lara: @larissa_personal_assistant_bot
+        CC padrão: gustavo.torres@orulo.com.br
+      timeoutSeconds: 180
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ══════════════════════════════════════════════════════════════════
+  # BLOCO 2 — CHECK-INS DURANTE O SPRINT (2x por semana)
+  # Ativar após Diego validar o primeiro sprint.
+  # ══════════════════════════════════════════════════════════════════
+
+  # ─── JOB 5: CHECK-IN DE TERÇA (09:00) ────────────────────────────
+  - name: pracas-sprint-checkin-ter
+    description: "Check-in de terça 09h — Telegram para Diego com contexto + 4 perguntas + rascunho"
+    status: PENDENTE (ativar após 1º sprint validado)
+    jobId: "[gerado ao ativar]"
+
+    schedule:
+      kind: cron
+      expr: "0 9 * * TUE"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_checkin_2xweek
+        Prompt em: jobs/prompts/pracas_sprint_checkin_2xweek.txt
+
+        ENTRADAS:
+        - PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+        - PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+        - DIA_SEMANA: Terça
+        - Demais dados: ler de memory/projects_orulo.md
+
+        Canal Lara: @larissa_personal_assistant_bot
+        Telegram para Diego: automático. Rascunho de mensagem: nunca automático.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ─── JOB 6: CHECK-IN DE SEXTA (09:00) ────────────────────────────
+  - name: pracas-sprint-checkin-sex
+    description: "Check-in de sexta 09h — Telegram para Diego com contexto + 4 perguntas + rascunho"
+    status: PENDENTE (ativar após 1º sprint validado)
+    jobId: "[gerado ao ativar]"
+
+    schedule:
+      kind: cron
+      expr: "0 9 * * FRI"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: pracas_sprint_checkin_2xweek
+        Prompt em: jobs/prompts/pracas_sprint_checkin_2xweek.txt
+
+        ENTRADAS:
+        - PRAÇA_1: Curitiba | SOCIO_1: Zanella | EMAIL_1: luiz.zanella@orulo.com.br
+        - PRAÇA_2: Vitória | SOCIO_2: Pedro Kneip | EMAIL_2: pkneip@orulo.com.br
+        - DIA_SEMANA: Sexta
+        - Demais dados: ler de memory/projects_orulo.md
+
+        Canal Lara: @larissa_personal_assistant_bot
+        Telegram para Diego: automático. Rascunho de mensagem: nunca automático.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ══════════════════════════════════════════════════════════════════
+  # BLOCO 3 — MONITORAMENTO E RASTREABILIDADE
+  # ══════════════════════════════════════════════════════════════════
+
+  # ─── JOB 7: WEEKLY SCAN (segunda 08:30) ──────────────────────────
+  # Visão geral das praças antes da semana começar.
+  # Roda ANTES do check-mon (18h) — sem conflito.
+  - name: pracas-weekly-scan
+    description: "Escaneamento semanal de praças — alertas de sprint/checkpoint/Matriz em aberto"
+    status: ATIVO ✅
+    jobId: "2688a54a-7744-4ed7-a142-a8e5eb736dea"
+
+    schedule:
+      kind: cron
+      expr: "30 8 * * MON"
+      tz: America/Sao_Paulo
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: praças_weekly_scan
+        Prompt em: jobs/prompts/praças_weekly_scan.txt
+
+        ENTRADAS: Ler memory/projects_orulo.md + governance/pracas_sprint.md
+
+        Apenas alertas internos (Telegram para Diego). Sem rascunhos de e-mail.
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+  # ─── JOB 8: FOLLOW-UP TRACKER (D+3 após sprint) ──────────────────
+  # Verificar se follow-ups da ata foram executados.
+  # Configurar manualmente como job "at" após cada sprint fechado.
+  - name: pracas-sprint-followup-tracker
+    description: "D+3 após sprint — rastrear follow-ups abertos e alertar Diego"
+    status: PENDENTE (configurar como 'at' após cada sprint)
+    jobId: "[gerado ao ativar]"
+
+    schedule:
+      kind: at
+      at: "[ISO timestamp D+3 da reunião — configurar por sprint]"
+      note: "Ajustar manualmente a cada sprint. Ex: sprint fecha seg 10/03 → at: 2026-03-13T09:00:00-03:00"
+
+    payload:
+      kind: agentTurn
+      message: |
+        Executar job: sprint_followup_tracker
+        Prompt em: jobs/prompts/sprint_followup_tracker.txt
+
+        ENTRADAS: Ler memory/projects_orulo.md (follow-ups do sprint atual)
+
+        Apenas alertas internos (Telegram para Diego).
+        E-mails de cobrança: apenas se Diego aprovar.
+        Canal Lara: @larissa_personal_assistant_bot
+      timeoutSeconds: 120
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+
+---
+
+# ══════════════════════════════════════════════════════════════════
+# RESUMO DE STATUS E ORDEM DE ATIVAÇÃO
+# ══════════════════════════════════════════════════════════════════
+#
+# | Job                          | Frequência          | Status                     |
+# |------------------------------|---------------------|----------------------------|
+# | pracas-sprint-reminder-thu   | Quinta 09:00        | ATIVO ✅ |
+# | pracas-sprint-check-mon      | Segunda 18:00       | ATIVO ✅              |
+# | pracas-sprint-check-tue-10   | Terça 10:00         | ATIVO ✅              |
+# | pracas-sprint-on-receive     | MANUAL              | PRONTO (sem cron)          |
+# | pracas-sprint-checkin-ter    | Terça 09:00         | PENDENTE (pós 1º sprint)   |
+# | pracas-sprint-checkin-sex    | Sexta 09:00         | PENDENTE (pós 1º sprint)   |
+# | pracas-weekly-scan           | Segunda 08:30       | ATIVO ✅ |
+# | pracas-sprint-followup-track | D+3 por sprint (at) | PENDENTE (por sprint)      |
+#
+# ORDEM SUGERIDA:
+# 1. pracas-weekly-scan          → visão geral imediata
+# 2. pracas-sprint-reminder-thu  → primeiro lembrete quinzenal
+# 3. pracas-sprint-check-mon     → fechamento do prazo
+# 4. pracas-sprint-check-tue-10  → alerta final
+# 5. pracas-sprint-checkin-ter + sex → após 1º sprint validado
+# 6. pracas-sprint-followup-tracker  → configurar por sprint
+#
+# NOTAS:
+# - Jobs 7 (weekly-scan) e 2 (check-mon) rodam na segunda mas em horários diferentes
+#   (08:30 e 18:00) — sem conflito. weekly-scan é visão geral; check-mon é específico.
+# - Jobs 3 (check-tue-10) e 5 (checkin-ter) rodam na terça em horários diferentes
+#   (10:00 e 09:00) — sem conflito. check-tue-10 é sobre one-pager; checkin-ter é sobre sprint.
+# - Lara: @larissa_personal_assistant_bot (Telegram)
+# - CC padrão: Gustavo Torres <gustavo.torres@orulo.com.br>
+
+  # ══════════════════════════════════════════════════════════════════
+  # BLOCO 4 — WATCHERS (e-mail + tl;dv)
+  # ══════════════════════════════════════════════════════════════════
+
+  # ─── JOB: SPRINT WATCHER (e-mail + tl;dv combinado) ─────────────
+  # Roda a cada 2h em dias úteis, 08h–20h.
+  # Detecta e-mail de One-Pager OU reunião tl;dv com sócio local.
+  # Fonte dos dados: Diego envia aqui OU e-mail detectado.
+  - name: pracas-sprint-watcher
+    description: "Watcher 2h — detecta e-mail de sprint + reunião tl;dv com sócio. Alerta Diego."
+    status: ATIVO ✅
+    jobId: "7a3dc77c-d2ca-47a0-a08c-a642c506c67a"
+
+    schedule:
+      kind: cron
+      expr: "0 8,10,12,14,16,18,20 * * 1-5"   # cada 2h, seg-sex, 08h–20h BRT
+      tz: America/Sao_Paulo
+
+    scripts:
+      - scripts/sprint_email_watcher.py    # detecta e-mail de One-Pager
+      - scripts/tldv_socio_check.py        # detecta reunião tl;dv com sócio local
+
+    prompts:
+      - jobs/prompts/pracas_sprint_email_watcher.txt
+      - jobs/prompts/pracas_tldv_socio_detector.txt
+
+    payload:
+      kind: agentTurn
+      note: "Ver payload completo no jobId acima"
+      timeoutSeconds: 90
+
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+      channel: telegram
+      to: "8671853499"
+
+# ══════════════════════════════════════════════════════════════════
+# BLOCO PATCH 2026-03-07 — Desbloqueio Praças + Cadência Calma
+# ══════════════════════════════════════════════════════════════════
+
+  # ─── PULSE 2x/SEMANA ──────────────────────────────────────────────
+  - name: pracas-pulse-2xweek
+    description: "Mapa de praças + cobranças + fila de e-mails (2x/semana)"
+    status: ATIVO ✅
+    jobId: "b9726fbf-1238-44f7-978d-27efc8f3893f"
+    schedule:
+      kind: cron
+      expr: "0 9 * * TUE,FRI"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 120
+      prompt: jobs/prompts/pracas_pulse_2xweek.txt
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+      channel: telegram
+      to: "8671853499"
+
+  # ─── SPRINT EMAIL WATCHER SEG/TER ─────────────────────────────────
+  - name: sprint-email-watcher-mon-tue
+    description: "Watcher de One-Pager (email) — apenas Seg/Ter, a cada 2h"
+    status: ATIVO ✅
+    jobId: "8480fd4c-24c5-4b89-9ae1-7ec52b484b4a"
+    note: "Job separado do pracas-sprint-watcher (7a3dc77c) que também faz tl;dv. Este é email-only."
+    schedule:
+      kind: cron
+      expr: "0 8-20/2 * * MON,TUE"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 90
+      script: scripts/sprint_email_watcher.py
+      prompt: jobs/prompts/pracas_sprint_email_watcher.txt
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+      channel: telegram
+      to: "8671853499"
+
+  # ─── CHECK-IN QUARTA 09h ──────────────────────────────────────────
+  - name: pracas-checkin-wed-09
+    description: "Check-in com sócio local — Quarta 09h (rascunho para Diego)"
+    status: ATIVO ✅
+    jobId: "57ec47fc-7e2d-4eeb-afe4-ef42f6470df7"
+    schedule:
+      kind: cron
+      expr: "0 9 * * WED"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 120
+      prompt: jobs/prompts/pracas_sprint_checkin_2xweek.txt
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+      channel: telegram
+      to: "8671853499"
+
+  # ─── CHECK-IN SEXTA 11h ───────────────────────────────────────────
+  - name: pracas-checkin-fri-11
+    description: "Check-in com sócio local — Sexta 11h (rascunho para Diego)"
+    status: ATIVO ✅
+    jobId: "bbb492e8-dfb7-4e83-825f-392bbd61caea"
+    schedule:
+      kind: cron
+      expr: "0 11 * * FRI"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 120
+      prompt: jobs/prompts/pracas_sprint_checkin_2xweek.txt
+    sessionTarget: isolated
+    delivery:
+      mode: announce
+      channel: telegram
+      to: "8671853499"
+
+# ══════════════════════════════════════════════════════════════════
+# PATCH HARDENING — 2026-03-07
+# Correções de modelo, timeout e limpeza de tl;dv
+# ══════════════════════════════════════════════════════════════════
+
+  # ─── LEMBRETE TOM DE VOZ (at: 10/03 12h BRT) ────────────────────
+  # Correção: model_not_found (haiku/sonnet) → minimax/MiniMax-M2.5
+  - name: lembrete-tom-de-voz
+    description: "One-shot: lembrete tom de voz para o Livro — corrigido modelo"
+    status: ATIVO ✅ (deleteAfterRun: true)
+    jobId: "7e9cef0f-d8dc-4013-9bce-137cbdbf6d0d"
+    patch_history:
+      - date: "2026-03-07"
+        change: "model anthropic/claude-haiku-3-5 → minimax/MiniMax-M2.5 (model_not_found fix)"
+    schedule:
+      kind: at
+      at: "2026-03-10T15:00:00.000Z"   # 12h BRT
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 60
+
+  # ─── BRIEFING DOM COLETA (dom 16h BRT) ───────────────────────────
+  # Correção: timeout 300s → 600s (3x consecutiveErrors por timeout)
+  - name: briefing-dom-coleta
+    description: "Coleta de dados para Briefing Dominical — aumentado timeout"
+    status: ATIVO ✅
+    jobId: "02d749f4-4e64-4367-8219-fbded8447c96"
+    patch_history:
+      - date: "2026-03-07"
+        change: "timeoutSeconds 300 → 600 (3 consecutiveErrors — timeout em 180s)"
+    schedule:
+      kind: cron
+      expr: "0 16 * * 0"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 600
+
+  # ─── CHECK EMAIL QUI 11h ─────────────────────────────────────────
+  # Correção: timeout 120s → 240s + prompt enxuto (escopo reduzido)
+  - name: check-email-qui-11h
+    description: "Scan de email focado — quinta 11h BRT. Prompt reduzido + timeout aumentado."
+    status: ATIVO ✅
+    jobId: "89f8af36-041e-402f-ad4f-93ec365362b6"
+    patch_history:
+      - date: "2026-03-07"
+        change: "timeoutSeconds 120 → 240; prompt reescrito (escopo focado: contratos/propostas/reuniões/sócio local)"
+    schedule:
+      kind: cron
+      expr: "0 11 * * 4"
+      tz: America/Sao_Paulo
+    payload:
+      kind: agentTurn
+      model: minimax/MiniMax-M2.5
+      timeoutSeconds: 240
+
+# ──────────────────────────────────────────────────────────────────
+# tl;dv ARCHIVE LOG — 2026-03-07 18:19 BRT
+# Arquivo: /root/.config/morfeu/tldv_pending.json (49KB)
+# → Movido para: /root/.config/morfeu/archive/tldv_pending_20260307_1819.json
+# Motivo: backlog acumulado causava lentidão no pipeline tl;dv
+# Reunião arquivada: "Mkt + Comercial" — 06/03/2026
+# Novo tldv_pending.json: [] (zerado)
+# ──────────────────────────────────────────────────────────────────

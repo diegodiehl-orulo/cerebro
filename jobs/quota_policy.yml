@@ -1,0 +1,382 @@
+# quota_policy.yml — OpenClaw Morfeu
+# Política de Quota Elástica e Pools de Execução
+# Versão: 2.0 | Data: 2026-03-06
+# NOTA: Este arquivo é documentação de governança e referência de configuração.
+# Aplicação: manual via gateway config.patch ou scripts de gestão de crons.
+
+---
+meta:
+  version: "2.0"
+  created: "2026-03-06"
+  plan: "MiniMax Coding Plan Starter"
+  quota_window_hours: 5
+  quota_max: 100
+  valid_models:
+    - "minimax/MiniMax-M2.5"
+    - "minimax/MiniMax-M2.1"
+    - "minimax/MiniMax-M2"
+  forbidden_models:
+    - "minimax/MiniMax-M2.5-Lightning"  # NOT available on Starter
+
+endpoints:
+  primary: "https://api.minimaxi.chat/v1"
+  fallback_cn: "https://api.minimaxi.com/v1"
+  fallback_llm: "anthropic/claude-sonnet-4-6"  # P0 only
+
+# ─────────────────────────────────────────────
+# POOLS DE EXECUÇÃO
+# ─────────────────────────────────────────────
+pools:
+  p0_critical:
+    label: "P0 — Crítico"
+    concurrency: 2
+    timeout_seconds: 180
+    retry:
+      max_attempts: 2
+      delay_seconds: 30
+      backoff: "linear"
+    model: "minimax/MiniMax-M2.5"
+    fallback_model: "anthropic/claude-sonnet-4-6"
+    quota_gate: "never_blocked"       # P0 sempre executa
+    quality: "single-pass"
+    schema_validation: true
+    circuit_breaker: true
+    jobs:
+      - "Daily Briefing — Morfeu"
+      - "🌙 Madrugada — Insight e Memória"
+      - "Watchdog de Crons — Morfeu"
+
+  p1_important:
+    label: "P1 — Importante"
+    concurrency: 3
+    timeout_seconds: 180
+    retry:
+      max_attempts: 1
+      delay_seconds: 60
+      backoff: "linear"
+    model: "minimax/MiniMax-M2.5"
+    fallback_model: "anthropic/claude-sonnet-4-6"
+    quota_gate: "remains_gte_40"
+    quality: "single-pass"
+    schema_validation: false
+    circuit_breaker: true
+    jobs:
+      - "Revisão Semanal — Morfeu"
+      - "🔍 Briefing Dominical — Coleta de Dados (13h BRT)"
+      - "🧭 Briefing Dominical — Análise e Envio (14h BRT)"
+      - "📬 Check de Email — Quinta 08h BRT (leve)"
+      - "📋 Check Contratos Pendentes — 11h"
+      - "🏛️ Scan Praças — Weekly (Consolidado)"
+      - "pracas-sprint-check-mon"
+      - "pracas-sprint-check-tue-10"
+      - "pracas-sprint-reminder-thu"
+      - "pracas-sprint-watcher"
+
+  p2_opportunistic:
+    label: "P2 — Oportunista LLM"
+    concurrency: 1                    # nunca paralelo
+    timeout_seconds: 90
+    retry:
+      max_attempts: 0                 # sem retry — oportunista
+    model: "minimax/MiniMax-M2.5"
+    fallback_model: null              # não faz fallback — descarta
+    quota_gate: "remains_gte_60_and_no_p0_backlog"
+    allowed_hours: "08:00-22:00"      # horário comercial apenas
+    quality: "single-pass"
+    schema_validation: false
+    circuit_breaker: true
+    jobs:
+      - "📖 Check Diário — Livro: Palestras Inspiradoras"
+      - "💈 Cuidados Pessoais — Check Semanal (Dom 14h BRT)"
+      - "💈 Trinks — Sugestão Automática Cabelo (Dom 08h BRT)"
+      - "🔬 MiniMax Health Check (09h BRT)"
+      - "🔬 MiniMax Diagnóstico Completo (04h BRT)"
+      - "📋 Relatório MiniMax (06h BRT)"
+      - "🎙️ Lembrete — Tom de Voz (base para o Livro)"
+
+  p3_local:
+    label: "P3 — Local Only (sem LLM)"
+    concurrency: 4                    # CPU ociosa — explorar
+    timeout_seconds: 300
+    retry:
+      max_attempts: 3
+      delay_seconds: 10
+    model: null                       # NUNCA usa LLM
+    quota_gate: "none"                # sem restrição de quota
+    quality: "n/a"
+    jobs:
+      - "Backup Diário — Workspace Morfeu → Google Drive"
+      - "🗓️ Check Pós-Reunião — Input Manual (30min)"  # reclassificar para local
+      # Futuros P3:
+      # - "health_check_local"
+      # - "checksum_validation"
+      # - "log_analysis_grep"
+      # - "cleanup_old_runs"
+
+# ─────────────────────────────────────────────
+# POLÍTICA DE QUOTA ELÁSTICA
+# ─────────────────────────────────────────────
+quota_policy:
+  window_hours: 5
+  max_prompts: 100
+
+  reserve_for_p0: 20               # 20 prompts sempre reservados
+
+  thresholds:
+    normal:
+      min_remains: 80
+      allowed_classes: ["P0", "P1", "P2"]
+      quality_mode: "double-pass"  # gera + valida quando tem folga
+    cautious:
+      min_remains: 60
+      allowed_classes: ["P0", "P1"]
+      quality_mode: "single-pass+schema"
+    restricted:
+      min_remains: 40
+      allowed_classes: ["P0", "P1"]
+      quality_mode: "single-pass"
+    protection:
+      min_remains: 20
+      allowed_classes: ["P0"]
+      quality_mode: "single-pass-minimal"
+    quota_lock:
+      min_remains: 0
+      allowed_classes: []            # apenas P0 emergencial manual
+      quality_mode: "emergency-only"
+
+  rolling_window:
+    check_interval_minutes: 5
+    compute: "next_available = now + (5h - age_of_oldest_used_prompt)"
+
+# ─────────────────────────────────────────────
+# CAPACITY HARVESTER
+# ─────────────────────────────────────────────
+capacity_harvester:
+  enabled: true
+  activation_conditions:
+    remains_min: 70
+    p0_backlog_max: 0
+    preferred_hours:
+      - "22:00-07:00"  # madrugada (VPS ociosa)
+      - "12:00-14:00"  # meio do dia
+    no_p0_p1_in_next_minutes: 30
+
+  max_prompts_per_cycle: 5
+  job_requirements:
+    - read_only: true
+    - idempotent: true
+    - interruptible: true
+
+  candidate_jobs:
+    - name: "auditoria_memory_decisions"
+      description: "Auditar memory/decisions.md vs projetos ativos"
+      frequency: "weekly"
+    - name: "resumo_cron_runs"
+      description: "Qualidade e latência dos últimos 7 dias de cron runs"
+      frequency: "weekly"
+    - name: "revisao_lessons_insights"
+      description: "Revisar lessons.md para insights não capturados"
+      frequency: "weekly"
+    - name: "consistencia_people_projetos"
+      description: "Verificar consistência entre people.md e projetos ativos"
+      frequency: "biweekly"
+
+# ─────────────────────────────────────────────
+# CIRCUIT BREAKER
+# ─────────────────────────────────────────────
+circuit_breaker:
+  enabled: true
+  per_endpoint: true
+
+  states:
+    closed:
+      max_failures: 3
+      window_seconds: 600        # 10 min
+    open:
+      timeout_seconds: 900       # 15 min bloqueado
+    half_open:
+      test_requests: 1
+
+  on_open:
+    - pause_p2_jobs: true
+    - log_audit: true
+    - notify_telegram: true
+    - p0_failover_to_claude: true
+
+# ─────────────────────────────────────────────
+# ENDPOINT FAILOVER
+# ─────────────────────────────────────────────
+endpoint_failover:
+  sequence:
+    - url: "https://api.minimaxi.chat/v1"
+      timeout_seconds: 5
+      classes: ["P0", "P1", "P2"]
+    - url: "https://api.minimaxi.com/v1"
+      timeout_seconds: 8
+      classes: ["P0", "P1", "P2"]
+    - model: "anthropic/claude-sonnet-4-6"
+      classes: ["P0"]             # P0 only — não desperdiçar Anthropic em P1/P2
+
+# ─────────────────────────────────────────────
+# DLQ — DEAD LETTER QUEUE
+# ─────────────────────────────────────────────
+dlq:
+  path: "jobs/dlq/"
+  rules:
+    p0:
+      max_failures: 2
+      action: "escalate_and_notify"
+    p1:
+      max_failures: 2
+      action: "move_to_dlq"
+    p2:
+      max_failures: 1
+      action: "discard"            # oportunista — não vale DLQ
+    p3:
+      max_failures: 3
+      action: "move_to_dlq"
+
+# ─────────────────────────────────────────────
+# OBSERVABILIDADE
+# ─────────────────────────────────────────────
+observability:
+  log_path: "logs/audit/"
+  retention_days: 30
+  format: "jsonl"
+
+  required_fields:
+    - job_id
+    - job_name
+    - class           # P0/P1/P2/P3
+    - model
+    - endpoint        # primary/fallback_cn/claude
+    - remains_before
+    - remains_after
+    - prompt_consumed
+    - latency_ms
+    - retries
+    - schema_pass
+    - circuit_state
+    - result          # ok/error/timeout/dlq/discarded
+    - ts
+
+  alerts:
+    - trigger: "remains < 25"
+      channel: "telegram"
+      severity: "warning"
+      message: "⚠️ Quota MiniMax: {remains} prompts restantes"
+    - trigger: "remains < 15"
+      channel: "telegram"
+      severity: "critical"
+      message: "🚨 QUOTA LOCK: {remains} prompts. P0 protegido."
+    - trigger: "p0_consecutive_failures >= 3"
+      channel: "telegram"
+      severity: "critical"
+      message: "🚨 P0 FAILING: {job_name} falhou {n}x"
+    - trigger: "circuit_breaker == OPEN"
+      channel: "telegram"
+      severity: "warning"
+      message: "⚡ Circuit Breaker OPEN: endpoint {endpoint}"
+
+# ─────────────────────────────────────────────
+# USO DA VPS (P3 LOCAL)
+# ─────────────────────────────────────────────
+vps_local_tasks:
+  # VPS: 2 vCPU AMD EPYC, 7.8GB RAM, 96GB disco, load ~0.00
+  # Capacidade local altamente ociosa — explorar para P3
+
+  available_resources:
+    cpu_cores: 2
+    ram_available_gb: 6.4
+    disk_available_gb: 83
+    load_average_5min: 0.02      # praticamente ocioso
+
+  recommended_p3_tasks:
+    - task: "backup_workspace"
+      tool: "rsync/tar + rclone"
+      schedule: "daily 05h"
+      no_llm: true
+
+    - task: "health_check_endpoints"
+      tool: "curl + python"
+      schedule: "every 15min"
+      no_llm: true
+      checks:
+        - "https://api.minimaxi.chat/v1"
+        - "https://api.minimaxi.com/v1"
+        - "cloudflared tunnel local port 20241"
+        - "vaultwarden port 8222"
+
+    - task: "checksum_workspace"
+      tool: "sha256sum"
+      schedule: "daily 06h"
+      no_llm: true
+
+    - task: "cleanup_old_cron_runs"
+      tool: "python + find"
+      schedule: "weekly sun 03h"
+      no_llm: true
+      retention_days: 30
+
+    - task: "lint_python_scripts"
+      tool: "flake8/pyflakes"
+      schedule: "weekly"
+      no_llm: true
+
+    - task: "log_error_analysis"
+      tool: "grep + awk + python"
+      schedule: "daily 07h"
+      no_llm: true
+      output: "memory/daily/errors-YYYY-MM-DD.md"
+
+    - task: "disk_usage_report"
+      tool: "du + df"
+      schedule: "daily"
+      no_llm: true
+
+    - task: "sqlite_integrity_check"
+      tool: "sqlite3 .check"
+      schedule: "weekly"
+      no_llm: true
+      databases:
+        - "/root/.openclaw/memory/main.sqlite"
+        - "/root/.openclaw/memory/morfeu.sqlite"
+
+# ─────────────────────────────────────────────
+# DEDUPLICAÇÃO DE JOBS (AÇÃO IMEDIATA)
+# ─────────────────────────────────────────────
+duplicate_cleanup:
+  # 7 pares duplicados detectados — desperdiçam 2x a quota
+  # Ação: desabilitar os IDs "REMOVE" abaixo
+  action: "disable_via_cron_tool"
+  jobs_to_disable:
+    - id: "aff6ad79-ff47-43bc-9439-0f8e8fa823d6"
+      name: "📖 Check Diário — Livro (dupe)"
+    - id: "18e71a89-ada9-4155-83d1-9637945da084"
+      name: "💈 Trinks (dupe)"
+    - id: "3d6cf969-5a38-4fab-a6d0-f4877da47907"
+      name: "🏛️ Scan Praças Weekly (dupe)"
+    - id: "4ff7a234-b708-4d6b-aa25-1d5e9dadd772"
+      name: "pracas-sprint-reminder-thu (dupe)"
+    - id: "972f07d4-3597-4c18-9982-61df1b3a1f27"
+      name: "pracas-sprint-check-mon (dupe)"
+    - id: "eb5e7cdb-bb7a-4704-98e1-db13ab3573a6"
+      name: "pracas-sprint-check-tue-10 (dupe)"
+    - id: "4d10d354-ad1c-411b-98fb-f81e9d70a238"
+      name: "pracas-sprint-watcher (dupe)"
+
+  # Check Pós-Reunião: 22 disparos LLM/dia → reclassificar P3
+  check_pos_reuniao:
+    current: "P2/LLM - every 30min 9h-20h M-Sa = 132 prompts/semana"
+    proposed: "P3/local - verificação sem LLM, trigger só se houver reunião no calendário"
+    savings_per_week: "~130 prompts"
+
+# ─────────────────────────────────────────────
+# HEARTBEAT
+# ─────────────────────────────────────────────
+heartbeat:
+  current_interval: "90min"
+  model: "minimax/MiniMax-M2.5"
+  class: "P2"                         # oportunista — não é P0
+  cost_per_day: "~10 prompts (maioria retorna HEARTBEAT_OK)"
+  optimization: "manter — custo baixo, valor de monitoramento alto"

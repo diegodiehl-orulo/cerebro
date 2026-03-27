@@ -1,0 +1,154 @@
+SISTEMA: Morfeu — Sprint Quinzenal de Praças | JOB: pracas_sprint_on_receive
+EXECUÇÃO: Manual (Diego cola o e-mail recebido) | Futuro: gatilho por inbox quando integrado
+SEGURANÇA: NÃO envia e-mail automaticamente. Gera rascunho + INSTRUÇÕES PARA LARA + pede OK.
+CANAL DE ANÁLISE: Telegram para Diego (automático — é interno).
+
+---
+
+CONTEXTO DO JOB:
+Este job é o coração do sistema. Ao receber o One-Pager do sócio local,
+o Morfeu faz a leitura completa, extrai a estrutura, analisa e gera:
+1. Resumo executivo (Telegram para Diego)
+2. Diagnóstico completo
+3. Gargalo #1
+4. 3 perguntas de esclarecimento
+5. Rascunho do retorno de Diego ao sócio local (e-mail)
+6. C1/C2/C3 validados ou ajustados
+7. Atualizações de memória prontas para colar
+
+---
+
+ENTRADA:
+O e-mail do sócio local colado na sessão (qualquer formato — pode ser incompleto).
+
+---
+
+PASSO 1 — EXTRAÇÃO (sempre, mesmo se incompleto)
+
+Extrair da entrada:
+[ ] Sprint (período) | Praça | Sócio local
+[ ] Indicador norte
+[ ] Planejado (sprint anterior)
+[ ] Executado (volume)
+[ ] Resultados (números)
+[ ] Problemas/Oportunidades
+[ ] Próximo sprint: C1 / C2 / C3
+[ ] Riscos
+[ ] Pedido à Matriz
+[ ] Evidências combinadas
+
+Para cada bloco ausente → marcar: [AUSENTE — pedir no retorno]
+Para cada bloco incompleto → marcar: [INCOMPLETO — perguntar]
+
+---
+
+PASSO 2 — SAÍDA A: TELEGRAM PARA DIEGO (automático — enviar)
+
+📩 ONE-PAGER RECEBIDO | {PRAÇA} — Sprint {N}
+Sócio: {NOME_SOCIO} | {DD/MM–DD/MM}
+
+📊 RESUMO EXECUTIVO:
+• Executado: {resumo em 1 linha}
+• Resultado: {resultado em 1 linha, ou "não informado"}
+• Problema principal: {1 linha}
+
+🔴 GARGALO #1:
+{gargalo em 1 linha}
+→ Causa provável: {hipótese}
+→ Teste desta semana: {ação simples}
+
+📋 CONTRATO PROPOSTO:
+• C1: {meta leading proposta}
+• C2: {ação volumosa proposta}
+• C3: {ação estrutural proposta}
+
+❓ 3 PERGUNTAS DE ESCLARECIMENTO:
+1. {pergunta 1}
+2. {pergunta 2}
+3. {pergunta 3}
+
+📨 RASCUNHO DO RETORNO (e-mail) → pronto para Lara enviar após seu OK.
+🧠 Memória atualizada: memory/projects_orulo.md + memory/pending.md
+
+⚠️ Diego: revisar e me diz "OK Lara" para enviar o retorno.
+
+---
+
+PASSO 3 — SAÍDA B: DIAGNÓSTICO COMPLETO (para Diego — texto)
+
+**DIAGNÓSTICO DO SPRINT ANTERIOR**
+
+Planejado:
+- C1: {planejado_c1}
+- C2: {planejado_c2}
+- C3: {planejado_c3}
+
+Executado:
+- C1: {executado_c1} → {%_c1}% [ou AUSENTE]
+- C2: {executado_c2} → {%_c2}% [ou AUSENTE]
+- C3: {executado_c3} → {%_c3}% [ou AUSENTE]
+
+Resultado:
+- {resultado_1} | {resultado_2} | {resultado_3} [ou "não informado"]
+
+Aprendizado principal: {aprendizado}
+Falha de método (se houver): {falha}
+
+---
+
+PASSO 4 — SAÍDA C: RASCUNHO DO RETORNO (E-MAIL)
+
+[Usar template templates/email_sprint_feedback.md]
+[Substituir todas as variáveis com base no One-Pager]
+[Marcar com [PREENCHER] o que estiver ausente]
+
+Para: {EMAIL_SOCIO}
+CC: gustavo.torres@orulo.com.br
+Assunto: Re: ÓRULO | Sprint Quinzenal | Praça: {PRAÇA} | Período: {DD/MM–DD/MM} | One-Pager
+
+[Corpo completo — diagnóstico + gargalo + contrato C1/C2/C3 + 3 perguntas + pedido à Matriz]
+
+
+---
+
+PASSO 5 — SAÍDA D: ATUALIZAÇÃO DE MEMÓRIA (pronta para colar)
+
+**Para memory/projects_orulo.md — PRAÇA: {PRAÇA}**
+```
+Sprint {N} | {DD/MM–DD/MM}
+Estágio: {estágio}
+Foco: {foco}
+C1: {c1}
+C2: {c2}
+C3: {c3}
+Gargalo: {gargalo}
+Checkpoint: {data_checkpoint}
+One-Pager recebido: {data_recebimento}
+Pedido à Matriz: {pedido} → Responsável: {responsavel}
+```
+
+**Para memory/pending.md — novos itens:**
+- [ ] {pedido_à_matriz} | Responsável: {responsavel} | Prazo: {prazo} | Status: ATIVO
+- [ ] Checkpoint {PRAÇA} Sprint {N} | Data: {data_checkpoint} | Status: AGENDADO
+
+---
+
+PASSO 6 — INSTRUÇÕES PARA LARA
+
+1. Enviar e-mail de retorno (Passo 4) para: {EMAIL_SOCIO}
+2. CC: gustavo.torres@orulo.com.br
+3. Após envio: registrar data/hora
+
+⚠️ OK para a Lara enviar? [Diego revisar e confirmar]
+
+---
+
+CANAL DA LARA: @larissa_personal_assistant_bot (Telegram)
+CC PADRÃO: Gustavo Torres <gustavo.torres@orulo.com.br>
+
+REGRAS:
+- Extrair estrutura de qualquer formato de entrada (bruto, incompleto, transcrito).
+- Não inventar números — se ausente, [AUSENTE] ou [PREENCHER].
+- Telegram para Diego: enviar automaticamente (interno).
+- E-mail de retorno: nunca automático.
+- Sempre gerar atualização de memória ao final.

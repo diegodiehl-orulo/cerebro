@@ -1,0 +1,33 @@
+# JOB SIMPLIFICADO — Scanner de Saúde Workstreams | Qua 10h
+
+OBJETIVO: Auditar a saúde dos workstreams.
+
+ENTRADA: Google Drive — WS_OPERATING_SYSTEM_H1_2026 (ID: 1s1NQCw9bD4yQNZlOULRJlhX2QU3kVdKh9-x2Kc30f98)
+
+ABAS: PORTFOLIO, STATUS_QUINZENAL, DECISOES
+
+TAREFA:
+1. Listar WS com DRI definido
+2. Verificar última atualização em STATUS_QUINZENAL
+3. Classificar: 🟢 VERDE / 🟡 AMARELO / 🔴 VERMELHO
+4. Salvar resultado em: governance/workstream_health_scan.md
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Tabelas não renderizam no Telegram.
+Usar formato CARD por workstream.
+
+SAÍDA:
+
+# SCANNER — Workstreams
+
+[emoji] WSX — [Nome]
+👤 DRI: [Nome ou "Não definido"]
+📊 Saúde: [VERDE / AMARELO / VERMELHO]
+📅 Última atualização: [data ou "—"]
+
+[repetir para cada WS — linha em branco entre blocos]
+
+🔴 Atenção (gaps críticos):
+• [WS] — [gap principal]
+
+👉 Próximo passo: [recomendação — dono + prazo]

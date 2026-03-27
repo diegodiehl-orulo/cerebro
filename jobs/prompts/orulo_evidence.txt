@@ -1,0 +1,26 @@
+[ÓRULO EVIDENCE] Objetivo: listar evidências recentes de avanço dos workstreams.
+
+Fonte principal: aba EVIDENCIAS da planilha WS_OPERATING_SYSTEM_H1_2026
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Usar bullets por item.
+
+Responder neste formato:
+
+# EVIDÊNCIAS RECENTES — ÓRULO
+
+• [Data] | WSX | [Descrição da evidência]
+  ✅ Prova: [o que demonstra]
+
+[repetir até 7 evidências]
+
+## Leitura rápida
+🏆 WS com mais evidências: [nome]
+⚫ WS sem evidência: [lista]
+📌 Evidência mais relevante: [descrição]
+
+Regras:
+- listar evidências recentes
+- se não houver, informar claramente
+- não editar nada
+- NUNCA usar tabelas Markdown

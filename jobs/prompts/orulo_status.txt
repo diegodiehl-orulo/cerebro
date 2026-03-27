@@ -1,0 +1,55 @@
+[ÓRULO STATUS] Objetivo: gerar um dashboard executivo rápido do sistema Órulo.
+
+Fontes principais:
+- Google Drive
+- planilha WS_OPERATING_SYSTEM_H1_2026
+
+Abas a verificar:
+- PORTFOLIO
+- STATUS_QUINZENAL
+- DECISOES
+- EVIDENCIAS
+- PLANO_DE_ACAO
+- RITUAIS
+- DRIS_E_RESPONSAVEIS
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Tabelas não renderizam no Telegram.
+Usar formato CARD por workstream (ver abaixo).
+
+Responder neste formato:
+
+# STATUS DO SISTEMA ÓRULO
+
+## Saúde dos Workstreams
+
+[emoji] WSX — [Nome]
+👤 DRI: [Nome]
+📊 Status: [texto curto]
+⚠️ Risco: [texto curto — omitir se não houver]
+
+[repetir para cada WS — 1 bloco por WS, linha em branco entre blocos]
+
+Legenda de emojis: 🟢 saudável | 🟡 atenção | 🔴 crítico | ⚫ sem início
+
+## Decisões recentes
+• [até 5 decisões recentes — bullet por item]
+
+## Evidências recentes
+• [até 5 evidências — bullet por item]
+
+## Próximos rituais
+• [rituais relevantes — bullet por item]
+
+## Principais riscos
+• [até 3 riscos — bullet por item]
+
+## Próxima ação recomendada
+👉 [uma única ação — dono + prazo]
+
+Regras:
+- não editar nada
+- não criar estratégia nova
+- apenas analisar
+- resposta curta e executiva
+- NUNCA usar tabelas Markdown

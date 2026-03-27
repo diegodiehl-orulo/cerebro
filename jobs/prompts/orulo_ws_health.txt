@@ -1,0 +1,43 @@
+[ÓRULO WS-HEALTH] Objetivo: auditar a saúde operacional dos workstreams.
+
+Fonte principal: planilha WS_OPERATING_SYSTEM_H1_2026
+
+Verificar por workstream:
+1. existe no PORTFOLIO?
+2. existe DRI definido?
+3. existe atualização recente em STATUS_QUINZENAL?
+4. existe decisão recente?
+5. existe evidência recente?
+6. existe ação em aberto no PLANO_DE_ACAO?
+7. existe ritual futuro definido?
+8. qual é o principal gap?
+
+Classificação: VERDE 🟢 | AMARELO 🟡 | VERMELHO 🔴
+
+⚠️ REGRA DE FORMATO OBRIGATÓRIA — Canal Telegram/Mobile:
+NÃO usar tabelas Markdown (| col | col |). Tabelas não renderizam no Telegram.
+Usar formato CARD por workstream (ver abaixo).
+
+Responder neste formato:
+
+# SAÚDE DOS WORKSTREAMS
+
+[emoji] WSX — [Nome]
+👤 DRI: [Nome ou "Não definido"]
+📅 Última atualização: [data ou "—"]
+📌 Última decisão: [resumo ou "—"]
+🔍 Gap principal: [texto curto]
+
+[repetir para cada WS — linha em branco entre blocos]
+
+## Resumo executivo
+🟢 Saudáveis: [lista — ou "nenhum"]
+🟡 Atenção: [lista]
+🔴 Em risco: [lista]
+👉 Próximo passo: [ação — dono + prazo]
+
+Regras:
+- não editar nada
+- não inferir demais
+- sinalizar ausência de informação claramente
+- NUNCA usar tabelas Markdown
