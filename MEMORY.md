@@ -1,6 +1,7 @@
 # MEMORY.md — Índice de Memória do Morfeu
 
-*Atualizado: 2026-03-27 (pós-curso SUPER CÉREBRO V2)*
+*Atualizado: 2026-03-28*
+*Atualização anterior: 2026-03-27 (pós-curso SUPER CÉREBRO V2)*
 
 ---
 
@@ -167,13 +168,12 @@ MEMORY.md (índice atualizado)
 ### Projetos Ativos
 - **Crons/Jobs** — 22+ jobs ativos (LLM Policy v2.1 aplicada) | Snapshot: `/root/backups/openclaw_snapshot_20260306_101436/`
 - **MiniMax** — Coding Plan Key configurada ✅ (05/03) | Lightning PROIBIDO no Starter
-- **Livro "Palavras que Vendem"** — Tom de voz pendente (cron diário ativo 18h)
+- **Livro "Palavras que Vendem"** — ✅ CONCLUÍDO em 26/03
 - **Órulo** — Operação contínua | Governança de Praças v2.0 ✅ | Curitiba (Zanella) + Vitória (Kneip)
 - **LLM Policy v2.1** — Fases 1+2 concluídas | Fase 3 aguarda `"OK Fase 3"` de Diego
 
 ### Pendências em Aberto
 - `memory/projects_orulo.md` — estágio e sprint por praça (aguarda Diego)
-- Tom de voz + Livro — análise pendente
 - LLM Policy Fase 3 — aguarda OK Diego
 - Heartbeat [PESSOAL] — stub a construir
 
