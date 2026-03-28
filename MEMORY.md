@@ -144,6 +144,31 @@ MEMORY.md (índice atualizado)
 
 ---
 
+## 🗂️ ARQUIVO PERMANENTE (archive/)
+
+Estrutura consolidada em 28/03/2026 (Ondas 1-4):
+```
+archive/
+├── 99_arquivo_geral/          # Propostas + SUPER CÉREBRO histórico
+├── backlog_cura_doria_P1-P11.md
+├── bases_consolidadas/        # Biblioteca de docs exportados
+├── biblioteca/                # Biblioteca estratégica (12 docs + orulo)
+├── diagnostico/               # Diagnósticos antigos
+├── governance/                 # Governança (DRIVE_POLICY, grupos_telegram, etc.)
+├── jobs/                      # Cron plan + quota policy
+├── lessons_antigas_0305-0316.md
+├── orulo_sistema_operacional/  # Sistema Operacional DD completo (v2)
+├── prds/
+├── schemas/
+├── scripts/                   # Scripts arquivados (job_lockfile, memory_worker, etc.)
+├── super_cerebro_historico/   # Histórico SUPER CÉREBRO
+├── sync_pre_drive_20260327/   # Sync pré-Drive
+├── temp/                      # PDFs temporários
+└── templates/                 # Templates (sprint, email, checkin, etc.)
+```
+
+---
+
 ## 🛠️ SKILLS ATIVAS
 
 | Skill | Função |
