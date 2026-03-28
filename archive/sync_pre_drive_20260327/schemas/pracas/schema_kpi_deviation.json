@@ -1,0 +1,13 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "schema_kpi_deviation",
+  "type": "object",
+  "properties": {
+    "kpi_name": { "type": "string" },
+    "current_value": { "type": "number" },
+    "previous_value": { "type": "number" },
+    "delta_absolute": { "type": "number" },
+    "delta_percent": { "type": ["number", "string"] }
+  },
+  "required": ["kpi_name", "current_value", "previous_value", "delta_absolute", "delta_percent"]
+}
