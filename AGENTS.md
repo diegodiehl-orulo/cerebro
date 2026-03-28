@@ -212,6 +212,49 @@ Se o pedido envolver qualquer item acima:
 
 ---
 
+## 4.5) Política de Scripts e Automação
+
+### Auditoria periódica de scripts
+Antes de usar um script que não é chamado há >30 dias, verificar se ele ainda é efetivo:
+```bash
+python3 /root/.openclaw/workspace/scripts/testar_scripts.py
+```
+
+### Regra: otimizar antes de criar
+Se uma tarefa recorrente não tem script dedicado, o Morfeu deve:
+1. Avaliar se o script existente resolve (usar `testar_scripts.py` para verificar)
+2. Se não existe → perguntar a Diego: `"Tarefa recorrente detectada: [descrição]. Quer que eu crie um script para automatizar?"`
+3. Se existe mas não funciona → propor correção, nunca criar outro paralelo
+
+### Regra: testar antes de atrelar a job
+Todo script novo que for atrelado a um cron job deve ser testado manualmente antes:
+- Executar diretamente com `python3 script.py`
+- Se timeout ou erro → corrigir primeiro, atrelar depois
+
+### Scripts confirmados operacionais (março/2026)
+```
+✅ minimax_health.py      — health check MiniMax
+✅ minimax_diagnostic.py  — diagnóstico completo MiniMax
+✅ quota_estimator.py     — estimativa de quota
+✅ smart_email_scan.py    — scan inteligente de emails
+✅ email_digest_v2.py     — digest de emails
+✅ gcal_morfeu.py         — agenda Google Calendar
+✅ trinks_booking.py      — agendamento Trinks (requer TRINKS_PASSWORD)
+✅ backup_diego.sh        — backup → Google Drive
+✅ drive_audit.py         — auditoria Google Drive
+✅ drive_list_structure.py — lista estrutura Google Drive
+✅ create_event.py        — criar evento Google Calendar
+✅ criar_lembrete.py      — criar lembrete (requer argumentos)
+✅ criar_viagens.py       — criar viagens (requer auth Gmail)
+✅ drive_reorg.py         — reorg Google Drive (requer auth)
+✅ email_digest.py        — digest v1 (legacy, usar v2)
+✅ endpoint_health.py     — health de endpoints
+✅ tldv_*.py              — pipeline tl;dv
+✅ sprint_email_watcher.py — watcher de One-Pager
+```
+
+---
+
 ## 5) Política de E-mail
 
 ### Padrão de geração
