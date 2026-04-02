@@ -20,7 +20,17 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 - **Registrador:** Cloudflare, Inc. (registrado em 26/02/2026)
 - **DNS:** Cloudflare (etta.ns + fattouche.ns)
 - **Subdomínios ativos:** openclaw.diegodiehl.com + cofre.diegodiehl.com (via Cloudflare Tunnel)
-- **VPS Provider:** ⚠️ a confirmar com Diego (2 vCPU AMD EPYC, 7.8GB RAM)
+## VPS Órulo (srv1429674)
+
+- **Host:** 187.77.58.250
+- **Hostname:** srv1429674
+- **OS:** Ubuntu 24.04 (Noble) | **Kernel:** 6.8.0-106-generic
+- **Specs:** 2 vCPU AMD EPYC | 7.8GB RAM
+- **SSH Key:** `~/.ssh/id_ed25519_morfeu_vps`
+- **Alias SSH:** `vps-orulo`
+- **Services:** OpenClaw (systemd), Vaultwarden (Docker), Docker runtime
+- **Credentials:** SSH key only — sem senha
+- **Acesso via skill:** `skills/vps-access/`
 
 ---
 
