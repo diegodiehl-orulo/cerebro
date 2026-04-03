@@ -24,6 +24,11 @@
 | tools/TOOLKIT.md | Inventário de 26 ferramentas | 2026-04-03 |
 | governance/IMPROVEMENT_LOOP.md | Ciclo de melhoria + backlog priorizado | 2026-04-03 |
 | governance/DECISION_WORKFLOW.md | Decisões D001-D009 + workflow | 2026-04-03 |
+| performance/MODEL_GUIDE.md | Guia de calibração de modelos | 2026-04-03 |
+| performance/BENCHMARK_MORFEU_VS_JARVIS.md | Auditoria Jarvis 15/15 | 2026-04-03 |
+| performance/BENCHMARK_MORFEU_VS_CLAUDE_CODE.md | Auditoria Claude Code 11/12 | 2026-04-03 |
+| buddy/ACHIEVEMENTS.md | Sistema de conquistas | 2026-04-03 |
+| buddy/STREAKS.md | Tracker de consistência | 2026-04-03 |
 
 ---
 

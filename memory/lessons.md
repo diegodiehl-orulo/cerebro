@@ -54,4 +54,34 @@
 
 ---
 
+## 🔑 Sessão: Arquitetura de Bots Telegram + Grupos com Tópicos
+*Data: 2026-04-03*
+
+### 1. groupAllowFrom ≠ channels.telegram.groups
+- Ao tentar autorizar grupo via `groupAllowFrom`, o OpenClaw ignorou todas as mensagens (log: "not-allowed").
+- O campo correto é `channels.telegram.groups` com o chat_id negativo do grupo.
+- **Regra aprendida:** Para autorizar grupo Telegram, sempre usar `channels.telegram.groups["-100xxx"]`. `groupAllowFrom` é exclusivo para IDs de usuários.
+
+### 2. MODELO POR TÓPICO NÃO É NATIVO — BOT SEPARADO É DETERMINÍSTICO
+- Não existe roteamento nativo de LLM por tópico no OpenClaw.
+- Forma confiável: bot separado com agent separado, cada um com modelo definido no config.
+- **Regra aprendida:** Quando Diego pedir LLM diferente por contexto, recomendar bot separado. Tópico separa assunto, não modelo.
+
+### 3. GRUPO TELEGRAM: HUMANO CRIA, MORFEU CONFIGURA
+- Bot não pode criar grupo nem ativar tópicos — exige ação humana.
+- Fluxo correto: Diego cria grupo + ativa tópicos + adiciona bots como admin → passa o ID → Morfeu configura roteamento.
+- **Regra aprendida:** Setup de grupo Telegram é sempre em 2 etapas: humano primeiro, Morfeu depois.
+
+### 4. requireMention: true NECESSÁRIO EM GRUPOS COM MÚLTIPLOS BOTS
+- Com 3 bots no mesmo grupo e `requireMention: false`, todos respondem a toda mensagem.
+- Solução definitiva: threadBindings — cada tópico vinculado a um agent específico.
+- **Regra aprendida:** Em grupos com múltiplos bots, configurar threadBindings antes de desativar requireMention. Evita resposta duplicada.
+
+### 5. PROCESSO ANTIGO CAPTURAVA MENSAGENS DO TELEGRAM
+- Havia 2 instâncias do openclaw-gateway rodando (user `node` em /data e user `root`).
+- A instância antiga consumia os updates antes da nova.
+- **Regra aprendida:** Se bots param de responder após restart, verificar `ps aux | grep openclaw-gateway` para confirmar que não há instância duplicada rodando.
+
+---
+
 *Arquivadas em 28/03/2026 (Onda 1 — Otimização de Sistema): sessões de 05/03 a 16/03. Ver: archive/lessons_antigas_0305-0316.md*

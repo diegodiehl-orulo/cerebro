@@ -56,6 +56,12 @@
 
 ---
 
+## 🟡 INFRA — PENDENTE (03/04/2026)
+
+- [ ] **[TELEGRAM — threadBindings]** Configurar roteamento automático por tópico: topics 9-13 → Morfeu | topics 14-15 → Larissa | topic 16 → Claudinei. Sem isso, os 3 bots respondem em todos os tópicos. DRI: Morfeu | Prazo: próxima sessão.
+
+---
+
 ## ✅ RESOLVIDOS RECENTEMENTE
 
 - [x] **Comissão João Vítor** — R$ 2.358,75 validada (23/03)
@@ -63,7 +69,10 @@
 - [x] **DRI WS6/WS7** — Diego definido como DRI provisório de ambos
 - [x] **Pasta SUPER CÉREBRO** — movida para 99_ARQUIVO_GERAL
 - [x] **Arquitetura V2** — implementada no workspace
+- [x] **Larissa — modelo corrigido** → MiniMax M2.7 (03/04)
+- [x] **Claudinei — modelo e papel atualizados** → Haiku/Sonnet/M2.7, técnico geral (03/04)
+- [x] **Grupo Central Diego Diehl** → criado + 8 tópicos + contexto fixado + bots respondendo (03/04)
 
 ---
 
-*Revisado em 27/03/2026 — gap de 7 dias corrigido, dados de sprint atualizados*
+*Revisado em 03/04/2026*

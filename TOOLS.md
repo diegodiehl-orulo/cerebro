@@ -14,6 +14,33 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 - **URL pública:** https://openclaw.diegodiehl.com
 - **Token:** `Dbn8uL74ZN7pUNEPz3gojh8puPbVPe73`
 
+---
+
+## Arquitetura de Bots Telegram (v2 — 03/04/2026)
+
+| Bot | Username | Agent | Modelo | Papel |
+|-----|----------|-------|--------|-------|
+| default | @Base_DD_bot | morfeu | M2.7 → Sonnet → Opus | Estratégico, Órulo, Pessoal |
+| larissa | @larissa_personal_assistant_bot | larissa | M2.7 → M2.5 | Rotinas, agenda, crons, e-mails |
+| claudinei | @Claudinei_Master_Bot | claudinei | Haiku → Sonnet → M2.7 | Técnico: scripts, VPS, infra |
+
+**Grupo Central Diego Diehl:**
+- **Chat ID:** `-1003883137889`
+- **Link:** https://t.me/+zRe4BcbsW0w1ODJh
+
+| Topic ID | Nome | Bot dono |
+|----------|------|----------|
+| 9 | 🟢 WS1–WS7 Órulo | Morfeu |
+| 10 | 📊 Review Semanal | Morfeu |
+| 11 | 🎯 Estratégia e OKRs | Morfeu |
+| 12 | 🗂 Backlog e Decisões | Morfeu |
+| 13 | 👤 Pessoal | Morfeu |
+| 14 | 📅 Agenda e Rotinas | Larissa |
+| 15 | 🔄 Crons e Jobs | Larissa |
+| 16 | 🛠 Scripts e Infra | Claudinei |
+
+⚠️ **threadBindings pendente** — sem essa config, os 3 bots respondem em todos os tópicos.
+
 ## Domínio e Infraestrutura
 
 - **Domínio:** diegodiehl.com

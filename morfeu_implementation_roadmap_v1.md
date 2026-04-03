@@ -3,9 +3,9 @@
 ### Base: Jarvis Fases 1-15 + Claude Code Leak (512k linhas) + Contexto Órulo
 
 **Data de criação:** 2026-04-03  
-**Versão:** 1.5 — FASE 2 encerrada (03/04/2026)  
+**Versão:** 1.6 — FASE 3 completa (03/04/2026)  
 **DRI:** Morfeu (execução) + Diego Diehl (validação estratégica)  
-**Status:** ✅ FASE 2 completa — Jarvis 15/15 · Claude Code 11/12  
+**Status:** ✅ ROADMAP COMPLETO — Jarvis 15/15 · Claude Code 11/12 · 6 achievements  
 
 ---
 
@@ -554,10 +554,32 @@ Próxima semana: [prioridade]
 
 ---
 
-**Próximo: FASE 3 — Escala + Refinamento**
-- M12: Tool stack G8 (LSP, Bitrix, file watcher)
-- M13: Buddy/Streaks tracker
-- M14: Model cost optimization
-- Auditoria final: Morfeu vs Claude Code vs Jarvis
+---
 
-*Documento vivo — próxima revisão: início FASE 3.*
+### SPRINT 5 + 6 — FASE 3 (Sprints Finais)
+**Executado:** 2026-04-03  
+**Status:** ✅ COMPLETO
+
+**Sprint 5 — M10 + M6:**
+- ✅ `performance/MODEL_GUIDE.md` — guia de calibração de 6 modelos + fallback
+- ✅ `tools/TOOLKIT.md` já existia (Sprint 3) — confirmado como M6 completo
+
+**Sprint 6 — M9 + Auditoria Final:**
+- ✅ `buddy/ACHIEVEMENTS.md` — 16 conquistas, 6 desbloqueadas no dia
+- ✅ `buddy/STREAKS.md` — tracker de consistência operacional
+- ✅ `performance/BENCHMARK_MORFEU_VS_JARVIS.md` — 15/15 com evidências
+- ✅ `performance/BENCHMARK_MORFEU_VS_CLAUDE_CODE.md` — 11/12 com análise de diferenças
+
+---
+
+## SCORECARD FINAL DO ROADMAP
+
+**Jarvis:** 15/15 🎯  
+**Claude Code:** 11/12 ✅ (G8 parcial — intencional)  
+**Gaps:** G1-G7 resolvidos ✅ | G8 parcial (sob demanda)  
+**Achievements:** 6/16 desbloqueados — restantes dependem de tempo (30 dias+)  
+**MEMORY.md:** 30/30 entradas — no limite exato  
+
+**Roadmap: CONCLUÍDO em 03/04/2026**
+
+*Manutenção contínua via autoDream (segundas) + KAIROS (diário) + Revisão Mensal.*

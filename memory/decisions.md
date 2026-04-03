@@ -52,17 +52,23 @@
 
 ---
 
-## Arquitetura de Canais e Agentes (13/03/2026)
+## Arquitetura de Canais e Agentes — v2 (03/04/2026)
 
-**Decisão:** Separação clara de responsabilidade entre os bots/agentes.
+**Decisão:** Reorganização completa dos 3 bots com modelos e papéis definitivos.
 
-| Canal | Agente | Função |
-|-------|--------|--------|
-| Telegram @morfeu_bot | Morfeu (MiniMax) | Ações rotineiras, Órulo, dia a dia |
-| Telegram @larissa_bot | Larissa (MiniMax) | Secretária executiva, e-mails, follow-ups |
-| Telegram @claudinei_bot | Claudinei (Claude) | **Exclusivo: setup, configurações e infra do OpenClaw** |
+| Bot | Username | Agent | Modelo Primary | Fallbacks | Papel |
+|-----|----------|-------|---------------|-----------|-------|
+| @Base_DD_bot | morfeu | MiniMax M2.7 | Sonnet → Opus | Estratégico + Órulo + Pessoal |
+| @larissa_personal_assistant_bot | larissa | MiniMax M2.7 | M2.5 | Rotinas, agenda, crons, e-mails |
+| @Claudinei_Master_Bot | claudinei | Claude Haiku | Sonnet → M2.7 | Técnico: scripts, VPS, infra, deploys |
 
-**Regra operacional:** Ações do dia a dia → sempre pelo Morfeu/Larissa com modelo MiniMax. Claudinei só entra para configuração técnica, skills, crons, infraestrutura.
+**Grupo Central Diego Diehl:**
+• Chat ID: `-1003883137889`
+• 8 tópicos criados (topics 9–16)
+• topics 9-13 → Morfeu | topics 14-15 → Larissa | topic 16 → Claudinei
+• threadBindings: pendente de configuração
+
+**Regra operacional:** Claudinei não é mais exclusivo de config OpenClaw — opera como técnico geral com Haiku (tarefas simples) e Sonnet (análise complexa). MiniMax como fallback em todos.
 
 ---
 
