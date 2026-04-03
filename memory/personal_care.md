@@ -17,14 +17,15 @@
 | **Login** | diegodiehl0@gmail.com |
 | **Estabelecimento ID** | `18557` |
 | **Serviço** | Corte de Cabelo — ID `1329815` — 40min — R$137 |
-| **Último corte** | 2026-03-02 |
-| **Próxima janela** | 2026-03-23 a 2026-03-30 |
+| **Último corte** | 2026-03-23 |
+| **Próxima janela** | 2026-04-13 a 2026-04-20 |
 
 ### Histórico
 | Data | Observação |
 |---|---|
 | 2026-03-02 | Corte registrado (PACOTE CABELO 90 DIAS, 11:30) |
 | 2026-03-02 | ⚠️ Morfeu fez booking acidental às 14:00 durante teste da API (cancelar manualmente) |
+| 2026-03-23 | Corte realizado (confirmado por Diego) |
 
 ### API Trinks — Endpoints Mapeados
 ```

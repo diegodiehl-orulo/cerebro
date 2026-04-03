@@ -1,217 +1,64 @@
 # MEMORY.md — Índice de Memória do Morfeu
+## Camada 1 — Ponteiros Leves (máximo 30 entradas ativas)
 
-*Atualizado: 2026-03-28*
-*Atualização anterior: 2026-03-27 (pós-curso SUPER CÉREBRO V2)*
-
----
-
-## 🏛️ SISTEMA OPERACIONAL COMERCIAL ÓRULO — HIERARQUIA DE VERDADE
-
-> Consolidado em 11/03/2026. Seção soberana — sempre prevalece sobre frameworks anteriores.
-> **Referência completa:** `memory/orulo_sistema_operacional.md`
-
-**Unidade de resultado:** Praça → métrica soberana: MRR/ARR por praça.
-
-**Workstreams oficiais (7):**
-WS1 Comunicação Corretores | WS2 Jornada DL→Pago | WS3 Execução Territorial | WS4 Estrutura Comercial e CRM | WS5 Marketing Event Driven | WS6 Embaixadoras Drive Free | WS7 Modelo Econômico Praça
-
-**Hierarquia de verdade:**
-1. Google Drive → fonte oficial (governança, docs, templates, histórico)
-   - **URL:** https://drive.google.com/drive/folders/1O0o94EdOUwH9y5ClovbIJZ-VfrQBwstM
-   - **ID:** `1O0o94EdOUwH9y5ClovbIJZ-VfrQBwstM`
-2. Planilha `WS_OPERATING_SYSTEM_H1_2026` → cockpit (backlog, decisões, ritos)
-   - **ID:** `1pYmAUBEJQXvN1yxYZb1ybRVtr_UbM7ft`
-3. OpenClaw → leitura, síntese, auditoria, apoio executivo
-
-**Regra de conflito:** Drive > memória OpenClaw. Sempre.
-
-**Backlog inicial:** 70 itens consolidados (Sprint 0 + Sprint 1, todos os 7 WS) — base oficial desde 11/03/2026.
-
-**Modo auditor ativo:** rodar rotina leve | auditoria curta | auditar WSX | preparar reunião de WSX
-
-**Restrições OpenClaw:** NÃO cria backlog oficial | NÃO substitui Drive | NÃO inventa governança | NÃO cria sistemas paralelos | NÃO corrige sem instrução explícita.
+*Última atualização: 2026-04-03*
 
 ---
 
----
+## Índice Principal (Ativos — Max 30 entradas)
 
-## 🧠 SISTEMA DE MEMÓRIA — CICLO COMPLETO
-
-### CURTO PRAZO (Instantâneo)
-| Recurso | Função |
-|---------|--------|
-| `memory_search` | Busca semântica instantânea (Gemini embeddings) |
-| `memory_get` | Leitura de snippets específicos de arquivos |
-| `memory/daily/YYYY-MM-DD.md` | Notas brutas da sessão (captura raw) |
-| Transcript de sessão | Automático (preservado pelo OpenClaw) |
-
-### MÉDIO PRAZO (1-30 dias)
-| Recurso | Função |
-|---------|--------|
-| `memory/daily/*.md` | Contexto acumulado por dia |
-| `memory/pending.md` | Aguardando input ou ação |
-| `memory/projects.md` | Status de projetos ativos |
-| `memory/people.md` | Diretório de pessoas — canal, permissão, contato |
-| `memory/roles.md` | Mapa de papéis, responsabilidades e permissões do Morfeu |
-| Follow-ups | Arquivos temáticos (`followups-*.md`) |
-
-### LONGO PRAZO (Permanente)
-| Recurso | Função |
-|---------|--------|
-| `MEMORY.md` | Este índice — mapa geral |
-| `SOUL.md` | Persona e tom do Morfeu |
-| `IDENTITY.md` | Identidade e infraestrutura |
-| `USER.md` | Perfil completo do Diego |
-| `HEARTBEAT.md` | Checklist operacional permanente |
+| Arquivo | Conteúdo | Última revisão |
+|---------|----------|----------------|
+| memory/people.md | Mapa de pessoas e papéis | 2026-04-03 |
+| memory/pending.md | Pendências em aberto | 2026-04-03 |
+| memory/projects.md | Projetos ativos + fase + ação | 2026-04-03 |
+| memory/decisions.md | Decisões estratégicas + histórico | 2026-04-03 |
+| memory/lessons.md | Aprendizados (erros + correções) | 2026-04-03 |
+| memory/roles.md | Papéis e responsabilidades Morfeu | 2026-04-03 |
+| memory/ESTADO_MORFEU_2026-04-03.md | Snapshot de estado + diagnóstico | 2026-04-03 |
+| governance/DRIVE_POLICY.md | Política de operações Drive | 2026-03-11 |
+| governance/STRICT_WRITE_DISCIPLINE.md | Regra de escrita validada | 2026-04-03 |
+| governance/SUBAGENT_CONTRACT.md | Contrato de subagentes | 2026-04-03 |
+| governance/UNDERCOVER_LAYER.md | Proteção de identidade | 2026-04-03 |
+| governance/SELF_HEALING_RUNBOOKS.md | 5 runbooks de remediação | 2026-04-03 |
+| tools/TOOLKIT.md | Inventário de 26 ferramentas | 2026-04-03 |
+| governance/IMPROVEMENT_LOOP.md | Ciclo de melhoria + backlog priorizado | 2026-04-03 |
+| governance/DECISION_WORKFLOW.md | Decisões D001-D009 + workflow | 2026-04-03 |
 
 ---
 
-## 📂 ESTRUTURA DE ARQUIVOS
+## Índice de Arquivo (Histórico — Pesquisa via semantic search)
 
-```
-/root/.openclaw/workspace/
-├── SOUL.md              # Alma e personalidade
-├── IDENTITY.md          # Identidade e infraestrutura
-├── USER.md              # Contexto completo de Diego (431 linhas)
-├── AGENTS.md            # Protocolos operacionais
-├── HEARTBEAT.md         # Checklist de verificação periódica
-├── MEMORY.md            # Este índice
-├── TOOLS.md             # Notas locais (credenciais, URLs)
-├── EMAIL_SECURITY.md    # Política de segurança de email
-├── BOOT.md              # Checklist de inicialização
-├── BOOTSTRAP.md         # [Pendente]
-│
-├── memory/
-│   ├── daily/           # Notas brutas por dia
-│   ├── decisions.md     # Decisões estratégicas
-│   ├── lessons.md       # Aprendizados (🔒 estratégicos + ⏳ táticos)
-│   ├── people.md        # Pessoas-chave
-│   ├── pending.md       # Pendências em aberto
-│   ├── projects.md      # Projetos ativos
-│   └── feedback/        # Feedback loops (content, tasks, recommendations)
-│
-├── biblioteca/           # Biblioteca estratégica (12 docs)
-├── biblioteca/orulo/    # Documentos da Órulo (16 docs)
-├── automations/         # Mapa de crons e scripts
-├── scripts/             # Scripts Python
-├── governance/          # Políticas e regras operacionais por praça
-│   └── pracas_sprint.md # Sistema unificado de governança (v2.0)
-├── templates/           # Templates reutilizáveis
-│   ├── sprint_onepager.md         # One-pager do sócio local
-│   ├── sprint_meeting_minutes.md  # Ata + contrato de sprint
-│   ├── email_onepager_request.md  # E-mail de solicitação (3 versões)
-│   ├── email_sprint_feedback.md   # Retorno de Diego ao sócio
-│   └── checkin_questions.md       # 4 perguntas + rascunho de check-in
-├── jobs/                # Jobs e crons de governança
-│   ├── cron_plan.yml    # Plano unificado (v2.0) — 8 jobs
-│   └── prompts/         # Prompts por job (10 arquivos ativos)
-└── archive/             # Versões anteriores (não deletar)
-```
+| Arquivo | Conteúdo | Período |
+|---------|----------|---------|
+| memory/archive/daily_2026-Q1/ | Notas brutas Q1/2026 | Jan-Mar 2026 |
+| memory/archive/memory_files_Q1/ | Topic files Q1/2026 | Jan-Mar 2026 |
+| memory/orulo_sistema_operacional.md | Sistema operacional Órulo | 2026-03-11 |
+| memory/projects_orulo.md | Status de projetos por praça | 2026-03-27 |
+| memory/kr_status.md | KRs Órulo H1 2026 | 2026-03-27 |
+| memory/personal_care.md | Cuidados pessoais de Diego | 2026-04-03 |
+| memory/treinos.md | Registro de treinos | 2026-04-03 |
+| memory/vendas_config.md | Config analytics de vendas | 2026-04-01 |
+
+> **Regra:** Arquivos em archive/ são pesquisados via `memory_search`, nunca carregados full no context.
 
 ---
 
-## 🔄 CICLO DE VIDA DA MEMÓRIA
+## Métricas de Saúde
 
-```
-Sessão (conversa)
-       ↓
-memory/daily/YYYY-MM-DD.md (raw capture)
-       ↓ heartbeat (a cada 90min)
-Verificar pendências, projetos, viagens
-       ↓ consolidação periódica
-Topic files (pending, projects, decisions, lessons)
-       ↓ atualização
-MEMORY.md (índice atualizado)
-```
+- Entradas ativas: 11/30 ✅
+- Archive: 2 pastas (Q1/2026)
+- Última revisão de índice: 2026-04-03
 
 ---
 
-## ⚙️ PROCESSOS AUTOMATIZADOS
+## Regras de Atualização
 
-| Processo | Frequência | Função |
-|----------|------------|--------|
-| **Heartbeat** | 90min | Verificar pendências, notas diárias, projetos, viagens |
-| **Daily Briefing** | Seg-Sex 08:45 | Resumo do dia + agenda |
-| **Smart Email Scan** | 2h (09h–18h, seg-sex) | Triagem de emails importantes |
-| **Monitor tl;dv** | 2h (10h–18h, seg-sex) | Consolidar transcrições de reuniões |
-| **Check Contratos** | Seg-Sex 11:20 | Pendências de assinatura |
-| **Watchdog Crons** | Diário 09:15 | Verificar saúde dos crons |
-| **Revisão Semanal** | Sex 16h | Análise e planejamento semanal |
-| **Auditoria pending.md** | Sex 17h | Limpeza e relevância de pendências |
-| **Briefing Dominical** | Dom 16h + 17h | Coleta + análise semanal |
-| **Harvester de Memória** | Dom 09h | Consolidação estratégica da memória |
-| **Madrugada** | Seg-Sáb 02h | Insight e consolidação da memória diária |
+1. Nova entrada → apenas se tema não existir no índice
+2. Entrada arquivada → removida do índice principal, adicionada ao ARCHIVE_INDEX
+3. Archive trimestral: Entries > 90 dias sem atualização → auto-archive
+4. Limite: 30 entradas ativas máximo
 
 ---
 
-## 🗂️ ARQUIVO PERMANENTE (archive/)
-
-Estrutura consolidada em 28/03/2026 (Ondas 1-4):
-```
-archive/
-├── 99_arquivo_geral/          # Propostas + SUPER CÉREBRO histórico
-├── backlog_cura_doria_P1-P11.md
-├── bases_consolidadas/        # Biblioteca de docs exportados
-├── biblioteca/                # Biblioteca estratégica (12 docs + orulo)
-├── diagnostico/               # Diagnósticos antigos
-├── governance/                 # Governança (DRIVE_POLICY, grupos_telegram, etc.)
-├── jobs/                      # Cron plan + quota policy
-├── lessons_antigas_0305-0316.md
-├── orulo_sistema_operacional/  # Sistema Operacional DD completo (v2)
-├── prds/
-├── schemas/
-├── scripts/                   # Scripts arquivados (job_lockfile, memory_worker, etc.)
-├── super_cerebro_historico/   # Histórico SUPER CÉREBRO
-├── sync_pre_drive_20260327/   # Sync pré-Drive
-├── temp/                      # PDFs temporários
-└── templates/                 # Templates (sprint, email, checkin, etc.)
-```
-
----
-
-## 🛠️ SKILLS ATIVAS
-
-| Skill | Função |
-|-------|--------|
-| `weather` | Clima e previsões (wttr.in / Open-Meteo) |
-| `healthcheck` | Segurança e hardening do servidor |
-| `skill-creator` | Criar/editar skills customizadas |
-| `tmux` | Controlar sessões tmux remoto |
-| `clawhub` | Buscar/instalar skills do hub |
-
-*Skills unavailable: brainstorming, google-calendar, marketing, qmd-local-search, openai-image-gen, openai-whisper-api (não instaladas)*
-
----
-
-## 📸 ESTADO ATUAL
-
-### Mudanças Estruturais (11/03/2026)
-- **SOUL.md v3:** Morfeu reposicionado como Gestor de Projetos dos Workstreams + estrategista. Novo caráter: rastreia DRI, prazo, evidência, cadência. Sempre termina com próxima ação com dono e prazo.
-- **AGENTS.md v3:** Papel atualizado — gestor de projetos como camada principal. Cobra DRI vencido, evidência ausente, rito pendente.
-- **CONSOLIDACAO_11032026:** Documento de fechamento do dia salvo localmente em `memory/orulo/` e no Drive (`01_GOVERNANCA_GERAL`, ID: `1BTXufJ2g7dD2VrgCd0IkoC9WGqz2Zdc13cirDKFUzj8`)
-
-### Projetos Ativos
-- **Crons/Jobs** — 22+ jobs ativos (LLM Policy v2.1 aplicada) | Snapshot: `/root/backups/openclaw_snapshot_20260306_101436/`
-- **MiniMax** — Coding Plan Key configurada ✅ (05/03) | Lightning PROIBIDO no Starter
-- **Livro "Palavras que Vendem"** — ✅ CONCLUÍDO em 26/03
-- **Órulo** — Operação contínua | Governança de Praças v2.0 ✅ | Curitiba (Zanella) + Vitória (Kneip)
-- **LLM Policy v2.1** — Fases 1+2 concluídas | Fase 3 aguarda `"OK Fase 3"` de Diego
-
-### Pendências em Aberto
-- `memory/projects_orulo.md` — estágio e sprint por praça (aguarda Diego)
-- LLM Policy Fase 3 — aguarda OK Diego
-- Heartbeat [PESSOAL] — stub a construir
-
----
-
-## 🔑 CONFIGURAÇÃO TÉCNICA
-
-- **Heartbeat:** 90min (model: minimax/MiniMax-M2.5)
-- **Context tokens:** 160k | **Reserve:** 30k | **Memory flush:** ativo
-- **Busca semântica:** Gemini gemini-embedding-001
-- **Modelo principal:** MiniMax M2.5 | **Fallback automático:** desativado (LLM Policy v2.1)
-- **Jobs ativos:** 22+ | **Política:** `sistema/llm_policy_v2.1.md`
-
----
-
-*Próxima revisão automática: dom 23/03/2026 às 09h (Harvester de Memória)*
+*Índice leve: ~150 caracteres por linha, nunca dados brutos*
