@@ -56,9 +56,10 @@
 
 ---
 
-## 🟡 INFRA — PENDENTE (03/04/2026)
+## ✅ RESOLVIDOS RECENTEMENTE
 
-- [ ] **[TELEGRAM — threadBindings]** Configurar roteamento automático por tópico: topics 9-13 → Morfeu | topics 14-15 → Larissa | topic 16 → Claudinei. Sem isso, os 3 bots respondem em todos os tópicos. DRI: Morfeu | Prazo: próxima sessão.
+- [x] **threadBindings** — topics 9-13 → Morfeu | 14-15 → Larissa | 16 → Claudinei (05/04/2026)
+- [x] **VPS Provider** — Hostinger confirmado (05/04/2026)
 
 ---
 

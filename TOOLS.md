@@ -51,6 +51,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 
 - **Host:** 187.77.58.250
 - **Hostname:** srv1429674
+- **Provider:** Hostinger
 - **OS:** Ubuntu 24.04 (Noble) | **Kernel:** 6.8.0-106-generic
 - **Specs:** 2 vCPU AMD EPYC | 7.8GB RAM
 - **SSH Key:** `~/.ssh/id_ed25519_morfeu_vps`
