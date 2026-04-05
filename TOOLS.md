@@ -39,7 +39,10 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 | 15 | 🔄 Crons e Jobs | Larissa |
 | 16 | 🛠 Scripts e Infra | Claudinei |
 
-⚠️ **threadBindings pendente** — sem essa config, os 3 bots respondem em todos os tópicos.
+⚠️ **threadBindings** — ✅ ATIVOS (05/04/2026):
+- Tópicos 9–13 → Morfeu
+- Tópicos 14–15 → Larissa
+- Tópico 16 → Claudinei
 
 ## Domínio e Infraestrutura
 
