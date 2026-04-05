@@ -1,47 +1,59 @@
-#!/bin/bash
-# Health check: sync-cerebro
-# Roda diariamente — só notifica se houver problema
+#!/usr/bin/env python3
+"""
+Health check: sync-cerebro
+Verifica se o sync com GitHub está acontecendo
+Saída: 0 = OK, 1 = problema
+"""
+import datetime, subprocess, os, re, sys
 
-LOG="/root/.openclaw/logs/sync-cerebro.log"
-CEREBRO="/root/.openclaw/cerebro"
-WORKSPACE="/root/.openclaw/workspace"
-LAST_RUN_WINDOW=9000  # ~2.5h em segundos
+LOG = '/root/.openclaw/logs/sync-cerebro.log'
+WORKSPACE = '/root/.openclaw/workspace'
+WINDOW_HOURS = 25
 
-# 1. Verificar se log existe e tem OK recente
-if [ ! -f "$LOG" ]; then
-  echo "[HEALTH] ERRO: log não encontrado: $LOG"
-  exit 1
-fi
+try:
+    # 1. Log existe?
+    if not os.path.exists(LOG):
+        print('ERRO: log não encontrado')
+        sys.exit(1)
 
-LAST_OK=$(grep -c "Sync cerebro -> workspace done" "$LOG" 2>/dev/null || echo 0)
-if [ "$LAST_OK" -eq 0 ]; then
-  echo "[HEALTH] ERRO: nenhum sync bem-sucedido no log"
-  exit 1
-fi
+    # 2. Última linha com data
+    with open(LOG) as f:
+        lines = f.readlines()
 
-# 2. Verificar se cerebro está acessível e commiteado
-cd "$CEREBRO"
-git rev-parse --verify HEAD >/dev/null 2>&1 || {
-  echo "[HEALTH] ERRO: repo cerebro inacessível"
-  exit 1
-}
+    last_line = ''
+    for l in reversed(lines):
+        l = l.strip()
+        if any(m in l for m in ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']):
+            last_line = l
+            break
 
-# 3. Verificar se workspace tem arquivos (não está vazio)
-WS_COUNT=$(find "$WORKSPACE" -maxdepth 1 -name "*.md" | wc -l)
-if [ "$WS_COUNT" -lt 5 ]; then
-  echo "[HEALTH] ERRO: workspace com poucos arquivos ($WS_COUNT)"
-  exit 1
-fi
+    if not last_line:
+        print('ERRO: nenhuma linha com data no log')
+        sys.exit(1)
 
-# 4. Verificar se último push/pull do repo não é muito antigo (>7 dias)
-LAST_COMMIT_EPOCH=$(git log -1 --format=%ct origin/main 2>/dev/null || echo 0)
-NOW_EPOCH=$(date +%s)
-DAYS_SINCE=$(( (NOW_EPOCH - LAST_COMMIT_EPOCH) / 86400 ))
+    # 3. Parse data
+    last_line = re.sub(r'[\[\]]', '', last_line)
+    parts = last_line.split()
+    parts[4] = parts[4] + '00'  # -03 -> -0300
+    ts_str = ' '.join(parts[:6])
+    last_epoch = datetime.datetime.strptime(ts_str, '%a %b %d %H:%M:%S %z %Y').timestamp()
 
-if [ "$DAYS_SINCE" -gt 7 ]; then
-  echo "[HEALTH] ATENÇÃO: último commit há $DAYS_SINCE dias (repo pode estar parado)"
-  exit 1
-fi
+    now_epoch = datetime.datetime.now().timestamp()
+    diff_h = int((now_epoch - last_epoch) / 3600)
 
-echo "[HEALTH] OK — sync cerebro: $LAST_OK syncs no log | último commit: ${DAYS_SINCE}d | workspace: ${WS_COUNT} arquivos"
-exit 0
+    if diff_h > WINDOW_HOURS:
+        print(f'ERRO: último sync há {diff_h}h (máximo {WINDOW_HOURS}h)')
+        sys.exit(1)
+
+    # 4. Working tree clean?
+    r = subprocess.run(['git', 'diff-index', '--quiet', 'HEAD'], cwd=WORKSPACE, capture_output=True)
+    if r.returncode != 0:
+        print('ATENÇÃO: há alterações locais sem commit')
+        sys.exit(1)
+
+    print(f'OK — sync rodou há {diff_h}h')
+    sys.exit(0)
+
+except Exception as e:
+    print(f'ERRO: {e}')
+    sys.exit(1)
