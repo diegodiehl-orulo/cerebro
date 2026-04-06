@@ -60,20 +60,16 @@
 
 - [x] **threadBindings** — topics 9-13 → Morfeu | 14-15 → Larissa | 16 → Claudinei (05/04/2026)
 - [x] **VPS Provider** — Hostinger confirmado (05/04/2026)
+- [x] **GitHub sync** — master = default branch, sync-cerebro.sh corrigido (06/04/2026)
+- [x] **6 jobs com erro** — modelo atualizado para M2.7 (LiveSessionModelSwitchError resolvido) (06/04/2026)
 
 ---
 
-## ✅ RESOLVIDOS RECENTEMENTE
+## 🛠 Scripts e Infra — Pendentes
 
-- [x] **Comissão João Vítor** — R$ 2.358,75 validada (23/03)
-- [x] **Livro Palestras Inspiradoras** — finalizado (26/03)
-- [x] **DRI WS6/WS7** — Diego definido como DRI provisório de ambos
-- [x] **Pasta SUPER CÉREBRO** — movida para 99_ARQUIVO_GERAL
-- [x] **Arquitetura V2** — implementada no workspace
-- [x] **Larissa — modelo corrigido** → MiniMax M2.7 (03/04)
-- [x] **Claudinei — modelo e papel atualizados** → Haiku/Sonnet/M2.7, técnico geral (03/04)
-- [x] **Grupo Central Diego Diehl** → criado + 8 tópicos + contexto fixado + bots respondendo (03/04)
+- [ ] **[SCRIPT — generate_refresh_token.py]** Executar localmente com `client_secret.json` para gerar refresh token Google OAuth. DRI: Diego (ambiente local)
+- [ ] **[SCRIPT — trinks_booking.py]** Definir `TRINKS_PASSWORD` na VPS para ativar agendamento automático de cabelo. DRI: Diego
 
 ---
 
-*Revisado em 03/04/2026*
+*Revisado em 06/04/2026*
