@@ -1,0 +1,40 @@
+{
+  "id": "6909ffcea41ba1001344b419",
+  "happenedAt": "2025-11-04T13:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "marcelo.dadian@olxbr.com"
+    },
+    {
+      "name": "",
+      "email": "rafael.nader@olxbr.com"
+    },
+    {
+      "name": "",
+      "email": "gui.carvalho@olxbr.com"
+    }
+  ],
+  "name": " Papo Orulo confirmado ",
+  "duration": 3681.583,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6909ffcea41ba1001344b419",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "fom-qmqa-rua"
+  }
+}

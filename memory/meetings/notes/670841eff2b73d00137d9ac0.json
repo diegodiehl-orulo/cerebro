@@ -1,0 +1,289 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "67084ef9c86c1a00134e44dc",
+      "timestamp": 87,
+      "text": "Criar um cronograma de implementação para alinhar expectativas com Caio e evitar aceleração excessiva.",
+      "topicId": "67084ef9c86c1a00134e44cc"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44dd",
+      "timestamp": 215,
+      "text": "Alinhar com Caio a abordagem de começar a mapear as interações e trazer dados para um segundo momento.",
+      "topicId": "67084ef9c86c1a00134e44cc"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44de",
+      "timestamp": 349,
+      "text": "Caio quer ativar a base de 35 mil corretores não verificados, então discutir estratégia de separar o joio do trigo.",
+      "topicId": "67084ef9c86c1a00134e44cd"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44df",
+      "timestamp": 438,
+      "text": "Proposta de usar o \"bote de ativação\" para ativar os corretores, cobrando um valor por contato impactado.",
+      "topicId": "67084ef9c86c1a00134e44cd"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e0",
+      "timestamp": 562,
+      "text": "Alinhar que o objetivo é aumentar o volume de corretores ativos sem risco de banimento.",
+      "topicId": "67084ef9c86c1a00134e44cd"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e1",
+      "timestamp": 873,
+      "text": "Centralizar a comunicação com Caio em um único ponto de contato (Carlão) para evitar duplicidade de informações.",
+      "topicId": "67084ef9c86c1a00134e44ce"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e2",
+      "timestamp": 907,
+      "text": "Apresentar a metodologia de implantação e acompanhamento da Z2, com entregas assistidas e formalização de cronogramas.",
+      "topicId": "67084ef9c86c1a00134e44cf"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e3",
+      "timestamp": 997,
+      "text": "Caio precisa ter visibilidade das visitas realizadas e discutir a criação de relatórios e painéis de gestão mais inteligentes e úteis.",
+      "topicId": "67084ef9c86c1a00134e44d0"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e4",
+      "timestamp": 1129,
+      "text": "Desenvolver um relatório que mostre quais corretores falam com quais gerentes, para ajudar Caio a fechar a carteira aberta.",
+      "topicId": "67084ef9c86c1a00134e44d1"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e5",
+      "timestamp": 1362,
+      "text": "Criar um painel de interações do corretor para o administrador visualizar o número de interações.",
+      "topicId": "67084ef9c86c1a00134e44d2"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e6",
+      "timestamp": 1393,
+      "text": "Não gravar o conteúdo das conversas, apenas o número de interações.",
+      "topicId": "67084ef9c86c1a00134e44d2"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e7",
+      "timestamp": 1432,
+      "text": "Criar uma métrica de meritocracia com base nas interações do corretor.",
+      "topicId": "67084ef9c86c1a00134e44d2"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e8",
+      "timestamp": 1658,
+      "text": "Criar modelo de e-mail pré-definido para facilitar o envio de informações necessárias para agendamento de visitas.",
+      "topicId": "67084ef9c86c1a00134e44d3"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44e9",
+      "timestamp": 1824,
+      "text": "Utilizar o WhatsApp Business para envio do modelo de e-mail, ao invés de entrar no sistema da Z2.",
+      "topicId": "67084ef9c86c1a00134e44d3"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44ea",
+      "timestamp": 1892,
+      "text": "O envio do e-mail será feito pelo Outlook, sem conexão com o sistema da Z2.",
+      "topicId": "67084ef9c86c1a00134e44d3"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44eb",
+      "timestamp": 2090,
+      "text": "O registro de visitas será realizado na plataforma da Z2 como uma atividade, exibida no dashboard.",
+      "topicId": "67084ef9c86c1a00134e44d4"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44ec",
+      "timestamp": 2291,
+      "text": "Discutir sobre a possibilidade de login simplificado via WhatsApp, evitando resistência de alguns usuários.",
+      "topicId": "67084ef9c86c1a00134e44d5"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44ed",
+      "timestamp": 2344,
+      "text": "Avaliar orçamento para desenvolvimento de soluções de login e acesso a dados na plataforma da Z2.",
+      "topicId": "67084ef9c86c1a00134e44d5"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44ee",
+      "timestamp": 2405,
+      "text": "Organização do cadastro de parceiros, incluindo a adição de novos parceiros e a limpeza da base.",
+      "topicId": "67084ef9c86c1a00134e44d6"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44ef",
+      "timestamp": 2469,
+      "text": "Entendimento sobre a cobrança por faixa de parceiros e a necessidade de ajuste de preço conforme a base cresce.",
+      "topicId": "67084ef9c86c1a00134e44d6"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f0",
+      "timestamp": 2598,
+      "text": "Processo de limpeza da base de parceiros inativos ou não qualificados, com a exclusão gradual desses registros.",
+      "topicId": "67084ef9c86c1a00134e44d6"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f1",
+      "timestamp": 2676,
+      "text": "Etapas da implantação, incluindo o cadastro, treinamento e conexão de licenças para o cliente.",
+      "topicId": "67084ef9c86c1a00134e44d7"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f4",
+      "timestamp": 2688,
+      "text": "Criação de um grupo de comunicação para acompanhamento da implantação e próximos passos.",
+      "topicId": "67084ef9c86c1a00134e44d8"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f2",
+      "timestamp": 2717,
+      "text": "Realização de uma reunião inicial de implantação com o cliente, apresentando a solução e realizando testes.",
+      "topicId": "67084ef9c86c1a00134e44d7"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f3",
+      "timestamp": 2750,
+      "text": "Separação do treinamento do administrador do cliente, para uma imersão mais profunda no sistema Z2.",
+      "topicId": "67084ef9c86c1a00134e44d7"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f5",
+      "timestamp": 2776,
+      "text": "Entrega de uma versão inicial do sistema Z2 para o cliente, com a comunicação dos próximos passos.",
+      "topicId": "67084ef9c86c1a00134e44d8"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f6",
+      "timestamp": 2823,
+      "text": "Inclusão de outros envolvidos no grupo de comunicação, como o cliente e a equipe de implantação.",
+      "topicId": "67084ef9c86c1a00134e44d8"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f7",
+      "timestamp": 2971,
+      "text": "Definição da data e horário da primeira reunião de implantação com o cliente Caio, prevista para a sexta-feira, dia 18.",
+      "topicId": "67084ef9c86c1a00134e44d9"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f8",
+      "timestamp": 3033,
+      "text": "Validação da data e horário da reunião com o cliente, com a possibilidade de antecipá-la para segunda-feira, dia 14.",
+      "topicId": "67084ef9c86c1a00134e44d9"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44f9",
+      "timestamp": 3130,
+      "text": "Necessidade de compartilhar a apresentação do sistema Z2 com o cliente antes da reunião para torná-la mais ágil e produtiva.",
+      "topicId": "67084ef9c86c1a00134e44da"
+    },
+    {
+      "segmentId": "67084ef9c86c1a00134e44fa",
+      "timestamp": 3210,
+      "text": "Plano de criar uma cópia da apresentação para o cliente OM e abordar ambos os clientes na segunda-feira.",
+      "topicId": "67084ef9c86c1a00134e44db"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "67084ef9c86c1a00134e44cc",
+      "order": 1,
+      "title": "Alinhamento com Caio sobre implementação e cronograma",
+      "summary": "Discutir um cronograma de implementação com Caio para alinhar expectativas e evitar aceleração excessiva."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44cd",
+      "order": 2,
+      "title": "Ativação da base de corretores não verificados",
+      "summary": "Discutir estratégia para ativar a base de 35 mil corretores não verificados de Caio, separando o joio do trigo."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44ce",
+      "order": 3,
+      "title": "Centralização da comunicação com Caio",
+      "summary": "Definir Carlão como ponto focal para comunicação com Caio, evitando duplicidade de informações."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44cf",
+      "order": 4,
+      "title": "Metodologia de implantação e acompanhamento",
+      "summary": "Apresentar a metodologia de implantação e acompanhamento desenvolvida pela Z2, com entregas assistidas e formalização de cronogramas."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d0",
+      "order": 5,
+      "title": "Visibilidade de visitas e relatórios",
+      "summary": "Garantir que Caio tenha visibilidade das visitas realizadas e de relatórios relevantes para a gestão do negócio."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d1",
+      "order": 6,
+      "title": "Estratégia para carteira aberta de corretores",
+      "summary": "Desenvolver uma estratégia para começar a fechar a carteira aberta de corretores de Caio, mapeando as interações."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d2",
+      "order": 7,
+      "title": "Registro de Interações do Corretor",
+      "summary": "Criar um painel de interações do corretor para o administrador visualizar, sem gravar o conteúdo das conversas."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d3",
+      "order": 8,
+      "title": "Envio de E-mail para Agendamento de Visitas",
+      "summary": "Otimizar o processo de envio de e-mail para agendamento de visitas, utilizando modelos pré-definidos e integração com WhatsApp Business."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d4",
+      "order": 9,
+      "title": "Registro de Visitas na Plataforma Z2",
+      "summary": "O registro de visitas será realizado na plataforma da Z2 como uma atividade, exibida no dashboard."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d5",
+      "order": 10,
+      "title": "Integração com Plataforma da Z2",
+      "summary": "Discutir sobre a integração da solução com a plataforma da Z2, incluindo login, acesso a dados e fluxos de trabalho."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d6",
+      "order": 11,
+      "title": "Cadastro de Parceiros",
+      "summary": "Discussão sobre a gestão e organização do cadastro de parceiros, incluindo a adição, exclusão e manutenção da base."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d7",
+      "order": 12,
+      "title": "Implantação e Treinamento",
+      "summary": "Planejamento da implantação do sistema Z2, incluindo a realização de treinamentos e a entrega de documentação para o cliente."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d8",
+      "order": 13,
+      "title": "Comunicação e Acompanhamento",
+      "summary": "Discussão sobre a criação de um grupo de comunicação para acompanhamento da implantação e próximos passos."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44d9",
+      "order": 14,
+      "title": "Agendamento da Reunião Inicial",
+      "summary": "Definição da data e horário da primeira reunião de implantação com o cliente Caio."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44da",
+      "order": 15,
+      "title": "Preparação da Apresentação",
+      "summary": "Discussão sobre a preparação da apresentação do sistema Z2 para o cliente, incluindo o preenchimento prévio de informações."
+    },
+    {
+      "id": "67084ef9c86c1a00134e44db",
+      "order": 16,
+      "title": "Próximos Clientes",
+      "summary": "Menção de outros clientes, como a OM em Goiânia, que também serão abordados na próxima semana."
+    }
+  ]
+}

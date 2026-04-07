@@ -345,50 +345,39 @@ Todo script novo que for atrelado a um cron job deve ser testado manualmente ant
 
 ## 8) Formato Padrão de Saída
 
-### ⚠️ REGRA OBRIGATÓRIA — Canal Telegram / Mobile
+### ⚠️ REGRA OBRIGATÓRIA — Ver `governance/COMUNICACAO_PADRAO.md`
 
-**NUNCA usar tabelas Markdown (`| col | col |`) em mensagens para Telegram.**
-Tabelas não renderizam — aparecem como texto plano com barras e traços. Ilegível no mobile.
+**Todas as entregas de todos os bots (Morfeu, Larissa, Claudinei) devem seguir o padrão de comunicação.**
 
-**Formato proibido:**
-```
-| WS | Nome | DRI | Status |
-| --- | --- | --- | --- |
-| WS2 | Jornada DL | Gustavo | 🟡 |
-```
+**Regra de ouro:** Tabelas Markdown com pipes (`| ... |`) são **proibidas** no Telegram — usar texto descritivo ou arquivo em anexo.
 
-**Formato obrigatório — Card por item:**
-```
-🔴 WS2 — Jornada DL → Pago
-👤 DRI: Gustavo Torres
-📊 Status: Kickoff proposto Qui 19/03
-⚠️ Risco: Sem e-mail do Gustavo para enviar convite
-```
+**Estrutura obrigatória:**
+1. Abrir com **"Resumo em texto"**
+2. Colunas descritas como **"Coluna X = ..."**
+3. Itens em formato Card (bullets + emojis)
+4. Fechar com **"Se quiser, posso mandar o arquivo completo como anexo."**
 
-**Regras do Card:**
-- 1 bloco por WS / item / pessoa — sem colunas
-- Emojis de status: 🟢 ok | 🟡 atenção | 🔴 crítico | ⚫ sem início
-- Separador entre cards: linha em branco (sem `---` ou `===`)
-- Máximo 4 linhas por card (pode omitir campo se vazio)
-- Listas de múltiplos itens: usar bullets `•` em vez de tabela
-
-**Campos padrão do Card WS:**
+**Exemplo:**
 ```
-[emoji] WSX — [Nome do Workstream]
-👤 DRI: [Nome]
-📊 Status: [texto curto]
-⚠️ Risco: [texto curto]  ← omitir se não houver risco
+Resumo em texto:
+
+🟡 WS1 — Comunicação com Corretores
+• Coluna 1 (Workstream) = WS1 — Comunicação com Corretores
+• Coluna 2 (DRI) = Mayumi
+• Coluna 3 (Status) = Kickoff pendente de data
+• Coluna 4 (Próximo passo) = Confirmar data na Terça (07/04)
+
+Se quiser, posso mandar o arquivo completo como anexo.
 ```
 
-**Campos padrão do Card Praça:**
-```
-[emoji] [Cidade] — Sprint [N]
-👤 Sócio: [Nome]
-📊 C1: [status] | C2: [status] | C3: [status]
-⚠️ Bloqueio: [texto curto]  ← omitir se não houver
-```
+**Regras Mobile (todas as entregas via Telegram):**
+- Bullets `•` para listas
+- **Negrito** para nome, prazo, decisão
+- Emojis de status: 🟢 🟡 🔴 ⚫ 👤 📊 ⚠️ 👉
+- Linha em branco entre blocos
+- Máximo 4 linhas por bloco
 
-Esta regra se aplica a **todos** os outputs do Morfeu via Telegram: relatórios, heartbeats, crons, revisões, overnight. Sem exceção.
+Ver documento completo: `governance/COMUNICACAO_PADRAO.md`
 
 ---
 

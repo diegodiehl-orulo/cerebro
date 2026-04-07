@@ -1,0 +1,25 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6731f4809a7d4c0013d91992",
+      "timestamp": 511,
+      "text": "Pedro propõe reagendar reunião para quarta-feira",
+      "topicId": "6731f4809a7d4c0013d91991"
+    },
+    {
+      "segmentId": "6731f4809a7d4c0013d91993",
+      "timestamp": 560,
+      "text": "Diego confirma reunião para próxima semana",
+      "topicId": "6731f4809a7d4c0013d91991"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6731f4809a7d4c0013d91991",
+      "order": 1,
+      "title": "Agendamento de Reunião",
+      "summary": "Definição e confirmação do novo calendário de reunião para a próxima semana"
+    }
+  ]
+}

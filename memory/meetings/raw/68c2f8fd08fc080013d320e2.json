@@ -1,0 +1,28 @@
+{
+  "id": "68c2f8fd08fc080013d320e2",
+  "happenedAt": "2025-09-11T16:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "1:1 Diego / Gustavo",
+  "duration": 5678.869,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68c2f8fd08fc080013d320e2",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "afd-qmeg-yco"
+  }
+}

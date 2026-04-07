@@ -1,0 +1,1476 @@
+{
+  "meeting_id": "6800fb916b4dd700130709bc",
+  "name": "Novas abordagens incorps DL",
+  "happened_at": "2025-04-17T13:00:00.000Z",
+  "duration_seconds": 3562.157,
+  "duration_minutes": 59.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "laura.oliveira@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6800fb916b4dd700130709bc",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "uyi-xtir-ype",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6800fc9d3867400013eab962",
+    "meetingId": "6800fb916b4dd700130709bc",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 2,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Como que é eu tô respondendo aqui que você falou."
+      },
+      {
+        "startTime": 3,
+        "endTime": 6,
+        "speaker": "Diego Diehl",
+        "text": "Você foi fez um conhecido round, né? Cara pela tua voz."
+      },
+      {
+        "startTime": 6,
+        "endTime": 11,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não cara, fui direto, só que eu tava muito cansado tá louco, eu cheguei duas horas ontem."
+      },
+      {
+        "startTime": 12,
+        "endTime": 13,
+        "speaker": "Diego Diehl",
+        "text": "Nossa eu também."
+      },
+      {
+        "startTime": 13,
+        "endTime": 14,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente ficou até tarde conversando."
+      },
+      {
+        "startTime": 15,
+        "endTime": 27,
+        "speaker": "Diego Diehl",
+        "text": "Nós e eu peguei Estrada 6 da manhã tô numa padaria. Lembrei de você, mas falando. padaria do interior galera berrando assim uma animação"
+      },
+      {
+        "startTime": 30,
+        "endTime": 32,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Curitiba, São Paulo"
+      },
+      {
+        "startTime": 32,
+        "endTime": 41,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô no meio do caminho. Parei só por causa de vocês. Foi importante ter."
+      },
+      {
+        "startTime": 44,
+        "endTime": 47,
+        "speaker": "Bruna Soares",
+        "text": "Nos sentimos importante agora mesmo para uma estrada a padaria."
+      },
+      {
+        "startTime": 49,
+        "endTime": 50,
+        "speaker": "Diego Diehl",
+        "text": "sistema é importante"
+      },
+      {
+        "startTime": 53,
+        "endTime": 53,
+        "speaker": "Bruna Soares",
+        "text": "Bom pessoal, bom dia."
+      },
+      {
+        "startTime": 55,
+        "endTime": 55,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 56,
+        "endTime": 61,
+        "speaker": "Bruna Soares",
+        "text": "Marcelo quer explicar um pouquinho o objetivo dessa reunião. Não."
+      },
+      {
+        "startTime": 62,
+        "endTime": 64,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Não pode ser tudo."
+      },
+      {
+        "startTime": 66,
+        "endTime": 102,
+        "speaker": "Bruna Soares",
+        "text": "Bom pessoal. Desculpa minha cara minha voz mas eu tô gripada, tô resfriada. Que é o objetivo aqui tá a gente vem trabalhando e um dos objetivos do time aqui de operações, principalmente expansão de incorp, que é o que lida diariamente com novas encontros que não conhecem a gente que não sabe quem a gente é essa dificuldade que a gente tem e a gente acho que casa muito com o objetivo que a empresa tem deste ano de ter essa comunicação facilitada, né de ser entendido de ser compreendido."
+      },
+      {
+        "startTime": 102,
+        "endTime": 124,
+        "speaker": "Bruna Soares",
+        "text": "Então a gente também entendeu? Que da nossa parte a gente tem que começar a construir materiais novos abordagens novas. Então nada mais justo que começar ali com expansão de corp, que é o que tem essa essa Comunicação, tá? Eu vou compartilhar aqui primeiro uma coisa com vocês. Só para fazer mais sentido."
+      },
+      {
+        "startTime": 124,
+        "endTime": 147,
+        "speaker": "Bruna Soares",
+        "text": "aqui Quando vocês conseguirem ver vocês me fala. foi foi Então aqui a gente vem desenhando um pouco essa parte de um bode de incorpo. Que a gente faz hoje para vocês entenderem um pouquinho para novas oportunidades, a gente busca a prospecção de bases que a gente tem no mercado a gente vai no dwv."
+      },
+      {
+        "startTime": 147,
+        "endTime": 177,
+        "speaker": "Bruna Soares",
+        "text": "A gente vai no hábito. A gente vai em todas as bases que a gente tem para poder ver o que tem de novo. Cada dia tem uma nova Incorporadora e cada dia a gente quer estar colocando novos clientes aqui dentro para que no fim se tornemda tá então a gente busca por solicitações o Diego usa bastante então ele sabe a gente tá sempre todos os dias ali solicitações que vem da plataforma."
+      },
+      {
+        "startTime": 177,
+        "endTime": 199,
+        "speaker": "Bruna Soares",
+        "text": "Com novas incorporadoras com novas pedidos a gente acompanha hoje perdidos e Comercial que é o que o comercial tentou fazer uma venda e não conseguiu, mas a gente quer ter esse cliente aqui não importa se ele vai ser dlda a gente quer ter o cliente aqui dentro. Então resumindo um pouquinho para vocês."
+      },
+      {
+        "startTime": 199,
+        "endTime": 231,
+        "speaker": "Bruna Soares",
+        "text": "Da onde que vem essas novas oportunidades que o time todos os dias está acompanhando e tá tentando fazer follow para que ele se torne em nosso cliente. Dele no caso né? Mas é o nosso cliente e tem também ali em cima, a gente tem prospecção de novas praças. Então sempre que a gente entra em Espírito Santo Paraíba, Pernambuco, a gente também tem um trabalho diferenciado para entrar nessa praça, né? A gente acaba mobilizando todo o time."
+      },
+      {
+        "startTime": 231,
+        "endTime": 259,
+        "speaker": "Bruna Soares",
+        "text": "Acho que não só a operação comercial SDR. Todo mundo tá envolvido para que a gente se torne conhecido para a gente tenha relevância nessa nova praça então também é um É uma linha que a gente faz um pouco diferente do habitual. Mas vem nessa mesma batida tá e a gente começa então fazer um mapeamento dessas incorporadoras, tá? Então o objetivo aqui é ter os produtos cadastrados na plataforma."
+      },
+      {
+        "startTime": 259,
+        "endTime": 267,
+        "speaker": "Bruna Soares",
+        "text": "Esse é o objetivo final. Que ele se vai se tornar dele que ele vai ter prm isso, aí a gente deixa com comercial. Mas claro que a gente sabe que abordagem a forma que a gente vai"
+      },
+      {
+        "startTime": 267,
+        "endTime": 268,
+        "speaker": "Diego Diehl",
+        "text": "Tá travando para mim para vocês também."
+      },
+      {
+        "startTime": 269,
+        "endTime": 270,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Tá, tá bom."
+      },
+      {
+        "startTime": 270,
+        "endTime": 273,
+        "speaker": "Diego Diehl",
+        "text": "Bru deu uma travada aí."
+      },
+      {
+        "startTime": 275,
+        "endTime": 279,
+        "speaker": "Bruna Soares",
+        "text": "passar essas informações também faz diferença para que no final ele se torne um ideal. E é o que a gente vem trabalhando tá? Então agora vou deixar a Laura ela. Tá me ouvindo agora?"
+      },
+      {
+        "startTime": 281,
+        "endTime": 282,
+        "speaker": "Diego Diehl",
+        "text": "Agora sim deu uma travadinha nos"
+      },
+      {
+        "startTime": 284,
+        "endTime": 309,
+        "speaker": "Bruna Soares",
+        "text": "Tá tão apresentando porque a Laura para vocês ele é nova, tá? Ela entrou aqui com a gente. Deixa eu ver se eu não erro Laura para fevereiro Tá certo, né, entrou aqui com a gente em fevereiro, então e a Laura tem bastante conhecimento ela vem da área do marketing tá então ela Claro ela não tem conhecimento do setor ela vem de outros setores, mas ela tem um pouco desse conhecimento."
+      },
+      {
+        "startTime": 309,
+        "endTime": 327,
+        "speaker": "Bruna Soares",
+        "text": "Então ela vem desde fevereiro trabalhando muito na apresentação muito em abordagens. Então acho que essa reunião é justamente porque vocês estão do dia a dia, né? Vocês estão falando com cliente, vocês estão falando com Corretores e você consegue também ver a dor do que é não entender ou do qual são as dúvidas."
+      },
+      {
+        "startTime": 327,
+        "endTime": 350,
+        "speaker": "Bruna Soares",
+        "text": "Então essa reunião justamente é para ter ideias e sugestões de vocês de abordagens que a gente está trabalhando não é? A gente não terminou de construir a gente está construindo que nem eu falei o objetivo do time é continuar construindo a gente sabe que a cada x tempo a gente vai ter que estar mudando de novo a nossa estratégia e fazendo abordagem diferente."
+      },
+      {
+        "startTime": 350,
+        "endTime": 362,
+        "speaker": "Bruna Soares",
+        "text": "Dependendo do público dependendo do canal. Então eu vou deixar Laura apresentar um pouquinho que ela vem criando e depois eu volto. Para cá para trazer um pouco desse desse mapa aqui, pode seguir Laura eu vou parar de compartilhar."
+      },
+      {
+        "startTime": 362,
+        "endTime": 393,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Tá bom. Beleza. Bom dia gente. Então como a Bruna falou, né? A gente vem diariamente aí construindo as novas abordagens. É aos um mês mais ou menos, eu criei uma apresentação de novas abordagens. Deixa eu só compartilhar aqui com vocês. Há um mês e meio mais ou menos, eu criei essa de novas estratégias de comunicação, só que como ela falou a gente sempre vem mudando hoje, eu tenho mais um pouco de conhecimento e eu acredito que a gente tá um pouco mais alinhado."
+      },
+      {
+        "startTime": 393,
+        "endTime": 423,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Hoje é na nossa comunicação com os vídeos. Hoje. Eu sei diferenciar o livro de frio o líder quente. E aí eu padronizei uma comunicação para todos os canais, por exemplo tem Incorporadora que vai estar no Linkedin tem corporadora que vai ter site tem comparadora que vai ter Instagram. Então hoje eu sei direcionar a comunicação para cada um desses canais eu falo com todo mundo no Instagram LinkedIn, a gente conseguiu acesso no Linkedin no Instagram da hora porque passa mais credibilidade."
+      },
+      {
+        "startTime": 423,
+        "endTime": 452,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Então eu tenho mandado mensagem para as incorporadoras por lá também. E aí essa apresentação que eu fiz depois eu até mando para vocês, ela já tá um pouquinho mais antiga, que que acontece essa outra eu criei eu tenho mandado mais ela por e-mail no e-mail os clientes pedem mais informações até para poder mandar para outras pessoas também, né? E como a Bruna mesmo falou o que a hora o Lu faz é uma coisa bem específica."
+      },
+      {
+        "startTime": 452,
+        "endTime": 472,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Quando eu criei essa apresentação, eu queria que qualquer pessoa que abrisse ela que fosse ler essa apresentação entendesse? O que que é Orgão faz, né? Qualquer objetivo da Orlando depois se vocês quiserem eu compartilho para vocês poderem ler com mais calma e com base nessa daqui nessa apresentação que eu tenho mandado por e-mail."
+      },
+      {
+        "startTime": 472,
+        "endTime": 518,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Eu criei uma para slide também para quando for ter reunião, a gente tem um material de apoio para poder falar com os clientes de uma forma mais objetiva mesmo, mas esse material ficou bem didático, eu acredito que tá bem fácil de entender. A gente também tá tendo essa lâmina hoje que eu criei recentemente eu não mando ela de primeira o primeiro objetivo assim no primeiro contato é ter mesmo essa conexão com o cliente é criar mesmo uma conexão para depois a gente simonia aí de informações, como é uma coisa online, eu acredito que quanto mais material a gente tiver mais facilitar mesmo o entendimento sobre aólogo seja melhor para o cliente, né? Porque como é online, mas eu sempre tô ligando também."
+      },
+      {
+        "startTime": 518,
+        "endTime": 555,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Tô tentando achar o contato certo. Para poder falar, mas mas é isso hoje o que eu tenho visto também, o que eu vejo que a dor maior do das incorporadoras é entender de fato, o que que a gente faz e principalmente quando eu falo. Que é gratuito? As pessoas não não entendem o a forma de ser gratuito e também se quando vai cadastrar na nossa no nosso aplicativo se a gente que vai falar com os corretores, se a gente que vai ter essa coisa de vendas e aí eu tô deixando isso também Claro na comunicação, eu falo."
+      },
+      {
+        "startTime": 555,
+        "endTime": 571,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Olha a gente não vai intermediar as vendas vocês que vão fazer a edição dos Empreendimentos. E aí tem ficado mais fácil até tem conseguido mais desse jeito, mas é isso só para passar por cima mesmo do que já tem feito um resumo mesmo."
+      },
+      {
+        "startTime": 575,
+        "endTime": 601,
+        "speaker": "Bruna Soares",
+        "text": "É uma das coisas que eu acho que Zanella João Diego que principalmente tão mais na rua que acontece, né? A gente tem um grande questão aqui que a gente está fazendo online. A gente não tem aproximação com a pessoa, né? Não tão lá tomando café, vocês não estão vendo? Ah, fala aí da viagem que ele fez as férias, enfim, tu consegue criar uma conexão a gente não consegue ter isso até porque a gente nem chega às vezes no desor."
+      },
+      {
+        "startTime": 601,
+        "endTime": 626,
+        "speaker": "Bruna Soares",
+        "text": "A gente chega na pessoa que a gente pegou no site pegou o número do site É isso aí a gente fica muito às vezes relutando, né? Naquela pessoa naquele contato que eu contar porque a gente tem então do trabalho que a gente vem fazendo acho que janela e o João tão vendo isso que a gente viu que essa parte relacionamento de vocês mais próximos isso está ajudando é uma forma de ajudar a gente também."
+      },
+      {
+        "startTime": 626,
+        "endTime": 643,
+        "speaker": "Bruna Soares",
+        "text": "A gente tá tentando fazer com que o time de operações tenha mais esse relacionamento com os meninos. A gente consiga não que eles vão lá pegar o material e fazer o cadastro, mas que a gente consiga ter os contatos certos que a gente consiga mandar o material para a pessoa certa."
+      },
+      {
+        "startTime": 643,
+        "endTime": 660,
+        "speaker": "Bruna Soares",
+        "text": "E a gente curte um pouco com o nosso tempo de falou que a gente acaba tendo que fazer hoje como Incorporadora para aquela entre na orla, tá? Então é um trabalho também além dessa repaginada de apresentações abordagens vídeos tudo que a gente vem construindo a ideia de Fevereiro com entrada da Laura."
+      },
+      {
+        "startTime": 660,
+        "endTime": 690,
+        "speaker": "Bruna Soares",
+        "text": "Tem também essa aproximação que a gente tá tentando fazer com o João e com usa nela para que a gente possa ter mais esse contato dizendo com quem que a gente fala aqui. A gente abrir porque a gente sabe que para eles também é inviável sair. Olha indo em todo mundo e as vezes que é mais estratégico em qual cliente vai e qual que não vai né? Mas a gente sabe dessa dificuldade do online, então está tentando encurtar um pouco esses contatos essas abordagens para ser mais assertivos."
+      },
+      {
+        "startTime": 690,
+        "endTime": 706,
+        "speaker": "Bruna Soares",
+        "text": "Eu não sei se você tem alguma dúvida em relação a como a gente começa o contato se você tem alguma sugestão. A gente vai mandar todo o material também para vocês tá? Tem até um teve dicas ali do Edu também em relação a abordagens, só que é muito conteúdo."
+      },
+      {
+        "startTime": 706,
+        "endTime": 714,
+        "speaker": "Bruna Soares",
+        "text": "Não sei se isso aqui é nesse espaço que a gente vai compartilhar e vocês vão poder dar as ideias de vocês em questões de falou apesar."
+      },
+      {
+        "startTime": 718,
+        "endTime": 732,
+        "speaker": "Diego Diehl",
+        "text": "um cardzinho brilhoso Padre Marcelo, mas eu"
+      },
+      {
+        "startTime": 735,
+        "endTime": 757,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu quero trazer mais é do até esse ponto que tu falou do ponto de vista histórico como as coisas aconteceram. Historicamente sempre foi responsabilidade do time de operações colocarem incorporadoras para dentro. Então, a gente tinha que ter do nosso time uma pessoa que fizesse uma venda gratuita uma venda sem dinheiro em troca que conseguisse colocar aquela Incorporadora para dentro."
+      },
+      {
+        "startTime": 757,
+        "endTime": 792,
+        "speaker": "Marcelo Rodrigues",
+        "text": "e O que que aconteceu historicamente também que foi uma grande divisor de águas aqui para gente faz muito pouco tempo que tem sentido um usuário de uma incorporadora não pagante estar cadastrado na hora. Sempre só era um cadastrados usuários pagantes que eles tinham sentido que eles tinham que olhar grupo de comparação e ele seja lá o que for you não pagante não tinha absolutamente nada então esse fomento de um balde que tem hoje pela área do cliente, clique aqui para ter e Ah no seu WhatsApp ou você também consegue editar seu empreendimento."
+      },
+      {
+        "startTime": 792,
+        "endTime": 822,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Isso é muito recente muito recente é tipo assim é menos de Menos de um ano e meio que existe isso então chegou um determina e sei lá em um ano e meio a um ano e meio atrás nós tínhamos 1.500 incorporadoras, então nós tinha uma quantidade incorporadoras que não tinham relacionamento nenhum com a órgão não tinha um ponto de contato não tinham porque se cadastrar na hora os seus usuários e não recebeu um e-mail semanais nem nada do gênero."
+      },
+      {
+        "startTime": 822,
+        "endTime": 841,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Então chegou um determinado momento que a gente teve que estruturar o nosso processo para não essa galera DL precisa se cadastrar na plataforma. E por dentro da plataforma ela ser fomentada a Gerar o seu uso porque for pegar hoje percentualmente da nossa base inteira se 15% tiver usuário. É muito pouco."
+      },
+      {
+        "startTime": 841,
+        "endTime": 863,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E isso é porque não tinha porque esses usuários aí chegou quando entrar no meu lado que virou a tecnologia e ainda tá migrando porque cada vez mais um usuário dele tem opções de fazer coisas lá dentro isso não existia. Então a gente tem que pegar não. Pera aí agora além da gente vender a hora do gratuita para essas incorporadoras."
+      },
+      {
+        "startTime": 863,
+        "endTime": 883,
+        "speaker": "Marcelo Rodrigues",
+        "text": "A gente tem que fazer com que ele se cadastre para que ele seja. A palavra motivado a querer ter um dos nossos planos pagos só por invald sem ter a prospecção outbaum de normal que a gente já faz hoje e existe uma coisa muito diferente. Que aí eu salento de um comercial."
+      },
+      {
+        "startTime": 883,
+        "endTime": 924,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Do passado versos. Talvez uma abordagem que eu considero mais diferente que o João Zanella estão fazendo. Hoje a gente entende que é mais importante termos a Incorporadora. Do que termos ela como pagante porque? Antes em várias abordagens comerciais o time entrava em contato e cara tem que entrar no pago tem que entrar no pago tem que entrar no pago e não se mencionava que ela poderia ficar no gratuito isso gerava um retrabalho muito grande aqui dentro porque a gente convencer aquela Incorporadora entrar aí ela ia para uma reunião comercial, não queria contratar e pedir para sair porque ela achava que na cabeça dela você não pagasse ela tinha que sair."
+      },
+      {
+        "startTime": 924,
+        "endTime": 953,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Aí a gente tinha que entrar em campo de novo para dizer não cara. Pera aí, tu pode ficar no Brasil, mas daí já era um atrito criado difícil de se reverter então. Teve muitas incorporadoras que a gente perdeu ao longo do caminho e depois acabou recuperando por sorte a rotatividade do mercado imobiliário com todas as problemas que ela tem alunos possibilita isso a gente se conectar com as pessoas a gente conseguiu tendo essa abordagem muito mais."
+      },
+      {
+        "startTime": 953,
+        "endTime": 983,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Facilitada a partir do momento que não sentou só a venda direta venda venda pega o ideal pego o plano pago não fica aqui. Uma hora ela vai acabar vindo e isso foi uma grande diferença e o que a gente tem aqui que nos últimos meses mudou muito que eu acho que nós podemos colocar tudo num drive e compartilhar com vocês que a gente não tinha além de apresentações mais elaboradas, mini cardzinhos de querer dizer para pessoa assim, cara."
+      },
+      {
+        "startTime": 983,
+        "endTime": 1006,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Olha só essa mini página aqui que tu consegue ter um básico já de informações sem custo, porque a gente não quer ter nenhum atrito para que aquele para que aquela pessoa entre e Acho que a gente bota ainda sem custo por tempo ilimitado, porque sempre vem depois da pergunta não mas em algum momento vocês vão querer que eu pague e é muito difícil."
+      },
+      {
+        "startTime": 1006,
+        "endTime": 1036,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu só vou querer que tu paga se tu quiser É tu que decide o resto pode ter acesso. vídeos vídeos de como editar Empreendimentos o que tem sentido ele olhar na área do cliente quando ele não é pagante porque tem coisas que tem sentido ele olhar tipo eu consigo dizer para ele hoje na área do cliente Mesmo ele sendo não pagante Tem 700 imobiliárias que tem interesse no teu empreendimento 700, não vou te dizer quais quer saber."
+      },
+      {
+        "startTime": 1036,
+        "endTime": 1056,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Quais Tu paga, mas existem 700 aqui. Então coisas desse nível fora vídeos de bem-vindo ao órgão que é o bonequinho ali do Orlando que aparece até ali no coisa da Bruna, então tem várias e ainda estão sendo criadas cada 15 dias a gente está gerando novos vídeos para serem apresentados todos que estão prontos já."
+      },
+      {
+        "startTime": 1056,
+        "endTime": 1079,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Nós já vamos colocar nesse drive para vocês então analise com calma. Depois desses materiais mas entendam que o a hora o hoje. A nível do que um DL pode fazer é muito diferente do que quando começou esse processo então tem várias coisas que nós estamos mudando nesse exato momento porque mudou o sentido de como não pagante se relaciona com a plataforma."
+      },
+      {
+        "startTime": 1081,
+        "endTime": 1098,
+        "speaker": "Bruna Soares",
+        "text": "Acho que muita coisa casou, né aí trazendo um pouco historicamente aí para vocês só para fazer sentido assim e até para a gente também não voltar ao erro, tá? Eu lembro que eu falava com Marcelo, Marcelo, eu não quero que comercial entre em contato a gente vai perder o cara porque ele não ele não chegava aqui para gente mas eu não quero."
+      },
+      {
+        "startTime": 1098,
+        "endTime": 1116,
+        "speaker": "Bruna Soares",
+        "text": "Teoricamente eu deveria querer. Eu quero que o cara feche dela, né? A gente quer que entre receita, mas eu falava eu não quero ele vai se perder ele não vai se cadastrar, ele vai ficar no Limbo e nunca mais vai vir se cadastrar, né? Então a gente teve por muito tempo essa falta de comunicação."
+      },
+      {
+        "startTime": 1116,
+        "endTime": 1146,
+        "speaker": "Bruna Soares",
+        "text": "Nossa interna esse entendimento por todas as áreas da importância de ter o cliente sendo LDL sendo LDL sendo ideal o que for de todo mundo da empresa ter esse entendimento como cliente. Que acho que isso traz um pouco que o Marcelo falou agora do desse relacionamento independente quem ele vem a ser e uma das coisas também que acho que elogiando também a Laura que eu falei que ela vem da parte de marketing, a gente não teve muito apoio também na parte de marketing da empresa, então a gente não conseguia muito elaborar."
+      },
+      {
+        "startTime": 1146,
+        "endTime": 1181,
+        "speaker": "Bruna Soares",
+        "text": "Muitas coisas tá tinha da parte da operação, a gente não sai a gente não tem a parte de criação, então a gente com que a gente as nossas armas a gente ia usando a gente fazia. Eu lembro que a gente parava e o Marcelo a gente olhava apresentação. Vamos mudar isso, vamos fazer aquilo, mas a gente não tinha então a Laura também entrou isso e acho que deu um bom up assim nos vídeos e lâminas enfim n coisas por isso que a gente vem mudando isso, mas a gente não tem por parte da empresa muito esse apoio de marketing, tá? Trago isso porque pode falar."
+      },
+      {
+        "startTime": 1183,
+        "endTime": 1212,
+        "speaker": "Bruna Soares",
+        "text": "Não trago isso para justificar também, o que que vem nessa trajetória, né? Essas abordagens que a gente vem fazendo. Quais foram os as pedras no nosso sapato ao longo desse tempo assim. Acho que foi essa parte de entendimento da empresa comunicação comercial entender que tem que fazer com cliente entre Talvez ele não feche hoje, mas daqui seis meses ele vai fechar se a gente tornar ele um usuário se a gente fazer com que ele faça sentir que ele veja lá na plataforma e veja sentido nas coisas que ele tá vendo."
+      },
+      {
+        "startTime": 1212,
+        "endTime": 1222,
+        "speaker": "Bruna Soares",
+        "text": "Enfim, então trazendo um pouco a trajetória dessas abordagens que a gente vem enfrentando e que a gente vem mudando. Desculpa aí pesado. Só quis complementar o que o Marcelo falou."
+      },
+      {
+        "startTime": 1227,
+        "endTime": 1258,
+        "speaker": "Carol Pizzano",
+        "text": "Primeiro de tudo muito legal iniciativa dessa reunião. Parabéns material também é interessante. Isso mostra amadurecimento e o quanto que o time de cadastro ele tem uma questão ali de liderança muito boa, né? A gente vê a Bruna sempre procurando. Soluções sempre visando mais para frente Marcelo sempre guiando ali o time e bom desse do passado, eu acho que eu até posso contribuir né? Porque eu venho desse passado de vocês."
+      },
+      {
+        "startTime": 1258,
+        "endTime": 1280,
+        "speaker": "Carol Pizzano",
+        "text": "E realmente era muito turbulento. E quando você falou agora Bruno tá pegando essa linha do marketing. Literalmente a gente tem que ser bem franco, a gente não tem marketing de apoio de nada. A apresentação que o comercial usou durante os últimos dois anos atrás era uma apresentação feita por mim no campo."
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1302,
+        "speaker": "Carol Pizzano",
+        "text": "Olha que coisa. E a gente não tem essa atração de impactar a nossa base convidando, né? Então sempre teve um pouco de resistência então, talvez esse ano seja o ano da gente mudar essa cultura de trazer o marketing mais próximo para a gente. Parabéns Laura, gostei muito do material."
+      },
+      {
+        "startTime": 1302,
+        "endTime": 1342,
+        "speaker": "Carol Pizzano",
+        "text": "Excelente você tá vindo com uma visão em pouco tempo de casa que é muito muito interessante. Tenho certeza que nos próximos meses toda situação, ela vai ficar muito mais refinada de conhecimento. Até te convido já para você começar a participar de algumas reuniões online com as incorporadoras para você ver como que eles trabalham, como que se falam, né dentro do nosso mercado hoje dentro desse praças que a gente fala existe muita distinção da mesma palavra e isso vai melhorar cada vez mais refinar o teu Pit de abordagem para o cliente dele."
+      },
+      {
+        "startTime": 1342,
+        "endTime": 1376,
+        "speaker": "Carol Pizzano",
+        "text": "Isso é interessante para você para o teu crescimento e essa questão do comercial entra para vender a gente pode trazer como Case Espírito Santo e tá sendo uma das praças mais complexas da gente entrar e abordar. Porque infelizmente eu tive ali uma abordagem do time comercial de forma incorreta, né? A gente só não teve tanto problema em João Pessoa, porque ali no meio do caminho a gente teve a interferência do Diego entrando e bloqueando um pouco."
+      },
+      {
+        "startTime": 1376,
+        "endTime": 1404,
+        "speaker": "Carol Pizzano",
+        "text": "Né, Senão, João Pessoa ficaria igual Vitória o meu entendimento, como que é comercial é primeiro a gente bota todo mundo para dentro de casa usa no modelo gratuito e siga a pessoa ali no uso de do que tem para depois a gente fazer o pago. E aí isso é uma cultura que eu acho que eu quero trazer para o time agora em 2025."
+      },
+      {
+        "startTime": 1404,
+        "endTime": 1416,
+        "speaker": "Carol Pizzano",
+        "text": "Ao longo aqui vou lembrando as coisas que eu vou falar, mas parabéns Laura, gostei muito. Parabéns pela iniciativa. Você chegou já. Muito fazendo um trabalho bem interessante."
+      },
+      {
+        "startTime": 1416,
+        "endTime": 1416,
+        "speaker": "Laura Stéphane de Oliveira",
+        "text": "Muito obrigada."
+      },
+      {
+        "startTime": 1418,
+        "endTime": 1429,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tem até medo de elogiar a Laura publicamente. Por causa dos outros times e seu real pensa nisso antes de dormir. o"
+      },
+      {
+        "startTime": 1430,
+        "endTime": 1432,
+        "speaker": "Diego Diehl",
+        "text": "Porque Marcelo dos outros filmes O que você perdeu eu já notei aqui"
+      },
+      {
+        "startTime": 1432,
+        "endTime": 1438,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Roubar ela Claro é assim que funciona."
+      },
+      {
+        "startTime": 1438,
+        "endTime": 1438,
+        "speaker": "Carol Pizzano",
+        "text": "Não."
+      },
+      {
+        "startTime": 1441,
+        "endTime": 1450,
+        "speaker": "Diego Diehl",
+        "text": "Não eu nunca vou querer puxar desde que Rode aí cara, tá maravilhoso marketing rodando dentro aí de vocês para mim tá ótimo, o cara é mais uma Laura aí do lado de"
+      },
+      {
+        "startTime": 1453,
+        "endTime": 1482,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tem um ponto só que é importante que vocês entendam. Que nós temos o processo, mas a gente tipo assim, beleza? A gente consegue dar foco no Espírito Santo a gente consegue dar foco para um determinado momento em João Pessoa. Mas em todas as UFS que a gente tá a gente tem que estar atendendo igual então a lista de Follow Ups que a gente tem de Incorporadora de novas incorporadoras é gigante então tipo assim, se hoje todas as incorporadoras pedissem uma vídeo chamada com a gente."
+      },
+      {
+        "startTime": 1482,
+        "endTime": 1512,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Talvez eu poderia de 10 pessoas só para fazer vídeo chamada o dia inteiro. Então, por isso que a gente tem que a gente teve que aplicar um trabalho em escala. Tentando ser o mais humano possível, mas é quase impossível que seja humano porque é uma cacetada de Incorporadora de todas as UFS, a gente pode como empresa, vamos dar foco no Espírito Santo beleza, mas eu nós aqui a gente não pode parar de olhar para o Rio Grande do Sul hoje não pode parar de olhar para o São Paulo."
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1537,
+        "speaker": "Marcelo Rodrigues",
+        "text": "A gente não pode parar para nenhum lugar. Porque todas as áreas é a lógica do Google, né? A gente tem que ter todos os Empreendimentos, então a gente real trabalha com uma cacetada. Se eu pegar hoje o backlog lá que a Pâmela tá tendo de empreendimentos que estão por entrar é fácil encontrar 500 Empreendimentos que ela tá entrando em contato para colocar para dentro da plataforma de todas as webs que a gente atua."
+      },
+      {
+        "startTime": 1537,
+        "endTime": 1572,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E ser uma das Dores quando a gente entra numa nova prática, a gente só aumenta esse backlog, mas o nosso modelo ele tem que ser em escala, a gente tenta humanizar o máximo possível, mas a gente não consegue a gente não pode parar de dar atenção. Para o Rio de Janeiro que é uma praça que nós não temos tanta receita associado, a gente tem que continuar dando atenção para o Rio de Janeiro, então nós somos o único time então o principal time que ele não pode parar de dar foco em tudo as outras práticas que a gente tem que manter elas ativas."
+      },
+      {
+        "startTime": 1572,
+        "endTime": 1589,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E tem um ponto aqui Diego a nível de fomento de um balde. Que só pisando esse ponto que tu trouxe do marketing é a mesma dor que nós temos só que não é nós a empresa como um todos já é mapeado e tem discussões bem acaloradas sobre isso nos Bastidores."
+      },
+      {
+        "startTime": 1589,
+        "endTime": 1624,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Não se preocupem. Quanto é isso que vai ser resolvido, mas o a nível de fomento de balde. Talvez a gente mexe em até 5% da capacidade que a gente tem hoje ainda de comentar mais isso. Porque a gente tem de mensal em meio a gente podia ter automação de WhatsApp que a gente podia ter Push no aplicativo de automação para que a pessoa entre tantas outras coisas que a gente não explora hoje que a gente acaba sempre gargalando lá no time de deve para fazer aquelas informações que é do ponto de vista humano, a gente faz aqui a gente manda em mim."
+      },
+      {
+        "startTime": 1624,
+        "endTime": 1643,
+        "speaker": "Marcelo Rodrigues",
+        "text": "A gente manda o WhatsApp, mas tem muitas coisas automatizadas que você não podia fazer. E que a gente não faz hoje tem muita margem ainda para crescer nesse nível, porque senão nós vamos depender sempre. Do Outback sempre sempre. E tem várias coisas, mas o outro ponto principal que é a próxima ideia que tá na minha cabeça."
+      },
+      {
+        "startTime": 1643,
+        "endTime": 1660,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu queria montar eu queria não eu quero eu vou montar em algum momento. Um painel de tipo assim Zanella esse painel aqui é tudo que aconteceu no Paraná e que aqui tu consegue ver que a oportunidade surgiram ao longo da semana. Seja uma incorp nova que entrou seja uma desatualizada."
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1679,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Seja um cara que pediu para falar seja um cara que assessor de mais área do cliente editou toda hora seus Empreendimentos coisas do gênero esse livro de dados dá para ser criado porque o que eu vejo no time de operação, nós temos um potencial gigantesco de ser um fornecedor de insights para o time comercial."
+      },
+      {
+        "startTime": 1679,
+        "endTime": 1697,
+        "speaker": "Marcelo Rodrigues",
+        "text": "A gente já faz isso hoje, mas ele é muito humano tem como automatizar muito dessas coisas, eu hoje eu preciso olhar cara, como aconteceu com a plainge que eu olhei humanamente. Passei para o Diego passou abusa nela dizendo cara. Olha que oito corretores ontem reclamaram da tabela de preço que eles estão colocando."
+      },
+      {
+        "startTime": 1697,
+        "endTime": 1723,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Só ontem pode o sistema. Avisa isso pode me dizer cara para cacete ou o cara da Rota sai ditando os empreendimentos para cacete. Vai lá e fala com ele coisas do gênero podem acontecer que nós estamos ainda arranhando essa área. Tem muito ainda que você pode construir, mas o meu sonho é real se é um fornecedor de insights de tudo que tá acontecendo dentro do sistema para que vire munição para vocês entrarem em contato com uma incorporadora."
+      },
+      {
+        "startTime": 1723,
+        "endTime": 1748,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Mas isso já é um segundo momento se após a Incorporadora tá aqui dentro o que nós estamos tratando aqui é o entrar que aí olhem os materiais que a gente vai mandar para vocês as cadências de contato que a gente faz e não se esqueçam que é uma indústria é alto volume a cacete é um monte é todos os dias é um volume para o país inteiro de informação que a gente está mandando."
+      },
+      {
+        "startTime": 1748,
+        "endTime": 1751,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Para atrair o quanto a gente consegue de empreendimento."
+      },
+      {
+        "startTime": 1753,
+        "endTime": 1770,
+        "speaker": "Bruna Soares",
+        "text": "A gente não pode tratar ser muito personificado, sabe? Personagem tem que fazer isto tem que parar para perguntar como é que tá o Fulano não tipo não tem como a gente fez um teste no começo. Acho que a Laura também tava junto a gente fez reuniões marcou mesmo para falar com a pessoa."
+      },
+      {
+        "startTime": 1770,
+        "endTime": 1791,
+        "speaker": "Bruna Soares",
+        "text": "A gente fez duas reuniões do dia, só que a gente não fez as outras. 200 que a gente tinha que fazer com incorporadoras tô tipo fez um gargalo a gente ficou com uma atividade atrasada, porque a gente tem outras 200 para fazer porque a gente tem mil incorporadoras aqui que não entrou ainda de todas as webs sabe? Então é um pouco inviável para gente essa parte."
+      },
+      {
+        "startTime": 1791,
+        "endTime": 1814,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E como é um volume tão grande tipo esse dia aí um bom exemplo. Dessas 200 que tinham que fazer follow up já tinha algumas dizendo Sim eu quero entrar mas nós temos que parar para dar atenção, então tipo as mais as que vão precisando de mais complexidade, elas acabam ficando para trás porque tem várias outras que estão dizendo Sim já no primeiro contato."
+      },
+      {
+        "startTime": 1814,
+        "endTime": 1819,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E a gente tem que fazer com que elas? Essa é a loucura do nosso jardim."
+      },
+      {
+        "startTime": 1822,
+        "endTime": 1842,
+        "speaker": "Bruna Soares",
+        "text": "Acho que esse painel aí do Marcelo vem em momento que vier vai vir embora porque a gente veio fazendo agora é manual, né? Então a Laura ela pega tudo que tem do Paraná para as nela que tem oportunidade aqui são pessoas que a gente tentou falar e nunca não deu retorno são incorps que a gente nunca nunca chegou porque não tem mão para chegar para falar então aqui ó."
+      },
+      {
+        "startTime": 1842,
+        "endTime": 1860,
+        "speaker": "Bruna Soares",
+        "text": "São que não conhecem a gente se quiser bater ela na porta, se quiser fazer contato conhece alguém tá lá, a gente tem casos é que a gente não não cadastra o Incorporadora um produto porque ele tem exclusividade com dwv. E aí ele nega para gente é a oportunidade para o comercial e lá e bater na porta dizer, por que que tem exclusividade."
+      },
+      {
+        "startTime": 1860,
+        "endTime": 1875,
+        "speaker": "Bruna Soares",
+        "text": "Mas são coisas que todos os dias a gente tem casos assim. Tipo enviava a gente parar todos os dias para estar passando o caso para caso. Claro que os mais críticos a gente acaba passando. Mas são muitos casos que a gente talvez. Tem coisas que a gente nem sabe que para vocês é importante."
+      },
+      {
+        "startTime": 1875,
+        "endTime": 1898,
+        "speaker": "Bruna Soares",
+        "text": "Para nós aqui é uma informação que beleza Travou Por esse motivo, mas a gente não sabe para vocês É triviar isso aí seria um motivo para ir lá tomar um café com o cara e fechar um contrato, né ou fazer um relacionamento. Então acho que vende encontro que a gente tá fazendo hoje é muito manual ainda e bem provável, vamos continuar fazendo acho que das limitações que a gente tem a gente tem que fazer do que a gente puder."
+      },
+      {
+        "startTime": 1898,
+        "endTime": 1909,
+        "speaker": "Bruna Soares",
+        "text": "Fazer mas acho que esse painel e automações tudo que a gente conseguir construir ideias que vocês tiverem que vocês acham que a gente possa contribuir com vocês. Para essa jornada esse relacionamento a gente tá à disposição também. Fala aí Diego."
+      },
+      {
+        "startTime": 1913,
+        "endTime": 1940,
+        "speaker": "Diego Diehl",
+        "text": "É uma sugestão. Eu acho que um trabalho de casa nossa que é do comercial. A gente entendeu o processo atual. E aí comentar e tirar dúvida para um primeiro passo só esclarecer. Para dar uma aproximada numa baixa no baixo volume. Ou a gente precisa eu tô entendendo tudo que a gente está falando, né? A gente tem um desafio de Colocar incorporadoras que não estão."
+      },
+      {
+        "startTime": 1940,
+        "endTime": 1960,
+        "speaker": "Diego Diehl",
+        "text": "Esse é um então aquisição. Aí eu vejo que tem oportunidades da gente tatiar um pouquinho e por último comercial apoiar no amadurecimento do processo trazendo mais inteligência comercial para o processo de operações. É a gente se envolver um pouquinho a gente daí tipo assim, ó, essa procuradora aconteceu isso."
+      },
+      {
+        "startTime": 1960,
+        "endTime": 1994,
+        "speaker": "Diego Diehl",
+        "text": "E aí dá missão para gente algumas praças específicas. Para a gente ir lá e resolver e aprender porque falar da ideia é fácil, né? Eu acho que o mais importante é o cinza nela tem duas aqui que não entraram em Curitiba Resolve Meu irmão. O que ele vai fazer? Deixa a cargo da criatividade dele porque depois quando a gente for pensar num processo a gente vai saber o que funcionou deve ter dois modelos um é descobrir, o que pode ser feito."
+      },
+      {
+        "startTime": 1994,
+        "endTime": 2032,
+        "speaker": "Diego Diehl",
+        "text": "Executar e dar certo e aí um passo que eu não me preocuparia nesse começo nesse teste é como dar escala, porque da escala é só analisar esforço. Ah, cria um vídeo cria uma automação a justa mensagem. E aí tem umas paradas mais relacionais que eu acho que tem um ouro muito grande assim tipo assim o cresce de Curitiba a Demi de Curitiba se esconde Curitiba eu posso ir lá explicar lá e falar cara, eu vou usar teu nome porque tem Incorporadora que tá atrapalhando os corretores, beleza? Eles podem falar beleza."
+      },
+      {
+        "startTime": 2032,
+        "endTime": 2062,
+        "speaker": "Diego Diehl",
+        "text": "Imagina a gente chegar ligando para o cara. Fala cara. Tô entrando em contato em nome do cresce. Tá ligado. Tipo só um exemplo. Ou eu conheço um cara da praça e pode mandar um áudio para o dono da Incorporadora. isso custa um áudio dos anel um áudio para lá um áudio para cá, que daí é usar a nossa rede de contatos para Ou outra coisa pensando falar o cara não."
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2084,
+        "speaker": "Diego Diehl",
+        "text": "Não quer entrar você vai lá e mandou uma lista dos concorrentes dele que já estão no volume total que o concorrente dele já tá então pegar no EGO pegar na dor pegar no status pegar com rede, eu acho que tem vários elementos, mas eu queria não dizer nada. Agora eu pensei numa proposta assim, ó."
+      },
+      {
+        "startTime": 2084,
+        "endTime": 2127,
+        "speaker": "Diego Diehl",
+        "text": "A gente pensar em Curitiba e Goiânia, acho que já tem várias incorporadoras já são praças que estão aí, eu não quero me envolver com Vitória. Eu acho que pisando tá mais perto de Vitória, talvez podia ser pisando Vitória com Edu ali pegar estratégia normal e o Hilti vê o que que dá mas assim baixa escala pegasse resolve e fez duas incorporadoras aí o João resolve duas em Goiânia, eu usava duas em Curitiba, eu resolvo duas em outro lugar em João Pessoa ou aí Balneário Floripa, esquece um pouco porque Balneário Terra litoral ali, pode ser a gente nem tá monetizando lá."
+      },
+      {
+        "startTime": 2127,
+        "endTime": 2150,
+        "speaker": "Diego Diehl",
+        "text": "Floripa a gente sabe que o mercado taimaturno lá para o mercado é fechado, então é um mercado que é problemático também. E aí a gente pode dar uma tateada e assim bem um desafio para gente precisamos por essas oito. E aí a gente tenta aí, depois a gente faz uma reunião contando que a gente fez."
+      },
+      {
+        "startTime": 2150,
+        "endTime": 2172,
+        "speaker": "Diego Diehl",
+        "text": "Porque às vezes numa ligação numa reunião eu tive que gastar mais energia para descobrir mas eu descobrindo. Qual o botão apertar a gente cria uma máquina que aperta esse botão depois né? Ele mandar mensagem mandar o vídeo mandar o áudio fazer sei lá o quê? Acho que minha proposta é essa princípio para aquisição."
+      },
+      {
+        "startTime": 2172,
+        "endTime": 2203,
+        "speaker": "Diego Diehl",
+        "text": "E mais que eu pensei. E eu lá e daí um ponto da obra gente, mas ela falou e eu falei para prisão essa semana passada, tipo assim. A única coisa que me importa do passado agora, entendeu? Histórico do que eles por último os problemas algo agora a gente vai resolver a maioria tipo assim, não existe mais a possibilidade da gente acabar o ano e dizer ainda que não tem marketing apoiando operações comercial não existe."
+      },
+      {
+        "startTime": 2203,
+        "endTime": 2225,
+        "speaker": "Diego Diehl",
+        "text": "Não eu vou embora eu falei na missão então marketing a gente vai resolver. Eu acho que essa aproximação da operação com o normal com um tempo de qualidade do João um pouquinho Zanella pisando e eu a gente pode ter uma conversa rica numa próxima inclusive. Vamos vídeos de vocês as abordagens."
+      },
+      {
+        "startTime": 2225,
+        "endTime": 2268,
+        "speaker": "Diego Diehl",
+        "text": "Então anotei aqui pra gente estar nessa página para usar nela principal. Acho que eu vou. Vou pensar mais em vocês e quis você sinta-se incluída também, se você conseguir em Vitória, mas eu acho que uma coisa importante que vocês falaram numa dificuldade em falar com o decisão. Cara isso daí é a gente tem que ter processo padrão para obter contato de decisões, eu tenho cinco estrelinhas de contato na cidade que a gente precisa contar que fala meu irmão da tua ajuda é o que me dá um contato forte da empresa, tal, cara, alguém vai mandar e esse cara é um parça nosso que temos."
+      },
+      {
+        "startTime": 2268,
+        "endTime": 2299,
+        "speaker": "Diego Diehl",
+        "text": "Aí coisas básicas, levei a apresentação padrão. Eu acho que a gente vai ver né no material, mas aí dá uma olhadinha, talvez já comentar alguma coisa, mas primeiro vamos testar. Um site aqui daí falando para João Zanella, principalmente a utilizar mais dados e concorrentes. Nada dói mais no Incorporadora do que falar dos concorrentes estão aqui ele já me falou que vocês vêm com a gente você tá bom? Zoar o cara para ele entender."
+      },
+      {
+        "startTime": 2299,
+        "endTime": 2322,
+        "speaker": "Diego Diehl",
+        "text": "Aqui processo de contato acho que uma coisa para lembrar sempre. Para gente a gente tem que pensar no modelo que possa dar escala depois. Que é a gente precisa mapear o Brasil inteiro e o Marcelo suficiente com isso então nesses primeiros não eu queria pedir para não pensar em escala tá longe não cara."
+      },
+      {
+        "startTime": 2322,
+        "endTime": 2344,
+        "speaker": "Diego Diehl",
+        "text": "Se tiver que ligar para o cara, se tiver que visitar o cara porque o mais importante entender a cabeça dele, o que que qual medo ele teve que tomar um sorvete grátis, que que tá rolando então o objetivo não é nem só fazer aquisição, mas entender porque que ele não entrou de primeira."
+      },
+      {
+        "startTime": 2344,
+        "endTime": 2368,
+        "speaker": "Diego Diehl",
+        "text": "Este vai conseguir tipo assim, pensa gastar duas horas no nosso dia a gente vai conseguir. Mas isso não é escalável então a importância a gente retornar com Tipo assim o cara falar eu achei que provavelmente vem uma parada assim. Ah, eu achei que porque é uma comunicação ineficiente Nossa e daí a gente já insere para bloquear essa esse."
+      },
+      {
+        "startTime": 2368,
+        "endTime": 2393,
+        "speaker": "Diego Diehl",
+        "text": "Achei que ele estranho. É janela uma missão Nossa em Curitiba é aproximada as entidades locais, então a gente já amarra uma coisa da outra. Eu quero poder falar que o Creci está mandando ele entrar na ordem. Em algum momento de alguma forma mais Sutil, mas assim você está atrapalhando o trabalho dos nossos corretores da cidade não estando na hora."
+      },
+      {
+        "startTime": 2393,
+        "endTime": 2417,
+        "speaker": "Diego Diehl",
+        "text": "Daí uma segunda missão, então uma missão é não baixíssimo volume em praças estratégicas fazer aquisição incorporadoras problemáticas, entendeu? Porque E aí compartilhar numa próxima reunião e a segunda Marcelo e Bruna que se falaram que para mim tá assim, ó, apitando assim a minha mente ela eu tento focar ela em aonde tem receita onde tem receita onde tem receita."
+      },
+      {
+        "startTime": 2417,
+        "endTime": 2447,
+        "speaker": "Diego Diehl",
+        "text": "Esse é meu. Momento e para mim agora essa clareza de que é novo. E que tem tido uma conversão de balde para mim está apitando então da isanella para ti. Eu acho que uma meta Nossa agora nos próximos dois meses é cara. Muitos usuários muitos usuários em Curitiba, a gente vai ter que daqui a pouco começar a criar vídeo para ensinar ele entrar a usar depois cutucar o cara entrar de novo."
+      },
+      {
+        "startTime": 2447,
+        "endTime": 2478,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que a gente podia testar a janela. Cara, muitos usuários pontos eu quero um indicador muitos usuários aí se criar usuário ele não tiver entrando daí é o segundo problema. Mas o passo um é testar usuários, inclusive, depois eu penso numa aquisição que é cara, eu deveria te cobrar, mas se você se comprometer a mente disponibilizar material mensalmente que eu não sofro para obter outra informação, porque eu não sou pago para isso."
+      },
+      {
+        "startTime": 2478,
+        "endTime": 2505,
+        "speaker": "Diego Diehl",
+        "text": "Eu preciso receber a tua informação e eu preciso dos vários trans conectados na plataforma. Acho que daqui a pouco em Curitiba, a gente pode ter uma troca nesse nível. Eu consigo de graça, mas você precisa disso, principalmente para essas difíceis ainda. Você podia fazer um teatrinho assim já sabe eu tô te ligando, cara, porque assim ó, você tá quase entrando na nossa lista."
+      },
+      {
+        "startTime": 2505,
+        "endTime": 2525,
+        "speaker": "Diego Diehl",
+        "text": "E assim não colocaremos você de graça, mas eu vim aqui para fazer o último esforço contigo, mas eu preciso disso. Disso disso. Eu queria que você entrasse no modo mais porque a gente tá com essa moral em Curitiba agora para testar tá claro. Pode não sei quem compartilhou e Bruno."
+      },
+      {
+        "startTime": 2528,
+        "endTime": 2540,
+        "speaker": "Bruna Soares",
+        "text": "Não era só para duas coisas uma que tu comentou sobre a pegar aqui players que a gente tem do mercado de tal lugar e pedir decisores hoje. A gente tem uma piada pessoas que possam lutar nos ajudando. Talvez não são as pessoas Chaves"
+      },
+      {
+        "startTime": 2540,
+        "endTime": 2547,
+        "speaker": "Diego Diehl",
+        "text": "ou a gente não Ou talvez a gente não são as pessoas que a gente tem esse relacionamento da empresa fazer sabe tipo essa parceria como tem lá com o Olha aí, olha teus contatos aí janela."
+      },
+      {
+        "startTime": 2547,
+        "endTime": 2553,
+        "speaker": "Bruna Soares",
+        "text": "Wagner como tem lá com a riot. Enfim. Tô trazendo exemplos."
+      },
+      {
+        "startTime": 2555,
+        "endTime": 2556,
+        "speaker": "Diego Diehl",
+        "text": "Já tem uns"
+      },
+      {
+        "startTime": 2556,
+        "endTime": 2586,
+        "speaker": "Bruna Soares",
+        "text": "Tá aqui eterno, então tem várias coisas aqui que a gente tenta explorar tá isso aqui então. Acho que cada um pouco com a ideia. Mostrei isso aqui porque casa com a ideia que tu trouxe da parte do tipo, vamos. E vamos tentar pegar regiões que essas pessoas atum mas uma outra coisa que aí essa segunda coisa que tu comentou sobre porque assim o que que é o problema tá a pessoa dá ok de entrar e botar os produtos dela, porque que ela não tem interesse de ter usuário e poder ver os produtos dela dentro da nossa plataforma."
+      },
+      {
+        "startTime": 2586,
+        "endTime": 2616,
+        "speaker": "Bruna Soares",
+        "text": "É uma coisa que me questiona. Tipo assim é mais fácil dar ok liberar o material porque eles liberam para todos os corretores, mas tipo a plataforma que eles têm números. Por que que eles não fazem isso? Sabe é uma coisa muito nova é uma coisa muito nova que nem o Marcelo falou, tipo a gente não tinha isso antes não suportava o usuários então assim hoje a operação trabalha a gente não consegue obviamente trabalhar com banco inteiro, mas a gente pegou deu um start que eu vou mandar depois o material para vocês que é relacionamento NP."
+      },
+      {
+        "startTime": 2616,
+        "endTime": 2638,
+        "speaker": "Bruna Soares",
+        "text": "Tá mas só para vocês entenderem que esse relacionamento de IP no momento como Incorporadora da Ok a Laura libera ela dizendo pessoal. Tenho aqui cinco produtos assim Incorporadora eles Estão dispostos a entrar no modo DL para ver para experimentar tudo certo, ela chega para mim e a gente faz esse convite a Laura faz um convite para eles para eles se tornar o usuários tá? Então a gente tem de todas as aqui."
+      },
+      {
+        "startTime": 2638,
+        "endTime": 2639,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que a gente vai conseguir Bruna trazer alguns."
+      },
+      {
+        "startTime": 2639,
+        "endTime": 2645,
+        "speaker": "Bruna Soares",
+        "text": "Só que assim é muito pouco que a gente faz converter eles para ser usuário eles entrarem e olhar o produto."
+      },
+      {
+        "startTime": 2651,
+        "endTime": 2656,
+        "speaker": "Diego Diehl",
+        "text": "Alguns insights aí sobre isso, tipo a primeira provocação, para que que eu vou olhar o número?"
+      },
+      {
+        "startTime": 2658,
+        "endTime": 2659,
+        "speaker": "Bruna Soares",
+        "text": "exato exato"
+      },
+      {
+        "startTime": 2660,
+        "endTime": 2661,
+        "speaker": "Diego Diehl",
+        "text": "Daí né? Eu até pensei que quando você falou sabe que eu pensei é para você"
+      },
+      {
+        "startTime": 2661,
+        "endTime": 2662,
+        "speaker": "Bruna Soares",
+        "text": "exato"
+      },
+      {
+        "startTime": 2667,
+        "endTime": 2689,
+        "speaker": "Diego Diehl",
+        "text": "Marcelo. E pensando cara, eu liberaria a área de concorrentes para adicionar concorrente, só que a parte dos corretores ativos no grupo tipo. Sabe sufocada assim, ele não pode com cadeadão assim, imagina as janelas dele colocaram concorrente saber vendas. E ficar olhando lá que ele não tá em primeiro tá maravilhoso, já enfim."
+      },
+      {
+        "startTime": 2689,
+        "endTime": 2717,
+        "speaker": "Diego Diehl",
+        "text": "Daí a gente elabora alguma coisa tanto deve para ver se libera mais uma coisinha para o dele para se tornar mais interessante que não seja caro ou um pit do que que ele faz com aquele número ou uma troca ou qualquer coisa ali, a gente vai encaixar isso nela tendo que adicionar em todo mundo daqui três semanas, ele vai trazer porque ele vai falar assim velho todo mundo."
+      },
+      {
+        "startTime": 2717,
+        "endTime": 2723,
+        "speaker": "Diego Diehl",
+        "text": "Divulgado nisso aqui a gente precisa falar isso para eles e a gente adiciona na comunicação."
+      },
+      {
+        "startTime": 2726,
+        "endTime": 2740,
+        "speaker": "Bruna Soares",
+        "text": "Porque hoje o nosso follow up É voltado para fazer interesse dele que nem tu falou tipo, mas por que será que ele não quer ver aqueles números? Por que que não é importante para ele tipo, qual o sentido dele ter esses números porque não faz ele entrar. Não faz eu dizer que o empreendimento dele tem sessões sabe."
+      },
+      {
+        "startTime": 2740,
+        "endTime": 2751,
+        "speaker": "Diego Diehl",
+        "text": "Eu também não entraria. Eu como diretor de vendas ia falar f***-se, eu não tenho não. Vou fazer outra coisa. Vou ligar para o dono de uma imobiliária que eu ganho mais, entendeu?"
+      },
+      {
+        "startTime": 2753,
+        "endTime": 2758,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Hoje talvez o que mais instiga ele entrar e a edição de empreendimentos que recém entrou."
+      },
+      {
+        "startTime": 2760,
+        "endTime": 2766,
+        "speaker": "Diego Diehl",
+        "text": "Aí é exatamente Cara você já deu uma revisada no teu empreendimento Ali, você é dono da Parada. Acho que você dá uma ajustada ali vai converter mais."
+      },
+      {
+        "startTime": 2766,
+        "endTime": 2766,
+        "speaker": "Marcelo Rodrigues",
+        "text": "isso"
+      },
+      {
+        "startTime": 2769,
+        "endTime": 2788,
+        "speaker": "Diego Diehl",
+        "text": "Talvez a edição Zanella, possa ser uma boa eu vou pleitear daqui a pouco. Talvez a gente liberar alguma coisa mais por um tempo. Não sei mas vamos tentar assim, como tá assim, né? E ver o que acontece outra coisa aqui então Bruno. Deixa que a gente retorna pode falar."
+      },
+      {
+        "startTime": 2788,
+        "endTime": 2796,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu acho Diego que tem hoje que já existe tecnologia para liberar o grupo de concorrentes e não liberar os usuários. Eu acho que já existe isso."
+      },
+      {
+        "startTime": 2796,
+        "endTime": 2805,
+        "speaker": "Diego Diehl",
+        "text": "embaixo Eu acho que tem um número de corretores lá que a gente libera, né? Dá para deixar zero. Ah vai ter alguma coisa, mas porque ele vai liberar uma área de"
+      },
+      {
+        "startTime": 2805,
+        "endTime": 2805,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Também isso aí."
+      },
+      {
+        "startTime": 2811,
+        "endTime": 2818,
+        "speaker": "Diego Diehl",
+        "text": "quantos corretores no grupo de concorrentes deles similares tem o cara brilha mais o olho ainda, né?"
+      },
+      {
+        "startTime": 2820,
+        "endTime": 2844,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A coisa que eu tô vendo tá funcionando bastante aqui em Curitiba, é como que a gente consegue mexer no ego da Incorporadora? Como que ela consegue se visualizar atrás dos concorrentes dela então um exemplo bem. Bem recente foi a parte da Hype, né um excelente engajamento dentro da dentro da ordem a gente mostra isso para diferentes incorporadoras e o pessoal não tem uma reação diferente a não ser cara."
+      },
+      {
+        "startTime": 2844,
+        "endTime": 2880,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu quero tá aonde eu quero ter a mesma audiência que tem. Só que essa audiência Nossa da órgão. Então se a gente conseguiu utilizar esses dados para atingir diretamente o ego dessas incorporadoras e falar eu não posso. Tô fora disso daqui especialmente. Eu acho que isso daí pode ser um pouquinho mais eficaz do que uma página de edição que muitas vezes a Incorporadora ela não liga para essa página de edição tá lá, o produto tá comunicando tá me trazendo corretor, tá tudo certo, imagina se a gente tem incorporadoras que são de as que não acesso a Orlando."
+      },
+      {
+        "startTime": 2880,
+        "endTime": 2896,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Imagina, como que a gente consegue trabalhar com as imaginando então uma uma solução que eu tô vendo bastante é como que a gente consegue utilizar esses dados para mostrar para Incorporadora que ela está atrás do concorrente dela dentro da hora. Acho que isso daí é o"
+      },
+      {
+        "startTime": 2896,
+        "endTime": 2924,
+        "speaker": "Diego Diehl",
+        "text": "Acho que vale janela que eu falei ontem na groomers sobre os caras pedindo coisa para o sítiou a gente vai lá faz. roda na mão com 30 traz resultados E aí já tá validado? Já tá tudo já então esses dados aí que você quer mandar Zana, ela vai testando vai mandando vai testando vai mandando e depois a gente consegue desenvolver para mandar para duas vias incorporadoras sobre o que quiser."
+      },
+      {
+        "startTime": 2924,
+        "endTime": 2950,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que dava para a gente fazer um teste comercial também. Bruna e Laura quando a gente for cadastrar alguém Tem que ter uma oferta irresistível. Por que que eu vou entrar agora? O que que é diferente entrar agora o mês que vem? Então assim comercialmente não é dizer que ele precisa pagar mas é falar assim, ó seguinte a este cadastrando agora."
+      },
+      {
+        "startTime": 2950,
+        "endTime": 2979,
+        "speaker": "Diego Diehl",
+        "text": "Se você quiser entrar agora nos próximos sete dias tem 50% de desconto no primeiro ano. f***-se que dá um desconto para ele vai virar os clientes ela nem vai saber o que é DL. Então o que falta muitas vezes é comercial. Tipo assim. Cadê a oferta na hora do cara virar DL para da Cadê o certo? Cadê cadê? Cadê a proposta? Tá ligado? Então a gente vai criar alguma coisa assim agressiva."
+      },
+      {
+        "startTime": 2979,
+        "endTime": 3011,
+        "speaker": "Diego Diehl",
+        "text": "Acho que eu tô conseguindo já imputar na cabeça da Galera, porque acho que o Felipe que tá aí há mais tempo sofreu muito para comprar para ancorar preço para fazer tal coisa, mas agora nosso jogo é escala. Então se os próximos 200 delas que vocês cadastrarem 50. Para a gente aumentou as vendas para c****** e no segundo ano a gente passa a cobrar o que deveria então daqui a pouco eu trago um modelo comercial para você cadastrou."
+      },
+      {
+        "startTime": 3011,
+        "endTime": 3032,
+        "speaker": "Diego Diehl",
+        "text": "E aí você tem interesse em conhecer o nosso plano pago? Porque se você contratar você tem você vai economizar em 5 mil reais então, daqui a pouco a gente vai com modelos. Janela. Pode testar o que você quiser ali, por isso que você quiser tracionar tá essa não 50% por um tempo."
+      },
+      {
+        "startTime": 3032,
+        "endTime": 3064,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente já testa e vê se cola, tá bom isso o cara nem tava. Tá difícil por para dentro a gente pôr ele pagante é o sonho, imagina se essa galera que não tá a gente já entra da Vai ser maravilhoso, tá então um site é qual que é oferta o que eu anotei? Qual a oferta Irresistível no momento do cadastro foi o que deu certo em João Pessoa pisando viu lá, a gente tava falando cara."
+      },
+      {
+        "startTime": 3064,
+        "endTime": 3085,
+        "speaker": "Diego Diehl",
+        "text": "Tô chegando agora na praça, se você entrar agora é o teu momento é a tua oportunidade. Eu não tenho aqui já que a vantagem para Incorporadora se ela entrar no modelo flagrante desde o início. O objetivo principal é trazer incorporadoras para dentro janela usuários para que elas virem balde daqui a pouco."
+      },
+      {
+        "startTime": 3085,
+        "endTime": 3105,
+        "speaker": "Diego Diehl",
+        "text": "Gostei da parte do Marcelo se fortalecer como fornecedor de sites para o time comercial dá para a gente pensar em alguma MVP Marcelo bem 11:15. O processo que chega para o time do operações precisa ser em escala, mas nesse momento a gente não vai pensar nisso. Vamos rodar um teste."
+      },
+      {
+        "startTime": 3105,
+        "endTime": 3133,
+        "speaker": "Diego Diehl",
+        "text": "Mas não que a gente vai testar vai para o time de operações, porque para passar. Então da minha parte é isso minha proposta a gente fazer um teste aí por duas semanas dá as buchinhas para nós. Quem sabe até um novo Bruna. Que não seja o cara que não quis entrar, mas dá um peixe fresquinho na mão dos janela que vocês nem abordaram e fala assim janela."
+      },
+      {
+        "startTime": 3133,
+        "endTime": 3133,
+        "speaker": "Bruna Soares",
+        "text": "que nunca"
+      },
+      {
+        "startTime": 3135,
+        "endTime": 3152,
+        "speaker": "Diego Diehl",
+        "text": "Faz um caminho aí de como que você faria umas mensagens aí mais em escala para trazer o cara para homem para dar e servir como descoberta. Aí a gente mistura tudo isso nego fogo seca, sei lá, faz o que quiser e sai com produtivo buscado para vocês no final."
+      },
+      {
+        "startTime": 3152,
+        "endTime": 3194,
+        "speaker": "Bruna Soares",
+        "text": "Já com aquelas reuniões que a gente fez não eu acho ótimo já que aquelas reuniões que a gente fez que a Gabi até tá envolvida. A Laura já fez um pouco dessa compilou, né? Tipo trazendo assim, nunca entramos em contato. Estamos agora no retorno. Nunca tivemos. Então acho que ela pode a Laura pode falar com as janelas nela, pode falar com a Laura de ter certeza, quais são dois casos aí dois exemplos que a gente nunca fez contato que a gente nunca tentou nenhum tipo de abordagem para pegar casos novos ou até também pegar dois caras dizendo ó tentaram nesses contatos porque que deu errado aqui, né? Porque que nunca conseguiram o retorno e a gente pegar dois casos diferentes dá para fazer dois casos de qualquer forma só um pouco que eu quero te trazer Diego."
+      },
+      {
+        "startTime": 3194,
+        "endTime": 3212,
+        "speaker": "Bruna Soares",
+        "text": "Não sei se porque eu sei que tanto comercial, mas o comercial um pouco dividido enfim, mas então eu quero só deixar um pouco alinhado aqui, quando fala da parte tipo. Ah trazer essa entrou como dele, a gente já sai com a promoção que eu acho ótimo dizer. Olha se tu entrar agora já com Beast tem 50% tudo mais isso."
+      },
+      {
+        "startTime": 3212,
+        "endTime": 3229,
+        "speaker": "Bruna Soares",
+        "text": "Teoricamente ele já vem fresco para o time de SDR tá no momento que a gente cadastradora dele. Consegue hoje no anunciante ver que ela entrou ontem porque ela foi cadastrada ontem tá lá como criado em tal, então isso não posso dizer como é o processo Redondo, mas eu sei que isso é levado para o time de SDR."
+      },
+      {
+        "startTime": 3229,
+        "endTime": 3247,
+        "speaker": "Bruna Soares",
+        "text": "Acho que a prisão não pode me corrigir então assim abordagem de talvez trazer essa promoção vem mais do SDR do que da operação, entendeu? Mas eu entendo quando tu diz assim, vem fresco entrou hoje e amanhã eu tô te dando uma tô te dando uma promoção, entendeu? Então tipo isso já vem um pouco porque eu sei que esse Dr."
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3251,
+        "speaker": "Bruna Soares",
+        "text": "Pega casos muitos novos, eu não sei enquanto quanto tempo eu acho que você também deve ter estratégia de Praça, mas isso já acontece de uma certa"
+      },
+      {
+        "startTime": 3251,
+        "endTime": 3251,
+        "speaker": "Diego Diehl",
+        "text": "tá, tá"
+      },
+      {
+        "startTime": 3254,
+        "endTime": 3259,
+        "speaker": "Bruna Soares",
+        "text": "forma. Só não sei se nessa forma mais agressiva, como está trazendo como exemplo que eu acho que é bacana."
+      },
+      {
+        "startTime": 3261,
+        "endTime": 3265,
+        "speaker": "Carol Pizzano",
+        "text": "essa parte de eu depois a gente pode falar em também"
+      },
+      {
+        "startTime": 3266,
+        "endTime": 3289,
+        "speaker": "Diego Diehl",
+        "text": "Deixou depois a gente olha o processo assim tipo. Olha o todo então, eu vou ver como é que funciona hoje. E aí talvez só que vocês que estão em contato. Só que não mude, né, mas pode ser talvez isso é o sonho, né? Talvez a gente faz de alguma coisa também de uma última mensagem de vocês, sejam seja."
+      },
+      {
+        "startTime": 3289,
+        "endTime": 3317,
+        "speaker": "Diego Diehl",
+        "text": "Sementinha que você planta vai começar muito obrigado, olha só nos próximos dias. Vai chegar alguém com uma oportunidade muito boa para você dar uma atenção para ele quando ele te ligar. Sabe um negócio assim para que a gente chama de passagem o bastão você não joga nessa passa quando o outro pega você solta, mas daí azeitar é isso é futuro, eu acho que é 2026 para nós primeiro agora esse usuário para mim é ouro."
+      },
+      {
+        "startTime": 3317,
+        "endTime": 3337,
+        "speaker": "Diego Diehl",
+        "text": "A gente tá num momento a gente até na minha parte para fechar. Que a gente que eu sinto até do time do Marcelo, principalmente do comercial, a gente já faz muito suco com pouca laranja. Então, eu tô muito no foco de olhar oportunidade para a gente dar mais um ano de receita na empresa."
+      },
+      {
+        "startTime": 3337,
+        "endTime": 3360,
+        "speaker": "Diego Diehl",
+        "text": "Que se a gente continuar a gente vendeu 20 pouquinhos. Agora se a gente conseguir vender os quatro cinco meses 30. A gente consegue respirar sair da consegue respirar mais fundo. E aí sabe testar um negócio ter mais uma pessoa sabe dar tempo que é f*** velho criar processo de estar processo gargalado é um saco É estressante então agora vamos devagarzinho."
+      },
+      {
+        "startTime": 3360,
+        "endTime": 3381,
+        "speaker": "Diego Diehl",
+        "text": "Acho que já evoluiu para c****** aí. E eu acho que usar nela ali focando a gente se a gente antes de acertar uma super aquisição. Acertar levar o usuário para dentro e o em balde começar a subir p***, já era já é coisa boa demais para a gente para poder levar a empresa para Opa."
+      },
+      {
+        "startTime": 3381,
+        "endTime": 3400,
+        "speaker": "Diego Diehl",
+        "text": "Tá sobrando 100 mil aí Marcelo. Bota uma Laura sobe a Laura foi mais uma pessoa de marketing no teu time e o que ela vai fazer f***-se é tua área de marketing. Sei lá o que a gente vai fazer então eu tô nessa esse foco de receita também, tá?"
+      },
+      {
+        "startTime": 3403,
+        "endTime": 3406,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Muito bem, mas alguém tem mais algum ponto?"
+      },
+      {
+        "startTime": 3410,
+        "endTime": 3429,
+        "speaker": "Diego Diehl",
+        "text": "Fechou. Só passar a plantação. Das missõezinhas para não sei por onde o canal mas para as janela e João e para mim pode ser João Goiânia Zanella, Curitiba. Eu pode ser João Pessoa porque eu quero tracionar o Wagner aí passa por mim que daí eu vou jogar para ele o desafio."
+      },
+      {
+        "startTime": 3429,
+        "endTime": 3454,
+        "speaker": "Diego Diehl",
+        "text": "E aí daqui umas duas semanas a gente conversa enquanto isso Zanella usuários em Curitiba, João usuários em Goiânia, João está com mais coisas aí então é só uma quantidade para você ganhar experiência, né? Para trazer o resultado absurdo. Não quero olhar o total de número. Eu quero trazer. Quero que você me traga a experiência janela um pouquinho mais de volume, porque está focado em Curitiba."
+      },
+      {
+        "startTime": 3456,
+        "endTime": 3470,
+        "speaker": "Bruna Soares",
+        "text": "Eu proponho a gente criar um grupo ali de abordagens em corpos dele alguma coisa assim com esse time aqui. Ali a gente vai poder compartilhar Todo o material até vocês vierem com insights e a Laura também poder passar essas enfim essas missõezinhas aí sabe"
+      },
+      {
+        "startTime": 3470,
+        "endTime": 3471,
+        "speaker": "Diego Diehl",
+        "text": "boa boa, tá"
+      },
+      {
+        "startTime": 3471,
+        "endTime": 3478,
+        "speaker": "Bruna Soares",
+        "text": "e aí você consegue ficar acompanhando a gente consegue ficar trocando mensagens. Acho que num grupo. Acho que fica melhor do que ficar tudo muito dispensado."
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3501,
+        "speaker": "Diego Diehl",
+        "text": "tá eu até ia pedir para Zanella e João de Eu não gosto muito dessa entrega no bloco geral assim. Nossa, vamos apresentar um relatório. Eu prefiro que conforme for acontecendo, manda uma mensagem, traz um site mais solto, que daí todo mundo vai ler e vai absorvendo já vai refletindo um pouquinho a gente chega mais alinhado na reunião do que chegar com ó."
+      },
+      {
+        "startTime": 3501,
+        "endTime": 3516,
+        "speaker": "Diego Diehl",
+        "text": "Parabéns que relatório bacana, eu prefiro que você mande áudio para você, tire print. Olha só como converter o que eu mandei pau print saudável no grupo ali e aí na próxima reunião já chega meio que na mesma página. fechou"
+      },
+      {
+        "startTime": 3518,
+        "endTime": 3520,
+        "speaker": "Bruna Soares",
+        "text": "É isso, valeu. Obrigado e parabéns pelo push aí de vocês. Foi ótimo."
+      },
+      {
+        "startTime": 3520,
+        "endTime": 3523,
+        "speaker": "Marcelo Rodrigues",
+        "text": "até uma próxima"
+      },
+      {
+        "startTime": 3523,
+        "endTime": 3524,
+        "speaker": "Bruna Soares",
+        "text": "valeu"
+      },
+      {
+        "startTime": 3524,
+        "endTime": 3526,
+        "speaker": "Diego Diehl",
+        "text": "Valeu falou abraço falou isso, valeu."
+      },
+      {
+        "startTime": 3526,
+        "endTime": 3526,
+        "speaker": "Bruna Soares",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 3526,
+        "endTime": 3526,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Fala pessoal."
+      },
+      {
+        "startTime": 3527,
+        "endTime": 3557,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tchau, tchau. Tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 191,
+    "speakers": [
+      "Bruna Soares",
+      "Marcelo Rodrigues",
+      "João Vitor Portes da Silva",
+      "Carol Pizzano",
+      "Luiz Gustavo Zanella",
+      "Diego Diehl",
+      "Laura Stéphane de Oliveira"
+    ],
+    "total_words_estimate": 9684,
+    "duration_start": 0,
+    "duration_end": 3557
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68010ad1f6b7840013ab194a",
+        "timestamp": 0,
+        "text": "ENRIQUECER E VALIDAR APRESENTAÇÃO DA ÓRULO UTILIZADA"
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab194b",
+        "timestamp": 0,
+        "text": "Luiz e Diego discutem seu cansaço após uma noite de reunião tardia, compartilhando experiências de madrugada em uma padaria."
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab194c",
+        "timestamp": 0,
+        "text": "Diego e Luiz conversam sobre cansaço após uma noite longa, comentando sobre madrugar e estar em uma padaria do interior."
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab194d",
+        "timestamp": 0,
+        "text": "Reunião informal sobre experiência noturna e cansaço após evento, com Diego e Luiz compartilhando histórias de chegada tardia e conversas prolongadas."
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab1951",
+        "timestamp": 0,
+        "text": "Luiz e Diego discutem seu cansaço após uma noite longa, mencionando chegada tardia e encontro na padaria do interior."
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262b",
+        "timestamp": 71,
+        "text": "Objetivo da equipe de operações: facilitar comunicação e ser compreendido por novos clientes.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262c",
+        "timestamp": 134,
+        "text": "Processo atual de prospecção: busca em bases de mercado como DWV e Hábito para encontrar novas incorporadoras.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262d",
+        "timestamp": 194,
+        "text": "Time acompanha e segue novas oportunidades diariamente para converter em clientes.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262e",
+        "timestamp": 254,
+        "text": "Objetivo final: cadastrar produtos na plataforma e conectar incorporadoras.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262f",
+        "timestamp": 369,
+        "text": "Laura criou apresentação de novas estratégias de comunicação há aproximadamente um mês.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32630",
+        "timestamp": 428,
+        "text": "Laura passou a usar Linkedin e Instagram para contatar incorporadoras, aumentando credibilidade.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32631",
+        "timestamp": 742,
+        "text": "Historicamente, time de operações responsável por incluir incorporadoras gratuitamente na plataforma.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32632",
+        "timestamp": 824,
+        "text": "Necessidade de estruturar processo para cadastrar incorporadoras e fomentar uso da plataforma.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32633",
+        "timestamp": 894,
+        "text": "Prioridade atual: ter incorporadora na plataforma, não necessariamente como cliente pagante.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32634",
+        "timestamp": 1006,
+        "text": "Política de acesso: usuários podem usar plataforma gratuitamente por tempo ilimitado.",
+        "topicId": "68010b6f595a7c0013b32623"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32635",
+        "timestamp": 1266,
+        "text": "Equipe busca aproximação com marketing, visando mudança cultural e renovação de materiais em 2025.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32636",
+        "timestamp": 1343,
+        "text": "Espírito Santo identificado como praça complexa para abordagem comercial.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32637",
+        "timestamp": 1455,
+        "text": "Necessidade de focar igualmente em todos os estados, não apenas em locais específicos.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3263b",
+        "timestamp": 1522,
+        "text": "Pâmela possui backlog de cerca de 500 empreendimentos para contatar em diferentes webs.",
+        "topicId": "68010b6f595a7c0013b32625"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3263c",
+        "timestamp": 1597,
+        "text": "Potencial para automações de WhatsApp e push no aplicativo ainda não explorado.",
+        "topicId": "68010b6f595a7c0013b32625"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32638",
+        "timestamp": 1653,
+        "text": "Marcelo propõe criar painel para rastrear oportunidades e insights em diferentes estados.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32639",
+        "timestamp": 1764,
+        "text": "Equipe não consegue realizar 200 reuniões planejadas com incorporadoras devido ao alto volume.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab194f",
+        "timestamp": 1991,
+        "text": "Diego sugere focar em missões específicas em Curitiba, priorizando experimentação criativa e descoberta de processos sem preocupação inicial com escalabilidade."
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab1950",
+        "timestamp": 1993,
+        "text": "Diego discute abordagem criativa para resolução de problemas, sugerindo foco inicial na descoberta e execução, sem preocupação imediata com escalabilidade."
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3263a",
+        "timestamp": 2129,
+        "text": "Diego sugere testar aquisição em praças específicas como Curitiba e Goiânia.",
+        "topicId": "68010b6f595a7c0013b32624"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3263d",
+        "timestamp": 2827,
+        "text": "Estratégia proposta: mexer no ego das incorporadoras mostrando dados de engajamento dos concorrentes",
+        "topicId": "68010b6f595a7c0013b32626"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32627",
+        "timestamp": 2929,
+        "text": "Bruna e Laura devem criar oferta irresistível para novos cadastros, como 50% de desconto no primeiro ano",
+        "topicId": "68010b6f595a7c0013b32622"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32628",
+        "timestamp": 3102,
+        "text": "Decisão de realizar teste inicial por duas semanas antes de escalar para time de operações",
+        "topicId": "68010b6f595a7c0013b32622"
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b32629",
+        "timestamp": 3152,
+        "text": "Laura compilará casos de incorporadoras nunca contatadas para desenvolver nova abordagem",
+        "topicId": "68010b6f595a7c0013b32622"
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab194e",
+        "timestamp": 3454,
+        "text": "Proposta de criar grupo de comunicação para compartilhar insights e acompanhar progresso de usuários em diferentes cidades, com foco em experiência local."
+      },
+      {
+        "segmentId": "68010b6f595a7c0013b3262a",
+        "timestamp": 3456,
+        "text": "Equipe planeja compartilhar insights sobre abordagem de clientes, priorizando comunicação ágil e informal.",
+        "topicId": "68010b6f595a7c0013b32622"
+      },
+      {
+        "segmentId": "68010ad1f6b7840013ab1952",
+        "timestamp": 3527,
+        "text": "Reunião de encerramento concluída com breve troca de despedidas entre os participantes Diego, Bruna, Marcelo e João, sem discussões específicas identificadas."
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68010b6f595a7c0013b32622",
+        "order": 1,
+        "title": "Ações Acordadas e Responsabilidades",
+        "summary": ""
+      },
+      {
+        "id": "68010b6f595a7c0013b32623",
+        "order": 2,
+        "title": "Estratégia de Prospecção e Comunicação",
+        "summary": ""
+      },
+      {
+        "id": "68010b6f595a7c0013b32624",
+        "order": 3,
+        "title": "Desafios Comerciais e Territoriais",
+        "summary": ""
+      },
+      {
+        "id": "68010b6f595a7c0013b32625",
+        "order": 4,
+        "title": "Recursos e Capacidade Operacional",
+        "summary": ""
+      },
+      {
+        "id": "68010b6f595a7c0013b32626",
+        "order": 5,
+        "title": "Estratégias de Abordagem Comercial",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 32,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68010b6f595a7c0013b32622",
+      "order": 1,
+      "title": "Ações Acordadas e Responsabilidades",
+      "summary": ""
+    },
+    {
+      "id": "68010b6f595a7c0013b32623",
+      "order": 2,
+      "title": "Estratégia de Prospecção e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "68010b6f595a7c0013b32624",
+      "order": 3,
+      "title": "Desafios Comerciais e Territoriais",
+      "summary": ""
+    },
+    {
+      "id": "68010b6f595a7c0013b32625",
+      "order": 4,
+      "title": "Recursos e Capacidade Operacional",
+      "summary": ""
+    },
+    {
+      "id": "68010b6f595a7c0013b32626",
+      "order": 5,
+      "title": "Estratégias de Abordagem Comercial",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:44:34.755069+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:44:34.755069+00:00"
+}

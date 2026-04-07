@@ -1,0 +1,28 @@
+{
+  "id": "672cc7fc139450001389c765",
+  "happenedAt": "2024-11-07T14:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Giu+Diego",
+  "duration": 5396.957,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/672cc7fc139450001389c765",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "nym-dtkk-bsz"
+  }
+}

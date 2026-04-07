@@ -1,0 +1,36 @@
+{
+  "id": "677d1989b306f8001389b4b2",
+  "happenedAt": "2025-01-07T12:10:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "rs@aocubo.com"
+    },
+    {
+      "name": "",
+      "email": "thais@aocubo.com"
+    }
+  ],
+  "name": "AoCubo / Orulo -> Parceria as a service",
+  "duration": 3831.973,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/677d1989b306f8001389b4b2",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ait-fwbu-pda"
+  }
+}

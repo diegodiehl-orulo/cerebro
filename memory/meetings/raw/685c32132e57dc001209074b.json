@@ -1,0 +1,28 @@
+{
+  "id": "685c32132e57dc001209074b",
+  "happenedAt": "2025-06-25T17:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "Diego / João Vitor",
+  "duration": 4795.274,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/685c32132e57dc001209074b",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "nmt-uyvu-hbk"
+  }
+}

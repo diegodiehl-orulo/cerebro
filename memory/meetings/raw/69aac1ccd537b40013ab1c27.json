@@ -1,0 +1,32 @@
+{
+  "id": "69aac1ccd537b40013ab1c27",
+  "happenedAt": "2026-03-06T12:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "mayumi@orulo.com.br"
+    }
+  ],
+  "name": "Mkt + Comercial",
+  "duration": 3588.234,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69aac1ccd537b40013ab1c27",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "cre-hrqs-spv"
+  }
+}

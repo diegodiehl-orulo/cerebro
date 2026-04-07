@@ -1,0 +1,487 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e36",
+      "timestamp": 67,
+      "text": "Proposta de criar uma métrica global para entender o desempenho no cenário projetado.",
+      "topicId": "66abfe3f11ea8f0013cf3e24"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e37",
+      "timestamp": 86,
+      "text": "Sugestão de incluir um cenário de contexto, onde o usuário busca informações sobre um produto.",
+      "topicId": "66abfe3f11ea8f0013cf3e24"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e38",
+      "timestamp": 129,
+      "text": "Discussão sobre como as perguntas nem sempre serão diretas, podendo envolver uma lista de mensagens ou contexto diferente.",
+      "topicId": "66abfe3f11ea8f0013cf3e24"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e39",
+      "timestamp": 183,
+      "text": "Definição de uma taxa de sucesso acima de 90% para o cenário de teste específico, com ajustes nas perguntas.",
+      "topicId": "66abfe3f11ea8f0013cf3e24"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3a",
+      "timestamp": 240,
+      "text": "Discussão sobre definir métricas de sucesso para diferentes tipos de cenários, como contexto claro e cenários mais indefinidos.",
+      "topicId": "66abfe3f11ea8f0013cf3e25"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3b",
+      "timestamp": 270,
+      "text": "Debate sobre a abordagem de restringir respostas quando não houver confiança absoluta ou deixar o sistema responder mesmo assim.",
+      "topicId": "66abfe3f11ea8f0013cf3e25"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3c",
+      "timestamp": 287,
+      "text": "Definição de uma expectativa de acima de 90% de acerto para o cenário de teste específico.",
+      "topicId": "66abfe3f11ea8f0013cf3e25"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3d",
+      "timestamp": 311,
+      "text": "Discussão sobre a importância de enviar a mídia correta, mesmo em cenários de perguntas genéricas.",
+      "topicId": "66abfe3f11ea8f0013cf3e25"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3e",
+      "timestamp": 361,
+      "text": "Compartilhamento da tela para revisão do documento com as perguntas existentes.",
+      "topicId": "66abfe3f11ea8f0013cf3e26"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e3f",
+      "timestamp": 424,
+      "text": "Identificação de perguntas que precisam ser atualizadas, como as relacionadas à atualização de folders.",
+      "topicId": "66abfe3f11ea8f0013cf3e26"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e40",
+      "timestamp": 514,
+      "text": "Observação de que algumas perguntas estão um pouco ",
+      "topicId": "66abfe3f11ea8f0013cf3e26"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e41",
+      "timestamp": 540,
+      "text": "Sugestão de separar os resultados dos testes em um diretório específico para melhor organização.",
+      "topicId": "66abfe3f11ea8f0013cf3e26"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e42",
+      "timestamp": 593,
+      "text": "Discussão sobre um caso específico em que o sistema não enviou a mídia correta, enviando sempre a mesma URL.",
+      "topicId": "66abfe3f11ea8f0013cf3e27"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e43",
+      "timestamp": 694,
+      "text": "Análise do caso do produto ",
+      "topicId": "66abfe3f11ea8f0013cf3e27"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e44",
+      "timestamp": 724,
+      "text": "Identificação de um caso em que o sistema não enviou a planta do produto ",
+      "topicId": "66abfe3f11ea8f0013cf3e27"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e45",
+      "timestamp": 845,
+      "text": "Verificação se o produto ",
+      "topicId": "66abfe3f11ea8f0013cf3e27"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e46",
+      "timestamp": 2436,
+      "text": "Necessidade de enviar arquivos com título e legenda adequados, evitando materiais bagunçados.",
+      "topicId": "66abfe3f11ea8f0013cf3e28"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e47",
+      "timestamp": 2507,
+      "text": "Definir uma lista de arquivos a serem enviados e como gerenciar a versão dos links.",
+      "topicId": "66abfe3f11ea8f0013cf3e28"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e48",
+      "timestamp": 2551,
+      "text": "Levantar informações sobre os arquivos no Drive para testar o envio.",
+      "topicId": "66abfe3f11ea8f0013cf3e28"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e49",
+      "timestamp": 2601,
+      "text": "Focar em finalizar o MVP atual de envio de arquivos antes de partir para novos desenvolvimentos.",
+      "topicId": "66abfe3f11ea8f0013cf3e28"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4a",
+      "timestamp": 2647,
+      "text": "Observação de que a variação de perguntas não tem tanto impacto na assertividade das respostas.",
+      "topicId": "66abfe3f11ea8f0013cf3e29"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4b",
+      "timestamp": 2684,
+      "text": "Objetivo de manter a assertividade acima de 90% nas respostas, mesmo com a variação de perguntas.",
+      "topicId": "66abfe3f11ea8f0013cf3e29"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4c",
+      "timestamp": 2726,
+      "text": "Plano de mostrar ao cliente a robustez dos testes de variação de perguntas realizados.",
+      "topicId": "66abfe3f11ea8f0013cf3e29"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e50",
+      "timestamp": 2780,
+      "text": "Prioridade de resolver o envio de arquivos e definir quais arquivos serão enviados.",
+      "topicId": "66abfe3f11ea8f0013cf3e2b"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4d",
+      "timestamp": 2812,
+      "text": "Necessidade de definir uma prioridade na entrega de materiais (apresentação, tabela, etc.) quando o pedido é genérico.",
+      "topicId": "66abfe3f11ea8f0013cf3e2a"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4e",
+      "timestamp": 2844,
+      "text": "Possibilidade de enviar todos os arquivos de uma vez quando o pedido for ambíguo, ou direcionar o cliente para escolher o material desejado.",
+      "topicId": "66abfe3f11ea8f0013cf3e2a"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e51",
+      "timestamp": 2866,
+      "text": "Prioridade de melhorar o título dos arquivos enviados, antes de partir para outras melhorias.",
+      "topicId": "66abfe3f11ea8f0013cf3e2b"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e52",
+      "timestamp": 2881,
+      "text": "Próximo passo de definir quais perguntas terão respostas controladas com envio de texto, e não de arquivos.",
+      "topicId": "66abfe3f11ea8f0013cf3e2b"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e4f",
+      "timestamp": 3286,
+      "text": "Risco de enviar um arquivo inadequado quando o pedido é ambíguo, sendo necessário sempre enviar todos os arquivos nesse caso.",
+      "topicId": "66abfe3f11ea8f0013cf3e2a"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e53",
+      "timestamp": 3632,
+      "text": "Sugestão de padronizar o envio de apresentação quando o cliente mencionar 'material'.",
+      "topicId": "66abfe3f11ea8f0013cf3e2c"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e54",
+      "timestamp": 3639,
+      "text": "Proposta de enviar a apresentação automaticamente quando o cliente mencionar 'material'.",
+      "topicId": "66abfe3f11ea8f0013cf3e2c"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e55",
+      "timestamp": 3645,
+      "text": "Necessidade de dar mais especificidade ao que não está claro e tomar decisões sobre o que enviar.",
+      "topicId": "66abfe3f11ea8f0013cf3e2c"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e56",
+      "timestamp": 3662,
+      "text": "Sugestão de listar as opções de materiais para definir a melhor decisão a ser programada.",
+      "topicId": "66abfe3f11ea8f0013cf3e2c"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e57",
+      "timestamp": 3684,
+      "text": "Necessidade de definir qual o arquivo principal (apresentação, book, folder) a ser enviado por padrão.",
+      "topicId": "66abfe3f11ea8f0013cf3e2d"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e58",
+      "timestamp": 3692,
+      "text": "Proposta de criar instruções específicas por produto para definir o arquivo principal a ser enviado.",
+      "topicId": "66abfe3f11ea8f0013cf3e2d"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e59",
+      "timestamp": 3707,
+      "text": "Discussão sobre a possibilidade de enviar todos os arquivos relevantes ou uma combinação deles.",
+      "topicId": "66abfe3f11ea8f0013cf3e2d"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5a",
+      "timestamp": 3728,
+      "text": "Preocupação com a atualização constante dos materiais e a necessidade de definir o arquivo prioritário.",
+      "topicId": "66abfe3f11ea8f0013cf3e2d"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5b",
+      "timestamp": 3749,
+      "text": "Identificação de que 'folder', 'book' e 'apresentação' são sinônimos utilizados pelos clientes.",
+      "topicId": "66abfe3f11ea8f0013cf3e2e"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5c",
+      "timestamp": 3776,
+      "text": "Necessidade de definir uma forma padrão de se referir a esses materiais.",
+      "topicId": "66abfe3f11ea8f0013cf3e2e"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5d",
+      "timestamp": 3780,
+      "text": "Reconhecimento de que os sinônimos variam de acordo com a região.",
+      "topicId": "66abfe3f11ea8f0013cf3e2e"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5e",
+      "timestamp": 3900,
+      "text": "Proposta de criar uma 'piada básica' para ensinar os sinônimos aos clientes.",
+      "topicId": "66abfe3f11ea8f0013cf3e2e"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e5f",
+      "timestamp": 4003,
+      "text": "Sugestão de criar uma 'função' para instruir o envio do kit de materiais de forma padronizada.",
+      "topicId": "66abfe3f11ea8f0013cf3e2f"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e60",
+      "timestamp": 4051,
+      "text": "Visão de que a padronização do envio de materiais pode agregar muito valor ao cliente no futuro.",
+      "topicId": "66abfe3f11ea8f0013cf3e2f"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e61",
+      "timestamp": 4157,
+      "text": "Necessidade de priorizar o desenvolvimento das perguntas controladas para envio de mídia.",
+      "topicId": "66abfe3f11ea8f0013cf3e2f"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e62",
+      "timestamp": 4472,
+      "text": "Importância de aumentar a quantidade de perguntas controladas para testes e validação.",
+      "topicId": "66abfe3f11ea8f0013cf3e2f"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e63",
+      "timestamp": 4581,
+      "text": "Sugestão de incluir o nome do arquivo no link enviado aos clientes.",
+      "topicId": "66abfe3f11ea8f0013cf3e30"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e64",
+      "timestamp": 4639,
+      "text": "Necessidade de incluir instruções específicas sobre os arquivos a serem enviados diretamente no prompt.",
+      "topicId": "66abfe3f11ea8f0013cf3e30"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e65",
+      "timestamp": 4714,
+      "text": "Proposta de adicionar os nomes e links dos arquivos no JSON de perguntas controladas.",
+      "topicId": "66abfe3f11ea8f0013cf3e30"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e66",
+      "timestamp": 4760,
+      "text": "Atualização sobre o status do portal da Hora, que ainda está em processo de subida.",
+      "topicId": "66abfe3f11ea8f0013cf3e30"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e67",
+      "timestamp": 4833,
+      "text": "Conexão dos vídeos da hora nos gerarem vídeos na Plus.",
+      "topicId": "66abfe3f11ea8f0013cf3e31"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e68",
+      "timestamp": 4841,
+      "text": "Discussão sobre a integração e conversa com o Johnny sobre os campos necessários.",
+      "topicId": "66abfe3f11ea8f0013cf3e31"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e69",
+      "timestamp": 4855,
+      "text": "Verificação de que o processo já foi feito anteriormente e alinhamento sobre os campos diferentes em cada base.",
+      "topicId": "66abfe3f11ea8f0013cf3e31"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6a",
+      "timestamp": 4879,
+      "text": "Orientação para que o líder preencha a origem dos vídeos.",
+      "topicId": "66abfe3f11ea8f0013cf3e32"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6b",
+      "timestamp": 4891,
+      "text": "Confirmação de que a origem deve ser preenchida como original.",
+      "topicId": "66abfe3f11ea8f0013cf3e32"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6c",
+      "timestamp": 4909,
+      "text": "Pedido de um vídeo com instruções sobre como conectar os 8 WhatsApp da setinha.",
+      "topicId": "66abfe3f11ea8f0013cf3e33"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6d",
+      "timestamp": 4924,
+      "text": "Confirmação de que o vídeo está pronto e alinhamento sobre o treinamento para cadastro da equipe.",
+      "topicId": "66abfe3f11ea8f0013cf3e33"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6e",
+      "timestamp": 4959,
+      "text": "Preocupação com o cadastro de 20 mil corretores na Plus e o envio de instruções para eles.",
+      "topicId": "66abfe3f11ea8f0013cf3e34"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e6f",
+      "timestamp": 4972,
+      "text": "Alinhamento sobre o processo de cadastro, com o responsável sendo o corretor que solicitou o cadastro.",
+      "topicId": "66abfe3f11ea8f0013cf3e34"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e70",
+      "timestamp": 4995,
+      "text": "Discussão sobre a atribuição de responsabilidade quando o corretor já está cadastrado.",
+      "topicId": "66abfe3f11ea8f0013cf3e34"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e71",
+      "timestamp": 5047,
+      "text": "Alinhamento sobre o campo de ",
+      "topicId": "66abfe3f11ea8f0013cf3e34"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e72",
+      "timestamp": 5068,
+      "text": "Alinhamento sobre o cadastro de corretores como colaboradores.",
+      "topicId": "66abfe3f11ea8f0013cf3e35"
+    },
+    {
+      "segmentId": "66abfe3f11ea8f0013cf3e73",
+      "timestamp": 5104,
+      "text": "Encerramento da reunião com avaliação positiva sobre a produtividade do encontro.",
+      "topicId": "66abfe3f11ea8f0013cf3e35"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66abfe3f11ea8f0013cf3e24",
+      "order": 1,
+      "title": "Ajuste das perguntas para cenários de envio de arquivos",
+      "summary": "Discussão sobre a necessidade de ajustar as perguntas para se adequarem melhor a cenários em que o envio de arquivos é esperado."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e25",
+      "order": 2,
+      "title": "Avaliação do desempenho nos testes realizados",
+      "summary": "Análise dos resultados dos testes realizados, identificando pontos de melhoria e oportunidades de ajuste."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e26",
+      "order": 3,
+      "title": "Revisão e edição das perguntas existentes",
+      "summary": "Análise das perguntas existentes e identificação de oportunidades de edição para melhor atender aos cenários de envio de arquivos."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e27",
+      "order": 4,
+      "title": "Análise de casos específicos nos testes",
+      "summary": "Revisão de casos específicos identificados nos testes realizados, buscando entender o desempenho e oportunidades de melhoria."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e28",
+      "order": 5,
+      "title": "Envio de arquivos e materiais",
+      "summary": "Discussão sobre como enviar arquivos e materiais de forma eficiente e assertiva para o cliente."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e29",
+      "order": 6,
+      "title": "Variação de perguntas e assertividade",
+      "summary": "Discussão sobre a importância de lidar com a variação de perguntas e manter um alto nível de assertividade nas respostas."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2a",
+      "order": 7,
+      "title": "Tratamento de pedidos ambíguos ou generalizados",
+      "summary": "Discussão sobre como lidar com pedidos ambíguos ou generalizados de materiais, evitando enviar arquivos inadequados."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2b",
+      "order": 8,
+      "title": "Próximos passos e prioridades",
+      "summary": "Definição das próximas prioridades e passos a serem seguidos para finalizar o MVP atual de envio de arquivos."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2c",
+      "order": 9,
+      "title": "Padronização de envio de materiais",
+      "summary": "Discussão sobre como padronizar o envio de materiais, como apresentações, folders e livros, de forma mais específica e eficiente."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2d",
+      "order": 10,
+      "title": "Definição de arquivos prioritários",
+      "summary": "Discussão sobre como identificar e definir os arquivos mais relevantes e prioritários a serem enviados aos clientes."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2e",
+      "order": 11,
+      "title": "Mapeamento de sinônimos",
+      "summary": "Discussão sobre a importância de mapear e padronizar os sinônimos utilizados pelos clientes para facilitar o envio dos materiais corretos."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e2f",
+      "order": 12,
+      "title": "Próximos passos e melhorias",
+      "summary": "Discussão sobre as próximas etapas de desenvolvimento e melhorias a serem implementadas na solução."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e30",
+      "order": 13,
+      "title": "Implementação e próximos passos",
+      "summary": "Alinhamento sobre a implementação atual e próximos passos, incluindo a melhoria do prompt e a criação de novos portais."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e31",
+      "order": 14,
+      "title": "Integração de vídeos na plataforma Plus",
+      "summary": "Discussão sobre a integração de vídeos na plataforma Plus, incluindo mapeamento de campos e alinhamento com o Johnny."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e32",
+      "order": 15,
+      "title": "Preenchimento da origem dos vídeos",
+      "summary": "Orientação sobre a necessidade de preencher a origem dos vídeos para evitar problemas futuros."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e33",
+      "order": 16,
+      "title": "Instruções para conexão de WhatsApp",
+      "summary": "Solicitação de um vídeo com instruções sobre como conectar os 8 WhatsApp da setinha para ser usado no treinamento."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e34",
+      "order": 17,
+      "title": "Cadastro de corretores na plataforma Plus",
+      "summary": "Discussão sobre o processo de cadastro de corretores na plataforma Plus, incluindo atribuição de responsabilidade e alinhamento com o Johnny."
+    },
+    {
+      "id": "66abfe3f11ea8f0013cf3e35",
+      "order": 18,
+      "title": "Alinhamento final e próximos passos",
+      "summary": "Revisão dos principais tópicos discutidos e alinhamento sobre os próximos passos."
+    }
+  ]
+}

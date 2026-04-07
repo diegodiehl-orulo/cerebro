@@ -1,0 +1,720 @@
+{
+  "id": "6765b1529bbd9800138398ec",
+  "meetingId": "6765b0aea5da900013449a72",
+  "data": [
+    {
+      "startTime": 78,
+      "endTime": 79,
+      "speaker": "Carlos Stoppa",
+      "text": "fechou"
+    },
+    {
+      "startTime": 167,
+      "endTime": 171,
+      "speaker": "Diego Diehl",
+      "text": "Carlão você viu e vai tilápia da GT"
+    },
+    {
+      "startTime": 171,
+      "endTime": 173,
+      "speaker": "Carlos Stoppa",
+      "text": "É nós."
+    },
+    {
+      "startTime": 173,
+      "endTime": 267,
+      "speaker": "Diego Diehl",
+      "text": "Beleza, obrigado."
+    },
+    {
+      "startTime": 267,
+      "endTime": 271,
+      "speaker": "Carlos Stoppa",
+      "text": "Boa tarde Isaac, tudo bem?"
+    },
+    {
+      "startTime": 271,
+      "endTime": 271,
+      "speaker": "Isaque Chaves",
+      "text": "Boa tarde, tudo."
+    },
+    {
+      "startTime": 271,
+      "endTime": 276,
+      "speaker": "Carlos Stoppa",
+      "text": "imagina Tem mais alguém para entrar?"
+    },
+    {
+      "startTime": 276,
+      "endTime": 276,
+      "speaker": "Isaque Chaves",
+      "text": "eu chamar o"
+    },
+    {
+      "startTime": 280,
+      "endTime": 282,
+      "speaker": "Carlos Stoppa",
+      "text": "O Felipe, né? Fechou tranquilo."
+    },
+    {
+      "startTime": 310,
+      "endTime": 313,
+      "speaker": "Isaque Chaves",
+      "text": "Só um minutinho para ver se ele configurar ele."
+    },
+    {
+      "startTime": 313,
+      "endTime": 316,
+      "speaker": "Carlos Stoppa",
+      "text": "chegou"
+    },
+    {
+      "startTime": 316,
+      "endTime": 316,
+      "speaker": "Isaque Chaves",
+      "text": "beleza"
+    },
+    {
+      "startTime": 316,
+      "endTime": 325,
+      "speaker": "Carlos Stoppa",
+      "text": "Boa tarde Felipe. Está no mudo seu Felipe, mas a Vivo está falando."
+    },
+    {
+      "startTime": 325,
+      "endTime": 326,
+      "speaker": "Filipe Caires",
+      "text": "Pessoal, tudo bom?"
+    },
+    {
+      "startTime": 326,
+      "endTime": 327,
+      "speaker": "Carlos Stoppa",
+      "text": "Tudo certo."
+    },
+    {
+      "startTime": 327,
+      "endTime": 328,
+      "speaker": "Filipe Caires",
+      "text": "Joia."
+    },
+    {
+      "startTime": 328,
+      "endTime": 330,
+      "speaker": "Carlos Stoppa",
+      "text": "Vamos lá, podemos começar."
+    },
+    {
+      "startTime": 330,
+      "endTime": 330,
+      "speaker": "Filipe Caires",
+      "text": "podemos"
+    },
+    {
+      "startTime": 332,
+      "endTime": 361,
+      "speaker": "Carlos Stoppa",
+      "text": "Beleza, gente prazer em conhecê-lo. Sou Carlos sou o diretor de operações aqui do Z2. Estamos com dinheiro e com o Zanella do órulo também. Você já devem conhecer. Hoje a nossa reunião de kikof tá se estiverem algum tipo de dúvida algum questionamento fiquem à vontade para mim interromper, tá bom bom, esse daqui é o nosso projeto de implantação, né para Pride então o nosso projeto de Inteligência Artificial e essa expansão do canal de parcerias."
+    },
+    {
+      "startTime": 361,
+      "endTime": 402,
+      "speaker": "Carlos Stoppa",
+      "text": "Para nossa reunião de hoje, a gente tem ali quatro pontos principais alinhar as etapas e o cronograma de implantação explanar um pouquinho dos processos as responsabilidades envolvidas alinhar o plano contratado e também qualquer outro alinhamento que vocês tenham para a gente poder ter uma boa execução de projeto fiquem à vontade, tá? Aqui a gente tem um pequeno cronograma tá com as etapas de implantação, a gente tem aqui uma média de 20 dias úteis de implantação, mas eu gosto sempre de deixar claro que a gente sempre entrega antes desses 20 dias tá dando um Panorama atual no mês de novembro a média de implantação."
+    },
+    {
+      "startTime": 402,
+      "endTime": 423,
+      "speaker": "Carlos Stoppa",
+      "text": "8 a 10 dias úteis tá em todos os clientes que implantaram conosco então é muito mais a gente ter a documentação ter os materiais a informação para eu poder implantar e validar junto com vocês, então a gente separa isso aqui em batalhas imersão implantação, treinamento e lançamento e eu vou explicando para vocês durante a nossa reunião de hoje."
+    },
+    {
+      "startTime": 423,
+      "endTime": 442,
+      "speaker": "Carlos Stoppa",
+      "text": "Essa fase inicial de imersão é a nossa base do projeto é onde a gente vai entender todo como funciona a empresa de vocês a estratégia de negócio para a gente poder executar da melhor forma. Então eu vou mandar para vocês esse check list, tá? A gente vai criar um grupo também de WhatsApp, podemos falar por lá."
+    },
+    {
+      "startTime": 442,
+      "endTime": 480,
+      "speaker": "Carlos Stoppa",
+      "text": "Mas nesse checklist aqui. O importante para nós é saber quem serão os usuários que vão acessar a ferramenta aí vocês podem preencher aqui para mim e definir um perfil. Quem é administrador? Quem é gerente de parcerias ou coordenador? Depende do nome que vocês usam aí se existe algum diretor superintendente aí vocês podem criando aqui a gente poder cadastrar os usuários e já liberar os acessos a ferramenta tá? Deixa eu só voltar aqui para ele tela cheia então a gente preenche né? Esse checklist de usuários faz a gente vai mapear hoje também as integrações com sistemas coletar esses dados das equipes os usuários."
+    },
+    {
+      "startTime": 480,
+      "endTime": 514,
+      "speaker": "Carlos Stoppa",
+      "text": "Como funciona essa hierarquia dentro da pride? Alinhar os campos dinâmicos e os scripts a gente faz uma reunião também de validação da ferramenta ela pode ser tanto antes do treinamento Quanto depois a gente só vai alinhando essa regra do jogo? Vamos falar também do plano contratado e também quem são as pessoas responsáveis pelo projeto do lado da praia, tá? Na parte de imersão quando a gente fala de implantação de empreendimentos a gente já faz uma carga Inicial consumindo todos os dados que estão na orla."
+    },
+    {
+      "startTime": 514,
+      "endTime": 529,
+      "speaker": "Carlos Stoppa",
+      "text": "Então eu já até dei uma olhada prévia, né? Eu já vi que tem 12 Empreendimentos ali cadastrados. Mas vocês têm 25 no pacote contratado, né? Então vocês têm mais 13 para fazer essa implantação."
+    },
+    {
+      "startTime": 529,
+      "endTime": 533,
+      "speaker": "Isaque Chaves",
+      "text": "Ela de Londrina daí no caso eles não estão ainda no óleo vão precisar mandar os dados."
+    },
+    {
+      "startTime": 534,
+      "endTime": 552,
+      "speaker": "Carlos Stoppa",
+      "text": "Legal, mas vocês vão colocar tudo dentro do Óleo também, né? Legal a parte boa disso é que todo produto que tiver dentro do Ouro pela Integração eu consigo captar o parceiro que acessou aquele empreendimento. Então quanto antes vocês colocarem também o de Londrina só me avisar que a gente consome a base do órgão também, tá?"
+    },
+    {
+      "startTime": 553,
+      "endTime": 564,
+      "speaker": "Isaque Chaves",
+      "text": "Na verdade eu não sei Diego até você me corrige, se eu tiver errado vai ser dessa forma vai vamos colocar os produtos de Londrina vai ser diferente."
+    },
+    {
+      "startTime": 564,
+      "endTime": 607,
+      "speaker": "Diego Diehl",
+      "text": "Você isso é o que a gente tinha conversado lá atrás até Isaque. Eu tinha aberto para vocês uma negociação que ele Vista aí. Tamanho da praia de vocês entrando com a gente que a gente já disponibilizar a nossa tecnologia para vocês cadastrarem todos os produtos. Praia de na hora sem cobrar Londrina porque não é uma praça Market Place Nossa, mas para vocês poderem usufruir ele tudo que você já sabem como é que funciona, né? Aí mais para frente."
+    },
+    {
+      "startTime": 607,
+      "endTime": 642,
+      "speaker": "Diego Diehl",
+      "text": "Sei lá do que um dois anos quando a gente for entrar como Praça Market Place lá em Londrina, daí a gente conversa. Tendo sempre. Uma lembrança aí de que vocês foram os primeiros em Londrina e fazendo um preço diferenciado daí para vocês quando tiver ouro em Londrina modo Marketplace Marketplace é quando a gente mapeia todos os produtos da cidade é o que a gente já faz em Curitiba."
+    },
+    {
+      "startTime": 642,
+      "endTime": 642,
+      "speaker": "Diego Diehl",
+      "text": "Então o próximo passo eu vou te encaminhar já um checklist só para Para você lembrar e vou te encaminhar os e-mails para você encaminhar é só você enviar os materiais do dos produtos de Londrina para o e-mail ali da hora do que a gente já vai agilizando o cadastro para vocês."
+    },
+    {
+      "startTime": 642,
+      "endTime": 652,
+      "speaker": "Diego Diehl",
+      "text": "Eu acho que esse é o principal. Ponto crítico ali para a gente já ir cadastrando todos para daí a Z2 consumir porque eu acho que se eu não me engano, o Carlão comentou comigo hoje que praticamente os produtos que estão cadastrados a gente já tá na conta de vocês pronta já só falta os de Londrina."
+    },
+    {
+      "startTime": 654,
+      "endTime": 692,
+      "speaker": "Carlos Stoppa",
+      "text": "Pizza a gente está finalizando já esses 12 que estão dentro do oro para a gente ganhar tempo na implantação. E aí esses de Londrina assim que entrar no Oro a gente implanta no mesmo dia. Tá é Além disso Isaac Filipe dentro dos dois vocês podem cadastrar outros materiais que não estejam dentro do órgão tá a um material promocional do empreendimento alguma algum banner que o corretor pode compartilhar com seus clientes que pode sempre alianças de materiais dentro da ferramenta também, tá? E aí eu posso consumir isso ou você me manda no grupo em forma de empreendimento eu posso consumir um link de drive Portal."
+    },
+    {
+      "startTime": 692,
+      "endTime": 715,
+      "speaker": "Carlos Stoppa",
+      "text": "A gente vai sempre se alinhando eu vou mostrando para vocês as possibilidades de configuração da ferramenta. Falando de integração de sistemas, né hoje o original de corretores de vocês é o próprio órgão, né? Vocês tem algum outro Portal que origina parceiros um portal no site de vocês, como funciona?"
+    },
+    {
+      "startTime": 715,
+      "endTime": 715,
+      "speaker": "Isaque Chaves",
+      "text": "É só o órgão e o WhatsApp."
+    },
+    {
+      "startTime": 717,
+      "endTime": 730,
+      "speaker": "Carlos Stoppa",
+      "text": "O WhatsApp tá? Beleza depois eu coloco aqui o site de vocês e qual o CRM vocês usam hoje? sistema de vendas"
+    },
+    {
+      "startTime": 730,
+      "endTime": 731,
+      "speaker": "Isaque Chaves",
+      "text": "construtor de vendas"
+    },
+    {
+      "startTime": 732,
+      "endTime": 769,
+      "speaker": "Carlos Stoppa",
+      "text": "CV beleza fechou Beleza bom aí falando dos usuários, né? Já comentei o check list, como ele funciona o preenchimento dos Campos obrigatórios é nome e e-mails celulares CPF e se vocês tiverem uma base para importar parceiros para dentro do sistema. Eu posso subir essa base em massa separando por gerente ou por coordenador os dados obrigatórios são sempre nome e celular os outros dados complementares como cresce data de nascimento a região que a pessoa atua eu também posso subir, mas ele fica opcional."
+    },
+    {
+      "startTime": 769,
+      "endTime": 817,
+      "speaker": "Carlos Stoppa",
+      "text": "Aí pode ser um XLS bem simples com o nome dos cabeçalhos, aí eu trato aqui dentro um time a gente sobe para vocês na base. Bom falando de automações iniciais, né? São os check-lists aqui de script Inicial e Campos dinâmicos. Aqui são alguns exemplos de automação e de script, né? Como a nossa ya interage na conversa entre o gerente e o corretor."
+    },
+    {
+      "startTime": 817,
+      "endTime": 831,
+      "speaker": "Carlos Stoppa",
+      "text": "Então sempre que a gente aciona o Zé na conversa, né? O nome da nossa ya ele vai se apresentar ele vai sempre mandar o portfólio de produtos. E aí toda essa descrição que aí a Amanda de forma automática, ela é personalizada. A gente pode sempre colocar ali. Por exemplo."
+    },
+    {
+      "startTime": 831,
+      "endTime": 836,
+      "speaker": "Carlos Stoppa",
+      "text": "Aí eu tenho que definir aqui o que que tem no empreendimento teste, ele vai ter ali metragem de X até Y metros quadrados, ele tem vagas de garagem então toda essa parte que vocês queiram dar uma descrição no WhatsApp para o corretor o que aquele empreendimento contém né no seu Memorial, enfim, como ele vai ser construído a gente pode colocar aqui dentro desses roteiros também, tá? Aqui são exemplos de automação."
+    },
+    {
+      "startTime": 836,
+      "endTime": 854,
+      "speaker": "Carlos Stoppa",
+      "text": "Então as comunicações e massa que a gente envia via WhatsApp, né? Eu posso colocar uma peça posso colocar um vídeo um documento eu posso fazer esse convite aí para todos os meus corretores da base. Tá mas a gente poder entender ali a estratégia de vocês, a gente vai auxiliando durante o projeto."
+    },
+    {
+      "startTime": 854,
+      "endTime": 887,
+      "speaker": "Carlos Stoppa",
+      "text": "E aí toda a parte quando o corretor ele seleciona, né um dos produtos da base de vocês e ele vai pegar esses materiais que estão configurados então todo esse material, eu vou consumidor ou de uma base que vocês possam me orientar. E aí todo o roteiro a mensagem que é enviada a explicação a gente alinha com vocês também antes de colocar para rodar isso tá para vocês poderem entender que toda a interação da Iara já tá pré-definida, ele não vai tirar uma informação ali de um lugar que não tem uma informação que vocês."
+    },
+    {
+      "startTime": 887,
+      "endTime": 909,
+      "speaker": "Carlos Stoppa",
+      "text": "Publicaram ela tá? bom do plano contratado são quatro licenças de WhatsApp, então são quatro coordenadores ou gerentes de parceria que podem estar plugados aí a Limite de Horas de treinamento até 6 horas tá mas aí também se precisar de alguma hora a mais não tem problema é bem flexível."
+    },
+    {
+      "startTime": 909,
+      "endTime": 915,
+      "speaker": "Carlos Stoppa",
+      "text": "Para ser se cadastrados até 8 mil e 25 produtos na automação do WhatsApp com a Iara."
+    },
+    {
+      "startTime": 915,
+      "endTime": 922,
+      "speaker": "Isaque Chaves",
+      "text": "Deixa eu te perguntar é eu tenho quatro licenças de WhatsApp, mas por exemplo assim de perfil e gestor é mais."
+    },
+    {
+      "startTime": 922,
+      "endTime": 930,
+      "speaker": "Carlos Stoppa",
+      "text": "Não tem problema. Você pode ter quando se você quiser administrador gestor tá mas aí há somente quatro."
+    },
+    {
+      "startTime": 930,
+      "endTime": 930,
+      "speaker": "Isaque Chaves",
+      "text": "show de bola"
+    },
+    {
+      "startTime": 930,
+      "endTime": 952,
+      "speaker": "Carlos Stoppa",
+      "text": "Tá bom. Fechou bom. Depois eu pego o telefone tanto seu Isac quanto do Felipe com Diego para a gente ter um grupo a gente vai ter um grupo que ele é para falar de implantação depois que a gente finaliza a implantação esse grupo ele se mantém a gente preserva ele para fazer o acompanhamento o suporte e também esse CS tá junto com vocês."
+    },
+    {
+      "startTime": 952,
+      "endTime": 1006,
+      "speaker": "Carlos Stoppa",
+      "text": "E aí explicando do nosso lado, né? Como funciona essa implantação a gente quando recebe esses dados, né de cadastro de equipes usuários configura os produtos a gente vai configurar também os campos dinâmicos que são os campos de qualificação do corretor. Quais Campos vocês entendem que faz sentido vocês terem se dado qualificado do corretor e também pensando em automação, né um disparem massa quero fazer um disparo direcionado para uma região específica, a gente vai sempre trabalhando isso juntos, tá? Importamos a base de parceiros, a gente também consegue importar essa base de vendas."
+    },
+    {
+      "startTime": 1006,
+      "endTime": 1013,
+      "speaker": "Carlos Stoppa",
+      "text": "Então você fala assim para mim, por exemplo Carlos, eu tenho uma base aqui. Desde janeiro de 24 dos meus corretores parceiros que venderam aqui na Pride. Eu consigo subir para você que essa base também tá porque eu vou atrelar a venda ao parceiro que vendeu então pelos nossos relatórios você vai conseguir enxergar no mês a mês que é o corretor que mais performou o quanto que veio de vgv em cada um dos meses somente no canal de parcerias."
+    },
+    {
+      "startTime": 1013,
+      "endTime": 1038,
+      "speaker": "Carlos Stoppa",
+      "text": "Mapear as integrações isso a gente já fez, né? Agora é só a gente começar a conectar essas bases. Conectar o WhatsApp a gente faz no treinamento tá? Porque o treinamento do gerente do coordenador, ele é muito mais uma conversa focada na utilização da ferramenta. Então vamos falar um pouquinho de plataforma."
+    },
+    {
+      "startTime": 1038,
+      "endTime": 1072,
+      "speaker": "Carlos Stoppa",
+      "text": "Vamos falar um pouquinho também de como ele vai utilizar isso no dia a dia pelo WhatsApp. Opa a gente marca também os acompanhamentos do projeto tá depois da fase do Gol Live tá dois slides à frente e a validação então a validação eu posso fazer tanto no final da implantação depois que o meu time implantou tudo ou eu posso fazer depois dos treinamentos então o treinamento a gente separando as pautas um para administrador que vocês vão falar muito mais de gestão de configuração manipulação do dada na plataforma e o do gerente é muito mais como eles vão utilizar, mas também tem ali uma parte de plataforma, né para eles preencherem os dados e também trazer esse número para dentro de casa."
+    },
+    {
+      "startTime": 1072,
+      "endTime": 1109,
+      "speaker": "Carlos Stoppa",
+      "text": "E aí na quando a gente chega no gol Live, eu posso fazer também a validação aqui tá pode ser antes ou depois ficar o critério de vocês. E aí o gol Live, ele significa que a gente muda né? Essa cerimônia a gente deixa de ser implantação e deixa ele ser acompanhamento, né? E passa a ser acompanhamento a gente vai sempre marcar os acompanhamentos para falar de novidades da ferramenta como vocês estão usando trazer números dados de crescimento de uma semana para outra a gente vai sempre melhorando nossos processos junto com Vocês entenderam também como a gente pode ajudar vocês com alguma esteira algum tipo de processo que vocês têm hoje dentro da pride."
+    },
+    {
+      "startTime": 1110,
+      "endTime": 1120,
+      "speaker": "Filipe Caires",
+      "text": "O Carlos só uma dúvida é com relação depois do Gol Live, né? Tem alguma espécie de garantia que a gente acompanha mais de perto, como que funciona?"
+    },
+    {
+      "startTime": 1120,
+      "endTime": 1121,
+      "speaker": "Carlos Stoppa",
+      "text": "uma garantia em qual sentido porque"
+    },
+    {
+      "startTime": 1121,
+      "endTime": 1121,
+      "speaker": "Filipe Caires",
+      "text": "Não digo, vamos supor porque geral."
+    },
+    {
+      "startTime": 1121,
+      "endTime": 1127,
+      "speaker": "Carlos Stoppa",
+      "text": "por exemplo se você levantar a mão para mim Carlos. Vamos marcar uma reunião de acompanhamento essa semana. Tá marcado já entendeu?"
+    },
+    {
+      "startTime": 1128,
+      "endTime": 1144,
+      "speaker": "Filipe Caires",
+      "text": "geralmente uma implantação assim, você fez o gol Live, aí você tem um acompanhamento durante sei lá tem empresas que dão 10 dias. Tem empresas que dão 30 dias onde ficam um grupo do WhatsApp ainda ativo depois disso. Vamos por aí um vai para um suporte normal, entendeu?"
+    },
+    {
+      "startTime": 1144,
+      "endTime": 1147,
+      "speaker": "Carlos Stoppa",
+      "text": "Não o nosso grupo ele não se desfaz tá isso aí, você pode ficar"
+    },
+    {
+      "startTime": 1147,
+      "endTime": 1148,
+      "speaker": "Filipe Caires",
+      "text": "legal"
+    },
+    {
+      "startTime": 1148,
+      "endTime": 1174,
+      "speaker": "Carlos Stoppa",
+      "text": "tranquilo, ele é vitalício. Então eu vou sempre acompanhar vocês desde a implantação até o final da jornada aqui, então todo tempo, eu estarei com vocês, eu tenho a minha equipe também que preste esse suporte dentro do próprio grupo. E aí o acompanhamento que a reunião de fato você pode definir a data Carlos aqui a gente quer marcar cada 15 dias."
+    },
+    {
+      "startTime": 1174,
+      "endTime": 1193,
+      "speaker": "Carlos Stoppa",
+      "text": "Quero marcar cada 20 a cada mês. Porque conforme vocês vão utilizando a ferramenta menos dúvidas vão sendo geradas então a necessidade de ser semana a semana ela vai perdendo um pouquinho do feeling, né? Aí pode ser a cada 15 dias a cada um mês essa recorrência ela pode ir aumentando também esse tempo, mas se for preciso semana por semana, cara para mim sem problemas a gente alinhar o horário de agenda a gente marca assim, tá? Fica tranquilo."
+    },
+    {
+      "startTime": 1193,
+      "endTime": 1195,
+      "speaker": "Filipe Caires",
+      "text": "beleza"
+    },
+    {
+      "startTime": 1195,
+      "endTime": 1204,
+      "speaker": "Carlos Stoppa",
+      "text": "alguma dúvida gente então"
+    },
+    {
+      "startTime": 1204,
+      "endTime": 1206,
+      "speaker": "Filipe Caires",
+      "text": "Nos próximos os próximos passos seriam o cadastro do órulo que mais."
+    },
+    {
+      "startTime": 1206,
+      "endTime": 1243,
+      "speaker": "Carlos Stoppa",
+      "text": "isso é Isso vou cadastro do hora. Eu já tô fazendo tá? Porque a gente tem essa parceria com uma empresa. Então eu já tô consumindo os dados de lá, eu vou precisar também de vocês agora Felipe Isaac os dados dos usuários que vão acessar a plataforma para quando eu finalizar essa implantação eu falar gente tudo implantado aqui ou Podemos marcar a validação ou os treinamentos direto, aí vocês definem o que for melhor em relação a esteira para vocês a gente marca e depois dessa próxima reunião agendada a gente já marca o treinamento ou validação final."
+    },
+    {
+      "startTime": 1243,
+      "endTime": 1250,
+      "speaker": "Carlos Stoppa",
+      "text": "Tá mas é isso assim a implantação ela já tá rolando já, pode falar."
+    },
+    {
+      "startTime": 1250,
+      "endTime": 1253,
+      "speaker": "Isaque Chaves",
+      "text": "dos Empreendimentos de Londrina que"
+    },
+    {
+      "startTime": 1253,
+      "endTime": 1255,
+      "speaker": "Carlos Stoppa",
+      "text": "de Londrina"
+    },
+    {
+      "startTime": 1255,
+      "endTime": 1257,
+      "speaker": "Isaque Chaves",
+      "text": "eu posso enviar para vocês e"
+    },
+    {
+      "startTime": 1257,
+      "endTime": 1257,
+      "speaker": "Carlos Stoppa",
+      "text": "pode"
+    },
+    {
+      "startTime": 1257,
+      "endTime": 1286,
+      "speaker": "Isaque Chaves",
+      "text": "eu posso liberar para o usuário da hora que você já consomem os Empreendimentos de Curitiba diretamente do CV. Via integração com CV posso liberar esses Empreendimentos de Londrina de Campo Mourão outras cidades. Também no usuário do CD de vocês que vocês conseguem consumir por lá também, acredito que seja mais fácil."
+    },
+    {
+      "startTime": 1286,
+      "endTime": 1291,
+      "speaker": "Carlos Stoppa",
+      "text": "Pode ser se você quiser me mandar esse drive de Londrina a gente consome para cá também, tá? E aí?"
+    },
+    {
+      "startTime": 1291,
+      "endTime": 1292,
+      "speaker": "Isaque Chaves",
+      "text": "Tá eu vou achar ele aqui já."
+    },
+    {
+      "startTime": 1292,
+      "endTime": 1326,
+      "speaker": "Carlos Stoppa",
+      "text": "Em paralelo ele vai para o ouro também essa configuração porque aí o que vai ser importante nesse primeiro momento é eu pegar o ID desse produto no órgão para trazer os parceiros para você integrado. Tá mas aí também não tem muita dificuldade dá para fazer em paralelo para a gente não tem muito muito GAP não e aí eu vou criar um grupo de WhatsApp para nós agora então esse grupo que vai a gente vai manter para implantação suporte ICS, esse aqui é meu telefone estarei lá e aí a gente vai começando a tratar por aí já pelo nosso grupo."
+    },
+    {
+      "startTime": 1326,
+      "endTime": 1336,
+      "speaker": "Carlos Stoppa",
+      "text": "Beleza vou mandar esse material, manda para vocês também. Aí qualquer dúvida que surgir também depois da reunião, a gente está disposição para ajudar vocês."
+    },
+    {
+      "startTime": 1336,
+      "endTime": 1337,
+      "speaker": "Filipe Caires",
+      "text": "Beleza então"
+    },
+    {
+      "startTime": 1337,
+      "endTime": 1338,
+      "speaker": "Carlos Stoppa",
+      "text": "beleza"
+    },
+    {
+      "startTime": 1338,
+      "endTime": 1338,
+      "speaker": "Filipe Caires",
+      "text": "beleza"
+    },
+    {
+      "startTime": 1339,
+      "endTime": 1356,
+      "speaker": "Carlos Stoppa",
+      "text": "Show a Isabela você consegue? Tá eu já vou liberar aqui já Isaac seu janela conseguir criar o grupo ou o Diego que ele já tem um telefone de vocês, a gente já começa a tratar por lá também já manda os materiais certinho."
+    },
+    {
+      "startTime": 1356,
+      "endTime": 1359,
+      "speaker": "Diego Diehl",
+      "text": "Eu caí aqui caiu não me ligaram aqui gente. Perdi uma parte posso"
+    },
+    {
+      "startTime": 1359,
+      "endTime": 1360,
+      "speaker": "Carlos Stoppa",
+      "text": "imagina"
+    },
+    {
+      "startTime": 1360,
+      "endTime": 1363,
+      "speaker": "Diego Diehl",
+      "text": "criar o grupo sim colocar o Isaac bota o Isac como admin da Isaac"
+    },
+    {
+      "startTime": 1363,
+      "endTime": 1364,
+      "speaker": "Carlos Stoppa",
+      "text": "isso"
+    },
+    {
+      "startTime": 1364,
+      "endTime": 1366,
+      "speaker": "Diego Diehl",
+      "text": "adiciona quem precisar ali."
+    },
+    {
+      "startTime": 1366,
+      "endTime": 1369,
+      "speaker": "Carlos Stoppa",
+      "text": "Perfeito perfeito combinado então."
+    },
+    {
+      "startTime": 1369,
+      "endTime": 1370,
+      "speaker": "Diego Diehl",
+      "text": "Acabou já?"
+    },
+    {
+      "startTime": 1370,
+      "endTime": 1371,
+      "speaker": "Carlos Stoppa",
+      "text": "já"
+    },
+    {
+      "startTime": 1371,
+      "endTime": 1374,
+      "speaker": "Diego Diehl",
+      "text": "Tá muito fácil isso aqui Carlão."
+    },
+    {
+      "startTime": 1374,
+      "endTime": 1374,
+      "speaker": "Carlos Stoppa",
+      "text": "O que Coffee a gente alinhar o jogo,"
+    },
+    {
+      "startTime": 1374,
+      "endTime": 1377,
+      "speaker": "Diego Diehl",
+      "text": "Finge que é mais difícil Cara"
+    },
+    {
+      "startTime": 1377,
+      "endTime": 1378,
+      "speaker": "Carlos Stoppa",
+      "text": "né? Então ele é mais tranquilo."
+    },
+    {
+      "startTime": 1379,
+      "endTime": 1390,
+      "speaker": "Diego Diehl",
+      "text": "vocês ficaram com alguma dúvida já que Felipe tá tranquilo. Você tá multado Isaque clássico pandemia."
+    },
+    {
+      "startTime": 1390,
+      "endTime": 1395,
+      "speaker": "Isaque Chaves",
+      "text": "Se você puder só voltar lá para quais informações você precisa para cadastrar o usuário."
+    },
+    {
+      "startTime": 1395,
+      "endTime": 1399,
+      "speaker": "Carlos Stoppa",
+      "text": "nome CPF telefone e e-mail"
+    },
+    {
+      "startTime": 1399,
+      "endTime": 1402,
+      "speaker": "Isaque Chaves",
+      "text": "E corretor também."
+    },
+    {
+      "startTime": 1402,
+      "endTime": 1407,
+      "speaker": "Carlos Stoppa",
+      "text": "O corretor é nome e telefone, né para subir a base de parceiros."
+    },
+    {
+      "startTime": 1407,
+      "endTime": 1407,
+      "speaker": "Isaque Chaves",
+      "text": "Ah não precisa do e-mail para"
+    },
+    {
+      "startTime": 1407,
+      "endTime": 1416,
+      "speaker": "Carlos Stoppa",
+      "text": "Aí todos os outros todos os outros dados eles são opcionais. show já"
+    },
+    {
+      "startTime": 1416,
+      "endTime": 1421,
+      "speaker": "Diego Diehl",
+      "text": "O Isaac daí nos usuários é legal identificar quem que vai ser o número do WhatsApp?"
+    },
+    {
+      "startTime": 1421,
+      "endTime": 1421,
+      "speaker": "Isaque Chaves",
+      "text": "nada"
+    },
+    {
+      "startTime": 1421,
+      "endTime": 1455,
+      "speaker": "Diego Diehl",
+      "text": "E quem que é só usuário e aí um combinadinho que eu quero fazer contigo Isaac é que é uma que é a forma com que a gente está vendo que está dando mais certo implementar. A gente ajusta tudo deixa Prontinho Tudo. E aí cara no começo nos primeiros dias não sobe a base de corretores faz eles cadastrarem com a roupa Zé uma um treinar explicar o que que é lá lá, vocês querem mudar, né? Para abrir algo assim, vocês estão nessa ainda? Esse chão é uma praia de Carlos, Carlão."
+    },
+    {
+      "startTime": 1455,
+      "endTime": 1461,
+      "speaker": "Diego Diehl",
+      "text": "Daí, eles vão chamar de Pri. Achei sensacional Zé vai ser Pri aí Abrir é para eles."
+    },
+    {
+      "startTime": 1461,
+      "endTime": 1462,
+      "speaker": "Carlos Stoppa",
+      "text": "Tá bom."
+    },
+    {
+      "startTime": 1465,
+      "endTime": 1477,
+      "speaker": "Diego Diehl",
+      "text": "Treinarem cadastrar@prico o nome de cada um a gente bater lá sem cadastro e depois a gente sobe a base tem sido melhor, tá bom? Então beleza"
+    },
+    {
+      "startTime": 1477,
+      "endTime": 1477,
+      "speaker": "Carlos Stoppa",
+      "text": "Beleza então gente."
+    },
+    {
+      "startTime": 1477,
+      "endTime": 1480,
+      "speaker": "Diego Diehl",
+      "text": "Fechou a gente. Valeu bom dia para vocês aí Feliz"
+    },
+    {
+      "startTime": 1480,
+      "endTime": 1482,
+      "speaker": "Isaque Chaves",
+      "text": "então"
+    },
+    {
+      "startTime": 1482,
+      "endTime": 1483,
+      "speaker": "Diego Diehl",
+      "text": "Natal, vamos para cima."
+    },
+    {
+      "startTime": 1483,
+      "endTime": 1485,
+      "speaker": "Carlos Stoppa",
+      "text": "Isso aí Boas festas, gente."
+    },
+    {
+      "startTime": 1485,
+      "endTime": 1486,
+      "speaker": "Isaque Chaves",
+      "text": "Obrigado vocês."
+    },
+    {
+      "startTime": 1486,
+      "endTime": 1486,
+      "speaker": "Carlos Stoppa",
+      "text": "Obrigado, viu?"
+    },
+    {
+      "startTime": 1486,
+      "endTime": 1486,
+      "speaker": "Diego Diehl",
+      "text": "Valeu, valeu, pessoal. Abraço."
+    },
+    {
+      "startTime": 1486,
+      "endTime": 1488,
+      "speaker": "Filipe Caires",
+      "text": "Valeu galera"
+    },
+    {
+      "startTime": 1488,
+      "endTime": 1489,
+      "speaker": "Carlos Stoppa",
+      "text": "valeu"
+    },
+    {
+      "startTime": 1489,
+      "endTime": 1489,
+      "speaker": "Filipe Caires",
+      "text": "Até mais."
+    },
+    {
+      "startTime": 1489,
+      "endTime": 1490,
+      "speaker": "Isaque Chaves",
+      "text": "tchau."
+    },
+    {
+      "startTime": 1490,
+      "endTime": 1490,
+      "speaker": "Luiz Gustavo Zanella",
+      "text": "Valeu, tchau, tchau."
+    }
+  ]
+}

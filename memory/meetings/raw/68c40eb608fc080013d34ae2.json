@@ -1,0 +1,28 @@
+{
+  "id": "68c40eb608fc080013d34ae2",
+  "happenedAt": "2025-09-12T12:15:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "João Vitor / Diego",
+  "duration": 3500.598,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68c40eb608fc080013d34ae2",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "gvf-hxgf-sxw"
+  }
+}

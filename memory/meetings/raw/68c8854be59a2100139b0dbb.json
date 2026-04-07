@@ -1,0 +1,44 @@
+{
+  "id": "68c8854be59a2100139b0dbb",
+  "happenedAt": "2025-09-15T21:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "comercial@blow.com.br"
+    },
+    {
+      "name": "",
+      "email": "felipe@blow.com.br"
+    }
+  ],
+  "name": "Call Órulo-Blow",
+  "duration": 4469.342,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68c8854be59a2100139b0dbb",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "czm-qbwe-zqd"
+  }
+}

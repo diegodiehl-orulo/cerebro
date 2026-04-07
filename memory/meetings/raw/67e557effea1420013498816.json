@@ -1,0 +1,36 @@
+{
+  "id": "67e557effea1420013498816",
+  "happenedAt": "2025-03-27T13:51:43.380Z",
+  "invitees": [
+    {
+      "name": "",
+      "email": "monteiro@aamvendas.com.br"
+    },
+    {
+      "name": "",
+      "email": "rodrigo.vieira@aamincorporadora.com.br"
+    },
+    {
+      "name": "",
+      "email": "erica.parcerias@associadosaamvendas.com.br"
+    },
+    {
+      "name": "",
+      "email": "samuel.parcerias@associadosaamvendas.com.br"
+    }
+  ],
+  "name": "Treinamento Órulo PRM + IA (AAM)",
+  "duration": 893.964,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67e557effea1420013498816",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "tmn-ehpt-psi"
+  }
+}

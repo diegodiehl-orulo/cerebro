@@ -1,0 +1,1622 @@
+{
+  "meeting_id": "66bd13750e011600138c33b1",
+  "name": "Implementação PRM",
+  "happened_at": "2024-08-14T20:28:37.700Z",
+  "duration_seconds": 2024.962,
+  "duration_minutes": 33.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Joao Vitor",
+      "email": "joaopds2012@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66bd13750e011600138c33b1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "yny-rvtb-qoi",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66bd13780e011600138c33b7",
+    "meetingId": "66bd13750e011600138c33b1",
+    "data": [
+      {
+        "startTime": 1,
+        "endTime": 1,
+        "speaker": "Diego Diehl",
+        "text": "aham"
+      },
+      {
+        "startTime": 2,
+        "endTime": 24,
+        "speaker": "Joao Vitor",
+        "text": "realizada. tranquilamente e da ideias avos a gente tá numa fase pelo meu entendimento bem Inicial, né de cadastro deles na plumis integração E a habilitação da Integração com o nosso time Imagino que com o Fernando né? E foi até o que o Johnny comentou que intermediário esse contato com ele e a integração também calculos, né? E a gente parte desse momento como objetivo inicial da gente fazer a conexão dos líderes deles na plataforma, né? Que aquele processo que a gente já viu até o momento."
+      },
+      {
+        "startTime": 24,
+        "endTime": 29,
+        "speaker": "Joao Vitor",
+        "text": "Que é dos corretores, né? Já caírem dentro da plataforma e ter toda essa integração já realizada."
+      },
+      {
+        "startTime": 31,
+        "endTime": 44,
+        "speaker": "Diego Diehl",
+        "text": "tá você Quer abrir onde é que você vai estar controlando a planilha que você quer organizar eu posso te dar alguns direcionamentos com mais detalhes de cada coisa para sexta-feira."
+      },
+      {
+        "startTime": 44,
+        "endTime": 46,
+        "speaker": "Joao Vitor",
+        "text": "Tá boa."
+      },
+      {
+        "startTime": 46,
+        "endTime": 48,
+        "speaker": "Diego Diehl",
+        "text": "Dia de amanhã, né você poder olhar."
+      },
+      {
+        "startTime": 49,
+        "endTime": 75,
+        "speaker": "Joao Vitor",
+        "text": "Sim realizar esses testes. Então deixa eu compartilhar contigo aqui o que que eu já montei esse direcionamento? Eu anotei no meu bloco de notas tá? Até para eu extrair da planilha e eu comentei aqui. Daí a gente vê onde vai ser melhor organizar isso. E daí, eu montei a planilha que eu te falei, né? Deixa eu compartilhar aqui, ó."
+      },
+      {
+        "startTime": 75,
+        "endTime": 84,
+        "speaker": "Joao Vitor",
+        "text": "Cara, tô sofrendo aqui porque eu tô com eu tô só com a tela do note. Daqui a pouco eu vou ter que recorrer um monitor."
+      },
+      {
+        "startTime": 84,
+        "endTime": 84,
+        "speaker": "Diego Diehl",
+        "text": "É importante, né?"
+      },
+      {
+        "startTime": 84,
+        "endTime": 85,
+        "speaker": "Joao Vitor",
+        "text": "Vou ter que logo logo, eu vou ter que"
+      },
+      {
+        "startTime": 85,
+        "endTime": 87,
+        "speaker": "Diego Diehl",
+        "text": "Eu também"
+      },
+      {
+        "startTime": 87,
+        "endTime": 109,
+        "speaker": "Joao Vitor",
+        "text": "comprar um ajuda bastante. Mas aqui Diego então eu fiz o levantamento eu me expliquei né, esse levantamento que eu fiz aqui nessa planilha de acordo com as tarefas que são feitas tanto na setinha quanto na ideia as árvores, eu usei as duas então analisei as duas hoje à tarde."
+      },
+      {
+        "startTime": 109,
+        "endTime": 129,
+        "speaker": "Joao Vitor",
+        "text": "E identifiquei as atividades que aparecem em comum, né? E segimentei pelo pela pela responsabilidade é que nem seria atribuição mais responsabilidade. Identifique que cada um tá atuando, né já para começar a ter um entendimento, o que que é responsabilidade de nós e o que que é responsabilidade, né dos nossos fornecedores."
+      },
+      {
+        "startTime": 129,
+        "endTime": 130,
+        "speaker": "Diego Diehl",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 130,
+        "endTime": 152,
+        "speaker": "Joao Vitor",
+        "text": "A gente já começar a ter aquele desenho do que até foi um ponto que hoje na reunião de hoje. Quais são as outras atividades ou seja? Quais são os outros passos que ele já conseguem fazer? Em paralelo com a importação por exemplo que está em andamento então a gente começar a ter esse desenho do que que pode o que que a gente pode."
+      },
+      {
+        "startTime": 152,
+        "endTime": 172,
+        "speaker": "Joao Vitor",
+        "text": "Já largar na mão deles para já começar a desenhar uma uma data de previsão das tarefas que a gente precisa. Então por isso que eu acho importante ter essa segmentação. Porque a partir do momento que a gente entende que é 20 tarefas aqui que a gente tem já documentado são responsabilidades da avode."
+      },
+      {
+        "startTime": 172,
+        "endTime": 190,
+        "speaker": "Joao Vitor",
+        "text": "O que que eles precisam primeiro para realizar essas tarefas, né que parta de informação. Nossa por exemplo definição de processo lá dos corretores. Que que a gente tem que devolver de input para eles para que eles já consigam realizar a configuração. Aí a gente já consegue andar com muita coisa para não ter aqui, ó."
+      },
+      {
+        "startTime": 190,
+        "endTime": 193,
+        "speaker": "Joao Vitor",
+        "text": "Várias tarefas paradas, entendeu? Não sei se tu concorda com esse ponto de vista."
+      },
+      {
+        "startTime": 195,
+        "endTime": 217,
+        "speaker": "Diego Diehl",
+        "text": "Desliguei o vídeo aqui, tô travando vamos conversar assim, ó. Você tá me dizendo que você tá atuando naquela atividade que a gente sentou para você que é uma meta que é. A tua meta 2 lá definir o processo ver um de implementação, né?"
+      },
+      {
+        "startTime": 217,
+        "endTime": 218,
+        "speaker": "Joao Vitor",
+        "text": "Isso isso."
+      },
+      {
+        "startTime": 218,
+        "endTime": 225,
+        "speaker": "Diego Diehl",
+        "text": "É vamos conversar sobre a gente definir um padrão dessa tua dessa tua planilha."
+      },
+      {
+        "startTime": 225,
+        "endTime": 225,
+        "speaker": "Joao Vitor",
+        "text": "vamos"
+      },
+      {
+        "startTime": 226,
+        "endTime": 239,
+        "speaker": "Diego Diehl",
+        "text": "Então assim. Joga no Google aí escreve método Cipó."
+      },
+      {
+        "startTime": 239,
+        "endTime": 241,
+        "speaker": "Joao Vitor",
+        "text": "é"
+      },
+      {
+        "startTime": 241,
+        "endTime": 299,
+        "speaker": "Diego Diehl",
+        "text": "É mudo isso. Pode abrir esse da fm2s. É exatamente o que você tá falando ó, tá vendo? Isso daí é como se fosse para cada etapa de processo, a gente tem isso então. Quais são os inputs quem é o fornecedor desses inputs? Qual é o processo que tem que rodar Qual é a altitude para isso ser definido como concluído e quem é o cliente que precisa ser informado de certa forma? Quase que para startar novos processos? Na tua planilha ali que você fez que você pintou, eu acho que por sinal tem um curso aí na fm2s, não sei se já fez só para você botar no teu backlog aí é útil."
+      },
+      {
+        "startTime": 299,
+        "endTime": 328,
+        "speaker": "Diego Diehl",
+        "text": "Mas se eu não me engano eu fiz uma vez que é o White Belt. Não precisa fazer agora mais para frente pode fazer mas eu queria que a gente que você naquela planilha ali você criasse. Umas colunas que é cara, você vai ter que trabalhar ela uma vez outra vez, talvez a gente definiu padrão antes de trabalhar muito nela, mas você ele estando ali para cada atividade."
+      },
+      {
+        "startTime": 328,
+        "endTime": 347,
+        "speaker": "Diego Diehl",
+        "text": "Qual é o qual é o input? Qual é o processo? Qual é o tipo, qual o cliente? E aí quase que tentar daqui a pouco associar elas né? Tipo às vezes chamar de atividade A B C D para não precisar ficar mudando e ordenando. Mas você vai se referenciando ó precisa do input do output da tarefa a para começar a tarefa."
+      },
+      {
+        "startTime": 347,
+        "endTime": 347,
+        "speaker": "Diego Diehl",
+        "text": "F para a gente ter uma relação"
+      },
+      {
+        "startTime": 347,
+        "endTime": 349,
+        "speaker": "Joao Vitor",
+        "text": "sim"
+      },
+      {
+        "startTime": 349,
+        "endTime": 379,
+        "speaker": "Diego Diehl",
+        "text": "nisso. Isso para um Médio prazo, tá curto prazo o que eu queria deixar claro te ligar minha câmera. porque eu queria deixar claro para ti e eu não sei se eu falei na reunião, ele ficou tão claro, mas é Eu acho que a gente atua de duas frequências, uma tua que é vai aprendendo vai estudando vai fuçando para você ter sempre aquele tempo de me pedir um algo tá? Deixa eu ver."
+      },
+      {
+        "startTime": 379,
+        "endTime": 405,
+        "speaker": "Diego Diehl",
+        "text": "O entorno. Deixa eu dar uma estudadinha. Deixa eu dar uma entendida. E a outra frequência que é Cara preciso realizar o que eu preciso realizar para acelerar a setinha próximo passo Diego que precisa ser feito quase que uma reunião diária, nossa. Dá minha visão que eu tô muito por dentro, aproveita que eu tô muito dentro do processo agora que tá direcionamentos muito claro, você tinha o que precisa o que precisa verificar o que precisa criar."
+      },
+      {
+        "startTime": 405,
+        "endTime": 418,
+        "speaker": "Diego Diehl",
+        "text": "Qual o próximo passo e aí a gente vai anotando e vai pontuando então, talvez um exercício agora é a gente falar só da Cetim. Exatamente precisa fazer de cada etapa, se você quiser até abrir a tua planilha de novo ou até o"
+      },
+      {
+        "startTime": 418,
+        "endTime": 419,
+        "speaker": "Joao Vitor",
+        "text": "Claro"
+      },
+      {
+        "startTime": 419,
+        "endTime": 423,
+        "speaker": "Diego Diehl",
+        "text": "playing dar Cetim. Para a gente."
+      },
+      {
+        "startTime": 423,
+        "endTime": 428,
+        "speaker": "Joao Vitor",
+        "text": "Boa e foi justamente essa dúvida que eu coloquei aqui pautada, tá digo."
+      },
+      {
+        "startTime": 428,
+        "endTime": 428,
+        "speaker": "Diego Diehl",
+        "text": "Qual é?"
+      },
+      {
+        "startTime": 428,
+        "endTime": 447,
+        "speaker": "Joao Vitor",
+        "text": "Que era justamente entender, o que que é feito em cada umas atividades que vai entrar dentro daquele método que você comentou ali, né? Ou seja, quais são o que que é realizado dentro de cada tarefa, o que que isso gera de dado para a gente conseguir munir lá o time do Johnny, né? E que ele consiga aí configurar."
+      },
+      {
+        "startTime": 447,
+        "endTime": 451,
+        "speaker": "Joao Vitor",
+        "text": "Então acho que isso vai ser extrema importância e de Fato, né?"
+      },
+      {
+        "startTime": 451,
+        "endTime": 451,
+        "speaker": "Diego Diehl",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 451,
+        "endTime": 453,
+        "speaker": "Joao Vitor",
+        "text": "O como que uma coisa tá conectada com a outra, como que a gente"
+      },
+      {
+        "startTime": 453,
+        "endTime": 454,
+        "speaker": "Diego Diehl",
+        "text": "isso"
+      },
+      {
+        "startTime": 454,
+        "endTime": 466,
+        "speaker": "Joao Vitor",
+        "text": "Como que a gente finaliza uma reunião de dele amanhã, por exemplo e tem e o time do Johnny tem clareza das próximas tarefas que eles têm que entregar para a gente até semana que vem. Então isso o ponto que eu bati bastante, sabe?"
+      },
+      {
+        "startTime": 469,
+        "endTime": 480,
+        "speaker": "Diego Diehl",
+        "text": "tranquilo ainda por horas, você nem precisa entender o processo em si detalhe detalhes. Preciso saber o que precisa entrar que precisa sair e o que sair você testa invalida para não passar vergonha na frente dos clientes."
+      },
+      {
+        "startTime": 482,
+        "endTime": 490,
+        "speaker": "Joao Vitor",
+        "text": "Tá deixa eu abrir aqui a planilha dele. Ideias a b******** tá aqui."
+      },
+      {
+        "startTime": 490,
+        "endTime": 494,
+        "speaker": "Diego Diehl",
+        "text": "Isso ó, vamos fazer uma revisão lá desde o começo lá de cima."
+      },
+      {
+        "startTime": 494,
+        "endTime": 495,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 496,
+        "endTime": 509,
+        "speaker": "Diego Diehl",
+        "text": "Revisar a integração de produtos Orla Daí pode anotar nas observações ali ó, quem sabe até cria uma coluna na de na direita diminui esse tamanho de comentários aí cria uma segunda."
+      },
+      {
+        "startTime": 512,
+        "endTime": 518,
+        "speaker": "Joao Vitor",
+        "text": "Pera aí, deixa eu. Não precisa ser tão grande."
+      },
+      {
+        "startTime": 520,
+        "endTime": 523,
+        "speaker": "Diego Diehl",
+        "text": "É que atravesse escreve uma ali comentários João."
+      },
+      {
+        "startTime": 534,
+        "endTime": 534,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 534,
+        "endTime": 539,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, ó primeiro ponto primeira tarefa é integração de produtos."
+      },
+      {
+        "startTime": 544,
+        "endTime": 549,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 549,
+        "endTime": 613,
+        "speaker": "Diego Diehl",
+        "text": "bota com Tá bota com Um asterisco bota um asterisco que vamos combinar que são asterisco asterisco não é tão urgente, tá? E é validar com o cliente documentos disponíveis em cada produto Se querem adicionar algum. ponto obter principais arquivos Que estarão armazenados. no Drive Contexto disso tá tem arquivos de produto que pega direto da Orlando e tem por exemplo tabelão de oportunidades."
+      },
+      {
+        "startTime": 613,
+        "endTime": 650,
+        "speaker": "Diego Diehl",
+        "text": "Configurar o bote para o cara perguntar Ah, me manda o tabelão aí a gente vai ter que organizar com o cliente o arquivo do drive e daí do drive bota entre parentes aí. é Criar instrução. sobre gerenciamento de versões Para não alterar o link. Que que é isso vai estar lá no bote configurado que quando pedi isso, manda o arquivo desse link, quando eles forem alterar, ele só gerenciou a versão e trocam o arquivo, não precisa alterar o link vai ter que alterar o prompt."
+      },
+      {
+        "startTime": 650,
+        "endTime": 650,
+        "speaker": "Joao Vitor",
+        "text": "boa na até complementando no teu"
+      },
+      {
+        "startTime": 650,
+        "endTime": 650,
+        "speaker": "Diego Diehl",
+        "text": "Beleza então esse"
+      },
+      {
+        "startTime": 655,
+        "endTime": 660,
+        "speaker": "Joao Vitor",
+        "text": "vídeo de apresentação para ajeitar se eu não me engano tu sugere isso para o analista de ti dele se não me engano."
+      },
+      {
+        "startTime": 660,
+        "endTime": 663,
+        "speaker": "Diego Diehl",
+        "text": "Muito bom."
+      },
+      {
+        "startTime": 663,
+        "endTime": 664,
+        "speaker": "Joao Vitor",
+        "text": "Acho que é a mesma coisa, já já saquei boa."
+      },
+      {
+        "startTime": 665,
+        "endTime": 675,
+        "speaker": "Diego Diehl",
+        "text": "Muito bem, gostei. Vou jogar uma pegadinha para você agora."
+      },
+      {
+        "startTime": 675,
+        "endTime": 676,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 676,
+        "endTime": 680,
+        "speaker": "Diego Diehl",
+        "text": "Quantos projetos você está implementando?"
+      },
+      {
+        "startTime": 680,
+        "endTime": 682,
+        "speaker": "Joao Vitor",
+        "text": "Quanto eu estou implementando?"
+      },
+      {
+        "startTime": 682,
+        "endTime": 682,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 682,
+        "endTime": 684,
+        "speaker": "Joao Vitor",
+        "text": "dois"
+      },
+      {
+        "startTime": 684,
+        "endTime": 686,
+        "speaker": "Diego Diehl",
+        "text": "errado"
+      },
+      {
+        "startTime": 686,
+        "endTime": 687,
+        "speaker": "Joao Vitor",
+        "text": "Eu estou implementando."
+      },
+      {
+        "startTime": 687,
+        "endTime": 689,
+        "speaker": "Diego Diehl",
+        "text": "Não é a gente."
+      },
+      {
+        "startTime": 689,
+        "endTime": 692,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 692,
+        "endTime": 693,
+        "speaker": "Diego Diehl",
+        "text": "Três tem aí, isso a gente tá"
+      },
+      {
+        "startTime": 693,
+        "endTime": 697,
+        "speaker": "Joao Vitor",
+        "text": "Três Ah tem a ISO é referência, né? Sim boa."
+      },
+      {
+        "startTime": 697,
+        "endTime": 699,
+        "speaker": "Diego Diehl",
+        "text": "esquecendo deles, eles é o local em"
+      },
+      {
+        "startTime": 699,
+        "endTime": 699,
+        "speaker": "Joao Vitor",
+        "text": "boa"
+      },
+      {
+        "startTime": 699,
+        "endTime": 711,
+        "speaker": "Diego Diehl",
+        "text": "Eles é o local em que a gente pode avançar testar amadurecer e errar tem produto que não tem tanto problema. Então a gente tem que criar e retomar daqui a pouco o planing daeso tá?"
+      },
+      {
+        "startTime": 711,
+        "endTime": 711,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 711,
+        "endTime": 715,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu vou falar com você depois que não é extremamente urgente vai para"
+      },
+      {
+        "startTime": 715,
+        "endTime": 715,
+        "speaker": "Joao Vitor",
+        "text": "beleza"
+      },
+      {
+        "startTime": 715,
+        "endTime": 719,
+        "speaker": "Diego Diehl",
+        "text": "a esquerda ali. Vou ver a próxima atividade. revisar integração de corretores"
+      },
+      {
+        "startTime": 719,
+        "endTime": 723,
+        "speaker": "Joao Vitor",
+        "text": "Agora a integração de corretores. tá"
+      },
+      {
+        "startTime": 723,
+        "endTime": 725,
+        "speaker": "Diego Diehl",
+        "text": "Ah o que é. Ok?"
+      },
+      {
+        "startTime": 725,
+        "endTime": 730,
+        "speaker": "Joao Vitor",
+        "text": "Beleza consegue só dar uma resumida básica aqui só para a gente ter um entendimento isso."
+      },
+      {
+        "startTime": 733,
+        "endTime": 742,
+        "speaker": "Diego Diehl",
+        "text": "A integração de corretores é fazer com que os corretores que acessam a ouro?"
+      },
+      {
+        "startTime": 742,
+        "endTime": 743,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 743,
+        "endTime": 754,
+        "speaker": "Diego Diehl",
+        "text": "fazer com que os corretores que acessam os produtos da Incorporadora na hora"
+      },
+      {
+        "startTime": 754,
+        "endTime": 755,
+        "speaker": "Joao Vitor",
+        "text": "Que acessam."
+      },
+      {
+        "startTime": 755,
+        "endTime": 757,
+        "speaker": "Diego Diehl",
+        "text": "Que acesso os produtos da Incorporadora na hora?"
+      },
+      {
+        "startTime": 757,
+        "endTime": 764,
+        "speaker": "Joao Vitor",
+        "text": "Os produtos da depois eu ajusto aqui só para a gente ganhar tempo."
+      },
+      {
+        "startTime": 764,
+        "endTime": 765,
+        "speaker": "Diego Diehl",
+        "text": "Cheguem no plugs."
+      },
+      {
+        "startTime": 765,
+        "endTime": 767,
+        "speaker": "Joao Vitor",
+        "text": "na hora"
+      },
+      {
+        "startTime": 774,
+        "endTime": 784,
+        "speaker": "Diego Diehl",
+        "text": "Como um novo como um lead no funil? Como um líder no funil lidisologo? isólogo?"
+      },
+      {
+        "startTime": 784,
+        "endTime": 788,
+        "speaker": "Joao Vitor",
+        "text": "Como um vídeo no funil líderes?"
+      },
+      {
+        "startTime": 788,
+        "endTime": 788,
+        "speaker": "Diego Diehl",
+        "text": "Isso tá claro."
+      },
+      {
+        "startTime": 789,
+        "endTime": 802,
+        "speaker": "Joao Vitor",
+        "text": "Tá claro tem dois Campos, né dentro pelo que eu estudei ali da base, né? Que identificam o tipo, né do da onde? Aquele de veio daí é por lá que é feito automação, né? né?"
+      },
+      {
+        "startTime": 802,
+        "endTime": 805,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito vai para esquerda ali tá"
+      },
+      {
+        "startTime": 805,
+        "endTime": 805,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 805,
+        "endTime": 806,
+        "speaker": "Diego Diehl",
+        "text": "claro. Esse é tipo integral."
+      },
+      {
+        "startTime": 806,
+        "endTime": 808,
+        "speaker": "Joao Vitor",
+        "text": "perfeitamente perfeitamente"
+      },
+      {
+        "startTime": 808,
+        "endTime": 813,
+        "speaker": "Diego Diehl",
+        "text": "Aqui essa tarefa revisar ela não é muito valor, né?"
+      },
+      {
+        "startTime": 813,
+        "endTime": 813,
+        "speaker": "Joao Vitor",
+        "text": "sim"
+      },
+      {
+        "startTime": 813,
+        "endTime": 828,
+        "speaker": "Diego Diehl",
+        "text": "O ponto é um implementar já mas beleza. Definir gestão das imobiliárias colocam S ali já isso é outra coisa cara gerentes de projetos que povo definir gestão das imobiliárias."
+      },
+      {
+        "startTime": 828,
+        "endTime": 829,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 829,
+        "endTime": 873,
+        "speaker": "Diego Diehl",
+        "text": "Nem sei o que é isso. Beleza definir gestão de carteira que tá comigo. Pode pôr em observação ali tua para você saber o que é isso? Isso daí é? obter com a Incorporadora Quais são as regras de gestão de carteira? Entre gerentes e corretores. Então a é carteira aberta a carteira fechada, depende de cada uma tá o da Cetim tá meio que uma confusão outro de outro explico."
+      },
+      {
+        "startTime": 873,
+        "endTime": 875,
+        "speaker": "Diego Diehl",
+        "text": "Isso aí que está fazendo João eu"
+      },
+      {
+        "startTime": 875,
+        "endTime": 875,
+        "speaker": "Joao Vitor",
+        "text": "então o Diego."
+      },
+      {
+        "startTime": 878,
+        "endTime": 900,
+        "speaker": "Diego Diehl",
+        "text": "acho que eu vou pegar e vou escrever várias coisas na planilha depois. Talvez a gente possa até fazer uma cópia dessa e começar a trabalhar nessa como modelo e eu escrevo várias coisas e a gente grava uma reunião te explico se assiste de novo para ir anotando algo. Esse diagnóstico precisa saber o que que eu faço eu entrevisto cada gerente."
+      },
+      {
+        "startTime": 900,
+        "endTime": 930,
+        "speaker": "Diego Diehl",
+        "text": "E pessoa da equipe comercial com algumas perguntas para entender se tem alguma dor se tem alguma preocupação se tem algum ruído, eu vou te mandar aqui, ó. Vou te compartilhar uma planilha. Vou chegar lá no WhatsApp para você ver o diagnóstico que eu fiz que eu vou ainda. Pois eu vou tirar um relatório melhor isso daí é para pegar."
+      },
+      {
+        "startTime": 930,
+        "endTime": 932,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 932,
+        "endTime": 936,
+        "speaker": "Diego Diehl",
+        "text": "dor específica algo diferente."
+      },
+      {
+        "startTime": 936,
+        "endTime": 940,
+        "speaker": "Joao Vitor",
+        "text": "importantes aqui demais Boa vamos lá processo de corretores"
+      },
+      {
+        "startTime": 940,
+        "endTime": 943,
+        "speaker": "Diego Diehl",
+        "text": "É cara, é isso esses validarem, ó."
+      },
+      {
+        "startTime": 943,
+        "endTime": 944,
+        "speaker": "Joao Vitor",
+        "text": "originadas pela órgão."
+      },
+      {
+        "startTime": 949,
+        "endTime": 967,
+        "speaker": "Diego Diehl",
+        "text": "Ó, pode passar lá para baixo agora vai desse definições aí, OK? Vamos para o que importa depois eu reviso olho cada um ano para eu enriquecer a gente poder economizar economizar o teu tempo aqui na reunião também. É pode ir para fase 2 lá aí eu"
+      },
+      {
+        "startTime": 967,
+        "endTime": 967,
+        "speaker": "Joao Vitor",
+        "text": "fase 2"
+      },
+      {
+        "startTime": 968,
+        "endTime": 1002,
+        "speaker": "Diego Diehl",
+        "text": "fazer. Aí habilitar integração é o que eu falei para você, só que lá tá escrito revisar. produto e ligue show ajustar Campos do módulo ajeita do módulos do módulo de clientes Esse daí o que que eles fazem para você saber dava de eles querem entrar no sistema e ficar perguntando se quer algum campo ou não a mais e tal."
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1016,
+        "speaker": "Diego Diehl",
+        "text": "Porque eles vendem a personalização do sistema deles querem ficar Enchendo Linguiça ali, eu combinei com eles que nesses primeiros eles não fiquem incomodando cara. Vai assim segue implementa. importar Imobiliária exportar dados"
+      },
+      {
+        "startTime": 1016,
+        "endTime": 1016,
+        "speaker": "Joao Vitor",
+        "text": "sim"
+      },
+      {
+        "startTime": 1019,
+        "endTime": 1031,
+        "speaker": "Diego Diehl",
+        "text": "do portal sem entender, né configurar Excel cortar imobiliário importar corretores conectar o WhatsApp foi Vamos para o que vai ser agora, depois eu te explico. O resto tá configura."
+      },
+      {
+        "startTime": 1031,
+        "endTime": 1031,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1034,
+        "endTime": 1042,
+        "speaker": "Diego Diehl",
+        "text": "validar cadastro ali, ó, agora é o validar a linha 39"
+      },
+      {
+        "startTime": 1042,
+        "endTime": 1047,
+        "speaker": "Joao Vitor",
+        "text": "Tá vai dar cadastro de corretores. tá"
+      },
+      {
+        "startTime": 1048,
+        "endTime": 1071,
+        "speaker": "Diego Diehl",
+        "text": "do Victor Victor. Que ele mandou para mim. Que o qual que é o mecanismo? Depois você vai centralizando essas mensagens que eu vou te mandar e tudo joga no joga em algum lugar, mas basicamente a gente tem três emojis. que um rompe o rastreamento o outro"
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1073,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1073,
+        "endTime": 1095,
+        "speaker": "Diego Diehl",
+        "text": "ativo rastreamento e o outro cria um novo contato. Hoje a gente só rastreia. O que é cadastrado como novo contato na Plus então basicamente. Quero chegar na sexta-feira e falar galera na lista de transmissão de vocês. Coloca esses dois emojis que vai cadastrar todo mundo que não tá cadastrado como seu então o movimento um é."
+      },
+      {
+        "startTime": 1095,
+        "endTime": 1109,
+        "speaker": "Diego Diehl",
+        "text": "Quando não tá cadastrado cadastro e bote no nome de quem cadastrou na carteira e o ponto 2 é se houver solicitação de outro gerente de um corretor que já está cadastrado. Coloca ele como colaborador também é só isso. tá"
+      },
+      {
+        "startTime": 1115,
+        "endTime": 1121,
+        "speaker": "Joao Vitor",
+        "text": "essa configuração de fato para ter esse comportamento tava na mão do Vitor implementar isso."
+      },
+      {
+        "startTime": 1121,
+        "endTime": 1125,
+        "speaker": "Diego Diehl",
+        "text": "É dos dois é Victor e João é Victor e Johnny."
+      },
+      {
+        "startTime": 1125,
+        "endTime": 1126,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1126,
+        "endTime": 1133,
+        "speaker": "Diego Diehl",
+        "text": "Tá É isso aí que precisa dar um cheque se tá funcionando para sexta-feira então amanhã a gente dá um cheque nisso."
+      },
+      {
+        "startTime": 1133,
+        "endTime": 1140,
+        "speaker": "Joao Vitor",
+        "text": "Tá já vou até anotar aqui nas minhas anotações. Ó, que isso aqui é prioridade para sexta-feira, beleza?"
+      },
+      {
+        "startTime": 1140,
+        "endTime": 1147,
+        "speaker": "Diego Diehl",
+        "text": "E aí você pode talvez? Avaliar testar na eso se for o caso"
+      },
+      {
+        "startTime": 1147,
+        "endTime": 1148,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1160,
+        "speaker": "Diego Diehl",
+        "text": "tipo, o Vitor essa funcionalidade está habilitada na eso. Sim ou não? Vamos pôr não sei se vai ter que levar se tá não dá certinho, talvez testa não dá certinho mesmo. Se for dar mais trabalho, tá bom?"
+      },
+      {
+        "startTime": 1160,
+        "endTime": 1161,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1162,
+        "endTime": 1179,
+        "speaker": "Diego Diehl",
+        "text": "Então esse é um do cadastro e o segundo ponto. Eu acho que aquela. Vai mais para baixo. Aí ele tá bote validar."
+      },
+      {
+        "startTime": 1179,
+        "endTime": 1180,
+        "speaker": "Joao Vitor",
+        "text": "funil"
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1192,
+        "speaker": "Diego Diehl",
+        "text": "Ah do da carteira vai para cima um pouquinho. Vai mais aí, ó. Nessa linha 40 39, faz uma anotação tua ali."
+      },
+      {
+        "startTime": 1192,
+        "endTime": 1192,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1193,
+        "endTime": 1251,
+        "speaker": "Diego Diehl",
+        "text": "Que é o seguinte? é Configurar relatório. Que demonstre. a gestão de carteira Entre parentes tamanho e crescimento. Essas paredes considerando responsáveis. Responsável porque é um só tem um campo responsável e colaboradores. Então, o que que a gente quer a gente quer um relatório um gráfico de pizza que é quantos corretores cada gerente tem para a gente dar uma olhada? E acho que é um gráfico de crescimento por gerente que é quanto está crescendo ao longo do tempo uma timeline."
+      },
+      {
+        "startTime": 1254,
+        "endTime": 1268,
+        "speaker": "Joao Vitor",
+        "text": "Tá deixa, eu só não tá aqui também, porque daí qualquer coisa amanhã na reunião já toca esse ponto também tá? Então a gente tem ali já. O nosso output né o gráfico de pizza."
+      },
+      {
+        "startTime": 1268,
+        "endTime": 1273,
+        "speaker": "Diego Diehl",
+        "text": "e gráfico de timeline"
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1273,
+        "speaker": "Joao Vitor",
+        "text": "timeline"
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1280,
+        "speaker": "Diego Diehl",
+        "text": "de crescimento da carteira por tempo"
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1280,
+        "speaker": "Joao Vitor",
+        "text": "Esse tempo ele é dividido em mês"
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1282,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1282,
+        "endTime": 1284,
+        "speaker": "Joao Vitor",
+        "text": "essa análise temporal."
+      },
+      {
+        "startTime": 1284,
+        "endTime": 1285,
+        "speaker": "Diego Diehl",
+        "text": "É o total."
+      },
+      {
+        "startTime": 1285,
+        "endTime": 1298,
+        "speaker": "Joao Vitor",
+        "text": "Tá vou colocar o tempo que Imagine que isso vai ser. Mudado o de pizza só para recapitular é? total de"
+      },
+      {
+        "startTime": 1298,
+        "endTime": 1299,
+        "speaker": "Diego Diehl",
+        "text": "da carteira"
+      },
+      {
+        "startTime": 1299,
+        "endTime": 1300,
+        "speaker": "Joao Vitor",
+        "text": "Da carteira, né?"
+      },
+      {
+        "startTime": 1302,
+        "endTime": 1318,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou te mandar um print que eu peguei. Do modelo que daí você não passa esse modelo para eles, mas a gente usa como? Como tá deixa eu ver aqui."
+      },
+      {
+        "startTime": 1333,
+        "endTime": 1341,
+        "speaker": "Joao Vitor",
+        "text": "Total da carteira esse é pouco o colaborador por gerente é segmentado de alguma forma."
+      },
+      {
+        "startTime": 1341,
+        "endTime": 1341,
+        "speaker": "Diego Diehl",
+        "text": "o gerente"
+      },
+      {
+        "startTime": 1341,
+        "endTime": 1343,
+        "speaker": "Joao Vitor",
+        "text": "o gerente"
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1345,
+        "speaker": "Diego Diehl",
+        "text": "E superintendente um superintendente"
+      },
+      {
+        "startTime": 1345,
+        "endTime": 1349,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1349,
+        "endTime": 1407,
+        "speaker": "Diego Diehl",
+        "text": "tem um time de gerentes lá na setinha tem dois superintendentes e 67. Então a gente quer saber. cadastros quantidade de novos deixa eu ver aqui se Eu consigo abrir aqui. Não achei. Mas basicamente é isso a gente olhar total de parceiros tem uma segmentação total de parceiros e crescimento de parceiros."
+      },
+      {
+        "startTime": 1407,
+        "endTime": 1440,
+        "speaker": "Diego Diehl",
+        "text": "Tem de quem são esses parceiros por gerente por superintendente. gerente por superintendente. E aí um elemento que adicional é total de parceiros ativados que assim quantos parceiros a gente teve mensagem enviada Quantos parceiros desses a gente teve mensagem recebida ou seja o parceiro mais rico da contabilidade é quantos parceiros ele quantos parceiros quantos parceiros interagiram conosco?"
+      },
+      {
+        "startTime": 1440,
+        "endTime": 1441,
+        "speaker": "Joao Vitor",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1441,
+        "endTime": 1442,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1442,
+        "endTime": 1443,
+        "speaker": "Joao Vitor",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1449,
+        "speaker": "Diego Diehl",
+        "text": "Então beleza. Esse aí é prioridade dois o relatório exatamente. Tá mas já cobra eles em seguida."
+      },
+      {
+        "startTime": 1449,
+        "endTime": 1450,
+        "speaker": "Joao Vitor",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1450,
+        "endTime": 1456,
+        "speaker": "Diego Diehl",
+        "text": "A prioridade um é um elemento que tá ali quer jogar aí antes."
+      },
+      {
+        "startTime": 1456,
+        "endTime": 1462,
+        "speaker": "Joao Vitor",
+        "text": "Claro Pode falar."
+      },
+      {
+        "startTime": 1462,
+        "endTime": 1468,
+        "speaker": "Diego Diehl",
+        "text": "Vai para baixo ali um pouquinho, deixa eu ver se tá escrito aí."
+      },
+      {
+        "startTime": 1468,
+        "endTime": 1470,
+        "speaker": "Joao Vitor",
+        "text": "Aqui a gente está na fase 2."
+      },
+      {
+        "startTime": 1471,
+        "endTime": 1481,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu abrir aqui também que eu procuro e já te falo a linha direto. Eu vou ter que sair em 5 minutos, tá? Por isso que eu tô indo meio rápido, já estou mecanismo."
+      },
+      {
+        "startTime": 1481,
+        "endTime": 1493,
+        "speaker": "Joao Vitor",
+        "text": "tranquilo"
+      },
+      {
+        "startTime": 1493,
+        "endTime": 1514,
+        "speaker": "Diego Diehl",
+        "text": "abordagem validar report etapas c****** aqui ó linha 15"
+      },
+      {
+        "startTime": 1514,
+        "endTime": 1514,
+        "speaker": "Joao Vitor",
+        "text": "tá prospecção de"
+      },
+      {
+        "startTime": 1514,
+        "endTime": 1529,
+        "speaker": "Diego Diehl",
+        "text": "Essa linha 15 é o que eu falei hoje, a gente tem que configurar uma primeira automação. Com entre a Filter feed."
+      },
+      {
+        "startTime": 1529,
+        "endTime": 1529,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1605,
+        "speaker": "Diego Diehl",
+        "text": "Filter feed e Plus que aborde novos corretores periodicamente Iniciando com o volume mais baixo. Entre parênteses 5 por dia por gerente, vamos começar? E daí a nota também aí é? configurar follow up Em caso de não resposta. E após determinado período. E para finalizar E para finalizar é qualificar ou Descartar corretor então assim o li a gente joga ali de para dentro de um funil de prospecção."
+      },
+      {
+        "startTime": 1605,
+        "endTime": 1616,
+        "speaker": "Diego Diehl",
+        "text": "Vai acordando. Se o cara não responder não tiver interação faz o follow up. Se ele responder Em algum momento joga para ganho. Se não joga para perdido"
+      },
+      {
+        "startTime": 1616,
+        "endTime": 1617,
+        "speaker": "Joao Vitor",
+        "text": "Tá boa."
+      },
+      {
+        "startTime": 1618,
+        "endTime": 1641,
+        "speaker": "Diego Diehl",
+        "text": "Se for para ganho Se for para ganho atribuir gerente como responsável Se for para perdido manter sem responsável Beleza, e aí a gente daí bota um"
+      },
+      {
+        "startTime": 1641,
+        "endTime": 1642,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1644,
+        "endTime": 1665,
+        "speaker": "Diego Diehl",
+        "text": "asterisco aí que é eu vou pedir ali no grupo da A gente poderia ter uma mensagem. A gente precisa definir a primeira mensagem. e definir A segunda mensagem que falou up."
+      },
+      {
+        "startTime": 1665,
+        "endTime": 1669,
+        "speaker": "Joao Vitor",
+        "text": "tá Isso é uma outra atividade, eu acho né?"
+      },
+      {
+        "startTime": 1669,
+        "endTime": 1671,
+        "speaker": "Diego Diehl",
+        "text": "Não é a mesma porque é certa"
+      },
+      {
+        "startTime": 1671,
+        "endTime": 1671,
+        "speaker": "Joao Vitor",
+        "text": "É mesmo."
+      },
+      {
+        "startTime": 1672,
+        "endTime": 1682,
+        "speaker": "Diego Diehl",
+        "text": "é que a automação é bom que a gente já dê. O que que é para ser feito tá ligado?"
+      },
+      {
+        "startTime": 1682,
+        "endTime": 1689,
+        "speaker": "Joao Vitor",
+        "text": "tá então a gente tem que Complementando né definir a primeira mensagem a segunda mensagem."
+      },
+      {
+        "startTime": 1689,
+        "endTime": 1689,
+        "speaker": "Diego Diehl",
+        "text": "isso"
+      },
+      {
+        "startTime": 1693,
+        "endTime": 1700,
+        "speaker": "Joao Vitor",
+        "text": "Isso é levantado direto com eles com Incorporadora."
+      },
+      {
+        "startTime": 1700,
+        "endTime": 1700,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 1701,
+        "endTime": 1719,
+        "speaker": "Joao Vitor",
+        "text": "tá pode ser implementada, né Diego? Die?"
+      },
+      {
+        "startTime": 1719,
+        "endTime": 1719,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 1719,
+        "endTime": 1722,
+        "speaker": "Joao Vitor",
+        "text": "Não depende dessa mensagem, né?"
+      },
+      {
+        "startTime": 1722,
+        "endTime": 1726,
+        "speaker": "Diego Diehl",
+        "text": "Não depende sim da mensagem, senão a gente vai mandar o que para ele como?"
+      },
+      {
+        "startTime": 1726,
+        "endTime": 1736,
+        "speaker": "Joao Vitor",
+        "text": "A não sim, mas eu digo a regra, né? né? Ou eles vão depender vamos a gente tem que primeiro levantar isso com o cliente depois aí sim já criar regra."
+      },
+      {
+        "startTime": 1736,
+        "endTime": 1744,
+        "speaker": "Diego Diehl",
+        "text": "cara Eu conhecendo. Eles é bom já mandar."
+      },
+      {
+        "startTime": 1744,
+        "endTime": 1744,
+        "speaker": "Joao Vitor",
+        "text": "Tudo prontinho."
+      },
+      {
+        "startTime": 1744,
+        "endTime": 1746,
+        "speaker": "Diego Diehl",
+        "text": "A regra tudo redondinho."
+      },
+      {
+        "startTime": 1746,
+        "endTime": 1752,
+        "speaker": "Joao Vitor",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 1752,
+        "endTime": 1755,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que é isso cara como o principal."
+      },
+      {
+        "startTime": 1756,
+        "endTime": 1793,
+        "speaker": "Joao Vitor",
+        "text": "tá Deixa eu só recapitular aqui contigo rapidamente sei que você já tem que sair. Tá então desse. Da setinha ficou três pontos né? A gente tem a situação principal ali primeiramente é a questão do cadastro dos corretores pelo mecanismo da Filter. É partindo lá do Victor então confirmar com ele se isso já tá ok? tá ok."
+      },
+      {
+        "startTime": 1793,
+        "endTime": 1803,
+        "speaker": "Joao Vitor",
+        "text": "Para realizar os testes, né? Esses testes. Como que eu posso reproduzir ele pode me orientar? Tu sabe me dizer."
+      },
+      {
+        "startTime": 1803,
+        "endTime": 1804,
+        "speaker": "Diego Diehl",
+        "text": "os testes"
+      },
+      {
+        "startTime": 1804,
+        "endTime": 1808,
+        "speaker": "Joao Vitor",
+        "text": "Isso para ver se tá chegando que eu não tenho eu não tenho acesso a base deles ainda, né?"
+      },
+      {
+        "startTime": 1810,
+        "endTime": 1819,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que eu posso te passar aqui já. Eu vou pegar e te passar a senha da setinha."
+      },
+      {
+        "startTime": 1819,
+        "endTime": 1820,
+        "speaker": "Joao Vitor",
+        "text": "tá"
+      },
+      {
+        "startTime": 1820,
+        "endTime": 1826,
+        "speaker": "Diego Diehl",
+        "text": "Mas ele é bom você perguntar para eles para eles orientar orientar ele também."
+      },
+      {
+        "startTime": 1826,
+        "endTime": 1829,
+        "speaker": "Joao Vitor",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 1829,
+        "endTime": 1831,
+        "speaker": "Diego Diehl",
+        "text": "Te passar o usuário da setinha."
+      },
+      {
+        "startTime": 1834,
+        "endTime": 1834,
+        "speaker": "Joao Vitor",
+        "text": "boa"
+      },
+      {
+        "startTime": 1841,
+        "endTime": 1861,
+        "speaker": "Diego Diehl",
+        "text": "Fechou e cara assim ó, você pode se comunicando comigo. Se você tiver assim, ó, cara falando que o Johnny ficou em dúvida não sabe responder uma parada que tá rolando agora me liga. Posso sair em União, se for rapidinho Diego isso isso isso isso foi me manda áudio. Escreve pode trocando comigo, tá?"
+      },
+      {
+        "startTime": 1862,
+        "endTime": 1886,
+        "speaker": "Joao Vitor",
+        "text": "É uma beleza aí a questão do relatório, né configurar o relatório que demonstra a gestão de carteira o tamanho em crescimento considerando responsável e colaboradores aí na prática, né o gráfico de pizza que traga o total para o gerente e superintendente e um gráfico de timeline que faça uma análise Temporal da carteira por um período, né?"
+      },
+      {
+        "startTime": 1886,
+        "endTime": 1888,
+        "speaker": "Diego Diehl",
+        "text": "Sim, exatamente, eu quero Até eu"
+      },
+      {
+        "startTime": 1888,
+        "endTime": 1889,
+        "speaker": "Joao Vitor",
+        "text": "boa"
+      },
+      {
+        "startTime": 1889,
+        "endTime": 1936,
+        "speaker": "Diego Diehl",
+        "text": "queria. Eu vou tentar listar para você isso. Eu tô vendo se chover uma coisa que se eu acho rapidinho. Ah talvez eu achei deixa eu ver. Ah, depois eu vejo. Mas é isso a gente vai depois vai ter uma etapa da gente definir o relatórios. Mas se a gente conseguir isso eu vou na sexta na setinha e já dou um avanço legal."
+      },
+      {
+        "startTime": 1936,
+        "endTime": 1936,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1938,
+        "endTime": 1946,
+        "speaker": "Joao Vitor",
+        "text": "E daí por último ele ficou essa questão da automação, né Filter feed é Plus que a bola de novos corretores, tá?"
+      },
+      {
+        "startTime": 1946,
+        "endTime": 1960,
+        "speaker": "Diego Diehl",
+        "text": "Isso eu começaria por esse cobrando eles amanhã conversando. E aí depois só Ah eu cadastro corretor está certo? Deixa eu testar que daí você testa enquanto eles estão fazendo. automação"
+      },
+      {
+        "startTime": 1961,
+        "endTime": 1971,
+        "speaker": "Joao Vitor",
+        "text": "Beleza e o última dúvida eu digo a questão do contato com o Vitor, né? Se eu precisar você consegue me passar."
+      },
+      {
+        "startTime": 1971,
+        "endTime": 1976,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô adicionando você agora aqui no grupo The feed."
+      },
+      {
+        "startTime": 1976,
+        "endTime": 1977,
+        "speaker": "Joao Vitor",
+        "text": "Ah boa"
+      },
+      {
+        "startTime": 1977,
+        "endTime": 1984,
+        "speaker": "Diego Diehl",
+        "text": "Aí ele tá ali se quiser até se apresentar. fechou"
+      },
+      {
+        "startTime": 1984,
+        "endTime": 1985,
+        "speaker": "Joao Vitor",
+        "text": "Fechou fechou."
+      },
+      {
+        "startTime": 1986,
+        "endTime": 1995,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado, viu João essa semana um pouco corrido. mas Amanhã à tarde você pode ir falando comigo, tá?"
+      },
+      {
+        "startTime": 1995,
+        "endTime": 1998,
+        "speaker": "Joao Vitor",
+        "text": "Não pode deixar que esses pontos aí a gente vai eu vou priorizar e vou"
+      },
+      {
+        "startTime": 1998,
+        "endTime": 1999,
+        "speaker": "Diego Diehl",
+        "text": "Amanhã de manhã?"
+      },
+      {
+        "startTime": 1999,
+        "endTime": 2000,
+        "speaker": "Joao Vitor",
+        "text": "estar acompanhando de perto."
+      },
+      {
+        "startTime": 2001,
+        "endTime": 2014,
+        "speaker": "Diego Diehl",
+        "text": "Show aí ao longo dos próximos dias cara, vamos mantendo vai me manda uma dúvida bem escritinha ali no Whats que eu te respondo. Pode me mandar um áudio respondo também eu tiro um tempinho para papá respondo e a gente vai seguindo."
+      },
+      {
+        "startTime": 2014,
+        "endTime": 2014,
+        "speaker": "Joao Vitor",
+        "text": "Não Beleza, deixa eu digo."
+      },
+      {
+        "startTime": 2014,
+        "endTime": 2017,
+        "speaker": "Diego Diehl",
+        "text": "Tá valeu, João. Boa noite para ti"
+      },
+      {
+        "startTime": 2017,
+        "endTime": 2017,
+        "speaker": "Joao Vitor",
+        "text": "Obrigado."
+      },
+      {
+        "startTime": 2017,
+        "endTime": 2018,
+        "speaker": "Diego Diehl",
+        "text": "Aí abraço."
+      },
+      {
+        "startTime": 2018,
+        "endTime": 2018,
+        "speaker": "Joao Vitor",
+        "text": "Aqui também, valeu."
+      },
+      {
+        "startTime": 2018,
+        "endTime": 2020,
+        "speaker": "Diego Diehl",
+        "text": "Parabéns pelos primeiros dias aí,"
+      },
+      {
+        "startTime": 2020,
+        "endTime": 2020,
+        "speaker": "Joao Vitor",
+        "text": "Tamo junto, vamos para cima."
+      },
+      {
+        "startTime": 2020,
+        "endTime": 2022,
+        "speaker": "Diego Diehl",
+        "text": "valeu. abraço"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 232,
+    "speakers": [
+      "Joao Vitor",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 3928,
+    "duration_start": 1,
+    "duration_end": 2022
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c63",
+        "timestamp": 1,
+        "text": "Joao apresenta a planilha que criou para organizar as atividades e responsabilidades da implementação.",
+        "topicId": "66bd1b92a0b2ee00132d2c5d"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c64",
+        "timestamp": 129,
+        "text": "Diego sugere usar o método SIPOC para estruturar a planilha, definindo inputs, processos, clientes e outputs para cada atividade.",
+        "topicId": "66bd1b92a0b2ee00132d2c5d"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c65",
+        "timestamp": 496,
+        "text": "Diego e Joao revisam a primeira tarefa de integração de produtos, discutindo os requisitos e ações necessárias.",
+        "topicId": "66bd1b92a0b2ee00132d2c5e"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c66",
+        "timestamp": 718,
+        "text": "Diego e Joao revisam a tarefa de integração de corretores, discutindo os requisitos e ações necessárias.",
+        "topicId": "66bd1b92a0b2ee00132d2c5f"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c67",
+        "timestamp": 939,
+        "text": "Diego fornece orientações sobre a configuração do sistema para cadastro e rastreamento de corretores.",
+        "topicId": "66bd1b92a0b2ee00132d2c5f"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c68",
+        "timestamp": 1219,
+        "text": "Solicitar relatório de pizza com quantidade de corretores por gerente e gráfico de crescimento da carteira ao longo do tempo.",
+        "topicId": "66bd1b92a0b2ee00132d2c60"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c69",
+        "timestamp": 1263,
+        "text": "Confirmar que o relatório de pizza e o gráfico de crescimento temporal são os outputs desejados.",
+        "topicId": "66bd1b92a0b2ee00132d2c60"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6a",
+        "timestamp": 1333,
+        "text": "Detalhar que o relatório deve mostrar a carteira segmentada por gerente, não apenas o total.",
+        "topicId": "66bd1b92a0b2ee00132d2c60"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6b",
+        "timestamp": 1387,
+        "text": "Solicitar relatório com informações adicionais, como total de parceiros, crescimento de parceiros e parceiros ativos.",
+        "topicId": "66bd1b92a0b2ee00132d2c60"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6c",
+        "timestamp": 1462,
+        "text": "Definir a primeira etapa da automação: usar o Filter Feed e Plus para prospectar novos corretores, começando com 5 por dia por gerente.",
+        "topicId": "66bd1b92a0b2ee00132d2c61"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6d",
+        "timestamp": 1556,
+        "text": "Configurar o fluxo de follow-up para corretores que não respondem, qualificação ou descarte do corretor.",
+        "topicId": "66bd1b92a0b2ee00132d2c61"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6e",
+        "timestamp": 1652,
+        "text": "Definir as mensagens a serem enviadas na automação, a primeira e a de follow-up.",
+        "topicId": "66bd1b92a0b2ee00132d2c61"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c6f",
+        "timestamp": 1693,
+        "text": "Levantar as mensagens da automação diretamente com a Incorporadora.",
+        "topicId": "66bd1b92a0b2ee00132d2c62"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c70",
+        "timestamp": 1763,
+        "text": "Recapitular os 3 principais pontos: automação de prospecção, relatórios de gestão de carteira e próximos passos.",
+        "topicId": "66bd1b92a0b2ee00132d2c62"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c71",
+        "timestamp": 1802,
+        "text": "Solicitar orientação da Incorporadora sobre como reproduzir os testes da automação de prospecção.",
+        "topicId": "66bd1b92a0b2ee00132d2c62"
+      },
+      {
+        "segmentId": "66bd1b92a0b2ee00132d2c72",
+        "timestamp": 1885,
+        "text": "Confirmar os requisitos dos relatórios de gestão de carteira, incluindo gráfico de pizza e gráfico de crescimento temporal.",
+        "topicId": "66bd1b92a0b2ee00132d2c62"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66bd1b92a0b2ee00132d2c5d",
+        "order": 1,
+        "title": "Definição do processo de implementação",
+        "summary": "Discussão sobre a definição do processo de implementação, incluindo a criação de uma planilha para organizar as atividades e responsabilidades."
+      },
+      {
+        "id": "66bd1b92a0b2ee00132d2c5e",
+        "order": 2,
+        "title": "Integração de produtos",
+        "summary": "Revisão da integração de produtos, incluindo a obtenção de arquivos, configuração de gerenciamento de versões e criação de instruções."
+      },
+      {
+        "id": "66bd1b92a0b2ee00132d2c5f",
+        "order": 3,
+        "title": "Integração de corretores",
+        "summary": "Discussão sobre a integração de corretores, incluindo a definição de regras de gestão de carteira e a configuração do sistema para cadastro e rastreamento."
+      },
+      {
+        "id": "66bd1b92a0b2ee00132d2c60",
+        "order": 4,
+        "title": "Relatório de Gestão de Carteira",
+        "summary": "Criar relatórios para análise da carteira de corretores, incluindo gráfico de pizza por gerente/superintendente e gráfico de crescimento temporal."
+      },
+      {
+        "id": "66bd1b92a0b2ee00132d2c61",
+        "order": 5,
+        "title": "Automação de Prospecção de Novos Corretores",
+        "summary": "Implementar automação para prospectar novos corretores, com fluxo de qualificação e atribuição de responsáveis."
+      },
+      {
+        "id": "66bd1b92a0b2ee00132d2c62",
+        "order": 6,
+        "title": "Próximos Passos",
+        "summary": "Alinhar com a equipe da Incorporadora os próximos passos para implementação da automação e relatórios."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 16,
+    "topic_count": 6,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66bd1b92a0b2ee00132d2c5d",
+      "order": 1,
+      "title": "Definição do processo de implementação",
+      "summary": "Discussão sobre a definição do processo de implementação, incluindo a criação de uma planilha para organizar as atividades e responsabilidades."
+    },
+    {
+      "id": "66bd1b92a0b2ee00132d2c5e",
+      "order": 2,
+      "title": "Integração de produtos",
+      "summary": "Revisão da integração de produtos, incluindo a obtenção de arquivos, configuração de gerenciamento de versões e criação de instruções."
+    },
+    {
+      "id": "66bd1b92a0b2ee00132d2c5f",
+      "order": 3,
+      "title": "Integração de corretores",
+      "summary": "Discussão sobre a integração de corretores, incluindo a definição de regras de gestão de carteira e a configuração do sistema para cadastro e rastreamento."
+    },
+    {
+      "id": "66bd1b92a0b2ee00132d2c60",
+      "order": 4,
+      "title": "Relatório de Gestão de Carteira",
+      "summary": "Criar relatórios para análise da carteira de corretores, incluindo gráfico de pizza por gerente/superintendente e gráfico de crescimento temporal."
+    },
+    {
+      "id": "66bd1b92a0b2ee00132d2c61",
+      "order": 5,
+      "title": "Automação de Prospecção de Novos Corretores",
+      "summary": "Implementar automação para prospectar novos corretores, com fluxo de qualificação e atribuição de responsáveis."
+    },
+    {
+      "id": "66bd1b92a0b2ee00132d2c62",
+      "order": 6,
+      "title": "Próximos Passos",
+      "summary": "Alinhar com a equipe da Incorporadora os próximos passos para implementação da automação e relatórios."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:04.028625+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:04.028625+00:00"
+}

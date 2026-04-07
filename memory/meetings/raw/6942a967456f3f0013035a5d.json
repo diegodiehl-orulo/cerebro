@@ -1,0 +1,32 @@
+{
+  "id": "6942a967456f3f0013035a5d",
+  "happenedAt": "2025-12-17T13:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "fabio@cvcrm.com.br"
+    }
+  ],
+  "name": "Órulo <> CV",
+  "duration": 4169.643,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6942a967456f3f0013035a5d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "vgo-crgz-efh"
+  }
+}

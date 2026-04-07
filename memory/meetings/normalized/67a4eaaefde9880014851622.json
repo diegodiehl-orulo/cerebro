@@ -1,0 +1,2081 @@
+{
+  "meeting_id": "67a4eaaefde9880014851622",
+  "name": "Órulo & Maken",
+  "happened_at": "2025-02-06T17:00:00.000Z",
+  "duration_seconds": 4414.099,
+  "duration_minutes": 73.6,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "gabriel@makenincorporadora.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/67a4eaaefde9880014851622",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "aiv-mrob-rey",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "67a4eb553e769a00136bfaaf",
+    "meetingId": "67a4eaaefde9880014851622",
+    "data": [
+      {
+        "startTime": 3,
+        "endTime": 24,
+        "speaker": "Gabriel Guérios",
+        "text": "Eu que peço desculpa aí cara, não gosto de escutar muitos agendamentos, mas é que você Escolhia as semanas turbulentas para me chamar cara. Acho que na tua Cadência aí era você me chamar que pipocava um monte de coisa aqui é uma que é uma empresa de estrutura enxuta, então que cruza e faz o gol então acaba acontecendo disso."
+      },
+      {
+        "startTime": 24,
+        "endTime": 27,
+        "speaker": "Gabriel Guérios",
+        "text": "Mas que bom que deu certo."
+      },
+      {
+        "startTime": 27,
+        "endTime": 28,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 28,
+        "endTime": 34,
+        "speaker": "Diego Diehl",
+        "text": "Se for vendo. Então mantenho forte de venda p****."
+      },
+      {
+        "startTime": 36,
+        "endTime": 60,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Exatamente bom apresentando um pouquinho Gabriel, eu sou Gustavo Zanella sou responsável local pela orla que de Curitiba. Eu pedi para o Diego nosso diretor de novos negócios sócio Diretor que ele tá em São Paulo lá participar para a gente já conectar o Diego, ele era da Hype passou um tempinho na Hype como diretor de algumas áreas lá."
+      },
+      {
+        "startTime": 60,
+        "endTime": 120,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí ele saiu no final no finalzinho do ano para esse desafio da Horda, eu gostaria de conectar ele com o pessoal aqui de Curitiba. E vocês não seria diferente, né? Então explicando um pouquinho da ideia da nossa reunião aqui Gabriel já aproveitando hoje a hora da gente conta com algumas funcionalidades que traz com os corretores mais para próxima das incorporadoras e a gente tem algumas estratégias que a gente consegue fomentar e desenvolver dentro das incorporadoras utilizando a nossa tecnologia, então o nosso objetivo é a gente conseguir ser um pouquinho mais claro conseguir apresentar isso para você e principalmente apresentar o que que a gente está trazendo aqui para Curitiba como tecnologia tanto para gestão de parcerias quanto para inteligência de mercado questão de dados que a gente tem tudo Centralizado no nosso plataforma e também te mostrar o como que as incorporadoras elas estão utilizando esses dados ao favor delas tanto no desenvolvimento de estudos de viabilidade estudos de performance."
+      },
+      {
+        "startTime": 120,
+        "endTime": 132,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Dos Empreendimentos como também desenvolvimento a plataforma interno quando a gente fala de plataforma é o relacionamento da Incorporadora com os corretores de Geraldo?"
+      },
+      {
+        "startTime": 132,
+        "endTime": 133,
+        "speaker": "Gabriel Guérios",
+        "text": "beleza"
+      },
+      {
+        "startTime": 133,
+        "endTime": 135,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Quer começar a Diego quer falar um pouquinho?"
+      },
+      {
+        "startTime": 139,
+        "endTime": 160,
+        "speaker": "Diego Diehl",
+        "text": "Foi isso prazer. É Gabriel tá tentando lembrar de você está no mercado conta um pouco. Aí você tá na Maquin, faz tempo tá perto tá no comercial até falando de mim. Eu fiquei 8 anos na Hype. Passei por várias áreas lá a gente conseguiu sei lá, quem publicar o tamanho da empresa então."
+      },
+      {
+        "startTime": 160,
+        "endTime": 183,
+        "speaker": "Diego Diehl",
+        "text": "Participei ele desse crescimento desse desafio de vender 20 produtos ao mesmo tempo. Tive experiência como diretor comercial por três anos lá então eu tive que estruturar o time plataforma House marketing. E eu brinco que eu sei mais falar de venda do que de ferramenta. Então acho que o Papa a ideia quer falar mais da realidade ainda mais Curitiba que eu conheço bastante."
+      },
+      {
+        "startTime": 183,
+        "endTime": 204,
+        "speaker": "Diego Diehl",
+        "text": "Enfim contribuir da forma que der e quando eu entrei na hora. Eu percebi que o pessoal de Curitiba entendia ouvia até eu mesmo como diretora, nunca tinha falado com a órgão eu falei caramba, gente, vocês precisam mesmo de mim aqui na empresa para aproximar e explicar outros usa nela."
+      },
+      {
+        "startTime": 204,
+        "endTime": 246,
+        "speaker": "Diego Diehl",
+        "text": "Então a ideia a gente bater um papo sobre. Cara, como que a gente contribui com vocês porque tecnologia escalável é mais barato é trabalho de plataforma é muito escala, né? Tem gente que fala com antigamente o cara ficava com três imobiliárias daí como você responde para 10 para 20 daí falar com 300 corretores agora está com 8 mil corretores cadastrados em"
+      },
+      {
+        "startTime": 246,
+        "endTime": 254,
+        "speaker": "Gabriel Guérios",
+        "text": "Eu tô com 32. Eu acho que sim."
+      },
+      {
+        "startTime": 254,
+        "endTime": 254,
+        "speaker": "Diego Diehl",
+        "text": "Domingo então"
+      },
+      {
+        "startTime": 257,
+        "endTime": 265,
+        "speaker": "Gabriel Guérios",
+        "text": "Vai virar as figurinha carimbada, né? Tem umas pessoas que tem uma Áurea assim, vamos criar nossa, né?"
+      },
+      {
+        "startTime": 278,
+        "endTime": 286,
+        "speaker": "Diego Diehl",
+        "text": "querem saber de produtos terem contato assertivo, vocês também querem ser assertivos com os"
+      },
+      {
+        "startTime": 286,
+        "endTime": 287,
+        "speaker": "Gabriel Guérios",
+        "text": "Não Show, cara só para me apresentar então eu tô na maquinca. Olha aí"
+      },
+      {
+        "startTime": 287,
+        "endTime": 287,
+        "speaker": "Diego Diehl",
+        "text": "corretores que vocês conversam, né."
+      },
+      {
+        "startTime": 292,
+        "endTime": 346,
+        "speaker": "Gabriel Guérios",
+        "text": "eu só dispensar aqui só. Tá gente é imprevistos aqui eu tô na Maquin a vai fazer Seis anos já Agora em março. Eu entrei muito mais por processos de back office na época, então a empresa estava começando a crescer. Não sei se você conhece bem a marca Diego."
+      },
+      {
+        "startTime": 347,
+        "endTime": 353,
+        "speaker": "Diego Diehl",
+        "text": "Não eu conheço há tempos mas nunca tive muita proximidade assim."
+      },
+      {
+        "startTime": 353,
+        "endTime": 354,
+        "speaker": "Gabriel Guérios",
+        "text": "Eu entrei na época que a gente tava lançando algo e eu sou uma pessoa mais de"
+      },
+      {
+        "startTime": 354,
+        "endTime": 359,
+        "speaker": "Diego Diehl",
+        "text": "Eu conheço os produtos."
+      },
+      {
+        "startTime": 359,
+        "endTime": 362,
+        "speaker": "Gabriel Guérios",
+        "text": "Finanças, né, minha formação profissional, né vim da área de"
+      },
+      {
+        "startTime": 362,
+        "endTime": 363,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 363,
+        "endTime": 391,
+        "speaker": "Gabriel Guérios",
+        "text": "corporativa gerenciamento etc e na época que eu entrei dei umas forçadas nos processos de marketing comecei a me envolver com as agências e para resumir Bem a História. Eu tava até metade do ano passado muito mais nessas inteligência comercial interna. E gestão da house uma gestão mais administrativa não é uma gestão comercial."
+      },
+      {
+        "startTime": 391,
+        "endTime": 411,
+        "speaker": "Gabriel Guérios",
+        "text": "E sistemas e processos e eu tava eu que participo muito do branding dos Empreendimentos então. Da da Alma produto criação do material desdobrar criativo toda essa parte assim mais parte digital toda essa parte de marketing estava comigo. E aí desde a metade do ano passado, eu tô também no relacionamento com a"
+      },
+      {
+        "startTime": 411,
+        "endTime": 414,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 414,
+        "endTime": 448,
+        "speaker": "Gabriel Guérios",
+        "text": "plataforma, eu não atendo clientes, eu não sou uma plataforma convencional eu faço a parte institucional do relacionamento, então eu faço abertura do relacionamento eu entendo, quais imobiliárias tem mais energia eu acompanho a performance das Imobiliários. Tenta fazer ações um pouco mais no nível institucional do que é nível operacional e aí a gente tem uma pessoa que atende e que quer responsável por atendimento fechamento que fica que é minha brincadeira que assim eu trabalho para ela morar no plantão se ela nunca sair do plantão é porque eu tô fazendo meu trabalho bem feito."
+      },
+      {
+        "startTime": 448,
+        "endTime": 452,
+        "speaker": "Diego Diehl",
+        "text": "Legal que a Débora."
+      },
+      {
+        "startTime": 452,
+        "endTime": 452,
+        "speaker": "Gabriel Guérios",
+        "text": "Então a gente tem se dividido assim, eu comecei a aparecer há pouco tempo, mas"
+      },
+      {
+        "startTime": 452,
+        "endTime": 456,
+        "speaker": "Diego Diehl",
+        "text": "Que legal bem legal essa parte"
+      },
+      {
+        "startTime": 456,
+        "endTime": 459,
+        "speaker": "Gabriel Guérios",
+        "text": "eu já tô aqui alguns anos já."
+      },
+      {
+        "startTime": 462,
+        "endTime": 485,
+        "speaker": "Diego Diehl",
+        "text": "financeira da qual se eu entrei. Para ser inteligência comercial na Hype aí no fim o desafio era estruturar os processos internos implementar olhei bastante para isso e daí para o comercial com essa pegada um pouco mais de números falar com Imobiliária a partir de números cobrar a agência. A partir de números é bem importante, né, galera, às vezes olha pouco para isso, né?"
+      },
+      {
+        "startTime": 485,
+        "endTime": 488,
+        "speaker": "Gabriel Guérios",
+        "text": "Não é só no nosso mercado isso cara assim as pessoas são muito muito no"
+      },
+      {
+        "startTime": 488,
+        "endTime": 490,
+        "speaker": "Diego Diehl",
+        "text": "Não."
+      },
+      {
+        "startTime": 491,
+        "endTime": 504,
+        "speaker": "Gabriel Guérios",
+        "text": "subjetivo muito feeling e às vezes o número tá gritando alguma coisa ali que você precisa. Agir em cima né? Então foi bem essa cultura assim, que que eu consolidei aqui então e agora eu tô também à frente da plataforma, eu acho que quem falou de"
+      },
+      {
+        "startTime": 504,
+        "endTime": 507,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 507,
+        "endTime": 511,
+        "speaker": "Gabriel Guérios",
+        "text": "você, cara. Agora que você falou foi a Stephanie."
+      },
+      {
+        "startTime": 511,
+        "endTime": 511,
+        "speaker": "Diego Diehl",
+        "text": "Ah sim"
+      },
+      {
+        "startTime": 511,
+        "endTime": 525,
+        "speaker": "Gabriel Guérios",
+        "text": "Conheci Stephanie um ano atrás, encontrei com elas conversou e daí ela falou. Ah, posso passar teu telefone para ter um rapaz que acabou de sair da Hype, ele tá com um projeto de tecnologia para plataforma. Ela falou posso passar teu telefone eu falei não pode só que daí acho que"
+      },
+      {
+        "startTime": 525,
+        "endTime": 528,
+        "speaker": "Diego Diehl",
+        "text": "caramba"
+      },
+      {
+        "startTime": 528,
+        "endTime": 530,
+        "speaker": "Gabriel Guérios",
+        "text": "não sei se ela não passou. Eu acho que era você."
+      },
+      {
+        "startTime": 530,
+        "endTime": 554,
+        "speaker": "Diego Diehl",
+        "text": "Eu tava. deve ser eu que acabei de sair também até dei uma roladinha a Stephanie ela entrou comigo lá na 2017 ela não me mandou nenhum contato aqui e Aí ela saiu um tempo, eu puxei ela de novo na época, porque cara Stephanie plataforma, ela já está consolidada aí na cidade bastante experiência bem legal."
+      },
+      {
+        "startTime": 554,
+        "endTime": 554,
+        "speaker": "Gabriel Guérios",
+        "text": "legal"
+      },
+      {
+        "startTime": 555,
+        "endTime": 581,
+        "speaker": "Diego Diehl",
+        "text": "mas Sou Gabriel vou te mostrar então os pontos bom saber até até legal saber que você gosta de números. Porque daí eu posso fazer uma apresentação. E traz números também, né? Porque uma coisa Falar. Olha nós somos a b e c outra coisa é falar nós temos 30 mil 20 mil esse acesso."
+      },
+      {
+        "startTime": 581,
+        "endTime": 593,
+        "speaker": "Diego Diehl",
+        "text": "Então acho que dá para fazer uma parte para você entender um pouquinho, deixa eu te perguntar antes de começar. Hoje você já tinha ouvido falar da hora."
+      },
+      {
+        "startTime": 593,
+        "endTime": 595,
+        "speaker": "Gabriel Guérios",
+        "text": "Já eu sou cliente da hora."
+      },
+      {
+        "startTime": 595,
+        "endTime": 602,
+        "speaker": "Diego Diehl",
+        "text": "Então você já usa inteligência de"
+      },
+      {
+        "startTime": 602,
+        "endTime": 622,
+        "speaker": "Gabriel Guérios",
+        "text": "Já já eu cara, você falou um negócio até que achei engraçado. Eu entrei aqui a gente tinha órgão, só que como eu comentei, né? Eu não mexi em processos comerciais, quem cuidava do Óleo era nossa agência. E cara a gente tinha uma visão muito ruim do órgão, porque os corretores reclamavam."
+      },
+      {
+        "startTime": 622,
+        "endTime": 642,
+        "speaker": "Gabriel Guérios",
+        "text": "Ah porque não atualiza a tabela porque no contato não responde. E eu lidava pouco quando eu tava mexendo com outras áreas e depois daí a gente até acabou cancelando na época. E aí quando a gente trocou de agência que na verdade hoje a gente trabalha sem agência, né? Eu sou a agência da maconha aqui, eu vou direcionando as atividades, aí eu estudei o órgão de novo."
+      },
+      {
+        "startTime": 642,
+        "endTime": 647,
+        "speaker": "Gabriel Guérios",
+        "text": "Acho que foi o Pedro que entrou em"
+      },
+      {
+        "startTime": 647,
+        "endTime": 647,
+        "speaker": "Diego Diehl",
+        "text": "Pedro"
+      },
+      {
+        "startTime": 647,
+        "endTime": 668,
+        "speaker": "Gabriel Guérios",
+        "text": "contato comigo e a gente contratou e cara e que eu vi que tinha ferramenta de inteligência agência acabou que não eu não sei isso é uma feedback se vocês trabalham com pessoas se revendedores da marca, né? Agências implementando para tomar. Cara que às vezes eles não eles não nos mostraram esse lado do órgão era sorte, tipo a gente joga as tabelas lá e ver o que acontece, né, então."
+      },
+      {
+        "startTime": 671,
+        "endTime": 678,
+        "speaker": "Diego Diehl",
+        "text": "Interessante, né? Interessante esse ponto e foram duas agências ou foi uma só?"
+      },
+      {
+        "startTime": 678,
+        "endTime": 681,
+        "speaker": "Gabriel Guérios",
+        "text": "Foi uma agência só mas já faz muito tempo, cara. A gente trabalhava com a cúpula na época a cúpula Fazia tudo."
+      },
+      {
+        "startTime": 681,
+        "endTime": 683,
+        "speaker": "Diego Diehl",
+        "text": "Não tá gravando agora já era meu"
+      },
+      {
+        "startTime": 686,
+        "endTime": 693,
+        "speaker": "Gabriel Guérios",
+        "text": "Mas foi há muito tempo atrás. Então esse não quero ser injusto com eles também que eu sei que eles são grandes."
+      },
+      {
+        "startTime": 693,
+        "endTime": 696,
+        "speaker": "Diego Diehl",
+        "text": "amigo."
+      },
+      {
+        "startTime": 696,
+        "endTime": 696,
+        "speaker": "Gabriel Guérios",
+        "text": "Vou tomar o Rodrigo vai me ligar Rodrigo vai me ligar aqui que eu tô falando"
+      },
+      {
+        "startTime": 696,
+        "endTime": 699,
+        "speaker": "Diego Diehl",
+        "text": "Não é bom saber cara."
+      },
+      {
+        "startTime": 699,
+        "endTime": 700,
+        "speaker": "Gabriel Guérios",
+        "text": "mal da Cúpula."
+      },
+      {
+        "startTime": 700,
+        "endTime": 719,
+        "speaker": "Diego Diehl",
+        "text": "Sim, não Rodrigo. Ele é a gente tá tentando aproximar um pouquinho mais da Cúpula, eles tentam a gente tem uma um processo meio. Quebrado ali quebrado não é uma sobreposição porque eles também querem vender inteligência do mercado."
+      },
+      {
+        "startTime": 719,
+        "endTime": 719,
+        "speaker": "Gabriel Guérios",
+        "text": "Assim eles têm."
+      },
+      {
+        "startTime": 719,
+        "endTime": 749,
+        "speaker": "Diego Diehl",
+        "text": "Só que é E aí eles até a gente já pegou acho que tem um processo com eles. Que pegou os logins deles pegando roubando dados da gente, então, eles querem vender eles no mercado e roubado da gente não rola, né? Então enfim, mas também passado o que eu entrei na hora agora Gabriel é muito para aproximar parcerias mesmo aproximar se relacionar."
+      },
+      {
+        "startTime": 749,
+        "endTime": 759,
+        "speaker": "Diego Diehl",
+        "text": "Bom, então, vamos lá uma pergunta até aprofundando já que vocês são clientes, né hoje O que que você utiliza da órgão assim no dia a dia ou até a Débora?"
+      },
+      {
+        "startTime": 760,
+        "endTime": 783,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara, a gente tem a gente recebe contatos via órgão, né? Então a gente tem as tabelas material de vendas plantas tudo dentro da hora no escape da corretores. E eu utilizo periodicamente o relatório de inteligência de mercado então. Eu acompanho alguns concorrentes, você sabe bem né? Tem aquele mês que não entra uma mosca no plantão."
+      },
+      {
+        "startTime": 783,
+        "endTime": 803,
+        "speaker": "Gabriel Guérios",
+        "text": "Aí você fala vou ver se o meu vizinho tá passando pela Às vezes a gente liga, né? Quando a gente tem proximidade. Liga lá para coordenador. Liga lá para o procurador dá para perguntar. E às vezes a gente olha do lado, vamos ver como é que performance até não olha tanto porque tem muita reserva técnica."
+      },
+      {
+        "startTime": 803,
+        "endTime": 804,
+        "speaker": "Diego Diehl",
+        "text": "muito"
+      },
+      {
+        "startTime": 804,
+        "endTime": 823,
+        "speaker": "Gabriel Guérios",
+        "text": "Eu olho mais os produtos assim que já estão vamos dizer a linguagem mais mercado assim que já estão no varejo que já esgotou permitante, já esgotou investidor de carteira aqui é para ver a venda orgânica aquela venda que a imobiliária oferta o cliente visita então eu vou mais nesse sentido assim."
+      },
+      {
+        "startTime": 823,
+        "endTime": 827,
+        "speaker": "Diego Diehl",
+        "text": "Boa Legal, trabalho até mais estratégico então, né?"
+      },
+      {
+        "startTime": 827,
+        "endTime": 827,
+        "speaker": "Gabriel Guérios",
+        "text": "sim"
+      },
+      {
+        "startTime": 828,
+        "endTime": 862,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu achar aqui boa então, cara. Deixa eu te mostrar uma base aqui para os dados internos. Você deve curtir um pouco isso. Deixa eu bater aqui só para a gente se atualizar o básico. Então cara Assim todos os gráficos são assim na hora para cima porque? Corretor indica para corretor indica para corretor porque cara a ferramenta que o cara consegue utilizar enxergar todo o mercado né? Então você sendo cliente ou não."
+      },
+      {
+        "startTime": 862,
+        "endTime": 886,
+        "speaker": "Diego Diehl",
+        "text": "Por onde você está lá com menos performance daí. Se vocês não forem Premium, mas está lá, né? E aí chega aqui, Paraná, por exemplo. Que a gente é o principal do Paraná, é Curitiba, né aqui Curitiba, eu acho que uma um dado legal para trazer. É que cara eu vejo que teve uma linha aqui assim."
+      },
+      {
+        "startTime": 886,
+        "endTime": 907,
+        "speaker": "Diego Diehl",
+        "text": "Até mais de 23 aí teve outra linha que começou até Março de 24 e ano passado teve outra e outra deu uma inclinadona assim, ó, a gente tá inclinando para cima a utilização essa queda que é todo final de ano, né? Não tem queda aqui tem queda que cada Final de ano tem uma queda que a galera para mesmo esse ano por sinal."
+      },
+      {
+        "startTime": 907,
+        "endTime": 912,
+        "speaker": "Diego Diehl",
+        "text": "Essa queda foi bem grande, né, galera? Acho que ganha dinheiro. De férias e parou de trabalhar mesmo então."
+      },
+      {
+        "startTime": 912,
+        "endTime": 915,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara eu vi Imobiliária fazendo coletivas, eu nunca tinha visto isso na vida."
+      },
+      {
+        "startTime": 917,
+        "endTime": 947,
+        "speaker": "Diego Diehl",
+        "text": "Vai entender, beleza, é? E aí cara, a gente tá numa crescente gigantesca aqui com 8.600 usuários. E aí trazendo para Curitiba aqui uma outra linha de dados, peguei um dado de um ano aqui. Para descansar um pouco melhor para você. Então esse aqui é a nossa audiência que tem quatro indicadores normalmente, né visualizações de página."
+      },
+      {
+        "startTime": 947,
+        "endTime": 1023,
+        "speaker": "Diego Diehl",
+        "text": "Usuários usuários crescendo aqui ó final de ano downloads agora Janeiro já bateu a maior linha da história aqui do mês a 25. Mil visualizações praticamente na semana a gente bateu quase um milhão de visualizações de página de produto que é o corretor pesquisando lá 8.300 usuários aí você que é do marketing, né? Uma coisa é esse valor aqui um milhão de visualizações de página outra coisa é quantos cliques em contato 27 mil? E outra downloads 412 mil."
+      },
+      {
+        "startTime": 1023,
+        "endTime": 1018,
+        "speaker": "Diego Diehl",
+        "text": "Então são esses indicadores principais isso é uma coisa para você guardar aqui já. é que quando O corretor lembrado do corretor que é o nosso nossa fonte de vendas, né? Cara, ele tá procurando um imóvel. Às vezes ele abre 4 sim. Às vezes baixa tabela baixa apresentação e tá ali e às vezes manda para o cliente ou manda para o cliente e outras vezes."
+      },
+      {
+        "startTime": 1018,
+        "endTime": 1034,
+        "speaker": "Diego Diehl",
+        "text": "Fala para o Fulano e um dos do cliente dele de um lado para o outro chama para visita algo assim, então uma coisa que eu quero te mostrar mais para frente. É que hoje vocês trabalham de certa forma com esse número aqui certo e a galera que vai falar com vocês."
+      },
+      {
+        "startTime": 1034,
+        "endTime": 1041,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem a gente tem um mecanismo agora para você trabalhar com esse número. o número maior que no caso de vocês aqui ó"
+      },
+      {
+        "startTime": 1042,
+        "endTime": 1052,
+        "speaker": "Gabriel Guérios",
+        "text": "Mas o sistema negócio parecido já né? Que eu fazia o ranking de quem acessou quem interagiu?"
+      },
+      {
+        "startTime": 1052,
+        "endTime": 1054,
+        "speaker": "Diego Diehl",
+        "text": "Esse é isso é um é um meio isso"
+      },
+      {
+        "startTime": 1054,
+        "endTime": 1056,
+        "speaker": "Gabriel Guérios",
+        "text": "Tá só porque eu não tô ficando louco é só não. Tô ficando louco."
+      },
+      {
+        "startTime": 1056,
+        "endTime": 1086,
+        "speaker": "Diego Diehl",
+        "text": "É exatamente é o meio que é legal ter uma rotina com a Débora lá de falar Débora. Selecionei os concorrentes aqui, vamos abordar vai ser visitar hoje de manhã duas imobiliárias falar com 20 corretores. Vamos abordar 200. É tem uma estratégia mais High touch que é uma estratégia mais tac touch para você da escala, né? Então vocês aqui ó nesse período, vocês estão aqui ó com 8 mil visualizações."
+      },
+      {
+        "startTime": 1086,
+        "endTime": 1111,
+        "speaker": "Diego Diehl",
+        "text": "E 180 cliques em contato é uma conversão. Relativamente baixa de clique em contato e daí eu vejo normalmente. Dois caminhos ou quando tá baixo quer dizer que ou todo mundo já tem o contato da Débora. E aí ele já ama quem escreve uma quem no WhatsApp já tá Débora já fala então não precisa ver."
+      },
+      {
+        "startTime": 1111,
+        "endTime": 1131,
+        "speaker": "Diego Diehl",
+        "text": "Ou apresentar ele fornece tem o dobro de clique em contato aqui. Quase o dobro de download. E aí às vezes a entender analisar um pouco a qualidade do anúncio se botar um vídeo se colocaram várias coisas ali até as janela enquanto isso já dá uma olhadinha ele vê como é que tá você pega um site desses produtos."
+      },
+      {
+        "startTime": 1131,
+        "endTime": 1162,
+        "speaker": "Diego Diehl",
+        "text": "E aí o ponto é a gente tá subindo isso aqui ou até trabalhando com essa eu gosto de trazer principalmente esses downloads aqui, por exemplo. O cara fez download da tabela E da apresentação do teu produto. Cara, eu gostaria de dar um oi para esse cara. Lá E aí Gabriel, tudo bem que você fez em download do nosso material aqui, eu sou os Fulano da Macken e claro, eu queria dizer que sei lá sábado vai ter um evento aqui para clientes."
+      },
+      {
+        "startTime": 1162,
+        "endTime": 1189,
+        "speaker": "Diego Diehl",
+        "text": "Ou daqui duas semanas, se quiser chamar o teu cliente está com algum cliente específico isso aí, cara, eu até eu conheci isso aqui mas em São Paulo. Em São Paulo galera visita menos Imobiliários porque o trânsito é mais caótico, né, Gabriel? e A galera puxa muito assim no Tete o corretor ele consegue porque o corretor ele se fala com ele, ele é influenciável, né? Só assim ó, cara."
+      },
+      {
+        "startTime": 1189,
+        "endTime": 1214,
+        "speaker": "Diego Diehl",
+        "text": "Chama ele para conhecer a nossa Central. Tá super legal e tal a gente já grava um vídeo depois sei lá, você acaba conseguindo aumentar a visita. Se você faz um trabalho ativo. Beleza então tem essa parte aqui dados vocês têm um volume Legal, vocês estão certa forma entre as principais aquele Curitiba, né? Talvez a vigésima quinta algo assim então como a visualização legal."
+      },
+      {
+        "startTime": 1214,
+        "endTime": 1216,
+        "speaker": "Diego Diehl",
+        "text": "Tá claro até aqui Gabriel"
+      },
+      {
+        "startTime": 1216,
+        "endTime": 1216,
+        "speaker": "Gabriel Guérios",
+        "text": "Qual que é o intervalo de tempo que você tá considerando aí só para ter uma"
+      },
+      {
+        "startTime": 1216,
+        "endTime": 1221,
+        "speaker": "Diego Diehl",
+        "text": "visualização. um ano um ano"
+      },
+      {
+        "startTime": 1221,
+        "endTime": 1223,
+        "speaker": "Gabriel Guérios",
+        "text": "uma ideia?"
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1252,
+        "speaker": "Diego Diehl",
+        "text": "Dando 700 visualizações mês para vocês. E aí aquela parte que você falou aqui de desempenho? Vamos deixar da Hype aqui mesmo, eu não tô como cliente no nível 6 você consegue ver essa parte da audiência semanal colocar um concorrente aqui, ó, por sinal, eles não colocaram. E aí você vê os corretores no grupo de concorrentes que acessar o teu produto e o grupo de concorrentes para você tracionar esse corretor um"
+      },
+      {
+        "startTime": 1252,
+        "endTime": 1256,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara, fiz isso fiz isso por um bom tempo com a Débora eu chegava. Toda segunda"
+      },
+      {
+        "startTime": 1256,
+        "endTime": 1256,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1256,
+        "endTime": 1268,
+        "speaker": "Gabriel Guérios",
+        "text": "de manhã e falava liga passava mais ou menos isso uns 20 corretores. Dá uma ligada que eles baixaram o material nosso ou da nossa região do nosso padrão."
+      },
+      {
+        "startTime": 1268,
+        "endTime": 1287,
+        "speaker": "Diego Diehl",
+        "text": "Irado irado bem legal mesmo e aí você pode fazer entrar aqui ó e vai sentando como responsável ela. E daí toda essa galera de corretores. Quando muda essa Toda segunda atualiza essa tabela aqui aí todo mundo vai para sábado e corretores aqui vira meio que uma carteira."
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1287,
+        "speaker": "Gabriel Guérios",
+        "text": "legal"
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1340,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom isso aqui básico da hora. Eu acho que é bacana. Dá mais um cheque aqui. Só vocês tem uma galera de Imobiliária integrada, tá legal. 332 o Lula Eu não vou conseguir ver mais o Gaia entre os concorrentes está em primeiro. o Gaia entre os concorrentes que você acertou."
+      },
+      {
+        "startTime": 1340,
+        "endTime": 1365,
+        "speaker": "Diego Diehl",
+        "text": "Ele tá em primeiro não tá com uma visualização bem bacana. O Luna dentre os concorrentes de 6. Ele tá em quinto. então, o que que isso significa que dentro dos concorrentes os corretores estão vendo mais os outros ou seja nesse aqui é legal fazer um trabalho de ir lá pescar os cara para aproximadamente e o Náutico vai ver não foi colocado concorrente aqui para Pesquisar se esse trabalho todo meio que numa mesma região, né? A gente vai ver."
+      },
+      {
+        "startTime": 1365,
+        "endTime": 1366,
+        "speaker": "Diego Diehl",
+        "text": "Ela meiuca Nobre."
+      },
+      {
+        "startTime": 1366,
+        "endTime": 1366,
+        "speaker": "Gabriel Guérios",
+        "text": "a"
+      },
+      {
+        "startTime": 1368,
+        "endTime": 1382,
+        "speaker": "Diego Diehl",
+        "text": "Que legal, então e aí uma pergunta agora básico a hora do folga Gabriel hoje, como que você sente hoje? É só Débora que tá atendendo a galera."
+      },
+      {
+        "startTime": 1382,
+        "endTime": 1383,
+        "speaker": "Gabriel Guérios",
+        "text": "só"
+      },
+      {
+        "startTime": 1383,
+        "endTime": 1399,
+        "speaker": "Diego Diehl",
+        "text": "E como que você percebe ali o WhatsApp dela a proatividade o disparo para toda a base ou até a tua base de corretores, você conseguiu organizar ela de uma forma que você consiga trabalhar ela?"
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1428,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara assim hoje a Débora ela é ela recebe. E atende os corretores de mercado então a gestão dela né? Até porque ela também ela é uma pessoa mais sénior assim, né? Então essa essa microgestão indicadores a gente não tem. Eu tenho canais no meu celular daí de relacionamento com corretor também, a gente tem o grupo da plataforma tem grupo com imobiliárias mais próximas para"
+      },
+      {
+        "startTime": 1428,
+        "endTime": 1432,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 1432,
+        "endTime": 1444,
+        "speaker": "Gabriel Guérios",
+        "text": "manter atualizado para O gerei o material novo e vou eu fiz um vídeo de Drone da obra e tal para essa isso mesmo."
+      },
+      {
+        "startTime": 1447,
+        "endTime": 1469,
+        "speaker": "Diego Diehl",
+        "text": "segunda parte. Acho que eu poderia dar uma palinha para você aqui do que que A gente está mais comercializando como eu já fui plataforma, né, cara? E hoje eu vejo que certa forma o WhatsApp até deu uma melhoradinha, mas a galera vai para selva com uma faquinha na mão, né? Tipo é o celular."
+      },
+      {
+        "startTime": 1469,
+        "endTime": 1500,
+        "speaker": "Diego Diehl",
+        "text": "não tem ferramenta e bora responder até Não sei como é que você manda mais se o corretor pede informação. Para Débora para você, é às vezes até um desafio ficar respondendo a galera chamando drive para o cara fica p***. Fica na mão que é mastigado, a gente tem a gente tem esse desafio que a gente olha em parcerias, a gente desenvolveu uma empresa sociedade com uma."
+      },
+      {
+        "startTime": 1500,
+        "endTime": 1523,
+        "speaker": "Diego Diehl",
+        "text": "Consórcio local nosso ali e daí eu queria te dar uma palhinha dessa empresa para você saber que existe. E aí quando você achar que faz sentido, você sabe que tem a gente aqui para isso. aqui"
+      },
+      {
+        "startTime": 1523,
+        "endTime": 1523,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "compartilhar não sei se é"
+      },
+      {
+        "startTime": 1524,
+        "endTime": 1545,
+        "speaker": "Diego Diehl",
+        "text": "Então Gabriel, precisa saber do nosso mais novo produto nem é tão mais novo assim aqui em São Paulo, a gente Bateu sem clientes. Em Curitiba agora tá a praia de Porto Camargo. GT e Monte"
+      },
+      {
+        "startTime": 1545,
+        "endTime": 1546,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "modem"
+      },
+      {
+        "startTime": 1546,
+        "endTime": 1551,
+        "speaker": "Diego Diehl",
+        "text": "Tem mais de sete Gardens? Quem mais ou não um pouco em"
+      },
+      {
+        "startTime": 1551,
+        "endTime": 1551,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "São essas né?"
+      },
+      {
+        "startTime": 1551,
+        "endTime": 1566,
+        "speaker": "Diego Diehl",
+        "text": "Curitiba? Com a fundação do Anápolis, já vou falar do Anápolis."
+      },
+      {
+        "startTime": 1568,
+        "endTime": 1575,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara eu já ouvi eu acho que quando a gente estava estava trocando por CV. Acho que isso deu anap para sua house, você vê."
+      },
+      {
+        "startTime": 1576,
+        "endTime": 1632,
+        "speaker": "Diego Diehl",
+        "text": "Isso o anato cara foi fundado em 2009. Pelo Júnior do irmão dele foi um dos maiores terrenos do Brasil eles venderam para LX em 2019. aí ficaram lá 2021 por contrato saíram 22 em 23, eles fundaram o z2a junto com a órgão estimulados aí pelo Pelo bust que a inteligência artificial tá trazendo para as operações, então é uma provocação já né? Que Como é que ninguém consegue trazer alguma solução para as dores da plataforma? Né nenhuma plataforma do Brasil tem sistema? Aí você vê até fala que tem mas cara, mas plataforma não usa usa para reservar unidade diferente, né? Mas para se comunicar com corretores dobrar coisas, né? É outra coisa então."
+      },
+      {
+        "startTime": 1632,
+        "endTime": 1667,
+        "speaker": "Diego Diehl",
+        "text": "O objetivo aí de revolucionar o mercado por meio da Inovação da inteligência artificial. E com o objetivo de democratizar o sensorial então aí ela brinca hoje que tá igual caviar. Não ninguém nunca viu nem comeu só ouvi falar o que a Débora tava mente não teve venda gerado por ela ou auxiliada, né? Tá longe e tem muito Potencial em volta agora como é que a gente utiliza de forma prática ela te mostrar no WhatsApp ali em 5 minutos para você ver o que está rolando para dar escala porque Aqui em São Paulo por exemplo Gabriel."
+      },
+      {
+        "startTime": 1667,
+        "endTime": 1699,
+        "speaker": "Diego Diehl",
+        "text": "os times de parcerias aqui chama de parcerias ao invés de plataforma E cara ele trabalha infinito até em Curitiba, se você quisesse contratar mais duas déboras tem trabalho, ela pode visitar Imobiliária o dia inteiro ela pode treinar corretora, ela pode falar com corretor. O problema é que a comissão não fecha uma conta boa no sinal do mês para essa pessoa então a gente tem que ter menos gente para conseguir pagar um salário legal para essa pessoa."
+      },
+      {
+        "startTime": 1699,
+        "endTime": 1714,
+        "speaker": "Diego Diehl",
+        "text": "Só que tem que dar eficiência para ela também então como eu posso dar escala e ajudar essas pessoas. E além disso se a Débora sai da empresa Como é que você consegue ter toda a base de corretores que ela tava conversando e tal para não perder não é para trás então? Eu falar mais uma coisa assim."
+      },
+      {
+        "startTime": 1714,
+        "endTime": 1735,
+        "speaker": "Diego Diehl",
+        "text": "Depois eu falo então cara para democratizar a gente coloca no WhatsApp ela então e se a gente tiver uma no teu WhatsApp no celular da Débora. Para fazer algumas coisas que eu vou mostrar né? Como é que a gente pode dar a escala para o corretor para o trabalho de plataforma, por isso a gente criou o Zé."
+      },
+      {
+        "startTime": 1735,
+        "endTime": 1753,
+        "speaker": "Diego Diehl",
+        "text": "Que é a nossa Alexa do mercado imobiliário Bruno e galera dá o nome que quiser na verdade para praia que São Paulo olha que engraçado Zanella aqui em São Paulo Todo Mundo Quase mantém no Zé. Em Curitiba, todo mundo quer mudar acho que quiser em Curitiba, não é muito bem pegado não pega muito bem."
+      },
+      {
+        "startTime": 1753,
+        "endTime": 1781,
+        "speaker": "Diego Diehl",
+        "text": "Vamos ver no Nordeste, eu vou passar Março em João Pessoa. Vamos ver se a galera curte o Zé mas o Zé o nome você pode dar o nome de Maria. Sei lá, quem não sei Maria também não vai pegar mesmo Curitiba então. quatro alavancas que gostam em plataforma ou é Um Desafio de aumentar a produtividade E a Débora fala com 300 corretores."
+      },
+      {
+        "startTime": 1781,
+        "endTime": 1802,
+        "speaker": "Diego Diehl",
+        "text": "Se ela puder falar com 4 Mil ou se ela fala com 500. Se ela puder falar comigo a gente vem acompanhando umas métricas que quanto mais quanto mais corretora você conversa, a tendência é mais visitas claro que nada substituir uma visita presencial trabalho mais de Campo, mas como aumentar a produtividade."
+      },
+      {
+        "startTime": 1802,
+        "endTime": 1820,
+        "speaker": "Diego Diehl",
+        "text": "Como você daí Gabriel ter dados para tomar algumas decisões mais assertivas hoje. Provavelmente você não enxerga nada dela no máximo visita, né? Ah se as visitas que ela fez os atendimentos que ela fez mas Quantos corretores ela tá falando, né? Enquanto os corredores ela falou desde o início do ano."
+      },
+      {
+        "startTime": 1820,
+        "endTime": 1844,
+        "speaker": "Diego Diehl",
+        "text": "Então e algumas coisas que dá para a gente ter no status, tá bom? Se tá ruim operação que o número tá gritando, eu implementei agora essa solução na na setinha que é uma empresa que vende um bioma 700 milhões e Cara a realidade que mostrou foi que tem fulaninho ali que tem sete, eles tem sete gerentes de parcerias."
+      },
+      {
+        "startTime": 1844,
+        "endTime": 1875,
+        "speaker": "Diego Diehl",
+        "text": "Tem um fulaninho ali que podia dar um gás a mais aí o diretor. Olha ele fala cara, precisa falar com mais gente o cara se esperta e Vida que segue ou ele dá uma vaciladinha em quatro dias já atualizada então começa a ter dados. Uma coisa importante é a experiência do cliente que nesse caso é o corretor, né, cara? Você demora para responder se tabela tá errada sim falou isso aqui no corretor já quando ele fala como a quem provavelmente ele fala como tem mais quatro incorporadoras."
+      },
+      {
+        "startTime": 1875,
+        "endTime": 1892,
+        "speaker": "Diego Diehl",
+        "text": "A grande questão é quem vai responder primeiro quem vai entregar o melhor material, o Inter vai olhar o material vai decidir, qual o produto indicar para o cliente. A não ser que ele venha o cliente venha querendo o teu produto daí é tirar pedido ou tentar atender o cara, né? Não é lutar ali com a concorrência então."
+      },
+      {
+        "startTime": 1892,
+        "endTime": 1918,
+        "speaker": "Diego Diehl",
+        "text": "E aí com mais tempo com mais dados e com a experiência básica resolvida a gente ter tempo para Inovar e ser criativo na plataforma porque Hoje às vezes fica meio repetitivo, né? Não dá uma Cadência. Então até com relação a grupo. Ah lembrei que ia falar Gabriel um ponto aqui que eu tô vendo nível Brasil."
+      },
+      {
+        "startTime": 1918,
+        "endTime": 1965,
+        "speaker": "Diego Diehl",
+        "text": "Lá as aulas surgiram em 2012 assim 2013, quando houve a crise dos estoques as incorporadoras falaram cara para a gente para dentro para zerar esses estoques, entendeu? Certo o marketing digital potencializou a geração criaram seus Salves. Nesse meio do caminho nós lançadoras que antes resolveu um problema que era Lopes Galvão o Brasil Brokers que a Incorporadora girava para elas."
+      },
+      {
+        "startTime": 1965,
+        "endTime": 1973,
+        "speaker": "Diego Diehl",
+        "text": "Elas falavam deixa que eu lanço. Me dá três meses exclusividade, eles iam lá e quase derreti um produto resolveu um problema hoje não resolvem mais. Inclusive a Lopes foi uma das últimas aí que se Desmembrou né? A Lopes grande aí de Curitiba, separou as lançadoras então começa a parar de resolver o problema house hoje aqui em São Paulo."
+      },
+      {
+        "startTime": 1973,
+        "endTime": 1992,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô vendo que tá um desafio também tá miando todas e quando o cara fica bom ele cai fora, eu vou ficar vendendo só uma quente, eu posso fazer uma mentezinho que vender e parceria está crescendo muito porque cada vez mais tem imobiliárias menores pela digitalização e tal o desafio é como se conectar com toda essa galera, né? Que antes quando você ir numa Imobiliária, eles estavam 400 corretores era mais fácil."
+      },
+      {
+        "startTime": 1992,
+        "endTime": 2023,
+        "speaker": "Diego Diehl",
+        "text": "Mas quando você tem muitas imobiliárias que não tem nem escritório, como é que se atinge essa galera daí a hora não cresce a importância e aí o volume cresce a importância do WhatsApp. Então a proposta básica aqui dessa solução é a gente aumentar a base de parceiros de corretores, então procuradora tem mil passar para 2.000 2.000 passar por 2.500 sendo inteligente baseado em dados sem ficar tacando corretor que não faz sentido."
+      },
+      {
+        "startTime": 2023,
+        "endTime": 2042,
+        "speaker": "Diego Diehl",
+        "text": "E aumentar as vendas, né? Sempre fala em vendas. Aqui alguns dos nossos clientes eu até falei de Curitiba, né? Esses aqui são alguns São Paulo. Então, Curitiba, tá tendo uma adesão legal. E aí eu acho que vale eu dar um exemplo para você no WhatsApp te mostrar a experiência."
+      },
+      {
+        "startTime": 2042,
+        "endTime": 2043,
+        "speaker": "Gabriel Guérios",
+        "text": "mandou"
+      },
+      {
+        "startTime": 2043,
+        "endTime": 2055,
+        "speaker": "Diego Diehl",
+        "text": "Claro Olha que Stephanie me mandou teu telefone. Dia eu escrevi Gabriel Macken apareceu aqui ó, 28 de Maio foi logo que eu saí."
+      },
+      {
+        "startTime": 2055,
+        "endTime": 2056,
+        "speaker": "Gabriel Guérios",
+        "text": "É encontrado com ela os dias antes disso."
+      },
+      {
+        "startTime": 2056,
+        "endTime": 2060,
+        "speaker": "Diego Diehl",
+        "text": "então"
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2061,
+        "speaker": "Gabriel Guérios",
+        "text": "E daí, ela falou de você?"
+      },
+      {
+        "startTime": 2061,
+        "endTime": 2102,
+        "speaker": "Diego Diehl",
+        "text": "Eu que falei, então me passou eu nem lembrava que tinha recebido. Mudança, né? Cara? Mudei de cidade. Mudei de tudo, você fica meio perdido. Então pegar meu celular aqui Gabriel exemplo prático aqui de WhatsApp, né? Primeiro desafio que a gente tem cara como cadastrar os corretores, né? A jogar no grupo Grupo É legal, mas quantos grupos você tem que você não abre? Tem vários né? Enquanto os grupos do corretor está né? Quantos estão arquivados é um grupo é uma coisa, mas como é que eu cadastro você faça aqui eu escrevo aqui o nome da nossa."
+      },
+      {
+        "startTime": 2102,
+        "endTime": 2131,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou escrever aqui Gabriel Guedes. Assim que se fala. Gabriel Guedes A nossa Iara já vai mandar aqui parceiro com sucesso, você já tá no nosso sistema já tá conectado. Se eu mandar uma roupa A gente já lista os produtos na integrado do chat GPT. Depois eu mostro se eu quiser por exemplo básico o produto 4."
+      },
+      {
+        "startTime": 2131,
+        "endTime": 2159,
+        "speaker": "Diego Diehl",
+        "text": "Aqui começa o primeiro diferencial assim o que que eu mando para o corretor quando ele me pede informações. Eu mando por exemplo uma foto de uma fachada, eu mando uma descriçãozinha do produto uma foto de uma portaria. A piscina eu boto uma foto de uma planta. Aí eu já te explico porque né? E no final eu mando porque o corretoras eles quer que a tabela de vendas atualizada."
+      },
+      {
+        "startTime": 2159,
+        "endTime": 2165,
+        "speaker": "Diego Diehl",
+        "text": "E a apresentação completa do produto e no final isso eu demorei 3 segundos ali para fazer e no final."
+      },
+      {
+        "startTime": 2183,
+        "endTime": 2191,
+        "speaker": "Gabriel Guérios",
+        "text": "Não na parte de atendimento, né, mas eu recrutava fazer o processo de conversão. Primeiro atendimento tivesse ar aqui também do meu lado."
+      },
+      {
+        "startTime": 2192,
+        "endTime": 2212,
+        "speaker": "Diego Diehl",
+        "text": "Então você sabe o que que é não, vou falar que O corretor o corretor quando tem um lead ele vai tentando entrar em contato com lide coleta informações e fala beleza, vou te enviar mais informações pelo WhatsApp, não é? E aí no WhatsApp, a gente ensina o corretor a não enviar o pdf inteiro do produto páginas, né? Você vai"
+      },
+      {
+        "startTime": 2212,
+        "endTime": 2213,
+        "speaker": "Gabriel Guérios",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2213,
+        "endTime": 2260,
+        "speaker": "Diego Diehl",
+        "text": "lá e manda o quê? Semana que você quiser, mas é um pouco do que eu trouxe aqui, né? Semana uma foto da fachada semana uma foto da área comum, você manda semana uma isca para o cliente para tentar chamar ele para uma visita. E aí o GAP que a gente pegou é? E quando o corretor pede o material? Ó se o corretor externo tá atendendo o cliente no WhatsApp e quando o corretor externo pede o material para gente porque por mais que tenha na hora ele pede material para gente."
+      },
+      {
+        "startTime": 2260,
+        "endTime": 2274,
+        "speaker": "Diego Diehl",
+        "text": "Você sabe né? Por que que quando a gente vai responder ele a gente manda o pdf se na verdade o que ele quer são esses essa estratégia, né? E aí o corretor tem o trabalho deve baixar o pdf é isso quando não manda um link do drive que o corretor que está na rua do celular já nem abre, né? Não manda para cinco incorporadoras três mandaram o drive, você nem abre já pega as duas que pegaram o pdf já vi corretor tirando print do celular para enviar para o cliente do PDF, porque ele precisa dar essa recortada."
+      },
+      {
+        "startTime": 2274,
+        "endTime": 2316,
+        "speaker": "Diego Diehl",
+        "text": "Então quando a gente implementou isso aqui o que tem o que a gente tem recebido dos corretores é cara. Muito obrigado. Agora sim, alguém pensou em mim e me mandou algo mais mastigado, eu vou encaminhar essa frase que eu mais amo que o corretor. Fale para a empresa, eu vou encaminhar agora os seus materiais para o meu cliente."
+      },
+      {
+        "startTime": 2316,
+        "endTime": 2342,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o nosso sonho, né? Ou se o corretor pedir informação para cinco ele virar e falar não eu quero encaminhar eu vou encaminhar de você agora, esse é o ponto então Além disso aqui ó, por exemplo a Dé. Bora, ela tá indo de um plantão para o outro por exemplo, Gabriel."
+      },
+      {
+        "startTime": 2342,
+        "endTime": 2338,
+        "speaker": "Diego Diehl",
+        "text": "E aí eu tô no WhatsApp aqui. Tô no carro. Deixa eu abrir aqui abrir tua conversa e eu tô no carro eu falo assim, ó Zé informações do habitat. Então, eu dou agilidade para Débora eu do agilidade para você que se quiser economizar tempo e mandar o drive para o corretor não vai ser legal, ele não vai gostar aqui eu mando novamente."
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2348,
+        "speaker": "Diego Diehl",
+        "text": "Um textinho uma imagem ou mando aquele aquela estratégia ali que eu tava falando com você, tá claro tá aqui Gabriel que está achando tá fazendo sentido"
+      },
+      {
+        "startTime": 2348,
+        "endTime": 2350,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara bem relevante."
+      },
+      {
+        "startTime": 2350,
+        "endTime": 2355,
+        "speaker": "Diego Diehl",
+        "text": "Independente de usar a ferramenta não é um site para Débora também falar"
+      },
+      {
+        "startTime": 2355,
+        "endTime": 2355,
+        "speaker": "Gabriel Guérios",
+        "text": "sim"
+      },
+      {
+        "startTime": 2355,
+        "endTime": 2382,
+        "speaker": "Diego Diehl",
+        "text": "Manda um negócio direito para o corretor não vai ficar porque tem gente que se estressa com corretor e fala é o trabalho dele ele que busque não não. O corretor quer vender o que for mais fácil, deixe mais fácil para ele que ele vende mais e assim funciona então mandei aqui e aí eu gasto tempo fazendo assim eu falo assim, Gabriel, te mandei aí a apresentação em tabela no final no começo."
+      },
+      {
+        "startTime": 2382,
+        "endTime": 2394,
+        "speaker": "Diego Diehl",
+        "text": "Você viu que eu separei umas imagens de textos minha sugestão sem caminhar essas imagens e textos para o teu cliente e convida ele para conhecer a nossa Central. Tá bem bonito lá, faço questão de te receber, beleza? Valeu, abraço. Ao invés de gastar tempo vendo arquivo e não falou mais nada, eu gasto três segundos para pedir."
+      },
+      {
+        "startTime": 2394,
+        "endTime": 2415,
+        "speaker": "Diego Diehl",
+        "text": "Gasto um áudio para me relacionar e me conectar emocionalmente com ele se você tá numa reunião agora Gabriel, recebe um áudio e a gente já deixa essa facilidade que a transcrição de áudio para também dar mais agilidade. Às vezes não precisa nem escutar o áudio e já respondendo. E aqui um pulo do gato Gabriel que é o corretor quando manda material para um lei de hoje."
+      },
+      {
+        "startTime": 2415,
+        "endTime": 2441,
+        "speaker": "Diego Diehl",
+        "text": "Você concorda que ele vai fazer um follow up colidir amanhã, né? Senão o líder não vai lembrar de responder o corretor que mandou você tem que ficar ali igual usando ela ficou com você só um pouquinho só um pouquinho vai ali então. Só que a Débora tá numa correria no dia a dia não tá correria ela vai saber que corretor que ela mandou o material, ela não vai voltar no WhatsApp dela para fazer e a gente viu esse GAP."
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2473,
+        "speaker": "Diego Diehl",
+        "text": "A não ser os mais organizados. E aí para resolver esse GAP eu faço assim, ó. Fala assim, Gabriel. Vou te dar um oizinho. Hoje é quinta na segunda de manhã para perguntar o que que você achou da nossa ferramenta, tá bom? Falei ferramenta, mas no caso do corretor vou falar assim, vou te dar um oi amanhã para perguntar que o cliente achou e eu faço assim ó, Zé que não lembrete para segunda às 10 da manhã e pergunta para o Gabriel, o que que ele achou da nossa solução aí para potencializar a plataforma dele."
+      },
+      {
+        "startTime": 2473,
+        "endTime": 2498,
+        "speaker": "Diego Diehl",
+        "text": "E aí eu já Criei um lembrete que segundo às 10 horas da manhã vai mandar uma mensagem para você e vai falar o Gabriel. Que que você achou da nossa solução? E aí vamos seguir não vamos reaproveitar a tabela. Zero que vai até o carnaval não. Já bate troca uma ideia então tá aqui ó, entendido lembrou isso aqui Gabriel é um ponto para você dar eficiência para Débora para os corretores gostarem da Maquin."
+      },
+      {
+        "startTime": 2498,
+        "endTime": 2502,
+        "speaker": "Diego Diehl",
+        "text": "E para você enfim da escala, tá? Claro essa base aqui."
+      },
+      {
+        "startTime": 2504,
+        "endTime": 2519,
+        "speaker": "Gabriel Guérios",
+        "text": "sim, eu só não entendi ali da parte operacional se o Eu tô recebendo todos os áudios que você tá falando com a inteligência artificial. Está falando de corretor, né? Ele vai entender isso, ele não se bate com isso."
+      },
+      {
+        "startTime": 2519,
+        "endTime": 2546,
+        "speaker": "Diego Diehl",
+        "text": "Cara, a gente umas cinco vezes até chegar nesse. O que que a gente aprendeu tá primeiro até 2024 até 2025 não há sinais do que o corretor queira falar com Robô seu primeiro ponto que Responde sozinho. Segundo ponto o corretor também não quer que o robô finja que é você, senão se ele descobre ele fica p***."
+      },
+      {
+        "startTime": 2546,
+        "endTime": 2580,
+        "speaker": "Diego Diehl",
+        "text": "Qual que foi o modelo que a gente criou o modelo Alexa que eu roubou ele é educado, ele só participa quando ele é convidado quando eu falo Zé e peço ele fala e aí o corretor eu pego e fala assim, ó, o Gabriel você viu ali que eu chamei o Zé o Zé é a nossa nova Inteligência Artificial."
+      },
+      {
+        "startTime": 2580,
+        "endTime": 2607,
+        "speaker": "Diego Diehl",
+        "text": "Mas quem tá investindo tecnologia para atender melhor vocês corretores que é um dos nossos clientes principais. Tá bom? Se você quiser testar e chamar ele aí pode testar, mas é só para ele me ajudar, tá bom? Sempre eu que vou estar aqui te respondendo. A gente treina isso fique com corretor fala, ele responde assim Caraca, Gabriel, vocês tão monstro agora hein, Marquinho, tá gigante tem lá no atendimento corretor, então o corretor ele fala caramba aí dá para deixar habilitado para criar imagem, cara."
+      },
+      {
+        "startTime": 2607,
+        "endTime": 2613,
+        "speaker": "Diego Diehl",
+        "text": "Você tem que os corretores fazem o Zé tá? Aí você pode ativar ele aí o cara chega em casa brinca com filho e fala filho, pede uma coisa Zé cria uma imagem de um parquinho de diversão na lua. Sei lá daí o GPT cria mano, imagens. Eles adoram porque é uma coisa nova não para gente que tá ligado que é uma tecnologia mais pra os corretores é uma parada."
+      },
+      {
+        "startTime": 2613,
+        "endTime": 2636,
+        "speaker": "Diego Diehl",
+        "text": "Assim absurda ele manda quiser lembra o Gabriel no dia 10 de Março de pagar minha comissão. Então cara é isso é uma terceira pessoa é uma terceira pessoa que se comunica por meio do meu WhatsApp e a gente não tem tido problema com os corretores. Eles entendem eles curtem, eles acham errado e botam incorporado."
+      },
+      {
+        "startTime": 2636,
+        "endTime": 2645,
+        "speaker": "Diego Diehl",
+        "text": "Nível acima. Porque fala assim, cara, essa Incorporadora tá para frente já tá investindo tecnologia não são os quadrados porque tem muito né empresa tradicional."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2669,
+        "speaker": "Gabriel Guérios",
+        "text": "E cara é uma pergunta de bastidores, quem treina? E instrui o Zé e como funciona porque assim. A gente tá falando primeiro ponto que ia te perguntar é o seguinte. Como que eu impeço ou se tem como pedir que um cliente faça isso arranque todas as informações e vai embora com a tabela book essas coisas."
+      },
+      {
+        "startTime": 2669,
+        "endTime": 2677,
+        "speaker": "Gabriel Guérios",
+        "text": "Eu acho que assim essa pergunta é meio relevante, porque assim eu já não tenho como fazer isso hoje, mas eu assim a gente falar não manda o book não"
+      },
+      {
+        "startTime": 2677,
+        "endTime": 2679,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu entendo."
+      },
+      {
+        "startTime": 2679,
+        "endTime": 2682,
+        "speaker": "Gabriel Guérios",
+        "text": "manda tabela, mas o driver é público enfim hoje já tá já vulgarizou."
+      },
+      {
+        "startTime": 2682,
+        "endTime": 2683,
+        "speaker": "Diego Diehl",
+        "text": "Eu entendo."
+      },
+      {
+        "startTime": 2685,
+        "endTime": 2706,
+        "speaker": "Gabriel Guérios",
+        "text": "E a segunda é assim, foi? Eu quero eu direcionar os argumentos de empreendimento. Eu quero que ele se cure uma informação que ele tem outra que ele não deu uma informação que ele já deixa ele habilitado, né? Você sabe que eu não quero que você fale o termo faça isso em nenhuma possibilidade, entendeu? Eu consigo fazer isso."
+      },
+      {
+        "startTime": 2706,
+        "endTime": 2724,
+        "speaker": "Diego Diehl",
+        "text": "Que legal, Gabriel. cara É bom tá com tecnologia boa Inteligência Artificial, né? Porque agora eu posso responder que sim para várias coisas antigamente era não não dava. Tem que programar isso aí um mês não vai. Cara aí é treinável, né? Eu vou te mostrar o nível 1 2 e 3."
+      },
+      {
+        "startTime": 2724,
+        "endTime": 2725,
+        "speaker": "Diego Diehl",
+        "text": "Então"
+      },
+      {
+        "startTime": 2725,
+        "endTime": 2727,
+        "speaker": "Gabriel Guérios",
+        "text": "sim"
+      },
+      {
+        "startTime": 2727,
+        "endTime": 2746,
+        "speaker": "Diego Diehl",
+        "text": "te mostrei o nível 1. Que é o básico do básico te mostrar como programa eu até te mostrar essa parte aqui, mas vou pular essa parte que você me perguntou. Seguir o nosso sistema para ser prático intuitivo, não é a ideia Débora ficar aqui o dia inteiro. Ela tá no WhatsApp dela esse sistema se comunica com WhatsApp dela."
+      },
+      {
+        "startTime": 2746,
+        "endTime": 2756,
+        "speaker": "Diego Diehl",
+        "text": "Então você não entrar aqui em Empreendimentos, ó, eu posso estar sincronizado com a órgão, por sinal. Vocês têm você já integraram as tabelas para atualizar órgão?"
+      },
+      {
+        "startTime": 2756,
+        "endTime": 2760,
+        "speaker": "Gabriel Guérios",
+        "text": "Cara, é que você vê eu não uso todas as funcionalidades dele, eu não subo"
+      },
+      {
+        "startTime": 2760,
+        "endTime": 2762,
+        "speaker": "Diego Diehl",
+        "text": "Mas você não usa a tabela não?"
+      },
+      {
+        "startTime": 2762,
+        "endTime": 2763,
+        "speaker": "Gabriel Guérios",
+        "text": "tabela. Não Não espere de vendas não. Uso nada eu uso você vê muito mais para"
+      },
+      {
+        "startTime": 2763,
+        "endTime": 2770,
+        "speaker": "Diego Diehl",
+        "text": "Bom eu falei isso que sabe a parte de"
+      },
+      {
+        "startTime": 2770,
+        "endTime": 2771,
+        "speaker": "Gabriel Guérios",
+        "text": "cadastro tarefa."
+      },
+      {
+        "startTime": 2773,
+        "endTime": 2791,
+        "speaker": "Diego Diehl",
+        "text": "tá desatualizado ou não aqui em São Paulo geral é integrado. Então se o cara tirou a humanidade de estoque agora já saiu a humanidade estoque da tabela o cara já vê na hora nós já vê no WhatsApp, já deu tudo certo. Mas aqui ó te dar um exemplo prático, como é que a gente configura, né? Vou mostrar o Bordini que eu te mandei."
+      },
+      {
+        "startTime": 2791,
+        "endTime": 2822,
+        "speaker": "Diego Diehl",
+        "text": "Eu tenho os arquivos e eu seleciono aqui o que que eu quero que mande. Tá igual você recebeu e cada coisa que eu coloco aqui. Ó, esse aqui é intenção Informações, você quer a intenção é apresentação sempre que eu vou adicionar aqui um vídeo uma imagem um áudio um documento seleciona, qual intenção é então se a tabela se a imagem se é planta então eu posso mandar assim, Zé envia a tabela do produto tal e via disponibilidade."
+      },
+      {
+        "startTime": 2822,
+        "endTime": 2832,
+        "speaker": "Diego Diehl",
+        "text": "Envia o memorial eu posso pedir para enviar cada coisa ou eu posso pedir para enviar tudo que foi que eu pedi para você enviar então você escolhe exatamente que texto que você quer que mande. Você sabe qual argumento que é o bom chegar no teu cliente, às vezes até um diferente."
+      },
+      {
+        "startTime": 2832,
+        "endTime": 2842,
+        "speaker": "Diego Diehl",
+        "text": "Você sabe que o teu cliente vai ver você e mais quatro produtos. Você sabe que o diferencial é aquele. Você pega e já bota o teu diferencial aqui ó, por exemplo. você já sabe que"
+      },
+      {
+        "startTime": 2842,
+        "endTime": 2847,
+        "speaker": "Gabriel Guérios",
+        "text": "Então ela não lê e elabora esses argumentos."
+      },
+      {
+        "startTime": 2847,
+        "endTime": 2848,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o nível 2 esse nível 2 esse"
+      },
+      {
+        "startTime": 2848,
+        "endTime": 2850,
+        "speaker": "Gabriel Guérios",
+        "text": "tá"
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2869,
+        "speaker": "Diego Diehl",
+        "text": "feijão com arroz. Que é o que mais dá resultado hoje ainda porque a galera tá aprendendo a usar eles usam um pouco daí não usam até o uso, mas a Débora como tem três produtos, ela sabe tudo. Do produto, né? E a ideia nem é fazer com que quando o corretor tiver dúvida específica."
+      },
+      {
+        "startTime": 2869,
+        "endTime": 2928,
+        "speaker": "Diego Diehl",
+        "text": "Você sabe que por que você fala assim? Porque corretor tá perguntando uma coisa tão específica. Porque talvez eu tenha cliente então, eu vou dar uma atenção especial para ele, eu não vou falar para o robô responder. Entendeu? Então, às vezes você pode pegar e falar Zé cria um pit para o corretor Gabriel respondeu o cliente dele que é investidor que tem 32 anos porque ele me perguntou sobre a espessura da laje."
+      },
+      {
+        "startTime": 2928,
+        "endTime": 2911,
+        "speaker": "Diego Diehl",
+        "text": "Explique para ele isso isso aí, que que vai acontecer daí, mas é nível você não vê, talvez a Débora faz isso ela as pessoas estão aprendendo a usar então tem dois níveis esse nível básico aqui e tem um nível também de um Empreendimentos. E eu vou aqui ó, e eu dou um contexto para ele."
+      },
+      {
+        "startTime": 2911,
+        "endTime": 2938,
+        "speaker": "Diego Diehl",
+        "text": "Eu boto aqui a área de lazer informações comerciais ou principais diferenciais a isso aqui é o contexto para o GPT. Eu posso inclusive colar o memorial descritivo aqui. Aí você pergunta me fale o que que vem no salão Gourmet, ele fala vem uma cadeira várias coisas que você não precisa procurar no memorial descritivo elaborar coisa elaborar diferencial elabora várias paradas aqui pelo GPT."
+      },
+      {
+        "startTime": 2938,
+        "endTime": 2940,
+        "speaker": "Diego Diehl",
+        "text": "Respondido essa pergunta, Gabriel. E"
+      },
+      {
+        "startTime": 2940,
+        "endTime": 2940,
+        "speaker": "Gabriel Guérios",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2940,
+        "endTime": 2965,
+        "speaker": "Diego Diehl",
+        "text": "aí como é que funciona a gente tem um funil de parceiros que cara a galera fala muito de funil de cliente, mas não cuida do parceiro. Então eu te adicionei aqui, por exemplo o Gabriel. Gabriela aqui aqui fica as mensagens por sinal, Gabriel, me manda umas três mensagens aí só para Me manda três mensagens."
+      },
+      {
+        "startTime": 2968,
+        "endTime": 2975,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "até aproveitando não sei se ficou Claro suficiente, como que foi cadastrado o teu contato Gabriel dentro da Z2 a"
+      },
+      {
+        "startTime": 2975,
+        "endTime": 2975,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó"
+      },
+      {
+        "startTime": 2977,
+        "endTime": 2982,
+        "speaker": "Gabriel Guérios",
+        "text": "Você mandou uma mensagem @ser. E daí Botou meu nome ele cadastrou assim."
+      },
+      {
+        "startTime": 2985,
+        "endTime": 2992,
+        "speaker": "Diego Diehl",
+        "text": "Daí ó, você me mandou tenho interesse em comprar dois à vista, você acha que o robô tem que responder isso?"
+      },
+      {
+        "startTime": 2992,
+        "endTime": 2992,
+        "speaker": "Gabriel Guérios",
+        "text": "Não."
+      },
+      {
+        "startTime": 2992,
+        "endTime": 2998,
+        "speaker": "Diego Diehl",
+        "text": "Óbvio que não eu vou te ligar na hora. Fala ô Gabriel, tudo bem? Não"
+      },
+      {
+        "startTime": 2998,
+        "endTime": 2998,
+        "speaker": "Gabriel Guérios",
+        "text": "Resposta dos sonhos né?"
+      },
+      {
+        "startTime": 2998,
+        "endTime": 3026,
+        "speaker": "Diego Diehl",
+        "text": "vou te ligar velho é exatamente então se eu der uma atualizar aqui ó. Cadê a página? Se eu der uma atualizada veja que está aqui as suas mensagens e você foi movido automaticamente para qualificação e se tornou verificado. Qual que é o ponto Gabriel? A gente tem muito corretor que só a gente fala enquanto não fala nada e é normal, mas eu já começo a separar o joio do trigo entre corretor que é novo."
+      },
+      {
+        "startTime": 3026,
+        "endTime": 3030,
+        "speaker": "Diego Diehl",
+        "text": "E o corretor que já está na etapa de qualificação e se tornou verificado."
+      },
+      {
+        "startTime": 3030,
+        "endTime": 3030,
+        "speaker": "Gabriel Guérios",
+        "text": "Te mandei uma nova mensagem, vamos ver se ele vai entender aí."
+      },
+      {
+        "startTime": 3030,
+        "endTime": 3041,
+        "speaker": "Diego Diehl",
+        "text": "Ou se tornou. Estão inseguro. Qual é a melhor unidade?"
+      },
+      {
+        "startTime": 3041,
+        "endTime": 3042,
+        "speaker": "Gabriel Guérios",
+        "text": "Ele vai entender."
+      },
+      {
+        "startTime": 3042,
+        "endTime": 3044,
+        "speaker": "Diego Diehl",
+        "text": "Não porque você não falou."
+      },
+      {
+        "startTime": 3045,
+        "endTime": 3045,
+        "speaker": "Gabriel Guérios",
+        "text": "Ah entendi, tá."
+      },
+      {
+        "startTime": 3045,
+        "endTime": 3068,
+        "speaker": "Diego Diehl",
+        "text": "Então, ele só responde e até o meu a gente deixa desabilitado. O esse é o momento atual do mundo, tá Gabriel. A galera não quer robô respondendo. ela quer falar com pessoas, só que eu quero da escala para Débora. Eu quero poder ajudar ela, né? Então beleza? Adicionei aqui."
+      },
+      {
+        "startTime": 3068,
+        "endTime": 3098,
+        "speaker": "Diego Diehl",
+        "text": "Vamos ver se ele vai responder. Eu acho que está desabilitado meu assim, eu acho que ele vai responder. Mas aqui é o Gabriel. Acho que ele não vai porque a gente tem o Zé GPT. O Zé #gpt que é para quando você quer evoluir um pouquinho mais. Aqui ó, o que que é o ponto Gabriel funil de parceiros, cara, você tá em qualificação aqui agora verificado."
+      },
+      {
+        "startTime": 3098,
+        "endTime": 3119,
+        "speaker": "Diego Diehl",
+        "text": "Você está em qualificação? Aqui tem o teu cadastro telefone e tal cadastro manual e você escolhe, quais Informações você quer pegar do corretor exemplo data de nascimento. Para quê Para depois você fazer uma automação feliz aniversário para o cara que região que ele atua daqui a pouco você tá lançando um produto lá no Novo Mundo."
+      },
+      {
+        "startTime": 3119,
+        "endTime": 3183,
+        "speaker": "Diego Diehl",
+        "text": "Ou no mundo daí não seria você Água Verde. Você concorda que tem corretor que é mais focado na Água Verde? Tem uns que é mais no Cabral. E aí a galera fica disparando para todo mundo tudo ao invés de disparar. Para a galera da região norte falando da Região Norte para a galera da região sul da região sul ou meu produto mais alto padrão mandar para j8 produto mais médio alto padrão mandar para outro então você consegue ativar dependendo de qualquer coisa esse aqui eu peguei com o cara do Nordeste, Gabriel."
+      },
+      {
+        "startTime": 3183,
+        "endTime": 3169,
+        "speaker": "Diego Diehl",
+        "text": "Olha esse cara falou eu quero saber que time que o cara torce. Porque na quinta de manhã depois o Brasileirão vai fazer um disparo parabenizando para quem torce pro time que ganhou falei sensacional, porque acho que o modelo que tá caminhando Gabriel é o coordenador não ser uma prateleira de produto."
+      },
+      {
+        "startTime": 3169,
+        "endTime": 3202,
+        "speaker": "Diego Diehl",
+        "text": "Eles são prateleira de relacionamentos você se conectar com o cara. Então ficar mandando só produto produto produto produto produto produto é mais chato. E aí a gente começa a criar já indo para frente aqui. Ó aqui você pode registrar atividade aqui tem uma gameficação, por exemplo. Eu quero mandar um disparo seis meses depois do lançamento para todo mundo que consultou informação do produto dispara para todo mundo começa a segmentar minha base e gamefica ela então se eu for aqui em automações por exemplo."
+      },
+      {
+        "startTime": 3202,
+        "endTime": 3225,
+        "speaker": "Diego Diehl",
+        "text": "Eu posso criar aqui, quantas automações eu quiser seleciono usuário posso selecionar quantos usuários eu quiser bota um título aqui convite para o lançamento. Daí eu boto aqui, ó D. Menos 30 30 dias antes bota o dia. E hora eu quero disparar. Ou algo assim, e aí Aqui tá o diferencial."
+      },
+      {
+        "startTime": 3225,
+        "endTime": 3247,
+        "speaker": "Diego Diehl",
+        "text": "Gabriel a galera tá sacuda de grupo e de lista de transmissão vem com aquela imagem com textão. E grupo o cara tem 500 grupos e se eu te mandasse Gabriel se você busca os corretores, né? Se você mandar só para os corretores mais chegados falando assim e corretor, queria te fazer um convite."
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3275,
+        "speaker": "Diego Diehl",
+        "text": "Separadinho assim ó, por exemplo fala assim. E aí, e aí, não é nem corretor, né? É o nome do parceiro o que já Manda certinho bota um delay. Queria te fazer um convite. Para sexta que vem. de manhã Lá lá bota uma imagem quero fazer um café da manhã, você é um dos nossos principais corretores a minha comunicação Gabriel que a gente tá pivotando."
+      },
+      {
+        "startTime": 3275,
+        "endTime": 3310,
+        "speaker": "Diego Diehl",
+        "text": "Em São Paulo, por exemplo tem muito mais incorporadoras o corretor não aguenta mais receber lista imagem questão, ele quer quando alguém fala para ele com ele não individual. Com mensagem que não é só um disparo, ele dá mais atenção, então aqui é um programa um disparo mais inteligente eu falo e aí Gabriel o nome dele eu falo e aí tudo bom, cara."
+      },
+      {
+        "startTime": 3310,
+        "endTime": 3325,
+        "speaker": "Diego Diehl",
+        "text": "Acabei de fazer um convite. E aí você consegue bota aqui texto localização que for. E coloca o criar cara, taxa de resposta tem sido absurdamente maior a conexão com os corretores. Então é assim amadurecimento da comunicação posso criar quantos eu quiser? Aqui uma coisa que eu não segui. Aqui Gabriel."
+      },
+      {
+        "startTime": 3325,
+        "endTime": 3329,
+        "speaker": "Diego Diehl",
+        "text": "Ó Chegou uma mensagem de qualificação aí para você, né?"
+      },
+      {
+        "startTime": 3329,
+        "endTime": 3329,
+        "speaker": "Gabriel Guérios",
+        "text": "Ele respondeu"
+      },
+      {
+        "startTime": 3330,
+        "endTime": 3351,
+        "speaker": "Diego Diehl",
+        "text": "Se você preencheu não não foi isso aí não, esse daí é automação que todo mundo que está em qualificação, ele éticamente vai uma automação para você preencher esse link. Entra nesse link aí e preenche rapidinho é só a zona de atuação que tá como obrigatório e tá numa cara uma de São Paulo, então bota alisando a Sul que for e salva e me avisa."
+      },
+      {
+        "startTime": 3360,
+        "endTime": 3362,
+        "speaker": "Gabriel Guérios",
+        "text": "Você tem Vasco e Flamengo?"
+      },
+      {
+        "startTime": 3364,
+        "endTime": 3379,
+        "speaker": "Diego Diehl",
+        "text": "Minha conta teste pode salvar e que não tá obrigatório o resto, só vou então. Você já foi movido automaticamente para relacionamento tá aqui zona sul você não preencher o time não falou que torcer para o Vasco. E aí você começa a separar os"
+      },
+      {
+        "startTime": 3379,
+        "endTime": 3380,
+        "speaker": "Gabriel Guérios",
+        "text": "Não dá, né?"
+      },
+      {
+        "startTime": 3382,
+        "endTime": 3409,
+        "speaker": "Diego Diehl",
+        "text": "corretores, cara, quem te respondeu Tem Que preencheu. E aí Aqui um ouro na coluna oportunidade, eu vou te mandar um aqui, a gente tem um detector de palavra chave, então sabe a palavra chave que você me mandou ali. Quero comprar à vista ou agendamento cliente proposta tudo isso. Se você falar você é movido automaticamente para coluna oportunidade."
+      },
+      {
+        "startTime": 3409,
+        "endTime": 3462,
+        "speaker": "Diego Diehl",
+        "text": "E aí você todo dia de manhã, Gabriel? Você recebe um relatório como esse aqui? Ó, esse aqui é um relatório da setinha que eu falei. Essa a gente percebeu que a galera não entra para ver relatório, mas se você entrar aqui todo dia 7 da manhã sem receber no WhatsApp."
+      },
+      {
+        "startTime": 3462,
+        "endTime": 3453,
+        "speaker": "Diego Diehl",
+        "text": "Você vai olhar aí você vê aqui. Total de parceiros quantos verificados como é que tá o teu funil de oportunidade uma coisa que eu acabei esquecendo de falar sabe aquela galera que visita órgão. Se o cara visitar e baixar tabela. Ele é cadastrado automaticamente no sistema e sai uma mensagem do WhatsApp da Débora falando com o corretor falando e aí Gabriel."
+      },
+      {
+        "startTime": 3453,
+        "endTime": 3482,
+        "speaker": "Diego Diehl",
+        "text": "Responde. Aqui você vê o tamanho da carteira. Com quantos corretores a Débora falou nos últimos 15 dias diferentes que fica atualizando todo dia então você começa a ter uma métrica ali e aí tá mandando mensagem tá? Tá falando não tá? E aqui uma lista de parceiros na coluna oportunidade que é para você começar o teu dia falando com essa galera aí pô, eu vou começar falando com o corretor que falou cliente falou visita, né? A Claro aqui Gabriel."
+      },
+      {
+        "startTime": 3482,
+        "endTime": 3486,
+        "speaker": "Gabriel Guérios",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 3486,
+        "endTime": 3518,
+        "speaker": "Diego Diehl",
+        "text": "Cara, eu vou até acabei de lembrar eu tenho uma reunião agora as três com a Hype. Acho que usar nela em 5 minutinhos, ele finaliza Gabriel, só acho que um ponto aqui o que que a gente está trazendo tá? A Débora não tem tempo de ficar entrando na hora me vendo."
+      },
+      {
+        "startTime": 3518,
+        "endTime": 3524,
+        "speaker": "Diego Diehl",
+        "text": "Quem acessou agora o produto a gente tá trazendo essa integração. Para abordar e cadastrar esse corretores é suficiente esses disparos. Esse controle da gestão para você poder disparar um a um porque nesta transmissão, às vezes não entrega, né grupo? O cara não olha direito para dar a capilaridade. A gente tem tido resultados bem expressivos."
+      },
+      {
+        "startTime": 3524,
+        "endTime": 3541,
+        "speaker": "Diego Diehl",
+        "text": "E por causa de vocês cara que é uma pessoa é somente três produtos vai ficar no valor bem interessante. Aí se você quiser dar esse up aí para Débora. E aí de certa forma você. Indeniza mais ainda Débora, né? Porque você fala assim, cara que eu te dou uma ferramenta de trabalho."
+      },
+      {
+        "startTime": 3541,
+        "endTime": 3552,
+        "speaker": "Diego Diehl",
+        "text": "Você foi para qualquer outro Incorporadora. Você não tem uma ferramenta no geral? O que você achou Gabriel?"
+      },
+      {
+        "startTime": 3552,
+        "endTime": 3570,
+        "speaker": "Gabriel Guérios",
+        "text": "técnica. Eu tenho algumas considerações ali a respeito da manutenção porque assim provavelmente seria uma ferramenta entre aspas minhas né assim eu cuido dessa parte de por exemplo, eu cuido do RD aqui eu cuido de CV. Então assim a gente falou bastante da Débora, mas assim essa ferramenta traria para mim essa responsabilidade de fazer o atendimento automatizar e deixaria Débora."
+      },
+      {
+        "startTime": 3570,
+        "endTime": 3572,
+        "speaker": "Gabriel Guérios",
+        "text": "Talvez"
+      },
+      {
+        "startTime": 3572,
+        "endTime": 3572,
+        "speaker": "Diego Diehl",
+        "text": "automatizar"
+      },
+      {
+        "startTime": 3576,
+        "endTime": 3589,
+        "speaker": "Gabriel Guérios",
+        "text": "um pouco mais desafogada, daí teria que entender um pouco mais essa manutenção da ferramenta, né? Que assim toda ferramenta. Ela traz soluções e ela tem uma contrapartida de Mais uma automação de comunicação, né?"
+      },
+      {
+        "startTime": 3589,
+        "endTime": 3594,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que eu usa nela pode te explicar e cara bem baixa a"
+      },
+      {
+        "startTime": 3594,
+        "endTime": 3596,
+        "speaker": "Gabriel Guérios",
+        "text": "tá"
+      },
+      {
+        "startTime": 3596,
+        "endTime": 3620,
+        "speaker": "Diego Diehl",
+        "text": "manutenção integrada. E a gente tem um CS que apoia para manter o negócio atualizado também, tá? Mas Gabriel quando foi para Curitiba fazer questão ainda de tomar um café trocar uma ideia prazer exato de conhecer desculpa sair correndo aí que os cara lá são bem pontuais também fechou janela para o Gabriel excelente reunião aí entendeu? Rapidão? Tem gente que demora."
+      },
+      {
+        "startTime": 3620,
+        "endTime": 3624,
+        "speaker": "Diego Diehl",
+        "text": "Parabéns aí Gabriel. Valeu meus queridos. Abraço falou valeu."
+      },
+      {
+        "startTime": 3624,
+        "endTime": 3665,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Obrigado, viu? Diego? Um abração. Tchau, tchau. É cara te respondendo um pouco da pergunta Gabriel o processo até bom explicar o processo inicial de implementação e o processo depois de implementação. Então a gente tem ali um processo bem hitach com os nossos clientes iniciais quer fazer o processo de configuração do painel, a gente tem integração com a órgão de forma negativa para importar as informações e sempre manter todas as informações atualizadas dentro da Z2 conforme as informações que estão dentro da órgão então a parte de manutenção de atualizações dessas informações elas serem importadas diretamente pela hora do mesmo."
+      },
+      {
+        "startTime": 3665,
+        "endTime": 3667,
+        "speaker": "Gabriel Guérios",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 3667,
+        "endTime": 3697,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá então e assim cara, como é algo novo para vocês em relação a rotina colocar na rotina de vocês no dia a dia a gente faz toda a gente tem uma Cadência de implementação, então tem a primeira reunião de que Coffee que é para a gente entender a segunda reunião é mais para a gente para Débora se familiarizar com ferramenta para vocês estabilizar com a ferramenta marque em si para vocês verem como é que fica toda configuração no painel com os produtos de vocês e assim por diante."
+      },
+      {
+        "startTime": 3697,
+        "endTime": 3714,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente faz todo passo a passo para que vocês consigam aos poucos implementar essa ferramenta dentro da operação de vocês um relacionamento com os corretores. Então é tudo feito de uma forma. Cadenciada para que ele se encaixe de uma forma perfeita para vocês começarem a utilizar."
+      },
+      {
+        "startTime": 3714,
+        "endTime": 3720,
+        "speaker": "Gabriel Guérios",
+        "text": "Não legal e qual que é a questão dos custos investimento para ter mensalidade?"
+      },
+      {
+        "startTime": 3722,
+        "endTime": 3764,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente tem algumas variáveis que a gente utiliza para fazer o cálculo dos custos, né? Deixou até compartilhar minha tela aqui para te mostrar. Mas basicamente a gente utiliza a quantidade de WhatsApp que estarão integrados na ferramenta então. se tiver o teu WhatsApp mais o WhatsApp da Débora a gente contabiliza os dois WhatsApps, a gente contabiliza também a parte de quantidade de produtos cadastrados e quantidades de parceiros cadastrados dentro da Plataforma deixa eu compartilhar minha tela só para eu conseguir te mostrar."
+      },
+      {
+        "startTime": 3764,
+        "endTime": 3769,
+        "speaker": "Gabriel Guérios",
+        "text": "só para entender em resumo assim, cara, se eu for explicar aqui para o Mateus é bom até Essa Ideia É como se eu instalasse no meu WhatsApp no meu número e"
+      },
+      {
+        "startTime": 3769,
+        "endTime": 3770,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Claro"
+      },
+      {
+        "startTime": 3773,
+        "endTime": 3791,
+        "speaker": "Gabriel Guérios",
+        "text": "no número da Débora, vamos dizer que a gente está ali nos dois uma inteligência artificial. Que ser acionada se o modelo Alexandre um banco de dados que eu vou alimentar? E começa a responder conforme a gente vai fazer o script, é isso?"
+      },
+      {
+        "startTime": 3792,
+        "endTime": 3812,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Perfeito no caso a gente aciona a porque imagina que vocês estão com WhatsApp lotado de corretores se perguntando informações dos seus produtos apresentação tabela a ideia a gente desafogar esse processo de Receber receber essa questionamento tem que no Drive trair essa informação enviar com áudio ou com a roupa."
+      },
+      {
+        "startTime": 3812,
+        "endTime": 3817,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Zero se já consegue dar vazão essas respostas e se respondeu mais rápido possível."
+      },
+      {
+        "startTime": 3817,
+        "endTime": 3819,
+        "speaker": "Gabriel Guérios",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 3819,
+        "endTime": 3876,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí a gente tem o outro lado que todos os corretores que estão engajando dentro dos produtos de vocês dentro da órgão, a gente já manda uma mensagem direto para esse corretor do teu WhatsApp ou do WhatsApp da Débora para você chegar antes a gente aproveitar esse microondas que o corretor Ele está pesquisando imóvel, então ele tá pesquisando um imóvel que faz sentido com o imóvel que vocês têm hoje em prateleira vocês ele pesquisa um produto ele entra em contato entra no produto de vocês automaticamente."
+      },
+      {
+        "startTime": 3876,
+        "endTime": 3866,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Nossa Yala já manda uma mensagem para esse corretor para saber se ele tá com alguma dúvida, ele precisa o corretor geralmente ele precisa ali de um engajamento de cinco pontos né? Então ele clica ele ganha um ponto ele clica na apresentação ganha três pontos ele clica numa imagem e ganha dois pontos bateu."
+      },
+      {
+        "startTime": 3866,
+        "endTime": 3887,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Exatamente vai ter os cinco pontos já sai uma mensagem diretamente no teu WhatsApp ou do WhatsApp da Débora para abordar esse corretor e a gente aproveitar esse microondas efetivo nessa comunicação. Né? E aí a gente traz também o processo de automação que a gente depois a gente ter todos esses corretores cadastrados e a nossa base de dados desse corretores bem alimentados."
+      },
+      {
+        "startTime": 3887,
+        "endTime": 3910,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Aí a gente consegue comunicação mais assertiva para eu quero conversar com corretores que tem intenção de Treinamento. Você tá lá no detalhe assim, eu tenho interesse em participar de treinamentos corretores que tem atuam na zona norte. Então vai tirar somente esse que todos zona norte então. A ideia é que a gente utilize vários mecanismos da Para ativar esses corretores fomentar esse relacionamento."
+      },
+      {
+        "startTime": 3910,
+        "endTime": 3913,
+        "speaker": "Gabriel Guérios",
+        "text": "Beleza, entendi. Vamos para dolorosa agora."
+      },
+      {
+        "startTime": 3915,
+        "endTime": 3964,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Deixa eu te mostrar aqui só para você ter uma ideia. Tá conseguindo minha tela. Legal, eu eu particularmente assim como toda automação que a gente traz um prm por trás toda a configuração. A gente tá com uma tabela bem abaixo do convencional do mercado, principalmente lá em São Paulo que tem mais esse clientes aqui em Curitiba."
+      },
+      {
+        "startTime": 3964,
+        "endTime": 3962,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente tá com o preço bem defasado justamente porque acaba sendo uma tecnologia nova que tá entrando então a gente está fazendo a o valor trazendo o valor o valor presente do próprio mercado que a gente tá só que como a gente tá tendo esse acréscimo de clientes, né? Tá vindo bastante cliente por conta disso por conta de toda automação."
+      },
+      {
+        "startTime": 3962,
+        "endTime": 3985,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Provavelmente depois do Carnaval a gente vai acabar aumentando o valor. Tá mas hoje o que a gente tem de valor, ele é voltado justamente para a quantidade de licenças no WhatsApp. Limite de parceiras cadastrados e quantidade de produtos que estão na automação a quantidade de produtos que vocês têm na prateleira tá hoje seriam dois WhatsApp se cadastrados."
+      },
+      {
+        "startTime": 3985,
+        "endTime": 4039,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Teoria da Débora beleza a parte de limites de Treinamento cara, nem precisa você pegar muito tá? Porque você tem o meu contato, a gente tem um processo de implementação, a gente tem o CS ele que o Carlos ele vai fazer o processo, Inicial. Depois eu faço um High touch, a gente sai eu vou eu vou até a maquini a gente toma um café ou converso com o pessoal os coordenadores a Débora com a gente conversa também para eu te mostrar algumas estratégias que algumas incorporadoras estão utilizando para fomentar esse relacionamentos então essa parte de limite de treinamentos a gente coloca quatro horas como padrão, mas daqui você pode ficar tranquilo que janela precisa de mais um treinamento preciso de mais uma reunião eu tô super aberto para a gente sentar e conversar tá questão de limite de parceiros dois mil três mil, né jogar dois mil aqui eu acredito que seria até mais quantas parcelas em média vocês têm na base, você sabe."
+      },
+      {
+        "startTime": 4040,
+        "endTime": 4058,
+        "speaker": "Gabriel Guérios",
+        "text": "Essa pergunta esse é aquilo que eu digo falou, né? Hoje vem é que assim. Fala parceiro, eu acho que se a gente tivesse 2000, a gente não tinha mais produto para vender, mas assim que se a gente atende aí. Ah até agora deve atender por ano aí uns mais de mil corretores, cara."
+      },
+      {
+        "startTime": 4059,
+        "endTime": 4095,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É que vocês ainda assim tem. Vocês ainda vão ter os corretores que acessam a hora então se nos últimos 30 dias teve 200 praticamente 200 aqui 130 mais 120, então esses também Acaba contabilizando. Porque vocês vão abordar aí. Ah ela vai abordar ela já Cadastra no prm. Mas vamos manter de facultativo aqui caso vocês queiram aumentar a cota de parceiras, ele fica por r$ 100 tá? Então mais mil cotas 3.000, ele vai aumentando de 100 reais licença de WhatsApp 2 3 4 o valor por"
+      },
+      {
+        "startTime": 4095,
+        "endTime": 4098,
+        "speaker": "Gabriel Guérios",
+        "text": "tá"
+      },
+      {
+        "startTime": 4098,
+        "endTime": 4152,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "produto 128. E a quantidade de produtos onde vocês têm três, né? então Hoje a proposta é voltada, a gente tem os valores da Adesão e implementação todo o processo de implementação que é deixar o painel todo configurado com todos os produtos de vocês e todo o processo de implementação em treinamento ele se enquadra nesse valor inicial esse valor a gente de 6.530 a gente parcela em duas vezes e a mensalidade ela ficaria por 1.303."
+      },
+      {
+        "startTime": 4152,
+        "endTime": 4153,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A esse seriam os valores que a gente teria para parte da Z2 a com todas as ferramentas inclusive com toda automação inclusa questão de limitação de usuários para gestão. Informações tudo ilimitado, tá?"
+      },
+      {
+        "startTime": 4157,
+        "endTime": 4177,
+        "speaker": "Gabriel Guérios",
+        "text": "Achei que Parabéns pela solução, até depois mandar esse recado para o Diego que acho que ele participou bastante o desenvolvimento deve ter desenvolvido junto, aí acho que faz muito sentido ela se encaixa bem. Dá para ver que quem quem desenvolveu o trabalho do mercado assim, você ficou muito claro assim."
+      },
+      {
+        "startTime": 4177,
+        "endTime": 4200,
+        "speaker": "Gabriel Guérios",
+        "text": "É da parte da Macken, cara assim até aquilo que eu falei no começo, a gente trabalha enxuto, a gente é super conservador com investimentos e despesas recorrentes. E isso pode representar duas coisas, né? Que a gente não vai investir isso agora vai esperar um pouco. Ou que faz muito sentido e que isso vai nos gerar aí um save com eficiência futura então."
+      },
+      {
+        "startTime": 4200,
+        "endTime": 4208,
+        "speaker": "Gabriel Guérios",
+        "text": "Preciso digerir bem pensar provavelmente vai conversar internamente né? Isso pode levar um tempo e mesmo assim quando a gente for implementar ainda vai um."
+      },
+      {
+        "startTime": 4208,
+        "endTime": 4209,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim claro"
+      },
+      {
+        "startTime": 4209,
+        "endTime": 4236,
+        "speaker": "Gabriel Guérios",
+        "text": "tempo aí de rodadas de conversa sobre sobre os valores sobre o suporte, né? Porque aquilo como eu falei para o Diego esse tipo eventualmente implementar cara. Tudo que for acontecer dentro da máquina, quem vai no comercial e Market vai acontecer entre eu e a Débora então. Hoje O processo está rodando."
+      },
+      {
+        "startTime": 4236,
+        "endTime": 4251,
+        "speaker": "Gabriel Guérios",
+        "text": "Mesmo que ela venha para melhorar ela é? Um atrito né? Então por isso eu só tô querendo dizer assim pelo tempo, mas me manda cara, vou estudar com carinho no tempo certo e retorno para vocês e a gente vai conversando."
+      },
+      {
+        "startTime": 4251,
+        "endTime": 4261,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Claro tranquilo a minha ideia Gabriel não é nem a vamos sair daqui contradicional, a minha ideia é colocar todas as incorporadoras de Curitiba na primeira página. Principalmente quando a gente trata de tecnologia nova que"
+      },
+      {
+        "startTime": 4261,
+        "endTime": 4264,
+        "speaker": "Gabriel Guérios",
+        "text": "sim"
+      },
+      {
+        "startTime": 4264,
+        "endTime": 4276,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "imagina daqui a pouco então vai chegar e você fala, ô Zé, me manda a apresentação do novo. A Débora fala quem quiser, entendeu? E isso tá acontecendo em São Paulo tá acontecendo muito em São Paulo tá chegando em incorporadoras."
+      },
+      {
+        "startTime": 4276,
+        "endTime": 4280,
+        "speaker": "Gabriel Guérios",
+        "text": "Para vocês é muito importante para vocês é muito importante fazer isso."
+      },
+      {
+        "startTime": 4280,
+        "endTime": 4309,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "De um lado é muito importante do outro lado também muito importante a gente fazer essas comunicação para todas as incorporadoras para a gente colocar todo mundo na primeira página todo mundo saber dessa tecnologia que a gente tá trazendo e acaba sendo importante também para o nosso lado que a gente acaba automatizando muito do processo da Incorporadora e também trazendo o nosso nome no meio de tudo isso né? O Zé acaba sendo da hora acaba sendo da Z2 a gente tá por trás de tudo isso, mas quem tá tracionando quem tá dando a vazão aqui."
+      },
+      {
+        "startTime": 4309,
+        "endTime": 4327,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Utilizando acaba sendo vocês que estão no operacional na parte do atendimento em relacionamento com esses corretores, né? Então cara a ideia principal dessa reunião a gente se aproximar um pouquinho mais porque você é cliente nosso ativo. Então o que a gente está acostumando a falar vocês são os nossos clientes."
+      },
+      {
+        "startTime": 4327,
+        "endTime": 4353,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Vocês não são os nossos clientes de distribuição limitada então vocês já utilizam os nossos dados a nossa ideia a gente trazer principalmente essa informação para os nossos clientes primos então assim Gabriel Analisa certinho, eu te mando essas apresentações aqui com a proposta formalizada. Veja certinho vai me comunicando fazendo ela vamos ajustar aqui vamos ajustar lá a gente vai ajustando para que fique enviado tanto para vocês quanto para a gente a gente conseguir avançar."
+      },
+      {
+        "startTime": 4353,
+        "endTime": 4354,
+        "speaker": "Gabriel Guérios",
+        "text": "Combinado, cara."
+      },
+      {
+        "startTime": 4354,
+        "endTime": 4355,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Beleza Fico feliz que você tenha gostado de verdade mesmo. Acho que tem muito"
+      },
+      {
+        "startTime": 4355,
+        "endTime": 4356,
+        "speaker": "Gabriel Guérios",
+        "text": "beleza"
+      },
+      {
+        "startTime": 4360,
+        "endTime": 4387,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "espaço aí para a gente conseguir desenvolver uma parceria. Nossa ideia não é ter clientes zerar o Brasil inteiro de clientes. Nossa ideia ter parceiros efetivamente porque a gente entende. Que a gente utilizar mais no mercado por exemplo. Então a nossa ideia a gente se realmente parceiros que o Diego tava falando de pouco, quando foi para Curitiba a gente faz rapá, a gente realmente faz para aproximar todo mundo para que como todo mundo é carinhoso carimbado no mercado imobiliário, cara."
+      },
+      {
+        "startTime": 4387,
+        "endTime": 4394,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Vamos aproximar todo mundo e vamos usar isso. Daí como nossa força. Nossa potência para tracionar de vez esse mercado, né?"
+      },
+      {
+        "startTime": 4394,
+        "endTime": 4401,
+        "speaker": "Gabriel Guérios",
+        "text": "Exatamente cara não legal show de bola cara, aguardem material e aguardo convite."
+      },
+      {
+        "startTime": 4401,
+        "endTime": 4407,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Opa, pode deixar o primordial. Obrigado, viu, Gabriel? Valeu a gente vai conversando aí abração, tchau."
+      },
+      {
+        "startTime": 4407,
+        "endTime": 4407,
+        "speaker": "Gabriel Guérios",
+        "text": "Obrigado você cara. Um abraço, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 299,
+    "speakers": [
+      "Luiz Gustavo Zanella",
+      "Diego Diehl",
+      "Gabriel Guérios"
+    ],
+    "total_words_estimate": 11239,
+    "duration_start": 3,
+    "duration_end": 4407
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "67a4fc404e0d040013da4b3b",
+        "timestamp": 64,
+        "text": "Objetivo da reunião: apresentar tecnologia para gestão de parcerias e inteligência de mercado para incorporadoras",
+        "topicId": "67a4fc404e0d040013da4b33"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b3f",
+        "timestamp": 315,
+        "text": "Gabriel entrou na Maquin há quase seis anos, inicialmente focado em processos de back office",
+        "topicId": "67a4fc404e0d040013da4b34"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b40",
+        "timestamp": 414,
+        "text": "Gabriel atua no relacionamento institucional da plataforma, acompanhando performance das imobiliárias",
+        "topicId": "67a4fc404e0d040013da4b34"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b3c",
+        "timestamp": 759,
+        "text": "Maquin utiliza Órulo para receber contatos, acessar tabelas, material de vendas e relatórios de inteligência de mercado",
+        "topicId": "67a4fc404e0d040013da4b33"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b3d",
+        "timestamp": 919,
+        "text": "Órulo crescendo com 8.600 usuários e expressiva audiência digital",
+        "topicId": "67a4fc404e0d040013da4b33"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b41",
+        "timestamp": 1252,
+        "text": "Gabriel costumava acompanhar corretores semanalmente com Débora, ligando para os que baixavam materiais",
+        "topicId": "67a4fc404e0d040013da4b34"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b42",
+        "timestamp": 1489,
+        "text": "Empresa identifica desafio de comunicação e atendimento a corretores por meio de ferramentas digitais",
+        "topicId": "67a4fc404e0d040013da4b35"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b43",
+        "timestamp": 1620,
+        "text": "Objetivo de revolucionar mercado imobiliário através de inovação e inteligência artificial",
+        "topicId": "67a4fc404e0d040013da4b35"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b44",
+        "timestamp": 1720,
+        "text": "Criação do 'Zé', assistente de inteligência artificial para aumentar produtividade da plataforma",
+        "topicId": "67a4fc404e0d040013da4b35"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b47",
+        "timestamp": 1999,
+        "text": "Proposta de aumentar base de parceiros e corretores de forma inteligente, baseada em dados",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b48",
+        "timestamp": 2497,
+        "text": "Solução busca dar eficiência para equipe, agradar corretores e permitir escalabilidade",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b49",
+        "timestamp": 2736,
+        "text": "Sistema projetado para ser prático e intuitivo, integrado com WhatsApp da Débora",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4a",
+        "timestamp": 2788,
+        "text": "Diego demonstra configuração prática de envio de arquivos com diferentes intenções",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4b",
+        "timestamp": 2910,
+        "text": "GPT pode receber contexto como memorial descritivo para gerar respostas personalizadas",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b45",
+        "timestamp": 3153,
+        "text": "Nova estratégia de relacionamento focada em conexão personalizada, não apenas envio de produtos",
+        "topicId": "67a4fc404e0d040013da4b35"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b46",
+        "timestamp": 3227,
+        "text": "Estratégia de comunicação mais inteligente e individualizada para corretores",
+        "topicId": "67a4fc404e0d040013da4b35"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4c",
+        "timestamp": 3437,
+        "text": "Sistema cadastra automaticamente corretores que visitam e baixam tabela do órgão",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4d",
+        "timestamp": 3551,
+        "text": "Gabriel vê potencial da ferramenta para automatizar atendimento e desafogar Débora",
+        "topicId": "67a4fc404e0d040013da4b36"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b38",
+        "timestamp": 4098,
+        "text": "Proposta inicial de implementação Z2 com valor de R$ 6.530, parcelado em duas vezes, com mensalidade de R$ 1.303.",
+        "topicId": "67a4fc404e0d040013da4b32"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4f",
+        "timestamp": 4175,
+        "text": "Maken prioriza investimentos conservadores e busca eficiência em soluções tecnológicas.",
+        "topicId": "67a4fc404e0d040013da4b37"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b39",
+        "timestamp": 4237,
+        "text": "Gabriel planeja estudar proposta internamente e retornar com feedback em momento oportuno.",
+        "topicId": "67a4fc404e0d040013da4b32"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b3e",
+        "timestamp": 4280,
+        "text": "Objetivo de comunicar nova tecnologia para incorporadoras em Curitiba e expandir reconhecimento de mercado.",
+        "topicId": "67a4fc404e0d040013da4b33"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b3a",
+        "timestamp": 4324,
+        "text": "Luiz enviará proposta formalizada para Gabriel analisar e ajustar.",
+        "topicId": "67a4fc404e0d040013da4b32"
+      },
+      {
+        "segmentId": "67a4fc404e0d040013da4b4e",
+        "timestamp": 4366,
+        "text": "Z2 busca estabelecer parcerias efetivas, não apenas clientes, no mercado imobiliário.",
+        "topicId": "67a4fc404e0d040013da4b36"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "67a4fc404e0d040013da4b32",
+        "order": 1,
+        "title": "Ações e Próximos Passos",
+        "summary": ""
+      },
+      {
+        "id": "67a4fc404e0d040013da4b33",
+        "order": 2,
+        "title": "Apresentação da Tecnologia Órulo",
+        "summary": ""
+      },
+      {
+        "id": "67a4fc404e0d040013da4b34",
+        "order": 3,
+        "title": "Perfil e Histórico da Maquin",
+        "summary": ""
+      },
+      {
+        "id": "67a4fc404e0d040013da4b35",
+        "order": 4,
+        "title": "Estratégia de Comunicação e Inovação",
+        "summary": ""
+      },
+      {
+        "id": "67a4fc404e0d040013da4b36",
+        "order": 5,
+        "title": "Solução Tecnológica Z2",
+        "summary": ""
+      },
+      {
+        "id": "67a4fc404e0d040013da4b37",
+        "order": 6,
+        "title": "Perfil da Maken",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 24,
+    "topic_count": 6,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "67a4fc404e0d040013da4b32",
+      "order": 1,
+      "title": "Ações e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "67a4fc404e0d040013da4b33",
+      "order": 2,
+      "title": "Apresentação da Tecnologia Órulo",
+      "summary": ""
+    },
+    {
+      "id": "67a4fc404e0d040013da4b34",
+      "order": 3,
+      "title": "Perfil e Histórico da Maquin",
+      "summary": ""
+    },
+    {
+      "id": "67a4fc404e0d040013da4b35",
+      "order": 4,
+      "title": "Estratégia de Comunicação e Inovação",
+      "summary": ""
+    },
+    {
+      "id": "67a4fc404e0d040013da4b36",
+      "order": 5,
+      "title": "Solução Tecnológica Z2",
+      "summary": ""
+    },
+    {
+      "id": "67a4fc404e0d040013da4b37",
+      "order": 6,
+      "title": "Perfil da Maken",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:43:39.458474+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:43:39.458474+00:00"
+}

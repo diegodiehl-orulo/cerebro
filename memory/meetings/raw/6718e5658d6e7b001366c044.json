@@ -1,0 +1,40 @@
+{
+  "id": "6718e5658d6e7b001366c044",
+  "happenedAt": "2024-10-23T12:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Carlos Stoppa",
+      "email": "carlos@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "marketing@portocamargo.com.br"
+    },
+    {
+      "name": "",
+      "email": "gabriel.silva@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "giovane@z2app.com.br"
+    }
+  ],
+  "name": "Z2A <> Porto Camargo - Treinamento",
+  "duration": 3940.697,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6718e5658d6e7b001366c044",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "uej-ypdo-vic"
+  }
+}

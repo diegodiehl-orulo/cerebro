@@ -1,0 +1,1422 @@
+{
+  "meeting_id": "68c0802e507e7c001378b1b0",
+  "name": "Órulo <> Opus",
+  "happened_at": "2025-09-09T19:30:00.000Z",
+  "duration_seconds": 3592.504,
+  "duration_minutes": 59.9,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "guilherme.hara@opus.inc"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68c0802e507e7c001378b1b0",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "jst-wndd-djz",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68c0805fe0d55b0013872c35",
+    "meetingId": "68c0802e507e7c001378b1b0",
+    "data": [
+      {
+        "startTime": 185,
+        "endTime": 282,
+        "speaker": "Diego Diehl",
+        "text": "falou alô Eu tô te ouvindo, tá? Windowsd desmonta aí se quiser. Você está sem microfone, talvez."
+      },
+      {
+        "startTime": 282,
+        "endTime": 283,
+        "speaker": "Guilherme Hara",
+        "text": "Olá Diego, tudo bem?"
+      },
+      {
+        "startTime": 283,
+        "endTime": 285,
+        "speaker": "Diego Diehl",
+        "text": "E aí Guilherme?"
+      },
+      {
+        "startTime": 285,
+        "endTime": 289,
+        "speaker": "Guilherme Hara",
+        "text": "Cara não sei porque mas o computador dá uma olhada porque ele tá aparecendo essa mensagem que"
+      },
+      {
+        "startTime": 291,
+        "endTime": 291,
+        "speaker": "Diego Diehl",
+        "text": "Que não a microfone se você quiser entrar sem vídeo pelo computador."
+      },
+      {
+        "startTime": 291,
+        "endTime": 299,
+        "speaker": "Guilherme Hara",
+        "text": "Fica com esse ponto de exclamação. Tudo bem e você?"
+      },
+      {
+        "startTime": 299,
+        "endTime": 337,
+        "speaker": "Diego Diehl",
+        "text": "Aí eu consigo te mostrar alguma coisa na tela, pelo menos fica bom você pode apoiar. É isso sem vídeo sem áudio. Tem que mudar o som do computador. aí Tudo bem Guilherme? Beleza você é o cara dos dados aí."
+      },
+      {
+        "startTime": 337,
+        "endTime": 346,
+        "speaker": "Guilherme Hara",
+        "text": "cara não mas eu tô começando a pegar algumas coisinhas para Começar a desenvolver uma parte de inteligência, né? Então já tem uma"
+      },
+      {
+        "startTime": 346,
+        "endTime": 346,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 347,
+        "endTime": 355,
+        "speaker": "Guilherme Hara",
+        "text": "pessoa que já fica à frente aqui também, mas eu tô tentando dar um suporte na organização das informações, sabe? E aí hoje eu tô no Marketing e Secretaria de vendas então."
+      },
+      {
+        "startTime": 355,
+        "endTime": 356,
+        "speaker": "Diego Diehl",
+        "text": "Você é de que área aí?"
+      },
+      {
+        "startTime": 361,
+        "endTime": 376,
+        "speaker": "Guilherme Hara",
+        "text": "Eu tô começando também a dar uma estudada também, o que que eu consigo olhar para número de fora, né dos concorrentes, mas ainda não com uma visão de dado uma visão ainda muito de mercado mesmo de marketing, sabe? Hoje você fica na frente também do nosso atendimento, como que funciona?"
+      },
+      {
+        "startTime": 377,
+        "endTime": 377,
+        "speaker": "Diego Diehl",
+        "text": "Hoje o quê?"
+      },
+      {
+        "startTime": 378,
+        "endTime": 380,
+        "speaker": "Guilherme Hara",
+        "text": "Hoje você fica à frente do nosso atendimento, é isso?"
+      },
+      {
+        "startTime": 380,
+        "endTime": 408,
+        "speaker": "Diego Diehl",
+        "text": "Não eu sou diretor comercial na hora. Acho que meu contato foi porque eu fiz eu viajo algumas cidades e passo uma duas semanas. trocando uma ideia com o pessoal do mercado para até fugir do Simples aí do ar e o botão faz isso o botão faz aquilo eu passei duas semanas em Goiânia uma vez e eu acho que eu falei cara, se não me falha a memória o nome da pessoa e era Armando não é?"
+      },
+      {
+        "startTime": 409,
+        "endTime": 421,
+        "speaker": "Guilherme Hara",
+        "text": "Era isso mesmo, só que eu falei com o pessoal da hora na época, eu não tava na ops. Eu tava no mercado de Imobiliária. Tava na não e acho que atendimento que foi feito para mim não era você era uma outra pessoa."
+      },
+      {
+        "startTime": 421,
+        "endTime": 448,
+        "speaker": "Diego Diehl",
+        "text": "Ah não, a gente tem 50 pessoas aí aí eu tenho um time de 12 pessoas que têm esse Dr. Tem closer tem o CS que é uma outro time a área de Imobiliária tem um outro time de Imobiliária e tem área de integração. E daí, talvez a gente tá? E daí é um volumaço Imobiliária integração é gratuita a maior parte, né? Então atendimento é um pouquinho mais."
+      },
+      {
+        "startTime": 448,
+        "endTime": 472,
+        "speaker": "Diego Diehl",
+        "text": "Menos Premium assim, né? E aí então tão cara, isso ficou à frente do comercial aqui. E como Goiânia bom, você chegou? Até mim né direto, eu gosto de atender a trocar uma ideia. Eu tô agora expandindo eu tô contratando uma pessoa em Goiânia então provavelmente nos próximos meses eu vou estar por aí, então eu falei ô para Goiânia."
+      },
+      {
+        "startTime": 472,
+        "endTime": 474,
+        "speaker": "Diego Diehl",
+        "text": "Vamos bater um papo."
+      },
+      {
+        "startTime": 474,
+        "endTime": 475,
+        "speaker": "Guilherme Hara",
+        "text": "Show de bola a hora que tiver aí vamos ver se a gente se encontra a gente"
+      },
+      {
+        "startTime": 475,
+        "endTime": 477,
+        "speaker": "Diego Diehl",
+        "text": "então"
+      },
+      {
+        "startTime": 477,
+        "endTime": 478,
+        "speaker": "Guilherme Hara",
+        "text": "conversa com calma também."
+      },
+      {
+        "startTime": 479,
+        "endTime": 491,
+        "speaker": "Diego Diehl",
+        "text": "Certeza e eu posso uma coisa que que eu consigo fazer cara legal e pensando no teu desafio Guilherme até eu tô há 15 anos no mercado fiquei 13 12 incorporadoras."
+      },
+      {
+        "startTime": 491,
+        "endTime": 492,
+        "speaker": "Guilherme Hara",
+        "text": "boa"
+      },
+      {
+        "startTime": 492,
+        "endTime": 510,
+        "speaker": "Diego Diehl",
+        "text": "Numa grande corporador em Curitiba, eu passei pelos desafios que você deve estar passando aí a secretaria de vendas depois marketing depois comercial e uma coisa que eu consigo contribuir às vezes. Por exemplo aqui em São Paulo é 300 incorporadoras usam Nossa inteligência de mercado Incorporadora que vende um piano."
+      },
+      {
+        "startTime": 510,
+        "endTime": 529,
+        "speaker": "Diego Diehl",
+        "text": "Então, a galera já mastigou muito. Já fez muita coisa Às vezes uma troca de ideia com alguém de mercado para ver o que faz um benchmark. Pode ser bom também, então ficou à disposição e por alguma ponte alguma coisa. Acho que é sempre válido aí a gente conectar o mercado, né?"
+      },
+      {
+        "startTime": 530,
+        "endTime": 547,
+        "speaker": "Guilherme Hara",
+        "text": "Exatamente porque assim cara, eu tô nessa mesma situação com você, então vamos lá que você relatou na aqui na Opus, ela tá mais ou menos com esse patamar aí de ggv hoje, conheça um pouquinho do mercado imobiliário, mas assim como outras visões, né? E agora para a visão do incorporador."
+      },
+      {
+        "startTime": 547,
+        "endTime": 562,
+        "speaker": "Guilherme Hara",
+        "text": "Que que eu já conheço essa hora eu sei que tem algumas outras ferramentas que eu não vi no nosso pacote então assim que que eu vi é. Mais primeiro que eu por parte, né em algum lugar lá que eu via de algum diretório eu conseguia verso."
+      },
+      {
+        "startTime": 562,
+        "endTime": 564,
+        "speaker": "Diego Diehl",
+        "text": "Sim, você não Acessou a inteligência de mercado ainda."
+      },
+      {
+        "startTime": 565,
+        "endTime": 567,
+        "speaker": "Guilherme Hara",
+        "text": "já mas não aqui na"
+      },
+      {
+        "startTime": 569,
+        "endTime": 577,
+        "speaker": "Diego Diehl",
+        "text": "Essa aqui ó. com 40 páginas de piá e Goiânia e tal não"
+      },
+      {
+        "startTime": 578,
+        "endTime": 583,
+        "speaker": "Guilherme Hara",
+        "text": "Isso mas esse aqui eu não achei no nosso processo."
+      },
+      {
+        "startTime": 585,
+        "endTime": 597,
+        "speaker": "Diego Diehl",
+        "text": "Ah não mas é até na Opus tirando um contexto de óculos tá para você saber eu. Cara, eu visitei as grandes aí, né? Até aqui ó, tem um print aqui, ó."
+      },
+      {
+        "startTime": 599,
+        "endTime": 602,
+        "speaker": "Guilherme Hara",
+        "text": "Você consegue acessar o meu diretor aí da óculos aí?"
+      },
+      {
+        "startTime": 605,
+        "endTime": 607,
+        "speaker": "Diego Diehl",
+        "text": "Tinha aberto aqui já a álcool está aqui ó."
+      },
+      {
+        "startTime": 610,
+        "endTime": 613,
+        "speaker": "Guilherme Hara",
+        "text": "E onde você entra nessa parte inteligência porque eu não achei aqui."
+      },
+      {
+        "startTime": 613,
+        "endTime": 624,
+        "speaker": "Diego Diehl",
+        "text": "É aqui ó, a área do cliente, eu não sei se está como usuário a gente já vê já resolve. Tem a parte de inteligência. Vai estar liberado."
+      },
+      {
+        "startTime": 626,
+        "endTime": 627,
+        "speaker": "Guilherme Hara",
+        "text": "Uma trava painel e m Grande Goiânia, é isso?"
+      },
+      {
+        "startTime": 627,
+        "endTime": 634,
+        "speaker": "Diego Diehl",
+        "text": "achou isso"
+      },
+      {
+        "startTime": 637,
+        "endTime": 639,
+        "speaker": "Guilherme Hara",
+        "text": "Então, era só faltava esse detalhe."
+      },
+      {
+        "startTime": 640,
+        "endTime": 652,
+        "speaker": "Diego Diehl",
+        "text": "Cara, aí ó. Deixa eu aproveitar dar uma só um overview para você. Para você ganhar tempo Vou te mostrar aqui, ó. Cadê aquele botão?"
+      },
+      {
+        "startTime": 656,
+        "endTime": 657,
+        "speaker": "Guilherme Hara",
+        "text": "Boa eu consigo fazer por exemplo assim, deixa eu ver onde que se abrir."
+      },
+      {
+        "startTime": 657,
+        "endTime": 677,
+        "speaker": "Diego Diehl",
+        "text": "então, ó, a gente tem essas 40 páginas aqui ó, ela é dividida por Tem essa parte aqui que a listagem completa que cara, quando você quiser olhar no detalhe cada empreendimento cada tipologia, porque eu gosto de trazer cara que não adianta você falar que o empreendimento é um sucesso."
+      },
+      {
+        "startTime": 677,
+        "endTime": 696,
+        "speaker": "Diego Diehl",
+        "text": "Ah, vendeu? Metade vai que vendeu tudo de uma tipologia e a outra tipologia não vendeu nada. Você quer saber o detalhe do detalhe do detalhe, né? Então você pode ver aqui tem uma parte grande de lança, o primeiro bloco é lançamentos. E aí sempre segue um padrão unidade dormitório."
+      },
+      {
+        "startTime": 696,
+        "endTime": 717,
+        "speaker": "Diego Diehl",
+        "text": "Veja bem dormitório bairro em unidade, bairro Incorporadora vgv bairro Incorporadora, então é lançamentos vendas estoque E aí os índices de velocidade de venda. tá Você pode clicar aqui na no númerozinho aqui, ó das páginas, tá vendo?"
+      },
+      {
+        "startTime": 717,
+        "endTime": 724,
+        "speaker": "Guilherme Hara",
+        "text": "Isso eu cliquei mas aí deixa eu ver. Ele não abriu esse menu lateral aí?"
+      },
+      {
+        "startTime": 725,
+        "endTime": 735,
+        "speaker": "Diego Diehl",
+        "text": "Ah não lateral é na esquerda aqui, ó. É quando eu coloco um free stream. É a mesma coisa, mas é visualizações diferentes."
+      },
+      {
+        "startTime": 735,
+        "endTime": 743,
+        "speaker": "Guilherme Hara",
+        "text": "Beleza vou dar uma fuçada aí tira uma dúvida, por exemplo, Diego eu consigo colocar por exemplo os meus Empreendimentos baseado com outros Empreendimentos que eu selecionar."
+      },
+      {
+        "startTime": 744,
+        "endTime": 747,
+        "speaker": "Diego Diehl",
+        "text": "Consegue aqui ó?"
+      },
+      {
+        "startTime": 747,
+        "endTime": 749,
+        "speaker": "Guilherme Hara",
+        "text": "sim"
+      },
+      {
+        "startTime": 749,
+        "endTime": 777,
+        "speaker": "Diego Diehl",
+        "text": "Sabia que você falasse todo mundo fala baixo Setor Marista então aqui ó, você pode olhar caramba subiu o preço, hein? Ó batendo 14 mais Goiânia, ainda tá num preço baixo comparado a geral, sabia? Estoque é aqui ó, bairro. Eu posso ver aqui daí tem um período aqui. Ó, essa partezinha da esquerda é tudo filtro, então aqui tá sentado outubro de 24, bota agosto."
+      },
+      {
+        "startTime": 777,
+        "endTime": 820,
+        "speaker": "Diego Diehl",
+        "text": "Agosto Quem Tem estoque aqui. Você já viu? FR Souza tá tá tá tá aí uma vantagem legal que você fala assim, cara, na verdade. O meu BO é cara três quartos, aí você filtra três quartos, então o diferencial do nosso dado Guilherme é que ele é todo. Você trabalha com dados né? Sabe que o desafio tem uma base boa, vamos trabalhar foi organizar a base para você ter tudo por tipologia, então você pode filtrar tudo que é estoque preço venda tudo por tipologia que você quiser então ó, tá com 2.5 bi em estoque no Setor Marista."
+      },
+      {
+        "startTime": 820,
+        "endTime": 832,
+        "speaker": "Diego Diehl",
+        "text": "Daí eu posso que é também então ah, o que que tem mais estoque, olha que louco os compactos bombando aqui ó, tipo por unidade vai ficar mais estourado ainda."
+      },
+      {
+        "startTime": 833,
+        "endTime": 834,
+        "speaker": "Guilherme Hara",
+        "text": "Boa boa não tava achando esse negócio. Eu sabia que tinha mas não tava"
+      },
+      {
+        "startTime": 834,
+        "endTime": 835,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó"
+      },
+      {
+        "startTime": 836,
+        "endTime": 838,
+        "speaker": "Guilherme Hara",
+        "text": "achando agora que me mostrou que eu vou dar uma forçada boa agora."
+      },
+      {
+        "startTime": 840,
+        "endTime": 858,
+        "speaker": "Diego Diehl",
+        "text": "Na verdade em vgv da quatro os quatro dormitórios, né? Mas em unidade você consegue ver um comportamento aqui, ó, como é que tá o comportamento por dormitório daí sempre o último mês. Ele vai estar caindo assim, porque a gente acabou de começar Setembro. A gente não terminou de atualizar tudo é exato do final do mês ele fica completo,"
+      },
+      {
+        "startTime": 858,
+        "endTime": 858,
+        "speaker": "Guilherme Hara",
+        "text": "Ele é proporcional."
+      },
+      {
+        "startTime": 862,
+        "endTime": 886,
+        "speaker": "Diego Diehl",
+        "text": "cara. E você brinca várias dá para selecionar período faz de obra dormitório e tal. Várias análises aí para tirar o e daí dá para ver velocidade de venda, né? Eu gosto de ver uma matemática que eu gosto fazendo rápido. Eu gosto de ver estoque e eu seleciono rapidinho aqui ó, um dois três quatro cinco seis, sei lá seis meses."
+      },
+      {
+        "startTime": 886,
+        "endTime": 900,
+        "speaker": "Diego Diehl",
+        "text": "Ó ficou estável que quase em dois pontos 35 bi de média, né? 2.5 35 bit de média e aí é bom ou é ruim, né? A gente vai em Venda e ver o mesmo fator 1.5 bi."
+      },
+      {
+        "startTime": 900,
+        "endTime": 901,
+        "speaker": "Guilherme Hara",
+        "text": "boa"
+      },
+      {
+        "startTime": 901,
+        "endTime": 913,
+        "speaker": "Diego Diehl",
+        "text": "Cara vendeu mais da metade do estoque em seis meses ou seja o vso tá quase o ivv na verdade está para 12 meses, né em 12 meses e que nesse estoque se continuar nessa velocidade, mas começa."
+      },
+      {
+        "startTime": 913,
+        "endTime": 918,
+        "speaker": "Guilherme Hara",
+        "text": "Mas você tem que colocar o lançamento junto, né? Que é o estoque mais lançamento."
+      },
+      {
+        "startTime": 918,
+        "endTime": 927,
+        "speaker": "Diego Diehl",
+        "text": "É que aqui essa parte do lançamento stock é um termo que o mercado distorção tudo que tá à venda a gente chama de estoque tudo."
+      },
+      {
+        "startTime": 928,
+        "endTime": 929,
+        "speaker": "Guilherme Hara",
+        "text": "Ah tá, tá."
+      },
+      {
+        "startTime": 929,
+        "endTime": 932,
+        "speaker": "Diego Diehl",
+        "text": "Aí você pode filtrar por data de lançamento."
+      },
+      {
+        "startTime": 932,
+        "endTime": 935,
+        "speaker": "Guilherme Hara",
+        "text": "Entendi se ele é lançamento remanescente para você não importa."
+      },
+      {
+        "startTime": 935,
+        "endTime": 938,
+        "speaker": "Diego Diehl",
+        "text": "É que tudo é a venda tudo que tá vendo é estoque."
+      },
+      {
+        "startTime": 939,
+        "endTime": 942,
+        "speaker": "Guilherme Hara",
+        "text": "Mas e se for produto que ainda vai ser construído, você já considera ele como estoque."
+      },
+      {
+        "startTime": 944,
+        "endTime": 946,
+        "speaker": "Diego Diehl",
+        "text": "Se tá vendo se tá na vitrine é estoque."
+      },
+      {
+        "startTime": 946,
+        "endTime": 947,
+        "speaker": "Guilherme Hara",
+        "text": "Mesmo que ainda não foi entregue."
+      },
+      {
+        "startTime": 947,
+        "endTime": 960,
+        "speaker": "Diego Diehl",
+        "text": "só que daí Daí daí tem esses dois fatores aqui. Ó, tem fase da obra se tá em lançamento que é lançou, mas não começou a obra. Lançou está em obra ou tá pronto, aí você começa a ver por exemplo. Será"
+      },
+      {
+        "startTime": 960,
+        "endTime": 961,
+        "speaker": "Guilherme Hara",
+        "text": "certo"
+      },
+      {
+        "startTime": 962,
+        "endTime": 984,
+        "speaker": "Diego Diehl",
+        "text": "que tem Será que vendeu pronto ó vendeu pouco pronto 76 milhões. Vamos ver o estoque de pronto. Ó 05 bi cara é bastante. Bastante e bastante mas eu tô olhando rápido que eu olha quase todo dia, né? Mas você começa a fazer comparativos do que é Ah é muito é pouco."
+      },
+      {
+        "startTime": 984,
+        "endTime": 987,
+        "speaker": "Diego Diehl",
+        "text": "Depende né? Depende. Depende tudo. Depende né?"
+      },
+      {
+        "startTime": 987,
+        "endTime": 997,
+        "speaker": "Guilherme Hara",
+        "text": "Quando você faz aquela parte dos mapas ali embaixo que eu também que aí já tem os mapas também. Eu consigo isso eu consigo por exemplo na geolocalização"
+      },
+      {
+        "startTime": 997,
+        "endTime": 997,
+        "speaker": "Diego Diehl",
+        "text": "aqui"
+      },
+      {
+        "startTime": 999,
+        "endTime": 1003,
+        "speaker": "Guilherme Hara",
+        "text": "filtrar só dois players, por exemplo. Quero comprar dois em dois"
+      },
+      {
+        "startTime": 1003,
+        "endTime": 1003,
+        "speaker": "Diego Diehl",
+        "text": "Por exemplo. Só dois incorporadores. Eu quero comparar City e óculos."
+      },
+      {
+        "startTime": 1003,
+        "endTime": 1011,
+        "speaker": "Guilherme Hara",
+        "text": "incorporadores. boa"
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1037,
+        "speaker": "Diego Diehl",
+        "text": "Você filtra por Incorporadora por empreendimento aí é legal que finalidade se é vertical horizontal dá para filtrar aqui também que às vezes as cobertura do Plex Studio torce um pouco gráfico, né? Aí não quero saber só padrãozão apartamento ou quero saber como é que tá de cobertura. Ó, nem tem estoque é nem tem cobertura."
+      },
+      {
+        "startTime": 1037,
+        "endTime": 1037,
+        "speaker": "Guilherme Hara",
+        "text": "duplex"
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1046,
+        "speaker": "Diego Diehl",
+        "text": "É a cobertura do Plex tem? Mas ó é a mesma talvez daí você vai a facilidade. Isso é essa brincadeira."
+      },
+      {
+        "startTime": 1046,
+        "endTime": 1049,
+        "speaker": "Guilherme Hara",
+        "text": "E ela já projeta nos mapas."
+      },
+      {
+        "startTime": 1049,
+        "endTime": 1050,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente exatamente então se eu botar aqui a cobertura do plexo. O que é que"
+      },
+      {
+        "startTime": 1050,
+        "endTime": 1050,
+        "speaker": "Guilherme Hara",
+        "text": "boa"
+      },
+      {
+        "startTime": 1053,
+        "endTime": 1060,
+        "speaker": "Diego Diehl",
+        "text": "tem? Aqui eu botei vários meses de estoque, né da proporção a gosto."
+      },
+      {
+        "startTime": 1061,
+        "endTime": 1062,
+        "speaker": "Guilherme Hara",
+        "text": "boa"
+      },
+      {
+        "startTime": 1062,
+        "endTime": 1086,
+        "speaker": "Diego Diehl",
+        "text": "Daí você vê aqui, ó, Setor Marista Incorporadora consciente empreendimento alto. Aí você vai brincando dá para dá para crescer aqui o mapa também ó, aí você já vai específico. Quando lançou quando que entrega eu deixei pronto aqui não mas ela tá pronto. A cobertura então para você entender só a visão geral o Guilherme."
+      },
+      {
+        "startTime": 1086,
+        "endTime": 1093,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem essas o tempo, talvez não esteja habilitado o catálogo. Que é de moto justamente?"
+      },
+      {
+        "startTime": 1094,
+        "endTime": 1094,
+        "speaker": "Guilherme Hara",
+        "text": "Não não tá não."
+      },
+      {
+        "startTime": 1095,
+        "endTime": 1120,
+        "speaker": "Diego Diehl",
+        "text": "É que essa parte é de Imobiliária, o resto deve estar habilitado. Então eu ia contar quando foi falar com o armando aí o Armando falou não cara, eu Eu só quero e ele eu só quero isso eu falei cara, mas o nosso plano só existe um e ele potencializa marketing vendas e novos negócios e dados."
+      },
+      {
+        "startTime": 1120,
+        "endTime": 1147,
+        "speaker": "Diego Diehl",
+        "text": "Dele não não daí eu negociei negociando vocês. Cheguei no valor, eu acho que vocês estão aqui. Deixa eu ver até Vocês estão com caras estão com vários produtos, né viagens propostos. Uma coisa bacana também, você dá um cheque se tá todos os produtos estão deixando de divulgar ativos, a gente tem 32 Empreendimentos, aí tem uns que divide torre a torre B."
+      },
+      {
+        "startTime": 1149,
+        "endTime": 1151,
+        "speaker": "Guilherme Hara",
+        "text": "Mesmo que já tenha Zerado stock se considera ele aqui."
+      },
+      {
+        "startTime": 1152,
+        "endTime": 1154,
+        "speaker": "Diego Diehl",
+        "text": "Não ativa com estoque."
+      },
+      {
+        "startTime": 1155,
+        "endTime": 1157,
+        "speaker": "Guilherme Hara",
+        "text": "Sem estoque, ele sai da base ativa."
+      },
+      {
+        "startTime": 1157,
+        "endTime": 1161,
+        "speaker": "Diego Diehl",
+        "text": "É que esse aqui eu uso para fazer proposta, né? Então esse BT que abri dois né home Offices."
+      },
+      {
+        "startTime": 1161,
+        "endTime": 1164,
+        "speaker": "Guilherme Hara",
+        "text": "isso"
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1176,
+        "speaker": "Diego Diehl",
+        "text": "Aí assim vai ter louro e reserva quebrado. Aí aqui a gente vê ó. Vocês estão com 32 o contexto que ele te dá rapidinho ó 32."
+      },
+      {
+        "startTime": 1177,
+        "endTime": 1178,
+        "speaker": "Guilherme Hara",
+        "text": "isso"
+      },
+      {
+        "startTime": 1178,
+        "endTime": 1205,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho cara que eu fiz o plano aí para o Armando sei lá 1800 2000 algo assim. Que vocês a galera paga só precisa saber de base que tá a galera paga 32 produtos paga r$ 5000 5.500 não são usados porque tava abrindo a praça eu falei Armando toca o barco aí Experimenta vocês vão curtir um site que eu ia trazer."
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1243,
+        "speaker": "Diego Diehl",
+        "text": "Só se você quiser cutucar alguém aí do comercial, cara. A gente tem se vocês têm esses dados aqui, né? Tipo, como vocês são clientes pagantes? Por exemplo, você tem um produto. Cora aqui casa Opus, ó 36 corretores 69 corretores acessaram 49 corretores 76 corretores. Esse é uma linha que aqui em São Paulo, por exemplo, muita gente trabalha ao invés de pegar o carro e um monte de Imobiliária bem louco visitar o cara ataca o corretor Sniper que às vezes você tem uma imobiliária com 30 corretores."
+      },
+      {
+        "startTime": 1243,
+        "endTime": 1251,
+        "speaker": "Diego Diehl",
+        "text": "Mas três corretores só trabalham aquele nicho de produto que você tem. Aí o cara consegue nome para você saber."
+      },
+      {
+        "startTime": 1251,
+        "endTime": 1252,
+        "speaker": "Guilherme Hara",
+        "text": "Mas eu não tô vendo esse corretor aqui não, mano."
+      },
+      {
+        "startTime": 1254,
+        "endTime": 1255,
+        "speaker": "Diego Diehl",
+        "text": "Aonde você tá?"
+      },
+      {
+        "startTime": 1255,
+        "endTime": 1256,
+        "speaker": "Guilherme Hara",
+        "text": "A via que é esses corretores mais ativos."
+      },
+      {
+        "startTime": 1258,
+        "endTime": 1259,
+        "speaker": "Diego Diehl",
+        "text": "Na aba de desempenho, né?"
+      },
+      {
+        "startTime": 1260,
+        "endTime": 1265,
+        "speaker": "Guilherme Hara",
+        "text": "Meus produtos e vi lá, por exemplo assim, ó arqueópole aí tá vendo?"
+      },
+      {
+        "startTime": 1267,
+        "endTime": 1267,
+        "speaker": "Diego Diehl",
+        "text": "Você foi ver aqui."
+      },
+      {
+        "startTime": 1269,
+        "endTime": 1270,
+        "speaker": "Guilherme Hara",
+        "text": "ver detalhes em baixo"
+      },
+      {
+        "startTime": 1271,
+        "endTime": 1273,
+        "speaker": "Diego Diehl",
+        "text": "Isso esse ouro."
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1280,
+        "speaker": "Guilherme Hara",
+        "text": "é clica aí Então mas os corretores que Olharam nos 35, ele listra."
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1282,
+        "speaker": "Diego Diehl",
+        "text": "Vai mais para baixo vai mais para baixo."
+      },
+      {
+        "startTime": 1284,
+        "endTime": 1286,
+        "speaker": "Guilherme Hara",
+        "text": "Então essa lista aqui embaixo que aparece."
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1310,
+        "speaker": "Diego Diehl",
+        "text": "Essa essa lista cara, qual que é o flip que a gente dá tá Guilherme? É você consegue ver audiência ali, né? Nessa parte de grupo de concorrentes. Ah, eu não tô compartilhando ela certo aqui, ó. Nessa parte de grupo de concorrentes Guilherme. Qual que é o ouro que a galera do comercial USA? Você pode por cinco concorrentes aqui da região."
+      },
+      {
+        "startTime": 1311,
+        "endTime": 1312,
+        "speaker": "Guilherme Hara",
+        "text": "noite dos corretores concorrentes"
+      },
+      {
+        "startTime": 1312,
+        "endTime": 1339,
+        "speaker": "Diego Diehl",
+        "text": "Certo, já sai essa tabelinha tosca aqui, mas às vezes você bate o olho já tem uma noção, você já bate o olho indicadores importantes, quanto vendeu em um mês dois meses três meses três meses, como que tá o vso? Qual que tá o preço médio? Qual que tá o estoque é válido? Às vezes você fazer uma leitura rápida, só que o que que isso gera? A gente cria um grupo isso aqui vira um grupo então esses cinco Empreendimentos viram um grupo."
+      },
+      {
+        "startTime": 1339,
+        "endTime": 1357,
+        "speaker": "Diego Diehl",
+        "text": "E aí embaixo dos corretores mais ativos eu falo assim, cara. Quem são os corretores que estão? Acessando Esses prédios aí que são meio parecidos, por exemplo se tem um lançamento sistema um produto aí que é pouco mais específico três quartos com três suítes na região tal cara, tem três concorrentes na região."
+      },
+      {
+        "startTime": 1357,
+        "endTime": 1371,
+        "speaker": "Diego Diehl",
+        "text": "Você concorda com o corretor que tá abrindo os quatro produtos a tendência. Esse cara é ter um cliente. Ele tá procurando. E a Incorporadora fazer um trabalho proativo com esse corretor, né de pegar e falar e aí falou. Tá vendo que minha tela?"
+      },
+      {
+        "startTime": 1372,
+        "endTime": 1373,
+        "speaker": "Guilherme Hara",
+        "text": "Mas como você chegou no grupo de concorrentes?"
+      },
+      {
+        "startTime": 1373,
+        "endTime": 1384,
+        "speaker": "Diego Diehl",
+        "text": "Então aqui ó, eu botei o grupo no grupo de concorrentes. Só adiciono concorrente certo. Lá no ver no ver detalhes."
+      },
+      {
+        "startTime": 1384,
+        "endTime": 1389,
+        "speaker": "Guilherme Hara",
+        "text": "a desempenho Peguei peguei."
+      },
+      {
+        "startTime": 1390,
+        "endTime": 1399,
+        "speaker": "Diego Diehl",
+        "text": "Aí você adiciona concorrente que isso aqui é união de diretoria algo assim exercer, só abre essa tabelinha aqui, cara, já é um opa."
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1400,
+        "speaker": "Guilherme Hara",
+        "text": "E eu posso trocar a hora que eu quiser."
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1407,
+        "speaker": "Diego Diehl",
+        "text": "A gente consegue. Trocar a hora que você quiser cada vez que você troca uma vez na semana atualiza os corretores mais ativos."
+      },
+      {
+        "startTime": 1407,
+        "endTime": 1410,
+        "speaker": "Guilherme Hara",
+        "text": "animal velho"
+      },
+      {
+        "startTime": 1410,
+        "endTime": 1433,
+        "speaker": "Diego Diehl",
+        "text": "Isso aqui a gente serve o mercado para que a Ó tipo o corretor ele quer ser acionado por incorporadoras relevantes, né? O cara tá trabalhando alto padrão, chega lá na imobiliária dele uma incorporadora da minha casa, minha vida querendo divulgar campanhas. Fala meu irmão. Desculpa, não quero te ouvir muito, eu quero pô, tô no foco aqui isso aqui a gente traz assertividade para Incorporadora."
+      },
+      {
+        "startTime": 1433,
+        "endTime": 1444,
+        "speaker": "Diego Diehl",
+        "text": "Então você vir aqui ó, Eric. Que trabalha para caramba esse grupo de concorrentes. Aí eu clico aqui ó. Tem lá o nome telefone dele para eu dar um oi para ele."
+      },
+      {
+        "startTime": 1444,
+        "endTime": 1446,
+        "speaker": "Guilherme Hara",
+        "text": "Caraca animal"
+      },
+      {
+        "startTime": 1448,
+        "endTime": 1473,
+        "speaker": "Diego Diehl",
+        "text": "Tive uma última coisa. Ah daí só precisa saber uma última parada que isso aqui eu acho que nadão você deve ter entendido isso aqui. Ó tá vendo essas aqui ó, 159 imobiliárias integradas. 156 155, você falou que é de Mob né? Já foi né de Imobiliária, né? A imobiliária ela precisa Popular o CRM dela de lançamentos."
+      },
+      {
+        "startTime": 1473,
+        "endTime": 1491,
+        "speaker": "Diego Diehl",
+        "text": "E às vezes ela tem que ficar pondo uma pessoa para cadastrar para atualizar para nutrir o site nutrir os portais isso aqui ó, a gente tá entregando o produto de vocês para 159 Imobiliários. Inclusive para imobiliária de fora de Goiânia."
+      },
+      {
+        "startTime": 1491,
+        "endTime": 1492,
+        "speaker": "Guilherme Hara",
+        "text": "através"
+      },
+      {
+        "startTime": 1493,
+        "endTime": 1496,
+        "speaker": "Diego Diehl",
+        "text": "através da api com o CRM exatamente"
+      },
+      {
+        "startTime": 1497,
+        "endTime": 1502,
+        "speaker": "Guilherme Hara",
+        "text": "Show O que que é o de cima, mano?"
+      },
+      {
+        "startTime": 1505,
+        "endTime": 1528,
+        "speaker": "Diego Diehl",
+        "text": "Tá vendo que tem um foguinho ali. Ah você tá Deixa eu te mostrar. Olha o meu aqui, eu vou te mostrar uma incorporadora que usa isso. Acho que a Bambuí tá usando produto arregaçando isso aqui, ó. Tá vendo esse Aris Marista aqui ó. Que que ela fez aqui ela botou cinco concorrentes."
+      },
+      {
+        "startTime": 1528,
+        "endTime": 1529,
+        "speaker": "Guilherme Hara",
+        "text": "Ah tá."
+      },
+      {
+        "startTime": 1529,
+        "endTime": 1551,
+        "speaker": "Diego Diehl",
+        "text": "Certo e a gente tem um indicador que é o cão visualizado, tá sendo esse teu produto. O quanto estão fazendo download o quanto estão mandando coisa? Por exemplo, tem gente que só deixa a tabela e apresentação tem gente que não deixa nem a apresentação Velho deu o corretor não tem nenhum que baixar."
+      },
+      {
+        "startTime": 1551,
+        "endTime": 1561,
+        "speaker": "Diego Diehl",
+        "text": "Se você deixa mais elementos lá? Cada vez que o corretor baixa alguma coisa acessa ele ranqueia a Opus na órgão. E aí a ópticos."
+      },
+      {
+        "startTime": 1561,
+        "endTime": 1562,
+        "speaker": "Guilherme Hara",
+        "text": "Peguei peguei peguei e tira uma dúvida agora, beleza? Tô olhando aqui a sua"
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1562,
+        "speaker": "Diego Diehl",
+        "text": "Deu para entender"
+      },
+      {
+        "startTime": 1565,
+        "endTime": 1573,
+        "speaker": "Guilherme Hara",
+        "text": "tela aí por exemplo, eu só consigo rankear e colocar concorrente empreendimento. Eu não consigo colocar grupos, né? Incorporador."
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1586,
+        "speaker": "Diego Diehl",
+        "text": "Não porque daí meio que perde o sentido, né, Incorporadora trabalha adversidade muitas vezes, né? Fica menos assertivo, mas você pode para cada empreendimento colocar os concorrentes do empreendimento."
+      },
+      {
+        "startTime": 1587,
+        "endTime": 1596,
+        "speaker": "Guilherme Hara",
+        "text": "Ah entendi, agora ficou mais tarde achei que era aquela lista de 5 era só do incorporador, mas é cada cinco tem."
+      },
+      {
+        "startTime": 1596,
+        "endTime": 1598,
+        "speaker": "Diego Diehl",
+        "text": "Não cada empreendimento você pode escolher cinco."
+      },
+      {
+        "startTime": 1598,
+        "endTime": 1600,
+        "speaker": "Guilherme Hara",
+        "text": "Não animal, gostei show de bola."
+      },
+      {
+        "startTime": 1600,
+        "endTime": 1607,
+        "speaker": "Diego Diehl",
+        "text": "Porque a gente sabe né, cara de uma forma prática no mercado ali, você concorre com três quatro mesmo mesmo, né? Não concorre com 30."
+      },
+      {
+        "startTime": 1607,
+        "endTime": 1607,
+        "speaker": "Guilherme Hara",
+        "text": "sim"
+      },
+      {
+        "startTime": 1610,
+        "endTime": 1610,
+        "speaker": "Diego Diehl",
+        "text": "Claro dá para expandir aí o último ponto aqui, ó, só para você bater o"
+      },
+      {
+        "startTime": 1610,
+        "endTime": 1611,
+        "speaker": "Guilherme Hara",
+        "text": "Não animal."
+      },
+      {
+        "startTime": 1615,
+        "endTime": 1627,
+        "speaker": "Diego Diehl",
+        "text": "olho em Goiânia, porque Como é Praça Nova e às vezes a galera fica Ah, mas tem gente usando mas não sei o quê aí só para você bater o olho nesse gráfico aqui é o gráfico de usuários em Goiânia."
+      },
+      {
+        "startTime": 1627,
+        "endTime": 1631,
+        "speaker": "Guilherme Hara",
+        "text": "Ia perguntar isso aí são corretores que usam uma ferramenta."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1639,
+        "speaker": "Diego Diehl",
+        "text": "Cara 90% é corretor, mas tem também os usuários Incorporadora que querem enxergar o mapa, né? Tipo você aí vai ter um usuário ali, né?"
+      },
+      {
+        "startTime": 1639,
+        "endTime": 1645,
+        "speaker": "Guilherme Hara",
+        "text": "O corretor que o corretor acessar isso aqui ele precisa ter um acesso pago"
+      },
+      {
+        "startTime": 1645,
+        "endTime": 1660,
+        "speaker": "Diego Diehl",
+        "text": "Eu separo. Eu separo aqui é por isso que eu falei 85% 90 vira corretor e cara todo mês ó 4.100 3.900 3.800 3.700 todo mês não para velho, é."
+      },
+      {
+        "startTime": 1664,
+        "endTime": 1664,
+        "speaker": "Guilherme Hara",
+        "text": "também."
+      },
+      {
+        "startTime": 1665,
+        "endTime": 1674,
+        "speaker": "Diego Diehl",
+        "text": "Não não não o nosso Business cara, ele explode é que Goiânia é uma praça relativamente um pouco mais nova. A gente vai explorar ela daqui a pouco mesmo."
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1674,
+        "speaker": "Guilherme Hara",
+        "text": "tem"
+      },
+      {
+        "startTime": 1675,
+        "endTime": 1682,
+        "speaker": "Diego Diehl",
+        "text": "Mas tipo é grato. Pensa um corretor. Ah você trabalhava na dão. Como é que você pesquisava o lançamento?"
+      },
+      {
+        "startTime": 1682,
+        "endTime": 1683,
+        "speaker": "Guilherme Hara",
+        "text": "Isso dá mais site."
+      },
+      {
+        "startTime": 1684,
+        "endTime": 1687,
+        "speaker": "Diego Diehl",
+        "text": "Bota tipologia que pode mudar depois f***-se não vai preço."
+      },
+      {
+        "startTime": 1687,
+        "endTime": 1709,
+        "speaker": "Guilherme Hara",
+        "text": "E você tem lançamento aqui também próximos lançamentos. esses"
+      },
+      {
+        "startTime": 1709,
+        "endTime": 1724,
+        "speaker": "Diego Diehl",
+        "text": "E aí você começa já a comunicar o corretor o corretor de entrar em contato já começa a falar. Opa, o que que vai vir o que que não vai?"
+      },
+      {
+        "startTime": 1724,
+        "endTime": 1726,
+        "speaker": "Guilherme Hara",
+        "text": "O problema é que eles pegam muito por causa da"
+      },
+      {
+        "startTime": 1727,
+        "endTime": 1731,
+        "speaker": "Diego Diehl",
+        "text": "Do que não mas é que você não tá vendendo, você tá avisando o corretor."
+      },
+      {
+        "startTime": 1732,
+        "endTime": 1733,
+        "speaker": "Guilherme Hara",
+        "text": "Que vai ter o lançamento, né?"
+      },
+      {
+        "startTime": 1733,
+        "endTime": 1739,
+        "speaker": "Diego Diehl",
+        "text": "Que vai ver. Ah, daí eu não intego esse teu produto na imobiliária porque ela na imobiliária não pode anunciar sem rir, né?"
+      },
+      {
+        "startTime": 1739,
+        "endTime": 1739,
+        "speaker": "Guilherme Hara",
+        "text": "isso"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1751,
+        "speaker": "Diego Diehl",
+        "text": "Mas o corretor tá com cliente e o cara sabe que daqui três meses vem o produto ele fala cara. Ele já já diminuiu o trabalho do boca-a-boca Absurdo, né? Que às vezes é meio limitado, né?"
+      },
+      {
+        "startTime": 1752,
+        "endTime": 1755,
+        "speaker": "Guilherme Hara",
+        "text": "Exato ficou muito show cara, gostei."
+      },
+      {
+        "startTime": 1757,
+        "endTime": 1757,
+        "speaker": "Diego Diehl",
+        "text": "show"
+      },
+      {
+        "startTime": 1758,
+        "endTime": 1758,
+        "speaker": "Guilherme Hara",
+        "text": "Gostei."
+      },
+      {
+        "startTime": 1761,
+        "endTime": 1770,
+        "speaker": "Diego Diehl",
+        "text": "É precisando de algo assim ó meu diagnóstico da Opus. Vocês têm uma Deixa eu pensar Você cozinha. O que que você faz da vida? O que que você gosta?"
+      },
+      {
+        "startTime": 1770,
+        "endTime": 1772,
+        "speaker": "Guilherme Hara",
+        "text": "Mas fala aí, fala aí, qual que é analogia."
+      },
+      {
+        "startTime": 1772,
+        "endTime": 1780,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá. Pensa num pescador velho, vocês estão vocês compraram um barco da"
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1783,
+        "speaker": "Guilherme Hara",
+        "text": "Mas eu posso passar o mesmo login e senha que eu uso para o comercial porque"
+      },
+      {
+        "startTime": 1783,
+        "endTime": 1805,
+        "speaker": "Diego Diehl",
+        "text": "hora, vocês estão no barco de vocês e a gente entregou o equipamentos para vocês, vocês têm um molinete uma linha de fundo e uma rede. A rede está dentro do barco parada, ninguém tá usando. E você só tá usando inteligência de mercado. Para o teu comercial usar isso aqui é assim."
+      },
+      {
+        "startTime": 1805,
+        "endTime": 1807,
+        "speaker": "Diego Diehl",
+        "text": "A gente tá aberto, tá? Tipo."
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1816,
+        "speaker": "Guilherme Hara",
+        "text": "assim eu tenho medo deles começarem a mexer na análise e bagunçar tudo ou não?"
+      },
+      {
+        "startTime": 1817,
+        "endTime": 1827,
+        "speaker": "Diego Diehl",
+        "text": "Não cara, você a gente tem função leitor editor e administrador você pode por quantos usuários você quiser, cara."
+      },
+      {
+        "startTime": 1828,
+        "endTime": 1829,
+        "speaker": "Guilherme Hara",
+        "text": "Ah tive isso aí, então, não sei como é que eu faço para colocar o comercial"
+      },
+      {
+        "startTime": 1829,
+        "endTime": 1831,
+        "speaker": "Diego Diehl",
+        "text": "O que que a galera faz a gente pode marcar um treinamento que meu time de cs e"
+      },
+      {
+        "startTime": 1831,
+        "endTime": 1836,
+        "speaker": "Guilherme Hara",
+        "text": "aqui. boa"
+      },
+      {
+        "startTime": 1836,
+        "endTime": 1849,
+        "speaker": "Diego Diehl",
+        "text": "aí o time já indica. Olha o que que os cara que de São Paulo fazem tá vou te mostrar na prática, eles entram aqui o produto aqui. Ó dá uma olhadinha na minha tela. O cara entra aqui no pensa que um produto teu aqui aí ele vira para o teu"
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1855,
+        "speaker": "Guilherme Hara",
+        "text": "noite Não sei."
+      },
+      {
+        "startTime": 1855,
+        "endTime": 1878,
+        "speaker": "Diego Diehl",
+        "text": "concorrentes. Aí ele vira para o teu Cara. Você sabe que gestão comercial é uma loucura, né Guilherme? Fala Guilherme. Parabéns hein, meu querido, você trabalhou bem semana passada, cara, vou te entregar 20 corretores, ele vem aqui. Responsável então selecionam só um ou dois normalmente seleciona aqui os corretores para o cara."
+      },
+      {
+        "startTime": 1878,
+        "endTime": 1900,
+        "speaker": "Diego Diehl",
+        "text": "Sniper aí o teu time tem essa aba aqui, ó de corretores é como se caísse na carteira dele. E aí quando eu boto como responsável quando o corretor for ver a Opus lá na hora do quando ele clicar em contato vai aparecer o contato do teu coordenador? Aí a gente Central ali então é tipo meio que uma cara Ride corretora é um"
+      },
+      {
+        "startTime": 1900,
+        "endTime": 1901,
+        "speaker": "Guilherme Hara",
+        "text": "animal show"
+      },
+      {
+        "startTime": 1905,
+        "endTime": 1907,
+        "speaker": "Diego Diehl",
+        "text": "líder."
+      },
+      {
+        "startTime": 1907,
+        "endTime": 1915,
+        "speaker": "Guilherme Hara",
+        "text": "e com certeza não e agora que você me mostrou aqui também que eu consigo ver a Ponderar na verdade por corretor o interesse de cada produto ficou bem bacana."
+      },
+      {
+        "startTime": 1917,
+        "endTime": 1917,
+        "speaker": "Diego Diehl",
+        "text": "time precisamos precisamos ativar o produto a"
+      },
+      {
+        "startTime": 1917,
+        "endTime": 1917,
+        "speaker": "Guilherme Hara",
+        "text": "Não muito bom."
+      },
+      {
+        "startTime": 1924,
+        "endTime": 1935,
+        "speaker": "Diego Diehl",
+        "text": "Vai lá no produto a seleciona o concorrente pega sem Corretores e fala é cinco no time 20 para cada um, manda áudio para todo mundo chama para um café da manhã Cara isso daí sempre gera venda velho."
+      },
+      {
+        "startTime": 1935,
+        "endTime": 1940,
+        "speaker": "Guilherme Hara",
+        "text": "Não e já sabia de resumo que eu posso selecionar os produtos concorrentes. Era isso que eu tava querendo fazer só que já tá pronto já."
+      },
+      {
+        "startTime": 1941,
+        "endTime": 1949,
+        "speaker": "Diego Diehl",
+        "text": "Já daí ó, você quer ver mais dados no históricos, aí você abre o piá e lá que daí lá tem tudo você já viu 40 páginas."
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1953,
+        "speaker": "Guilherme Hara",
+        "text": "Eu vou te falar que esse eu ainda vou apanhar um pouquinho dele, mas eu vou dar uma treinada."
+      },
+      {
+        "startTime": 1953,
+        "endTime": 1967,
+        "speaker": "Diego Diehl",
+        "text": "Começa com aba de desempenho que cara só de você abrir o desempenho ver se a audiência tá subindo descendo. E ver como é que tá o teu produto comparado aos outros já é sinistro."
+      },
+      {
+        "startTime": 1967,
+        "endTime": 1974,
+        "speaker": "Guilherme Hara",
+        "text": "Não bacana. Obrigado aí viu diga, então era isso mesmo, cara. Obrigado, viu?"
+      },
+      {
+        "startTime": 1975,
+        "endTime": 1985,
+        "speaker": "Diego Diehl",
+        "text": "Se divirta aí, cara, se quiser dar um toque no teu comercial. Meu time tá à disposição para fazer um treinamento e eu acho que em outubro novembro eu tô por aí, eu te dou um toque aí para a gente trocar uma ideia."
+      },
+      {
+        "startTime": 1986,
+        "endTime": 1988,
+        "speaker": "Guilherme Hara",
+        "text": "Boa pode me dar um toque que a gente toma um café?"
+      },
+      {
+        "startTime": 1989,
+        "endTime": 1990,
+        "speaker": "Diego Diehl",
+        "text": "Show. Valeu cara, boa sorte no seu sua trajetória Incorporadora agora, hein?"
+      },
+      {
+        "startTime": 1990,
+        "endTime": 1996,
+        "speaker": "Guilherme Hara",
+        "text": "Tá já é briga, valeu. Pode deixar, obrigado aqui."
+      },
+      {
+        "startTime": 1996,
+        "endTime": 1998,
+        "speaker": "Diego Diehl",
+        "text": "Abraço. Falou. Tchau."
+      },
+      {
+        "startTime": 1998,
+        "endTime": 1999,
+        "speaker": "Guilherme Hara",
+        "text": "Valeu amigo, um abraço, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 203,
+    "speakers": [
+      "Diego Diehl",
+      "Guilherme Hara"
+    ],
+    "total_words_estimate": 4285,
+    "duration_start": 185,
+    "duration_end": 1999
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68c08f4dca76380013d8d20a",
+        "timestamp": 360,
+        "text": "Guilherme explorando análise de dados de mercado com foco em marketing e inteligência competitiva",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d20b",
+        "timestamp": 490,
+        "text": "Diego compartilha 15 anos de experiência no mercado imobiliário com diferentes papéis organizacionais",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d20c",
+        "timestamp": 545,
+        "text": "Guilherme busca entender ferramentas de inteligência de mercado na Opus",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d20d",
+        "timestamp": 612,
+        "text": "Diego demonstra área de inteligência de mercado para Guilherme com dados detalhados",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d214",
+        "timestamp": 928,
+        "text": "Esclarecimento sobre definição de 'estoque': todos os imóveis à venda, independente do status de construção",
+        "topicId": "68c08f4dca76380013d8d206"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d20e",
+        "timestamp": 1170,
+        "text": "Opus possui 32 produtos ativos no momento",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d215",
+        "timestamp": 1222,
+        "text": "Diego explica estratégia de identificação de corretores especializados por produto",
+        "topicId": "68c08f4dca76380013d8d206"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d211",
+        "timestamp": 1462,
+        "text": "Plataforma integrada para imobiliárias: atualização de dados de mercado via API e CRM",
+        "topicId": "68c08f4dca76380013d8d205"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d212",
+        "timestamp": 1515,
+        "text": "Bambuí usa produto para comparação competitiva, medindo engajamento de corretores",
+        "topicId": "68c08f4dca76380013d8d205"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d20f",
+        "timestamp": 1570,
+        "text": "Sistema permite rankear concorrentes por empreendimento, não por incorporadora",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d213",
+        "timestamp": 1626,
+        "text": "Gráfico mostra 90% de usuários são corretores, com aproximadamente 4.000 usuários mensais",
+        "topicId": "68c08f4dca76380013d8d205"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d210",
+        "timestamp": 1706,
+        "text": "Ferramenta permite visualizar próximos lançamentos imobiliários",
+        "topicId": "68c08f4dca76380013d8d204"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d209",
+        "timestamp": 1828,
+        "text": "Sistema permite criar usuários com diferentes níveis de acesso: leitor, editor e administrador",
+        "topicId": "68c08f4dca76380013d8d203"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d208",
+        "timestamp": 1877,
+        "text": "Possibilidade de atribuir corretores responsáveis para produtos específicos",
+        "topicId": "68c08f4dca76380013d8d203"
+      },
+      {
+        "segmentId": "68c08f4dca76380013d8d207",
+        "timestamp": 1978,
+        "text": "Diego oferece treinamento para equipe comercial em outubro ou novembro",
+        "topicId": "68c08f4dca76380013d8d203"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68c08f4dca76380013d8d203",
+        "order": 1,
+        "title": "Ações Acordadas",
+        "summary": ""
+      },
+      {
+        "id": "68c08f4dca76380013d8d204",
+        "order": 2,
+        "title": "Inteligência de Mercado Imobiliário",
+        "summary": ""
+      },
+      {
+        "id": "68c08f4dca76380013d8d205",
+        "order": 3,
+        "title": "Plataforma e Funcionalidades",
+        "summary": ""
+      },
+      {
+        "id": "68c08f4dca76380013d8d206",
+        "order": 4,
+        "title": "Definições e Conceitos",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 15,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68c08f4dca76380013d8d203",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "68c08f4dca76380013d8d204",
+      "order": 2,
+      "title": "Inteligência de Mercado Imobiliário",
+      "summary": ""
+    },
+    {
+      "id": "68c08f4dca76380013d8d205",
+      "order": 3,
+      "title": "Plataforma e Funcionalidades",
+      "summary": ""
+    },
+    {
+      "id": "68c08f4dca76380013d8d206",
+      "order": 4,
+      "title": "Definições e Conceitos",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:47:46.653398+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:46.653398+00:00"
+}

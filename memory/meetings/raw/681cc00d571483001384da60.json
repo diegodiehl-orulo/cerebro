@@ -1,0 +1,28 @@
+{
+  "id": "681cc00d571483001384da60",
+  "happenedAt": "2025-05-08T14:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Jonathan",
+  "duration": 2532.074,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/681cc00d571483001384da60",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "qsv-fump-vrs"
+  }
+}

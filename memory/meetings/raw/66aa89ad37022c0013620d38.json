@@ -1,0 +1,28 @@
+{
+  "id": "66aa89ad37022c0013620d38",
+  "happenedAt": "2024-07-31T19:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Forecast Giuliano",
+  "duration": 5980.861,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66aa89ad37022c0013620d38",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "xon-mszh-bao"
+  }
+}

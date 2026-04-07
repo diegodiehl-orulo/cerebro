@@ -1,0 +1,32 @@
+{
+  "id": "66f451b17e89b8001398bdbf",
+  "happenedAt": "2024-09-25T18:08:49.110Z",
+  "invitees": [
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "Treinamento Bitrix",
+  "duration": 5626.938,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66f451b17e89b8001398bdbf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "joi-wvon-sjb"
+  }
+}

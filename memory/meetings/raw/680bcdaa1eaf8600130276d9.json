@@ -1,0 +1,40 @@
+{
+  "id": "680bcdaa1eaf8600130276d9",
+  "happenedAt": "2025-04-25T18:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "todos@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "Company Review!",
+  "duration": 6249.313,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/680bcdaa1eaf8600130276d9",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "dsm-smnq-inc"
+  }
+}

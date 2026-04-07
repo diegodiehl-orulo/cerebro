@@ -1,0 +1,505 @@
+{
+  "meeting_id": "6703f06a4b688100134cdee1",
+  "name": "Órulo - Daily",
+  "happened_at": "2024-10-07T14:30:00.000Z",
+  "duration_seconds": 485.828,
+  "duration_minutes": 8.1,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "victor@filterfeed.com.br"
+    },
+    {
+      "name": "",
+      "email": "andre@filterfeed.com.br"
+    },
+    {
+      "name": "Diogo Fernandes",
+      "email": "diogo.fernandes@avodh.com.br"
+    },
+    {
+      "name": "Johnny Fernandes",
+      "email": "johnny.fernandes@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "eduarda.salles@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "lucas.vicente@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "anderson.oliveira@avodh.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Paulo Cesar",
+      "email": "paulo.cesar@avodh.com.br"
+    },
+    {
+      "name": "Maria Julia Cabral",
+      "email": "maju@filterfeed.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6703f06a4b688100134cdee1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "det-tdoa-arn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6703f0a750d70700137a3ce3",
+    "meetingId": "6703f06a4b688100134cdee1",
+    "data": [
+      {
+        "startTime": 38,
+        "endTime": 46,
+        "speaker": "Lucas Vicente",
+        "text": "processamento pela manhã Lembra como tá o título João? Mais ou menos só para ter uma ideia."
+      },
+      {
+        "startTime": 49,
+        "endTime": 64,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "eu sei que eu não lembro agora, sei que filtrando por hora, ele volta ali que é automação para descarte, se eu não me engano tem que descarte ali no título. Mas tranquilo só para a gente deixar alinhar o Lucas o Diogo daí tem esse ponto para a gente. Ativar."
+      },
+      {
+        "startTime": 64,
+        "endTime": 91,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ativar lá essa automação que ela não veio criada ali ainda. do descarte, né e E também confirmar se as dos cinco dias a partir da segunda etapa, já está rodando o Paulo também ficou de criar e ativar ela para os clientes. Então aquela de cinco dias, né? Só recapitulando ele chegou na segunda etapa em conversa com o corretor."
+      },
+      {
+        "startTime": 91,
+        "endTime": 110,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "passou-se cinco dias desde a última interação do corretor ele descarta também em contato. então, a gente ficou de ativar isso os relatórios e higienização de jogo também, eu não tive retorno do Paulo tá até reforcei com ele agora pela manhã, ele não me respondeu, Como é que ficou isso?"
+      },
+      {
+        "startTime": 110,
+        "endTime": 111,
+        "speaker": "Diogo Fernandes",
+        "text": "Perguntar aqui internamente."
+      },
+      {
+        "startTime": 111,
+        "endTime": 142,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É isso perguntei para ele não tive um posicionamento. E aí a gente tem as questões ali da eso né? envolvendo abordagem De uma situação que aconteceu sexta-feira que tá saindo ali abordagem. com o nome do gerente apenas como uma única interação dos livros que vem da órgão. Então a gente precisa entender o que que que tá acontecendo ali resolver."
+      },
+      {
+        "startTime": 142,
+        "endTime": 155,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Porque até a Patrícia reforçou isso, né que aconteceu novamente no final de semana teve outros casos. então Até já reforcei isso com Lucas, mas se Mas se a gente conseguir finalizar esse aí o quanto antes é bem importante."
+      },
+      {
+        "startTime": 160,
+        "endTime": 178,
+        "speaker": "Lucas Vicente",
+        "text": "perfeito Nesse ponto tô falando com o Vitor tá Diogo já atual. Diogo? Já atualizei o jogo, ok? porque Vai bem estranha mesmo essa parte aqui."
+      },
+      {
+        "startTime": 178,
+        "endTime": 180,
+        "speaker": "Diogo Fernandes",
+        "text": "dos relatórios certo?"
+      },
+      {
+        "startTime": 180,
+        "endTime": 181,
+        "speaker": "Lucas Vicente",
+        "text": "E aí gente essa"
+      },
+      {
+        "startTime": 181,
+        "endTime": 191,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "dos relatórios em higienização e a confirmasse a as automações do fone Funil de leads da hora a partir de 5 dias já estão ativas nos clientes."
+      },
+      {
+        "startTime": 204,
+        "endTime": 209,
+        "speaker": "Lucas Vicente",
+        "text": "Patrícia"
+      },
+      {
+        "startTime": 209,
+        "endTime": 214,
+        "speaker": "Diogo Fernandes",
+        "text": "Deixa eu escrever aqui, calma. Calma aí. relatórios documentação"
+      },
+      {
+        "startTime": 215,
+        "endTime": 240,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "isso a documentação né do que que foi feito de alteração e o funcionamento em cima das métricas, né? Como é que tá funcionando? a higienização se foi feita se já foi removido os dados duplicados da base. E a questão do Funil da automação né para descarte a gente já tá rodando a partir da segunda etapa nos clientes."
+      },
+      {
+        "startTime": 240,
+        "endTime": 241,
+        "speaker": "Diogo Fernandes",
+        "text": "Esse da Cetim também não."
+      },
+      {
+        "startTime": 241,
+        "endTime": 248,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Também não só da setinha, né? Mas cetim ideias avos Canopus, Porto Camargo, né?"
+      },
+      {
+        "startTime": 248,
+        "endTime": 248,
+        "speaker": "Diogo Fernandes",
+        "text": "Automação de descarte né?"
+      },
+      {
+        "startTime": 249,
+        "endTime": 250,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso a partir da segunda etapa."
+      },
+      {
+        "startTime": 264,
+        "endTime": 265,
+        "speaker": "Diogo Fernandes",
+        "text": "a partir da segunda Copa João"
+      },
+      {
+        "startTime": 266,
+        "endTime": 282,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "isso a partir da segunda etapa E ali do funil."
+      },
+      {
+        "startTime": 282,
+        "endTime": 294,
+        "speaker": "Lucas Vicente",
+        "text": "João não sei se você tava acompanhando mas antes de sexta-feira a automação tava rodando correto, né abordagem. Quinta mais ou menos ali."
+      },
+      {
+        "startTime": 294,
+        "endTime": 300,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não ainda não tava não tava sendo executada os livros estavam caindo, mas ele não tava abordando ainda com a mensagem da setinha isso."
+      },
+      {
+        "startTime": 300,
+        "endTime": 305,
+        "speaker": "Lucas Vicente",
+        "text": "Não tava. beleza"
+      },
+      {
+        "startTime": 305,
+        "endTime": 308,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tava saindo ainda no nome do Henrique, né? Até a gente viu lá que tava."
+      },
+      {
+        "startTime": 308,
+        "endTime": 312,
+        "speaker": "Lucas Vicente",
+        "text": "Sim, sim, mas ela rodava né? Tipo rodava, tô só pegando."
+      },
+      {
+        "startTime": 312,
+        "endTime": 313,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso mas tava rodando."
+      },
+      {
+        "startTime": 313,
+        "endTime": 318,
+        "speaker": "Lucas Vicente",
+        "text": "Tô só pegando uma data que é para eu puxar dos log aqui rapidão. quinta dia 4"
+      },
+      {
+        "startTime": 355,
+        "endTime": 387,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "aí tem alguns pontos ali também que eu tô vendo com o Vitor até chamei. Até chamei ele aqui mas não me respondeu para entrar na dele. é sobre continuar ali os testes com @hotmail avançar com esses clientes, né nessa segunda funcionalidade. Ver se ele conseguiu ter algum novo avanço em cima dos Testes que ele fez e Eu também tenho agora tarefas minhas para hoje, né reuniões, eu tenho uma reunião agora com a Patrícia da ex, inclusive hoje à tarde para entender como eles estão usando a ferramenta."
+      },
+      {
+        "startTime": 387,
+        "endTime": 404,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Como eles estão usando a siga o acompanhando gerentes da se setinha para eles ajudarem as visitas lá na plataforma. E é isso, galera, não sei se tem mais algum ponto."
+      },
+      {
+        "startTime": 404,
+        "endTime": 418,
+        "speaker": "Diogo Fernandes",
+        "text": "João eu queria verificar com você se o pessoal da fonte passou algum prazo para completar todas aquelas tudo que tem bilhete do lado deles Que são aquelas automações? não sei se"
+      },
+      {
+        "startTime": 418,
+        "endTime": 423,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Você fala do desse desses testes desse ajuste."
+      },
+      {
+        "startTime": 423,
+        "endTime": 430,
+        "speaker": "Diogo Fernandes",
+        "text": "isso não é a configuração dos arquivos e resposta do bot para os corretores."
+      },
+      {
+        "startTime": 430,
+        "endTime": 437,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "eu vou confirmar certinho ali, como é que tá essa questão de prazo com o Vitor, mas acredito que essa semana já tá de"
+      },
+      {
+        "startTime": 437,
+        "endTime": 441,
+        "speaker": "Diogo Fernandes",
+        "text": "Porque eu sinto que isso tem sido um Blocker para avançar, né, então."
+      },
+      {
+        "startTime": 441,
+        "endTime": 441,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim Isso é prioridade máxima para"
+      },
+      {
+        "startTime": 441,
+        "endTime": 446,
+        "speaker": "Diogo Fernandes",
+        "text": "Então não sei como eles estão tratando isso."
+      },
+      {
+        "startTime": 446,
+        "endTime": 449,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "eles hoje."
+      },
+      {
+        "startTime": 449,
+        "endTime": 456,
+        "speaker": "Diogo Fernandes",
+        "text": "Tá bom então do lado do João lado do Paulo tem aqueles três itens lá que já perguntei Aqui internamente."
+      },
+      {
+        "startTime": 456,
+        "endTime": 458,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tem"
+      },
+      {
+        "startTime": 458,
+        "endTime": 462,
+        "speaker": "Diogo Fernandes",
+        "text": "Aqui internamente o Lucas também já tem direcionamento para hoje, né?"
+      },
+      {
+        "startTime": 462,
+        "endTime": 464,
+        "speaker": "Lucas Vicente",
+        "text": "Sim vou dar uma olhada na exo aqui tô dando uma olhada, né no caso com"
+      },
+      {
+        "startTime": 464,
+        "endTime": 465,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "e"
+      },
+      {
+        "startTime": 465,
+        "endTime": 470,
+        "speaker": "Lucas Vicente",
+        "text": "Victor e vou fazer a duplicata da automação para Canopus lá."
+      },
+      {
+        "startTime": 470,
+        "endTime": 470,
+        "speaker": "Diogo Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 470,
+        "endTime": 475,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É isso aí surgindo em alguma situação nova, né? Eu posiciono vocês."
+      },
+      {
+        "startTime": 475,
+        "endTime": 476,
+        "speaker": "Lucas Vicente",
+        "text": "prefeito"
+      },
+      {
+        "startTime": 476,
+        "endTime": 478,
+        "speaker": "Diogo Fernandes",
+        "text": "Beleza, João. Obrigado, hein?"
+      },
+      {
+        "startTime": 478,
+        "endTime": 478,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "valeu"
+      },
+      {
+        "startTime": 478,
+        "endTime": 479,
+        "speaker": "Lucas Vicente",
+        "text": "Valeu irmão, tchau, tchau bom."
+      },
+      {
+        "startTime": 479,
+        "endTime": 481,
+        "speaker": "Diogo Fernandes",
+        "text": "Bom trabalho para você gente. Tchau, tchau."
+      },
+      {
+        "startTime": 481,
+        "endTime": 481,
+        "speaker": "Lucas Vicente",
+        "text": "trabalho, tchau. Tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 51,
+    "speakers": [
+      "João Vitor Portes da Silva",
+      "Lucas Vicente",
+      "Diogo Fernandes"
+    ],
+    "total_words_estimate": 881,
+    "duration_start": 38,
+    "duration_end": 481
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e0",
+        "timestamp": 66,
+        "text": "Ativar automação de descarte ainda não criada. Confirmar se automação de 5 dias após segunda etapa está ativa para clientes.",
+        "topicId": "6703f4d7bf41bc00132fe8dc"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e2",
+        "timestamp": 117,
+        "text": "Abordar situação ocorrida na sexta-feira com o gerente. Resolver problema com a abordagem, pois houve outros casos no final de semana.",
+        "topicId": "6703f4d7bf41bc00132fe8dd"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e1",
+        "timestamp": 224,
+        "text": "Verificar se higienização e automação de funil de leads a partir de 5 dias estão ativas nos clientes.",
+        "topicId": "6703f4d7bf41bc00132fe8dc"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e3",
+        "timestamp": 288,
+        "text": "Automação de abordagem não estava sendo executada corretamente antes de sexta-feira.",
+        "topicId": "6703f4d7bf41bc00132fe8dd"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e4",
+        "timestamp": 364,
+        "text": "Continuar testes com @hotmail e avançar com a segunda funcionalidade. Reunião com Patrícia da ex para entender uso da ferramenta.",
+        "topicId": "6703f4d7bf41bc00132fe8de"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e5",
+        "timestamp": 397,
+        "text": "Tarefas pendentes do João, incluindo reuniões.",
+        "topicId": "6703f4d7bf41bc00132fe8de"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e6",
+        "timestamp": 403,
+        "text": "Verificar prazo para completar as tarefas pendentes da fonte. Confirmar com Vitor o prazo para completar os ajustes.",
+        "topicId": "6703f4d7bf41bc00132fe8df"
+      },
+      {
+        "segmentId": "6703f4d7bf41bc00132fe8e7",
+        "timestamp": 461,
+        "text": "Lucas irá dar uma olhada na exo e fazer a duplicata da automação para Canopus.",
+        "topicId": "6703f4d7bf41bc00132fe8df"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6703f4d7bf41bc00132fe8dc",
+        "order": 1,
+        "title": "Ativação de Automações",
+        "summary": "Discussão sobre a ativação de automações de descarte e higienização de dados, com foco em prazos e implementação."
+      },
+      {
+        "id": "6703f4d7bf41bc00132fe8dd",
+        "order": 2,
+        "title": "Resolução de Problemas com Abordagem",
+        "summary": "Discussão sobre problemas com a abordagem de clientes, incluindo a necessidade de resolver uma situação específica ocorrida na sexta-feira."
+      },
+      {
+        "id": "6703f4d7bf41bc00132fe8de",
+        "order": 3,
+        "title": "Próximos Passos e Tarefas",
+        "summary": "Discussão sobre próximas etapas, incluindo testes com @hotmail, reuniões com a Patrícia da ex, e tarefas pendentes."
+      },
+      {
+        "id": "6703f4d7bf41bc00132fe8df",
+        "order": 4,
+        "title": "Acompanhamento de Tarefas",
+        "summary": "Discussão sobre o acompanhamento de tarefas pendentes, incluindo a configuração de arquivos e respostas do bot para os corretores."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 8,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6703f4d7bf41bc00132fe8dc",
+      "order": 1,
+      "title": "Ativação de Automações",
+      "summary": "Discussão sobre a ativação de automações de descarte e higienização de dados, com foco em prazos e implementação."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8dd",
+      "order": 2,
+      "title": "Resolução de Problemas com Abordagem",
+      "summary": "Discussão sobre problemas com a abordagem de clientes, incluindo a necessidade de resolver uma situação específica ocorrida na sexta-feira."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8de",
+      "order": 3,
+      "title": "Próximos Passos e Tarefas",
+      "summary": "Discussão sobre próximas etapas, incluindo testes com @hotmail, reuniões com a Patrícia da ex, e tarefas pendentes."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8df",
+      "order": 4,
+      "title": "Acompanhamento de Tarefas",
+      "summary": "Discussão sobre o acompanhamento de tarefas pendentes, incluindo a configuração de arquivos e respostas do bot para os corretores."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:32.961273+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:32.961273+00:00"
+}

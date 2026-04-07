@@ -1,0 +1,170 @@
+{
+  "meeting_id": "696102ceba41f90013f01bc6",
+  "name": "Zabo (SP - Isenção tributaria)",
+  "happened_at": "2026-01-09T13:30:00.000Z",
+  "duration_seconds": 1125.9,
+  "duration_minutes": 18.8,
+  "organizer": {
+    "name": "Paulo Deitos",
+    "email": "pd@cfgroup.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "luciano@zabo.com.br"
+    },
+    {
+      "name": "Marcos  Knewitz",
+      "email": "mk@cfgroup.com.br"
+    },
+    {
+      "name": "Matheus Nascimento",
+      "email": "mn@cfgroup.com.br"
+    },
+    {
+      "name": "",
+      "email": "gg@cfgroup.com.br"
+    },
+    {
+      "name": "",
+      "email": "abrahao@zabo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/696102ceba41f90013f01bc6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "uih-hwqe-itn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "696102e569ccc40013cbc68a",
+    "meetingId": "696102ceba41f90013f01bc6",
+    "data": [
+      {
+        "startTime": 999,
+        "endTime": 1000,
+        "speaker": "Paulo Deitos",
+        "text": "E aí João?"
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1003,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Fala Paulo. Desculpa a demora meu cara, tava finalizando uma reunião aqui, por isso que eu não te atendi."
+      },
+      {
+        "startTime": 1005,
+        "endTime": 1006,
+        "speaker": "Paulo Deitos",
+        "text": "Tranquilo e o que a gente vai aparecer?"
+      },
+      {
+        "startTime": 1007,
+        "endTime": 1013,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu dei uma cobrada nele aqui já ele visualizou minha mensagem aqui não respondeu ainda. Vou dar uma ligada para ele já."
+      },
+      {
+        "startTime": 1014,
+        "endTime": 1017,
+        "speaker": "Paulo Deitos",
+        "text": "Ah se não deu né? Já tô há 20 minutos aqui esperando."
+      },
+      {
+        "startTime": 1018,
+        "endTime": 1070,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá não não já vou ligar para ele já só um minutinho. O Paulo eu tentei ligar para ele aqui sem sucesso. Acho que vamos. Vamos remarcar aí para não ocupar o teu tempo aí."
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1081,
+        "speaker": "Paulo Deitos",
+        "text": "É na verdade assim se o cara disser que vai aparecer nós saímos da sala, se tu voltar, se tu puder avisa que a gente entra nesse horário. Tá tranquilo."
+      },
+      {
+        "startTime": 1081,
+        "endTime": 1086,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim Sim Não eu liguei para ele aqui e vou vamos aguardar mais um pouco aí qualquer coisa eu te aviso."
+      },
+      {
+        "startTime": 1086,
+        "endTime": 1087,
+        "speaker": "Paulo Deitos",
+        "text": "Beleza, me avisa tchau."
+      },
+      {
+        "startTime": 1087,
+        "endTime": 1088,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Show valeu Paulo."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 10,
+    "speakers": [
+      "João Vitor Portes da Silva",
+      "Paulo Deitos"
+    ],
+    "total_words_estimate": 157,
+    "duration_start": 999,
+    "duration_end": 1088
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6961076b2e3e4e00134f2b65",
+        "timestamp": 1007,
+        "text": "João tenta, sem sucesso, contatar pessoa que não responde a mensagem.",
+        "topicId": "6961076b2e3e4e00134f2b64"
+      },
+      {
+        "segmentId": "6961076b2e3e4e00134f2b66",
+        "timestamp": 1054,
+        "text": "Reunião remarcada; João aguardará novidades e informará Paulo.",
+        "topicId": "6961076b2e3e4e00134f2b64"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6961076b2e3e4e00134f2b64",
+        "order": 1,
+        "title": "Comunicação e Acompanhamento",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 2,
+    "topic_count": 1,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6961076b2e3e4e00134f2b64",
+      "order": 1,
+      "title": "Comunicação e Acompanhamento",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:50:26.685011+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:26.685011+00:00"
+}

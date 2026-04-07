@@ -1,0 +1,36 @@
+{
+  "id": "671fed4064ad930014f41043",
+  "happenedAt": "2024-10-28T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Carlos Stoppa",
+      "email": "carlos@z2app.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "joao@jcads.com.br"
+    }
+  ],
+  "name": "Kick Off Z2A Tarjab",
+  "duration": 1024.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/671fed4064ad930014f41043",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "krx-bywz-dfx"
+  }
+}

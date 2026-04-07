@@ -1,0 +1,40 @@
+{
+  "id": "692dfabd88b1790013c56d5e",
+  "happenedAt": "2025-12-01T20:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "renato.rodrigues@integraurbano.com.br"
+    },
+    {
+      "name": "Matheus Nascimento",
+      "email": "mn@cfgroup.com.br"
+    },
+    {
+      "name": "",
+      "email": "gg@cfgroup.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    }
+  ],
+  "name": "Integra Urbano (SP - isenção tributária)",
+  "duration": 3463.154,
+  "organizer": {
+    "name": "Paulo Deitos",
+    "email": "pd@cfgroup.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/692dfabd88b1790013c56d5e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "qat-ysir-uqs"
+  }
+}

@@ -1,0 +1,139 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6772edf7f4c7010013d7a8b9",
+      "timestamp": 196,
+      "text": "Alejandro e Marcelo planejam revisão de dashboard e discussão de pontos do fits.",
+      "topicId": "6772edf7f4c7010013d7a8b5"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8ba",
+      "timestamp": 256,
+      "text": "Decisão de adiar discussão do desenho para a próxima semana.",
+      "topicId": "6772edf7f4c7010013d7a8b5"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8bc",
+      "timestamp": 340,
+      "text": "Correção de cálculo: velocidade de vendas deve ser calculada sobre estoque disponível no mês.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8bd",
+      "timestamp": 925,
+      "text": "Equipe discute como avaliar o impacto da distribuição sobre as vendas e possíveis indicadores comparativos.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8be",
+      "timestamp": 1120,
+      "text": "Felipe sugere focar em provar se há mais pessoas interessadas no produto como métrica principal.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8bf",
+      "timestamp": 1400,
+      "text": "Felipe recomenda priorizar análise de audiência antes de criar quadros comparativos de velocidade de vendas.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c9",
+      "timestamp": 1444,
+      "text": "Análise de dados de atividade de corretores em um período de três meses.",
+      "topicId": "6772edf7f4c7010013d7a8b8"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c0",
+      "timestamp": 1519,
+      "text": "Felipe sugere analisar comparativos por unidades ou VGB disponível em empreendimentos.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c1",
+      "timestamp": 2169,
+      "text": "Felipe propõe hierarquia de análise: primeiro Incorporadora, depois empreendimento, unidade e VGB.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c2",
+      "timestamp": 2521,
+      "text": "Felipe recomenda fazer estudo de caso comparativo entre produtos concorrentes na mesma região.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c3",
+      "timestamp": 2561,
+      "text": "Equipe focada em avaliar impacto da integração e convencer stakeholders sobre eficácia do modelo.",
+      "topicId": "6772edf7f4c7010013d7a8b6"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8bb",
+      "timestamp": 2654,
+      "text": "Alejandro propõe facilitar extração de casos de uso com dados do dashboard.",
+      "topicId": "6772edf7f4c7010013d7a8b5"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8ca",
+      "timestamp": 2729,
+      "text": "Felipe menciona possível parceria com Find em São Paulo para gerar estudo de caso.",
+      "topicId": "6772edf7f4c7010013d7a8b8"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c4",
+      "timestamp": 3161,
+      "text": "Taxa de administração de consórcio varia entre 15 a 20%, considerada muito alta.",
+      "topicId": "6772edf7f4c7010013d7a8b7"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c5",
+      "timestamp": 3283,
+      "text": "Prazos de consórcio próximos a 200 meses tendem a fazer mais sentido financeiramente.",
+      "topicId": "6772edf7f4c7010013d7a8b7"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c6",
+      "timestamp": 3320,
+      "text": "Prazo de consórcio pode estender-se por 15 a 20 anos.",
+      "topicId": "6772edf7f4c7010013d7a8b7"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c7",
+      "timestamp": 3393,
+      "text": "Taxa de administração de 15% em consórcio é considerada excessivamente alta.",
+      "topicId": "6772edf7f4c7010013d7a8b7"
+    },
+    {
+      "segmentId": "6772edf7f4c7010013d7a8c8",
+      "timestamp": 3451,
+      "text": "Felipe planeja gerar 50 a 100 mil de faturamento em janeiro com consórcio.",
+      "topicId": "6772edf7f4c7010013d7a8b7"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6772edf7f4c7010013d7a8b5",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "6772edf7f4c7010013d7a8b6",
+      "order": 2,
+      "title": "Análise de Vendas e Estratégia de Dados",
+      "summary": ""
+    },
+    {
+      "id": "6772edf7f4c7010013d7a8b7",
+      "order": 3,
+      "title": "Análise de Consórcio",
+      "summary": ""
+    },
+    {
+      "id": "6772edf7f4c7010013d7a8b8",
+      "order": 4,
+      "title": "Parceria e Estudo de Caso",
+      "summary": ""
+    }
+  ]
+}

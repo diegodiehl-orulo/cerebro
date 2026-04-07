@@ -1,0 +1,32 @@
+{
+  "id": "6965289899767e001343fd33",
+  "happenedAt": "2026-01-12T17:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Ester Elisa de Souza Rodrigues",
+      "email": "ester.rodrigues@orulo.com.br"
+    }
+  ],
+  "name": "Ester / João Vitor (Ação para corretores)",
+  "duration": 1548.533,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6965289899767e001343fd33",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "chf-zmby-iig"
+  }
+}

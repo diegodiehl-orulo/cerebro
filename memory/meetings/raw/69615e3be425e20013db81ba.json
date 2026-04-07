@@ -1,0 +1,28 @@
+{
+  "id": "69615e3be425e20013db81ba",
+  "happenedAt": "2026-01-09T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "Gustavo / Diego",
+  "duration": 3588.45,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69615e3be425e20013db81ba",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "pzi-tizv-kii"
+  }
+}

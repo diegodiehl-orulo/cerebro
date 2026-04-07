@@ -1,0 +1,3092 @@
+{
+  "meeting_id": "673cc41aa382720013753cf3",
+  "name": "Z2A <> Setin ",
+  "happened_at": "2024-11-19T17:00:00.000Z",
+  "duration_seconds": 4063.802,
+  "duration_minutes": 67.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Carlos Stoppa",
+      "email": "carlos@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "caio@conexaosetin.com.br"
+    },
+    {
+      "name": "",
+      "email": "junior@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/673cc41aa382720013753cf3",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "dyw-vtxk-kie",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "673cc5a7d1faf2001360a431",
+    "meetingId": "673cc41aa382720013753cf3",
+    "data": [
+      {
+        "startTime": 24,
+        "endTime": 25,
+        "speaker": "Junior Silva",
+        "text": "E aí Carlão?"
+      },
+      {
+        "startTime": 25,
+        "endTime": 68,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí"
+      },
+      {
+        "startTime": 68,
+        "endTime": 73,
+        "speaker": "Junior Silva",
+        "text": "Qual que é a ideia que hoje Carlão?"
+      },
+      {
+        "startTime": 73,
+        "endTime": 75,
+        "speaker": "Carlos Stoppa",
+        "text": "Na verdade você puxou essa reunião, né? Deixa eu ver aqui ó."
+      },
+      {
+        "startTime": 75,
+        "endTime": 76,
+        "speaker": "Junior Silva",
+        "text": "Eu lembro que que é."
+      },
+      {
+        "startTime": 76,
+        "endTime": 77,
+        "speaker": "Carlos Stoppa",
+        "text": "Pera aí que eu vou te mandar."
+      },
+      {
+        "startTime": 77,
+        "endTime": 78,
+        "speaker": "Diego Diehl",
+        "text": "Olá gente, vou lembrar já fala"
+      },
+      {
+        "startTime": 78,
+        "endTime": 79,
+        "speaker": "Junior Silva",
+        "text": "E aí"
+      },
+      {
+        "startTime": 80,
+        "endTime": 110,
+        "speaker": "Diego Diehl",
+        "text": "Junior é ativação da base dele. Nação da base dele primeiro um teste que a gente falou para só ativar definir uma mensagem sem recorrência algo assim E aí depois vê como ativar os 30 mil dele. Com ou sem transacional, acho que é legal explicar o transacional para ele, ele tava com uma iniciativa bem forte de trabalhar a região."
+      },
+      {
+        "startTime": 110,
+        "endTime": 130,
+        "speaker": "Diego Diehl",
+        "text": "Mais afastada aqui de São Paulo as cidades menores talvez caiba algum transacional, mas a dor dele é como que Ele ativa a galera E a dor é que a carteira aberta é um caos lá, né? Gente? Até não vou falar sobre isso não já tá careca de saber isso daí."
+      },
+      {
+        "startTime": 130,
+        "endTime": 132,
+        "speaker": "Carlos Stoppa",
+        "text": "Você falou de uma possível customização Júnior sobre essa carteira aberta."
+      },
+      {
+        "startTime": 134,
+        "endTime": 137,
+        "speaker": "Junior Silva",
+        "text": "Era da gente fazendo o último contato lá, né?"
+      },
+      {
+        "startTime": 142,
+        "endTime": 170,
+        "speaker": "Diego Diehl",
+        "text": "Tem uns não é complexo não, tá o BO do Caio assim, ele tem um belo na mão. Daí ele tá tentando ver como é que ele consegue resolver. Porque uma galera fala com o corretor que tá cadastrado no nome de outra pessoa, entendeu? E aí eu acho que não registro no sistema, eu falei para ele a Carlão até te adiantando um relatório que a gente falou lá no dia que o Júnior a gente foi na cetim."
+      },
+      {
+        "startTime": 170,
+        "endTime": 189,
+        "speaker": "Diego Diehl",
+        "text": "E o cara quer fazer ele quer ter algum parâmetro para conseguir distribuir um pouco melhor a carteira dele que o Agnaldo lá é o herdeiro, né? Então é o Agnaldo botou tudo debaixo do braço. Agnaldo é Cláudio. E aí ele queria um relatório que fosse assim como se as linhas fossem os corretores."
+      },
+      {
+        "startTime": 189,
+        "endTime": 210,
+        "speaker": "Diego Diehl",
+        "text": "E as colunas fossem tipo alguma métrica do quanto? O gerente falou com ele. E daí a gente consegue enxergar mais de um gerente conversando daí tem um corretor lá que tá na carteira do Agnaldo, mas o cara nem conversa com ele. Foi trocado nada de mensagem. Talvez o volume de mensagem recebida seria um indicador ideal."
+      },
+      {
+        "startTime": 210,
+        "endTime": 211,
+        "speaker": "Diego Diehl",
+        "text": "Tô ouvindo."
+      },
+      {
+        "startTime": 211,
+        "endTime": 249,
+        "speaker": "Junior Silva",
+        "text": "Não que eu combinei com ele de customizar lá foi assim, ó. Cara, eu posso fazer a customização aqui para que o corretor automação sempre saia no último. Do último coordenador que falou com ele, né? Então Carlão nessa teoria. f*** a gente deveria registrar. todas as interações orações"
+      },
+      {
+        "startTime": 249,
+        "endTime": 250,
+        "speaker": "Carlos Stoppa",
+        "text": "Fala Caio. Boa tarde."
+      },
+      {
+        "startTime": 252,
+        "endTime": 253,
+        "speaker": "Junior Silva",
+        "text": "mesmo"
+      },
+      {
+        "startTime": 260,
+        "endTime": 263,
+        "speaker": "Caio Gomes",
+        "text": "E aí pessoal, tudo bom? Boa tarde desculpa."
+      },
+      {
+        "startTime": 263,
+        "endTime": 263,
+        "speaker": "Carlos Stoppa",
+        "text": "imagina"
+      },
+      {
+        "startTime": 263,
+        "endTime": 273,
+        "speaker": "Junior Silva",
+        "text": "Fala doutor de outro coordenador. Vamos lá o Diego tá aí também tá nos ouvindo."
+      },
+      {
+        "startTime": 273,
+        "endTime": 276,
+        "speaker": "Diego Diehl",
+        "text": "fone aqui tá gente já"
+      },
+      {
+        "startTime": 276,
+        "endTime": 288,
+        "speaker": "Junior Silva",
+        "text": "Não beleza o Caio que hoje a ideia do papo era acho que o principal ponto ali é você. Queria fazer um trabalho de ativação em cima da tua base, né?"
+      },
+      {
+        "startTime": 288,
+        "endTime": 288,
+        "speaker": "Caio Gomes",
+        "text": "também"
+      },
+      {
+        "startTime": 288,
+        "endTime": 305,
+        "speaker": "Junior Silva",
+        "text": "Que você tem uma base aí que você gostaria de ativar de corretores de fora da cidade de São Paulo para ativar produto cetim. E a gente tinha aquela customização para ser feita que é aquela questão da fidelização Ali da carteira aberta, né?"
+      },
+      {
+        "startTime": 305,
+        "endTime": 305,
+        "speaker": "Caio Gomes",
+        "text": "sim"
+      },
+      {
+        "startTime": 305,
+        "endTime": 310,
+        "speaker": "Junior Silva",
+        "text": "Que é você manter o cara lá com Agnaldo, mas automação ser feita em nome de quem falou com ele por"
+      },
+      {
+        "startTime": 310,
+        "endTime": 310,
+        "speaker": "Caio Gomes",
+        "text": "Essa exato quem ele respondeu por"
+      },
+      {
+        "startTime": 310,
+        "endTime": 313,
+        "speaker": "Junior Silva",
+        "text": "último."
+      },
+      {
+        "startTime": 313,
+        "endTime": 315,
+        "speaker": "Caio Gomes",
+        "text": "último."
+      },
+      {
+        "startTime": 315,
+        "endTime": 317,
+        "speaker": "Junior Silva",
+        "text": "Quem quem ele respondeu por último, né?"
+      },
+      {
+        "startTime": 317,
+        "endTime": 318,
+        "speaker": "Caio Gomes",
+        "text": "Eu tenho dentro do sistema do Z2 tem"
+      },
+      {
+        "startTime": 320,
+        "endTime": 324,
+        "speaker": "Junior Silva",
+        "text": "O que mais você tinha de pontos aí só para a gente ingressar."
+      },
+      {
+        "startTime": 328,
+        "endTime": 335,
+        "speaker": "Caio Gomes",
+        "text": "uma base que tá sem. sem gerente, eu queria saber como que"
+      },
+      {
+        "startTime": 335,
+        "endTime": 338,
+        "speaker": "Carlos Stoppa",
+        "text": "ser gerente"
+      },
+      {
+        "startTime": 338,
+        "endTime": 354,
+        "speaker": "Caio Gomes",
+        "text": "sabe tipo na House quando tem a tal da oferta ativa. Eu queria saber como que a gente faz o gerente puxar para ele, entendeu? Ah cara o puxar de 50 e 50 aqui, entendeu? alguma coisa"
+      },
+      {
+        "startTime": 354,
+        "endTime": 357,
+        "speaker": "Carlos Stoppa",
+        "text": "Quase 20 mil sem gerente."
+      },
+      {
+        "startTime": 359,
+        "endTime": 362,
+        "speaker": "Junior Silva",
+        "text": "Então é isso. A ideia é distribuir para os caras, é isso?"
+      },
+      {
+        "startTime": 370,
+        "endTime": 382,
+        "speaker": "Caio Gomes",
+        "text": "aqui que eles ali começaram depois enfim e Daí eu queria priorizá-los, entendeu?"
+      },
+      {
+        "startTime": 383,
+        "endTime": 393,
+        "speaker": "Junior Silva",
+        "text": "Então o certo aqui já distribui uma parte para eles, né? Não tem um recurso para ele pegando igual oferta ativa a sua ideia. É que eles pega essa base e comece a ligar para elas, é isso?"
+      },
+      {
+        "startTime": 393,
+        "endTime": 396,
+        "speaker": "Caio Gomes",
+        "text": "É isso."
+      },
+      {
+        "startTime": 396,
+        "endTime": 400,
+        "speaker": "Junior Silva",
+        "text": "E aí no final, ele vai ter que dar o feedback de cada um deles, é isso?"
+      },
+      {
+        "startTime": 402,
+        "endTime": 404,
+        "speaker": "Caio Gomes",
+        "text": "exato"
+      },
+      {
+        "startTime": 404,
+        "endTime": 405,
+        "speaker": "Junior Silva",
+        "text": "Então acho que aqui"
+      },
+      {
+        "startTime": 405,
+        "endTime": 416,
+        "speaker": "Caio Gomes",
+        "text": "Interagir eu já automaticamente vai para a base, entendeu? A ideia é essa."
+      },
+      {
+        "startTime": 416,
+        "endTime": 423,
+        "speaker": "Junior Silva",
+        "text": "Não cai assim ó b0 não tem esse recurso de oferta ativa lá para ele ir pegando, né?"
+      },
+      {
+        "startTime": 423,
+        "endTime": 427,
+        "speaker": "Diego Diehl",
+        "text": "O Caio você não quer disparar para essa galera. Não é esse o ponto"
+      },
+      {
+        "startTime": 427,
+        "endTime": 427,
+        "speaker": "Caio Gomes",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 427,
+        "endTime": 436,
+        "speaker": "Diego Diehl",
+        "text": "disparar. Porque teu time? Pode até ligar mas vai em câmera lenta, né?"
+      },
+      {
+        "startTime": 436,
+        "endTime": 436,
+        "speaker": "Caio Gomes",
+        "text": "Legal legal isso aí também é uma"
+      },
+      {
+        "startTime": 436,
+        "endTime": 443,
+        "speaker": "Diego Diehl",
+        "text": "O que dá para fazer é disparar que é o mecanismo que já tem Funcionando aqui, não é?"
+      },
+      {
+        "startTime": 443,
+        "endTime": 448,
+        "speaker": "Caio Gomes",
+        "text": "boa uma boa então, quanto que eu tenho lá inativos 16 mil."
+      },
+      {
+        "startTime": 448,
+        "endTime": 449,
+        "speaker": "Carlos Stoppa",
+        "text": "1985 sem gerente"
+      },
+      {
+        "startTime": 449,
+        "endTime": 456,
+        "speaker": "Caio Gomes",
+        "text": "19 mil sem gerente então eu quero pegar essa base aí e fazer um disparo e daí os que interagiram e daí roleta."
+      },
+      {
+        "startTime": 463,
+        "endTime": 466,
+        "speaker": "Junior Silva",
+        "text": "Essa base aí você já tá no sistema, né? Cada um tá."
+      },
+      {
+        "startTime": 466,
+        "endTime": 467,
+        "speaker": "Carlos Stoppa",
+        "text": "Já já sim."
+      },
+      {
+        "startTime": 467,
+        "endTime": 468,
+        "speaker": "Junior Silva",
+        "text": "aí, né?"
+      },
+      {
+        "startTime": 468,
+        "endTime": 468,
+        "speaker": "Carlos Stoppa",
+        "text": "já já"
+      },
+      {
+        "startTime": 468,
+        "endTime": 477,
+        "speaker": "Junior Silva",
+        "text": "Essa base é uma base fria ou teve em algum momento algum relacionamento Caio?"
+      },
+      {
+        "startTime": 477,
+        "endTime": 480,
+        "speaker": "Caio Gomes",
+        "text": "70% já teve relacionamento."
+      },
+      {
+        "startTime": 482,
+        "endTime": 511,
+        "speaker": "Junior Silva",
+        "text": "Tá cara, a gente tem dois caminhos aqui, ó. Hoje o disparo de bases frias normalmente a gente usa o nosso robô aqui que pluga múltiplos chips aqui que pode ser bloqueado ou não. E aí a gente empata esses robôs a gente tem dois caminhos aqui, né? Esse plano a gente normalmente faz no transacional que a gente Além disso ativa novos corretores, então a gente ativa o corretores onde sair venda disso a gente participa sobre a transação."
+      },
+      {
+        "startTime": 511,
+        "endTime": 529,
+        "speaker": "Junior Silva",
+        "text": "Ou a gente pode fazer algo diferente com a cetim em fazer um inicial para a gente para você entender o trabalho disso, né? Até o Diego me comentou e depois fazer um plano de dispara em massa aí para você poder começar a trabalhar isso com o volume maior então a gente"
+      },
+      {
+        "startTime": 529,
+        "endTime": 545,
+        "speaker": "Caio Gomes",
+        "text": "E daí só para entender, beleza? Esse robô fez o disparo. Vamos pegar uma base pequena de 1000, ele fez um disparo para mil daí 200 falar. Ah, eu quero quero informação, eu quero ele vai para uma outra aba ele vem planilha para mim, como funciona?"
+      },
+      {
+        "startTime": 545,
+        "endTime": 570,
+        "speaker": "Junior Silva",
+        "text": "Não ele vai automático já para o coordenador, ele vai automaticamente já nascer por coordenador mandando uma mensagem para ele assim ó igual adoro. Olá vi que você se interessou e semi parceira. Olá sou Fulano sua coordenadora. Tá isso é automático. Então nego, quando eu coloco ele para esse robô ele fazer a ativação eu posso colocar SMS eu posso colocar ligação eu posso colocar disparo de"
+      },
+      {
+        "startTime": 570,
+        "endTime": 571,
+        "speaker": "Caio Gomes",
+        "text": "tá"
+      },
+      {
+        "startTime": 571,
+        "endTime": 590,
+        "speaker": "Junior Silva",
+        "text": "WhatsApp? A gente vai começar então fazendo já o disparo de WhatsApp. Depois a Júlia eu quero bombar. Quero fazer ligação e SMS a gente pode encaixar aqui tá? Então a gente já pode pegar essa base de zero Carlão colocar com Felipe lá e a gente Colocou também a cetim já."
+      },
+      {
+        "startTime": 590,
+        "endTime": 597,
+        "speaker": "Caio Gomes",
+        "text": "E isso e eu quero que rolete a pena para os três os cinco que eu tenho na base. O Diego já sabe quais são?"
+      },
+      {
+        "startTime": 597,
+        "endTime": 601,
+        "speaker": "Junior Silva",
+        "text": "Tá o Carlos. Você já foi lá Carlos? Você tá logado aí na"
+      },
+      {
+        "startTime": 601,
+        "endTime": 601,
+        "speaker": "Carlos Stoppa",
+        "text": "tô"
+      },
+      {
+        "startTime": 601,
+        "endTime": 629,
+        "speaker": "Junior Silva",
+        "text": "setinha? Você consegue compartilhar? O que poderia fazer já dei Zero. Isso tudo o Caio era legal, a gente não passou a jornada do anfitrião lá com Caio, né? O Caio aqui dentro em configurações você tem lá, como configurar os usuários para receber parceiros, então o que a gente pode fazer quem tiver com muito parceiro, por exemplo."
+      },
+      {
+        "startTime": 629,
+        "endTime": 634,
+        "speaker": "Junior Silva",
+        "text": "O Agnaldo tá com isso aí desmarcado, ele não recebeu mais se ele já tá com volume mesmo."
+      },
+      {
+        "startTime": 634,
+        "endTime": 638,
+        "speaker": "Caio Gomes",
+        "text": "Beleza. Tá beleza me mantém."
+      },
+      {
+        "startTime": 638,
+        "endTime": 639,
+        "speaker": "Junior Silva",
+        "text": "Marcado ou desmarcado."
+      },
+      {
+        "startTime": 639,
+        "endTime": 641,
+        "speaker": "Caio Gomes",
+        "text": "Não sem ele receber nada."
+      },
+      {
+        "startTime": 641,
+        "endTime": 642,
+        "speaker": "Junior Silva",
+        "text": "Ah tá bom então, beleza ó então"
+      },
+      {
+        "startTime": 642,
+        "endTime": 644,
+        "speaker": "Carlos Stoppa",
+        "text": "desmarca"
+      },
+      {
+        "startTime": 644,
+        "endTime": 648,
+        "speaker": "Junior Silva",
+        "text": "em usuários aqui eu vou e desmarquei eu não quero que receba. Tem mais alguém que você não quer que receba."
+      },
+      {
+        "startTime": 649,
+        "endTime": 669,
+        "speaker": "Caio Gomes",
+        "text": "A Cláudia e o Renê também o Renê daí Diego eu preciso entender com você, porque o Renê o nosso gerente lá de Campinas. Lá em Campinas, além de é da Cetim também, mas eu acho que a orla considera como outra praça. e daí a gente contratou só se tinha então como exato, só que daí para"
+      },
+      {
+        "startTime": 669,
+        "endTime": 672,
+        "speaker": "Diego Diehl",
+        "text": "Vocês não pagam Campinas."
+      },
+      {
+        "startTime": 672,
+        "endTime": 677,
+        "speaker": "Caio Gomes",
+        "text": "o Renê subir uma pancada de gente também lá. ele tá"
+      },
+      {
+        "startTime": 677,
+        "endTime": 681,
+        "speaker": "Junior Silva",
+        "text": "Subiu porque ele tava marcado, aí ele tava marcado aqui para receber."
+      },
+      {
+        "startTime": 681,
+        "endTime": 686,
+        "speaker": "Caio Gomes",
+        "text": "Ah beleza, mas eu quero beleza. Tá bom se der para continuar subindo, ok?"
+      },
+      {
+        "startTime": 686,
+        "endTime": 686,
+        "speaker": "Diego Diehl",
+        "text": "Não daí tira né? Porque só vai"
+      },
+      {
+        "startTime": 686,
+        "endTime": 687,
+        "speaker": "Junior Silva",
+        "text": "Aqui ele estava só para você"
+      },
+      {
+        "startTime": 687,
+        "endTime": 688,
+        "speaker": "Diego Diehl",
+        "text": "subir de São Paulo."
+      },
+      {
+        "startTime": 691,
+        "endTime": 705,
+        "speaker": "Junior Silva",
+        "text": "entender Caio tem como fazer a segmentação da roleta nathegra tem integra, São Paulo, Rio e Campinas são roletas diferentes tá é aqui na cetim tá uma roleta única, então a Renê o Renê tá recebendo."
+      },
+      {
+        "startTime": 705,
+        "endTime": 708,
+        "speaker": "Caio Gomes",
+        "text": "Não o remessa é só Campinas o Renê."
+      },
+      {
+        "startTime": 708,
+        "endTime": 715,
+        "speaker": "Junior Silva",
+        "text": "então, ele tem que parar de receber porque você não tá integrado com Campinas a não ser que vocês ativam o plano do órulo aí e faço um plano só Campinas e"
+      },
+      {
+        "startTime": 715,
+        "endTime": 726,
+        "speaker": "Caio Gomes",
+        "text": "Não beleza, mas na base que eu subi. Pro Z2 em diferentes de ouro ou não tem os parceiros que são do Renê lá de Campinas."
+      },
+      {
+        "startTime": 726,
+        "endTime": 730,
+        "speaker": "Junior Silva",
+        "text": "Beleza, tá com ele? Só que ele também tava para receber novos parceiros do ano."
+      },
+      {
+        "startTime": 730,
+        "endTime": 734,
+        "speaker": "Diego Diehl",
+        "text": "Não vai impactar isso. Eu tô trava."
+      },
+      {
+        "startTime": 734,
+        "endTime": 745,
+        "speaker": "Caio Gomes",
+        "text": "Não isso então eu quero só recebendo contatos novos aqui em São Paulo, Datena Elisa e Elenice só esses três."
+      },
+      {
+        "startTime": 745,
+        "endTime": 746,
+        "speaker": "Carlos Stoppa",
+        "text": "Tão marcado já?"
+      },
+      {
+        "startTime": 755,
+        "endTime": 756,
+        "speaker": "Caio Gomes",
+        "text": "deixou"
+      },
+      {
+        "startTime": 756,
+        "endTime": 760,
+        "speaker": "Junior Silva",
+        "text": "Esses outros aí que é João."
+      },
+      {
+        "startTime": 760,
+        "endTime": 762,
+        "speaker": "Carlos Stoppa",
+        "text": "O João aqui é do órgão."
+      },
+      {
+        "startTime": 762,
+        "endTime": 764,
+        "speaker": "Junior Silva",
+        "text": "Beleza, só não tá para receber."
+      },
+      {
+        "startTime": 764,
+        "endTime": 765,
+        "speaker": "Carlos Stoppa",
+        "text": "Leandro também não."
+      },
+      {
+        "startTime": 765,
+        "endTime": 770,
+        "speaker": "Caio Gomes",
+        "text": "Não Leandro, não vi ele não caia não."
+      },
+      {
+        "startTime": 770,
+        "endTime": 771,
+        "speaker": "Carlos Stoppa",
+        "text": "sem gerente"
+      },
+      {
+        "startTime": 771,
+        "endTime": 773,
+        "speaker": "Caio Gomes",
+        "text": "Quem quer ser gerente?"
+      },
+      {
+        "startTime": 773,
+        "endTime": 773,
+        "speaker": "Carlos Stoppa",
+        "text": "Aqui é a carteira isso."
+      },
+      {
+        "startTime": 773,
+        "endTime": 777,
+        "speaker": "Junior Silva",
+        "text": "o usuário que a carteira"
+      },
+      {
+        "startTime": 777,
+        "endTime": 780,
+        "speaker": "Carlos Stoppa",
+        "text": "E aqui O Rodrigo é de mim também não vai beleza."
+      },
+      {
+        "startTime": 780,
+        "endTime": 780,
+        "speaker": "Caio Gomes",
+        "text": "Porque só para entender porque que o"
+      },
+      {
+        "startTime": 780,
+        "endTime": 782,
+        "speaker": "Junior Silva",
+        "text": "É seu."
+      },
+      {
+        "startTime": 782,
+        "endTime": 786,
+        "speaker": "Caio Gomes",
+        "text": "Vini desativados todos os outros estão ativados."
+      },
+      {
+        "startTime": 786,
+        "endTime": 789,
+        "speaker": "Carlos Stoppa",
+        "text": "Boa pergunta deixa eu dar uma olhadinha aqui."
+      },
+      {
+        "startTime": 790,
+        "endTime": 810,
+        "speaker": "Caio Gomes",
+        "text": "Relembrando a minha operação que você chama de coordenadora chama o gerente eu tenho Datena Elisa, ele disse aqui Cláudia como gerentes embaixo deles como coordenador, mas o Ville é sei lá ficou uma desatenção aí ele acabou recebendo um outro parceiro lá, já tiramos isso dele já faz acho que uma semana um pouco mais uma semana."
+      },
+      {
+        "startTime": 810,
+        "endTime": 812,
+        "speaker": "Junior Silva",
+        "text": "E qual que é o papel dele?"
+      },
+      {
+        "startTime": 812,
+        "endTime": 818,
+        "speaker": "Caio Gomes",
+        "text": "Ele é um suporte dos gerentes, ele não tem parceiro direto. Ele atende todos os parceiros."
+      },
+      {
+        "startTime": 818,
+        "endTime": 820,
+        "speaker": "Diego Diehl",
+        "text": "um coordenador de produto"
+      },
+      {
+        "startTime": 820,
+        "endTime": 824,
+        "speaker": "Caio Gomes",
+        "text": "Coordenador isso por isso que é um coordenador de produto."
+      },
+      {
+        "startTime": 824,
+        "endTime": 828,
+        "speaker": "Carlos Stoppa",
+        "text": "Beleza, ajustei aqui o superfície."
+      },
+      {
+        "startTime": 828,
+        "endTime": 830,
+        "speaker": "Caio Gomes",
+        "text": "Não entendi"
+      },
+      {
+        "startTime": 830,
+        "endTime": 832,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu já ativei ele aqui a gente"
+      },
+      {
+        "startTime": 832,
+        "endTime": 832,
+        "speaker": "Caio Gomes",
+        "text": "O que beleza, mas ele não vai mais"
+      },
+      {
+        "startTime": 832,
+        "endTime": 835,
+        "speaker": "Carlos Stoppa",
+        "text": "inativado porque ele tava recebendo os parceiros do Ouro."
+      },
+      {
+        "startTime": 835,
+        "endTime": 836,
+        "speaker": "Caio Gomes",
+        "text": "receber pessoas."
+      },
+      {
+        "startTime": 836,
+        "endTime": 839,
+        "speaker": "Carlos Stoppa",
+        "text": "Não não tem nem a marcação para ele aqui, pode ficar tranquilo."
+      },
+      {
+        "startTime": 839,
+        "endTime": 845,
+        "speaker": "Caio Gomes",
+        "text": "Eu tô entrando direto, mas assim ó"
+      },
+      {
+        "startTime": 845,
+        "endTime": 855,
+        "speaker": "Diego Diehl",
+        "text": "O roleta Tá ok vai receber e você pode entrar ali dar uma forçada para você entender também e gravar que você pode regular ali as coisas. Então beleza"
+      },
+      {
+        "startTime": 855,
+        "endTime": 867,
+        "speaker": "Caio Gomes",
+        "text": "travando bastante, viu? Não carrega e tal. Não sei se é um processo de vocês aí que tá pela."
+      },
+      {
+        "startTime": 867,
+        "endTime": 870,
+        "speaker": "Junior Silva",
+        "text": "Não a gente até mudou mudou algumas coisas aí Caiu só por causa das"
+      },
+      {
+        "startTime": 870,
+        "endTime": 874,
+        "speaker": "Caio Gomes",
+        "text": "Hoje inclusive hoje, inclusive travando."
+      },
+      {
+        "startTime": 874,
+        "endTime": 885,
+        "speaker": "Junior Silva",
+        "text": "É não por causa do volume de parceiros ali que você tem ativos ali para toda hora fica filtrando na tela de contato lá até o time fez umas mudanças lá e vai subir mais uma mudança hoje só por causa da"
+      },
+      {
+        "startTime": 885,
+        "endTime": 885,
+        "speaker": "Caio Gomes",
+        "text": "Tá que bom."
+      },
+      {
+        "startTime": 885,
+        "endTime": 906,
+        "speaker": "Junior Silva",
+        "text": "setinha aí porque em tese ali ó, se você for olhar em contatos. O que que é feito aqui ó, você não sobe os 19 mil parceiros, eu jogo ele para o robô trabalhar o robô trabalha eles e só sobe quem ativou senão você fica subindo lixo lá, cara que não quer nem conversa contigo."
+      },
+      {
+        "startTime": 906,
+        "endTime": 908,
+        "speaker": "Caio Gomes",
+        "text": "Não entendi"
+      },
+      {
+        "startTime": 909,
+        "endTime": 922,
+        "speaker": "Junior Silva",
+        "text": "É nas empresas que a gente ativa ele não pega aqui e sobe a lista de 50 mil corretores, ele não tem relacionamento. Ele sobe os que ele tem aí ele fala assim cara 20 mil aqui que é o caso teu aqui, eu não tenho um relacionamento, beleza?"
+      },
+      {
+        "startTime": 922,
+        "endTime": 923,
+        "speaker": "Caio Gomes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 923,
+        "endTime": 942,
+        "speaker": "Junior Silva",
+        "text": "É aí eu vou e faço e começa a fazer o disparo dele e os que ativarem os que quiser relacionamento com a cetim, aí eu conecto ele no board ali para estar com coordenador aqui, você inverteu você falou assim Carlos. Eu quero todo mundo da minha base aqui dentro do sistema aqui."
+      },
+      {
+        "startTime": 942,
+        "endTime": 981,
+        "speaker": "Caio Gomes",
+        "text": "para você entender Júnior acetim tem uma peculiaridade com a grande maioria das outras incorporadoras os nossos Empreendimentos são de alto padrão. Então Junior. Às vezes o corretor a gente manda mensagem para ele durante um ano, ele nunca tem ele sempre tá trabalhando e o que é 300 mil 500 mil integram enfim, trabalha outros incorporadores e daí quando a gente já mostra o aparelho de 6 milhões, ele fala Putz agora tem um cliente então ele pode ele tem uma jornada muito longa com a gente então a gente fica ativando ele toda semana e ele nunca não se responde daqui seis meses um ano ele fala ô e aí lembrei que eu sei que você era cetim."
+      },
+      {
+        "startTime": 981,
+        "endTime": 994,
+        "speaker": "Caio Gomes",
+        "text": "Tô com um cliente para o Carlos, entendeu? Por isso que eu pedi para subir toda a nossa base interações é que a gente tem poucas interações referente a outros incorporadores que tem produtos com menor."
+      },
+      {
+        "startTime": 994,
+        "endTime": 998,
+        "speaker": "Junior Silva",
+        "text": "É uma essa base ali, quanto está Carlão lá em cima."
+      },
+      {
+        "startTime": 998,
+        "endTime": 1000,
+        "speaker": "Carlos Stoppa",
+        "text": "35 mil quase 36 já"
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1001,
+        "speaker": "Junior Silva",
+        "text": "os 39"
+      },
+      {
+        "startTime": 1001,
+        "endTime": 1003,
+        "speaker": "Caio Gomes",
+        "text": "Não lista comprada. Não tem lista"
+      },
+      {
+        "startTime": 1004,
+        "endTime": 1013,
+        "speaker": "Junior Silva",
+        "text": "Os 40 mil Caras Caras que se cadastraram com a setinha ou tem lista comprada aí no meio."
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1016,
+        "speaker": "Caio Gomes",
+        "text": "fria. Vamos falar assim lista que eu tinha aqui na base que era a lista do"
+      },
+      {
+        "startTime": 1016,
+        "endTime": 1016,
+        "speaker": "Junior Silva",
+        "text": "é trocada lista de"
+      },
+      {
+        "startTime": 1016,
+        "endTime": 1040,
+        "speaker": "Caio Gomes",
+        "text": "crédito. É isso? Aí, tem tem tem tem parte ali, mas eu vou chutar 39 mil que Que é uma lista fria 10.000 parceiros 30 mil são Tim já tem algum momento já teve alguma alteração você com a cetim já foi corretor da Cetim, eu subi uma base aí agora por exemplo."
+      },
+      {
+        "startTime": 1040,
+        "endTime": 1055,
+        "speaker": "Caio Gomes",
+        "text": "3 mil parceiros que são esses corretores. Então assim já passaram pela House aqui se eles estão trabalhando na área, ainda assim."
+      },
+      {
+        "startTime": 1056,
+        "endTime": 1065,
+        "speaker": "Junior Silva",
+        "text": "A ideia a ideia é a gente sempre perseguia. Aí o Caio é aumentar esse volume de usuários impactados ali."
+      },
+      {
+        "startTime": 1065,
+        "endTime": 1067,
+        "speaker": "Caio Gomes",
+        "text": "Aonde que é o impactado ao verificados?"
+      },
+      {
+        "startTime": 1067,
+        "endTime": 1077,
+        "speaker": "Junior Silva",
+        "text": "Não o verificado é diferente do impactado ali ó impactado é o cara que pelo menos ele tá recebendo alguma mensagem o verificado é o cara que responde."
+      },
+      {
+        "startTime": 1077,
+        "endTime": 1082,
+        "speaker": "Caio Gomes",
+        "text": "Então dos 39 mil que eu tô mandando só 600 estão recebendo Não não pode ser."
+      },
+      {
+        "startTime": 1082,
+        "endTime": 1089,
+        "speaker": "Junior Silva",
+        "text": "645 da atualização aqui recebeu algum tipo de mensagem aqui e"
+      },
+      {
+        "startTime": 1089,
+        "endTime": 1091,
+        "speaker": "Diego Diehl",
+        "text": "Do gerente responsável, né Júnior?"
+      },
+      {
+        "startTime": 1091,
+        "endTime": 1093,
+        "speaker": "Junior Silva",
+        "text": "quatro do gerente responsável"
+      },
+      {
+        "startTime": 1093,
+        "endTime": 1096,
+        "speaker": "Diego Diehl",
+        "text": "porque eu a minha hipótese aí é que"
+      },
+      {
+        "startTime": 1096,
+        "endTime": 1097,
+        "speaker": "Caio Gomes",
+        "text": "muitos que estão na base do Agnaldo"
+      },
+      {
+        "startTime": 1097,
+        "endTime": 1098,
+        "speaker": "Diego Diehl",
+        "text": "Tem uma galera"
+      },
+      {
+        "startTime": 1098,
+        "endTime": 1104,
+        "speaker": "Caio Gomes",
+        "text": "ali que vocês estão mudando aí agora é isso que eu tô falando, né?"
+      },
+      {
+        "startTime": 1104,
+        "endTime": 1107,
+        "speaker": "Junior Silva",
+        "text": "É que não vai mudar, né? Na verdade o usuário não vai ser"
+      },
+      {
+        "startTime": 1107,
+        "endTime": 1108,
+        "speaker": "Caio Gomes",
+        "text": "Vai aumentar o impactado aqui."
+      },
+      {
+        "startTime": 1108,
+        "endTime": 1109,
+        "speaker": "Junior Silva",
+        "text": "impactado."
+      },
+      {
+        "startTime": 1111,
+        "endTime": 1120,
+        "speaker": "Diego Diehl",
+        "text": "Calma Vamos separar os assuntos um assunto Caio teu teu trazer dois talento porque a gente subiu muita coisa aí ponto a gente tá"
+      },
+      {
+        "startTime": 1120,
+        "endTime": 1121,
+        "speaker": "Caio Gomes",
+        "text": "tá"
+      },
+      {
+        "startTime": 1121,
+        "endTime": 1147,
+        "speaker": "Diego Diehl",
+        "text": "arrumando. Segundo ponto e que a gente vai fazer com esses 20 mil. a gente vai disparar a gente tem que negociar isso agora esse é um É aí, depois você a gente tem que ver algum movimento que você queira fazer. Se você quiser organizar a tua base mudar gente de nome de um lado para o outro que daí eu acho que dá para a gente deixar para uma próxima ida."
+      },
+      {
+        "startTime": 1147,
+        "endTime": 1164,
+        "speaker": "Diego Diehl",
+        "text": "Vamos deixar rodar mais um pouco, então seria legal. Acho que a gente definir como que a gente pode fazer. Talvez um primeiro teste. E depois como é que a gente pode fazer isso em escala para você, cara, porque a gente tá atração, né? Cara? Tem que ter 5 mil impactados no mínimo."
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1175,
+        "speaker": "Caio Gomes",
+        "text": "falando assim se o corretor tá na base da Elenice. Mas é a Elisa que tá mandando a informação não tá aumentando meu impactado aí quer dizer assim."
+      },
+      {
+        "startTime": 1175,
+        "endTime": 1176,
+        "speaker": "Junior Silva",
+        "text": "Não."
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1176,
+        "speaker": "Diego Diehl",
+        "text": "isso"
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1186,
+        "speaker": "Caio Gomes",
+        "text": "só é só de falar ele vai essa pessoa vai fazer a venda pela Elisa normal, só que a gente não vai aumentar o impactado aqui correto é isso, né?"
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1187,
+        "speaker": "Junior Silva",
+        "text": "É isso."
+      },
+      {
+        "startTime": 1188,
+        "endTime": 1205,
+        "speaker": "Caio Gomes",
+        "text": "Eu quero aumentar o impactado para eu aumentar o impactado né? Ou seja para mensurar aqui, quantos corretores estão interagindo com a gente eu deveria ter mais de um corretor mais um coordenador responsável por É isso não é isso que a gente tá falando."
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1218,
+        "speaker": "Junior Silva",
+        "text": "É não vai ser mais de um coordenador responsável, vai ser um só o que vai acontecer é que automação eu vou fazer em nome de quem teve a última interação recebida do lado do corretor. Então"
+      },
+      {
+        "startTime": 1218,
+        "endTime": 1218,
+        "speaker": "Caio Gomes",
+        "text": "Beleza perfeito, é isso vai"
+      },
+      {
+        "startTime": 1218,
+        "endTime": 1223,
+        "speaker": "Junior Silva",
+        "text": "se não tem nenhuma eu vou fazendo em nome do cara normal. é"
+      },
+      {
+        "startTime": 1223,
+        "endTime": 1236,
+        "speaker": "Caio Gomes",
+        "text": "o meu número de impactados ali, né? Ah, ele tá na base da Cláudia, mas ele tá essa pessoa tá interagindo com o Datena vai aumentar o número de impactado ali certo que automaticamente"
+      },
+      {
+        "startTime": 1238,
+        "endTime": 1247,
+        "speaker": "Junior Silva",
+        "text": "Não eu não vou mudar a carteira dele não, eu só vou fazer automação e nome dele, eu não vou mudar a carteira, você quer que muda a carteira?"
+      },
+      {
+        "startTime": 1247,
+        "endTime": 1248,
+        "speaker": "Caio Gomes",
+        "text": "sim"
+      },
+      {
+        "startTime": 1248,
+        "endTime": 1272,
+        "speaker": "Diego Diehl",
+        "text": "Calma aí é Vamos separar mudar a carteira. a gente tem que fazer com Um cautela ali eu posso até trocar uma ideia com você pelos fluidos que pode gerar aí dentro, você só mudasse mudando com Automação vai virar um causa. E que eu faria primeiro que vamos matar isso aqui ó, vamos crescer venda em primeiro crescer venda da coisa para todo mundo então."
+      },
+      {
+        "startTime": 1272,
+        "endTime": 1306,
+        "speaker": "Diego Diehl",
+        "text": "Se a gente você já tem uma base de 20 mil corretores, f***-se esse contato impactado ali esse número agora agora. Vamos pegar esses 20 mil que você tem e disparar para essa galera e ver uma forma da gente combinar. Eu acho que é objetivo principal dessa reunião. Aproveitar que o Júnior tá aí o Carlão em vez de que forma a gente pode organizar esse disparo."
+      },
+      {
+        "startTime": 1306,
+        "endTime": 1306,
+        "speaker": "Diego Diehl",
+        "text": "Talvez um primeiro teste. Talvez depois como é que a gente pode parar para 20 mil. E aí vai vir um monte de corretor novo que você vai dar na carteira de quem você quiser que eles estão sem gerente, aí depois a gente vê uma"
+      },
+      {
+        "startTime": 1306,
+        "endTime": 1307,
+        "speaker": "Caio Gomes",
+        "text": "exato exato"
+      },
+      {
+        "startTime": 1310,
+        "endTime": 1325,
+        "speaker": "Diego Diehl",
+        "text": "forma de tirar um relatório para você ter esse relatório tomar as decisões que você quer com a tua carteira esse Fulano aqui. Não tá interagindo com Agnaldo e tá na carteira do Agnaldo. Ele falou 200 vezes com o Datena. Você quer fazer algo?"
+      },
+      {
+        "startTime": 1325,
+        "endTime": 1327,
+        "speaker": "Caio Gomes",
+        "text": "conseguir monitorar isso, né? Beleza?"
+      },
+      {
+        "startTime": 1327,
+        "endTime": 1336,
+        "speaker": "Diego Diehl",
+        "text": "Esse eu tenho que validar aqui certinho com o Júnior ele com o Carlão que a gente vai fazer isso uma vez. Para você ter uma visão, então é melhor ter mais dado ter mais histórico aí para depois você"
+      },
+      {
+        "startTime": 1336,
+        "endTime": 1337,
+        "speaker": "Caio Gomes",
+        "text": "Tudo bem, beleza."
+      },
+      {
+        "startTime": 1337,
+        "endTime": 1342,
+        "speaker": "Diego Diehl",
+        "text": "olhar com mais calma, porque vai dar um trabalho isso daí, você lembra Junior do que eu tô falando."
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1360,
+        "speaker": "Junior Silva",
+        "text": "Lembro o que a gente está registrando lá, agora eu vou passar registrar vou ter que cara a gente vai ter que fazer uma customização aqui para você, não tem jeito. É porque vocês é o único que tá assim a calas que tava desta forma tá mudando de carteira aberta."
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1376,
+        "speaker": "Junior Silva",
+        "text": "Então o que a gente vai fazer é hoje, eu sei que ele tá interagindo, mas eu não estou registrando as interações que ele faz com quem não é o coordenador dele. Eu não registro cara. E aí tem"
+      },
+      {
+        "startTime": 1376,
+        "endTime": 1377,
+        "speaker": "Diego Diehl",
+        "text": "Não fica na tua base aí Júnior"
+      },
+      {
+        "startTime": 1377,
+        "endTime": 1378,
+        "speaker": "Junior Silva",
+        "text": "alguns pontos?"
+      },
+      {
+        "startTime": 1378,
+        "endTime": 1379,
+        "speaker": "Diego Diehl",
+        "text": "hoje não registra nenhum lugar"
+      },
+      {
+        "startTime": 1379,
+        "endTime": 1380,
+        "speaker": "Junior Silva",
+        "text": "Eu não registro eu não registro eu"
+      },
+      {
+        "startTime": 1380,
+        "endTime": 1382,
+        "speaker": "Diego Diehl",
+        "text": "mesmo, tá bom?"
+      },
+      {
+        "startTime": 1382,
+        "endTime": 1385,
+        "speaker": "Junior Silva",
+        "text": "tenho dado ele passa aqui eu não registro. porque"
+      },
+      {
+        "startTime": 1385,
+        "endTime": 1388,
+        "speaker": "Diego Diehl",
+        "text": "Passa o dado e a gente não tem o histórico daí."
+      },
+      {
+        "startTime": 1388,
+        "endTime": 1389,
+        "speaker": "Junior Silva",
+        "text": "É porque ele interagiu com outro"
+      },
+      {
+        "startTime": 1389,
+        "endTime": 1390,
+        "speaker": "Diego Diehl",
+        "text": "então"
+      },
+      {
+        "startTime": 1390,
+        "endTime": 1426,
+        "speaker": "Junior Silva",
+        "text": "coordenador, né? Eu posso o Carlão a gente tinha que anotar só para ver essa dinâmica lá e ver o que que daria de customização lá aí cai tem dois caminhos assim, ó, cara ou eu coloco isso como melhoria aqui a gente aguarda em chegar a vez dele na fila ou eu peço como customização aqui e eles vão me devolver um esforço de horas lá que aí eu te passo tá aí ó, se for para eu colocar agora priorizar agora para novembro ou que seja dezembro."
+      },
+      {
+        "startTime": 1426,
+        "endTime": 1438,
+        "speaker": "Junior Silva",
+        "text": "Eu tenho que ter aqui, senão eu coloco aqui na melhorias a gente executa e consegue entregar e tal data então precisa alinhar lá para eles porque eles vão me especificar Junior. Olha isso aqui, eu preciso de uma hora eu vou entregar na Sprint normal de melhorias que vem no segundo semana de dezembro."
+      },
+      {
+        "startTime": 1438,
+        "endTime": 1443,
+        "speaker": "Junior Silva",
+        "text": "Então eu só preciso alinhar tá? Aí eu vou escrever exatamente aqui o Carlão o que que vai ser feito."
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1443,
+        "speaker": "Carlos Stoppa",
+        "text": "tá"
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1461,
+        "speaker": "Junior Silva",
+        "text": "tá só para você abrir lá hoje, a gente tem que registrar na novas tabelas de interações lá todo ou qualquer interação não importa de que o usuário é Se ela foi feita com outro coordenador ou com um novo aqui, beleza? Esse é o primeiro critério que tem que ser feito segundo."
+      },
+      {
+        "startTime": 1461,
+        "endTime": 1473,
+        "speaker": "Junior Silva",
+        "text": "Quando eu estiver com a carteira aberta eu fazer a automação em nome de quem recebeu a última mensagem do corretor porque eu posso estar mandando mensagem para você, Carlão e você não me dá ideia."
+      },
+      {
+        "startTime": 1473,
+        "endTime": 1473,
+        "speaker": "Caio Gomes",
+        "text": "exato exatamente"
+      },
+      {
+        "startTime": 1473,
+        "endTime": 1480,
+        "speaker": "Junior Silva",
+        "text": "E eu caio manda mensagem, você tá trocando ideia com ele, o cara tá sendo muito mais brother, só que tu tá no meu nome."
+      },
+      {
+        "startTime": 1480,
+        "endTime": 1482,
+        "speaker": "Caio Gomes",
+        "text": "É exatamente isso Junior, entendeu"
+      },
+      {
+        "startTime": 1482,
+        "endTime": 1482,
+        "speaker": "Junior Silva",
+        "text": "É então quando voltar para ser"
+      },
+      {
+        "startTime": 1482,
+        "endTime": 1485,
+        "speaker": "Caio Gomes",
+        "text": "perfeitamente."
+      },
+      {
+        "startTime": 1485,
+        "endTime": 1494,
+        "speaker": "Junior Silva",
+        "text": "feito um automação, eu vou fazer em nome de quem recebeu a última mensagem daquele parceiro que ele respondeu. Tá aí a gente anotar."
+      },
+      {
+        "startTime": 1494,
+        "endTime": 1504,
+        "speaker": "Diego Diehl",
+        "text": "O Júnior só essa segunda ponta aí, esse pode ficar um pouco para depois aí, né? Porque a gente tem 20 mil. Que nem tem dono, né? E o Caio quer."
+      },
+      {
+        "startTime": 1504,
+        "endTime": 1505,
+        "speaker": "Junior Silva",
+        "text": "Aí eu vou eu acho que são duas"
+      },
+      {
+        "startTime": 1505,
+        "endTime": 1506,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1506,
+        "endTime": 1508,
+        "speaker": "Junior Silva",
+        "text": "coisas aqui sobre a finalização"
+      },
+      {
+        "startTime": 1508,
+        "endTime": 1508,
+        "speaker": "Diego Diehl",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1510,
+        "endTime": 1518,
+        "speaker": "Junior Silva",
+        "text": "sobre a carteira e a outra é ativar a base ativar a base. Eu tô muito confortável aqui que eu vou subir aqui o robô sai fazendo o que ele faz todo dia lá."
+      },
+      {
+        "startTime": 1518,
+        "endTime": 1521,
+        "speaker": "Diego Diehl",
+        "text": "Porque ativa como cetim e roleta, né?"
+      },
+      {
+        "startTime": 1521,
+        "endTime": 1522,
+        "speaker": "Caio Gomes",
+        "text": "É isso."
+      },
+      {
+        "startTime": 1522,
+        "endTime": 1523,
+        "speaker": "Junior Silva",
+        "text": "Isso é isso é isso a gente"
+      },
+      {
+        "startTime": 1523,
+        "endTime": 1524,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1525,
+        "endTime": 1540,
+        "speaker": "Junior Silva",
+        "text": "normalmente ativa aqui tem uma forma de ativar e a gente via cetim se eu não me engano Carlão vai lá embaixo, eu acho que você tinha eu já tinha colocado o dia que você me ligou. lá no gráfico lá de origem ver se tem ativação e"
+      },
+      {
+        "startTime": 1540,
+        "endTime": 1544,
+        "speaker": "Caio Gomes",
+        "text": "Um minuto só vou pegar um café aqui na frente um minuto aqui rapidão, tá?"
+      },
+      {
+        "startTime": 1548,
+        "endTime": 1568,
+        "speaker": "Junior Silva",
+        "text": "Filtra o Carlão vai lá em ativação e a na tela de filtros. original Eu acho que a gente já tinha ativado aqui."
+      },
+      {
+        "startTime": 1580,
+        "endTime": 1583,
+        "speaker": "Caio Gomes",
+        "text": "Qual a mensagem que vocês mandam para ativar esses 20 mil?"
+      },
+      {
+        "startTime": 1586,
+        "endTime": 1596,
+        "speaker": "Junior Silva",
+        "text": "Normalmente a gente bola mensagem aqui, aí você pode escolher também. Eu normalmente a gente manda mensagem genérica aqui. Ó. Deixa eu ver se eu tenho um aqui que eu recebi por último."
+      },
+      {
+        "startTime": 1596,
+        "endTime": 1603,
+        "speaker": "Carlos Stoppa",
+        "text": "Geralmente eu te define a institucional a mensagem ou de algum produto específico para ativar"
+      },
+      {
+        "startTime": 1603,
+        "endTime": 1609,
+        "speaker": "Caio Gomes",
+        "text": "Eu como eu não tenho nenhum produto. É Talvez eu tenha que sei lá."
+      },
+      {
+        "startTime": 1609,
+        "endTime": 1611,
+        "speaker": "Junior Silva",
+        "text": "É melhor fazer institucional Caio."
+      },
+      {
+        "startTime": 1611,
+        "endTime": 1612,
+        "speaker": "Carlos Stoppa",
+        "text": "Faz sentido."
+      },
+      {
+        "startTime": 1612,
+        "endTime": 1612,
+        "speaker": "Caio Gomes",
+        "text": "Porque a gente vai ter a gente vai"
+      },
+      {
+        "startTime": 1612,
+        "endTime": 1614,
+        "speaker": "Junior Silva",
+        "text": "chama mais atenção."
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1626,
+        "speaker": "Caio Gomes",
+        "text": "ter um lançamento no Itaim, né? E a gente sabe que esse bairro querendo ou não, chama muita atenção, né? Breve lançamento."
+      },
+      {
+        "startTime": 1628,
+        "endTime": 1667,
+        "speaker": "Junior Silva",
+        "text": "Cara, eu gosto assim, ó, conecte-se aqui em mais de 800 milhões em unidades em oportunidades dentro de São Paulo, cetim conexão nessa linha que eu vi que seu vgb tá mais ou menos e 8 milhões 800 milhões de estoque, né, mas deve ser mais ou não. Então esses coisas que às vezes atrai conecte aqui com a setinha agora já veio selecione seu gerente tem um atendimento Premium."
+      },
+      {
+        "startTime": 1667,
+        "endTime": 1671,
+        "speaker": "Junior Silva",
+        "text": "Aí a gente bola aqui faz outros pares para o cara despertar o interesse o que a gente sempre recomenda é que quando o cara receber a mensagem teu time tem que ali fazer o trabalho lá de onboard. Quer ver? Ó Carlão Compartilha o anfitrião que eu queria passar aqui com o Caio aqui só para ele entender aqui rapidamente."
+      },
+      {
+        "startTime": 1671,
+        "endTime": 1674,
+        "speaker": "Junior Silva",
+        "text": "Ou se você quiser eu compartilho daquilo que você"
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1674,
+        "speaker": "Carlos Stoppa",
+        "text": "Você que sabe quer saber controla."
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1675,
+        "speaker": "Junior Silva",
+        "text": "prefere."
+      },
+      {
+        "startTime": 1675,
+        "endTime": 1676,
+        "speaker": "Carlos Stoppa",
+        "text": "aí tanto faz."
+      },
+      {
+        "startTime": 1676,
+        "endTime": 1678,
+        "speaker": "Junior Silva",
+        "text": "Então, pera aí, deixa eu abrir aqui."
+      },
+      {
+        "startTime": 1683,
+        "endTime": 1688,
+        "speaker": "Diego Diehl",
+        "text": "Só sobre disparo para ficar claro, a gente vai disparar para mim agora para realizar esse teste."
+      },
+      {
+        "startTime": 1690,
+        "endTime": 1702,
+        "speaker": "Junior Silva",
+        "text": "Eu sugeriria pegar uns 2000. A gente já faz esse disparo aqui, eu já coloco lá na lista, viu? O Carlos. Para a gente alinhar com Felipe para gente começar a se disparo na segunda-feira, já tá ativando ali"
+      },
+      {
+        "startTime": 1702,
+        "endTime": 1702,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1702,
+        "endTime": 1719,
+        "speaker": "Junior Silva",
+        "text": "entrando corretores do tipo ativação e a tá o Diego então já começou o dia que você me ligou. Aí eu falei Diego. Então vou colocar ele já no como se tivesse no projeto transacional. Eu só fiquei de ver ali quando os corretores gerou Enquanto isso a gente veio aqui, o Carlão já Tenta ver certinho ali."
+      },
+      {
+        "startTime": 1722,
+        "endTime": 1729,
+        "speaker": "Diego Diehl",
+        "text": "você vai dar ok na mensagem. Vai definir para quem vai esse corretores que é para Elisa Helenice Datena."
+      },
+      {
+        "startTime": 1729,
+        "endTime": 1729,
+        "speaker": "Caio Gomes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1729,
+        "endTime": 1733,
+        "speaker": "Diego Diehl",
+        "text": "E aí vai começar o tiroteio?"
+      },
+      {
+        "startTime": 1733,
+        "endTime": 1735,
+        "speaker": "Junior Silva",
+        "text": "Já tá definido os corretores certo"
+      },
+      {
+        "startTime": 1735,
+        "endTime": 1736,
+        "speaker": "Caio Gomes",
+        "text": "sim"
+      },
+      {
+        "startTime": 1736,
+        "endTime": 1738,
+        "speaker": "Junior Silva",
+        "text": "vão ser aqueles lá, né?"
+      },
+      {
+        "startTime": 1738,
+        "endTime": 1740,
+        "speaker": "Diego Diehl",
+        "text": "Os corretores também que são os que"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1742,
+        "speaker": "Junior Silva",
+        "text": "os gerentes"
+      },
+      {
+        "startTime": 1742,
+        "endTime": 1747,
+        "speaker": "Diego Diehl",
+        "text": "estão sem gerente. com a pessoa sem gerente lá"
+      },
+      {
+        "startTime": 1747,
+        "endTime": 1752,
+        "speaker": "Junior Silva",
+        "text": "O Carlão só tem que ver porque no caso da setinha ele já tá fidelizado lá dentro, né com esse gerente lá, né?"
+      },
+      {
+        "startTime": 1752,
+        "endTime": 1755,
+        "speaker": "Caio Gomes",
+        "text": "Não tá não, tá não tá tá escrito."
+      },
+      {
+        "startTime": 1755,
+        "endTime": 1756,
+        "speaker": "Junior Silva",
+        "text": "Não é que ele tá o Carlos o"
+      },
+      {
+        "startTime": 1756,
+        "endTime": 1758,
+        "speaker": "Carlos Stoppa",
+        "text": "Ele tá vinculado a um usuário Caio."
+      },
+      {
+        "startTime": 1758,
+        "endTime": 1759,
+        "speaker": "Junior Silva",
+        "text": "importou."
+      },
+      {
+        "startTime": 1759,
+        "endTime": 1762,
+        "speaker": "Diego Diehl",
+        "text": "Ele tá vinculado ao seu gerente."
+      },
+      {
+        "startTime": 1767,
+        "endTime": 1770,
+        "speaker": "Junior Silva",
+        "text": "O Carlos o ideal cara se a gente vai fazer esse disparo."
+      },
+      {
+        "startTime": 1773,
+        "endTime": 1780,
+        "speaker": "Caio Gomes",
+        "text": "minha base eu pego o meu para cada um. E daí faz mil para Datena 1000. transfiro esses mil"
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1796,
+        "speaker": "Diego Diehl",
+        "text": "Caiu é que desse número calma esse disparo que a gente tá falando. Como a gente não sabe se esse cara ele não tá verificado ali, ele não conversou com a gente ainda a gente faz um disparo para mim tem risco de banir o número do WhatsApp."
+      },
+      {
+        "startTime": 1796,
+        "endTime": 1796,
+        "speaker": "Junior Silva",
+        "text": "Não eu não faço do números deles"
+      },
+      {
+        "startTime": 1796,
+        "endTime": 1798,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente vai fazer do número"
+      },
+      {
+        "startTime": 1798,
+        "endTime": 1798,
+        "speaker": "Junior Silva",
+        "text": "não."
+      },
+      {
+        "startTime": 1798,
+        "endTime": 1806,
+        "speaker": "Diego Diehl",
+        "text": "então isso que eu tô falando é do número da chiqueira lá. Aí a tua o que você tá querendo dizer se você quer fazer em nome de alguém é que faz institucional,"
+      },
+      {
+        "startTime": 1806,
+        "endTime": 1806,
+        "speaker": "Caio Gomes",
+        "text": "Eu sei."
+      },
+      {
+        "startTime": 1806,
+        "endTime": 1808,
+        "speaker": "Diego Diehl",
+        "text": "Júnior?"
+      },
+      {
+        "startTime": 1808,
+        "endTime": 1810,
+        "speaker": "Junior Silva",
+        "text": "é"
+      },
+      {
+        "startTime": 1810,
+        "endTime": 1818,
+        "speaker": "Caio Gomes",
+        "text": "para o Datena. Os que responderem eu transfiro aquela base para o Datena."
+      },
+      {
+        "startTime": 1818,
+        "endTime": 1818,
+        "speaker": "Junior Silva",
+        "text": "é nós solução aqui, ó de 0 a"
+      },
+      {
+        "startTime": 1818,
+        "endTime": 1820,
+        "speaker": "Diego Diehl",
+        "text": "automático"
+      },
+      {
+        "startTime": 1820,
+        "endTime": 1839,
+        "speaker": "Junior Silva",
+        "text": "solução 10 é eu exclui esses 19 mil que tá esse usuário sem gerente ali. Que ele não tem função nenhuma ali dentro do sistema, ele até atrapalha o funcionamento do sistema lá, porque se o cara clica lá no órulo eu ia redistribuir ele do jeito que tá lá, eu mandei ele para esse cara."
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1864,
+        "speaker": "Junior Silva",
+        "text": "Então, ele mais atrapalha do que aí, que que eu vou pegar esses 19.000 vai estar aqui guardadinho, aí eu vou pegar desses 19.000 2.000 e vou fazer o disparo todo mundo que interagir automaticamente ele já vai nascer no board lá no painel da Cetim já redistribuindo entre os três e mandando uma mensagem igual ele faz o automático em nome de um deles."
+      },
+      {
+        "startTime": 1864,
+        "endTime": 1884,
+        "speaker": "Junior Silva",
+        "text": "Então isso aí ele já faz automático Carlos, porque é o Seria o ideal para casa. Porque senão vai dar na hora que esse cara voltar lá do órgão vai dar ele não vai transferir automático aí começa uma série de coisas, né? Teria que para funcionar desse jeito que o Caio quer."
+      },
+      {
+        "startTime": 1884,
+        "endTime": 1904,
+        "speaker": "Junior Silva",
+        "text": "A gente teria de mudar lá para funcionar tipo como se fosse um banco morto lá um banco inativo lá que esse cara a qualquer momento alguém pode ir lá pegar contatos de lá para fazer uma oferta ou pode ser o robô ou pode ser um cara que interagiu na rede do ouro, por exemplo ou no portal da setinha."
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1912,
+        "speaker": "Junior Silva",
+        "text": "Então tem três formas desse cara. Se ativar lá pelo sistema é um @secadastrado pelo próprio coordenador é o robô ativando."
+      },
+      {
+        "startTime": 1912,
+        "endTime": 1914,
+        "speaker": "Caio Gomes",
+        "text": "sim"
+      },
+      {
+        "startTime": 1914,
+        "endTime": 1948,
+        "speaker": "Junior Silva",
+        "text": "ou é os portais entreólogo e o portal do site da O bot que tá ativando ele tá? Ou origem do acesso nos portais seja no órgão ou no portal da setinha. É mas o pessoal tá usando né? O portal. Isso então se o cara logar lá também, ele já automaticamente reativa e entra ali na roleta."
+      },
+      {
+        "startTime": 1948,
+        "endTime": 1994,
+        "speaker": "Junior Silva",
+        "text": "Tá então isso é isso aí é automático. Aí o Carlos o ideal então é. Remover esses caras de lá e jogar para o disparo e aí a gente medir na semana que vem. Quantos que foram impactados Caio aí você vai ter uma reunião com Luiz Felipe que é o cara nosso aqui de transacional, ele faz o report para falar assim Caio tivemos tanto disparos tivemos tantas conversões quer mudar a peça."
+      },
+      {
+        "startTime": 1994,
+        "endTime": 2019,
+        "speaker": "Junior Silva",
+        "text": "O que que os corretores estão falando ele consegue te dar o feedback? Tá então Felipe já Organize, a gente solta e começa os disparos. Deixa eu compartilhar um negócio aqui Caio que eu acho que a gente vir aqui um material da gente monitorar entender. Em que momento está o que que a gente percebeu assim, ó existem vários processos de maturidade e níveis de atendimento do canal de parcerias, né? Então o processo que a gente entende que tá muito avançado quando a gente olha para o sul para Balneário para Itapema para essas regiões que nunca teve uma grande Lopes uma grande Brasil Broken nenhuma House em representativa dessas empresas as cidades se fizeram."
+      },
+      {
+        "startTime": 2019,
+        "endTime": 2022,
+        "speaker": "Junior Silva",
+        "text": "Ancorado em canais de parcerias todas elas e algumas delas tá muito"
+      },
+      {
+        "startTime": 2022,
+        "endTime": 2024,
+        "speaker": "Caio Gomes",
+        "text": "tá, tá"
+      },
+      {
+        "startTime": 2024,
+        "endTime": 2071,
+        "speaker": "Junior Silva",
+        "text": "avançada até gameficando já o corretor, né do nível de pagar um comissionalmente diferente metrificar o gerente de parcerias. Ele tem neta, ele tem meta de visitar as Imobiliários, ele tem meta de novos negócios aí o que que a gente resolveu fazer resolveu Escrever um documento. Que é um documento que norteia qual que é o processo ideal para você chegar num anfitrião de sucesso, eu chamo que é o canal de parceria receber bem a gente escreveu eu vou te Compartilhar esse documento aqui eu falo sobre o papel da anfitrião que é mais teoria, né? O que que é o papel? O que que ele tem que receber bem estabelecer padrões de atendimento dúvidas, né? A gestão das oportunidades o relacionamento do dia a dia ele é o responsável por todos esses quatro pilares e o que a gente percebeu que essa jornada do anfitrião."
+      },
+      {
+        "startTime": 2071,
+        "endTime": 2091,
+        "speaker": "Junior Silva",
+        "text": "Consiste em cinco principais fases tá a primeira fase Caio é automatização do canal que é a fase que a setinha está passou agora que antes o nosso canal de parcerias ele era muito informal muito em planilha muito em Excel muito em WhatsApp, então resolvemos automatização do canal, a segunda fase é você começar a nutrição desse canal, né? Nutrição."
+      },
+      {
+        "startTime": 2091,
+        "endTime": 2093,
+        "speaker": "Junior Silva",
+        "text": "De que"
+      },
+      {
+        "startTime": 2093,
+        "endTime": 2094,
+        "speaker": "Caio Gomes",
+        "text": "isso"
+      },
+      {
+        "startTime": 2094,
+        "endTime": 2112,
+        "speaker": "Junior Silva",
+        "text": "tipo não é mandar o tabelão é criar peças mediadey eventos workshop é convidar esse cara convidar ele para um onborde, cara. Tu quer ver uma coisa muito simples, eu clico no órgão eu recebo uma mensagem de alguém do Cetim, né? Olá vi que você clicou no produto da Cetim caso queira eu posso te ajudar."
+      },
+      {
+        "startTime": 2112,
+        "endTime": 2132,
+        "speaker": "Junior Silva",
+        "text": "Cara essa mensagem é uma mensagem Rasa, isso não me convidou para conhecer mais da Cetim conhecer os procedimentos como você paga a comissão. Como é que é o processo? Eu tô vendendo vou fazer uma ONG uma imersão comigo, então o que a gente tem feito, inclusive com as empresas estimular."
+      },
+      {
+        "startTime": 2132,
+        "endTime": 2151,
+        "speaker": "Junior Silva",
+        "text": "Falou cara, tu acabou de conhecer. A menina brother tu quer já ir para o motel chama ela para jantar primeiro, né? Chama ela para um jantarzinho um lanchezinho e o que que esse lanche assim jantar meu amigo, você não quer entrar num Call essa semana para gente trocar uma ideia de mostrar os produtos mais afins as campanhas que a gente tá fazendo as facilidades da conexão."
+      },
+      {
+        "startTime": 2151,
+        "endTime": 2170,
+        "speaker": "Junior Silva",
+        "text": "Esse cara tem que conseguir para destravar é o primeiro encontro do Coordenador. A gente às vezes acha mais cara acha mais cara, mas bicho ele tá cheio de menina dentro de casa que ele não fez nem o primeiro encontro. Então essa nutrição em relacionamento ele tem um metodologia que eu vou mostrar já as métricas e metas."
+      },
+      {
+        "startTime": 2170,
+        "endTime": 2183,
+        "speaker": "Junior Silva",
+        "text": "Poxa o time tem que saber aonde a gente quer chegar, cara. Você tem uma carteira de 500 corretores, eu quero que você chegue uma carteira de mil corretores, mas não é mil nomes é mil relacionamentos pelo menos."
+      },
+      {
+        "startTime": 2183,
+        "endTime": 2184,
+        "speaker": "Caio Gomes",
+        "text": "mil interações"
+      },
+      {
+        "startTime": 2184,
+        "endTime": 2206,
+        "speaker": "Junior Silva",
+        "text": "É não é que pelo menos 80% da tua base seja impactada no período de um trimestre. Um período de três meses em quarto a gameficação começa a pontuar aquele corretor que te dá atenção que merece que te vende 10 milhões por trimestre. Esse Cara você não pode tratar igual o Júnior que vende às vezes um milhão por ano."
+      },
+      {
+        "startTime": 2206,
+        "endTime": 2223,
+        "speaker": "Junior Silva",
+        "text": "Pô é igual Personalité, você tem diferença no tratamento e eu sinto a conveniência cai não adianta fazer tudo muito bonito um pré novo falou de mel casamento e chegar depois eu atrasar no pagamento da comissão do cara mandar contrato errado. A gente falou de secretaria de vendas, né?"
+      },
+      {
+        "startTime": 2223,
+        "endTime": 2226,
+        "speaker": "Caio Gomes",
+        "text": "Eu tenho esse problema aqui grande grande."
+      },
+      {
+        "startTime": 2226,
+        "endTime": 2261,
+        "speaker": "Junior Silva",
+        "text": "Cara, eu tive empresas que eu atendo que o carro vetor parceiro preferiu vender pela biara. Ele falou junto, você é louco é uma zona o cara não sabe onde tá meu contrato, eu ligo é um outro cabeça de prego lá que não sabe do que tá falando se é pacto nupcial se é pacto com os cara, fala um monte de coisa para mim."
+      },
+      {
+        "startTime": 2261,
+        "endTime": 2270,
+        "speaker": "Junior Silva",
+        "text": "Então ele fala assim, cara, a conveniência tem que estar de ponta a ponta. É isso é muito louco. Quando eu vi isso num parceiro eu falei cara, porque que tu tá vendendo cabiara que tu ganha menos ele junta, você é louco, eu ganho mesmo eu recebo aqui, eu não sei o cara confusão da nota ele te nota era uma confusão imensa então a fase 1 eu falo assim, cara, primeira fase uma defini uma política."
+      },
+      {
+        "startTime": 2270,
+        "endTime": 2287,
+        "speaker": "Junior Silva",
+        "text": "Lembra que eu te mostrei uma política de atendimento que eu te comentei os produtos estão integrados a segmentação fazer os grupos de comparação dentro do oro eu entrei lá tem produtos da setinha sem grupos de comparação feito, né? Então eu pedi para o meu time já ir lá e ajudar a terminar a finalizar esses grupos de comparações, né então entender."
+      },
+      {
+        "startTime": 2287,
+        "endTime": 2303,
+        "speaker": "Junior Silva",
+        "text": "Qual que é a Matriz do que eu quero qualificar dessa minha carteira cara. Não adianta eu ter 40 mil caras eu Quem é Imobiliária quem corretor autônomo ou que atua na zona leste atua na zona sul? E aí o que que a gente fala também ó entendendo a concorrência que a gente já falou da Matriz."
+      },
+      {
+        "startTime": 2303,
+        "endTime": 2335,
+        "speaker": "Junior Silva",
+        "text": "Olha o A matriz de concorrência é ideal assim para você fazer e definir tua estratégia perante o diretoria então eu vou sentar com a diretoria para argumentar sobre verba para o canal sobre uma série de outras coisas, aí vou falar meu amigo vi tá contando 40 eventos por mês é um exemplo você consegue fazer um benchmark nosso time apoia tal é o Fulano paga 4% eu tô pagando 3% então meu amigo, eu tenho que ser muito bom."
+      },
+      {
+        "startTime": 2335,
+        "endTime": 2344,
+        "speaker": "Junior Silva",
+        "text": "Por que que o cara vai topar vender um cetim por três por cento e o do lado tá com quatro sendo que às vezes presa parecido produto é parecido eu falo para muito assim bicho, não adianta falar que tem o produto é o melhor do Brasil."
+      },
+      {
+        "startTime": 2344,
+        "endTime": 2370,
+        "speaker": "Caio Gomes",
+        "text": "dica, eu acho que seria legal, você tem isso daí também ou a gente não tá aqui junto é da parte interna daí do que que nós temos. Quanto que o meu gerente ganha quanto que o coordenador ganha é qual que é a rotina do trabalho no cara, quantos quanto que eu tenho de estoque quanto que eu tenho de produto quanto que eu tenho de interação eu acho até para gente mostrar é porque o que que eu canso de fazer aqui né, mas eu queria."
+      },
+      {
+        "startTime": 2370,
+        "endTime": 2389,
+        "speaker": "Caio Gomes",
+        "text": "Isso até para o meu enfim para Bianca que tal. O quanto a gente trabalha aqui para chegar nesse resultado, né? Qualquer rotina de trabalho. Nossa é quanto que os meus gerentes estão ganhando eu preciso dar prêmio para os caras, né?"
+      },
+      {
+        "startTime": 2389,
+        "endTime": 2420,
+        "speaker": "Junior Silva",
+        "text": "Isso é legal. Que que eu faço Caio aqui ó, eu compartilho, eu crio um documento desse certinho jornada anfitrião de E a gente vai alimentando para ver como que a gente tá evoluindo no canal, cara, estamos em que fase você p****, tô na fase 2, tô na fase 3, eu quero minha missão Bianca é chegar na fase 5."
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2429,
+        "speaker": "Junior Silva",
+        "text": "O que é a fase 5. Aí eu falo aqui ó, por exemplo, olha a fase um exemplo clássico aqui ó, cara o teu perfil de Imobiliária para entender se ela está qualificada ou não deveria entender algumas dessas perguntas a maioria delas tem um porquê, mas é entender. Esse cara é o imobiliário é um corretor autônomo ator em que região quantos corretores tem na imobiliária dele."
+      },
+      {
+        "startTime": 2429,
+        "endTime": 2439,
+        "speaker": "Junior Silva",
+        "text": "Olha que informação sim se eu entro no órgão hoje lá em distribuição, eu sei quantos imobiliárias estão Integradas com meu produto. Você já chegou a ver isso, né?"
+      },
+      {
+        "startTime": 2439,
+        "endTime": 2440,
+        "speaker": "Caio Gomes",
+        "text": "Já e quantos logins?"
+      },
+      {
+        "startTime": 2440,
+        "endTime": 2442,
+        "speaker": "Junior Silva",
+        "text": "E lá eu sei quantas isso tem então"
+      },
+      {
+        "startTime": 2442,
+        "endTime": 2445,
+        "speaker": "Caio Gomes",
+        "text": "Quantos logins tem lá na imobiliária?"
+      },
+      {
+        "startTime": 2445,
+        "endTime": 2451,
+        "speaker": "Junior Silva",
+        "text": "se eu tiver isso aqui quantificado qualificado dentro do Z2 eu consigo até definir uma estratégia de uma visita cara, vamos pegar e fazer"
+      },
+      {
+        "startTime": 2451,
+        "endTime": 2452,
+        "speaker": "Caio Gomes",
+        "text": "É, mas deixa eu só te falar um"
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2454,
+        "speaker": "Junior Silva",
+        "text": "neste mês."
+      },
+      {
+        "startTime": 2454,
+        "endTime": 2505,
+        "speaker": "Caio Gomes",
+        "text": "negócio se um dia se for fazer uma reunião com o diretor comercial e diretor de vendas no meu caso, eu sou vendas o diretor comercial ele quer. Imobiliárias que sejam realmente imobiliárias e tenham sei lá 20 corretores ou mais o restante não é uma imobiliária e sim tem outras incorporadoras que já estão falando isso, tá que tem um corretor autônomo corretora autônomo com o CNPJ daí tem Imobiliária com poucos corretores imobiliários com mais corretores para escalonar isso então os diretor comercial, se ele pegar com base nos logins da hora lá, por exemplo, ele vai f**** o canal de parcerias você entende? Não só precisa ter um cuidado com o outro diretor."
+      },
+      {
+        "startTime": 2505,
+        "endTime": 2525,
+        "speaker": "Caio Gomes",
+        "text": "Então se a gente for fazer uma reunião aqui um dia o meu diretor comercial, jamais, podemos. Falar disso tá Jamais porque ele fala então cara. Deixa eu ver então. Quantos tem mais de 20 corretores? Fudeu porque tem muito Imobiliária"
+      },
+      {
+        "startTime": 2525,
+        "endTime": 2526,
+        "speaker": "Junior Silva",
+        "text": "Caio mas você sabe que eu tenho para"
+      },
+      {
+        "startTime": 2526,
+        "endTime": 2531,
+        "speaker": "Caio Gomes",
+        "text": "imobiliáriazinha, que que tem dois três corretoras Imobiliária digital e vende eu só tô falando que"
+      },
+      {
+        "startTime": 2532,
+        "endTime": 2564,
+        "speaker": "Junior Silva",
+        "text": "dizer para esse cara e eu falaria para ele, ele pode entrar aqui eu falo cara, você tá equivocado meu mestre é isso não existe mais imobiliária de 100 pessoas é só para dar volume no teu PDV, então isso aí é só para ficar vocês satisfeitos e sentar numa mesa de vinho e falar assim, eu tenho 300 corretores é mentira, você não tem presença, você tem 50."
+      },
+      {
+        "startTime": 2564,
+        "endTime": 2572,
+        "speaker": "Junior Silva",
+        "text": "O resto é tudo crachá duplo e eu que eu falo para assim, ó, muitos assim Caio tem que ser cara. Ele tem dois corretores da imobiliária dele, esse mês tá passando 100 milhões de vgb vendido, cara, esse cara para mim é ele que eu quero do meu lado. Eu não quero a Lopes que fica lá entupindo várias botando esse corretor."
+      },
+      {
+        "startTime": 2572,
+        "endTime": 2572,
+        "speaker": "Junior Silva",
+        "text": "Então o que"
+      },
+      {
+        "startTime": 2572,
+        "endTime": 2574,
+        "speaker": "Caio Gomes",
+        "text": "exato"
+      },
+      {
+        "startTime": 2575,
+        "endTime": 2596,
+        "speaker": "Junior Silva",
+        "text": "eu falo assim, ó na House a mesma dinâmica eu volto tá pegando para ele. Ele falou é mesmo amigão. Tu tem quantos corretores na House 300? Então tu fez 300 vendas esse mês, né? Cada um vendeu uma né? Porque só então imobiliária. Surpreendeu mesmo? É 50. Eu já falei para o Gustavo Lopes foi Gustavo, você tem que parar de falar esse negócio de quantidade de corretor."
+      },
+      {
+        "startTime": 2596,
+        "endTime": 2610,
+        "speaker": "Junior Silva",
+        "text": "Isso é feio demais porque você fala que tem mil e vendeu só 500 unidades. Então tem alguma matemática errada, então o que eu falo assim, ó é cai aqui a informação sua diretor de vendas para você tomar decisão estratégica os diretores comercial e"
+      },
+      {
+        "startTime": 2610,
+        "endTime": 2612,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom, beleza."
+      },
+      {
+        "startTime": 2612,
+        "endTime": 2639,
+        "speaker": "Junior Silva",
+        "text": "tem uma grande a Elber por exemplo. É muitas empresas têm um negócio muito difícil que vira uma. Uma puxada sua da house que não quer que o canal de parcerias cresça. Porque fala que toma espaço da house, só que eu falar Amigão se é o futuro inevitável todos os dias a house briga para segurar um faixa preta e ganha 10 faixa branca."
+      },
+      {
+        "startTime": 2639,
+        "endTime": 2646,
+        "speaker": "Junior Silva",
+        "text": "E quando ele vira a faixa preta, ele vai para o teu canal de parcerias. Você acabou de falar em português."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2647,
+        "speaker": "Caio Gomes",
+        "text": "exato"
+      },
+      {
+        "startTime": 2647,
+        "endTime": 2679,
+        "speaker": "Junior Silva",
+        "text": "Cara esses caras ele vira faixa preta, ele vai pecado. E aí ele vai para onde vai para o Caio ele vai para o Caio ele vai vender pelo Caio então é essa geração da diretoria que vê a house grande com alto valor Cara isso. Aí a gente tá sobrepondo cada vez mais então aqui ó virar Seu banco de dados você tomar decisões estratégico."
+      },
+      {
+        "startTime": 2679,
+        "endTime": 2697,
+        "speaker": "Junior Silva",
+        "text": "Quero falar com imobiliárias, que seja que tenha cinco corretores. Dois corretores mas que venderam 10 milhões no ano passado então, a médica é diferente. O cara falou assim, cara, quantas imobiliárias tem aí que venderam com cinco corretores ela faz o bicho. Opa que venderam ano passado tenho três só que essas três juntos Venderam que a house vendeu quase 30% É diferente a resposta sabe antes anuncia dados da Incorporadora, esse cara tá com teu site integrado lá no órulo."
+      },
+      {
+        "startTime": 2697,
+        "endTime": 2701,
+        "speaker": "Junior Silva",
+        "text": "Poxa aí, cara, você tem que tratar esse cara diferente. Ele tá te dando atenção então."
+      },
+      {
+        "startTime": 2701,
+        "endTime": 2706,
+        "speaker": "Caio Gomes",
+        "text": "como que eu faço para monitorar isso"
+      },
+      {
+        "startTime": 2707,
+        "endTime": 2724,
+        "speaker": "Junior Silva",
+        "text": "Aqui hoje você tem o acesso lá dentro do óvulo, né? O a gente tem aqui alguns caras hoje que vem fazendo essa qualificação, porque quando você encontra imobiliária lá no oro você consegue informar aqui dentro do Z2 a quantidade de corretores e tudo ou a gente poderia que propor."
+      },
+      {
+        "startTime": 2724,
+        "endTime": 2733,
+        "speaker": "Junior Silva",
+        "text": "E aí como a gente tá em casa? Eu oro Luiz Z2 é Trazer isso essa informação integrada de forma automática. Que aí é legal."
+      },
+      {
+        "startTime": 2733,
+        "endTime": 2735,
+        "speaker": "Diego Diehl",
+        "text": "Pensar no nosso South map lá né, mas vai um tempinho agora."
+      },
+      {
+        "startTime": 2735,
+        "endTime": 2736,
+        "speaker": "Junior Silva",
+        "text": "isso"
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2744,
+        "speaker": "Caio Gomes",
+        "text": "Não beleza, mas espera aí, vamos lá, eu quero a Kátia que a minha assistente aqui ela precisa fazer alguma ativação nas imobiliárias que não estão Integradas, eu quero saber."
+      },
+      {
+        "startTime": 2744,
+        "endTime": 2763,
+        "speaker": "Junior Silva",
+        "text": "Ó na verdade ela ela faz o inverso também, né? Ela nas que não estão Integradas é o ideal tem uma estratégia tem um onboard do Ouro pode comentar mais que Como pode a gente fazer ali para te ajudar, mas Deixa eu ver se eu consigo logar aqui rapidinho, eu moro."
+      },
+      {
+        "startTime": 2763,
+        "endTime": 2767,
+        "speaker": "Diego Diehl",
+        "text": "Pois eu te ajudo com a parte do que que a Kátia pode fazer para integrar mais imobiliários."
+      },
+      {
+        "startTime": 2767,
+        "endTime": 2772,
+        "speaker": "Caio Gomes",
+        "text": "Ou também me posicionar Ok essa essa essa essa tá integrada e não está cadastrada com a gente."
+      },
+      {
+        "startTime": 2772,
+        "endTime": 2777,
+        "speaker": "Diego Diehl",
+        "text": "Assim essa essa já tá lá é só você acessar que o júnior vai mostrar eu."
+      },
+      {
+        "startTime": 2789,
+        "endTime": 2795,
+        "speaker": "Caio Gomes",
+        "text": "o Júnior"
+      },
+      {
+        "startTime": 2795,
+        "endTime": 2796,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu acho que travou porque."
+      },
+      {
+        "startTime": 2796,
+        "endTime": 2800,
+        "speaker": "Diego Diehl",
+        "text": "Ele só ficou bem paradinho."
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2800,
+        "speaker": "Caio Gomes",
+        "text": "travou"
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2804,
+        "speaker": "Diego Diehl",
+        "text": "A minha internet está travando aqui também."
+      },
+      {
+        "startTime": 2804,
+        "endTime": 2806,
+        "speaker": "Carlos Stoppa",
+        "text": "Acho que travou mesmo."
+      },
+      {
+        "startTime": 2817,
+        "endTime": 2856,
+        "speaker": "Diego Diehl",
+        "text": "Se eu aproveitar enquanto ele volta Caio. Temos todas as imobiliárias de São Paulo temos algumas que estão Integradas e você pode ativar. olhando agora voltou olhando ali no na parte da órgão, vou até abrir aqui já enquanto Aqui ó, eu tô numa outra conta aqui. Osasco vamos pegar um outro aqui."
+      },
+      {
+        "startTime": 2856,
+        "endTime": 2881,
+        "speaker": "Diego Diehl",
+        "text": "Ó você tem 881 imobiliárias Integradas aqui? Aí você tem o nome de todas elas aqui ó 18 páginas. Eu até acho que a caixa podia fazer um trabalho de ativar mais Imobiliária agora que o bote vai ativar um monte de corretor. Ela pode tentar ativar os PJ essas imobiliárias aqui aí as imobiliárias está montado."
+      },
+      {
+        "startTime": 2881,
+        "endTime": 2884,
+        "speaker": "Diego Diehl",
+        "text": "Você ia falar?"
+      },
+      {
+        "startTime": 2884,
+        "endTime": 2888,
+        "speaker": "Caio Gomes",
+        "text": "É uma beleza, beleza, mas tem 881, você não tem todas as mobilidade de São Paulo, você tem algumas?"
+      },
+      {
+        "startTime": 2888,
+        "endTime": 2904,
+        "speaker": "Diego Diehl",
+        "text": "Não não eu falei só é de tem todas as mulheres de São Paulo tem algumas que estão integrados outras não. As que estão Integradas, você pode entrar aqui e falar com elas e aproximar o relacionamento."
+      },
+      {
+        "startTime": 2904,
+        "endTime": 2904,
+        "speaker": "Caio Gomes",
+        "text": "mas como é que"
+      },
+      {
+        "startTime": 2904,
+        "endTime": 2905,
+        "speaker": "Diego Diehl",
+        "text": "Acho que não estou."
+      },
+      {
+        "startTime": 2905,
+        "endTime": 2909,
+        "speaker": "Caio Gomes",
+        "text": "Como é que eu sei se está integrado ou se não tá integrado?"
+      },
+      {
+        "startTime": 2909,
+        "endTime": 2913,
+        "speaker": "Diego Diehl",
+        "text": "Aqui ó, você pode pesquisar o nome da imobiliária, fala o nome do meu imobiliária."
+      },
+      {
+        "startTime": 2913,
+        "endTime": 2928,
+        "speaker": "Caio Gomes",
+        "text": "Não qualquer uma aí eu não tenho por exemplo. Ver só tênis. Também acho que não tá?"
+      },
+      {
+        "startTime": 2928,
+        "endTime": 2929,
+        "speaker": "Diego Diehl",
+        "text": "como"
+      },
+      {
+        "startTime": 2929,
+        "endTime": 2932,
+        "speaker": "Caio Gomes",
+        "text": "Só triste"
+      },
+      {
+        "startTime": 2941,
+        "endTime": 2942,
+        "speaker": "Diego Diehl",
+        "text": "Acho que não só temos não."
+      },
+      {
+        "startTime": 2942,
+        "endTime": 2944,
+        "speaker": "Carlos Stoppa",
+        "text": "tem"
+      },
+      {
+        "startTime": 2949,
+        "endTime": 2973,
+        "speaker": "Diego Diehl",
+        "text": "Aí esse número de corretores é que eu não confiaria muito não, tá? Mas você tem todas aqui que você pode então as que estão na hora você pode pedir para Kátia. Ligar para elas e falar. Enfim fazer uma ativação para jogar para o teu gerente as que não estão dentro da hora, você pode falar que eles podem integrar com os produtos da cetine forma gratuita."
+      },
+      {
+        "startTime": 2974,
+        "endTime": 2999,
+        "speaker": "Junior Silva",
+        "text": "É o que é legal que eu gosto muito de fazer Caio aqui, ó, quando você entra aqui no acesso certinho todos os imóveis. Você tem 1072 imobiliárias Integradas, basicamente aqui ó, eu consigo vir aqui qualificando cada uma delas eu acessando a setinha lá vou conseguir encontrar um cada uma delas se elas estiverem cadastrada, né? Então o ideal também é o cara qualificar lá dentro."
+      },
+      {
+        "startTime": 2999,
+        "endTime": 3018,
+        "speaker": "Junior Silva",
+        "text": "Então você pega Poxa, Rio de Janeiro essa cara aqui ao Imóveis. Né, Beleza, pode ser que ele não tenha mil e tal, mas será que não vale um contato ali de alguém qualificar o cara provar chamar ele para um Call então. Olha só, imagina aqui, ó."
+      },
+      {
+        "startTime": 3018,
+        "endTime": 3023,
+        "speaker": "Caio Gomes",
+        "text": "Tem mil imobiliárias aí, quais estão integrantes e quais não estão com a?"
+      },
+      {
+        "startTime": 3023,
+        "endTime": 3025,
+        "speaker": "Junior Silva",
+        "text": "Todos aqui estão Integradas, tá?"
+      },
+      {
+        "startTime": 3025,
+        "endTime": 3026,
+        "speaker": "Diego Diehl",
+        "text": "todos"
+      },
+      {
+        "startTime": 3026,
+        "endTime": 3027,
+        "speaker": "Junior Silva",
+        "text": "As mil são integrados."
+      },
+      {
+        "startTime": 3027,
+        "endTime": 3035,
+        "speaker": "Caio Gomes",
+        "text": "Mas as vamos lá beleza, elas podem estar bom eles são Integradas, mas não necessariamente estão a não ser os nossos imóveis no site deles."
+      },
+      {
+        "startTime": 3036,
+        "endTime": 3048,
+        "speaker": "Junior Silva",
+        "text": "É aí é o teu trabalho de ligar lá e fazer um trabalho junto com o teu gerente, né? Então cara. Ó, vi aqui sou da setinha ali que você tá com meus produtos integrados, mas não encontrei no teu site queria se"
+      },
+      {
+        "startTime": 3048,
+        "endTime": 3048,
+        "speaker": "Caio Gomes",
+        "text": "Mas o que que seria essa"
+      },
+      {
+        "startTime": 3048,
+        "endTime": 3049,
+        "speaker": "Junior Silva",
+        "text": "aproximar."
+      },
+      {
+        "startTime": 3049,
+        "endTime": 3050,
+        "speaker": "Caio Gomes",
+        "text": "então?"
+      },
+      {
+        "startTime": 3051,
+        "endTime": 3067,
+        "speaker": "Junior Silva",
+        "text": "Essa integração eles recebem a carga dos seus Imóveis, mas eles não exibem lá no site. Então vamos ver por exemplo aqui ó a 121. Pode ser que ela esteja exibindo. Vamos ver lá a gente pode vir aqui ver."
+      },
+      {
+        "startTime": 3067,
+        "endTime": 3093,
+        "speaker": "Diego Diehl",
+        "text": "A integração Caio você entendeu o fluxo sai a informação da orla e vai no sistema da imobiliária. O site da imobiliária pega informações desse sistema? Então pode estar pegando ou não daí é bom olhar igual que o Júnior tá fazendo só entrar no site procurar cetim lá, às vezes tem o nome da tem que dar uma procurada, às vezes eles tiram o nome de produto tira o nome das coisas."
+      },
+      {
+        "startTime": 3093,
+        "endTime": 3120,
+        "speaker": "Junior Silva",
+        "text": "É que é um trabalho de qualificação. Mas não precisa fazer tudo de uma vez, né? Se a tua assistente aí fizer 10 num dia cara, já é um para mim é uma vitória tá fazendo 10 com tranquilidade faz mais 10. Né, mas isso aqui é um trabalho de qualificação, por exemplo, que aonde eu cedo uma anfitrião digital, eu faço isso por incorporador então trabalho de inteligência, né? Você dá atenção depois fazer um trabalho tem um contato do cara aqui."
+      },
+      {
+        "startTime": 3120,
+        "endTime": 3150,
+        "speaker": "Junior Silva",
+        "text": "Ó, será que vamos fazer uma ativação desse cara falar da Cetim convidar esse cara conhecer levar ele ataque seus produtos no site dele ele entender que ele vai ganhar os 4% aqui ou cinco ou seis enfim cada empresa tentou a dinâmica, né? Beleza então isso aqui ó, é só você entender o seguinte, por isso que é importante ter os campos de qualificação definidos o que você realmente quer se o cara possui carteira de investidor junto, vou fazer um evento para investidor."
+      },
+      {
+        "startTime": 3150,
+        "endTime": 3160,
+        "speaker": "Junior Silva",
+        "text": "Quero que esse cara convide a carteira dele ou vou convidar quem tem carteira é hoje já tem empresa perguntando se o cara deseja participar de plantão tem empresa cedendo plantões para o parceiro."
+      },
+      {
+        "startTime": 3160,
+        "endTime": 3164,
+        "speaker": "Caio Gomes",
+        "text": "Mas nós vamos partir para esse caminho aí."
+      },
+      {
+        "startTime": 3164,
+        "endTime": 3165,
+        "speaker": "Junior Silva",
+        "text": "Então é importante você saber"
+      },
+      {
+        "startTime": 3165,
+        "endTime": 3165,
+        "speaker": "Caio Gomes",
+        "text": "aqui"
+      },
+      {
+        "startTime": 3166,
+        "endTime": 3209,
+        "speaker": "Junior Silva",
+        "text": "bicho tem interesse em fazer plantão, né? Tem então eu tenho lá marcada amanhã eu quero fazer uma estratégia. Vem aí plantão, né? Tem interesse em participar evento receber materiais impressos. Coisa simples, né? Cara, pô, o cara quer eu vou mandar material impresso para o cara mandava para logo mandar pra Bia, por que não vou mandar."
+      },
+      {
+        "startTime": 3209,
+        "endTime": 3201,
+        "speaker": "Junior Silva",
+        "text": "Mas ele tem que atender um critério. E qual o critério? Poxa ele tem que ter x corretores, aí você começa a estabelecer um critério. Tá a política é muito bom estar estabelecida igual esse caso aí do Agnaldo, cara, você mata com a polícia Agnaldo. Você pode ter 20 mil passeios meu brother, mas com um desde que você."
+      },
+      {
+        "startTime": 3201,
+        "endTime": 3214,
+        "speaker": "Junior Silva",
+        "text": "compra Impact no mínimo x% por mês aí é quanto tempo tá essa política é sua não é minha eu tenho alguns exemplos de coisas que já estão adotando aí ó, eu venho aqui definir um"
+      },
+      {
+        "startTime": 3214,
+        "endTime": 3217,
+        "speaker": "Caio Gomes",
+        "text": "Você vai mandar isso daí também Júnior?"
+      },
+      {
+        "startTime": 3217,
+        "endTime": 3250,
+        "speaker": "Junior Silva",
+        "text": "Vou vou isso aqui cara. Isso é um documento que eu escrevi. O Diego apoiou todo o time se envolveu e mas é seu então todo cliente Z2 a gente manda o família está aqui os 10 mandamentos que a gente chama das cinco fases e cai que é muito importante a gente entender que isso não é do dia para noite nem Temporada do lord."
+      },
+      {
+        "startTime": 3250,
+        "endTime": 3278,
+        "speaker": "Junior Silva",
+        "text": "Você assiste um dia né? Então essa aqui muito menos aí ó, só uma coisa imersão. O que é imersão logo tudo que eu falei Cara vocês não encontro virtual para conhecer sobre o parceira apresentar que a gente às vezes só quer ter Mania só querem falar de nós, né? Mas ele nunca pergunta do cara, isso é tão feio velho."
+      },
+      {
+        "startTime": 3278,
+        "endTime": 3288,
+        "speaker": "Junior Silva",
+        "text": "Mano. Tô te ligando para falar de mim aí o cara termina depois de 10 parágrafos brother. Eu saí do mercado imobiliário, eu falei. Ia hora. Então olha um exemplo aqui ó tipos de conteúdos, que tipo de conteúdos escrevendo facilidades. Olha um exemplo aqui ó de peças que a gente dá cara."
+      },
+      {
+        "startTime": 3288,
+        "endTime": 3299,
+        "speaker": "Junior Silva",
+        "text": "Vamos promover aí o Mídia dele no setinho, que diabo é mídia mídia, daí um dia que eu levo um filme que um vídeo Maker para ir lá fazer os vídeos do cara para compartilhar com ele lá os Takes só para ele compartilhar no Instagram dele, p****, vai ficar um carinha lá vai combinar chamar 20 caras massas."
+      },
+      {
+        "startTime": 3299,
+        "endTime": 3306,
+        "speaker": "Junior Silva",
+        "text": "Fala brother. Ó, tá aqui o roteiro tá aqui tu entra lá e vem falando isso aqui ó, meu cara vai filmar tu não vai falar de cetim não vai falar de nada já pensou morar aqui na Avenida Paulista, fale comigo especialista de imóveis uma gaveta de São Paulo sei."
+      },
+      {
+        "startTime": 3306,
+        "endTime": 3324,
+        "speaker": "Junior Silva",
+        "text": "Que ele vai falar no vídeo aí dá o vídeo editado bonitinho com as vinhetas para o cara sem cetim sem nada, que identifica a tua marca então visita na obra vídeo de acompanhamento de obras Júnior. Que coisa que tem a ver vídeo de visita o acompanhamento evolução de obra, cara, se eu vendi para você, cara."
+      },
+      {
+        "startTime": 3324,
+        "endTime": 3342,
+        "speaker": "Junior Silva",
+        "text": "E você, me manda um acompanhamento de obra Caio. Como é que tá a obra do seu cliente? É um bom exemplo isso você consegue depois promover com automações é isso vai avançando e você vai trazendo desde biblioteca de conteúdo, né métricas e metas Júnior que métricas Eu Vou estabelecer para os caras."
+      },
+      {
+        "startTime": 3342,
+        "endTime": 3365,
+        "speaker": "Junior Silva",
+        "text": "Quais são as metas? Eu quero que x parceiros impactados no período x parceiros qualificados. Então cara, você pode ter a base de 20 mil pessoas meu amigo, você tem que qualificar sua base aí eu Estabeleça as métricas até como sugestões, aí eu vou te mandar dar uma linda aí no teu dia."
+      },
+      {
+        "startTime": 3365,
+        "endTime": 3396,
+        "speaker": "Junior Silva",
+        "text": "Mais tranquilo. É isso aqui é para você estabelecer e aos poucos estabelecendo os critérios de onde a gente quer chegar no Portal. Então tem um documento completo gameficação, como é que eu vou ganificar o cara o cara que é black. Então o que ela quer Black, ele faz 15 vendas no trimestre, ele vai ganhar mais 06 vai ganhar o que algumas empresas já fazem tanto faz assim, cara que meu plano de sustenta."
+      },
+      {
+        "startTime": 3396,
+        "endTime": 3424,
+        "speaker": "Junior Silva",
+        "text": "Tem a evolução do meu canal, eu entendo Bianca que a gente tá na fase 1 indo para dois, mas aonde a gente é um mês eu chegar é aqui e aonde a gente vai construir um relacionamento sólido com o mercado, né, cara, beleza é a conveniência que eu falo e no final é isso a terra aqui o material então eu te mando dar uma linda o material é seu, então você vai poder mudar você vai ter ideias melhores, você vai ter ideias que vão contribuir que vão cara, a gente vai adorar ouvir aqui como ferramenta."
+      },
+      {
+        "startTime": 3427,
+        "endTime": 3452,
+        "speaker": "Caio Gomes",
+        "text": "Eu vejo que é muito mais entre. Comunicação né ou ativação de colaborador direto e parceiro, né? Mas aí no seu não tem a capacitação e qualificação dos profissionais de time de interna que é o que eu vou ter aqui agora então eu tô enfim preparando o meu time aqui."
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3462,
+        "speaker": "Caio Gomes",
+        "text": "Para no futuro próximo enfim, eles terem já o normal de assumirem um cargo de Superintendência, por"
+      },
+      {
+        "startTime": 3462,
+        "endTime": 3462,
+        "speaker": "Junior Silva",
+        "text": "O que a gente tá fazendo com com a"
+      },
+      {
+        "startTime": 3462,
+        "endTime": 3464,
+        "speaker": "Caio Gomes",
+        "text": "exemplo."
+      },
+      {
+        "startTime": 3464,
+        "endTime": 3466,
+        "speaker": "Junior Silva",
+        "text": "pedra, né? Um exemplo."
+      },
+      {
+        "startTime": 3466,
+        "endTime": 3486,
+        "speaker": "Caio Gomes",
+        "text": "É um plano de carreira sabe é um plano de carreira de montar. Enfim. Acho que eles são bem preparados. Mas algumas informações que eu vou começar a fazer coisa, então é um treinamento que vou dar pro meu time aqui durante 6 meses para"
+      },
+      {
+        "startTime": 3486,
+        "endTime": 3486,
+        "speaker": "Junior Silva",
+        "text": "É eu legal Caio que agora você tem"
+      },
+      {
+        "startTime": 3486,
+        "endTime": 3487,
+        "speaker": "Caio Gomes",
+        "text": "para"
+      },
+      {
+        "startTime": 3488,
+        "endTime": 3513,
+        "speaker": "Junior Silva",
+        "text": "como ir medindo é isso que você tá fazendo é o caminho o cara que para mim é o sensacional. Então um exemplo técnico companhias, a gente vem sentando é instruindo porque até para muitos eles não cooperaram com ferramenta cara de parcerias, então tem muita coisa nova de processo que hoje a ferramenta permitindo ele fazer então por isso que a gente entra muito também na metodologia."
+      },
+      {
+        "startTime": 3513,
+        "endTime": 3523,
+        "speaker": "Junior Silva",
+        "text": "Então cara hoje era muito para a gente focar nisso aí que que a gente sai daqui com o dever de casa Carlão enviar essa jornada aqui para o Caio. a gente fazer lá exclusão da base"
+      },
+      {
+        "startTime": 3523,
+        "endTime": 3524,
+        "speaker": "Carlos Stoppa",
+        "text": "tá"
+      },
+      {
+        "startTime": 3524,
+        "endTime": 3546,
+        "speaker": "Junior Silva",
+        "text": "dos 19 mil e começar a fazer ativação já de 2 mil na segunda-feira. tá o Caio já vai deixar comunicado que eles vão receber parceiro do tipo ativação e a Então, o Caio eles recebem a mensagem vai diferente, tá? O parceiro foi ativado no órgão, ele vai com a atividade."
+      },
+      {
+        "startTime": 3546,
+        "endTime": 3561,
+        "speaker": "Junior Silva",
+        "text": "Que parceiros você buscou em Empreendimentos ou similares aqui sou cetim quando esse cara bater lá para o coordenador. Ele vai conseguir identificar e dentro do Z2 aqui. Ó, deixa eu ver aqui."
+      },
+      {
+        "startTime": 3579,
+        "endTime": 3586,
+        "speaker": "Carlos Stoppa",
+        "text": "ou anfitrião"
+      },
+      {
+        "startTime": 3586,
+        "endTime": 3588,
+        "speaker": "Diego Diehl",
+        "text": "Vou ter que correr aqui. Valeu demais. Tô alinhado, né?"
+      },
+      {
+        "startTime": 3588,
+        "endTime": 3606,
+        "speaker": "Junior Silva",
+        "text": "Mas eu ia te mostrar aqui Caio que ele já chega aqui dentro da informação que de demonstração ele fica a origem ativação e a Então quando você busca o parceiro lá Carla, não sei se você tá logado nenhum, aí você precisa me mostrar."
+      },
+      {
+        "startTime": 3606,
+        "endTime": 3606,
+        "speaker": "Carlos Stoppa",
+        "text": "nenhuma?"
+      },
+      {
+        "startTime": 3606,
+        "endTime": 3614,
+        "speaker": "Junior Silva",
+        "text": "Não para mostrar ativação e como é que vai a origem na própria? Demonstração qualquer um onde vai a"
+      },
+      {
+        "startTime": 3614,
+        "endTime": 3614,
+        "speaker": "Carlos Stoppa",
+        "text": "espera aí"
+      },
+      {
+        "startTime": 3614,
+        "endTime": 3616,
+        "speaker": "Junior Silva",
+        "text": "origem."
+      },
+      {
+        "startTime": 3616,
+        "endTime": 3620,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu tô em uma aqui que tem pera aí."
+      },
+      {
+        "startTime": 3620,
+        "endTime": 3621,
+        "speaker": "Junior Silva",
+        "text": "Eu também tenho um agora."
+      },
+      {
+        "startTime": 3621,
+        "endTime": 3632,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu tenho agora também as três. Fica assim. ativação e a"
+      },
+      {
+        "startTime": 3632,
+        "endTime": 3634,
+        "speaker": "Caio Gomes",
+        "text": "Isso daí é o disparo."
+      },
+      {
+        "startTime": 3634,
+        "endTime": 3639,
+        "speaker": "Carlos Stoppa",
+        "text": "Isso vai entrar dessa forma. Com essa origem."
+      },
+      {
+        "startTime": 3639,
+        "endTime": 3643,
+        "speaker": "Caio Gomes",
+        "text": "Quantos disparos por dia a gente consegue fazer?"
+      },
+      {
+        "startTime": 3643,
+        "endTime": 3648,
+        "speaker": "Junior Silva",
+        "text": "Aí é quando eu calibre o Chips aqui normalmente para os dois mil aqui eu vou fazer uns 300 dias."
+      },
+      {
+        "startTime": 3648,
+        "endTime": 3652,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom. Ah, você vai fazer dois mil Inicial? Daí depois a gente vai medir. O resto é isso?"
+      },
+      {
+        "startTime": 3652,
+        "endTime": 3652,
+        "speaker": "Carlos Stoppa",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 3652,
+        "endTime": 3658,
+        "speaker": "Junior Silva",
+        "text": "É só para a gente medir o resultado sem entender, o que que é que saiu e tudo."
+      },
+      {
+        "startTime": 3658,
+        "endTime": 3660,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom, beleza perfeito show."
+      },
+      {
+        "startTime": 3660,
+        "endTime": 3661,
+        "speaker": "Carlos Stoppa",
+        "text": "beleza"
+      },
+      {
+        "startTime": 3661,
+        "endTime": 3664,
+        "speaker": "Junior Silva",
+        "text": "Aí a gente já dá um gás lá e deixa já ativado, deixa certinho,"
+      },
+      {
+        "startTime": 3664,
+        "endTime": 3664,
+        "speaker": "Caio Gomes",
+        "text": "Quando que vocês vão fazer?"
+      },
+      {
+        "startTime": 3664,
+        "endTime": 3668,
+        "speaker": "Junior Silva",
+        "text": "beleza? Começa a segunda."
+      },
+      {
+        "startTime": 3668,
+        "endTime": 3675,
+        "speaker": "Caio Gomes",
+        "text": "começa na segunda os gerentes vão começar a receber automaticamente já se Esse WhatsApp é isso?"
+      },
+      {
+        "startTime": 3675,
+        "endTime": 3677,
+        "speaker": "Carlos Stoppa",
+        "text": "Isso parte boas vendas o nome dele."
+      },
+      {
+        "startTime": 3677,
+        "endTime": 3691,
+        "speaker": "Caio Gomes",
+        "text": "Pera aí só para entender vai fazer o disparo para base que não tem gerente, beleza? Fez lá 2000 daí vai roleta vai saber que o João entrou para ele agora."
+      },
+      {
+        "startTime": 3691,
+        "endTime": 3714,
+        "speaker": "Junior Silva",
+        "text": "Ele recebe a mensagem aqui. Ó, você tem um novo parceiro via Central. Hoje ele já recebe. Hoje ele já recebe então toda vez que ele recebe um parceiro novo, ele recebe uma mensagem aqui um exemplo aqui agora. Eu acho que você já tá cadastrado."
+      },
+      {
+        "startTime": 3724,
+        "endTime": 3728,
+        "speaker": "Caio Gomes",
+        "text": "A outra coisa Júnior que eu queria ver contigo aí, por favor aqui, ó."
+      },
+      {
+        "startTime": 3732,
+        "endTime": 3738,
+        "speaker": "Junior Silva",
+        "text": "É não só para ver se você tava cadastrada ali é realmente é essa eu já recebi uma mensagem aqui que você foi já cadastrado já."
+      },
+      {
+        "startTime": 3740,
+        "endTime": 3795,
+        "speaker": "Caio Gomes",
+        "text": "não beleza, mas eu quero saber aqui assim ó ali no Aqui ó, deixa eu abrir o meu Z2 aqui. Vocês estão vendo aí? Tu sabe dizer. Então aqui ó, por exemplo aqui em dashboard. Aqui embaixo. Aqui embaixo como que eu sei quem são esses 74 parceiros 41 do Hi Carpes? Como que eu sei?"
+      },
+      {
+        "startTime": 3797,
+        "endTime": 3800,
+        "speaker": "Junior Silva",
+        "text": "São você precisaria filtrar lá né? Mas ele entrou aí é?"
+      },
+      {
+        "startTime": 3800,
+        "endTime": 3802,
+        "speaker": "Caio Gomes",
+        "text": "Mas aonde que é o filtro?"
+      },
+      {
+        "startTime": 3804,
+        "endTime": 3815,
+        "speaker": "Junior Silva",
+        "text": "Não é que ele não vai estar lá disponível para filtro ali na tela de contatos ali. é porque são caras que clicou do origem Aurora aí então, se você filtrar aí ó pegar filtrar é que"
+      },
+      {
+        "startTime": 3815,
+        "endTime": 3821,
+        "speaker": "Caio Gomes",
+        "text": "Ah não é que pediu não é que ele pediu."
+      },
+      {
+        "startTime": 3821,
+        "endTime": 3823,
+        "speaker": "Junior Silva",
+        "text": "Ele clicou no produto lá do"
+      },
+      {
+        "startTime": 3824,
+        "endTime": 3833,
+        "speaker": "Caio Gomes",
+        "text": "Mas como que eu sei por exemplo, quem está me procurando de informações do sei lá do ibiata? Como que eu sei tem como?"
+      },
+      {
+        "startTime": 3833,
+        "endTime": 3838,
+        "speaker": "Junior Silva",
+        "text": "Então, aí você pode buscar todo mundo que é ouro ali, eu posso colocar o filtro aqui para você também."
+      },
+      {
+        "startTime": 3839,
+        "endTime": 3844,
+        "speaker": "Caio Gomes",
+        "text": "Não mas vamos lá eu não quero logo. Eu quero saber quem pediu no WhatsApp dos direitos."
+      },
+      {
+        "startTime": 3848,
+        "endTime": 3854,
+        "speaker": "Junior Silva",
+        "text": "eu posso exibir o mesmo do filtro aqui porque é a mesma interação, né que a consulta do produto lá Carlão que"
+      },
+      {
+        "startTime": 3854,
+        "endTime": 3864,
+        "speaker": "Caio Gomes",
+        "text": "Não não mas pensa que eu sou eu sou parceiro do Datena há muito tempo. Daí eu procuro produto um dois três quatro mas hoje eu quero perguntar do produto ibiatan Datena."
+      },
+      {
+        "startTime": 3864,
+        "endTime": 3881,
+        "speaker": "Junior Silva",
+        "text": "Então, ele registra a interação lá eu vou botar o filtro aqui para você conseguir filtrar lá, né? A informação e o registro já lá no detalhes do parceiro. Vai trazer o filtro aqui para você, né?"
+      },
+      {
+        "startTime": 3881,
+        "endTime": 3885,
+        "speaker": "Carlos Stoppa",
+        "text": "É só não tenho filtro hoje caiu."
+      },
+      {
+        "startTime": 3885,
+        "endTime": 3928,
+        "speaker": "Caio Gomes",
+        "text": "Mas vamos deles, é porque o que que eu quero fazer que eu quero, entendeu? Pensa que eu vou fazer uma ação específica para o produto x pessoal abertura do decorado do Hi Pinheiros. Todo mundo que me perguntou sobre High Pinheiros da Atena, faz um disparo para base dele de filtros, Ô Carol, só pode avisar meu Vamos abrir o decorado em Pinheiros."
+      },
+      {
+        "startTime": 3928,
+        "endTime": 3932,
+        "speaker": "Caio Gomes",
+        "text": "O cara já perguntou que seja ontem a dois meses a três meses a 6 meses, ele perguntou Lá em Pinheiros, então é um disparo muito mais assertivo. Ó, vamos entregar o about, Vila Mariana. Mês que esse mês entendeu? Ó vem um lança quando o corredor clicar em alguns lançamentos que a gente tem, né? A gente vai ter produto."
+      },
+      {
+        "startTime": 3932,
+        "endTime": 3944,
+        "speaker": "Caio Gomes",
+        "text": "Itaim, pois eu quero fazer ó, se prepara pegar essa base de conteúdo que já quecaram. E a gente fala ó o lançamento vem aí 60 Dias 40 dias 30 dias."
+      },
+      {
+        "startTime": 3947,
+        "endTime": 3956,
+        "speaker": "Junior Silva",
+        "text": "negócio do evento lá onde está programado na automação e fazer por eventos de consulta de determinados. Empreendimentos e período."
+      },
+      {
+        "startTime": 3956,
+        "endTime": 3958,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá eu não tenho aqui também."
+      },
+      {
+        "startTime": 3960,
+        "endTime": 3970,
+        "speaker": "Junior Silva",
+        "text": "do nosso lado o que que a gente vai fazer aqui, a gente vai começar o disparo a gente pode marcar Carlos"
+      },
+      {
+        "startTime": 3970,
+        "endTime": 3970,
+        "speaker": "Carlos Stoppa",
+        "text": "tá"
+      },
+      {
+        "startTime": 3970,
+        "endTime": 3972,
+        "speaker": "Junior Silva",
+        "text": "com o Caio a semana que vem o"
+      },
+      {
+        "startTime": 3972,
+        "endTime": 3974,
+        "speaker": "Carlos Stoppa",
+        "text": "para"
+      },
+      {
+        "startTime": 3974,
+        "endTime": 3981,
+        "speaker": "Junior Silva",
+        "text": "aqui já deixar marcado com o Felipe participando a gente só precisa"
+      },
+      {
+        "startTime": 3981,
+        "endTime": 3981,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom eu coloquei a luz no nosso"
+      },
+      {
+        "startTime": 3981,
+        "endTime": 3983,
+        "speaker": "Junior Silva",
+        "text": "iniciar ali na até sexta-feira, tá?"
+      },
+      {
+        "startTime": 3983,
+        "endTime": 3984,
+        "speaker": "Carlos Stoppa",
+        "text": "grupo da"
+      },
+      {
+        "startTime": 3984,
+        "endTime": 3995,
+        "speaker": "Junior Silva",
+        "text": "com o texto já validado para mandar para o Caio aí para ele aprovar para começar a disparar na segunda-feira."
+      },
+      {
+        "startTime": 3995,
+        "endTime": 3997,
+        "speaker": "Caio Gomes",
+        "text": "Tá ó, eu tô comportando se vocês"
+      },
+      {
+        "startTime": 3997,
+        "endTime": 3998,
+        "speaker": "Junior Silva",
+        "text": "Tá bom, o Caio vamos falando cara a"
+      },
+      {
+        "startTime": 3998,
+        "endTime": 4001,
+        "speaker": "Caio Gomes",
+        "text": "estão vendo aqui que meu contato está zero verificado zero tudo zero."
+      },
+      {
+        "startTime": 4001,
+        "endTime": 4023,
+        "speaker": "Junior Silva",
+        "text": "gente tem muita coisa boa subindo ali também, ajuste a gente vai atacar uma coisa boa em Dezembro também que é o lance da visita vai ficar bem legal. é o meu aqui também deu aqui eu"
+      },
+      {
+        "startTime": 4023,
+        "endTime": 4024,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 4024,
+        "endTime": 4024,
+        "speaker": "Carlos Stoppa",
+        "text": "Aí eu vou avisar também Caio fica"
+      },
+      {
+        "startTime": 4024,
+        "endTime": 4025,
+        "speaker": "Junior Silva",
+        "text": "pedi para o time."
+      },
+      {
+        "startTime": 4025,
+        "endTime": 4026,
+        "speaker": "Carlos Stoppa",
+        "text": "tranquilo."
+      },
+      {
+        "startTime": 4026,
+        "endTime": 4027,
+        "speaker": "Caio Gomes",
+        "text": "Beleza fechado senhor, está bom?"
+      },
+      {
+        "startTime": 4027,
+        "endTime": 4028,
+        "speaker": "Carlos Stoppa",
+        "text": "Valeu Caio brigadão, viu?"
+      },
+      {
+        "startTime": 4028,
+        "endTime": 4029,
+        "speaker": "Caio Gomes",
+        "text": "Obrigado, viu? Valeu? Valeu. Um"
+      },
+      {
+        "startTime": 4029,
+        "endTime": 4030,
+        "speaker": "Junior Silva",
+        "text": "totais ali."
+      },
+      {
+        "startTime": 4030,
+        "endTime": 4030,
+        "speaker": "Caio Gomes",
+        "text": "abraço, valeu."
+      },
+      {
+        "startTime": 4030,
+        "endTime": 4031,
+        "speaker": "Carlos Stoppa",
+        "text": "Valeu, abraço."
+      },
+      {
+        "startTime": 4031,
+        "endTime": 4032,
+        "speaker": "Caio Gomes",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 4032,
+        "endTime": 4033,
+        "speaker": "Junior Silva",
+        "text": "É por causa da base."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 473,
+    "speakers": [
+      "Junior Silva",
+      "Diego Diehl",
+      "Caio Gomes",
+      "Carlos Stoppa"
+    ],
+    "total_words_estimate": 10283,
+    "duration_start": 24,
+    "duration_end": 4033
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "673cd44f70fe730013512657",
+        "timestamp": 82,
+        "text": "Ativar base de 30 mil corretores com teste inicial de mensagem sem recorrência",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512658",
+        "timestamp": 447,
+        "text": "Base de 19 mil corretores sem gerente para disparar mensagens",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512663",
+        "timestamp": 485,
+        "text": "Definir estratégia de disparo: robô com múltiplos chips ou disparo transacional",
+        "topicId": "673cd44f70fe730013512654"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512664",
+        "timestamp": 705,
+        "text": "Configurar roleta para receber contatos novos apenas em São Paulo",
+        "topicId": "673cd44f70fe730013512654"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512659",
+        "timestamp": 1056,
+        "text": "Objetivo: aumentar volume de usuários impactados na base de corretores",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265a",
+        "timestamp": 1282,
+        "text": "Planejar disparo para 20 mil corretores com teste inicial",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512665",
+        "timestamp": 1353,
+        "text": "Necessário customizar sistema para registrar interações com diferentes coordenadores",
+        "topicId": "673cd44f70fe730013512654"
+      },
+      {
+        "segmentId": "673cd43b1c59c30013ee27c9",
+        "timestamp": 1535,
+        "text": "momento de descrição dos critérios"
+      },
+      {
+        "segmentId": "673cd43b1c59c30013ee27c8",
+        "timestamp": 1536,
+        "text": "Discutindo ativação de base e robô, com referências a cetim, roleta e verificação de gráficos de origem e ativação."
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265b",
+        "timestamp": 1780,
+        "text": "Decidir estratégia de disparo com cuidado para evitar banimento no WhatsApp",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265c",
+        "timestamp": 1817,
+        "text": "Excluir 19 mil usuários sem gerente do sistema",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512667",
+        "timestamp": 1946,
+        "text": "Reunião com Luiz Felipe para analisar resultados dos disparos e conversões",
+        "topicId": "673cd44f70fe730013512656"
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265e",
+        "timestamp": 2735,
+        "text": "Kátia precisa ativar imobiliárias não integradas no sistema",
+        "topicId": "673cd44f70fe730013512653"
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265f",
+        "timestamp": 2870,
+        "text": "Ativar imobiliárias PJ e expandir base de corretores cadastrados",
+        "topicId": "673cd44f70fe730013512653"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512660",
+        "timestamp": 2973,
+        "text": "Revisar integração de 1072 imobiliárias e qualificar cada parceiro individualmente",
+        "topicId": "673cd44f70fe730013512653"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512661",
+        "timestamp": 3050,
+        "text": "Verificar se imobiliárias integradas estão exibindo produtos em seus sites",
+        "topicId": "673cd44f70fe730013512653"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512662",
+        "timestamp": 3095,
+        "text": "Qualificar 10 parceiros por dia como meta inicial de ativação",
+        "topicId": "673cd44f70fe730013512653"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512668",
+        "timestamp": 3520,
+        "text": "Carlos enviará jornada de parceria para Caio, excluindo base de 19 mil e ativando 2 mil parceiros.",
+        "topicId": "673cd44f70fe730013512656"
+      },
+      {
+        "segmentId": "673cd44f70fe73001351265d",
+        "timestamp": 3642,
+        "text": "Realizar 300 disparos por dia para base inicial de 2 mil parceiros",
+        "topicId": "673cd44f70fe730013512652"
+      },
+      {
+        "segmentId": "673cd44f70fe730013512666",
+        "timestamp": 3909,
+        "text": "Criar disparos segmentados para parceiros interessados em empreendimentos específicos",
+        "topicId": "673cd44f70fe730013512655"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "673cd44f70fe730013512652",
+        "order": 1,
+        "title": "Estratégia de Ativação de Corretores",
+        "summary": "Plano para ativar base de 30 mil corretores com estratégias de disparo cuidadosas, iniciando com teste de 2 mil contatos e expandindo gradualmente."
+      },
+      {
+        "id": "673cd44f70fe730013512653",
+        "order": 2,
+        "title": "Gestão de Parceiros e Imobiliárias",
+        "summary": "Ativação e qualificação de imobiliárias PJ, revisão de 1072 integrações e meta de qualificar 10 parceiros diariamente."
+      },
+      {
+        "id": "673cd44f70fe730013512654",
+        "order": 3,
+        "title": "Configuração de Sistema e Disparos",
+        "summary": "Customização do sistema para registrar interações com coordenadores e configurar roleta de contatos focada em São Paulo."
+      },
+      {
+        "id": "673cd44f70fe730013512655",
+        "order": 4,
+        "title": "Planejamento de Comunicação",
+        "summary": "Definir estratégias de disparo de mensagens, incluindo uso de robô com múltiplos chips e disparos transacionais segmentados."
+      },
+      {
+        "id": "673cd44f70fe730013512656",
+        "order": 5,
+        "title": "Acompanhamento e Próximos Passos",
+        "summary": "Reunião com Luiz Felipe para analisar resultados de disparos e Carlos enviará jornada de parceria para Caio."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 20,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "673cd44f70fe730013512652",
+      "order": 1,
+      "title": "Estratégia de Ativação de Corretores",
+      "summary": "Plano para ativar base de 30 mil corretores com estratégias de disparo cuidadosas, iniciando com teste de 2 mil contatos e expandindo gradualmente."
+    },
+    {
+      "id": "673cd44f70fe730013512653",
+      "order": 2,
+      "title": "Gestão de Parceiros e Imobiliárias",
+      "summary": "Ativação e qualificação de imobiliárias PJ, revisão de 1072 integrações e meta de qualificar 10 parceiros diariamente."
+    },
+    {
+      "id": "673cd44f70fe730013512654",
+      "order": 3,
+      "title": "Configuração de Sistema e Disparos",
+      "summary": "Customização do sistema para registrar interações com coordenadores e configurar roleta de contatos focada em São Paulo."
+    },
+    {
+      "id": "673cd44f70fe730013512655",
+      "order": 4,
+      "title": "Planejamento de Comunicação",
+      "summary": "Definir estratégias de disparo de mensagens, incluindo uso de robô com múltiplos chips e disparos transacionais segmentados."
+    },
+    {
+      "id": "673cd44f70fe730013512656",
+      "order": 5,
+      "title": "Acompanhamento e Próximos Passos",
+      "summary": "Reunião com Luiz Felipe para analisar resultados de disparos e Carlos enviará jornada de parceria para Caio."
+    }
+  ],
+  "collected_at": "2026-04-06T23:42:25.138130+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:42:25.138130+00:00"
+}

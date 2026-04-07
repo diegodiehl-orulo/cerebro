@@ -1,0 +1,28 @@
+{
+  "id": "686c203333674a001355a5ea",
+  "happenedAt": "2025-07-07T19:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "One a One Diego ",
+  "duration": 3410.474,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/686c203333674a001355a5ea",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "hpe-zumc-cjn"
+  }
+}

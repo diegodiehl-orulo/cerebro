@@ -1,0 +1,3103 @@
+{
+  "meeting_id": "685a9360d379790013f6ba13",
+  "name": "Z2A <> HYPE - Overview",
+  "happened_at": "2025-06-24T12:00:00.000Z",
+  "duration_seconds": 5106.824,
+  "duration_minutes": 85.1,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "alexandre.rodrigues@sejahype.com.br"
+    },
+    {
+      "name": "",
+      "email": "matheus.castro@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "felipe@z2app.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "maynara@z2app.com.br"
+    },
+    {
+      "name": "Ana Carolina dos Santos Silva Santos",
+      "email": "anacarolina@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "stephanie.iung@sejahype.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/685a9360d379790013f6ba13",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "xqo-ypwf-efr",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "685a93ae58c1f60013c0b890",
+    "meetingId": "685a9360d379790013f6ba13",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 19,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É aqui vai 0 graus hoje de manhã cedo amanhã também. Ah que inferno. Enfim, gente eu sou meio tonta com essas coisas, eu sei gravar só no Como é que chama aquele negócio times, eu não sei gravar no Google, ele pediu para gravar a reunião."
+      },
+      {
+        "startTime": 19,
+        "endTime": 22,
+        "speaker": "Diego Diehl",
+        "text": "Já tá já tá minha ali, ó."
+      },
+      {
+        "startTime": 22,
+        "endTime": 23,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E o homem tecnológico, né? Muito obrigada digo."
+      },
+      {
+        "startTime": 23,
+        "endTime": 41,
+        "speaker": "Diego Diehl",
+        "text": "Eu já botei para enviar o invite para enviar e vai enviar a reunião para todo mundo que tá aqui, tá? Você já falava para mim isso antes de eu estar na hora. Agora tá mais ainda."
+      },
+      {
+        "startTime": 44,
+        "endTime": 71,
+        "speaker": "Stephanie Adad Iung",
+        "text": "comentou. Ali no grupo, né? Começando Aqui Deixou, eu acho que é mais fácil, eu não sei quem que se alguém quer conduzir fazendo um por um ou eu vou fazendo as perguntas, vocês vão me ajudando eu vou compartilhando a tela."
+      },
+      {
+        "startTime": 71,
+        "endTime": 75,
+        "speaker": "Ana Carolina dos Santos Silva Santos",
+        "text": "Mateus João vai entrar."
+      },
+      {
+        "startTime": 75,
+        "endTime": 77,
+        "speaker": "Diego Diehl",
+        "text": "Ana teu áudio tá bem ruim."
+      },
+      {
+        "startTime": 77,
+        "endTime": 82,
+        "speaker": "Matheus Castro",
+        "text": "Bom dia pessoal, tudo bem? O João vai entrar tá pediu só um segundinho, ele já vai entrar."
+      },
+      {
+        "startTime": 82,
+        "endTime": 85,
+        "speaker": "Diego Diehl",
+        "text": "Beleza então, vamos esperar o João Ester dando input para você do que eu"
+      },
+      {
+        "startTime": 85,
+        "endTime": 85,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 87,
+        "endTime": 1313,
+        "speaker": "Diego Diehl",
+        "text": "várias coisas vai estar mais a mão até de tipo ligar e desligar. Ou a gente mesmo aqui na conta hoje ou no deve ali hoje ou amanhã ou daí outra coisa a gente vê se precisa desenvolver algo se vai ser necessário mesmo, mas eu acho que o legal de você como gestor da área."
+      },
+      {
+        "startTime": 1313,
+        "endTime": 138,
+        "speaker": "Diego Diehl",
+        "text": "É de cada funcionalidade e talvez não precisa nem ser hoje hoje dá para a gente resolver. Exatamente tudo mas você saber que tem a funcionalidade porque"
+      },
+      {
+        "startTime": 138,
+        "endTime": 138,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 139,
+        "endTime": 168,
+        "speaker": "Diego Diehl",
+        "text": "João entrou aí."
+      },
+      {
+        "startTime": 168,
+        "endTime": 170,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Bom dia João, tudo de você?"
+      },
+      {
+        "startTime": 170,
+        "endTime": 174,
+        "speaker": "João Pedro",
+        "text": "Um dia Stephanie tudo bem? Tudo ótimo também."
+      },
+      {
+        "startTime": 178,
+        "endTime": 179,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Maravilha. Tô abrindo."
+      },
+      {
+        "startTime": 179,
+        "endTime": 202,
+        "speaker": "Diego Diehl",
+        "text": "já deu uma introdução aqui João da Ah das configurações que é ajustar eu acho que eles estão no momento agora de realmente colocar. A mão na ferramenta daí é na prática que aparecem as coisas, né? Eu acho que isso é bom. E Ester daí o João vai conduzir a reunião voltar mais como ouvinte aqui mais Para apoiar e também conhecer."
+      },
+      {
+        "startTime": 202,
+        "endTime": 210,
+        "speaker": "Diego Diehl",
+        "text": "E usar nela tá disposto aí a gente até falou de dar algum treinamento presencial em Curitiba para o teu time depois."
+      },
+      {
+        "startTime": 211,
+        "endTime": 211,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 211,
+        "endTime": 252,
+        "speaker": "Diego Diehl",
+        "text": "vai ser super importante a gente deixar redondinha a ferramenta do jeito que vocês quiserem porque vai ter muito muito crescimento de base quando a gente ligar as automações os a geração de Lídia a partir de corretores que acessam a hora do portal, entendeu? Mas a gente tem que estar preparado para isso, tá? Então João fica à vontade, você quer o chefe da reunião?"
+      },
+      {
+        "startTime": 252,
+        "endTime": 267,
+        "speaker": "João Pedro",
+        "text": "Bom vamos lá então bom dia a todos aqui do lado do Z2 a gente tem o Mateus. É o especialista aqui da área de implantação. Então se precisar fazer algum ajuste. E for algo simples, ele já vai fazer aqui durante a reunião, tá bom? A Ana"
+      },
+      {
+        "startTime": 267,
+        "endTime": 268,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 268,
+        "endTime": 299,
+        "speaker": "João Pedro",
+        "text": "instabilidade seria quando vocês vão incluir um parceiro novo como administrador do sistema a opção de marcar aqui o nome do coordenador, ele some seria isso."
+      },
+      {
+        "startTime": 299,
+        "endTime": 327,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Não não na verdade assim desse primeiro que ele marcou estabilidade no cadastro. Só um pouquinho. Esse primeiro eu não sei te dizer do que que se trata de verdade, João porque não foi eu que passei para ele, eu passei todos os outros de baixo estabilidade no cadastro. Não sei não sei mas enfim esse a gente deixa por último daí se for o caso"
+      },
+      {
+        "startTime": 327,
+        "endTime": 330,
+        "speaker": "João Pedro",
+        "text": "Tá bom aí sobre o seu então a gente vamos pular esse primeiro tópico, porque"
+      },
+      {
+        "startTime": 330,
+        "endTime": 334,
+        "speaker": "Stephanie Adad Iung",
+        "text": "daí eu já vou vendo o que que já peço para ele descrever, o que que é."
+      },
+      {
+        "startTime": 340,
+        "endTime": 373,
+        "speaker": "João Pedro",
+        "text": "time de desenvolvimento da z2a e ele só acontece quando um administrador do sistema tenta cadastrar um parceiro aqui no Z2. Então quando um administrador tenta cadastrar ele tem a opção de marcar ali para quem que ele vai mandar esse parceiro. Então posso mandar aqui para Jéssica, eu posso mandar aqui para Stephanie para o Sandro Mateus, só que quando eu faço o cadastro"
+      },
+      {
+        "startTime": 373,
+        "endTime": 373,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Então acho que foi isso perfeito não agora eu lembrei do que que se trata"
+      },
+      {
+        "startTime": 373,
+        "endTime": 373,
+        "speaker": "João Pedro",
+        "text": "do sistema"
+      },
+      {
+        "startTime": 378,
+        "endTime": 385,
+        "speaker": "Stephanie Adad Iung",
+        "text": "porque no caso eu não tava conseguindo cadastrar ninguém daí agora entendi porque eu também tô com uma administradora daí ele não deixa eu fazer essa."
+      },
+      {
+        "startTime": 387,
+        "endTime": 391,
+        "speaker": "João Pedro",
+        "text": "Ele até cadastra só que ele eu coloquei ele no seu nome."
+      },
+      {
+        "startTime": 391,
+        "endTime": 396,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Mas eu só consigo criar por aí, eu não consigo tipo a roupa Zeca cadastrar ou inserir Fulano, né?"
+      },
+      {
+        "startTime": 397,
+        "endTime": 1646,
+        "speaker": "João Pedro",
+        "text": "suporte, porque é o meu usuário que eu tô que eu tô usando para fazer esse cadastro. Então aqui nesse caso eu teria que eu preciso cadastrar manualmente e depois transferir para quem eu quero no caso aqui para Stephanie. Ou posso transferir para o Sandro tá hoje o sistema ele tá ele tá com esse com esse bug aqui de cadastrar somente para o próprio usuário."
+      },
+      {
+        "startTime": 1646,
+        "endTime": 438,
+        "speaker": "João Pedro",
+        "text": "Independente se ele é administrador ou não. Ah, mas isso é uma coisa que a gente já tá. Trabalhando Acredito que ainda hoje o pessoal corrige lá 100% tá bom?"
+      },
+      {
+        "startTime": 438,
+        "endTime": 442,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Então era isso."
+      },
+      {
+        "startTime": 442,
+        "endTime": 1770,
+        "speaker": "João Pedro",
+        "text": "fazer. tá Então, eu consigo definir um tipo de usuário para uma pessoa e também consigo definir aqui no perfil dela. Qual que é o grupo de permissão? Que essa pessoa está hoje o grupo de permissão de tipo de usuário, eles carregam o mesmo nome só que são coisas diferentes."
+      },
+      {
+        "startTime": 1770,
+        "endTime": 502,
+        "speaker": "João Pedro",
+        "text": "Então para pessoa fazer a conexão na Inteligência Artificial, ela precisa ter o tipo de usuário coordenador de parcerias."
+      },
+      {
+        "startTime": 502,
+        "endTime": 502,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá daí no meu caso, por exemplo, eu estou como coordenadora de parcerias em"
+      },
+      {
+        "startTime": 502,
+        "endTime": 537,
+        "speaker": "João Pedro",
+        "text": "ele está ali o portfólio de produtos e tudo mais."
+      },
+      {
+        "startTime": 537,
+        "endTime": 548,
+        "speaker": "Stephanie Adad Iung",
+        "text": "usuário e Sou administrador também. Nesse caso tem alguma funcionalidade que não eu acho que você"
+      },
+      {
+        "startTime": 548,
+        "endTime": 577,
+        "speaker": "João Pedro",
+        "text": "Você está conectada? Aí o que eu vou fazer aqui, ó. Vou deletar o meu parceiro que eu acabei de cadastrar. Não eu acho que eu coloquei só para transferir. Eu cheguei a dele."
+      },
+      {
+        "startTime": 577,
+        "endTime": 578,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Eu acho que você já deletou."
+      },
+      {
+        "startTime": 580,
+        "endTime": 585,
+        "speaker": "João Pedro",
+        "text": "Eu só garantir porque senão o teste vai dar errado. E aí vamos lá vou te chamar aí no WhatsApp, tá?"
+      },
+      {
+        "startTime": 585,
+        "endTime": 585,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tá"
+      },
+      {
+        "startTime": 594,
+        "endTime": 613,
+        "speaker": "João Pedro",
+        "text": "Aí agora você pode me mandar o comando do cadastro do Zé. Que é o arroba Zé inserir e coloca o meu nome. pronto"
+      },
+      {
+        "startTime": 613,
+        "endTime": 623,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Ah pela primeira vez deu certo. Ai cara, tu tem de tudo juro por Deus várias formas diferentes e não ia aí agora deu certo."
+      },
+      {
+        "startTime": 624,
+        "endTime": 636,
+        "speaker": "João Pedro",
+        "text": "Aí eu já pedi o mandei uma arroba Zé, ele já listou o portfólio de produtos da Hype. Eu coloquei o número 1, ele já alistou ali as informações do Bosque Hype casa Nativa"
+      },
+      {
+        "startTime": 638,
+        "endTime": 646,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Maravilha Show era isso era uma das coisas que eu tava com dificuldade."
+      },
+      {
+        "startTime": 646,
+        "endTime": 663,
+        "speaker": "João Pedro",
+        "text": "Tá aí, o que que acontece a gente teve um. Sobre uma das automações. Então vou aproveitar para ir para o segundo. tópico ali da pauta que é o desligamento das automações com exceção do órgão e vem da Hype"
+      },
+      {
+        "startTime": 665,
+        "endTime": 666,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Aquelas automações onde a gente coloca."
+      },
+      {
+        "startTime": 668,
+        "endTime": 676,
+        "speaker": "João Pedro",
+        "text": "Para o cara preencher ali o link quando ele pede as informações para Inteligência Artificial, ele manda o link do Portal da Hype para o cara se cadastrar, né?"
+      },
+      {
+        "startTime": 677,
+        "endTime": 712,
+        "speaker": "Stephanie Adad Iung",
+        "text": "telefone aí o cara foi falar com ele, tipo achava que era para ele falar com ele. Nossa deu uma confusão que você não tá entendendo e a gente queria ver"
+      },
+      {
+        "startTime": 712,
+        "endTime": 712,
+        "speaker": "João Pedro",
+        "text": "então"
+      },
+      {
+        "startTime": 714,
+        "endTime": 726,
+        "speaker": "Stephanie Adad Iung",
+        "text": "se tem como cessar esse tipo de mensagem e eu e o alho fomos batendo uma por uma só que o ali não consegui excluir ele só conseguiria modificar essas mensagens assim, só vocês têm esse."
+      },
+      {
+        "startTime": 727,
+        "endTime": 771,
+        "speaker": "João Pedro",
+        "text": "não tem uma tela onde eu ou alguém do meu time consegue ir lá e desligar."
+      },
+      {
+        "startTime": 771,
+        "endTime": 772,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim, tá"
+      },
+      {
+        "startTime": 772,
+        "endTime": 848,
+        "speaker": "João Pedro",
+        "text": "Mas é administrativas ali da Incorporadora e uma dessas configurações é responder parceiros de outros coordenadores. Tá porque esse que o Alexandre chamou de dedo duro é independente do que a pessoa fala só o fato dela mandar uma mensagem para o parceiro que já está cadastrado no Z2, ele já alertava."
+      },
+      {
+        "startTime": 848,
+        "endTime": 851,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E aí"
+      },
+      {
+        "startTime": 853,
+        "endTime": 853,
+        "speaker": "Diego Diehl",
+        "text": "O Ester uma só para alinhar com a linguagem que eu estava fazendo o comercial"
+      },
+      {
+        "startTime": 853,
+        "endTime": 853,
+        "speaker": "Stephanie Adad Iung",
+        "text": "hoje"
+      },
+      {
+        "startTime": 859,
+        "endTime": 887,
+        "speaker": "Diego Diehl",
+        "text": "com vocês. Está falando de algumas automações, né? Uma delas que é esse falar com todos os contatos sem Alerta. O que que é uma configuração de alerta? Quando um corretor está falando com a pessoa errada responsável digamos assim. Porque aqui em São Paulo rola muito uma atravessando o corretor do outro essa dois a serve para organizar a carteira para um furar o olho do outro aí a"
+      },
+      {
+        "startTime": 887,
+        "endTime": 887,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 888,
+        "endTime": 920,
+        "speaker": "Diego Diehl",
+        "text": "galera mais boazinha vocês meio que conseguem controlar isso então uma opção é no nível de coordenador de parcerias no futuro quando a carteira tiver organizada cada coordenador, só fala com a sua carteira. E você e o alho pode falar com todo mundo da forma que vocês quiserem. Ou o que tá configurado hoje? É não vai ter alerta alerta que chama ali, na verdade é o aviso para o corretor falar com a pessoa certa."
+      },
+      {
+        "startTime": 920,
+        "endTime": 925,
+        "speaker": "Diego Diehl",
+        "text": "Não é falar com todos os contatos sem aviso ali sem o fala com a pessoa que é o que você comentou de exemplo, tá que é o que o ali na hora da venda eu"
+      },
+      {
+        "startTime": 925,
+        "endTime": 929,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 929,
+        "endTime": 938,
+        "speaker": "Diego Diehl",
+        "text": "chamei de dedo duro que é o cara que dura que coordenador que tá furando o olho do outro. Ficou claro a funcionalidade está."
+      },
+      {
+        "startTime": 938,
+        "endTime": 939,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Ficou Claro sim."
+      },
+      {
+        "startTime": 940,
+        "endTime": 944,
+        "speaker": "Diego Diehl",
+        "text": "E como que você você quer que a gente deixe livre tudo até dos teus coordenadores?"
+      },
+      {
+        "startTime": 945,
+        "endTime": 955,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Eu quero de eu quero principalmente porque daí a tá dando o que tá gerando é mais desgaste do que ajudando a galera, principalmente porque né? Porque foi"
+      },
+      {
+        "startTime": 955,
+        "endTime": 960,
+        "speaker": "Diego Diehl",
+        "text": "Não tá não tá organizado ainda, né?"
+      },
+      {
+        "startTime": 960,
+        "endTime": 971,
+        "speaker": "Stephanie Adad Iung",
+        "text": "feito o rodízio lá pelo sistema, então eles estão com 400 corretores na base lá que tá completamente doido. E aí eu não sei nem como fazer para organizar."
+      },
+      {
+        "startTime": 972,
+        "endTime": 998,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o João uma coisa para a gente ter aqui com a Hype para mim vendo a conta deles o desafio número um deles é como é que a gente instrui eles para realizar um processo de designação correta de corretor para coordenador. Esse é o desafio da conta ali para o futuro, mas vamos passar pelos pontos Ester e aí o que precisa ser feito, eu acho que quando a Rafa voltar de férias ela voltou agora não voltou."
+      },
+      {
+        "startTime": 999,
+        "endTime": 1004,
+        "speaker": "Stephanie Adad Iung",
+        "text": "A Rafa não não voltou falta mais uns dois três meses ainda."
+      },
+      {
+        "startTime": 1004,
+        "endTime": 1029,
+        "speaker": "Diego Diehl",
+        "text": "automação. Talvez possa ligar para uma pessoa só atender e aí ela Direcionar para pessoa correta. Ou vai distribuindo e vocês vão se ajustando. Mas vamos guardar essa tá então essa automação de alerta de aviso dedo duro. Ficou claro e já tá desligado. Tá?"
+      },
+      {
+        "startTime": 1029,
+        "endTime": 1029,
+        "speaker": "Stephanie Adad Iung",
+        "text": "obrigado"
+      },
+      {
+        "startTime": 1029,
+        "endTime": 1029,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1030,
+        "endTime": 2533,
+        "speaker": "João Pedro",
+        "text": "Com o mesmo Corretor, Parceiro. Isso é uma outra configuração que também agora está habilitada. Porque eu estava a impressão de que o Zé não estava funcionando quando na verdade ele só não estava respondendo porque ele já estava. cadastrado na base de outra pessoa e interagindo com outra pessoa então o comando de Zé inserir Zé enviar a tabela do produto Zé enviar apresentação ele não funcionava."
+      },
+      {
+        "startTime": 2533,
+        "endTime": 1095,
+        "speaker": "João Pedro",
+        "text": "Agora várias pessoas podem falar com a mesma pessoa e mandar o arroba Zé ali"
+      },
+      {
+        "startTime": 1095,
+        "endTime": 1101,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Agora ele funciona com dois coordenadores. Ótimo Maravilha, é porque a gente tem as situações de que às vezes um não"
+      },
+      {
+        "startTime": 1101,
+        "endTime": 1102,
+        "speaker": "João Pedro",
+        "text": "que vai funcionar."
+      },
+      {
+        "startTime": 1106,
+        "endTime": 1121,
+        "speaker": "Stephanie Adad Iung",
+        "text": "pode atender o cliente naquele horário. Pede para o outro atender e daí essa esse atendimento se prolonga até o fechamento. Então até o momento de um fechamento ainda vai ter esse contato daquele corretor com o coordenador."
+      },
+      {
+        "startTime": 1121,
+        "endTime": 1121,
+        "speaker": "João Pedro",
+        "text": "E agora e agora a gente tem aqui nas opções de mensagens."
+      },
+      {
+        "startTime": 1121,
+        "endTime": 1123,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Que não é?"
+      },
+      {
+        "startTime": 1126,
+        "endTime": 1140,
+        "speaker": "João Pedro",
+        "text": "Quando duas pessoas falarem com a mesa com o mesmo parceiro vai ter a opção aqui de ficar registrado o chat de um coordenador e o chat de outro coordenador. Tá então por exemplo, eu vi aqui nos usuários de vocês."
+      },
+      {
+        "startTime": 1140,
+        "endTime": 1144,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá beleza perfeito."
+      },
+      {
+        "startTime": 1144,
+        "endTime": 1274,
+        "speaker": "João Pedro",
+        "text": "Stephanie que é a coordenadora que me cadastrou no Z2. Comigo e eu como administradora também consigo ver a minha conversa com a Cristiane. Que é quem está fazendo meu atendimento agora? Tá bom, tem esse detalhe e essa opção de usar o Zé em mais de uma em mais de um coordenador também estava desabilitado e a gente habilitou recentemente."
+      },
+      {
+        "startTime": 1274,
+        "endTime": 1276,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá beleza perfeito."
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1984,
+        "speaker": "João Pedro",
+        "text": "Deixar o coordenador trazer essa essa conveniência para o corretor pegar as informações com coordenador porque a gente sabe que o coordenador é um cara que ele tá sempre em visita reunião treinamento do produto. Enfim e muita gente às vezes fala com ele ao mesmo tempo, então como ele é uma pessoa já."
+      },
+      {
+        "startTime": 1984,
+        "endTime": 2844,
+        "speaker": "João Pedro",
+        "text": "Sobrecarregar às vezes de atividades a gente não queria colocar mais um sistema para ele ficar gerenciando e atualizando como se fosse um CRM, né? então o funcionamento do Z2 a Ele pode ser totalmente automático para a gente diferenciar quem fala com vocês de quem não fala com vocês, tá quando eu falo que ele pode ser automático é porque hoje na base da Hype."
+      },
+      {
+        "startTime": 2844,
+        "endTime": 1366,
+        "speaker": "João Pedro",
+        "text": "Essa qualificação automática, ela está desabilitada, tá bom? Aí, depois a gente conversa se vocês vão querer habilitar ou não."
+      },
+      {
+        "startTime": 1366,
+        "endTime": 1389,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É na verdade uma das coisas que eu acho que eu tinha entendido errado. Com relação a essa parte da oportunidades ali, eu achei que automaticamente ia para oportunidades quando o cliente né o corretor falava em atendimento em visita em propósito em Venda enfim e que automaticamente ficava aqui no radar então."
+      },
+      {
+        "startTime": 1390,
+        "endTime": 1398,
+        "speaker": "João Pedro",
+        "text": "Isso isso você não entendeu errado, mas é que tem um detalhe assim. Primeiro o parceiro tem que estar cadastrado na coluna de relacionamento."
+      },
+      {
+        "startTime": 1399,
+        "endTime": 1400,
+        "speaker": "Stephanie Adad Iung",
+        "text": "certo"
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1445,
+        "speaker": "João Pedro",
+        "text": "você para coluna de oportunidades Então dependendo da conta da Incorporadora, se tiver um volume muito grande de parceiros em relacionamento. A transferência para oportunidade ela não é feita em tempo real."
+      },
+      {
+        "startTime": 1445,
+        "endTime": 1446,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tá"
+      },
+      {
+        "startTime": 1446,
+        "endTime": 1452,
+        "speaker": "João Pedro",
+        "text": "Tá. Por enquanto a gente tá trabalhando para melhorar isso também essa experiência aqui dos nossos mas."
+      },
+      {
+        "startTime": 1452,
+        "endTime": 1492,
+        "speaker": "Stephanie Adad Iung",
+        "text": "seria a principal ferramenta que eu acredito além da automação. Diga de pode falar."
+      },
+      {
+        "startTime": 1492,
+        "endTime": 1512,
+        "speaker": "Diego Diehl",
+        "text": "Cristão uma dúvida. O que você tá. Eu também acho que esse é um valor bem grande. O papel olhar fundo de funil gigantesco, né passar linha oportunidade oportunidade. É nesse caso o que você imagina que o teu time ia fala assim. Ai que legal que você quer visitar com cliente."
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1537,
+        "speaker": "Diego Diehl",
+        "text": "E aí o teu time saberia o código para mover. Ou você tá querendo rastrear do corretor porque o corretor fala uma infinidade de formas diferentes. E aí que fica complicado, né? Quando você imaginou agora é a gente rastreando que o corretor fala ou vocês. Você mesmo já treinando seu time para falar algo específico que a gente sabe que moveria para oportunidade."
+      },
+      {
+        "startTime": 1538,
+        "endTime": 1545,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Eu pensei em a do corretor mesmo, porque Óbvio vai vir de diversas formas diferentes por áudio por Whats por escrito, né e de várias linguagens"
+      },
+      {
+        "startTime": 1545,
+        "endTime": 1545,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1547,
+        "endTime": 1550,
+        "speaker": "Stephanie Adad Iung",
+        "text": "diferentes, mas tem algumas palavrinhas Chaves que a gente sabe que isso tipo"
+      },
+      {
+        "startTime": 1550,
+        "endTime": 1554,
+        "speaker": "Diego Diehl",
+        "text": "De praxe, né? Visita sei lá propósito."
+      },
+      {
+        "startTime": 1554,
+        "endTime": 1562,
+        "speaker": "Stephanie Adad Iung",
+        "text": "cliente gostou bastante, sei lá, p**** se ele gostou bastante porque ele não vai comprar. Entendeu? Algo assim então deixarem oportunidades até para eu"
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1563,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1565,
+        "endTime": 1574,
+        "speaker": "Stephanie Adad Iung",
+        "text": "poder mapear com relação ao que eles estão falando, né? Tipo que o cara tá falando aqui tá falando que a gente gostou e se não oferecer o que a gente tá na promoção, entendeu?"
+      },
+      {
+        "startTime": 1576,
+        "endTime": 1580,
+        "speaker": "Diego Diehl",
+        "text": "Sim, esse aí é um valores tá show. Obrigado só queria entender melhor."
+      },
+      {
+        "startTime": 1580,
+        "endTime": 1582,
+        "speaker": "Stephanie Adad Iung",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1582,
+        "endTime": 1605,
+        "speaker": "João Pedro",
+        "text": "Stephanie eu te mandei um print no seu WhatsApp aí. com a gente tem um grupo de logs aqui interno do Z2 a com um parceiro que foi movido ali para Para oportunidade no nosso ambiente de demonstração. Tá mas o objetivo é se ele falar alguma coisa sobre visita demonstrar algum certo algum tipo de interesse, né? A ideia é que a inteligência artificial já pega esse contato"
+      },
+      {
+        "startTime": 1605,
+        "endTime": 1609,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 1609,
+        "endTime": 2918,
+        "speaker": "João Pedro",
+        "text": "implantação ali e o próprio a própria Incorporadora, né? Como Já diz o nome, né? Um campo dinâmico, então ele varia de cliente para cliente. A gente dá alguma sugestões, inclusive essas daqui foram a maioria foram nossas sugestões para vocês. Só que vocês que definem ali. Qual campo que é fundamental para qualificar o parceiro? E aí o que que o que que eu me comprometo a fazer aqui com vocês? A partir do momento que vocês definirem e a gente pode fazer isso agora, se você já tiver isso em mente ou a gente pode esperar vocês fazerem depois a partir do momento que vocês definirem."
+      },
+      {
+        "startTime": 2918,
+        "endTime": 1785,
+        "speaker": "João Pedro",
+        "text": "Qual campo dinâmico vai servir ou quais Campos dinâmicos serviram para qualificar o parceiro eu posso pedir para o time de desenvolvimento rodar o script aqui no Z2 para deletar todos os parceiros qualificados da base de vocês e permanecer qualificado somente aqueles que tem esses campos específicos preenchidos cadastrados."
+      },
+      {
+        "startTime": 1785,
+        "endTime": 1790,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Não eu acho que você fala que daí para o qualificado só passaria para"
+      },
+      {
+        "startTime": 1790,
+        "endTime": 1791,
+        "speaker": "João Pedro",
+        "text": "é porque"
+      },
+      {
+        "startTime": 1792,
+        "endTime": 1795,
+        "speaker": "Stephanie Adad Iung",
+        "text": "oportunidades. Se estivesse não tem nada a ver oportunidades."
+      },
+      {
+        "startTime": 1795,
+        "endTime": 1799,
+        "speaker": "João Pedro",
+        "text": "Não antes de oportunidades, qual que é."
+      },
+      {
+        "startTime": 1799,
+        "endTime": 1799,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Ah daí é relacionamento."
+      },
+      {
+        "startTime": 1800,
+        "endTime": 1861,
+        "speaker": "João Pedro",
+        "text": "Que ele atua sei lá que ele possui carteira de investidor sim, eu consigo disparar ali um comunicado exclusivo para esse público-alvo que respondeu que possui carteira de investidor."
+      },
+      {
+        "startTime": 1861,
+        "endTime": 1863,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Isso não tá sendo disparado hoje certo?"
+      },
+      {
+        "startTime": 1864,
+        "endTime": 1910,
+        "speaker": "João Pedro",
+        "text": "aqui? É hoje eu."
+      },
+      {
+        "startTime": 1910,
+        "endTime": 1924,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Quando eu faço disparo já vou. Ah, vou disparar um entendimento que a gente está lançando que é compacto. Vou disparar para quem atua com né nessa faixa de rendas de região. e no segmento de investidores"
+      },
+      {
+        "startTime": 1926,
+        "endTime": 1992,
+        "speaker": "João Pedro",
+        "text": "formar que o João nasceu no dia 25/06/1996 Tá quando eu faço esse cadastro na base do João eu consigo já deixar programado na Instância da Hype uma automação para mandar um feliz aniversário para o João Feliz Aniversário personalizado que vai sair do número do coordenador para o número do corretor, parceiro."
+      },
+      {
+        "startTime": 1992,
+        "endTime": 1993,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1993,
+        "endTime": 1997,
+        "speaker": "João Pedro",
+        "text": "com imagem vídeos um texto de Feliz Aniversário"
+      },
+      {
+        "startTime": 1998,
+        "endTime": 2027,
+        "speaker": "Stephanie Adad Iung",
+        "text": "chega essa mensagem minha preocupação?"
+      },
+      {
+        "startTime": 2027,
+        "endTime": 2054,
+        "speaker": "João Pedro",
+        "text": "Não aí vamos lá, vamos lá então assim. Primeiro a gente tem que definir ali dentro dos campos dinâmicos. Qual campo dinâmico é obrigatório e Qual campo dinâmico vocês utilizam para qualificar o parceiro? Como que isso vai ser preenchido hoje? Na base da Hype, ele tem que ser preenchido de forma manual, você vem aqui dito cresce fala que ele tem foco em médio padrão, ele possui carteira de"
+      },
+      {
+        "startTime": 2054,
+        "endTime": 2055,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Ah entendi"
+      },
+      {
+        "startTime": 2055,
+        "endTime": 3156,
+        "speaker": "João Pedro",
+        "text": "Juliana para o Maicon e assim até eu ter uma base totalmente qualificada. Quando essas pessoas recebem essa mensagem Elas abrem um formulário eu vou mostrar aqui o formulário na tela, mas Elas abrem um formulário e preenche os seus dados complementares. Tá se ela preencher o campo que qualifica ela ela já automaticamente é movida para coluna de relacionamento."
+      },
+      {
+        "startTime": 3156,
+        "endTime": 2187,
+        "speaker": "João Pedro",
+        "text": "Eu vou abrir aqui o João de exemplo, tá? Ele não tem nenhum Campo dinâmico preenchido, eu vou definir aqui que o cresce é um campo que qualifica ele. E que é obrigatório só para demonstrar eu já vou desmarcar tá bom? Essa"
+      },
+      {
+        "startTime": 2187,
+        "endTime": 2188,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Deixa eu abrir."
+      },
+      {
+        "startTime": 2188,
+        "endTime": 2213,
+        "speaker": "João Pedro",
+        "text": "Tá Como é que ainda tá carregando ainda, não foi?"
+      },
+      {
+        "startTime": 2213,
+        "endTime": 2234,
+        "speaker": "Diego Diehl",
+        "text": "Ô, João, deixa eu falar uma coisinha rapidinho ali conhecendo Hype ou Ester essa parte da qualificação. Concordo com o ali que não é agora para fazer, mas é legal você entender tem que dar uma organizada na base primeiro. É o que serve o que serviria para vocês está que daí eu sei que é o teu desafio, por exemplo."
+      },
+      {
+        "startTime": 2234,
+        "endTime": 2239,
+        "speaker": "Diego Diehl",
+        "text": "Como que você me responde hoje? Qual é o teu empreendimento prioridade de venda?"
+      },
+      {
+        "startTime": 2242,
+        "endTime": 2245,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É óbvio que eu sei, né?"
+      },
+      {
+        "startTime": 2245,
+        "endTime": 2246,
+        "speaker": "Diego Diehl",
+        "text": "É isso e é mais de um não, é?"
+      },
+      {
+        "startTime": 2247,
+        "endTime": 2248,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Muitos pelo menos uns 5 6."
+      },
+      {
+        "startTime": 2248,
+        "endTime": 2287,
+        "speaker": "Diego Diehl",
+        "text": "que você não precisa virar canhão tipo ficar disparando mensagem menos relevante para as pessoas erradas que é tipo o cara que foca na região sul. Você tá mandando tua promoção na região norte. Cara, o cara já olha Hype. Ai que saco, você fica mais chato, né? Se você é"
+      },
+      {
+        "startTime": 2287,
+        "endTime": 2306,
+        "speaker": "Stephanie Adad Iung",
+        "text": "legal ali, você pode segmentar falar o cara foca na região sul. Então vou mandar produto da região sul foco na região norte. Foca no alto padrão, então você consegue fazer esse disparo mais segmentado inteligente tá? Mas isso para frente aí de vocês. Enfim. Ficou claro a potência de tá"
+      },
+      {
+        "startTime": 2307,
+        "endTime": 2311,
+        "speaker": "Diego Diehl",
+        "text": "qualquer forma automação, daqui a pouco vocês podem rodar bem aí que vai dar um resultado bem grande para vocês."
+      },
+      {
+        "startTime": 2312,
+        "endTime": 2329,
+        "speaker": "Stephanie Adad Iung",
+        "text": "caras ficaram p***, tipo p**** domingo 8 horas da manhã, você tá de sacanagem."
+      },
+      {
+        "startTime": 2329,
+        "endTime": 2334,
+        "speaker": "Diego Diehl",
+        "text": "Eu alisou, né? Tem que ter o dia da semana lá para disparar. Ele deixou domingo cabeção."
+      },
+      {
+        "startTime": 2334,
+        "endTime": 2339,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Então exatamente daí depois a gente reparou o erro, né? Mas enfim."
+      },
+      {
+        "startTime": 2339,
+        "endTime": 2342,
+        "speaker": "Diego Diehl",
+        "text": "Sabe que aqui em São Paulo é de praxe disparos."
+      },
+      {
+        "startTime": 2342,
+        "endTime": 2343,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É sábado é o melhor dia, né? É o melhor dia."
+      },
+      {
+        "startTime": 2343,
+        "endTime": 2344,
+        "speaker": "Diego Diehl",
+        "text": "É o que mais dá resultado."
+      },
+      {
+        "startTime": 2347,
+        "endTime": 2347,
+        "speaker": "Stephanie Adad Iung",
+        "text": "boa"
+      },
+      {
+        "startTime": 2350,
+        "endTime": 2350,
+        "speaker": "João Pedro",
+        "text": "Tá mas"
+      },
+      {
+        "startTime": 2350,
+        "endTime": 2353,
+        "speaker": "Stephanie Adad Iung",
+        "text": "oferta também Diga João"
+      },
+      {
+        "startTime": 2354,
+        "endTime": 2373,
+        "speaker": "João Pedro",
+        "text": "Excelente aí assim ó, a gente só precisa definir. Quais Campos dinâmicos, vocês vão manter vocês vão se vocês quiserem adicionar outros Campos dinâmicos também a gente pode fazer e definir qual Campo dinâmico que é qualificadora ali para esse parceiro"
+      },
+      {
+        "startTime": 2373,
+        "endTime": 2380,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá eu acho que foco em produtos. Um dos principais possui carteira de investidor."
+      },
+      {
+        "startTime": 2381,
+        "endTime": 2382,
+        "speaker": "João Pedro",
+        "text": "Eu posso até mudar a ordem, tá?"
+      },
+      {
+        "startTime": 2383,
+        "endTime": 2383,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tá"
+      },
+      {
+        "startTime": 2386,
+        "endTime": 2397,
+        "speaker": "João Pedro",
+        "text": "Uma pergunta que eu vejo muitas incorporadoras fazerem ali nas principalmente na etapa de implantação do Z2. Se a pessoa é PJ ou é autônomo?"
+      },
+      {
+        "startTime": 2398,
+        "endTime": 2419,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Na verdade para nós não interfere ainda, não sei se vai ter alguma modificação futura, mas a gente paga o mesmo valor de comissionamento e para nós o autônomo ele foca mais tem um resultado melhor, mas a gente acaba atingindo eles igualitariamente assim não tem muito uma. Uma diferença sabe?"
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2469,
+        "speaker": "João Pedro",
+        "text": "só um minuto que eu tô perguntando aqui para o time se eles estão subindo alguma atualização que o campo de Não tá carregando."
+      },
+      {
+        "startTime": 2469,
+        "endTime": 2470,
+        "speaker": "Diego Diehl",
+        "text": "Ô Ester Vocês vão no conectar esse ano."
+      },
+      {
+        "startTime": 2472,
+        "endTime": 2480,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Não cheguei a ver de ir para comprar o alho tava tentando levar o time, mas não sei se vai dar boa. Eu queria muito ir."
+      },
+      {
+        "startTime": 2481,
+        "endTime": 2483,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom se vierem aí eu avisem."
+      },
+      {
+        "startTime": 2483,
+        "endTime": 2487,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É legal."
+      },
+      {
+        "startTime": 2487,
+        "endTime": 2501,
+        "speaker": "Diego Diehl",
+        "text": "Ainda não a meta do ano que vem. Mas a gente provavelmente vai entrar junto com o estande da Z2 a. No a gente vai estar. No modo trabalho."
+      },
+      {
+        "startTime": 2501,
+        "endTime": 2516,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Fomentar a equipe lá eu acho muito importante sempre tem bons em sites. É Setembro, né?"
+      },
+      {
+        "startTime": 2516,
+        "endTime": 2528,
+        "speaker": "Diego Diehl",
+        "text": "Ah aquele momento na estéreo. Dá uma paradinha dois três dias conectar com o time. E uma uma pergunta Ester entrou hoje o Bruno tá como o diretor da house."
+      },
+      {
+        "startTime": 2529,
+        "endTime": 2530,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É o alho no lugar do Rafa e a Andreia daí dando um suporte ali junto."
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2540,
+        "speaker": "Diego Diehl",
+        "text": "Você na plataforma O alho no comercial e só né? Não tem alguém. Não entrou alguém no lugar do Rafael ali hoje, né?"
+      },
+      {
+        "startTime": 2548,
+        "endTime": 2551,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E eu e o Bruno cada um no seu time."
+      },
+      {
+        "startTime": 2552,
+        "endTime": 2553,
+        "speaker": "Diego Diehl",
+        "text": "legal, hein, mas"
+      },
+      {
+        "startTime": 2553,
+        "endTime": 2554,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá bem bom Cultura."
+      },
+      {
+        "startTime": 2554,
+        "endTime": 2559,
+        "speaker": "Diego Diehl",
+        "text": "Carreira aí muito bom."
+      },
+      {
+        "startTime": 2560,
+        "endTime": 2634,
+        "speaker": "João Pedro",
+        "text": "Zé inserir e o nome do parceiro."
+      },
+      {
+        "startTime": 2634,
+        "endTime": 2634,
+        "speaker": "Stephanie Adad Iung",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 2634,
+        "endTime": 2692,
+        "speaker": "João Pedro",
+        "text": "E clico aqui em transferir ele faz uma transferência única aqui no sistema, tá?"
+      },
+      {
+        "startTime": 2692,
+        "endTime": 2693,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá mas aí tipo O Retorno. Esse é uma das maneiras."
+      },
+      {
+        "startTime": 2693,
+        "endTime": 2713,
+        "speaker": "João Pedro",
+        "text": "a outra Isso. Isso é uma das maneiras e a outra é fazer uma transferência em massa então por exemplo álcool, o coordenador saiu da Hype e eu quero pegar a carteira dele e quero jogar para outro coordenador. Você vem aqui seleciona coordenador atual e seleciona depois o coordenador de destino."
+      },
+      {
+        "startTime": 2713,
+        "endTime": 2742,
+        "speaker": "João Pedro",
+        "text": "E aí você consegue transferir toda a base de um para o outro, tá? Se você quiser transferir isso. Para vários de forma dividida ali para vários coordenadores você pega o coordenador atual e na opção de coordenador de destino. Você consegue marcar mais de um usuário? Então se tivessem por exemplo sem parceiros e você selecionasse quatro coordenadores, ele é de 25 para cada aqui, tá se eu colocasse quatro coordenadores de destino."
+      },
+      {
+        "startTime": 2743,
+        "endTime": 2765,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Perfeito. Não era essa minha minha dúvida maior porque a gente vai ter que fazer provavelmente manualmente daí os 800 e alguma coisa ali porque tá como teve né? A distribuição lá do site foi muito trocado de todos eles. Então tava completamente bagunçado, mas isso eu organizo daí com alho depois."
+      },
+      {
+        "startTime": 2765,
+        "endTime": 2784,
+        "speaker": "João Pedro",
+        "text": "E assim ó, se vocês não quiserem fazer isso de forma manual e vocês tiverem ali uma relação com o número de telefone que está cadastrado no z2a e quem é o coordenador responsável por ele. Às vezes vocês podem fazer isso extraindo ali os contatos da agenda dos coordenadores de vocês, porque talvez sejam as pessoas que ele já se relacionavam."
+      },
+      {
+        "startTime": 2784,
+        "endTime": 2802,
+        "speaker": "João Pedro",
+        "text": "E vocês me enviando essa planilha, né com o nome, às vezes nem precisa ter o nome, mas o número de telefone e quem é o dono desse número de telefone que é o responsável por esse número de telefone eu consigo atualizar isso via banco de dados para vocês para colocar isso em um homem."
+      },
+      {
+        "startTime": 2802,
+        "endTime": 2808,
+        "speaker": "Stephanie Adad Iung",
+        "text": "qual formato João?"
+      },
+      {
+        "startTime": 2808,
+        "endTime": 2808,
+        "speaker": "João Pedro",
+        "text": "Olha é importante só separar essas bases por coordenador."
+      },
+      {
+        "startTime": 2808,
+        "endTime": 2814,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tipo Tá um Excel, pode ser?"
+      },
+      {
+        "startTime": 2814,
+        "endTime": 2820,
+        "speaker": "João Pedro",
+        "text": "Mas o formato no Excel no Excel. E aí tem que ter o DDD, né? Esse é o mais importante."
+      },
+      {
+        "startTime": 2821,
+        "endTime": 2822,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Maravilha"
+      },
+      {
+        "startTime": 2822,
+        "endTime": 2832,
+        "speaker": "João Pedro",
+        "text": "Tá bom então, eu vou pegar o parceiro que hoje está na base da Stephanie, por exemplo e se na planilha tiver cadastrado na base do Diego transferir para o Diego. Que a gente já coloca isso em ordem ali."
+      },
+      {
+        "startTime": 2832,
+        "endTime": 2837,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 2837,
+        "endTime": 2841,
+        "speaker": "João Pedro",
+        "text": "De forma mais rápida mais simples."
+      },
+      {
+        "startTime": 2841,
+        "endTime": 2845,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá. Por enquanto vai ficar desativado daí a gente ativa quando necessário."
+      },
+      {
+        "startTime": 2845,
+        "endTime": 2890,
+        "speaker": "João Pedro",
+        "text": "mas Essa é a mensagem automática. Então se por exemplo recurso de qualificação automática tivesse habilitado na base da Hype. Seria essa mensagem parada ali do seu WhatsApp para o WhatsApp do parceiro. Essa mesma mensagem, tá? Quando vocês acharem melhor isso aí por enquanto vocês podem qualificando o"
+      },
+      {
+        "startTime": 2890,
+        "endTime": 2892,
+        "speaker": "Stephanie Adad Iung",
+        "text": "O ideal seria ter um sul norte e central, né? Porque a gente tá com três produtos agora na os próximos focos são região central e a gente tem pelo menos seis obras hoje na sul e umas 6 na Norte ainda então. Daí até dá para tem um produto só na leste e dois na Oeste, então, não sei se"
+      },
+      {
+        "startTime": 2892,
+        "endTime": 2960,
+        "speaker": "João Pedro",
+        "text": "data de nascimento Qual que é o foco de produto que ele vende se ele possui carteira de investidor? Se ele tem site. E a região de atuação hoje, ela tá sem opções, mas eu consigo dar uma lista de opções aqui para a pessoa marcar então zona sul. Não sei se aí você segmentam por zona sul zona norte."
+      },
+      {
+        "startTime": 2960,
+        "endTime": 2980,
+        "speaker": "Stephanie Adad Iung",
+        "text": "O ideal seria ter um sul norte e central, né? Porque a gente tá com três produtos agora na os próximos focos são região central e a gente tem pelo menos seis obras hoje na sul e umas 6 na Norte ainda então. Daí até dá para tem um produto só na leste e dois na Oeste, então, não sei se"
+      },
+      {
+        "startTime": 2982,
+        "endTime": 2992,
+        "speaker": "João Pedro",
+        "text": "regiões você consegue avisar primeiro para essas pessoas que que atuam ali mais nessa região."
+      },
+      {
+        "startTime": 2992,
+        "endTime": 2994,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tá"
+      },
+      {
+        "startTime": 2994,
+        "endTime": 2997,
+        "speaker": "João Pedro",
+        "text": "Pode no norte Central leste e oeste?"
+      },
+      {
+        "startTime": 2998,
+        "endTime": 2998,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Oeste"
+      },
+      {
+        "startTime": 3001,
+        "endTime": 3006,
+        "speaker": "João Pedro",
+        "text": "Tá. E aí, agora não formulário já vão aparecer essas quatro opções, ele pode marcar todas."
+      },
+      {
+        "startTime": 3007,
+        "endTime": 3012,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 3012,
+        "endTime": 3060,
+        "speaker": "João Pedro",
+        "text": "esse parceiro para oportunidade, mas vocês também podem fazer isso de forma manual então para você mover um parceiro no Board aqui de vocês basta você clicar nele selecionar e arrastar ele para as colunas entre as colunas."
+      },
+      {
+        "startTime": 3060,
+        "endTime": 3060,
+        "speaker": "Stephanie Adad Iung",
+        "text": "que"
+      },
+      {
+        "startTime": 3061,
+        "endTime": 3073,
+        "speaker": "João Pedro",
+        "text": "Daí ele vai ou dentro do perfil do João, né na ficha de atendimento do João aqui em cima tem as opções de colunas então que você marcar é a coluna que ele vai. Tá bom."
+      },
+      {
+        "startTime": 3073,
+        "endTime": 3073,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 3076,
+        "endTime": 3090,
+        "speaker": "João Pedro",
+        "text": "Aqui não deixa eu olhar aqui de novo a pauta sugerida aqui. Eu esqueci de algum detalhe sobre transferir deletar e criar um cadastro tudo certo."
+      },
+      {
+        "startTime": 3091,
+        "endTime": 3091,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tudo"
+      },
+      {
+        "startTime": 3092,
+        "endTime": 3094,
+        "speaker": "João Pedro",
+        "text": "Beleza sobre essa questão de oportunidade a gente o nosso time de"
+      },
+      {
+        "startTime": 3094,
+        "endTime": 3098,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Quanto é?"
+      },
+      {
+        "startTime": 3098,
+        "endTime": 3106,
+        "speaker": "João Pedro",
+        "text": "Eu acredito dentro das próximas semanas ali, a gente já vai já vai ter isso"
+      },
+      {
+        "startTime": 3106,
+        "endTime": 3112,
+        "speaker": "Stephanie Adad Iung",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 3112,
+        "endTime": 3135,
+        "speaker": "João Pedro",
+        "text": "de forma mais. No sistema, tá bom? Aí o último ponto que seria a padronização do envio de materiais. isso é um ponto que meu time pode corrigir para vocês exatamente seguindo a regra ali que o Alexandre mandou então vocês querem enviar a tabela a apresentação e o link do Empreendimento no venda Hype?"
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3136,
+        "speaker": "Stephanie Adad Iung",
+        "text": "isso"
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3161,
+        "speaker": "João Pedro",
+        "text": "Então eu consigo vir aqui e fazer esse Ajuste, o Mateus inclusive já vai começar a fazer esses ajustes aqui no nos scripts dos produtos de vocês. Mas eu hoje eu mando apresentação a tabela e por último eu mando um qualquer dúvida, estou à disposição. Tá tem algum produto que a gente já tem esse script rodando bem ali."
+      },
+      {
+        "startTime": 3165,
+        "endTime": 3182,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Não sei te dizer João de testes que os meninos fizeram não sei te dizer porque daí eu não cheguei a pegar ainda contigo e só o alho tava eu vi que ele tava mandando lá para vocês, mas não. Cheguei a testar ainda."
+      },
+      {
+        "startTime": 3182,
+        "endTime": 3187,
+        "speaker": "João Pedro",
+        "text": "Tá É porque esse link eu não tenho é se você puder me enviar esse link para eu adicionar no Script."
+      },
+      {
+        "startTime": 3188,
+        "endTime": 3191,
+        "speaker": "Stephanie Adad Iung",
+        "text": "o link do portal do Empreendimento no portal"
+      },
+      {
+        "startTime": 3193,
+        "endTime": 3197,
+        "speaker": "João Pedro",
+        "text": "É na verdade, ele pediu para enviar a tabela isso a gente já faz hoje. A gente"
+      },
+      {
+        "startTime": 3197,
+        "endTime": 3216,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tá mandando. Na verdade só a ordem tá diferente. Eu não sei se ele quer que a gente altere, mas a gente mandar apresentação a tabela. A gente está mandando a apresentação a tabela e por último eu consigo trocar essa mensagem do qualquer dúvida, estou à disposição para qualquer dúvida acesse o nosso portal."
+      },
+      {
+        "startTime": 3216,
+        "endTime": 3225,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E aí eu só precisaria desse link ali para a gente colocar em todos os produtos. Perfeito, daí eu mando para você ali no Whats, pode deixar."
+      },
+      {
+        "startTime": 3226,
+        "endTime": 3226,
+        "speaker": "João Pedro",
+        "text": "Então beleza"
+      },
+      {
+        "startTime": 3227,
+        "endTime": 3240,
+        "speaker": "Stephanie Adad Iung",
+        "text": "então Combinado, acho que dá até para deixar um uma mensagem mais específica daí no sentido de lembra que que sempre tá atualizadinho no nosso site alguma coisa assim."
+      },
+      {
+        "startTime": 3240,
+        "endTime": 3242,
+        "speaker": "João Pedro",
+        "text": "sim"
+      },
+      {
+        "startTime": 3242,
+        "endTime": 3244,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Fechou, eu acho que passamos por todos, né?"
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3273,
+        "speaker": "João Pedro",
+        "text": "Passamos por todos os tópicos aqui da pauta só um que a gente que eu gostaria eu vou ajustar aqui que eu coloquei como qualifica só para você exemplificar na prática. Que o parceiro João ele entrou hoje no sistema e praticamente sem nenhuma ação sua. Ele já entrou aqui na coluna de relacionamento porque é exatamente isso que a gente espera do sistema."
+      },
+      {
+        "startTime": 3273,
+        "endTime": 3286,
+        "speaker": "João Pedro",
+        "text": "Que o coordenador ele utiliza os recursos muito mais via WhatsApp do que? direto no sistema ali porque ele não vai ficar o tempo todo acessando o Z2 a né, a gente sabe de"
+      },
+      {
+        "startTime": 3286,
+        "endTime": 3316,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim, sim, é hoje até passando de ir também esse feedback do pessoal é pessoal, tá? Tenho dois coordenadores, inclusive que estão com medo de deixar o Zé logado por causa das automações que chegam nessas a fale com o seu coordenador e na verdade, né? O dedo tipo dedo duro mesmo é um deles e as automações de você, já tá conversando com o cara daí do nada veio uma automação de Oi, boa tarde."
+      },
+      {
+        "startTime": 3316,
+        "endTime": 3337,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sabe tipo uma coisa meio fora do contexto ali, então eles têm e ficaram com medo daquela última vez que foi a disparos feitos com 400 e poucos líderes ali do portal. Então eles ficaram receosos de receber tipo em contatos aleatórios ali porque o nosso volume aqui é absurdamente alto."
+      },
+      {
+        "startTime": 3337,
+        "endTime": 3355,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E aí dá aquela confusão depois tô recebendo um monte de contato. Mas é tudo da Carteira do fulano desse plano. Então, tive que mitigar isso com eles. Eu tô tentando fazer esse convencimento. Mas o que que eles me pediram para garantir que por exemplo o dedo duro ou outras automações nesse sentido"
+      },
+      {
+        "startTime": 3355,
+        "endTime": 3355,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 3358,
+        "endTime": 3363,
+        "speaker": "Stephanie Adad Iung",
+        "text": "não chegam para o parceiro, mas aí não sei como é que"
+      },
+      {
+        "startTime": 3363,
+        "endTime": 3378,
+        "speaker": "Diego Diehl",
+        "text": "Posso te dar uma ideia? Eu acho que vale essa reunião aqui você avaliar depois se tá se todos os itens do alho estão resolvidos se algum deles volta a acontecer com quem tá"
+      },
+      {
+        "startTime": 3378,
+        "endTime": 3378,
+        "speaker": "Stephanie Adad Iung",
+        "text": "pode"
+      },
+      {
+        "startTime": 3379,
+        "endTime": 3387,
+        "speaker": "Diego Diehl",
+        "text": "com coragem de estar conectado aí sexta-feira, ó. Você pergunta para São dois que estão conectados ainda eu acho né?"
+      },
+      {
+        "startTime": 3388,
+        "endTime": 3391,
+        "speaker": "Stephanie Adad Iung",
+        "text": "São três conectados e dois estão desconectados."
+      },
+      {
+        "startTime": 3391,
+        "endTime": 3423,
+        "speaker": "Diego Diehl",
+        "text": "E assim eu não me preocuparia com os dois ainda, tá? Vira para os três e falou algo estranho não tá fluindo não tá redondinho tá redondinho. Tá beleza, tá beleza. Show aí, você pode ou numa reunião da informalizar pessoal. Olha só porque eu sei como é que eu entendo a tua realidade aí tá? E aí é o momento, às vezes de você pedir às vezes para o ali numa reunião, você lista na tela em slide e fala."
+      },
+      {
+        "startTime": 3423,
+        "endTime": 3451,
+        "speaker": "Diego Diehl",
+        "text": "Automação de qualificação removida pessoal em algum momento a gente vai ligar automação de qualificação agora está desligada pessoal é falar com todos os contatos sem Alerta. Tira um printzinho fala pessoal está habilitado pá pá pá pá pá pá, pá. E aí você pode combar com treinamento presencial dos nela com todos? Se for e você pode também deixar eles um pouco porque assim Ester Ah você não quer usar ferramenta."
+      },
+      {
+        "startTime": 3451,
+        "endTime": 3469,
+        "speaker": "Diego Diehl",
+        "text": "Daqui a pouco você tá perdendo oportunidade, tipo assim, tem que falar para os três lá em reunião. E aí você tá usando pô, tá fluindo, não sei o quê ou fala com eles antes e fala pessoal. Vou perguntar na reunião só para vocês darem o depoimento de vocês para que os outros dois escutem."
+      },
+      {
+        "startTime": 3469,
+        "endTime": 3469,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 3473,
+        "endTime": 3495,
+        "speaker": "Diego Diehl",
+        "text": "Tá. E aí sobre as auto? Isso aí é um gestão da mudança, né? E sobre o Sobre muitos disparos e o medo de banir. A gente tá com as automações desligadas para gerar novos corretores para vocês em princípio é isso, né? Hoje não tá gerando novos João você sabe."
+      },
+      {
+        "startTime": 3496,
+        "endTime": 3511,
+        "speaker": "João Pedro",
+        "text": "A gente gera novos contatos Via Ouro para eles, só que a gente não dispara aquela abordagem ativa, né da mensagem de boas-vindas do ano, mas isso daí Diego foi até um problema ponto assim Ponto Alto."
+      },
+      {
+        "startTime": 3511,
+        "endTime": 3511,
+        "speaker": "Diego Diehl",
+        "text": "É que o volume deles é muito alto."
+      },
+      {
+        "startTime": 3511,
+        "endTime": 3531,
+        "speaker": "João Pedro",
+        "text": "Porque o volume da Hyper era muito alto, só que não só por isso porque a gente faz isso de forma cadenciada mesmo a empresa tendo volume gigante a gente consegue evitar os bloqueios. Só que além disso a gente em algum naquele momento naquela semana, a gente representou todos os contatos para um erro na integração com órgão e quando"
+      },
+      {
+        "startTime": 3531,
+        "endTime": 3532,
+        "speaker": "Diego Diehl",
+        "text": "Eu lembro."
+      },
+      {
+        "startTime": 3534,
+        "endTime": 3538,
+        "speaker": "João Pedro",
+        "text": "a gente disparou a gente disparou a mensagem de boas vindas sem seguir nenhuma, Cadência."
+      },
+      {
+        "startTime": 3538,
+        "endTime": 3566,
+        "speaker": "Diego Diehl",
+        "text": "Eu lembro o Ester resumo que o João tá falando é a gente. Não tinha uma trava na trava 100% nas automações que vinham de que iam a partir de corretores que vinham da orla. E aí quando de você daí sombou somou com um combo nosso de represar o volume de vocês muito alto pouco coordenador conectado para roletar."
+      },
+      {
+        "startTime": 3566,
+        "endTime": 3567,
+        "speaker": "Diego Diehl",
+        "text": "E aí deu esse ponto é agora está?"
+      },
+      {
+        "startTime": 3567,
+        "endTime": 3569,
+        "speaker": "João Pedro",
+        "text": "Tenho dois coordenadores só conectados se eu não me engano."
+      },
+      {
+        "startTime": 3570,
+        "endTime": 3571,
+        "speaker": "Stephanie Adad Iung",
+        "text": "é"
+      },
+      {
+        "startTime": 3571,
+        "endTime": 3591,
+        "speaker": "Diego Diehl",
+        "text": "Pelo menos o que eu tinha até como plantação final que eu tinha combinado com a lista era de vocês passarem uma primeira lista uma primeira base. De corretores já organizado por responsável. A gente subir para que a gente já eliminasse um volume porque você já iam ter o volume já tem 1.200 aí."
+      },
+      {
+        "startTime": 3591,
+        "endTime": 3594,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 3594,
+        "endTime": 3631,
+        "speaker": "Diego Diehl",
+        "text": "Que deve ter ido na roleta e não foram abordados. Não foram abordados. Então até foi mil na verdade impactado, né? Clica em um aí em algum pra gente ver. 08/05 não é muito antigo, vamos ver algum que esteja recente. Oi Ester. E daí um aproveitando enquanto o João abre vou te dar um argumento máximo, tá? Tipo assim das automações lá pessoal se conectou."
+      },
+      {
+        "startTime": 3631,
+        "endTime": 3650,
+        "speaker": "Diego Diehl",
+        "text": "Não vai acontecer, mas para você ter o controle na tua mão e não ficar com medo. Se você vê do nada que tá disparando 10 15 mensagens em 10 minutos você desconecta."
+      },
+      {
+        "startTime": 3651,
+        "endTime": 3658,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É o que eles fizeram na verdade um deles estava conectado começou a ver um monte de disparo, mas deixa."
+      },
+      {
+        "startTime": 3659,
+        "endTime": 3677,
+        "speaker": "Diego Diehl",
+        "text": "E não é para falar aqui, ó, é só desconectar que vai dar erro. Não é? Tipo pessoal, eu tô falando. Que e a gente pode programar isso tá Ester eu acho que a gente tem uma virada de chave. Daí até numa próxima reunião com João mesmo e falar como é que a gente vai abordar essa galera aqui."
+      },
+      {
+        "startTime": 3677,
+        "endTime": 3692,
+        "speaker": "Diego Diehl",
+        "text": "E como é que a gente vai ligar as automações e disparar que daí envolve um como é que a gente vai mandar para o coordenador certo? Ou se a gente vai mandar para um só e esse distribui. Para ligar automação porque cara a base de vocês podia tá crescendo muito."
+      },
+      {
+        "startTime": 3693,
+        "endTime": 3694,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 3694,
+        "endTime": 3713,
+        "speaker": "Diego Diehl",
+        "text": "Muito e é isso aí que vai dar a tua volume de vendas que do nada você vai atingir. Isso que acontece com as empresas tá steck tão com a gente. Vocês falam lá com mil e poucos corretores 2000. Acho que falam porque falam por lista transmissão. A maioria não recebe não lê."
+      },
+      {
+        "startTime": 3713,
+        "endTime": 3727,
+        "speaker": "Diego Diehl",
+        "text": "Quando você começa a chegar em 2 mil 3 mil Corretores e faz uma automação de sete números diferentes que dispara para todo mundo? Você é do nada, você tem uma demanda bem grande de visita, não é demanda de na verdade vem em dúvida antes, você sabe né? É exatamente então."
+      },
+      {
+        "startTime": 3727,
+        "endTime": 3730,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim normal, mas é o plantar e colher."
+      },
+      {
+        "startTime": 3730,
+        "endTime": 3751,
+        "speaker": "Diego Diehl",
+        "text": "Vamos com calma, eu acho que o principal agora vocês não estão pedindo pressa se vocês pedissem cara, precisamos gerar resultado urgente cola aqui com a gente. Por exemplo usar nela, amanhã vai passar a tarde com o kowalski. Porque precisa vender pelos portão lá e ele tá sentado fazendo automação do lado do covalski."
+      },
+      {
+        "startTime": 3751,
+        "endTime": 3758,
+        "speaker": "Diego Diehl",
+        "text": "E eu treinei bastante usando ela. Então quando vocês quiserem, talvez fazer algo. Não existem aproveitar que tem usar ela ali na rua. Eu tô pagando ele para"
+      },
+      {
+        "startTime": 3758,
+        "endTime": 3761,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ele tá"
+      },
+      {
+        "startTime": 3762,
+        "endTime": 3763,
+        "speaker": "Diego Diehl",
+        "text": "isso."
+      },
+      {
+        "startTime": 3763,
+        "endTime": 3763,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3763,
+        "endTime": 3784,
+        "speaker": "Diego Diehl",
+        "text": "E aí essa parte técnica o João o time dele seta, mas daí a parte de estratégia de sentar do lado e fazer mesmo e treinar o time presencial numa tarde toda de três horas que aqui a gente bota os coordenadores eles começam a responder o WhatsApp no computador. Começa a olhar outra tela aí, o cara já desconcentra na frente não tem essa né? O cara vai fazer ou vai fazer então estamos à disposição, tá? Só"
+      },
+      {
+        "startTime": 3784,
+        "endTime": 3788,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Claro claro osanela, inclusive, se você estiver escutando aí faz umas"
+      },
+      {
+        "startTime": 3788,
+        "endTime": 3790,
+        "speaker": "Diego Diehl",
+        "text": "vamos. uma coisa de cada vez aí que"
+      },
+      {
+        "startTime": 3797,
+        "endTime": 3806,
+        "speaker": "Stephanie Adad Iung",
+        "text": "automações meio. Nada a ver lá porque brincadeira sacanagem. Manda um abraço para ele. Ele é gente boa."
+      },
+      {
+        "startTime": 3808,
+        "endTime": 3813,
+        "speaker": "Diego Diehl",
+        "text": "O João chegou a ver se tá habilitado A abordagem"
+      },
+      {
+        "startTime": 3815,
+        "endTime": 3817,
+        "speaker": "João Pedro",
+        "text": "A abordagem não tá habilitado."
+      },
+      {
+        "startTime": 3817,
+        "endTime": 3818,
+        "speaker": "Diego Diehl",
+        "text": "Não tá habilitado, né? Então e nem a criação de Elite, senão já tinha"
+      },
+      {
+        "startTime": 3818,
+        "endTime": 3818,
+        "speaker": "João Pedro",
+        "text": "Não."
+      },
+      {
+        "startTime": 3821,
+        "endTime": 3823,
+        "speaker": "Diego Diehl",
+        "text": "bem mais líder."
+      },
+      {
+        "startTime": 3824,
+        "endTime": 3826,
+        "speaker": "João Pedro",
+        "text": "Não a criação de parceiros, tá?"
+      },
+      {
+        "startTime": 3827,
+        "endTime": 3843,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que não cara, você tá selecionando uma semana. Porque aí teria que ter muito contato criado e pouco impactado, né? Porque daí a gente"
+      },
+      {
+        "startTime": 3843,
+        "endTime": 3874,
+        "speaker": "João Pedro",
+        "text": "É o que acontece quando a gente tem essa abordagem habilitada, se ele ficar 30 dias sem interagir a gente manda uma nova abordagem ali caso ele interaja com algum produto do óleo. Hoje por exemplo a gente teve alguns processados. Só que a gente não duplica o atendimento. Então hoje a gente teve esses aqui processados, só que se você pegar aqui, a maioria é duplicado enfim."
+      },
+      {
+        "startTime": 3874,
+        "endTime": 3876,
+        "speaker": "João Pedro",
+        "text": "E às vezes esse parceiro já está sendo assim, já está cadastrado"
+      },
+      {
+        "startTime": 3876,
+        "endTime": 3878,
+        "speaker": "Diego Diehl",
+        "text": "Isso só hoje né?"
+      },
+      {
+        "startTime": 3878,
+        "endTime": 3888,
+        "speaker": "João Pedro",
+        "text": "exatamente. Então esse aqui não significa que a gente teve esse volume de contatos novos. Tá isso só hoje."
+      },
+      {
+        "startTime": 3888,
+        "endTime": 3889,
+        "speaker": "Diego Diehl",
+        "text": "Do produto tá na hora ele não tá aí é isso."
+      },
+      {
+        "startTime": 3889,
+        "endTime": 3917,
+        "speaker": "João Pedro",
+        "text": "Aí ó esse cara aqui por exemplo. A gente precisa dar uma olhada nele com atenção, porque aqui tá falando que ele não entrou porque o produto não estava cadastrado. outro detalhe importante para o time da É que assim ó quando a gente faz o cadastro dos produtos. A gente está integrado no órgão."
+      },
+      {
+        "startTime": 3917,
+        "endTime": 3944,
+        "speaker": "João Pedro",
+        "text": "Mas quando a gente faz o cadastro do produto a gente tem que vir aqui fazer todas as parametrizações mesmo que vocês incluam esse produto direto no órgão. Eu tenho que avisar para o meu time. Tá o que acontece aqui por exemplo. O tipo do erro já aparece aqui na tela agora."
+      },
+      {
+        "startTime": 3944,
+        "endTime": 3977,
+        "speaker": "João Pedro",
+        "text": "Eu já sei que ele não entrou porque não encontrou o ID do produto. Aí eu cliquei aqui no órgão deixa só carregar a página do homem. É vou dar uma olhada só para a gente confirmar tá? Mas é que tá carregando aqui a página de login se vocês tiverem com ouro aberto, aí puderem pesquisar o ID do produto é esse daqui, ó."
+      },
+      {
+        "startTime": 3977,
+        "endTime": 3985,
+        "speaker": "João Pedro",
+        "text": "69234 Só para ver qual que é o nome desse produto. Agora foi aqui. É o cosmo."
+      },
+      {
+        "startTime": 3987,
+        "endTime": 3987,
+        "speaker": "Stephanie Adad Iung",
+        "text": "É o próximo lançamento a gente tá só com algumas informações bem breve"
+      },
+      {
+        "startTime": 3987,
+        "endTime": 3989,
+        "speaker": "João Pedro",
+        "text": "cosmo"
+      },
+      {
+        "startTime": 3994,
+        "endTime": 3999,
+        "speaker": "Stephanie Adad Iung",
+        "text": "assim prévia prévia, porque a gente ainda não tem exatos."
+      },
+      {
+        "startTime": 4000,
+        "endTime": 4002,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí o ponto é cadastrar na Z2, né, João?"
+      },
+      {
+        "startTime": 4003,
+        "endTime": 4015,
+        "speaker": "João Pedro",
+        "text": "Aí para cadastrar na Z2 existe uma funcionalidade que saiu. Na sexta-feira da semana passada que eu consigo habilitar aqui o cadastro mesmo, se não tiver o produto no Z2 então a pessoa."
+      },
+      {
+        "startTime": 4015,
+        "endTime": 4028,
+        "speaker": "Diego Diehl",
+        "text": "Não não tá falando coisas diferentes. A minha o meu ponto é para resolver esse problema normalmente é cadastrar o cosmo como empreendimento na z2a. E conectar com esse é o padrão."
+      },
+      {
+        "startTime": 4028,
+        "endTime": 4036,
+        "speaker": "João Pedro",
+        "text": "isso Mas assim ó, pensa que caso ele peça alguma informação da cosmo no WhatsApp. Não vai ter nada para enviar para ele."
+      },
+      {
+        "startTime": 4036,
+        "endTime": 4051,
+        "speaker": "Diego Diehl",
+        "text": "Isso daí eles colocam padrão de mensagem, inclusive está de falar. Que bom que você entrou no cósmico esse lançamento vai arregaçar estourar prepare-se pois fique ligado lá lá lá sabe tipo."
+      },
+      {
+        "startTime": 4051,
+        "endTime": 4052,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim, é a gente tem uma bem breve."
+      },
+      {
+        "startTime": 4052,
+        "endTime": 4072,
+        "speaker": "Diego Diehl",
+        "text": "Nem tá abordando o ponto o principal está é que quando você tiver há um tempo antes do lançamento, você vai poder filtrar aí. Que corretores que acessaram o cosmo como que ela faz isso por sinal aí João?"
+      },
+      {
+        "startTime": 4074,
+        "endTime": 4076,
+        "speaker": "João Pedro",
+        "text": "Que acessaram o cosmo. hoje"
+      },
+      {
+        "startTime": 4076,
+        "endTime": 4090,
+        "speaker": "Diego Diehl",
+        "text": "Os filtros Tem a parte de do produto, né? Que é lá para baixo ali ó mais para cima aí ó, como é que eu seleciona esses caras aí?"
+      },
+      {
+        "startTime": 4090,
+        "endTime": 4107,
+        "speaker": "João Pedro",
+        "text": "É hoje, a gente não tem essa opção em tela tá? Mas é uma coisa que a gente já tá trabalhando nessa experiência de desenvolvimento. Eu posso exportar essa base para um Excel mostrando as intenções de empreendimento? Mas aqui na tela de empreendimentos, eu também tenho um ranking."
+      },
+      {
+        "startTime": 4107,
+        "endTime": 4111,
+        "speaker": "Diego Diehl",
+        "text": "tá achei que"
+      },
+      {
+        "startTime": 4112,
+        "endTime": 4126,
+        "speaker": "João Pedro",
+        "text": "O Luiz Ele pesquisou bastante o Bosque casa Nativa. Aí eu vou ter seu cadastrar o empreendimento. Cosmo aqui eu vou conseguir listar Ali quem tá pesquisando o cosmo pelo menos os 10."
+      },
+      {
+        "startTime": 4126,
+        "endTime": 4135,
+        "speaker": "Diego Diehl",
+        "text": "É o ponto está imagina que tem 300 corretores que acessaram o cosmo. E aí você tá a tempo antes do lançamento o ideal a gente fazer um disparo para essa galera, entendeu?"
+      },
+      {
+        "startTime": 4135,
+        "endTime": 4137,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Com certeza Essa é a minha ideia."
+      },
+      {
+        "startTime": 4137,
+        "endTime": 4140,
+        "speaker": "Diego Diehl",
+        "text": "Isso daí vamos nos próximos passos João. Como que você sugere que resolva"
+      },
+      {
+        "startTime": 4140,
+        "endTime": 4142,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 4142,
+        "endTime": 4151,
+        "speaker": "Diego Diehl",
+        "text": "que habilite a partir desse nova dessa nova sistemática de vocês ou a gente já cadastre aí na Z2?"
+      },
+      {
+        "startTime": 4151,
+        "endTime": 4161,
+        "speaker": "João Pedro",
+        "text": "Olha eu sugiro a gente cadastrar o cosmo, porque se eu habilitar essa sistemática eu não garanto que ele não vai receber abordagem de boas-vindas do órgão porque é uma outra abordagem."
+      },
+      {
+        "startTime": 4161,
+        "endTime": 4162,
+        "speaker": "Diego Diehl",
+        "text": "Ah beleza"
+      },
+      {
+        "startTime": 4162,
+        "endTime": 4167,
+        "speaker": "João Pedro",
+        "text": "Eu não sei se é se o time deixou desabilitado. Até porque não existia, né?"
+      },
+      {
+        "startTime": 4168,
+        "endTime": 4215,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá eu passo para vocês informações do Cosmo então e aí a gente já insere ele também. Esse daí que a gente estava mexendo bastante nesse todas essas mensagenszinhas aí e estão indo todas elas né? Eu acho que essas que não tem como desativar. é uma preocupação que eu tenho porque daí algumas O alho mexeu tem algumas que eu vou dar só um boa tarde para Só porque não tem como excluir ela vou dar um boa tarde para o parceiro, não vou falar absolutamente nada, mas a gente não tinha como tirar ela de vinculação então não sei daí o que fazer nesse sentido falou que ainda tá em andamento, mas que por enquanto não dá para Tirar alguma dessas automações, né?"
+      },
+      {
+        "startTime": 4220,
+        "endTime": 4242,
+        "speaker": "João Pedro",
+        "text": "não dá sim para a gente tirar essa automação de boas-vindas do Só deixa eu mostrar aqui um negócio é que esse recurso de cadastrar sem o produto, ele é novo, tá? Então o que eu acho é que o time não habilitou essa regrinha na De não fazer abordagem. Então acho melhor a gente cadastrar o você consegue."
+      },
+      {
+        "startTime": 4242,
+        "endTime": 4249,
+        "speaker": "Diego Diehl",
+        "text": "eu"
+      },
+      {
+        "startTime": 4249,
+        "endTime": 4265,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Então a gente tem um breve ali um pdfzinho que tá lá na nuvem da Hype. Sobre o cosmo é um material bem prévio, mas é um pdfzinho que dá para enviar esse cara quiser que é bem um resumão."
+      },
+      {
+        "startTime": 4268,
+        "endTime": 4295,
+        "speaker": "Diego Diehl",
+        "text": "Porque assim ó são duas coisas. Tais aqui a reunião já tá longa, mas para ir fechando sua malinha assim simples uma coisa que a gente tá falando aqui é o cadastro de corretores. A gente Tecnicamente tá cadastrando os corretores da João crer que só se desse o cheque, se do portal também tá habilitado tá o portal da oro que eu."
+      },
+      {
+        "startTime": 4295,
+        "endTime": 4294,
+        "speaker": "Diego Diehl",
+        "text": "tinha"
+      },
+      {
+        "startTime": 4294,
+        "endTime": 4296,
+        "speaker": "João Pedro",
+        "text": "É que a integração do Ouro ela é uma só exatamente."
+      },
+      {
+        "startTime": 4296,
+        "endTime": 4303,
+        "speaker": "Diego Diehl",
+        "text": "É uma só né? Então Tecnicamente. Está cadastrando está com 1.200 corretores ali, tá?"
+      },
+      {
+        "startTime": 4303,
+        "endTime": 4305,
+        "speaker": "João Pedro",
+        "text": "é"
+      },
+      {
+        "startTime": 4306,
+        "endTime": 4307,
+        "speaker": "Diego Diehl",
+        "text": "Vai ali no dashboard João da Fonte dos corretores só para mostrar para estar."
+      },
+      {
+        "startTime": 4307,
+        "endTime": 4316,
+        "speaker": "João Pedro",
+        "text": "Se eu não separo a origem. Da Integração com uma origem só vem como."
+      },
+      {
+        "startTime": 4319,
+        "endTime": 4344,
+        "speaker": "Diego Diehl",
+        "text": "dashboard a fonte do corretor ali na pizza Ali, ó, ó. Ester o teu time, esse é esse talvez é o ponto principal que eu jogo para ti, tá? Teu time só cadastrou 60 corretores até hoje já faz três meses que a gente tá com a ferramenta. Então, teu time não tá mandando @seia inserir o nome do corretor."
+      },
+      {
+        "startTime": 4344,
+        "endTime": 4366,
+        "speaker": "Diego Diehl",
+        "text": "A hora do cadastrou 1125. Ah, isso é um problema. Porque como vocês já estão direcionando todo mundo para o portal acaba que você não vai por uma via vai pela outra só que qual que é o problema quando vai pelo Portal. A gente não sabe de qual coordenador que é."
+      },
+      {
+        "startTime": 4366,
+        "endTime": 4372,
+        "speaker": "Diego Diehl",
+        "text": "Então eu estimularia a galera a cadastrar ali ó, tá falando com o corretor."
+      },
+      {
+        "startTime": 4373,
+        "endTime": 4373,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 4373,
+        "endTime": 4394,
+        "speaker": "Diego Diehl",
+        "text": "E até já usar ou criar um lembrete ver se o Zé tá habilitado, já cadastro cara garante e tal eu isso aí com o time um pouco e tem 1.100 corretores que a gente jogou para vocês. Então a gente tá jogando bastante corretor. Aqui a gente deixou a abordagem desse corretor quando é criado desligado."
+      },
+      {
+        "startTime": 4394,
+        "endTime": 4413,
+        "speaker": "Diego Diehl",
+        "text": "Tá quando vocês quiserem dá para a gente habilitar uma Cadência saudável tranquila, até porque está a lembrar a gente não tá abordando. Acho que no caso lá do Sandro foi pelo volume máximo mesmo destravado que rolou o volume. Não vai mais rolar o outro perigo é quando a gente dispara algo."
+      },
+      {
+        "startTime": 4413,
+        "endTime": 4438,
+        "speaker": "Diego Diehl",
+        "text": "Muito publicitário assim, principalmente para cliente final aí os clientes denunciam. Mas como é o corretor é o trabalho dele, provavelmente ele conhece a Hype sabe não é uma coisa de outro mundo o cara não vai ficar denunciando lá e sabe até porque ele já deve ter o número salvo de vocês aí de alguém, né? Então isso queria esclarecer isso, eu acho que o próximo passo é."
+      },
+      {
+        "startTime": 4438,
+        "endTime": 4464,
+        "speaker": "Diego Diehl",
+        "text": "Você que a gente tá falando aqui a gente cadastrar o cosmo na Z2 para já ir cadastrar nos corretores. O segundo você alinhar teu time é ótimo pessoal virar para os três e falar tá resolvido, se vocês tiveram ouvido não tá fluindo bem e tal, viu? Só vocês outros dois tá resolvido aí um passo da gente ver como organiza a carteira para estar com as pessoas certas."
+      },
+      {
+        "startTime": 4464,
+        "endTime": 4495,
+        "speaker": "Diego Diehl",
+        "text": "Esse aí Ester eu queria não deixar um Bicho de Sete. Cabeças, tipo. Nossa, mas vai dar um trabalhão sim Ester mas é tipo a tua vida tá aí até o trabalho tá ligado depois. Se você tiver essa base organizada vai ficar do c****** para vocês. Vocês vão ter a base mais organizada da cidade porque a galera não tá usando o portal tanto quanto vocês então quando a gente criar o processo sim de designar o corretor para o coordenador certo, cara."
+      },
+      {
+        "startTime": 4495,
+        "endTime": 4526,
+        "speaker": "Diego Diehl",
+        "text": "Você vai estar com meu Deus, você vai estar com muito organizado, então só falta isso daí ver como que a gente vai entrar a corretora corretor. Ou até daí validando com você João tipo que que você sugere que é mais fácil. Seria viável, tipo a gente exportar essa lista eles indo botarem no Google e ponto de quem é quem papapapapapa e depois a gente reportar ou você acha que a gente perde histórico é ruim ou atualizar só o campo de responsável."
+      },
+      {
+        "startTime": 4526,
+        "endTime": 4531,
+        "speaker": "Diego Diehl",
+        "text": "Com base no nome do corretor no número dele Vocês Ficou claro minha pergunta."
+      },
+      {
+        "startTime": 4532,
+        "endTime": 4535,
+        "speaker": "Stephanie Adad Iung",
+        "text": "saiu"
+      },
+      {
+        "startTime": 4535,
+        "endTime": 4540,
+        "speaker": "Diego Diehl",
+        "text": "Porque era minha ideia Ester. Da gente talvez eu já voltou."
+      },
+      {
+        "startTime": 4542,
+        "endTime": 4547,
+        "speaker": "João Pedro",
+        "text": "Minha câmera travou tudo aqui, eu deixei vou deixar desligado. Tá peço perdão."
+      },
+      {
+        "startTime": 4547,
+        "endTime": 4547,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tranquilo"
+      },
+      {
+        "startTime": 4548,
+        "endTime": 4577,
+        "speaker": "Diego Diehl",
+        "text": "Me tira uma dúvida sobre a viabilidade, eu nunca fiz isso tipo. É viável a gente exportar um Excel com uma coluna de tipodido corretor nome do corretor telefone do corretor e aí o responsável do corretor. Aí a Ester conseguir a 45 a 10 mãos ali e ajustando. Quem é responsável de cada corretor? Talvez até Imobiliária, eles fazerem esse trabalho no Excel."
+      },
+      {
+        "startTime": 4577,
+        "endTime": 4582,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente subiu de novo. atualizando o campo responsável"
+      },
+      {
+        "startTime": 4582,
+        "endTime": 4584,
+        "speaker": "João Pedro",
+        "text": "Pode ser pode ser dessa forma."
+      },
+      {
+        "startTime": 4584,
+        "endTime": 4588,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Nossa, seria perfeito. Isso numa reunião f***-se, entendeu?"
+      },
+      {
+        "startTime": 4588,
+        "endTime": 4605,
+        "speaker": "Diego Diehl",
+        "text": "É exato em meia hora 40 minutos cada um papapapada e outro revise e fala não isso aqui é meu daí dá uma uma Justin. Então eu acho que esse é o próximo passo estrutural, mas eu vou deixar por uma próxima semana, isso é para dar uma acalmada estabilizou não tem automação."
+      },
+      {
+        "startTime": 4605,
+        "endTime": 4635,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá eu ia na verdade. Eu ia pedir esse para mim de seria o prioritário para a gente organizar para eles poderem ter essa tranquilidade de usar ferramenta quem tá logado já porque o que mais está dando conflito é esse exportar os contatos. Então se o João conseguir me mandar esses contatos na segunda-feira na reunião, eu já bato com eles dia 30 e já trago isso atualizado no Júlio porque Julho a gente lança o cosmo, daí eu preciso estar com a base organizada."
+      },
+      {
+        "startTime": 4636,
+        "endTime": 4643,
+        "speaker": "Diego Diehl",
+        "text": "Só um ponto daí para vocês Ester. Que seria ideal tá a gente tem ali 1.200 corretores."
+      },
+      {
+        "startTime": 4643,
+        "endTime": 4644,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 4644,
+        "endTime": 4655,
+        "speaker": "Diego Diehl",
+        "text": "Talvez vocês tenham mais pessoas ainda que vocês querem cadastrar. Talvez eu possa ver cruzar nela, se a gente consegue olhar para um pouquinho mais de base para vocês para ajudar a enriquecer."
+      },
+      {
+        "startTime": 4656,
+        "endTime": 4658,
+        "speaker": "Stephanie Adad Iung",
+        "text": "travou"
+      },
+      {
+        "startTime": 4658,
+        "endTime": 4675,
+        "speaker": "Diego Diehl",
+        "text": "E aí vocês verem se vocês têm de algum lado uma forma de cara dele estar essa galera de fazer alguma coisa, a gente tem até a função ou João. Você sabe se o Zé listar grupos o Zé está grupo está funcionando ainda João."
+      },
+      {
+        "startTime": 4675,
+        "endTime": 4675,
+        "speaker": "João Pedro",
+        "text": "Tá sim"
+      },
+      {
+        "startTime": 4676,
+        "endTime": 4677,
+        "speaker": "Diego Diehl",
+        "text": "Então olha só."
+      },
+      {
+        "startTime": 4677,
+        "endTime": 4681,
+        "speaker": "João Pedro",
+        "text": "Só que ele não sai o nome do contato, só sai o número de telefone, tá?"
+      },
+      {
+        "startTime": 4681,
+        "endTime": 4683,
+        "speaker": "Diego Diehl",
+        "text": "O número de telefone o grupo que ele tava né?"
+      },
+      {
+        "startTime": 4684,
+        "endTime": 4698,
+        "speaker": "João Pedro",
+        "text": "Isso isso. Aí no caso quando o cliente pede para a gente importar a gente importa para um contato até a gente fazer a ativação dele para depois transferir. Para o coordenador já com o nome."
+      },
+      {
+        "startTime": 4700,
+        "endTime": 4721,
+        "speaker": "Diego Diehl",
+        "text": "Legal, tá? Vamos por partes é o que dá para a gente fazer é dois corretores. A gente tem que criar uma listana isso que eu tô falando posso te mandar a lista que já tá cadastrado lá. Tentar ver se eu enriqueço ela de alguma forma então João já fica contigo essa esses portais."
+      },
+      {
+        "startTime": 4721,
+        "endTime": 4734,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente instrui como que eles preenchem para estar Claro de quem é cada coordenador e um desafio que eu acho da Ester me disse se é importante para vocês, mas definir Imobiliária hoje."
+      },
+      {
+        "startTime": 4736,
+        "endTime": 4748,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Definir a imobiliária assim que o coordenador que o corretor tá porque daí facilita, tipo, eu sei que todos a my broker. Às vezes tem um corretor que está na mem broker, mas que o Mateus ainda não conhece aí já vai automático"
+      },
+      {
+        "startTime": 4748,
+        "endTime": 4748,
+        "speaker": "Diego Diehl",
+        "text": "É que a gente não sabe tá?"
+      },
+      {
+        "startTime": 4748,
+        "endTime": 4751,
+        "speaker": "Stephanie Adad Iung",
+        "text": "para carteira dele. Sim, sim, sim."
+      },
+      {
+        "startTime": 4751,
+        "endTime": 4777,
+        "speaker": "Diego Diehl",
+        "text": "É vocês querem que dizer o que o que a gente vai entregar é um Excel. Com o coordenador responsável e a imobiliária. O coordenador responsável daí João aí isso é uma instrução que eu queria ter contigo que é. Dá para ela dá para eles só preencherem com vários nomes de Imobiliários, daí a gente recebendo isso a gente já criar essas imobiliárias para eles em escala."
+      },
+      {
+        "startTime": 4777,
+        "endTime": 4780,
+        "speaker": "João Pedro",
+        "text": "É hoje eu não consigo cadastrar Imobiliária via banco."
+      },
+      {
+        "startTime": 4781,
+        "endTime": 4807,
+        "speaker": "Diego Diehl",
+        "text": "Ah não, mas isso aí dá para alguém lá em meia hora 40 minutos cadastras Imobiliários como organizações aí. Então serão dois trabalhos é o João daí só uma última dúvida. Como é que a Ester vai preencher? Uma coluna na planilha para já vincular uma imobiliária é uma Idea o nome da imobiliária o que que é?"
+      },
+      {
+        "startTime": 4810,
+        "endTime": 4818,
+        "speaker": "João Pedro",
+        "text": "Não, pera aí a gente eu vou pegar a base de vocês e a gente vai definir. Quem é o responsável por esse contato o coordenador?"
+      },
+      {
+        "startTime": 4819,
+        "endTime": 4819,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 4819,
+        "endTime": 4823,
+        "speaker": "João Pedro",
+        "text": "Vocês vão colocar também. Vocês já vão criar associar a uma imobiliária a uma organização?"
+      },
+      {
+        "startTime": 4824,
+        "endTime": 4830,
+        "speaker": "Diego Diehl",
+        "text": "O ideal seria a gente já resolver isso junto. é a minha pergunta para tia como é que"
+      },
+      {
+        "startTime": 4830,
+        "endTime": 4835,
+        "speaker": "João Pedro",
+        "text": "Eu vou precisar verificar com o time de desenvolvimento se existe essa possibilidade tá? Porque até hoje."
+      },
+      {
+        "startTime": 4835,
+        "endTime": 4859,
+        "speaker": "Diego Diehl",
+        "text": "Tá verifica verifica para gente porque daí o que que eu falo para a Ester já está. Você o ideal seria você já começarem a criar as organizações na z2a que são as imobiliárias. Cara é a tarefa para eles é cinco minutos tem vários dados de endereço e tal, mas nem precisa preencher tudo só por lá o nome da imobiliária."
+      },
+      {
+        "startTime": 4859,
+        "endTime": 4876,
+        "speaker": "Diego Diehl",
+        "text": "Talvez o CNPJ para ter uma clareza e pau vai adicionando. porque daí depois o que eu chuto tá João, eu acho que essa organização quando cria ela vai ter um id e talvez dê para usar esse ID depois para cruzar nome aí de"
+      },
+      {
+        "startTime": 4876,
+        "endTime": 4894,
+        "speaker": "João Pedro",
+        "text": "É hoje a gente não tem eu vou verificar com o time de desenvolvimento se existe a possibilidade da gente marcar pelo nome tá? Mas assim pessoal. Eu vou até pedir desculpa para vocês. A gente acabou passando 20 minutinhos aqui a minha outra reunião das 10 o cliente atrasou um pouco e vai entrar agora lá então eu vou precisar entrar lá, mas assim."
+      },
+      {
+        "startTime": 4894,
+        "endTime": 4895,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 4897,
+        "endTime": 4897,
+        "speaker": "Diego Diehl",
+        "text": "ck com calma"
+      },
+      {
+        "startTime": 4897,
+        "endTime": 4899,
+        "speaker": "João Pedro",
+        "text": "Eu vou mandar a planilha."
+      },
+      {
+        "startTime": 4900,
+        "endTime": 4901,
+        "speaker": "Stephanie Adad Iung",
+        "text": "beleza"
+      },
+      {
+        "startTime": 4901,
+        "endTime": 4910,
+        "speaker": "João Pedro",
+        "text": "Vou te mandar eu vou pedir só para você me enviar o seu e-mail, por gentileza no meu WhatsApp lá que eu te chamei, pode ser o WhatsApp que eu tô no grupo ou mandar seu e-mail lá no grupo."
+      },
+      {
+        "startTime": 4911,
+        "endTime": 4912,
+        "speaker": "Stephanie Adad Iung",
+        "text": "ok"
+      },
+      {
+        "startTime": 4912,
+        "endTime": 4922,
+        "speaker": "João Pedro",
+        "text": "Que eu já vou te mandar a base e aí sobre vincular a organização eu vou verificar com o time de desenvolvimento se existe essa possibilidade primeiro eu não posso confirmar nada sem falar com ele, tá?"
+      },
+      {
+        "startTime": 4923,
+        "endTime": 4927,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Então perfeito perfeito. Tô te mandando ali já João. Obrigada."
+      },
+      {
+        "startTime": 4928,
+        "endTime": 4928,
+        "speaker": "João Pedro",
+        "text": "Imagina que é isso, muito obrigado, viu? Pessoal pela"
+      },
+      {
+        "startTime": 4928,
+        "endTime": 4931,
+        "speaker": "Diego Diehl",
+        "text": "valeu"
+      },
+      {
+        "startTime": 4932,
+        "endTime": 4933,
+        "speaker": "João Pedro",
+        "text": "Atenção um ótimo dia para vocês."
+      },
+      {
+        "startTime": 4934,
+        "endTime": 4934,
+        "speaker": "Diego Diehl",
+        "text": "Valeu, tchau."
+      },
+      {
+        "startTime": 4935,
+        "endTime": 4935,
+        "speaker": "João Pedro",
+        "text": "Valeu, tchau, tchau."
+      },
+      {
+        "startTime": 4935,
+        "endTime": 4951,
+        "speaker": "Stephanie Adad Iung",
+        "text": "tchau Show de não, mas tanto essa essa lista assim até pelas se não tiver o das imobiliárias, pelo menos a lista acho que eles conseguem identificar um ou outro ali quem é quem é quem ou pelo número deles vão puxando tipo. Ah, esse é meu esse é meu esse é meu."
+      },
+      {
+        "startTime": 4952,
+        "endTime": 4972,
+        "speaker": "Diego Diehl",
+        "text": "E no Excel no Excel no Excel estás esses Body WhatsApp o cara clica e já vê se abre e vê se tá salvo. Ou até daí vocês vão ser malandros com isso, aí vocês podem pegar a lista com telefone exportar a base de contatos que vocês têm no Google conta e cruzar já."
+      },
+      {
+        "startTime": 4972,
+        "endTime": 4987,
+        "speaker": "Diego Diehl",
+        "text": "Ver se tem algo ver se tem nome porque no Google conta de vocês tem lá às vezes a imobiliária o coordenador provavelmente lembra do corretor pelo nome que está salvo no PL lá lá as cartas escrito Lopes, mas já sabe que ele já"
+      },
+      {
+        "startTime": 4987,
+        "endTime": 4988,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Mas ele tá em outro."
+      },
+      {
+        "startTime": 4989,
+        "endTime": 4990,
+        "speaker": "Diego Diehl",
+        "text": "tá em outra né? Então cara, eu acho que esse é um trabalho bem bacana, daí"
+      },
+      {
+        "startTime": 4990,
+        "endTime": 4993,
+        "speaker": "Stephanie Adad Iung",
+        "text": "sim"
+      },
+      {
+        "startTime": 4993,
+        "endTime": 5012,
+        "speaker": "Diego Diehl",
+        "text": "a gente só tem que ver. Para depois disso, tem que ensinar o teu time de alguma forma transferir o contato para o outro. Porque o ideal é ir jogando na roleta? Ou jogar para uma Rafa centralizada e definir o responsável trocar ou não?"
+      },
+      {
+        "startTime": 5012,
+        "endTime": 5023,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Tá Não já tô até imaginando como fazer isso. Vou jogar as duas possibilidades falar time a gente pode sentar aqui e fazer um apanhado geral. A gente vai perder meia hora 40 minutos fazendo isso e aqui para frente vocês"
+      },
+      {
+        "startTime": 5023,
+        "endTime": 5025,
+        "speaker": "Diego Diehl",
+        "text": "E já faz para mim 1200 corretores."
+      },
+      {
+        "startTime": 5025,
+        "endTime": 5032,
+        "speaker": "Stephanie Adad Iung",
+        "text": "vão fazer ou Cada um faz por conta, mas eu preciso que faça tipo todos esses que estão trocados, você vai lá e vai trocar no sistema para o coleguinha."
+      },
+      {
+        "startTime": 5033,
+        "endTime": 5034,
+        "speaker": "Diego Diehl",
+        "text": "Exato eu acho que o importante é conscientizar tipo da importância disso, sabe"
+      },
+      {
+        "startTime": 5034,
+        "endTime": 5038,
+        "speaker": "Stephanie Adad Iung",
+        "text": "E fica ruim fica ruim para o parceiro, né? Não sei mais com quem que eu falo"
+      },
+      {
+        "startTime": 5038,
+        "endTime": 5068,
+        "speaker": "Diego Diehl",
+        "text": "Ester e sabe onde é que eu vejo a galera bater Ester e fala assim. Faz eles imaginarem vocês lembram gente, quando tem um corretor que tá falando com dois três da gente tomando um tempão e às vezes fazendo a gente conflitar informação duas pessoas trabalharem ao mesmo tempo. E no fim quando vocês centralizarem vai ficar mais fácil, senão o cara fala com você, fala com o outro fala com o outro sabe daí vocês concor igual umas barata tonta trabalhando para um corretor."
+      },
+      {
+        "startTime": 5070,
+        "endTime": 5072,
+        "speaker": "Stephanie Adad Iung",
+        "text": "na raiva. Quem que é o meu coordenador?"
+      },
+      {
+        "startTime": 5072,
+        "endTime": 5080,
+        "speaker": "Diego Diehl",
+        "text": "Daí já fala daí vocês vão avaliar ligar o dedo duro, depois vocês vão ver que funciona que daí o cara vai não não é comigo é com o outro organiza, né?"
+      },
+      {
+        "startTime": 5082,
+        "endTime": 5082,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Sim, então, tá bom."
+      },
+      {
+        "startTime": 5082,
+        "endTime": 5087,
+        "speaker": "Diego Diehl",
+        "text": "Mas show alguns testes checkout aí tem alguma dúvida tá mais tranquila tá mais claro."
+      },
+      {
+        "startTime": 5088,
+        "endTime": 5106,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Mas tranquilo de perfeito, era isso que eu tava mais perdida, mas agora já facilitou bastante a vida aqui a gente vai vai seguir com os próximos passos você me manda essa essa gravação que daí eu já passo para Jéssica que ela pediu também que ela não pode estar presente, mas ela quer acompanhar também as funcionalidades."
+      },
+      {
+        "startTime": 5106,
+        "endTime": 5107,
+        "speaker": "Stephanie Adad Iung",
+        "text": "Enfim fazer."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 394,
+    "speakers": [
+      "Ana Carolina dos Santos Silva Santos",
+      "João Pedro",
+      "Stephanie Adad Iung",
+      "Matheus Castro",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 9706,
+    "duration_start": 0,
+    "duration_end": 5107
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "685aa7bc776ea30013ec4740",
+        "timestamp": 138,
+        "text": "João juntou-se à reunião",
+        "topicId": "685aa7bc776ea30013ec46e6"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46e7",
+        "timestamp": 179,
+        "text": "Diego sugere treinamento prático e presencial da ferramenta para equipe de Stephanie após implementação.",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46fe",
+        "timestamp": 211,
+        "text": "Planejamento de expandir base de usuários com automações e geração de leads a partir de corretores do portal.",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4741",
+        "timestamp": 251,
+        "text": "Reunião iniciada com presença de João, Mateus e equipe Z2",
+        "topicId": "685aa7bc776ea30013ec46e6"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f0",
+        "timestamp": 268,
+        "text": "Discutida instabilidade na inclusão de novo administrador do sistema",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f1",
+        "timestamp": 340,
+        "text": "Processo de desenvolvimento da Z2A envolve cadastro de parceiros por administradores do sistema",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f2",
+        "timestamp": 362,
+        "text": "Avaliar necessidade de desenvolver nova solução ou usar conta existente.",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f3",
+        "timestamp": 372,
+        "text": "Stephanie enfrenta dificuldades para cadastrar novos usuários no sistema",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f4",
+        "timestamp": 386,
+        "text": "João já realizou cadastro com seu próprio usuário de suporte",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f5",
+        "timestamp": 469,
+        "text": "Possível definir tipo de usuário e configurar perfil individualmente",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f6",
+        "timestamp": 556,
+        "text": "João planeja deletar parceiro cadastrado para garantir teste correto",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f7",
+        "timestamp": 603,
+        "text": "João solicita a Stephanie comando de cadastro do Zé com seu nome",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ff",
+        "timestamp": 858,
+        "text": "Diego discutindo automações para contatos sem alertas de interferência entre corretores",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4700",
+        "timestamp": 905,
+        "text": "Proposta de coordenadores gerenciarem apenas suas próprias carteiras de contatos",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4717",
+        "timestamp": 937,
+        "text": "Administradores têm opção de direcionar parceiro durante processo de cadastro no Z2",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4718",
+        "timestamp": 961,
+        "text": "Sistema atual de rodízio está desorganizado com 400 corretores na base",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4719",
+        "timestamp": 971,
+        "text": "Desafio principal: instruir processo de designação correta de corretor para coordenador",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472a",
+        "timestamp": 998,
+        "text": "Rafa retornará de férias em dois a três meses",
+        "topicId": "685aa7bc776ea30013ec46e3"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471a",
+        "timestamp": 1074,
+        "text": "Possível solução: central de atendimento para direcionar chamadas para pessoa correta",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471b",
+        "timestamp": 1094,
+        "text": "Sistema agora funciona com dois coordenadores simultaneamente",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471c",
+        "timestamp": 1106,
+        "text": "Coordenadores podem substituir um ao outro no atendimento ao cliente",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f8",
+        "timestamp": 1126,
+        "text": "Nova funcionalidade permite registrar chats separados para cada coordenador",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46f9",
+        "timestamp": 1144,
+        "text": "Sistema Z2 tem configuração recente com bug de cadastro limitado ao próprio usuário, independente do nível administrativo.",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46fa",
+        "timestamp": 1242,
+        "text": "Discutir possível resolução de funcionalidade, potencialmente não imediata.",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4701",
+        "timestamp": 1366,
+        "text": "Stephanie e João discutem qualificação de oportunidades para parceiros, investigando problemas de interação do sistema.",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4702",
+        "timestamp": 1452,
+        "text": "Automação identificada como principal ferramenta para aprimoramento",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4703",
+        "timestamp": 1485,
+        "text": "Sistema Z2 alertará automaticamente quando parceiro cadastrado enviar mensagem",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4704",
+        "timestamp": 1538,
+        "text": "Identificar palavras-chave em comunicações de corretores para rastrear potenciais oportunidades de negócio",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4705",
+        "timestamp": 1596,
+        "text": "Objetivo: usar IA para capturar contatos com interesse em visita ou demonstração",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4706",
+        "timestamp": 1687,
+        "text": "Coordenador de parcerias precisa de permissão específica para conectar-se à Inteligência Artificial",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4707",
+        "timestamp": 1799,
+        "text": "Identificar público-alvo com carteira de investimentos para comunicação exclusiva",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4708",
+        "timestamp": 1912,
+        "text": "Stephanie planeja disparar comunicação compacta para região e segmento de investidores",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472e",
+        "timestamp": 1917,
+        "text": "Cristiane está realizando o atendimento atual para João",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472f",
+        "timestamp": 1925,
+        "text": "João propõe automação de aniversário personalizada na Hype para envio de mensagens",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4730",
+        "timestamp": 1945,
+        "text": "Equipe trabalhando na correção do bug, expectativa de resolução ainda hoje",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4731",
+        "timestamp": 1972,
+        "text": "Evitar sobrecarregar coordenador com sistemas adicionais de gerenciamento como CRM",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4732",
+        "timestamp": 1992,
+        "text": "Discutir mensagem de aniversário com imagem e vídeo",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4709",
+        "timestamp": 2030,
+        "text": "Identificar campos dinâmicos obrigatórios para qualificação de parceiros",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470a",
+        "timestamp": 2045,
+        "text": "Preenchimento manual de informações de parceiros na base da Hype",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470b",
+        "timestamp": 2111,
+        "text": "Definir campos fundamentais para qualificação de parceiros",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46fb",
+        "timestamp": 2175,
+        "text": "Sistema Z2 recentemente habilitou opção de usar coordenador em múltiplas configurações",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46fc",
+        "timestamp": 2187,
+        "text": "Sistema ainda carregando, sem dados completamente disponíveis",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471d",
+        "timestamp": 2227,
+        "text": "Diego propõe organização da base de dados e questiona prioridades de empreendimentos, com Stephanie indicando 5-6 prioritários.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470c",
+        "timestamp": 2287,
+        "text": "Equipe planeja segmentação de envio de produto por região, qualificação de parceiros e potencial de automação.",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470d",
+        "timestamp": 2349,
+        "text": "Definir campos dinâmicos para qualificação de parceiros",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470e",
+        "timestamp": 2373,
+        "text": "Foco em produtos com carteira de investidor como principal critério",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec470f",
+        "timestamp": 2385,
+        "text": "Investigar necessidade de distinguir entre PJ e autônomos para comissionamento",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4710",
+        "timestamp": 2397,
+        "text": "Atualmente, não há diferença de comissionamento entre PJ e autônomos",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46fd",
+        "timestamp": 2420,
+        "text": "Verificar atualização de campo que não está carregando corretamente",
+        "topicId": "685aa7bc776ea30013ec46e0"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473e",
+        "timestamp": 2490,
+        "text": "Equipe planeja participar do estande da Z2A no próximo ano em modo trabalho.",
+        "topicId": "685aa7bc776ea30013ec46e5"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473f",
+        "timestamp": 2501,
+        "text": "Stephanie destaca importância de fomentar a equipe em eventos futuros.",
+        "topicId": "685aa7bc776ea30013ec46e5"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472b",
+        "timestamp": 2522,
+        "text": "Bruno assume como diretor da house, substituindo Rafael",
+        "topicId": "685aa7bc776ea30013ec46e3"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472c",
+        "timestamp": 2529,
+        "text": "Andreia fornecerá suporte na equipe",
+        "topicId": "685aa7bc776ea30013ec46e3"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec472d",
+        "timestamp": 2547,
+        "text": "Stephanie e Bruno trabalharão em times separados",
+        "topicId": "685aa7bc776ea30013ec46e3"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4733",
+        "timestamp": 2560,
+        "text": "Zé deverá inserir nome do parceiro",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4734",
+        "timestamp": 2648,
+        "text": "Transferência para oportunidade não ocorre em tempo real atualmente",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471e",
+        "timestamp": 2692,
+        "text": "Discutir método de transferência de base de coordenadores entre usuários.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec471f",
+        "timestamp": 2706,
+        "text": "João demonstra processo de transferência de base selecionando coordenador atual e coordenador de destino.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4720",
+        "timestamp": 2727,
+        "text": "Verificar possibilidade de transferir base para múltiplos coordenadores simultaneamente.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46e8",
+        "timestamp": 2785,
+        "text": "João solicita planilha com números de telefone e respectivos responsáveis para atualização no banco de dados",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46e9",
+        "timestamp": 2797,
+        "text": "João propõe transferência manual de bases, desabilitação de qualificação automática e limpeza de parceiros não qualificados.",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ea",
+        "timestamp": 2842,
+        "text": "Mensagem automática permanecerá desativada no momento, será ativada quando necessário",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4711",
+        "timestamp": 2870,
+        "text": "Preenchimento de campo de qualificação move parceiro automaticamente para coluna de relacionamento",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4721",
+        "timestamp": 2890,
+        "text": "Objetivo definir estrutura geográfica com foco em regiões Sul, Norte e Central",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4722",
+        "timestamp": 2892,
+        "text": "Investigar informações do cliente: data de nascimento, foco de produto e carteira de investimentos",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4712",
+        "timestamp": 2942,
+        "text": "Time discute habilitação de qualificação automática e segmentação geográfica em regiões Sul, Norte e Central.",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4723",
+        "timestamp": 2974,
+        "text": "Potencial para desenvolver produto nas regiões Leste e Oeste",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4735",
+        "timestamp": 3001,
+        "text": "Novo formulário permitirá marcar quatro opções simultaneamente",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4736",
+        "timestamp": 3011,
+        "text": "Parceiros podem ser movidos manualmente entre colunas no Board por arrastar e soltar",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4713",
+        "timestamp": 3043,
+        "text": "Avaliar recurso de qualificação automática na base da Hype",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4714",
+        "timestamp": 3114,
+        "text": "Padronizar envio de materiais para o sistema seguindo regras específicas",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46eb",
+        "timestamp": 3147,
+        "text": "Mateus iniciará ajustes nos scripts dos produtos",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4724",
+        "timestamp": 3180,
+        "text": "Equipe atualmente com três produtos e projetos distribuídos em seis obras na região Sul e seis na região Norte",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ec",
+        "timestamp": 3219,
+        "text": "João iniciando demonstração com exemplo de usuário",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4737",
+        "timestamp": 3233,
+        "text": "Evitar enviar promoções para regiões irrelevantes",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4715",
+        "timestamp": 3285,
+        "text": "Coordenadores preocupados com automações que podem gerar contatos aleatórios",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4738",
+        "timestamp": 3349,
+        "text": "Definir 'cresce' como campo qualificador para usuário de exemplo",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4739",
+        "timestamp": 3500,
+        "text": "Verificar existência de site do cliente",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4716",
+        "timestamp": 3626,
+        "text": "Sugestão de estratégia para reintroduzir automações com controle de disparos",
+        "topicId": "685aa7bc776ea30013ec46e1"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473a",
+        "timestamp": 3698,
+        "text": "Campo 'cresce' configurado como opcional para demonstração",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473b",
+        "timestamp": 3707,
+        "text": "Distribuição no site apresentou muitas alterações e trocas.",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473c",
+        "timestamp": 3933,
+        "text": "João alerta que produtos precisam ser parametrizados na Z2 mesmo após cadastro no Órbi",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ed",
+        "timestamp": 4168,
+        "text": "Stephanie irá fornecer informações do empreendimento Cosmo para cadastro",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec473d",
+        "timestamp": 4214,
+        "text": "Possibilidade de produto em região Leste e dois na região Oeste em discussão",
+        "topicId": "685aa7bc776ea30013ec46e4"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4725",
+        "timestamp": 4282,
+        "text": "Técnicos cadastrando 1.200 corretores da João Crer no portal da Oro.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4726",
+        "timestamp": 4330,
+        "text": "Time de Ester cadastrou apenas 60 corretores em três meses de ferramenta.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4727",
+        "timestamp": 4361,
+        "text": "Problema atual: sem identificação do coordenador quando corretores são cadastrados via portal.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4728",
+        "timestamp": 4605,
+        "text": "Stephanie busca organização de contatos, e Diego sugere cruzamento de dados para enriquecer base de 1.200 corretores.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec4729",
+        "timestamp": 4795,
+        "text": "Objetivo: Criar planilha Excel com coordenador responsável e imobiliária para cada corretor.",
+        "topicId": "685aa7bc776ea30013ec46e2"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ee",
+        "timestamp": 4883,
+        "text": "João verificará com time de desenvolvimento possibilidade de vincular organizações por nome.",
+        "topicId": "685aa7bc776ea30013ec46df"
+      },
+      {
+        "segmentId": "685aa7bc776ea30013ec46ef",
+        "timestamp": 4923,
+        "text": "João enviará base de dados para Stephanie, que trabalhará na organização dos contatos.",
+        "topicId": "685aa7bc776ea30013ec46df"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "685aa7bc776ea30013ec46df",
+        "order": 1,
+        "title": "Ações Acordadas e Próximos Passos",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e0",
+        "order": 2,
+        "title": "Desafios do Sistema Z2A e Funcionalidades",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e1",
+        "order": 3,
+        "title": "Estratégia de Automação e Qualificação de Parceiros",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e2",
+        "order": 4,
+        "title": "Gerenciamento de Coordenadores e Corretores",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e3",
+        "order": 5,
+        "title": "Mudanças Organizacionais",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e4",
+        "order": 6,
+        "title": "Recursos e Personalização do Sistema",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e5",
+        "order": 7,
+        "title": "Eventos e Planejamento Futuro",
+        "summary": ""
+      },
+      {
+        "id": "685aa7bc776ea30013ec46e6",
+        "order": 8,
+        "title": "Fora do Tópico",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 91,
+    "topic_count": 8,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "685aa7bc776ea30013ec46df",
+      "order": 1,
+      "title": "Ações Acordadas e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e0",
+      "order": 2,
+      "title": "Desafios do Sistema Z2A e Funcionalidades",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e1",
+      "order": 3,
+      "title": "Estratégia de Automação e Qualificação de Parceiros",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e2",
+      "order": 4,
+      "title": "Gerenciamento de Coordenadores e Corretores",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e3",
+      "order": 5,
+      "title": "Mudanças Organizacionais",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e4",
+      "order": 6,
+      "title": "Recursos e Personalização do Sistema",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e5",
+      "order": 7,
+      "title": "Eventos e Planejamento Futuro",
+      "summary": ""
+    },
+    {
+      "id": "685aa7bc776ea30013ec46e6",
+      "order": 8,
+      "title": "Fora do Tópico",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:46:22.722456+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:46:22.722456+00:00"
+}

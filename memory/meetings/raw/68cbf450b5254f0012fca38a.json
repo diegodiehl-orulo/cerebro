@@ -1,0 +1,32 @@
+{
+  "id": "68cbf450b5254f0012fca38a",
+  "happenedAt": "2025-09-18T12:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Caroline Mello",
+      "email": "caroline.mello@orulo.com.br"
+    }
+  ],
+  "name": "Checkpoint de Forecast",
+  "duration": 5391.114,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68cbf450b5254f0012fca38a",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "vua-ioiy-ggs"
+  }
+}

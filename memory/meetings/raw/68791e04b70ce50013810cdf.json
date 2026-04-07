@@ -1,0 +1,44 @@
+{
+  "id": "68791e04b70ce50013810cdf",
+  "happenedAt": "2025-07-17T16:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    }
+  ],
+  "name": "Treinamento Atualizações Z2A",
+  "duration": 3972.526,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68791e04b70ce50013810cdf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "kcp-vyqf-ndz"
+  }
+}

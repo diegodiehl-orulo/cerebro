@@ -1,0 +1,1891 @@
+{
+  "meeting_id": "6751993a62a36e00136d5861",
+  "name": "Aula IM + Caio Lobo",
+  "happened_at": "2024-12-05T12:15:00.000Z",
+  "duration_seconds": 6469.98,
+  "duration_minutes": 107.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "",
+      "email": "caio@mitroconstrutora.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6751993a62a36e00136d5861",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "tdd-naxr-dgp",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6751994bb8e4530014122991",
+    "meetingId": "6751993a62a36e00136d5861",
+    "data": [
+      {
+        "startTime": 15,
+        "endTime": 17,
+        "speaker": "Caio Lobo",
+        "text": "show de bola"
+      },
+      {
+        "startTime": 17,
+        "endTime": 18,
+        "speaker": "Diego Diehl",
+        "text": "Você é de Goiânia, né?"
+      },
+      {
+        "startTime": 18,
+        "endTime": 52,
+        "speaker": "Caio Lobo",
+        "text": "Goiânia até fiz faculdade lá em Floripa, morei, muitos anos lá, mas fazer ele 13 anos que eu tô em Goiânia a ideia lá de é assim a gente Tem uma base ali muito de incorporador consultor de pequeno e médio porte não gente que lança ali de um a dois empreendimentos por ano ou gente que tá que tá que faz várias casas quer aumentar a escala então público é mais ou menos esse."
+      },
+      {
+        "startTime": 52,
+        "endTime": 52,
+        "speaker": "Caio Lobo",
+        "text": "Aí o que que a gente faz esse?"
+      },
+      {
+        "startTime": 52,
+        "endTime": 53,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 53,
+        "endTime": 75,
+        "speaker": "Caio Lobo",
+        "text": "negócio de Live de um tempo para cá parou de dar resultado tão tirando aquela Marçal que aquela loucuragem lá ninguém tá mais muito interessado em live sabe? Então eu parei de fazer Live porque lá eu ficava aquele bate-papo aquela coisa ninguém quer saber aquele lá e tal e o que o que teve de conteúdo de mais qualidade."
+      },
+      {
+        "startTime": 75,
+        "endTime": 98,
+        "speaker": "Caio Lobo",
+        "text": "Para podcast então a Live em si, ela perdeu muito sentido, mas o que que vem dando muito retorno para a gente é são aulas. Então ao mesmo tempo que a Live é muito menosprezada hoje aula não aula conteúdo Prático mais diretos sembromação sem bate-papo isso o pessoal gosta bastante aí, o que que a gente."
+      },
+      {
+        "startTime": 98,
+        "endTime": 99,
+        "speaker": "Diego Diehl",
+        "text": "estruturado um pouquinho."
+      },
+      {
+        "startTime": 99,
+        "endTime": 156,
+        "speaker": "Caio Lobo",
+        "text": "Planejar então isso de um ano para cá a gente vê que tá dando muito certo e que o pessoal dá valor Tanto para quem assiste ao vivo, quanto engole o pessoal da nossa turma que fica lá na plataforma, eles vão ver naquilo com recorrência. Então para os nossos parceiros, o que que funciona em vez de eu fazer algum vídeo oferecendo e tal que ninguém vai parar para ouvir é fazer uma aula explicando alguma coisa e no final você faz um pit alguma coisa ele encana Aquilo é aquele negócio cara isso aqui igual por exemplo, a gente está falando de indicador do mercado imobiliário isso aqui Analisa assim."
+      },
+      {
+        "startTime": 156,
+        "endTime": 157,
+        "speaker": "Caio Lobo",
+        "text": "Isso aqui vai fazer diferença no seu negócio por causa disso tal tal faz uma bem técnica, cara para facilitar esse dado acesso aos dados tal, quem tá estudado tem a hora aí que você consegue fazer e tal e faz um Digamos assim uma vinculação aí por isso que eu te falei que é interessante a gente ter o material então."
+      },
+      {
+        "startTime": 157,
+        "endTime": 167,
+        "speaker": "Caio Lobo",
+        "text": "Eu precisaria do material ali para cima dele. Como é que funciona geralmente é uma aula mesmo. Não sei se você já chegou da aula de alguma coisa."
+      },
+      {
+        "startTime": 167,
+        "endTime": 194,
+        "speaker": "Diego Diehl",
+        "text": "Eu sou professor desde os 15 dando aula de aula particular daí de aula de dança por 5 6 anos. E daí treinamento, né o diretor comercial por 67 anos então. É mercado imobiliário tem que treinar o time toda hora, né? Gente lança produto então eu curto fazer isso. É por isso que eu me interessei também."
+      },
+      {
+        "startTime": 194,
+        "endTime": 200,
+        "speaker": "Caio Lobo",
+        "text": "Legal, então a ideia por exemplo fazer a aula, não sei se você já tá com material pronto."
+      },
+      {
+        "startTime": 200,
+        "endTime": 221,
+        "speaker": "Diego Diehl",
+        "text": "cara não eu tô com ele estruturadinho tópicos alguns itens aqui e eu não tinha certeza ainda se ia rolar certeza daí eu a gente marcou eu falei agora vai mas assim num dois dias eu tiro eu já pego um conteúdo que tá ali que tá recortado tá meio espalhado, circula te mando e"
+      },
+      {
+        "startTime": 222,
+        "endTime": 231,
+        "speaker": "Caio Lobo",
+        "text": "Aí eu vou até te falar para preparar um material em PDF porque a gente faz pelo streamers quando coloca PowerPoint é dar uma desconfigurada."
+      },
+      {
+        "startTime": 231,
+        "endTime": 232,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 232,
+        "endTime": 257,
+        "speaker": "Caio Lobo",
+        "text": "O em PDF a gente consegue ver redondinho então, assim que você conseguir fazer me manda que a que a gente põe lá na plataforma, põe lá para o pessoal e tudo e a eu até te recomendo, por exemplo no último slide ali, quando for fazer o PIT lá da hora."
+      },
+      {
+        "startTime": 257,
+        "endTime": 274,
+        "speaker": "Caio Lobo",
+        "text": "Vou colocar um QR. Code também com CTA porque aí é onde o pessoal vai vai direcionar É muita gente escaneia o celular e tal é melhor para saber mais se na sua cidade tem qualquer coisa faz esse escaneia aqui, vai lá faz o cadastro ou ver isso, mas aí eu o que eu recomendo é fazer quando você fala de indicador de mercado a ideia trazer o quê assim de conteúdo."
+      },
+      {
+        "startTime": 274,
+        "endTime": 294,
+        "speaker": "Diego Diehl",
+        "text": "Boa deixa eu te falar um pouquinho sobre isso, deixa eu só te fazer uma pergunta antes que eu fecho esse bloco o entendimento da aula. Mais técnico ali você falou streaminghard. Na segunda tem um horário certo. A ideia é fazer ao vivo daí ficar gravado, você vai estar junto, como é que é?"
+      },
+      {
+        "startTime": 294,
+        "endTime": 343,
+        "speaker": "Caio Lobo",
+        "text": "Como é que funciona ah para até para ficar mais dinâmica, você vai dar aula, então eu chego te apresento eu vou até te pedir uma coisa que eu preciso mais urgente para divulgar para turma é uma é uma foto sua com uma breve descrição ali uma mini Bio que a gente ama e uma aí você fala de carne tudo o negócio da hora."
+      },
+      {
+        "startTime": 343,
+        "endTime": 335,
+        "speaker": "Caio Lobo",
+        "text": "Ele fala também é um inibiu o título dessa aula. Que a gente tem que divulgar para a turma que aí eu vou pedir para o pessoal do meu marketing que fazer uma uma imagem depois a gente divulgar para turma, mas geralmente a eu abro faço a introdução você abre já."
+      },
+      {
+        "startTime": 335,
+        "endTime": 348,
+        "speaker": "Caio Lobo",
+        "text": "O slide começa Igual eu falei é sem muito bate-papo, porque se começa a bater muito papo a turma já perde o interesse e não continua então se a gente já prece entre direto no assunto acaba que que"
+      },
+      {
+        "startTime": 348,
+        "endTime": 352,
+        "speaker": "Diego Diehl",
+        "text": "Eu gosto bastante disso já começar com algo que chama atenção e aí se"
+      },
+      {
+        "startTime": 352,
+        "endTime": 353,
+        "speaker": "Caio Lobo",
+        "text": "prende"
+      },
+      {
+        "startTime": 353,
+        "endTime": 356,
+        "speaker": "Diego Diehl",
+        "text": "até participa no começo. Faz uma pergunta esclarece algo."
+      },
+      {
+        "startTime": 356,
+        "endTime": 369,
+        "speaker": "Caio Lobo",
+        "text": "É isso aí o que que eu costumo fazer eu fico assistindo ali eu fico ao vivo também e eu vou fazendo interações. Por exemplo, você vai trazer algum tema eu vou e comento com Jelly, tudo bem?"
+      },
+      {
+        "startTime": 369,
+        "endTime": 369,
+        "speaker": "Hellen Souza",
+        "text": "Oi pessoal, bom dia, tudo bem?"
+      },
+      {
+        "startTime": 369,
+        "endTime": 372,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia Ellen, tudo bom?"
+      },
+      {
+        "startTime": 372,
+        "endTime": 390,
+        "speaker": "Caio Lobo",
+        "text": "Então para o pessoal que faz pergunta também, eu vou controlando até para você não perder o fio da meada. Eu vou controlando eu ver se tem pertinência ou não aí no final outras eu deixo mais final. Então vai controlando assim no ao vivo, mas pensando muito que o que a gente vem vendo até mais gente assistir gravado que é ao vivo."
+      },
+      {
+        "startTime": 390,
+        "endTime": 390,
+        "speaker": "Caio Lobo",
+        "text": "Então é até o pensamento cara a"
+      },
+      {
+        "startTime": 390,
+        "endTime": 393,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 393,
+        "endTime": 420,
+        "speaker": "Caio Lobo",
+        "text": "turma vai ver depois então, a gente tem que ter um dinamismo, né? Não pode ficar parando demais enrolando demais. Tem que ter um dia na mesma ele pensando nessa turma que Que que vai ver gravado também aí assim como eu não tenho geralmente a gente olha ali a aula e para fazer o PIT ali para chamar a turma para assistir, mas como não tem ainda junto com isso que eu te falei, tenta me mandar uma descrição mais completo do que que vai ser falado."
+      },
+      {
+        "startTime": 420,
+        "endTime": 425,
+        "speaker": "Caio Lobo",
+        "text": "Porque aí fica mais fácil da gente direcionar o convite para turma."
+      },
+      {
+        "startTime": 425,
+        "endTime": 452,
+        "speaker": "Diego Diehl",
+        "text": "Te mando terminando a reunião já te mando tenho foto certinho chamando uma mini bio. E fechou. E aí um outro ponto ainda técnico da aula, você falou em PDF. Eu uso bastante, eu gosto de usar tanto vídeo gravado. Da minha tela. Quanto às vezes até um compartilhamento de tela porque se for pensar em aula de PDF ficar muito teórico, né? Tipo o que você faz?"
+      },
+      {
+        "startTime": 452,
+        "endTime": 466,
+        "speaker": "Caio Lobo",
+        "text": "É tem como compartilhar a tela eu falo em PDF porque é mais fácil, mas você tem familiarizado duas telas de coisas dá para você compartilhar a pele tudo o problema dos tremerge quando você compartilha a tela que você não se vê."
+      },
+      {
+        "startTime": 466,
+        "endTime": 467,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá."
+      },
+      {
+        "startTime": 467,
+        "endTime": 486,
+        "speaker": "Caio Lobo",
+        "text": "E não vê que que tá acontecendo fica só a tela aqui normal e tudo aí para quem gosta disso eu recomendo tá com duas telas porque em uma tela você tá vendo? O que que tá acontecendo e na outra você tá vendo a sua apresentação, né? Mas funciona também a gente pode até entrar na segunda-feira uns 15 minutos antes que aí a gente faz o teste."
+      },
+      {
+        "startTime": 486,
+        "endTime": 496,
+        "speaker": "Caio Lobo",
+        "text": "Vê tudo ali mas aí não precisa nem se for compartilhar até ela não precisa nem ser. em PDF não pode ser um formato que você quiser porque vai estar em"
+      },
+      {
+        "startTime": 496,
+        "endTime": 500,
+        "speaker": "Diego Diehl",
+        "text": "É tipo o Google, acho que eu nunca usei esse."
+      },
+      {
+        "startTime": 500,
+        "endTime": 516,
+        "speaker": "Caio Lobo",
+        "text": "Média a gente usa ele para replicar no YouTube, mas ele é bom porque a ele é mais simples, ele funciona ali bem a gente consegue acompanhar, pergunta e tudo mais. Eu gosto até de usar ele mais do que o zoom mais do que para esse tipo de negócio ali, né?"
+      },
+      {
+        "startTime": 516,
+        "endTime": 531,
+        "speaker": "Diego Diehl",
+        "text": "Eu fico com duas telas daí e daí a gente se ajeita ali eu. Como eu faço isso várias vezes eu apresento tela por exemplo, quando eu ver no meu produto eu faço apresentação eu fico trocando de tela e para um lado para o outro, então tô acostumado."
+      },
+      {
+        "startTime": 531,
+        "endTime": 537,
+        "speaker": "Caio Lobo",
+        "text": "Vamos entrar só eu já fiz várias vezes assim dá certo, mas muita gente que a gente faz aula e tudo não tá tão familiarizado com isso"
+      },
+      {
+        "startTime": 537,
+        "endTime": 538,
+        "speaker": "Diego Diehl",
+        "text": "melhor"
+      },
+      {
+        "startTime": 538,
+        "endTime": 561,
+        "speaker": "Caio Lobo",
+        "text": "geralmente exatamente aí chega com PowerPoint tal fica aquela complicação e fica perdida. Eu falo cara, leva uns PDF em padrão que não tem erro, mas se o seu caso aí não tem problema. Pode fazer em duas telas aí a gente entra nos 15 minutos antes a gente faz os testes ali tudo para para configuração ali, né, mas não gosto delas é tranquilo, não dá problema não a importante ter outra tela é para você ver."
+      },
+      {
+        "startTime": 561,
+        "endTime": 567,
+        "speaker": "Caio Lobo",
+        "text": "Que que tá acontecendo porque também é ruim você dando aula ali não consegui ver nada da interação, né?"
+      },
+      {
+        "startTime": 568,
+        "endTime": 577,
+        "speaker": "Diego Diehl",
+        "text": "Só abrir aqui então boa para boa. Ficou claro essa parte. Deixa eu abrir, deixa eu abrir aqui."
+      },
+      {
+        "startTime": 581,
+        "endTime": 592,
+        "speaker": "Caio Lobo",
+        "text": "Aí se puder manda um título mais chamativo negócio do indicador de mercado pela indicador de indicadores de mercado. Que todo incorporador conhece ou"
+      },
+      {
+        "startTime": 592,
+        "endTime": 594,
+        "speaker": "Diego Diehl",
+        "text": "Eu não lembro."
+      },
+      {
+        "startTime": 594,
+        "endTime": 595,
+        "speaker": "Caio Lobo",
+        "text": "deveria?"
+      },
+      {
+        "startTime": 597,
+        "endTime": 623,
+        "speaker": "Diego Diehl",
+        "text": "Até vamos vamos ver se eu te passo aqui é uma visão rapidinho que eu tô pensando. E aí você me dá uma opinião porque eu até você falou ficou na tua cabeça esse indicadores de mercado, eu não tava pensando exatamente nessa O meu era inteligência de mercado que a mesma coisa parecido, mas pega um ângulo um pouquinho diferente."
+      },
+      {
+        "startTime": 623,
+        "endTime": 654,
+        "speaker": "Diego Diehl",
+        "text": "Vou te mostrar que Isso aqui é um eu preciso. Entender quero te fazer umas perguntas ainda para cercar melhor, tá? E até o que que você já deu na tua aula. Tá minha ideia. Eu tô com esse tópico aqui inteligência de mercado. Como Global tá? Daí, cara isso aqui muito rápido, né? Aquele sol com textinho básico, porque todo mundo fala inteligência de mercado."
+      },
+      {
+        "startTime": 654,
+        "endTime": 682,
+        "speaker": "Diego Diehl",
+        "text": "E daí, o que que é de ver ou não que eu vou falar a verdade, mas o ângulo que eu vou trazer que eu quero esclarecer um pouquinho melhor. e até trazer uma coisa Caio que eu sempre trago assim de incorporadoras tem incorporadoras que Que fazem muito um trabalho de rua e não olham para os dados mais estruturados e tem gente que olha muito parada estruturado não faz trabalho de rua."
+      },
+      {
+        "startTime": 682,
+        "endTime": 713,
+        "speaker": "Diego Diehl",
+        "text": "E tem gente que faz trabalho de rua não estrutura o dado tem gente que olha o dado e não válida na rua. Então eu gosto muito que eu eu não sei se eu te contei em resumo, mas eu lancei eu lancei uns sete anos ali uns 40 prédios em Curitiba e cara, cada um a gente tinha que dar um cheque, né? Você olha dado você valida."
+      },
+      {
+        "startTime": 713,
+        "endTime": 718,
+        "speaker": "Diego Diehl",
+        "text": "Daí você fala como Imobiliária. Daí você vai lá na rua e vê você pergunta sabe você desenvolver um produto real, não dá para você só ficar em dado também ou pagar um estudo e achar que aquilo ali vai te suprir então que aí eu quero ir costurando um pouquinho."
+      },
+      {
+        "startTime": 718,
+        "endTime": 759,
+        "speaker": "Diego Diehl",
+        "text": "Teoria dado tecnologia e prática do dia a dia o que que eu faço? Eu vou mostrar uma planilhazinha então a minha ideia aqui de inteligência de mercado é trazer esse tom de Cara prática e dados cruza essas coisas e ganha convicção, né? Não fica só no outro aí pelo eu consigo dar uma pinceladinha, minha ideia não é ensinar o passo a passo tudo mas fala cara."
+      },
+      {
+        "startTime": 759,
+        "endTime": 774,
+        "speaker": "Diego Diehl",
+        "text": "Como é que a gente olha de uma forma. Assim né, cara, eu olho como é que tem sido a demanda. Né a demanda. Eu meço muito pelo quanto tá vendendo então cara, quanto tá vendendo aqui? Ah tá vendendo. nessa região aqui sem unidades e três quartos por Trimestre beleza como é que tá oferta tem muito oferta tem pouco oferta dá para medir isso rápido."
+      },
+      {
+        "startTime": 774,
+        "endTime": 805,
+        "speaker": "Diego Diehl",
+        "text": "Ah, eu não tenho dado da hora não dá para eu como que eu faria isso de forma prática numa cidade Cara às vezes em meio-dia ali delegando para alguém ou indo para Rua você consegue ter uma noção claro então se você olhar como é que tá a demanda, como é que tá oferta e na hora Lu, daí a gente Daí a gente dá show nisso, né, cara? Porque eu matei o exatamente das cidades que a Gente Tá mas eu quero muito até válida para mim tem muita gente que não é de capitais tal de cidades menores né? Então não dá para falar só como se tivesse dado da hora do estruturados na cidade."
+      },
+      {
+        "startTime": 805,
+        "endTime": 809,
+        "speaker": "Diego Diehl",
+        "text": "Tem que falar para o carinha que tá perdido lá na cidade dele, né?"
+      },
+      {
+        "startTime": 809,
+        "endTime": 809,
+        "speaker": "Caio Lobo",
+        "text": "É eu vejo que funciona muito são"
+      },
+      {
+        "startTime": 809,
+        "endTime": 810,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 812,
+        "endTime": 826,
+        "speaker": "Caio Lobo",
+        "text": "são tratamento e ficar muito é uma. É um negócio que eu acho que o mercado financeiro faz muito melhor que o mercado imobiliário, mas o mercado imobiliário eu vejo que o pessoal dá valor nisso, só não tem que por exemplo em vez de falar, você tem que analisar oferta tudo."
+      },
+      {
+        "startTime": 826,
+        "endTime": 861,
+        "speaker": "Caio Lobo",
+        "text": "Falou tem um indicador que é o tá trazer coisa prática então, por exemplo, que que houvesseiro é isso sobre isso se eu tenho um Como se diz ali um vsou de oito nove porcento tá ok? De 8 9 meses tá OK. Agora se eu tenho se eu vou convencer olhar às vezes de 24 36 meses como foi antes da lei do extrato aí começa a ficar um negócio complicado cara, mas como é que eu vou atrás, beleza? Entendi o conceito agora como é que eu busco esse dado aí a gente entra na orla entra nisso tal."
+      },
+      {
+        "startTime": 861,
+        "endTime": 866,
+        "speaker": "Caio Lobo",
+        "text": "Porque aí fica uma coisa para fazer cara no Brasil, geral. A gente tá tal situação, mas não dá para analisar o Brasil."
+      },
+      {
+        "startTime": 867,
+        "endTime": 876,
+        "speaker": "Diego Diehl",
+        "text": "Teu público tá acostumado com essa tua linguagem que você puxa para o indicador para o financeiro, né? Então dá para falar mais, né? Tem gente que"
+      },
+      {
+        "startTime": 876,
+        "endTime": 897,
+        "speaker": "Caio Lobo",
+        "text": "É mas assim até quem não tá acostumado gosta porque porque sente que aprendeu alguma coisa porque se o cara não sabe o que que é o melhor e ele chega numa aula e o cara fala de verso explica para ele dar direção, ele sai com aquela sensação. Fala cara, aprendi uma coisa nova hoje, então não muito mais valor do que falar de forma geral, Igual eu falei uma live que"
+      },
+      {
+        "startTime": 897,
+        "endTime": 899,
+        "speaker": "Diego Diehl",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 899,
+        "endTime": 903,
+        "speaker": "Caio Lobo",
+        "text": "aquele negócio cara, eu acho que a demanda vai continuar resiliente. Isso a gente tem tal não fica muito"
+      },
+      {
+        "startTime": 903,
+        "endTime": 904,
+        "speaker": "Diego Diehl",
+        "text": "Não."
+      },
+      {
+        "startTime": 904,
+        "endTime": 908,
+        "speaker": "Caio Lobo",
+        "text": "válido. Tira a cara de aula e volta para cara de Live, que é o que eu não gosto."
+      },
+      {
+        "startTime": 908,
+        "endTime": 929,
+        "speaker": "Diego Diehl",
+        "text": "Nem quero estar nesse papel, né de querer prever futuro, né? Tipo que número eu olho até Talvez eu vá recortar certinho tá falando coisa prática, né? É cara, eu tenho eu posso pegar. Um Case que a gente fez em 2022 ali ó, a gente tinha isso. A gente olhou o mercado encontrou isso."
+      },
+      {
+        "startTime": 929,
+        "endTime": 934,
+        "speaker": "Diego Diehl",
+        "text": "A gente ajustou o produto para isso e deu certo. Olha só. Então, talvez mais."
+      },
+      {
+        "startTime": 934,
+        "endTime": 945,
+        "speaker": "Caio Lobo",
+        "text": "E até até para validar eu acho que vale por exemplo, cara, sei lá, eu tô querendo lançar e você pode até São Paulo que vocês têm mais dado como exemplo. Quero lançar em Perdizes."
+      },
+      {
+        "startTime": 945,
+        "endTime": 945,
+        "speaker": "Diego Diehl",
+        "text": "Que que eu faço?"
+      },
+      {
+        "startTime": 945,
+        "endTime": 949,
+        "speaker": "Caio Lobo",
+        "text": "Beleza tô aprendendo a tal, como é que eu vou analisar aí você mas eu"
+      },
+      {
+        "startTime": 949,
+        "endTime": 951,
+        "speaker": "Diego Diehl",
+        "text": "essa ideia"
+      },
+      {
+        "startTime": 951,
+        "endTime": 989,
+        "speaker": "Caio Lobo",
+        "text": "não recomendo que você na hora Abra a plataforma da obra porque Cara coisa ao vivo é campeã para dar alguma coisa na hora eu recomendo que você já tira os prints, faça um caminho ali de print e voltando ali para apresentação, porque aí você vai só mostrando. Eu olhei aqui tirei os dados tem tantos Empreendimentos tem isso."
+      },
+      {
+        "startTime": 989,
+        "endTime": 1001,
+        "speaker": "Caio Lobo",
+        "text": "Eu tô vendo que a venda desse tipologia tá marquinha. Então você meio que vai fazendo um caminho de validação. Por dados que eu acho que é muito legal, eu tô olhando tá um métrica tal médica e se você quiser trazer um estudo de caso, qualquer coisa também mas eu duas considera não não tenta Abrir plataforma na hora mexer na hora fazer tudo na hora porque isso geralmente fica confuso e dá quando você já tem o passo a passo certinho fica muito mais fácil de seguir o fio da meada."
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1024,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito, sabe o que que eu tenho feito Caio que até eu fui no ali da starts semana retrasada. E achei muito legal, porque alguns palestrantes muito fodas utilizar o que eu tô utilizando eu falei Opa. Então faz sentido eu deixo para não dar pau, o que que eu faço? Eu deixo gravado."
+      },
+      {
+        "startTime": 1024,
+        "endTime": 1024,
+        "speaker": "Diego Diehl",
+        "text": "Então, o que que eu faço? Você dá"
+      },
+      {
+        "startTime": 1024,
+        "endTime": 1025,
+        "speaker": "Caio Lobo",
+        "text": "Acabou também."
+      },
+      {
+        "startTime": 1025,
+        "endTime": 1071,
+        "speaker": "Diego Diehl",
+        "text": "uma olhada, esse aqui? É só um exemplo da hora, né? eu Eu deixo gravado exatamente, o que que eu faço o caminho que eu fiz e eu vou narrando explicando porque senão o meu cérebro não funciona. Fazendo e aconteceu, né? Então isso aqui por exemplo, eu decorei uma coreografiazinha minha que eu vou de um lado para o outro."
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1082,
+        "speaker": "Diego Diehl",
+        "text": "Você tá vendo minha tela, cara. Então aqui ó, eu não tô mexendo nada tá gravado. E aí eu deixo por exemplo olhar dados olhar biai, eu vou deixar já certinho gravado que daí eu falo ó pessoal aqui é que esse aqui é o caso da hora eu vou. Eu faço vídeo de 30 40 segundos que eu vou eu vou aqui vou aqui eu seleciono esse dado tal então fica meio que uma apresentação interativa."
+      },
+      {
+        "startTime": 1082,
+        "endTime": 1084,
+        "speaker": "Diego Diehl",
+        "text": "com vídeo"
+      },
+      {
+        "startTime": 1084,
+        "endTime": 1090,
+        "speaker": "Caio Lobo",
+        "text": "imprevisto ali, eu acho mais viável também."
+      },
+      {
+        "startTime": 1090,
+        "endTime": 1132,
+        "speaker": "Diego Diehl",
+        "text": "Cara então até para ir balizando tá? Esse aqui são os tópicos, minha ideia tá é pegar. Base ancorar a aula numa história de um empreendimento. Então como é que eu vou começar? Fala assim chegou um terreno. Para eu analisar. Aí eu vou pegar um caso nosso até que já validei com a empresa que eu trabalhava falou posso demonstrar esse caso aqui que a gente fez não pode não vou abrir muita coisa detalhada, porque é muita informação, mas eu abri geral, a gente não terreno aqui e a gente foi olhar essa região aqui, o que que a gente olhou o que a gente parou."
+      },
+      {
+        "startTime": 1132,
+        "endTime": 1150,
+        "speaker": "Diego Diehl",
+        "text": "Decisão a gente Tomou que indicador a gente olhou daí eu vou ancorando um pouquinho o teoria e um pouquinho prática, como se o cara estivesse participando de uma reunião. De uma incorporadora que está decidindo sobre o produto e aí eu vou mostrar uma matriz comparativa de produto que essa cara é uma."
+      },
+      {
+        "startTime": 1150,
+        "endTime": 1182,
+        "speaker": "Diego Diehl",
+        "text": "é um básico, cara, se eu vou lançar ali, eu preciso listar os seis concorrentes que estão em volta e planilhar na unha para eu olhar e entender como é que tá rolando que tá vendendo mais aí esse estudo de caso você me trazer eu vou trazer um Como é que eu olho um bairro como é que eu comparo o empreendimento porque eu vou usar um pouco da estrutura da hora dos dados para não ter que montar tudo, mas o cara que olha o dado que tá numa cidade que não tem ele monta aquilo ali."
+      },
+      {
+        "startTime": 1182,
+        "endTime": 1199,
+        "speaker": "Diego Diehl",
+        "text": "Meio-dia ele só precisa saber o que ele precisa montar, né? E aí a parte daí é uma dúvida do da aula. A galera participa participa por chat pergunta, mas tem que lembrar que a galera vai assistir depois e não travar né? Como é que você?"
+      },
+      {
+        "startTime": 1199,
+        "endTime": 1219,
+        "speaker": "Caio Lobo",
+        "text": "Exatamente então, por exemplo a gente vai tocando se deu uma pergunta muito pertinente que vai fazer sentido ali para o esclarecimento. A gente eu faço uma interferência ele geralmente e fala agora se eu vejo que a coisa mais Ampla aí eu deixo para o final aí eu para não perder o fio da meada e ficar mais mais direto, então você não preocupa"
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1220,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1221,
+        "endTime": 1230,
+        "speaker": "Caio Lobo",
+        "text": "com as perguntas, eu vou acompanhando ali. Se eu ver que faz sentido eu vou te falar cara, mas você falou que isso aqui como é que seria isso aqui ou alguma coisa nesse sentido? mas"
+      },
+      {
+        "startTime": 1230,
+        "endTime": 1257,
+        "speaker": "Diego Diehl",
+        "text": "O meu caso aí pode pode pode perguntar tá? Porque eu até vou falar de tempo, mas eu gosto de ser bem objetivo, eu não gosto de gente que fica de Nossa que ela eu sou um cara rápido que entende rápido então acabo. Eu explico resumido assim então quando você sentiu isso aqui é legal explicar digo explica um pouquinho mais isso aqui pode só para você dizer que você tá carta branca, não me atrapalha tá? Pode ou explica melhor."
+      },
+      {
+        "startTime": 1257,
+        "endTime": 1262,
+        "speaker": "Diego Diehl",
+        "text": "Isso vai lá, se não eu vou seguindo e tocando para tornar mais dinâmica aula, tá?"
+      },
+      {
+        "startTime": 1263,
+        "endTime": 1297,
+        "speaker": "Caio Lobo",
+        "text": "A gente falar. Eu vou precisar agora, eu falei ali da mini Bia dos negócios tudo mas aí eu até acho que ele pode te ajudar nisso aí a fazer um título da aula mais sexy ali no sentido de que você coloca só inteligência do mercado fica muito lúdico. O pessoal não falou cara, mas beleza eu sou incorporador."
+      },
+      {
+        "startTime": 1297,
+        "endTime": 1332,
+        "speaker": "Caio Lobo",
+        "text": "Eu tô pensando aqui no meu negócio. Que que isso quer dizer direto, então é pensar em alguma coisa que que vai falando dessa Persona? Vai chamar atenção dela e fazer ali um resumo da aula e nesses resumos assim só um parágrafozinho que é o que a gente vai divulgar para turma nesses resumos."
+      },
+      {
+        "startTime": 1332,
+        "endTime": 1342,
+        "speaker": "Caio Lobo",
+        "text": "Eu acho que vale a pena citar termos técnicos para dar aquela vontade do cara, ele vai falar de ver esse ó, ele vai falar disso, ele vai falar daquilo então, eu quero ir na aula porque lá ele vai abrindo a gente fala só Sem explicar nada. Lógico, a gente vai abordar isso isso não explica nada porque aí o cara vai entrar lá para assim aprender aquilo que na visão dele faz sentido, mas é só essa preocupação para a gente deixar mais atrativo ali para a turma."
+      },
+      {
+        "startTime": 1342,
+        "endTime": 1343,
+        "speaker": "Diego Diehl",
+        "text": "Sim a gente é comercial e marketing,"
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1346,
+        "speaker": "Caio Lobo",
+        "text": "aí eu"
+      },
+      {
+        "startTime": 1346,
+        "endTime": 1347,
+        "speaker": "Diego Diehl",
+        "text": "né, cara, então tem que fazer um"
+      },
+      {
+        "startTime": 1347,
+        "endTime": 1347,
+        "speaker": "Caio Lobo",
+        "text": "Já tá acostumado?"
+      },
+      {
+        "startTime": 1347,
+        "endTime": 1349,
+        "speaker": "Diego Diehl",
+        "text": "negócio."
+      },
+      {
+        "startTime": 1350,
+        "endTime": 1359,
+        "speaker": "Caio Lobo",
+        "text": "Aí lembra lá nesse final ali, você falou o trabalho na orla a gente tentar estar em serviços e para entrar em contato aqui e tal as caneias QR Code aqui."
+      },
+      {
+        "startTime": 1359,
+        "endTime": 1362,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou deixar um bônus para para"
+      },
+      {
+        "startTime": 1362,
+        "endTime": 1362,
+        "speaker": "Caio Lobo",
+        "text": "Uma boa também."
+      },
+      {
+        "startTime": 1362,
+        "endTime": 1380,
+        "speaker": "Diego Diehl",
+        "text": "quem é do teu grupo o disponibilizar um biai teste para todo mundo que tá na aula de várias cidades, só quem tá na aula vou por uma ou ver até se eu boto uma depois a ele pode pegar algo assim, isso é jogo rápido. Talvez consigo por até uma logozinha tua no bi."
+      },
+      {
+        "startTime": 1380,
+        "endTime": 1394,
+        "speaker": "Diego Diehl",
+        "text": "Tipo isso aqui é para os alunos. Do Caio e aí um cupom de desconto básico, né? Quem falar com a gente aqui tá? Isso aí final deixa para o final."
+      },
+      {
+        "startTime": 1394,
+        "endTime": 1396,
+        "speaker": "Caio Lobo",
+        "text": "entregador para conhecer então."
+      },
+      {
+        "startTime": 1398,
+        "endTime": 1418,
+        "speaker": "Diego Diehl",
+        "text": "Sim, então, minha ideia. É só para resumir de novo para você entender. Daí eu faço cópia. Até que eu queria entender melhor ainda é público e qual que era a dinâmica e até tempo última coisa já para eu recapitular. Meia hora Qual que é o tempo normalmente que você tem feito?"
+      },
+      {
+        "startTime": 1418,
+        "endTime": 1437,
+        "speaker": "Caio Lobo",
+        "text": "De aula até 50 minutos considerando que vai ter algumas interações ali aí geralmente no final a gente fica mais uns 10 20 minutos respondendo pergunta ali dependendo do pessoal, mas mais do que 50 minutos de aula o pessoal já. Já acha muito ali."
+      },
+      {
+        "startTime": 1437,
+        "endTime": 1463,
+        "speaker": "Diego Diehl",
+        "text": "Engraçado gente, né? Você é o papel muito é ter um sempre um filho um cuidado para não para ser relevante interessante, né? Senão a gente se empolga sozinho achando que tá todo mundo interessado, na verdade. Tem que tomar muito cuidado, né? Que legal cara, então a minha ideia em resumo caiu é fazer eu vou até pensar num até falando para você ali para você me ajudar a pensar num copo talvez."
+      },
+      {
+        "startTime": 1463,
+        "endTime": 1501,
+        "speaker": "Diego Diehl",
+        "text": "Minha ideia é fazer a história de um projeto é diferentes inteligências de mercado em diferentes etapas do projeto. Como é que quando eu olho um terreno eu vejo uma visão mais macro. Como é que eu não vou desenvolver um pouco o projeto já vejo uma visão média, como é que eu vou para o micro daí para ver realmente diferenciado produto detalhe, depois que eu quando eu vou lançar como é que eu precifico? Depois que eu lancei como é que eu ajusto o preço mas aí pílulazinhas na cara tipo sempre pílulazinhas de só para o cara entender inteligência de mercado não é e a galera acha que é para desenvolver produtos só."
+      },
+      {
+        "startTime": 1501,
+        "endTime": 1518,
+        "speaker": "Diego Diehl",
+        "text": "Tem inteligência de mercado durante o produto é precificação durante o produto é muito importante tem gente que só bota uma regra ali, deixa dinheiro na mesa ou a deixa uma regra ali. Acho que vai vender não vende? Então precificação ao longo da obra que eu tive muita experiência por muito tempo."
+      },
+      {
+        "startTime": 1518,
+        "endTime": 1531,
+        "speaker": "Diego Diehl",
+        "text": "Precificando 20 Empreendimentos ao mesmo tempo no meio do ncc lá, sabe quando estourou ncc, cara. Eu tava parecendo produto como é que eu lido com isso, né, cara? Foi legal e aí talvez."
+      },
+      {
+        "startTime": 1531,
+        "endTime": 1534,
+        "speaker": "Caio Lobo",
+        "text": "Precificação é um negócio interessante também."
+      },
+      {
+        "startTime": 1534,
+        "endTime": 1576,
+        "speaker": "Diego Diehl",
+        "text": "é precificação, acho que é É um ouro. E aí talvez como é que eu encerro o projeto, né? Um finalzinho o que que eu espero então meio que a jornadinha de inteligência de mercado ao longo do tempo. Com quem com quem é esse Claro com cases Claros, né? E aí dá na mão deles saber que eles vão poder dar uma olhada em alguns mercados dessa forma, depois sempre gosto de deixar uma tarefinha para eles Ó aqui tá um exemplo tira um print disso aqui, se você quiser revisar o conteúdo de forma prática, como é que você vai fazer o teu experimento? Escolhe um bairro escolha tipologia."
+      },
+      {
+        "startTime": 1576,
+        "endTime": 1577,
+        "speaker": "Diego Diehl",
+        "text": "Veja o gráfico,"
+      },
+      {
+        "startTime": 1577,
+        "endTime": 1579,
+        "speaker": "Caio Lobo",
+        "text": "legal"
+      },
+      {
+        "startTime": 1579,
+        "endTime": 1594,
+        "speaker": "Diego Diehl",
+        "text": "tá para cima tá para baixo divida esse número por esse outro número. Vê o número que dá isso aqui é bom. Isso aqui é ruim então. Eu acho que é por aí, cara, você acha que tá Tá ok faz sentido dessa forma."
+      },
+      {
+        "startTime": 1594,
+        "endTime": 1598,
+        "speaker": "Caio Lobo",
+        "text": "se até hoje final de dia, você conseguiu me mandar tudo que a gente falou."
+      },
+      {
+        "startTime": 1598,
+        "endTime": 1598,
+        "speaker": "Diego Diehl",
+        "text": "Tá combinado esse material final,"
+      },
+      {
+        "startTime": 1598,
+        "endTime": 1601,
+        "speaker": "Caio Lobo",
+        "text": "porque"
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1602,
+        "speaker": "Diego Diehl",
+        "text": "tá?"
+      },
+      {
+        "startTime": 1602,
+        "endTime": 1604,
+        "speaker": "Caio Lobo",
+        "text": "Não não o material não precisa não, mas a bio e a foto e o cargo"
+      },
+      {
+        "startTime": 1604,
+        "endTime": 1610,
+        "speaker": "Diego Diehl",
+        "text": "a bio instituído e a foto"
+      },
+      {
+        "startTime": 1610,
+        "endTime": 1624,
+        "speaker": "Caio Lobo",
+        "text": "ele tudo e ao título e uma descrição breve do que que vai ver na aula ali que eu consigo já no máximo amanhã falar passar para turma e tudo mais e o pessoal realmente marca ali na agenda e tal."
+      },
+      {
+        "startTime": 1624,
+        "endTime": 1643,
+        "speaker": "Diego Diehl",
+        "text": "Tá vou falar hoje já. Talvez no final da reunião ele já fala uns 15 20, talvez já mata isso já e já te mando. Beleza e uma pergunta Caio essa aula. Ela é para uma comunidade tua fechada, né?"
+      },
+      {
+        "startTime": 1644,
+        "endTime": 1662,
+        "speaker": "Caio Lobo",
+        "text": "a gente deixa ela aberto no começo que quando dá esse negócio mas depois deixa fechada porque tem essa questão também do Eu não sei se isso é geral, mas para o meu público eles têm uma uma. Um negócio de ninguém gostar muito de coisa de graça, então quando"
+      },
+      {
+        "startTime": 1662,
+        "endTime": 1663,
+        "speaker": "Diego Diehl",
+        "text": "exclusividade"
+      },
+      {
+        "startTime": 1663,
+        "endTime": 1688,
+        "speaker": "Caio Lobo",
+        "text": "ficar aberto ali então o pessoal eles querem alguma coisa que vai ter o acesso tudo mais então você falar não tá disponível na internet tá? O cara não vou perder tempo não, geralmente vai ser um negócio muito Raso. Agora você tá na plataforma se tá no negócio o cara já olha assim não você tá ali é porque teve uma curadoria já tem uma preocupação mais de informática conteúdo eu vou gastar meu tempo digamos assim."
+      },
+      {
+        "startTime": 1688,
+        "endTime": 1694,
+        "speaker": "Caio Lobo",
+        "text": "Então a gente faz uma estratégia ali de começo, abre um pouco, mas depois deixa fechado."
+      },
+      {
+        "startTime": 1695,
+        "endTime": 1703,
+        "speaker": "Diego Diehl",
+        "text": "O cara se interessar entrar na tua comunidade, né? E como é que é para a pessoa entrar ela paga por mês uma recorrência. Quanto é como é que é?"
+      },
+      {
+        "startTime": 1704,
+        "endTime": 1724,
+        "speaker": "Caio Lobo",
+        "text": "Hoje é por ano eu tenho o grupo de na verdade aluno que geralmente são aulas gravados tal na faixa ali de 4.000 por ano. E a e a gente tem imersão mentoria que aí já é um fundo de funil, né? Já é para turma que é mais. Mais acompanhamento é a imersão"
+      },
+      {
+        "startTime": 1724,
+        "endTime": 1728,
+        "speaker": "Diego Diehl",
+        "text": "imersão"
+      },
+      {
+        "startTime": 1728,
+        "endTime": 1732,
+        "speaker": "Caio Lobo",
+        "text": "ela já é presencial é uma entrega diferente tudo mais."
+      },
+      {
+        "startTime": 1732,
+        "endTime": 1754,
+        "speaker": "Diego Diehl",
+        "text": "legal e a parte da Comunidade eu tô perguntando porque eu não achei no linktree. site curso tantos"
+      },
+      {
+        "startTime": 1754,
+        "endTime": 1756,
+        "speaker": "Caio Lobo",
+        "text": "Que parte está falando?"
+      },
+      {
+        "startTime": 1756,
+        "endTime": 1766,
+        "speaker": "Diego Diehl",
+        "text": "Do desse produto aí da galera que tá lá no álcool com você. na comunidade"
+      },
+      {
+        "startTime": 1766,
+        "endTime": 1766,
+        "speaker": "Caio Lobo",
+        "text": "no curso em corporações"
+      },
+      {
+        "startTime": 1766,
+        "endTime": 1770,
+        "speaker": "Diego Diehl",
+        "text": "a minha É então, mas eu digo Aonde é que eu olho para para entrar."
+      },
+      {
+        "startTime": 1777,
+        "endTime": 1778,
+        "speaker": "Caio Lobo",
+        "text": "imobiliárias financiadas"
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1788,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá aqui como curso. Aprenda a captar financiamento para suas obras."
+      },
+      {
+        "startTime": 1788,
+        "endTime": 1791,
+        "speaker": "Caio Lobo",
+        "text": "Tem alguma parte aí que fala o bônus comunidade alguma coisa assim?"
+      },
+      {
+        "startTime": 1792,
+        "endTime": 1820,
+        "speaker": "Diego Diehl",
+        "text": "Ah entendi Bônus Tá bom depois eu vou dar uma olhadinha aqui para me conectar também com outra linguagem que está fazendo. Show demais, cara. Parabéns aí pelo movimento e você o teu curso principal essa parte de financiamento de Incorporações imobiliárias financiadas se ajuda mais o Foca bastante nesse funk."
+      },
+      {
+        "startTime": 1824,
+        "endTime": 1849,
+        "speaker": "Caio Lobo",
+        "text": "dificuldade de entender acabou começou por isso mas agora já tá por exemplo a incorporar pro ela já é mais Ampla, a gente tem desde a parte de negociação de terreno, permuta desenvolvimento produto viabilidade Econômica financeira. Tem a parte de de lançamento e venda ela a gente já abriu mais o leque ali até tem outros incorporadores que dão aula junto comigo também."
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1849,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1873,
+        "speaker": "Caio Lobo",
+        "text": "Mas aí tem outros produtos que a gente tá na esteira ali também para ser um dia de acompanhamento que é pegar o cara na mão, né? E fazer aí tem outras Vertentes a partir disso aí também, mas hoje eu falo assim que o meu topo de funil é esse aí esse curso incorporações imobiliárias que é quando o cara começa a entrar a abrir consciência e tudo mais."
+      },
+      {
+        "startTime": 1873,
+        "endTime": 1874,
+        "speaker": "Diego Diehl",
+        "text": "primeiro da esteira"
+      },
+      {
+        "startTime": 1875,
+        "endTime": 1909,
+        "speaker": "Caio Lobo",
+        "text": "E eu não faço mais barato porque eu acho muito enganação pegar aquele negócio ali de pegar. Ah, toma aqui um curso de 200 reais para virar Incorporadora e coisa falo cara, vai se frustrar ele não vai conseguir e não dá dinheiro. Então eu não acho muito válido agora não o cara que ele já é Incorporadora tem interesse ele já tem um nível de capacidade de investimento maior então acaba que até que para filtrar um pouco a turma a gente já faz um Topo de funil sem ser tão barato, né? Você fica barato demais."
+      },
+      {
+        "startTime": 1909,
+        "endTime": 1916,
+        "speaker": "Caio Lobo",
+        "text": "Fica pouco seletivo, por exemplo hoje, a gente já teve mais de 1.300 1400 alunos, geralmente é"
+      },
+      {
+        "startTime": 1916,
+        "endTime": 1916,
+        "speaker": "Diego Diehl",
+        "text": "legal legalificação aí"
+      },
+      {
+        "startTime": 1916,
+        "endTime": 1948,
+        "speaker": "Caio Lobo",
+        "text": "um público de incorporador. O cara já acaba que a gente consegue fazer esse esse traste mais legal, né? qualificação mais legal Não mas não é nem questão de comunicação é questão de apresentar uma turma aí que fica fazendo lá. Como construir sem dinheiro e sem experiência e ganhar 10 milhões, primeiro ano tem muito essa turma só cara o cara entra"
+      },
+      {
+        "startTime": 1948,
+        "endTime": 1949,
+        "speaker": "Diego Diehl",
+        "text": "Sim, se não tem que descer muito a régua para comunicar também na cara. Daí você não atende o cara mais."
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1972,
+        "speaker": "Caio Lobo",
+        "text": "fica frustrado aí fica aquele negócio que não tem não elogio, sabe porque falou cara, eu sou estudante igual por exemplo quando aparece para mim, eu sou estudante de engenharia de alguma coisa, você acha que eu devo fazer seu curso. Eu falo cara não. Você não tem dinheiro. Você tem que fazer estágio, você tem que fazer eu tô aprendendo com o dinheiro dos outros digamos assim."
+      },
+      {
+        "startTime": 1972,
+        "endTime": 1976,
+        "speaker": "Diego Diehl",
+        "text": "Calma lá meu amigo, vai lá para o final dos clã, vamos trabalhar."
+      },
+      {
+        "startTime": 1976,
+        "endTime": 1989,
+        "speaker": "Caio Lobo",
+        "text": "Nessa hora ainda eu gosto de ter essa clareza ali porque eu acho que é mais longivo quando a gente trabalha no meio da internet da Ostentação quando você trabalha um pouco mais de mundo real, você acaba atraindo as pessoas certas."
+      },
+      {
+        "startTime": 1989,
+        "endTime": 2004,
+        "speaker": "Diego Diehl",
+        "text": "sim Sim, é é a estratégia da estratégia de marketing, né? Você tá todo mundo fazendo um negócio muito estardalhaço. São um pouquinho mais pé no chão faz bem também, né? Que legal."
+      },
+      {
+        "startTime": 2004,
+        "endTime": 2041,
+        "speaker": "Caio Lobo",
+        "text": "no setor também, se houve falando as bobeiras dessas quero falar cara. Você tá mentindo não é nada disso aí o cara ali tem muito aluno que já já faz incorporação com soro a 10 20 anos aí o cara que é profissionalizar mais que é melhorar e tal e o cara olha aquilo ali e fala cara, mas me quer, né? Conversa fiada e se de ganhe tanto por ano ganha em tudo ele falou não então eu prefiro me aproximar fazer o Raposo ali com Digamos assim, quem vai fazer realmente negócio dá certo do que atraiu o pessoal que vai se frustrar ali e gastar dinheiro."
+      },
+      {
+        "startTime": 2042,
+        "endTime": 2054,
+        "speaker": "Diego Diehl",
+        "text": "Show demais saber disso puxar um pouco mais um incorporador mais. Mais sério trabalho mais pé no chão, né? Legal, deixa eu só revisar aqui um"
+      },
+      {
+        "startTime": 2054,
+        "endTime": 2055,
+        "speaker": "Caio Lobo",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2056,
+        "endTime": 2098,
+        "speaker": "Diego Diehl",
+        "text": "finalzinho do meu conteúdo que eu tinha escrito aqui. Mais uma pergunta. Ah, Só aproveitando o Caio uma última pergunta aí você que está em contato com o teu público faz tempo. É quando pensando nesse tema aqui que eu vou trazer um pouco mais de dados inteligência de mercado. Você vem algum desafio mais frequente enfrentado por pelo teu público nessa análise de mercado sim que a galera mais traz como comum que tá falando com muita gente muita gente deve chegar com uma dor parecida algo assim."
+      },
+      {
+        "startTime": 2098,
+        "endTime": 2127,
+        "speaker": "Caio Lobo",
+        "text": "Não chega a ser uma dor mas a gente pensamento que que acontece o pessoal do Brasil inteiro. É em geral, mas o pessoal eles analisam o produto que ele vai lançar pela concorrência e não pela demanda então muita gente, olha cara. Tem um monte de gente fazendo Sei lá prédio com um apartamento de três cortes 90 metros quadrados, então eu vou fazer também se tem oferta É porque tem demanda então eu vejo que é muito uma linha de pensamento falha que a gente tenta desmistificar."
+      },
+      {
+        "startTime": 2127,
+        "endTime": 2136,
+        "speaker": "Caio Lobo",
+        "text": "Falou cara. Você tá vendo ali vários produtos parecidos não tá dizendo que tem demanda ou pode ser que tenha demanda. Mas a demanda já."
+      },
+      {
+        "startTime": 2136,
+        "endTime": 2138,
+        "speaker": "Diego Diehl",
+        "text": "Pelo menos vê se tá vendendo, né?"
+      },
+      {
+        "startTime": 2138,
+        "endTime": 2162,
+        "speaker": "Caio Lobo",
+        "text": "Mas o que acontece muito é digamos assim, o meu produto eu escolho por por imitação isso acaba muita gente fruta, cara. Lancei o negócio. Achei que ia bombar não vendeu nada fui descobrir o cara lá também não tá vendendo nada isso aqui então, só que a pessoa não tem segurança o suficiente de analisar um dado para lançar um produto diferente."
+      },
+      {
+        "startTime": 2162,
+        "endTime": 2163,
+        "speaker": "Diego Diehl",
+        "text": "diferente"
+      },
+      {
+        "startTime": 2164,
+        "endTime": 2194,
+        "speaker": "Caio Lobo",
+        "text": "Cara, vou lançar estúdio na minha cidade cara não mas eu eu moro na Cidade de 100 150 mil habitantes, ninguém quer estudo não, o pessoal gosta de de como se diz de apartamento grande com quatro quartos e cozinha então a pessoa olha muito a realidade dela e tenta espelhar isso em negócio aí a ideia muito é trazer delas."
+      },
+      {
+        "startTime": 2194,
+        "endTime": 2206,
+        "speaker": "Caio Lobo",
+        "text": "Falei cara, mas olha isso aqui tem isso tem aqui porque que não é um produto que vai ser vendido que vai ter vai ter uma chance sabe? Então eu vejo com uma dor do pessoal. Por isso que eu achei interessante quando você falou de inteligente de mercado indicador de mercado e tudo mais porque traz um pouco mais da credibilidade para ele ter uma uma segurança maior em tomar a decisão fora do óbvio."
+      },
+      {
+        "startTime": 2206,
+        "endTime": 2220,
+        "speaker": "Caio Lobo",
+        "text": "Cara, você tá todo mundo dançando. Esse é tipologia aqui Eu Não Preciso lançar porque eu por mim mesmo. Fiz essa análise de mercado. Eu acho que é uma é uma validação própria, ele é uma segurança que o pessoal precisa."
+      },
+      {
+        "startTime": 2224,
+        "endTime": 2246,
+        "speaker": "Diego Diehl",
+        "text": "de movimento de mercado, né? Como enxergar um pouco o movimento aqui a gente deu certo muito em Curitiba, porque a gente conseguiu enxergar alguns movimentos, já tava todo mundo fazendo ali o preço inflando. Fala Putz. Vai ter uma galera que vai querer morar parecido aqui não vai ter dinheiro para pagar aqui esse bairro aqui embaixo tá bem barato, eles vão querer comprar esse bairro daqui a pouco."
+      },
+      {
+        "startTime": 2246,
+        "endTime": 2254,
+        "speaker": "Diego Diehl",
+        "text": "Que legal, talvez eu trago um pouco E você consegue? Enfim legal bom saber essa linha aí me ajudou já. Fechou da minha parte Caio."
+      },
+      {
+        "startTime": 2254,
+        "endTime": 2281,
+        "speaker": "Caio Lobo",
+        "text": "fechou aí, assim que você mandar eu vou pedir para o pessoal fazer a arte te mando para validação também, mas a ideia é começar às 20 horas na segunda-feira aí uns 15 minutos antes uns 15 minutos antes a gente entra lá faz os testes todos e Como se diz e já Já fica direto, né?"
+      },
+      {
+        "startTime": 2281,
+        "endTime": 2282,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 2282,
+        "endTime": 2283,
+        "speaker": "Caio Lobo",
+        "text": "chato"
+      },
+      {
+        "startTime": 2283,
+        "endTime": 2306,
+        "speaker": "Diego Diehl",
+        "text": "Tá na minha agenda aqui já então só para validar é foto. uma mini bio E o mini textinho da aula para gerar com termos técnicos para gerar um interesse ali o cara entender que vai descobrir uma coisa que talvez ele que ele tem interesse em saber não sabe tanto."
+      },
+      {
+        "startTime": 2306,
+        "endTime": 2314,
+        "speaker": "Diego Diehl",
+        "text": "Fechou. Obrigado, Ellen, você tem mais 10 minutinhos? Então beleza eu já sigo um pouquinho mais com ele aqui."
+      },
+      {
+        "startTime": 2314,
+        "endTime": 2316,
+        "speaker": "Caio Lobo",
+        "text": "Então, vou sair aqui brigadão, gente. Até mais."
+      },
+      {
+        "startTime": 2316,
+        "endTime": 2317,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado, valeu, tchau."
+      },
+      {
+        "startTime": 2317,
+        "endTime": 2321,
+        "speaker": "Caio Lobo",
+        "text": "tchau"
+      },
+      {
+        "startTime": 2321,
+        "endTime": 2336,
+        "speaker": "Diego Diehl",
+        "text": "E aí Helen? Tudo bom? Tudo bom? Vou arrumar para minha cabeça. Ah,"
+      },
+      {
+        "startTime": 2336,
+        "endTime": 2340,
+        "speaker": "Hellen Souza",
+        "text": "o Felipe"
+      },
+      {
+        "startTime": 2340,
+        "endTime": 2370,
+        "speaker": "Diego Diehl",
+        "text": "vou pedir para quem. Felipe não incorporou nenhum empreendimento ainda. Mas o Felipe é que o Felipe ele entende do é da hora, né? Bastante, mas eu peguei já eu fiz uma eu fiz uma reunião com ele de 40 minutos assim falei Felipe vou dar uma aula, o que que você acha? Que você mostraria e tal então."
+      },
+      {
+        "startTime": 2370,
+        "endTime": 2405,
+        "speaker": "Diego Diehl",
+        "text": "Tá ok eu vou Daqui a pouco eu faço uma trilha. Eu acho que só para a gente já tentar enviar isso para o Caio. Acho que isso é importante. Enviar uma foto. Uma Bio cara falaram uma bio. Quem que falou para mim cara de Vitória saber? Me mandou o contato da Beatriz é Beatriz só pedir aqui."
+      },
+      {
+        "startTime": 2407,
+        "endTime": 2463,
+        "speaker": "Diego Diehl",
+        "text": "Por um acaso você teria. apresentação no texto Eu fui lá na Demi nos na abertura do salão de móvel e tal. E aí foram me chamar e começaram a ler um monte de coisas sobre mim eu falei c******, eu acho que eles pesquisaram escreveram. Eu falei caramba tipo. Então, eu vou até pedir aqui caso ela tem que tenha para me mandar."
+      },
+      {
+        "startTime": 2463,
+        "endTime": 2491,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu acho que a bio exatamente minha nem é super importante. Acho que o importante é. cargo foto E o textinho sobre a aula, né? É isso que ele falou, né? Eu acho que você podia me ajudar mas a gente pensar no nome da aula. aqui"
+      },
+      {
+        "startTime": 2499,
+        "endTime": 2507,
+        "speaker": "Hellen Souza",
+        "text": "interessante para os alunos dele o assunto assim para a gente pensar você fala o técnico da gente pensa num."
+      },
+      {
+        "startTime": 2512,
+        "endTime": 2539,
+        "speaker": "Diego Diehl",
+        "text": "Que a galera olha muito. Faz um vai olhar para inteligência de mercado e olha muito para o que está sendo ofertado. E não o que está sendo não e não olha exatamente para demanda. E aí vira tudo um prédio igual ao outro, né? então Eu tô pensando se não é?"
+      },
+      {
+        "startTime": 2539,
+        "endTime": 2540,
+        "speaker": "Hellen Souza",
+        "text": "Pokémon"
+      },
+      {
+        "startTime": 2543,
+        "endTime": 2568,
+        "speaker": "Diego Diehl",
+        "text": "Você é a aula. Eu gosto dos títulos de aula quando assim. cinco aprendizados sabe sempre o aprendizado sobre o site"
+      },
+      {
+        "startTime": 2572,
+        "endTime": 2579,
+        "speaker": "Hellen Souza",
+        "text": "como é que você falou que demandado ofertado"
+      },
+      {
+        "startTime": 2579,
+        "endTime": 2584,
+        "speaker": "Diego Diehl",
+        "text": "É pessoal, olha muito para oferta e não olha para demanda."
+      },
+      {
+        "startTime": 2596,
+        "endTime": 2602,
+        "speaker": "Hellen Souza",
+        "text": "artificial a partir disso no mercado"
+      },
+      {
+        "startTime": 2602,
+        "endTime": 2605,
+        "speaker": "Diego Diehl",
+        "text": "Não."
+      },
+      {
+        "startTime": 2614,
+        "endTime": 2617,
+        "speaker": "Hellen Souza",
+        "text": "Vamos ver o que o chat vai ter nos traz."
+      },
+      {
+        "startTime": 2622,
+        "endTime": 2668,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou usar aqui também. eu tô fazendo a aula ali na Tendo em vista essa aula que eu tô programando eu preciso criar. Agora eu quero que você seja. estrategista de marketing especializado em copyright E eu quero criar. um título para aula chamativo que Tenha a atratividade. Para incorporar pequenos e médios incorporadores construtores que querem desenvolver produtos e olhar para inteligência de mercado."
+      },
+      {
+        "startTime": 2668,
+        "endTime": 2699,
+        "speaker": "Diego Diehl",
+        "text": "E eu quero também criar uma um parágrafo. Com termos e conteúdos mais técnicos para chamar atenção da aula. então Me dê três sugestões de título. E cria um parágrafo e me faça três perguntas no final para literários. Que que travou?"
+      },
+      {
+        "startTime": 2701,
+        "endTime": 2703,
+        "speaker": "Hellen Souza",
+        "text": "Responder novamente."
+      },
+      {
+        "startTime": 2728,
+        "endTime": 2759,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que os títulos ficaram muito exagerados, eu quero algo mais. pontual e objetivo que a pessoa entenda que ele vai ver algo prático os benefícios Para pequenos e médios incorporadores, eu quero trazer. Um pouco da história de um produto de quando a gente olha o terreno vai analisar a região que é que a gente olha depois quando a gente vai desenvolver um pouco mais o projeto que colocar lá como é que a gente decide o produto."
+      },
+      {
+        "startTime": 2759,
+        "endTime": 2790,
+        "speaker": "Diego Diehl",
+        "text": "Depois sobre diferenciais de produto que a gente deve colocar. Como é que a gente olha o mercado como é que a gente Analisa como é que a gente obtém informações? O parágrafo não tá técnico parágrafo tá bem abstrato. Eu quero trazer elementos mais técnicos como indicadores específicos trazer de forma objetiva indicadores como veste ó."
+      },
+      {
+        "startTime": 2790,
+        "endTime": 2821,
+        "speaker": "Diego Diehl",
+        "text": "velocidade de vendas tipos de produtos sendo ofertados Demanda aumento do preço por região. E o aspecto específico, eu quero trazer um pouco mais de inteligência do mercado. Em cada etapa do desenvolvimento do produto. Acho que eu vou ter que talvez."
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2856,
+        "speaker": "Hellen Souza",
+        "text": "identificar a demanda real com ferramentas de marketing inteligência? aula prática dois pontos"
+      },
+      {
+        "startTime": 2859,
+        "endTime": 2866,
+        "speaker": "Diego Diehl",
+        "text": "deitado"
+      },
+      {
+        "startTime": 2866,
+        "endTime": 2877,
+        "speaker": "Hellen Souza",
+        "text": "A gente dizer que é algo prático, né? Me ouvem oferta. Tem alguns desses?"
+      },
+      {
+        "startTime": 2884,
+        "endTime": 2910,
+        "speaker": "Diego Diehl",
+        "text": "é que Você viu o ponto dele? Que ele trouxe que a galera promete muita coisa e tal e ele é um pouquinho mais pé no chão. Eu acho que esses aqui estão tá bem o marketing que a galera faz e que ele falou que ele não faz, entendeu? É por isso que eu perguntei para ele no final ali."
+      },
+      {
+        "startTime": 2910,
+        "endTime": 2934,
+        "speaker": "Diego Diehl",
+        "text": "Ah como é que você vê ele? A galera promete umas coisas muito grande eu fico mais pé no chão. Ó três que eu peguei aqui. inteligência de mercado aplicado do terreno ao produto final talvez"
+      },
+      {
+        "startTime": 2939,
+        "endTime": 2941,
+        "speaker": "Hellen Souza",
+        "text": "em decisões lucrativas"
+      },
+      {
+        "startTime": 2947,
+        "endTime": 2961,
+        "speaker": "Diego Diehl",
+        "text": "Mas você vê que é genérico. Tipo isso daí funcionaria para Eu acho que eu vou ter que pensar com mais calma ela nesse aqui."
+      },
+      {
+        "startTime": 2961,
+        "endTime": 2963,
+        "speaker": "Hellen Souza",
+        "text": "técnico do que marketing mesmo."
+      },
+      {
+        "startTime": 2963,
+        "endTime": 2975,
+        "speaker": "Diego Diehl",
+        "text": "Porque se eu falar se eu botar um título que funcionaria para outros mercados já não tá específico, né? Eu vou ter que pensar melhor."
+      },
+      {
+        "startTime": 2976,
+        "endTime": 2993,
+        "speaker": "Hellen Souza",
+        "text": "Talvez falar até com incorporador mesmo, né? Eu falar essa aula essa aula aqui. Que que você acha mais importante, daí eu acho que incorporador de falar isso aqui. Acho que quando ele falar isso aqui é o termo da aula que daí você já vai saber que é importante para o computador."
+      },
+      {
+        "startTime": 2993,
+        "endTime": 2996,
+        "speaker": "Diego Diehl",
+        "text": "Ele fala de novo esse final."
+      },
+      {
+        "startTime": 2996,
+        "endTime": 3015,
+        "speaker": "Hellen Souza",
+        "text": "Não falei assim para você bater um papo com incorporador aí que você conhece ai eu vou falar isso. Fala sobre isso disso aqui, o que que você acha mais interessante para você aprender daí o corporador vai te dar a resposta e acho que a gente tem o tema da aula e vai te dar uma resposta técnica."
+      },
+      {
+        "startTime": 3015,
+        "endTime": 3019,
+        "speaker": "Hellen Souza",
+        "text": "E vai falar né? O que mais interessou para ele que é o ponto que a gente quer atingir."
+      },
+      {
+        "startTime": 3020,
+        "endTime": 3048,
+        "speaker": "Diego Diehl",
+        "text": "Sim, é eu vou ai eu vou gravar um podcast hoje. uma incorporadora chamada Blue E eu falei para eles eu falei caras nome de vocês é Blue. Aurora é azul, a gente vai ter que fazer algo que vem, cara, eles estão super próximos então lançando maior empreendimento de Curitiba, lançaram agora."
+      },
+      {
+        "startTime": 3048,
+        "endTime": 3070,
+        "speaker": "Diego Diehl",
+        "text": "Mas depois eu conecto melhor te dou os dados, daqui a pouco vai chegar a entrevista lá que eu fiz para esse Brasil. e Eu só lembrei disso agora e aquele vídeozinho não não editaram ainda, estou vídeo da riot."
+      },
+      {
+        "startTime": 3070,
+        "endTime": 3086,
+        "speaker": "Hellen Souza",
+        "text": "Que que a gente conversou como aquele vídeo, ele é meio atemporal dá para a gente distribuir ele em dezembro janeiro, porque tá grande a gente vai fazer vários cortes porque senão o Diego fica muito monotemático. Fica só."
+      },
+      {
+        "startTime": 3086,
+        "endTime": 3094,
+        "speaker": "Diego Diehl",
+        "text": "Não com certeza, a ideia foi essa gravada uma vez. Para depois fazer pílulas né? Se"
+      },
+      {
+        "startTime": 3094,
+        "endTime": 3111,
+        "speaker": "Hellen Souza",
+        "text": "Então como ele tá saindo de férias, ele tá adiantando o conteúdo de Dezembro para a gente postar dezembro e janeiro. Então, ele vai sair dia 19, né? Então até dia 19, ele tem que entregar tudo para eu postar. Então, acredito que na semana que ele vou sair de férias, a gente já posta o primeiro corte aí."
+      },
+      {
+        "startTime": 3111,
+        "endTime": 3133,
+        "speaker": "Hellen Souza",
+        "text": "Posta uma semana outra semana, a gente joga também um pouquinho para dezembro para não ficar. O mesmo assunto sabe daí não dá muito engajamento para gente dar para crescer a audiência ali no Espírito Santo, né? Por exemplo quando a gente for fazer o tráfico disso, mas a gente só colocar isso aí perde um pouco do interesse da Galera."
+      },
+      {
+        "startTime": 3133,
+        "endTime": 3133,
+        "speaker": "Hellen Souza",
+        "text": "Então eu conversei da gente."
+      },
+      {
+        "startTime": 3133,
+        "endTime": 3134,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3149,
+        "speaker": "Hellen Souza",
+        "text": "Dissolver sabe esse vídeo como tá grande tem boas informações e tá temporal dá para usar. Com o passar do tempo a gente planejou em fazer isso, porque essa semana já teve uma."
+      },
+      {
+        "startTime": 3152,
+        "endTime": 3159,
+        "speaker": "Diego Diehl",
+        "text": "Vocês também focados em conteúdo mais. Nutella bem curto"
+      },
+      {
+        "startTime": 3159,
+        "endTime": 3161,
+        "speaker": "Hellen Souza",
+        "text": "É o que rende ali, né no Instagram"
+      },
+      {
+        "startTime": 3161,
+        "endTime": 3165,
+        "speaker": "Diego Diehl",
+        "text": "Oi É exato É o que?"
+      },
+      {
+        "startTime": 3165,
+        "endTime": 3173,
+        "speaker": "Hellen Souza",
+        "text": "é? Se fosse dá para subir no YouTube, mas a gente a nossa o nosso canal tá meio cru, então subiu por subir é meio."
+      },
+      {
+        "startTime": 3173,
+        "endTime": 3196,
+        "speaker": "Diego Diehl",
+        "text": "Eu botei no planejamento ele já a gente vai discutir isso lá com a diretoria para mim ano que vem é YouTube. Eu quero estar com certeza. Toda semana todo mês tem que ter um webinar de uma hora e meia. E a galera assiste cara por mais que tenha 50 visualizações cara 50 pessoas assistindo um vídeo nosso de uma hora."
+      },
+      {
+        "startTime": 3196,
+        "endTime": 3200,
+        "speaker": "Diego Diehl",
+        "text": "Às vezes é cinco clientes que a gente ganha a gente faz 10 vendas por mês."
+      },
+      {
+        "startTime": 3200,
+        "endTime": 3225,
+        "speaker": "Hellen Souza",
+        "text": "É uma coisa até que o Alejandro trouxe na reunião nessa reunião falando sobre analisar ele mostrou né? O dado o canal do da dwz e daí a gente falou daí eu falei assim, ó, deve ser um custo bem alto porque um eles têm a estrutura própria deles, né? Então se a gente for a gente o ideal seria alugar o lugar trazer convidados cobra."
+      },
+      {
+        "startTime": 3225,
+        "endTime": 3227,
+        "speaker": "Hellen Souza",
+        "text": "Então tem que pensar em tudo isso daí trouxe só essa demanda não mas"
+      },
+      {
+        "startTime": 3227,
+        "endTime": 3229,
+        "speaker": "Diego Diehl",
+        "text": "Convidado não, mas é só não"
+      },
+      {
+        "startTime": 3229,
+        "endTime": 3261,
+        "speaker": "Hellen Souza",
+        "text": "tem alguns que cobram. Ele trouxe a visão da dwv que eles trazem os cara grande, né que você vai ver. Daí eu falei assim, então, acho que tem que ser uma coisa mais interna e não pensar apenas no YouTube. Que que eu acho que ele trouxe para a gente isso então o que que eu falei para ele a Leandro eu acho melhor você sentar com a diretoria de vocês pensar em 2025, por exemplo as empresas com que eu trabalho a maioria investe pelo menos 7% do faturamento em marketing a gente"
+      },
+      {
+        "startTime": 3261,
+        "endTime": 3261,
+        "speaker": "Diego Diehl",
+        "text": "s"
+      },
+      {
+        "startTime": 3261,
+        "endTime": 3288,
+        "speaker": "Hellen Souza",
+        "text": "investir bem menos que isso né? Eu falei para ele, eu acho que seria interessante você sentar com planejamento diretoria, vocês analisarem a gente vai conseguir investir sei lá 7% do faturamento em 2025 em marketing, ele traz isso para gente e a gente dissolve nas comunicações. Eu acho que só focar no negócio todo o dinheiro lá não vai dar muito certo porque YouTube demora um pouco para crescer."
+      },
+      {
+        "startTime": 3288,
+        "endTime": 3298,
+        "speaker": "Hellen Souza",
+        "text": "Eu tô bem interessante, mas é uma ferramenta de busca. E é uma ferramenta de conhecimento de marca também, né? Então é"
+      },
+      {
+        "startTime": 3298,
+        "endTime": 3299,
+        "speaker": "Diego Diehl",
+        "text": "Eu mandei eu mandei para Eduardo"
+      },
+      {
+        "startTime": 3299,
+        "endTime": 3299,
+        "speaker": "Hellen Souza",
+        "text": "interessante estar nela."
+      },
+      {
+        "startTime": 3302,
+        "endTime": 3323,
+        "speaker": "Diego Diehl",
+        "text": "percentual empresas de sase em crescimento entre 10 a 20% do faturamento em marketing Mas sim, é que eu vejo o nosso. Eu acho que o market vai mudar muito ano que vem, tá? Acho que não é uma ideia não é um tiro de canhão, mas eu acho que a gente não fala com incorporador."
+      },
+      {
+        "startTime": 3323,
+        "endTime": 3337,
+        "speaker": "Diego Diehl",
+        "text": "E aqui nos paga. Tipo Começa por aí, né? Então eu vou estar bem focado em falar com Incorporadora, não quero ficar falando toda hora só com corretor não dá dinheiro. falar com"
+      },
+      {
+        "startTime": 3338,
+        "endTime": 3365,
+        "speaker": "Hellen Souza",
+        "text": "agora que a gente tá fazendo essa parceria Caio que a nossa primeira mesmo né? Falei para o Alejandro foi Alejandro acho que ano que vem a gente tem que parar um pouco de conversar ali com o corretor pelo menos ali no Instagram nos canais de comunicação e começar a falar com incorporador porque aquilo que você falou é quem paga a gente né? E às vezes é interessante você investir super na ferramenta deixar ela 100%."
+      },
+      {
+        "startTime": 3365,
+        "endTime": 3383,
+        "speaker": "Hellen Souza",
+        "text": "mas às vezes você não investe em marketing, por exemplo a dwz, ela pode ser muito pior que a gente como ferramenta. Mas o Max dela é tão bom que ela consegue faturar mais que a gente porque ela investe marketing. Então acho que o pecado da hora não é você você não."
+      },
+      {
+        "startTime": 3383,
+        "endTime": 3386,
+        "speaker": "Hellen Souza",
+        "text": "Vê o marketing comum investimento mesmo como um gato."
+      },
+      {
+        "startTime": 3386,
+        "endTime": 3409,
+        "speaker": "Diego Diehl",
+        "text": "Entenderam isso, eles entenderam isso já. Eu tanto que começa a falar de produto falei gente, não quero falar de produto quero falar de marketing comercial. Toda solução é amor disso aqui desenvolve tal coisa, eu falei a gente não tem dinheiro para desenvolver não precisa primeiro fazer marketing comercial para trazer mais clientes para ter mais dinheiro para depois desenvolver mais coisas."
+      },
+      {
+        "startTime": 3409,
+        "endTime": 3431,
+        "speaker": "Diego Diehl",
+        "text": "Mas tá bem legal, ele fica isso, eu acho que vai ser um momento legal e daqui a pouco. Eu preciso ir aqui para outra. Cara. Em resumo eu preciso pensar deixa aqui deixa na minha mão isso aqui, eu preciso criar um copo. Eu sei criar cópia, daí eu válido contigo a gente intera."
+      },
+      {
+        "startTime": 3431,
+        "endTime": 3443,
+        "speaker": "Diego Diehl",
+        "text": "Eu preciso na verdade pensar na aula, o que que eu vou dar na aula exatamente para Daí pensar no parágrafo para daí criar um copo bom, entendeu? Ou às vezes eu penso no copo de dobra a aula, ok? Eu vou pensar."
+      },
+      {
+        "startTime": 3443,
+        "endTime": 3449,
+        "speaker": "Hellen Souza",
+        "text": "É acho melhor você pensar na Copa e manda para o Caio que eu acho que é o mais urgente. Deve se desenvolveu amanhã cedo."
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3490,
+        "speaker": "Diego Diehl",
+        "text": "mas Vou desenvolver ela vou pensar só no realmente na prática, o que é que eu vou abrir lá? E mas aí eu já mando eu vou tomar um banho tem uma reunião às 11 com Incorporadora, daí vai ativando minha cabeça. Eu tô acordando ainda. dormir tarde ontem aí talvez até Por sinal Vou até cobrar o Robson aqui."
+      },
+      {
+        "startTime": 3490,
+        "endTime": 3530,
+        "speaker": "Diego Diehl",
+        "text": "Fala Robson. Bom dia tudo bom aqueles vídeos e materiais. Cobrar ele para ver se vem algo. Fechou ele eu tô só em site aqui que você falou, né? Eu eu não sei se vale se Valeria trocar o nosso posicionamento no Instagram. Talvez o incorporador vá por outro canal."
+      },
+      {
+        "startTime": 3534,
+        "endTime": 3540,
+        "speaker": "Hellen Souza",
+        "text": "também é uma pessoa, né? Então que ele também está presente."
+      },
+      {
+        "startTime": 3540,
+        "endTime": 3542,
+        "speaker": "Diego Diehl",
+        "text": "E tal ali falar com ele."
+      },
+      {
+        "startTime": 3542,
+        "endTime": 3570,
+        "speaker": "Hellen Souza",
+        "text": "Qual que é a minha ideia só passando rapidinho assim que eu falei para o Alejandro já Karen investir principalmente assessoria de imprensa, a gente tem muito dado para fazer notícia e eu já trabalhei eu trabalhei no na Globo, né no G1 e na Globo então eu tenho pessoas que trabalham ali que dá para gerar esse tipo de informação, né? Mas a gente teria que contratar uma assessora porque eu não consigo fazer né? Tudo de uma vez então."
+      },
+      {
+        "startTime": 3570,
+        "endTime": 3570,
+        "speaker": "Diego Diehl",
+        "text": "Concordo total."
+      },
+      {
+        "startTime": 3571,
+        "endTime": 3617,
+        "speaker": "Hellen Souza",
+        "text": "Eu acho que o pontapé inicial antes de tudo deveria a gente pegar o nosso dado e transformar Aquilo em matéria Pronto já é um grande autoridade que a gente vai ter no mercado que é uma coisa que a data size faz muito bem. Eles fazem muito bem isso e você vai ver ele sai na capa do Estadão são conteúdos que eu que eu consumo para gerar outros conteúdos, né? Então você vê que ela ela tá presente ali gerando conteúdo informativo para pessoas que leem aquilo, né? Então incorporador ele tem essa esse hábito de ler um jornal de buscar informação."
+      },
+      {
+        "startTime": 3617,
+        "endTime": 3639,
+        "speaker": "Hellen Souza",
+        "text": "Então acho que se a gente começar a investir nisso. Com dado que a gente tem que é muito interessante que é tudo exclusivo e assim por cento verificado muda tudo então a gente começar para mim o Primeiro passo seria investir numa assessoria de imprensa para tratar esses dados com a grande mídia para a bolha, sabe e daí depois vai indo para outro vai indo para o Linkedin vai indo para se relacionar com pessoas mesmo."
+      },
+      {
+        "startTime": 3639,
+        "endTime": 3652,
+        "speaker": "Hellen Souza",
+        "text": "Por exemplo. Caio tem o professor Jamile lá que eu te mandei uma vez, né? Que eles são grandes nomes ali do mercado imobiliário voltado por incorporador então fazer essa relação também de cursos. Enfim, tá presente nesses"
+      },
+      {
+        "startTime": 3652,
+        "endTime": 3653,
+        "speaker": "Diego Diehl",
+        "text": "Legal, com certeza, eu contratei uma"
+      },
+      {
+        "startTime": 3653,
+        "endTime": 3655,
+        "speaker": "Hellen Souza",
+        "text": "evento."
+      },
+      {
+        "startTime": 3655,
+        "endTime": 3659,
+        "speaker": "Diego Diehl",
+        "text": "RP no Marketing da Hype, deu uma estourada assim visualização"
+      },
+      {
+        "startTime": 3659,
+        "endTime": 3660,
+        "speaker": "Hellen Souza",
+        "text": "s"
+      },
+      {
+        "startTime": 3661,
+        "endTime": 3670,
+        "speaker": "Diego Diehl",
+        "text": "alcance show demais velho conta comigo aí tá? E você mora perto do Alphaville, né? Eu vou arrumar um evento para gente ir ali. fechou"
+      },
+      {
+        "startTime": 3670,
+        "endTime": 3671,
+        "speaker": "Hellen Souza",
+        "text": "Eu moro perto da padaria. Isso foi"
+      },
+      {
+        "startTime": 3671,
+        "endTime": 3674,
+        "speaker": "Diego Diehl",
+        "text": "É mais Caramba que legal,"
+      },
+      {
+        "startTime": 3674,
+        "endTime": 3677,
+        "speaker": "Hellen Souza",
+        "text": "trás."
+      },
+      {
+        "startTime": 3677,
+        "endTime": 3681,
+        "speaker": "Diego Diehl",
+        "text": "Alphaville tá cheia de evento semana que vem vai ter vários aí nosso."
+      },
+      {
+        "startTime": 3681,
+        "endTime": 3685,
+        "speaker": "Hellen Souza",
+        "text": "Que tem aqui meu amigo evento de coaching."
+      },
+      {
+        "startTime": 3685,
+        "endTime": 3688,
+        "speaker": "Diego Diehl",
+        "text": "Muito é só achar os mercado imobiliário."
+      },
+      {
+        "startTime": 3688,
+        "endTime": 3688,
+        "speaker": "Hellen Souza",
+        "text": "quem faz muito é o Gustavo Rangel,"
+      },
+      {
+        "startTime": 3688,
+        "endTime": 3690,
+        "speaker": "Diego Diehl",
+        "text": "É pode ser também, né? Só tem que"
+      },
+      {
+        "startTime": 3690,
+        "endTime": 3696,
+        "speaker": "Hellen Souza",
+        "text": "mas ele é voltado mais para corretor."
+      },
+      {
+        "startTime": 3696,
+        "endTime": 3700,
+        "speaker": "Diego Diehl",
+        "text": "estar presente, né? Valeu deixa eu correr aqui, obrigado,"
+      },
+      {
+        "startTime": 3700,
+        "endTime": 3701,
+        "speaker": "Hellen Souza",
+        "text": "Bom dia, viu?"
+      },
+      {
+        "startTime": 3701,
+        "endTime": 4064,
+        "speaker": "Diego Diehl",
+        "text": "viu, Helinho? Beijo para ti também, tchau."
+      },
+      {
+        "startTime": 4064,
+        "endTime": 4173,
+        "speaker": "Hellen Souza",
+        "text": "Se você é amiga de uma grávida bom fica aqui para você, eu sempre fui uma pessoa. Não ligava. a gente Tô grávida do meu primeiro filho e eu escolhi. Para vocês. torta quatro leites com morango hashtag todos bem acessível ela tá respondendo as dúvidas as pessoas nos comentários O ocorrido aí ela responde não me incomoda não e vários comentários das pessoas curiosas se ela chamava para processar essa pessoa que ficou eu queria até advogado interessados em trabalhar de graça."
+      },
+      {
+        "startTime": 4352,
+        "endTime": 4363,
+        "speaker": "Hellen Souza",
+        "text": "e domingo de show para festa de 15 anos sábado"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 273,
+    "speakers": [
+      "Diego Diehl",
+      "Hellen Souza",
+      "Caio Lobo"
+    ],
+    "total_words_estimate": 9038,
+    "duration_start": 15,
+    "duration_end": 4363
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6751b60ca9cbe300135f6b14",
+        "timestamp": 75,
+        "text": "Lives perderam relevância, mas aulas práticas e diretas estão gerando bons resultados para a equipe.",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0a",
+        "timestamp": 194,
+        "text": "Diego preparará material para aula sobre indicadores de mercado imobiliário.",
+        "topicId": "6751b60ca9cbe300135f6b05"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b15",
+        "timestamp": 230,
+        "text": "Caio sugere material em PDF com QR Code no slide final para potencializar apresentação em streaming.",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b16",
+        "timestamp": 331,
+        "text": "Aula deve ser direta e objetiva para manter interesse da audiência.",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0b",
+        "timestamp": 420,
+        "text": "Diego enviará descrição detalhada da aula para facilitar convite à turma.",
+        "topicId": "6751b60ca9cbe300135f6b05"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0e",
+        "timestamp": 602,
+        "text": "Diego planeja apresentar aula sobre 'Inteligência de Mercado' com abordagem prática e dados.",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b17",
+        "timestamp": 970,
+        "text": "Recomendação de preparar prints e caminho pré-definido durante apresentação para evitar imprevistos.",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0f",
+        "timestamp": 1281,
+        "text": "Caio planeja aula de inteligência de mercado com título atrativo e resumos técnicos para engajamento.",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b18",
+        "timestamp": 1362,
+        "text": "Diego sugere oferecer bônus de BI teste e cupom de desconto para alunos.",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b10",
+        "timestamp": 1418,
+        "text": "Duração da aula será de até 50 minutos, com possíveis 10-20 minutos para perguntas.",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b11",
+        "timestamp": 1461,
+        "text": "Diego propõe aula sobre inteligência de mercado em diferentes etapas de um projeto imobiliário.",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0c",
+        "timestamp": 1610,
+        "text": "Caio solicita bio, foto, título e descrição breve da aula para divulgação até amanhã.",
+        "topicId": "6751b60ca9cbe300135f6b05"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b1d",
+        "timestamp": 1703,
+        "text": "Curso de Caio custa cerca de R$ 4.000 por ano, com opção de imersão e mentoria mais avançada.",
+        "topicId": "6751b60ca9cbe300135f6b09"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b1e",
+        "timestamp": 2103,
+        "text": "Caio identifica que incorporadores frequentemente analisam produtos por imitação, não por demanda real.",
+        "topicId": "6751b60ca9cbe300135f6b09"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b12",
+        "timestamp": 2253,
+        "text": "Aula está programada para começar às 20 horas na segunda-feira, com testes 15 minutos antes.",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b0d",
+        "timestamp": 3100,
+        "text": "Prazo definido: Diego deve entregar todo conteúdo até dia 19 para publicações em dezembro e janeiro",
+        "topicId": "6751b60ca9cbe300135f6b05"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b1a",
+        "timestamp": 3241,
+        "text": "Meta proposta: investir cerca de 7% do faturamento em marketing para 2025",
+        "topicId": "6751b60ca9cbe300135f6b08"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b1b",
+        "timestamp": 3342,
+        "text": "Estratégia de comunicação: focar em incorporadores no Instagram em vez de corretores",
+        "topicId": "6751b60ca9cbe300135f6b08"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b1c",
+        "timestamp": 3395,
+        "text": "Prioridade definida: fazer marketing comercial para atrair clientes antes de desenvolver novos produtos",
+        "topicId": "6751b60ca9cbe300135f6b08"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b13",
+        "timestamp": 3428,
+        "text": "Diego precisa definir o conteúdo da aula antes de criar o título e parágrafo",
+        "topicId": "6751b60ca9cbe300135f6b06"
+      },
+      {
+        "segmentId": "6751b60ca9cbe300135f6b19",
+        "timestamp": 3570,
+        "text": "Sugestão de criar conteúdo jornalístico com dados para estabelecer autoridade no mercado",
+        "topicId": "6751b60ca9cbe300135f6b07"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6751b60ca9cbe300135f6b05",
+        "order": 1,
+        "title": "Ações Definidas e Prazos",
+        "summary": ""
+      },
+      {
+        "id": "6751b60ca9cbe300135f6b06",
+        "order": 2,
+        "title": "Planejamento da Aula de Inteligência de Mercado",
+        "summary": ""
+      },
+      {
+        "id": "6751b60ca9cbe300135f6b07",
+        "order": 3,
+        "title": "Estratégia de Apresentação e Engajamento",
+        "summary": ""
+      },
+      {
+        "id": "6751b60ca9cbe300135f6b08",
+        "order": 4,
+        "title": "Estratégia de Marketing e Comunicação",
+        "summary": ""
+      },
+      {
+        "id": "6751b60ca9cbe300135f6b09",
+        "order": 5,
+        "title": "Análise de Mercado e Público-Alvo",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 21,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6751b60ca9cbe300135f6b05",
+      "order": 1,
+      "title": "Ações Definidas e Prazos",
+      "summary": ""
+    },
+    {
+      "id": "6751b60ca9cbe300135f6b06",
+      "order": 2,
+      "title": "Planejamento da Aula de Inteligência de Mercado",
+      "summary": ""
+    },
+    {
+      "id": "6751b60ca9cbe300135f6b07",
+      "order": 3,
+      "title": "Estratégia de Apresentação e Engajamento",
+      "summary": ""
+    },
+    {
+      "id": "6751b60ca9cbe300135f6b08",
+      "order": 4,
+      "title": "Estratégia de Marketing e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "6751b60ca9cbe300135f6b09",
+      "order": 5,
+      "title": "Análise de Mercado e Público-Alvo",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:42:42.241845+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:42:42.241845+00:00"
+}

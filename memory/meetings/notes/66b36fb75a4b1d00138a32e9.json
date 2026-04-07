@@ -1,0 +1,67 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66b372b53e524600147ad0c4",
+      "timestamp": 21,
+      "text": "Análise de dados gerais sobre o mercado imobiliário, como preços médios e estoques.",
+      "topicId": "66b372b53e524600147ad0c2"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0c5",
+      "timestamp": 125,
+      "text": "Discussão sobre a importância de ter uma visão geral do mercado para investidores.",
+      "topicId": "66b372b53e524600147ad0c2"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0c6",
+      "timestamp": 167,
+      "text": "Análise de dados específicos de um empreendimento, como lançamento, entregas e estoques por tipologia.",
+      "topicId": "66b372b53e524600147ad0c2"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0c7",
+      "timestamp": 217,
+      "text": "Orientações sobre como utilizar os dados na negociação com clientes.",
+      "topicId": "66b372b53e524600147ad0c2"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0c8",
+      "timestamp": 289,
+      "text": "Discussão sobre a vantagem de ter acesso a dados detalhados do mercado em relação a outros corretores.",
+      "topicId": "66b372b53e524600147ad0c2"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0c9",
+      "timestamp": 499,
+      "text": "Proposta de criar uma agenda para discutir e planejar ações futuras.",
+      "topicId": "66b372b53e524600147ad0c3"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0ca",
+      "timestamp": 521,
+      "text": "Informação sobre uma palestra sobre inteligência artificial para corretores que Diego irá ministrar em Curitiba.",
+      "topicId": "66b372b53e524600147ad0c3"
+    },
+    {
+      "segmentId": "66b372b53e524600147ad0cb",
+      "timestamp": 548,
+      "text": "Sugestão de Leandro de Diego utilizar referências de cursos existentes para preparar a palestra.",
+      "topicId": "66b372b53e524600147ad0c3"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66b372b53e524600147ad0c2",
+      "order": 1,
+      "title": "Análise de dados imobiliários",
+      "summary": "Discussão sobre análise de dados de empreendimentos imobiliários, incluindo preços, estoques e vendas, para auxiliar na negociação com clientes."
+    },
+    {
+      "id": "66b372b53e524600147ad0c3",
+      "order": 2,
+      "title": "Planejamento de ações futuras",
+      "summary": "Discussão sobre a criação de uma agenda e próximos passos para aproveitar o potencial do conhecimento adquirido sobre o mercado imobiliário."
+    }
+  ]
+}

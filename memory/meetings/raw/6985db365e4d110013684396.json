@@ -1,0 +1,36 @@
+{
+  "id": "6985db365e4d110013684396",
+  "happenedAt": "2026-02-06T12:15:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Ester Elisa de Souza Rodrigues",
+      "email": "ester.rodrigues@orulo.com.br"
+    }
+  ],
+  "name": "CCR Corretores",
+  "duration": 3769.855,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6985db365e4d110013684396",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ejq-nriq-kud"
+  }
+}

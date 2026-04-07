@@ -1,0 +1,103 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "67589fbd22c19d0014c12ad5",
+      "timestamp": 188,
+      "text": "Diego sugere usar funcionalidade de corretores ativos como oportunidade para empreendimento.",
+      "topicId": "67589fbd22c19d0014c12acf"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad6",
+      "timestamp": 436,
+      "text": "Concorrentes podem ser alterados semanalmente para gerar lista de 100 corretores mais ativos.",
+      "topicId": "67589fbd22c19d0014c12acf"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad7",
+      "timestamp": 558,
+      "text": "Recomendação de selecionar concorrentes similares em data de entrega, preço e região.",
+      "topicId": "67589fbd22c19d0014c12acf"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad8",
+      "timestamp": 643,
+      "text": "Possibilidade de exportar lista de corretores para Excel e importar no Z2 para automação de disparo.",
+      "topicId": "67589fbd22c19d0014c12ad0"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad9",
+      "timestamp": 867,
+      "text": "Configuração de automação: duas mensagens a cada cinco minutos, iniciando às 8h e terminando às 19h.",
+      "topicId": "67589fbd22c19d0014c12ad0"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ada",
+      "timestamp": 1080,
+      "text": "Criação de mensagem personalizada para corretores com informações sobre empreendimento Vila Mariana.",
+      "topicId": "67589fbd22c19d0014c12ad0"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12add",
+      "timestamp": 1295,
+      "text": "Kátia confirma processo de ativação e envio de mensagem personalizada pelo WhatsApp do gerente.",
+      "topicId": "67589fbd22c19d0014c12ad1"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12adb",
+      "timestamp": 1392,
+      "text": "Diego propõe criar automação para novos corretores na base, com volume limitado de mensagens.",
+      "topicId": "67589fbd22c19d0014c12ad0"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12adc",
+      "timestamp": 1442,
+      "text": "Diego propõe automação para 21 mil corretores, com horário específico de ativação e desativação.",
+      "topicId": "67589fbd22c19d0014c12ad0"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad2",
+      "timestamp": 1579,
+      "text": "Processo de automação dividido em duas etapas: obter lista de corretores e disparar mensagens.",
+      "topicId": "67589fbd22c19d0014c12ace"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad3",
+      "timestamp": 1878,
+      "text": "Diego planeja adicionar filtro e segmentar disparos para rastrear solicitações do produto About.",
+      "topicId": "67589fbd22c19d0014c12ace"
+    },
+    {
+      "segmentId": "67589fbd22c19d0014c12ad4",
+      "timestamp": 2019,
+      "text": "Leandro e Diego concordam em criar automação de mensagens esta semana.",
+      "topicId": "67589fbd22c19d0014c12ace"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "67589fbd22c19d0014c12ace",
+      "order": 1,
+      "title": "Ações Acordadas de Automação",
+      "summary": ""
+    },
+    {
+      "id": "67589fbd22c19d0014c12acf",
+      "order": 2,
+      "title": "Estratégia de Seleção de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "67589fbd22c19d0014c12ad0",
+      "order": 3,
+      "title": "Configuração de Automação de Mensagens",
+      "summary": ""
+    },
+    {
+      "id": "67589fbd22c19d0014c12ad1",
+      "order": 4,
+      "title": "Processo de Envio de Mensagens",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "685aea56084c510013d6f086",
+      "timestamp": 167,
+      "text": "Definir estratégia de vendas para julho com foco em ações de inteligência de mercado",
+      "topicId": "685aea56084c510013d6f084"
+    },
+    {
+      "segmentId": "685aea56084c510013d6f088",
+      "timestamp": 215,
+      "text": "Caroline tem três reuniões agendadas: duas em São Paulo e uma em Campinas",
+      "topicId": "685aea56084c510013d6f085"
+    },
+    {
+      "segmentId": "685aea56084c510013d6f089",
+      "timestamp": 248,
+      "text": "Caroline sugere ajustar reuniões com SDRs para Floripa e Campinas antes da última semana do mês",
+      "topicId": "685aea56084c510013d6f085"
+    },
+    {
+      "segmentId": "685aea56084c510013d6f08a",
+      "timestamp": 457,
+      "text": "Caroline preparará resumo para Diego com detalhes por região, incluindo nome da incorporadora e feedback",
+      "topicId": "685aea56084c510013d6f085"
+    },
+    {
+      "segmentId": "685aea56084c510013d6f087",
+      "timestamp": 518,
+      "text": "Meta de fechar pelo menos um contrato hoje ou amanhã no máximo",
+      "topicId": "685aea56084c510013d6f084"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "685aea56084c510013d6f084",
+      "order": 1,
+      "title": "Ações e Metas de Vendas",
+      "summary": ""
+    },
+    {
+      "id": "685aea56084c510013d6f085",
+      "order": 2,
+      "title": "Agenda e Reuniões de Caroline",
+      "summary": ""
+    }
+  ]
+}

@@ -1,0 +1,221 @@
+{
+  "meeting_id": "6690232be5ccd900129d3e25",
+  "name": "11/07/2024-Meeting",
+  "happened_at": "2024-07-11T18:23:39.793Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T00:43:36.104626+00:00",
+  "executive_summary": "Diego conduziu treinamento de técnicas de vendascovering loss aversion, secretary rapport, familiarity bias, and first impression. Técnicas aplicáveis ao time comercial da Órulo.",
+  "context": {
+    "purpose": "Treinar técnicas de prospecção e vendas",
+    "main_agenda_items": [
+      "Viés da perda em vendas",
+      "Relacionamento com secretárias",
+      "Efeito da familiaridade",
+      "Rapport e conexão emocional",
+      "Linguagem do setor",
+      "Energia e primeira impressão",
+      "Pesquisa e preparação"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Instrutor — Compartilhou técnicas e histórias de prospecção"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": null,
+    "duration_minutes": 13.1
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Usar linguagem específica do setor do cliente (ex: 'vidas' em vez de 'funcionários' para planos de saúde)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Trabalhar o viés da familiaridade criando rapport antes de apresentar solução",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Usar técnica de loss aversion (medo de perder oportunidade) para cualificar interés do cliente",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "Fazer amizade com a secretária como parte do processo de compra",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Vendedor deve fazer o cliente trabalhar para ele (entregar valor antes de fechar)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Formalizar técnicas ensinadas em playbook de vendas para time comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Sem prazo definido para criação do playbook"
+    },
+    {
+      "id": "O2",
+      "description": "Mapear jargões por setor para uso nas approachs do time",
+      "owner": null,
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Não identificado dono desta ação"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Criar playbook com 5 técnicas de vendas (loss aversion, secretary rapport, familiaridade, rapport, linguagem setor)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Preparar casos de sucesso/prova social para usar em abordagens",
+      "owner": null,
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O time comercial da Órulo está usando essas técnicas na prospecção ativa?",
+      "context": "Verificar se técnicas de rapport, loss aversion e linguagem de setor são aplicadas no dia a dia do time",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q2",
+      "question": "Existe base de casos de sucesso da Órulo para uso como prova social?",
+      "context": "Técnica requer casos documentados para ser aplicada na abordagem",
+      "answer_required_by": null,
+      "owner": null
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Sem documentação das técnicas, conhecimento fica preso no Diego e não escala para o time",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Criar playbook ou gravar sessão como material de treinamento",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Abordagem desanimada ou com baixa energia prejudica primeira impressão",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Treinar energia do time na abordagem inicial",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Aplicar técnica de perda de oportunidade (FOMO) em campanhas de onboarding de novos clientes",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Criar biblioteca de jargões por setor para usar na qualificação de leads",
+      "potential_impact": "medium",
+      "owner": null,
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Gravar este conteúdo como material de onboarding para novos membros do time comercial",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar as 5 técnicas de vendas ensinadas nesta sessão em documento oficial",
+      "destination": "Playbook de Vendas — Órulo",
+      "priority": "high",
+      "reason": "Conhecimento de alto valor que precisa ser documentado para escalar o time"
+    },
+    {
+      "id": "DS2",
+      "action": "Arquivar transcrição completa da sessão com tópicos e notas estruturadas",
+      "destination": "Drive: 06_REPORTS ou pasta de treinamentos",
+      "priority": "medium",
+      "reason": "Material de referência para treinamentos futuros"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Diego Diehl conduziu sessão de treinamento de técnicas de vendas em 11/07/2024 — cobre viés da perda, rapport com секретаря, efeito familiaridade, linguagem do setor, energia na abordagem",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Técnica: usar jargão do setor，客户percebe que vendedor entende o negócio (ex: 'vidas' vs 'funcionários' para planos de saúde)",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Diego acredita que 80% dos negócios fechados nos EUA envolvem contato interruptivo (cold call)",
+      "category": "preference",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Criar versão resumida do treinamento em documento Playbook de Vendas para compartilhar com time comercial",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-30",
+    "reason": "Evitar perda de conhecimento e garantir que técnicas cheguem ao time"
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Participantes não identificados",
+      "Sem confirmação de ações práticas derivadas",
+      "Não há dados de CRM ou métricas do meeting",
+      "Prazo para playbook não definido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Técnicas de vendas: Discussão sobre técnicas para melhorar as vendas como trabalhar com a percepção de perda, familiaridade e primeiras impressões",
+    "Pesquisa e preparação: Discussão sobre a importância de pesquisar sobre o cliente e o setor para causar boa primeira impressão",
+    "Linguagem do setor: Recomendação de usar a linguagem e os jargões específicos de cada setor para mostrar conhecimento",
+    "Contato inicial: Dicas para a abordagem inicial como criar conexão emocional, usar energia e mostrar interesse real no cliente",
+    "Contato subsequente: Manter contato após a abordagem inicial, envolver a inúmerasecretária e trabalhar para o vendedor entregar valor ao cliente"
+  ]
+}

@@ -1,0 +1,1796 @@
+{
+  "meeting_id": "687a4556b70ce50013814ade",
+  "name": "Leadership Chapter: Priorização de Épicos",
+  "happened_at": "2025-07-18T13:00:00.000Z",
+  "duration_seconds": 5305.54,
+  "duration_minutes": 88.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Mariana Marins",
+      "email": "mariana.marins@orulo.com.br"
+    },
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Rubem Rocha",
+      "email": "rubem@orulo.com.br"
+    },
+    {
+      "name": "Talita Campos",
+      "email": "talita@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/687a4556b70ce50013814ade",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "mhh-ytza-mrh",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "687a45b8a644350013b0798b",
+    "meetingId": "687a4556b70ce50013814ade",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 126,
+        "speaker": "Beatriz Fusquino",
+        "text": "prazer na prática, o que está acontecendo em Curitiba e essa nova frente de embaixadores será um sucesso, parabéns."
+      },
+      {
+        "startTime": 126,
+        "endTime": 139,
+        "speaker": "Alejandro Olchik",
+        "text": "Muito bom. Alguma coisa que vocês queiram reforçar aqui. Ponto que seria interessante levar para as próximas."
+      },
+      {
+        "startTime": 145,
+        "endTime": 145,
+        "speaker": "Talita Campos",
+        "text": "Eu não entendi direito."
+      },
+      {
+        "startTime": 145,
+        "endTime": 160,
+        "speaker": "Bruna Soares",
+        "text": "Eu não entendi a sugestão do da ferramenta. Então, não sei se eu levaria para frente porque eu não entendi. Que que a pessoa quis dizer ali com a ferramenta de atualizações do quê de tipo de time, não sei."
+      },
+      {
+        "startTime": 160,
+        "endTime": 162,
+        "speaker": "Alejandro Olchik",
+        "text": "De produto não entendi o produto."
+      },
+      {
+        "startTime": 162,
+        "endTime": 163,
+        "speaker": "Bruna Soares",
+        "text": "Não sei."
+      },
+      {
+        "startTime": 163,
+        "endTime": 164,
+        "speaker": "Lais Santos Soares",
+        "text": "Produtos eu também tenho."
+      },
+      {
+        "startTime": 164,
+        "endTime": 164,
+        "speaker": "Diego Diehl",
+        "text": "Ah entendi o produto também."
+      },
+      {
+        "startTime": 166,
+        "endTime": 175,
+        "speaker": "Bruna Soares",
+        "text": "Como apresentar isso sabe?"
+      },
+      {
+        "startTime": 175,
+        "endTime": 199,
+        "speaker": "Alejandro Olchik",
+        "text": "Não a gente tem aquele documento dos deploides poderia dar um resumão. Tentando contextualizar. O que está sendo entregue na verdade? Seria isso, se for essa pedido minha dúvida é como tem a reunião de segunda, né? Mas nem todo mundo participa da segunda também, né. Que talvez seja interessante."
+      },
+      {
+        "startTime": 200,
+        "endTime": 209,
+        "speaker": "Bruna Soares",
+        "text": "É mas é que todo mundo está na segunda, né? Não participa. Também quem não quer. Tá todo mundo convidado. Não é algumas pessoas que participam."
+      },
+      {
+        "startTime": 211,
+        "endTime": 229,
+        "speaker": "Alejandro Olchik",
+        "text": "Não sei se é isso também."
+      },
+      {
+        "startTime": 229,
+        "endTime": 232,
+        "speaker": "Bruna Soares",
+        "text": "E outra que é uma pessoa só que botou isso, né? A gente não sabe se todo mundo quer ver isso também."
+      },
+      {
+        "startTime": 237,
+        "endTime": 328,
+        "speaker": "Diego Diehl",
+        "text": "que todo mundo ficou desenvolveu no tempo. Olha só o CS trazendo feedback do cliente os clientes estão adorando eles usam assim assado. Eu particularmente sinto um distanciamento nosso no dia a dia de falar dos nossos clientes da utilização do que a gente agrega valor para a sociedade. E então traduzindo aí o que eu vi é uma pessoa só só dando uma opinião assim, eu acho que É legal trazer o que que a gente faz no mundo, né? Como que todo nosso trabalho impacta e as outras pessoas."
+      },
+      {
+        "startTime": 328,
+        "endTime": 1723,
+        "speaker": "Carolina Campos",
+        "text": "não é todo mundo que consegue acessar sempre e às vezes até acessa. Mas não vai ter um nível de conhecimento detalhado para poder entender o que tá sendo dito ali tá? Então vai ter ajuste vai ter correção. Às vezes a pessoa fala assim. Ah isso que passaram agora já foi para o ar ou ainda tão testando porque teve sugestão de reajuste de melhoria."
+      },
+      {
+        "startTime": 1723,
+        "endTime": 381,
+        "speaker": "Carolina Campos",
+        "text": "Então acho que é mais essa linha. Acho que ela responde até complementar que a gente ouve bastante essa demanda."
+      },
+      {
+        "startTime": 381,
+        "endTime": 410,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu recebo feedback que gostariam de saber as novidades. E lá por mais que exista deve às vezes não tem a linguagem que todo mundo consiga entender, né? É como todos os times vem para mim para treinar lá no dear assistir. Minha reunião e tal, ele sempre pergunta. Nossa não sabia disso não, sabia daquilo sabe então acho que agregar muitas pessoas saber o que que tem de novidade."
+      },
+      {
+        "startTime": 410,
+        "endTime": 411,
+        "speaker": "Alejandro Olchik",
+        "text": "Na verdade de produto."
+      },
+      {
+        "startTime": 413,
+        "endTime": 472,
+        "speaker": "Diego Diehl",
+        "text": "Beleza. Deixa para depois."
+      },
+      {
+        "startTime": 472,
+        "endTime": 508,
+        "speaker": "Alejandro Olchik",
+        "text": "Então vai vamos tentando né? A gente faz uma rodada experimento. algo mais pessoal do feedback Bom, como é que fica? Essa foi a última foi a de Maio. A gente teria. De Abril eu já Faria abriu junho, né da Fazer de Junho já né? Vamos direto para de junho."
+      },
+      {
+        "startTime": 511,
+        "endTime": 513,
+        "speaker": "Beatriz Fusquino",
+        "text": "Abriu abriu a gente fez antes Alejandro é só de junho mesmo."
+      },
+      {
+        "startTime": 518,
+        "endTime": 519,
+        "speaker": "Alejandro Olchik",
+        "text": "a gente"
+      },
+      {
+        "startTime": 519,
+        "endTime": 522,
+        "speaker": "Diego Diehl",
+        "text": "Abril maio e junho."
+      },
+      {
+        "startTime": 522,
+        "endTime": 523,
+        "speaker": "Beatriz Fusquino",
+        "text": "Calma essa última não foi de Maio."
+      },
+      {
+        "startTime": 525,
+        "endTime": 528,
+        "speaker": "Alejandro Olchik",
+        "text": "Maio foi o que a gente fez não tem razão foi em maio é Junho, agora é Junho."
+      },
+      {
+        "startTime": 528,
+        "endTime": 530,
+        "speaker": "Beatriz Fusquino",
+        "text": "Foi em maio é junho."
+      },
+      {
+        "startTime": 530,
+        "endTime": 542,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá perfeito. Foi de Junho CD de Junho agora data. Vai ficar vou fazer duas ou mais ou menos. Diga lá Bruno."
+      },
+      {
+        "startTime": 545,
+        "endTime": 563,
+        "speaker": "Bruna Soares",
+        "text": "Não eu não tinha falado eu tinha levantado a mão para o assunto anterior. Até tinha esquecido que eu tava com a mão levantada. Mas não era sobre produto que o Diego falou mas é o feedback que eu não sabia a necessidade que vocês tinham sobre o produto porque tipo a gente tem dentro da operação atualizações de olhar toda a oração o que está sendo feito."
+      },
+      {
+        "startTime": 563,
+        "endTime": 563,
+        "speaker": "Bruna Soares",
+        "text": "Então para mim acontecia isso entre os times, entendeu? Tipo isso não"
+      },
+      {
+        "startTime": 563,
+        "endTime": 563,
+        "speaker": "Diego Diehl",
+        "text": "Como assim"
+      },
+      {
+        "startTime": 566,
+        "endTime": 568,
+        "speaker": "Bruna Soares",
+        "text": "precisaria levar para Company."
+      },
+      {
+        "startTime": 568,
+        "endTime": 569,
+        "speaker": "Diego Diehl",
+        "text": "Para Company, né? Talvez seja uma forma né? Talvez seja."
+      },
+      {
+        "startTime": 569,
+        "endTime": 583,
+        "speaker": "Bruna Soares",
+        "text": "É porque o Marcelo faz o Marcelo faz isso com o time de operação, quando a gente tem o bem, né que dá operação uma vez no mês então tipo o pessoal dentro da plataforma. Agora tem um botão que o cliente consegue porque o cliente também tem atendimento ao cliente, né?"
+      },
+      {
+        "startTime": 583,
+        "endTime": 585,
+        "speaker": "Diego Diehl",
+        "text": "Caramba. Olha o Marcelão escondendo o jogo."
+      },
+      {
+        "startTime": 586,
+        "endTime": 588,
+        "speaker": "Bruna Soares",
+        "text": "Não calma aí que ele faça operação."
+      },
+      {
+        "startTime": 588,
+        "endTime": 591,
+        "speaker": "Diego Diehl",
+        "text": "É brincadeira, mas que legal é isso? Acho que"
+      },
+      {
+        "startTime": 591,
+        "endTime": 592,
+        "speaker": "Bruna Soares",
+        "text": "Ele vai brigar comigo que eu tô dando vai trabalhar para ele."
+      },
+      {
+        "startTime": 595,
+        "endTime": 596,
+        "speaker": "Diego Diehl",
+        "text": "Legal, eu vou convidar meu time para entrar lá fechou."
+      },
+      {
+        "startTime": 596,
+        "endTime": 612,
+        "speaker": "Bruna Soares",
+        "text": "Mas enfim dando esse feedback também porque eu dei o feedback. Porque o beck achando que para mim era certo que a gente tivesse atualizações entre os times, entendeu? Depois do deve algo mais técnico ser algo mais apresentável, mas pelo jeito"
+      },
+      {
+        "startTime": 612,
+        "endTime": 612,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 613,
+        "endTime": 629,
+        "speaker": "Bruna Soares",
+        "text": "não seja então na Company sim. Acho que algum momento é um espaço legal para todo mundo saber ainda mais que nem o Diego falou quem trabalha direto com o produto e tem tem contato com cliente sabe por causa do cliente vem para nós. Ah tem um novo negócio na ferramenta e a gente não sabe."
+      },
+      {
+        "startTime": 629,
+        "endTime": 629,
+        "speaker": "Bruna Soares",
+        "text": "a gente pode não saber Nossa que"
+      },
+      {
+        "startTime": 629,
+        "endTime": 643,
+        "speaker": "Diego Diehl",
+        "text": "Eu nem acompanho o tom de perto, na verdade, sabe é tanto de plora tanta coisa. Tipo que eu não acompanho. Mas é uma falha minha e provavelmente nesse sentido. Legal, talvez aproveitar algum. Não sei depois eu pergunto para o Marcelo se"
+      },
+      {
+        "startTime": 643,
+        "endTime": 643,
+        "speaker": "Alejandro Olchik",
+        "text": "show"
+      },
+      {
+        "startTime": 648,
+        "endTime": 669,
+        "speaker": "Diego Diehl",
+        "text": "dá para não sei se Tudo isso ele deve ter mais temas, né? Se for os 10 minutos iniciais assim daria para eu queria participar um dia para Para ver como é que faz ou só ver gravado também para pegar a ideia Marcelo tem bastante experiência de produto. Org e tal, eu não tenho tanto."
+      },
+      {
+        "startTime": 672,
+        "endTime": 683,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que na companhia mais pontuar né? Pessoal faz entrega. Se quiser desdobrar ela por treinamento interno nas áreas não vai ser na Company. Vou ter que pegar a sua e fazer esse algo mais específico."
+      },
+      {
+        "startTime": 688,
+        "endTime": 689,
+        "speaker": "Diego Diehl",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 689,
+        "endTime": 692,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos fechar vamos fechar a data da próxima, pode ser?"
+      },
+      {
+        "startTime": 694,
+        "endTime": 838,
+        "speaker": "Diego Diehl",
+        "text": "né? Talvez era de produto. Não sei como é que vocês vem, eles queria saber mesmo. Porque para mim é algo gritante assim."
+      },
+      {
+        "startTime": 838,
+        "endTime": 846,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu coloquei esse esse assunto de como um épico ali que seria um Épico de divulgação de funcionalidades."
+      },
+      {
+        "startTime": 847,
+        "endTime": 850,
+        "speaker": "Diego Diehl",
+        "text": "A boa daí eu enriqueço lá então perfeito."
+      },
+      {
+        "startTime": 851,
+        "endTime": 853,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que eu acho que tem um papel Claro de"
+      },
+      {
+        "startTime": 854,
+        "endTime": 855,
+        "speaker": "Diego Diehl",
+        "text": "Só que daí é deve desenvolver a divulgação de funcionalidades."
+      },
+      {
+        "startTime": 855,
+        "endTime": 893,
+        "speaker": "Eduardo Stringhini",
+        "text": "seria um bom case para a gente fazer um barulho a gente lançar."
+      },
+      {
+        "startTime": 893,
+        "endTime": 914,
+        "speaker": "Diego Diehl",
+        "text": "Né o eda que a gente fez pode ser um Case já já tá no ar a gente pode fazer barulho no Face. Mas show eu acho que é por aí, eu só tava olhando mais como conhecimento de grupo de empresa de pessoas que estão dentro da companhia sendo compartilhados."
+      },
+      {
+        "startTime": 914,
+        "endTime": 926,
+        "speaker": "Diego Diehl",
+        "text": "Não exatamente uma entrega pontual externa. Tá mas é esse tema aí se você puxou lá, talvez dobra um tópico mais. aprendizagem da empresa sobre e não exatamente comunicar"
+      },
+      {
+        "startTime": 931,
+        "endTime": 969,
+        "speaker": "Alejandro Olchik",
+        "text": "oito de agosto funciona Pode ser sabia, então ficamos para 8 de agosto."
+      },
+      {
+        "startTime": 969,
+        "endTime": 978,
+        "speaker": "Beatriz Fusquino",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 978,
+        "endTime": 1024,
+        "speaker": "Alejandro Olchik",
+        "text": "Que mais algum outro tópico que vocês gostariam de incluir?"
+      },
+      {
+        "startTime": 1024,
+        "endTime": 1039,
+        "speaker": "Bruna Soares",
+        "text": "Tem tem um tópico que veio em Company que as pessoas querem saber um pouco, como é que a gente faz o mapeamento de novas incorporadoras e produtos Empreendimentos. Então vai conhecer um pouquinho mais o time de cadastro até apresentei processos, essa semana é basicamente essa apresentação, só que bem mais resumida obviamente."
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1045,
+        "speaker": "Bruna Soares",
+        "text": "Acho que dá para a gente levar para Company pessoal tem interesse de saber como é que surge os Empreendimentos."
+      },
+      {
+        "startTime": 1050,
+        "endTime": 1055,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá bom, fica tu como responsável."
+      },
+      {
+        "startTime": 1057,
+        "endTime": 1059,
+        "speaker": "Bruna Soares",
+        "text": "Sim, eu e o Rubem."
+      },
+      {
+        "startTime": 1062,
+        "endTime": 1062,
+        "speaker": "Alejandro Olchik",
+        "text": "algum outro tópico"
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1073,
+        "speaker": "Bruna Soares",
+        "text": "Depois só vocês falam o tempo de cada um."
+      },
+      {
+        "startTime": 1076,
+        "endTime": 1088,
+        "speaker": "Alejandro Olchik",
+        "text": "sim Eu acho que a ideia no máximo dois tópicos, a gente pode trabalhar tu quer o caso de vocês é mal algo mais longo, não sei se faz sentido até algo muito longo."
+      },
+      {
+        "startTime": 1088,
+        "endTime": 1103,
+        "speaker": "Bruna Soares",
+        "text": "Não exatamente a gente é pincelar trazer algumas informações, mas não entra muito no processo que na verdade é longo com sucesso, a gente ficou duas horas. Entendeu? Então é isso que eu quero saber, qual é o tempo que a gente tem para poder trazer pontuais bem resumidamente."
+      },
+      {
+        "startTime": 1104,
+        "endTime": 1106,
+        "speaker": "Alejandro Olchik",
+        "text": "É vamos na lógica também a hora sempre né? Até meia hora a gente pode"
+      },
+      {
+        "startTime": 1106,
+        "endTime": 1108,
+        "speaker": "Bruna Soares",
+        "text": "Tá beleza, tá bom."
+      },
+      {
+        "startTime": 1109,
+        "endTime": 1111,
+        "speaker": "Alejandro Olchik",
+        "text": "voltar."
+      },
+      {
+        "startTime": 1111,
+        "endTime": 1112,
+        "speaker": "Bruna Soares",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1112,
+        "endTime": 1148,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza vou deixar em aberto. algo em relação a bônus que a gente tem aqui Que ficou pendente não"
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1151,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Com vocês não. Que eu tenho que definir tem que definir com a Bia a data. Mas isso é mais"
+      },
+      {
+        "startTime": 1151,
+        "endTime": 1151,
+        "speaker": "Alejandro Olchik",
+        "text": "Nem eu."
+      },
+      {
+        "startTime": 1157,
+        "endTime": 1187,
+        "speaker": "Marcelo Rodrigues",
+        "text": "financeira a data de distribuição. e Ah só para você saberem do filho já todas as celebrações estão fixadas em moedas. Então se uma pessoa quiser dar mais ela não consegue que isso é uma das formas de fazer a contagem de celebrações. por enquanto Vai contar para a pontuação não vai ser perdido o que eu vou fazer eu vou"
+      },
+      {
+        "startTime": 1187,
+        "endTime": 1199,
+        "speaker": "Rubem Rocha",
+        "text": "O que o pessoal já tem no seu caixa, né do Philips? Vai ser resgatado vai ser entregue vai contar para a pontuação do prêmio no final do ano, como é que vai funcionar?"
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1211,
+        "speaker": "Marcelo Rodrigues",
+        "text": "estudar alguns cenários de qual a melhor forma de aproveitar essa pontuação, mas ela vai se aproveitar."
+      },
+      {
+        "startTime": 1212,
+        "endTime": 1215,
+        "speaker": "Rubem Rocha",
+        "text": "Mas você é aproveitada para premiação de valores, então aquilo já não é"
+      },
+      {
+        "startTime": 1215,
+        "endTime": 1216,
+        "speaker": "Marcelo Rodrigues",
+        "text": "para aplicação de valores"
+      },
+      {
+        "startTime": 1218,
+        "endTime": 1219,
+        "speaker": "Rubem Rocha",
+        "text": "mais resgatado em real, tá?"
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1219,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Positivo."
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1247,
+        "speaker": "Beatriz Fusquino",
+        "text": "Só para esclarecer Ruben a nossa ideia ano passado era limpada zerar, por isso que a gente não fez os sorteios, então a gente distribuiu uns três meses com todo o saldo que a gente tinha justamente para tentar limpar 2024 e 2025 já entrar nessa nova nessa nova lógica de bonificação digamos de distribuição."
+      },
+      {
+        "startTime": 1247,
+        "endTime": 1254,
+        "speaker": "Bruna Soares",
+        "text": "A pessoa ficar sempre com as moedas da vida dentro do feeds."
+      },
+      {
+        "startTime": 1254,
+        "endTime": 1270,
+        "speaker": "Beatriz Fusquino",
+        "text": "Então agora como mudou. Teoricamente no final do ano a gente pode zerar e startado zero, entendeu? Acho que não tem problema agora. Acho que a gente vai precisar manter para ter o histórico ali do início de 25. Mas de repente em dezembro a gente zera quer ficar até mais fácil para a gente controlar."
+      },
+      {
+        "startTime": 1270,
+        "endTime": 1275,
+        "speaker": "Bruna Soares",
+        "text": "É eu acho que até para galera sabe que eles ficam eu tenho enfim. Acabou olhando aquilo lá achando que aquilo lá é de agora."
+      },
+      {
+        "startTime": 1275,
+        "endTime": 1277,
+        "speaker": "Beatriz Fusquino",
+        "text": "sim exatamente"
+      },
+      {
+        "startTime": 1286,
+        "endTime": 1384,
+        "speaker": "Alejandro Olchik",
+        "text": "Vai ser ótimo, porque a gente vai acabar com depois ninguém vai me xingar que não faz o que a gente pede não tem nada para fazer."
+      },
+      {
+        "startTime": 1384,
+        "endTime": 1389,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Por mim, tudo bem."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1395,
+        "speaker": "Alejandro Olchik",
+        "text": "Então eu acho que eu acho que mas eu acho gente quem pode não sei eu tô na"
+      },
+      {
+        "startTime": 1395,
+        "endTime": 1421,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tenho três épocas aqui, só que eu confesso que eu preciso refinar melhor o pit. Eu posso Apresentar eles de forma mais geral tomar? uma chumbo e já vim com a melhorado Ele tá mais ou menos no formato que eu tinha feito há um tempo atrás, eu não cheguei a botar bem naquele formato que está estabelecido."
+      },
+      {
+        "startTime": 1423,
+        "endTime": 1428,
+        "speaker": "Diego Diehl",
+        "text": "Então não dado vai para a próxima."
+      },
+      {
+        "startTime": 1433,
+        "endTime": 1461,
+        "speaker": "Alejandro Olchik",
+        "text": "dúvida aqui, senão a gente vai. Bom, se não tiver nenhum outro para apresentar até a gente pode dar o feedback, mas eu falei o seguinte ó, o foco é trazer um pit novo modelo que a gente está propondo a pessoa tem que pegar investir um tempo é para isso que está fazendo."
+      },
+      {
+        "startTime": 1461,
+        "endTime": 1470,
+        "speaker": "Alejandro Olchik",
+        "text": "Se não vai ficar jogando coisa aqui para pegar feedback, não acho que a forma mais apropriada. Então eu priorizaria quem focou e montou um pente se não tiver ninguém para apresentar o impeach montado aí quem quiser pegar o feedback, compartilha e recebe feedback. Que que vocês Já queimou e depois a gente puxa algum tempo sobra tempo doido, pode puxar"
+      },
+      {
+        "startTime": 1470,
+        "endTime": 1494,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1494,
+        "endTime": 1498,
+        "speaker": "Alejandro Olchik",
+        "text": "feedback, pode ser? vai lá"
+      },
+      {
+        "startTime": 1501,
+        "endTime": 2344,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "do cliente consciente de exclusividade Então é isso pessoal aberto aí para críticas."
+      },
+      {
+        "startTime": 2344,
+        "endTime": 2345,
+        "speaker": "Alejandro Olchik",
+        "text": "Show vamos ao descasque, né?"
+      },
+      {
+        "startTime": 2352,
+        "endTime": 2353,
+        "speaker": "Carolina Campos",
+        "text": "Bom demais, Bruno. Parabéns aí."
+      },
+      {
+        "startTime": 2357,
+        "endTime": 2359,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "valeu"
+      },
+      {
+        "startTime": 2359,
+        "endTime": 2360,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Vamos lá então."
+      },
+      {
+        "startTime": 2360,
+        "endTime": 2360,
+        "speaker": "Alejandro Olchik",
+        "text": "perguntas"
+      },
+      {
+        "startTime": 2363,
+        "endTime": 2391,
+        "speaker": "Marcelo Rodrigues",
+        "text": "recebe todo secundário."
+      },
+      {
+        "startTime": 2391,
+        "endTime": 2439,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Hoje ela recebe todo secundários, a gente não consegue transmitir muito assim essa diferenciação de exclusividade para adação com cliente então quando ele integra a muitos dele receber só lançamento quero receber lançamentos exclusividade. Ou de repente só exclusividades. Mas eles já encaram e na realidade até para ele para o corretor honestamente não faça tanta diferença se ele é uma exclusividade secundário, ele é uma ação porque no final para ele é o mesmo né? Se é de Incorporadora ou se é de um corretor captador exclusividade acaba sendo um imóvel secundário, né? Que ele tem ali para vender na carteira dele, por isso que a gente já não faz muita essa diferenciação, porque para o corretor que tem o comprador não vai fazer muita diferença, olho ao meu ver se é uma ação ou se é uma exclusividade."
+      },
+      {
+        "startTime": 2439,
+        "endTime": 2442,
+        "speaker": "Carolina Campos",
+        "text": "Essa essa comparação é mais interna que nossa tá Marcelo para o mercado não tem tanto."
+      },
+      {
+        "startTime": 2445,
+        "endTime": 2458,
+        "speaker": "Fernando Florêncio",
+        "text": "algumas imobiliárias trabalham dessa forma, só trabalho secundários."
+      },
+      {
+        "startTime": 2458,
+        "endTime": 2648,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Porque não vamos fazer aqui para depois tem chance de dar erro para tudo que é lado. Que a integração vai entrar passando informação por cima, mas eu já tinha feito tudo organizado coisas do jeito. Eu não olharia por essa frente. Eu separei nenhuma ser mais rápido a integração é outra suportar o cadastro pela própria pessoa."
+      },
+      {
+        "startTime": 2648,
+        "endTime": 2662,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "De repente opcional para o cliente já. Olha eu quero cadastrar manual porque tem poucas e prioriza a agilidade ou não tem uma carteira grande já já tem integração. Vou seguir pela integração. ou um outro"
+      },
+      {
+        "startTime": 2668,
+        "endTime": 2669,
+        "speaker": "Alejandro Olchik",
+        "text": "Talita"
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2707,
+        "speaker": "Talita Campos",
+        "text": "a guia essa questão de curadoria dado que o cara tá cadastrando e a princípio. Ele está que é responsável por todas as informações."
+      },
+      {
+        "startTime": 2707,
+        "endTime": 2767,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "alguma pessoa. Que que acaba tendo que ter maior. Talvez até por conta dessa dessa curadoria que a gente acaba difícil de fugir também nesse caso, mas que a gente também ainda tem né na própria integração."
+      },
+      {
+        "startTime": 2767,
+        "endTime": 2774,
+        "speaker": "Talita Campos",
+        "text": "Mas você vê que algum dia a gente teria que eliminar essa parte da curadoria e tipo des padronizar os cadastros."
+      },
+      {
+        "startTime": 2774,
+        "endTime": 2776,
+        "speaker": "Carolina Campos",
+        "text": "sim"
+      },
+      {
+        "startTime": 2776,
+        "endTime": 2800,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu Olha pelo que eu vejo aqui nesse concorrente que a gente tá vendo foi tem me parece que tem tem. Funcionado bem assim e acho que eles não fazem tanta curadoria assim em termos de analisar o texto e tal. Acho que a gente consegue ter alguns criar alguns padrões assim aqui automáticos que já identificam que já informa o padrão que a gente tem."
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2803,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tem algumas formas da gente otimizar esse trabalho de curador?"
+      },
+      {
+        "startTime": 2811,
+        "endTime": 2811,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 2813,
+        "endTime": 2955,
+        "speaker": "Eduardo Stringhini",
+        "text": "feito. Para tentar otimizar esse processo depois a revisão da curadoria para depois entrar no modelo de cadastro manual. E aí sim, né? Tendo tendo a questão de curadoria resolvida e definindo o modelo de negócio. Mas eu acho que é um caminho importante aí para a gente para a gente avançar."
+      },
+      {
+        "startTime": 2955,
+        "endTime": 3010,
+        "speaker": "Carolina Campos",
+        "text": "o que eu disse é muito isso a gente tem que quebrar um pouco desse época do Bruno. São muitos mini detalhes para poder ajustar e acho que o que o Fernando vai trazer ali também vai ter uma uma importância grande aqui para poder revisar. Porque que a gente demora tanto tempo."
+      },
+      {
+        "startTime": 3010,
+        "endTime": 3016,
+        "speaker": "Diego Diehl",
+        "text": "Fernando se quiser falar antes, eu acho que você vai falar sobre Pedro trouxe, não sei pode falar."
+      },
+      {
+        "startTime": 3021,
+        "endTime": 3081,
+        "speaker": "Fernando Florêncio",
+        "text": "hoje, sei lá um texto do que é hoje em torno de 20 dias para isso que não são vista e as que são vistas geralmente demora para nos responder ainda mais aí a gente tem que esperar o cliente nos responder e depois ajustar se tiver algum erro. Isso demora um pouco mais se a gente conseguir trazer isso antes de chegar no time de integração, ele consegue encurtar muito esse tempo de entrega."
+      },
+      {
+        "startTime": 3081,
+        "endTime": 3116,
+        "speaker": "Carolina Campos",
+        "text": "sido um desejo nosso e a gente por algum motivo, a gente optou deixar com integração para fazer essa solicitação."
+      },
+      {
+        "startTime": 3116,
+        "endTime": 3180,
+        "speaker": "Fernando Florêncio",
+        "text": "parte disso. Boa parte do processo."
+      },
+      {
+        "startTime": 3180,
+        "endTime": 3939,
+        "speaker": "Diego Diehl",
+        "text": "cadastro autonomia de cadastro a gente faz no Farming no Google o lavabo ali faz em Dois palito igual videozinho da no stop ali cara dois palitos para a gente receber esses dados aí tem alguém operando e sei lá então eu tô eu saio aqui o meu feedback que eu saio."
+      },
+      {
+        "startTime": 3939,
+        "endTime": 4872,
+        "speaker": "Diego Diehl",
+        "text": "Não muito convencido nem de grana de retorno nem de que isso vai resolver o nosso problema. E nem de uma clareza de que já foi estressado internamente antes disso virar um épico para resolver e olhando os nossos dados hoje também o cluster de pequenos clientes. Não é significativo. Então, talvez a nossa grana esteja com clientes que estejam CRM então um pouco."
+      },
+      {
+        "startTime": 4872,
+        "endTime": 3531,
+        "speaker": "Diego Diehl",
+        "text": "Pesando assim, eu queria que se deve fosse desenvolvido, mas eu não chapéu aqui de feedback mesmo. Eu fico em dúvida assim sobre a prioridade real, tá?"
+      },
+      {
+        "startTime": 3531,
+        "endTime": 3542,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Bom vamos lá, eu acho que assim ó esses grandes eles já estão eles já tão migrando para concorrente vários remates já estão no concorrente chega lá, tu vai ver tem vários."
+      },
+      {
+        "startTime": 3542,
+        "endTime": 3544,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí é pelo cadastro e é pelo cadastro daí."
+      },
+      {
+        "startTime": 3545,
+        "endTime": 3553,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "A gente falou inclusive com uma Remax que está utilizando o Lead tá colocando o contato dela. O concorrente uma das que mais as que mais traz e a gente falando com elas, o"
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3554,
+        "speaker": "Diego Diehl",
+        "text": "Eu só tô ligado não digo."
+      },
+      {
+        "startTime": 3558,
+        "endTime": 3576,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Edu tava junto lá também. Ele trouxe o que que eu quero para o meu corretor. Eu quero agilidade quero facilidade para o meu corretor. O corretor não quer atrito e aí a gente por exemplo aí esse teu ponto de a de repente. A gente pediu XML antes de fechar o contrato com o cara é mais um atrito que daqui a pouco o cara vai ter dificuldade."
+      },
+      {
+        "startTime": 3576,
+        "endTime": 3583,
+        "speaker": "Alejandro Olchik",
+        "text": "Cadastrou manualmente os produtos essa pergunta a Imax. Está cadastrando manualmente os produtos."
+      },
+      {
+        "startTime": 3585,
+        "endTime": 3596,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tem a opção o que que acontece por exemplo cada corretor tem a conta dele e aí o corretor tem uma carteira lá de oito noves 10 Imóveis. Ele vai esperar 20 dias para cadastrar ou Ele vai cadastrar."
+      },
+      {
+        "startTime": 3597,
+        "endTime": 3606,
+        "speaker": "Alejandro Olchik",
+        "text": "A pergunta bem específica os clientes da nonos top azmax as que estão entrando elas estão cadastrando manualmente na nonos tops produtos."
+      },
+      {
+        "startTime": 3608,
+        "endTime": 3617,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu não tenho essa informação certa para te dar Alejandro. Mas vendo a dinâmica deles, eu acho que uma parte dele tá só que eles também."
+      },
+      {
+        "startTime": 3617,
+        "endTime": 3641,
+        "speaker": "Alejandro Olchik",
+        "text": "Para mim esse é um ponto que o Diego porque a gente tem que ver de todos esses cadastros que ela não está tendo Quantos é que estão vindo de cadastro anual, né? E quanto não porque acho que um dado super importante né do ponto de vista de levantamento, né? Se você já não fosse contar até fácil de conseguir saber para ver se efetivamente."
+      },
+      {
+        "startTime": 3641,
+        "endTime": 3644,
+        "speaker": "Alejandro Olchik",
+        "text": "É isso que tá fazendo a diferença."
+      },
+      {
+        "startTime": 3646,
+        "endTime": 3688,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Até a gente já tá já tá com a missão aqui da semana que vem a gente. Fazer algumas reuniões entrevistas de feedback com algumas dessas Remax. E aí esse é um ponto bom da gente da gente já explorar como é que eles estão fazendo esse cadastro. Como que eles estão vendo isso se está tendo impacto na decisão deles e até não comparativo de quem já tá na ordem também tá na Na nos top pegar esses pontos que estão pegando eles que eles vêm mais de vantagem lá do que aqui então, esse é um trabalho que a gente já tá fazendo até te agradeço alejando por trazer essa provocação até o Neno ali porque a gente tá conseguindo identificar isso e até trazendo para o Diego, por exemplo."
+      },
+      {
+        "startTime": 3688,
+        "endTime": 3708,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Até entendo Diego aquela questão de incorporador, olha aqueles todos aqueles redondinho e aí grande parte deles, porque em São Paulo tem mais de duas mil exclusividade, de repente um ponto que tá em outro épico que é o diferenciar dmdl a gente aproveitar para diferenciar a questão. Exclusividade. Já identificou que é um ponto que pega com incorporador também, né?"
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3728,
+        "speaker": "Diego Diehl",
+        "text": "É aquele foi de boa, tá a gente aproveitando o meu ponto foi muito do Alejandro, tá? Tipo, eu sinto falta de dados ali de fatos que é tipo. E tudo bem você p**** já apresentou o Pitt tá recebendo feedback, tá começando o trabalho de análise dos clientes. Mas é ter certeza de que ó."
+      },
+      {
+        "startTime": 3728,
+        "endTime": 3766,
+        "speaker": "Diego Diehl",
+        "text": "Falei com eles e o ponto principal é? O cadastro manual ou falei com eles ou tipo pegar mesmo da ponta ali porque não tem. Não tem muito dado do cliente em si no piti. Tá mas eu entendo que é intermediário seria muito massa assim para a gente aprovar falar cara, p**** 12 pessoas falaram isso o cara ainda o cara da Remax falou que se a gente fizer o cadastro assim, cara, eles voltam sabe um negócio que você conseguir dar uma validada num campo assim, eu não tô com certeza do campo ainda tá para te explicar nada além da tua explica."
+      },
+      {
+        "startTime": 3766,
+        "endTime": 3774,
+        "speaker": "Diego Diehl",
+        "text": "Ção nada é da ponta mesmo ainda mas daí você o Edu e a Campos vão conseguir ter essa clareza maior aí."
+      },
+      {
+        "startTime": 3780,
+        "endTime": 3821,
+        "speaker": "Eduardo Stringhini",
+        "text": "Brunoa, para a gente aprofundar tá a reunião que a gente fez ali o que eu entendi do processo interno da Remax, tá? Eles fazem um pré-cadastro mais ou menos que nem o Marcelo falou lá no sistema deles para o jurídico liberar. Ok é uma exclusividade. O contrato está certo o sistema dele está integrado com ela, não stop e o corretor, ele pode finalizar o cadastro na verdade, ele faz o cadastro no stop ali é uma é um sistema que está integrado um com o outro, tá? Então até porque é o seguinte, eles têm um outro processo lá que é a liberação de fotos que tá integrado com a pai, eu já fiz reunião com a pai também, tá então o corretor consegue finalizar o cadastro, ela não stop."
+      },
+      {
+        "startTime": 3821,
+        "endTime": 3851,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então, teria que entender um pouco melhor isso aí, né? Tem uma trava que é o jurídico liberar primeiro. E depois Esse é o primeiro ponto acho que a gente tem que aprofundar para ver se eles estão utilizando muito cadastro manual dentro da Remax, tá se são diferencial. Eu sei que não é 100% manual tem que ter algum cadastro dentro da remate para o jurídico liberar agora pode completar o cadastro aí tá? segundo ponto A gente tá falando de Remax aqui, mas a Remax já fez uma parceria extremamente forte com nosso top."
+      },
+      {
+        "startTime": 3851,
+        "endTime": 3887,
+        "speaker": "Eduardo Stringhini",
+        "text": "Talvez não tenha coisa que a gente venha fazer que vai tirar a mão no saldo da Remax, entendeu? Já foi entendeu? Já os caras já estão há dois anos trabalhando junto e a gente perdeu o time. Entendeu? Agora nós temos que pensar para o resto dos clientes que tem exclusividade no mercado, entendeu? Então não adianta a gente só pensar não vou desenvolver porque não vai substituir a Remax, mas daí nós nunca perdeu o resto do mercado também, entendeu? Então, a gente teria que pegar um outro cliente e ver e outros clientes que não sejam Remax e vê se Que processos precisaria para a gente aumentar o volume com esses outros clientes."
+      },
+      {
+        "startTime": 3887,
+        "endTime": 3901,
+        "speaker": "Eduardo Stringhini",
+        "text": "Talvez o Remax não tenha volta mais. Talvez o arremate a única coisa que nós vamos ter que fazer é Ser também no stop não perder, entendeu? A gente tentar flexibilizar financeiramente a forma quando a gente monetiza se nós podemos perder a conta dele."
+      },
+      {
+        "startTime": 3908,
+        "endTime": 3941,
+        "speaker": "Alejandro Olchik",
+        "text": "A minha a minha hipótese tá que eu gostaria que fosse invalidada. Não tem corretor autônomo com exclusividade ou muito pouco o mercado? Que não existe. Então se existe iggs teria que poder ver isso no site deles. Empresa maior não tem como não ter o seu próprio CRM. E vai ser um parto."
+      },
+      {
+        "startTime": 3941,
+        "endTime": 3975,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem que cadastrar manual duplicado, por isso eu duruação então a minha hipótese que eu gostaria eu gostaria lá para matar ela, né? Porque é que Não rola não é um mercado potencial Interessante não vai chegar. Esse potencial de mil reais. Não se concretismo assim, eu tô olhando, né? Se tem sensibilidade em caras maiores."
+      },
+      {
+        "startTime": 3975,
+        "endTime": 3993,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí tem que tem que fazer integração funcionar. Conversamos com três ou quatro estão cadastrando as próprias exclusividades é um atrás do outro tá dizendo entendeu? Aí show bala matamos."
+      },
+      {
+        "startTime": 3997,
+        "endTime": 4070,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "É não até para trazer por exemplo, esse que eu falei essa semana ele era um corretor já tinha sido da Remax. Agora, ele tá mais autônomo. Digamos. Mas ele já tinha pego aquela cultura de captação de exclusividade que a gente sabe que realmente o corretor autônomo, ele não tem tanto essa cultura de captação, exclusividade e uma coisa que eu vejo que até comunicou me lembrou muito Diego que ele vai lá e apresenta como aproveitar a ia para apoio do corretor e tudo mais e aí que até trouxe eles fizeram um vídeo mostrando para o corretor."
+      },
+      {
+        "startTime": 4070,
+        "endTime": 4116,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Como que ele pode né utilizar as estatísticas do site ali, né? Que ele tem esse é um outro ponto que a gente tem para aperfeiçoar essa visualização das estatísticas que ele conseguia baixar essas estatísticas jogar no chat GPT e o chat GPT facilitar com todo argumentação dele para para precificação de imóvel e outro vídeo também que ele fez para argumentação."
+      },
+      {
+        "startTime": 4116,
+        "endTime": 4069,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "De captação dessa exclusividade mostrando porque que faz sentido tudo dá essa exclusividade para gente então ele eles estão de forma educacional também. Até assim trazendo sobre isso sobre essa."
+      },
+      {
+        "startTime": 4069,
+        "endTime": 4071,
+        "speaker": "Diego Diehl",
+        "text": "Me manda esses vídeos aí Bruno."
+      },
+      {
+        "startTime": 4071,
+        "endTime": 4097,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas é mais o ponto não o ponto eu acho que a gente tem que ver se isso tá dando certo se tem potencial e aí não é só o cadastro. A gente tem que educar na captação exclusividades, cadastro é um dos elementos assim, né? Teria que ter mas temos que e talvez nem seja daqui a pouco são empresas maiores que tem maior foco e uma integração."
+      },
+      {
+        "startTime": 4097,
+        "endTime": 4103,
+        "speaker": "Alejandro Olchik",
+        "text": "Tipo e de novo, eu acho que vale essa análise na integração e como encurtar buscar importar dramáticamente esse tempo de entrada do empreendimento."
+      },
+      {
+        "startTime": 4103,
+        "endTime": 4103,
+        "speaker": "Carolina Campos",
+        "text": "sim"
+      },
+      {
+        "startTime": 4105,
+        "endTime": 4167,
+        "speaker": "Alejandro Olchik",
+        "text": "E a última que eu teria no radar que se fossesse o caso é cara, a gente poderia ter um CRM parceiro que já viesse para integrado. A gente dá para o cara que não tem CRM, mas eu tô achando que não existe necessário, né? Então tô deixando isso no que ela conversa."
+      },
+      {
+        "startTime": 4167,
+        "endTime": 4139,
+        "speaker": "Alejandro Olchik",
+        "text": "Quem estava tendo né do questão de ter um parceiro, né? Eu digo Cara eu tô achando que isso é bobagem, mas eu espero estar errado."
+      },
+      {
+        "startTime": 4139,
+        "endTime": 4164,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Até assim trazendo sobre isso sobre essa questão de por exemplo ter um CRM parceiro que Facilite eu acho que a gente consegue explorar muito isso no próprio hotsite como por exemplo. Qual a provocação que eu vejo danostop? Ele não necessariamente o cara vai cadastrar uma exclusividade, ele pode cadastrar uma captação normal dele lá, só que ela não vai ser distribuída para os parceiros, ele não vai alcançar a audiência."
+      },
+      {
+        "startTime": 4164,
+        "endTime": 4187,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Mas ele tem um site customizável que ele coloca lá todas as exclusividades da região deles os Empreendimentos, por exemplo da região dele customiza o que que ele quer que esteja no hotsite dele, né? E aí eles cobram r$ 150 para ele ter esse site por exemplo. E aí o que que acontece a gente estimularia muito mais o corretor a utilizar o órgão mesmo."
+      },
+      {
+        "startTime": 4187,
+        "endTime": 4208,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Ele não tendo um CRM parceiro. Ou até mesmo tendo enfim, porque a gente não precisa ter honestamente, não precisa ter um CRM parceirão nesse sentido a gente pode explorar isso muito mais o nosso próprio hotsite, entendeu? E deixa o cara colocar lá uma exclusividade. Para ele ele utiliza o nosso hotsite para passar para o cliente dele, por exemplo."
+      },
+      {
+        "startTime": 4211,
+        "endTime": 4212,
+        "speaker": "Alejandro Olchik",
+        "text": "Que mais gente."
+      },
+      {
+        "startTime": 4213,
+        "endTime": 4231,
+        "speaker": "Carolina Campos",
+        "text": "Não acho que agora é o momento da gente conseguir levantar alguns números mais concretos ali tá Bruno. Então acho que a gente até a hora que começar a dar perdidos em alguns casos a gente já mapeia algumas informações, mas colocar porque não tinha CRM e tudo mais a gente já tem um pouquinho disso."
+      },
+      {
+        "startTime": 4231,
+        "endTime": 4237,
+        "speaker": "Carolina Campos",
+        "text": "Acho que levantar esses dados vai trazer mais consistência aqui para Para defender esse épico, mas ficou muito bom no geral."
+      },
+      {
+        "startTime": 4240,
+        "endTime": 4265,
+        "speaker": "Alejandro Olchik",
+        "text": "Aguardando uma parte eles faltam 15 minutos, né? E tá sendo cobaia Bruno. Acho que é tipo, mas já teve na no interior todo mundo que tá precisando da primeira vez está sendo né? Tá se expondo aqui tá trazendo, né? E a gente vai aprendendo o processo, né? Eu acho muito rica essa nossa conversa você poder colocar e pegar feedback e eu esquentar no processo ainda de maturação."
+      },
+      {
+        "startTime": 4265,
+        "endTime": 4301,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente vai ter que tomar cuidado para que não vire. A gente sempre vai poder criticar o projeto, né? Tipo tentar sempre vai ter alguma coisa que não funciona muito bem, né? E tem que tomar um pouco de cuidado em relação a sempre exige demais, né? Que é um alerta que eu teria, né? Não parece que é o caso agora né? Mas é o que a gente pode ter se aqui tiver uma força o que que eu sinto que nesse fórum aqui, daqui a pouco tem um projeto que intuitivamente pega muito bem para todo mundo."
+      },
+      {
+        "startTime": 4301,
+        "endTime": 4325,
+        "speaker": "Alejandro Olchik",
+        "text": "Né? E já tem uma força. Ficiente para ser um dos próximos a ser priorizado entendeu? Eu acho que esse é o termômetro que a gente vai ter que ter. Daqui a pouco tem coisas que são importantes também é óbvias, a gente está fazendo a gente está exigindo muito cuidado que também não avança que também não vai ser muito inteligência do nosso lado."
+      },
+      {
+        "startTime": 4325,
+        "endTime": 4337,
+        "speaker": "Alejandro Olchik",
+        "text": "Então o Gileno querão não a gente gastou aqui uma hora né? Praticamente conversando, né? 45 minutos. E alguém mais tinha época para apresentar hoje que teria. O Edu tinha do feedback, né?"
+      },
+      {
+        "startTime": 4338,
+        "endTime": 4350,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tenho dois mais ou menos o nível que tá o Bruno trouxe assim, mas vai ser longas, teria que apresentar bem rapidinho assim só a ideia na próxima a gente pular. Mas se alguém tem algum Prontinho assim, pode passar na frente também."
+      },
+      {
+        "startTime": 4351,
+        "endTime": 4362,
+        "speaker": "Alejandro Olchik",
+        "text": "A minha pergunta é se esse modelo, você acha que tá bom. Você acha que você não gosta mais sintético direto encolher uma rodada de feedback? Porque aqui não vamos não. Vamos conseguir processar muito rápido com esse ritmo, né?"
+      },
+      {
+        "startTime": 4369,
+        "endTime": 4389,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que como descrição ali é legal a pessoa. Acho que tá minha visão tá ali eu acho que tá longo. E aqui na descrição ali do Pet é bom para ter algo mais sólido para depois mas o pit tem que ser curto então pode ser eu não tô falando que tá errado."
+      },
+      {
+        "startTime": 4389,
+        "endTime": 4413,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o combinado foi esse atualmente mas Eu acho que como a descrição ele tem que ser longa explicar e justificar cada coisa. Eu acho que o pit em si tem que ser um consolidado disso, você põe cinco minutos assim, tipo problema é esse. E aí vê se tem dúvida se quer aprofundar para daí a gente tentar dar um volume uma vazão assim."
+      },
+      {
+        "startTime": 4413,
+        "endTime": 4426,
+        "speaker": "Diego Diehl",
+        "text": "Porque eu sinto que deu cinco minutos do Bruno ali, eu já tinha entendido é que eu talvez eu já soubesse. Antes também. Mas ali depois foi não foi não dava para condensar assim todos minha sugestão é assim."
+      },
+      {
+        "startTime": 4426,
+        "endTime": 4426,
+        "speaker": "Alejandro Olchik",
+        "text": "mais curta"
+      },
+      {
+        "startTime": 4428,
+        "endTime": 4430,
+        "speaker": "Diego Diehl",
+        "text": "De forma prática é curto, né?"
+      },
+      {
+        "startTime": 4431,
+        "endTime": 4450,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tenho uma ideia só eu por exemplo tenho quatro apps que eu considero importantes e tem nível de texto igual maior que o Bruno trouxe, tá? Então já escrito, eu acho que a gente tem que fazer uma próxima rodada dinâmica assim, ó de todo mundo botar todos os seus pets."
+      },
+      {
+        "startTime": 4450,
+        "endTime": 4502,
+        "speaker": "Eduardo Stringhini",
+        "text": "Sem aprofundar muito sem criticar muito para depois a gente entender Os Piques que precisam se aprofundados porque assim muito tem muito eu tenho quatro importantíssimos, entendeu? Fora mais uns cinco que a ideias assim meio para frente, mas esses quatro por exemplo você faz aí Épico de compartilhamento que ele pega tanto para incorporadoras quanto a possibilidades épico discordo corretor que é um assunto que tá quentíssimo com a Z2, tá? Épico de divulgação de de features de uma forma um pouco mais escalável que o Diego vem trazendo a gente desenvolve e não Não divulga, né? Não chega na ponta informação e o outro aqui eu tinha planejamento aí e a mudança da interface do menu que tem boa parte tá vinculada ao que o Bruno trouxe que eu acho que a gente tem algumas mudanças de interface do portal web."
+      },
+      {
+        "startTime": 4502,
+        "endTime": 4522,
+        "speaker": "Eduardo Stringhini",
+        "text": "Que teriam que ser priorizadas como a contratação de exclusividade, por exemplo tá muito difícil achar ali, como é que eu divulgo na faculdade outras coisas menu e tal então a minha sugestão tá é a gente fazer uma próxima rodada de épicos dinâmicos para cada um. Todo mundo traz tudo depois a gente prioriza."
+      },
+      {
+        "startTime": 4525,
+        "endTime": 4525,
+        "speaker": "Alejandro Olchik",
+        "text": "Diego"
+      },
+      {
+        "startTime": 4527,
+        "endTime": 4548,
+        "speaker": "Diego Diehl",
+        "text": "Eu ia só lembrar um ponto que achou que eu mandei no grupo da diretoria ontem. Se a gente vou jogar um problema assim, né? A gente priorizou como problema principal da empresa esse ano a comunicação com o mercado e os atritos na jornada, né? Eu acho que esse podia ser também a gente olhar para isso."
+      },
+      {
+        "startTime": 4548,
+        "endTime": 4573,
+        "speaker": "Diego Diehl",
+        "text": "Para dar um tom assim do que fazer também, né? Tipo que problema nunca vai acabar os épicos não vão acabar fiquei pensando se aconteceu algum para trás deve ter acontecido, né? Mas imagina fechar o ano que a prioridade é essa e a gente. Não virou para isso, né? Ou pode ser que vá para o ano que vem também daí não tem problema se tiver algo mais importante."
+      },
+      {
+        "startTime": 4573,
+        "endTime": 4593,
+        "speaker": "Diego Diehl",
+        "text": "Mas enfim, só me chamou atenção nessa parte da comunicação de olhar o site tal, mas daí eu não sei se não é. caminho para Mais marketing mas isso mas aquilo o teu ponto Tá mas achei boa a tua sugestão de tentar fazer um batidão todo mundo abrir a cabeça porque tá em jogo né?"
+      },
+      {
+        "startTime": 4597,
+        "endTime": 4615,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que vai ser muito difícil esse modelo. Eu acho que se tu tem dificuldades entre os quatro tudo decidir, qual é o primeiro que tem que puxar acho que já é um sinal que não é muito bom. Eu teria que poder olhar para os quatro e dizer. Esse para mim mais importante neste momento."
+      },
+      {
+        "startTime": 4615,
+        "endTime": 4649,
+        "speaker": "Alejandro Olchik",
+        "text": "Se tu não tá conseguindo porque eu acho que falta informação para poder tomar uma decisão, eu sei que talvez tu queira colocar prova, né? O que a gente pode fazer é uma um board de votação. né das pessoas jogam seus Fits ali e tem que ler antes de vir para a reunião e vota e os mais votados é que vem aqui para Né? E não vai ser apresentado aqui tudo que são a gente vai ficar uma eternidade, mas a minha recomendação é cada um puxasse um ou dois mais importantes não a sua lista inteira, né? Porque é isso não vira uma lista inteira."
+      },
+      {
+        "startTime": 4649,
+        "endTime": 4654,
+        "speaker": "Alejandro Olchik",
+        "text": "Mostra para o outro voltar da feedback, talvez não seja mais interessante. Talvez não funciona."
+      },
+      {
+        "startTime": 4656,
+        "endTime": 4703,
+        "speaker": "Talita Campos",
+        "text": "Eu lembro de ter sido comentado em relação a um octógono, né? Que tipo seria meio que uma disputa mesmo de qual seria mais importante. A ideia de explicar de stanchar esses épicos não deveria ser nessa parte do octógono tipo. Trazer mesmo igual a Bia comentou ali trazer o problema é a solução num primeiro momento para a gente entender um pouquinho assim bem resumido e daí essa parte de octógono logar mesmo a gente escolheria dois, né? Que acredita que seríamos mais interessantes e nessa parte do octógono ter essa explicação mais profunda um detalhamento maior que ajudasse a gente a melhor avisar mesmo de fato."
+      },
+      {
+        "startTime": 4703,
+        "endTime": 4712,
+        "speaker": "Eduardo Stringhini",
+        "text": "Só que eu não me comuniquei bem. Parabéns exatamente o que eu quis dizer essa ideia de todas exatamente o que eu quis dizer a gente trazer as ideias cara essas aqui são legais. Vamos deixar ela."
+      },
+      {
+        "startTime": 4714,
+        "endTime": 4733,
+        "speaker": "Talita Campos",
+        "text": "Mas aí eu concordo com o Alejandro. Acho que teria que ser um de cada pessoa a pessoa tem que eleger o mais importante dos que ela tem. E a pessoa defenderia apenas um. E aí a gente teve que escolher do lado de seis pessoas dois."
+      },
+      {
+        "startTime": 4735,
+        "endTime": 4761,
+        "speaker": "Diego Diehl",
+        "text": "Vocês por pessoa faz sentido. Pode ser que seja melhor escolher os três do Edu e os outros não. Mas essa parte da gente ler antes. Votar, qual destrinchar porque senão a gente ficar destrinchando coisa que tem pouca chance de ser priorizada. Mas essa de ler antes é legal, né? Acho que até uma cultura da Amazon isso não é?"
+      },
+      {
+        "startTime": 4763,
+        "endTime": 4794,
+        "speaker": "Alejandro Olchik",
+        "text": "O modelo que eles utilizam eles mandam deixam por escrito as pessoas dão feedback, por escrito, tá? Só que aí tem que parar para montar um pitzinho e compartilhar e receber feedback. Então para mim um octógono já é uma discussão em cima de coisas que estão com o pit que parece que tá passando a gente tá no modelo definição do que que é o Pitt, né? E qual é o expectativa de dados que a gente tá querendo trazer para poder entender um pouco melhor."
+      },
+      {
+        "startTime": 4794,
+        "endTime": 4818,
+        "speaker": "Alejandro Olchik",
+        "text": "Para poder tomar uma decisão. Em relação alguma coisa, mas eu tô por vocês pessoal. Como vocês preferiam. Acho que tem os dois modelos aqui um a gente pode montar um bode de rotação, todo mundo joga o Pitty a gente vota direto lendo aqui. Né diz mais votados aqui, vamos apresentar o outro a gente faz uma sessão onde Cada um fala a sua ideia."
+      },
+      {
+        "startTime": 4818,
+        "endTime": 4827,
+        "speaker": "Alejandro Olchik",
+        "text": "E tem que ver como é que seria não sei como vocês preferem. São as duas coisas, né que vocês. Acham que é melhor."
+      },
+      {
+        "startTime": 4830,
+        "endTime": 4831,
+        "speaker": "Diego Diehl",
+        "text": "Pode repetir as duas opções."
+      },
+      {
+        "startTime": 4833,
+        "endTime": 4862,
+        "speaker": "Alejandro Olchik",
+        "text": "Uma delas é esse lance, cada um é sei lá é um minuto por ideia. Né? E vai apresentando e a mais promissoras a gente meio que Vai explorar a outra é bota um bodyzinho de rotação, já jogo o pit aqui com um modelo e cada um pode olhar e já dá um feedback direto no Pit aqui que seria."
+      },
+      {
+        "startTime": 4862,
+        "endTime": 4862,
+        "speaker": "Alejandro Olchik",
+        "text": "como"
+      },
+      {
+        "startTime": 4862,
+        "endTime": 4876,
+        "speaker": "Eduardo Stringhini",
+        "text": "No meu exemplo aqui tá o meus quatro aqui estão com um texto. Eu não sei se as pessoas vão conseguir entender só lendo aqui ou seria melhor eu falar dois minutos sobre o que que é um minuto em um minuto. Entendeu?"
+      },
+      {
+        "startTime": 4877,
+        "endTime": 4881,
+        "speaker": "Diego Diehl",
+        "text": "É exato porque se porque se consegue falar em dois minutos não consegue"
+      },
+      {
+        "startTime": 4881,
+        "endTime": 4888,
+        "speaker": "Eduardo Stringhini",
+        "text": "Os quatro estão com terço aqui mais ou menos no molde. Foi pedido."
+      },
+      {
+        "startTime": 4888,
+        "endTime": 4891,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele não consegue ser sintético."
+      },
+      {
+        "startTime": 4895,
+        "endTime": 4900,
+        "speaker": "Diego Diehl",
+        "text": "escrever dois minutos de fala, né? E falar dá tempo."
+      },
+      {
+        "startTime": 4900,
+        "endTime": 4918,
+        "speaker": "Eduardo Stringhini",
+        "text": "A questão não é essa questão se eu consigo passar com qualidade a ideia o texto Uma coisa eu falar um minuto sobre a ideia é outra coisa eu tentar pegar uma ideia e sintetizar ela e todo mundo consiga pegar. A ideia realmente assim sabe aí querem testar que eu leio."
+      },
+      {
+        "startTime": 4918,
+        "endTime": 4919,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vamos ler um."
+      },
+      {
+        "startTime": 4919,
+        "endTime": 4921,
+        "speaker": "Diego Diehl",
+        "text": "e tem uns"
+      },
+      {
+        "startTime": 4921,
+        "endTime": 4923,
+        "speaker": "Alejandro Olchik",
+        "text": "então"
+      },
+      {
+        "startTime": 4923,
+        "endTime": 4925,
+        "speaker": "Diego Diehl",
+        "text": "vai lá"
+      },
+      {
+        "startTime": 4926,
+        "endTime": 4953,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tá vamos lá, então o da Vamos pegar esse primeiro aqui Independentes que eu acho mais importante ou não score integrado do corretor. Então o que acontece o nós estamos hoje integrando com o prm da Z2 e um dos principais pontos que tem sido desenvolvimento lá é o score do corretor que é baseado nas atividades que o corretor faz lá dentro do portal deles."
+      },
+      {
+        "startTime": 4953,
+        "endTime": 4984,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente tem a gente tem um outro dado que é a navegação do corretor e uma das etapas lá do Funil da Z2 é qualificar esse corretor que eles estão tendo um atrito muito grande pegando informação que área de trabalho que tipo de produto de trabalho. Então A ideia é que desse desses colar seria a gente montar como se fosse um LinkedIn assim é no perfil do corretor, ele começasse a atualizado."
+      },
+      {
+        "startTime": 4984,
+        "endTime": 5012,
+        "speaker": "Eduardo Stringhini",
+        "text": "O quase que um os principais produtos que ele busca, entendeu? Para a gente começar a separar ali, né? Por região por ticket por tipologia de imóvel etc. E aí a gente fazia essa integração junto com a Z2 e também puxar o que eles estão desenvolvendo lá, eles estão desenvolvendo um score baseado nas visitas no WhatsApp etc e a gente faria a junção desses dois desses dois squares."
+      },
+      {
+        "startTime": 5012,
+        "endTime": 5036,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente teria o mesmo a informação que tem no painel deles é uma soma da nossa informação com a deles e a gente também teria no nosso painel aqui a soma da informação deles com a nossa tá então com isso a gente consegue resolver. Com a Incorporadora resolver para Incorporadora a qualificação da base de corretores."
+      },
+      {
+        "startTime": 5036,
+        "endTime": 5067,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então a partir do momento que se cadastra um CPF ou um WhatsApp dentro de qualquer uma das plataformas esse corretor, né? Se ele tá navegando na hora, ele já tem o soldado atualizado. Então essa seria mais ou menos a ideia daí tá mais secado aqui, né? Tem a questão de Problemas e tal solução, mas o resumo da ideia é essa a gente apareceu mesmo que a gente tem um dado de telefone outro CPF."
+      },
+      {
+        "startTime": 5067,
+        "endTime": 5091,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu consigo dizer o que que esse controle faz da vida. Cortou é segredo de alto padrão trabalha zona sul de São Paulo. Esse corretor é zona leste trabalha tickets de outro jeito. Então, a gente teria um incentivo que que os que as incorporadoras começasse a cadastrar bases de corretores para ver o que que eu tô fazendo."
+      },
+      {
+        "startTime": 5091,
+        "endTime": 5093,
+        "speaker": "Alejandro Olchik",
+        "text": "Acho que já foi mais de um minuto, mas o que a gente faria agora."
+      },
+      {
+        "startTime": 5096,
+        "endTime": 5106,
+        "speaker": "Eduardo Stringhini",
+        "text": "Agora eu passei a ideia e o pessoal deveria ser interessante ou não faz sentido. O Bruno falou 30 minutos agora falar um minuto cinco minutos."
+      },
+      {
+        "startTime": 5106,
+        "endTime": 5130,
+        "speaker": "Diego Diehl",
+        "text": "O que eu faria agora era abrir esse Docs ou colocar tipo assim o que eu não quero entrar no crítica no que faltou né? Mas para mim eu tenho dúvidas. Talvez as outras pessoas tenham dúvidas. Né É as pessoas poderiam pôr as dúvidas de forma num mesmo tempo para não todo mundo tem que falar Cola post-it."
+      },
+      {
+        "startTime": 5130,
+        "endTime": 5152,
+        "speaker": "Diego Diehl",
+        "text": "E num próximo round o Edu já vem com essas dúvidas respondidas poderia ser uma opção, mas já era mais trabalho para pessoa que tá por exemplo o produto trouxe não. Não me traz clareza de resultado. Para mim Falta resultado falta como é que eu vou vender mais de dois lá com isso."
+      },
+      {
+        "startTime": 5152,
+        "endTime": 5156,
+        "speaker": "Diego Diehl",
+        "text": "Me dá um não precisa me responder, né? Isso não é?"
+      },
+      {
+        "startTime": 5157,
+        "endTime": 5174,
+        "speaker": "Alejandro Olchik",
+        "text": "11:31 tá não estamos chegando eu acho que vamos seguindo o mesmo padrão de apresentação e depois a gente refina tá? Qual é quando é que é o próximo encontro?"
+      },
+      {
+        "startTime": 5179,
+        "endTime": 5194,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que assim eu acho que a gente teria que Resumindo tá? Passar mais dinâmico o que cada um acha traz um ou dois mais importantes terria dois três, sei lá. Não precisa ser 40 minutos, nem precisa ser um minuto, né? Pode ser uma coisa um pouco mais assim, cara."
+      },
+      {
+        "startTime": 5194,
+        "endTime": 5198,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vamos falar um pouquinho mais calma, né? Para a gente ter esse mapa."
+      },
+      {
+        "startTime": 5198,
+        "endTime": 5246,
+        "speaker": "Alejandro Olchik",
+        "text": "O tempo na próxima vez. Então vai ser máximo 10 minutos vai ser cinco minutos de apresentação e mais 10 de feedback 15 minutos para o pit e depois passa para o próximo certo. A gente decide se vai adiante ou não. Vamos limitar em 15 minutos seguindo o mesmo modelo, mas com o tema limitação de tempo a gente vê como é que funciona a gente vai refinando a partir daí."
+      },
+      {
+        "startTime": 5246,
+        "endTime": 5222,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu vou estar fora."
+      },
+      {
+        "startTime": 5222,
+        "endTime": 5242,
+        "speaker": "Diego Diehl",
+        "text": "Tem um líder chip na próxima semana marcado na agenda dia 25 e na outra semana que é dia 1 tem um priorização de épicos. Daí eu acho que a opção é o dia 25 já na próxima semana. Que seria a reunião de liderança ou na outra dia um que a reunião de liderança tem o nome priorização de épicos."
+      },
+      {
+        "startTime": 5243,
+        "endTime": 5246,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Semana que vem é o psiquiatra."
+      },
+      {
+        "startTime": 5251,
+        "endTime": 5252,
+        "speaker": "Alejandro Olchik",
+        "text": "até o dia"
+      },
+      {
+        "startTime": 5252,
+        "endTime": 5252,
+        "speaker": "Diego Diehl",
+        "text": "Agora que eu entendi."
+      },
+      {
+        "startTime": 5255,
+        "endTime": 5261,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas toque por favor. Pode ser?"
+      },
+      {
+        "startTime": 5263,
+        "endTime": 5263,
+        "speaker": "Diego Diehl",
+        "text": "Acho bom"
+      },
+      {
+        "startTime": 5267,
+        "endTime": 5275,
+        "speaker": "Alejandro Olchik",
+        "text": "Marcelo puxa aí tá na E aí fiquem e tem reunião semana que vem sexta-feira mesmo horário."
+      },
+      {
+        "startTime": 5275,
+        "endTime": 5276,
+        "speaker": "Marcelo Rodrigues",
+        "text": "do psiquiatra"
+      },
+      {
+        "startTime": 5279,
+        "endTime": 5289,
+        "speaker": "Alejandro Olchik",
+        "text": "Ah desculpa, achei. Quer que eu cancele com ele? Eu vou mantenho, mas foi difícil eu conseguir o carro."
+      },
+      {
+        "startTime": 5290,
+        "endTime": 5291,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu não cancelaria."
+      },
+      {
+        "startTime": 5293,
+        "endTime": 5304,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele vai ser uma hora talvez menos. Tá então a próxima com o cara e depois. Quero que eu acho que eu vou ter que entrar, né?"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 230,
+    "speakers": [
+      "Alejandro Olchik",
+      "Beatriz Fusquino",
+      "Rubem Rocha",
+      "Bruna Soares",
+      "Marcelo Rodrigues",
+      "Bruno Zucchetti Rodrigues",
+      "Carolina Campos",
+      "Eduardo Stringhini",
+      "Fernando Florêncio",
+      "Diego Diehl",
+      "Talita Campos",
+      "Lais Santos Soares"
+    ],
+    "total_words_estimate": 7352,
+    "duration_start": 0,
+    "duration_end": 5304
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "687a5b5e04f0dd0013679d19",
+        "timestamp": 144,
+        "text": "Equipe não compreendeu completamente a sugestão da ferramenta de atualizações de produto.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1a",
+        "timestamp": 180,
+        "text": "Alejandro solicita contextualização sobre o que está sendo entregue no momento.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d36",
+        "timestamp": 191,
+        "text": "Reunião de segunda-feira não conta com participação universal da equipe.",
+        "topicId": "687a5b5e04f0dd0013679d0e"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1b",
+        "timestamp": 327,
+        "text": "Identificada necessidade de comunicar atualizações de produto de forma mais acessível e compreensível.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1c",
+        "timestamp": 380,
+        "text": "Equipe recebe feedback de que times gostariam de conhecer novidades do produto.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1d",
+        "timestamp": 396,
+        "text": "Equipe de CS reporta feedback positivo dos clientes sobre o produto.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1e",
+        "timestamp": 550,
+        "text": "Bruna sugere compartilhar atualizações de produto entre times durante reunião de Company.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d1f",
+        "timestamp": 614,
+        "text": "Company pode ser espaço ideal para comunicar novidades do produto para todos os times.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d20",
+        "timestamp": 672,
+        "text": "Alejandro propõe pontuar entregas na Company e potencial desdobramento em treinamentos internos.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d21",
+        "timestamp": 747,
+        "text": "Identificada necessidade de maior conexão com impacto dos produtos para sociedade.",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d22",
+        "timestamp": 850,
+        "text": "Eduardo propõe épico de divulgação de funcionalidades como estratégia de comunicação",
+        "topicId": "687a5b5e04f0dd0013679d0c"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d0f",
+        "timestamp": 1023,
+        "text": "Bruna sugere tópico sobre mapeamento de novas incorporadoras e produtos para apresentação na Company",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d10",
+        "timestamp": 1056,
+        "text": "Bruna e Rubem responsáveis por apresentar processo de surgimento de empreendimentos",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d11",
+        "timestamp": 1104,
+        "text": "Definido limite de até 30 minutos para apresentações",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d12",
+        "timestamp": 1159,
+        "text": "Celebrações fixadas em moedas, sem possibilidade de contribuições adicionais individuais",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d13",
+        "timestamp": 1247,
+        "text": "Plano de zerar saldo de moedas no final de 2025 para reiniciar sistema de bonificação",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d23",
+        "timestamp": 1448,
+        "text": "Priorizar apresentações de PITs novos com foco em investimento de tempo",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d24",
+        "timestamp": 2391,
+        "text": "Sistema atual não diferencia claramente propriedades para corretores, necessitando padronização de classificação.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d25",
+        "timestamp": 2444,
+        "text": "Algumas imobiliárias trabalham exclusivamente com imóveis secundários.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d26",
+        "timestamp": 2650,
+        "text": "Bruno sugere priorizar cadastro manual ou integração com base no tamanho da carteira de clientes",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d27",
+        "timestamp": 2692,
+        "text": "Talita destaca importância da curadoria de dados durante o cadastro",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d28",
+        "timestamp": 2767,
+        "text": "Talita e Bruno propõem otimizar processo de curadoria através de padronização e automação de cadastros.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d29",
+        "timestamp": 2852,
+        "text": "Eduardo sugere otimizar processo de curadoria antes de implementar modelo de cadastro manual",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2a",
+        "timestamp": 2954,
+        "text": "Equipe identifica necessidade de decompor épico e mitigar riscos de erros na integração de informações.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2b",
+        "timestamp": 3020,
+        "text": "Processo atual de vista demora cerca de 20 dias, com tempo adicional para resposta do cliente e ajustes.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2c",
+        "timestamp": 3179,
+        "text": "Diego expressa dúvidas sobre o retorno do investimento no processo de cadastro manual.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2d",
+        "timestamp": 3500,
+        "text": "Carolina identifica complexidade em ajustar múltiplos detalhes do projeto",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2e",
+        "timestamp": 3564,
+        "text": "Bruno destaca que solicitar XML antes de fechar contrato pode gerar atrito com corretores.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d2f",
+        "timestamp": 3650,
+        "text": "Bruno planeja realizar reuniões e entrevistas de feedback com Remax na próxima semana.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d30",
+        "timestamp": 3683,
+        "text": "Curadoria resolvida e modelo de negócio definido como próximos passos",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d31",
+        "timestamp": 3786,
+        "text": "Eduardo explica processo interno da Remax: pré-cadastro no sistema para liberação jurídica.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d32",
+        "timestamp": 3865,
+        "text": "Eduardo sugere focar em outros clientes com exclusividade, não apenas na Remax.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d33",
+        "timestamp": 4085,
+        "text": "Alejandro propõe que a estratégia inclua educação para captação de exclusividades, não só cadastro.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d34",
+        "timestamp": 4147,
+        "text": "Trazer resolução antes da equipe de integração pode reduzir significativamente o tempo de entrega.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d35",
+        "timestamp": 4191,
+        "text": "Carolina sugere fundamentar avanço do projeto com dados concretos para maior consistência.",
+        "topicId": "687a5b5e04f0dd0013679d0d"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d14",
+        "timestamp": 4440,
+        "text": "Próxima reunião terá rodada dinâmica para cada pessoa apresentar seus épicos mais importantes.",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d15",
+        "timestamp": 4625,
+        "text": "Proposta de criar board de votação onde pessoas jogam seus PITs e votam antes da reunião.",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d16",
+        "timestamp": 4717,
+        "text": "Cada pessoa deve eleger apenas um épico mais importante para discussão.",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d17",
+        "timestamp": 5199,
+        "text": "Próxima reunião limitada a 15 minutos: 5 minutos de apresentação e 10 de feedback.",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      },
+      {
+        "segmentId": "687a5b5e04f0dd0013679d18",
+        "timestamp": 5230,
+        "text": "Próxima reunião de priorização de épicos será no dia 1.",
+        "topicId": "687a5b5e04f0dd0013679d0b"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "687a5b5e04f0dd0013679d0b",
+        "order": 1,
+        "title": "Ações Acordadas e Responsabilidades",
+        "summary": ""
+      },
+      {
+        "id": "687a5b5e04f0dd0013679d0c",
+        "order": 2,
+        "title": "Comunicação e Apresentação de Produto",
+        "summary": ""
+      },
+      {
+        "id": "687a5b5e04f0dd0013679d0d",
+        "order": 3,
+        "title": "Processo de Cadastro e Integração",
+        "summary": ""
+      },
+      {
+        "id": "687a5b5e04f0dd0013679d0e",
+        "order": 4,
+        "title": "Desafios de Participação e Comunicação Interna",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 40,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "687a5b5e04f0dd0013679d0b",
+      "order": 1,
+      "title": "Ações Acordadas e Responsabilidades",
+      "summary": ""
+    },
+    {
+      "id": "687a5b5e04f0dd0013679d0c",
+      "order": 2,
+      "title": "Comunicação e Apresentação de Produto",
+      "summary": ""
+    },
+    {
+      "id": "687a5b5e04f0dd0013679d0d",
+      "order": 3,
+      "title": "Processo de Cadastro e Integração",
+      "summary": ""
+    },
+    {
+      "id": "687a5b5e04f0dd0013679d0e",
+      "order": 4,
+      "title": "Desafios de Participação e Comunicação Interna",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:47:03.679333+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:03.679333+00:00"
+}

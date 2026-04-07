@@ -1,0 +1,28 @@
+{
+  "id": "6789653dd41f42001345bf1d",
+  "happenedAt": "2025-01-16T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "marketing@portocamargo.com.br"
+    }
+  ],
+  "name": "Porto Camargo & Órulo",
+  "duration": 2625.161,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6789653dd41f42001345bf1d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "bct-xwkm-sfd"
+  }
+}

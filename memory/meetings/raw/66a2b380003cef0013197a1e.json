@@ -1,0 +1,32 @@
+{
+  "id": "66a2b380003cef0013197a1e",
+  "happenedAt": "2024-07-25T20:20:16.793Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Isaque Daniel Chaves",
+      "email": "isaque.chaves@construtorapride.com.br"
+    }
+  ],
+  "name": "Diego (Órulo) & Plataforma Pride",
+  "duration": 4643.227,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66a2b380003cef0013197a1e",
+  "template": {
+    "id": "ai-topics",
+    "label": "AI Topics"
+  },
+  "extraProperties": {
+    "conferenceId": "xjg-egfs-cdk"
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "67d16934da20890013608435",
+  "happenedAt": "2025-03-12T11:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Planning",
+  "duration": 3582.025,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67d16934da20890013608435",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ikn-pmoh-sdk"
+  }
+}

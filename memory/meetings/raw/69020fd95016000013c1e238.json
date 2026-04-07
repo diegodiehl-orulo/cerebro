@@ -1,0 +1,36 @@
+{
+  "id": "69020fd95016000013c1e238",
+  "happenedAt": "2025-10-29T13:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Paloma TI",
+      "email": "palomaarceti@gmail.com"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    }
+  ],
+  "name": "CRM",
+  "duration": 2781.815,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69020fd95016000013c1e238",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "pnc-tpqt-zpn"
+  }
+}

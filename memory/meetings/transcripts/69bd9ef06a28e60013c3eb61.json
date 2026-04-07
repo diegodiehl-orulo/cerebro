@@ -1,0 +1,696 @@
+{
+  "id": "69bd9ef3bdb9ab00136c257d",
+  "meetingId": "69bd9ef06a28e60013c3eb61",
+  "data": [
+    {
+      "startTime": 0,
+      "endTime": 460,
+      "speaker": "Diego Diehl",
+      "text": "base de 250 mil corretoras possa ver uma base atualizada dos clientes dele e que isso faz a gente indicar no final do dia que é contrata lá que você já se entrega. E aí o janela curtiu eu não tinha visto essa ferramenta é bem legal bem simples cara bem prático sem 30."
+    },
+    {
+      "startTime": 460,
+      "endTime": 1074,
+      "speaker": "Diego Diehl",
+      "text": "E aí com o Marcelo, o Marcelo tem a missão de cadastrar? Todos os lançamentos de todas as Praças que a gente tá então ele tem uma busca incessante por nova Incorporadora novo empreendimento e atrás dessa informação da forma que for apoiado máximo possível em tecnologia e o cenário ótimo para gente é Principalmente quando Incorporadora tem um CRM que tem uma tabela de fluxo de pagamento uma tabela de disponibilidade."
+    },
+    {
+      "startTime": 1074,
+      "endTime": 1670,
+      "speaker": "Diego Diehl",
+      "text": "Seja lá de que forma for e que a gente consiga se integrar por Marcelo consumir essa informação aspas em tempo real, né? Não precisa ser time mesmo. Mas que seja razoável não uma vez por mês. E aí Marcelo. O libriano chamou o Diego para a gente conversar. Eu até nem pus explicar como é que se integra porque é que precisa o que é que a gente precisa."
+    },
+    {
+      "startTime": 1670,
+      "endTime": 140,
+      "speaker": "Diego Diehl",
+      "text": "E aí cara chegou aí você dizer cara que aqui como que a gente faz apertar o botão aí e atualizar."
+    },
+    {
+      "startTime": 140,
+      "endTime": 193,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Uhum é bom, talvez aí, o Diego trouxe uma uma parte da minha missão que ela é difícil que é cadastrar todos os lançamentos das regiões que a gente atua. Mas essa é uma parte da missão a outra que eu até considero mais complexa e riven benefício da Integração é manter os dados atualizados porque Por mais que eu tenha alguma Incorporadora que ela é cadastrada comigo, mas não tu não te preocupa que todos os dias eu vou lá e vou atualizar o empreendimento não vai não é assim que funciona o que funciona mesmo, a integração é disparado e inclusive do ponto de vista dos nossos usuários os corretores são muito mais engajados e Empreendimentos integrados com sistemas das incorporadoras porque eles Confiam que aquela informação vai estar atualizada então a taxa de cliques de visualização de agendamento é muito maior nos Empreendimentos são integrados."
+    },
+    {
+      "startTime": 193,
+      "endTime": 213,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então esse é o ponto que que a gente insiste muito prazer incorporadores pessoal, vamos focar numa integração e ter parceiros que a gente possa fazer esse é o melhor cenário possível, porque é algo que é muito mais benéfico para própria Incorporadora do que para a gente mesmo. Então a gente insistir às vezes eu chego."
+    },
+    {
+      "startTime": 213,
+      "endTime": 237,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Às vezes a Incorporadora usou algum sistema que é integrado com a gente ela quer sair fora por um motivo que for eu digo para Incorporadora eu digo cara, não faz isso e eu não tô falando por mim. Eu tô falando por ti então, mas vamos lá do ponto de vista do tecnológico, eu tenho uma documentação bem detalhada que eu vou passar para vocês por e-mail."
+    },
+    {
+      "startTime": 237,
+      "endTime": 266,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Vou pegar o e-mail de quem tá na escola com vocês com Login token de acesso para vocês terem acesso às informações poderem fazer testes a nossa documentação de fato, ela é que já o link se vocês forem muito curiosos, mas eu vou mandar o mais completo. Até mesmo pelos agentes de que agora tem uma funcionalidadezinha nova ali de algumas que ajuda nós especificações e nos testes que eu ainda nem vi essa parte ainda foi um outro time que fez."
+    },
+    {
+      "startTime": 266,
+      "endTime": 291,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Mas aqui tem o nosso sistema está pronto do ponto de vista de Api para mandar informações para imobiliárias e para receber informações de sistemas de incorporadoras. Então vai ter uma sessão mais para baixo lá que eu vou depois mandar o detalhado para vocês de outros que tem tantos atualizações que podem ser feitas a nível do empreendimento quero mudar a data de lançamento que tá cadastrado naquele empreendimento."
+    },
+    {
+      "startTime": 291,
+      "endTime": 325,
+      "speaker": "Marcelo Rodrigues",
+      "text": "O cara mudou lá no imóvelmente refletiu na hora na hora e isso na hora que eu tô dizendo é assim, se vocês quiserem fazer que seja instantâneo o nosso lado está pronto para ser instantâneo, a gente gera um web Hulk que Consegue gritar lá dizendo. Pode atualizar a gente falar atualiza ou às vezes? Existe algum sistema que preferem criar as rotinas não vamos fazer uma rotina de atualização todos os dias às 8 horas da manhã para ambos os cenários o nosso sistema do ponto de vista de cá, ele tá pronto."
+    },
+    {
+      "startTime": 325,
+      "endTime": 353,
+      "speaker": "Marcelo Rodrigues",
+      "text": "O que que eu preciso e aí algumas dúvidas para saber se o sistema de vocês está pronto para isso? É que eu mais atualizável onde tem a maior dor dos usuários. Nome da unidade e geralmente é um número a unidade 201 se ela tá disponível reservada alugada fora de venda vendida o status daquela unidade área privativa dela e o preço que ela está disponível essa informação que mais dói e a principal que a gente bota."
+    },
+    {
+      "startTime": 353,
+      "endTime": 383,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Como assim isso aqui tu precisa ter. Então você tendo essa informação a gente está pronto para trabalhar em cima dessa informação que vocês têm ela nível de Epi e a outra coisa que daí eu não vou não é um impeditivo se vocês não tem a unidade não tem o status dela o preço dela é a área dela é um impeditivo para que a gente consiga fazer agora o outro que ele não é o impeditivo, mas se você estiver em facilita muito."
+    },
+    {
+      "startTime": 383,
+      "endTime": 402,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Vocês hoje possuem uma tabela de vendas gerada a partir do sistema de vocês um arquivo que mostre quais são as unidades que tem naquele empreendimento se estão disponíveis ou não que eu digo até o usuário e modo ele consegue Compartilhar esse arquivo com alguém, vocês têm esse arquivo gerado do lado de vocês."
+    },
+    {
+      "startTime": 402,
+      "endTime": 403,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Como que"
+    },
+    {
+      "startTime": 403,
+      "endTime": 431,
+      "speaker": "Gleybiony Camargo",
+      "text": "Não é uma fruta, essa é uma Filter que a gente vai liberar em breve agora que é transformar num arquivo de PDF ou Excel, né? Compartilhar eu ali, né? Com as unidades já vai vai abrir eles praticamente o seguinte torre unidade preço disponibilidade área privativa ou alguma coisa assim dá para filtrar lá essa e a gente mais é não é algo que tá longe assim algo perto de resolver."
+    },
+    {
+      "startTime": 431,
+      "endTime": 470,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Tá perfeito perfeito, porque eu digo isso, vocês tendo esse arquivo, ele é muito melhor porque ele vai ser customizado até do ponto de vista de layout da forma que vocês quiserem, porque senão eu consigo pegar as informações de unidades e eu transforma Aquilo num arquivo para colocar no empreendimento para mandar pelas integrações para as imobiliárias, mas não é um arquivo não layout que vocês vão querer, entendeu? Então eu vou mostrar aqui depois para vocês um caso de um sistema que está integrado com layout daquele sistema é um que é o que nós estamos gerando no momento porque a gente começou a Gerar o arquivo muito mais pela dor do tipo."
+    },
+    {
+      "startTime": 470,
+      "endTime": 490,
+      "speaker": "Marcelo Rodrigues",
+      "text": "O outro lado não vai querer integrar e a gente. Começou a Gerar esse arquivo, mas vocês tendo um arquivo é muito melhor tanto ponto de vista estético não só de uso e gera identidade daquela tabela também inversa aquele sistema se vocês estão desenvolvendo isso tá excelente a gente consegue também capturar esse arquivo e colocar ele para ser integrado."
+    },
+    {
+      "startTime": 490,
+      "endTime": 492,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Deixa eu pensar o que mais?"
+    },
+    {
+      "startTime": 496,
+      "endTime": 504,
+      "speaker": "Diego Diehl",
+      "text": "Eu ia só dançarzinho que cara hoje a gente sabe o CRM que as incorporadoras tem pela tabela de todos os fatores. Elas sabem então é até o negócio que eu"
+    },
+    {
+      "startTime": 504,
+      "endTime": 507,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Já era já era padrão, né?"
+    },
+    {
+      "startTime": 509,
+      "endTime": 518,
+      "speaker": "Diego Diehl",
+      "text": "no lugar de vocês investiriam um negocinho bonito, porque o cara c****** essa tabela esse incorporador já me falaram qual que é esse RM é muito louco."
+    },
+    {
+      "startTime": 518,
+      "endTime": 519,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Vou mostrar agora, mas assim quem tem padrão a nível de sistema hoje em dia"
+    },
+    {
+      "startTime": 519,
+      "endTime": 520,
+      "speaker": "Diego Menezes",
+      "text": "O marketing é o marketing."
+    },
+    {
+      "startTime": 520,
+      "endTime": 521,
+      "speaker": "Diego Diehl",
+      "text": "é"
+    },
+    {
+      "startTime": 521,
+      "endTime": 528,
+      "speaker": "Gleybiony Camargo",
+      "text": "Depois assim me compartilha algumas se tem aí, né? Manda para gente que a gente fazer melhor."
+    },
+    {
+      "startTime": 529,
+      "endTime": 535,
+      "speaker": "Diego Diehl",
+      "text": "O Marcelo é o sei lá Mauro especialista do Brasil."
+    },
+    {
+      "startTime": 537,
+      "endTime": 589,
+      "speaker": "Marcelo Rodrigues",
+      "text": "todas as tabelas tem exatamente a mesma cara um pouco nível de customização tabelas construtor de vendas tem o mesmo layout com poucos níveis de customização, então tu olha para aquilo, tu sabe essa empresa utiliza esse sistema agora quem não tem os imóveis pino Box não tem eles não tem essa funcionalidade não tem o desejo de desenvolver ela eles foi um dos motivos que nós começamos a Gerar arquivo, então, tu nunca sabe qual é Incorporadora que tá usando aquele sistema a pessoa precisa de falar que ela tá utilizando porque não existe uma interface do lado de fora de tabela de vendas eles possuem uma de espelho no ambiente online."
+    },
+    {
+      "startTime": 589,
+      "endTime": 622,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Mas é só espelho, eu só sei que a unidade 2001 tá disponível, não sei mais nada sobre a caridade então. Esse é um dos pontos entre outros sistemas. Deixa eu mostrar para vocês um exemplo. A Incorporadora yune utiliza não deixa eu começar pelo outro. Incorporadora Hype utilize o consultor de vendas a tabela dela que eu recebo do consultor de vendas é essa aqui, esse é o layout."
+    },
+    {
+      "startTime": 622,
+      "endTime": 620,
+      "speaker": "Marcelo Rodrigues",
+      "text": "é"
+    },
+    {
+      "startTime": 620,
+      "endTime": 622,
+      "speaker": "Diego Diehl",
+      "text": "Abrir outra agora tava branquinho esse preto aí."
+    },
+    {
+      "startTime": 623,
+      "endTime": 680,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Pode ser específico desse empreendimento. Esse layout ele é consultor de vendas e é um leão relativamente simples que eles fizeram e todas as tabelas do consultor de vendas hoje vão ter esse layout. Eles até tão desenvolvendo um novo layout agora e Esse é muito melhor do que eu não vi áudio porque essa informação de bastidor, mas esse aqui consultor de vendas tem esse layout anato possui um layout próprio deles também que eu já posso mostrar aqui para vocês e incorporadoras que não desculpe sistemas que não possuem layout, olha, como é a tabela da yune que utiliza o imóvel."
+    },
+    {
+      "startTime": 680,
+      "endTime": 693,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Eles não geram nós geramos no melhor MVP que nós podemos fazer para conseguir seguir com essa integração, então tem esse layout aqui."
+    },
+    {
+      "startTime": 693,
+      "endTime": 695,
+      "speaker": "Gleybiony Camargo",
+      "text": "Aí não tem condição de pagamento, né? Não tem um plano de pagamento."
+    },
+    {
+      "startTime": 696,
+      "endTime": 721,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Nada essa informação não existe dentro do imob também na parte de tabela que existe dentro do vinagre então que que o corretor o que que a gente precisa do sistema funcionar. Tá aqui ó, unidade área privativa status valor é o que tá aqui se a unidade possui Torres vocês existem o elemento torre dentro do bloco dentro do sistema de vocês."
+    },
+    {
+      "startTime": 721,
+      "endTime": 728,
+      "speaker": "Marcelo Rodrigues",
+      "text": "A gente também consegue pegar essa informação que a gente trabalha a parte é Residencial, a outra comercial tá em Torres separadas."
+    },
+    {
+      "startTime": 728,
+      "endTime": 745,
+      "speaker": "Gleybiony Camargo",
+      "text": "É todas essas informações, aí a gente tem hoje disponível também, né? A gente tem dois anos disponíveis a única coisa que você falou que a gente não tem hoje é a questão da do arquivo, mas assim é uma coisa que nós estamos fazendo, mas não é uma coisa assim que Ah nós não vamos fazer não tem"
+    },
+    {
+      "startTime": 745,
+      "endTime": 752,
+      "speaker": "Diego Menezes",
+      "text": "E também não é uma coisa assim tão complexa."
+    },
+    {
+      "startTime": 752,
+      "endTime": 771,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Houve Mob me disse eu não vou fazer. Tá bom. Não não tem condições de pagamento tem esse malefício para o corretor então do ponto de vista de usuário, onde que ele vai preferir ver a informação aqui ou numa que já tem as informações de fato."
+    },
+    {
+      "startTime": 771,
+      "endTime": 772,
+      "speaker": "Gleybiony Camargo",
+      "text": "Querendo ou não para o corretor é essa aí é mais completa."
+    },
+    {
+      "startTime": 773,
+      "endTime": 774,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Essa aqui é mais completa então."
+    },
+    {
+      "startTime": 775,
+      "endTime": 781,
+      "speaker": "Diego Menezes",
+      "text": "É a segunda página, ela é Ela é um complemento para direita ou para baixo"
+    },
+    {
+      "startTime": 781,
+      "endTime": 783,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Não é para baixo é para baixo."
+    },
+    {
+      "startTime": 783,
+      "endTime": 795,
+      "speaker": "Diego Menezes",
+      "text": "mesmo, né? Porque eu falo que até esse documento Seria melhor se fosse se fosse em paisagem, né?"
+    },
+    {
+      "startTime": 795,
+      "endTime": 798,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então condições de pagamento uma informação interessante para se ter na"
+    },
+    {
+      "startTime": 798,
+      "endTime": 801,
+      "speaker": "Diego Diehl",
+      "text": "O Marcelo por sinal eu creio que o meu não tá bugado, tá?"
+    },
+    {
+      "startTime": 811,
+      "endTime": 852,
+      "speaker": "Marcelo Rodrigues",
+      "text": "tabela o corretor usa muito essa informação e isso aqui é uma informação que a gente também já está pronto para receber Ela Caso vocês tenham na parte de api porque uma das funcionalidades que a gente tem no nosso aplicativo tem aqui também, mas o aplicativo onde ele é mais usada que é o compartilhamento da unidade o corretor Quer compartilhar aquela unidade específica a 201 com um cliente que ele tem potencial tendo essa informação aqui de integração, ela vai junto no compartilhamento da unidade por corretor saber quanto é que o cliente já receber entrada condições de financiamento de parcelamento e assim por diante."
+    },
+    {
+      "startTime": 852,
+      "endTime": 871,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então essas informações do nosso sistema já está pronto para ela receber também. Outro ponto que a gente começou é uma funcionalidade nova a gente começou a botar também nos nossos compartilhamentos, esse aqui não tem mas aquelas notas de rodapé é outra informação que a gente a gente não tinha até."
+    },
+    {
+      "startTime": 871,
+      "endTime": 874,
+      "speaker": "Gleybiony Camargo",
+      "text": "Sair de guerra é só teve gente adicionar um campo lá na tabela um campo de"
+    },
+    {
+      "startTime": 874,
+      "endTime": 889,
+      "speaker": "Marcelo Rodrigues",
+      "text": "baseado não sei o que e Será o que a gente não tinha até duas semanas atrás duas semanas que ficou pronto essa nova feature de integração, já tá na nossa documentação também. Como que ela funciona?"
+    },
+    {
+      "startTime": 893,
+      "endTime": 896,
+      "speaker": "Gleybiony Camargo",
+      "text": "observação que ele aparece aí é tranquilo."
+    },
+    {
+      "startTime": 896,
+      "endTime": 898,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Isso aí isso aí."
+    },
+    {
+      "startTime": 899,
+      "endTime": 903,
+      "speaker": "Diego Menezes",
+      "text": "É mais para ajudar o corretor, né entender, o que que é o objetivo da tabela."
+    },
+    {
+      "startTime": 903,
+      "endTime": 908,
+      "speaker": "Gleybiony Camargo",
+      "text": "Tem eu aqui vai ter que foi que eu tava olhando. Na tabela."
+    },
+    {
+      "startTime": 908,
+      "endTime": 913,
+      "speaker": "Diego Diehl",
+      "text": "Esse é da tabela mesmo."
+    },
+    {
+      "startTime": 913,
+      "endTime": 935,
+      "speaker": "Gleybiony Camargo",
+      "text": "É só lá por exemplo, quando a pessoa vai criar uma tabela nova, ela vai ter um campo lá daquela tabela específica para ela poder colocar a observação, entendeu? Seria isso né? Então aquele edital tiver criando nova lá lá na conta que aquele canto em geral configuração condicionamento vai ter um campo observações e aí ele cola lá, entendeu?"
+    },
+    {
+      "startTime": 937,
+      "endTime": 939,
+      "speaker": "Diego Diehl",
+      "text": "Tem gente que bota várias coisas, né?"
+    },
+    {
+      "startTime": 942,
+      "endTime": 955,
+      "speaker": "Gleybiony Camargo",
+      "text": "Aí voltou."
+    },
+    {
+      "startTime": 955,
+      "endTime": 956,
+      "speaker": "Diego Diehl",
+      "text": "Marcelo tá com internet aí?"
+    },
+    {
+      "startTime": 956,
+      "endTime": 968,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Eu fui não eu macro no mouse errado aqui, fechei todas as abas e cair. Essa aqui provavelmente vai ter comigo o problema."
+    },
+    {
+      "startTime": 971,
+      "endTime": 973,
+      "speaker": "Gleybiony Camargo",
+      "text": "dessa atualização do Google Chrome"
+    },
+    {
+      "startTime": 973,
+      "endTime": 999,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Pode mas eu consigo que nós estamos falando, esse aqui, ó, olha aqui, ó, cortou bem na última coluna. Chegou no extensão. Mas o que eu tô falando é o pé da página é esse aqui esse aqui quero que eu tava falando esse nível de informação que a gente também agora consegue receber ela por aí isso também vai para as nossas interfaces quando a pessoa vai visualizar também."
+    },
+    {
+      "startTime": 999,
+      "endTime": 1001,
+      "speaker": "Gleybiony Camargo",
+      "text": "legal"
+    },
+    {
+      "startTime": 1001,
+      "endTime": 1018,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Um ponto que eu acho legal que você que é muito pedido pelas pelas incorporadoras que elas possam escolher que status de unidade vão aparecer na tabela que é enviada para integração. Porque tem umas que eu quero só mandar as disponíveis. Tem umas que dizer eu"
+    },
+    {
+      "startTime": 1018,
+      "endTime": 1023,
+      "speaker": "Gleybiony Camargo",
+      "text": "Eu acho que maioria só quer mandar disponível."
+    },
+    {
+      "startTime": 1023,
+      "endTime": 1050,
+      "speaker": "Marcelo Rodrigues",
+      "text": "quero mandar tudo. E aí vem a disponível a bloqueada e é vendida. Tem outras crises, eu quero só mandar disponível e reservado, por exemplo e eles conseguem hoje selecionar lá no sistema deles, quais status de unidade, eles querem mandar para as integrações e a gente trata essa informação do lado de cá para ler de fato aquilo que é que é relevante."
+    },
+    {
+      "startTime": 1050,
+      "endTime": 1062,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então aquela outra que eu mostrei Antes aqui da Hype a gente escolheu mandar só o que tá disponível nem as reservadas, eles querem mandar. Os casos que eles querem mandar."
+    },
+    {
+      "startTime": 1062,
+      "endTime": 1073,
+      "speaker": "Diego Diehl",
+      "text": "É que às vezes últimas unidades. Daí o cara decide pôr também a ser reservadas porque o corretor fica ali sabe que cai e tal aquela história, né das últimas é sempre uma novela os últimos."
+    },
+    {
+      "startTime": 1075,
+      "endTime": 1084,
+      "speaker": "Diego Menezes",
+      "text": "Dependendo do momento também não quer colocar as que estão reservadas ou bloqueados, porque para não por corretor não ficar esperando essas unidades."
+    },
+    {
+      "startTime": 1084,
+      "endTime": 1090,
+      "speaker": "Marcelo Rodrigues",
+      "text": "exatamente Tudo isso é?"
+    },
+    {
+      "startTime": 1090,
+      "endTime": 1094,
+      "speaker": "Diego Diehl",
+      "text": "Acho que valeria sendo mostrar a tabela digital também, né?"
+    },
+    {
+      "startTime": 1097,
+      "endTime": 1125,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Deixa eu ver se eu não tô bugado porque eu tenho um ambiente teste. Servidor acho que eu vou mostrar a tabela certa para vocês. Aqui isso aqui é super novo a tabela digital que a gente criou sobre os Empreendimentos que estão cadastrados é uma forma de tentar facilitar para o corretor para ele ter só a informação básica que tá disponível."
+    },
+    {
+      "startTime": 1125,
+      "endTime": 1171,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Qual é a unidade disponível a área dela e o valor dela é que ele possa filtrar aqui digitalmente para saber o que que tá disponível. Então esse aqui que é um empreendimento integrado com consultor de vendas essa informação tá vendo lá do consultor de vendas então. A unidade 412 foi vendida na tabela digital vai registrar aquela unidade como vendida bem como vai anexar o pdf gerado pelo consultor de vendas que ou vai ter sumido essa unidade porque ele só quer que apareça nos disponíveis ou ela vai estar sinalizada como vendida também aqui foi uma forma como isso aqui é um PDF."
+    },
+    {
+      "startTime": 1171,
+      "endTime": 1239,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Ele não é filtrado não consegue trabalhar em cima da informação sem ser no olho aqui, por isso que Nós criamos aqui para que ele consiga ter um tipo melhor de daquele. Para trabalhar, tipo, eu só quero unidades que custam no máximo 600 mil. Ele já vai te filtrar para te trazer o que o tudo que tá abaixo de 600 mil conseguir trazer a opção que ele tá trazendo para o cliente dele ou quero só olhar as unidades que possuem dois quartos de lugares que possuem uma vaga isso aqui é super novo que a gente criou com essas informações ainda tem coisa que nós estamos mexendo e aqui uma Fiction que foi bom até aberto aqui porque eu não tinha me dado conta que vai aparecer as unidades metidas, vejam um pedido às vendidas tem muito Incorporadora que não quer mostrar o preço porque eles acham que é o preço de venda necessariamente."
+    },
+    {
+      "startTime": 1239,
+      "endTime": 1229,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então ela já vem ocultada por defuma. Uma coisa importante que começou a aparecer na semana passada, se eu não me engano que a gente criou esse campo aqui ó de valor promocional. Para o a Incorporadora, diga a hora, olha só essa unidade aqui na verdade tá"
+    },
+    {
+      "startTime": 1229,
+      "endTime": 1231,
+      "speaker": "Diego Diehl",
+      "text": "Isso é importante."
+    },
+    {
+      "startTime": 1234,
+      "endTime": 1264,
+      "speaker": "Marcelo Rodrigues",
+      "text": "por 611.000, mas nós estamos fazendo uma promoção agora tá por 580 isso aqui foi fora do nosso planejamento até a gente criou o valor promocional, como algo que é relevante, mas está disparando a quantidade de pessoas que estão olhando para essa coluna aqui e procurando essas oportunidades e hoje nenhum sistema ainda integrado está pronto para essa informação nova que a gente colocou aqui se vocês tiverem ela nós já estamos prontos para receber ela."
+    },
+    {
+      "startTime": 1264,
+      "endTime": 1272,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Mas nenhum sistema tem esse campo desenvolvido e ele tá chamando realmente atenção dessas informações que quando o corretor entra aqui."
+    },
+    {
+      "startTime": 1275,
+      "endTime": 1312,
+      "speaker": "Diego Diehl",
+      "text": "o contexto disso também é que Tem vários filtros e os clientes que pagam a hora não podem colocar unidades promocionais, só que as incorporadoras que tem 20 Empreendimentos 25 Empreendimentos dá para ele lá entrar e ajustar cada unidade promocional na mão que era como eles faziam. E aí com o sistema ele já bota as boi de piranha lá os a partir de para hackear o anúncio melhor, né? Porque a primeira mais barata se vem do CRM preenchido aí já ativa a nossa Fiat e que gera mais audiência do cara e o cara chora de noção, ele que dá um trabalho para ele."
+    },
+    {
+      "startTime": 1313,
+      "endTime": 1326,
+      "speaker": "Gleybiony Camargo",
+      "text": "Entendi. legal Bom tranquilo. Tem mais alguma coisa Marcelo assim específico alguma orientação técnica que a gente não pode deixar de ouvir de você."
+    },
+    {
+      "startTime": 1327,
+      "endTime": 1329,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Não mas eu vou."
+    },
+    {
+      "startTime": 1329,
+      "endTime": 1332,
+      "speaker": "Gleybiony Camargo",
+      "text": "Ah como é que funciona a questão depende de vocês, tem que gerar um token uma coisa sem criar uma conta você cria uma conta como é que funciona?"
+    },
+    {
+      "startTime": 1332,
+      "endTime": 1351,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Sim, eu vou eu vou mandar um e-mail para vocês com os links da nossa documentação em alguns já pré-direcionados, na verdade. Você é uma pessoa do meu time que vai mandar o link para vocês com o token de acesso para você, se liberado as áreas que vocês podem fazer os testes e testar."
+    },
+    {
+      "startTime": 1351,
+      "endTime": 1381,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Vamos mandar para todos vocês que também vai e que mais vai pegar vocês vão ter acesso 100% da nossa documentação para vocês até a parte. Ela é bem completa o nosso documentação e aqui do outros que onde vocês vão ter a parte de atualização de dados de empreendimentos atualização de dados de unidades específicas com até para vocês poderem fazer testes do coisa, mas esse eu mando é um e-mail bem completinho que a gente tem com os passo a passo vou trazer junto nesse meio em cópia."
+    },
+    {
+      "startTime": 1381,
+      "endTime": 1391,
+      "speaker": "Marcelo Rodrigues",
+      "text": "O nosso time técnico que também você tem alguma dúvida específica lá de uma vírgulador de um detalhe de uma consulta tem esse time também que tá pronto para ajudar."
+    },
+    {
+      "startTime": 1393,
+      "endTime": 1395,
+      "speaker": "Gleybiony Camargo",
+      "text": "Combinado perfeito."
+    },
+    {
+      "startTime": 1395,
+      "endTime": 1423,
+      "speaker": "Diego Diehl",
+      "text": "O Marcelo acho que tem um ponto adicional sim, é o feijão com arroz gente é o a tabela. mas Uma coisa que poderia ser feito Marcelo, não sei se é hoje é viável já e como mas o baby one organiza os materiais do Empreendimento no CRM. Que daí podia já ver tipo e tal e sincronizar isso aí é maravilhoso."
+    },
+    {
+      "startTime": 1423,
+      "endTime": 1431,
+      "speaker": "Diego Diehl",
+      "text": "E eu acho que aí já vai ter sobre características das unidades. E do empreendimento ou não?"
+    },
+    {
+      "startTime": 1431,
+      "endTime": 1465,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Deixa eu bater estou no empreendimento aqui, ó. Com certeza a de umidade. Zero a gente consegue fazer integração o que o sistemas mais focam de fato é na tabela. Mas eles pedem por exemplo, eu tenho existem pedidos dos clientes do consultor de vendas para que sejam integrados Materiais. Para que sejam integrados imagens entre outros pontos e esses sistemas não estão fazendo isso."
+    },
+    {
+      "startTime": 1465,
+      "endTime": 1498,
+      "speaker": "Marcelo Rodrigues",
+      "text": "Então isso é quanto mais. Quanto menos trabalho a pessoa tiver e aquela informação se replica melhora então todos esses pontos aqui nós estamos prontos para que essa integração funcione. Com sistemas de incorporadoras, por exemplo nós não temos integração nenhuma hoje rodando de imagens ou de materiais anexados book memorial descritivo entre outras coisas e é excelente nós temos isso com algum sistema."
+    },
+    {
+      "startTime": 1499,
+      "endTime": 1500,
+      "speaker": "Gleybiony Camargo",
+      "text": "melhor"
+    },
+    {
+      "startTime": 1504,
+      "endTime": 1534,
+      "speaker": "Diego Diehl",
+      "text": "Hoje uma incorporadora ela quer cadastrar o produto dela na orla e tal quanto antes às vezes ela Cadastra no lugar no cadastro em outro cadastro. Sei lá onde aí sobra com cara de parcerias mandar no meio para hora do dei foto de informação daí negócio se você vira para o cara e fala assim cara no lançamento."
+    },
+    {
+      "startTime": 1534,
+      "endTime": 1564,
+      "speaker": "Diego Diehl",
+      "text": "Se cadastrou um produto aqui. Vai duas horas vai estar cadastrado na hora na manhã do dia seguinte vai estar em 3 mil crms imobiliárias em três mil sites Imobiliários você mudar r$ 20 do preço vai atualizar tudo todos os anúncios Imobiliários tiverem divulgando o preço vai estar correto. Então esse combo aí de você falar cara."
+    },
+    {
+      "startTime": 1564,
+      "endTime": 1597,
+      "speaker": "Diego Diehl",
+      "text": "Se tiver tudo aqui comigo, eu conheço vários incorporadoras que se jogasse para ela falar cara. Você vai simplificar demais, minha vida o cara mas ele tem que alimentar outras coisas aqui por exemplo. Tá pronto no teu se o cara já tá sincronizado com tudo ainda mais que ele vai anunciar um portal aí provavelmente ele já consegue deixar a informação correta no mercado inteiro."
+    },
+    {
+      "startTime": 1599,
+      "endTime": 1615,
+      "speaker": "Gleybiony Camargo",
+      "text": "Legal, a gente pode ver o que a gente pode organizar essa linha. Acho interessante. Acho que a ideia é o seguinte, quanto mais eu evito trabalho do incorporador e evite serviço manual aqui essa intenção e quanto mais completa eu tô com o corretor e para o cliente. Acho que a promessa de vocês."
+    },
+    {
+      "startTime": 1615,
+      "endTime": 1628,
+      "speaker": "Diego Diehl",
+      "text": "Claro vai vai em Passos, né? O passo 1 é a tabela porque aqui Funda muito pouco, cara, vai adiciona já faz isso, mas como evolução é legal. Você já enxergar isso que é para cliente em capital, São Paulo, Curitiba, Porto Alegre"
+    },
+    {
+      "startTime": 1628,
+      "endTime": 1632,
+      "speaker": "Gleybiony Camargo",
+      "text": "legal"
+    },
+    {
+      "startTime": 1632,
+      "endTime": 1635,
+      "speaker": "Diego Diehl",
+      "text": "todos os capitais que a gente está estudando a fazer diferença."
+    },
+    {
+      "startTime": 1637,
+      "endTime": 1641,
+      "speaker": "Gleybiony Camargo",
+      "text": "É eu consigo mudar tudo hoje se o cara né?"
+    },
+    {
+      "startTime": 1641,
+      "endTime": 1642,
+      "speaker": "Diego Menezes",
+      "text": "Se o seu cliente subir, né?"
+    },
+    {
+      "startTime": 1643,
+      "endTime": 1677,
+      "speaker": "Gleybiony Camargo",
+      "text": "A informação o espaço eu tenho o ambiente para poder subir isso só anexando ou colocando o link eu tenho né? Agora ele mantém isso eu vou eu posso na implantação botar esse discurso do meu time. Fala cara, se você te manter isso aqui é alimentado e tiver integração. Isso aqui vai aparecer para 3 mil Imobiliários em duas horas vai estar lá e disponível e tudo esse discurso."
+    },
+    {
+      "startTime": 1677,
+      "endTime": 1691,
+      "speaker": "Gleybiony Camargo",
+      "text": "Inclusive assim, a gente seria parceria aqui eu vou fazer uma tela na apresentação só da hora. Entendeu? Cara? A hora assim vai funcionar tem essa Integração, eu vou colocar como um diferencial, né?"
+    },
+    {
+      "startTime": 1691,
+      "endTime": 1728,
+      "speaker": "Diego Diehl",
+      "text": "Coloque mesmo. E aí um último da minha parte aqui a nossa estratégia o nosso problema principal que o até o jogo falou eu ia preencher, né? E hoje Onde é que Incorporadora preenche no Google Drive que vira um dado. Zoado não dá para padronizar e tal então eu convido vocês a luta do contra o Google Drive porque se ele usa a tua ferramenta ele engaja mais louca e da tua vem para mim sucesso para nós todos."
+    },
+    {
+      "startTime": 1730,
+      "endTime": 1731,
+      "speaker": "Gleybiony Camargo",
+      "text": "Vamos ver como é que vai ser."
+    },
+    {
+      "startTime": 1731,
+      "endTime": 1747,
+      "speaker": "Diego Diehl",
+      "text": "Eu faço essa venda né? Eu falo cara. Fechou, a gente é algo mais aí."
+    },
+    {
+      "startTime": 1747,
+      "endTime": 1769,
+      "speaker": "Gleybiony Camargo",
+      "text": "Bom Beleza, então não acho é só o Marcelo agora compartilhar lá o e-mail com as informações a gente ia trazer isso aqui e aí a gente vai alinhando a questão de datas e tudo quanto a gente já quando a gente vai estar pronto para poder dar esse site aí o que precisar de mim lá o Luiz precisar da parte comercial lá e tal, né? Tem o meu time de vendas também."
+    },
+    {
+      "startTime": 1769,
+      "endTime": 1781,
+      "speaker": "Gleybiony Camargo",
+      "text": "Eu tenho que conectar não sei como é que ele vai fazer essa transição de indicação aí se você vai servir além de peixe, você vai passar o contato nosso né? Existe um número comercial, como que é geralmente?"
+    },
+    {
+      "startTime": 1785,
+      "endTime": 1803,
+      "speaker": "Diego Diehl",
+      "text": "Você que me disse que você prefere cara. O que é o recomendo mas esse tem que ver que etapa você tá né? Eu falaria assim, cara. Conheci o dono alibeoni vou te dar o contato dele. Aí você fala. Ô Fulano, vou te passar para o meu TIM ou eu te atendo eu gosto eu sei que não"
+    },
+    {
+      "startTime": 1803,
+      "endTime": 1805,
+      "speaker": "Gleybiony Camargo",
+      "text": "Pode ser?"
+    },
+    {
+      "startTime": 1805,
+      "endTime": 1812,
+      "speaker": "Diego Diehl",
+      "text": "é a gente quer fugir um pouco, né? Mas dos primeiros aí eu acho que é o melhor porque pronto estava muito bom."
+    },
+    {
+      "startTime": 1812,
+      "endTime": 1817,
+      "speaker": "Gleybiony Camargo",
+      "text": "Eu acho que faz sentido esse primeiros meses ali, pode passar para mim, você pode passar o meu contato."
+    },
+    {
+      "startTime": 1817,
+      "endTime": 1821,
+      "speaker": "Diego Diehl",
+      "text": "Isso vai dar mais segurança para usar nela também. Fala cara. Tipo assim por causa do"
+    },
+    {
+      "startTime": 1822,
+      "endTime": 1838,
+      "speaker": "Gleybiony Camargo",
+      "text": "fechou Mas os primeiros clientes das capitais aí depois você plantando bem depois multiplica. Beleza então é isso então, você já tem meu número é só você compartilhar com ele e eu vou tocando."
+    },
+    {
+      "startTime": 1839,
+      "endTime": 1842,
+      "speaker": "Diego Diehl",
+      "text": "Fazer isso já valeu gente boa sexta-feira aí para todo mundo, valeu."
+    },
+    {
+      "startTime": 1842,
+      "endTime": 1843,
+      "speaker": "Gleybiony Camargo",
+      "text": "Valeu gente"
+    },
+    {
+      "startTime": 1843,
+      "endTime": 1848,
+      "speaker": "Diego Menezes",
+      "text": "Valeu, você também abraço. Obrigado gente. Tchau. Tchau, tchau."
+    }
+  ]
+}

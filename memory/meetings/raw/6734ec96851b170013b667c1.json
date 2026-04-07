@@ -1,0 +1,44 @@
+{
+  "id": "6734ec96851b170013b667c1",
+  "happenedAt": "2024-11-13T18:15:00.000Z",
+  "invitees": [
+    {
+      "name": "Carlos Stoppa",
+      "email": "carlos@z2app.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "dado_buneder@hotmail.com"
+    },
+    {
+      "name": "Michelle Trajano",
+      "email": "michelle@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "contato@abincorporadora.com"
+    }
+  ],
+  "name": "Kickoff - AB Incorporadora",
+  "duration": 649.713,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6734ec96851b170013b667c1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "gnf-trgy-man"
+  }
+}

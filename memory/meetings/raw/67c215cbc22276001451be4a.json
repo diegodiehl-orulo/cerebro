@@ -1,0 +1,36 @@
+{
+  "id": "67c215cbc22276001451be4a",
+  "happenedAt": "2025-02-28T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "marcelocoimbra@remax.com.br"
+    },
+    {
+      "name": "Ernani Assis",
+      "email": "ernani@remax.com.br"
+    }
+  ],
+  "name": "Remax MG / Órulo",
+  "duration": 3619.773,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67c215cbc22276001451be4a",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ewb-qvby-qpz"
+  }
+}

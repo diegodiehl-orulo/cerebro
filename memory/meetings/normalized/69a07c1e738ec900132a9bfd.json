@@ -1,0 +1,42 @@
+{
+  "meeting_id": "69a07c1e738ec900132a9bfd",
+  "name": "Bitrix Órulo",
+  "happened_at": "2026-02-26T17:00:00.000Z",
+  "duration_seconds": 2028.461,
+  "duration_minutes": 33.8,
+  "organizer": {
+    "name": "Gustavo Torres",
+    "email": "gustavo.torres@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Paloma TI",
+      "email": "palomaarceti@gmail.com"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69a07c1e738ec900132a9bfd",
+  "template": {},
+  "conference_id": "bpa-zhoy-fid",
+  "transcript_status": "error",
+  "notes_status": "error",
+  "analysis_status": "ready",
+  "transcript": null,
+  "transcript_summary": null,
+  "transcript_unavailable_reason": "unexpected: Erro HTTP 403 em transcript.",
+  "notes": null,
+  "notes_summary": null,
+  "notes_unavailable_reason": "unexpected: Erro HTTP 403 em notes.",
+  "topics": [],
+  "collected_at": "2026-04-06T23:51:25.874568+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:51:25.874568+00:00"
+}

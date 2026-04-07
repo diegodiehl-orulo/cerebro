@@ -1,0 +1,36 @@
+{
+  "id": "671955c01d07bd0013df854f",
+  "happenedAt": "2024-10-23T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Natalia Lima",
+      "email": "natalia@riorealty.com.br"
+    },
+    {
+      "name": "",
+      "email": "samir@riorealty.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "RioRealty e Orulo",
+  "duration": 1671.763,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/671955c01d07bd0013df854f",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "odq-hwhm-cph"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "meeting_id": "688bc44fedb4fb001375ce0b",
+  "name": "Gustavo Mallman",
+  "happened_at": "2025-07-31T19:30:23.818Z",
+  "duration_seconds": 6.979,
+  "duration_minutes": 0.1,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [],
+  "url": "https://tldv.io/app/meetings/688bc44fedb4fb001375ce0b",
+  "template": {},
+  "conference_id": "azh-nqps-xwu",
+  "transcript_status": "available",
+  "notes_status": "unavailable",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "688bc472ea9ff60013ddee4f",
+    "meetingId": "688bc44fedb4fb001375ce0b",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 7,
+        "speaker": "Diego Diehl",
+        "text": "Cara foi my AF Decode Diego era Dedé code deixei de porque Diego Diego code e tal e aí depois vejo o meu LinkedIn. Eu postei um vídeo semana passada. Nesse negócio aí eu falei cara, eu preciso postar alguma coisa, cara. Eu gravei na hora de"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 1,
+    "speakers": [
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 47,
+    "duration_start": 0,
+    "duration_end": 7
+  },
+  "transcript_unavailable_reason": null,
+  "notes": null,
+  "notes_summary": null,
+  "notes_unavailable_reason": "notes empty or not ready",
+  "topics": [],
+  "collected_at": "2026-04-06T23:47:26.758988+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:26.758988+00:00"
+}

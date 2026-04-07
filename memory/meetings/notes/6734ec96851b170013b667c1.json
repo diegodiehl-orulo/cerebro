@@ -1,0 +1,73 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6734ef64a5967700140aadf7",
+      "timestamp": 47,
+      "text": "Carlos to review AB Incorporadora website for integration",
+      "topicId": "6734ef64a5967700140aadf4"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadf8",
+      "timestamp": 88,
+      "text": "Eduardo to share list of broker contacts for system upload",
+      "topicId": "6734ef64a5967700140aadf4"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadfb",
+      "timestamp": 172,
+      "text": "Prepare WhatsApp automation scripts for broker communications",
+      "topicId": "6734ef64a5967700140aadf5"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadfc",
+      "timestamp": 218,
+      "text": "Allocate 4 hours of WhatsApp training for license setup",
+      "topicId": "6734ef64a5967700140aadf5"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadfa",
+      "timestamp": 287,
+      "text": "Configure user teams, product settings, and partner database import",
+      "topicId": "6734ef64a5967700140aadf4"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadf9",
+      "timestamp": 325,
+      "text": "Integrate website contact form with Z2 system and WhatsApp",
+      "topicId": "6734ef64a5967700140aadf4"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadfd",
+      "timestamp": 377,
+      "text": "Schedule combined admin and manager training for Z2 platform",
+      "topicId": "6734ef64a5967700140aadf6"
+    },
+    {
+      "segmentId": "6734ef64a5967700140aadfe",
+      "timestamp": 550,
+      "text": "Plan implementation and training by next Monday",
+      "topicId": "6734ef64a5967700140aadf6"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6734ef64a5967700140aadf4",
+      "order": 1,
+      "title": "Integração de Sistemas e Plataformas",
+      "summary": "Configurar integrações entre website, sistema Z2, WhatsApp e banco de dados de parceiros"
+    },
+    {
+      "id": "6734ef64a5967700140aadf5",
+      "order": 2,
+      "title": "Comunicação e Automação com Corretores",
+      "summary": "Desenvolver scripts de automação no WhatsApp e preparar comunicação com corretores"
+    },
+    {
+      "id": "6734ef64a5967700140aadf6",
+      "order": 3,
+      "title": "Planejamento de Treinamento",
+      "summary": "Agendar treinamento combinado para administradores e gerentes na plataforma Z2"
+    }
+  ]
+}

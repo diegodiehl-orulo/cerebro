@@ -1,0 +1,1429 @@
+{
+  "meeting_id": "66a91f861774ba00136eb318",
+  "name": "Órulo <> Aline",
+  "happened_at": "2024-07-30T17:15:00.000Z",
+  "duration_seconds": 3222.479,
+  "duration_minutes": 53.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "aline.mortarimachado@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66a91f861774ba00136eb318",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "ghd-umjr-wqq",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66a91fe2ec678d0013e0f22f",
+    "meetingId": "66a91f861774ba00136eb318",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 4,
+        "speaker": "Eduardo Stringhini",
+        "text": "ela não"
+      },
+      {
+        "startTime": 4,
+        "endTime": 16,
+        "speaker": "Aline Mortari Machado",
+        "text": "Deixa eu ver. Que eu tô conectado aqui pelo cabo. Acho que agora estabiliza isso. Tudo certo. Tudo bem."
+      },
+      {
+        "startTime": 16,
+        "endTime": 38,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então Aline a gente a Carol Campos ela trabalha aqui na empresa diretora comercial. Eu sou um dos sócios da empresa fundador, o Diego é diretor também o diretor de novos negócios. E ela enviou uma mensagem no grupo da RD Station, acho que ela trabalhou pedindo indicação de alguém tinha experiência em projetos e tal."
+      },
+      {
+        "startTime": 38,
+        "endTime": 42,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí alguém Ficou ali eu não sei quem foi."
+      },
+      {
+        "startTime": 42,
+        "endTime": 46,
+        "speaker": "Aline Mortari Machado",
+        "text": "Isso foi o Nícolas passou meu contato para ela."
+      },
+      {
+        "startTime": 46,
+        "endTime": 48,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ele é seu marido."
+      },
+      {
+        "startTime": 48,
+        "endTime": 76,
+        "speaker": "Aline Mortari Machado",
+        "text": "Isso Ele trabalha na RD. E aí ele é da área de produto também. Aí até aproveitando gancho falando um pouco dela, porque que eu tô em busca dessa vaga tava conversando antes com Diego que eu atualmente eu trabalho ainda. Tô no meu vínculo anterior que é no hospital. Mas eu já tô trabalhando nessa Mudança."
+      },
+      {
+        "startTime": 76,
+        "endTime": 102,
+        "speaker": "Aline Mortari Machado",
+        "text": "Já faz um tempo, né? Então eu já fiz o curso da Record para Para produto e também já sinalizei já conversei com as minhas lideranças então da minha saída daí então, eles já já estão cientes de que eu tô buscando outra coisa que infelizmente o hospital não tinha essa área para eu estar entrando então eu passei a buscar fora."
+      },
+      {
+        "startTime": 102,
+        "endTime": 136,
+        "speaker": "Aline Mortari Machado",
+        "text": "E porque produto né? Eu escolhi com base nas atividades que eu mais gostava de fazer então ali no hospital. Eu trabalho na área de infraestrutura e o meu trabalho, ele tá muito relacionado aos diferentes demandas de infraestrutura de a parte de projetos de Novas obras também da manutenção do hospital desde das unidades em si que atendem ali o paciente as clínicas médicas até a infraestrutura de base do hospital mesmo."
+      },
+      {
+        "startTime": 136,
+        "endTime": 170,
+        "speaker": "Aline Mortari Machado",
+        "text": "Aí então no meu trabalho eu discuto com diferentes holders no sentido assim de estar conversando em contato com as diferentes pessoas levantando as diferentes necessidades e tá articulando para fazer a priorização. E também o hospital ele é um ambiente bem complexo assim multidisciplinar então eu tenho diferentes profissionais. Desde da equipe de engenharia que é o trabalho diretamente até o pessoal da ponta que presta atendimento para os pacientes, né médico enfermeiro."
+      },
+      {
+        "startTime": 170,
+        "endTime": 185,
+        "speaker": "Aline Mortari Machado",
+        "text": "médico enfermeiro. E aí então foi a partir dessas atividades que eu gostava de fazer que aí eu comecei a planejar essa mudança e vi que tinha total sentido fazer essa mudança para PM."
+      },
+      {
+        "startTime": 189,
+        "endTime": 208,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pois bom acho que vamos vamos começar um pouco mais do início assim, eu queria entender um pouco a tua história profissional assim que falou agora que tava no hospital. Entender que que exatamente o que fazia lá e se tu quiser antes que eu te fale um pouco da empresa também a gente pode falar um pouco mais sobre a aula sobre o projeto."
+      },
+      {
+        "startTime": 209,
+        "endTime": 218,
+        "speaker": "Aline Mortari Machado",
+        "text": "Ah pode ser que você comentou ali que vocês estão pensando em uma vertical. Nova para o negócio né? Mas se você puder falar um pouco mais."
+      },
+      {
+        "startTime": 218,
+        "endTime": 252,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então assim a gente é uma empresa de tecnologia, a gente atua exclusivamente o mercado imobiliário, nós somos uma uma plataforma para é mais no btb assim, a gente atende incorporadoras corretoras imobiliárias, a gente tem um serviço. Para esses atores assim do mercado e a gente no último ano a gente desenvolveu uma vertical nova que é uma informação certificação do produto que a gente tem hoje, tá? Ele é como se fosse um CRM, né? Vamos simplificar que é."
+      },
+      {
+        "startTime": 252,
+        "endTime": 278,
+        "speaker": "Eduardo Stringhini",
+        "text": "O que que faz só que em vez de ser CRM é um prm porque a gente trabalha com parceiros Imobiliários, né? E então a gente implanta um software de prm que seria um CRM. E aí tem uma questão de implantação e a gente Exatamente nessa atividade a gente precisa um pouco mais de planejamento de projeto que são plantações de dois meses três meses."
+      },
+      {
+        "startTime": 278,
+        "endTime": 287,
+        "speaker": "Eduardo Stringhini",
+        "text": "A órgão em si é um não sei quanto é conhecedora segmento de tecnologia, né? Mas a gente é um Marketplace. E enfim a gente disponibiliza para os"
+      },
+      {
+        "startTime": 287,
+        "endTime": 288,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 290,
+        "endTime": 315,
+        "speaker": "Eduardo Stringhini",
+        "text": "corretores todas as informações de imóveis novos de uma região e os corretores usam a gente como uma ferramenta de trabalho. Então a gente tem hoje mais ou menos 90 mil corretores da base, eles acessam diariamente né? Como uma ferramenta de trabalho e aí a gente tem um modelo de audiência, né? A gente tem Facebook, né? O Facebook tem também tem audiência das pessoas que usam a plataforma."
+      },
+      {
+        "startTime": 315,
+        "endTime": 338,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí ele coleta muita informação em cima disso, né? O que faz o que que A gente em cima da sua audiência, a gente gera vários modelos de negócio, a gente tem em cima da audiência do corretora a gente acaba desenvolvendo vários produtos para incorporadoras, né para imobiliárias muito baseado nesse uso, né do corretor de imóveis no mercado imobiliário."
+      },
+      {
+        "startTime": 338,
+        "endTime": 355,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí agora essa vertical, ela é uma vertical que ela ela pega essa audiência e faz uma gestão comercial dos funis de negócios deles, tá? E aí a gente tem um uma necessidade de ter um gerenciamento de projetos que são projetos um pouco mais extensos."
+      },
+      {
+        "startTime": 355,
+        "endTime": 358,
+        "speaker": "Aline Mortari Machado",
+        "text": "Ah legal legal."
+      },
+      {
+        "startTime": 359,
+        "endTime": 368,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tô com uma obra aqui tá bem barulhento até de repente, se tu quiser pegar a palavra aí porque tá bem ruim que até eu me concentrar o que eu tô falando aqui."
+      },
+      {
+        "startTime": 368,
+        "endTime": 373,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom. Você tinha você deu uma olhada na hora."
+      },
+      {
+        "startTime": 373,
+        "endTime": 375,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, eu tenho."
+      },
+      {
+        "startTime": 375,
+        "endTime": 377,
+        "speaker": "Diego Diehl",
+        "text": "E o que que você achou, entendeu?"
+      },
+      {
+        "startTime": 378,
+        "endTime": 414,
+        "speaker": "Aline Mortari Machado",
+        "text": "Até eu criei uma conta ali para acessar a plataforma e pelo site. E achei bem interessante assim o modelo eu fiquei buscando aqui por Florianópolis para ter uma noção que é onde eu moro. E então o que eu entendi assim. Digamos que a principal o principal objetivo de vocês é unir a informação e disponibilizar essa informação para os corretores e praias imobiliárias como se fosse Digamos um inventário de imóveis."
+      },
+      {
+        "startTime": 414,
+        "endTime": 417,
+        "speaker": "Diego Diehl",
+        "text": "Isso exatamente."
+      },
+      {
+        "startTime": 417,
+        "endTime": 442,
+        "speaker": "Aline Mortari Machado",
+        "text": "legal e até assistir um vídeo também de vocês aqui que quem tava apresentando falou que não se pode deixar de fazer uma venda por falta de informação então Digamos que a principal dor que vocês querem resolver disponibilizar informação para O fechamento do negócio isso né?"
+      },
+      {
+        "startTime": 442,
+        "endTime": 445,
+        "speaker": "Diego Diehl",
+        "text": "E que vídeo foi esse? Fiquei curioso agora."
+      },
+      {
+        "startTime": 445,
+        "endTime": 445,
+        "speaker": "Aline Mortari Machado",
+        "text": "Foi deixa eu te dizer aqui."
+      },
+      {
+        "startTime": 447,
+        "endTime": 455,
+        "speaker": "Diego Diehl",
+        "text": "Se estiver aberto aí me manda. É sempre legal entender o caminho de uma nova pessoa olhando a hora que ela enxerga, né?"
+      },
+      {
+        "startTime": 455,
+        "endTime": 485,
+        "speaker": "Aline Mortari Machado",
+        "text": "Já vou. encaminhar aqui aí eu achei bem bem interessante assim porque é bem Achei. Vocês são uma empresa bem debaixo de tecnologia mesmo de base tecnológica toda a base de dados do tratamento dessas informações e a disponibilidade dos produtos para os clientes."
+      },
+      {
+        "startTime": 487,
+        "endTime": 495,
+        "speaker": "Diego Diehl",
+        "text": "Que legal você. Ah que legal esse vídeo. olhar depois"
+      },
+      {
+        "startTime": 495,
+        "endTime": 498,
+        "speaker": "Eduardo Stringhini",
+        "text": "É um vídeo bem longo do Felipe. mulher."
+      },
+      {
+        "startTime": 498,
+        "endTime": 522,
+        "speaker": "Diego Diehl",
+        "text": "Que legal, Aline. Acho que dando um contexto do mercado imobiliário daí para a gente avançar um pouco. O mercado imobiliário tem gente que uma vez eu expliquei o que que a gente fazia. Que a pessoa não tava muito conectado com o mercado, ela falou nossa, mas que simples. E sim."
+      },
+      {
+        "startTime": 522,
+        "endTime": 569,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente é muito simples, né? Disponibilizar o inventário para os corretores para as imobiliárias, mas quando a gente olha para o mercado. É isso foi é uma revolução na cidade, você dá a autonomia para quem vende ter acesso, né? Não Eles não dependem só de uma incorporadora e lá mostrar que produto tem o cliente é melhor atendido porque o corretor Ele tem acesso a todos os produtos, né? Então a gente não precisa em três quatro imobiliárias para ver Quais produtos cada Imobiliária tem então é uma transformação bem grande do mercado que a gente Traz em São Paulo, é? Unânime assim todo mundo usa em Curitiba também Florianópolis é uma praça nova."
+      },
+      {
+        "startTime": 569,
+        "endTime": 598,
+        "speaker": "Diego Diehl",
+        "text": "A gente já mapeou ela toda ainda tem poucos usuários acessando a gente cresce de uma forma muito orgânica nas praças de certa forma faz um marketing digital, mas o corretor que conhece conta para o outro conta para o outro e começa a mostrar uma ferramenta extremamente o trabalho dele, né? E aí para conectar com uma vertical com a vertical nova, eu entrei especificamente para tocar essas são praticamente três verticais."
+      },
+      {
+        "startTime": 598,
+        "endTime": 618,
+        "speaker": "Diego Diehl",
+        "text": "Tá, mas a gente eu vou deixar resumido aqui mais em uma que é um sistema de gestão para as incorporadoras gerir essa relação com os parceiros que são os corretores imobiliários. E eu acho que um ponto legal de destacar é que não existe hoje, mas incorporadoras hoje fazem a gestão."
+      },
+      {
+        "startTime": 618,
+        "endTime": 645,
+        "speaker": "Diego Diehl",
+        "text": "sem. Dados sem sistema sem tecnologia é um aviso é um freestyle é um é uma meta gigante um volume de vendas enorme. Movimenta bilhões as pessoas ganham um salário bom quem trabalha lá e a gente não vê tecnologia sendo aplicada a fim de gerar mais valor gerar mais organização gerar mais métrica gerar mais dados enfim ele coisas que em crimes a gente já vê."
+      },
+      {
+        "startTime": 645,
+        "endTime": 646,
+        "speaker": "Aline Mortari Machado",
+        "text": "sim"
+      },
+      {
+        "startTime": 646,
+        "endTime": 665,
+        "speaker": "Diego Diehl",
+        "text": "Sendo aplicados quando a gente olha para esse nicho específico de mercado não existe eu trabalhei numa Incorporadora agora por último por sete anos sair para tocar esse projeto porque ele é revolucionário para o mercado. A gente tá tendo uma adesão muito grande de outro na ponta oferecendo prazer incorporadoras."
+      },
+      {
+        "startTime": 665,
+        "endTime": 687,
+        "speaker": "Diego Diehl",
+        "text": "A gente ofereceu para mais ou menos 20. Até agora nenhuma não quis muitas estão seguindo. Então tá sendo um projeto. Extremamente promissor que agora que a gente recebeu esse feedback do mercado eu e o Edu a gente está à frente disso falando beleza? Agora a gente precisa criar toda toda uma estrutura."
+      },
+      {
+        "startTime": 687,
+        "endTime": 714,
+        "speaker": "Diego Diehl",
+        "text": "Tanto de vendas de CS de implementação de desenvolvimento do produto hoje de manhã, a gente estava numa reunião com um fornecedor específico com a relação de inteligência artificial no WhatsApp elencando prioridade backlog que desenvolve como desenvolve e a gente tem uma necessidade gigante tanto de ter uma pessoa organizando todo esse backlog."
+      },
+      {
+        "startTime": 714,
+        "endTime": 739,
+        "speaker": "Diego Diehl",
+        "text": "Priorizando tirando obstáculo dos times conectando os times, né? Porque tem o fornecedor de CRM que é do grupo sangue que é um concorrente da totus. Ali que é um fornecedor tem um outro WhatsApp tem a órgão então eu dou a gente tá fazendo uma lambarismo aquele conectar essas partes a gente tirou MVP do bolso ali, o Edu tirou um ano."
+      },
+      {
+        "startTime": 739,
+        "endTime": 764,
+        "speaker": "Diego Diehl",
+        "text": "Aí a gente validou teve uma validação no mercado. E a gente tá bem otimista, então a gente está procurando essa pessoa aí que no começo. Enfim, a gente tá a gente tem várias várias cadeiras, né? E uma principal agora que eu tô jogando cliente para dentro. A gente tem o trabalho de implementar então digerir os projetos de implementação."
+      },
+      {
+        "startTime": 764,
+        "endTime": 781,
+        "speaker": "Diego Diehl",
+        "text": "Conseguiu ouvir essas pessoas e ver o que que precisa melhorar para o produto continuar desenvolvendo o produto e começar a escalar os times para criar e uma. É praticamente uma empresa, né uma vertical nova dentro da hora e a gente nasce já com praticamente 2 mil clientes na base."
+      },
+      {
+        "startTime": 781,
+        "endTime": 809,
+        "speaker": "Diego Diehl",
+        "text": "Que são os clientes da órgão então a gente de certa forma tem tido um carque muito baixo, porque cara fazer um mandar uma mensagem marcar uma reunião e a gente já tem os contatos, ele já conhece a órgão. Então esse é o cenário Geral do mercado. Para fazer uma parte de venda também, né? Tipo onde é que você tá? Fazendo uma entrevista é isso? Tem um oceano azul tem pouca estrutura a Orlando já tem praticamente 10 anos é bem conhecido no mercado."
+      },
+      {
+        "startTime": 809,
+        "endTime": 816,
+        "speaker": "Diego Diehl",
+        "text": "Tá com uma tecnologia robusta aí naquela vertical e a gente tá vendo com essa nova vertical. Claro nossa parte."
+      },
+      {
+        "startTime": 816,
+        "endTime": 821,
+        "speaker": "Aline Mortari Machado",
+        "text": "sim, muito legal bem desafiador e mas"
+      },
+      {
+        "startTime": 821,
+        "endTime": 823,
+        "speaker": "Diego Diehl",
+        "text": "Sim, aí eu queria te fazer uma"
+      },
+      {
+        "startTime": 824,
+        "endTime": 830,
+        "speaker": "Aline Mortari Machado",
+        "text": "ao mesmo tempo também bem interessante assim, né? Um Desafio muito legal."
+      },
+      {
+        "startTime": 833,
+        "endTime": 863,
+        "speaker": "Diego Diehl",
+        "text": "voltando para o ponto do Eduardo. Eu acho que é interessante para a gente te conhecer um pouco como histórico é interessante. Talvez faça alguma pergunta ali no teu histórico. Como foi que se aplicar para entender teu background mesmo. E aí também é interessante para a gente principalmente entender. O que é que você almeja mesmo? Assim que você Você tem quantos anos hoje?"
+      },
+      {
+        "startTime": 863,
+        "endTime": 865,
+        "speaker": "Aline Mortari Machado",
+        "text": "Eu tenho 31."
+      },
+      {
+        "startTime": 865,
+        "endTime": 876,
+        "speaker": "Diego Diehl",
+        "text": "31 já não já já chega no nível de maturidade em que a gente sabe umas coisas que a gente gosta outras que a gente não gosta caminhando ali para decisão que você falou de mudança, né?"
+      },
+      {
+        "startTime": 876,
+        "endTime": 876,
+        "speaker": "Aline Mortari Machado",
+        "text": "isso"
+      },
+      {
+        "startTime": 876,
+        "endTime": 891,
+        "speaker": "Diego Diehl",
+        "text": "Então queria. Conversar um pouquinho sobre esses dois pontos talvez começando pela tua história mesmo pode ser nascer o que você fez faculdade, pode ser uma parte mais resumida outra um pouco mais detalhado. aí."
+      },
+      {
+        "startTime": 894,
+        "endTime": 905,
+        "speaker": "Aline Mortari Machado",
+        "text": "Maria no Rio Grande do Sul, até eu vi que o Eduardo estudou na Antônio Meneghetti, né? Eduardo? Tava olhando ali pelo LinkedIn. Que é?"
+      },
+      {
+        "startTime": 906,
+        "endTime": 916,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu fiz uma especialização ali após tô no segundo. Na verdade. Estou no segundo ponto depois se puder me dar quem conhece ali da doutora é bem perto, né?"
+      },
+      {
+        "startTime": 917,
+        "endTime": 967,
+        "speaker": "Aline Mortari Machado",
+        "text": "Legal, é eu conheço um pouco ali eu na verdade, eu fiz a faculdade lá na Federal de Santa Maria minha administração. Aí depois que eu saí de lá eu trabalhei um tempo em Curitiba. E depois eu vim para Florianópolis, que onde eu tô desde 2018. E na época eu acabei fazendo concurso público, né? Eu trabalhei lá no governo do estado do Paraná por um tempo lá, eu trabalhava na parte de atendimento ao cliente relacionado a parte de tratamento de pacientes fora do domicílio então relacionado a logística de transporte e hotelaria desses pacientes e depois eu vim para flo."
+      },
+      {
+        "startTime": 967,
+        "endTime": 993,
+        "speaker": "Aline Mortari Machado",
+        "text": "Própolis eu na época eu tinha falando assim bem numa perspectiva mais do que que me motivou, né? Eu tinha muito a vontade de ter o meu espaço assim, meu dinheiro também as minhas coisas e na época eu vi no concurso como uma possibilidade, mas ao mesmo tempo eu sabia que não seria algo que eu seguiria nessa."
+      },
+      {
+        "startTime": 993,
+        "endTime": 1022,
+        "speaker": "Aline Mortari Machado",
+        "text": "Nessa carreira para sempre e então eu comecei no Hospital Universitário aqui da UFS que é onde eu ainda estou atualmente. E lá eu trabalho na área de logística infraestrutura principalmente na área de infraestrutura. Relacionada com a parte de projetos é um projeto de novas obras reformas também de manutenção."
+      },
+      {
+        "startTime": 1022,
+        "endTime": 1045,
+        "speaker": "Aline Mortari Machado",
+        "text": "e Em 2020 acho que foi um dos períodos assim que foi bem divisor de águas para mim na minha carreira que foi quando começou a pandemia. E eu já trabalhava lá no hospital e eu pude trabalhar na estruturação de nosso planejamento ali para como é que a gente enfrentar esse período."
+      },
+      {
+        "startTime": 1045,
+        "endTime": 1085,
+        "speaker": "Aline Mortari Machado",
+        "text": "Aí lá eu participei do comitê de crise como as ações referentes a infraestrutura então foi um período aí que a gente tava tomando as decisões e colocando as ações em práticas praticamente simultânea. Então foi algo assim bem desafiador, mas que eu consegui me desenvolver muito como profissional. Que a capacidade aí de negociação argumentação que a gente tá falando aí de recursos escassos não só a questão financeira, mas também do tempo para conseguir implementar."
+      },
+      {
+        "startTime": 1085,
+        "endTime": 1123,
+        "speaker": "Aline Mortari Machado",
+        "text": "E a gente teve um resultado bem bem positivo ali no hospital depois desse período e até que foi algo que me instigou a fazer o mestrado também que eu fiz no mestrado em administração aqui na UFSC. E mas na linha de pesquisa de riscos organizacionais. E mas aí eu senti assim que tava na hora de eu partir para o próximo para a próxima etapa da minha carreira e pensar numa perspectiva mais de carreira mesmo ali."
+      },
+      {
+        "startTime": 1123,
+        "endTime": 1161,
+        "speaker": "Aline Mortari Machado",
+        "text": "O Hospital já não tinha o espaço para eu me desenvolver da forma como eu planejo. Que que quando a gente fala de concurso tem uma perspectiva ali muito limitada de movimentação. Se eu quisesse partir para um cargo de liderança, por exemplo. Já ia entrar. outras questões envolvidas de Relacionamento com eleição de reitor umas questões assim que eu acho que daí fugia um pouco da meritocracia que é o que eu tô buscando."
+      },
+      {
+        "startTime": 1161,
+        "endTime": 1194,
+        "speaker": "Aline Mortari Machado",
+        "text": "E aí eu comecei amadurecer essa ideia de ir para PM, né? Com base nas atividades que eu já gostava de fazer né de gestão de projeto. de relacionamento com vocês a parte de priorização também e até mesmo de Dessa eu diria assim da capacidade de lidar com pressão também tem situações bem críticas no hospital que precisam de uma resposta."
+      },
+      {
+        "startTime": 1194,
+        "endTime": 1202,
+        "speaker": "Aline Mortari Machado",
+        "text": "Imediata e ao longo desse período dessa jornada de seis anos eu pude estar desenvolvendo ali."
+      },
+      {
+        "startTime": 1203,
+        "endTime": 1215,
+        "speaker": "Diego Diehl",
+        "text": "Aline você falou que tá buscando meritocracia, o que que para você significa meritocracia aplicada na prática assim que está buscando nessa nesse contexto."
+      },
+      {
+        "startTime": 1216,
+        "endTime": 1251,
+        "speaker": "Aline Mortari Machado",
+        "text": "É porque ali. No hospital em específico por exemplo para eu assumir um cargo de liderança ou alguma outra área tinha uma unidade lá que eu achava muito legal que era da área de saúde para implementar o teleatendimento. Aí eu fui para a Seleção. E tinha outra outro candidato que tava concorrendo comigo, só que ele trabalhou na eleição da Reitoria, sabe? E aí consequentemente a Reitoria que venceu indicou superintendente que também estava participando da seleção."
+      },
+      {
+        "startTime": 1251,
+        "endTime": 1286,
+        "speaker": "Aline Mortari Machado",
+        "text": "E acabou de certa forma escolhendo tendo um peso maior nisso, sabe aí então eu não acho eu não consigo visualizar. Como eu crescer lá dentro, se eu não vou ver se politicamente também nessa questão, sabe? Então foi algo que pesou na minha decisão, né? Eu vejo meritocracia nessa questão assim que aí a pessoa não foi escolhida necessariamente pela melhor capacidade técnica ou de softwares, mas por causa de um relacionamento sabe?"
+      },
+      {
+        "startTime": 1286,
+        "endTime": 1300,
+        "speaker": "Diego Diehl",
+        "text": "Entendi. E esse foi um eu entendi que você se candidatou uma vaga. E aí chegou na em alguma etapa que a escolha não foi tão justamente. E aproveitando esse exemplo aí que"
+      },
+      {
+        "startTime": 1300,
+        "endTime": 1301,
+        "speaker": "Aline Mortari Machado",
+        "text": "É isso."
+      },
+      {
+        "startTime": 1302,
+        "endTime": 1346,
+        "speaker": "Diego Diehl",
+        "text": "talvez tenha sido um processo que você refletiu e Pensou sobre o que que você como que você avalia a tua avaliou a tua performance nesse processo tipo todo o processo eu entendo que é seleção autoconhecimento, né? Está vendo. Se for para aí naquela linha assim mais para te conhecer de uma forma geral, o que que no processo você se sentiu mais desafiada que você viu que era uma lacuna uma necessidade de maior desenvolvimento e onde que você viu que você sabia é o teu jogo, você manda bem naquelas partes."
+      },
+      {
+        "startTime": 1346,
+        "endTime": 1396,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim começando falando primeiro das lacunas. Eu acho que aí uma lacuna. que eu tinha que eu teria que correr atrás seria referente a parte de Entendimento do negócio mesmo do dia de saúde, né? Então de mergulhar nesse aspecto técnico de entender as normativas que regem. Essa prática também me interar sobre o assunto e no sentido de mergulhar mais entender como é que os outros hospitais que implementaram implementaram que usar como benchmarking."
+      },
+      {
+        "startTime": 1396,
+        "endTime": 1421,
+        "speaker": "Aline Mortari Machado",
+        "text": "E mas também aproveitando essa lacuna. Eu acho que um ponto Positivo meu é que eu sou muito de correr atrás sabe? Eu posso não saber alguma coisa, mas eu brinco assim que eu sei aprender então eu sou aquela pessoa que que pega um assunto e destrincha para entender, qual caminho seguir o que estudar."
+      },
+      {
+        "startTime": 1421,
+        "endTime": 1427,
+        "speaker": "Diego Diehl",
+        "text": "Hoje eu não sei né, mas semana que vem eu sei eu vou atrás legal."
+      },
+      {
+        "startTime": 1427,
+        "endTime": 1467,
+        "speaker": "Aline Mortari Machado",
+        "text": "e também vendendo assim um pouco do meu peixe, eu acho que eu tenho uma boa habilidade de conseguir me comunicar com diferentes pessoas diferentes grupos assim, então eu consigo digamos lá no hospital tem a pessoa que Digamos trabalhando ali na obra e até o Enfermeiro da unidade aí então o que às vezes acontecia, né de ali algum problema de comunicação da pessoa tá fazendo um serviço digamos algo simples ali."
+      },
+      {
+        "startTime": 1467,
+        "endTime": 1502,
+        "speaker": "Aline Mortari Machado",
+        "text": "Digamos algo. Faltou água no banheiro e a pessoa vai lá fazer essa esse serviço aí às vezes não se apresentava da forma como deveria apresentar e a pessoa lá da responsável pela Unidade, não entendia daí gerava ali um certo. Atrito aí eu conseguia ter essa habilidade de conversar intermediar e tentar resolver, né? de uma forma apaziguador Porque isso é porque parece algo"
+      },
+      {
+        "startTime": 1502,
+        "endTime": 1505,
+        "speaker": "Diego Diehl",
+        "text": "comunicação então"
+      },
+      {
+        "startTime": 1507,
+        "endTime": 1526,
+        "speaker": "Aline Mortari Machado",
+        "text": "relativamente simples, né? Mas aí quando a gente fala de hospital a gente tá falando de Risco de infecção então controle de acesso é um ambiente muito mais sensível, né? Então eu costumo dizer que a limpeza de um ar condicionado, por exemplo, não é só limpeza de um ar condicionado."
+      },
+      {
+        "startTime": 1526,
+        "endTime": 1534,
+        "speaker": "Aline Mortari Machado",
+        "text": "A gente tá falando ainda da qualidade do ar do controle de umidade uma série de outras questões que implicam ali naquele paciente que tá recebendo entend."
+      },
+      {
+        "startTime": 1534,
+        "endTime": 1534,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 1534,
+        "endTime": 1543,
+        "speaker": "Aline Mortari Machado",
+        "text": "entendimento, né? O atendimento então consigo ter essa visão sistêmica do negócio. o processo"
+      },
+      {
+        "startTime": 1544,
+        "endTime": 1564,
+        "speaker": "Diego Diehl",
+        "text": "E você se destacou ali a gestão de melhorias de processos como? competência chave tua Aproveitando esse tópico que eu trouxe você pode me dar um exemplo de como que você conseguiu conciliar as expectativas. de diferentes"
+      },
+      {
+        "startTime": 1568,
+        "endTime": 1614,
+        "speaker": "Aline Mortari Machado",
+        "text": "Vamos ver. Uma questão que a gente um exemplo que me veio na cabeça agora no hospital. Por exemplo, a gente fez a reforma de uma das unidades que a urgência pediátrica. Que além do espaço tá precisando de adequação a gente tinha uma demanda também da Vigilância Sanitária que é um stakeholder? E também do Ministério Público então que foi recebido uma denúncia no Ministério Público sobre as condições aí então juntamente além das tratativas com esses stakeholders."
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1653,
+        "speaker": "Aline Mortari Machado",
+        "text": "a gente tinha as tratativas de desdobramento interno então da própria elaboração do projeto aí destrinchando isso dentro das diferentes, etapas de Contratação da obra contratação da empresa também a própria execução da obra e manter essas pessoas dentro da mesma página então. além do acompanhamento interno eu ficava responsável pelas Pela comunicação com esses outros órgãos e com a vigilância sanitária o Ministério Público de tempos em tempos tá relatando para eles."
+      },
+      {
+        "startTime": 1653,
+        "endTime": 1661,
+        "speaker": "Aline Mortari Machado",
+        "text": "Como é que tava o andamento? Como é que tava o cronograma e qual que era a previsão de término? Não sei se eu respondi a tua pergunta."
+      },
+      {
+        "startTime": 1661,
+        "endTime": 1691,
+        "speaker": "Diego Diehl",
+        "text": "Alinhando expectativas com os interessados, né importante a gente tá com uma. Necessidade a gente vai ter essa necessidade grande também de reportar para as empresas. Como é que tá o andamento de cada coisa e tal? uma sobre Essa parte de gestão de projetos né? Como Pinheiro também, você falou que fez esse curso agora."
+      },
+      {
+        "startTime": 1691,
+        "endTime": 1691,
+        "speaker": "Diego Diehl",
+        "text": "né?"
+      },
+      {
+        "startTime": 1691,
+        "endTime": 1692,
+        "speaker": "Aline Mortari Machado",
+        "text": "É isso mesmo."
+      },
+      {
+        "startTime": 1692,
+        "endTime": 1715,
+        "speaker": "Diego Diehl",
+        "text": "Como que você agora perguntando sobre ferramenta e metodologia? Quais você costuma usar para melhoria dos processos Essa gestão? De prioridade e que até você talvez acredita que poderiam ser aplicadas ao nosso projeto do PR."
+      },
+      {
+        "startTime": 1716,
+        "endTime": 1755,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, os princípios lim é algo que eu sempre tenho em mente seja não era elaboração na revisão de um processo. A metodologia além de tentar enxugar e simplificar o máximo. e para fins de Gestão de projeto e acompanhamento eu uso uma combinação de diferentes ferramentas, né e metodologias então 5w2h scrum também."
+      },
+      {
+        "startTime": 1755,
+        "endTime": 1806,
+        "speaker": "Aline Mortari Machado",
+        "text": "E também aí para produto o curso darme. Ford ele eu achei muito legal assim porque ele pega como os professores é profissionais de diferentes empresas de tecnologia, então tem profissionais da Bibi Uber trazendo ali como é que eles fazem a um processo de discovery por exemplo então o que que deu certo no né Amazon o que que não deu aí então a partir dessa metodologia que é se eu ainda não tive a oportunidade de aplicar na prática, mas ela traz por exemplo nas etapas iniciais na etapa de de discovery."
+      },
+      {
+        "startTime": 1806,
+        "endTime": 1839,
+        "speaker": "Aline Mortari Machado",
+        "text": "A gente tem que considerar a necessidade do cliente. O que vai trazer valor para o negócio e também o que vai trazer o que além do que vai trazer valor o que tá alinhado com planejamento estratégico do negócio? então tem esses três pilares, eu não posso fazer algo que que vai apenas digamos atender uma necessidade do cliente, mas não tá relacionada ao planejamento estratégico da empresa é ou a métrica relacionada a aumentar seja"
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1843,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 1843,
+        "endTime": 1846,
+        "speaker": "Aline Mortari Machado",
+        "text": "o faturamento ou indicador ou um NPS por exemplo."
+      },
+      {
+        "startTime": 1848,
+        "endTime": 1885,
+        "speaker": "Diego Diehl",
+        "text": "E Aline, me diz. Acho que continuando com a ordem, né? Você trabalha já trabalhou com essa gestão de projetos cronogramas e tals conteúdo parecido com Pietra do negócio. De eu tenho duas perguntas sobre isso. Você vamos supor me traz um caso parecido com esse que eu vou te trazer que é você estabelecer um cronograma você."
+      },
+      {
+        "startTime": 1885,
+        "endTime": 1912,
+        "speaker": "Diego Diehl",
+        "text": "Tem algumas atividades e algumas pessoas envolvidas. E aí você não tá obtendo o resultado esperado. E mais de uma parte até quando uma pessoa como que você lida com isso essa questão de liderança pelo resultado uma pessoa não tá performando. Como que você lidaria ou lidou em algum caso?"
+      },
+      {
+        "startTime": 1912,
+        "endTime": 1941,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, é uma metodologia que eu utilizo também usando o antes, né com a conversa. Com os colegas com os atores ali porque o PM apesar de não ter uma liderança formal ali digamos né? Tem uma liderança informal entre os colegas para outros pares superiores para com que as coisas aconteçam."
+      },
+      {
+        "startTime": 1941,
+        "endTime": 1982,
+        "speaker": "Aline Mortari Machado",
+        "text": "E pensando aqui em algo que não. Que não saiu como planejado. algo que que a gente está com um pouco de Digamos que é um projeto que tá demorando um pouco mais para sair é o nosso programa de eficiência energética que esse é um trabalho que a gente está desenvolvendo junto com engenheiro eletricista."
+      },
+      {
+        "startTime": 1982,
+        "endTime": 2011,
+        "speaker": "Aline Mortari Machado",
+        "text": "E o que aconteceu desse caso em específico é que a gente contratou uma empresa para para estar desenvolvendo o projeto. E para a gente concorrer ao editar um edital, só que o resultado não foi bem como a gente gostaria sim. Teve alguns erros. E nesse caso a gente percebeu eu percebi e junto com a liderança."
+      },
+      {
+        "startTime": 2011,
+        "endTime": 2053,
+        "speaker": "Aline Mortari Machado",
+        "text": "A gente teve uma conversa de que faltou ali uma fiscalização técnica maior do profissional em relação a Esse trabalho desenvolvido então foi algo que infelizmente foi descoberto mais no final do processo, né? Na hora de entrega. Foi algo que poderia ser levantado antes. Mas o caminho é conversar com a pessoa explicar entender, o que que aconteceu naquele caso em específico surgiu outra demanda outras demandas que aí a pessoa acabou se perdendo ali um pouco e também foi algo que tava vinculado ao avaliação de desempenho."
+      },
+      {
+        "startTime": 2053,
+        "endTime": 2088,
+        "speaker": "Aline Mortari Machado",
+        "text": "De profissional aí isso. Acabou implicando na nota também. E mas aí a gente refez o planejamento refizemos novo. E a partir disso passamos a monitorar. De ter reuniões mais frequentes, né de ter um acompanhamento e até uma. Como é que eu posso explicar até uma medição mais frequente do serviço do projeto que está sendo entregue pela empresa, né não deixar para fazer a medição em partes maiores?"
+      },
+      {
+        "startTime": 2090,
+        "endTime": 2108,
+        "speaker": "Diego Diehl",
+        "text": "eu vi que você teve algumas experiências ali no teve algumas experiências ali no Na risate no governo do estado do Paraná e no hospital é um hospital? receber."
+      },
+      {
+        "startTime": 2108,
+        "endTime": 2111,
+        "speaker": "Aline Mortari Machado",
+        "text": "E isso deve ser a empresa que administra o hospital."
+      },
+      {
+        "startTime": 2112,
+        "endTime": 2146,
+        "speaker": "Diego Diehl",
+        "text": "não precisa nem dizer da onde cada coisa mais três coisas que você Gostaria novamente de trabalho teu que você já vivenciou e três coisas que você vivenciou e não gostaria de ter no ambiente. Porque é importante para você ter no ambiente já limpando com essa tua nova fase aí, né? Que você tá buscando uma nova empresa um lugar diferente mais meritocracia."
+      },
+      {
+        "startTime": 2146,
+        "endTime": 2184,
+        "speaker": "Aline Mortari Machado",
+        "text": "Três coisas que eu gostaria. olhando assim uma perspectiva de Crescimento um lugar que eu possa estar. Aplicando os meus conhecimentos a minha bagagem adquirida até aqui. Que eu passei por diferentes empresas diferentes negócios digamos, mas o meu foco sempre foi a gestão a gestão de projetos administração. Administração. É um lugar que possibilitasse eu tá aplicando a minha bagagem."
+      },
+      {
+        "startTime": 2184,
+        "endTime": 2206,
+        "speaker": "Aline Mortari Machado",
+        "text": "E que se eu errasse eu errasse rápido da gente digamos essa cultura de experimentação de crescer, mas que diagnostica isso e já conserte parta para uma próxima né me identifico com esse tipo de cultura. e"
+      },
+      {
+        "startTime": 2206,
+        "endTime": 2216,
+        "speaker": "Diego Diehl",
+        "text": "De fazer a pergunta diferente, eu quero uma outra resposta. outra resposta. Desses três lugares que você passou me diz uma coisa boa é uma coisa ruim de cada um."
+      },
+      {
+        "startTime": 2216,
+        "endTime": 2217,
+        "speaker": "Aline Mortari Machado",
+        "text": "Certo bom começando de trás para"
+      },
+      {
+        "startTime": 2217,
+        "endTime": 2218,
+        "speaker": "Diego Diehl",
+        "text": "para você"
+      },
+      {
+        "startTime": 2221,
+        "endTime": 2263,
+        "speaker": "Aline Mortari Machado",
+        "text": "frente então do hospital que eu tô agora uma coisa boa. eu acho que a Criticidade assim do lugar do negócio. Foi algo que me fez me desenvolver bastante assim então uma visão sistêmica muito grande, então que aí no hospital a gente tem diferentes negócios digamos a gente tem desde a alimentação a gestão de como se fosse um hospital que tem gente ficando ali até a parte passando pela infraestrutura almoxarifado."
+      },
+      {
+        "startTime": 2263,
+        "endTime": 2315,
+        "speaker": "Aline Mortari Machado",
+        "text": "E aí eu também me possibilitou participar de diferentes projetos, eu participei da Comissão da qualidade também, isso é uma coisa positiva. Uma coisa que eu não gostava. ali. acho que está relacionada a Morosidade eu diria de algumas questões para a gente conseguir. mudar né então falando de uma perspectiva até de Cultura assim observa ali que tem uma cultura muito de Punição pelos erros que acontecem ao invés de entender o problema para melhorar e para que isso não ocorra mais né? Então isso eu acho que é algo negativo."
+      },
+      {
+        "startTime": 2315,
+        "endTime": 2348,
+        "speaker": "Aline Mortari Machado",
+        "text": "falando do Governo do Estado do Paraná lá eu fiquei pouco tempo uma coisa que eu gostava que Que eu tava quando eu cheguei lá. foi Ali a questão do desafio assim de estar de estar entendendo trabalhando também com diferentes profissionais de todo estado, eu trabalhava na central aí tinha um contato com diferentes profissionais das unidades pelo Estado do Paraná."
+      },
+      {
+        "startTime": 2348,
+        "endTime": 2376,
+        "speaker": "Aline Mortari Machado",
+        "text": "Mas uma coisa ruim lá que eu sentia também era essa. cultura do Da responsabilização digamos se acontece alguma coisa errada, é parece que é só penalizar a ponta pelo erro e não entendeu como um todo o que que aconteceu para tentar melhorar. Lá eu sentia isso também e também lá eu me desestimulei porque eu me sentia subutilizada."
+      },
+      {
+        "startTime": 2376,
+        "endTime": 2410,
+        "speaker": "Aline Mortari Machado",
+        "text": "Acho que eu tinha capacidade para absorver mais desafios, mas lá o pessoal não sei se por eu ser mais nova na época outra cultura, enfim e lá na risate. Eu gostei muito de trabalhar lá pelo fato de ser uma empresa de consultoria. Então, eu tava. No ambiente ali de que precisava muito pela excelência pelas boas práticas esse olhar ao detalhe foi algo que eu trago para minha carreira profissional."
+      },
+      {
+        "startTime": 2410,
+        "endTime": 2418,
+        "speaker": "Aline Mortari Machado",
+        "text": "E ruim. Que que eu poderia dizer que eu não gostava tanto?"
+      },
+      {
+        "startTime": 2422,
+        "endTime": 2438,
+        "speaker": "Diego Diehl",
+        "text": "Aline sobre isso que você falou. Qual foi tua ação daí lá que tipo se percebeu não não? Estou exercendo o máximo que eu posso queria ter algo mais. Que que você fez daí com isso."
+      },
+      {
+        "startTime": 2438,
+        "endTime": 2465,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim lá eu trabalhava primeiramente numa numa unidade. Aí eu senti isso assim que eu não tava contribuindo como eu poderia eu na época eu procurei a minha liderança, conversei. E aí ela me transferiu para outra né? Que é que aí era mais relacionada a parte de logística de paciente mesmo."
+      },
+      {
+        "startTime": 2465,
+        "endTime": 2486,
+        "speaker": "Aline Mortari Machado",
+        "text": "E aí lá, tinha uma rotina mais dinâmica assim. Digamos que não era um processo tão engessados de como fazer mas ali assumi um cargo mais de analista que tinha uma capacidade uma possibilidade de tomada de decisão. maior Sabe não sei se eu respondi a tua pergunta."
+      },
+      {
+        "startTime": 2486,
+        "endTime": 2492,
+        "speaker": "Diego Diehl",
+        "text": "A responder a segunda parte né?"
+      },
+      {
+        "startTime": 2492,
+        "endTime": 2531,
+        "speaker": "Aline Mortari Machado",
+        "text": "Isso é dar risada, eu acho. que talvez O que que eu poderia dizer? lá tô pensando o que o que me levou a sair de lá na época, foi que Eu não eu tava como assistente de gestão e o meu chefe falava de Da possibilidade de assumir um cargo como coordenadora de gestão e tudo mais."
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2571,
+        "speaker": "Aline Mortari Machado",
+        "text": "só que eu sentia que Que esse momento não chegava assim por mais que eu me desenvolvesse e quisesse. Eu tava sumindo eu sentia que o negócio não ia aí a partir disso eu comecei a procurar outros outros trabalhos outro estágio. que aí eu comecei a procurar porque eu tava também no final da faculdade, eu precisava de um estágio obrigatório aí na época, eu acabei quando eu Mudei os planos assim e levei isso para o meu chefe."
+      },
+      {
+        "startTime": 2571,
+        "endTime": 2598,
+        "speaker": "Aline Mortari Machado",
+        "text": "E aí eu senti que aí que ele me ofereceu a possibilidade de ficar como como coordenadora, mas ao mesmo tempo ele não não falou por exemplo sobre os próximos passos de como é que seria então eu senti que foi algo que Que já não fazia mais sentido eu ficar lá tá aí então foi isso."
+      },
+      {
+        "startTime": 2598,
+        "endTime": 2601,
+        "speaker": "Diego Diehl",
+        "text": "roda acontece pode"
+      },
+      {
+        "startTime": 2601,
+        "endTime": 2607,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tenho uma. Parte do reforja lá quando é que fez o curso do reforço?"
+      },
+      {
+        "startTime": 2607,
+        "endTime": 2610,
+        "speaker": "Aline Mortari Machado",
+        "text": "Eu fiz agora no começo do ano de Fevereiro a Abril."
+      },
+      {
+        "startTime": 2611,
+        "endTime": 2620,
+        "speaker": "Eduardo Stringhini",
+        "text": "Como é que caiu na recorde assim, qual foi o que é? Mas ficou sabendo."
+      },
+      {
+        "startTime": 2620,
+        "endTime": 2650,
+        "speaker": "Aline Mortari Machado",
+        "text": "Meu marido que ele é da área de produto aí então, ele já teve acesso ao curso gostou muito e me indicou. Porque tem outras opções no mercado também, mas eu fiquei pelo recorde por ser o curso referência quando se fala em produto aí também como eu já tinha tomado essa decisão que eu ia para PM foi o que me motivou já a fazer."
+      },
+      {
+        "startTime": 2650,
+        "endTime": 2652,
+        "speaker": "Eduardo Stringhini",
+        "text": "legal show"
+      },
+      {
+        "startTime": 2652,
+        "endTime": 2682,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar. ou a língua Aline, eu acho que a gente tem uma reunião agora às três. Acho que deu para absorver um canto aí do e você que você é uma pessoa que tem uns elementos importantes para PM que passa uma calma. Uma tranquilidade sabe escutar. Vai saber. Priorizar quer dar um passo diferente na tua carreira agora."
+      },
+      {
+        "startTime": 2682,
+        "endTime": 2710,
+        "speaker": "Diego Diehl",
+        "text": "Foi legal a gente. Acho que esse processo a gente. Pode combinar que a gente dá um retorno, né? A gente tá começando agora a gente nem estabelecer um super-herói, tá bom? Dois três e quatro cinco, né? Mas a gente tá tendo uma primeira conversa com você para entender um pouquinho e eu acho que a gente pode combinar ele te dar um retorno sobre um elemento expectativa de próximo espaço, você vai dar uma clareza também da vaga."
+      },
+      {
+        "startTime": 2710,
+        "endTime": 2711,
+        "speaker": "Diego Diehl",
+        "text": "trocar mais uma ideia contigo acho"
+      },
+      {
+        "startTime": 2711,
+        "endTime": 2711,
+        "speaker": "Aline Mortari Machado",
+        "text": "sim"
+      },
+      {
+        "startTime": 2711,
+        "endTime": 2743,
+        "speaker": "Diego Diehl",
+        "text": "que é pouco tempo, se a gente for avançar, né? Eu Edu a gente tá fazendo algumas primeiras entrevistas Você Apareceu. Como indicação até para eu escutar. Depois da conversa e falar ai do Óleo esse perfil. O que que a gente precisa realmente será que um caixa assim, será que encaixa assado? Como é que vai ser então você também faz parte do nosso momento aqui de visualizar esse encaixe, né? Como que seria? E aí eu acho que para fechar eu queria saber se você tem alguma pergunta alguma dúvida que você quer um esclarecimento maior."
+      },
+      {
+        "startTime": 2747,
+        "endTime": 2766,
+        "speaker": "Aline Mortari Machado",
+        "text": "muito obrigada pela oportunidade pela conversa. E também Se surgir alguma dúvida ou se vocês tiverem algum questionamento também só entrar em contato comigo. E em relação pelo que vocês me"
+      },
+      {
+        "startTime": 2766,
+        "endTime": 2766,
+        "speaker": "Diego Diehl",
+        "text": "Pode perguntar pode perguntar."
+      },
+      {
+        "startTime": 2766,
+        "endTime": 2780,
+        "speaker": "Aline Mortari Machado",
+        "text": "falaram, tá bem? Vocês estão estruturando, né? Então o que que vocês acham que seria o maior desafio daqui para frente nos próximos 90 dias para um PM que tá entrando."
+      },
+      {
+        "startTime": 2788,
+        "endTime": 2820,
+        "speaker": "Diego Diehl",
+        "text": "Entender muito rápido o negócio as dores do cliente essas relações. essas relações. Consegui pegar. E conseguir compilar organizar organizar o back logo olhar prioridade esclarecer conseguir fazer fluir as comunicações, mas acho que o principal. Não como o resultado, mas acho que o desafio da pessoa que ela vai ter."
+      },
+      {
+        "startTime": 2820,
+        "endTime": 2859,
+        "speaker": "Diego Diehl",
+        "text": "E aí é um pontinho de desafio para você, principalmente é entender o mercado imobiliário. E saber falar com o cliente do mercado imobiliário que são as incorporadoras e construtoras. Porque nosso ele vai a nossa ideia contratar as primeiras pessoas agora para assumir as vezes ficar um cargo que assuma diferentes funções então que tem muita sinergias, né? Por exemplo você vai estar implementando um sistema ou seja, tem que entender o sistema que já existe como implementar no cliente com isso vai conseguir ouvir o cliente entender as dores e ao mesmo tempo a gente está gerando desenvolvimento do produto."
+      },
+      {
+        "startTime": 2859,
+        "endTime": 2885,
+        "speaker": "Diego Diehl",
+        "text": "Então isso traz uma força, mas também traz um desafio de se organizar de dar velocidade dar celeridade as coisas simplificar ser mais ágil. Então eu acho que o desafio principal seria entender então o mercado imobiliário que é onde você vai estar pisando. E esse é um ponto que eu jogo para você refletir, tá? E até como feedback."
+      },
+      {
+        "startTime": 2885,
+        "endTime": 2897,
+        "speaker": "Diego Diehl",
+        "text": "O que a gente um dos elementos que eu gosto de trazer essa pessoa vai gostar mesmo do mercado porque tipo você gosta do hospital."
+      },
+      {
+        "startTime": 2897,
+        "endTime": 2897,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2897,
+        "endTime": 2925,
+        "speaker": "Diego Diehl",
+        "text": "Você gosta hoje? É isso entendeu? Essa Putz que legal eu via a hora eu achei caramba tanto oportunidade que tem isso pena aquilo imaginas dificuldades oportunidades. Acho que tem esse desafio assim. De pegar e no próximo passo até talvez eu quero falar um pouco mais sobre o Mercado realidade, como é mas que não era o teu objetivo hoje primeira entrevista."
+      },
+      {
+        "startTime": 2925,
+        "endTime": 2947,
+        "speaker": "Diego Diehl",
+        "text": "Tá tudo bem, mas acho que é um pouco desse contexto assim, entendeu? O mercado e lidar com uma empresa. Ah, talvez para você também lidar com uma empresa no caso Nossa vertical com pouquíssima estruturas consolidadas e processos claros e mapas manuais não hoje estava definindo um processo de desenvolvimento do produto ali no trevo, então está no nível."
+      },
+      {
+        "startTime": 2947,
+        "endTime": 2955,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente tá no nível. Assim chegar menos maturidade de processo mesmo."
+      },
+      {
+        "startTime": 2956,
+        "endTime": 2995,
+        "speaker": "Aline Mortari Machado",
+        "text": "Sim, só queria complementar acho que eu acabei não falando o que eu conheço do mercado imobiliário um pouco como investidor digamos né? Que aqui em Florianópolis é um mercado bem aquecido aí então eu e meu marido a gente tá? Sempre olhando assim atento as oportunidades que tem diferente. É um mercado muito amplo, né? Recentemente por exemplo abrindo um parentes, a gente conheceu o modelo spa de compra de imóveis, né que a gente entra como sócio da obra."
+      },
+      {
+        "startTime": 2995,
+        "endTime": 3008,
+        "speaker": "Aline Mortari Machado",
+        "text": "Digamos assim. É um mercado que que me interessa assim, acho muito legal tem muitas possibilidades e ao mundo, né para se conhecer porque aí a gente tá"
+      },
+      {
+        "startTime": 3008,
+        "endTime": 3008,
+        "speaker": "Diego Diehl",
+        "text": "Todo mundo teve algum contato já"
+      },
+      {
+        "startTime": 3008,
+        "endTime": 3018,
+        "speaker": "Aline Mortari Machado",
+        "text": "falando de diferente players também, né de corretores imobiliárias incorporadoras. construtoras"
+      },
+      {
+        "startTime": 3018,
+        "endTime": 3021,
+        "speaker": "Diego Diehl",
+        "text": "né? Vem móvel."
+      },
+      {
+        "startTime": 3023,
+        "endTime": 3045,
+        "speaker": "Aline Mortari Machado",
+        "text": "É um mercado bem aquecido aqui em Floripa. Felizmente quando eu vim morar aqui era era outra realidade que foi na época que a gente comprou o apartamento. Que teve uma valorização felizmente e teve uma valorização muito grande, se fosse no mercado de hoje, talvez já não seria a mesma né? Compra."
+      },
+      {
+        "startTime": 3045,
+        "endTime": 3054,
+        "speaker": "Diego Diehl",
+        "text": "Foi o Brasil inteiro assim, tá não só Floripa muito muito mercados. fechar com"
+      },
+      {
+        "startTime": 3055,
+        "endTime": 3085,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não acho que é isso. Acho que botou dois pontos importantes ali a parte de gostar do mercado querer entender e conseguir compreender. E a parte dessa dinâmica que é não está no lugar com estrutura, né são? Extremos bem grandes, né uma empresa hoje que ela é. Enfim toda estruturada então a empresa grande nós aqui somos uma Startup, né com um processo de formação."
+      },
+      {
+        "startTime": 3087,
+        "endTime": 3119,
+        "speaker": "Aline Mortari Machado",
+        "text": "Mas também queria complementar que quando eu cheguei no hospital há seis anos atrás na área de infraestrutura não tinha os processos implementados assim era outra realidade sabe era uma área muito vista, como fazer dor de coisas. Não tinha se ele um planejamento de manutenção plano corretivo, por exemplo foram questões que que a gente foi estruturando junto com a equipe com os engenheiros que entraram na época também."
+      },
+      {
+        "startTime": 3119,
+        "endTime": 3128,
+        "speaker": "Aline Mortari Machado",
+        "text": "Foi algo que a gente foi estruturando então, eu também tenho essa vivência de estruturação, sabe?"
+      },
+      {
+        "startTime": 3128,
+        "endTime": 3129,
+        "speaker": "Diego Diehl",
+        "text": "Legal, Aline."
+      },
+      {
+        "startTime": 3129,
+        "endTime": 3131,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente mantém contato então."
+      },
+      {
+        "startTime": 3131,
+        "endTime": 3132,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado pelo teu tempo."
+      },
+      {
+        "startTime": 3132,
+        "endTime": 3133,
+        "speaker": "Aline Mortari Machado",
+        "text": "deixou"
+      },
+      {
+        "startTime": 3133,
+        "endTime": 3139,
+        "speaker": "Diego Diehl",
+        "text": "Acho que vamos comprometer do em dar alguma resposta para Aline. Até amanhã, daí a gente já troca uma ideia também."
+      },
+      {
+        "startTime": 3140,
+        "endTime": 3148,
+        "speaker": "Eduardo Stringhini",
+        "text": "pode passar pelo WhatsApp uma ideia hoje de remuneração que tu tem o que pretende só para a gente também ter uma base para não ficar muito fora assim."
+      },
+      {
+        "startTime": 3152,
+        "endTime": 3157,
+        "speaker": "Aline Mortari Machado",
+        "text": "uma dúvida, vocês trabalham com o modelo CLT ou PJ?"
+      },
+      {
+        "startTime": 3158,
+        "endTime": 3180,
+        "speaker": "Eduardo Stringhini",
+        "text": "Na hora a gente há mais de 90% das pessoas são CLT, né? A gente dependendo do cargo assim, a gente tem preferido trazer PJ tá então uma questão de questões de enfim até ter variação mais variáveis então. Revelação mais variável, né, então. Em algumas questões, mas a gente tem os dois modelos."
+      },
+      {
+        "startTime": 3180,
+        "endTime": 3181,
+        "speaker": "Aline Mortari Machado",
+        "text": "Obrigada."
+      },
+      {
+        "startTime": 3181,
+        "endTime": 3191,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado, viu Aline? Sucesso nessa nova jornada. Se não for com a gente se for, mas parabéns pelo teu passo aí pelo teu planejamento."
+      },
+      {
+        "startTime": 3191,
+        "endTime": 3196,
+        "speaker": "Aline Mortari Machado",
+        "text": "Muito obrigada e sucesso para vocês também aí muito legal esse novo vertical."
+      },
+      {
+        "startTime": 3196,
+        "endTime": 3197,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado, boa tarde, valeu."
+      },
+      {
+        "startTime": 3197,
+        "endTime": 3200,
+        "speaker": "Eduardo Stringhini",
+        "text": "obrigado"
+      },
+      {
+        "startTime": 3200,
+        "endTime": 3200,
+        "speaker": "Aline Mortari Machado",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 3200,
+        "endTime": 3200,
+        "speaker": "Diego Diehl",
+        "text": "Valeu. Tchau, Aline."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 171,
+    "speakers": [
+      "Diego Diehl",
+      "Aline Mortari Machado",
+      "Eduardo Stringhini"
+    ],
+    "total_words_estimate": 6657,
+    "duration_start": 0,
+    "duration_end": 3200
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66a92d2d1774ba00136ed542",
+        "timestamp": 65,
+        "text": "Aline explica que atualmente trabalha no hospital, mas está em busca de uma nova oportunidade na área de Gestão de Produtos, pois acredita que suas atividades atuais a preparam bem para essa transição.",
+        "topicId": "66a92d2d1774ba00136ed535"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed543",
+        "timestamp": 131,
+        "text": "Aline detalha suas atividades no hospital, onde trabalha na área de infraestrutura, lidando com diferentes demandas e profissionais, o que a ajudou a desenvolver habilidades relevantes para a Gestão de Produtos.",
+        "topicId": "66a92d2d1774ba00136ed535"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed544",
+        "timestamp": 198,
+        "text": "Eduardo solicita que Aline compartilhe mais detalhes sobre sua história profissional, a fim de entender melhor seu background e motivações para a transição de carreira.",
+        "topicId": "66a92d2d1774ba00136ed535"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed545",
+        "timestamp": 218,
+        "text": "Eduardo explica que a empresa é de tecnologia e atua exclusivamente no mercado imobiliário, oferecendo uma plataforma para incorporadoras, corretoras e outros atores do setor.",
+        "topicId": "66a92d2d1774ba00136ed536"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed546",
+        "timestamp": 247,
+        "text": "Eduardo detalha a nova vertical da empresa, que é um sistema de gestão comercial (PRM) para as incorporadoras gerenciarem seus relacionamentos com os corretores imobiliários.",
+        "topicId": "66a92d2d1774ba00136ed536"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed547",
+        "timestamp": 345,
+        "text": "Diego complementa a explicação sobre a nova vertical, destacando que o mercado imobiliário carece de tecnologia e organização nessa área, o que torna o projeto da empresa muito promissor.",
+        "topicId": "66a92d2d1774ba00136ed536"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed548",
+        "timestamp": 683,
+        "text": "Diego explica que a empresa precisa criar uma estrutura completa para a nova vertical, incluindo áreas como vendas, CS, implementação e desenvolvimento do produto, e destaca a necessidade de uma pessoa para organizar o backlog, priorizar tarefas e conectar as equipes.",
+        "topicId": "66a92d2d1774ba00136ed537"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed549",
+        "timestamp": 751,
+        "text": "Diego menciona que a empresa está recebendo clientes para a nova vertical e precisa implementar os projetos, ouvir os clientes e melhorar o produto, além de escalar as equipes para criar uma nova empresa dentro da organização.",
+        "topicId": "66a92d2d1774ba00136ed537"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54a",
+        "timestamp": 815,
+        "text": "Aline considera o projeto da empresa muito desafiador, mas ao mesmo tempo interessante, reconhecendo o potencial da nova vertical.",
+        "topicId": "66a92d2d1774ba00136ed538"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54b",
+        "timestamp": 827,
+        "text": "Aline expressa que o desafio apresentado pela empresa é algo muito atrativo e que ela está interessada em explorar essa oportunidade.",
+        "topicId": "66a92d2d1774ba00136ed538"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54c",
+        "timestamp": 842,
+        "text": "Diego menciona que é interessante para a empresa conhecer melhor o histórico profissional de Aline e entender quais são seus objetivos de carreira.",
+        "topicId": "66a92d2d1774ba00136ed539"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54d",
+        "timestamp": 875,
+        "text": "Diego indica que, com 31 anos, Aline já possui um nível de maturidade que permite entender melhor suas preferências e a decisão de mudar de carreira.",
+        "topicId": "66a92d2d1774ba00136ed539"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54e",
+        "timestamp": 1216,
+        "text": "Aline relata que não consegue visualizar crescer na empresa devido a questões políticas na seleção, onde outro candidato com relacionamento com a reitoria foi escolhido.",
+        "topicId": "66a92d2d1774ba00136ed53a"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed54f",
+        "timestamp": 1286,
+        "text": "Diego entende que Aline se candidatou a uma vaga, mas o processo de seleção não foi justo, com a escolha sendo influenciada por relacionamentos.",
+        "topicId": "66a92d2d1774ba00136ed53a"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed550",
+        "timestamp": 1345,
+        "text": "Aline identifica como lacuna o entendimento técnico do negócio de saúde, mas destaca sua habilidade de correr atrás e aprender rapidamente.",
+        "topicId": "66a92d2d1774ba00136ed53b"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed551",
+        "timestamp": 1427,
+        "text": "Aline se destaca na sua habilidade de comunicação e intermediação entre diferentes públicos, conseguindo resolver problemas de forma apaziguadora.",
+        "topicId": "66a92d2d1774ba00136ed53b"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed552",
+        "timestamp": 1534,
+        "text": "Aline demonstra ter uma visão sistêmica do negócio, entendendo a importância de cada detalhe em um ambiente hospitalar.",
+        "topicId": "66a92d2d1774ba00136ed53c"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed553",
+        "timestamp": 1568,
+        "text": "Aline relata um exemplo de como conseguiu conciliar as expectativas de diferentes stakeholders em um projeto de reforma de uma unidade hospitalar.",
+        "topicId": "66a92d2d1774ba00136ed53c"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed554",
+        "timestamp": 1716,
+        "text": "Aline menciona o uso de metodologias como Lean, Scrum e a metodologia aprendida em um curso sobre descoberta de produtos, destacando a importância de alinhar com o planejamento estratégico da empresa.",
+        "topicId": "66a92d2d1774ba00136ed53c"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed555",
+        "timestamp": 1912,
+        "text": "Aline compartilha uma experiência em que houve um atraso em um projeto de eficiência energética, e como lidou com a situação, conversando com a equipe, reavaliando o planejamento e aumentando o monitoramento.",
+        "topicId": "66a92d2d1774ba00136ed53c"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed556",
+        "timestamp": 2145,
+        "text": "Aline destaca que gostaria de um ambiente que lhe permita aplicar seus conhecimentos e experiências, com uma cultura de experimentação e rápida correção de erros.",
+        "topicId": "66a92d2d1774ba00136ed53d"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed557",
+        "timestamp": 2216,
+        "text": "Aline comenta aspectos positivos e negativos de suas experiências anteriores, como a visão sistêmica e morosidade no hospital, o desafio e responsabilização no governo estadual, e a excelência e boas práticas na empresa de consultoria.",
+        "topicId": "66a92d2d1774ba00136ed53d"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed558",
+        "timestamp": 2437,
+        "text": "Aline fala sobre sua experiência anterior em uma unidade hospitalar e como ela buscou uma transferência para uma área mais dinâmica, assumindo um cargo de analista com maior capacidade de tomada de decisão.",
+        "topicId": "66a92d2d1774ba00136ed53e"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed559",
+        "timestamp": 2498,
+        "text": "Aline explica que, apesar de seu desenvolvimento e desejo de assumir um cargo de coordenação, ela sentia que essa oportunidade não chegava, o que a levou a procurar outros trabalhos e estágios.",
+        "topicId": "66a92d2d1774ba00136ed53e"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55a",
+        "timestamp": 2606,
+        "text": "Aline informa que fez o curso do Reforge de fevereiro a abril deste ano.",
+        "topicId": "66a92d2d1774ba00136ed53f"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55b",
+        "timestamp": 2620,
+        "text": "Aline explica que seu marido, que é da área de produto, indicou o curso do Reforge, que é referência no mercado, e que isso a motivou a fazer o curso, já que ela havia decidido seguir a carreira de PM.",
+        "topicId": "66a92d2d1774ba00136ed53f"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55c",
+        "timestamp": 2788,
+        "text": "Diego aponta que o principal desafio seria entender rapidamente o negócio, as dores dos clientes e conseguir organizar e priorizar o backlog, além de melhorar a comunicação.",
+        "topicId": "66a92d2d1774ba00136ed540"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55d",
+        "timestamp": 2812,
+        "text": "Diego destaca que um desafio específico seria entender o mercado imobiliário e saber se comunicar com os clientes, que são as incorporadoras e construtoras.",
+        "topicId": "66a92d2d1774ba00136ed540"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55e",
+        "timestamp": 2858,
+        "text": "Diego explica que o novo PM precisará implementar sistemas, entender o que já existe e ouvir os clientes, ao mesmo tempo em que gera desenvolvimento de produto, o que traz desafios de organização e agilidade.",
+        "topicId": "66a92d2d1774ba00136ed540"
+      },
+      {
+        "segmentId": "66a92d2d1774ba00136ed55f",
+        "timestamp": 3152,
+        "text": "Aline pergunta se a empresa trabalha com modelo CLT ou PJ, e Eduardo responde que a maioria das pessoas são contratadas no modelo CLT, mas que dependendo do cargo, a empresa prefere o modelo PJ, por questões de variabilidade na remuneração.",
+        "topicId": "66a92d2d1774ba00136ed541"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66a92d2d1774ba00136ed535",
+        "order": 1,
+        "title": "Histórico profissional de Aline",
+        "summary": "Aline compartilha sua trajetória profissional, desde sua formação em Administração até seu trabalho atual no hospital e sua transição para a área de Gestão de Produtos."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed536",
+        "order": 2,
+        "title": "Apresentação da empresa e da nova vertical",
+        "summary": "Eduardo e Diego apresentam a empresa, sua atuação no mercado imobiliário e a nova vertical de gestão comercial de funis de negócios para incorporadoras."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed537",
+        "order": 3,
+        "title": "Oportunidade na nova vertical e necessidades da empresa",
+        "summary": "Diego detalha a oportunidade na nova vertical da empresa, as demandas de implementação e desenvolvimento do produto, bem como a necessidade de uma pessoa para organizar e priorizar o backlog."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed538",
+        "order": 4,
+        "title": "Interesse de Aline na oportunidade",
+        "summary": "Aline demonstra interesse na oportunidade na nova vertical da empresa, destacando os desafios e aspectos positivos do projeto."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed539",
+        "order": 5,
+        "title": "Próximos passos na entrevista",
+        "summary": "Diego e Eduardo solicitam que Aline compartilhe mais detalhes sobre sua trajetória profissional e seus objetivos de carreira, a fim de avaliar melhor sua adequação à oportunidade."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53a",
+        "order": 6,
+        "title": "Processo de Seleção",
+        "summary": "Discussão sobre o processo de seleção para uma vaga de liderança, incluindo questões de meritocracia e influência política."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53b",
+        "order": 7,
+        "title": "Autoconhecimento e Desenvolvimento Pessoal",
+        "summary": "Discussão sobre os pontos fortes e fracos de Aline, bem como suas oportunidades de desenvolvimento em um processo de seleção."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53c",
+        "order": 8,
+        "title": "Gestão de Projetos e Melhoria de Processos",
+        "summary": "Discussão sobre as metodologias e ferramentas utilizadas por Aline na gestão de projetos e melhoria de processos."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53d",
+        "order": 9,
+        "title": "Expectativas Profissionais",
+        "summary": "Discussão sobre as características que Aline busca em um novo ambiente de trabalho, bem como aspectos positivos e negativos de suas experiências anteriores."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53e",
+        "order": 10,
+        "title": "Discussão sobre a transição de carreira de Aline",
+        "summary": "Aline compartilha sua experiência de transição de carreira, incluindo sua busca por um cargo de coordenação e sua decisão de procurar outras oportunidades."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed53f",
+        "order": 11,
+        "title": "Aline fala sobre seu treinamento no Reforge",
+        "summary": "Aline compartilha que fez um curso de produto no Reforge, indicado por seu marido, e que isso a motivou a seguir a carreira de Product Manager."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed540",
+        "order": 12,
+        "title": "Expectativas e desafios para um novo PM na empresa",
+        "summary": "Diego e Eduardo discutem os principais desafios que um novo PM enfrentaria, como entender rapidamente o negócio, as dores dos clientes e conseguir organizar e priorizar o backlog."
+      },
+      {
+        "id": "66a92d2d1774ba00136ed541",
+        "order": 13,
+        "title": "Alinhamento sobre modelo de contratação",
+        "summary": "Diego e Eduardo esclarecem que a empresa trabalha tanto com modelo CLT quanto PJ, dependendo do cargo, e se comprometem a fornecer mais detalhes sobre a remuneração."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 30,
+    "topic_count": 13,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66a92d2d1774ba00136ed535",
+      "order": 1,
+      "title": "Histórico profissional de Aline",
+      "summary": "Aline compartilha sua trajetória profissional, desde sua formação em Administração até seu trabalho atual no hospital e sua transição para a área de Gestão de Produtos."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed536",
+      "order": 2,
+      "title": "Apresentação da empresa e da nova vertical",
+      "summary": "Eduardo e Diego apresentam a empresa, sua atuação no mercado imobiliário e a nova vertical de gestão comercial de funis de negócios para incorporadoras."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed537",
+      "order": 3,
+      "title": "Oportunidade na nova vertical e necessidades da empresa",
+      "summary": "Diego detalha a oportunidade na nova vertical da empresa, as demandas de implementação e desenvolvimento do produto, bem como a necessidade de uma pessoa para organizar e priorizar o backlog."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed538",
+      "order": 4,
+      "title": "Interesse de Aline na oportunidade",
+      "summary": "Aline demonstra interesse na oportunidade na nova vertical da empresa, destacando os desafios e aspectos positivos do projeto."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed539",
+      "order": 5,
+      "title": "Próximos passos na entrevista",
+      "summary": "Diego e Eduardo solicitam que Aline compartilhe mais detalhes sobre sua trajetória profissional e seus objetivos de carreira, a fim de avaliar melhor sua adequação à oportunidade."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53a",
+      "order": 6,
+      "title": "Processo de Seleção",
+      "summary": "Discussão sobre o processo de seleção para uma vaga de liderança, incluindo questões de meritocracia e influência política."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53b",
+      "order": 7,
+      "title": "Autoconhecimento e Desenvolvimento Pessoal",
+      "summary": "Discussão sobre os pontos fortes e fracos de Aline, bem como suas oportunidades de desenvolvimento em um processo de seleção."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53c",
+      "order": 8,
+      "title": "Gestão de Projetos e Melhoria de Processos",
+      "summary": "Discussão sobre as metodologias e ferramentas utilizadas por Aline na gestão de projetos e melhoria de processos."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53d",
+      "order": 9,
+      "title": "Expectativas Profissionais",
+      "summary": "Discussão sobre as características que Aline busca em um novo ambiente de trabalho, bem como aspectos positivos e negativos de suas experiências anteriores."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53e",
+      "order": 10,
+      "title": "Discussão sobre a transição de carreira de Aline",
+      "summary": "Aline compartilha sua experiência de transição de carreira, incluindo sua busca por um cargo de coordenação e sua decisão de procurar outras oportunidades."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed53f",
+      "order": 11,
+      "title": "Aline fala sobre seu treinamento no Reforge",
+      "summary": "Aline compartilha que fez um curso de produto no Reforge, indicado por seu marido, e que isso a motivou a seguir a carreira de Product Manager."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed540",
+      "order": 12,
+      "title": "Expectativas e desafios para um novo PM na empresa",
+      "summary": "Diego e Eduardo discutem os principais desafios que um novo PM enfrentaria, como entender rapidamente o negócio, as dores dos clientes e conseguir organizar e priorizar o backlog."
+    },
+    {
+      "id": "66a92d2d1774ba00136ed541",
+      "order": 13,
+      "title": "Alinhamento sobre modelo de contratação",
+      "summary": "Diego e Eduardo esclarecem que a empresa trabalha tanto com modelo CLT quanto PJ, dependendo do cargo, e se comprometem a fornecer mais detalhes sobre a remuneração."
+    }
+  ],
+  "collected_at": "2026-04-06T23:40:40.796164+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:40:40.796164+00:00"
+}

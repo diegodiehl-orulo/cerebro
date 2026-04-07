@@ -1,0 +1,40 @@
+{
+  "id": "693096b97b9fcd0013b39f9d",
+  "happenedAt": "2025-12-03T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    }
+  ],
+  "name": "Oportunidades CRI",
+  "duration": 2576.265,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/693096b97b9fcd0013b39f9d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "foh-dagz-yku"
+  }
+}

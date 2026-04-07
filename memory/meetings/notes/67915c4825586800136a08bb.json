@@ -1,0 +1,109 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "679168c5678112001359f795",
+      "timestamp": 88,
+      "text": "Rodrigo sugere estruturar reunião em slides separando comercial, CS, e produto.",
+      "topicId": "679168c5678112001359f78b"
+    },
+    {
+      "segmentId": "679168c5678112001359f78d",
+      "timestamp": 210,
+      "text": "Rodrigo alinhará com Michele responsabilidade de preenchimento de documentação.",
+      "topicId": "679168c5678112001359f789"
+    },
+    {
+      "segmentId": "679168c5678112001359f78e",
+      "timestamp": 244,
+      "text": "Eduardo quer fechar ciclo financeiro até dezembro, envolvendo Felipe e Michele.",
+      "topicId": "679168c5678112001359f789"
+    },
+    {
+      "segmentId": "679168c5678112001359f796",
+      "timestamp": 463,
+      "text": "Equipe propõe reuniões quinzenais intercalando diferentes assuntos e responsáveis.",
+      "topicId": "679168c5678112001359f78b"
+    },
+    {
+      "segmentId": "679168c5678112001359f797",
+      "timestamp": 802,
+      "text": "Eduardo sugere reunião de revisão para avaliar implementação de clientes como Cetim e Ideias.",
+      "topicId": "679168c5678112001359f78c"
+    },
+    {
+      "segmentId": "679168c5678112001359f798",
+      "timestamp": 1033,
+      "text": "Eduardo destaca dificuldade de implantar sistemas que se tornem processo interno do cliente.",
+      "topicId": "679168c5678112001359f78c"
+    },
+    {
+      "segmentId": "679168c5678112001359f790",
+      "timestamp": 1354,
+      "text": "Parceria com canais será focada em entrada rápida no mercado de corretores, não em monetização.",
+      "topicId": "679168c5678112001359f78a"
+    },
+    {
+      "segmentId": "679168c5678112001359f791",
+      "timestamp": 1398,
+      "text": "Precificação para novos parceiros deve ser baseada no volume de usuários, não no volume de produtos.",
+      "topicId": "679168c5678112001359f78a"
+    },
+    {
+      "segmentId": "679168c5678112001359f799",
+      "timestamp": 1524,
+      "text": "Necessário implementar sistema robusto para reportar atividades semanais para incorporadoras.",
+      "topicId": "679168c5678112001359f78c"
+    },
+    {
+      "segmentId": "679168c5678112001359f792",
+      "timestamp": 1601,
+      "text": "Z2 precisa adaptar modelo atual muito focado em São Paulo para outras regiões.",
+      "topicId": "679168c5678112001359f78a"
+    },
+    {
+      "segmentId": "679168c5678112001359f793",
+      "timestamp": 1948,
+      "text": "Foco da entrada em novas operações é aquisição de corretores, não receita.",
+      "topicId": "679168c5678112001359f78a"
+    },
+    {
+      "segmentId": "679168c5678112001359f794",
+      "timestamp": 2221,
+      "text": "Eduardo tem dois clientes potenciais: Rio Hilti de Vitória e Urbana de Curitiba.",
+      "topicId": "679168c5678112001359f78a"
+    },
+    {
+      "segmentId": "679168c5678112001359f78f",
+      "timestamp": 2637,
+      "text": "Reunião financeira marcada para terça-feira às 15h.",
+      "topicId": "679168c5678112001359f789"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "679168c5678112001359f789",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "679168c5678112001359f78a",
+      "order": 2,
+      "title": "Estratégia de Expansão e Mercado",
+      "summary": ""
+    },
+    {
+      "id": "679168c5678112001359f78b",
+      "order": 3,
+      "title": "Estrutura de Reuniões e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "679168c5678112001359f78c",
+      "order": 4,
+      "title": "Desafios de Implementação",
+      "summary": ""
+    }
+  ]
+}

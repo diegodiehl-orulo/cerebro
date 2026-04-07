@@ -1,0 +1,1932 @@
+{
+  "meeting_id": "678a54823a325e001359c354",
+  "name": "Leadership Chapter",
+  "happened_at": "2025-01-17T13:00:00.000Z",
+  "duration_seconds": 5327.965,
+  "duration_minutes": 88.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Mariana Marins",
+      "email": "mariana.marins@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Rubem Rocha",
+      "email": "rubem@orulo.com.br"
+    },
+    {
+      "name": "Talita Campos",
+      "email": "talita@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/678a54823a325e001359c354",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "mhh-ytza-mrh",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "678a5585140ca30013aae689",
+    "meetingId": "678a54823a325e001359c354",
+    "data": [
+      {
+        "startTime": 24,
+        "endTime": 29,
+        "speaker": "Bruna Soares",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 29,
+        "endTime": 30,
+        "speaker": "Beatriz Fusquino",
+        "text": "Bom dia pessoal."
+      },
+      {
+        "startTime": 72,
+        "endTime": 80,
+        "speaker": "Alejandro Olchik",
+        "text": "alô, alô Agora foi. E aí gente, tudo bem?"
+      },
+      {
+        "startTime": 81,
+        "endTime": 90,
+        "speaker": "Carolina Campos",
+        "text": "Olá Tudo sim, eu tô pelo celular sem câmera tá pessoal, porque tá sem luz cair no mundo. Então vou ficar aqui só mais ouvinte um pouco hoje."
+      },
+      {
+        "startTime": 92,
+        "endTime": 95,
+        "speaker": "Alejandro Olchik",
+        "text": "beleza"
+      },
+      {
+        "startTime": 100,
+        "endTime": 103,
+        "speaker": "Rubem Rocha",
+        "text": "Como é que está a situação aí Floripa, né, Carol? Tá tudo bem?"
+      },
+      {
+        "startTime": 104,
+        "endTime": 126,
+        "speaker": "Carolina Campos",
+        "text": "Isso eu tô em Floripa aqui na onde eu tô tá tudo bem, mas as rodovias que ligam aqui para o norte da ilha tavam tudo embaixo da água na madrugada agora falaram que já baixou um pouco a água, mas assim não para de chover aqui tá sem luz. Acho que deve ter acabado na madrugada, porque eu não vi mas está sem luz já faz um tempo e a chuva assim tá incessante Não Para."
+      },
+      {
+        "startTime": 126,
+        "endTime": 127,
+        "speaker": "Rubem Rocha",
+        "text": "Tomara que tudo dê certo vai dar"
+      },
+      {
+        "startTime": 127,
+        "endTime": 127,
+        "speaker": "Carolina Campos",
+        "text": "Então, eles conseguiram colocar a"
+      },
+      {
+        "startTime": 127,
+        "endTime": 128,
+        "speaker": "Rubem Rocha",
+        "text": "tudo."
+      },
+      {
+        "startTime": 128,
+        "endTime": 140,
+        "speaker": "Carolina Campos",
+        "text": "bomba em alguns lugares pelo que eu tava vendo aqui na nas notícias, mas tá chegando aqueles alertas de risco. Severo sabe da Defesa Civil no celular de todo mundo fica em casa não saia."
+      },
+      {
+        "startTime": 141,
+        "endTime": 164,
+        "speaker": "Rubem Rocha",
+        "text": "certo"
+      },
+      {
+        "startTime": 164,
+        "endTime": 174,
+        "speaker": "Alejandro Olchik",
+        "text": "O Deus que falou que não ia conseguir vir. Tá faltando só a sim"
+      },
+      {
+        "startTime": 174,
+        "endTime": 178,
+        "speaker": "Carolina Campos",
+        "text": "É Felipe, também não consegue vir hoje."
+      },
+      {
+        "startTime": 178,
+        "endTime": 183,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá faltando a Mari só?"
+      },
+      {
+        "startTime": 183,
+        "endTime": 185,
+        "speaker": "Carolina Campos",
+        "text": "E o Fernando, né?"
+      },
+      {
+        "startTime": 185,
+        "endTime": 188,
+        "speaker": "Alejandro Olchik",
+        "text": "esperando"
+      },
+      {
+        "startTime": 198,
+        "endTime": 203,
+        "speaker": "Carolina Campos",
+        "text": "Se tudo correr como deve na próxima encontro de liderança teremos mais duas pessoas aqui com a gente."
+      },
+      {
+        "startTime": 234,
+        "endTime": 247,
+        "speaker": "Alejandro Olchik",
+        "text": "Alguém tem algum tópico de agenda eu tô com uma agenda bem. Tem bastante coisa aqui, mas as crianças tem algum algum tópico que vocês acham que a gente tem que colocar."
+      },
+      {
+        "startTime": 247,
+        "endTime": 249,
+        "speaker": "Bruna Soares",
+        "text": "Sim a gente pode só mas isso aí é menos de 5 minutos."
+      },
+      {
+        "startTime": 249,
+        "endTime": 249,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom dia pessoal."
+      },
+      {
+        "startTime": 251,
+        "endTime": 277,
+        "speaker": "Bruna Soares",
+        "text": "b****** sobre Animes né? Acho que é importante a gente falar um pouquinho quem tiver devendo coisas que passem as coisas. Para poder ser escritas e vim dia 30 31, né? Não sei que dia que tem esse mês a ideia é poder já disparar essa primeira edição, mas a gente tem até o nosso prazo na verdade para escrita e poder fazer revisão em 25."
+      },
+      {
+        "startTime": 277,
+        "endTime": 285,
+        "speaker": "Bruna Soares",
+        "text": "Por isso que eu tô botando prazo para quem eu mando ali algum tópico, é? Para que a gente possa estruturar bem nesses cinco dias para que depois a"
+      },
+      {
+        "startTime": 285,
+        "endTime": 286,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tô devendo alguma coisa Bruna, eu"
+      },
+      {
+        "startTime": 286,
+        "endTime": 288,
+        "speaker": "Bruna Soares",
+        "text": "gente."
+      },
+      {
+        "startTime": 288,
+        "endTime": 289,
+        "speaker": "Eduardo Stringhini",
+        "text": "tô devendo não."
+      },
+      {
+        "startTime": 290,
+        "endTime": 330,
+        "speaker": "Bruna Soares",
+        "text": "Tá mas eu botei ontem que é uma frase ali do encontro que vocês tiveram e tal a gente quer uma frase de cada diretor que estava presente, mas é a única coisa do E acho que tem que bater martelo um pouco ali na parte de do Percival uma sugestão que a gente tava falando e o Rubem que a gente é a Talita trouxe o comentário, né? Sobre o que a gente postou o que o Rubens escreveu sobre Persival é que a gente viu que a parte do Percival Claro a estrutura dele, quando é disparada é igual para todo mundo, mas eu acho que depois a segunda avaliação, talvez não é uma forma da gente comentar porque a gente vê que cada time tem essa forma então vai ficar muito extenso."
+      },
+      {
+        "startTime": 330,
+        "endTime": 343,
+        "speaker": "Bruna Soares",
+        "text": "A gente tem que trazer um pouco mais breve, eu acho essa parte do Percival, porque senão a operação é de um jeito comercial é de outro a Talita já comentou que também é uma parte diferente, então pode ter conflitos a gente acaba postando daquela forma então."
+      },
+      {
+        "startTime": 343,
+        "endTime": 344,
+        "speaker": "Rubem Rocha",
+        "text": "Dentro da Nilza a gente vai tratar de"
+      },
+      {
+        "startTime": 344,
+        "endTime": 346,
+        "speaker": "Bruna Soares",
+        "text": "Pode falar não pode"
+      },
+      {
+        "startTime": 348,
+        "endTime": 369,
+        "speaker": "Rubem Rocha",
+        "text": "uma forma bem resumida com um link para documentação e dentro da documentação vai ter um texto mais extenso, onde a gente vai tratar como cada explicar como cada setor trabalha isso e as outras formas de avaliação que existem em outros setores porque o principal não é o único né? Então acho que a gente tem que dar uma boa trabalhada a ver as contribuições."
+      },
+      {
+        "startTime": 369,
+        "endTime": 404,
+        "speaker": "Rubem Rocha",
+        "text": "Tem alguma alterações que a gente precisa fazer dentro do texto também, a gente vai passar de novo para vocês darem mais uma olhada. Está ok, então acho que dentro da News vai ser praticamente um dois parágrafos explicando como é que funciona basicamente o festival e encaminhando para uma leitura mais completa dentro da Wiki."
+      },
+      {
+        "startTime": 404,
+        "endTime": 411,
+        "speaker": "Rubem Rocha",
+        "text": "E aí dentro da unha que a gente vai falar sobre o percentual em si, como é que funciona e como cada setor trabalha com os resultados do Percival e também setores que não trabalham com percentual. Como é que eles trabalham e a gente vai acho que agora hoje mesmo."
+      },
+      {
+        "startTime": 411,
+        "endTime": 413,
+        "speaker": "Rubem Rocha",
+        "text": "A gente já vai trabalhar mais nesse texto e mandar. Para vocês e também de repente fazer perguntas ou pedir para setores que não trabalham com o Percival explicar como é o ciclo de avaliação. É um trabalho mais como eu acho que de repente a falta mais complexa dentro dessa edição."
+      },
+      {
+        "startTime": 413,
+        "endTime": 428,
+        "speaker": "Rubem Rocha",
+        "text": "Mas vai dar tudo certo o que a gente está se organizando para que funcione, né? Acho que precisa dessa informação reunida, eu acho que é bem importante para todos toda a empresa entender de vez como é que funciona cada ciclo de avaliação."
+      },
+      {
+        "startTime": 428,
+        "endTime": 430,
+        "speaker": "Bruna Soares",
+        "text": "É acho que é uma forma da gente ter isso já na Week, né? Que nem o Rubem falou, tipo a gente"
+      },
+      {
+        "startTime": 430,
+        "endTime": 432,
+        "speaker": "Rubem Rocha",
+        "text": "Não."
+      },
+      {
+        "startTime": 432,
+        "endTime": 447,
+        "speaker": "Bruna Soares",
+        "text": "vai dar um resumo ali do Percival. Mas é uma forma já da gente ter um pouco mais estruturado o avaliação. Como é feita Independente de cada time, como é feito em cada setor se isso é um problema, né? Se isso fica um pouco confuso para pessoal, né colaboradores."
+      },
+      {
+        "startTime": 449,
+        "endTime": 473,
+        "speaker": "Alejandro Olchik",
+        "text": "Assim a gente tinha ficado de fazer um bate-papo gravado, né? Que dá do modelo de avaliação de desempenho, já vamos Percival e outras coisas para depois a partir daí. Revisar essa documentação e tal eu acho que a gente não vai poder fazer esse bate-papo hoje, porque a gente quer dar uma pincelada no que a gente viu do planejamento estratégico."
+      },
+      {
+        "startTime": 473,
+        "endTime": 495,
+        "speaker": "Alejandro Olchik",
+        "text": "Que eu acho que é mais urgente nesse momento do que a parte do Percival. A minha sugestão a não fazendo a correria. Acho que a gente tá no caminho bom, né? Então eu não vejo problema postergar uma edição ou Percival para estar o negócio que daqui a pouco a gente manda um texto que depois tem que revisar eu acho contra a produção."
+      },
+      {
+        "startTime": 498,
+        "endTime": 499,
+        "speaker": "Bruna Soares",
+        "text": "A gente deixa para próxima edição então."
+      },
+      {
+        "startTime": 499,
+        "endTime": 499,
+        "speaker": "Alejandro Olchik",
+        "text": "eu"
+      },
+      {
+        "startTime": 500,
+        "endTime": 510,
+        "speaker": "Rubem Rocha",
+        "text": "Só que a gente não acho que a gente não para de produzir em cima dele, a gente continua trabalhando desde agora para não ficar com Prazo. Curto mais para frente. Eu acho que a gente começa a trabalhar agora e aí a gente vai deixando ele redondo para a próxima edição."
+      },
+      {
+        "startTime": 510,
+        "endTime": 512,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso concordo vamos publicar quando tiver Redondo, mas continuamos"
+      },
+      {
+        "startTime": 512,
+        "endTime": 513,
+        "speaker": "Rubem Rocha",
+        "text": "tá"
+      },
+      {
+        "startTime": 513,
+        "endTime": 533,
+        "speaker": "Alejandro Olchik",
+        "text": "trabalhando nessa pauta, eu acho que vai ter outra relacionada handbook de comunicação como uma comércio que a gente começou ainda finalizou e não sei se a gente vai ter tempo hoje, a gente tem várias pautas legais assim para a gente tá tá puxando. A gente pode dar vamos dar uma risada rápida na Company."
+      },
+      {
+        "startTime": 533,
+        "endTime": 579,
+        "speaker": "Alejandro Olchik",
+        "text": "e se tem alguma dúvida alguma coisa que Tem que ser relembrada. Então combinação na próxima companhia isso aqui é 24 de Janeiro essa semana que vem. Vai até a parte inicial dos aniversários valores, né? Acho que a Bia já compartilhou ali para cada um dá uma risada e complementar os valores."
+      },
+      {
+        "startTime": 579,
+        "endTime": 614,
+        "speaker": "Alejandro Olchik",
+        "text": "Na hora que foi me apresentado, né que vai ser apresentada, acho que aí fica com Bruno Rubens. O Felipe vai fazer um apanhado financeiro do ano. E a gente ficou de rodar uma retrospectiva 2024 com avanço de desafios por área que a Bia mandou já. O modelo e a apresentação passada e cada gestor precisa estar montando a sua para apresentar eu acho que são cinco minutinhos por área, né, gente não fica muito massante."
+      },
+      {
+        "startTime": 614,
+        "endTime": 670,
+        "speaker": "Alejandro Olchik",
+        "text": "depois de uma parte de perguntas e respostas, acho que ficou essa a lógica alguma coisa assim que Tá faltando alguma dúvida algum lembrete? tudo sobre controle Eu acho que teve o prazer de conviver. uma casa em Santa Maria do Herval Vendo Felipe cozinhar carreteiro. O Edu alimentar os patos a gente tinha até pato numa piscininha que começaram a entrar."
+      },
+      {
+        "startTime": 670,
+        "endTime": 672,
+        "speaker": "Eduardo Stringhini",
+        "text": "Invadir uma casa."
+      },
+      {
+        "startTime": 672,
+        "endTime": 695,
+        "speaker": "Alejandro Olchik",
+        "text": "os patos invadiram a casa Mas foi bem legal, acho que é algo bem legal assim a esse convívio, né que a gente teve foi pouco a gente foi na quarta-feira esse ano na sexta-feira. A gente já tava tendo conversas tá no planejamento e a gente foi mais intensivo. A gente continua tendo depois tá? Não tá um negócio fechado ainda, mas é a gente quer compartilhar com vocês."
+      },
+      {
+        "startTime": 695,
+        "endTime": 715,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu fiquei feedback. Mas acho que assim a ideia é que na medida que a gente vai crescendo, né? Que esses fóruns possam ser expandidos lá, acho que também esse grupo é outro, né que eventualmente. Mas a gente pode se beneficiar do encontros presenciais também. Na medida que a gente tiver fôlego para isso, né? Ainda mais em agendas."
+      },
+      {
+        "startTime": 715,
+        "endTime": 737,
+        "speaker": "Alejandro Olchik",
+        "text": "Que a gente tem mais de fechamento a gente começa a gente quer fechar assuntos, a gente monta uma pauta, então a gente realmente montou uma agenda de patas, né com hora assim é tipo era na manhã, tem que fechar isso isso isso isso na outra manhã isso na tarde difícil e na sexta-feira de manhã isso isso a gente conseguiu fechar agenda todas foi bem produtivo."
+      },
+      {
+        "startTime": 737,
+        "endTime": 753,
+        "speaker": "Alejandro Olchik",
+        "text": "Sem falar. E tem um convívio, né? Então o Confirmei a minha hipótese sobre o Diego e as coisas que eu achava dele realmente né? Presencialmente É tudo aquilo que eu tava imaginando mas"
+      },
+      {
+        "startTime": 753,
+        "endTime": 755,
+        "speaker": "Diego Diehl",
+        "text": "Espero que seja coisas boas."
+      },
+      {
+        "startTime": 755,
+        "endTime": 775,
+        "speaker": "Alejandro Olchik",
+        "text": "Depois eu digo isso Tá. Mas foi realmente foi foi foi bem legal o que que eu imaginei. Aqui está a gente está como é que a nossa etapa a gente fez uma formulação estratégica que a gente quer compartilhar com vocês. E depois pegar dois feedbacks. Eu pensei em dois feedbacks com Clara."
+      },
+      {
+        "startTime": 775,
+        "endTime": 789,
+        "speaker": "Alejandro Olchik",
+        "text": "Ela está e com eficaz vocês acham que ela é então não tem um bodezinho aqui, né? Para enxergar nisso a gente conversa sobre muita coisa, eu não vou contar toda a narrativa eu vou direto no final. né"
+      },
+      {
+        "startTime": 789,
+        "endTime": 811,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não eu acho que tem valorizar um pouco Alejandro, a gente fez a pessoal a gente fez acho que uma seis reuniões online antes do planejamento. Acho que a gente conseguiu antes do presencial, a gente conseguiu já chegar num numa sonorização. E aí foi três dias sumarizando então é Um Desafio Grande a gente sumarizar o que que é prioridade assim, desculpa de cortar."
+      },
+      {
+        "startTime": 811,
+        "endTime": 817,
+        "speaker": "Eduardo Stringhini",
+        "text": "Talvez é um excelente. Tô tô narrativa, mas só que isso também dava um pouco a complexidade do planejamento."
+      },
+      {
+        "startTime": 819,
+        "endTime": 836,
+        "speaker": "Diego Diehl",
+        "text": "Foi para exagerar ainda, eu acho que a gente fala todo dia sobre estratégia, né? Todo dia tem coisa rolando esse trabalho de sumarizar para mim deu uma organizada legal na cabeça além das perguntas que o Alejandro mandou para responder por e-mail, né? Que eu acho que ele deu para refletir legal também sobre o mercado."
+      },
+      {
+        "startTime": 842,
+        "endTime": 903,
+        "speaker": "Alejandro Olchik",
+        "text": "Independente do que a gente acha mostrar o resultado. Pelo que o Fernando não tá indo a Maria entrou agora. Deixa para mim. Vou mostrar um compartilhar um Miro com vocês, eu quero que vocês escutem. Eu vou eu vou eu vou eu vou ser direto e sem muita você vou tentar ser bem breve na explicação."
+      },
+      {
+        "startTime": 903,
+        "endTime": 936,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu vou pedir para o Diego e Edu segurarem o detalhamento para ver se o border o suficientemente Claro porque depois a gente pode complementar com mais coisas tá? Mas é um teste, né? E que a gente tá escrito e antes de vocês complementarem, eu quero que as pessoas avaliem com Claro e eficaz elas acham que é o que a gente está decidindo aqui e a partir disso a gente aprofunda e acho que ele usa já é uma primeira rodada de feedback com esse grupo aqui, tá? Para que vocês entendam isso daqui é uma formação estratégica, a gente tem que quebrar em toda a parte de ações."
+      },
+      {
+        "startTime": 936,
+        "endTime": 954,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso a gente tá quebrando ela a gente vai ter que conversar depois dentro das áreas tá para isso é mais essa aqui é um primeiro momento. Para a gente poder fazer essas conversas que vão acontecer também, ela é um negócio fechado um negócio em elaboração. Então vou. Vou compartilhar aqui com vocês."
+      },
+      {
+        "startTime": 997,
+        "endTime": 1014,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá o Miro. Vou compartilhar aqui também para facilitar. Todo mundo conseguir entrar e me seguirem, acho que fica. Mais fácil também. Vocês conseguem entrar?"
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1019,
+        "speaker": "Carolina Campos",
+        "text": "Se você puder compartilhar Leandro. Comenta pelo celular fica mais difícil, eu vou acompanhando aqui pela tela vocês, por favor."
+      },
+      {
+        "startTime": 1041,
+        "endTime": 1069,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá todo mundo vendo, né? Então, só para que vocês entendam a estrutura é a mesma que a gente já vem utilizando, né? A gente quebra a nossa estratégia no que a gente vê com que é o desafio o diagnóstico. Que é enchente achar um ponto crucial de ação, tá? Depois políticas de direcionadores que nos ajudam a guiar e ações concretas, né são as coisas que a gente está planejando."
+      },
+      {
+        "startTime": 1069,
+        "endTime": 1111,
+        "speaker": "Alejandro Olchik",
+        "text": "Fazer Para viabilizar a resolução desse desafio diagnóstico a essa é a lógica geral. E o nosso diagnóstico desafio principal a gente identificou é que somos ineficazes na comunicação com o mercado. E temos jornadas atritadas com incorporadoras corretores imobiliárias, então a gente está apontando isso. Como o principal desafio que a gente tem pela frente é que tem o entendimento que se nós conseguirmos resolver a nossa questão de comunicação com o mercado? E essas jornadas atentadas com incorporadores corretores imobiliárias."
+      },
+      {
+        "startTime": 1111,
+        "endTime": 1142,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso vai ser Uma virada de chave para empresa essa visão que a gente consolidou nesses bate-papos que a gente fez e quais são as políticas de direcionadores que a gente tá vendo. Em relação a esse desafio primeira. É essa da efetividade tradicional praças novas, a gente não for efetivo."
+      },
+      {
+        "startTime": 1142,
+        "endTime": 1159,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso é um fator limitante para nossa expansão geográfica. E já tá claro que a gente Depende de bons parceiros locais. E entrarem em praças expansão geográfica é fator chave para alimentar entrada de concorrentes no mercado. Tá então isso é um primeiro direcionador. Outro que a gente está considerando importante."
+      },
+      {
+        "startTime": 1159,
+        "endTime": 1189,
+        "speaker": "Alejandro Olchik",
+        "text": "É o uso de métricas não só achismo. Para fazer valorizar o que nós acreditamos que efetivamente o nosso diferencial competitivo que a maior densidade de imóveis inteligências de Mercado Rede integrada de imobiliárias e a solução de RN. Então isso é outro direcionador esse nosso processo de comunicação e resolução da jornada com incorporadoras e corredores."
+      },
+      {
+        "startTime": 1189,
+        "endTime": 1219,
+        "speaker": "Alejandro Olchik",
+        "text": "Outro que nós colocamos é? continuar avançando na oferta de ferramentas para tornar eficaz a gestão do canal de parcerias Então, a gente já começou com com isso ano passado com essa oferta do prm e algo que a gente tem que estar Atento. E a ponto fundamental também no mapeamento dessa jornada e do apoio evolução das incorporadoras."
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1250,
+        "speaker": "Alejandro Olchik",
+        "text": "Um tratamento do canal Outro ponto que a gente colocou como direcionador. É apoiar as incorporadoras imobiliárias a promover bons Empreendimentos no mercado. Aqui entra um aspecto que a gente também percebe que as incorporadoras valorizam muito dentro da nossa oferta de valor. No apoio ao lançamento de novo produto na comunicação de Novos Produtos e de oferta, a gente tem um potencial significativo de mercado."
+      },
+      {
+        "startTime": 1250,
+        "endTime": 1270,
+        "speaker": "Alejandro Olchik",
+        "text": "E foi uma coisa que caiu a ficha de uma forma bem importante nessas conversas que nós tivemos tá depois se precisar em aprofundar e tiver em perguntas a gente pode. Detalhar um pouco mais. Outro aspecto nessa nossa jornada é o fortalecimento do marketing para apoiar a estratégia, então é outro direcionador."
+      },
+      {
+        "startTime": 1270,
+        "endTime": 1297,
+        "speaker": "Alejandro Olchik",
+        "text": "outro que a gente colocou é O serviço profissional da gestão do canal de parcerias, né que a gente também continua vendo apesar dos resultados que não foram tão bons no ano passado. Ele tem um bom potencial de mercado e principalmente apoia essa nossa jornada incorporadoras em diferentes estágios de maturidade e tem um serviço gerenciado do canal de parcerias."
+      },
+      {
+        "startTime": 1297,
+        "endTime": 1325,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode atender algumas incorporadoras, dependendo do estágio que ela se encontra a nossa ideia é ter uma gama abrangente de possíveis Progressos que a gente faz dependendo do cliente do estágio. Outros direcionadores importantes nos últimos dois aqui é a competitividade do desenvolvimento de produto isso impacta não somente operação interna, mas engajamento de corretores e competitividade."
+      },
+      {
+        "startTime": 1325,
+        "endTime": 1360,
+        "speaker": "Alejandro Olchik",
+        "text": "Passa concorrência que ela é cada vez maior. E a otimização do processo de cadastro de localização que isso de fato impacta positivamente todas as áreas em presente é diferencial a gente considera que é um dos diferenciais. E quanto mais produtivo mais eficaz for menor tempo de resposta maior. Vai ser nosso diferencial, né? E mais capacidade."
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1392,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente vai ter de investir em outras frentes também. Então essa é um pouco a lógica geral dos direcionadores, tá? E como né? Então a gente vai tentar fazer ações agora as pessoas que precisam consistentes com esses nossos direcionadores. E as ações iniciais que a gente identificou que elas vão ser detalhadas, a gente está em processo, detalhamento, definição e reorganização para que isso aconteça é eu sei que organizar uma área de expansão e comunicação com o mercado é uma primeira ação a gente vai focar em fazer a gente tem que disponibilizar um dashboardificar aquele PV um comparativo entre o custo de aquisição que a gente tem do nosso cliente e o valor."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1429,
+        "speaker": "Alejandro Olchik",
+        "text": "De vida que ele tem a gente poder metrificar. Isso numa forma mais segmentada por Praça para tomar das decisão que vocês podem ver que essas nossas ações elas se conectam com os nossos direcionadores. A gente tem que mapear evoluir a jornada do corretor e da imobiliária. Duas coisas que a gente colocou como chave também implementação de pronto atendimento para Incorporadora para todas elas pagante ou não pagante e pronto atendimento também para corretores imobiliários aqui não colocamos para todos são coisas a serem definidas ainda."
+      },
+      {
+        "startTime": 1429,
+        "endTime": 1481,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente também tem que mapear evoluir a jornada Incorporadora. é um das ações que a gente está focando sistematizar venda de prm e colocar ela de fato com mais um item do nosso portfólio comercial junto com da É entender de forma conjunta ampliar a equipe melhorar o produto de ativação de incorporadoras."
+      },
+      {
+        "startTime": 1481,
+        "endTime": 1535,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso tá diretamente relacionado com apoiar. A Incorporadora Imobiliária promover bons Empreendimentos ampliar a estrutura de marketing. A gente tem que também sistematizar a expansão. E por último expõe a velocidade na semana de comerciais avançar nas oportunidades para otimizar processo de cadastro atualização. Esses são As nossas aspirações assim e objetivos, né que a gente está tentando quebrar agora o que a gente está fazendo é não quebrar em objetivos e resultados Chaves e tentar montar um Google Maps de ações para todo ano de 2025, tá? Essa é a lógica geral."
+      },
+      {
+        "startTime": 1535,
+        "endTime": 1520,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas aqui é um processo que a gente vai estar conversando com os líderes de cada área. Então pessoal antes da gente fazer um bate-papo. Eu queria um feedback individual de vocês em cima. Do board. Eu acho que eu eu sugiro o seguinte eu acabei passando eu vou pedir que vocês trocam de bode porque eu botei."
+      },
+      {
+        "startTime": 1520,
+        "endTime": 1567,
+        "speaker": "Alejandro Olchik",
+        "text": "O link na verdade em outro aqui, deixa isso daqui, tá? eu vou pedir que você Entra nesse daqui eu separei para a gente poder mexer com os post-its e não mexer no outro, pode ser? troca em um link Até vou. Tô fechando o outro para nós confundir tá? Porque eu coloquei eu vou compartilhar aqui eu compartilhei."
+      },
+      {
+        "startTime": 1567,
+        "endTime": 1591,
+        "speaker": "Alejandro Olchik",
+        "text": "duas perguntas aqui que é o que eu quero que a gente coloque a de 1 a 5 na Com Claro vocês acham então pegar um post-it colocar e de um a cinco com efetivo, vocês acham que tá essa estratégia de um assim. Né, só para ver fazer um radar ali e a partir daí a gente faz um bate-papo."
+      },
+      {
+        "startTime": 1734,
+        "endTime": 1750,
+        "speaker": "Alejandro Olchik",
+        "text": "Muito bem. Clareza aí pessoal. Tá aberto o microfone aí e queria ver o que que vocês acham que talvez não esteja tão claro que ficou confuso. Depois a gente faz a gente fala de efetividade."
+      },
+      {
+        "startTime": 1765,
+        "endTime": 1797,
+        "speaker": "Rubem Rocha",
+        "text": "Não sei se alguém abriu o microfone, mas primeiro ali o ponto inicial que a gente tem no quadro é o desafio diagnóstico, né? Que é essa da ineficácia na comunicação com o mercado e jornadas atritadas com incorporadoras. E outros clientes por meio dessas políticas e direcionadores a gente vai chegar."
+      },
+      {
+        "startTime": 1797,
+        "endTime": 1808,
+        "speaker": "Rubem Rocha",
+        "text": "Talvez no final do ano sendo eficaz na comunicação e não tendo mais atrito com os clientes. Acho que a ideia geral seria responder, né dar uma solução para o desafio esperar o desafio. Em alguns pontos ali dentro da política de direcionadores tem estratégias para as três estratégias principalmente em relação ao marketing."
+      },
+      {
+        "startTime": 1808,
+        "endTime": 1843,
+        "speaker": "Rubem Rocha",
+        "text": "Para superar esse desafio. depois de forma geral alguns pontos assim do tipo Avançar nas oportunidades para otimizar o processo de cadastro e atualização não sei se tem relação. Com eficiência na comunicação e jornadas adaptadas com clientes então Acho que ali expande um pouco é bom é um objetivo legal ótimo obviamente, mas não tá mais relacionado com o desafio principal."
+      },
+      {
+        "startTime": 1843,
+        "endTime": 1872,
+        "speaker": "Rubem Rocha",
+        "text": "Então, parece que tem ações nas ações coerentes nas políticas direcionadoras algo que foge um pouco ao desafio principal por mais que seja também relevante. e também não sei se Os direcionadores deveriam ser todos esses não sei se na impressão que eu tenho aqui para uma estratégia que vai balizar as ações, tá muito a impressão que eu tenho uma amplitude."
+      },
+      {
+        "startTime": 1872,
+        "endTime": 1895,
+        "speaker": "Rubem Rocha",
+        "text": "Não sei se a gente consegue atacar em tantas frentes com tanta prioridade assim que me pareceu. Vamos prioritários para as atitudes as ações do ano, então me parece amplo e eu tenho medo de que a gente atire para muitos lados e não entregue nada muito relevante na maioria. S essa é uma percepção Inicial uma apresentação de 5 minutos."
+      },
+      {
+        "startTime": 1899,
+        "endTime": 1914,
+        "speaker": "Alejandro Olchik",
+        "text": "Ótimo ótimos pontos tá vamos vamos ouvir todo mundo acho e depois a gente faz um bate-papo. Eu vou acho que é muito muito legal os pontos. Deixa eu ver a ordem aqui quem mais é Talita."
+      },
+      {
+        "startTime": 1918,
+        "endTime": 1949,
+        "speaker": "Talita Campos",
+        "text": "Eu coloquei um quatro ali, porque eu só entendi a explicação. Mas algumas coisas ficaram obscuras de como devem algumas ações, né ficar com a mistura de como elas devem acontecer por exemplo mapear evoluir jornada de corretor Imobiliária e de Incorporadora. Já tem uma definição já sabe qual é o problema que gerou essa ação e quais as ações para essa ação ser concretizada então tipo isso é minha dúvida."
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1958,
+        "speaker": "Talita Campos",
+        "text": "É o que que entraria em cada ponto por isso isso já tá definido ou não? Porque acho que isso pode impactar também na conclusão de uma soma."
+      },
+      {
+        "startTime": 1964,
+        "endTime": 1968,
+        "speaker": "Alejandro Olchik",
+        "text": "perfeito Bruna"
+      },
+      {
+        "startTime": 1971,
+        "endTime": 1996,
+        "speaker": "Bruna Soares",
+        "text": "Eu fui na mesma raciocínio que o Ruben na parte da relação do Objetivo principal ali com os de baixo, então ele já comentou né da parte de cadastro atualização que eu também achei que não casava e ia continuar avançando na oferta de ferramentas. Eu não sei se nessa oferta tem essa questão de atrito de fato com Incorporadora uma coisa a gente queria ofertar mais coisas, mas isso impacta no objetivo principal."
+      },
+      {
+        "startTime": 1996,
+        "endTime": 2012,
+        "speaker": "Bruna Soares",
+        "text": "Continuar avançando na oferta de ferramentas isso aí Claro a gente quer avançar como produto. Mas isso é um problema para o objetivo que a gente identificou ali que A gente quer atacar."
+      },
+      {
+        "startTime": 2012,
+        "endTime": 2015,
+        "speaker": "Alejandro Olchik",
+        "text": "Legal, tá? show"
+      },
+      {
+        "startTime": 2015,
+        "endTime": 2023,
+        "speaker": "Diego Diehl",
+        "text": "Bruna repete a primeira parte ali resumida que eu acho que eu não entendi, você falou dois pontos a primeira qual foi?"
+      },
+      {
+        "startTime": 2023,
+        "endTime": 2028,
+        "speaker": "Bruna Soares",
+        "text": "Da relação do Objetivo com a parte de otimizar o processo de cadastro de utilização que o Rubem falou eu"
+      },
+      {
+        "startTime": 2028,
+        "endTime": 2028,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá, você repetiu que"
+      },
+      {
+        "startTime": 2028,
+        "endTime": 2037,
+        "speaker": "Bruna Soares",
+        "text": "concordei. Isso e o segundo ponto é também essa relação, né? O Desafio que é na oferta de Novos Produtos. Com esse nosso objetivo."
+      },
+      {
+        "startTime": 2040,
+        "endTime": 2045,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá aí o que mais mais coisa?"
+      },
+      {
+        "startTime": 2047,
+        "endTime": 2086,
+        "speaker": "Beatriz Fusquino",
+        "text": "Eu acho que eu fui a única que coloquei ali cinco. Mas é porque realmente eu achei que tá bem. Auto explicativa assim, se você ler sozinho você também consegue entender as informações estão Claras. É a única coisa que me pega eu acho que tá até mais para efetividades, que clareza que é com relação a cronograma das ações criar de fato um calendário de ações, né? Então vai ser curto prazo até quando a gente pretende porque são muitas ações, né? São muitos desafios se a gente de fato não gerar ali um passo a passo um cronograma prazo para cada um deles vai se passar e ano que vem a gente vai continuar tendo esses desafios aí em aberto."
+      },
+      {
+        "startTime": 2086,
+        "endTime": 2097,
+        "speaker": "Beatriz Fusquino",
+        "text": "Então acho que é mais uma coisa para acrescentar e não que tenha não tenha ficado Claro sabe, mas esse é o meu ver mesmo."
+      },
+      {
+        "startTime": 2097,
+        "endTime": 2135,
+        "speaker": "Alejandro Olchik",
+        "text": "Legal, então, vamos lá? Eu vou deixar agora Digo o Edu. Tá eu acho que vocês também podem pegar o microfone para ir conversando, né sobre os tópicos. Aí eu vou tentar ficar por último aqui, né? Vou começar aqui com o primeiro que apareceu. Qual a relação? Conseguem ficar Qual a relação de otimizar o processo de cadastro atualização e como impacta positivamente todas as áreas assim que visão vocês ficaram planejamento."
+      },
+      {
+        "startTime": 2138,
+        "endTime": 2182,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu começar falando esse que não concordo. 100% aí que o questionamento do Rubinho da Bruno também tive esse questionamento e trouxe ele quando a gente estava desdobrando essa ação. Para mim essa parte de cadastro atualização quando a gente analisa o carro aquele TV a gente vê que o problema acorda o desafio estratégico nosso hoje, não é exatamente reduzir custo otimizado deixar mais rápido enxugar uma pessoa não é isso que vai mudar o patamar da nossa empresa."
+      },
+      {
+        "startTime": 2182,
+        "endTime": 2204,
+        "speaker": "Diego Diehl",
+        "text": "E isso pode ser confundido com um desafio porque o desafio tem cara de atender melhor os clientes eles para entender melhor para exigir profissionais mais qualificados até às vezes um time até um pouco maior. Então, eu levanto essa mesma Bandeira aí para mim o time de cadastro atualização a gente."
+      },
+      {
+        "startTime": 2204,
+        "endTime": 2244,
+        "speaker": "Diego Diehl",
+        "text": "Ou para diminuir atrito e melhorar jornada se comunicar melhor com o mercado justamente olhar para esses processos de cadastro de atualização e otimizar ele então para mim a otimização dos processos de cadastro de atualização quando a gente olha pelo desafio principal da empresa. Não é otimizar reduzindo custo e grau deficiência como Norte principal e sim amadurecendo essa comunicação com o mercado e reduzindo atritos."
+      },
+      {
+        "startTime": 2244,
+        "endTime": 2258,
+        "speaker": "Diego Diehl",
+        "text": "Então para mim como tá aberto, eu até falei na no dia que a gente escreveu isso essa parte de otimizar o processo cadastro atualização não pode ser confundido com simplesmente enxugar nem a eficiência. Ele tem que estar relacionado a critérios de qualidade redução de atrito e melhoria na jornada da Incorporadora."
+      },
+      {
+        "startTime": 2258,
+        "endTime": 2273,
+        "speaker": "Diego Diehl",
+        "text": "Então ela conversa até com a jornada da Incorporadora, conversa com tudo. Não de uma forma geral conversa com o nosso DL estar mais satisfeito para a gente poder converter. Então veja que não tá ali reduzir custo aumentar eficiência está em otimizar processos e que o direcionador principal de desafio é justamente reduzir atrito melhorar satisfação e se comunicar melhor e até anotei aqui que eu vejo que o Rubem a Bruna."
+      },
+      {
+        "startTime": 2273,
+        "endTime": 2288,
+        "speaker": "Diego Diehl",
+        "text": "E o Marcelo se comunicam super bem e talvez isso possa ser explorado até para desdobrar essa qualidade de comunicação para os processos e times. Eu tô bem feliz aí eu quero muito contribuir com a área de vocês, tá? Porque enfim."
+      },
+      {
+        "startTime": 2293,
+        "endTime": 2321,
+        "speaker": "Alejandro Olchik",
+        "text": "Olha, só o que apareceu, só vou consolidar aqui, depois eu passo a Bruna é ponto de contato dois impacta cá aquele TV. 3 densidade de móveis é diferencial. Então nessa lógica a gente considera que impacta todas as áreas da empresa. Talvez a gente possa deixar isso melhores. Bruna"
+      },
+      {
+        "startTime": 2324,
+        "endTime": 2375,
+        "speaker": "Bruna Soares",
+        "text": "É um ponto esse acho que quando lê aquilo ali o escrito que tá vendo agora o Diego falando não é o que eu entendi quando na explicação breve, mas dando um ponto ainda um gancho um dos objetivos aqui, principalmente de expansão de encorpa que acho que é o que o Diego falou é a porta, né de entrada acaba que a gente fala com novas incorporadoras que nunca ouviu falar da plataforma e um dos objetivos desse time para 2025 é justamente."
+      },
+      {
+        "startTime": 2375,
+        "endTime": 2381,
+        "speaker": "Bruna Soares",
+        "text": "E aí claro vai ter ajudado de vocês também em alguns pontos da abordagem mesmo, né? A gente identifica que a forma com que a gente tem algumas certas abordagens e enfim. Posso dar exemplo de mandar uma apresentação que tem muito escrito, cara. A pessoa não vai ler e ela não vai entender o que a gente faz então a gente começou já nesse comerciano a ter algumas outras coisas, né? Falou Ups diferentes e buscar em 2025 ter essa abordagem com essas novas incorporadoras."
+      },
+      {
+        "startTime": 2381,
+        "endTime": 2393,
+        "speaker": "Bruna Soares",
+        "text": "Que aí acho que eu começo a entender no sentido assim tudo que a gente tem que trabalhar aqui para que chegue no Diego para que chegue na cama. Para que chegue no SDR Enfim, acho que a gente já tá vendo alguns resultados, né de pessoas interessadas justamente porque a gente conseguiu virar um pouco essa chave nessa parte de abordagem."
+      },
+      {
+        "startTime": 2393,
+        "endTime": 2403,
+        "speaker": "Bruna Soares",
+        "text": "E é um dos objetivos do time tá independente do que vem aqui outras coisas que acarretem ao time de cadastro já é um objetivo para 2025 para expansão de um corpo."
+      },
+      {
+        "startTime": 2405,
+        "endTime": 2413,
+        "speaker": "Diego Diehl",
+        "text": "Essa Bruna essa foi até lacrimejei aqui. de bom"
+      },
+      {
+        "startTime": 2413,
+        "endTime": 2425,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos lá, vou puxar mais um aqui agora continuar avançando na oferta de ferramentas para tornar mais eficaz a gestão do canal de parcerias. Como é que isso ajuda o desafio?"
+      },
+      {
+        "startTime": 2438,
+        "endTime": 2438,
+        "speaker": "Eduardo Stringhini",
+        "text": "Essa pergunta é para mim."
+      },
+      {
+        "startTime": 2438,
+        "endTime": 2452,
+        "speaker": "Alejandro Olchik",
+        "text": "Uma dúvida vocês quiserem, tipo, eu tô tentando ser o último aqui a falar mas é se Deus quiser conseguem trazer algum. Algum alguma explicação aí Edu o jogo assim?"
+      },
+      {
+        "startTime": 2458,
+        "endTime": 2477,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom pessoal. Eu acho que assim né? Esse esse assunto, na verdade é o corda a gente ter produto que a gente a gente resolve o canal de parcerias, né? Então ele é um ele é um é um desenvolvimento contínuo de produto e quando a gente fala em desenvolver o nosso code oferta para o cliente."
+      },
+      {
+        "startTime": 2477,
+        "endTime": 2501,
+        "speaker": "Eduardo Stringhini",
+        "text": "Né? Nós estamos Nós estamos falando que tem que ser um objetivo tem que aparecer, né? Ele não tá tão conectado. Talvez com a escrita que tá lá em cima, né? Mas Eu acredito que ele tem que aparecer como como um desafio nosso continuo de desenvolvimento, né. e Eu tô com dificuldade que fiquei sem luz aqui."
+      },
+      {
+        "startTime": 2501,
+        "endTime": 2505,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí eu não me lembro exatamente os textos, né para conectar aqui."
+      },
+      {
+        "startTime": 2509,
+        "endTime": 2555,
+        "speaker": "Diego Diehl",
+        "text": "Posso contribuído é dar um exemplo prático? eu mandei para o grupo de diretoria Ela traz ali que o exemplo prático de continuar avançando na oferta de ferramentas para tornar mais eficaz de gestão que eu não parcerias uma incorporadora falar dois pontos uma incorporadora que usa Que avançou na utilização de ferramentas para tornar mais eficaz a gestão de parcerias dela da Incorporadora e o mercado enxerga sem Incorporadora, como tendo um canal de parcerias muito eficaz."
+      },
+      {
+        "startTime": 2555,
+        "endTime": 2580,
+        "speaker": "Diego Diehl",
+        "text": "e correlaciona que uma das causas é que ela tá muito próxima da hora, ele utiliza os produtos da órgão faz com que a gente comunica o nosso valor ao mercado de forma mais ostensiva então exemplo prática GT build em Curitiba contratou Z2 a E ela colocou como padrão na resposta para do Zé lá quando Zé vi informações do casa Milano."
+      },
+      {
+        "startTime": 2580,
+        "endTime": 2612,
+        "speaker": "Diego Diehl",
+        "text": "Do produto deles o combo de mensagens que vai vai links da hora. Ou seja é essa esse avanço da ferramenta para ajudar no canal de parcerias, gera uma alavanca possível da gente fazer todas as incorporadoras comunicarem sobre a órgão para o mercado e ajuda a gente a ser mais eficiente e se comunicar com o mercado então fazer com que vários corretores recebam links da hora no para acessar deu cara, entra e fala p*** não sou cadastrado."
+      },
+      {
+        "startTime": 2612,
+        "endTime": 2646,
+        "speaker": "Diego Diehl",
+        "text": "Putz olha só essa Incorporadora a gente cria uma automação para Incorporadora comunicar todo mundo que pode se integrar com a órgão aí surgem mais integrações. Enfim, então talvez não resolva muito atrito entre a gente e o mercado no sentido de falha de nossos processos, mas ajuda a gente a comunicar aumentar a percepção de valor que o mercado tem da hora porque o que vem de fora."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2660,
+        "speaker": "Diego Diehl",
+        "text": "Faz nove meses aqui 10. Cara enxergava a hora como um portalzinho. Não tive muito contato. Agora eu vejo que a hora não tem 10 vezes mais valor do que o que eu enxergava então para mim um desafio nosso é esse sabe fazer as pessoas entenderem? A órgão e que a gente não é nem de perto um dwv a gente tem muito mais coisas, então eu acho que com relaciona um pouco nisso."
+      },
+      {
+        "startTime": 2663,
+        "endTime": 2672,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu concordo que tem que cuidar para não desperdiçar para não dispersar esforços, tem que ter esse foco sempre no desafio assim. Como contribuir no desafio?"
+      },
+      {
+        "startTime": 2672,
+        "endTime": 2673,
+        "speaker": "Alejandro Olchik",
+        "text": "Edu"
+      },
+      {
+        "startTime": 2675,
+        "endTime": 2722,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tem mais um outro que é? A gente colocou ali o desafio de do outro Card ali que é do gdd. Que é uma forma da gente estar mais presencial nas praças entrando nas imobiliárias nas operações imobiliárias e Trabalhando dentro da cozinha do processo, né? De canal de parcerias e a gente avançar nessas ferramentas é combo de entregas da orla para esse modelo de gdd né? Então a gente pode ter várias entregas o branding de Tecnologia da orla ativação digital modelo de negócio etc, mas uma das entregas é a ferramenta, né? É a ferramenta de gestão do canal de parcerias para o GD digamos para o cara lá que tá numa cidade para uma empresa entrar numa cidade e faz gestão comercial."
+      },
+      {
+        "startTime": 2722,
+        "endTime": 2739,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então ela complementa uma outra área que ela é uma área que nos ajuda a penetrar fisicamente dentro da fisicamente na cidade, né? Porque essas operações de vender por natureza elas são presenciais, elas vão na imobiliária tem treinamento, né? Tem conversa até tipo um Corretores e se a gente tá."
+      },
+      {
+        "startTime": 2739,
+        "endTime": 2754,
+        "speaker": "Eduardo Stringhini",
+        "text": "Dentro dessa operação a gente ganha mais aí muitos vendedores na rua, né? A gente ganha um promotor. Bem bem bem de rua mesmo, né?"
+      },
+      {
+        "startTime": 2754,
+        "endTime": 2755,
+        "speaker": "Alejandro Olchik",
+        "text": "Campos"
+      },
+      {
+        "startTime": 2756,
+        "endTime": 2789,
+        "speaker": "Carolina Campos",
+        "text": "Acho que uma boa maneira também de explicar isso aqui hoje a hora ela é vista como uma ferramenta sem secundária dentro das incorporadoras, não é aquela ferramenta que o cara entra usa todos os dias ele consegue acessar ele vai abrir como se a gente trabalhasse o nosso CRM a gente chega e liga o CRM para ver o que que tá acontecendo e a hora não Ela acaba ficando um pouco secundária tendo parceria com outras empresas a nossa ferramenta acaba aparecendo mais no dia a dia de usabilidade."
+      },
+      {
+        "startTime": 2789,
+        "endTime": 2811,
+        "speaker": "Carolina Campos",
+        "text": "Então o cara vai receber uma mensagem como o Diego falou ali o link da orlorro. Aí a gente vai alimentar uma informação de DDD falando da hora então querendo ou não. A gente começa a aparecer mais estando nesses canais que são utilizados no dia a dia então acho que isso é uma explicação mais simples assim sabe é que eu vejo como cara, como que a gente vai fazer com que a nossa ferramenta ela deixa de ser secundária e ela apareça nas ações de dia a dia de todas as incorporadoras corretoras imobiliárias, sabe?"
+      },
+      {
+        "startTime": 2816,
+        "endTime": 2837,
+        "speaker": "Alejandro Olchik",
+        "text": "A intenção por trás desse direcionador é deixar claro que a jornada não acaba na distribuição, ela envolve o atendimento. E o fato da gente ter estabelecido uma parceria com a Z2 não significa que agora da Z2. A gente tem que olhar para jornada e resolver os atritos a gente não pode se abstém disso."
+      },
+      {
+        "startTime": 2837,
+        "endTime": 2860,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente tem que focar naquilo que adiciona valor então, por exemplo no ano passado a gente gastar um tempão um tempão, por exemplo tentando organizar o funil. Né do GD? E foi um esforço que foi super tipo uma medicação enorme né? Só que a gente não conseguiu transformar isso em valor."
+      },
+      {
+        "startTime": 2860,
+        "endTime": 2883,
+        "speaker": "Alejandro Olchik",
+        "text": "Para para eles e para Incorporadora, né? Existem desafios. Então o que efetivamente adiciona valor, o que que o estágio tecnológico atual ajuda a resolver de uma forma efetiva, né? Então aqui é essa parte aqui entra ela é importante então quando for uma viagem jornada a gente tem que estabelecer um mapa da jornada os pontos de atrito e um backlog priorizado."
+      },
+      {
+        "startTime": 2883,
+        "endTime": 2933,
+        "speaker": "Alejandro Olchik",
+        "text": "E de melhorias né? Mas garantindo que essa parte aqui do atendimento ela está contemplada também e pode tem pontos de dor tem pontos a serem resolvidos, né? Então essa é um pouco a lógica do direcionador, né? Então por isso que tá aqui. Né aqui quando está falando de prm agora, se a gente for pensar."
+      },
+      {
+        "startTime": 2933,
+        "endTime": 2928,
+        "speaker": "Alejandro Olchik",
+        "text": "Olha a gente vai. Olha aí o link, né sistematizar vendas de prm. Então o prm é o que tá entrando para dentro da Incorporadora. Vai ter um monte de atrito ali. Então distribuição PM tem que conversar assim, a gente tem um parceiro, a gente tem que fazer que as empresas se Conversem evoluir conjuntamente experiência da Incorporadora para resolver os pontos de atrito, então é essa é a lógica desse direcionador."
+      },
+      {
+        "startTime": 2928,
+        "endTime": 2967,
+        "speaker": "Alejandro Olchik",
+        "text": "Então, eu coloquei aqui jornada deve cobrir gestão de canal de parcerias e foco deve ser no que é eficaz e reduz atrito. E essa relação com a questão essa da eficácia de comunicação e jornadas. Faz sentido. Quais as ações aqui então? É bem pertinente isso vou dar um exemplo tá aqui o que a gente está conversando é entre a gente está meio que reorganizando, né? Colocando quem vai liderar."
+      },
+      {
+        "startTime": 2967,
+        "endTime": 2999,
+        "speaker": "Alejandro Olchik",
+        "text": "Cada esforço e está montando um plano de ação e resultado Chaves, a gente está tentando dizer primeiro trimestre segundo trimestre terceiro e quarto trimestre certo, essa é a lógica geral então para esse mapear vou dar um exemplo a uma das coisas é construir a jornada identificar pontos de atrito e montar um backlog para usar dos pontos a serem resolvidos, né? Tô dando um exemplo tem e a gente está fazendo essa quebra e vai ter resultados esperados, né dessa ação então isso não está aqui ainda."
+      },
+      {
+        "startTime": 2999,
+        "endTime": 3018,
+        "speaker": "Alejandro Olchik",
+        "text": "Até porque a gente está fazendo rascunho e a gente tem que envolver vocês, né? Esse bate-papo ver o que que viável, o que que não é né? E o quanto a gente consegue colocar de estrutura adicional para fazer avançar o que a gente gostaria de avançar em 2025, né? Eu acho que isso Responde um pouquinho aqui a pergunta não está muito amplo."
+      },
+      {
+        "startTime": 3018,
+        "endTime": 3055,
+        "speaker": "Alejandro Olchik",
+        "text": "Será que conseguimos eu também tenho dúvidas, né? Acho que todos nós temos. Então a primeira rodada de obtidos que a gente fez, a gente tava discutindo p*** é muita coisa. Não vai dar e quem vai deixar de fora, né? Então agora vem uma questão de terá né e ver efetivamente o que a gente consegue fazer e o que a gente que não consegue fazer e a gente precisa consultar organização e ver a capacidade de investimento para ver o que a gente consegue ou não consegue fazer tá? Então é isso tá em desenvolvimento e acho que da mesma forma que vocês têm dúvida, a gente também tem mas um ponto aqui da nossa estratégia."
+      },
+      {
+        "startTime": 3055,
+        "endTime": 3107,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente focou aqui e a gente tem uma cadeia de valor então nosso olhar é otimizar essa cadeira de valores. Então a gente tem vários pontos que a gente tem que mexer. E nisso tá o nosso diferencial competitivo, então, a gente não consegue dizer só isso. Né é o elo todo que tem que estar funcionando muito azedado e isso que nos traz diferencial e que evita que outros concorrentes consigam fazer o que a gente faz na vida que a gente vai tipo nessa densidade até a gestão eficaz do atendimento do gerente que tá conversando com o corretor, né alguém para entrar no que a gente faz vai ter que cobrir a cadeia como um todo, entendeu? Então quem está tentando evoluir essa nossa cadeia removendo os atritos da jornada como uma estratégia de diferenciação."
+      },
+      {
+        "startTime": 3107,
+        "endTime": 3123,
+        "speaker": "Alejandro Olchik",
+        "text": "Então essa é um pouco a lógica. E para isso a gente tem que mexer em toda a cadeia, se a gente for ver por isso que tem aspecto da a gente fala que além da comunicação fala de cadastro atualização, fala de velocidade de desenvolvimento fala de mar. Bruna"
+      },
+      {
+        "startTime": 3125,
+        "endTime": 3141,
+        "speaker": "Bruna Soares",
+        "text": "São uma das coisas quando fala atrito assim, eu acho que tem muito a ver. Claro que a gente tá olhando por Incorporadora para com corretores imobiliárias como a gente quer ser visto, né? Mas acho que um grande atrito que eu não vi aqui muito. Talvez isso entre nas ações que aí fica um pouco mais claro é do nosso atrito interno."
+      },
+      {
+        "startTime": 3141,
+        "endTime": 3162,
+        "speaker": "Bruna Soares",
+        "text": "É da gente não ter um bom planejamento nosso da gente. Por exemplo assim uma das perguntas é organizar a área de expansão ali das ações a organizar área de expansão sobre comunicação com o mercado que é da efetividade entre assinar novas praças eu não vou trazer exemplos das praças que a gente já entrou, mas a gente teve diversos atritos e que a gente isso não foi efetivo."
+      },
+      {
+        "startTime": 3162,
+        "endTime": 3179,
+        "speaker": "Bruna Soares",
+        "text": "Então assim aonde entra a gente nisso, eu sei que a gente quer mostrar como a gente quer mostrar para o mercado que a gente quer levar, mas como a gente essas ações vão ser por quem né? Eu acho que isso pesa. Isso que vai pesar para ser ativo ou não?"
+      },
+      {
+        "startTime": 3181,
+        "endTime": 3192,
+        "speaker": "Alejandro Olchik",
+        "text": "É por isso que a gente está dizendo aqui, já vou passar para maior. Olha é aqui que a gente quer. Agora a gente vê conversar aí vai quebrar questão de estrutura"
+      },
+      {
+        "startTime": 3192,
+        "endTime": 3192,
+        "speaker": "Carolina Campos",
+        "text": "Agora o bagulho vai ficar louco."
+      },
+      {
+        "startTime": 3198,
+        "endTime": 3211,
+        "speaker": "Alejandro Olchik",
+        "text": "incentivo dos incentivos para conversar comunicação Barreiras, tipo que é o que a gente não podemos fechar os olhos para nada, senão a gente não vai conseguir fazer. Esse é o desafio. Mari"
+      },
+      {
+        "startTime": 3212,
+        "endTime": 3237,
+        "speaker": "Mariana Marins",
+        "text": "Eu acho que até também como desafio isso interno é em relação à comunicação entre as áreas de capitalizar o que que tá acontecendo então tipo. Tem essa ação que vai acontecer a gente está planejando entrar em tal praça, não sei quê. Porque às vezes chega isso muito atrasado e a gente tem que ser muito reativo nas áreas e não propositivo então, acho que isso também é um ponto de atenção para esse próximo espaço."
+      },
+      {
+        "startTime": 3260,
+        "endTime": 3261,
+        "speaker": "Alejandro Olchik",
+        "text": "imagem"
+      },
+      {
+        "startTime": 3273,
+        "endTime": 3284,
+        "speaker": "Bruna Soares",
+        "text": "Você chegaram uma das ações seria implementar pronto atendimento incorporadoras e tem também pronto atendimento a corretores imobiliárias e se você já tem. Como seria esse pronto atendimento?"
+      },
+      {
+        "startTime": 3287,
+        "endTime": 3329,
+        "speaker": "Alejandro Olchik",
+        "text": "A ideia é que a Incorporadora tem um canal que possa ter um retorno em menos de 5 minutos, então tem um pessoas que vão responder. Né e direto assim mude a imagem. Às vezes a gente tem uma margem de letargia nem em relação a esses atendimentos. E que nos Sirva como coleta e identificação de pontos de atrito para melhor melhorar a jornada Da mesma forma a gente quer fazer com corretores imobiliários, talvez a gente não faça para toda a base a gente faça para praças que a gente está entrando são coisas que a gente tem que definir."
+      },
+      {
+        "startTime": 3329,
+        "endTime": 3355,
+        "speaker": "Alejandro Olchik",
+        "text": "Né? Essa parte do pronto atendimento corretores imobiliárias, mas incorporadoras uma atenção a fazer tem uma incorporadora DL. Né? Então tem alguma dúvida que conversa já tem uma chance a gente fechamento direto, entendeu? Em relação a carne. Então essa é um pouco lá então. A ideia é realmente ter gente na frente do computador que já via WhatsApp o chat perguntou respondeu."
+      },
+      {
+        "startTime": 3355,
+        "endTime": 3363,
+        "speaker": "Alejandro Olchik",
+        "text": "Encaminhou atendeu, né? Tipo e procurando encantar o cliente no atendimento um pouco. Essa é a lógica."
+      },
+      {
+        "startTime": 3364,
+        "endTime": 3383,
+        "speaker": "Carolina Campos",
+        "text": "Isso aí tanto que na próxima semana vai rolar uma agenda individual com cada liderança de cada área para entender já um pouco de pontos de atrito e a gente conseguir entender qual que vai ser a estruturação para ter essa resposta em cinco minutos, vai ser uma pessoa que atende todos os setores e vai redirecionar os atendimentos."
+      },
+      {
+        "startTime": 3383,
+        "endTime": 3388,
+        "speaker": "Carolina Campos",
+        "text": "Então tudo isso a gente tá agora que entra como planejamento do de como vamos operacionalizar isso, tá?"
+      },
+      {
+        "startTime": 3392,
+        "endTime": 3404,
+        "speaker": "Bruna Soares",
+        "text": "É porque Justamente eu pensei nisso, vai ser alguém que sabe um pouco de tudo ou vai ser só alguém que vai estar direcionando para o Diego que é responsável por tal assunto e ele bom, ele tem que estar responsável por também responder em 5 minutos, né? Enfim."
+      },
+      {
+        "startTime": 3404,
+        "endTime": 3428,
+        "speaker": "Carolina Campos",
+        "text": "Com a liderança que vai ser muito importante, é porque a ideia é ter aquela pessoa que a gente fala que aquela pessoa querida que vai atender o cara ali. Olá tudo bem. Pera aí vou resolver o seu problema e aí ela vai obruna tem um problema aqui para ser resolvido você prazo para me responder de 48 horas e olha esse problema já foi direcionado em até 48 horas, nós estudaremos um retorno."
+      },
+      {
+        "startTime": 3428,
+        "endTime": 3440,
+        "speaker": "Carolina Campos",
+        "text": "Então é mais só não ficar sem esse ponto de resposta. Seja no chamado ou seja na conclusão sabe que a gente vê que isso muito grande, vocês sabem mais do que que a gente né?"
+      },
+      {
+        "startTime": 3440,
+        "endTime": 3441,
+        "speaker": "Bruna Soares",
+        "text": "não uma coisa que eu sinto só"
+      },
+      {
+        "startTime": 3441,
+        "endTime": 3445,
+        "speaker": "Diego Diehl",
+        "text": "Bruna o Insight pode falar isso aí é complementar."
+      },
+      {
+        "startTime": 3445,
+        "endTime": 3452,
+        "speaker": "Bruna Soares",
+        "text": "porque como é que cai em vários setores e todo mundo acaba falando a gente não tem muito um padrão de fala sabe também. Isso às vezes eu sinto um pouco a"
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3453,
+        "speaker": "Carolina Campos",
+        "text": "Acho que a palavra aqui é que"
+      },
+      {
+        "startTime": 3453,
+        "endTime": 3463,
+        "speaker": "Bruna Soares",
+        "text": "falta assim, a gente não tem um padrão de começo de chamado de perguntar o que aconteceu. A gente não tem esse padrão isso deveria ser uma coisa geral, né? Não cada um resolver fazer."
+      },
+      {
+        "startTime": 3466,
+        "endTime": 3490,
+        "speaker": "Carolina Campos",
+        "text": "muito na nossa reunião é o encantamento, né? Então a gente conseguir trazer realmente encantamento a pessoa pode ter um problema ela só quer saber se está sendo resolvido, né? Ela não não tem problema ela esperar ser resolvido, mas muitas vezes, ela fica no Limbo. Então ela perde uma atualização é atualizado e ela não sabe que foi atualizada e ela fica pensando que ainda não foi atualizado."
+      },
+      {
+        "startTime": 3490,
+        "endTime": 3508,
+        "speaker": "Carolina Campos",
+        "text": "E aí já foi vocês foram eficazes todo mundo resolveu mas ela não teve aquela resposta então acho que a gente tentar encontrar um ponto comum para poder dar essa esse encantamento para o cara vai falar c******, né? O atendimento deles é muito bom sabe que faz muita diferença hoje, né? A gente como como cliente de outras empresas sabe muito bem o quanto o atendimento impacta em continuar ou não com o produto."
+      },
+      {
+        "startTime": 3510,
+        "endTime": 3537,
+        "speaker": "Diego Diehl",
+        "text": "O Bruno o Insight aqui para complementar só porque que o significaz na comunicação e ter atritos na jornada a gente colocou tipo eu acredito que é um bom desafio. A gente tem uma estratégia de crescimento de do próprio produto proporcional o crescimento da nossa base da nossa audiência de tudo muito forte."
+      },
+      {
+        "startTime": 3537,
+        "endTime": 3574,
+        "speaker": "Diego Diehl",
+        "text": "E só que o que eu percebo por exemplo, Curitiba, principalmente que eu tive mais contato é que a galera tá muito no local neutro de NPS assim, sabe? Quando você falar você tá de trator neutro ou promotor, entendeu? E se a gente tem um pronto atendimento que gera uma oportunidade de conexão com essas pessoas por mais que seja no baixo volume e a pessoa gera um uma conexão com a empresa alguém atende com o nome que fala com ela pergunta-se que algo mais essa pessoa passa da nota 7 para nota 9."
+      },
+      {
+        "startTime": 3574,
+        "endTime": 3594,
+        "speaker": "Diego Diehl",
+        "text": "E aí ela começa a promover a gente então ela fala da hora ela Divulga a hora ela fala para mim Incorporadora se ela conhece ela e a gente tá dando sete, eu acho que é oito até neutro na metodologia lá do NPS. Então a minha sensação que eu tenho é do pouco trabalho que eu fiz ali em Curitiba."
+      },
+      {
+        "startTime": 3594,
+        "endTime": 3634,
+        "speaker": "Diego Diehl",
+        "text": "Eu trouxe alguns poucos corretores como promotores e eles estão fazendo um trabalho muito legal para gente porque a nossa plataforma ela é muito já ela mesmo cresce. Só que essa esse pouquinho esforço a mais que a gente pode dar pode fazer grande diferença no mercado. Até para as incorporadoras também sentirem que são bem atendidas."
+      },
+      {
+        "startTime": 3634,
+        "endTime": 3636,
+        "speaker": "Diego Diehl",
+        "text": "E aí promoverem a gente saírem do neutro então uma mudança talvez de Talvez pensar muito em escala e fazer tudo sozinho é um por um pouquinho de ser humano nesse meio e o mercado imobiliário. Ele é muito relacionado. Então eles valorizam muito isso e talvez isso a gente acredita pode gerar resultado legal para a gente só complementando."
+      },
+      {
+        "startTime": 3638,
+        "endTime": 3668,
+        "speaker": "Bruna Soares",
+        "text": "Não sei, mas acho que uma das ações que pode estar relacionada então É de fato essa cultura interna porque a gente tem que botar isso internamente a gente tem que entender que a gente tem que entregar mais para o cliente. Eu não tenho que dar bom dia e esperar que ele me dê um problema sabe? Eu tenho que mostrar que eu tenho interesse em saber em que eu posso ajudar ele se eu posso ajudar em algo mais mesmo não sendo a pessoa que vai ajudar na segunda coisa, mas enfim."
+      },
+      {
+        "startTime": 3668,
+        "endTime": 3673,
+        "speaker": "Bruna Soares",
+        "text": "Acho que isso vem de Cultura interna é da gente também poder estabelecer isso muito internamente assim não só no sentido do atrito que eu falei de comunicação. Acho que é enraizar essa cultura de querer entregar cada vez mais para os clientes sendo ele pagantes ou não."
+      },
+      {
+        "startTime": 3675,
+        "endTime": 3712,
+        "speaker": "Diego Diehl",
+        "text": "Tanto que uma uma sugestão que eu fiz um pedido até eu tava meio emocionado na hora que eu falei gente a gente tem que urgente parar de chamar só de cliente. E parar de chamar DL de DL todos são clientes. A gente tem que atender todos com muita muito carinho muita atenção, porque a gente tá plantando ali uma coisa muito importante e Bruno."
+      },
+      {
+        "startTime": 3712,
+        "endTime": 3721,
+        "speaker": "Diego Diehl",
+        "text": "Eu gosto de uma frase que até foi um pouco deturpado aqui no Brasil do Peter Drucker que ele fala que a estratégia a cultura se alimenta da estratégia no café da manhã. E não é a cultura devora estratégia. Teve gente que traduziu assim, ficou horrível, parece que a cultura é que manda em tudo na real uma estratégia como essa que tem um post-it ali escrito que a gente quer atender melhor."
+      },
+      {
+        "startTime": 3721,
+        "endTime": 3734,
+        "speaker": "Diego Diehl",
+        "text": "Isso vai alimentar Nossa cultura porque a gente começa a cobrar as pessoas que atendam bem e não só que atendam 300 clientes. Mas pode entender 180, mas isso alimenta a nossa Cultura."
+      },
+      {
+        "startTime": 3734,
+        "endTime": 3757,
+        "speaker": "Alejandro Olchik",
+        "text": "Fazer uma outra discussão que a gente teve tá no nosso estava com uma das a gente conversou sobre vários cenários, né? E um dos cenários que a gente estava hipotetizando é? Se o nosso parceiro local ele atualizasse os Empreendimentos da região dele. Foi uma hipótese que foi colocada a gente conversou sobre isso etc."
+      },
+      {
+        "startTime": 3757,
+        "endTime": 3776,
+        "speaker": "Alejandro Olchik",
+        "text": "E um ponto que a gente identifica é o seguinte as pessoas elas têm aptidões Diferentes, né uma pessoa Às vezes ela comunicativa conversa, mas ela não dispe nada organizado e metodódica para fazer por exemplo, atualização e cadastro a gente também não pode acreditar que uma pessoa vai ser tudo porque você não vai conseguir esses benefícios."
+      },
+      {
+        "startTime": 3776,
+        "endTime": 3812,
+        "speaker": "Alejandro Olchik",
+        "text": "Então a gente tem que entender que existe essas aptidões existem essas microculturas, né? Mas tem que olhar o que a gente quer entregar então para a gente ficou Claro que não faz sentido parceira fazer atualização, não perfil dele, mas o mais estrutura de parcerias também forte local também reforça oral de comunicação com as incorporadoras e um atendimento né? E essa lógica de entregar Progresso ao cliente, então a gente tem que a gente tem que ser inteligente e entender que os pontos de dor e como atacar eles consideram as estruturas que a gente está colocando."
+      },
+      {
+        "startTime": 3812,
+        "endTime": 3841,
+        "speaker": "Alejandro Olchik",
+        "text": "No ar né para responder a esses atritos que a gente identifica. Então esse é uma parte da jornada uma parte da forma como a gente vai repensar as coisas como a gente faz elas internamente né? Mas eu quero dizer o seguinte. Olha a gente já tem o valor de entregar progresso para o cliente, né e não necessariamente todo mundo que a gente vai contratar vai ter o perfil de encantar o cliente buscar em canto ele não faz outra coisa que também é importante tipo de atividades que são diferentes."
+      },
+      {
+        "startTime": 3845,
+        "endTime": 3864,
+        "speaker": "Rubem Rocha",
+        "text": "Só uma dúvida se todas as ações aqui já foram mapeadas para entender se são mensuráveis a gente conseguiria transformar todas em objetivos. Chave né? Tipo como a gente poderia saber se a gente atendeu essa esse objetivo ou não? resultado"
+      },
+      {
+        "startTime": 3868,
+        "endTime": 3886,
+        "speaker": "Alejandro Olchik",
+        "text": "quem está colocando a gente vai realizar os locais com vocês, mas a gente vai elaborar eles com vocês, tipo em vocês não tá tem ações aqui que a gente não consegue destrinchar a gente a gente fez um rascunho e agora tipo eu tenho que conversar com a Talita. Tem que conversar com a Marta."
+      },
+      {
+        "startTime": 3886,
+        "endTime": 3907,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem que falar Fernando, né? Tipo cada um tem conversar e trazer o que a gente tá imaginando ajustar melhorar cortar fora do que a gente acha que não vai dar entendeu? Para consolidar esse planejamento. Esse é um processo que a gente está nesse momento. Então, a gente tá fazendo reuniões para detalhar os objetivos e o resultado Chaves e quando cada coisa vai acontecer."
+      },
+      {
+        "startTime": 3907,
+        "endTime": 3927,
+        "speaker": "Alejandro Olchik",
+        "text": "Então aqui tá colocado estratégia e tá dado o aviso agora a gente vai conversar com vocês detalhadamente. Então você já sabem sobre o que que é. Acho que é basicamente. Essa é a lógica geral. Que mais gente."
+      },
+      {
+        "startTime": 3942,
+        "endTime": 3971,
+        "speaker": "Bruna Soares",
+        "text": "Uma ideia só que eu tive enfim, mas é só de ação tá na parte de apoiar Incorporadora imobiliárias a promover bons Empreendimentos. E aí vai para ampliar a equipe melhor produto de ativação, né? Da gente poder linkar isso com alguma coisa aqui da parte de operação que é principalmente relacionado a produtos novos que entram né? Isso a gente não consegue não tem essa eu acho que não é tão bem comunicado para quem cuida da ativação para poder fazer essa oferta."
+      },
+      {
+        "startTime": 3971,
+        "endTime": 3972,
+        "speaker": "Bruna Soares",
+        "text": "Foi só essa eu liguei isso, sabe?"
+      },
+      {
+        "startTime": 3972,
+        "endTime": 3997,
+        "speaker": "Diego Diehl",
+        "text": "Eu falei eu. Perguntei para alguns incorporadores que que eles gostariam de saber do mercado como News Leader da hora. E eles falaram que queriam saber os lançamentos e que hoje Eles não conseguem saber direito porque o e-mail que ele chega chega um monte de exclusividade e tal muito produto então é Incorporadora quer saber de lançamento o corretor quer saber de lançamento."
+      },
+      {
+        "startTime": 3997,
+        "endTime": 4008,
+        "speaker": "Diego Diehl",
+        "text": "Quer saber quando é que vai ter o próximo lançamento o que que vai ter né? E enfim todo mundo quer saber né a informação que a gente tem."
+      },
+      {
+        "startTime": 4008,
+        "endTime": 4025,
+        "speaker": "Bruna Soares",
+        "text": "É e uma outra coisa, até comento muito com Marcelo, tá? A gente tem um critério de padrão para cadastrar produtos hoje, tá na operação cadastro de talvez rever isso também, porque será que é mais importante o corretor querer ver algo muito recente que está recém-nascido do que esperar ter informações que a gente tem como padrão."
+      },
+      {
+        "startTime": 4025,
+        "endTime": 4046,
+        "speaker": "Bruna Soares",
+        "text": "E a gente acaba não oferecendo esse produto porque a gente não tem as informações suficientes. Isso acaba que a gente não apoia o mercado, né? Tipo crescimento daquele produto para aquela Incorporadora, porque a gente Barra. E eu dou um exemplo ontem, a gente barrou de ar. Mas que o Marcelo liberou, olha vamos cadastrar igual porque não tem foto de fachada."
+      },
+      {
+        "startTime": 4046,
+        "endTime": 4046,
+        "speaker": "Bruna Soares",
+        "text": "Então eu acho que isso vai isso dá"
+      },
+      {
+        "startTime": 4046,
+        "endTime": 4049,
+        "speaker": "Diego Diehl",
+        "text": "Dá equilíbrio. obrigado"
+      },
+      {
+        "startTime": 4049,
+        "endTime": 4066,
+        "speaker": "Bruna Soares",
+        "text": "barreira sabe isso aqui porque a gente bota a barreira nisso aqui a gente não deixa ele ampliar né de apoiar ele porque porque a gente tem barreiras de padrão internos da operação. Então a gente medir isso o quanto a gente tá barrando e o quanto a gente tá ajudando sabe?"
+      },
+      {
+        "startTime": 4066,
+        "endTime": 4069,
+        "speaker": "Rubem Rocha",
+        "text": "Até eu acho que não precisaria mexer na visão sistêmica que a gente tem sobre colocar ou não"
+      },
+      {
+        "startTime": 4069,
+        "endTime": 4070,
+        "speaker": "Bruna Soares",
+        "text": "Não."
+      },
+      {
+        "startTime": 4070,
+        "endTime": 4095,
+        "speaker": "Rubem Rocha",
+        "text": "Lançamento. Acho que a gente precisa só colocar uma pessoa para criar News de repente porque hoje Ele é automática, né? Então a gente Depende muito do que é dentro do que tem dentro do órgão no nosso banco para ser colocado numa News e quando na verdade a gente tem informações mínimas para já anunciar que em breve em São Paulo, vai ter um produto novo na Vila Mariana que nem tá no portal, mas que a gente já pode colocar isso no informativo para o cliente."
+      },
+      {
+        "startTime": 4095,
+        "endTime": 4101,
+        "speaker": "Bruna Soares",
+        "text": "Que não tá cadastrado, mas que em breve saindo do Forno enfim."
+      },
+      {
+        "startTime": 4101,
+        "endTime": 4106,
+        "speaker": "Rubem Rocha",
+        "text": "Lapeado já tá né? Já tá acompanhando ele tá no nosso radar então."
+      },
+      {
+        "startTime": 4106,
+        "endTime": 4108,
+        "speaker": "Alejandro Olchik",
+        "text": "Bruno"
+      },
+      {
+        "startTime": 4108,
+        "endTime": 4187,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu queria trazer um pouquinho da Visão assim dos corretores das imobiliárias que que o hotel costumo falar na argumentação de venda para estimular ele entrar num plano paga enfim que é do pãozinho quente na prateleira, né? Que é aquele momento de pré-lançamento que isso é ouro para o corretor e para Imobiliária e a gente sabe que a gente acaba divulgando muito claro quem era como como falaram aqui quem é nosso cliente, mas todos são nossos clientes então aquele empreendimento que é um da E aí eu falo para eles olha muitas vezes aqueles Empreendimentos em momento, né, o pãozinho que a gente na prateleira e inicialmente ele não vai entrar ali investindo ali como dear ele vai ser um desses Empreendimentos aqui do plano pago porque é Incorporadora ela quer sentir o mercado quer ver? Como é que vai ser a liquidez."
+      },
+      {
+        "startTime": 4187,
+        "endTime": 4182,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Esse empreendimento né? Então eu trago isso para de repente a gente pensar em alguma coisa e a gente trazer essa informação que é muito valiosa para o corretor. Independente de ser necessariamente onde há muitas vezes, ele ainda tá no DL e fazer pensar em algum jogo uma gameficação digamos assim sabe de incentivar que o próprio corretor imobiliário."
+      },
+      {
+        "startTime": 4182,
+        "endTime": 4199,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Olha eu quero receber como a gente já discutiu na outra reunião que que a gente teve que eu quero que esse Incorporadora em vista e eu recebo gratuito, mas da mesma forma que bom Recebi a informação que há um empreendimento importante para mim e eu aqui com um corretor Imobiliária."
+      },
+      {
+        "startTime": 4199,
+        "endTime": 4242,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Vou investir vou fazer um upgrade aqui para o plano paga não vou ficar. Que acomodado aqui no gratuito que eu tô perdendo essas oportunidades o time desse pré-lançamento desse lançamento então só joguei isso aqui para a gente pensar em algumas formas de engajar um pouquinho mais o corretor e a Imobiliária e nos ajudar nessa conversão que muitas vezes ele vai nos ajudar se a gente tá trazendo valor para ele e para ele é muito valor nesse momento do empreendimento que ele tá num pré-la no lançamento no lançamento que tem muitas unidades, né? Que é um produto novo no mercado então só para trazer um pouquinho isso e de repente a gente destrinchar e ver Entre esses objetivos."
+      },
+      {
+        "startTime": 4242,
+        "endTime": 4251,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "O que que a gente pode criar fazer para incentivar esse engajamento do corretor Imobiliária e trazer para ele essa informação que é bem importante aí do momento de pré-lançamento do empreendimento, né? Que eu não vejo como Já colocaram aqui fica é difícil do corretor identificar assim, se não é algum que já tá ali patrocinando um destaque onde é."
+      },
+      {
+        "startTime": 4256,
+        "endTime": 4261,
+        "speaker": "Alejandro Olchik",
+        "text": "Edu"
+      },
+      {
+        "startTime": 4261,
+        "endTime": 4265,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu vou trazer outro assunto, não sei se querem explorar esse ainda eu ia trazer um novo aí."
+      },
+      {
+        "startTime": 4268,
+        "endTime": 4290,
+        "speaker": "Diego Diehl",
+        "text": "Só dizer que essa toalhinha é super é bom a gente tentar agora pensar muito na relação de desafio, né? A gente falou que a ineficaz em se comunicar com o mercado, né? Como que a gente se comunica lançamento para o corretor comunica isso às vezes o corretor pode fazer um DL converter de ar só dele pedir informação do breve lançamentos."
+      },
+      {
+        "startTime": 4290,
+        "endTime": 4318,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá, então acho que o que eu tô muito focado aqui só para compartilhar com vocês. Tentar criar mais comunicações que são comunicações mesmo periódicas que a gente traz que a gente Comunica a gente traz e não exatamente eles dobrar tudo para deve, né tudo para ter que desenvolver, senão a gente gargala outras coisas exemplo prático tá Bruno, a gente tem a lista de breve lançamento."
+      },
+      {
+        "startTime": 4327,
+        "endTime": 4328,
+        "speaker": "Diego Diehl",
+        "text": "Sabe então, cara."
+      },
+      {
+        "startTime": 4328,
+        "endTime": 4330,
+        "speaker": "Rubem Rocha",
+        "text": "Imagina isso bem elaborado, né bem apresentado."
+      },
+      {
+        "startTime": 4330,
+        "endTime": 4356,
+        "speaker": "Diego Diehl",
+        "text": "É muito simples, então, talvez é eu tô tentando me concentrar em comunicações ser mais eficaz se comunicando com o mercado. Reduzindo atritos e ver o que que tá na nossa mão aí que eu acho que essa talvez esse desafio ele não seja resolvido em um ano mesmo, né? Mas a gente pode olhar o Pareto aí o que que debaixo esforço alto impacto a gente pode fazer nesse ano para já validar isso como um bom resultado e mudar a gente de patamar."
+      },
+      {
+        "startTime": 4359,
+        "endTime": 4374,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "É que por exemplo até do meu desconhecimento assim essa lista de breve lançamento e Poxa, eu vejo que se a gente tem uma lista dessa é super valioso para o corretor. Tragam aqui para o comercial aí poder impactar. Trazer isso para o corretor. Não sei se é algo novo já tá bem estruturado."
+      },
+      {
+        "startTime": 4374,
+        "endTime": 4391,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Enfim, mas qualquer coisa que a gente consiga como por exemplo. Isso ter essa lista e passar para ele é mais valor que a gente tá trazendo para ele, então acho que faz parte justamente dessa comunicação. Assim entre nós essas novidades. Que que podem vir a dar valor algumas áreas e a gente ainda não tem conhecimento."
+      },
+      {
+        "startTime": 4391,
+        "endTime": 4420,
+        "speaker": "Diego Diehl",
+        "text": "Bruna trouxe esse ponto né da gente ser ineficaz na nossa não sei se foi a Bruna. Acho que foi armário da nossa de uma certa ineficácia na nossa comunicação interna, né? Às vezes uma informação que está numa área tem dois de valor que se passa por outra área. Tem nove de valor essa área se comunica com o mercado gera valor, né? Então acho que a gente vai passar por esse por esse desafio interno para poder se comunicar com o mercado, né? Se não tem como se comunicar bem com externo sem internamente nos"
+      },
+      {
+        "startTime": 4422,
+        "endTime": 4439,
+        "speaker": "Rubem Rocha",
+        "text": "E foi um site também do Diego, né? Porque no fim ele é o inverso de uma lista que a gente usa a gente faz acompanhamento dos bregas que já venceram para pedir tabela e a gente acaba tendo dentro desse relatório os Breves que ainda não venceram. Então o Diego pediu a gente tinha um relatório pronto até certo ponto a gente conseguiu liberar."
+      },
+      {
+        "startTime": 4455,
+        "endTime": 4481,
+        "speaker": "Eduardo Stringhini",
+        "text": "tá ruim aqui meu celular tô com Bom pessoal, eu tive um outro assunto que é o assunto de marketing que foi bastante falado assim lá durante. O evento assim, né? Eu queria ver se alguém que entendesse o que Que Vocês entenderam aqui do planejamento sobre sobre as estratégias vinculadas a estrutura de marketing da empresa."
+      },
+      {
+        "startTime": 4481,
+        "endTime": 4501,
+        "speaker": "Eduardo Stringhini",
+        "text": "Se ficou eu queria ver se alguém teve qual entendimento. Vocês tiveram assim e se ele tá casado com um pouco do que a gente falou lá. Alguém gostaria de falar um pouco assim que entendeu com relação ao marketing?"
+      },
+      {
+        "startTime": 4501,
+        "endTime": 4502,
+        "speaker": "Rubem Rocha",
+        "text": "olhando pelo quadro aqui, me parece"
+      },
+      {
+        "startTime": 4502,
+        "endTime": 4502,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom a gente a gente discutiu"
+      },
+      {
+        "startTime": 4502,
+        "endTime": 4502,
+        "speaker": "Rubem Rocha",
+        "text": "só aumento na estrutura mesmo."
+      },
+      {
+        "startTime": 4502,
+        "endTime": 4507,
+        "speaker": "Eduardo Stringhini",
+        "text": "lá."
+      },
+      {
+        "startTime": 4507,
+        "endTime": 4508,
+        "speaker": "Rubem Rocha",
+        "text": "Pensaria só olhando Isso parece sua"
+      },
+      {
+        "startTime": 4508,
+        "endTime": 4509,
+        "speaker": "Eduardo Stringhini",
+        "text": "Oi"
+      },
+      {
+        "startTime": 4509,
+        "endTime": 4531,
+        "speaker": "Rubem Rocha",
+        "text": "contratações só ampliação da equipe assim tá bem vago, inclusive foi um dos pontos que me fez perguntar sobre a se possível mensurar, né? Se esse ponto foi atendido ou não mais para frente porque não tá vago mas ampliar a estrutura de marketing fortalecer parece. Só sei lá, acréscimo de pessoal ou algo do tipo realmente alguns pontos menos Claros."
+      },
+      {
+        "startTime": 4538,
+        "endTime": 4548,
+        "speaker": "Eduardo Stringhini",
+        "text": "De uma forma mais. Não sei se vai ficar bom de eu falar aqui que tá cortando minha conexão eu vou falar tudo picotado. Vocês estão me ouvindo aí?"
+      },
+      {
+        "startTime": 4548,
+        "endTime": 4550,
+        "speaker": "Diego Diehl",
+        "text": "Que Ciro vídeo que vai fluir melhor."
+      },
+      {
+        "startTime": 4554,
+        "endTime": 4590,
+        "speaker": "Eduardo Stringhini",
+        "text": "De um modo resumido assim a gente discutiu muito sobre a importância que tem a ativação digital. Para compor os nossos serviços e na geração de receita. E que isso não seja confundido com a estrutura de marketing. Para apoiar o crescimento da empresa, né? São coisas separadas então. Eu acho que isso é uma coisa que a gente discutiu lá e que a gente tem que aumentar as duas estruturas, né? A gente tem uma estrutura de geração de receita e apoio."
+      },
+      {
+        "startTime": 4590,
+        "endTime": 4632,
+        "speaker": "Eduardo Stringhini",
+        "text": "De produto para o cliente muito interessante que a própria ativação inclusive apoiar GD outras frentes. E a gente tem um problema de comunicação com o mercado que é o desafio é o desafio de ponta lá, né? Então essas esse marketing ele tem essas duas frentes, né? Não é que ativação tá dentro de um guarda-chuva Geral de marketing, né? Mas a gente separar o quanto a gente tem de estrutura voltada para produto de marketing, né para gerar receita e vender marketing e o quanto a gente tem de marketing para divulgar órgão né para entrar numa praça para gerar evento para comunicar melhor."
+      },
+      {
+        "startTime": 4632,
+        "endTime": 4653,
+        "speaker": "Eduardo Stringhini",
+        "text": "Para apoiar as áreas comerciais para entender então acho que isso foi uma coisa que a gente discutiu bastante lá e agora. Alejandro vai desdobrar bastante com a Mari aí, mas marque foi um assunto muito falado assim lá na na que a gente tem que investir mais nessa nessa área, tá? Então queria colocar essa vê se ficou claro isso aqui no planejamento para vocês da forma como Alejandro apresentou."
+      },
+      {
+        "startTime": 4653,
+        "endTime": 4660,
+        "speaker": "Eduardo Stringhini",
+        "text": "Acabei aqui meu."
+      },
+      {
+        "startTime": 4660,
+        "endTime": 4681,
+        "speaker": "Bruna Soares",
+        "text": "Acho que não só eu entendi que é ampliar realmente ter mais gente no marketing quando tá ali, mas justamente que eu acho que o marketing hoje pela estrutura que ele tem ele não consegue também dar um apoio interno. Deu exemplo para vocês ali de poder trabalhar com expansão de corte, a gente está fazendo a arte a gente tá fazendo apresentação, só que assim a gente não é de marketing."
+      },
+      {
+        "startTime": 4681,
+        "endTime": 4684,
+        "speaker": "Bruna Soares",
+        "text": "a gente tá tentando achar uma forma de encantar e de mostrar e de levar"
+      },
+      {
+        "startTime": 4684,
+        "endTime": 4685,
+        "speaker": "Eduardo Stringhini",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 4685,
+        "endTime": 4713,
+        "speaker": "Bruna Soares",
+        "text": "mas talvez uma pessoa de marketing consegue ter um olhar que a gente não tem né? Enfim. Acho que todo pode dar exemplo até Bruno Imobiliária, né poder trazer alguma coisa que possa estar divulgando. Enfim, acho que poder ter internamente o apoio do marketing de estar nos outros times fazendo esse apoio aí para poder mostrar para o mercado, né? Acho que a gente precisa se olhar do marketing em cada time para a gente poder identificar."
+      },
+      {
+        "startTime": 4713,
+        "endTime": 4738,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso aí então uma coisa é o produto. Que está na área de marketing, né? Que é ativação outra coisa é o marketing apoiando tanto internamente quando estamos dentro do mercado lá vendo o que tá acontecendo apoiando com evento com comunicação, né? Então a gente tem que ampliar as duas coisas, né? E ela se apoia interna é fundamental para dar é isso? Enfim, o marketing é tudo na empresa não tem."
+      },
+      {
+        "startTime": 4740,
+        "endTime": 4798,
+        "speaker": "Alejandro Olchik",
+        "text": "Que que a gente se deu conta tá quando estava analisando e nosso tempo tá acabando olhou o segmentos e o potencial de mercado a gente acha que distribuição avançada tem o potencial de 30 milhões de reais. a gente acha que ferramentas gestão do canal de parcerias tem mais 30 milhões, ficou tudo mais ou menos nessa faixa, a gente acha que ativações produtos de ativações para incorporadoras também tem mais 30 milhões Tá sim de potencial, só porque vocês entendam né como um produto né a ser vendido."
+      },
+      {
+        "startTime": 4798,
+        "endTime": 4819,
+        "speaker": "Alejandro Olchik",
+        "text": "E então eles de potencial, né de escala e crescimento só entre os três ali e tem outros que a gente tem também tá olhando né? O GD por exemplo, né? A gestão do canal é mais 30, né? Tipo só entre esses quatro aqui a gente fez uma embora uma estimativa, né de número de clientes potencial de fechamento incorporadoras e tal."
+      },
+      {
+        "startTime": 4819,
+        "endTime": 4831,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente está olhando tem um mercado que seria capturaram e de 120 milhões. Só isso, né? Não estamos falando de produtos financeiros nada, né? Quem está que também seriam outras contas que a gente Então quando a gente começou a fazer as contas eu explicando como é que foi porque quem tirou para várias coisas da gente, encheu concorrência."
+      },
+      {
+        "startTime": 4831,
+        "endTime": 4842,
+        "speaker": "Alejandro Olchik",
+        "text": "Fiz uma análise de concorrência, entendeu? Evolução, né de como é que os a cadeia de valor tá evoluindo ao longo do tempo a gente olhou tamanhos de mercado do segmentos. Nos quais a gente atua e fez o cálculo são coisas que a gente então esses quatro aqui mais ou menos tem o mesmo potencial de tamanho, né e de captura de mercado."
+      },
+      {
+        "startTime": 4842,
+        "endTime": 4876,
+        "speaker": "Alejandro Olchik",
+        "text": "E está sentado se é uma oportunidade de 120 milhões de faturamento, né? Só com esses quatro aqui. Né? E esse daí não é um mercado total é um mercado capturável tá? É uma conta, tipo é olha, né? Se nós conseguimos fechar x incorporadoras há tanto isso tem um potencial de 30 milhões é o chama de é um mercado que nós observarmos e talvez a gente conseguiria capturar depois de fazer o mercado total é uma hora que isso."
+      },
+      {
+        "startTime": 4876,
+        "endTime": 4911,
+        "speaker": "Alejandro Olchik",
+        "text": "Né? E esses quatro cada um é 30 milhões é um pouquinho mais um pouquinho menos como análise. Então se equivale então isso daí não existe p****, a gente tem que organizar um pouco melhor é que as coisas. Para tentar fazer essa captura de uma forma mais efetiva, então foi um dos drivers porque aqui vocês estão olhando o resultado não estão vendo o histórico aí como é que a gente chegou assim nesse desenho, mas que é uma coisa interessante de vocês entenderem também."
+      },
+      {
+        "startTime": 4911,
+        "endTime": 4922,
+        "speaker": "Alejandro Olchik",
+        "text": "Que mais alguma outra coisa aqui gente. Bruno"
+      },
+      {
+        "startTime": 4923,
+        "endTime": 4951,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu queria saber assim aqui PEC, que que tá a exploração do z2a de forma mais interna assim para para a gente não só como tá sendo utilizado aí para para incorps no sentido de por exemplo, a gente estava discutindo muito ontem sobre sobre a im que a gente tem muitos dados ali."
+      },
+      {
+        "startTime": 4951,
+        "endTime": 4974,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Então como que tá de repente pensar numa forma da gente integrar Nossa hm com z2a para seja Incorporadora, seja o corretor e lá e perguntar um determinado informação e ter mastigado. Isso numa integração nesse sentido e outro na própria comunicação interna. Nossa que a gente pode Juntar uma faca as principais dúvidas e trazer e isso para respostas de clientes, então só queria saber se isso chegou a ser falado e como que tá isso?"
+      },
+      {
+        "startTime": 4976,
+        "endTime": 5040,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá a questão do z2a, eu tô inclusive ontem. Tive uma conversa com eles para eles abriram as apis, né? Eu entendi um pouco maior. Como tá a estrutura? E a gente vai experimentar um pouco eles têm disparadores de WhatsApp a parte de a que eles têm ela é bem focada na ferramenta deles e o que eles estão tentando botar no ar é um alto atendimento que eu acho que não resolveria porque para esse tipo de coisa precisa algo mais sofisticado, mas a gente também tem pilotos com outras ferramentas, né? A gente tá um piloto na exo."
+      },
+      {
+        "startTime": 5040,
+        "endTime": 5049,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente tá com uma ferramenta que é Filter feed, né? Que poderia a gente poderia ajudar nessa dinâmica a gente tem pilotos internos que né? Eu tô fazendo falando tá fazendo também oito n que também a gente tem potencial para essa parte, né? Aí o que a gente tem que olhar é mas de novo, né? Eu acho que tecnologicamente a gente tem pés em várias coisinhas, né? Que Deus ajudam a ter opções de como trabalhar não necessariamente a z2a para esse cenário ela pode servir para outro eu vou testar um exemplo."
+      },
+      {
+        "startTime": 5049,
+        "endTime": 5067,
+        "speaker": "Alejandro Olchik",
+        "text": "Agora eu vou testar eu vou tentar botar um piloto com Para melhor as retenção de corretores que deixam de utilizar a plataforma para os vigia só para testar as interfaces de comunicação ver eu consigo montar com eles, tá? Eu tava então está estourando algumas coisas nesse sentido o Fernando."
+      },
+      {
+        "startTime": 5067,
+        "endTime": 5095,
+        "speaker": "Alejandro Olchik",
+        "text": "Por exemplo. Ele tá fazendo uma ia para triagem automática do chamado de suporte. Só que por enquanto ele tá com 65% de taxa de acerto na categorização dos cabos. Tava muito baixo ainda para colocar em produção é uma taxa muito grande de erro. Então tem que tomar um pouco de cuidado e uma análise de m também é tu, tem que avaliar efetividade, não é tão simples acertar nessa análise pro estágio que a gente tá agora então são coisas que a gente tem que explorar e ver o benefício que a gente teria em relação a isso, tá? Não sei se esclarecer um pouco."
+      },
+      {
+        "startTime": 5098,
+        "endTime": 5133,
+        "speaker": "Diego Diehl",
+        "text": "Bem curto aqui que está pouco tempo é essa parte de m. Eu obvio era o sonho, né? A gente mandar uma mensagem lá me traz tal comparativo, eu acho que ainda tá distante, mas ela tá crescendo bem rápido, então, talvez daqui seis meses um ano a gente já tem algo mais estável para forma, mas evoluído, né? Eu acho que o iene é pouco explorado cara, tipo uma vez por mês por cidade dá para tirar uns prints criar umas análises que a gente valida na mão e se comunicar com o mercado me disponho até te ajudar, se você quiser disparar algo nesse sentido."
+      },
+      {
+        "startTime": 5133,
+        "endTime": 5157,
+        "speaker": "Diego Diehl",
+        "text": "Teste e Cara eu tô vendo de longe para ficar calma assim a gente tá pondo como objetivo se comunicar melhor com o mercado. E a gente vai ter alguma coisa para se comunicar por WhatsApp por e-mail por seja por onde for com os nossos clientes corretores imobiliários incorporadoras, então tem vários iniciativas eu Alejandro tá falando tá vendo várias coisas acho que logo."
+      },
+      {
+        "startTime": 5157,
+        "endTime": 5168,
+        "speaker": "Diego Diehl",
+        "text": "Surge alguma coisa melhor para a gente dar escala se comunicar tá e eu queria pedir que você continue cobrando aí para a gente poder amadurecer essa comunicação aí com imobiliárias e corretores, principalmente da tua parte, tá?"
+      },
+      {
+        "startTime": 5171,
+        "endTime": 5253,
+        "speaker": "Alejandro Olchik",
+        "text": "Quero fazer uma parte só Bruno que é o seguinte. Eu tô incentivando todo mundo a usar. Todo mundo oseia incentivando deves a usar iaps vamos no desenvolvimento então uma coisa que dá para fazer é uma brincadeira é? Cara, pega uma praça específica, pede uns pdfs com os dados contrata o plano ali do chat GPT a última versão jogos dados e pede para ele fazer uma análise ver o que que tu gera, né? Porque a gente começa a ter um feeling da viabilidade daqui do mesmo que seja de forma manual, né? E daqui a pouco tu faz por uma praça faz para outra dá resultado p*** é produtizar ou tá dando um bom resultado, né? Pede para Campos liberar uma conta aí tipo para tu poder fazer um teste uns testes fazer para fazer o teste, tipo, eu acho que a gente tem que experimentar tá gente esses frutos de ar e ver que resultado a gente tem e quanto mais gente tiver fazendo isso experimentando mais a chance de surgir casos interessantes que são facilmente que facilmente a gente coloca no ar, né? Então a gente tem que terminar essas ideias e compartilhar, tipo eu tô usando o notebook LM da Google, tu pode jogar um monte de coisas ali dentro disso humanizações, né? Eu ficaria também no A opinião e tá com umas novas versões que são mais robustas assim, né? O Fernando também tá testando o outro LM então."
+      },
+      {
+        "startTime": 5253,
+        "endTime": 5263,
+        "speaker": "Alejandro Olchik",
+        "text": "Daqui a pouco Tem que montar um grupo no discord, gllmma e trocar experiências e que as pessoas possam experimentar que deu certo errado e uma queda a gente puxa e produtiva."
+      },
+      {
+        "startTime": 5266,
+        "endTime": 5283,
+        "speaker": "Carolina Campos",
+        "text": "Isso aí tem muita ferramenta legal é que dá para ser utilizada, depois vou trocar algumas ali com Bruno também que a gente tá fazendo alguns testes aqui em CS. E aí a gente vai chegar em Mobi, tá Bruno em Mobi, não é esquecido então todo esse atendimento que vai ter para Incorporadora também vai ter para corretor."
+      },
+      {
+        "startTime": 5283,
+        "endTime": 5296,
+        "speaker": "Carolina Campos",
+        "text": "Então vai ter um atendimento exclusivo com encantamento para corretor também. Acho que dá para encaixar todas essas ideias nesse atendimento também."
+      },
+      {
+        "startTime": 5296,
+        "endTime": 5298,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Maravilha"
+      },
+      {
+        "startTime": 5298,
+        "endTime": 5316,
+        "speaker": "Alejandro Olchik",
+        "text": "Fechou, muito obrigado pelo feedbacks muito ricos aqui, né? Achou ajudou bastante. Acho que a gente vai melhorar um pouquinho na escrita da Estratégia com base nesses feedback para deixar ela mais clara, quando for compartilhar a gente vai ter reuniões a seguir para estar quebrando os objetivos."
+      },
+      {
+        "startTime": 5319,
+        "endTime": 5320,
+        "speaker": "Diego Diehl",
+        "text": "Valeu pessoal"
+      },
+      {
+        "startTime": 5320,
+        "endTime": 5320,
+        "speaker": "Carolina Campos",
+        "text": "Muito bom, muito bom."
+      },
+      {
+        "startTime": 5320,
+        "endTime": 5322,
+        "speaker": "Eduardo Stringhini",
+        "text": "Valeu pessoal"
+      },
+      {
+        "startTime": 5322,
+        "endTime": 5322,
+        "speaker": "Diego Diehl",
+        "text": "final de semana."
+      },
+      {
+        "startTime": 5322,
+        "endTime": 5324,
+        "speaker": "Bruna Soares",
+        "text": "Tchau pessoal"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 266,
+    "speakers": [
+      "Alejandro Olchik",
+      "Beatriz Fusquino",
+      "Rubem Rocha",
+      "Bruna Soares",
+      "Bruno Zucchetti Rodrigues",
+      "Carolina Campos",
+      "Eduardo Stringhini",
+      "Diego Diehl",
+      "Talita Campos",
+      "Mariana Marins"
+    ],
+    "total_words_estimate": 12602,
+    "duration_start": 24,
+    "duration_end": 5324
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "678a6a5f2326a600132beaf3",
+        "timestamp": 259,
+        "text": "Primeira edição dos Animes deve ser disparada até dia 30 ou 31, com prazo de escrita até 25.",
+        "topicId": "678a6a5f2326a600132beaee"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaff",
+        "timestamp": 308,
+        "text": "Time revisará a estrutura da avaliação Percival para tornar o texto mais conciso e evitar extensão excessiva.",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf4",
+        "timestamp": 374,
+        "text": "News publicará resumo do Percival com dois parágrafos e link para documentação completa na Wiki.",
+        "topicId": "678a6a5f2326a600132beaee"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf5",
+        "timestamp": 554,
+        "text": "Próxima Company será no dia 24 de Janeiro, com apresentação de aniversários e valores.",
+        "topicId": "678a6a5f2326a600132beaee"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf6",
+        "timestamp": 595,
+        "text": "Felipe apresentará relatório financeiro e gestores prepararão retrospectiva 2024 em reunião de Company.",
+        "topicId": "678a6a5f2326a600132beaee"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf7",
+        "timestamp": 1085,
+        "text": "Principais desafios identificados: comunicação ineficaz com mercado e jornadas atritadas com incorporadoras e corretores.",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb00",
+        "timestamp": 1406,
+        "text": "Equipe planeja dashboard de custo de aquisição e ações para atendimento de incorporadoras.",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb01",
+        "timestamp": 1471,
+        "text": "Time traça plano de expansão com ampliação da equipe, melhoria de produto e roadmap 2025.",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf8",
+        "timestamp": 1774,
+        "text": "Diagnóstico inicial identifica ineficácia na comunicação com mercado e jornadas atritadas com incorporadoras",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb02",
+        "timestamp": 1840,
+        "text": "Rubem destaca possível dispersão de ações, sugerindo foco em prioridades estratégicas",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb03",
+        "timestamp": 2069,
+        "text": "Beatriz sugere criação de cronograma detalhado com prazos para cada ação estratégica",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beaf9",
+        "timestamp": 2210,
+        "text": "Diego defende que otimização de processos deve focar em amadurecer comunicação e reduzir atritos, não apenas em eficiência",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beafa",
+        "timestamp": 2630,
+        "text": "Objetivo é aumentar percepção de valor da plataforma no mercado, mostrando capacidades além de um portal simples",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb04",
+        "timestamp": 3135,
+        "text": "Bruna destaca necessidade de reduzir atritos internos e melhorar planejamento da área de expansão.",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb06",
+        "timestamp": 3287,
+        "text": "Ideia é criar canal de pronto atendimento para incorporadoras com resposta em menos de 5 minutos.",
+        "topicId": "678a6a5f2326a600132beaf1"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb07",
+        "timestamp": 3465,
+        "text": "Foco em encantamento do cliente, garantindo que problemas sejam comunicados e resolvidos.",
+        "topicId": "678a6a5f2326a600132beaf1"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb08",
+        "timestamp": 3637,
+        "text": "Necessidade de desenvolver cultura interna focada em entregar valor ao cliente além das expectativas.",
+        "topicId": "678a6a5f2326a600132beaf1"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb05",
+        "timestamp": 3845,
+        "text": "Rubem sugere mapear ações para verificar sua mensurabilidade e transformá-las em objetivos-chave.",
+        "topicId": "678a6a5f2326a600132beaf0"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beafb",
+        "timestamp": 3979,
+        "text": "Incorporadores e corretores querem informações sobre novos lançamentos imobiliários.",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beafc",
+        "timestamp": 4296,
+        "text": "Diego propõe criar comunicações periódicas para melhorar interação com o mercado e reduzir atritos.",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beafd",
+        "timestamp": 4345,
+        "text": "Equipe busca identificar ações de alto impacto e baixo esforço para melhorar comunicação este ano.",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beafe",
+        "timestamp": 4391,
+        "text": "Reconhecida ineficácia na comunicação interna como barreira para comunicação externa efetiva.",
+        "topicId": "678a6a5f2326a600132beaef"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb0a",
+        "timestamp": 4560,
+        "text": "Eduardo destaca importância da ativação digital na geração de receita e diferenciação da estrutura de marketing.",
+        "topicId": "678a6a5f2326a600132beaf2"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb0b",
+        "timestamp": 4755,
+        "text": "Alejandro identifica potencial de mercado de aproximadamente 120 milhões em quatro segmentos diferentes.",
+        "topicId": "678a6a5f2326a600132beaf2"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb0c",
+        "timestamp": 4943,
+        "text": "Bruno sugere integração de dados da HM com Z2A para melhorar comunicação interna e com clientes.",
+        "topicId": "678a6a5f2326a600132beaf2"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb0d",
+        "timestamp": 5064,
+        "text": "Teste de IA para triagem de suporte apresenta apenas 65% de precisão, necessitando mais refinamento.",
+        "topicId": "678a6a5f2326a600132beaf2"
+      },
+      {
+        "segmentId": "678a6a5f2326a600132beb09",
+        "timestamp": 5283,
+        "text": "Carolina confirma plano de atendimento exclusivo com encantamento para corretores.",
+        "topicId": "678a6a5f2326a600132beaf1"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "678a6a5f2326a600132beaee",
+        "order": 1,
+        "title": "Ações e Prazos Definidos",
+        "summary": ""
+      },
+      {
+        "id": "678a6a5f2326a600132beaef",
+        "order": 2,
+        "title": "Diagnóstico de Comunicação e Expansão",
+        "summary": ""
+      },
+      {
+        "id": "678a6a5f2326a600132beaf0",
+        "order": 3,
+        "title": "Estratégia de Melhoria de Processos",
+        "summary": ""
+      },
+      {
+        "id": "678a6a5f2326a600132beaf1",
+        "order": 4,
+        "title": "Foco em Experiência do Cliente",
+        "summary": ""
+      },
+      {
+        "id": "678a6a5f2326a600132beaf2",
+        "order": 5,
+        "title": "Inovação e Tecnologia",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 27,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "678a6a5f2326a600132beaee",
+      "order": 1,
+      "title": "Ações e Prazos Definidos",
+      "summary": ""
+    },
+    {
+      "id": "678a6a5f2326a600132beaef",
+      "order": 2,
+      "title": "Diagnóstico de Comunicação e Expansão",
+      "summary": ""
+    },
+    {
+      "id": "678a6a5f2326a600132beaf0",
+      "order": 3,
+      "title": "Estratégia de Melhoria de Processos",
+      "summary": ""
+    },
+    {
+      "id": "678a6a5f2326a600132beaf1",
+      "order": 4,
+      "title": "Foco em Experiência do Cliente",
+      "summary": ""
+    },
+    {
+      "id": "678a6a5f2326a600132beaf2",
+      "order": 5,
+      "title": "Inovação e Tecnologia",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:43:22.182808+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:43:22.182808+00:00"
+}

@@ -1,0 +1,2588 @@
+{
+  "meeting_id": "66bcaff8d5349c0013e64425",
+  "name": "Forecast Giuliano",
+  "happened_at": "2024-08-14T13:24:08.337Z",
+  "duration_seconds": 3986.372,
+  "duration_minutes": 66.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Joao Vitor",
+      "email": "joaopds2012@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66bcaff8d5349c0013e64425",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "xon-mszh-bao",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66bcaffa5020130013f91c85",
+    "meetingId": "66bcaff8d5349c0013e64425",
+    "data": [
+      {
+        "startTime": 2,
+        "endTime": 7,
+        "speaker": "Diego Diehl",
+        "text": "E aí mantenho assim no contrato com ele mesmo Juliano Não."
+      },
+      {
+        "startTime": 7,
+        "endTime": 9,
+        "speaker": "Giuliano Milano",
+        "text": "Assim é na cara é manezinho, né? Manezinho?"
+      },
+      {
+        "startTime": 9,
+        "endTime": 9,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 13,
+        "endTime": 19,
+        "speaker": "Giuliano Milano",
+        "text": "Tem uma cara de tecnologia f*****. Legal as caras assim, o Diego falou"
+      },
+      {
+        "startTime": 19,
+        "endTime": 21,
+        "speaker": "Diego Diehl",
+        "text": "O João encaixou assim, ó?"
+      },
+      {
+        "startTime": 25,
+        "endTime": 59,
+        "speaker": "Giuliano Milano",
+        "text": "muito de você tá super entusiasmado com a sua com a sua chegada e eu acho que nesse projeto e uma preocupação que nós né? É a gente tá além de vender como o Diego falou ontem para mim. E que eu concordo plenamente né? Vender é um desafio, mas é muito mais fácil do que entregar com qualidade, né? Cara a implantação e implementação é o que vai dar a sustentabilidade do negócio, inclusive aquilo falando um pouco de ontem na reunião com a terra, né?"
+      },
+      {
+        "startTime": 59,
+        "endTime": 70,
+        "speaker": "Diego Diehl",
+        "text": "Eu só só rapidão janela nosso. nosso. primeira pessoa do comercial adicional aí com a gente"
+      },
+      {
+        "startTime": 70,
+        "endTime": 70,
+        "speaker": "Gustavo Zanella",
+        "text": "bom"
+      },
+      {
+        "startTime": 70,
+        "endTime": 71,
+        "speaker": "Diego Diehl",
+        "text": "Seja bem-vindo."
+      },
+      {
+        "startTime": 71,
+        "endTime": 72,
+        "speaker": "Giuliano Milano",
+        "text": "bem-vindos Anela"
+      },
+      {
+        "startTime": 72,
+        "endTime": 73,
+        "speaker": "Joao Vitor",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 73,
+        "endTime": 74,
+        "speaker": "Gustavo Zanella",
+        "text": "Obrigado, obrigado. Cheguei um pouquinho."
+      },
+      {
+        "startTime": 74,
+        "endTime": 74,
+        "speaker": "Diego Diehl",
+        "text": "Zanella vai"
+      },
+      {
+        "startTime": 74,
+        "endTime": 75,
+        "speaker": "Giuliano Milano",
+        "text": "Seja muito."
+      },
+      {
+        "startTime": 75,
+        "endTime": 78,
+        "speaker": "Gustavo Zanella",
+        "text": "estamos aí."
+      },
+      {
+        "startTime": 78,
+        "endTime": 80,
+        "speaker": "Diego Diehl",
+        "text": "a gente"
+      },
+      {
+        "startTime": 80,
+        "endTime": 82,
+        "speaker": "Giuliano Milano",
+        "text": "Floripa da onde você fala?"
+      },
+      {
+        "startTime": 82,
+        "endTime": 84,
+        "speaker": "Gustavo Zanella",
+        "text": "Sou de Curitiba."
+      },
+      {
+        "startTime": 84,
+        "endTime": 90,
+        "speaker": "Giuliano Milano",
+        "text": "Curitiba, mas Legal cara legal seja muito bem-vindo continua Diego. desculpa de interromper."
+      },
+      {
+        "startTime": 90,
+        "endTime": 101,
+        "speaker": "Diego Diehl",
+        "text": "Só para daqui a pouco a gente se amadurece ainda termina o que você ia falar de uma só nela seja bem-vindo João o nosso implementação barra CS."
+      },
+      {
+        "startTime": 101,
+        "endTime": 101,
+        "speaker": "Gustavo Zanella",
+        "text": "legal"
+      },
+      {
+        "startTime": 101,
+        "endTime": 128,
+        "speaker": "Diego Diehl",
+        "text": "Zanella sdr/clore logo em breve Curitiba. Quem sabe um totozinho Goiânia, aí vamos ver né, a gente organiza uma operação janela quer vender? Juliano nosso local de Goiânia comercializando focado prm da gente tem um desafio ali com a praça. E é isso? Temos o nosso time aqui para começar a fluir."
+      },
+      {
+        "startTime": 128,
+        "endTime": 128,
+        "speaker": "Giuliano Milano",
+        "text": "Não é falando da reunião de ontem"
+      },
+      {
+        "startTime": 128,
+        "endTime": 132,
+        "speaker": "Diego Diehl",
+        "text": "E aí Ju termina o que você ia falar e aí a gente faz se apresenta rapidinho."
+      },
+      {
+        "startTime": 136,
+        "endTime": 160,
+        "speaker": "Giuliano Milano",
+        "text": "Zanela e Gustavo a gente teve Gustavo e João Pedro. A gente teve uma reunião ontem com a Terral e foi a terceira reunião, tive uma primeira reunião com coordenador de parcerias que era um contato que eu tinha mais fácil. Depois eu tive uma reunião com Marcelo Borges que eu fui do coordenador para o praticamente."
+      },
+      {
+        "startTime": 160,
+        "endTime": 182,
+        "speaker": "Giuliano Milano",
+        "text": "O Marcelo Borges é um cara de 16 anos de Incorporadora lá da Terral, então, ele tem uma praticamente os sócio assim da Incorporadora. E depois ele pediu para a gente fazer uma reunião para com o gerente comercial e com estrategista digital para apresentar a ferramenta funcionando, né operando. Ope."
+      },
+      {
+        "startTime": 182,
+        "endTime": 214,
+        "speaker": "Giuliano Milano",
+        "text": "E assim só Resumindo, ele teve uma excelente percepção de valor, mas criou algumas Barreiras do tipo um Choque Cultural. Né dos coordenadores dele para entendimento que a ferramenta pode de fato ajudá-los e não rastreá-los, vamos dizer assim. E a gente eu acho que conseguiu contornar bem dentro do possível essa objeção."
+      },
+      {
+        "startTime": 214,
+        "endTime": 251,
+        "speaker": "Giuliano Milano",
+        "text": "E a segunda que ele trouxe uma uma visão de da de audiência que não é muito não é aplicável ao prm porque pouco importa a audiência para o prm Né. Mas ele trouxe isso uma certa objeção e depois por que que eu tô falando isso que a gente tá falando da qualidade da implementação, né a qualidade da implementar se ela impacta diretamente quando a gente fechar o primeiro segundo principalmente aqui em Goiânia que as incorporadoras elas se conversam muito."
+      },
+      {
+        "startTime": 251,
+        "endTime": 275,
+        "speaker": "Giuliano Milano",
+        "text": "Então aqui tem um clube que é o imob Club que é um clube dos donos de Incorporadora que se reúnem um jantar com uma vez por mês, ele se reúnem traz uma temática e tal eles conversam muito entre si trocam, né? Muito entre si. E aí eu fiquei meio assim, eu entendi que eles têm um grupo de WhatsApp dos gestores comerciais de Goiânia e tem alguma troca lá."
+      },
+      {
+        "startTime": 275,
+        "endTime": 303,
+        "speaker": "Giuliano Milano",
+        "text": "Inclusive eu falei com Ricardo depois Diego ele confirmou para mim que tem comigo que tem eu dei assim uma indireta, né para tentar me colocar no grupo. Ele não respondeu. Ele saiu pela tangente assim, talvez eles queiram ter um grupo mais fechado. Daí eu falei que eu tô criando uma comunidade, né? Eu vou criar uma comunidade com gestores e diretores comerciais das incorporadoras."
+      },
+      {
+        "startTime": 303,
+        "endTime": 330,
+        "speaker": "Giuliano Milano",
+        "text": "Tanto em Goiânia como fora de Goiânia que é para a gente ter principalmente essa visão diária da evolução do desenvolvimento dessas empresas e claro em alguns momentos trazer a hora para dentro dessas empresas, né? Daí eu convidei ele para essa comunidade, eu vou estruturar ela Diego. Depois daí eu te coloco também que a minha ideia é só diretores e gerentes."
+      },
+      {
+        "startTime": 330,
+        "endTime": 343,
+        "speaker": "Giuliano Milano",
+        "text": "De do ponto de vista mais estratégico dessas incorporadoras vou começar com as que eu tenho um relacionamento em Goiânia em Floripa um pouco em São Paulo. E daí a gente vai fazendo uma troca lá dentro, tá? Mas é isso"
+      },
+      {
+        "startTime": 343,
+        "endTime": 345,
+        "speaker": "Diego Diehl",
+        "text": "Você tá um marqueteiro de primeira, né?"
+      },
+      {
+        "startTime": 345,
+        "endTime": 353,
+        "speaker": "Giuliano Milano",
+        "text": "Aí eu sou cara, eu adoro marketing eu vivo marketing todo dia então assim o que eu puder ir fazendo de ações assim para a gente."
+      },
+      {
+        "startTime": 354,
+        "endTime": 368,
+        "speaker": "Diego Diehl",
+        "text": "Para mim é marketing. Esse time de vendas tá pequena, porque o marketing tá fazendo um trabalho Direito não está gerando demanda, né? Então show demais."
+      },
+      {
+        "startTime": 368,
+        "endTime": 371,
+        "speaker": "Giuliano Milano",
+        "text": "Mas comanda a reunião."
+      },
+      {
+        "startTime": 371,
+        "endTime": 377,
+        "speaker": "Diego Diehl",
+        "text": "Juliano ele se conecta bem, mas eu gosto é bom quando você tem tempo"
+      },
+      {
+        "startTime": 377,
+        "endTime": 379,
+        "speaker": "Giuliano Milano",
+        "text": "É meia hora meia hora só quebra"
+      },
+      {
+        "startTime": 381,
+        "endTime": 389,
+        "speaker": "Diego Diehl",
+        "text": "você só não pode ir para reunião com pouco tempo reunião de meia hora com Goiano nem Marque. é tipo uma hora e quinze não é só trocando informação é bom demais"
+      },
+      {
+        "startTime": 389,
+        "endTime": 389,
+        "speaker": "Giuliano Milano",
+        "text": "gelo."
+      },
+      {
+        "startTime": 394,
+        "endTime": 416,
+        "speaker": "Diego Diehl",
+        "text": "para dar contexto. Minha cabeça, tá? Eu tô muito feliz gente de chegar aqui, desculpa, eu até fiz assim, eu tirei a câmera, mas eu acordei. Já comecei a trabalhar muito banho em todo lugar aqui adiantando várias coisas."
+      },
+      {
+        "startTime": 416,
+        "endTime": 416,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 416,
+        "endTime": 438,
+        "speaker": "Diego Diehl",
+        "text": "É bom trazer essa também vulnerabilidade para o grupo. Fique à vontade. Eu tô bem feliz que a gente tá que eu tô formando o primeiro o primeiro lugar ele tinha Assim entre nós né? Eu tava sozinho até esses tempos. O Juliano entrou tá começando tô feliz aí que usa nela esse que eu entrei na hora eu tinha comentado, cara."
+      },
+      {
+        "startTime": 438,
+        "endTime": 469,
+        "speaker": "Diego Diehl",
+        "text": "Vai aprender a ser corretor, daqui a pouco vai surgir um espaço surgiu aí. Está falando um tempo então, acho que eu chego queria propor para a gente fazer um uma chegada aí. Já com uma pequena Apresentação de que você vem, o que que você quer fazer. E fale uma coisa aí, todo mundo é vendedora aqui, né? Para gerar um rabor também que você curte onde é que você tá."
+      },
+      {
+        "startTime": 469,
+        "endTime": 495,
+        "speaker": "Diego Diehl",
+        "text": "Da minha parte eu chego felizão aí em ver esse grupo reunido, a gente tá com um projeto muito muito promissor muito rico na mão, tem várias coisas rolando. Aí eu tô guiando bastante esse ponto isso é meu. todo dia hoje eu vivo isso aqui, tô fazendo várias coisas que Até eu tento blindar tanto Juliano tal para Juliano consegue vender eu tô a gente está se movimentando aí."
+      },
+      {
+        "startTime": 495,
+        "endTime": 517,
+        "speaker": "Diego Diehl",
+        "text": "O que eu acho que é legal é que o mercado imobiliário. Ele tem muito espaço. Óbvio que toda esse espaço ele também gera resistência, né? Que o Juliano tá falando cara, pô, mas e o coordenador e tal tipo várias historinhas aí que a gente vai aprendendo a contornar mas tô bem feliz aí das pessoas que eu tô conseguindo reunir que a gente tá"
+      },
+      {
+        "startTime": 517,
+        "endTime": 518,
+        "speaker": "Giuliano Milano",
+        "text": "normal"
+      },
+      {
+        "startTime": 518,
+        "endTime": 543,
+        "speaker": "Diego Diehl",
+        "text": "conseguindo reunir que é uma parte de ter essa troca de pessoas querer aprender de querer crescer de valorizar muito aprendizado. Acho que esse é um pilar cultural e que a gente já pode ter em comum aí que eu conheço vocês três e me conheço é o Pilar Cultural de aprendizado e ambição então é querer aprender e mirar alto, eu acho que é por isso que tá todo mundo aqui então."
+      },
+      {
+        "startTime": 543,
+        "endTime": 562,
+        "speaker": "Diego Diehl",
+        "text": "Sejam bem-vindos, eu acho que nesse papel aqui eu sou participo de tudo, então, a gente vai criando tem a visão sócio local que a ideia no futuro a gente ter outros sócios locais também para expandir cidades. O Juliano é o primeiro está validando o modelo forte ele com ele."
+      },
+      {
+        "startTime": 562,
+        "endTime": 578,
+        "speaker": "Diego Diehl",
+        "text": "Nossa ideia tem uma central de serviços compartilhados onde tem uma pessoa que implementa que cuida do CS. Para apoiar esse sócios locais também, às vezes até um time comercial que venda e também apoia essas pessoas ou Gere demanda lá para Ponta. Eu acho que esse é o conceito geral."
+      },
+      {
+        "startTime": 578,
+        "endTime": 598,
+        "speaker": "Diego Diehl",
+        "text": "Assim é que a gente tá aqui incluído tudo está sendo desenhado, né usar nela ali tá agora entrando. Os Para me ajudar bastante em Curitiba nesse começo. Quem sabe dá uma pitadinha e testar Goiânia também Juliana, a gente pode testar daqui a pouco usando ela poder prospectar a gente às vezes ele ódio."
+      },
+      {
+        "startTime": 598,
+        "endTime": 619,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero testar mais uns aí Juliano passo uma lista, ele vai tentar abordar Goiânia ver se agenda a reunião o Juliano já a gente já faz um esquema de como é que remunera vai ajudando no começo vai cruzar nela e troque vai aqui ninguém tá pensando nesse seguinte, mas sim um crescimento mais escalável."
+      },
+      {
+        "startTime": 619,
+        "endTime": 636,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso, eu queria dar e pedir para cada um só se apresentar aí para a gente se conectar hoje o objetivo da reunião é mas a gente se conhecer. Foi mais esse grupo e falar do próximos passos desse desse grupo aqui. Beleza? Fique à vontade aí."
+      },
+      {
+        "startTime": 636,
+        "endTime": 639,
+        "speaker": "Gustavo Zanella",
+        "text": "Deixa eu começar."
+      },
+      {
+        "startTime": 639,
+        "endTime": 641,
+        "speaker": "Giuliano Milano",
+        "text": "podem"
+      },
+      {
+        "startTime": 641,
+        "endTime": 671,
+        "speaker": "Gustavo Zanella",
+        "text": "Então porque eu já tô já tô meio animado com ele, eu já acordei já veio mil e uma apresentações ali as reuniões que inclusive o Juliano tava fazendo que o dinheiro tava fazendo aqui do pessoal de Curitiba. Então aproveitei esse gancho de pelo que o Diego tava falando que ele tá animado, eu já acordei já pensando nisso, já fui direto para frente dos computadores, já veio toda a empolgação desse mercado de tecnologia para me apresentar um pouquinho melhor."
+      },
+      {
+        "startTime": 671,
+        "endTime": 697,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu sou Zanella ou Luís ou Gustavo tanto faz aí vocês que preferem. Mas eu sempre Me apresento como usar nela por esse nome um pouco mais forte sou apaixonado em vendas trabalho desde 2017 no mercado de vendas específico trabalho no mercado de tecnologia. Fui para o Ramos de tecnologia um pouco fui visitar ali a parte imobiliário também, gostei demais da imobiliário, só que o Diego."
+      },
+      {
+        "startTime": 697,
+        "endTime": 724,
+        "speaker": "Gustavo Zanella",
+        "text": "Diego. Trabalhando o mercado imobiliário com o mercado de tecnologia e eu vi que deu um médico muito grande, inclusive na um pouco do da minha expertise dos meses que usa em relação à venda técnica de venda, enfim e também com a parte de Inteligência Artificial que eu acredito. Eu só acredito não tem nem o que falar sobre isso, mas basicamente é isso que vocês precisarem de mim."
+      },
+      {
+        "startTime": 724,
+        "endTime": 747,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu sou um grande suporte que vocês vão ter em Curitiba, não sei eu sei que o Juliano tá falando de Goiânia, eu não sei onde que o João tá morando hoje, mas pode contar comigo, né? Se quiserem o meu WhatsApp o Diego tá fica à vontade de compartilhar com todo mundo aí e eu tô muito feliz aí para a gente ter essa troca de conhecimento seja em vendas seja mercado imobiliário."
+      },
+      {
+        "startTime": 747,
+        "endTime": 748,
+        "speaker": "Gustavo Zanella",
+        "text": "Seja no geral aí da vida."
+      },
+      {
+        "startTime": 749,
+        "endTime": 758,
+        "speaker": "Giuliano Milano",
+        "text": "Legal bacana a janela seja muito bem-vindo você por acaso é parente do Ricardo Zanella da za Empreendimentos não."
+      },
+      {
+        "startTime": 758,
+        "endTime": 758,
+        "speaker": "Gustavo Zanella",
+        "text": "Infelizmente não, infelizmente não"
+      },
+      {
+        "startTime": 758,
+        "endTime": 762,
+        "speaker": "Giuliano Milano",
+        "text": "de balneário"
+      },
+      {
+        "startTime": 762,
+        "endTime": 764,
+        "speaker": "Gustavo Zanella",
+        "text": "podia ser filho dele."
+      },
+      {
+        "startTime": 764,
+        "endTime": 779,
+        "speaker": "Giuliano Milano",
+        "text": "É não eles são bem são bem arrojados assim empresa que eu conheci lá em balneário. Daí Pelo sobrenome Imaginei Que Pudesse ser mais legal Zanella seja muito bem-vindo, cara."
+      },
+      {
+        "startTime": 779,
+        "endTime": 779,
+        "speaker": "Gustavo Zanella",
+        "text": "obrigado"
+      },
+      {
+        "startTime": 779,
+        "endTime": 791,
+        "speaker": "Giuliano Milano",
+        "text": "Com certeza o seu papel nessa engrenagem ali, ele é extrema importância para nós todos e aqui vai ser uma troca contínua de muita aprendizado, né?"
+      },
+      {
+        "startTime": 791,
+        "endTime": 791,
+        "speaker": "Gustavo Zanella",
+        "text": "Claro"
+      },
+      {
+        "startTime": 791,
+        "endTime": 808,
+        "speaker": "Giuliano Milano",
+        "text": "Acho que é um dos fatores que mais me atrai nesse projeto essa troca de conhecimento que a gente tem eu e o Diego já tínhamos e agora intensificado com a parceria. Então seja muito bem e vai ser uma jornada de muita aprendizado também."
+      },
+      {
+        "startTime": 808,
+        "endTime": 810,
+        "speaker": "Gustavo Zanella",
+        "text": "Legal, com certeza."
+      },
+      {
+        "startTime": 810,
+        "endTime": 818,
+        "speaker": "Diego Diehl",
+        "text": "O Juliano gente vai se apresentar, mas já dando um contexto em 2000, você disse que esse ano que a gente lançou lá junto."
+      },
+      {
+        "startTime": 818,
+        "endTime": 819,
+        "speaker": "Giuliano Milano",
+        "text": "2021/2021"
+      },
+      {
+        "startTime": 819,
+        "endTime": 842,
+        "speaker": "Diego Diehl",
+        "text": "21 a Hype encavalou os projetos e a gente tinha cinco projetos para lançar ao mesmo tempo. a gente tem que fazer cinco lançamentos ao mesmo tempo a gente falava para as pessoas para as imobiliárias que a gente ia fazer isso, cara falando cara, vai dar m**** vai ser legal e se a gente assim a gente se conectou com Cara tudo é uma oportunidade."
+      },
+      {
+        "startTime": 842,
+        "endTime": 867,
+        "speaker": "Diego Diehl",
+        "text": "Como é que eu já sinergia com isso? Eu tenho mais buddynho, mas vai fazer um evento só como é que o bom dessa parada e se cada um vendeu em cada. O que que a gente pode fazer? Então, eu conheci o Juliano foi apresentado a partir de uma consultoria que eu tinha contratado de vendas que eles trouxeram o Juliano, contratei os dois Consultores tanto a empresa era ser os recordes vocês conhece o pessoal daí gente."
+      },
+      {
+        "startTime": 867,
+        "endTime": 870,
+        "speaker": "Giuliano Milano",
+        "text": "Era o fundador."
+      },
+      {
+        "startTime": 871,
+        "endTime": 889,
+        "speaker": "Diego Diehl",
+        "text": "Pô, eu me conectei muito com rádio foi um dia lá a gente juntou na casa dele muito bacana, o Juliano veio junto a gente fez esse projeto. De lançamento Juliano tinha um projeto que é super legal de a fórmula de lançamento imobiliário que isso aí ainda vai gerar fruto."
+      },
+      {
+        "startTime": 889,
+        "endTime": 908,
+        "speaker": "Diego Diehl",
+        "text": "Eu acredito muito nisso, cara. Isso aí ainda vai ser aonde a gente vai morder 1% do vgv de um lançamento de 100 milhões lá. E aí a gente bateu eu acho que teve um resultado legal desenvolver umas coisas lançou Juliano tem uma visão muito estratégica e tempo de mercado."
+      },
+      {
+        "startTime": 908,
+        "endTime": 926,
+        "speaker": "Diego Diehl",
+        "text": "Acho que isso ajuda bastante. E aí a gente acabou se conectando de bater papo com uma eu acho que esse mais sete assim de p**** trocar conhecimento falar ser verdadeiro transparente não ficar falando mal de ninguém. Acho que a gente nunca ficou gastando tempo para reclamar de alguma coisa, né?"
+      },
+      {
+        "startTime": 926,
+        "endTime": 926,
+        "speaker": "Giuliano Milano",
+        "text": "Não não."
+      },
+      {
+        "startTime": 926,
+        "endTime": 944,
+        "speaker": "Diego Diehl",
+        "text": "Por mais que a gente tem que reclamar, às vezes pode ter espaço. Mas acho que nesse foco né? A gente sempre construindo assim. Acho que se conectou e quando eu fui para órgão tava avaliando entrar na hora eu perguntei para o Juliano porque ele achava como é que ele via tava contando um pouco tipo pegar uma opinião mesmo e o Juliano."
+      },
+      {
+        "startTime": 944,
+        "endTime": 965,
+        "speaker": "Diego Diehl",
+        "text": "Falou cara demais. Vamos aí, eu quero ser teu primeiro parceiro, quando você entrar na hora. E aconteceu né? Foi foi não foi o primeiro a entrar então acho que esse contexto é legal é que eu já conheço ele desde 2021. É isso que eu queria trazer então Gil. Aproveita e se apresenta e já"
+      },
+      {
+        "startTime": 965,
+        "endTime": 965,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 965,
+        "endTime": 967,
+        "speaker": "Diego Diehl",
+        "text": "para emendar"
+      },
+      {
+        "startTime": 967,
+        "endTime": 987,
+        "speaker": "Giuliano Milano",
+        "text": "Legal, inclusive Lembrando aqui da seus hackers. Eu tenho um bom relacionamento com rádio até hoje a gente troca muito pelo Instagram. Ele tá num projeto de inteligência artificial. Eu ainda não entendi exatamente o projeto mas parece que é um projeto bem profundo assim depois que ele vendeu a seus hackers."
+      },
+      {
+        "startTime": 987,
+        "endTime": 1018,
+        "speaker": "Giuliano Milano",
+        "text": "Mas tá indo muito bem pelo que me parece e a gente teve esse contato como o Diego falou lá em 2021 projeto de consultoria a ser os hackers nos convidou. Para ajudá-los nesse projeto da Hi e foi uma jornada interessante porque nós como consultoria a gente sempre tem a visão de que a gente vai agregar muito, né? E assim e esse é o foco esse objetivo trazer muito conhecimento porque a construtora Incorporadora ainda não tem."
+      },
+      {
+        "startTime": 1018,
+        "endTime": 1062,
+        "speaker": "Giuliano Milano",
+        "text": "E a Hype foi um cliente que foi uma troca muito grande, né? Porque ali eu tive uma percepção do Diego por ser engenheiro de produção e boa parte do time dele, acabava sendo também ele tinha uma visão de processo de gestão, cara muito à frente de outras incorporadoras muito maiores que eu conheço como A Yoshi por exemplo, né? E daí eu aprendi muito nessa nessa consultoria, né? Eu aprendi muito sobre Essa gestão de processos, né de criar uma esteira, quase que Industrial dentro de um processo de lançamento."
+      },
+      {
+        "startTime": 1062,
+        "endTime": 1089,
+        "speaker": "Giuliano Milano",
+        "text": "E por isso eu me conectei muito com o Diego, né pelo conhecimento dele. Daí falando um pouquinho sobre a Minha formação eu sou engenheiro civil. Tenho 44 anos fiz agora em agosto em um filho de 5 anos, sou casado mora aqui em Goiânia. Voltei para Goiânia. Depois dessa jornada aí de 2017 até dois em Floripa."
+      },
+      {
+        "startTime": 1089,
+        "endTime": 1123,
+        "speaker": "Giuliano Milano",
+        "text": "Que foi onde eu fundei a BG Versa, ela iniciou na verdade, ela não chamava nem gerenciar no começo ela chamava VG parque né? Que era de fato ser um parceiro do vg. V né da Incorporadora e ela começou como um braço Educacional, né? E aí foi se desenvolvendo ela ela incorporou essa Parte Educacional e abrir uma nova vertical que seria de gestão de lançamentos imobiliários."
+      },
+      {
+        "startTime": 1123,
+        "endTime": 1157,
+        "speaker": "Giuliano Milano",
+        "text": "Em 2020 a gente fez o durante a pandemia a gente fez um lançamento de um infoproduto chamado estratégia para o lançamento imobiliário de sucesso que é um pouco do fórmula de lançamento imobiliário que o Diego falou que é um projeto que na época foi muito bom, porque a gente conseguiu ter uma visibilidade maior de mercado por causa do marketing digital que os proporciona e a gente fez algumas tentativas de crescimento de espaçado, então a gente criou representantes, né audiência que tava mais engajada ali."
+      },
+      {
+        "startTime": 1157,
+        "endTime": 1182,
+        "speaker": "Giuliano Milano",
+        "text": "Uma turma que queria aprender sobre lançamento Imobiliários, a gente criou um modelo de representação comercial em algumas praças. Mas que não não deu muito certo por alguns fatores que hoje a gente consegue mapear. Mas trouxe uma visibilidade Grande a gente começou a pegar muitos lançamentos, a gente pegou um lançamento em Floripa de 120 milhões de gv."
+      },
+      {
+        "startTime": 1182,
+        "endTime": 1208,
+        "speaker": "Giuliano Milano",
+        "text": "Depois pegamos dois produtos remanescentes para fazer gestão de um de condomínio fechado em Várzea Grande Camaçari. E aí veio as consultorias, né? Hype? Aí eu xi Incorporadora de Cascavel um outro projeto para ser lançado em Viçosa, Minas Gerais a gente com esse movimento em 2021. A gente cresceu e começou a ser visto."
+      },
+      {
+        "startTime": 1208,
+        "endTime": 1229,
+        "speaker": "Giuliano Milano",
+        "text": "A gente pegou três lançamentos para fazer a gestão no Paraguai com um projeto super. Também que a gente fez ele pegou um depois renovamos o contrato para mais dois lançamentos de uma construtora que atuava no mercado ali de Assunção em região metropolitana essa Incorporadora nos indicou para uma outra no México."
+      },
+      {
+        "startTime": 1229,
+        "endTime": 1266,
+        "speaker": "Giuliano Milano",
+        "text": "Que também tinha um projeto de um lançamento queria implementar essa metodologia. Nossa de lançamentos um produto chamado Terra Nova ou Asteca em Monte Rei no México e também trouxe uma troca muito interessante o MIT que é o diretor de incorporação dessa dessa empresa que é um grupo econômico gigante lá no México, ele tinha também é um cara que eu quero conectar com você, Diego é um cara que tem uma pegada de inovação de querer aprender de querer fazer de querer trazer novo para empresa."
+      },
+      {
+        "startTime": 1266,
+        "endTime": 1290,
+        "speaker": "Giuliano Milano",
+        "text": "Ele é um cara muito novo e tá numa acho que tá na segunda ou terceira geração na empresa Sabe aquela ânsia de romper de fazer diferente de fazer melhor apesar de ser um grupo econômico gigante Então o cara que eu me conectei muito e foi uma experiência, então assim eu falo que nessa jornada Empresarial como empreendedor."
+      },
+      {
+        "startTime": 1290,
+        "endTime": 1343,
+        "speaker": "Giuliano Milano",
+        "text": "independente dos resultados financeiros que são extremamente importantes o mais importante Na minha visão é a experiência da jornada, né? É o que você vive no dia a dia o quanto você aprende e o quanto você se realiza contribuindo. Com os negócios. E aí quando você vai um pouco mais na profundidade o quanto as suas ações elas impactam não só no negócio, mas nas pessoas que fazem parte daquele negócio naquele ecossistema que aí eu acredito muito nessa parada de propósito da empresa, né de ter muito claro isso de trabalhar, porque isso é uma essência que nos move aí o dinheiro é consequência a experiência profissional o crescimento e tudo acaba sendo uma consequência, mas como o Diego falou eu gosto muito de falar."
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1368,
+        "speaker": "Giuliano Milano",
+        "text": "Se deixar que eu vou ficar contando história então basicamente é isso sou uma pessoa extremamente acessível. Quero ter uma troca muito grande com vocês pegam depois o meu contato direto com o Diego se focados criar um grupo de WhatsApp, tudo a gente Dessa troca. Podem contar comigo, tá? Tamo todo mundo aqui no crescimento de aprendizado e troca."
+      },
+      {
+        "startTime": 1368,
+        "endTime": 1369,
+        "speaker": "Diego Diehl",
+        "text": "Bom demais, viu?"
+      },
+      {
+        "startTime": 1369,
+        "endTime": 1374,
+        "speaker": "Gustavo Zanella",
+        "text": "Legal, eu acho que eu acho que um grupo seria interessante mesmo, Diego a gente conversando por lá."
+      },
+      {
+        "startTime": 1374,
+        "endTime": 1380,
+        "speaker": "Diego Diehl",
+        "text": "Já vou criar essa não criei antes para não atravessar a gente se conhecendo."
+      },
+      {
+        "startTime": 1380,
+        "endTime": 1383,
+        "speaker": "Gustavo Zanella",
+        "text": "Deixa eu aproveitar vou fazer uma pergunta, não sei se é um momento"
+      },
+      {
+        "startTime": 1383,
+        "endTime": 1383,
+        "speaker": "Giuliano Milano",
+        "text": "por favor"
+      },
+      {
+        "startTime": 1383,
+        "endTime": 1391,
+        "speaker": "Gustavo Zanella",
+        "text": "mas a curiosidade é você começou a VGA em Goiânia, né?"
+      },
+      {
+        "startTime": 1391,
+        "endTime": 1393,
+        "speaker": "Giuliano Milano",
+        "text": "avgvsa ela começou ela foi fundada"
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1394,
+        "speaker": "Gustavo Zanella",
+        "text": "E desculpa."
+      },
+      {
+        "startTime": 1397,
+        "endTime": 1427,
+        "speaker": "Giuliano Milano",
+        "text": "em Florianópolis no dia 12 de setembro de 2019. Eu ainda estava em Florianópolis. Tanto é que hoje a maior parte da nossa carteira de clientes que nós já atendemos acaba sendo de Santa Catarina e Paraná, por coincidência assim, sei lá, tem uma coincidência ou não, mas eu nunca peguei um projeto de consultoria aqui em Goiânia que é a cidade que eu tenho mais relacionamento."
+      },
+      {
+        "startTime": 1427,
+        "endTime": 1433,
+        "speaker": "Gustavo Zanella",
+        "text": "Caramba é essa seria minha segunda dúvida, como que saiu de Goiânia para México para o Paraguai?"
+      },
+      {
+        "startTime": 1434,
+        "endTime": 1463,
+        "speaker": "Giuliano Milano",
+        "text": "Então cara, isso foi uma consequência natural que foi acontecendo porque assim eu também tenho um fator aqui, apesar de ser um cara marqueteiro. Eu nunca fiz uma campanha de tráfego pago para minha Consultoria. Sempre foi no relacionamento indicação relacionamento indicação é claro que isso se esgota, né? Mas como que isso aconteceu através? através."
+      },
+      {
+        "startTime": 1463,
+        "endTime": 1489,
+        "speaker": "Giuliano Milano",
+        "text": "Do Instagram do orgânico do Instagram, eu me conectei com o dono dessa Construtora do Paraguai, porque ele morava no Brasil. Mas a empresa dele era no Paraguai e daí no orgânico Total, ele falou caramba, ele eu tava falando muito sobre lançamento ele falou cara, eu vou fazer um lançamento daqui 30 dias ou 15 dias não lembro."
+      },
+      {
+        "startTime": 1489,
+        "endTime": 1493,
+        "speaker": "Giuliano Milano",
+        "text": "Em Assunção. Você pode me passar uma proposta?"
+      },
+      {
+        "startTime": 1493,
+        "endTime": 1493,
+        "speaker": "Gustavo Zanella",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 1493,
+        "endTime": 1523,
+        "speaker": "Giuliano Milano",
+        "text": "No orçamento de consultoria eu falei posso mandei a proposta a gente fechou uma proposta muito boa, inclusive um ticket bem interessante. Eu posso até falar para vocês aqui um valor de 30 mil por dois meses de trabalho com reuniões semanais uma reunião semanal. E o resultado foi muito bom, porque aí a gente conseguiu vender esse produto dele lá no Paraguai com a nossa metodologia que ele aplicou direitinho."
+      },
+      {
+        "startTime": 1523,
+        "endTime": 1526,
+        "speaker": "Giuliano Milano",
+        "text": "Em cinco dias ele nunca tinha"
+      },
+      {
+        "startTime": 1526,
+        "endTime": 1526,
+        "speaker": "Gustavo Zanella",
+        "text": "caramba"
+      },
+      {
+        "startTime": 1526,
+        "endTime": 1552,
+        "speaker": "Giuliano Milano",
+        "text": "vivenciado, isso é um cara que é engenheiro civil, o cara é mais de obra e tal, nunca tinha vivenciado isso e daí ele pediu para renovar esse contrato. Para mais dois lançamentos. E aí nós renovamos. E já e esse próximo contrato tinha uma participação no resultado também era um valor mas se atingisse 100% de vendas em até 30 dias a gente grava um bônus."
+      },
+      {
+        "startTime": 1552,
+        "endTime": 1575,
+        "speaker": "Giuliano Milano",
+        "text": "E aí nós fizemos esses dois lançamentos que foram simultâneos também aconteceram no mesmo dia e nós batemos 100% de vendas em 48 horas aí ficou muito feliz. E foi e assim ele começou a nos indicar. E aí ele nos indicou para essa empresa do México. Né que é o mente que eles estavam ele ele tava fazendo um curso nos Estados Unidos."
+      },
+      {
+        "startTime": 1575,
+        "endTime": 1597,
+        "speaker": "Giuliano Milano",
+        "text": "De extensão e se conectou com o mate aí comentou cometi que tinha uma metodologia capaz de acelerar o resultado de vendas aí o médico se conectou comigo. A gente fechou com ele também. Aí depois ele me indicou para uma empresa no Panamá para você ter noção uma outra Incorporadora no Paraná, essa nós não fechamos contrato."
+      },
+      {
+        "startTime": 1597,
+        "endTime": 1624,
+        "speaker": "Giuliano Milano",
+        "text": "Porque entendemos quando a gente tava lá no desenvolvimento da proposta e tal que o que a gente ia oferecer para ele não Era exatamente o que ele tava precisando. Ele tava precisando muito mais disso que a gente está fazendo hoje na hora na verdade. Porque um lançamento específico né? É um Incorporadora grande e tal lá no Panamá tem muito lançamento stock tal todo segmento econômico e Médio assim bem parecido com a raiva."
+      },
+      {
+        "startTime": 1624,
+        "endTime": 1627,
+        "speaker": "Diego Diehl",
+        "text": "A gente vai atender o cliente aqui"
+      },
+      {
+        "startTime": 1627,
+        "endTime": 1627,
+        "speaker": "Giuliano Milano",
+        "text": "E daí aconteceu então, você sabe"
+      },
+      {
+        "startTime": 1627,
+        "endTime": 1631,
+        "speaker": "Diego Diehl",
+        "text": "continue."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1644,
+        "speaker": "Giuliano Milano",
+        "text": "quando são as consequências naturais, por isso que eu falo assim que é jornada. Ela é muito mais interessante do que somente pensar ali no objetivo final sabe?"
+      },
+      {
+        "startTime": 1644,
+        "endTime": 1648,
+        "speaker": "Gustavo Zanella",
+        "text": "Sim claro aí surgiu essa dúvida Justamente por isso."
+      },
+      {
+        "startTime": 1648,
+        "endTime": 1649,
+        "speaker": "Giuliano Milano",
+        "text": "Legal legal, mas assim vamos trocar"
+      },
+      {
+        "startTime": 1649,
+        "endTime": 1650,
+        "speaker": "Gustavo Zanella",
+        "text": "legal bacana"
+      },
+      {
+        "startTime": 1650,
+        "endTime": 1652,
+        "speaker": "Giuliano Milano",
+        "text": "muito eu inclusive eu sou muito"
+      },
+      {
+        "startTime": 1652,
+        "endTime": 1653,
+        "speaker": "Gustavo Zanella",
+        "text": "Claro"
+      },
+      {
+        "startTime": 1653,
+        "endTime": 1676,
+        "speaker": "Giuliano Milano",
+        "text": "Abrir essas conexões, né? De repente até conectá-los com um mix lá da IBM, que essa desenvolvedora lá do México. E outros players do mercado por isso que eu falei da comunidade, eu quero criar essa comunidade. Para a gente ter uma troca, né constante de conhecimento."
+      },
+      {
+        "startTime": 1678,
+        "endTime": 1696,
+        "speaker": "Gustavo Zanella",
+        "text": "Uma estratégia que eu já tinha até a gente vai a gente vai entrando num projeto desse a gente vai pensando em um milhão de coisas que a gente pode fazer onde que a gente pode estar tchau, o que que é e esse foi um dos pontos a criação de comunidade criação de eventos para unir essa galera que às vezes não tem essa conexão."
+      },
+      {
+        "startTime": 1696,
+        "endTime": 1697,
+        "speaker": "Giuliano Milano",
+        "text": "exato"
+      },
+      {
+        "startTime": 1697,
+        "endTime": 1724,
+        "speaker": "Gustavo Zanella",
+        "text": "Às vezes a pessoa é um exemplo bobo, mas um gestor da GT build e às vezes não conhece um gestor da eugi e a gente trazer essa conexão a gente não traz só o valor na plataforma na ferramenta na solução que a gente tem mas também nessas conexões, eu tinha pensado nisso e Que bom que a gente tá na mesma página inclusive."
+      },
+      {
+        "startTime": 1724,
+        "endTime": 1724,
+        "speaker": "Gustavo Zanella",
+        "text": "legal"
+      },
+      {
+        "startTime": 1724,
+        "endTime": 1755,
+        "speaker": "Giuliano Milano",
+        "text": "eu posso conectá-los Com potenciais clientes a gente depois conversa com Diego, como é que a gente faz essa essa troca? Porque acaba que como eu fiz o ifo produto e depois consultorias eu me conei antes disso eu tive um background como executivo, né trabalhar Incorporadora durante no total de 2006 até 2017, então trabalhei 10."
+      },
+      {
+        "startTime": 1755,
+        "endTime": 1810,
+        "speaker": "Giuliano Milano",
+        "text": "Anos como executivo de algumas incorporadoras e eu tocava alterações de vários estados né do Brasil. Então desde lá do Nordeste no Ceará descendo centro-oeste Sul. E aí isso me trouxe muitas conexões. Então essas conexões e a gente pode pensar em trabalhos juntos eu conectá-los, né? Aí o Diego cria um formato modelo para a gente por exemplo, Diego, eu tava com não sei se você já abordou em São Paulo a Visconde, né? Eu tava conversando no na sexta ou na quinta-feira da semana passada com Renato Herrera que é um colega meu da elbor, né? Nós atual nós éramos superintendentes na época, ele cuidava de algumas regiões eu cuidava de outras."
+      },
+      {
+        "startTime": 1810,
+        "endTime": 1823,
+        "speaker": "Giuliano Milano",
+        "text": "E ele hoje é diretor comercial da Visconde que é grande e eu comentei com ele do projeto da hora e tal, depois vamos trocar mais de repente encaixa na Visconde, né?"
+      },
+      {
+        "startTime": 1825,
+        "endTime": 1842,
+        "speaker": "Diego Diehl",
+        "text": "Com certeza eu perdi um pouco o filme. Mas Ju sobre isso. Eu tenho. Primeiro assim gente aí curtir a experiência do Juliano e para a gente. Acho que acham que vão ser vai ser útil. Né tipo?"
+      },
+      {
+        "startTime": 1842,
+        "endTime": 1845,
+        "speaker": "Giuliano Milano",
+        "text": "Podem ser sinceros."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1845,
+        "speaker": "Diego Diehl",
+        "text": "Usar nela até travou ali."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1846,
+        "speaker": "Joao Vitor",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1884,
+        "speaker": "Diego Diehl",
+        "text": "Então cara, o Juliano veio de peso aí, p****, somos uma experiência muito bacana essa energia boa. Cara uma coisa que vocês podem me cobrar é o seguinte. Eu venho dá até uma coisa assim de falar mais. Cara, todo mundo tem que ganhar então assim não tem por favor não tem sua legal então Gil a resposta que eu tenho para te dar é assim ó, todo mundo que você trouxer, você tem que ganhar de alguma forma, meu amigo."
+      },
+      {
+        "startTime": 1884,
+        "endTime": 1884,
+        "speaker": "Giuliano Milano",
+        "text": "É isso aí"
+      },
+      {
+        "startTime": 1884,
+        "endTime": 1892,
+        "speaker": "Diego Diehl",
+        "text": "Vitor tiver prestando um suporte bom para o cara e conseguiu uma indicação ele vai ganhar uma mais dele lá, sei lá, a gente vai dar um jeito de fazer alguma coisa todo"
+      },
+      {
+        "startTime": 1892,
+        "endTime": 1892,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 1893,
+        "endTime": 1910,
+        "speaker": "Diego Diehl",
+        "text": "mundo tem que ganhar sempre então não existe senão Claro tem coisa que não pode perder o foco você desvirtua funciona a pessoa blá blá, mas a gente tem que tem que organizar um esquema que todo mundo ganha então eu nem lembro disso no teu contrato tá limitado a Goiânia."
+      },
+      {
+        "startTime": 1912,
+        "endTime": 1924,
+        "speaker": "Giuliano Milano",
+        "text": "Tá limitado A Goiânia. Mas tem uma brecha que é salvo é um acordo entre as partes eu posso abordar fora também, mas eu tenho que previamente."
+      },
+      {
+        "startTime": 1924,
+        "endTime": 1925,
+        "speaker": "Diego Diehl",
+        "text": "Isso é isso é que ele deixa"
+      },
+      {
+        "startTime": 1925,
+        "endTime": 1927,
+        "speaker": "Giuliano Milano",
+        "text": "Claro"
+      },
+      {
+        "startTime": 1927,
+        "endTime": 1952,
+        "speaker": "Diego Diehl",
+        "text": "organizado mas Reorganiza então, talvez não seja a mesma remuneração a mesma forma porque talvez você não vai dar o suporte não. Vai ser você que viaja implementa e sei lá, mas alguma coisa a gente faz tá? Então deixa claro assim é todo o negócio é bem-vindo o que a gente quer aliando todo mundo daí passando para o João ele se apresentar rapidinho."
+      },
+      {
+        "startTime": 1952,
+        "endTime": 1972,
+        "speaker": "Diego Diehl",
+        "text": "É criar um ecossistema saudável criar um ecossistema de parcerias criar uma forma em que a única coisa que eu trago aqui é quem eu o único ponto que eu trago e que eu acho que eu falei para todo mundo. Isso é assim gente esse projeto precisa de velocidade intensidade e aprendizado e foco."
+      },
+      {
+        "startTime": 1972,
+        "endTime": 1991,
+        "speaker": "Diego Diehl",
+        "text": "É só isso que a gente precisa aí vai ganhar de um lado do outro crescer para isso para aquilo todo mundo vai ganhar, mas como a gente precisa construir usar nela. Até falou Cara preciso ver as abordagens. Como que eu vou fazer isso? Como eu falo. Exatamente isso usar nela meio que existe da hora, mas o nosso negócio tá outro."
+      },
+      {
+        "startTime": 1991,
+        "endTime": 2008,
+        "speaker": "Diego Diehl",
+        "text": "Porque esse produto entrou e deixou a hora toda de outra forma e a gente tá criando tanto que um dos argumentos que eu dei. Para trazer os nela que tipo é mas a janela vai ser um SDR sei lá o que eu falei não vai fechar. Daqui a pouco vai ajudar no começo."
+      },
+      {
+        "startTime": 2008,
+        "endTime": 2031,
+        "speaker": "Diego Diehl",
+        "text": "Ah então ele não não a gente vai criar uma uma forma. De abordagem diferente do que tem da hora Luiz se funcionar a gente vai compartilhar com outro time comercial da hora no vice-versa então a ideia a gente realmente desenvolver focar criar novas abordagens abordar de uma forma f***, cara que nós quatro criado e abordagem com a experiência que a gente tem."
+      },
+      {
+        "startTime": 2031,
+        "endTime": 2078,
+        "speaker": "Diego Diehl",
+        "text": "Cara, não é de um qualquer processo aí que cria um script de ABC, a gente vai ter um entendimento fora da ferramenta. Então acho que reforçando esse ponto aí acho que é legal usar nela caiu na hora, mas falei curtir a experiência do Juliano. Tipo, olha o que ele pode agregar, né? Olha o que que a gente pode somar p**** demais, né? Então o meu desafio aqui com a gente até Deixando vocês tranquilos na reunião essa reunião específica para a gente bater papo e talvez tenha reunião específica para isso, talvez tem horário específico para isso o meu desafio depois disso é além disso a gente ser eficiente produtivo e ter foco em algumas coisas, mas deixa comigo que a engenharia de produção bate de aprendizado troca de conhecimento."
+      },
+      {
+        "startTime": 2078,
+        "endTime": 2085,
+        "speaker": "Diego Diehl",
+        "text": "Eu lembro do livro que eu não sei se vocês viram já mas cara mudou minha vida, ele e é muito louco de eu não sei se eu te contei isso já ou usar."
+      },
+      {
+        "startTime": 2085,
+        "endTime": 2086,
+        "speaker": "Gustavo Zanella",
+        "text": "assim"
+      },
+      {
+        "startTime": 2086,
+        "endTime": 2091,
+        "speaker": "Diego Diehl",
+        "text": "esse pontinho aqui para compartilhar com vocês tem um livro chamado a quinta disciplina."
+      },
+      {
+        "startTime": 2091,
+        "endTime": 2091,
+        "speaker": "Giuliano Milano",
+        "text": "Não conheço."
+      },
+      {
+        "startTime": 2093,
+        "endTime": 2104,
+        "speaker": "Diego Diehl",
+        "text": "Que o criador dessa metodologia. Ele pesquisou 15 anos sobre empresas e tal e o substituto do livro é organizações que aprendem."
+      },
+      {
+        "startTime": 2104,
+        "endTime": 2104,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 2105,
+        "endTime": 2127,
+        "speaker": "Diego Diehl",
+        "text": "Então já pega o negócio, né? Eu vou jogar dar um control c no grupo ali quando a gente criar já no chat PT Resumindo isso aí conectando com a gente que o objetivo do grupo também enviar informações para a gente trocando. E um dos pupilos desse cara que passou 15 anos estudando com ele 10 anos, depois desenvolveu a Teoria em u."
+      },
+      {
+        "startTime": 2127,
+        "endTime": 2163,
+        "speaker": "Diego Diehl",
+        "text": "Que não sei se vocês viram já também a Teoria em U também é a teoria do aprendizado e tal que é o nosso segundo ponto. Esse cara o livro a quinta disciplina a orelha do livro quem escreveu foi o demim se vocês estudaram de mim na faculdade é o pai da Administração é o cara que desenvolveu e eu não sei se ele fundou, mas ele é o cara é o pai da administração que vem da gestão da qualidade total a gestão da qualidade total, basicamente pegou uma metodologia de olhar para uma indústria medir tudo e fazer um negócio crescer e bombar e organizar e como ter uma parada."
+      },
+      {
+        "startTime": 2163,
+        "endTime": 2186,
+        "speaker": "Diego Diehl",
+        "text": "parada f***. E aí eu achei curioso só para trazer o contraponto aqui para gente vocês vão se surpreender com isso. O pai da administração com 86 anos escreveu a orelha desse livro da quinta disciplina e o Dame foi o cara que inventou a frase não se pode gerenciar o que não é medido."
+      },
+      {
+        "startTime": 2186,
+        "endTime": 2187,
+        "speaker": "Diego Diehl",
+        "text": "Com certeza todo mundo fala."
+      },
+      {
+        "startTime": 2187,
+        "endTime": 2188,
+        "speaker": "Giuliano Milano",
+        "text": "Todo mundo fala."
+      },
+      {
+        "startTime": 2188,
+        "endTime": 2210,
+        "speaker": "Diego Diehl",
+        "text": "E aí na orelha desse livro daí me fala assim, ó. Eu criei algo muito ruim. A minha frase eu não acredito mais nela. E daí a minha frase atual é só se pode medir três por cento do que realmente importa."
+      },
+      {
+        "startTime": 2210,
+        "endTime": 2213,
+        "speaker": "Giuliano Milano",
+        "text": "Olha, p****."
+      },
+      {
+        "startTime": 2213,
+        "endTime": 2218,
+        "speaker": "Diego Diehl",
+        "text": "A cabeça ele falou assim, eu criei um sistema que deixou as pessoas doentes."
+      },
+      {
+        "startTime": 2218,
+        "endTime": 2218,
+        "speaker": "Giuliano Milano",
+        "text": "creme de tudo"
+      },
+      {
+        "startTime": 2218,
+        "endTime": 2235,
+        "speaker": "Diego Diehl",
+        "text": "Começou a contar as pessoas como números e limitou tudo. Daí, eu tô muito feliz que o cara da quinta disciplina trouxe essa metodologia e eu vou morrer mais feliz, porque alguém tá evoluindo o planeta então."
+      },
+      {
+        "startTime": 2235,
+        "endTime": 2235,
+        "speaker": "Giuliano Milano",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 2236,
+        "endTime": 2252,
+        "speaker": "Diego Diehl",
+        "text": "Só se mede 3% do que realmente importa o que importa são outros mecanismos é a troca são os paradigmas que a gente compartilha é o conhecimento que a gente troca eu pertencimento que a gente sente é cara. São assim com disciplinas então."
+      },
+      {
+        "startTime": 2252,
+        "endTime": 2253,
+        "speaker": "Giuliano Milano",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 2253,
+        "endTime": 2270,
+        "speaker": "Diego Diehl",
+        "text": "gente porque porque O número é o norte, mas a troca o conhecimento a gente se sente bem o propósito lá o fazer parte o trocar o vibrar é o que gera energia que é o que faz ser produtivo de verdade."
+      },
+      {
+        "startTime": 2270,
+        "endTime": 2270,
+        "speaker": "Giuliano Milano",
+        "text": "É verdade"
+      },
+      {
+        "startTime": 2270,
+        "endTime": 2291,
+        "speaker": "Diego Diehl",
+        "text": "Então esse é o parentes meu que cara eu sou giro de produção a indústria desenvolveu a Revolução Industrial desenvolveu nimecanismos que eu trago para vendas então o processos industriais eu tento trazer um olhar das vendas da indústria para as vendas e funciona só que a medindo e olhando é só 3% cara."
+      },
+      {
+        "startTime": 2291,
+        "endTime": 2295,
+        "speaker": "Diego Diehl",
+        "text": "O resto é o Tom que a gente fala. Como é que você vai medir o Tom."
+      },
+      {
+        "startTime": 2295,
+        "endTime": 2295,
+        "speaker": "Giuliano Milano",
+        "text": "Não tem jeito."
+      },
+      {
+        "startTime": 2296,
+        "endTime": 2321,
+        "speaker": "Diego Diehl",
+        "text": "Entusiasmo o rapaz a IATA tentando fazer isso ela tá conseguindo um pouco ela consiga, mas daí talvez o 3% vir 15 a gente consegue medir 15% do que importa. Mas queria trazer esse pãozinho aí para gente. Para a gente não se limitar e enfim a gente ter essa troca essa esse ponto rico aí que a gente tá falando desde o começo."
+      },
+      {
+        "startTime": 2324,
+        "endTime": 2332,
+        "speaker": "Giuliano Milano",
+        "text": "o maior resultado, né o maior ganho individual pessoal profissional de cada um aqui estando nessa comunidade."
+      },
+      {
+        "startTime": 2333,
+        "endTime": 2353,
+        "speaker": "Diego Diehl",
+        "text": "Boa eu vou eu vou compartilhar com vocês, depois esse elemento aí que a gente eu queria convidar vocês nesse começo. de jornada que a gente tá junto praticamente a gente entrou junto gente eu entrei em Março Juliana entrou agora em Julho, né?"
+      },
+      {
+        "startTime": 2353,
+        "endTime": 2354,
+        "speaker": "Giuliano Milano",
+        "text": "de julho"
+      },
+      {
+        "startTime": 2354,
+        "endTime": 2360,
+        "speaker": "Diego Diehl",
+        "text": "O João Vitor e o Gustavo usar nela, você prefere usar nela o Gustavo."
+      },
+      {
+        "startTime": 2360,
+        "endTime": 2362,
+        "speaker": "Gustavo Zanella",
+        "text": "Pode ser janela?"
+      },
+      {
+        "startTime": 2362,
+        "endTime": 2362,
+        "speaker": "Giuliano Milano",
+        "text": "Da janela é mais forte."
+      },
+      {
+        "startTime": 2362,
+        "endTime": 2370,
+        "speaker": "Diego Diehl",
+        "text": "Usar nela em agosto, então foi 3788 mês todo mundo 2024, a gente tá começando. Então eu queria achar mais essa"
+      },
+      {
+        "startTime": 2370,
+        "endTime": 2371,
+        "speaker": "Giuliano Milano",
+        "text": "sim"
+      },
+      {
+        "startTime": 2371,
+        "endTime": 2376,
+        "speaker": "Diego Diehl",
+        "text": "responsabilidade. Nossa dessa criação da cultura aí do que que a gente vai realmente"
+      },
+      {
+        "startTime": 2376,
+        "endTime": 2377,
+        "speaker": "Giuliano Milano",
+        "text": "feito"
+      },
+      {
+        "startTime": 2377,
+        "endTime": 2380,
+        "speaker": "Diego Diehl",
+        "text": "promover contar divulgar interagir."
+      },
+      {
+        "startTime": 2380,
+        "endTime": 2382,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 2382,
+        "endTime": 2383,
+        "speaker": "Diego Diehl",
+        "text": "show João"
+      },
+      {
+        "startTime": 2383,
+        "endTime": 2404,
+        "speaker": "Gustavo Zanella",
+        "text": "esse ponto da cultura são parentes de esse ponto da Cultura, eu trabalhei durante três meses na Hype. E esse ponto da cultura que o Diego fala eu vejo muito forte eu via muito forte dentro da Hype que é um movimento que todo mundo tá no mesmo barco e com o mesmo objetivo, então eu entendo."
+      },
+      {
+        "startTime": 2404,
+        "endTime": 2413,
+        "speaker": "Gustavo Zanella",
+        "text": "Exatamente esse ponto do Diego e a gente construindo isso juntos mesmo comercial que vai ter em Goiânia vai ter em São Paulo vai ter em Floripa vai ter várias outras várias outras cidades então."
+      },
+      {
+        "startTime": 2413,
+        "endTime": 2415,
+        "speaker": "Diego Diehl",
+        "text": "Você viu funcionando isso, né? Janela?"
+      },
+      {
+        "startTime": 2415,
+        "endTime": 2417,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu vi na prática isso e realmente"
+      },
+      {
+        "startTime": 2417,
+        "endTime": 2417,
+        "speaker": "Diego Diehl",
+        "text": "Eu fui no ano passado gente meu."
+      },
+      {
+        "startTime": 2417,
+        "endTime": 2418,
+        "speaker": "Gustavo Zanella",
+        "text": "Isso realmente é?"
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2443,
+        "speaker": "Diego Diehl",
+        "text": "desafio foi construir uma House. E eu Visitei várias em todas a galera, tinha uma criança que era assim cara corretor é dinheiro ninguém se ajuda foco tinham ninguém se ajuda tão competindo aquele ambiente tóxico competitivo destrutivo. A gente criou o ambiente na Hype onde todo mundo se ajudava."
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2443,
+        "speaker": "Giuliano Milano",
+        "text": "E ao mesmo tempo pelo que eu percebi"
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2445,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 2445,
+        "endTime": 2452,
+        "speaker": "Giuliano Milano",
+        "text": "era super competitivo no aspecto. Positivo, né?"
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2452,
+        "speaker": "Diego Diehl",
+        "text": "é competir com os outros quase é"
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2454,
+        "speaker": "Gustavo Zanella",
+        "text": "Positivo sim."
+      },
+      {
+        "startTime": 2454,
+        "endTime": 2454,
+        "speaker": "Giuliano Milano",
+        "text": "é"
+      },
+      {
+        "startTime": 2454,
+        "endTime": 2472,
+        "speaker": "Diego Diehl",
+        "text": "competir com você mesmo e brincar e por uma meta ousada e tudo isso porque eu reforcei desde essa cultura da quinta disciplina em frases que eu lembro que a frase que eu guiei a cultura com algumas frases que a gente repetiu os anel deve ter escutado uma delas era fazer uma pergunta."
+      },
+      {
+        "startTime": 2472,
+        "endTime": 2483,
+        "speaker": "Diego Diehl",
+        "text": "Toda segunda de manhã tinha reunião, né? Vai fazer uma pergunta. Pessoal, quem é que mais aprende? Você escutou essas janela ou não?"
+      },
+      {
+        "startTime": 2483,
+        "endTime": 2486,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu peguei uma reunião com você, só que era de despedida inclusive."
+      },
+      {
+        "startTime": 2486,
+        "endTime": 2501,
+        "speaker": "Diego Diehl",
+        "text": "Mas p**** deve ter mas a frase era quem é que mais aprende gente. É quem ensina? Então na verdade quem tá compartilhando quem tá mais aprendendo não acha que eu tô pedindo ajuda e eu que tô ganhando ajuda, na verdade é o cara que tá ensinando com isso os corretores, se"
+      },
+      {
+        "startTime": 2501,
+        "endTime": 2504,
+        "speaker": "Giuliano Milano",
+        "text": "É verdade"
+      },
+      {
+        "startTime": 2504,
+        "endTime": 2510,
+        "speaker": "Diego Diehl",
+        "text": "ajudavam porque eles sabiam que eles estavam aprendendo então é egoísta, mas contribui com o grupo então."
+      },
+      {
+        "startTime": 2510,
+        "endTime": 2511,
+        "speaker": "Giuliano Milano",
+        "text": "Claro"
+      },
+      {
+        "startTime": 2511,
+        "endTime": 2522,
+        "speaker": "Diego Diehl",
+        "text": "Ah, vai ser círculo, né, cara então contem comigo aí. Óbvio. Pergunta a todos que você perguntar cinco vezes a mesma coisa para mim, eu vou te mandar estudar velho, eu vou gravar aqui a reunião pega a reunião que eu gravei lá escuta de"
+      },
+      {
+        "startTime": 2522,
+        "endTime": 2523,
+        "speaker": "Giuliano Milano",
+        "text": "Manda o link."
+      },
+      {
+        "startTime": 2523,
+        "endTime": 2534,
+        "speaker": "Diego Diehl",
+        "text": "novo. E por sinal você já viram né usar nela o Gil? O João essa reuniões com o cliente gravada gente p*** isso aí vai"
+      },
+      {
+        "startTime": 2534,
+        "endTime": 2535,
+        "speaker": "Giuliano Milano",
+        "text": "É o ouro, né?"
+      },
+      {
+        "startTime": 2535,
+        "endTime": 2563,
+        "speaker": "Diego Diehl",
+        "text": "assim ó, pensa que a gente tem a transcrição de todas elas e daqui a pouco eu vou jogar para uma estruturar nosso playbook de vendas está a objeção que a gente contorna. Tá sendo só plantadinho ali então assistam. Vamos aprender na base que é muito rico usar ela tá com essa missão João também Juliano também eu também assisto as minhas porque eu aprendi dançando que você só melhora quando você vê você mesmo."
+      },
+      {
+        "startTime": 2563,
+        "endTime": 2576,
+        "speaker": "Diego Diehl",
+        "text": "Aí você fala c******, o que eu faço com meu braço velho, coisa feia, c******, não sabia que eu fazia essa cara essa expressão, eu vejo Às vezes o print da reunião uma expressão Milton, c******. Falou c******. Isso é f*** velho. Isso é f*** demais, mas faz parte"
+      },
+      {
+        "startTime": 2576,
+        "endTime": 2579,
+        "speaker": "Gustavo Zanella",
+        "text": "pior"
+      },
+      {
+        "startTime": 2579,
+        "endTime": 2583,
+        "speaker": "Diego Diehl",
+        "text": "daí até uma vulnerabilidade. Nossa ele fala. Ah f***-se, velho, é isso são?"
+      },
+      {
+        "startTime": 2583,
+        "endTime": 2595,
+        "speaker": "Giuliano Milano",
+        "text": "Eu também quando eu vejo normalmente eu tô pessoalmente, né? Aí eu tô de ladinho assim, aí eu vejo a careca, mas faz parte, né, cara?"
+      },
+      {
+        "startTime": 2595,
+        "endTime": 2596,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente velho João vai lá tua"
+      },
+      {
+        "startTime": 2596,
+        "endTime": 2600,
+        "speaker": "Giuliano Milano",
+        "text": "É aquele negócio f***-se. Vamos em frente, pô."
+      },
+      {
+        "startTime": 2600,
+        "endTime": 2603,
+        "speaker": "Diego Diehl",
+        "text": "vez meu amigo."
+      },
+      {
+        "startTime": 2603,
+        "endTime": 2608,
+        "speaker": "Joao Vitor",
+        "text": "Agora esse time aí tá pesado, hein? Só camisa 10, hein? Coisa linda."
+      },
+      {
+        "startTime": 2608,
+        "endTime": 2608,
+        "speaker": "Diego Diehl",
+        "text": "É isso."
+      },
+      {
+        "startTime": 2608,
+        "endTime": 2618,
+        "speaker": "Joao Vitor",
+        "text": "Vamos lá pessoal, meu nome é João Vitor me chame. Como você sabe melhor João Vitor pessoal, me chamava muito de JV. Então já criava até um apelido aí para mim."
+      },
+      {
+        "startTime": 2618,
+        "endTime": 2619,
+        "speaker": "Giuliano Milano",
+        "text": "Que legal legal, você pensa em alto"
+      },
+      {
+        "startTime": 2619,
+        "endTime": 2631,
+        "speaker": "Joao Vitor",
+        "text": "Sou de Floripa famoso manezinho gosto de pescar assim, então é o meu hobby Favorito. Inclusive até para você já conhecer até eu não tinha falado isso para o Diego ainda. Gosto de pescar fazer pescaria"
+      },
+      {
+        "startTime": 2631,
+        "endTime": 2634,
+        "speaker": "Giuliano Milano",
+        "text": "mar você."
+      },
+      {
+        "startTime": 2634,
+        "endTime": 2637,
+        "speaker": "Joao Vitor",
+        "text": "Oceânica tem um grupo de pesca, né de Santa Catarina toda então."
+      },
+      {
+        "startTime": 2637,
+        "endTime": 2638,
+        "speaker": "Diego Diehl",
+        "text": "c******, eu fui para minha zona."
+      },
+      {
+        "startTime": 2638,
+        "endTime": 2640,
+        "speaker": "Giuliano Milano",
+        "text": "Que legal cara."
+      },
+      {
+        "startTime": 2640,
+        "endTime": 2642,
+        "speaker": "Diego Diehl",
+        "text": "em Julho, cara. Fiquei seis dias piscando lá."
+      },
+      {
+        "startTime": 2642,
+        "endTime": 2646,
+        "speaker": "Joao Vitor",
+        "text": "Sério? top top"
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2651,
+        "speaker": "Diego Diehl",
+        "text": "Pesquei uns peixão mano de p**** bagulho, parece que é um meio dinossauro assim."
+      },
+      {
+        "startTime": 2651,
+        "endTime": 2653,
+        "speaker": "Giuliano Milano",
+        "text": "Você pegou o pirarucu alguma coisa assim? Ope."
+      },
+      {
+        "startTime": 2653,
+        "endTime": 2656,
+        "speaker": "Diego Diehl",
+        "text": "virar o c* não mas"
+      },
+      {
+        "startTime": 2656,
+        "endTime": 2658,
+        "speaker": "Joao Vitor",
+        "text": "Tucunaré"
+      },
+      {
+        "startTime": 2658,
+        "endTime": 2662,
+        "speaker": "Diego Diehl",
+        "text": "Tucunaré peguei dois ele o bicho pula peguei na isca artificial era irado é muito massa."
+      },
+      {
+        "startTime": 2662,
+        "endTime": 2664,
+        "speaker": "Joao Vitor",
+        "text": "Nossa irado"
+      },
+      {
+        "startTime": 2664,
+        "endTime": 2671,
+        "speaker": "Diego Diehl",
+        "text": "É pirar. Eu peguei uma pirarara de 30 kg, velho, peguei esse um bichão é bem"
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2671,
+        "speaker": "Joao Vitor",
+        "text": "Coisa linda."
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2671,
+        "speaker": "Diego Diehl",
+        "text": "massa, mas que legal continuei junto."
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2672,
+        "speaker": "Gustavo Zanella",
+        "text": "caraca"
+      },
+      {
+        "startTime": 2674,
+        "endTime": 2735,
+        "speaker": "Joao Vitor",
+        "text": "Show de bola então sou casado já há cinco anos atua aqui mora em Palhoça. Tava conversando com Juliano do ladinho de Floripa. Já tudo mercado de tecnologia já oito anos, né desses oito anos, aí eu vejo que seis anos deles foram marcados voltados para o mercado imobiliário. Então o meu dia a dia era falar com o dono de Imobiliária, né? Eu trabalhei na vista software acredito que vocês já viram falar foi Até adquirida recentemente pela Loft então respirei durante seis anos aí desde a área de relacionamento com cliente boa parte do tempo, né durante três anos aproximadamente entendendo dores realmente das imobiliárias puxando a orelha de muito corretor que a gente sabe né, Eles Não Usam sistema então vivencia isso na prática, né? O famoso engajamento trabalhei no time de CS também inclusive até fiz um trabalho muito muito bacana com o"
+      },
+      {
+        "startTime": 2735,
+        "endTime": 2735,
+        "speaker": "Giuliano Milano",
+        "text": "sim"
+      },
+      {
+        "startTime": 2735,
+        "endTime": 2739,
+        "speaker": "Joao Vitor",
+        "text": "Eduardo da oro na Private imobiliária que ele trabalhava então o gerente de contas, né?"
+      },
+      {
+        "startTime": 2739,
+        "endTime": 2742,
+        "speaker": "Giuliano Milano",
+        "text": "Ah legal"
+      },
+      {
+        "startTime": 2742,
+        "endTime": 2744,
+        "speaker": "Joao Vitor",
+        "text": "cuidava das maiores imobiliárias do Brasil."
+      },
+      {
+        "startTime": 2744,
+        "endTime": 2745,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 2745,
+        "endTime": 2778,
+        "speaker": "Joao Vitor",
+        "text": "Desde Grande. Crédito Real rede Gaúcha Auxiliadora Predial todas aí eu já acompanhei então entendia bastante sobre regra de negócio deles e na frente dissesse. Eu tenho todas as pontas, né? Eu costumo dizer desde gestão de carteira retenção de Jane é a parte de aumento de receita, né com o céu para essas imobiliárias, então fiz um trabalho muito forte em cima disso lançando produtos entendendo as dores dos clientes levando essas demandas para o time de produto que é basicamente uma das lembra."
+      },
+      {
+        "startTime": 2778,
+        "endTime": 2813,
+        "speaker": "Joao Vitor",
+        "text": "Eu vou fazer que também ajudar né? O Diego nessa frente entender se de fato aquilo que a gente está implementando tá fazendo sentido lá na ponta para as incorporadoras. E aí ele também uma experiência na área comercial, né com essa frente que surgiu e o foco da lofting construiu um ecossistema para o mercado imobiliário também voltado em parcerias, né de ter uma uma imobiliária Compartilhando os seus Imóveis com outras tive uma frente também nesse sentido falando um pouquinho de informações sou formado em análise do desenvolvimento sistemas como a especialização como cientista de dados e Big, Data."
+      },
+      {
+        "startTime": 2813,
+        "endTime": 2822,
+        "speaker": "Joao Vitor",
+        "text": "Então a partir de dados também algo que sou internamente apaixonado aí gosto bastante da métricas levantar informações e ser mais estratégico, né?"
+      },
+      {
+        "startTime": 2822,
+        "endTime": 2822,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 2822,
+        "endTime": 2833,
+        "speaker": "Joao Vitor",
+        "text": "Era uma outra dor também do mercado imobiliário que a gente vivencia até hoje então dom de Imobiliária, não sabia analisar um gráfico isso era rotineiro demais no dia a dia então."
+      },
+      {
+        "startTime": 2833,
+        "endTime": 2872,
+        "speaker": "Diego Diehl",
+        "text": "Eu acabei de anotar João um produto nosso que já tá no radar que eu tô desenvolvendo com o Juliano em outra frente. Que as incorporadoras elas precisam muitas vezes de um analista comercial para compilar dados informações para poder ter relatório e a empresa enxergar mas hoje em dia com tecnologia com dados estruturado com biai com tudo tem um produto que tá no nosso radar que ele tá numa esteira que tem outros passos que é um analista comercial exacerves que daí eu vou precisar dos teus dados mais para frente que vai ser o teu provavelmente e algum momento porque cara a gente tem os dados padronizados tem os biais tem as análises a gente sabe fazer isso."
+      },
+      {
+        "startTime": 2872,
+        "endTime": 2874,
+        "speaker": "Diego Diehl",
+        "text": "A gente faz isso na nossa operação eu virar para me incorporador e fala"
+      },
+      {
+        "startTime": 2874,
+        "endTime": 2876,
+        "speaker": "Joao Vitor",
+        "text": "sim"
+      },
+      {
+        "startTime": 2876,
+        "endTime": 2891,
+        "speaker": "Diego Diehl",
+        "text": "te cobro 3. Você ia ter que pagar oito para o teu analista e eu te entrego isso aqui, pô. 50 clientes a 3.650 pau para tocar em duas três pessoas uma frente de um negócio né? Então só para contribuir aí com né."
+      },
+      {
+        "startTime": 2891,
+        "endTime": 2894,
+        "speaker": "Giuliano Milano",
+        "text": "Legal legal."
+      },
+      {
+        "startTime": 2894,
+        "endTime": 2921,
+        "speaker": "Joao Vitor",
+        "text": "E falando um pouquinho desse projeto que surgiu, né? A ideia realmente atuar bem forte na frente de implantações então com esse pouco esse desafio junto com Diego a gente conseguir construir um processo que se torna escalável justamente para a gente não gerar um gargalo aqui, né? E que é tanto Zanella Juliano Diego e quem tiver na ponta realmente vendendo possa vender 30 50 primos no mês e que a gente consiga fazer essa roda girar naturalmente."
+      },
+      {
+        "startTime": 2921,
+        "endTime": 2939,
+        "speaker": "Joao Vitor",
+        "text": "Então o meu desafio tá muito pautado nisso e entender. Quais são as atividades que precisam ser feitas, o que que é feito nas etapas de contato com o cliente na implantação. Até que a gente entenda que tudo aquilo que a gente comercializou na ponta foi entregue e tá em perfeito estado de funcionamento."
+      },
+      {
+        "startTime": 2939,
+        "endTime": 2960,
+        "speaker": "Joao Vitor",
+        "text": "Um Desafio bem forte em cima disso, né conectando todas as pontas e os parceiros, né que atuam os fornecedores estão tô entendendo. Qual que é o papel de cada um qualquer atividade que cada um tem durante o processo de implantação para a gente conseguir ter isso bem mapeado documentado e fazer essa esse príncipe entregue da melhor forma possível."
+      },
+      {
+        "startTime": 2960,
+        "endTime": 2977,
+        "speaker": "Joao Vitor",
+        "text": "Então veja que o desafio está muito em cima disso. Tô bem feliz em fazer amado também assim como Zanela comentou eu vejo que a gente tem um grande desafio aqui pela frente o aprendizado também constante, né? Então contem comigo vamos trocar bastante ideia e com certeza, vamos fazer fazer esse produto aí bombar."
+      },
+      {
+        "startTime": 2977,
+        "endTime": 2981,
+        "speaker": "Giuliano Milano",
+        "text": "Show Maravilha João acho que é muito importante."
+      },
+      {
+        "startTime": 2981,
+        "endTime": 2982,
+        "speaker": "Diego Diehl",
+        "text": "Demais, né, gente?"
+      },
+      {
+        "startTime": 2982,
+        "endTime": 3001,
+        "speaker": "Giuliano Milano",
+        "text": "Da pegada de dados de informação biai eu sou apaixonado por isso também gosto de entrar de analisar. Acho que a gente e como o Diego falou, né? Nós temos um outro projeto que eu acho que a gente consegue gerar muito valor para o cliente a partir do momento que a gente consegue entregar isso para ele."
+      },
+      {
+        "startTime": 3001,
+        "endTime": 3006,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu já sei quem que vai vai proporcionar os três por cento dos dados aí então."
+      },
+      {
+        "startTime": 3006,
+        "endTime": 3009,
+        "speaker": "Giuliano Milano",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 3009,
+        "endTime": 3013,
+        "speaker": "Diego Diehl",
+        "text": "Exato, mas aí você pega os 3% e usa da forma correta, né?"
+      },
+      {
+        "startTime": 3013,
+        "endTime": 3013,
+        "speaker": "Gustavo Zanella",
+        "text": "Claro"
+      },
+      {
+        "startTime": 3013,
+        "endTime": 3044,
+        "speaker": "Diego Diehl",
+        "text": "né? Daí talvez. Boa gente, nossa 11:15. Vamos indo para o encerramento da reunião próximos passos tá para a gente alinhar estratégia. Com relação a prioridades a gente tem cara nossa prioridade máxima hoje. Então é vender. Vender Ah, mas plantação tá meio que acelerando gargalando a linha expectativa com o cliente sobre data e período de implantação, mas vender."
+      },
+      {
+        "startTime": 3044,
+        "endTime": 3062,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente tem o Juliano ali vendendo principalmente com a força do prm a gente tá entendendo do Goiânia ali tá no foco então o objetivo é falar com mais cliente e mantendo falou up apresentando usa nela vai entrar em Curitiba ali agora também. Acho que vai entrar a gente já fala de prioridade tática."
+      },
+      {
+        "startTime": 3062,
+        "endTime": 3090,
+        "speaker": "Diego Diehl",
+        "text": "Mas a nossa estratégia agora é Óbvio sempre vai ser talvez uma prioridade do João Vitor é implantar e acelerar os dois clientes que a gente tem porque ele passando na frente eu já consigo ir apresentando diferentes coisas dos produtos para vocês para ir acrescentando a venda então João a gente vai ter provavelmente um ritualzinho de contando para o Juliano e pro zanello."
+      },
+      {
+        "startTime": 3090,
+        "endTime": 3106,
+        "speaker": "Diego Diehl",
+        "text": "O que que a gente tá fazendo nas implantações para eles irem mapeando na cabeça que cara ajuda na venda no final do dia. Você vai clareando avisando o produto vai ganhando segurança confiança, eu já boto como uma atribuição tua a gente tem um report de certa forma do como que a gente está avançando as implantações."
+      },
+      {
+        "startTime": 3106,
+        "endTime": 3107,
+        "speaker": "Diego Diehl",
+        "text": "Quais etapas tem daqui a pouco?"
+      },
+      {
+        "startTime": 3107,
+        "endTime": 3108,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 3109,
+        "endTime": 3133,
+        "speaker": "Diego Diehl",
+        "text": "Enfim tem esse ponto para a gente vender a gente precisa. Saber o que está vendendo a gente precisa treinar a gente precisa falar de objeção falar de abordagem tem a nossa apresentação ter as nossas ferramentas comerciais então falando de uma forma bem prática o nosso. Minha ideia de início é a gente conseguir estar trocando no grupo muito informação sobre vendas sobre objeção, por exemplo."
+      },
+      {
+        "startTime": 3133,
+        "endTime": 3154,
+        "speaker": "Diego Diehl",
+        "text": "O Juliano trouxe tem uma objeção que é os coordenadores vão se sentir inseguros com rastreamento aonde é que isso tá como bloqueia de causa na nossa apresentação. Vamos falar antes de aparecer objeção, né? Então a gente vai aprendendo usa nelas que vai ser um Ponto Central ali para aí absorvendo e eu vou organizar com ele, quais objeções aparecem."
+      },
+      {
+        "startTime": 3154,
+        "endTime": 3178,
+        "speaker": "Diego Diehl",
+        "text": "Quais argumentações que Os benefícios a gente tem eu Juliano. Vamos enriquecendo jogando com os anéis então usar nela nesse teu aprendizado a gente vai ter um documento sobre informações de produto informação de objeção, informação de abordagem. Você vai ser o cara. Aspas mais Júnior que vai beber do Juliano e de mim ali bastante compilando e já ia ajustando porque daqui a pouco talvez você tenha um SDR."
+      },
+      {
+        "startTime": 3178,
+        "endTime": 3204,
+        "speaker": "Diego Diehl",
+        "text": "E aí você vai ter que multiplicar esse conhecimento, você sabe que a tua meta de Médio prazo. O João Vitor vai trazer essa parte muito do implantação vai mapear o processo vai padronizar e vai compartilhando também, é? O Juliano Ele tá de certa forma, a gente tá pensando em marketing vai fluindo algumas coisas então minha proposta para a gente é começar já com uma um encontro na semana."
+      },
+      {
+        "startTime": 3204,
+        "endTime": 3226,
+        "speaker": "Diego Diehl",
+        "text": "Que a gente tem ali uma hora e meia que haja uma troca e que cada vez uma pessoa vai trazendo algum conteúdo algum aprendizado falar sobre uma apresentação. Acho que a nossa ideia é tentar gravar algumas reuniões então estarem ali o tldv que dá para compartilhar o João Vitor trouxe tome cuidado com o cliente."
+      },
+      {
+        "startTime": 3226,
+        "endTime": 3253,
+        "speaker": "Diego Diehl",
+        "text": "Ou posso gravar porque depois Às vezes eu esqueço uma coisa para os interno, eu posso registrar você vai receber também o cliente sentir à vontade. Se você vender como uma inovação não é? Tô gravando a reunião não meu aí anotadora de tópicos e tal já tá aqui então. Tentem gravar para a gente compartilhando do que vocês virem o objetivo então nosso objetivo, um agora é compartilhar conhecimento e estruturar conhecimento."
+      },
+      {
+        "startTime": 3253,
+        "endTime": 3253,
+        "speaker": "Diego Diehl",
+        "text": "Sempre voltado no resultado de eu"
+      },
+      {
+        "startTime": 3253,
+        "endTime": 3255,
+        "speaker": "Giuliano Milano",
+        "text": "isso"
+      },
+      {
+        "startTime": 3255,
+        "endTime": 3281,
+        "speaker": "Diego Diehl",
+        "text": "falar com janela, quantas pessoas se abordou? Como é que foi? Como é que foram seus colaps filiando a mesma coisa cara, cadê o como é que você tá abordando que tá acontecendo e o João Vitor vai estar focado implementar cetim das armas para a gente correr com esse processo e deixar o chão asfaltado já para quando começar a ver mais clientes, beleza? Eu acho que do que eu falei de principal é Vocês entenderam? A gente é um time agora."
+      },
+      {
+        "startTime": 3281,
+        "endTime": 3300,
+        "speaker": "Diego Diehl",
+        "text": "Vamos fazer um grupo? Vamos se reunir ali semanalmente. Talvez no início da semana a gente faça uma reunião mais rápida para já dar aquela atração do início da semana e ali ao longo do da semana. A gente tem um horário de Treinamento algo assim obviamente Gente esse horário ele é disponível para agendar com o cliente."
+      },
+      {
+        "startTime": 3300,
+        "endTime": 3326,
+        "speaker": "Diego Diehl",
+        "text": "Se rolar algo só deu esse horário, a gente vai ter um esquema de olhar gelo um do outro todo mundo modifica o evento arrasta para um horário que tiver livre e bora se ajusta se precisar até algum cliente flexibilidade. E aí eu acho que eu vou organizar com cada um acho que o objetivo é cada um se cada um contribui com um pouquinho e compartilha, a gente tem um bolo todo de informação girando e crescendo."
+      },
+      {
+        "startTime": 3326,
+        "endTime": 3359,
+        "speaker": "Diego Diehl",
+        "text": "Acho que esse é o nosso objetivo, Juliano vocês três. Me perguntaram também. É a gente sobre CRM, onde é que a gente vai controlar essas coisas e tal. Eu tô decidindo isso com a hora se a gente vai usar o bitrix que é o de toda hora lutar. Ou se a gente vai se esforçar para tentar usar plumes, eu acho que não curto prazo o mais rápido e prático vai ser utilizar o Beatrix que já tá tudo lá já o sistema da empresa a gente conversa melhor com a empresa já tem falou."
+      },
+      {
+        "startTime": 3359,
+        "endTime": 3393,
+        "speaker": "Diego Diehl",
+        "text": "Ah que tem uma noção do WhatsApp. A gente vai criando nosso processo vai vendo, como fazer? Não mede o prazo o sonho de usar a própria plugs que é o nosso próprio produto, né? Pode ser muito bom, então, eu tô avaliando ainda por hora não é não temos a gente vai controlar no Excel 80% das empresas controlam vai criando ali para a gente não ter um processo quadrado já para a gente criando o nosso e vendo como é que faz rolar porque não precisa se basear muito um milhão de registro, mas tem que estar atualizado para a gente não cara lembrar que a gente se distrai com 15 empresas."
+      },
+      {
+        "startTime": 3393,
+        "endTime": 3411,
+        "speaker": "Diego Diehl",
+        "text": "Mas aquela empresa precisa de uma atenção como ela como se ela fosse única. Então se a gente Para fazer follow up aí, esse cara vem e fala. Olha que legal que foi eu nem fui atrás dele veio não você vai perder quatro e uma vez atrás de você. Então é manter uma Cadência criar uma forma principalmente o que nós três de vendas."
+      },
+      {
+        "startTime": 3411,
+        "endTime": 3438,
+        "speaker": "Diego Diehl",
+        "text": "O João vai estar mais focado ali no processo de implementação que é o follow up dele com cada empresa para ele passar reporte quase que diário para as empresas. Elas entenderam que a gente tá implementando. Então acho que é isso. Vamos aos poucos Cada Um Com Seus desafios, vamos começar a trocar e falando de uma forma mais Global, o nosso desafio é tentar nascer relativamente de uma forma organizada."
+      },
+      {
+        "startTime": 3438,
+        "endTime": 3457,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente vai que daí é o meu papel forte nisso, cara, cadê as nossas objeções? Cadê as nossas argumentações? Qual que é a nossa apresentação? Onde é que estão os nossos materiais? A gente vai organizando aos poucos ali vão pedindo tá que eu vou organizando vou pedindo ajuda entre vocês mas eu vou fazer um circular informação."
+      },
+      {
+        "startTime": 3457,
+        "endTime": 3457,
+        "speaker": "Giuliano Milano",
+        "text": "Mara"
+      },
+      {
+        "startTime": 3457,
+        "endTime": 3467,
+        "speaker": "Diego Diehl",
+        "text": "Beleza se tem algum ponto compartilhamento ou dúvida ou alguma necessidade de esclarecimento aí que é importante a gente ter."
+      },
+      {
+        "startTime": 3468,
+        "endTime": 3487,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu tenho uma dúvida em relação ao da como o DL já é comercializado eu imagino que já tenha uma apresentação com basicamente todos os benefícios alimentos. Enfim, é sobre o produto a gente a gente já consegue já nessa nesse primeiro momento esse essa apresentação esse documento do pessoal de lá."
+      },
+      {
+        "startTime": 3487,
+        "endTime": 3512,
+        "speaker": "Diego Diehl",
+        "text": "Sim, isso eu vou eu vou criar o grupo. Vou mandar tudo lá de novo para ficar salvo e eu quero organizar um passe no Drive para a gente saber que tá tudo lá e a gente mantém sempre lá e vai baixando de vez em quando se atualizou se mudou a gente tem uma apresentação de da A gente tem uma apresentação que tá sendo terminada do portal de parcerias tem uma apresentação do prn se já tiveram acesso e já viram."
+      },
+      {
+        "startTime": 3512,
+        "endTime": 3512,
+        "speaker": "Gustavo Zanella",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 3512,
+        "endTime": 3524,
+        "speaker": "Diego Diehl",
+        "text": "E é isso já organizando no Drive ali. Daqui a pouco vocês três têm e-mail da orla, provavelmente. combinado que você vai ter um e-mail da hora. Não lembro."
+      },
+      {
+        "startTime": 3524,
+        "endTime": 3529,
+        "speaker": "Giuliano Milano",
+        "text": "também, estou na dúvida, parece que Parece que sim, eu tenho que recordar eu ia eu teria né?"
+      },
+      {
+        "startTime": 3529,
+        "endTime": 3530,
+        "speaker": "Diego Diehl",
+        "text": "tá eu acho que eu acho que é legal"
+      },
+      {
+        "startTime": 3530,
+        "endTime": 3532,
+        "speaker": "Giuliano Milano",
+        "text": "Em algum momento para acessar algumas informações."
+      },
+      {
+        "startTime": 3534,
+        "endTime": 3553,
+        "speaker": "Diego Diehl",
+        "text": "que fica até organizado para você, né, Juliana? Ah vou ver as coisas da hora bom entra na conta do Google da orla ali do meio da hora. Você já vê tudo já tá conectado, já fica com os acessos mais abertos mais fáceis. Então tem um nível de vocês três quer liberar acessos fazer isso deixem comigo."
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3566,
+        "speaker": "Diego Diehl",
+        "text": "Ó, talvez eu peço ajuda para um para outro, mas eu vou organizar no wordinzinho que acessos que tem. Que acessos. Que acessa o que que vem lá papapa login e senha e a gente faz se organizando o que vocês precisarem nesse meio tempo me avisem."
+      },
+      {
+        "startTime": 3566,
+        "endTime": 3567,
+        "speaker": "Giuliano Milano",
+        "text": "Tá perfeito"
+      },
+      {
+        "startTime": 3567,
+        "endTime": 3571,
+        "speaker": "Diego Diehl",
+        "text": "Beleza mais algum ponto."
+      },
+      {
+        "startTime": 3571,
+        "endTime": 3572,
+        "speaker": "Giuliano Milano",
+        "text": "Basicamente isso."
+      },
+      {
+        "startTime": 3572,
+        "endTime": 3572,
+        "speaker": "Diego Diehl",
+        "text": "Não."
+      },
+      {
+        "startTime": 3572,
+        "endTime": 3575,
+        "speaker": "Joao Vitor",
+        "text": "tranquilo"
+      },
+      {
+        "startTime": 3575,
+        "endTime": 3586,
+        "speaker": "Diego Diehl",
+        "text": "Então beleza gente, queria convidar aí só fazer um check-out rapidinho, já que essa reunião é bem disso. Como é que vocês saem aí para o dia de hoje para o resto da semana para o resto do mês?"
+      },
+      {
+        "startTime": 3587,
+        "endTime": 3612,
+        "speaker": "Giuliano Milano",
+        "text": "Eu tô com eu atualizei ontem à noite o nosso CRM aqui no Excel. E daí eu vou fazer o follow up de todos aqueles que estão lá marcados com a data de hoje. Inclusive para falar o Up. E confirmar algumas reuniões que eu não consegui confirmar como a dinâmica, por exemplo que acabou desmarcando."
+      },
+      {
+        "startTime": 3612,
+        "endTime": 3621,
+        "speaker": "Giuliano Milano",
+        "text": "E cara e buscar um pouco mais de lista que eu tenho algumas outras incorporadoras para abordar. Vou colocar aqui na lista. Nossa lá de contato."
+      },
+      {
+        "startTime": 3621,
+        "endTime": 3628,
+        "speaker": "Diego Diehl",
+        "text": "Boa isso de próximos passos, né? Como é que você Juliano Sai da reunião? Elas são a sensação sentimentos."
+      },
+      {
+        "startTime": 3628,
+        "endTime": 3628,
+        "speaker": "Giuliano Milano",
+        "text": "É o meu sentimento com essa"
+      },
+      {
+        "startTime": 3628,
+        "endTime": 3631,
+        "speaker": "Diego Diehl",
+        "text": "dos meus sonhos."
+      },
+      {
+        "startTime": 3635,
+        "endTime": 3660,
+        "speaker": "Giuliano Milano",
+        "text": "é que a gente tá ganhando um corpo, né? Antes era o Diego aí o Diego passou a ter uma troca comigo. Agora nós somos em quatro pessoas. Eu acho que a questão que foi colocada aqui da criação dessa Cultura, né? Pelo que eu percebo a gente tem uma visão muito parecida convergente uma mentalidade de resultado muito próximo."
+      },
+      {
+        "startTime": 3660,
+        "endTime": 3668,
+        "speaker": "Giuliano Milano",
+        "text": "Então eu saio super entusiasmado cara super entusiasmado de ter a percepção que eu estou no caminho certo."
+      },
+      {
+        "startTime": 3671,
+        "endTime": 3678,
+        "speaker": "Diego Diehl",
+        "text": "Hoje obrigado, que bom."
+      },
+      {
+        "startTime": 3678,
+        "endTime": 3679,
+        "speaker": "Giuliano Milano",
+        "text": "João e Isabela quer"
+      },
+      {
+        "startTime": 3679,
+        "endTime": 3679,
+        "speaker": "Gustavo Zanella",
+        "text": "Eu acho que eu compartilho do mesmo."
+      },
+      {
+        "startTime": 3679,
+        "endTime": 3680,
+        "speaker": "Joao Vitor",
+        "text": "Vamos lá?"
+      },
+      {
+        "startTime": 3682,
+        "endTime": 3706,
+        "speaker": "Gustavo Zanella",
+        "text": "pensamento do Juliano antes de me apresentar. Já falei já tava ansioso entusiasmado porque é o ponto principal de quem vende acreditar no produto e no serviço que vende é isso para mim. Eu realmente entrei de cabeça, porque porque faz sentido porque o produto é bom porque a gente tem o que trazer de valores."
+      },
+      {
+        "startTime": 3706,
+        "endTime": 3734,
+        "speaker": "Gustavo Zanella",
+        "text": "Inclusive para o mercado imobiliário, eu sei que o sonho do Diego é mudar o mercado imobiliário e eu acredito com essa ferramenta na mão, a gente tem tudo para que isso seja para que isso aconteça. Então eu tô muito bem ansioso para começar a nossa frente comercial e eu vou me Moniciar de informações ainda mais reassistir todas as reuniões ali para conseguir dar os próximos passos aí."
+      },
+      {
+        "startTime": 3734,
+        "endTime": 3737,
+        "speaker": "Diego Diehl",
+        "text": "Boas janelas, seja bem-vindo e você João?"
+      },
+      {
+        "startTime": 3738,
+        "endTime": 3749,
+        "speaker": "Joao Vitor",
+        "text": "vamos lá primeiro falando da Do que eu tenho planejado para hoje, então eu tô analisando aquela planilha. Tanto da ideia as árvores quanto da"
+      },
+      {
+        "startTime": 3749,
+        "endTime": 3751,
+        "speaker": "Giuliano Milano",
+        "text": "show"
+      },
+      {
+        "startTime": 3751,
+        "endTime": 3784,
+        "speaker": "Joao Vitor",
+        "text": "Cetim e montando já um novo documento para identificar quais são todas as atividades que são feitas hoje nesse momento, né e entendendo já nesse documento o que qual que é a atribuição de cada uma delas, quem que está sendo responsável para a gente identificar. Quais são quais são as tarefas que a gente tem quem que hoje atua em cima de cada uma delas, o que que é feito em cada uma delas por essas pessoas para a gente já conseguir começar a desenhar o nosso processo entender se as etapas que tem hoje são suficientes são necessárias."
+      },
+      {
+        "startTime": 3784,
+        "endTime": 3824,
+        "speaker": "Joao Vitor",
+        "text": "O que que a gente consegue reduzir? Que tipo de informação a gente já consegue extrair lá da venda já entregar pronto para implantação e agilizar o nosso processo, então tô fazendo um trabalho muito minucioso em cima disso e também. Começar a ter acesso ali aos testes Diego até a gente conversou ontem da Filter Fit né para começar a testar o robô entender mais sobre configurações acima disso que é o ponto que que faltaria para encaixar ali em relação a conhecimento de produto, né? Ontem eu consegui fazer vários cursos da plugs sobre usabilidade da ferramenta então ficou muito claro, né? O que eles entregam hoje em relação ao CRM."
+      },
+      {
+        "startTime": 3824,
+        "endTime": 3833,
+        "speaker": "Joao Vitor",
+        "text": "E revisitar também até como janela comentou os vídeos, né? Para fixar bastante conhecimento entender ali a fundo as abordagens que são feitas hoje por vocês."
+      },
+      {
+        "startTime": 3833,
+        "endTime": 3835,
+        "speaker": "Giuliano Milano",
+        "text": "Maravilha legal"
+      },
+      {
+        "startTime": 3835,
+        "endTime": 3859,
+        "speaker": "Diego Diehl",
+        "text": "Bojo tô acho que estamos aí no caminho essa parte desses vídeos é legal trazer alguns insights também do que vocês viram Legal. Vamos em frente. Acho que a gente tem já. Tem um Norte aí para a gente caminhar essa semana próxima eu saio também cara bem animado em ter com quem trocar para somar para gerar esse movimento semana que vem."
+      },
+      {
+        "startTime": 3859,
+        "endTime": 3875,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô em Curitiba. Tô com várias coisas lá usar nela, tá com a minha agenda aberta aí para a gente agendar algumas coisas também por mais que seja no começo. Talvez não falou tanto já do começo que a gente sabe que vai um tempinho, né? Começa a falar e tal aprender treinar."
+      },
+      {
+        "startTime": 3875,
+        "endTime": 3897,
+        "speaker": "Diego Diehl",
+        "text": "Mas vou tentar levar ele para algumas incorporadoras lá que eu tô fechando provavelmente fecha. E vamos para cima a gente a gente se fala no grupo para eu organizando aceita aí qualquer sugestões da gente se organizando e padronizando ele estando e deixando acessível. A gente tá tudo a mão aí do que a gente precisa é boa."
+      },
+      {
+        "startTime": 3897,
+        "endTime": 3916,
+        "speaker": "Diego Diehl",
+        "text": "Bom final da semana aí para gente vamos se falando deixar abordando os clientes tiverem falando comigo. comigo. Eu vou estar bastante focado agora em nessa com João para implementar as coisas, mas vou tocando aí com Zanella com Juliano que for preciso também, principalmente para treinar ali usa nela treinar o Juliano a gente avançando."
+      },
+      {
+        "startTime": 3916,
+        "endTime": 3916,
+        "speaker": "Giuliano Milano",
+        "text": "ótimo, acho que só"
+      },
+      {
+        "startTime": 3916,
+        "endTime": 3918,
+        "speaker": "Diego Diehl",
+        "text": "Fechou a ti, pode falar."
+      },
+      {
+        "startTime": 3919,
+        "endTime": 3935,
+        "speaker": "Giuliano Milano",
+        "text": "Um detalhe eu acho que esse esse trabalho que vocês estão tendo agora de implantação na ideias atos e na cetim isso vai gerar um material muito rico para nós na argumentação de vendas. Então o que vocês conseguirem"
+      },
+      {
+        "startTime": 3935,
+        "endTime": 3936,
+        "speaker": "Diego Diehl",
+        "text": "Ju"
+      },
+      {
+        "startTime": 3936,
+        "endTime": 3946,
+        "speaker": "Giuliano Milano",
+        "text": "compartilhar de dores e Barreiras que dá implementação que vocês estão conseguindo superar. Vai ser muito bom para nós aqui."
+      },
+      {
+        "startTime": 3946,
+        "endTime": 3948,
+        "speaker": "Gustavo Zanella",
+        "text": "É verdade. Com certeza."
+      },
+      {
+        "startTime": 3950,
+        "endTime": 3961,
+        "speaker": "Diego Diehl",
+        "text": "Deixa comigo eu vou puxar isso que o João já notei aqui no nosso mapa. Daqui a pouco eu compartilho mais isso com vocês. Agora a gente vai para uma dele todo dia a gente tem uma dele que a gente olha para os cronogramas dos projetos. De implementação mas não vai."
+      },
+      {
+        "startTime": 3961,
+        "endTime": 3963,
+        "speaker": "Giuliano Milano",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3963,
+        "endTime": 3968,
+        "speaker": "Diego Diehl",
+        "text": "envolver vocês dois agora daqui a pouco quando estruturar melhor o jogo vai trazendo um compartilhamento e tal, beleza."
+      },
+      {
+        "startTime": 3968,
+        "endTime": 3969,
+        "speaker": "Giuliano Milano",
+        "text": "legal legal show"
+      },
+      {
+        "startTime": 3969,
+        "endTime": 3969,
+        "speaker": "Gustavo Zanella",
+        "text": "Legal, tranquilo."
+      },
+      {
+        "startTime": 3969,
+        "endTime": 3971,
+        "speaker": "Diego Diehl",
+        "text": "Valeu gente abraço, viu?"
+      },
+      {
+        "startTime": 3971,
+        "endTime": 3972,
+        "speaker": "Joao Vitor",
+        "text": "pessoal"
+      },
+      {
+        "startTime": 3972,
+        "endTime": 3975,
+        "speaker": "Diego Diehl",
+        "text": "Fiquem bem. Bom dia."
+      },
+      {
+        "startTime": 3975,
+        "endTime": 3975,
+        "speaker": "Giuliano Milano",
+        "text": "um abração"
+      },
+      {
+        "startTime": 3975,
+        "endTime": 3975,
+        "speaker": "Gustavo Zanella",
+        "text": "Prazer, conhecê-los eu."
+      },
+      {
+        "startTime": 3975,
+        "endTime": 3977,
+        "speaker": "Diego Diehl",
+        "text": "Falou, valeu, valeu."
+      },
+      {
+        "startTime": 3977,
+        "endTime": 3977,
+        "speaker": "Gustavo Zanella",
+        "text": "Valeu tamo junto."
+      },
+      {
+        "startTime": 3977,
+        "endTime": 3980,
+        "speaker": "Giuliano Milano",
+        "text": "querido. Tamo junto, viu?"
+      },
+      {
+        "startTime": 3980,
+        "endTime": 3981,
+        "speaker": "Diego Diehl",
+        "text": "abraço"
+      },
+      {
+        "startTime": 3981,
+        "endTime": 3981,
+        "speaker": "Giuliano Milano",
+        "text": "um abração"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 354,
+    "speakers": [
+      "Joao Vitor",
+      "Diego Diehl",
+      "Giuliano Milano",
+      "Gustavo Zanella"
+    ],
+    "total_words_estimate": 10314,
+    "duration_start": 2,
+    "duration_end": 3981
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66bcc03e004f47001205daa2",
+        "timestamp": 128,
+        "text": "Giuliano relata a reunião com a Terral, destacando a percepção positiva de valor, mas também os desafios de choque cultural e visão de audiência.",
+        "topicId": "66bcc03e004f47001205da92"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa3",
+        "timestamp": 217,
+        "text": "Giuliano enfatiza a importância da qualidade da implementação, pois isso impacta diretamente no fechamento de novos negócios, especialmente em Goiânia, onde as incorporadoras se comunicam muito.",
+        "topicId": "66bcc03e004f47001205da92"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa4",
+        "timestamp": 286,
+        "text": "Giuliano fala sobre a criação de uma comunidade com gestores e diretores comerciais das incorporadoras, para ter uma visão diária da evolução dos negócios e trazer a empresa para dentro dessa comunidade.",
+        "topicId": "66bcc03e004f47001205da92"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa5",
+        "timestamp": 556,
+        "text": "Diego explica o conceito geral do negócio, incluindo a ideia de ter sócios locais em outras cidades e uma central de serviços compartilhados para apoiar esses sócios.",
+        "topicId": "66bcc03e004f47001205da93"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa6",
+        "timestamp": 589,
+        "text": "Diego menciona a possibilidade de testar a atuação em Goiânia, com Zanella prospectando e agendando reuniões. O objetivo é se conhecerem melhor e discutir os próximos passos.",
+        "topicId": "66bcc03e004f47001205da93"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa0",
+        "timestamp": 628,
+        "text": "Diego apresenta a equipe e o objetivo da reunião de se conhecerem melhor e discutirem os próximos passos do projeto. Gustavo se oferece para apoiar o projeto.",
+        "topicId": "66bcc03e004f47001205da91"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa1",
+        "timestamp": 810,
+        "text": "Diego dá um contexto sobre como conheceu Juliano e a parceria que desenvolveram, destacando a troca de conhecimento e a visão estratégica de Juliano.",
+        "topicId": "66bcc03e004f47001205da91"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa7",
+        "timestamp": 1203,
+        "text": "Giuliano fala sobre a expansão da empresa para o Paraguai e México, destacando a importância da conexão e troca de conhecimento.",
+        "topicId": "66bcc03e004f47001205da94"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa8",
+        "timestamp": 1281,
+        "text": "Giuliano enfatiza que a experiência da jornada empresarial é mais importante do que apenas os resultados financeiros.",
+        "topicId": "66bcc03e004f47001205da94"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daa9",
+        "timestamp": 1343,
+        "text": "Giuliano se mostra acessível e disposto a criar um grupo de WhatsApp para facilitar a troca de conhecimento e conexões.",
+        "topicId": "66bcc03e004f47001205da94"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daaa",
+        "timestamp": 1655,
+        "text": "Giuliano menciona a intenção de criar uma comunidade para a troca constante de conhecimento.",
+        "topicId": "66bcc03e004f47001205da95"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daab",
+        "timestamp": 1696,
+        "text": "Gustavo concorda com a estratégia de criar uma comunidade e eventos para conectar diferentes players do mercado.",
+        "topicId": "66bcc03e004f47001205da95"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daac",
+        "timestamp": 1777,
+        "text": "Giuliano se oferece para conectar os participantes com potenciais clientes, aproveitando suas conexões anteriores.",
+        "topicId": "66bcc03e004f47001205da95"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daad",
+        "timestamp": 1860,
+        "text": "Diego destaca que o objetivo é criar um ecossistema em que todos os envolvidos possam ganhar, com foco em velocidade, intensidade e aprendizado.",
+        "topicId": "66bcc03e004f47001205da96"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daae",
+        "timestamp": 2034,
+        "text": "Diego menciona a importância de desenvolver uma abordagem de vendas diferenciada, com base na experiência e conhecimento do grupo.",
+        "topicId": "66bcc03e004f47001205da96"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daaf",
+        "timestamp": 2085,
+        "text": "Diego recomenda a leitura do livro \"A Quinta Disciplina\" para aprofundar o entendimento sobre organizações que aprendem.",
+        "topicId": "66bcc03e004f47001205da96"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab0",
+        "timestamp": 2412,
+        "text": "Criação de um ambiente colaborativo onde todos se ajudavam, em vez de um ambiente competitivo e destrutivo.",
+        "topicId": "66bcc03e004f47001205da97"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab1",
+        "timestamp": 2472,
+        "text": "Reuniões semanais com a pergunta \"Quem é que mais aprende?\", incentivando o compartilhamento de conhecimento.",
+        "topicId": "66bcc03e004f47001205da97"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab2",
+        "timestamp": 2522,
+        "text": "Uso de gravações de reuniões com clientes para estruturar o playbook de vendas e aprender com a própria performance de vendas.",
+        "topicId": "66bcc03e004f47001205da98"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab3",
+        "timestamp": 3021,
+        "text": "Definição de prioridades, com foco em vender e acelerar as implantações em andamento.",
+        "topicId": "66bcc03e004f47001205da99"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab4",
+        "timestamp": 3102,
+        "text": "Atribuição de responsabilidades para João Vitor acompanhar o andamento das implantações e compartilhar informações com o time de vendas.",
+        "topicId": "66bcc03e004f47001205da99"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab5",
+        "timestamp": 3155,
+        "text": "Plano de criar um documento com informações de produto, objeções e abordagens, a ser compartilhado e atualizado pelo time.",
+        "topicId": "66bcc03e004f47001205da99"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab6",
+        "timestamp": 3204,
+        "text": "Proposta de reuniões semanais para compartilhar conhecimento e aprendizado, com gravação das reuniões para registro.",
+        "topicId": "66bcc03e004f47001205da99"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab7",
+        "timestamp": 3334,
+        "text": "Decisão sobre utilizar o Bitrix como CRM, com possibilidade de migrar para o próprio produto Plugs no futuro.",
+        "topicId": "66bcc03e004f47001205da9a"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab8",
+        "timestamp": 3389,
+        "text": "Importância de manter um processo organizado de follow-up com os clientes, evitando perder oportunidades.",
+        "topicId": "66bcc03e004f47001205da9a"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dab9",
+        "timestamp": 3438,
+        "text": "Organização de materiais, como apresentações, argumentações e objeções, para serem compartilhados e atualizados pelo time.",
+        "topicId": "66bcc03e004f47001205da9a"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205daba",
+        "timestamp": 3566,
+        "text": "Confirmação de que não há mais pontos a serem discutidos e Giuliano compartilha que irá fazer o follow-up de clientes e confirmar algumas reuniões.",
+        "topicId": "66bcc03e004f47001205da9b"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dabb",
+        "timestamp": 3614,
+        "text": "Giuliano menciona o contato e os próximos passos. Ele comenta sobre o sentimento de estar ganhando um corpo e a troca com Diego.",
+        "topicId": "66bcc03e004f47001205da9c"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dabc",
+        "timestamp": 3645,
+        "text": "Giuliano comenta sobre a questão da criação de uma cultura e a visão convergente da equipe. Ele sai da reunião entusiasmado.",
+        "topicId": "66bcc03e004f47001205da9c"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dabd",
+        "timestamp": 3679,
+        "text": "João e Gustavo comentam sobre o trabalho de implementação e análise de processos.",
+        "topicId": "66bcc03e004f47001205da9d"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dabe",
+        "timestamp": 3738,
+        "text": "João fala sobre a análise da planilha e a identificação das atividades e responsabilidades.",
+        "topicId": "66bcc03e004f47001205da9d"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dabf",
+        "timestamp": 3783,
+        "text": "João menciona o trabalho de redução de etapas e agilização do processo de implementação, além do acesso aos testes e conhecimento sobre a ferramenta.",
+        "topicId": "66bcc03e004f47001205da9d"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dac0",
+        "timestamp": 3818,
+        "text": "João fala sobre a revisão dos vídeos para fixar o conhecimento sobre as abordagens.",
+        "topicId": "66bcc03e004f47001205da9d"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dac1",
+        "timestamp": 3842,
+        "text": "Diego comenta sobre ter um norte para a próxima semana e a intenção de levar o produto para algumas incorporadoras em Curitiba.",
+        "topicId": "66bcc03e004f47001205da9e"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dac2",
+        "timestamp": 3878,
+        "text": "Diego fala sobre a organização e padronização das informações, e menciona que vai estar focado na implementação com João, Giuliano e Zanella.",
+        "topicId": "66bcc03e004f47001205da9e"
+      },
+      {
+        "segmentId": "66bcc03e004f47001205dac3",
+        "timestamp": 3919,
+        "text": "Giuliano destaca que o trabalho de implementação vai gerar material rico para a argumentação de vendas. Ele pede que Diego compartilhe as dores e barreiras superadas.",
+        "topicId": "66bcc03e004f47001205da9f"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66bcc03e004f47001205da91",
+        "order": 1,
+        "title": "Apresentação da equipe e discussão sobre o projeto",
+        "summary": "Apresentação dos membros da equipe e discussão sobre o projeto, incluindo a visão geral, próximos passos e oportunidades de crescimento."
+      },
+      {
+        "id": "66bcc03e004f47001205da92",
+        "order": 2,
+        "title": "Desafios e oportunidades na implementação do projeto",
+        "summary": "Discussão sobre os desafios encontrados na implementação do projeto, incluindo a percepção de valor e a resistência cultural, e as oportunidades de crescimento."
+      },
+      {
+        "id": "66bcc03e004f47001205da93",
+        "order": 3,
+        "title": "Estratégia de expansão e crescimento do negócio",
+        "summary": "Discussão sobre a estratégia de expansão do negócio, incluindo a possibilidade de ter sócios locais em outras cidades e a estruturação de uma central de serviços compartilhados."
+      },
+      {
+        "id": "66bcc03e004f47001205da94",
+        "order": 4,
+        "title": "Expansão internacional da empresa de Giuliano",
+        "summary": "Giuliano compartilha sua jornada de expansão da empresa para o Paraguai e México, destacando a importância da conexão e troca de conhecimento."
+      },
+      {
+        "id": "66bcc03e004f47001205da95",
+        "order": 5,
+        "title": "Criação de uma comunidade de aprendizado e troca",
+        "summary": "Giuliano e Diego discutem a importância de criar uma comunidade para promover a troca de conhecimento e conexões entre os participantes."
+      },
+      {
+        "id": "66bcc03e004f47001205da96",
+        "order": 6,
+        "title": "Abordagem de vendas e aprendizado organizacional",
+        "summary": "Diego enfatiza a importância de desenvolver uma abordagem de vendas diferenciada, com foco no aprendizado e no desenvolvimento de um ecossistema saudável."
+      },
+      {
+        "id": "66bcc03e004f47001205da97",
+        "order": 7,
+        "title": "Cultura de Aprendizado e Colaboração",
+        "summary": "Discussão sobre a cultura de aprendizado e colaboração criada na empresa, com foco em compartilhar conhecimento e ajudar uns aos outros."
+      },
+      {
+        "id": "66bcc03e004f47001205da98",
+        "order": 8,
+        "title": "Uso de Gravações e Transcrições de Reuniões",
+        "summary": "Discussão sobre o uso de gravações e transcrições de reuniões com clientes para aprendizado e melhoria dos processos de vendas."
+      },
+      {
+        "id": "66bcc03e004f47001205da99",
+        "order": 9,
+        "title": "Integração do Time de Vendas",
+        "summary": "Discussão sobre a integração do time de vendas, com foco em compartilhar conhecimento, alinhar estratégias e definir próximos passos."
+      },
+      {
+        "id": "66bcc03e004f47001205da9a",
+        "order": 10,
+        "title": "Ferramentas e Processos de Vendas",
+        "summary": "Discussão sobre as ferramentas e processos de vendas a serem utilizados, incluindo CRM, apresentações e materiais de apoio."
+      },
+      {
+        "id": "66bcc03e004f47001205da9b",
+        "order": 11,
+        "title": "Próximos Passos e Encerramento",
+        "summary": "Discussão sobre os próximos passos e encerramento da reunião, com destaque para a integração do time e a necessidade de compartilhar conhecimento."
+      },
+      {
+        "id": "66bcc03e004f47001205da9c",
+        "order": 12,
+        "title": "Visão geral e próximos passos",
+        "summary": "Discussão sobre a visão geral do projeto, entusiasmo da equipe e próximos passos a serem tomados."
+      },
+      {
+        "id": "66bcc03e004f47001205da9d",
+        "order": 13,
+        "title": "Implementação e Análise de Processos",
+        "summary": "Discussão sobre o trabalho de implementação nas empresas Ideias Atos e Cetim, e a análise dos processos atuais."
+      },
+      {
+        "id": "66bcc03e004f47001205da9e",
+        "order": 14,
+        "title": "Próximos Passos e Organização",
+        "summary": "Discussão sobre os próximos passos, organização e padronização das atividades, bem como o compartilhamento de informações."
+      },
+      {
+        "id": "66bcc03e004f47001205da9f",
+        "order": 15,
+        "title": "Compartilhamento de Informações",
+        "summary": "Discussão sobre a importância de compartilhar as informações e dificuldades encontradas durante a implementação para uso na argumentação de vendas."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 36,
+    "topic_count": 15,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66bcc03e004f47001205da91",
+      "order": 1,
+      "title": "Apresentação da equipe e discussão sobre o projeto",
+      "summary": "Apresentação dos membros da equipe e discussão sobre o projeto, incluindo a visão geral, próximos passos e oportunidades de crescimento."
+    },
+    {
+      "id": "66bcc03e004f47001205da92",
+      "order": 2,
+      "title": "Desafios e oportunidades na implementação do projeto",
+      "summary": "Discussão sobre os desafios encontrados na implementação do projeto, incluindo a percepção de valor e a resistência cultural, e as oportunidades de crescimento."
+    },
+    {
+      "id": "66bcc03e004f47001205da93",
+      "order": 3,
+      "title": "Estratégia de expansão e crescimento do negócio",
+      "summary": "Discussão sobre a estratégia de expansão do negócio, incluindo a possibilidade de ter sócios locais em outras cidades e a estruturação de uma central de serviços compartilhados."
+    },
+    {
+      "id": "66bcc03e004f47001205da94",
+      "order": 4,
+      "title": "Expansão internacional da empresa de Giuliano",
+      "summary": "Giuliano compartilha sua jornada de expansão da empresa para o Paraguai e México, destacando a importância da conexão e troca de conhecimento."
+    },
+    {
+      "id": "66bcc03e004f47001205da95",
+      "order": 5,
+      "title": "Criação de uma comunidade de aprendizado e troca",
+      "summary": "Giuliano e Diego discutem a importância de criar uma comunidade para promover a troca de conhecimento e conexões entre os participantes."
+    },
+    {
+      "id": "66bcc03e004f47001205da96",
+      "order": 6,
+      "title": "Abordagem de vendas e aprendizado organizacional",
+      "summary": "Diego enfatiza a importância de desenvolver uma abordagem de vendas diferenciada, com foco no aprendizado e no desenvolvimento de um ecossistema saudável."
+    },
+    {
+      "id": "66bcc03e004f47001205da97",
+      "order": 7,
+      "title": "Cultura de Aprendizado e Colaboração",
+      "summary": "Discussão sobre a cultura de aprendizado e colaboração criada na empresa, com foco em compartilhar conhecimento e ajudar uns aos outros."
+    },
+    {
+      "id": "66bcc03e004f47001205da98",
+      "order": 8,
+      "title": "Uso de Gravações e Transcrições de Reuniões",
+      "summary": "Discussão sobre o uso de gravações e transcrições de reuniões com clientes para aprendizado e melhoria dos processos de vendas."
+    },
+    {
+      "id": "66bcc03e004f47001205da99",
+      "order": 9,
+      "title": "Integração do Time de Vendas",
+      "summary": "Discussão sobre a integração do time de vendas, com foco em compartilhar conhecimento, alinhar estratégias e definir próximos passos."
+    },
+    {
+      "id": "66bcc03e004f47001205da9a",
+      "order": 10,
+      "title": "Ferramentas e Processos de Vendas",
+      "summary": "Discussão sobre as ferramentas e processos de vendas a serem utilizados, incluindo CRM, apresentações e materiais de apoio."
+    },
+    {
+      "id": "66bcc03e004f47001205da9b",
+      "order": 11,
+      "title": "Próximos Passos e Encerramento",
+      "summary": "Discussão sobre os próximos passos e encerramento da reunião, com destaque para a integração do time e a necessidade de compartilhar conhecimento."
+    },
+    {
+      "id": "66bcc03e004f47001205da9c",
+      "order": 12,
+      "title": "Visão geral e próximos passos",
+      "summary": "Discussão sobre a visão geral do projeto, entusiasmo da equipe e próximos passos a serem tomados."
+    },
+    {
+      "id": "66bcc03e004f47001205da9d",
+      "order": 13,
+      "title": "Implementação e Análise de Processos",
+      "summary": "Discussão sobre o trabalho de implementação nas empresas Ideias Atos e Cetim, e a análise dos processos atuais."
+    },
+    {
+      "id": "66bcc03e004f47001205da9e",
+      "order": 14,
+      "title": "Próximos Passos e Organização",
+      "summary": "Discussão sobre os próximos passos, organização e padronização das atividades, bem como o compartilhamento de informações."
+    },
+    {
+      "id": "66bcc03e004f47001205da9f",
+      "order": 15,
+      "title": "Compartilhamento de Informações",
+      "summary": "Discussão sobre a importância de compartilhar as informações e dificuldades encontradas durante a implementação para uso na argumentação de vendas."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:01.390193+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:01.390193+00:00"
+}

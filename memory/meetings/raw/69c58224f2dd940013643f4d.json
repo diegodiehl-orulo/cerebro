@@ -1,0 +1,36 @@
+{
+  "id": "69c58224f2dd940013643f4d",
+  "happenedAt": "2026-03-26T19:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Luan Felipe de Souza",
+      "email": "luan.souza@orulo.com.br"
+    }
+  ],
+  "name": "Forecast Closer",
+  "duration": 5030.769,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69c58224f2dd940013643f4d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "qui-pewe-fjs"
+  }
+}

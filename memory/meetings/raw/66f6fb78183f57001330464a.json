@@ -1,0 +1,32 @@
+{
+  "id": "66f6fb78183f57001330464a",
+  "happenedAt": "2024-09-27T18:37:44.066Z",
+  "invitees": [
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Gustavo Zanella",
+      "email": "gustavozanella00@gmail.com"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "ForeCast e Pitchs",
+  "duration": 4244.5,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66f6fb78183f57001330464a",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "cda-kkou-mjn"
+  }
+}

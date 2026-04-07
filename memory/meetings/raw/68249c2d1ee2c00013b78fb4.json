@@ -1,0 +1,28 @@
+{
+  "id": "68249c2d1ee2c00013b78fb4",
+  "happenedAt": "2025-05-14T13:35:41.254Z",
+  "invitees": [
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "Alinhamento Time",
+  "duration": 1454.044,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68249c2d1ee2c00013b78fb4",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ntv-dfch-bzu"
+  }
+}

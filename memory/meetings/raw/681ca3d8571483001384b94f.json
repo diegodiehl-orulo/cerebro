@@ -1,0 +1,28 @@
+{
+  "id": "681ca3d8571483001384b94f",
+  "happenedAt": "2025-05-08T12:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "Luiz Gustavo / Diego",
+  "duration": 5382.023,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/681ca3d8571483001384b94f",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ujx-bfsj-rfe"
+  }
+}

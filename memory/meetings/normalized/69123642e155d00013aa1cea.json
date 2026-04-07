@@ -1,0 +1,1582 @@
+{
+  "meeting_id": "69123642e155d00013aa1cea",
+  "name": "Parametrizações Z2A",
+  "happened_at": "2025-11-10T19:00:00.000Z",
+  "duration_seconds": 3062.698,
+  "duration_minutes": 51.0,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    },
+    {
+      "name": "João Sabino",
+      "email": "joao.sabino@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69123642e155d00013aa1cea",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "pia-kace-gxo",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "691236b4d754280013572a29",
+    "meetingId": "69123642e155d00013aa1cea",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 20,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Trouxe ali um briefing inicial. Explicando né o objetivo da reunião que é para a gente dar uma olhada junto naquela base da órgão da Z2 ver o que que falta pegar um pouco aí da do dia a dia de vocês boas práticas que a gente precisa ajustar na base ainda para dar uma repaginada nela, João a princípio seria esse objetivo da reunião."
+      },
+      {
+        "startTime": 22,
+        "endTime": 26,
+        "speaker": "João Sabino",
+        "text": "Certo, quando você fala de boas práticas, você fala em relação a configuração de empreendimento ou configuração da base em geral."
+      },
+      {
+        "startTime": 26,
+        "endTime": 49,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "E tudo tudo que envolve a ia que a gente talvez não esteja utilizando ainda explorando para apresentar para os clientes na reunião, sabe segmentação qualificação, talvez algo voltado para os corretores também para a gente importar na base nessa linha, sabe? Acho que de parametrização configuração e guiar ali que a gente talvez não esteja utilizando ainda também."
+      },
+      {
+        "startTime": 50,
+        "endTime": 54,
+        "speaker": "João Sabino",
+        "text": "Perfeito. Tá eu vou compartilhar é qual base da hora exatamente que tem"
+      },
+      {
+        "startTime": 54,
+        "endTime": 55,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente tá usando a órgão oficial."
+      },
+      {
+        "startTime": 55,
+        "endTime": 66,
+        "speaker": "João Sabino",
+        "text": "algumas. Oficial ou que tem SP Curitiba é esse João Pessoa?"
+      },
+      {
+        "startTime": 67,
+        "endTime": 70,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tem uma que é órgão oficial."
+      },
+      {
+        "startTime": 71,
+        "endTime": 73,
+        "speaker": "João Sabino",
+        "text": "Deixa eu entrar em algum aqui para ver."
+      },
+      {
+        "startTime": 73,
+        "endTime": 76,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Oficial mesmo nome."
+      },
+      {
+        "startTime": 82,
+        "endTime": 85,
+        "speaker": "João Sabino",
+        "text": "Que está com assento, por isso que eu não tô achando. Tá com acento?"
+      },
+      {
+        "startTime": 85,
+        "endTime": 88,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "é Aqui também."
+      },
+      {
+        "startTime": 88,
+        "endTime": 97,
+        "speaker": "João Sabino",
+        "text": "Tá beleza, vamos lá compartilhar a tela aqui para a gente poder. Visualizar junto."
+      },
+      {
+        "startTime": 101,
+        "endTime": 102,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "76901"
+      },
+      {
+        "startTime": 112,
+        "endTime": 162,
+        "speaker": "João Sabino",
+        "text": "Está bem legal isso que vocês fizeram. Esses Empreendimentos aqui que cadastra que vocês cadastraram foi é para fazer apresentação."
+      },
+      {
+        "startTime": 162,
+        "endTime": 166,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso quando a gente apresenta o Zé a gente utiliza esses aí mesmo."
+      },
+      {
+        "startTime": 167,
+        "endTime": 174,
+        "speaker": "João Sabino",
+        "text": "Pelo modelo é bem antigo esse conta que vocês usam."
+      },
+      {
+        "startTime": 174,
+        "endTime": 176,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim Acho que foi um dos primeiros."
+      },
+      {
+        "startTime": 177,
+        "endTime": 241,
+        "speaker": "João Sabino",
+        "text": "principal ali de vocês. Jogo na EA ele já adapta para mim aqui automático. Tá qual a ideia desse"
+      },
+      {
+        "startTime": 241,
+        "endTime": 243,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 243,
+        "endTime": 1545,
+        "speaker": "João Sabino",
+        "text": "mandar o que tá no contexto, beleza? outra coisa importante para entender sobre a ferramenta quando a gente faz uma solicitação sobre Todos os Empreendimentos em geral da base. Então vamos pôr todos os Empreendimentos que tem dois dormitórios, ele vai olhar para isso aqui ó, detalhes adicionais, beleza e olhando os detalhes adicionais aí buscar em características, quantos dormitórios tem? Quando eu pergunto sobre o empreendimento em específico."
+      },
+      {
+        "startTime": 1545,
+        "endTime": 336,
+        "speaker": "João Sabino",
+        "text": "Então vamos lá? Qual quantos dormitórios o Ice City habitat tem? Ele vai olhar no contexto. Beleza então tem essa diferença o detalhes adicionais é quando busca no macro"
+      },
+      {
+        "startTime": 336,
+        "endTime": 341,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi. Ah, eu quero o corretor chegou eu quero todos os apartamentos de dois"
+      },
+      {
+        "startTime": 341,
+        "endTime": 343,
+        "speaker": "João Sabino",
+        "text": "no isso no macro da Incorporadora."
+      },
+      {
+        "startTime": 350,
+        "endTime": 355,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "aí."
+      },
+      {
+        "startTime": 355,
+        "endTime": 355,
+        "speaker": "João Sabino",
+        "text": "isso"
+      },
+      {
+        "startTime": 356,
+        "endTime": 357,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá boa."
+      },
+      {
+        "startTime": 357,
+        "endTime": 477,
+        "speaker": "João Sabino",
+        "text": "estão disponíveis aí já não responderia a pergunta, entendeu?"
+      },
+      {
+        "startTime": 477,
+        "endTime": 477,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 477,
+        "endTime": 556,
+        "speaker": "João Sabino",
+        "text": "diferenciais de lazer e serviços então São mais 40. Tá. Tá legal, é que a gente geralmente coloca todas as opções porque"
+      },
+      {
+        "startTime": 556,
+        "endTime": 558,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Quero um que tenha esse lazer específico."
+      },
+      {
+        "startTime": 558,
+        "endTime": 574,
+        "speaker": "João Sabino",
+        "text": "A gente lista todas porque se o cliente quiser. Sei lá eu quero. Exatamente aí ele lista. E para ele fazer essa listagem, ele tem que ficar nesse modelinho aqui, ó, tá vendo que tá quebrando linha, cada um é uma linha diferente."
+      },
+      {
+        "startTime": 575,
+        "endTime": 575,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 576,
+        "endTime": 659,
+        "speaker": "João Sabino",
+        "text": "ela pedir algum específico, ele vai procurar aqui também."
+      },
+      {
+        "startTime": 659,
+        "endTime": 659,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 661,
+        "endTime": 802,
+        "speaker": "João Sabino",
+        "text": "perguntas em Outros Empreendimentos então aos poucos você tá colocando High City habitat. E vai colocar aqui no outro no gordinho a mesma pergunta e você vai generalizar lá como Empreendimento no contexto. Ele vai entender para todos eles, entendeu? Então identificar cada um no seu cada um então um raio City, você coloca High City aqui então quase iniciativas do Ice City quanto ao meio ambiente."
+      },
+      {
+        "startTime": 802,
+        "endTime": 804,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 804,
+        "endTime": 913,
+        "speaker": "João Sabino",
+        "text": "Isso aqui tá bom também. é aqui se eu fosse passar sobre esse em específico, a única coisa que eu encontro aqui como Um bom erro seria essa quebra de linha tá vendo onde fica o raio City habitat a quebra de nela. Tem que ver depois da resposta. Ela tá vindo antes então"
+      },
+      {
+        "startTime": 913,
+        "endTime": 913,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 914,
+        "endTime": 1030,
+        "speaker": "João Sabino",
+        "text": "listar somente a informação desse empreendimento. E caso eu querer informação do outro do NR eu tenho que colocar Ice habitat em R. Se for do estúdio habitat Studios, entendeu? Para pegar aí essa palavra chave, entendeu?"
+      },
+      {
+        "startTime": 1030,
+        "endTime": 1052,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "E por exemplo se eu colocasse aí João. Vamos supor que na minha listagem de produtos só tem é esse produto com esse nome raife de habitat e eu quisesse dar autonomia para que o corretor pudesse identificar esse produto na listagem que o Zé entendesse ele chamando apenas por Habitat, por exemplo."
+      },
+      {
+        "startTime": 1053,
+        "endTime": 1054,
+        "speaker": "João Sabino",
+        "text": "Você pode no caso como só tem ele ele já provavelmente vai identificar."
+      },
+      {
+        "startTime": 1054,
+        "endTime": 1058,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "posso"
+      },
+      {
+        "startTime": 1058,
+        "endTime": 1065,
+        "speaker": "João Sabino",
+        "text": "Ela ela busca no nome completo. Ela provavelmente identifica só assim, mas caso você queira ter certeza que ela vai identificar você pode copiar."
+      },
+      {
+        "startTime": 1066,
+        "endTime": 1076,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa é, porque o corretor vai mandar áudio ou o cara ele não vai digitar na forma gramática correta dificilmente, né? A gente sabe."
+      },
+      {
+        "startTime": 1076,
+        "endTime": 1080,
+        "speaker": "João Sabino",
+        "text": "Aí você pode colocar aqui, ele já vai identificar só por habitat, ele já identifica automático."
+      },
+      {
+        "startTime": 1081,
+        "endTime": 1081,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim boa."
+      },
+      {
+        "startTime": 1083,
+        "endTime": 1130,
+        "speaker": "João Sabino",
+        "text": "City Então que da forma que você quiser chamar. Esse empreendimento você consegue. Pelo pela palavra chave de busca, beleza? descritivo não tem muito não mudou nada o descritivo serve da mesma forma você coloca como você quer passar para o cliente ali na primeira quando ele lista os Empreendimentos é como vai aparecer a mensagem embaixo do nome do empreendimento então a gente na Z2 usa esse padrão aqui de Colocar o nome do empreendimento quantos dormitórios ele tem metragem e a localização esse é o nosso padrão, mas não vai influenciar no uso da ein em si, tá?"
+      },
+      {
+        "startTime": 1130,
+        "endTime": 1130,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 1131,
+        "endTime": 2963,
+        "speaker": "João Sabino",
+        "text": "tem menos que 10 apartamentos por andar. Pronto, se tiver configurado ele vai me responder e aqui não tem segredo você responde com as informações que você tem quantidade de andares são 20 andares quantidade de apartamentos 10 não sem segredo isso aqui e o número de unidades que ele faz ele multiplica a quantidade de andares por quantidade de apartamentos por andar."
+      },
+      {
+        "startTime": 2963,
+        "endTime": 1224,
+        "speaker": "João Sabino",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1228,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1228,
+        "endTime": 1235,
+        "speaker": "João Sabino",
+        "text": "Vamos lá? Vocês não tem um portal? Da orla, né do Z2 porque?"
+      },
+      {
+        "startTime": 1236,
+        "endTime": 1242,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não ele não tá não tá não tem Portal hoje integrada essa base, né?"
+      },
+      {
+        "startTime": 1245,
+        "endTime": 3022,
+        "speaker": "João Sabino",
+        "text": "selecionar, por exemplo a apresentação aqui e você selecionar a intenção apresentação. Quando o parceiro solicitar lá @s é a apresentação do High City aí há mesmo vai gerar uma mensagem. Para essa apresentação. Então não vai ser uma coisa que a gente vai padronizar aí a vai gerar a mensagem automaticamente e é sempre uma mensagem diferente."
+      },
+      {
+        "startTime": 3022,
+        "endTime": 1282,
+        "speaker": "João Sabino",
+        "text": "Beleza."
+      },
+      {
+        "startTime": 1282,
+        "endTime": 1290,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá eu lembro que antes era não sei se eu tô confundindo, né? Mas lembro que antes era possível a gente personalizar a mensagem, né?"
+      },
+      {
+        "startTime": 1291,
+        "endTime": 1292,
+        "speaker": "João Sabino",
+        "text": "Ainda é aqui É aqui é se o parceiro quiser, ele pode fazer com a gerando."
+      },
+      {
+        "startTime": 1292,
+        "endTime": 1298,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 1298,
+        "endTime": 1321,
+        "speaker": "João Sabino",
+        "text": "Uma mensagem diferente por vez. E aí padronizar a mensagem a gente vai padronizar lá no Script, beleza? E foi aquilo que eu falei se não tiver nada no Script lá, ele vai seguir as intenções que a gente configura aqui. Nessa apresentação por exemplo então colocar apresentação. Ele vai seguir essa apresentação quando o parceiro solicitar ele vai enviar isso aqui com um texto que aí ela vai gerar."
+      },
+      {
+        "startTime": 1321,
+        "endTime": 1333,
+        "speaker": "João Sabino",
+        "text": "Agora se eu colocar aqui no Script, você vai ver que tem as intenções aqui do lado a bela imagem planta, cada um você consegue padronizar um script para cada intenção. Se eu colocar alguma mensagem na apresentação, então a gente usa"
+      },
+      {
+        "startTime": 1333,
+        "endTime": 1333,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "legal"
+      },
+      {
+        "startTime": 1336,
+        "endTime": 1358,
+        "speaker": "João Sabino",
+        "text": "essa aqui de padrão segue a apresentação. habitat residencial A gente usa aqui como padrão. Adicionei o comando agora, eu vou adicionar o arquivo. E salva feito isso ele agora não vai mais gerar a mensagem automática, ele vai respeitar a mensagem que eu coloquei aqui."
+      },
+      {
+        "startTime": 1359,
+        "endTime": 1359,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "show"
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1392,
+        "speaker": "João Sabino",
+        "text": "Entendeu? E aí no Script geral que é aquele script quando o parceiro solicitou no empreendimento então @serice? Ele roda as informações todas que ele tem né? Quando a gente configura lá em detalhes adicionais aqui eu consigo selecionar a ordem que ele vai enviar então vai enviar a primeira apresentação e depois esse Não sei, o que é isso facto de dúvidas."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1401,
+        "speaker": "João Sabino",
+        "text": "Aí ele enviaria assim. Uma mensagem que ele geraria né a apresentação outra mensagem que ele iria gerar. vídeo entendeu esse arquivo quando eu configuro aqui no Script geral"
+      },
+      {
+        "startTime": 1401,
+        "endTime": 1401,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1407,
+        "endTime": 1452,
+        "speaker": "João Sabino",
+        "text": "Eu mesmo seleciono, o arquivo que ele vai enviar a mensagem que ele vai enviar. Da forma que eu quero então. segue Segue o book do Ice City habitat residencial Efeito Adicionei eu quero adicionar aqui também o fato de Dudas. Caso tenha alguma dúvida alguma dúvida? de uma olhada arquivo Pronto e eu adiciono um arquivo aqui falar que de dúvidas."
+      },
+      {
+        "startTime": 1452,
+        "endTime": 1489,
+        "speaker": "João Sabino",
+        "text": "Perfeito feito isso só salvar agora. Que que ele vai fazer quando o parceiro solicitar. Algumas errar esse habitat ele vai mandar o texto exatamente dessa forma que eu configurei tá? Então vai enviar o book o arquivo de book a mensagem de dúvidas do fac e o arquivo do fac, beleza."
+      },
+      {
+        "startTime": 1489,
+        "endTime": 1490,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi beleza"
+      },
+      {
+        "startTime": 1492,
+        "endTime": 1517,
+        "speaker": "João Sabino",
+        "text": "E aí para os outros é o mesmo padrão aqui tabela só configurar a tabela nele imagem, e aí e se João configurar em todos eles e no geral ele vai enviar duas vezes o arquivo não ele vai enviar no geral quando o parceiro solicitar roupas é raiz City habitat ele roda o que a gente configura aqui quando o parceiro solicitar @rice@serice de tabela, ele vai rodar o que tá só em tabela."
+      },
+      {
+        "startTime": 1517,
+        "endTime": 1517,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 1518,
+        "endTime": 1547,
+        "speaker": "João Sabino",
+        "text": "Beleza e assim por diante para cada um deles. E uma funcionária de Nova funcionalidade nova que a gente tem. Fugindo aqui dos Empreendimentos que aqui a gente já passou por já foi tudo já foi tudo beleza, só as intenções a gente consegue criar intenções que são aquelas coisas que ficam ali no script que tem aquelas na laterais esquerda, então é que eu consigo criar uma intenção e a variável dela a variável dela vai ser como o parceiro costuma chamar igual antigamente."
+      },
+      {
+        "startTime": 1547,
+        "endTime": 1555,
+        "speaker": "João Sabino",
+        "text": "A gente é muito problema que a gente só tinha intenção a apresentação e muita gente chama apresentação de book também, né?"
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1556,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1588,
+        "speaker": "João Sabino",
+        "text": "Então a gente criou essa esse conceito aqui de intenções e as variáveis as variáveis vão ser as outras formas que o parceiro também pode identificar aquela intenção. Então existe a apresentação existe o book existe a imagem e existe a perspectiva e tudo isso ele quer a mesma coisa, então a gente criou esse conceito aqui de criou a gente colocou esse conceito aqui."
+      },
+      {
+        "startTime": 1588,
+        "endTime": 1599,
+        "speaker": "João Sabino",
+        "text": "Então porque eu quero sei lá. Pensar numa intenção pessoal usa. tabelão Pessoal, usa bastante eu creio a intenção tabelão bom enter para criar."
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1601,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa tabela, aí pode ser planilha de oportunidade?"
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1609,
+        "speaker": "João Sabino",
+        "text": "criou Isso pode ser tabela mensal também, né?"
+      },
+      {
+        "startTime": 1610,
+        "endTime": 1613,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tem dia em qualquer linha."
+      },
+      {
+        "startTime": 1613,
+        "endTime": 1636,
+        "speaker": "João Sabino",
+        "text": "oportunidade Criar ela já vai aparecer aqui. Agora você vai perceber a diferença quando eu vi aqui um empreendimento de novo. Ele já vai aparecer aqui no Script para mim também. E aí o esquema é o mesmo eu configuro com a informação que eu quero enviar para o parceiro. beleza"
+      },
+      {
+        "startTime": 1637,
+        "endTime": 1637,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1638,
+        "endTime": 1666,
+        "speaker": "João Sabino",
+        "text": "E as intenções não tem limites, você pode colocar aqui a intenção que você percebe que os parceiros pedem bastante e aí a não tá identificando. Mas o ideal é tipo se for uma intenção muito parecida com outra que a gente já tem. Que vai enviar a mesma informação só adicionar variante, você consegue aquilo lápisinho editar e adicionar variante."
+      },
+      {
+        "startTime": 1666,
+        "endTime": 1682,
+        "speaker": "João Sabino",
+        "text": "Então o que caderno de informações. Porque as pessoas chamassem assim caderno de informações? Não entre. Pronto já tá adicionado a variável também então quando passa ele solicitar caderno de informações ele vai enviar a apresentação."
+      },
+      {
+        "startTime": 1684,
+        "endTime": 1684,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 1685,
+        "endTime": 1711,
+        "speaker": "João Sabino",
+        "text": "beleza Fechou, acho que sobre cadastro de empreendimento era isso agora. Automação que vocês usam eu vi que tem uma criada hoje. Eu digo criou sua carreira tá devagar. Que mais temos aqui. Contatos eu não sei se vocês têm o nosso link de qualificação se vocês usam ele."
+      },
+      {
+        "startTime": 1712,
+        "endTime": 1715,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Aí eu não sei que eu acho que não tá."
+      },
+      {
+        "startTime": 1715,
+        "endTime": 1760,
+        "speaker": "João Sabino",
+        "text": "Deixa eu ver aqui. Internet está lenta. Tá carregando pagar mais uma hora carrega. oficial Eu não tô usando a qualificação automática, deixa eu mostrar para você, o que que a qualificação automática aqui do Z2. Tá vendo todos esses parceiros em qualificação. Esse 64 quando a gente está com a qualificação automaticativa, ele recebe uma mensagem com o formulário para ele preencher."
+      },
+      {
+        "startTime": 1760,
+        "endTime": 1789,
+        "speaker": "João Sabino",
+        "text": "Com as informações que a gente definiu aqui no campo dinâmico, então ele preencheria as informações estão aqui data de nascimento zona de atuação, não sei se vocês usam isso cresce vocês já tem um corretor aí também direto corretor."
+      },
+      {
+        "startTime": 1790,
+        "endTime": 1794,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não, mas a gente às vezes faz algum trabalho de abordar essa galera, né?"
+      },
+      {
+        "startTime": 1795,
+        "endTime": 1797,
+        "speaker": "João Sabino",
+        "text": "Entendi para utilizar."
+      },
+      {
+        "startTime": 1797,
+        "endTime": 1798,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso exato."
+      },
+      {
+        "startTime": 1799,
+        "endTime": 1821,
+        "speaker": "João Sabino",
+        "text": "então aqui quando ele quando a qualificação automática tá ativa todos esses contatos aqui que estão em Qualificação 64 eles receberam ali de forma cadenciada, né? Cada um de cada vez ele receberia um link. Vou mostrar no chat aqui para vocês."
+      },
+      {
+        "startTime": 1825,
+        "endTime": 1827,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "O link de qualificação né? Daí ele atualiza os dados ali detalhes."
+      },
+      {
+        "startTime": 1827,
+        "endTime": 1837,
+        "speaker": "João Sabino",
+        "text": "isso Exatamente ele atualizaria sozinho os dados dele aqui e aí ele preenchendo o link de qualificação, ele já pularia de coluna para relacionamento."
+      },
+      {
+        "startTime": 1837,
+        "endTime": 1838,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa boa"
+      },
+      {
+        "startTime": 1838,
+        "endTime": 1843,
+        "speaker": "João Sabino",
+        "text": "Ele com as informações preenchidas. Então isso é uma função de vocês não vão usando que é muito útil, tá?"
+      },
+      {
+        "startTime": 1844,
+        "endTime": 1844,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 1844,
+        "endTime": 1876,
+        "speaker": "João Sabino",
+        "text": "Isso facilita muito porque que vocês seriam preencher manualmente as informações desse cara ou mover ele de coluna aqui. Aí com ninguém de qualificação se torna automático orientações dos é isso é novo. Não sei se já chegaram a ver isso na prática quando você clica aqui ele filtra todos os contatos que estão com alguma orientação, o que que seria as orientações? Contato sem resposta então sei lá o contato te mandou uma pergunta um bom dia e você não respondeu ele identifica que esses contatos."
+      },
+      {
+        "startTime": 1876,
+        "endTime": 1897,
+        "speaker": "João Sabino",
+        "text": "E diálogos quentes diálogos vão ser o que vão ser contatos que querem Algum serviço então. Ele demonstrou interesse aí a identifica que ele emoção interesse vai gerar uma notificação de diálogo quente aqui aí ele fica tudo como orientação do Zé só carregar para ver se esse aqui é uma ó, tá vendo aqui diálogo quente."
+      },
+      {
+        "startTime": 1897,
+        "endTime": 1899,
+        "speaker": "João Sabino",
+        "text": "As conversas recentes indicam uma possível oportunidade resumo do diálogo."
+      },
+      {
+        "startTime": 1899,
+        "endTime": 1899,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "legal"
+      },
+      {
+        "startTime": 1901,
+        "endTime": 1928,
+        "speaker": "João Sabino",
+        "text": "Aí você consegue ver Carol? Explique com a nova lei tributária apresentou uma solução de rendimento inteligente para incorporadoras Carolina propôs uma reunião com a diretoria da house para apresentar a aplicação prática da solução Fernando confirma hoje elemento para sexta-feira às 9 horas demonstrando comprometimento que seria uma negociação. pronto, isso aqui é um ótimo exemplo diálogo quente tá querendo seguir com uma reunião para entender a ideia da Carol show"
+      },
+      {
+        "startTime": 1929,
+        "endTime": 1929,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "show"
+      },
+      {
+        "startTime": 1931,
+        "endTime": 1963,
+        "speaker": "João Sabino",
+        "text": "Em contato sem resposta, ele vai gerar aqui ó, contato sem respostas contatos está com a resposta pendente. Mas aqui foi uma não foi um bom exemplo a gente ainda tá filtrando um pouco melhor essa questão da resposta porque hoje Toda vez que você não responde o contato ele entra aqui mesmo, que seja um toda vez que a última mensagem é do parceiro, ele vai entrar aqui, beleza? então é que o Gustavo mandou informação para ele, ele respondeu que não tava no na Incorporadora, mas"
+      },
+      {
+        "startTime": 1965,
+        "endTime": 1966,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1966,
+        "endTime": 1997,
+        "speaker": "João Sabino",
+        "text": "Show então aí já entra aqui como sem resposta. E aí fica orientaçãozinha aqui até você finalizar ela. se eu finalizar Ou você respondeu para mim, se você responder tá finalizada. Beleza. Deixa eu ver o que mais temos. De funcionalidades aqui. Mas vocês estragaram manualmente foi?"
+      },
+      {
+        "startTime": 1997,
+        "endTime": 2010,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente registrou ali algumas vendas até para mostrar né? Os relatórios. Eu acho que essas aí foram manualmente. A gente pegou alguns parceiros."
+      },
+      {
+        "startTime": 2010,
+        "endTime": 2011,
+        "speaker": "João Sabino",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2011,
+        "endTime": 2021,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente consegue mostrar o relatório mostrar o vínculo da venda com um parceiro que fica dentro do contato, né para saber quantas negociações aquele corretor trouxe. Então é legal esse histórico, né?"
+      },
+      {
+        "startTime": 2023,
+        "endTime": 2027,
+        "speaker": "João Sabino",
+        "text": "Para vocês acho que a organização vocês não vão usar porque isso quer mais de imobiliária."
+      },
+      {
+        "startTime": 2027,
+        "endTime": 2031,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É mais Imobiliária vínculo do parceiro, né? Não acho que não estaria muito"
+      },
+      {
+        "startTime": 2031,
+        "endTime": 2048,
+        "speaker": "João Sabino",
+        "text": "Aqui é bem semelhante ao negócio se consegue vincular o coordenador o corretor a uma imobiliária. Entendeu sem precisar necessariamente mudar o gestor dele, né? O coordenador que o filtro ele que cuida dele."
+      },
+      {
+        "startTime": 2048,
+        "endTime": 2052,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 2052,
+        "endTime": 2060,
+        "speaker": "João Sabino",
+        "text": "Essa tela de WhatsApp você já conhece, né? Que que é mais se tiver uma secretária ela pode usar. Mandar mensagem daqui pelo seu WhatsApp tá sem precisar você liberar o"
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2061,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sensacional"
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2065,
+        "speaker": "João Sabino",
+        "text": "WhatsApp pessoal. Ela só consegue falar com quem? Tá na sua base?"
+      },
+      {
+        "startTime": 2066,
+        "endTime": 2066,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "show"
+      },
+      {
+        "startTime": 2068,
+        "endTime": 2075,
+        "speaker": "João Sabino",
+        "text": "Atividades é que onde ele registra toda atividade do parceiro, né? É um visita tudo ele registra aqui."
+      },
+      {
+        "startTime": 2080,
+        "endTime": 2080,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "as automações"
+      },
+      {
+        "startTime": 2081,
+        "endTime": 2106,
+        "speaker": "João Sabino",
+        "text": "É uma coisa interessante, eu acho que vocês não usam porque modelo de automação. Ah usam sim. o símbolo de automação Aí já tá já tá já tá utilizando. frações para já tá padronizado tudo grupos Ou de números Campos de números eu não sei se seria interessante para vocês, mas acredito que sim."
+      },
+      {
+        "startTime": 2106,
+        "endTime": 2122,
+        "speaker": "João Sabino",
+        "text": "Você já passaram para vocês já porque tá sendo utilizada, mas não pude números a gente consegue fazer disparos institucionais. Então como vocês fazem mais isso aí, né? Vocês poderiam cadastrar vários números aqui vários e fazer disparos por"
+      },
+      {
+        "startTime": 2122,
+        "endTime": 2125,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 2125,
+        "endTime": 2149,
+        "speaker": "João Sabino",
+        "text": "esses números sem correr risco de perder algum telefone de vocês usam aí pessoal. Ou já para trabalho também, entendeu? mensagens do Zé Aqui nas mensagens do Zé vai ser mais para deixar a mensagem com a cara de vocês, tá? Porque a todos os nossos parceiros quando entram eles têm essa nova essa esse padrão de mensagem."
+      },
+      {
+        "startTime": 2149,
+        "endTime": 2181,
+        "speaker": "João Sabino",
+        "text": "E aí vocês podem estar aqui à vontade com essa do link de qualificação que eu falei para a gente Ativar? Quando ele recebe o link ele recebe uma mensagem também e aí você coloca a mensagem do padrão que vocês quiserem então Olá contato nome tudo bem. Precisamos que você complete algumas informações para que possamos continuar com o processo de qualificação, por favor, acesse o link a seguir e complete as informações qualquer dúvida, estou à disposição."
+      },
+      {
+        "startTime": 2181,
+        "endTime": 2204,
+        "speaker": "João Sabino",
+        "text": "Se você quiser deixar isso mais formal você consegue quiser deixar mais pessoal também consegue. E aí vai dar criatividade de quem tiver fazendo essas mensagens. Para editar é muito simples, é só você selecionar aqui colocar sei lá passar incluído com sucesso. incluído E salvar ele vai atualizar automático, beleza? Que é muito simples esse processo."
+      },
+      {
+        "startTime": 2204,
+        "endTime": 2226,
+        "speaker": "João Sabino",
+        "text": "Campo dinâmico você já utilizam utilizam bem. E aqui também é sem limite, vocês criam um campo dinâmico que faça sentido para vocês o parceiro responder. Lógico que o ideal é não ter muitos porque quando a pessoa vê uma lista gigante de coisa que ela tem que responder ela só vai fechar é ele só fecha e"
+      },
+      {
+        "startTime": 2226,
+        "endTime": 2229,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Até uma prática que a gente fez agora o João a gente precisou fazer uma"
+      },
+      {
+        "startTime": 2229,
+        "endTime": 2240,
+        "speaker": "João Sabino",
+        "text": "segue a vida dele, ele não vai nem olhar para o formulário e aqui é sem limites usem a criatividade para O que tornou o parceiro qualificado para vocês de fato? beleza"
+      },
+      {
+        "startTime": 2246,
+        "endTime": 2270,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "abordagem para algumas incorporadoras. aí o que que a gente fez a gente importou agora nessa base até Foi contatos comerciais do time de parcerias, né de várias incorporadores de São Paulo. E a gente ao invés de criar um campo para identificar o nome da Incorporadora, a gente usou aquele Campo apelido."
+      },
+      {
+        "startTime": 2270,
+        "endTime": 2273,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não sei se você se recorda."
+      },
+      {
+        "startTime": 2274,
+        "endTime": 2275,
+        "speaker": "João Sabino",
+        "text": "sim"
+      },
+      {
+        "startTime": 2275,
+        "endTime": 2283,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Porque deu o apelido a gente conseguiria usar ele na automação para chamar ela chamar aquele contato querendo um vínculo dele com aquela x Incorporadora. Já"
+      },
+      {
+        "startTime": 2283,
+        "endTime": 2285,
+        "speaker": "João Sabino",
+        "text": "Não não chegou em mim então acredito que ainda não esteja."
+      },
+      {
+        "startTime": 2285,
+        "endTime": 2306,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "que eu não consigo usar um uma variável, né? Que puxa um campo personalizável, eu não sei se isso já tá no roadmap de vocês. É então, a gente teve que criar esse atalho, né? Digamos assim. Até se tu olhares aí, ó. Foi uma automação que foi saiu do número do Gustavo."
+      },
+      {
+        "startTime": 2306,
+        "endTime": 2313,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Aí eu acho que é essa daí mesmo a validação de contato comercial aí ó. contato apelido"
+      },
+      {
+        "startTime": 2315,
+        "endTime": 2322,
+        "speaker": "João Sabino",
+        "text": "Ah tá aqui você continua sendo ponto comigo."
+      },
+      {
+        "startTime": 2322,
+        "endTime": 2322,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente fez essa."
+      },
+      {
+        "startTime": 2324,
+        "endTime": 2324,
+        "speaker": "João Sabino",
+        "text": "Uma ótima ideia."
+      },
+      {
+        "startTime": 2325,
+        "endTime": 2327,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Essa contornamos nessa situação, né, mas fica aí a dica tá? Não sei se"
+      },
+      {
+        "startTime": 2327,
+        "endTime": 2328,
+        "speaker": "João Sabino",
+        "text": "esse gato"
+      },
+      {
+        "startTime": 2333,
+        "endTime": 2333,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "você consegue levar essa diante."
+      },
+      {
+        "startTime": 2334,
+        "endTime": 2337,
+        "speaker": "João Sabino",
+        "text": "Consigo vou passar para o João para ele passar para o nosso time desenvolvimento."
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2339,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso que eu acho que é um ponto legal aí o pessoal conseguir Criar"
+      },
+      {
+        "startTime": 2339,
+        "endTime": 2339,
+        "speaker": "João Sabino",
+        "text": "é porque"
+      },
+      {
+        "startTime": 2342,
+        "endTime": 2344,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "automações e usar Campos personalizados como variáveis."
+      },
+      {
+        "startTime": 2345,
+        "endTime": 2352,
+        "speaker": "João Sabino",
+        "text": "Entendi. Ah, entendi. Agora entendi sua dúvida, eu acredito que já esteja já seja uma ideia, mas eu acho que não seja uma coisa."
+      },
+      {
+        "startTime": 2352,
+        "endTime": 2354,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Talvez não seja prioritário no momento."
+      },
+      {
+        "startTime": 2354,
+        "endTime": 2357,
+        "speaker": "João Sabino",
+        "text": "Não seja uma prioridade. Nossa. Porque realmente isso isso já me passaram já essa questão de poder ter mais"
+      },
+      {
+        "startTime": 2357,
+        "endTime": 2357,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "mas só"
+      },
+      {
+        "startTime": 2362,
+        "endTime": 2363,
+        "speaker": "João Sabino",
+        "text": "variáveis, né?"
+      },
+      {
+        "startTime": 2364,
+        "endTime": 2368,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso só tem três acho né? Que é o nome a saudação e apelido."
+      },
+      {
+        "startTime": 2369,
+        "endTime": 2390,
+        "speaker": "João Sabino",
+        "text": "Já me passaram isso eu já tinha para o João. mas realmente nunca me deram um retorno, vou passar de novo para Ver se ele não retornasse a possibilidade se eles estão de olho nisso ou se foi esquecido também. Mas é uma boa ideia, mas eu só queria entender uma coisa aqui na automação, vocês enviaram para todos eles de uma vez."
+      },
+      {
+        "startTime": 2390,
+        "endTime": 2398,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não a gente não conseguiu enviar para todos porque quando atingir o 106 ele banir o número."
+      },
+      {
+        "startTime": 2398,
+        "endTime": 2399,
+        "speaker": "João Sabino",
+        "text": "Mas nenhum número caraca."
+      },
+      {
+        "startTime": 2399,
+        "endTime": 2415,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Banheiro com 24 horas só sabe aquele não sei se você já tiveram essa experiência que ele o próprio WhatsApp daí traz um alerta, né que ele vai ficar bloqueado por 24 horas, depois ele voltou. Aí a gente atingiu só 100, mas era um contatos novos também, eu acho que foi esse o ponto."
+      },
+      {
+        "startTime": 2416,
+        "endTime": 2433,
+        "speaker": "João Sabino",
+        "text": "Contato de origem importação de planilha geralmente é bem complicado para a gente automação porque o que acontece muito é às vezes aquela pessoa que você adicionou na sua planilha. Nem é mais um corretor. Às vezes, ela perdeu no meu telefone já tá com outra aquele número já tá com outra pessoa."
+      },
+      {
+        "startTime": 2433,
+        "endTime": 2447,
+        "speaker": "João Sabino",
+        "text": "Então isso acontece muito muito muito muito, mas quando é uma planilha que a gente não conhece a origem, né? Que acontece muito que às vezes um dia desses não sei se você conhece o Michel dance se você tem contato com os coordenadores."
+      },
+      {
+        "startTime": 2447,
+        "endTime": 2447,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Já ouvi falar."
+      },
+      {
+        "startTime": 2448,
+        "endTime": 2451,
+        "speaker": "João Sabino",
+        "text": "Ele mandou uma planilha com 20 mil contatos para a gente."
+      },
+      {
+        "startTime": 2451,
+        "endTime": 2451,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "nossa"
+      },
+      {
+        "startTime": 2453,
+        "endTime": 2456,
+        "speaker": "João Sabino",
+        "text": "Ele não deve falar nem com 200 pessoas por mês."
+      },
+      {
+        "startTime": 2456,
+        "endTime": 2456,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 2457,
+        "endTime": 2466,
+        "speaker": "João Sabino",
+        "text": "Mas ele mandou 20 mil e aí e hoje ele tava me chamando para fazer uma automação então o que que ele queria ele queria mandar mensagem para 21 pessoas que ele não conhece."
+      },
+      {
+        "startTime": 2467,
+        "endTime": 2468,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Vai ser banido."
+      },
+      {
+        "startTime": 2469,
+        "endTime": 2511,
+        "speaker": "João Sabino",
+        "text": "Com certeza e a pior parte disso é que quando Eles tomam banho a culpa é nossa, desculpa a gente a gente fica meio ruim, a gente tem que sempre ele tomar esses cuidados com os Com os parceiros com origem importação de planilha por causa disso a pessoa vai receber uma mensagem ali de um número que ela nunca viu? Ela nem trabalha no mercado mais é outra pessoa que tá com o número ela vai dar um blog, ela vai denunciar o número por spam, entendeu? Então hoje na Z2 a gente tá criando a prática de Automação enviar principalmente para parceiros verificados e de origem Aurora porque essas pessoas essas pessoas eu tenho certeza que são corretores."
+      },
+      {
+        "startTime": 2511,
+        "endTime": 2521,
+        "speaker": "João Sabino",
+        "text": "Mesmo que seja tipo um desse mudar a base deles 50% ele no máximo eu tenho certeza que eu vou estar falando com corretor de parcerias então meu disparo vai ser muito mais seguro do que eu mandar para mandar para três mil pessoas,"
+      },
+      {
+        "startTime": 2521,
+        "endTime": 2521,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 2524,
+        "endTime": 2532,
+        "speaker": "João Sabino",
+        "text": "mas duas mil nem sabem quem eu sou. Então é muito perigoso. Então essa essa esse é um bom exemplo de boa prática que a gente está tomando hoje na Z2."
+      },
+      {
+        "startTime": 2532,
+        "endTime": 2532,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 2533,
+        "endTime": 2556,
+        "speaker": "João Sabino",
+        "text": "De cuidado com disparo beleza? E isso que eu gostava aqui é se disparo. Vocês poderiam ter feito pelo número Pool? Para não correr o risco de ele perder o número dele de tomar um Block no número dele então disparo que seria viável, mas que é um disparo que não é não é direto de vocês, né? O Retorno vai ser para incorporadoras seria o que exatamente."
+      },
+      {
+        "startTime": 2557,
+        "endTime": 2589,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Exatamente é o disparo seria para Os coordenadores de parceria digamos assim das incorporadoras que a gente tem numa região específica. Para validar se o contato dele é uma estratégia que a gente tá rodando aqui tá dando muito certo para agendar reunião. A gente válida se o cara é o contato comercial da Incorporadora ainda naquele momento, né que tá acontecendo abordagem se sim a gente desenrola uma conversa e fala da hora e marca um papo para apresentar ferramenta para ele geralmente são clientes que ainda não são plano."
+      },
+      {
+        "startTime": 2589,
+        "endTime": 2595,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente usa essa estratégia para abordar a galera obter atenção e agendar uma reunião."
+      },
+      {
+        "startTime": 2595,
+        "endTime": 2603,
+        "speaker": "João Sabino",
+        "text": "Tem é uma boa e Vocês poderiam fazer pelo número um. Pelo disparou aqui você seleciona o número."
+      },
+      {
+        "startTime": 2603,
+        "endTime": 2604,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 2604,
+        "endTime": 2628,
+        "speaker": "João Sabino",
+        "text": "E aí no final vou da mensagem aqui, ó, só para mostrar na prática tem um número público que já configurado do Diego tá o de números Diego só não tá conectado você consegue colocar aqui, quantos números você quiser, tá? então no mesmo pulso pode colocar 5 chips, você pode colocar quanto você quiser e tiver disponível que vocês não usam assim para Nada é um número que tá parado aí na hora vocês podem cadastrar aqui."
+      },
+      {
+        "startTime": 2628,
+        "endTime": 2644,
+        "speaker": "João Sabino",
+        "text": "E aí você cria uma automação para ele, você vai em adicionar automação seleciona aqui pulso. E aí aqui ele vai selecionar todos os números que estiverem nesse Pou de número cadastrado. Selecionei ou selecionar a base de quem o cara atingir aqueles contatos são na base de quem do Gustavo?"
+      },
+      {
+        "startTime": 2645,
+        "endTime": 2645,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2658,
+        "speaker": "João Sabino",
+        "text": "Então selecionei Gustavo, aí eu venho aqui criou a automação padrão, né com as configurações padrões. Qual foi a origem que vocês usaram lá foi origem planilha, né?"
+      },
+      {
+        "startTime": 2659,
+        "endTime": 2660,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É ali foi importado, né?"
+      },
+      {
+        "startTime": 2660,
+        "endTime": 2662,
+        "speaker": "João Sabino",
+        "text": "E aí você selecionaram a data provavelmente?"
+      },
+      {
+        "startTime": 2663,
+        "endTime": 2663,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "data de início"
+      },
+      {
+        "startTime": 2665,
+        "endTime": 2668,
+        "speaker": "João Sabino",
+        "text": "Vai até que dia vai terça-feira passada foi disparado."
+      },
+      {
+        "startTime": 2669,
+        "endTime": 2670,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu acho que foi essa semana passada."
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2717,
+        "speaker": "João Sabino",
+        "text": "Deixa eu ver as configurações aqui. Tudo tudo tudo. velocidade única Essa informação aqui. Não dá para ver que a data de entrada do contato. Ah, mas aprovei aqui dá para ter uma noção. voltar 1498 contatos número 1498 É por onde foi semana passada que a gente tá no 1500 e pouquinho de importação."
+      },
+      {
+        "startTime": 2717,
+        "endTime": 2735,
+        "speaker": "João Sabino",
+        "text": "Então aqui para a gente foi semana passada, eu posso filtrar a data como o dia primeiro. Já deve aparecer. título Selecionar todos."
+      },
+      {
+        "startTime": 2741,
+        "endTime": 2750,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa Mas aí como é que funciona esse povo João eu vou ter que ter um número chave que vai estar vinculado esse pulso."
+      },
+      {
+        "startTime": 2751,
+        "endTime": 2783,
+        "speaker": "João Sabino",
+        "text": "Não vamos lá, você vai criar um número pouco aí vai ser o número de disparo institucional de vocês, que aqui tem o do Diego. Mas você consegue colocar mais. Quando a gente cria a mensagem dele a gente geralmente coloca indicando para quem a gente quer que ele fale então tipo caso tenha interesse entre em contato com e o número de telefone da pessoa que a gente quer que ele entre em contato, beleza? Ou vocês podem também fazer a tratativa direto pelo número pull, só que aí ele não usa o Z2 tá o número ele não usa o Zé."
+      },
+      {
+        "startTime": 2783,
+        "endTime": 2786,
+        "speaker": "João Sabino",
+        "text": "Ele é só um número comum um disparador."
+      },
+      {
+        "startTime": 2787,
+        "endTime": 2787,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 2788,
+        "endTime": 2808,
+        "speaker": "João Sabino",
+        "text": "Fechou. E aí ficaria mais ou menos assim? A mensagem né que vocês colocarem é um caso tenha interesse. Entre em contato. com E o telefone da pessoa indicando beleza?"
+      },
+      {
+        "startTime": 2809,
+        "endTime": 2809,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2810,
+        "endTime": 2820,
+        "speaker": "João Sabino",
+        "text": "Assim que a gente usa o número pouco para garantir que não vai acontecer do número de uma pessoa com vocês usam aí no dia a dia. Tome um bloqueio igual Vocês tomaram aí beleza? Então a gente usa esse"
+      },
+      {
+        "startTime": 2820,
+        "endTime": 2820,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2822,
+        "endTime": 2842,
+        "speaker": "João Sabino",
+        "text": "número por para isso e para vocês como vocês mandam no caso que foi uma importação de planilha para 500 e poucas pessoas, né? Querem atingir. É interessante tomar enviar por número pouco Justamente por isso. Que aí a chance de tomar um Block no número Pulo não vai te afetar tanto quanto tomar no número que é usado por uma pessoa de fato."
+      },
+      {
+        "startTime": 2842,
+        "endTime": 2844,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa é, talvez quando a gente for rodar novamente, eu te procure para a gente"
+      },
+      {
+        "startTime": 2844,
+        "endTime": 2849,
+        "speaker": "João Sabino",
+        "text": "Entendeu?"
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2850,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "rodar junto esse primeiro caso."
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2851,
+        "speaker": "João Sabino",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 2851,
+        "endTime": 2853,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Que a gente não rodou nenhum ainda com essa configuração."
+      },
+      {
+        "startTime": 2855,
+        "endTime": 2862,
+        "speaker": "João Sabino",
+        "text": "Deixa eu ver aqui número 1, não foi não foi nada criado com ela. Mas tem um número aqui. Então a gente pode."
+      },
+      {
+        "startTime": 2862,
+        "endTime": 2866,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, eu acho muito superior de teste ali, eu acho que não foi nem."
+      },
+      {
+        "startTime": 2866,
+        "endTime": 2875,
+        "speaker": "João Sabino",
+        "text": "a gente pode a gente quando for fazer esse disparo, vocês me chamam a gente conecta um número aqui ou quantos vocês quiserem conectar se quiser mandar"
+      },
+      {
+        "startTime": 2875,
+        "endTime": 2876,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá mas nesse número que você tá vendo aí é um número fictício qualquer"
+      },
+      {
+        "startTime": 2876,
+        "endTime": 2878,
+        "speaker": "João Sabino",
+        "text": "para"
+      },
+      {
+        "startTime": 2878,
+        "endTime": 2880,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "ideia."
+      },
+      {
+        "startTime": 2880,
+        "endTime": 2881,
+        "speaker": "João Sabino",
+        "text": "É um número real não é um chip real."
+      },
+      {
+        "startTime": 2881,
+        "endTime": 2884,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Número real Tá mas ele tem que ser um chip aquecido qualquer ideia."
+      },
+      {
+        "startTime": 2884,
+        "endTime": 2890,
+        "speaker": "João Sabino",
+        "text": "aí Não não precisa ser aquecido porque a ideia do número eles são disparador"
+      },
+      {
+        "startTime": 2890,
+        "endTime": 2890,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 2892,
+        "endTime": 2915,
+        "speaker": "João Sabino",
+        "text": "mesmo então tipo ele vai tomar banho alguma hora. Algum momento ele vai tomar banho, mas a ideia é aproveitar ele o máximo que você conseguir então você consegue só atingir aqui são 500 pessoas então para o relativamente tranquilo para ser feito tá a gente dispara por esse número por aí, às vezes a dois números e ele fica tranquilo, eu acho que a questão do disparo ali foi só a quantidade de mensagens que estavam sendo"
+      },
+      {
+        "startTime": 2915,
+        "endTime": 2915,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 2916,
+        "endTime": 2917,
+        "speaker": "João Sabino",
+        "text": "enviadas."
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2929,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, mas igual só para você, eu entendi igual eu vou ter que ter dois números. Vamos supor que a gente quer ter para abordar essa galera eu tenho. Eu vou precisar ter dois números dois chips."
+      },
+      {
+        "startTime": 2929,
+        "endTime": 2934,
+        "speaker": "João Sabino",
+        "text": "Você consegue atingir? Só você consegue atingir só com um só que vai ser acabar sendo mais demorado um pouquinho."
+      },
+      {
+        "startTime": 2934,
+        "endTime": 2935,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A princípio é isso João. Acho que mais assim acho que de forma geral."
+      },
+      {
+        "startTime": 2935,
+        "endTime": 2960,
+        "speaker": "João Sabino",
+        "text": "A gente diminui um pouco a Cadência, beleza? E aí com dois você consegue porque ele Ele vai vai dobrar a produtividade, né com dois números então, tipo, ele tá enviando duas mensagens a cada cinco minutos com dois números, ele vai enviar duas mensagens de cada número. Ele vai ser duas vezes mais rápido."
+      },
+      {
+        "startTime": 2960,
+        "endTime": 2981,
+        "speaker": "João Sabino",
+        "text": "Aqui na automação. O único problema que que me pareceu foi a quantidade de mensagens são três mensagens aqui, né? E aí tipo? Para número desconhecido acaba se tornando uma. um perigo Grande Cara eu acho que era isso você tem alguma outra dúvida? com"
+      },
+      {
+        "startTime": 2983,
+        "endTime": 2986,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Até que tá legal ali a conta né? Dá para a gente vendo aos poucos também"
+      },
+      {
+        "startTime": 2986,
+        "endTime": 2987,
+        "speaker": "João Sabino",
+        "text": "Tá. Tá bem tá bem organizada."
+      },
+      {
+        "startTime": 2989,
+        "endTime": 3007,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "conforme for surgindo também que nem surgiu agora essa questão do Povo, né? Acho que pode ser uma primeira um primeiro teste para a gente rodar fazer diferente, né? Já com essa esse site teu muito bom, obrigado e começar a fazer esses testes ali com relação a ia né daquelas modificações que você trouxe ali no contexto GPT de cada produto."
+      },
+      {
+        "startTime": 3007,
+        "endTime": 3015,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Acho que isso aí vai ser legal para a gente ver durante as apresentações e demonstração do Zé que é o que a gente mais utiliza na verdade."
+      },
+      {
+        "startTime": 3018,
+        "endTime": 3038,
+        "speaker": "João Sabino",
+        "text": "Se você quiser a gente pode depois marcar uma um cal para a gente falar só sobre contexto. E aí a gente monta alguns Empreendimentos faz testes aqui junto, eu mostro funcionando. Entendeu perguntas que a gente costuma testar quando a gente programa para o parceiro, aí a gente pode marcar um Call, aí acho que uma horinha em algum outro dia a gente consegue fazer isso tranquilo."
+      },
+      {
+        "startTime": 3038,
+        "endTime": 3048,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tamo junto. Valeu mestre. Valeu, tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 223,
+    "speakers": [
+      "João Vitor Portes da Silva",
+      "João Sabino"
+    ],
+    "total_words_estimate": 5259,
+    "duration_start": 0,
+    "duration_end": 3048
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "691242d993dfd6001391a8fa",
+        "timestamp": 1,
+        "text": "Reunião focada em revisar base do órgão Z2, explorando recursos de IA para corretores.",
+        "topicId": "691242d993dfd6001391a8f6"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a8fe",
+        "timestamp": 240,
+        "text": "Ferramenta permite buscar empreendimentos por contexto e detalhes adicionais",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a8ff",
+        "timestamp": 556,
+        "text": "Listar todas as opções de lazer para facilitar escolha do cliente",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a900",
+        "timestamp": 574,
+        "text": "Formato de lista deve manter cada item em linha separada para busca eficiente",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a901",
+        "timestamp": 913,
+        "text": "Listar informações específicas de um empreendimento por palavra-chave de busca.",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a902",
+        "timestamp": 1029,
+        "text": "Permitir identificação flexível de produto por nome parcial ou palavra-chave.",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a8fb",
+        "timestamp": 1066,
+        "text": "Padronização de busca de produtos Z2 com foco em descrições detalhadas para corretores.",
+        "topicId": "691242d993dfd6001391a8f6"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a903",
+        "timestamp": 1141,
+        "text": "Cálculo de unidades por empreendimento: multiplicar quantidade de andares por apartamentos por andar.",
+        "topicId": "691242d993dfd6001391a8f7"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a904",
+        "timestamp": 1290,
+        "text": "Parceiros podem personalizar mensagens de apresentação de empreendimentos.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a905",
+        "timestamp": 1347,
+        "text": "Adicionado comando personalizado que substitui geração automática de mensagem.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a906",
+        "timestamp": 1524,
+        "text": "Nova funcionalidade: criação de intenções com variáveis para identificar diferentes formas de chamar um recurso.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a907",
+        "timestamp": 1745,
+        "text": "Qualificação automática envia formulário para parceiros preencherem informações definidas em campos dinâmicos.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a908",
+        "timestamp": 1866,
+        "text": "Nova funcionalidade de orientações: filtrar contatos sem resposta e diálogos quentes.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a909",
+        "timestamp": 2140,
+        "text": "Mensagens do Zé podem ser personalizadas para adequar comunicação com parceiros.",
+        "topicId": "691242d993dfd6001391a8f8"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a90a",
+        "timestamp": 2416,
+        "text": "Importação de planilha de contatos pode ser complicada devido a mudanças de número e possíveis problemas de spam.",
+        "topicId": "691242d993dfd6001391a8f9"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a8fc",
+        "timestamp": 2495,
+        "text": "Z2A está criando prática de automação apenas para parceiros verificados e de origem confiável.",
+        "topicId": "691242d993dfd6001391a8f6"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a8fd",
+        "timestamp": 2556,
+        "text": "Estratégia de disparo focada em coordenadores de parcerias de incorporadoras em regiões específicas.",
+        "topicId": "691242d993dfd6001391a8f6"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a90b",
+        "timestamp": 2616,
+        "text": "Possibilidade de usar múltiplos chips no mesmo pool de números para disparos de mensagem.",
+        "topicId": "691242d993dfd6001391a8f9"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a90c",
+        "timestamp": 2775,
+        "text": "Recomendação de incluir número de contato na mensagem para facilitar retorno.",
+        "topicId": "691242d993dfd6001391a8f9"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a90d",
+        "timestamp": 2835,
+        "text": "Usar número pool reduz risco de bloqueio no número principal de comunicação.",
+        "topicId": "691242d993dfd6001391a8f9"
+      },
+      {
+        "segmentId": "691242d993dfd6001391a90e",
+        "timestamp": 2934,
+        "text": "Redução da cadência de mensagens para minimizar riscos de bloqueio.",
+        "topicId": "691242d993dfd6001391a8f9"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "691242d993dfd6001391a8f6",
+        "order": 1,
+        "title": "Ações Definidas e Compromissos",
+        "summary": ""
+      },
+      {
+        "id": "691242d993dfd6001391a8f7",
+        "order": 2,
+        "title": "Funcionalidades de Busca e Identificação de Produtos",
+        "summary": ""
+      },
+      {
+        "id": "691242d993dfd6001391a8f8",
+        "order": 3,
+        "title": "Personalização de Comunicação",
+        "summary": ""
+      },
+      {
+        "id": "691242d993dfd6001391a8f9",
+        "order": 4,
+        "title": "Estratégias de Disparo de Mensagens",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 21,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "691242d993dfd6001391a8f6",
+      "order": 1,
+      "title": "Ações Definidas e Compromissos",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f7",
+      "order": 2,
+      "title": "Funcionalidades de Busca e Identificação de Produtos",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f8",
+      "order": 3,
+      "title": "Personalização de Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f9",
+      "order": 4,
+      "title": "Estratégias de Disparo de Mensagens",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:49:25.979432+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:49:25.979432+00:00"
+}

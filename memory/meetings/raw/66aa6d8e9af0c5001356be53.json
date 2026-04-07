@@ -1,0 +1,32 @@
+{
+  "id": "66aa6d8e9af0c5001356be53",
+  "happenedAt": "2024-07-31T17:00:00.000Z",
+  "invitees": [
+    {
+      "name": "",
+      "email": "edgar@drivops.com"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "danilo@drivops.com"
+    }
+  ],
+  "name": "Órulo / Driveops: kick off",
+  "duration": 4222.516,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66aa6d8e9af0c5001356be53",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "jmo-xnsc-aip"
+  }
+}

@@ -1,0 +1,1441 @@
+{
+  "meeting_id": "66c745193e1d750012a2bd0d",
+  "name": "Órulo <> Setin (Implementação Prm)",
+  "happened_at": "2024-08-22T14:03:05.338Z",
+  "duration_seconds": 2093.317,
+  "duration_minutes": 34.9,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [],
+  "url": "https://tldv.io/app/meetings/66c745193e1d750012a2bd0d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "qat-ceef-kga",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66c745a4ab29a700138693ed",
+    "meetingId": "66c745193e1d750012a2bd0d",
+    "data": [
+      {
+        "startTime": 2,
+        "endTime": 42,
+        "speaker": "Johnny Fernandes",
+        "text": "tá de uma oportunidade. Vou colocar. para teste Eu vou colocar esse Messias aqui, tá? Aqui só para explicar para vocês quando eu coloco o corretor diretamente. O campo contato ele fica aqui desabilitado, porque o próprio corretor já é uma pessoa física, ele já é o meu contato direto, tá bom? Aqui eu tenho a possibilidade de vincular uma imobiliária e falar qual é o corretor que é o fica até melhor aqui o nosso organismo."
+      },
+      {
+        "startTime": 42,
+        "endTime": 56,
+        "speaker": "Johnny Fernandes",
+        "text": "Qual é o corretor da imobiliária que eu estou com essa oportunidade? Fala uma imobiliária qualquer aí por gentileza."
+      },
+      {
+        "startTime": 56,
+        "endTime": 59,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "essa"
+      },
+      {
+        "startTime": 59,
+        "endTime": 72,
+        "speaker": "Johnny Fernandes",
+        "text": "Esse aqui até vou pegar essa que tá com CNPJ, tá bom?"
+      },
+      {
+        "startTime": 72,
+        "endTime": 74,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 74,
+        "endTime": 75,
+        "speaker": "Johnny Fernandes",
+        "text": "então"
+      },
+      {
+        "startTime": 75,
+        "endTime": 75,
+        "speaker": "Eduardo Stringhini",
+        "text": "Higienização a gente vai ter."
+      },
+      {
+        "startTime": 77,
+        "endTime": 116,
+        "speaker": "Johnny Fernandes",
+        "text": "É pois só não mudar. A gente vai ter que fazer uma segunda higienização aí dessa base tá? Porque eu importei a as Como Imobiliária Porém na lista de corretores ela também estava lá como corretor. Em algumas das listas, entendeu? E acabei cortando ela como corretor também, ela não é corretor, ela é uma imobiliária esse símbolo aqui, ó."
+      },
+      {
+        "startTime": 116,
+        "endTime": 137,
+        "speaker": "Johnny Fernandes",
+        "text": "Ao lado ele diferencia. O que é o cadastro pessoa jurídica de uma empresa, né imobiliária do que é o cadastro de pessoa física? Tá bom então vai precisar fazer uma segunda e higienização nesses dados também, tá bom? O Diego tá pedindo para dar um zoom beleza Diego."
+      },
+      {
+        "startTime": 137,
+        "endTime": 141,
+        "speaker": "Diego Diehl",
+        "text": "Apertar o controle isso aí melhor."
+      },
+      {
+        "startTime": 143,
+        "endTime": 170,
+        "speaker": "Eduardo Stringhini",
+        "text": "setar essa essa quesito meio básico Até o é bem importante a gente já do sistema que a gente procurar não ter cadastro duplicado. Se ele tiver canais duplicado depois lá na frente vai ferrar todos os relatórios, porque eventualmente a gente vai. Cadastrar no negócio por exemplo o nome de um corretor da imobiliária e depois num outro cadastro que é duplicado então isso depois vai vai vai dificultar bastante os nossos relatórios, né, então."
+      },
+      {
+        "startTime": 170,
+        "endTime": 184,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que é isso aí vai ter que agora nesse início de pegar com o pessoal aí da setinha e a gente tentar. Bloquear isso não tem como ter cadastro duplicado que senão a gente vai ter problemas ali na frente, né?"
+      },
+      {
+        "startTime": 184,
+        "endTime": 184,
+        "speaker": "Johnny Fernandes",
+        "text": "sim"
+      },
+      {
+        "startTime": 184,
+        "endTime": 205,
+        "speaker": "Caio Gomes",
+        "text": "Como a gente baixou essas essa planilha do Conexão cetim é só identificar o que tem CNPJ que tem CPF. Porque era uma única coluna CPF ou CNPJ? E daí vem a quantidade disso você consegue dar uma filtrada boa na base?"
+      },
+      {
+        "startTime": 211,
+        "endTime": 235,
+        "speaker": "Johnny Fernandes",
+        "text": "bem isso aí vai ajudar tá bom? A gente consegue também, provavelmente eu devo ter feito isso já para aquela planilha da coleção. Eu acho que o problema maior está nos contatos que vieram lá dos gerentes. Que não tem CPF não tem CNPJ, não tem sabe o nome também às vezes não bate com com o nome do que tava no cadastro da construção cetim."
+      },
+      {
+        "startTime": 235,
+        "endTime": 239,
+        "speaker": "Johnny Fernandes",
+        "text": "então"
+      },
+      {
+        "startTime": 239,
+        "endTime": 272,
+        "speaker": "Caio Gomes",
+        "text": "todos os cadastros dos gerentes que vão para O portal vai que vai para esse sistema ou que vai para Inteligência Artificial, a gente vai para o ouro todos os cadastros são corretores imobiliárias só são cadastradas manualmente. Então jamais um se é um humano não tem como ser imobiliária lá do WhatsApp, entendeu? Ficou claro, né."
+      },
+      {
+        "startTime": 274,
+        "endTime": 317,
+        "speaker": "Johnny Fernandes",
+        "text": "Ficou eu acho que assim do São dois pontos né? Um dos pontos é Ao todo Caio de todos os 21 arquivos lá deu 56 mil registros tá tirando mais com mais ou menos 3000 que eram de mobiliárias, mas o 53 mil corretores tá que a gente importou. Desse 50 e poucos Mills eu já consegui fazer uma unificação de dados e nós importamos no sistema tem 30 e poucos mil registros importados já foi feito o saneamento, porém ainda assim nós temos Alguns que estão duplicados triplicados."
+      },
+      {
+        "startTime": 317,
+        "endTime": 326,
+        "speaker": "Johnny Fernandes",
+        "text": "Talvez a gente vai precisar ainda de uma força-tarefa para higienizar mais ainda essa base. Tá eu vou fazer."
+      },
+      {
+        "startTime": 326,
+        "endTime": 330,
+        "speaker": "Caio Gomes",
+        "text": "que você considera que tem um pouco duplicado ainda desculpa?"
+      },
+      {
+        "startTime": 330,
+        "endTime": 335,
+        "speaker": "Johnny Fernandes",
+        "text": "Cara, quanto o cadastro dos únicos eu não tenho como te responder essa pergunta agora, né?"
+      },
+      {
+        "startTime": 335,
+        "endTime": 335,
+        "speaker": "Caio Gomes",
+        "text": "eu sei, mas você"
+      },
+      {
+        "startTime": 338,
+        "endTime": 353,
+        "speaker": "Johnny Fernandes",
+        "text": "É Teoricamente 33 mil. do 5 e pouco 53 54 eu consegui reduzir para 33 Teoricamente únicos, mas ainda não ainda não sou o único porque"
+      },
+      {
+        "startTime": 353,
+        "endTime": 358,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vai em todos ali."
+      },
+      {
+        "startTime": 358,
+        "endTime": 361,
+        "speaker": "Johnny Fernandes",
+        "text": "43 mil então"
+      },
+      {
+        "startTime": 368,
+        "endTime": 371,
+        "speaker": "Caio Gomes",
+        "text": "Imobiliária também, né, Eduardo?"
+      },
+      {
+        "startTime": 371,
+        "endTime": 374,
+        "speaker": "Johnny Fernandes",
+        "text": "É todos vai pegar tudo."
+      },
+      {
+        "startTime": 374,
+        "endTime": 376,
+        "speaker": "Eduardo Stringhini",
+        "text": "cadastrado que foi para dentro."
+      },
+      {
+        "startTime": 376,
+        "endTime": 381,
+        "speaker": "Caio Gomes",
+        "text": "Tirar Imobiliária, quantos corretores tem?"
+      },
+      {
+        "startTime": 381,
+        "endTime": 381,
+        "speaker": "Johnny Fernandes",
+        "text": "pegar"
+      },
+      {
+        "startTime": 383,
+        "endTime": 397,
+        "speaker": "Eduardo Stringhini",
+        "text": "É que eu acho que foi feito o seguinte tá muitas nomes de imobiliárias foram cadastradas como corretores sem o CNPJ só um nome como da acsp Ali por exemplo aparecer lápis cadastrada como uma pessoa física."
+      },
+      {
+        "startTime": 397,
+        "endTime": 404,
+        "speaker": "Caio Gomes",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 404,
+        "endTime": 439,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas só responder a pergunta Caio como o corretor tem 32.521. Porém esse número vai eu acho que ele vai diminuir um pouco porque tem alguns que estão duplicados e tem algumas imobiliárias que estavam na lista de corretores, entendeu? Eu acho que alguns gerentes no filtro mandou uma planilha só e tinha corretor e imobiliária na mesma família, entendeu? E como eu tinha CNPJ não tinha CPF não tinha como eu saber também e também como as 50 e poucos mil assim não tem como a gente filtrar isso, né?"
+      },
+      {
+        "startTime": 440,
+        "endTime": 451,
+        "speaker": "Eduardo Stringhini",
+        "text": "Minha sugestão de onde a gente agora focar nos negócios aqui e fazer uma reunião de uma hora só de higienização de base, porque eu acho que isso é o córdo o negócio tá? A gente precisa já começar certo com essa base, não dá para"
+      },
+      {
+        "startTime": 451,
+        "endTime": 451,
+        "speaker": "Johnny Fernandes",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 451,
+        "endTime": 465,
+        "speaker": "Eduardo Stringhini",
+        "text": "cheio de negócios duplicado que vai ferrar todos os relatórios ali na frente. Então, então a gente separa uma outra reunião onde a gente discute, como é qual é a estratégia que a gente vai usar para limpar a base, a gente já deu uma boa limpada, né? Na verdade é uma segunda higienização."
+      },
+      {
+        "startTime": 468,
+        "endTime": 501,
+        "speaker": "Johnny Fernandes",
+        "text": "ideia mesmo. Então continuar aqui um exemplo com a áspe. Tá bom? Vou iniciar uma. Criar aqui então, vou colocar aqui. a Aspen Me fala um corretor da arte belenice. Vera Vanessa Vera Aparecida"
+      },
+      {
+        "startTime": 501,
+        "endTime": 505,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Boa boa pergunta, hein? Só um pouquinho."
+      },
+      {
+        "startTime": 505,
+        "endTime": 508,
+        "speaker": "Johnny Fernandes",
+        "text": "Vera Carvalho Tem bastante Vera?"
+      },
+      {
+        "startTime": 508,
+        "endTime": 517,
+        "speaker": "Diego Diehl",
+        "text": "Johnny a gente consegue ajustar que substitua aparecer para aparecer o telefone talvez."
+      },
+      {
+        "startTime": 517,
+        "endTime": 518,
+        "speaker": "Johnny Fernandes",
+        "text": "Não não tem como tirar isso."
+      },
+      {
+        "startTime": 518,
+        "endTime": 524,
+        "speaker": "Diego Diehl",
+        "text": "que Tá bom, só para saber acho que vai tá?"
+      },
+      {
+        "startTime": 524,
+        "endTime": 535,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Coloca a Ivana eu coloca a Ivana. Vera não vou saber o sobrenome dela, por favor."
+      },
+      {
+        "startTime": 535,
+        "endTime": 538,
+        "speaker": "Johnny Fernandes",
+        "text": "É Ivana também nós vamos ter algumas né?"
+      },
+      {
+        "startTime": 538,
+        "endTime": 538,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "É que normalmente Eu não coloco."
+      },
+      {
+        "startTime": 538,
+        "endTime": 544,
+        "speaker": "Johnny Fernandes",
+        "text": "Ivana Coutinho Ivana Cristina e Ivana Dalla Ivana Elite Eliete Você não sabe né?"
+      },
+      {
+        "startTime": 544,
+        "endTime": 547,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Eu não coloco como normalmente eu coloco como Ivana."
+      },
+      {
+        "startTime": 547,
+        "endTime": 553,
+        "speaker": "Johnny Fernandes",
+        "text": "Aqui ó, Ivana da Lasanha."
+      },
+      {
+        "startTime": 553,
+        "endTime": 554,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "exato"
+      },
+      {
+        "startTime": 555,
+        "endTime": 586,
+        "speaker": "Johnny Fernandes",
+        "text": "A Ivana das Ana ela nota duplicada tá? Deixa eu ver só tá uma vez, ela tá certa. Entendeu? Mas a Ivana Coutinho por exemplo maiúsculo aqui e um minúscula aqui, então isso aqui tá vendo alguma lista de algum corretor? E essa aqui estava em outra lista de de outro gerente, provavelmente tá? Mas a Ivana Dalla aqui tá certinho, só veio uma vez, tá bom? então, vou fazer o exemplo aqui e me fala, por exemplo um produto qualquer aí da Cetim que"
+      },
+      {
+        "startTime": 586,
+        "endTime": 587,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Que ela buscou."
+      },
+      {
+        "startTime": 587,
+        "endTime": 588,
+        "speaker": "Johnny Fernandes",
+        "text": "Ela buscou."
+      },
+      {
+        "startTime": 588,
+        "endTime": 591,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "e"
+      },
+      {
+        "startTime": 591,
+        "endTime": 602,
+        "speaker": "Johnny Fernandes",
+        "text": "Com B com i aqui, né? breve lançamento"
+      },
+      {
+        "startTime": 602,
+        "endTime": 604,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pode tirar depois."
+      },
+      {
+        "startTime": 604,
+        "endTime": 630,
+        "speaker": "Johnny Fernandes",
+        "text": "Ele vai tirar vai tirar porque inclusive não precisa ter. E até troca essa roupa que tá Eduardo, eu coloco o campo de produtos relacionados que já fica certinho também para os relatórios. Aí aqui tá isso aqui não é tá como obrigatório tá bom Elenice Caio Kátia. Mas se já tiver informação você pode formar qualquer tipologia que ela teve interesse."
+      },
+      {
+        "startTime": 630,
+        "endTime": 652,
+        "speaker": "Johnny Fernandes",
+        "text": "Né, então se é se é o estúdio que não tem dormitório, você é um dormitório os dois dormitórios. Nesse caso qual seria a tipologia? por enquanto Ah, tá."
+      },
+      {
+        "startTime": 652,
+        "endTime": 653,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "três suítes"
+      },
+      {
+        "startTime": 654,
+        "endTime": 674,
+        "speaker": "Johnny Fernandes",
+        "text": "Essa informação para você não vai ter que a unidade né? Se você já tiver você poderia falar qualquer unidade que ela teve interesse ali, mas acho que nesse momento Inicial não vai ter mesmo. O valor tá você já pode ter um se tiver um relógio de tabela do produto ali de três dormitórios para O Valor estimado, tá bom?"
+      },
+      {
+        "startTime": 674,
+        "endTime": 676,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "por 6 milhões de 200"
+      },
+      {
+        "startTime": 676,
+        "endTime": 691,
+        "speaker": "Johnny Fernandes",
+        "text": "Você teria algum Valor estimado para essa venda? Então Um Valor estimado aqui e aí, qual foi a origem como essa oportunidade? Chegou até você, como que a Ivana chegou até você."
+      },
+      {
+        "startTime": 691,
+        "endTime": 694,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Foi indicação da gerente dela para falar comigo."
+      },
+      {
+        "startTime": 695,
+        "endTime": 718,
+        "speaker": "Johnny Fernandes",
+        "text": "Deixa eu pegar aqui se tem alguma origem específica para isso, senão Pode criar. Aí o pessoal voltar aqui para o Eduardo para o Diego aí. Aqui nós temos essas opções aqui já configurada no sistema. Aí a gente poder colocar aqui, por exemplo indicação faz sentido."
+      },
+      {
+        "startTime": 718,
+        "endTime": 720,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente usa geralmente. o relacionamento o relacionamento do"
+      },
+      {
+        "startTime": 720,
+        "endTime": 721,
+        "speaker": "Johnny Fernandes",
+        "text": "ela"
+      },
+      {
+        "startTime": 723,
+        "endTime": 744,
+        "speaker": "Eduardo Stringhini",
+        "text": "na verdade é que no caso aqui no caso não é um gerente de parcerias, né, geralmente seria o relacionamento o gerente parcerias, mas como ela inicia é uma mais Central, né? Poderia criar um uma origem que veio directa assim não para o gerente parcerias, porque isso acontece muito do gerente parcerias a gerente fala a gerente da imobiliária fala que o gerente de parcerias."
+      },
+      {
+        "startTime": 746,
+        "endTime": 770,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "É exatamente assim centraliza normalmente para gerente da imobiliária, mas ela essa gerente especial ela pede para os corretores entrar em contato comigo, né? A Elenice. Fala especificamente com essa corretora, ela vai te entender melhor, porque às vezes o que eu falo não é a mesma coisa como você fala então por isso que ela pede para que eu atenda."
+      },
+      {
+        "startTime": 770,
+        "endTime": 793,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Cada um em específico e na maioria deles, tá? Desculpa a maioria das imobiliárias. A gente precisa conversando com vocês. Agora é entender que a gente precisa talvez cadastrar e depois colocar barra Imobiliária imobiliária Imóveis."
+      },
+      {
+        "startTime": 793,
+        "endTime": 798,
+        "speaker": "Eduardo Stringhini",
+        "text": "Isso já tá ali no cliente, tá? Ele iniciou a imobiliária que veio ali primeiro campo ali."
+      },
+      {
+        "startTime": 798,
+        "endTime": 805,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Não isso sim, mas o corretor vindo por ela."
+      },
+      {
+        "startTime": 805,
+        "endTime": 806,
+        "speaker": "Johnny Fernandes",
+        "text": "a origem do corretor"
+      },
+      {
+        "startTime": 806,
+        "endTime": 807,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "é"
+      },
+      {
+        "startTime": 807,
+        "endTime": 808,
+        "speaker": "Johnny Fernandes",
+        "text": "dá para"
+      },
+      {
+        "startTime": 808,
+        "endTime": 818,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Eu nem sempre que nem sempre eu falo só com a gerente, eu falo com os corretores da imobiliária que normalmente ficamos Centralizado só em uma mas aí eles ligam para mim."
+      },
+      {
+        "startTime": 819,
+        "endTime": 838,
+        "speaker": "Eduardo Stringhini",
+        "text": "É Johnny, eu acho que assim ó esse capítulo da origem tá é mais uma coisa que lá na frente vai ser extremamente importante para relatório. Até para o Caio para Eunice, né para Cátia saberem onde é que eles estão gerando mais negócios mesmo assim então eu acho que elas vão ter que ter um capítulo à parte para discutir essas origens aqui, elas vieram com o padrão."
+      },
+      {
+        "startTime": 838,
+        "endTime": 857,
+        "speaker": "Diego Diehl",
+        "text": "Gente, é isso, só escreve uma tarefa. Aí a gente vai olhar todas que a gente tem. E eu faço uma reunião com o Caio, a gente vai refletir sobre essas origens que aí tá um ouro. O ouro disse a gente descobrir o que é que a gente faz que traz venda, né?"
+      },
+      {
+        "startTime": 857,
+        "endTime": 857,
+        "speaker": "Johnny Fernandes",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 857,
+        "endTime": 876,
+        "speaker": "Diego Diehl",
+        "text": "Até ele inicia só para você já pensar é tipo assim, quando o corretor vier falar contigo A Origem. Você tem que a gente vai ter que tentar pensar da onde é que veio falar Putz. Olha só eu Visitei essa Imobiliária. Eu conheço essa corretora na imobiliária. Eu tenho falado com ela."
+      },
+      {
+        "startTime": 876,
+        "endTime": 883,
+        "speaker": "Diego Diehl",
+        "text": "Ó, eu acho que foi da visita que eu fiz ou foi de um disparo, né? A gente tem que tentar rastrear onde é que vem isso, mas a gente"
+      },
+      {
+        "startTime": 883,
+        "endTime": 885,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "Fazer um filtro melhor, né?"
+      },
+      {
+        "startTime": 886,
+        "endTime": 904,
+        "speaker": "Diego Diehl",
+        "text": "bem estratégico, quando a gente começar acho que o trabalho é pegar essa lista e a gente olhar por exemplo para as vendas para as visitas e tentar encaixar. Qual a origem a gente colocaria cada que desse sistema já vai certinho para a gente treinar um pouquinho melhor o time."
+      },
+      {
+        "startTime": 904,
+        "endTime": 911,
+        "speaker": "Diego Diehl",
+        "text": "Por mais que isso daí seja meio mutável, né? De onde a gente pode adicionar retirar vai dar estratégia. gente"
+      },
+      {
+        "startTime": 916,
+        "endTime": 926,
+        "speaker": "Johnny Fernandes",
+        "text": "novas opções, entendeu? Os gerentes esse aqui usar as opções listadas para cada um sair também colocando né? Mas é bem é bem mutável mesmo."
+      },
+      {
+        "startTime": 926,
+        "endTime": 927,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não dá para deixar aberto se não vai virar uma bagunça."
+      },
+      {
+        "startTime": 928,
+        "endTime": 952,
+        "speaker": "Diego Diehl",
+        "text": "Mas é bom saber Caio que o sistema Ele é super personalizável, né? Então quando Vocês pegaram o jeito depois vocês mesmo adicionam avaliam porque isso daí vai mudando né? Até quando começa a responder todo o time começa a amadurecer para refletir sobre qual a origem daquela visita. Qual a origem daquela venda no começo a gente nem pensa, né? Não tô acostumado a refletir sobre Tô acostuma."
+      },
+      {
+        "startTime": 953,
+        "endTime": 971,
+        "speaker": "Johnny Fernandes",
+        "text": "É e talvez na planilha do Excel de alguma forma vocês têm até tenho ali uma informação mais ou menos que ajuda nisso, mas aqui no sistema. Isso aqui vai ser muito bom para vocês ter. Informações tá bom? Vou Seguindo aqui eu queria aqui uma tese que aqui anotei para depois a gente definir exatamente, quais serão as origens, tá bom?"
+      },
+      {
+        "startTime": 977,
+        "endTime": 993,
+        "speaker": "Eduardo Stringhini",
+        "text": "que ela pode ser diferente, tá então depois a gente só discutir isso aí. Eu posso hoje cadastrar um corretor novo para uma origem em vez de alguma coisa? E daqui a um ano eu criar um negócio no funil de uma outra origem uma outra ação que eu fiz, né? Então depois a gente vai ter que pensar nisso aí."
+      },
+      {
+        "startTime": 993,
+        "endTime": 1000,
+        "speaker": "Johnny Fernandes",
+        "text": "Ficou claro esse Caio Kátia quer ser por exemplo o corretor ele chegou para mim vou cadastrar ele qual foi a origem foi gerencia imobiliário que"
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1001,
+        "speaker": "Elenice Candido Ferreira",
+        "text": "sim"
+      },
+      {
+        "startTime": 1001,
+        "endTime": 1025,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza? Esse corretor tá na minha base. Eu posso enviar uma lista de transmissão para ele? E através dessa lista gerar uma oportunidade de negócio então a origem do negócio foi ela de transmissão, por exemplo. Entendeu a origem do cadastro do corretor que é uma vez só foi via indicação do gerente da imobiliária."
+      },
+      {
+        "startTime": 1025,
+        "endTime": 1028,
+        "speaker": "Johnny Fernandes",
+        "text": "E beleza só para te diferenciar que tem essas origens espirituais."
+      },
+      {
+        "startTime": 1028,
+        "endTime": 1047,
+        "speaker": "Diego Diehl",
+        "text": "Ou é para complexar reflexão já ou a Elenice troca uma ideia com corretor e entende da onde é que veio o cliente do corretor. No fundo é isso daí, né? O que é que da onde é que ele veio para amarrar todas as pontas, mas a gente amadurece aos poucos tá gente tem um potencial de registrar gerar."
+      },
+      {
+        "startTime": 1047,
+        "endTime": 1048,
+        "speaker": "Johnny Fernandes",
+        "text": "É aí o sistema Helenice Kátia e"
+      },
+      {
+        "startTime": 1048,
+        "endTime": 1049,
+        "speaker": "Diego Diehl",
+        "text": "inteligência para"
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1082,
+        "speaker": "Johnny Fernandes",
+        "text": "Caio. Ele é super customizável adaptável. Aí a gente sempre vai na seguinte linha tá aqui quanto mais informações consegue de forma mais fluida possível, tá bom para não travar o processo de vocês. Porém essas informações aqui que o Diego comentou. Acho que são primordiais. Dando sequência aqui, olha, que legal por algum motivo a arca espetáculo, tá como responsável Agnaldo."
+      },
+      {
+        "startTime": 1082,
+        "endTime": 1087,
+        "speaker": "Johnny Fernandes",
+        "text": "O Agnaldo que já que gerenciava Access"
+      },
+      {
+        "startTime": 1087,
+        "endTime": 1116,
+        "speaker": "Caio Gomes",
+        "text": "Então, deixa deixa eu explicar como é que funcionava aqui, ó, só para você entender de onde o Agnaldo ele tem 8 anos de empresa. Então se passaram inúmeros gerentes de parcerias. Daí vamos supor que passaram 10 eles parcerias quando o primeiro sair dividir essa carteira entre os nove o segundo saía de vir entre os outros o terceiro sairia entre o sete o quarto sair entre vocês chegou uma hora que só estava O Agnaldo basicamente aqui então toda a carteira de toda a cetim."
+      },
+      {
+        "startTime": 1116,
+        "endTime": 1119,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1119,
+        "endTime": 1145,
+        "speaker": "Caio Gomes",
+        "text": "Ficou na base do Agnaldo não necessariamente ele tem um relacionamento é? E vínculo com essa Imobiliária, então a base do Agnaldo. Hoje nossa é de 8 mil pessoas. Porém os gerentes que foram entrando querendo ou não foram comendo um pouco da base dele. Claro de boa parte do que ele tinha interação zero."
+      },
+      {
+        "startTime": 1145,
+        "endTime": 1164,
+        "speaker": "Caio Gomes",
+        "text": "Mas também de alguma parte que ele até poderia ter alguma interação, mas o corretor criou um vínculo com outro gerente. Então o cadastro Inicial você vai reparar aí que 80% da base 90% da base? E não necessariamente é do Agnaldo, por exemplo."
+      },
+      {
+        "startTime": 1164,
+        "endTime": 1166,
+        "speaker": "Johnny Fernandes",
+        "text": "É, mas agora que este é o sistema, né? Caio?"
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1166,
+        "speaker": "Caio Gomes",
+        "text": "Mas é só para você entender que"
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1173,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso aí vai ser um problema que não vai acontecer mais, né? A gente vai sempre trabalhar nessa base aí. A gente porque que tá assim, né,"
+      },
+      {
+        "startTime": 1173,
+        "endTime": 1174,
+        "speaker": "Caio Gomes",
+        "text": "sobre essa porque aqui tá assim e"
+      },
+      {
+        "startTime": 1174,
+        "endTime": 1175,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1175,
+        "endTime": 1176,
+        "speaker": "Caio Gomes",
+        "text": "vai acontecer inúmeras."
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1189,
+        "speaker": "Johnny Fernandes",
+        "text": "A gente vai o ideal é a gente sempre deixar atualizado. Sabe daqui para frente isso não tem o sistema atualizado para que para que vocês vão ter um banco de dados confiável agora, entendeu?"
+      },
+      {
+        "startTime": 1189,
+        "endTime": 1190,
+        "speaker": "Caio Gomes",
+        "text": "Perfeito perfeito."
+      },
+      {
+        "startTime": 1190,
+        "endTime": 1229,
+        "speaker": "Johnny Fernandes",
+        "text": "Então é a importância do sistema aí, né de ter essa informação. Ok então cadastrei aqui essa oportunidade, tá? Então aqui ó, nós temos um processo, né? Normalmente ele vem aqui para ficar para consultar informações tá e coletar ali tirar dúvidas, né? né? E aqui? Mostrar aqui para vocês a visão de funil ó, eu tenho aqui o ibiatan breve lançamento o título da oportunidade ó, nós estamos conectando o nome do produto."
+      },
+      {
+        "startTime": 1229,
+        "endTime": 1260,
+        "speaker": "Johnny Fernandes",
+        "text": "Qual o nome do corretor vai ficar fácil de pesquisar aqui oportunidades em andamento você pode vir aqui e colocar por exemplo. Ó, eu já acho tá vendo? Eu posso colocar aqui em cima, ibiatan, por exemplo e já acha também eu posso colocar? imobiliária? XP Tá vendo? Então eu posso pesquisar pelo Imobiliária pelo corretor pelo nome do produto."
+      },
+      {
+        "startTime": 1260,
+        "endTime": 1292,
+        "speaker": "Johnny Fernandes",
+        "text": "Por isso que a gente configurou dessa maneira esse título aqui, ó. Tá bom e aqui você quer com a expert e 6 milhões e 200 mil reais tá? E aqui ó. Tá como Agnaldo, deixa eu trocar aqui colocar ele nesse acho que eu salvei. Perfeito então olhando aqui na visão."
+      },
+      {
+        "startTime": 1292,
+        "endTime": 1326,
+        "speaker": "Johnny Fernandes",
+        "text": "Do kanban nós temos essa oportunidade que a ideia né? É que ela chega até o processo chega até a etapa de proposta comercial, contratação e contrato assinado, né? Vamos avançar com ele no funil para explicar maiores recursos aqui, tá? Eu vou colocar aqui como agendamento de visita, tá? Então eu passei para etapa de agendamento de visita e nessa etapa nós temos aqui algumas informações a serem preenchidas, tá? Por exemplo."
+      },
+      {
+        "startTime": 1326,
+        "endTime": 1360,
+        "speaker": "Johnny Fernandes",
+        "text": "Qual foi o tipo de visita que foi a gente foi realizada tá então você agenda uma visita com ele e enquanto essa visita não acontece vai ficar aqui ó em agendamento de visita, às vezes não acontece da mesma semana demora um pouco ali para encontrar uma agenda sua corretor do cliente final para acontecer essa visita, né? Então essa fase aqui ela se diz respeito ao momento que você tá ou agendando a visita ou você agendou a visitar não aconteceu ainda."
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1384,
+        "speaker": "Johnny Fernandes",
+        "text": "Ok então você pode ter algumas oportunidades o seu processo de vendas aí que nós tá bom. quando você Realizou a visita lá, você vai formar. Qual foi o tipo? Não sei se esses homens se aplicam para vocês, tá?"
+      },
+      {
+        "startTime": 1384,
+        "endTime": 1386,
+        "speaker": "Caio Gomes",
+        "text": "Não não se aplicam. Tá mas tudo bem beleza pra"
+      },
+      {
+        "startTime": 1386,
+        "endTime": 1388,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom a gente"
+      },
+      {
+        "startTime": 1388,
+        "endTime": 1396,
+        "speaker": "Caio Gomes",
+        "text": "Beleza pra gente é só indicação ou retorno. Retorno acompanhado é indicação que a gente chama aqui."
+      },
+      {
+        "startTime": 1396,
+        "endTime": 1398,
+        "speaker": "Johnny Fernandes",
+        "text": "entrou acompanhado a indicação e"
+      },
+      {
+        "startTime": 1398,
+        "endTime": 1399,
+        "speaker": "Eduardo Stringhini",
+        "text": "Já podemos trocar agora até"
+      },
+      {
+        "startTime": 1399,
+        "endTime": 1406,
+        "speaker": "Caio Gomes",
+        "text": "Não Retorno dos acompanhados não existe. Tem é só a indicação ou retorno?"
+      },
+      {
+        "startTime": 1406,
+        "endTime": 1406,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1406,
+        "endTime": 1409,
+        "speaker": "Caio Gomes",
+        "text": "tipos de visitas do nosso canal"
+      },
+      {
+        "startTime": 1409,
+        "endTime": 1438,
+        "speaker": "Johnny Fernandes",
+        "text": "Algumas coisas eu já vou alterar aqui online tá com vocês mesmo que são coisas mais rápidas, já fica certo, tá bom? E como já tá definido também já é fácil de mudar aqui. A nossa próxima carro ainda nessa pauta, ela vai ser bem mais fluida, tá? Porque você já vai entrar bem mais alinhado, ele disse também já vai estar muito mais por dentro do Projeto como todo tá só trocar aqui essa."
+      },
+      {
+        "startTime": 1438,
+        "endTime": 1456,
+        "speaker": "Johnny Fernandes",
+        "text": "Esse campo aqui. Então o retorna acompanhado para vocês é indicação, né?"
+      },
+      {
+        "startTime": 1457,
+        "endTime": 1466,
+        "speaker": "Caio Gomes",
+        "text": "Isso E daí e daí tem mais uma outra possibilidade que é retorno mesmo. retorno."
+      },
+      {
+        "startTime": 1466,
+        "endTime": 1466,
+        "speaker": "Johnny Fernandes",
+        "text": "Então já tá atualizado."
+      },
+      {
+        "startTime": 1466,
+        "endTime": 1474,
+        "speaker": "Caio Gomes",
+        "text": "aí"
+      },
+      {
+        "startTime": 1474,
+        "endTime": 1484,
+        "speaker": "Johnny Fernandes",
+        "text": "Foi indicação. E aí eu vou colocar daqui a conta da sua visita aconteceu hoje. Foi às 10 horas da manhã?"
+      },
+      {
+        "startTime": 1487,
+        "endTime": 1499,
+        "speaker": "Caio Gomes",
+        "text": "mais que essa indicação seja da Elenice. Por exemplo. Eu preciso colocar quem que acompanhou essa visita. Quem que fez? Realizou essa visita se foi a Elenice se foi o Ville se foi o Datena que"
+      },
+      {
+        "startTime": 1499,
+        "endTime": 1501,
+        "speaker": "Johnny Fernandes",
+        "text": "boa"
+      },
+      {
+        "startTime": 1501,
+        "endTime": 1524,
+        "speaker": "Caio Gomes",
+        "text": "um gerente parceiro dela se foi o Leandro que é o superintendente dela, porque pode acontecer vai ter um lançamento agora e para a gente porque quem pega geralmente num lançamento. No caso específico de um lançamento tá no dia do lançamento quem senta com o cliente ele vai do início até o fim da jornada."
+      },
+      {
+        "startTime": 1524,
+        "endTime": 1546,
+        "speaker": "Caio Gomes",
+        "text": "Nas visitas tradicionais dia de semana se a Elenice tá numa visita o filho vai fazer outra visita para ela o vídeo realiza a visita e devolve esse cliente para ela e ela conduz, mas eu quero mensurar também com o tempo quem tem a melhor conversão então ó, Elenice, você fez cinco visitas e você fechou Três Vendas."
+      },
+      {
+        "startTime": 1546,
+        "endTime": 1571,
+        "speaker": "Caio Gomes",
+        "text": "Sei lá, Datena. Você fez 40 visitas e também fechou três vezes tem uma coisa errada. Precisamos ou melhorar na sua qualidade das visitas ou na sua no seu atendimento de todos eles, por isso que eu preciso saber quem que realizou esta visita. E no caso de um lançamento ele pega o cliente do início até o fim como fechamento."
+      },
+      {
+        "startTime": 1571,
+        "endTime": 1575,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá aqui a mesma coisa que realizou que acompanhou no caso, né?"
+      },
+      {
+        "startTime": 1575,
+        "endTime": 1575,
+        "speaker": "Caio Gomes",
+        "text": "Isso exato isso quem acompanhou."
+      },
+      {
+        "startTime": 1575,
+        "endTime": 1578,
+        "speaker": "Johnny Fernandes",
+        "text": "tá"
+      },
+      {
+        "startTime": 1578,
+        "endTime": 1590,
+        "speaker": "Caio Gomes",
+        "text": "Quem acompanhou? Visitado por acompanhado por ou realizado por tanto faz e daí vai aparecer só os colaboradores da conexão."
+      },
+      {
+        "startTime": 1590,
+        "endTime": 1594,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso exatamente. Perfeito aqui no campo de usuário, quem não vai buscar os"
+      },
+      {
+        "startTime": 1594,
+        "endTime": 1595,
+        "speaker": "Caio Gomes",
+        "text": "exato"
+      },
+      {
+        "startTime": 1595,
+        "endTime": 1601,
+        "speaker": "Johnny Fernandes",
+        "text": "colaboradores, tá bom? Eu vou colocar realizado."
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1603,
+        "speaker": "Caio Gomes",
+        "text": "Ok realizado por"
+      },
+      {
+        "startTime": 1603,
+        "endTime": 1603,
+        "speaker": "Johnny Fernandes",
+        "text": "realizado por E aí a gente"
+      },
+      {
+        "startTime": 1604,
+        "endTime": 1613,
+        "speaker": "Caio Gomes",
+        "text": "Porque vai estar o gerente da visita e realizado por daí na maioria é o gênero. Pelos demais vai acontecer um outro."
+      },
+      {
+        "startTime": 1613,
+        "endTime": 1614,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas pode ser que mude né?"
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1614,
+        "speaker": "Caio Gomes",
+        "text": "pode ser que mude exatamente."
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1633,
+        "speaker": "Johnny Fernandes",
+        "text": "Em algum momento em alguns casos, né? beleza Eu vou fazer o seguinte tá pessoal, eu vou terminar essa configuração aqui Caio e time aí vou precisar encerrar por hoje. E isso já você já busca uma agenda aí novamente para exterminar esse processo com a setinha."
+      },
+      {
+        "startTime": 1633,
+        "endTime": 1633,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom gente, tudo bem."
+      },
+      {
+        "startTime": 1633,
+        "endTime": 1636,
+        "speaker": "Johnny Fernandes",
+        "text": "Tudo bem Caio?"
+      },
+      {
+        "startTime": 1636,
+        "endTime": 1659,
+        "speaker": "Caio Gomes",
+        "text": "Eu só vou pedir que essas próximas reuniões sejam. O mais breve possível eu vou até compartilhar uma dor aqui com todos vocês que a pressão do nosso comercial do nosso da nossa vice-presidente que tá muito forte para ele eles começarem a visualizar todas essas informações e a gente ainda não teve."
+      },
+      {
+        "startTime": 1659,
+        "endTime": 1693,
+        "speaker": "Caio Gomes",
+        "text": "Lógico que eu entendo que tivemos uma evolução, mas a gente ainda não consegue mensurar nada porque a base não está filtrada os gerentes, não estão operando ainda com esse sistema. Eu preciso de verdade que a gente tenha um pouco mais de dedicação nas próximas reuniões eu não Se vocês falarem para mim Caio vamos fazer visita todos os dias às 9 horas da noite, não vamos fazer treinamento todos os dias eu vou fazer."
+      },
+      {
+        "startTime": 1693,
+        "endTime": 1695,
+        "speaker": "Caio Gomes",
+        "text": "Porque a pressão imita muito forte"
+      },
+      {
+        "startTime": 1695,
+        "endTime": 1695,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1695,
+        "endTime": 1705,
+        "speaker": "Caio Gomes",
+        "text": "eu até compartilhei com Diego que eles pediram uma revisional de contrato do nosso jurídico para ver prazos se nós estamos cumprindo prazos ou não assim eu tô"
+      },
+      {
+        "startTime": 1705,
+        "endTime": 1706,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1706,
+        "endTime": 1707,
+        "speaker": "Caio Gomes",
+        "text": "compartilhando com vocês que eu quero muito tá gente de verdade, mas"
+      },
+      {
+        "startTime": 1707,
+        "endTime": 1708,
+        "speaker": "Johnny Fernandes",
+        "text": "Não."
+      },
+      {
+        "startTime": 1711,
+        "endTime": 1736,
+        "speaker": "Caio Gomes",
+        "text": "não podemos deixar a nossa credibilidade e por água abaixo, a gente tá indo para o terceiro mês de desde que nós fechamos e Ainda Ninguém está usando a plataforma, né? É lógico que eu consigo ainda falar. Olha quem já implantamos a base. O órgão já tá disparar já estamos dando mensagens de forma com a inteligência artificial, mas ainda não estamos usando a base."
+      },
+      {
+        "startTime": 1736,
+        "endTime": 1754,
+        "speaker": "Caio Gomes",
+        "text": "Se ele falar assim Caio tá bom então. Quais foram os clientes que Quais foram os coletores que procuraram A Essência nesse mês eu não tenho ainda caiu, como é que tá o processo de visita caiu, qual que é a base de cada corretor? Eu quero saber quantos gerentes quantos corretores elementos."
+      },
+      {
+        "startTime": 1754,
+        "endTime": 1778,
+        "speaker": "Caio Gomes",
+        "text": "O Agnaldo eu não tenho nada ainda para apresentar. Para ele então, por favor, eu sei que você está natarefados, a gente é o primeiro cliente aí no início do processo, mas eu vou precisar muito de vocês aí para a gente dar um gás junto o que vocês precisarem de mim da Kátia até de Elenice no horário comercial é fora do horário comercial, eu preciso mostrar para eles que nós estamos evoluindo de verdade, tá então."
+      },
+      {
+        "startTime": 1778,
+        "endTime": 1779,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1805,
+        "speaker": "Caio Gomes",
+        "text": "Então quem vai agendar para sua reunião João João, por favor, veja o quanto antes. Para mim na segunda-feira, só que um dia muito delicado desde das 9 horas da manhã minha primeira reunião e eu finalizo às 6 horas da tarde, mas se for na segunda-feira após as 18 horas eu consigo ou se não qualquer outro dia eu cancelo meus compromissos aqui para a gente dar uma atenção para a gente evoluir com essa plataforma, tá? Por favor, eu tô recebendo aqui."
+      },
+      {
+        "startTime": 1805,
+        "endTime": 1811,
+        "speaker": "Johnny Fernandes",
+        "text": "Caio estamos alinhados. Tá bom não."
+      },
+      {
+        "startTime": 1811,
+        "endTime": 1812,
+        "speaker": "Caio Gomes",
+        "text": "tá?"
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1822,
+        "speaker": "Johnny Fernandes",
+        "text": "Não obrigado pelo compartilhamento, tá bom? A transparência sempre é muito importante ter né? Conta com a gente a gente vai marcar aí tipo no mínimo duas reuniões semana que vem que tá fazer até"
+      },
+      {
+        "startTime": 1822,
+        "endTime": 1822,
+        "speaker": "Caio Gomes",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 1822,
+        "endTime": 1842,
+        "speaker": "Johnny Fernandes",
+        "text": "mais de duas. Vocês já vão saber e agora que ele está bem mais imergida também na reunião que vem vai ter menos dúvidas também sua dela, tá bom? A gente vai terminar esse processo provavelmente terminar nossas. Nossa. Semana que vem e já liberar esses dois processos para vocês semana que vem mesmo, tá? Acho que semana que vem."
+      },
+      {
+        "startTime": 1842,
+        "endTime": 1845,
+        "speaker": "Caio Gomes",
+        "text": "começa o dia primeiro lá e falar Setembro, a gente já começa com"
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1846,
+        "speaker": "Diego Diehl",
+        "text": "pessoal"
+      },
+      {
+        "startTime": 1846,
+        "endTime": 1850,
+        "speaker": "Caio Gomes",
+        "text": "alguma coisa pelo menos palpável para mostrar para eles, entendeu? Pode falar."
+      },
+      {
+        "startTime": 1850,
+        "endTime": 1882,
+        "speaker": "Diego Diehl",
+        "text": "Tá gente é show Caio. Obrigado. Eu tô até saindo um pouco da frente porque eu tava segurando esses contextos e alinhamentos com Caio, mas acho que cai esse time aqui para comunicar de forma bem aberta, tá? Não só comigo então a gente tá na mesma página agora tem o João o cara que tá aí 10 horas por dia todo dia só olhando para isso antes não tinha então não tem como não dar velocidade agora e falando de forma prática, a gente não desenhou o processo de visita e eu queria ver se a gente tem algum horário para amanhã já."
+      },
+      {
+        "startTime": 1882,
+        "endTime": 1885,
+        "speaker": "Caio Gomes",
+        "text": "Temos temos que horário você quer Diego?"
+      },
+      {
+        "startTime": 1886,
+        "endTime": 1903,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que isso nesse momento o processo de visita ou eu posso fazer uma reunião com o Caio João e a gente mapeia da nossa forma e você já pega enfim, vamos ver eu queria já para amanhã, porque o nosso"
+      },
+      {
+        "startTime": 1903,
+        "endTime": 1904,
+        "speaker": "Johnny Fernandes",
+        "text": "Faz assim, ó."
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1910,
+        "speaker": "Diego Diehl",
+        "text": "objetivo hoje era Já falado o processo de visita, a gente não cumpriu, né? Vamos fazer isso amanhã já."
+      },
+      {
+        "startTime": 1910,
+        "endTime": 1918,
+        "speaker": "Caio Gomes",
+        "text": "Tá bom, tá bom. Eu tenho amanhã de manhã inteira livre ou se não à noite. À tarde eu não consigo."
+      },
+      {
+        "startTime": 1918,
+        "endTime": 1919,
+        "speaker": "Diego Diehl",
+        "text": "E você?"
+      },
+      {
+        "startTime": 1920,
+        "endTime": 1931,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu eu vou precisar pedir para alguém do time entrar tá Para Não Para acontecer essa reunião amanhã, vou pedir para o Lucas entrar com vocês. Tudo bem?"
+      },
+      {
+        "startTime": 1931,
+        "endTime": 1931,
+        "speaker": "Diego Diehl",
+        "text": "Eu Acho É com certeza"
+      },
+      {
+        "startTime": 1931,
+        "endTime": 1938,
+        "speaker": "Johnny Fernandes",
+        "text": "e Aí grava a reunião, tá? O Lucas vai acompanhar grava a reunião."
+      },
+      {
+        "startTime": 1938,
+        "endTime": 1940,
+        "speaker": "Diego Diehl",
+        "text": "Você falou de manhã Caio que tá livre."
+      },
+      {
+        "startTime": 1940,
+        "endTime": 1942,
+        "speaker": "Caio Gomes",
+        "text": "sim de manhã"
+      },
+      {
+        "startTime": 1942,
+        "endTime": 1946,
+        "speaker": "Diego Diehl",
+        "text": "Tá 9 da manhã. Ou 11:30."
+      },
+      {
+        "startTime": 1946,
+        "endTime": 1951,
+        "speaker": "Caio Gomes",
+        "text": "Fechado amanhã 9 horas."
+      },
+      {
+        "startTime": 1951,
+        "endTime": 1980,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou pedir uma tarefa para ti só. só. Consigo só que a criança tem até as 10. Tá daí cai o seguinte faz um favor, cara, me manda um áudio ou manda no grupo um áudio pode ser de três minutos, pode ser em 3 minutos e meio. Se tivesse um coordenador novo e você tivesse explicando para ele o processo de visita."
+      },
+      {
+        "startTime": 1980,
+        "endTime": 1989,
+        "speaker": "Diego Diehl",
+        "text": "O que que tem que enviar certinho? Porque daí a gente já traz um mapa um só para validar o mapa com você, se você mandar um bom áudio vai ter 10 minutos."
+      },
+      {
+        "startTime": 1989,
+        "endTime": 1990,
+        "speaker": "Caio Gomes",
+        "text": "Ok combinado Valeu obrigado, valeu,"
+      },
+      {
+        "startTime": 1990,
+        "endTime": 1993,
+        "speaker": "Diego Diehl",
+        "text": "Valeu, valeu pessoal."
+      },
+      {
+        "startTime": 1993,
+        "endTime": 1994,
+        "speaker": "Caio Gomes",
+        "text": "tchau pessoal, obrigado."
+      },
+      {
+        "startTime": 1994,
+        "endTime": 1995,
+        "speaker": "Diego Diehl",
+        "text": "Falou."
+      },
+      {
+        "startTime": 1995,
+        "endTime": 1996,
+        "speaker": "Caio Gomes",
+        "text": "amanhã, valeu?"
+      },
+      {
+        "startTime": 1996,
+        "endTime": 1996,
+        "speaker": "Johnny Fernandes",
+        "text": "Valeu pessoal, obrigado."
+      },
+      {
+        "startTime": 1996,
+        "endTime": 1997,
+        "speaker": "Caio Gomes",
+        "text": "Tchau, tchau. Tchau, obrigado."
+      },
+      {
+        "startTime": 1997,
+        "endTime": 1997,
+        "speaker": "Eduardo Stringhini",
+        "text": "Valeu pessoal, obrigado."
+      },
+      {
+        "startTime": 1998,
+        "endTime": 2089,
+        "speaker": "Joao Vitor",
+        "text": "pessoal"
+      },
+      {
+        "startTime": 2089,
+        "endTime": 2089,
+        "speaker": "Johnny Fernandes",
+        "text": "opa"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 195,
+    "speakers": [
+      "Johnny Fernandes",
+      "Joao Vitor",
+      "Caio Gomes",
+      "Eduardo Stringhini",
+      "Elenice Candido Ferreira",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 4600,
+    "duration_start": 2,
+    "duration_end": 2089
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66c74d80da039400137ae61e",
+        "timestamp": 143,
+        "text": "Importância de evitar cadastros duplicados para não prejudicar os relatórios. Sugestão de realizar uma reunião específica para higienizar a base.",
+        "topicId": "66c74d80da039400137ae616"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae620",
+        "timestamp": 184,
+        "text": "Identificação de que algumas imobiliárias foram cadastradas como corretores, dificultando a distinção entre eles.",
+        "topicId": "66c74d80da039400137ae617"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae621",
+        "timestamp": 376,
+        "text": "Necessidade de separar cadastros de imobiliárias e corretores para obter número exato de corretores. Número atual é 32.521, mas pode diminuir devido a cadastros duplicados.",
+        "topicId": "66c74d80da039400137ae617"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae61f",
+        "timestamp": 440,
+        "text": "Proposta de realizar uma reunião de uma hora apenas para higienizar a base de dados, a fim de começar corretamente com os negócios.",
+        "topicId": "66c74d80da039400137ae616"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae622",
+        "timestamp": 480,
+        "text": "Início do cadastro de uma oportunidade de negócio, com a seleção de um corretor e solicitação de informações sobre o produto, tipologia e valor estimado.",
+        "topicId": "66c74d80da039400137ae618"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae623",
+        "timestamp": 619,
+        "text": "Orientações sobre como preencher os campos do cadastro da oportunidade, como produtos relacionados e tipologia da unidade.",
+        "topicId": "66c74d80da039400137ae618"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae624",
+        "timestamp": 680,
+        "text": "Solicitação de um valor estimado para a oportunidade e informação sobre a origem da mesma, sendo indicação da gerente da imobiliária.",
+        "topicId": "66c74d80da039400137ae618"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae625",
+        "timestamp": 700,
+        "text": "Apresentação das opções de origem de oportunidades já configuradas no sistema, com a sugestão de criar uma opção específica para a situação apresentada.",
+        "topicId": "66c74d80da039400137ae619"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae626",
+        "timestamp": 804,
+        "text": "Explicação sobre a origem da oportunidade, sendo que a corretora foi indicada pela gerente da imobiliária para atender o cliente.",
+        "topicId": "66c74d80da039400137ae619"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae627",
+        "timestamp": 850,
+        "text": "Proposta de realizar uma reunião específica para discutir as opções de origem de oportunidades, a fim de melhor entender e registrar essa informação.",
+        "topicId": "66c74d80da039400137ae619"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae628",
+        "timestamp": 1086,
+        "text": "Informação de que o Agnaldo, responsável pela imobiliária Arca Espetáculo, acumulou a carteira de diversos gerentes de parcerias que saíram da empresa ao longo dos anos.",
+        "topicId": "66c74d80da039400137ae61a"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae629",
+        "timestamp": 1119,
+        "text": "Esclarecimento de que a base de dados do Agnaldo não necessariamente reflete um relacionamento direto com todas as imobiliárias, pois alguns corretores criaram vínculos com outros gerentes.",
+        "topicId": "66c74d80da039400137ae61a"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62a",
+        "timestamp": 1203,
+        "text": "Explicação sobre o processo de vendas e como configurar as informações no sistema.",
+        "topicId": "66c74d80da039400137ae61b"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62b",
+        "timestamp": 1296,
+        "text": "Detalhamento das etapas do processo de vendas, como agendamento de visitas e preenchimento de informações.",
+        "topicId": "66c74d80da039400137ae61b"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62c",
+        "timestamp": 1369,
+        "text": "Discussão sobre os tipos de visitas e a necessidade de atribuir responsabilidades aos colaboradores.",
+        "topicId": "66c74d80da039400137ae61b"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62d",
+        "timestamp": 1639,
+        "text": "Caio compartilha a pressão da liderança e a necessidade de agilidade na implementação da plataforma.",
+        "topicId": "66c74d80da039400137ae61c"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62e",
+        "timestamp": 1720,
+        "text": "Caio ressalta que ainda não estão usando a plataforma e a necessidade de apresentar resultados.",
+        "topicId": "66c74d80da039400137ae61c"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae62f",
+        "timestamp": 1802,
+        "text": "Alinhamento de reuniões semanais para avançar no processo de implementação da plataforma.",
+        "topicId": "66c74d80da039400137ae61d"
+      },
+      {
+        "segmentId": "66c74d80da039400137ae630",
+        "timestamp": 1838,
+        "text": "Planejamento de concluir o processo de configuração na próxima semana e liberar os processos.",
+        "topicId": "66c74d80da039400137ae61d"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66c74d80da039400137ae616",
+        "order": 1,
+        "title": "Higienização da base de dados",
+        "summary": "Necessidade de realizar uma segunda higienização na base de dados para evitar cadastros duplicados e problemas nos relatórios."
+      },
+      {
+        "id": "66c74d80da039400137ae617",
+        "order": 2,
+        "title": "Identificação de corretores e imobiliárias",
+        "summary": "Desafio em diferenciar corretores de imobiliárias na base de dados importada, com a necessidade de uma segunda higienização."
+      },
+      {
+        "id": "66c74d80da039400137ae618",
+        "order": 3,
+        "title": "Cadastro de oportunidade de negócio",
+        "summary": "Exemplo de cadastro de uma oportunidade de negócio, incluindo informações sobre o corretor, produto, tipologia e valor estimado."
+      },
+      {
+        "id": "66c74d80da039400137ae619",
+        "order": 4,
+        "title": "Personalização do sistema de origem de oportunidades",
+        "summary": "Discussão sobre a importância de personalizar as opções de origem de oportunidades no sistema, para melhor entendimento e análise dos dados."
+      },
+      {
+        "id": "66c74d80da039400137ae61a",
+        "order": 5,
+        "title": "Histórico de gerentes de parcerias",
+        "summary": "Explicação sobre a rotatividade de gerentes de parcerias ao longo do tempo, resultando em uma base de dados com informações de diversos gerentes."
+      },
+      {
+        "id": "66c74d80da039400137ae61b",
+        "order": 6,
+        "title": "Configuração do processo de vendas",
+        "summary": "Discussão sobre a configuração do processo de vendas, incluindo etapas, tipos de visitas e atribuição de responsabilidades."
+      },
+      {
+        "id": "66c74d80da039400137ae61c",
+        "order": 7,
+        "title": "Pressão da liderança e necessidade de agilidade",
+        "summary": "Caio expressa a pressão da liderança para visualizar informações e a necessidade de agilidade na implementação da plataforma."
+      },
+      {
+        "id": "66c74d80da039400137ae61d",
+        "order": 8,
+        "title": "Próximos passos e alinhamento de reuniões",
+        "summary": "Discussão sobre a agenda de reuniões para avançar no processo de implementação da plataforma."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 19,
+    "topic_count": 8,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66c74d80da039400137ae616",
+      "order": 1,
+      "title": "Higienização da base de dados",
+      "summary": "Necessidade de realizar uma segunda higienização na base de dados para evitar cadastros duplicados e problemas nos relatórios."
+    },
+    {
+      "id": "66c74d80da039400137ae617",
+      "order": 2,
+      "title": "Identificação de corretores e imobiliárias",
+      "summary": "Desafio em diferenciar corretores de imobiliárias na base de dados importada, com a necessidade de uma segunda higienização."
+    },
+    {
+      "id": "66c74d80da039400137ae618",
+      "order": 3,
+      "title": "Cadastro de oportunidade de negócio",
+      "summary": "Exemplo de cadastro de uma oportunidade de negócio, incluindo informações sobre o corretor, produto, tipologia e valor estimado."
+    },
+    {
+      "id": "66c74d80da039400137ae619",
+      "order": 4,
+      "title": "Personalização do sistema de origem de oportunidades",
+      "summary": "Discussão sobre a importância de personalizar as opções de origem de oportunidades no sistema, para melhor entendimento e análise dos dados."
+    },
+    {
+      "id": "66c74d80da039400137ae61a",
+      "order": 5,
+      "title": "Histórico de gerentes de parcerias",
+      "summary": "Explicação sobre a rotatividade de gerentes de parcerias ao longo do tempo, resultando em uma base de dados com informações de diversos gerentes."
+    },
+    {
+      "id": "66c74d80da039400137ae61b",
+      "order": 6,
+      "title": "Configuração do processo de vendas",
+      "summary": "Discussão sobre a configuração do processo de vendas, incluindo etapas, tipos de visitas e atribuição de responsabilidades."
+    },
+    {
+      "id": "66c74d80da039400137ae61c",
+      "order": 7,
+      "title": "Pressão da liderança e necessidade de agilidade",
+      "summary": "Caio expressa a pressão da liderança para visualizar informações e a necessidade de agilidade na implementação da plataforma."
+    },
+    {
+      "id": "66c74d80da039400137ae61d",
+      "order": 8,
+      "title": "Próximos passos e alinhamento de reuniões",
+      "summary": "Discussão sobre a agenda de reuniões para avançar no processo de implementação da plataforma."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:07.353901+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:07.353901+00:00"
+}

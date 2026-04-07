@@ -1,0 +1,28 @@
+{
+  "id": "6855858bd379790013f487e7",
+  "happenedAt": "2025-06-20T16:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Caroline Mello",
+      "email": "caroline.mello@orulo.com.br"
+    }
+  ],
+  "name": "FORECAST",
+  "duration": 3584.588,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6855858bd379790013f487e7",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "mpe-fxnd-ejz"
+  }
+}

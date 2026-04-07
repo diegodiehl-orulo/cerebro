@@ -1,0 +1,32 @@
+{
+  "id": "6793e610e35b080013617d07",
+  "happenedAt": "2025-01-24T19:12:16.434Z",
+  "invitees": [
+    {
+      "name": "",
+      "email": "todos@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "Company Review!",
+  "duration": 1414.698,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6793e610e35b080013617d07",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "dsm-smnq-inc"
+  }
+}

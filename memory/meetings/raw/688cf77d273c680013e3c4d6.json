@@ -1,0 +1,36 @@
+{
+  "id": "688cf77d273c680013e3c4d6",
+  "happenedAt": "2025-08-01T17:21:01.153Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "neto@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "junior@z2app.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    }
+  ],
+  "name": "Conecta Imob - Estratégia Comercial",
+  "duration": 5969.595,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/688cf77d273c680013e3c4d6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "sre-mqbt-yfp"
+  }
+}

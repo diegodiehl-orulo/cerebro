@@ -1,0 +1,44 @@
+{
+  "id": "68779444b582ae0013ee93f2",
+  "happenedAt": "2025-07-16T12:00:03.935Z",
+  "invitees": [
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "Pablo  Augusto do Nascimento",
+      "email": "pablo.nascimento@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Maria Dandara da Silva Pereira",
+      "email": "mariadandara.pereira@orulo.com.br"
+    }
+  ],
+  "name": "Treinamento Comercial",
+  "duration": 4716.469,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68779444b582ae0013ee93f2",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ibx-ttgf-cuq"
+  }
+}

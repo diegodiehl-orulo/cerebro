@@ -1,0 +1,28 @@
+{
+  "id": "699f46b285c6ba0013e889b6",
+  "happenedAt": "2026-02-25T19:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "Gustavo / Diego",
+  "duration": 4308.252,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/699f46b285c6ba0013e889b6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "uwo-bbtm-dvv"
+  }
+}

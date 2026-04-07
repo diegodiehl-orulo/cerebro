@@ -1,0 +1,120 @@
+{
+  "meeting_id": "6733acb0851b170013b5da1c",
+  "name": "Urbana + Órulo",
+  "happened_at": "2024-11-12T19:30:00.000Z",
+  "duration_seconds": 622.224,
+  "duration_minutes": 10.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "arx.imoveis@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6733acb0851b170013b5da1c",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "dmx-uvjc-qzj",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6733acc947cc6600144b8ab9",
+    "meetingId": "6733acb0851b170013b5da1c",
+    "data": [
+      {
+        "startTime": 489,
+        "endTime": 494,
+        "speaker": "Diego Diehl",
+        "text": "Ligou para ele?"
+      },
+      {
+        "startTime": 494,
+        "endTime": 502,
+        "speaker": "Eduardo Stringhini",
+        "text": "Fala Diego, deixa eu não não tá aí. caramba"
+      },
+      {
+        "startTime": 507,
+        "endTime": 539,
+        "speaker": "Diego Diehl",
+        "text": "Vou tô caminhando para pegar umas roupas ali na lavanderia para ir à noite. Mas liga para ele ligar converte. Ou naipe trouxe um site hoje no final de uma reunião. Falou assim para sucesso ao invés de enviar uma mensagem fizesse uma ligação de 3 minutos, a gente teria mais clientes."
+      },
+      {
+        "startTime": 539,
+        "endTime": 574,
+        "speaker": "Diego Diehl",
+        "text": "Clientes ficam p*** e aí eu voltei para ele, sabe? Como que eu treinava, eu tinha um time de geração de corretores, né? E geral é o WhatsApp, ninguém gosta do telefone. Eu fiz um combinado com os gerentes. A gente nunca mais ia pedir para eles ligarem. Só que a gente ia ligar todo dia para eles cara, deu dois meses todo mundo tava ligando porque você se acostuma a falar no telefone, né? Tipo é gostoso, você escuta a voz do carro termina o dia mais feliz vai mandar um WhatsApp chato, você troca uma ideia com a pessoa conhece a tua voz."
+      },
+      {
+        "startTime": 574,
+        "endTime": 578,
+        "speaker": "Diego Diehl",
+        "text": "no site"
+      },
+      {
+        "startTime": 578,
+        "endTime": 589,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom, vamos esperar ele aí, cara. Vou tocar outras coisas aqui. feito"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 6,
+    "speakers": [
+      "Diego Diehl",
+      "Eduardo Stringhini"
+    ],
+    "total_words_estimate": 183,
+    "duration_start": 489,
+    "duration_end": 589
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6733b0323c782d0013ae0dc6",
+        "timestamp": 520,
+        "text": "Diego propõe chamada curta de 3 minutos e treinamento da equipe para melhorar abordagem telefônica com clientes.",
+        "topicId": "6733b0323c782d0013ae0dc5"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6733b0323c782d0013ae0dc5",
+        "order": 1,
+        "title": "Melhoria de Comunicação com Clientes",
+        "summary": "Proposta de estratégia para aprimorar a comunicação telefônica através de treinamento e chamadas curtas de 3 minutos."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 1,
+    "topic_count": 1,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6733b0323c782d0013ae0dc5",
+      "order": 1,
+      "title": "Melhoria de Comunicação com Clientes",
+      "summary": "Proposta de estratégia para aprimorar a comunicação telefônica através de treinamento e chamadas curtas de 3 minutos."
+    }
+  ],
+  "collected_at": "2026-04-06T23:42:18.442095+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:42:18.442095+00:00"
+}

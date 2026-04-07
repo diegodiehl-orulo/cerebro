@@ -1,0 +1,73 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "670fc832ae3ea80013326c32",
+      "timestamp": 9,
+      "text": "Adicionar informações do corretor e do empreendimento na qualificação. Criar mensagens e treinar IA para apoiar vendas.",
+      "topicId": "670fc832ae3ea80013326c2e"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c33",
+      "timestamp": 60,
+      "text": "Enviar informações detalhadas sobre o empreendimento para facilitar a visita do cliente. Criar um documento explicativo sobre o negócio para os corretores.",
+      "topicId": "670fc832ae3ea80013326c2e"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c34",
+      "timestamp": 126,
+      "text": "Incluir informações específicas sobre o empreendimento, como o tamanho máximo de onda que a máquina produz.",
+      "topicId": "670fc832ae3ea80013326c2e"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c35",
+      "timestamp": 181,
+      "text": "O memorial descritivo do empreendimento tem aproximadamente 200 páginas, podendo ser resumido com os principais pontos.",
+      "topicId": "670fc832ae3ea80013326c2e"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c36",
+      "timestamp": 285,
+      "text": "Criar uma ativação digital com 10.000 visualizações e abordar a base de corretores via WhatsApp para gerar 5 vendas e pagar 6 meses de investimento.",
+      "topicId": "670fc832ae3ea80013326c2f"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c38",
+      "timestamp": 444,
+      "text": "O plano de serviços inclui suporte, hospedagem, banco de dados de corretores, disparadores e usuários ilimitados por R$ 1.263 mensais.",
+      "topicId": "670fc832ae3ea80013326c31"
+    },
+    {
+      "segmentId": "670fc832ae3ea80013326c37",
+      "timestamp": 600,
+      "text": "Formalizar a proposta do sistema via e-mail para aprovação e iniciar a implantação em até 2 parcelas.",
+      "topicId": "670fc832ae3ea80013326c30"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "670fc832ae3ea80013326c2e",
+      "order": 1,
+      "title": "Informações do Empreendimento",
+      "summary": "Adicionar detalhes do empreendimento e do corretor na qualificação. Criar documento explicativo e treinar IA para apoiar vendas."
+    },
+    {
+      "id": "670fc832ae3ea80013326c2f",
+      "order": 2,
+      "title": "Ativação Digital",
+      "summary": "Criar ativação digital com 10.000 visualizações e abordar base de corretores via WhatsApp para gerar 5 vendas e pagar 6 meses de investimento."
+    },
+    {
+      "id": "670fc832ae3ea80013326c30",
+      "order": 3,
+      "title": "Proposta do Sistema",
+      "summary": "Formalizar proposta do sistema via e-mail para aprovação e iniciar a implantação em até 2 parcelas."
+    },
+    {
+      "id": "670fc832ae3ea80013326c31",
+      "order": 4,
+      "title": "Plano de Serviços",
+      "summary": "O plano de serviços inclui suporte, hospedagem, banco de dados de corretores, disparadores e usuários ilimitados por R$ 1.263 mensais."
+    }
+  ]
+}

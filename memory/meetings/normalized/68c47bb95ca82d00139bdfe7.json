@@ -1,0 +1,818 @@
+{
+  "meeting_id": "68c47bb95ca82d00139bdfe7",
+  "name": "Revisão OKRs",
+  "happened_at": "2025-09-12T20:00:00.000Z",
+  "duration_seconds": 1348.039,
+  "duration_minutes": 22.5,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68c47bb95ca82d00139bdfe7",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "erw-eawf-usy",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68c47c0f33b7990013001ded",
+    "meetingId": "68c47bb95ca82d00139bdfe7",
+    "data": [
+      {
+        "startTime": 7,
+        "endTime": 8,
+        "speaker": "Alejandro Olchik",
+        "text": "Oi Campos."
+      },
+      {
+        "startTime": 8,
+        "endTime": 28,
+        "speaker": "Carolina Campos",
+        "text": "Pode tirar a minha aí ó que apareceu aí? Eu falei que eu achei legal também e agora mais medir o efeito. Como que foi o"
+      },
+      {
+        "startTime": 28,
+        "endTime": 45,
+        "speaker": "Alejandro Olchik",
+        "text": "O pessoal Fez bastante pergunta, né?"
+      },
+      {
+        "startTime": 45,
+        "endTime": 64,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não sei como é que foi o efeito do assunto no pessoal ali assim. Não entendi"
+      },
+      {
+        "startTime": 71,
+        "endTime": 73,
+        "speaker": "Carolina Campos",
+        "text": "efeito?"
+      },
+      {
+        "startTime": 85,
+        "endTime": 106,
+        "speaker": "Alejandro Olchik",
+        "text": "Pessoal o que que eu imaginei para hoje? É bem objetivo. Tá mas o seguinte ó. A gente vai abrir. O report de Quem enviou? E teve comentários. Aí a pessoa vai passar pelos comentários e tirar dúvidas não apresentação. Acho que a ideia é que cada um possa ler com antecedência."
+      },
+      {
+        "startTime": 106,
+        "endTime": 141,
+        "speaker": "Alejandro Olchik",
+        "text": "E seja bem objetivo, se não tem nada para dizer não tem nada, não precisa nem parar no tema, senão vai ficar uma apresentação de cada um dos vocálise. Então, se não tem reporte, sinto muito fica para a próxima vez se não deu tempo de receber feedback. Se a gente vai culpar um tempão revisando e a gente tinha combinado de mandar os hipóteses todo mundo né? Que a gente pudesse fazer assim, dá uma olhada para não ficar gastando um tempão de todo mundo aqui numa reunião."
+      },
+      {
+        "startTime": 141,
+        "endTime": 144,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode ser pode ser. Podemos seguir essa lógica."
+      },
+      {
+        "startTime": 146,
+        "endTime": 157,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu só não fiz eu não eu não eu acho que eu só tinha lido. E o do Felipe que é aquilo em um minuto, ela não tem nenhum comentário."
+      },
+      {
+        "startTime": 157,
+        "endTime": 163,
+        "speaker": "Carolina Campos",
+        "text": "Eu também não comentei acho que do Diego também tá precisando liberar ali."
+      },
+      {
+        "startTime": 163,
+        "endTime": 174,
+        "speaker": "Alejandro Olchik",
+        "text": "É o do Diego não tive condições de ver eu tive condições de ver os que foram enviados antes, eu só recebi o do Marcelo. E da Campos tu mandou até o Felipe, eu não vi o teu."
+      },
+      {
+        "startTime": 174,
+        "endTime": 179,
+        "speaker": "Felipe Goettems",
+        "text": "Eu mandei já tava com ele pronto há uma semana, só que eu acho que eu mandei para o diretoria ontem ontem não me lembro."
+      },
+      {
+        "startTime": 180,
+        "endTime": 182,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu mandei."
+      },
+      {
+        "startTime": 182,
+        "endTime": 183,
+        "speaker": "Alejandro Olchik",
+        "text": "Ontem eu não consegui ver."
+      },
+      {
+        "startTime": 184,
+        "endTime": 185,
+        "speaker": "Felipe Goettems",
+        "text": "Meu é 30 segundos."
+      },
+      {
+        "startTime": 187,
+        "endTime": 194,
+        "speaker": "Eduardo Stringhini",
+        "text": "Do Marcelo não recebi mandou tu compartilhou por e-mail ou no WhatsApp?"
+      },
+      {
+        "startTime": 194,
+        "endTime": 200,
+        "speaker": "Alejandro Olchik",
+        "text": "vamos adicionar os links de todos os hipóteses na planilha do item ali gente tá ali no"
+      },
+      {
+        "startTime": 200,
+        "endTime": 200,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Foi isso que eu fiz."
+      },
+      {
+        "startTime": 201,
+        "endTime": 205,
+        "speaker": "Alejandro Olchik",
+        "text": "Acho que fica mais fácil para todo mundo ficar achando ali, né?"
+      },
+      {
+        "startTime": 206,
+        "endTime": 209,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu já fiz uma pasta aqui."
+      },
+      {
+        "startTime": 210,
+        "endTime": 219,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas tenho dos links estão na ata todos, entendeu? Nada de reuniões de diretoria. Tem planejamento É só botar o link cada um com o seu."
+      },
+      {
+        "startTime": 227,
+        "endTime": 228,
+        "speaker": "Marcelo Rodrigues",
+        "text": "linha 140"
+      },
+      {
+        "startTime": 231,
+        "endTime": 258,
+        "speaker": "Alejandro Olchik",
+        "text": "140 141 142 assim ó como minha sugestão tá para ser produtiva eu não consegui ver o do Felipe e do Edu e do Diego o juro a gente não falar sobre eles hoje. Dá tempo de aliar fazer perguntas tem alguma coisa e qualquer coisa a gente marca outra semana que vem a gente faz mais objetivo essa revisão."
+      },
+      {
+        "startTime": 258,
+        "endTime": 281,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente repasse com quem já mandou mais tempo, então, talvez fazermos hoje em Campos Marcelo e eu ver se tem comentários tira dúvidas feedback e na semana que vem é do Diego Felipe. Que que vocês acham? Pode ser? tá Alguém quer começar abrindo seu e tirando as dúvidas que apareceram."
+      },
+      {
+        "startTime": 287,
+        "endTime": 307,
+        "speaker": "Carolina Campos",
+        "text": "Eu posso ver o meu aqui. É o meu apareceu as dúvidas. Então eu queria até entender um pouquinho melhor se eu conseguir fazer a uma ligação ali"
+      },
+      {
+        "startTime": 307,
+        "endTime": 314,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá mas Abre ali então vamos abrir e já tira suas dúvidas. Daqui a pouco são coisas que serve para todo mundo."
+      },
+      {
+        "startTime": 328,
+        "endTime": 377,
+        "speaker": "Carolina Campos",
+        "text": "Bom então, coloquei esse primeiro aqui o que ar que é mapear evolui a jornada do corretor. É algo que eu ainda não comecei necessariamente colocar a mão, então eu coloquei. Só poucos recursos. Tem coisas que eu tô começando a conversar com o time de mobi então Os oficiais. Ainda não avançaram coloquei aqui as informações, né? Qual são as os objetivos que uma pena esse projeto a gente vai aumentar a receita percepção de mercado esse era um projeto que era do Diego e no final a gente acabou trocando tá? Então era para mapear a jornada aí do corretor imobiliário e acabou vindo para mim certo só para a gente alinhar esse ponto."
+      },
+      {
+        "startTime": 377,
+        "endTime": 399,
+        "speaker": "Carolina Campos",
+        "text": "Então aqui eu coloquei como entender. Quais são os gatos de produto? Acho que a gente tá enxergando alguns. Preparar o processo de desenho também do projeto. Com as ferramentas novas estão chegando para exclusividade. Então tudo isso é algo que está em planejamento. Então aqui eu não tenho muito o que dizer ainda."
+      },
+      {
+        "startTime": 399,
+        "endTime": 407,
+        "speaker": "Carolina Campos",
+        "text": "Não sei se alguém quer colocar alguém observação porque é algo que eu Eu não comecei por a mão."
+      },
+      {
+        "startTime": 408,
+        "endTime": 429,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá mas eu acho que o ponto aqui a minha sugestão até validando ela seria que todo mundo teve condições de ler. Então se tem dúvidas ou comentários, bota um comentário, então eu diria direto para os comentários em cima do indicador esclarecer eles entendeu Campos? Seria o que eu proporia a gente focaria nos pontos a nível de comentários."
+      },
+      {
+        "startTime": 442,
+        "endTime": 479,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá bom, mas aqui é uma lógica de como medir, né? Por como como estabelecer as metas. Eu acho que eu vi em vários pontos isso né? Vamos pegar os 10 pontos aí são 10 pontos pode marcar 01 para cada ponto identificado, né? Onde é que tá ficou muito pequeno as metas ali, né? A gente pode jogar ali direto no mapear evoluir jornada do corretor."
+      },
+      {
+        "startTime": 479,
+        "endTime": 501,
+        "speaker": "Alejandro Olchik",
+        "text": "Se tu quiser abrir em outra aba o eu tô entrando aqui direto nos locais. Identificar 10 pontos críticos de melhoria e criar um Framework de ações para evolução contínua. Mas como é que tá porque que tá 0,25 então?"
+      },
+      {
+        "startTime": 503,
+        "endTime": 504,
+        "speaker": "Carolina Campos",
+        "text": "Deixa eu abrir aqui."
+      },
+      {
+        "startTime": 506,
+        "endTime": 508,
+        "speaker": "Alejandro Olchik",
+        "text": "Por que que o indicador tem 0,25?"
+      },
+      {
+        "startTime": 512,
+        "endTime": 512,
+        "speaker": "Carolina Campos",
+        "text": "Cadê?"
+      },
+      {
+        "startTime": 515,
+        "endTime": 530,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu tô olhando eu tô olhando direto nos objetivos lá, tá mas tá 0,25 marcado esse daí. Assim como tá 025 implementar uma comunicação periódica. Com 100% das Imobiliários e corredores cadastrados."
+      },
+      {
+        "startTime": 531,
+        "endTime": 540,
+        "speaker": "Carolina Campos",
+        "text": "Ah não então aqui provavelmente não sei se foi algo que o Diego tinha preenchido porque eu não preenchi nada de modo, tá? Eu só tirei o print porque era para mostrar que estava Zerado porque eu não comecei a colocar a mão."
+      },
+      {
+        "startTime": 543,
+        "endTime": 544,
+        "speaker": "Alejandro Olchik",
+        "text": "A minha proposta para esses indicadores."
+      },
+      {
+        "startTime": 544,
+        "endTime": 546,
+        "speaker": "Carolina Campos",
+        "text": "Você tinha mexido nesse Diego?"
+      },
+      {
+        "startTime": 547,
+        "endTime": 582,
+        "speaker": "Alejandro Olchik",
+        "text": "Não tudo bem, eu nem eu nem tô aqui só só para minha aflição, seja o seguinte, ó pessoal, como tem tarefas que não tem nenhum empregavel, quando não é um indicador de mexida para mim. Tem que ser uma forma bem simples, não botou a mão naquela é zero. Pois a mão pode botar meio mas só vai completar um quando entregar entendeu? Não tem essa lógica de estar 05 060708 e a gente não tá vendo o que tá acontecendo, né? Porque a gente não consegue medir o progresso dessa forma."
+      },
+      {
+        "startTime": 582,
+        "endTime": 601,
+        "speaker": "Alejandro Olchik",
+        "text": "Então para mim é ou não começou tem andamento tá finalizada é bem simples, né? Não tem intermediários em relação a isso é claro se é um indicador é diferente, entendeu? Se é número de corretores. Receita Aí sim, se não eu tentaria padronizar tudo dessa forma zero meio em um."
+      },
+      {
+        "startTime": 601,
+        "endTime": 608,
+        "speaker": "Alejandro Olchik",
+        "text": "Que que vocês acham? Todo mundo padronizar em 061 não pois a mão zero pois a mão meio."
+      },
+      {
+        "startTime": 609,
+        "endTime": 609,
+        "speaker": "Carolina Campos",
+        "text": "Até nesse daqui que é o que eu mexi mesmo que eu tô com a mão na massa eu"
+      },
+      {
+        "startTime": 609,
+        "endTime": 612,
+        "speaker": "Alejandro Olchik",
+        "text": "Nada isso só vai para um quando vai para 100%"
+      },
+      {
+        "startTime": 617,
+        "endTime": 629,
+        "speaker": "Carolina Campos",
+        "text": "fui colocando 0.25, porque eu considerei que tava não tão concluído, mas concluído em cada mês então agora vou entrar nessa lógica do zero. E aí eu ajudo lá."
+      },
+      {
+        "startTime": 638,
+        "endTime": 641,
+        "speaker": "Alejandro Olchik",
+        "text": ", que mais aí acho que nesse É só isso que eu coloquei, né? Não tem mais nada."
+      },
+      {
+        "startTime": 644,
+        "endTime": 658,
+        "speaker": "Eduardo Stringhini",
+        "text": "Semana que vem a gente vai fazer uma discussão mais aprofundada sobre não só sobre o indicador, mas sobre. Até se faz sentido que a gente definiu lá em Janeiro."
+      },
+      {
+        "startTime": 658,
+        "endTime": 674,
+        "speaker": "Alejandro Olchik",
+        "text": "Tu vai entrar nesse indicador e vai botar um comentário isso aqui não faz mais sentido. Se tu não parou para olhar assim, ó, não quero só agressivo aqui dá uma nova intenção. Eu quero ser eu estou tentando ser bem objetivo aqui tu entrou ali tu vai criticar os meus indicadores."
+      },
+      {
+        "startTime": 674,
+        "endTime": 695,
+        "speaker": "Alejandro Olchik",
+        "text": "Cara isso aqui não faz sentido com Alejandro esteja fazendo então vai botar um comentário ali isso não faz mais sentido para gente por isso isso isso isso. Então quer dizer que tu tá preocupado com isso tá trazendo um ponto, entendeu? E aí a gente vai cortar. Mas tu parou antes da nossa reunião para pensar sobre isso, né? E não aqui a gente começa."
+      },
+      {
+        "startTime": 695,
+        "endTime": 718,
+        "speaker": "Alejandro Olchik",
+        "text": "Ah, eu acho que isso faz sentido nós que faz sentido porque a gente perde produtividade, então tô tentando assim não foco. Ou seja, eu acho que tem espaço para esse teu ponto mas tu antes teria que olhar e marcar, entendeu? E aí a gente vai discutir isso esses indicadores tão ruim isso seria isso isso não faz mais sentido para gente é tomara que a lenta entendeu? Que que tu acha?"
+      },
+      {
+        "startTime": 720,
+        "endTime": 721,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom, eu não fiz ainda então."
+      },
+      {
+        "startTime": 723,
+        "endTime": 725,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu tinha olhado da Campos, tu tinha parado para olhar tu parou para olhar os"
+      },
+      {
+        "startTime": 725,
+        "endTime": 725,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não."
+      },
+      {
+        "startTime": 727,
+        "endTime": 727,
+        "speaker": "Alejandro Olchik",
+        "text": "meus."
+      },
+      {
+        "startTime": 728,
+        "endTime": 733,
+        "speaker": "Eduardo Stringhini",
+        "text": "O teozinho do Felipe que foi que ele mandou agora, eu também terminei."
+      },
+      {
+        "startTime": 734,
+        "endTime": 738,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos então, vamos fazer uma pausa aqui, tá alguém é porque se ninguém"
+      },
+      {
+        "startTime": 738,
+        "endTime": 738,
+        "speaker": "Eduardo Stringhini",
+        "text": "alguém"
+      },
+      {
+        "startTime": 741,
+        "endTime": 763,
+        "speaker": "Alejandro Olchik",
+        "text": "olhou os indicadores uns dos outros é Tempo Perdido. Ah só para ver os meus comentários em cima dos indicadores é o feedback geral e o propósito disso, então vamos parar de compartilhar Campos. Então o seguinte ó eu olhei o da Campos o do Marcelo. E eu olhei na Campos do Marcelo, então quero saber o que cada molhou adulto."
+      },
+      {
+        "startTime": 763,
+        "endTime": 764,
+        "speaker": "Alejandro Olchik",
+        "text": "Olhou qual?"
+      },
+      {
+        "startTime": 765,
+        "endTime": 767,
+        "speaker": "Eduardo Stringhini",
+        "text": "beleza"
+      },
+      {
+        "startTime": 767,
+        "endTime": 770,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá bom já já mas já nós não temos não precisa nem perguntar para o Diego"
+      },
+      {
+        "startTime": 770,
+        "endTime": 776,
+        "speaker": "Felipe Goettems",
+        "text": "do Marcelo"
+      },
+      {
+        "startTime": 776,
+        "endTime": 778,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu olhei o do Alejandro da Campos do Felipe e o meu."
+      },
+      {
+        "startTime": 785,
+        "endTime": 804,
+        "speaker": "Alejandro Olchik",
+        "text": "tá? Porque não tem um que todo mundo tem olhado. Né, Tipo? O Edu não olhou o Marcelo o que o Felipe não olhou o meu. Né? Então já não Fechou então beleza por mim a gente encerra a reunião agora e vamos fazer outra coisa para não perder tempo não porque se não é"
+      },
+      {
+        "startTime": 804,
+        "endTime": 805,
+        "speaker": "Carolina Campos",
+        "text": "Também é verdade, tá certo."
+      },
+      {
+        "startTime": 805,
+        "endTime": 807,
+        "speaker": "Felipe Goettems",
+        "text": "Concordo não eu concordo."
+      },
+      {
+        "startTime": 807,
+        "endTime": 819,
+        "speaker": "Alejandro Olchik",
+        "text": "senão não faço enxerga, entendeu? A gente tá a ideia de enviar um relatório para ser objetivo. Então manda revisa todo mundo semana que vem a gente marca para sexta que vem e tenta fazer uma revisão objetiva."
+      },
+      {
+        "startTime": 819,
+        "endTime": 835,
+        "speaker": "Felipe Goettems",
+        "text": "Tá certo isso Alejandro, concordo 100% contigo já peço desculpa por não ter feito tá? Acho que é pedagógico, eu gostaria inclusive de ter esse tipo de atitude em reuniões que eventualmente a gente deveria ter feito algo não fez cara, não tem reunião. Pode ir embora fica para a próxima."
+      },
+      {
+        "startTime": 840,
+        "endTime": 855,
+        "speaker": "Marcelo Rodrigues",
+        "text": "É só um ponto eu fui o que mais li eu não botei comentários porque eu imaginei que hoje por exemplo eu iria apresentar os meus pontos e a Campo seria apresentar os delas e tu ia apresentar."
+      },
+      {
+        "startTime": 855,
+        "endTime": 857,
+        "speaker": "Felipe Goettems",
+        "text": "Isso isso eu concordo."
+      },
+      {
+        "startTime": 858,
+        "endTime": 860,
+        "speaker": "Marcelo Rodrigues",
+        "text": "O comentário é tu já?"
+      },
+      {
+        "startTime": 860,
+        "endTime": 866,
+        "speaker": "Felipe Goettems",
+        "text": "Mas eu mas eu acho que o Alejandro deixou claro, tá? Isso é interpretação. Nossa, eu acho que Parando para pensar acho que o Alejandro foi bem claro nisso."
+      },
+      {
+        "startTime": 866,
+        "endTime": 884,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu proponho essa outra dinâmica porque aqui todo mundo é bom de palco eu proponho a outra dinâmica que se o outro não tá colocando ponto não por exemplo vai nas dúvidas, entendeu? Tipo se tem que alguém tem que marcar um ponto para conversar, né? Eu inverteria eu não deixo de testar essa abordagem."
+      },
+      {
+        "startTime": 884,
+        "endTime": 887,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu falei um pouco o contrário ou seja."
+      },
+      {
+        "startTime": 887,
+        "endTime": 888,
+        "speaker": "Felipe Goettems",
+        "text": "então"
+      },
+      {
+        "startTime": 888,
+        "endTime": 931,
+        "speaker": "Alejandro Olchik",
+        "text": "Se não tem nada porque se tu não entendeu, tu tem que marcar, entendeu? Já não entendi. Se vocês querem que um assunto seja tu pode pegar todos os outros prefeitos e não entendi. Não entendi. Não entendi vai ser tudo conversado. Mas você tá claro não tem nada não, vamos gastar tempo com isso."
+      },
+      {
+        "startTime": 931,
+        "endTime": 924,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos para o que a gente quer conversar, entendeu? Quem decide são os outros não tu sobre os teus o ponto é o seguinte, quem vai decidiu falar são as outras pessoas. Né em relação é um pouco com essa lógica. Exatamente porque o valor o valor tá na reflexão crítica dos próprios"
+      },
+      {
+        "startTime": 924,
+        "endTime": 948,
+        "speaker": "Diego Diehl",
+        "text": "O Alê eu tô não sei qual que tá a tua ideia completa disso, eu acho que espaçou por uma fase de esquecer os indicadores, né? Eu passei pelo menos. Não preencher aí para mim foi muito bom me aproximar nesses últimos dias revisar tudo desdobrar calcular, tipo me dá. Um tá com uma sensação de estar fazendo muita coisa e não tá fazendo que era mais importante que era estratégico."
+      },
+      {
+        "startTime": 948,
+        "endTime": 969,
+        "speaker": "Diego Diehl",
+        "text": "Então para mim foi bom. E aí eu queria entender melhor. Qual que é o teu Story inteiro assim dessa metodologia que você quer rodar com o k é tipo todo mês, você quer que a gente atualize faça isso os outros comentem. E aí a gente vai ficar discutindo em cima do comentário, qual que eu só para ter a visão?"
+      },
+      {
+        "startTime": 974,
+        "endTime": 995,
+        "speaker": "Alejandro Olchik",
+        "text": "Certo, então quando tu para para ver tu faz uma crítica e tenta explicar para os outros. Se a gente não consegue nem conversar sobre as coisas que a gente tem na pauta, a gente não vai conseguir conversar uma vez por mês sobre o Jr. Palco aqui fica duas horas conversando sobre cada um apresentando seus próprios joias, então eu tô tentando botar uma dinâmica, que seja frequente e objetiva em relação aos outros."
+      },
+      {
+        "startTime": 995,
+        "endTime": 1029,
+        "speaker": "Alejandro Olchik",
+        "text": "Então olha tudo mesmo, manda um relatóriozinho os outros comentam e se fala sobre os comentários. Se for algo para gente mesmo para tu botar esses comentários. Tem que ter feito um tema de casa e provavelmente isso já te remete ação, entendeu? Quando eu refiz os meus eu já botei um monte de lixo para mim de coisas que eu tinha que tem que estar pensando e não tô fazendo entendeu? Isso já é uma p*** ajuda em relação ao nosso planejamento isso eu acho que tem alguma coisa que não tem que fazer eu tenho que tentar já botar de fora se o outro acha que tem uma coisa que não tem que fazer ele já vai estar colocando ali como comentário."
+      },
+      {
+        "startTime": 1029,
+        "endTime": 1040,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas eu tô tentando fazer um negócio, que seja curto ou objetivo e que a gente consiga manter frequência de olhar os outros você começa a ficar muito pesado para a gente não vai fazer também tá duas horas."
+      },
+      {
+        "startTime": 1045,
+        "endTime": 1051,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Se tu por exemplo Alejandro que colocou comentários eu respondo todos eles no qual eu não preciso falar nada."
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1087,
+        "speaker": "Diego Diehl",
+        "text": "Assim eu tô entendendo também que tá rolando quase que uma síncrono e eu tô entendendo. O resumo é cara. Inclusive se tiver uma dúvida na segunda eu boto uma pauta e tiro 5 minutos eu ligo para o Marcelo. Fala Marcelo, o que que esse comentário? Então, eu não tô vendo muita riqueza de troca assim nossa, mas eu acho que pode ser o primeiro passo sem problemas, eu nem tava atualizando agora foi bom atualizei eu vou pôr na pauta do board o que eu preciso aspas aprovar ou contar e avançar que eu acho que eu não posso avançar sozinho."
+      },
+      {
+        "startTime": 1087,
+        "endTime": 1115,
+        "speaker": "Alejandro Olchik",
+        "text": "Você tem mas olha, só se eu fosse o Marcelo concordou com os pontos e ajustou e tá tudo certo. beleza Tipo, não precisamos gastar uma hora de reunião sobre isso. Né agora se não entendeu ou tem dúvida, etc, depois dá um feedback rápido não tomar no tempo do céu na nossa agenda tá f***** para cá tá ruim."
+      },
+      {
+        "startTime": 1115,
+        "endTime": 1140,
+        "speaker": "Alejandro Olchik",
+        "text": "Praticamente impossível marcar uma reunião entre a gente. Né? E pelo menos tem uma frequência de revisão de HR então a minha intenção é que as coisas importantes elas se apareçam e a gente foca nelas. E não deixa as coisas menos importantes tomar o tempo conjunto todo mundo que está escasso."
+      },
+      {
+        "startTime": 1140,
+        "endTime": 1144,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza, sexta-feira que vem. Mesmo bate horário aí, pode ser?"
+      },
+      {
+        "startTime": 1146,
+        "endTime": 1152,
+        "speaker": "Diego Diehl",
+        "text": "Eu será que? Não gosto muito desse horário. Esse horário tô cansado já não está acabado a semana tô tipo querendo"
+      },
+      {
+        "startTime": 1152,
+        "endTime": 1152,
+        "speaker": "Alejandro Olchik",
+        "text": "antes"
+      },
+      {
+        "startTime": 1157,
+        "endTime": 1174,
+        "speaker": "Diego Diehl",
+        "text": "tirar tudo da minha frente zerar meu WhatsApp e mandar coisa cobrar gente. Assim ó uma pergunta se a gente pular uma reunião de segunda-feira. Qual o problema acontece nenhum para mim?"
+      },
+      {
+        "startTime": 1174,
+        "endTime": 1174,
+        "speaker": "Marcelo Rodrigues",
+        "text": "quinta"
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1179,
+        "speaker": "Alejandro Olchik",
+        "text": "De indicador está lá desde o início do ano."
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1193,
+        "speaker": "Diego Diehl",
+        "text": "É eu tô falando assim, se a gente pular uma reunião de segunda-feira das pautas normais que às vezes a gente demora se enrola falando e foi direto para os indicadores."
+      },
+      {
+        "startTime": 1194,
+        "endTime": 1210,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza, mas a gente não ia falar de cresci a gente não ia falar de nós top. Tipo, a gente não vai falar por exemplo da discussão que a gente está tendo em relação ao indicadores comerciais ali no WhatsApp. Não sei eu acho que a gente sempre tem fogo para pagar sempre tem incêndio."
+      },
+      {
+        "startTime": 1210,
+        "endTime": 1224,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí o indicador vai ficando por um segundo momento? Né? É tipo sempre tem tá ali na pauta sempre vai monte de coisa na frente ali e tem coisas que realmente são às vezes pode ter coisa que não são importantes, mas tem coisas que são a gente precisa dar uma resposta."
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1235,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente precisava ter falado sobre o cresci. A gente precisa ter marcado reunião com Garrido. A gente precisava destravar o negócio da mão. Stop, tipo um monte de incêndio. A gente não tem nenhum outro horário na agenda."
+      },
+      {
+        "startTime": 1236,
+        "endTime": 1254,
+        "speaker": "Diego Diehl",
+        "text": "E aí, será que não tem assuntos que não precisava do envolvimento de todos? Enfim, eu tô aproveitando só para discutir. Nossa produtividade, né? A gente tá discutindo vários assuntos narrando a segunda ao invés das vezes criar mini grupos e delegar para cada um resolver até com menos discussão, né? Tipo?"
+      },
+      {
+        "startTime": 1255,
+        "endTime": 1273,
+        "speaker": "Alejandro Olchik",
+        "text": "Bom, mas a gente pode fazer isso na segunda-feira, mas enquanto não conseguirmos. Eu sugiro que a gente experimente a gente tenta ser mais produtivo na próxima segunda show de bola sente na segunda conseguir matar os indicadores não precisam fazer uma sexta-feira na proposta. Se na segunda a gente conseguir rever os indicadores não."
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1282,
+        "speaker": "Alejandro Olchik",
+        "text": "Faz sentido né? Então revisem quando entrar o tema urgente rápido ali, vejam vamos ver se realmente a gente rápido, a gente tenta matar tudo."
+      },
+      {
+        "startTime": 1283,
+        "endTime": 1287,
+        "speaker": "Diego Diehl",
+        "text": "Para mim não tem problema também esse horário só para utilizar assim. Acho que dá para manter esse horário."
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1289,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu posso botar antes na sexta-feira se vocês preferirem?"
+      },
+      {
+        "startTime": 1290,
+        "endTime": 1293,
+        "speaker": "Diego Diehl",
+        "text": "Não para mim não tem para mim é melhor até às vezes um pouco depois."
+      },
+      {
+        "startTime": 1294,
+        "endTime": 1308,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas vamos tentar matar na segunda a gente corta de sexta. Mas aí todo mundo tem que olhar os outros até segunda-feira. Né? Eu ainda não consegui parar para assistir e a gente tem uma pausa para"
+      },
+      {
+        "startTime": 1308,
+        "endTime": 1309,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que dá para a gente falar que tem que trazer um comentário, nem que"
+      },
+      {
+        "startTime": 1309,
+        "endTime": 1312,
+        "speaker": "Alejandro Olchik",
+        "text": "depois."
+      },
+      {
+        "startTime": 1312,
+        "endTime": 1315,
+        "speaker": "Diego Diehl",
+        "text": "seja um comentário assim, cara. Vi tudo tá? Ok? Bora?"
+      },
+      {
+        "startTime": 1316,
+        "endTime": 1321,
+        "speaker": "Alejandro Olchik",
+        "text": "Não acho que não precisa se não tem nada para contribuir tá concordando com tudo não precisa."
+      },
+      {
+        "startTime": 1322,
+        "endTime": 1322,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1323,
+        "endTime": 1342,
+        "speaker": "Alejandro Olchik",
+        "text": "Se tu disser que leu todos nós viu todos viu? Valeu. Um bom fim de tchau. Tchau."
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1343,
+        "speaker": "Eduardo Stringhini",
+        "text": "Olha pessoal."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 110,
+    "speakers": [
+      "Alejandro Olchik",
+      "Felipe Goettems",
+      "Marcelo Rodrigues",
+      "Eduardo Stringhini",
+      "Carolina Campos",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 3151,
+    "duration_start": 7,
+    "duration_end": 1343
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68c481b9590af4001350457f",
+        "timestamp": 85,
+        "text": "Alejandro propõe revisar relatórios de OKRs de forma objetiva, com cada pessoa apresentando seus comentários e dúvidas.",
+        "topicId": "68c481b9590af4001350457b"
+      },
+      {
+        "segmentId": "68c481b9590af4001350457d",
+        "timestamp": 256,
+        "text": "Decidido revisar indicadores de Campos, Marcelo e Alejandro hoje, deixando Diego, Felipe e Eduardo para próxima semana.",
+        "topicId": "68c481b9590af4001350457a"
+      },
+      {
+        "segmentId": "68c481b9590af40013504582",
+        "timestamp": 544,
+        "text": "Proposta de padronizar medição de progresso em OKRs como: zero (não iniciado), meio (em andamento) e um (concluído).",
+        "topicId": "68c481b9590af4001350457c"
+      },
+      {
+        "segmentId": "68c481b9590af40013504580",
+        "timestamp": 866,
+        "text": "Nova dinâmica proposta: se alguém não entende algo, deve marcar comentário para discussão, em vez de apenas apresentar.",
+        "topicId": "68c481b9590af4001350457b"
+      },
+      {
+        "segmentId": "68c481b9590af40013504581",
+        "timestamp": 1118,
+        "text": "Objetivo é focar em pontos importantes nos indicadores e otimizar tempo de reunião.",
+        "topicId": "68c481b9590af4001350457b"
+      },
+      {
+        "segmentId": "68c481b9590af4001350457e",
+        "timestamp": 1294,
+        "text": "Todos devem revisar os OKRs dos colegas até segunda-feira para discussão rápida.",
+        "topicId": "68c481b9590af4001350457a"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68c481b9590af4001350457a",
+        "order": 1,
+        "title": "Ações Acordadas para Revisão de OKRs",
+        "summary": ""
+      },
+      {
+        "id": "68c481b9590af4001350457b",
+        "order": 2,
+        "title": "Metodologia de Revisão de OKRs",
+        "summary": ""
+      },
+      {
+        "id": "68c481b9590af4001350457c",
+        "order": 3,
+        "title": "Padronização de Medição de Progresso",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 6,
+    "topic_count": 3,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68c481b9590af4001350457a",
+      "order": 1,
+      "title": "Ações Acordadas para Revisão de OKRs",
+      "summary": ""
+    },
+    {
+      "id": "68c481b9590af4001350457b",
+      "order": 2,
+      "title": "Metodologia de Revisão de OKRs",
+      "summary": ""
+    },
+    {
+      "id": "68c481b9590af4001350457c",
+      "order": 3,
+      "title": "Padronização de Medição de Progresso",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:48:03.071995+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:48:03.071995+00:00"
+}

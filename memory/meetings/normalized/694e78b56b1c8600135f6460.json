@@ -1,0 +1,1301 @@
+{
+  "meeting_id": "694e78b56b1c8600135f6460",
+  "name": "Apresentação Case Leandro",
+  "happened_at": "2025-12-26T12:00:00.000Z",
+  "duration_seconds": 3255.586,
+  "duration_minutes": 54.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "lmatheus.lm@gmail.com"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/694e78b56b1c8600135f6460",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "pjx-izja-ozk",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "694e78d8a132bc001311cd52",
+    "meetingId": "694e78b56b1c8600135f6460",
+    "data": [
+      {
+        "startTime": 23,
+        "endTime": 25,
+        "speaker": "Gustavo Torres",
+        "text": "Bom dia Leandro, tudo bom certo só um pouquinho que eu já tô ligando aqui"
+      },
+      {
+        "startTime": 25,
+        "endTime": 27,
+        "speaker": "Leandro Matheus",
+        "text": "E aí Gustavo, tudo bem?"
+      },
+      {
+        "startTime": 29,
+        "endTime": 29,
+        "speaker": "Gustavo Torres",
+        "text": "para o Diego, tá?"
+      },
+      {
+        "startTime": 30,
+        "endTime": 68,
+        "speaker": "Leandro Matheus",
+        "text": "beleza"
+      },
+      {
+        "startTime": 68,
+        "endTime": 75,
+        "speaker": "Gustavo Torres",
+        "text": "Jogo entre 5 minutinhos é que ele tá arrumando ao computador. Como foi de Natal aí sei aí as festas Leandro tudo certo."
+      },
+      {
+        "startTime": 81,
+        "endTime": 82,
+        "speaker": "Leandro Matheus",
+        "text": "Oi, pois não."
+      },
+      {
+        "startTime": 83,
+        "endTime": 90,
+        "speaker": "Gustavo Torres",
+        "text": "que foi teu tuas festas, teu Natal, foi tranquilo."
+      },
+      {
+        "startTime": 90,
+        "endTime": 92,
+        "speaker": "Leandro Matheus",
+        "text": "Foi corrido, né? Deu certo."
+      },
+      {
+        "startTime": 92,
+        "endTime": 96,
+        "speaker": "Gustavo Torres",
+        "text": "Você passou em São Paulo, você passou no Rio foi para o rio ver a família?"
+      },
+      {
+        "startTime": 96,
+        "endTime": 97,
+        "speaker": "Leandro Matheus",
+        "text": "Passei no Rio."
+      },
+      {
+        "startTime": 98,
+        "endTime": 100,
+        "speaker": "Gustavo Torres",
+        "text": "É E agora você tá no Rio ou está em São Paulo?"
+      },
+      {
+        "startTime": 100,
+        "endTime": 101,
+        "speaker": "Leandro Matheus",
+        "text": "Agora eu tô aqui no Rio."
+      },
+      {
+        "startTime": 102,
+        "endTime": 103,
+        "speaker": "Gustavo Torres",
+        "text": "Tá calor aí."
+      },
+      {
+        "startTime": 103,
+        "endTime": 113,
+        "speaker": "Leandro Matheus",
+        "text": "p****, tu não tem noção? Cara bizarro tá acompanhando aí na mídia esse calor."
+      },
+      {
+        "startTime": 113,
+        "endTime": 129,
+        "speaker": "Gustavo Torres",
+        "text": "Eu aqui em Curitiba, não é conhecido pelo calor, né? E aí agora esse andando tá um calor aqui que a gente tá estranhando para caramba, esse dia ficou alguns bairros até sem água, porque acho que fez tanto calor que o negócio de água aqui não deu problema assim, então tá estranhando eu fico sempre pensando."
+      },
+      {
+        "startTime": 129,
+        "endTime": 136,
+        "speaker": "Gustavo Torres",
+        "text": "Poxa, imagina quem tá lá no Rio de Janeiro, se eu tô reclamando desse calorzinho, pensa que ele tá lá no Rio de Janeiro."
+      },
+      {
+        "startTime": 138,
+        "endTime": 140,
+        "speaker": "Leandro Matheus",
+        "text": "Bizarro cara impressionante nunca vi nada igual."
+      },
+      {
+        "startTime": 142,
+        "endTime": 147,
+        "speaker": "Gustavo Torres",
+        "text": "desacostumado um pouco ou não?"
+      },
+      {
+        "startTime": 147,
+        "endTime": 161,
+        "speaker": "Leandro Matheus",
+        "text": "é eu dei uma desacostumada assim na questão assim de conforto, mas E um dia eu já me redapto errado. Um dia eu já volto ao normal na época de vulcões de andar sobre a lava."
+      },
+      {
+        "startTime": 165,
+        "endTime": 166,
+        "speaker": "Gustavo Torres",
+        "text": "É legal."
+      },
+      {
+        "startTime": 166,
+        "endTime": 170,
+        "speaker": "Leandro Matheus",
+        "text": "Mas tá tá dando e como é que tá aí a equipe? Tá todo mundo trabalhando hoje?"
+      },
+      {
+        "startTime": 170,
+        "endTime": 207,
+        "speaker": "Gustavo Torres",
+        "text": "relaxada assim para começar o importante"
+      },
+      {
+        "startTime": 207,
+        "endTime": 210,
+        "speaker": "Leandro Matheus",
+        "text": "Legal e você é peça fundamental, né? O Gustavo você tá?"
+      },
+      {
+        "startTime": 210,
+        "endTime": 210,
+        "speaker": "Gustavo Torres",
+        "text": "isso"
+      },
+      {
+        "startTime": 212,
+        "endTime": 214,
+        "speaker": "Leandro Matheus",
+        "text": "Agora né?"
+      },
+      {
+        "startTime": 214,
+        "endTime": 232,
+        "speaker": "Gustavo Torres",
+        "text": "É na verdade, eu eu entrei aqui na hora como sei os exemplos, então eu já ajudo desde o início nessa nessa estruturação de conteúdos e Munique é necessário para essa expansão. Agora nesse final de ano, depois de três meses, eu entrei em Julho na hora não faz tanto tempo assim."
+      },
+      {
+        "startTime": 232,
+        "endTime": 251,
+        "speaker": "Gustavo Torres",
+        "text": "Mas a sumida a cadeira assumir a cadeira não né? Mas assumiu absolutamente de bdr. Então ajudando Diego a cuidar mais desse time para a gente separar um pouco melhor as lideranças. Mas eu ajudo muito de ir também nessa parte estratégica para o ano que vem. A gente já trabalhou junto um desenvolvimento de uma House."
+      },
+      {
+        "startTime": 251,
+        "endTime": 267,
+        "speaker": "Gustavo Torres",
+        "text": "Então, a gente a gente tem uma linguagem muito semelhante assim a gente já desenvolveu esses projetos. Então a gente tá nesse final do ano aproveitando justamente para ver quais são os melhores caminhos para que em 2016 a gente alcance de uma maneira inteligente esses objetivos."
+      },
+      {
+        "startTime": 267,
+        "endTime": 267,
+        "speaker": "Leandro Matheus",
+        "text": "legal"
+      },
+      {
+        "startTime": 268,
+        "endTime": 268,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia senhores."
+      },
+      {
+        "startTime": 269,
+        "endTime": 269,
+        "speaker": "Gustavo Torres",
+        "text": "certo"
+      },
+      {
+        "startTime": 270,
+        "endTime": 274,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia, tô chegando em Três minutinhos do PC aqui, mas já quis adiantar."
+      },
+      {
+        "startTime": 275,
+        "endTime": 275,
+        "speaker": "Leandro Matheus",
+        "text": "beleza"
+      },
+      {
+        "startTime": 281,
+        "endTime": 336,
+        "speaker": "Diego Diehl",
+        "text": "principalmente no meu lado. Que forma que se encaixa o Gustavo também pegar estava no participou da conversa que eu tava contigo depois. Não fica à vontade aí?"
+      },
+      {
+        "startTime": 336,
+        "endTime": 406,
+        "speaker": "Leandro Matheus",
+        "text": "Bom pessoal. Estão conseguindo visualizar a internet inteira assim não."
+      },
+      {
+        "startTime": 406,
+        "endTime": 406,
+        "speaker": "Gustavo Torres",
+        "text": "sim"
+      },
+      {
+        "startTime": 407,
+        "endTime": 705,
+        "speaker": "Leandro Matheus",
+        "text": "Eu acho que são ferramentas que vão tá validando essa tática de orçamento enxuto que o Diego propôs beleza aqui na fase de closer é a questão da prova social, tá pessoal, então assim."
+      },
+      {
+        "startTime": 705,
+        "endTime": 709,
+        "speaker": "Diego Diehl",
+        "text": "Leandro o Gustavo Gustavo levantou a mão ali para perguntar eu"
+      },
+      {
+        "startTime": 711,
+        "endTime": 735,
+        "speaker": "Gustavo Torres",
+        "text": "Bem rapidinho Leandro então só voltando estratégia de SDR a ideia seria o Sr. Por exemplo dentro da praça de do Rio de Janeiro. Só para ver se eu entendi tá na mesma página mesmo tá é entrar em contato com as incorporadoras, mas como um agente de inteligente de mercado falando que a gente tava querendo mesmo entender o estoque da região seria um pit voltado para essa para esse objetivo certo?"
+      },
+      {
+        "startTime": 735,
+        "endTime": 736,
+        "speaker": "Leandro Matheus",
+        "text": "Sim exatamente."
+      },
+      {
+        "startTime": 737,
+        "endTime": 740,
+        "speaker": "Gustavo Torres",
+        "text": "Era só essa dúvida pontual mesmo."
+      },
+      {
+        "startTime": 740,
+        "endTime": 748,
+        "speaker": "Leandro Matheus",
+        "text": "eu tivesse eu não consegui ver a mãozinha levantada."
+      },
+      {
+        "startTime": 748,
+        "endTime": 749,
+        "speaker": "Gustavo Torres",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 749,
+        "endTime": 836,
+        "speaker": "Leandro Matheus",
+        "text": "ter cases de sucesso, né? Eu acho que hoje em dia a internet ela tem assim ambiente aí para a gente estar divulgando no Linkedin uma parceria um vídeo curto ali de 20 30 segundos um empresário falando sobre enfim sobre como algo não vai estar ajudando ele e os corretores nessa nessa transição aí tá? Ok?"
+      },
+      {
+        "startTime": 836,
+        "endTime": 836,
+        "speaker": "Diego Diehl",
+        "text": "O Leandro dessas dessas duas etapas."
+      },
+      {
+        "startTime": 836,
+        "endTime": 836,
+        "speaker": "Leandro Matheus",
+        "text": "sim"
+      },
+      {
+        "startTime": 841,
+        "endTime": 878,
+        "speaker": "Diego Diehl",
+        "text": "Onde é que você se sente bem confortável e onde é que você? Vai precisar que por exemplo o Gustavo te treine bem assim."
+      },
+      {
+        "startTime": 878,
+        "endTime": 950,
+        "speaker": "Leandro Matheus",
+        "text": "5 a 10 anos semanais. Eu precisaria de ajuda em treinamento ali para a Gente. Tá formando um Pitty um pit de vendas bem estratégico ali para uma reunião por exemplo para estar convencendo ao mesmo tempo Corretores e o responsável pela E quem sabe?"
+      },
+      {
+        "startTime": 950,
+        "endTime": 952,
+        "speaker": "Diego Diehl",
+        "text": "Você chama de corretor de Incorporadora."
+      },
+      {
+        "startTime": 952,
+        "endTime": 952,
+        "speaker": "Leandro Matheus",
+        "text": "Oi"
+      },
+      {
+        "startTime": 953,
+        "endTime": 955,
+        "speaker": "Diego Diehl",
+        "text": "Que que você chama de corretor de Incorporadora?"
+      },
+      {
+        "startTime": 957,
+        "endTime": 1091,
+        "speaker": "Leandro Matheus",
+        "text": "precisaria mais nessa dessa ajuda assim nessa parte de treinamento de Pit e de reuniões também E na fase de closer a mesma coisa tá o Diego na fase de closer para tá levando mais autoridade, né? Eu precisaria de uma ajuda. Sua uma presença sua né? Ou talvez do Gustavo também para a gente tá? Para você tá falando de gays, enfim como realmente funciona logo você que tem mais mais expertise, eu acho que na fase de Close eu acho que a parte presencial seria de fato uma ajuda mais mais coerente."
+      },
+      {
+        "startTime": 1091,
+        "endTime": 1104,
+        "speaker": "Diego Diehl",
+        "text": "o Leandro do que você Estudou um pouquinho agora sobre a orla. O que que você entendeu que o principal valor que a gente gera para incorporador?"
+      },
+      {
+        "startTime": 1106,
+        "endTime": 1122,
+        "speaker": "Leandro Matheus",
+        "text": "Bom vamos lá o principal são vários né? Mas De fato o principal valor. eu não vou receber desculpa, fiquei um pouquinho aqui nervoso, mas eu não vou saber responder essa pergunta de qual"
+      },
+      {
+        "startTime": 1122,
+        "endTime": 1125,
+        "speaker": "Diego Diehl",
+        "text": "Fazer outra pergunta de fazer outra pergunta. Me explica como é que foi o teu"
+      },
+      {
+        "startTime": 1125,
+        "endTime": 1125,
+        "speaker": "Leandro Matheus",
+        "text": "por favor"
+      },
+      {
+        "startTime": 1128,
+        "endTime": 1139,
+        "speaker": "Diego Diehl",
+        "text": "porque assim eu te dei. Eu te dei um. Eu te dei um computador da Nasa na mão, né? Que eu montei."
+      },
+      {
+        "startTime": 1139,
+        "endTime": 1141,
+        "speaker": "Leandro Matheus",
+        "text": "tá"
+      },
+      {
+        "startTime": 1143,
+        "endTime": 1145,
+        "speaker": "Diego Diehl",
+        "text": "E você chegou a usar ela?"
+      },
+      {
+        "startTime": 1146,
+        "endTime": 1176,
+        "speaker": "Leandro Matheus",
+        "text": "para não ficar nada muito robotizado então preferir fazer uma coisa mais com a minha visão com a minha experiência também do que de fato que você usou lá, mas eu sei que aquilo é uma m**** de uma ferramenta."
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1200,
+        "speaker": "Diego Diehl",
+        "text": "Não era só para validar mesmo então e me conta só para entender. Como é que foi um pouco o teu processo de organização para construir o Esse tipo me conta como é que foi esse processo? Que que você foi o que que você fez daí e eu sei que não é muito linear, né? Às vezes a gente vai refaz."
+      },
+      {
+        "startTime": 1200,
+        "endTime": 1205,
+        "speaker": "Diego Diehl",
+        "text": "Ou pede tipo me conta um pouquinho de como é que foi esse teu processo de montar esse."
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1314,
+        "speaker": "Leandro Matheus",
+        "text": "tenta ver se a empresa quanto os falsos a empresa tem se tem sócio majoritário ou não a gente vê o número de corretores a gente vê a região ali que a empresa tá atuando a gente vê o tipo de imóveis que a empresa tá vendendo. Então isso tudo ali eu fui botando essas informações para ferramenta aí me ajudando tá? Então basicamente é isso usando Minha experiência."
+      },
+      {
+        "startTime": 1314,
+        "endTime": 1328,
+        "speaker": "Diego Diehl",
+        "text": "E como é que foi o mais me conta um pouco da cronologia assim? Eu te mandei a atividade. Foi numa quinta Não sei se foi numa quinta numa sexta, mas se organizou para montar esse Case."
+      },
+      {
+        "startTime": 1328,
+        "endTime": 1329,
+        "speaker": "Leandro Matheus",
+        "text": "então"
+      },
+      {
+        "startTime": 1329,
+        "endTime": 1333,
+        "speaker": "Diego Diehl",
+        "text": "De uma forma mais não passo a passo."
+      },
+      {
+        "startTime": 1334,
+        "endTime": 2522,
+        "speaker": "Leandro Matheus",
+        "text": "né? Vindo com essa expertise de prospecção do Rio usando as coisas de sucesso. Enfim a questão da prova das provas dos vídeos que Que a gente faria para estar apresentando em São Paulo capital bustão botando na nas redes sociais. Mas eu sempre é antes da da área entrevista com você, eu só tava focado em trabalhar de São Paulo de forma remota, mas quando você é menciona essa oportunidade da da forma híbrida."
+      },
+      {
+        "startTime": 2522,
+        "endTime": 1457,
+        "speaker": "Leandro Matheus",
+        "text": "Eu fiz tudo planejando ali para tá abrindo através do Rio de Janeiro nessa prospecção aqui que a gente que eu montei. Como SDR tá não atuando como closer no Rio de Janeiro aí nos primeiros 45 dias mas assim como essa ideia."
+      },
+      {
+        "startTime": 1457,
+        "endTime": 1465,
+        "speaker": "Diego Diehl",
+        "text": "Tá deixando faz assim, ó, vai vamos vamos caminhando até o pode ir passando assim, como você tá indo?"
+      },
+      {
+        "startTime": 1466,
+        "endTime": 1466,
+        "speaker": "Leandro Matheus",
+        "text": "tá"
+      },
+      {
+        "startTime": 1467,
+        "endTime": 1475,
+        "speaker": "Diego Diehl",
+        "text": "Faz mais enxuta em 5 10 minutos que daí a gente pode usar mais para tirar as dúvidas principais que acho que é o que é mais rico aqui para a gente."
+      },
+      {
+        "startTime": 1475,
+        "endTime": 1506,
+        "speaker": "Leandro Matheus",
+        "text": "Vamos lá para dar uma acelerada então chegando em São Paulo, a gente vai dar foca explorar expandir tá? Então É de fato ali virar um consultor tá pessoal é usar a prova social do Rio para abrir portas como eu falei a gente. Acelerou no Rio para estar chegando em São Paulo de forma mais amena, né? Enfim apresentando algo de forma mais construtiva."
+      },
+      {
+        "startTime": 1506,
+        "endTime": 1531,
+        "speaker": "Leandro Matheus",
+        "text": "Quem sabe até alguma mini palestra dentro de algum incorporadores. Focada em site do Mercado lá do Rio de Janeiro tá criar um networking de forma bem criativa com baixo custo então assim tem como exemplo até ali o Jardins que é o mercado bem bem interessante, enfim para estar atingindo a meta."
+      },
+      {
+        "startTime": 1531,
+        "endTime": 1567,
+        "speaker": "Leandro Matheus",
+        "text": "Para a gente ter um cliente falou em São Paulo tá chegar atingir um cliente falando em São Paulo para tá atingindo essa meta aí de case. E aqui nessa nesse slide a gente começa a falar do ecossistema e recorrência, né? Então aqui a gente vai dar foco na receita recorrente tá com novas indicações gestão ativa da Carteira de cliente, né para oficial tá fortalecendo a presença em comitês importante do mercado."
+      },
+      {
+        "startTime": 1567,
+        "endTime": 1584,
+        "speaker": "Leandro Matheus",
+        "text": "Tá ativando arquitetos Consultores como canais indiretos de venda enfim a gente fazer parcerias do Murilo uma rua em São Paulo. Que é não sei se você conhece que a Frei Caneca quando chega em São Paulo."
+      },
+      {
+        "startTime": 1586,
+        "endTime": 1586,
+        "speaker": "Diego Diehl",
+        "text": "Tá ligado?"
+      },
+      {
+        "startTime": 1587,
+        "endTime": 1614,
+        "speaker": "Leandro Matheus",
+        "text": "e essa rua tanto que eu nem sabia do Da fama dessa rua quando eu cheguei em São Paulo, né? Mas enfim, mas é uma rua é uma rua bem bem movimentada turística, tem muitos lançamentos Imobiliários, eu via muito pessoal ali daquela empresa house, né? Fazendo essas parcerias ali com o pessoal dos prédios."
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1649,
+        "speaker": "Leandro Matheus",
+        "text": "Enfim para estar dentro do mercado para estar abrindo as indicações, né? Então o pessoal desse mercado tá sempre presente nesses prédios nesses novos prédios que vão subindo então é a gente Ativar esses Consultores para tá fazendo dessas parcerias, enfim para estar atingindo a meta da carteira em São Paulo faturando o triplo ou o dobro até do Rio de Janeiro, tá para a gente atingir esse cara que aí próximo ao zero."
+      },
+      {
+        "startTime": 1649,
+        "endTime": 1674,
+        "speaker": "Leandro Matheus",
+        "text": "Através de de indicações, tá? Então aqui é a linha do tempo, né? Resumindo a linha do tempo em metas então no primeiro mês é focado na prospecção de SDR para estar ali atingindo entre 30 a 60 agendamentos tá no mês 3 buscar venda e prova social com vídeo de gays."
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1751,
+        "speaker": "Leandro Matheus",
+        "text": "Enfim, a gente tá botando na timeline do LinkedIn Instagram no quarto mês, a gente tá atingindo ali um Network que se level para estar atingindo das reuniões e No sexto mês em São Paulo a gente. Visa aqui três vezes mais né em consolidação de parcerias, né do que tinha no mês 4 e nos meses anteriores no Rio de Janeiro, tá? Aqui a gente aborda o orçamento com a questão da eficiência, então assim como o Diego falou o exemplo era a gente alavancar essa prospecção essas parcerias com orçamento próximo ali do enxuto, né? O orçamento bem enxuto, então é o objetivo da apresentação era ter uma apresentação para a gente tá próximo crescer com Gerado para estar evitando desperdício tá utilizar ferramentas de custo baixo ou zero tá como o hubspot fluir o Apolo o Apolo fluir também essas ferramentas para esse tipo de abordagem faz sentido a gente trabalhar tá com essas ferramentas, elas dão essa essa."
+      },
+      {
+        "startTime": 1751,
+        "endTime": 1781,
+        "speaker": "Leandro Matheus",
+        "text": "Elas dão abrem portas para a gente tá fazendo o trabalho no orçamento enxuto, né com essas ferramentas grátis tá usar o Uber também de forma otimizada para a gente fazer uma visita com mais eficiência mais assertiva com menos gasto de energia tá e fazer uma prospecção um conteúdo orgânico no Linkedin para estar construindo uma autoridade ali mais robusta."
+      },
+      {
+        "startTime": 1781,
+        "endTime": 1814,
+        "speaker": "Leandro Matheus",
+        "text": "Enfim, eu já fiz pelo Espírito Santo 100% orgânica pelo LinkedIn. E eu fazia ali de 40 já, cheguei até fazer 80 em uma semana diária, né 80 por dia. Nessa prospecção ele funciona usar os seios Navigator e funciona muito bem, tá? Mas dá também para fazer sem usar o 6 navigate, porque é uma ferramenta que é requer um custo, mas dá para fazer também sem ser Navigator."
+      },
+      {
+        "startTime": 1814,
+        "endTime": 1842,
+        "speaker": "Leandro Matheus",
+        "text": "Então são ferramentas que dão oportunidade para gente estar fazendo essa prospecção esse laboratório Rio São Paulo de forma enxuta, tá pessoal. E é isso agora vamos aí as correções dúvidas. Desculpa se eu fiquei um pouquinho nervoso, mas eu tava tentando fazer ao máximo aqui uma apresentação 100% a minha cara sem muito sem ser muito robotizada."
+      },
+      {
+        "startTime": 1846,
+        "endTime": 1849,
+        "speaker": "Diego Diehl",
+        "text": "Fechou Leandro, pode parar de apresentar e voltar para o MIT aqui."
+      },
+      {
+        "startTime": 1850,
+        "endTime": 1854,
+        "speaker": "Leandro Matheus",
+        "text": "tá Vamos lá?"
+      },
+      {
+        "startTime": 1855,
+        "endTime": 1876,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero o título dessa deixa eu olhar aqui apresentação 180 Dias quero achar aqui para tirar uma vou abrir aqui. Leandro como é que você avalia teu Case aí para nós se você tivesse no nosso lugar."
+      },
+      {
+        "startTime": 1878,
+        "endTime": 1879,
+        "speaker": "Leandro Matheus",
+        "text": "Eu corrigiriam botaria eu usaria ferramenta que você botou tá disponibilizou"
+      },
+      {
+        "startTime": 1879,
+        "endTime": 1904,
+        "speaker": "Diego Diehl",
+        "text": "Que E aí teu desafio a partir de agora ser objetivo, tá? O que que você acha que foi bom assim, pô, Leandro, trouxe o negócio bom nesse sentido. E onde é que você acha que você falhou agora? Apresentando assim, se eu tivesse que apresentar? Para os meus outros dois sócios amanhã."
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1908,
+        "speaker": "Diego Diehl",
+        "text": "Quer que rapidamente você corrigiria ou aprofundaria?"
+      },
+      {
+        "startTime": 1914,
+        "endTime": 1931,
+        "speaker": "Leandro Matheus",
+        "text": "para mim para dar uma cara mais de órgão como eu te falei eu quis fazer uma apresentação focada na minha experiência no que eu acredito que dá certo. Tá você também pediu para fazer se baseando no orçamento enxuto então assim."
+      },
+      {
+        "startTime": 1931,
+        "endTime": 1934,
+        "speaker": "Diego Diehl",
+        "text": "Sem ideias mirabolantes de gastar grana e sim."
+      },
+      {
+        "startTime": 1934,
+        "endTime": 1936,
+        "speaker": "Leandro Matheus",
+        "text": "Exatamente coisa orgânica marcando reuniões enfim."
+      },
+      {
+        "startTime": 1936,
+        "endTime": 1948,
+        "speaker": "Diego Diehl",
+        "text": "Tá. E se fosse para E terá amanhã você usaria a E para fazer o que na apresentação, que que você acha que você que fez falta assim?"
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1982,
+        "speaker": "Leandro Matheus",
+        "text": "Eu acho que faltou a gente ter uns piques ali de exemplo, na verdade teve uns dois slides que que eu botei speech. exemplos de apresentação no slide Perguntas contra argumentos enfim, pergunta eles esperadas pelo pelo pessoal em relação à eficiência da obra. Acho que deveria ter alguns dois ou até um slide com alguns."
+      },
+      {
+        "startTime": 1982,
+        "endTime": 2000,
+        "speaker": "Leandro Matheus",
+        "text": "De forma mais imersiva com a cara da obra. Mas de fato eu se fosse para apresentar para os dois sócios, eu usaria mais aí as ferramentas que você me mandou."
+      },
+      {
+        "startTime": 2003,
+        "endTime": 2005,
+        "speaker": "Diego Diehl",
+        "text": "E por que que você não usou assim para entender?"
+      },
+      {
+        "startTime": 2008,
+        "endTime": 2022,
+        "speaker": "Leandro Matheus",
+        "text": "O que você me mandou é eu não usei porque eu queria algo parecido mais com a minha experiência como eu te falei ia ficar muito robotizado ia ficar um dever de casa 50% feito por vocês 50 por mim, né, então."
+      },
+      {
+        "startTime": 2022,
+        "endTime": 2034,
+        "speaker": "Diego Diehl",
+        "text": "Sim, mas é que no final do dia vai ser isso o teu trabalho, né? Você vai chegar aqui 80% do que você vai fazer o que a gente fez. e o que o que eu fiquei intrigar mas"
+      },
+      {
+        "startTime": 2034,
+        "endTime": 2038,
+        "speaker": "Leandro Matheus",
+        "text": "Vamos lá Repete a pergunta."
+      },
+      {
+        "startTime": 2038,
+        "endTime": 2070,
+        "speaker": "Diego Diehl",
+        "text": "Ficou difícil de avaliar um pouco isso parece que tem uma visão estratégica interessante. Tem alguns pontos relevantes interessantes? Mas assim ó, vou te fazer outra pergunta. Me explica em 30 segundos. a hora do por um corretor de imóveis de mercado A ouro por um cara do comercial da Incorporadora e a hora por um dono de uma imobiliária."
+      },
+      {
+        "startTime": 2070,
+        "endTime": 2088,
+        "speaker": "Diego Diehl",
+        "text": "Tem três stakeholders principais o corretor de imobiliário dono da imobiliária? o cara do comercial da Incorporadora e o cara de novos negócios da Incorporadora Você conseguiu entender a hora nesses diferentes ângulos?"
+      },
+      {
+        "startTime": 2090,
+        "endTime": 2103,
+        "speaker": "Leandro Matheus",
+        "text": "Então como eu te falei, eu fiz apresentação se baseando no nessa questão que você pediu atuando de forma híbrida Entre Rios."
+      },
+      {
+        "startTime": 2103,
+        "endTime": 2121,
+        "speaker": "Diego Diehl",
+        "text": "Não Independente do São Paulo Rio eu digo qualquer pessoa do Brasil. Me explica a hora em um minuto. Por que que você acha que uma forma específica é uma empresa que você vai conseguir bater na porta do meu incorporador e vender?"
+      },
+      {
+        "startTime": 2123,
+        "endTime": 2150,
+        "speaker": "Leandro Matheus",
+        "text": "Então não vai ficar uma explicação vou tentar aqui. a logo ela tem dentro do ecossistema dela um número ali de Móveis bem relevante né? É um número bem robusto, então assim onde você concentra. A busca concentra a busca de forma mais eficiente enfim."
+      },
+      {
+        "startTime": 2152,
+        "endTime": 2152,
+        "speaker": "Diego Diehl",
+        "text": "o aplicativo"
+      },
+      {
+        "startTime": 2154,
+        "endTime": 2154,
+        "speaker": "Leandro Matheus",
+        "text": "Não."
+      },
+      {
+        "startTime": 2155,
+        "endTime": 2156,
+        "speaker": "Diego Diehl",
+        "text": "Você fez o cadastro?"
+      },
+      {
+        "startTime": 2157,
+        "endTime": 2159,
+        "speaker": "Leandro Matheus",
+        "text": "Não. fiz"
+      },
+      {
+        "startTime": 2161,
+        "endTime": 2185,
+        "speaker": "Diego Diehl",
+        "text": "É eu não tô conseguindo eu acho que assim ó o papel que avaliar duas coisas avaliar três várias coisas. eu acho que Eu não sabe o que que acontece com pessoa eu tô te dando feedback mais aberto já Leandro, você já é um cara quarentinha aí né? Não precisamos tratar igual os jovens de 22 SDR que vem entrar aqui com a gente."
+      },
+      {
+        "startTime": 2186,
+        "endTime": 2186,
+        "speaker": "Leandro Matheus",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2188,
+        "endTime": 2213,
+        "speaker": "Diego Diehl",
+        "text": "O que normalmente acontece com pessoas que a gente chega numa entrevista aqui e fala c******, vamos por essa pessoa para dentro. Ela chega. Com brilho no olho da empresa porque ela estudou a empresa. E aí Ela, traz alguns argumentos às vezes até superficiais porque ela viu em três dias a empresa."
+      },
+      {
+        "startTime": 2213,
+        "endTime": 2244,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí o que eu consegui enxergar é uma visão até um pouco madura do que você já sabe. Mas eu não consegui enxergar você falando de órgão. É isso que eu tenho que avaliar no final do dia então. Por isso que eu perguntei o teu cronologia. do Você entendeu a hora porque aqui é uma furada, por exemplo, não é muito fácil vender não."
+      },
+      {
+        "startTime": 2244,
+        "endTime": 2253,
+        "speaker": "Diego Diehl",
+        "text": "Falou que a galera aberta o mercado imobiliário nos mais tradicionais nos mercados mais fechados que tem. então Não sei acho que tem"
+      },
+      {
+        "startTime": 2253,
+        "endTime": 2310,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que os meus inputs assim Leandro até até também como lugar de feedback, quando a gente traz o Case. Esse esse tópico que o Diego trouxe. E perguntou para você no final de como você chegou no Case, eu acho que ele é muito legal de constar dentro da apresentação, porque isso ajuda com que a gente que tá valendo entenda da tua lógica de raciocínio por trás porque é óbvio que a gente não vai esperar que você apresente aqui um plano consistente de expansão e que a gente vai conseguir aplicar porque a gente entende que existe uma bogem que você precisa passar esse entendimento sobre a hora que você precisa ter que vai gerar obviamente essas lacunas ali nessa nessa conversação digamos assim porém entender isso também é importante sentir falta um pouco desse mapeamento do Tá eu vou eu tenho essa estratégia dessa praça do Rio de Janeiro, eu tenho como referência, São Paulo e eu senti falta dessa parte assim de como você chegou no raciocínio primeiro que eu fiz foi."
+      },
+      {
+        "startTime": 2310,
+        "endTime": 2336,
+        "speaker": "Gustavo Torres",
+        "text": "Para o Rio de Janeiro e entender como os caras fazem lá tal e tal coisa olhei para São Paulo e vi que deu certo Talvez isso constando seria interessante. Porque daí a gente consegue entender Independente se você vai chegar na conclusão certo não que não que não é o nosso objetivo aqui porque é muito provável que uma coisa outra você não chega na conclusão certo por conta do da lacuna mesmo de ouro, né de como funciona aqui dentro."
+      },
+      {
+        "startTime": 2337,
+        "endTime": 2339,
+        "speaker": "Diego Diehl",
+        "text": "Se a gente vive isso todo dia, né?"
+      },
+      {
+        "startTime": 2339,
+        "endTime": 2363,
+        "speaker": "Gustavo Torres",
+        "text": "é E aí eu acho que também já falou sobre ali foi um assim, você pegou e não usariado porque ela te daria. Talvez um contexto mais específico é o único lugar que você conseguiria deixar bem específico, eu estou tipo fazendo um case para closer da hora e foi me proposto um objetivo tal me explica em poucas palavras, não é isso como experiência."
+      },
+      {
+        "startTime": 2363,
+        "endTime": 2388,
+        "speaker": "Gustavo Torres",
+        "text": "Talvez lá seria um caminho até mais assertivo para você poder aplicar e Falando um pouco de Orla assim, eu entendo que a gente tem hoje um processo complexo e parece muito complexo. Em alguns momentos a nossa entrega, mas até no site mesmo que até entrei aqui no site como você falou que essa pessoa por lá, eu fiquei na dúvida, como que tava apresentado as soluções."
+      },
+      {
+        "startTime": 2388,
+        "endTime": 2418,
+        "speaker": "Gustavo Torres",
+        "text": "Se você dá uma olhadinha bem rápido, depois vê lá que tem um tópico escrito soluções e tem lá incorporador três tópicos principais que são aumentar canais de vendas campanha de ativação dados isso já viram. A base do teu Pit para Incorporadora, você já imobiliário e tem os dois tópicos que a integrar redes parceiras divulgais, então é essa ali e também tem só o corretor o aplicativo as tabelas então assim eu sinto que teve um entendimento da orla."
+      },
+      {
+        "startTime": 2418,
+        "endTime": 2441,
+        "speaker": "Gustavo Torres",
+        "text": "Faltou mesmo essa visão de tá gera valor para quem esse dados organizados, tipo. Então senti sua falta desse estudo mesmo pelo site dessa análise assim e essa aplicabilidade mesmo no Case. Porque a gente não espera que você traga num Case desse com Case 100%, tá porque é óbvio, né? A gente tava primeiro que a gente estava falando de uma vaga de bdr."
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2457,
+        "speaker": "Gustavo Torres",
+        "text": "A gente chegou ali uma boa um bom potencial para a gente expandir um pouco mais essa essa visão então a gente de novo, né? Não espera que vem aqui tudo redondinho, mas só se sentir falta de ver um pouco mais até da tua"
+      },
+      {
+        "startTime": 2457,
+        "endTime": 2458,
+        "speaker": "Leandro Matheus",
+        "text": "não ótimo cara, eu feedback, foi falou tudo que eu concordo faltou Sim essa"
+      },
+      {
+        "startTime": 2458,
+        "endTime": 2487,
+        "speaker": "Gustavo Torres",
+        "text": "linha de raciocínio de Leandro. Independente de Ouro tipo fosse por uma praça nova vendendo qualquer coisa que seja ou que se você quiser segmentar isso para tecnologia ou enfim qualquer outra coisa como que funciona tua linha de raciocínio estratégica, tipo, pode ser chega eu faço o quê? Ah eu vou vender mais beleza vender mais é um que você vai fazer, mas como então se te falta um pouco desses como você vai fazer cada um daqueles tópicos."
+      },
+      {
+        "startTime": 2487,
+        "endTime": 2493,
+        "speaker": "Gustavo Torres",
+        "text": "Então seria legal ter porque pelo menos a gente entende? Tá como Eu sou speech."
+      },
+      {
+        "startTime": 2506,
+        "endTime": 2533,
+        "speaker": "Leandro Matheus",
+        "text": "parte do Pit e Mas como eu te falei, eu montei isso não querendo. Enfim, não querendo uma ajuda de fato do Diego assim. Falei pô, vou chegar na apresentação. Vou montar apresentação me baseando no que o jogo me mandou ali as ferramentas vai ficar muito na cara que eu não fiz nada, então assim vou botar uma coisa que mais enxuta uma coisa mais bem resumida."
+      },
+      {
+        "startTime": 2533,
+        "endTime": 2562,
+        "speaker": "Leandro Matheus",
+        "text": "Se baseando na minha experiência, né? Mas eu acho que sim faltou mais informações aí sobre os pilares da obra. Acho que que o Diego foi assertivo também, mas eu acho que é esse feedback de vocês se deve a isso eu não ter feito e baseando naquela naquelas informações que o Diego me mandou, né? Eu ignorei falei não vou fazer uma coisa que se baseando na minha experiência na minha visão enfim."
+      },
+      {
+        "startTime": 2563,
+        "endTime": 2579,
+        "speaker": "Gustavo Torres",
+        "text": "Inclusive isso feedback, se você me permite, isso é legal constando a tua apresentação também, ó, a partir de um princípio que eu gostaria de apresentar para vocês uma estratégia onde eu precisasse mínimo possível da ajuda do Diego para chegar no objetivo, porque daí isso dá um contexto muito grande a partir dali."
+      },
+      {
+        "startTime": 2579,
+        "endTime": 2599,
+        "speaker": "Gustavo Torres",
+        "text": "Ah, beleza? Ele não acionou aqui tal tal coisa porque está com uma Âncora bem grande entende? Que isso amarra bem o objetivo sim. Quando ele fica entre ele fica tipo entre linhas, talvez a gente não pega aqui do outro lado que vocês pareceu e por isso que o Diego também perguntou Tá qual que foi a tua linha, isso é legal constar."
+      },
+      {
+        "startTime": 2599,
+        "endTime": 2602,
+        "speaker": "Gustavo Torres",
+        "text": "Porque daí a gente vai entendendo o porquê de algumas coisas ali, sabe?"
+      },
+      {
+        "startTime": 2602,
+        "endTime": 2604,
+        "speaker": "Leandro Matheus",
+        "text": "Sim, sim, concordo pessoal, concordo."
+      },
+      {
+        "startTime": 2604,
+        "endTime": 2616,
+        "speaker": "Diego Diehl",
+        "text": "Leandro Você lembra que no final da apresentação do quando eu escrevi digitei o case para ti, eu falei assim Leandro. Não é uma prova de faculdade, só que você pede meu telefone."
+      },
+      {
+        "startTime": 2616,
+        "endTime": 2618,
+        "speaker": "Leandro Matheus",
+        "text": "Acho que foi terça."
+      },
+      {
+        "startTime": 2618,
+        "endTime": 2645,
+        "speaker": "Diego Diehl",
+        "text": "você me pergunta, você me tira qualquer dúvida, você avança usa e a Faz o que você quiser. Porque isso aqui não é prova sem consulta, lembra que tinha no colégio você não podia consultar tinha que dependendo da tua memória, eu acho ridículo isso hoje. E aí porque eu te chamei assim, principalmente né? Falei cara."
+      },
+      {
+        "startTime": 2645,
+        "endTime": 2673,
+        "speaker": "Diego Diehl",
+        "text": "Tava olhando fez ali o trabalho dele tá com uma língua assim, tô curioso para ver ali. só que aí Eu acho que você mandou na terça, né? Hoje é sexta. Você mandou na terça, né? Hoje é sexta. Quais ações você teve daí depois que você recebeu o resultado que você ia apresentar e tal de terça até hoje?"
+      },
+      {
+        "startTime": 2675,
+        "endTime": 2676,
+        "speaker": "Leandro Matheus",
+        "text": "as ações em relação à apresentação"
+      },
+      {
+        "startTime": 2678,
+        "endTime": 2681,
+        "speaker": "Diego Diehl",
+        "text": "Você é tipo assim. Que você fez de terça até hoje."
+      },
+      {
+        "startTime": 2683,
+        "endTime": 2690,
+        "speaker": "Leandro Matheus",
+        "text": "Então foi uma semana bem corrida como eu moro em São Paulo, tive que vir para o Rio de Janeiro. Não eu vi vim de ônibus."
+      },
+      {
+        "startTime": 2690,
+        "endTime": 2697,
+        "speaker": "Diego Diehl",
+        "text": "Como para o Rio de Janeiro? De avião você foi? E que que você fez no ônibus?"
+      },
+      {
+        "startTime": 2699,
+        "endTime": 2700,
+        "speaker": "Leandro Matheus",
+        "text": "Nossa eu fiz"
+      },
+      {
+        "startTime": 2703,
+        "endTime": 2705,
+        "speaker": "Diego Diehl",
+        "text": "Entendeu o que eu tô querendo dizer."
+      },
+      {
+        "startTime": 2705,
+        "endTime": 2705,
+        "speaker": "Leandro Matheus",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2706,
+        "endTime": 2729,
+        "speaker": "Diego Diehl",
+        "text": "O que eu sentia que cara se você tirar e daí é um feedback, claro cara uma hora lida do site completo da hora. Você teria dado um passo que eu imaginei que você fosse fazer isso entre TS e sexta porque não tinha muito oro Louis stakeholder. Como é que a gente cria o Marketplace."
+      },
+      {
+        "startTime": 2729,
+        "endTime": 2749,
+        "speaker": "Diego Diehl",
+        "text": "E aí se não é se não foi natural. É porque não tá tão interessante que eu vou entrar numa empresa. E eu tô afim eu como o que tem da empresa disponível, porque eu tô muito afim de entender a empresa e a cabeça dessa galera."
+      },
+      {
+        "startTime": 2749,
+        "endTime": 2750,
+        "speaker": "Leandro Matheus",
+        "text": "Não com certeza."
+      },
+      {
+        "startTime": 2750,
+        "endTime": 2782,
+        "speaker": "Diego Diehl",
+        "text": "E aí eu senti falta disso tá como um feedback assim final de tá um bom plano. geral assim de o que eu falei para o Gustavo, se você realmente Pegasse com toda a força do mundo e executasse o que você apresentou. Tem chance de dar muito certo? O desafio é que você não me deu sinais de que você vai pegar com toda a força do mundo para fazer entendeu? Esse que eu faço com isso daí Leandro me"
+      },
+      {
+        "startTime": 2782,
+        "endTime": 2782,
+        "speaker": "Leandro Matheus",
+        "text": "mas"
+      },
+      {
+        "startTime": 2785,
+        "endTime": 2785,
+        "speaker": "Diego Diehl",
+        "text": "dá uma visão."
+      },
+      {
+        "startTime": 2786,
+        "endTime": 2823,
+        "speaker": "Leandro Matheus",
+        "text": "Então vamos lá isso daí, você mencionou bem agora é um plano que acho que qualquer vendedor. Mediano de médio para cima se pegar esse plano aqui e ele executar para tá vendendo o produto dele, ele vai ter sucesso, eu tenho certeza, né? É um plano geral é como eu falei isso daqui gente é um plano genérico de como eu é abriria caminho a partir do Rio de Janeiro, tá? Então assim como eu falei eu fiz essa apresentação me baseando num plano geral não de fato ali é."
+      },
+      {
+        "startTime": 2823,
+        "endTime": 2857,
+        "speaker": "Leandro Matheus",
+        "text": "Sobre essas questões que vocês estão dando feedback aí de ter faltado Pit de vendas ter né mencionar ali os pilares da obra. Enfim, eu me baseei no que você me pediu, né? 120 dias então é um plano geral. De vendas, né de quem tem experiência na área de vendas vai ver e vai entender mas a gente pode muito bem pegar esse plano e melhorar ele ainda cada vez mais para estar vendendo algo tá? Então assim foi numa semana típica."
+      },
+      {
+        "startTime": 2857,
+        "endTime": 2879,
+        "speaker": "Leandro Matheus",
+        "text": "Eu nunca fiz um processo nessa semana nessa época do ano, tá? Eu neguei ali. Acho que uns três ou quatro processos, você perguntou o que que você fez, então vou te falar o que que eu fiz para Não Me Perder em relação o foco na hora eu neguei ali de três."
+      },
+      {
+        "startTime": 2879,
+        "endTime": 2917,
+        "speaker": "Leandro Matheus",
+        "text": "A quatro processos para tá dando foco, né? Porque eu vi o produto da obra, eu vi a forma que o Gustavo me abordou como ele fez entrevista comigo a forma como você também abordou tá Diego? Então assim eu falei cara, eles são sérios. Tem um produto f*** na mão, tá? E é um trabalho que dá se tiver sangue nos olhos ali na parte comercial e eles foram me ajudando ali a estruturar e aprimorar esse plano carga vai dar certo, entendeu? Então deixa eu deixar esses processos aqui de lado."
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2933,
+        "speaker": "Leandro Matheus",
+        "text": "Vou dar foco na logo do para ver de fato aí se dá certo e é o que eu tô fazendo eu tô dando foco para vocês, né? Eu tô dando Total atenção para vocês, então eu acho que"
+      },
+      {
+        "startTime": 2933,
+        "endTime": 2948,
+        "speaker": "Diego Diehl",
+        "text": "Uma dúvida uma dúvida Leandro é se você deu Total atenção para gente. Como é que eu consigo interpretar aqui de terça, a sexta não houve algum avanço?"
+      },
+      {
+        "startTime": 2949,
+        "endTime": 2971,
+        "speaker": "Leandro Matheus",
+        "text": "Assim é porque você me pediu uma coisa assim com todo respeito tadinho, você me pediu um plano bem genérico, né? Que não é difícil de fazer é um plano para gente falando para a gente montar e pôr em execução como eu te falei, esse plano serve. Para ele produtos."
+      },
+      {
+        "startTime": 2971,
+        "endTime": 2981,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu digo com esse foco com essa liberação do tempo. Como é que você quer que eu interprete que você não mastigou o site da ONU?"
+      },
+      {
+        "startTime": 2982,
+        "endTime": 3005,
+        "speaker": "Leandro Matheus",
+        "text": "Sim e de fato eu não mastiguei assim o produto enfim não cadastrei não fiz nada disso. Eu foquei na apresentação. Genérica para gente por o plano e execução como eu por esse plano em execução para estar abrindo para assar no Rio e depois chegou ali em São Paulo, tá? Mas de fato eu não mergulhei de cabeça mesmo no produto."
+      },
+      {
+        "startTime": 3005,
+        "endTime": 3030,
+        "speaker": "Leandro Matheus",
+        "text": "Você já deram feedback sobre isso o concordo com o feedback de vocês Gustavo foi bem assertivo ali, mas eu foquei mais no plano mesmo na estruturação genérica do que de fato mastigar ali a o propósito da obra da obra, né para chegar ali na mesa com cara e falar ó logo ler isso isso aquilo ela vai te ajudar nisso, ela vai fazer você economizar isso."
+      },
+      {
+        "startTime": 3030,
+        "endTime": 3034,
+        "speaker": "Leandro Matheus",
+        "text": "Enfim isso de fato, eu não acho ninguém mesmo não."
+      },
+      {
+        "startTime": 3034,
+        "endTime": 3053,
+        "speaker": "Diego Diehl",
+        "text": "show e Leandro desse processo aí o que que você leva para você assim como um aprendizado ou uma Ursinho assim tipo terminando a reunião agora, o que que você? Conclui leva."
+      },
+      {
+        "startTime": 3054,
+        "endTime": 3078,
+        "speaker": "Leandro Matheus",
+        "text": "É o que eu concluo é que de experiência, vamos lá como feedback para mim mesmo. Não atropelar o processo que você pediu, né? Por exemplo você me mandou as ferramentas lá para estar inserindo na apresentação. Eu deduzi, né na minha cabeça que iria ficar algo muito robótico muito fácil de ser feito ia ficar na cara ali, até porque eu já fiz apresentações iguais e me deram esse feedback."
+      },
+      {
+        "startTime": 3078,
+        "endTime": 3108,
+        "speaker": "Leandro Matheus",
+        "text": "Poxa, mas por que que você não fez muito do seu jeito e fez no meu jeito te mandei as ferramentas. Mas você poderia ter dado um toque pessoal seu então a gente fica meio que assim bom. Aí fica meio que perdido no que fazer então eu atuei nessa apresentação pelos feedbacks passados que eu levei tá Diego, você quer um cara aí que dá para perceber que nessa parte de mentoria é o cara de sucesso é um cara que tem expertise."
+      },
+      {
+        "startTime": 3108,
+        "endTime": 3127,
+        "speaker": "Leandro Matheus",
+        "text": "Você deve saber o que eu tô falando. Então eu Levaria como feedback para mim mesmo é fazer mais perguntas, né? Eu poderia ter perguntado para você, tudo bem gelo tu tá me mandando. Ferramentas é tranquilo. Se ficar muito com a cara do que você me mandou e não o que que você quer de fato."
+      },
+      {
+        "startTime": 3127,
+        "endTime": 3147,
+        "speaker": "Leandro Matheus",
+        "text": "Acho que eu deveria ter perguntado mais para você o simplesmente só anotei o que você pediu para fazer e executei o plano genérico, mas se tivesse perguntado, mas para entender de fato é porque que você me mandou aquela aquele meio caminho andado. Acho que a apresentação estaria mais com a carga que vocês pediram."
+      },
+      {
+        "startTime": 3149,
+        "endTime": 3165,
+        "speaker": "Diego Diehl",
+        "text": "Fechou boa resposta. Leandro a gente tem uma outra agora. Obrigado e parabéns pelo teu processo. Acho que tem uma linha geral de visão do uma cara de mão na massa algum item prático."
+      },
+      {
+        "startTime": 3166,
+        "endTime": 3166,
+        "speaker": "Leandro Matheus",
+        "text": "É isso."
+      },
+      {
+        "startTime": 3169,
+        "endTime": 3179,
+        "speaker": "Diego Diehl",
+        "text": "Acho que até a segunda ali A gente Gustavo te dar um retorno. Se você tiver algum ponto com ele pode trazer também."
+      },
+      {
+        "startTime": 3179,
+        "endTime": 3180,
+        "speaker": "Leandro Matheus",
+        "text": "tá"
+      },
+      {
+        "startTime": 3180,
+        "endTime": 3190,
+        "speaker": "Diego Diehl",
+        "text": "E cara Feliz, Natal aí Feliz Ano Novo, obrigado por ter dado esse gás aí. Tomara que você Que tenha servido até aqui para água aí que a gente."
+      },
+      {
+        "startTime": 3190,
+        "endTime": 3222,
+        "speaker": "Leandro Matheus",
+        "text": "Pô, tomara que dê certo. Eu tô enfim. Eu gostei da da forma de abordagem de vocês Da sua abordagem do Gustavo. Como como o processo da entrevista foi cara muito legal bem inteligente interessante. Parabéns tá Gustavo. E aquilo que eu te falei de eu espero trabalhar com você e porque eu vi você como uma ponte muito boa por o plano que eu quero por em prática a partir de 2026, tá então cara aí p****, tem uma trajetória profissional bem interessante."
+      },
+      {
+        "startTime": 3222,
+        "endTime": 3231,
+        "speaker": "Leandro Matheus",
+        "text": "tem uns insights legais sabe fazer as perguntas certas, eu acho que vai me ajudar bastante se eu Se eu fechar parceria com vocês."
+      },
+      {
+        "startTime": 3233,
+        "endTime": 3241,
+        "speaker": "Diego Diehl",
+        "text": "Fechou, valeu Leandro, satisfação de conhecer aí. Desejo uma boa virada de ano aí Conto com a gente, viu?"
+      },
+      {
+        "startTime": 3242,
+        "endTime": 3242,
+        "speaker": "Leandro Matheus",
+        "text": "valeu"
+      },
+      {
+        "startTime": 3243,
+        "endTime": 3245,
+        "speaker": "Diego Diehl",
+        "text": "Joga para fora."
+      },
+      {
+        "startTime": 3245,
+        "endTime": 3245,
+        "speaker": "Leandro Matheus",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 3252,
+        "endTime": 3252,
+        "speaker": "Gustavo Torres",
+        "text": "Pode por tua cara aqui."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 175,
+    "speakers": [
+      "Diego Diehl",
+      "Gustavo Torres",
+      "Leandro Matheus"
+    ],
+    "total_words_estimate": 5495,
+    "duration_start": 23,
+    "duration_end": 3252
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "694e85b5363d010013592879",
+        "timestamp": 206,
+        "text": "Gustavo assume papel fundamental na estruturação de conteúdos e expansão da equipe",
+        "topicId": "694e85b5363d01001359286f"
+      },
+      {
+        "segmentId": "694e85b5363d010013592872",
+        "timestamp": 245,
+        "text": "Equipe planeja definir estratégias para alcançar objetivos inteligentes em 2016",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d010013592873",
+        "timestamp": 710,
+        "text": "Estratégia de SDR focará em contatar incorporadoras no Rio de Janeiro como agente de inteligência de mercado",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d010013592874",
+        "timestamp": 756,
+        "text": "Objetivo de divulgar cases de sucesso no LinkedIn com vídeos curtos de empresários",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287a",
+        "timestamp": 878,
+        "text": "Leandro necessita treinamento para formação de equipe de vendas estratégica",
+        "topicId": "694e85b5363d01001359286f"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287b",
+        "timestamp": 950,
+        "text": "Preparar abordagem para convencer corretores e responsáveis de incorporadoras",
+        "topicId": "694e85b5363d01001359286f"
+      },
+      {
+        "segmentId": "694e85b5363d010013592884",
+        "timestamp": 1091,
+        "text": "Diego solicita que Leandro compartilhe entendimento sobre o valor gerado para incorporador.",
+        "topicId": "694e85b5363d010013592871"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287e",
+        "timestamp": 1124,
+        "text": "Diego pede a Leandro para explicar sua experiência com a ferramenta fornecida.",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287f",
+        "timestamp": 1180,
+        "text": "Diego solicita entendimento do processo, com Leandro explicando análise inicial da empresa.",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287c",
+        "timestamp": 1349,
+        "text": "Leandro planeja preparar vídeos para apresentação em São Paulo e redes sociais",
+        "topicId": "694e85b5363d01001359286f"
+      },
+      {
+        "segmentId": "694e85b5363d010013592875",
+        "timestamp": 1475,
+        "text": "Objetivo de expandir para São Paulo, usando prova social do Rio para abrir portas",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d010013592876",
+        "timestamp": 1549,
+        "text": "Foco em receita recorrente, novas indicações e gestão ativa de carteira de clientes",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d010013592877",
+        "timestamp": 1654,
+        "text": "Cronograma: Mês 1 com 30-60 agendamentos, mês 3 com vídeos de provas sociais, mês 4 com networking",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d010013592878",
+        "timestamp": 1715,
+        "text": "Estratégia de prospecção com orçamento enxuto, utilizando ferramentas gratuitas como HubSpot e Apolo",
+        "topicId": "694e85b5363d01001359286e"
+      },
+      {
+        "segmentId": "694e85b5363d01001359287d",
+        "timestamp": 2058,
+        "text": "Leandro sugere que uma reunião presencial seria mais eficaz na fase de fechamento.",
+        "topicId": "694e85b5363d01001359286f"
+      },
+      {
+        "segmentId": "694e85b5363d010013592880",
+        "timestamp": 2188,
+        "text": "Diego sugere que Leandro demonstre mais profundidade e conhecimento sobre a empresa",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d010013592881",
+        "timestamp": 2362,
+        "text": "Leandro confirma registro de informações para análise do complexo processo da Orla.",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d010013592882",
+        "timestamp": 2418,
+        "text": "Faltou demonstrar como gerar valor a partir dos dados organizados no case.",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d010013592885",
+        "timestamp": 2460,
+        "text": "Necessário detalhar estratégia de como executar os objetivos propostos, não apenas listar metas.",
+        "topicId": "694e85b5363d010013592871"
+      },
+      {
+        "segmentId": "694e85b5363d010013592886",
+        "timestamp": 2767,
+        "text": "Diego questiona comprometimento de Leandro em executar o plano apresentado com total dedicação.",
+        "topicId": "694e85b5363d010013592871"
+      },
+      {
+        "segmentId": "694e85b5363d010013592883",
+        "timestamp": 2981,
+        "text": "Leandro admite não ter aprofundado análise do produto, focando apenas no plano genérico.",
+        "topicId": "694e85b5363d010013592870"
+      },
+      {
+        "segmentId": "694e85b5363d010013592887",
+        "timestamp": 3058,
+        "text": "Leandro aprende que não deve atropelar processos e deve fazer mais perguntas para entender expectativas.",
+        "topicId": "694e85b5363d010013592871"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "694e85b5363d01001359286e",
+        "order": 1,
+        "title": "Ações e Compromissos Definidos",
+        "summary": ""
+      },
+      {
+        "id": "694e85b5363d01001359286f",
+        "order": 2,
+        "title": "Desenvolvimento de Equipe de Vendas",
+        "summary": ""
+      },
+      {
+        "id": "694e85b5363d010013592870",
+        "order": 3,
+        "title": "Análise e Apresentação do Projeto",
+        "summary": ""
+      },
+      {
+        "id": "694e85b5363d010013592871",
+        "order": 4,
+        "title": "Feedback e Aprendizados",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 22,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "694e85b5363d01001359286e",
+      "order": 1,
+      "title": "Ações e Compromissos Definidos",
+      "summary": ""
+    },
+    {
+      "id": "694e85b5363d01001359286f",
+      "order": 2,
+      "title": "Desenvolvimento de Equipe de Vendas",
+      "summary": ""
+    },
+    {
+      "id": "694e85b5363d010013592870",
+      "order": 3,
+      "title": "Análise e Apresentação do Projeto",
+      "summary": ""
+    },
+    {
+      "id": "694e85b5363d010013592871",
+      "order": 4,
+      "title": "Feedback e Aprendizados",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:50:19.480322+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:19.480322+00:00"
+}

@@ -1,0 +1,96 @@
+{
+  "meeting_id": "669563a15e431f001476e56d",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2024-07-15T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T00:45:29.028264+00:00",
+  "executive_summary": "Reunião de Diretoria sem dados disponíveis. Transcript, notas e tópicos ausentes. Duração de 0.8 minutos sugere reunião cancelada ou sem pauta executada.",
+  "context": {
+    "purpose": "Alinhamento semanal de diretoria — propósito não verificável",
+    "main_agenda_items": [
+      "[INDISPONIVEL]"
+    ],
+    "participants_and_roles": {
+      "Alejandro Olchik": "Participante",
+      "Eduardo Stringhini": "Participante",
+      "Felipe Goettems": "Participante",
+      "Priscila Ananias": "Participante",
+      "Marcelo Rodrigues": "Participante",
+      "Carolina Campos": "Participante"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 0.8
+  },
+  "decisions": [],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Confirmar se a reunião de 15/07/2024 foi cancelada ou realizada sem registro",
+      "owner": null,
+      "deadline": null,
+      "status": "blocked",
+      "source": "notes",
+      "blocking_factor": "Sem transcript ou notas, impossível extrair conteúdo"
+    }
+  ],
+  "tasks": [],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "A reunião de Diretoria de 15/07/2024 teve pauta executada ou foi cancelada?",
+      "context": "Duração de 0.8min sugere que nada实质性 foi discutido. Pode indicar falha de registro ou cancelamento de última hora.",
+      "answer_required_by": null,
+      "owner": null
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reunião de diretoria sem registro — histórico institucional incompleto",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Se reunião aconteceu, registrar decisões em arquivo próprio; se cancelada, marcar como cancelada no sistema",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Dados de julho/2024 podem estar desatualizados ou ser irrelevant para contexto atual (abril/2026)",
+      "type": "strategic",
+      "severity": "low",
+      "mitigation": "Avaliar se estas reuniões antigas são relevantes para o contexto atual da Órulo",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Reunião de Diretoria de 15/07/2024 não possui registro de transcript, notas ou tópicos —，可能是 cancelamento ou falha de gravação",
+      "category": "process",
+      "confidence": "low"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Verificar com Diego se esta reunião realmente aconteceu e tem importância para o contexto operacional atual da Órulo",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-07",
+    "reason": "Dados insuficientes para análise significativa — necessíta validação do próprio Diego sobre relevância desta reunião"
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "Transcript indisponível",
+      "Notas estruturadas indisponíveis",
+      "Tópicos indisponíveis",
+      "Duração de 0.8min não permite análise de conteúdo",
+      "Reunião de jul/2024 pode estar desatualizada para contexto atual",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": []
+}

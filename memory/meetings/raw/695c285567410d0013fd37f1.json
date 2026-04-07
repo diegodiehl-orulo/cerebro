@@ -1,0 +1,28 @@
+{
+  "id": "695c285567410d0013fd37f1",
+  "happenedAt": "2026-01-05T21:08:37.307Z",
+  "invitees": [
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "Comercial Alinhamento",
+  "duration": 1308.722,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/695c285567410d0013fd37f1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "gpr-nuid-prn"
+  }
+}

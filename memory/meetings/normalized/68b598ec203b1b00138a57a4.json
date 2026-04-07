@@ -1,0 +1,2124 @@
+{
+  "meeting_id": "68b598ec203b1b00138a57a4",
+  "name": "TREINAMENTO CONECTA",
+  "happened_at": "2025-09-01T13:00:00.000Z",
+  "duration_seconds": 5430.502,
+  "duration_minutes": 90.5,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "neto@z2app.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "junior@z2app.com.br"
+    },
+    {
+      "name": "Pablo  Augusto do Nascimento",
+      "email": "pablo.nascimento@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    },
+    {
+      "name": "Michelle Trajano",
+      "email": "michelle@z2app.com.br"
+    },
+    {
+      "name": "Marcelo Tadeu",
+      "email": "marcelo@z2app.com.br"
+    },
+    {
+      "name": "Guilherme Rocha",
+      "email": "guilherme@z2app.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    },
+    {
+      "name": "Ana Carolina dos Santos Silva Santos",
+      "email": "anacarolina@z2app.com.br"
+    },
+    {
+      "name": "Caroline Mello",
+      "email": "caroline.mello@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Wallace Guimarães",
+      "email": "wallace@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68b598ec203b1b00138a57a4",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "yov-wqht-eor",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68b599ba82e64100137f9302",
+    "meetingId": "68b598ec203b1b00138a57a4",
+    "data": [
+      {
+        "startTime": 12,
+        "endTime": 12,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 13,
+        "endTime": 14,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Fala João Bom dia"
+      },
+      {
+        "startTime": 31,
+        "endTime": 37,
+        "speaker": "Diego Diehl",
+        "text": "Começa uns três minutinhos, tá? Pessoal vai entrar também exterminador."
+      },
+      {
+        "startTime": 45,
+        "endTime": 46,
+        "speaker": "Junior Silva",
+        "text": "Bom dia, bom dia."
+      },
+      {
+        "startTime": 48,
+        "endTime": 48,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "João"
+      },
+      {
+        "startTime": 49,
+        "endTime": 49,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 54,
+        "endTime": 55,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 57,
+        "endTime": 60,
+        "speaker": "Carol Pizzano",
+        "text": "João você viu aquele print que eu mandei lá sabe quem é."
+      },
+      {
+        "startTime": 66,
+        "endTime": 70,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "coisa boa show demais"
+      },
+      {
+        "startTime": 76,
+        "endTime": 79,
+        "speaker": "Junior Silva",
+        "text": "Paz, vai ter um time de futebol aí no Connect."
+      },
+      {
+        "startTime": 82,
+        "endTime": 82,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 82,
+        "endTime": 87,
+        "speaker": "Junior Silva",
+        "text": "eita Grande Rapaz bom demais."
+      },
+      {
+        "startTime": 87,
+        "endTime": 87,
+        "speaker": "Mirla Menezes",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 90,
+        "endTime": 90,
+        "speaker": "Junior Silva",
+        "text": "Dia bom dia."
+      },
+      {
+        "startTime": 96,
+        "endTime": 96,
+        "speaker": "Ana Carolina dos Santos Silva Santos",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 102,
+        "endTime": 104,
+        "speaker": "Junior Silva",
+        "text": "Rodrigo Tá acessando aí."
+      },
+      {
+        "startTime": 109,
+        "endTime": 115,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que no instante tiver meio vazio Júnior a galera troca de camiseta para ficar a paisana, encheu o estande."
+      },
+      {
+        "startTime": 119,
+        "endTime": 149,
+        "speaker": "Junior Silva",
+        "text": "O bom é Nossa demais isso aí, já fechei. Até tocar."
+      },
+      {
+        "startTime": 149,
+        "endTime": 157,
+        "speaker": "Diego Diehl",
+        "text": "Tocasse um daí pegou pesado, né? Ser figurante nível. hard mesmo"
+      },
+      {
+        "startTime": 160,
+        "endTime": 172,
+        "speaker": "Junior Silva",
+        "text": "E eu sou aquele cara que não não tolera vê um brinde. Ah eu vou te premiar"
+      },
+      {
+        "startTime": 172,
+        "endTime": 186,
+        "speaker": "Diego Diehl",
+        "text": "Essa é uma boa experiência para todo mundo aí se for abordado na praia. Sendo convidado para conhecer multipropriedade vai Uma Vez pelo menos. Você vê a experiência que os caras. Os caras são agressivos."
+      },
+      {
+        "startTime": 186,
+        "endTime": 195,
+        "speaker": "Rodrigo Italiano",
+        "text": "Vamos embora."
+      },
+      {
+        "startTime": 195,
+        "endTime": 216,
+        "speaker": "Junior Silva",
+        "text": "vou te dar o brinde, eu sou o primeiro da fila, né? Falei cara, então tu quer me dar alguma coisa eu vou lá porque eu acho que eu nunca vou ser enrolado, né? Todas as vezes esse negócio de propriedade, eu acabei comprando você acredita? Ele entrava lá, fala o cara vou te dar um jantar com a sua esposa com seus filhos."
+      },
+      {
+        "startTime": 216,
+        "endTime": 231,
+        "speaker": "Junior Silva",
+        "text": "Cara eu tenho três filhos, esse cara vai se arrombar. Deixa ele comer. Demais começava a fazer conta lá, eu falei eu saía de lá e fala alguém me enrolou na vida inteira que não foi esse cara. Eita ilusão até comprei umas bombas."
+      },
+      {
+        "startTime": 233,
+        "endTime": 234,
+        "speaker": "Diego Diehl",
+        "text": "E seus alguma já Júnior?"
+      },
+      {
+        "startTime": 236,
+        "endTime": 247,
+        "speaker": "Junior Silva",
+        "text": "Não conseguiu usar Só paguei tu acredita? Sempre tem que agendar com antecedência, a gente agenda é complexo, né? E chega de última hora, vamos viajar daqui duas semanas. Aí não dá mais."
+      },
+      {
+        "startTime": 252,
+        "endTime": 255,
+        "speaker": "Diego Diehl",
+        "text": "Acho que geral chegou já né? Falta alguém aí."
+      },
+      {
+        "startTime": 255,
+        "endTime": 255,
+        "speaker": "Junior Silva",
+        "text": "Então vamos"
+      },
+      {
+        "startTime": 256,
+        "endTime": 259,
+        "speaker": "Diego Diehl",
+        "text": "Dá uma alinhada geral aí da ideia é time estamos chamei Campus tá aí"
+      },
+      {
+        "startTime": 259,
+        "endTime": 259,
+        "speaker": "Junior Silva",
+        "text": "embora"
+      },
+      {
+        "startTime": 267,
+        "endTime": 2068,
+        "speaker": "Diego Diehl",
+        "text": "vai perceber coisa na hora, talvez muda o plano talvez. Peça uma coisa para um lado. Peça para o outro e a gente vai se ajustando. O importante aí é todo mundo tá aberto aí aí se ajustando no andar da carruagem também, mas acho que esse alinhamento inicial vai ser bom."
+      },
+      {
+        "startTime": 2068,
+        "endTime": 396,
+        "speaker": "Diego Diehl",
+        "text": "Podem passar apresentação."
+      },
+      {
+        "startTime": 396,
+        "endTime": 396,
+        "speaker": "Rodrigo Italiano",
+        "text": "Vamos embora."
+      },
+      {
+        "startTime": 396,
+        "endTime": 645,
+        "speaker": "Junior Silva",
+        "text": "gente vai estar falando que é próximo da feira de negócios, né? Então dentro dessa estrutura da feira de negócios ali é aquele Grande centro ali onde tem alguns instantes e o circulado em vermelho ali com a bolinha. É o que a gente traz aqui é o nosso instante, então estamos próximos ali ao lado da Elba que é uma grande Incorporadora, estamos numa boa localização na esquina, né? Lote de esquina."
+      },
+      {
+        "startTime": 645,
+        "endTime": 645,
+        "speaker": "Diego Diehl",
+        "text": "Apertou para sair."
+      },
+      {
+        "startTime": 646,
+        "endTime": 649,
+        "speaker": "Marcelo Tadeu",
+        "text": "Ele tirou o fone aí, ó."
+      },
+      {
+        "startTime": 650,
+        "endTime": 655,
+        "speaker": "Rodrigo Italiano",
+        "text": "Fone eu vou levar um fone novo para ele aqui, eu deiquei um da JBL que é top aqui."
+      },
+      {
+        "startTime": 656,
+        "endTime": 658,
+        "speaker": "Diego Diehl",
+        "text": "Você tá multado?"
+      },
+      {
+        "startTime": 660,
+        "endTime": 673,
+        "speaker": "Junior Silva",
+        "text": "Mas vamos lá caiu aqui todo mundo já explicou aí já sabe a causa. Então, não sei se fica alguma dúvida pessoal aqui, não é para ser monólogo não, tá Diego quiser complementar algo e tá aí, vocês me interrompem aqui."
+      },
+      {
+        "startTime": 674,
+        "endTime": 675,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o do lugar ali gente eu acho que é legal quando a gente chegar a"
+      },
+      {
+        "startTime": 675,
+        "endTime": 675,
+        "speaker": "Junior Silva",
+        "text": "Tô tentando."
+      },
+      {
+        "startTime": 679,
+        "endTime": 702,
+        "speaker": "Diego Diehl",
+        "text": "gente começar a ficar esperto com relação ao fluxo de pessoas da onde é que vem complementar os vizinhos ali. Nossa meta é fechar Coelba, né? Júnior? Não sei a de você aí, mas a gente vai transformar ela em Z2 e Um item só do público para a gente pensando já também tem Imobiliária tem corretor tem Incorporadora e tem um público bem estratégico para a gente."
+      },
+      {
+        "startTime": 702,
+        "endTime": 731,
+        "speaker": "Diego Diehl",
+        "text": "Que são as entidades locais também então se o cara faz parte de cresce sim, secove qualquer sindicato ou conselho ou qualquer coisa levantou a mão desse cara que faz parte de uma entidade, você já aspas promove ele chamando alguém outro alguém do nosso estande. Tipo chama Júnior chama eu chama algum fundador da hora lá, vem cá conversar que a gente tem muito interesse em aproximar é bem estratégico para a gente expandir Brasil se aproximar dessa galera da identidade local, se ele reforçar isso aí também."
+      },
+      {
+        "startTime": 732,
+        "endTime": 2104,
+        "speaker": "Junior Silva",
+        "text": "imóvel, não é bem ali. Então esse é o nosso junto com a hora, imagina amanhã que sonha é o que a gente imagina é o que a gente planeja saindo hora clicar no botão agendar visita já conseguir acompanhar sua venda suas comissões é dentro do Ouro. Ele tem essa transparência igual é um check-in e um check out não é então para mim é isso que a gente tem que buscar como plataforma é isso que a gente faz todos os dias aqui, tá? Então além de criar."
+      },
+      {
+        "startTime": 2104,
+        "endTime": 898,
+        "speaker": "Junior Silva",
+        "text": "Audiência e tráfego que isso aí é natural do negócio, né? E organizar o inventário para deixar a informação mais fidedigna possível. Então os incorporadores aqui Oi você tá aí complementando agora só dar uma respirada."
+      },
+      {
+        "startTime": 898,
+        "endTime": 2300,
+        "speaker": "Rodrigo Italiano",
+        "text": "aí a e aqui de z2pi pagamento das comissões, né? Então quando a gente fala desse ecossistema completo de parcerias é justamente entrando aqui desde da originação desse parceiro do engajamento desse parceiro com as incorporadoras até todo atendimento automações aí atuando e finaliza aqui no pagamento da comissão. Um ponto que é super relevante aqui o Diego até brincou ali um pouquinho o programa do embaixador Aurora Z2, né? Então aqui principalmente não só falando das incorporadoras falando também dos influências das entidades de classes, então esses são caras que eles podem ser também nossos embaixadores, porque aqui por influência ele tem te dar de Classe."
+      },
+      {
+        "startTime": 2300,
+        "endTime": 1033,
+        "speaker": "Rodrigo Italiano",
+        "text": "A gente não tem o que vender não é palpável ali vou vender o Z2 ou vender o órgão. A ideia é fazer com que esses caras sejam aqui propagadores das nossas marcas, né do ecossistema."
+      },
+      {
+        "startTime": 1033,
+        "endTime": 1103,
+        "speaker": "Junior Silva",
+        "text": "um plano aqui de trazer esse cara e tentar fazer com que ele promova o ouro lá o Z2 dentro da cidade dele. beleza"
+      },
+      {
+        "startTime": 1103,
+        "endTime": 1719,
+        "speaker": "Diego Diehl",
+        "text": "já para falar sobre Embaixador, por enquanto pode ser eu Júnior Rita e o João. O João tá puxando esse programa de embaixadores, não dá para centralizar nele que daí numa primeira manhã ou na primeira metade do dia a gente já pega o jeito é do que responder o que fazer, depois a gente alinha todo mundo para esse passar."
+      },
+      {
+        "startTime": 1719,
+        "endTime": 2588,
+        "speaker": "Diego Diehl",
+        "text": "Tá, mas esse daí é um dos objetivos estratégicos que a gente tem tá se a gente conseguir. Sei lá uma incorporadora ou duas em algumas capitais do Brasil para Fazer esse essa Embaixada com a gente aí a gente acelera o nosso crescimento. Órgão Z2 no Brasil aí Tá bom então, esse é um ponto bem importante e a gente vai dar várias coisas para esse cara então e vai ser bem barato para eles vai investir com ele, a gente vai dar todo suporte."
+      },
+      {
+        "startTime": 2588,
+        "endTime": 1209,
+        "speaker": "Diego Diehl",
+        "text": "Vai entregar o normal do que que é parcerias imobiliárias nível Brasil aí para ajudar esse cara a tecnologia o que for aí tá então esse ponto aí deixa umas três cão aí para todo mundo."
+      },
+      {
+        "startTime": 1209,
+        "endTime": 1209,
+        "speaker": "Junior Silva",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 1210,
+        "endTime": 2957,
+        "speaker": "Rodrigo Italiano",
+        "text": "descrito aqui E aí promover os dois a Com referência de inteligência artificial no mercado imobiliário, né? Aqui já tá muito no na cabeça de todo mundo aí né. E o Z2 penv como uma grande novidade aí que vê a solução de pagamento. Os e2pay ele diferente do Z2 aqui, né? É a gente pode atuar com incorporadoras e com imobiliárias também."
+      },
+      {
+        "startTime": 2957,
+        "endTime": 1243,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então aqui."
+      },
+      {
+        "startTime": 1243,
+        "endTime": 1249,
+        "speaker": "Junior Silva",
+        "text": "Deixa eu dar uma introdução Antes aqui até porque a gente fala Z2 T aqui pagadoria como se todos entendesse aqui, né? Só para entender assim. Ó hoje"
+      },
+      {
+        "startTime": 1249,
+        "endTime": 1249,
+        "speaker": "Rodrigo Italiano",
+        "text": "vai lá"
+      },
+      {
+        "startTime": 1253,
+        "endTime": 1620,
+        "speaker": "Junior Silva",
+        "text": "essa solução. embarcada independente Para dar essa fluidez é legal conveniência Total assim, né para o cara falou assim, cara. Você clicou num produto por exemplo. Que tem aqui pagadoria que tem Z2 você tem agenda visita mais rápido, você recebe você tem sua transparência da venda que você tá fazendo então isso a gente tá caminhando muito bem, tá? E aí o lançamento oficial é agora então pagado isso de um cara lá interessado, a gente vai abordando na dinâmica e direciona um dos times aqui do Z2 que a gente vai falar o final nós vamos sair a gente não perder tem muito slime."
+      },
+      {
+        "startTime": 1620,
+        "endTime": 1650,
+        "speaker": "Rodrigo Italiano",
+        "text": "É um principalmente falando ali da dinâmica de todo território nacional então aqui o Diegão pode complementar também aí se quiser de não ficar à vontade. Falar da facilidade."
+      },
+      {
+        "startTime": 1650,
+        "endTime": 2343,
+        "speaker": "Diego Diehl",
+        "text": "eram as coisas mais importantes do mercado avaliando uma incorporadora para vender e o top 2 foi agilidade no pagamento de comissão. Então a partir do az2p lá uma incorporadora será age no pagamento super importante. E o Leandro veio para São Paulo, eu falei cara divulgam os produtos ele vendeu três apartamentos de São Paulo para clientes em Curitiba."
+      },
+      {
+        "startTime": 2343,
+        "endTime": 3162,
+        "speaker": "Diego Diehl",
+        "text": "Então essa versatilidade de portfólio pode trazer mais autoridade para o corretor e para Imobiliária e a hora tá aí como tecnologia para ele se conectar de graça, então o pit principal é esse fazer o cara se cadastrar fazer ele entender descobrir que cidade que ele é. E aí a gente tem algumas portas de entrada para cidades que a gente quer abrir, talvez tendo criado esse relacionamento no conecta."
+      },
+      {
+        "startTime": 3162,
+        "endTime": 1870,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, daí se é dois e tal o resto você sabe pode passar aí isso daí tá se eu vou reforçar com o teu time depois sobre Pit para imobiliária que eu vou consolidar com o Bruno hoje, tá?"
+      },
+      {
+        "startTime": 1870,
+        "endTime": 1887,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então avançando aqui aí é um pouco que a gente falou ali no início também, né? Aqui é o são os pontos relevantes para entidades e formadores de opinião que é basicamente aqui o as entidades de classes e os influencers."
+      },
+      {
+        "startTime": 1887,
+        "endTime": 1966,
+        "speaker": "Diego Diehl",
+        "text": "corretor super influente na cidade um influenciador da cidade e eles adoram isso tá o nosso Pit principal é cara. Você pode trazer pode levar a tua cidade para um novo patamar tecno. Lógico fazendo uma parceria com a gente, você pode ser lembrado como o cara que levou tecnologia para tua cidade foi lá para São Paulo conhecer uma p*** tecnologia e levou para tua cidade e ele levou o patamar da tua cidade."
+      },
+      {
+        "startTime": 1966,
+        "endTime": 2777,
+        "speaker": "Rodrigo Italiano",
+        "text": "praticou lá na Paraíba. Então avançando aqui evoluindo aqui, a gente vai falar um pouquinho agora da dinâmica de abordagem, né? Então que Que Nós pensamos aqui no primeiro momento ali a hora que a gente vai falando seja com corretor com Imobiliária com incorporador com entidade de classe ou com influência."
+      },
+      {
+        "startTime": 2777,
+        "endTime": 2050,
+        "speaker": "Rodrigo Italiano",
+        "text": "Nós é vamos cadastrar eles ali no Z2 na hora. Né? Então vai ter uma dinâmica aqui de fazer o cadastro ali e ali a ideia a gente é qualificar esse corretor, É principalmente quem tem mais contato aí com Z2. Sabe ali, mas quem não tem esse contato, acho que vale, depois a gente entrar no detalhe aqui, tá? Digão? Acho que principalmente aí."
+      },
+      {
+        "startTime": 2050,
+        "endTime": 3991,
+        "speaker": "Diego Diehl",
+        "text": "Se chegar a corretora Imobiliária para o time da Z2 eles vão fazer uma conversinha rápida e chamar alguém da hora. Se chegar alguém de Incorporadora de uma forma geral, a gente pode atender o início e também conecta com a Z2 então de uma forma geral está instruído aí aólogo atender de uma forma bem direta e corretor Imobiliária Incorporadora, quando chegar a gente faz o atendimento daí pessoal da hora também conecta com alguém da Z2 para seguir o atendimento e pode até ficar junto no atendimento, tá? Porque é um dos objetivos nosso do evento é ter essa troca massiva de como é que é o pessoal da Z2 atendendo Incorporadora a gente da hora ou tem que ir lá ficar ouvindo e aprendendo, quais são os peixes no inverso e o pessoal da Z2 também vai vai ter interesse em ver como é que a gente fala com corretor Imobiliária."
+      },
+      {
+        "startTime": 3991,
+        "endTime": 2352,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom? Então vai ter esse trade aí."
+      },
+      {
+        "startTime": 2352,
+        "endTime": 3280,
+        "speaker": "Rodrigo Italiano",
+        "text": "entender ali com quem a gente está falando e não só entendendo a hora né, mas deixar isso registrado também. Para depois do evento a gente conseguir seguir com as nossas dinâmicas aqui, então, vamos pegar aqui quem é Incorporadora vai ser um pit, né? Vai ser uma evolução ali depois quem é Imobiliária corretor ou outra quem é entidade de classe e influência ou outra então aqui vai ser o momento da gente entender ali com quem que a gente está falando."
+      },
+      {
+        "startTime": 3280,
+        "endTime": 2406,
+        "speaker": "Rodrigo Italiano",
+        "text": "E aí cada ação aqui cada resposta vai se dobrar ali no segundo momento. Então tem mais algumas perguntas aqui que a gente ainda vai incluir. Então se vão pegar o Instagram dessa galera, vamos entender ali. Quem fez o testemunhal ou não que eu já vou mostrar para vocês também aqui qualquer ideia do testemunhal, tá? E principalmente se já é cliente, se não é para a gente desdobrar isso aqui da melhor forma no segundo momento."
+      },
+      {
+        "startTime": 2406,
+        "endTime": 2406,
+        "speaker": "Diego Diehl",
+        "text": "Um item legal aí que a gente vai disponibilizar"
+      },
+      {
+        "startTime": 2406,
+        "endTime": 2429,
+        "speaker": "Rodrigo Italiano",
+        "text": "cadastrados no Z2 então. Dê zero ali acabou o evento a gente vai mandar uma mensagem ali de agradecimento e depois isso vai seguindo uma carência ali para a gente falando com esses caras. Pode falar aí."
+      },
+      {
+        "startTime": 2429,
+        "endTime": 3221,
+        "speaker": "Diego Diehl",
+        "text": "ali, ela só quer matar a curiosidade dela do que que é. Ela vai te dar um minuto e vai querer cair fora porque ela vai almoçar ou uma pessoa do grupo se se destacou do grupo esse cara veio falar com a gente o grupo dele lá longe começa a chamar ele ele tem que ir embora, então a gente fala rapidinho, cara."
+      },
+      {
+        "startTime": 3221,
+        "endTime": 4037,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu escanear aqui rapidinho eu te mando no WhatsApp, depois você pode voltar ou a gente fala no WhatsApp depois então, às vezes vai ter que ser bem ágil assim, por isso pegar o cadastro jogar o pit para ele que a gente vai dar algo para ele para ele também tá aberto a dar o número dele ali daí tem uma dúvida no cadastro."
+      },
+      {
+        "startTime": 4037,
+        "endTime": 2517,
+        "speaker": "Diego Diehl",
+        "text": "Que a Gente escaneia o QR Code do cara já vem WhatsApp para deles depois para gente ou não."
+      },
+      {
+        "startTime": 2517,
+        "endTime": 2562,
+        "speaker": "Rodrigo Italiano",
+        "text": "fazer a leitura desse QR Code e depois vão receber uma planilha por todos os contatos que a gente bateu esquerdo ali no instante. Só que ali vem o WhatsApp vem o e-mail. Vem algumas informações que ele tem de cadastro, nós vamos enriquecer com essas informações que a gente tá falando aqui na hora que a gente tiver com lide ali na no estande fazendo a demonstração então além."
+      },
+      {
+        "startTime": 2562,
+        "endTime": 2572,
+        "speaker": "Diego Diehl",
+        "text": "E às vezes tem número errado, né? Então por exemplo do cadastro, vocês todos eu botei meu telefone eu botei meu telefone em vários. Então é bom de pegar na hora ali o telefone do cara mesmo."
+      },
+      {
+        "startTime": 2572,
+        "endTime": 2614,
+        "speaker": "Rodrigo Italiano",
+        "text": "mostrar como funciona Nossa Inteligência Artificial aqui no WhatsApp. Vou te cadastrar aqui me fala seu número então ali a gente já vai pegar já vai cadastrar e depois no final do evento eu vou cruzar essa esses dados. Então o que a gente cadastrou na hora que veio da planilha ali do aplicativo."
+      },
+      {
+        "startTime": 2614,
+        "endTime": 2636,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô vendo gente que no primeiro dia vai ser legal de cadastrar uma galera que depois à noite ou no outro dia de amanhã, a gente bota a rodar uma automação e abordar a galera falando de alguma coisa, pô, deu uma passadinha no estande ou não sei se a gente vai fazer dinâmica do chopp lá dá uma cerveja alguma coisa ou você que passou aqui, vem aqui a gente vai poder usar automação daí direto já conectado na Z2, tá?"
+      },
+      {
+        "startTime": 2639,
+        "endTime": 2639,
+        "speaker": "Rodrigo Italiano",
+        "text": "Isso aí isso aí."
+      },
+      {
+        "startTime": 2639,
+        "endTime": 2674,
+        "speaker": "Diego Diehl",
+        "text": "loucura de fórmula, ele tá no lugar, mas ele queria tá no outro. Ele tá num lugar, mas ele queria tá vendo palestra ele tá então, às vezes é bem rápido e de uma forma geral. A gente não consegue a maioria assim não avança muito para fundo de funil ali na hora então é muito capital ali de vender a ideia vender a nossa autoridade para depois a gente nutrir, tá?"
+      },
+      {
+        "startTime": 2674,
+        "endTime": 2726,
+        "speaker": "Rodrigo Italiano",
+        "text": "estar em dupla abordando então enquanto um vai falando ali o pit o outro já consegue ir coletando aqui as informações enfim já seguindo com essa dinâmica da qualificação."
+      },
+      {
+        "startTime": 2726,
+        "endTime": 2726,
+        "speaker": "Diego Diehl",
+        "text": "boa"
+      },
+      {
+        "startTime": 2726,
+        "endTime": 2731,
+        "speaker": "Rodrigo Italiano",
+        "text": "Exercitar bem isso lá na quando tiver todo mundo junto, então é?"
+      },
+      {
+        "startTime": 2732,
+        "endTime": 2740,
+        "speaker": "Diego Diehl",
+        "text": "Noite, eu acho que esse site é legal aí quando tiver em dupla cara. Ah, deixa eu ali pegar o computador que eu já te mostro outro já fica já me passados."
+      },
+      {
+        "startTime": 2740,
+        "endTime": 3104,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eva É mas isso aí é algo também que ali na hora é porque nunca participou do um evento nesse nível aprendi na hora então a dinâmica é bem fluida ali a gente vai estar todo mundo empolgado. Então então funciona bem demais essa questão aí vai estar como eu falei a gente vai estar no grande número, então sempre vai ter alguém ali no apoio."
+      },
+      {
+        "startTime": 3104,
+        "endTime": 3419,
+        "speaker": "Rodrigo Italiano",
+        "text": "Vai ninguém vai ficar sozinho ali sem saber o que o que fazer. É a gente reforça também bem lá no dia então os primeiros ali a gente vai acompanhando fazendo juntos é super tranquilo, a experiência que a gente tem aqui com a galera que vai pela primeira vez é o cara sai dali um avião."
+      },
+      {
+        "startTime": 3419,
+        "endTime": 3954,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então beleza, eu acho que desse ponto aqui da abordagem aqui, a gente vai desdobrar melhor, mas o básico é o que a gente falou aqui. Então evoluindo aqui a gente também vai levar ali como uma atração, né? O chamariz é o robô. Então no ano de 2024 ali o robô fez um sucesso danado, então o nosso estande é todo momento foi mais cheio mais comentado, muitas vezes ali a galera falava pô, vamos lá no instante do robô, então é algo que chama bastante atenção e na verdade aqui é só o chamariz mesmo."
+      },
+      {
+        "startTime": 3954,
+        "endTime": 4252,
+        "speaker": "Rodrigo Italiano",
+        "text": "Teremos ali duas dinâmicas com Robô. Que uma a foto profissional que fizemos também no ano passado e esse ano tem também ali uma dinâmica que aí Ah vai criar um vídeo de qualquer pessoa ali que tiver interagindo com o Robô. Em algumas cidade do mundo então o país né? O cara falou."
+      },
+      {
+        "startTime": 4252,
+        "endTime": 2741,
+        "speaker": "Rodrigo Italiano",
+        "text": "Quero fazer um vídeo aqui meu no Egito, depois nós vamos enviar ali para ele um vídeo dele lá no meio do Aberto, enfim teremos ali as dinâmicas. Acho que tem são alguns países de Marcelão, pode me ajudar aí eu acho que a gente falou de Egito Dubai. eu não sei como que ficou essa dinâmica no"
+      },
+      {
+        "startTime": 2741,
+        "endTime": 2810,
+        "speaker": "Diego Diehl",
+        "text": "para o próximo vai abordar abordar abordar. Então nossa nossa missão e como grupo é tá com esse tanto de cheio tá custando cheio, então quem desenrolar bem abordagem que é a missão principal ali que a gente Você vai estar na frente, né? Aí tá na verdade os atendimentos especialistas, né? Mas esse ponto da abordagem abordou não liga de passar para o outro não, tá? Passa para o outro e volta abordar se você tá no empenho ali das abordagens na ponta."
+      },
+      {
+        "startTime": 2810,
+        "endTime": 4072,
+        "speaker": "Rodrigo Italiano",
+        "text": "também ali uma dinâmica que aí Ah vai criar um vídeo de qualquer pessoa ali que tiver interagindo com o Robô. Em algumas cidade do mundo então o país né? O cara falou. Quero fazer um vídeo aqui meu no Egito, depois nós vamos enviar ali para ele um vídeo dele lá no meio do Aberto, enfim teremos ali as dinâmicas."
+      },
+      {
+        "startTime": 4072,
+        "endTime": 2932,
+        "speaker": "Rodrigo Italiano",
+        "text": "Acho que tem são alguns países de Marcelão, pode me ajudar aí eu acho que a gente falou de Egito Dubai. eu não sei como que ficou essa dinâmica no"
+      },
+      {
+        "startTime": 2932,
+        "endTime": 2936,
+        "speaker": "Junior Silva",
+        "text": "Não não tá especificado os lugares não. Depois a gente especifica lá o ITA,"
+      },
+      {
+        "startTime": 2936,
+        "endTime": 2936,
+        "speaker": "Rodrigo Italiano",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2937,
+        "endTime": 2973,
+        "speaker": "Junior Silva",
+        "text": "Então o robô ele vem com atração as pessoas adoram ir lá fazer a idade aparente, né ter uma dinâmica ali de brincar porque é algo inovador, então a gente quer trazer o cara, só que ele não pode interagir com o robô enquanto não passar o contato dele. Então é uma forma da gente forçar isso, né?"
+      },
+      {
+        "startTime": 2973,
+        "endTime": 3350,
+        "speaker": "Rodrigo Italiano",
+        "text": "aqui as dinâmicas de materiais atualizados e falando aqui que já são mais de 250 mil incorporado as conectadas. Aqui eu quero que vai levar para uma land page que nós fizemos. Tá então aqui é basicamente ali o LP do órgão para trazer esse corretor esse Imobiliária para dentro do órgão, principalmente quem não tem ali cadastro, né? Então muito falar nossa ideia aqui de aumentar eu audiência e aqui é o que a gente fala ali, né? Nível Nacional, então não só falando de São Paulo."
+      },
+      {
+        "startTime": 3350,
+        "endTime": 3483,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, queria dar esse destaque aí, tá? Que bom lembrar aí que vai ser uma experiência e falar de órgão para quem não conhece e aí falar de Daí eu não sei oi, tá? Vocês vem alguma daí lembrar de corretor Imobiliária falar que você pode levar o ecossistemas. Para dentro da tua Imobiliária e principalmente ali tirar essa burocracia do split de pagamento, não split vocês sabem né? Que essa Eles pegam um valor de comissão e divide às vezes para 10 pessoas de uma forma automática de uma forma padronizada lembrar ali que o speech."
+      },
+      {
+        "startTime": 3483,
+        "endTime": 3511,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então é muito da gente falar desse conceito do ecossistema. Ele tem começo meio e fim. Então é abordando quando a gente Conta essa história ali falando do ecossistema a gente chega no final ali que o Diego comentou. Pode falar."
+      },
+      {
+        "startTime": 3511,
+        "endTime": 3537,
+        "speaker": "Marcelo Tadeu",
+        "text": "Por acaso você tem algum tipo de material complementar alguma coisa de objeções aí. Para facilitar para a gente aqui pelo menos para mim é que mais na área de deve, né de TEC a gente não tem muita essa Malícia comercial ainda, né? Mas seria legal, se eu tivesse algum tipo de documento alguma coisa que você não sei se você tem definido aí né? Sobre por exemplo que é de objeção, enfim, você tem alguma coisa aí?"
+      },
+      {
+        "startTime": 3542,
+        "endTime": 3544,
+        "speaker": "Diego Diehl",
+        "text": "Eu perdi aqui Marcelo, documento do quê?"
+      },
+      {
+        "startTime": 3545,
+        "endTime": 3553,
+        "speaker": "Marcelo Tadeu",
+        "text": "Se você tem alguma coisa aí sobre quebra de objeção. Algum objetivo algum documento de auxílio comercial para facilitar a gente já dar uma."
+      },
+      {
+        "startTime": 3554,
+        "endTime": 3554,
+        "speaker": "Diego Diehl",
+        "text": "Ah eu vou eu vou."
+      },
+      {
+        "startTime": 3554,
+        "endTime": 3558,
+        "speaker": "Marcelo Tadeu",
+        "text": "É igual você falou agora aí, né? Ah o que é o portal. Enfim, né?"
+      },
+      {
+        "startTime": 3559,
+        "endTime": 3573,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô eu tô com uma prévia aqui já mas eu finalizo hoje ainda e mando para vocês daí tá Marcelo? Eu Vou sugerir devo validar com Ita tanto perguntas de abordagem. Pitz para chamar atenção do cara e principais objeções que aparecem."
+      },
+      {
+        "startTime": 3575,
+        "endTime": 3575,
+        "speaker": "Marcelo Tadeu",
+        "text": "Beleza, top, olha."
+      },
+      {
+        "startTime": 3575,
+        "endTime": 3575,
+        "speaker": "Diego Diehl",
+        "text": "Leo"
+      },
+      {
+        "startTime": 3578,
+        "endTime": 4056,
+        "speaker": "Rodrigo Italiano",
+        "text": "falado maior ecossistema do mercado imobiliário, principalmente falando do canal de parcerias, né? Onde assim Incorporadora, ela vai estar conectada mais de 250 mil imobiliárias corretores. E a gente foca muito ali em falar o quanto a inteligência artificial consegue apoiar essa dinâmica do atendimento aí também. É algo que para nós que estamos falando com Incorporadora, todo momento tá muito na cabeça, né? Então acho que o time todo tá bem bem contextualizado bem comprado com essa ideia e aqui a gente traz algumas principais funcionalidades que nós temos que é centralizar a força de vendas é atuar ali na prospecção e qualificação tem um erro que tá em nutrição não tá errado não."
+      },
+      {
+        "startTime": 4056,
+        "endTime": 4268,
+        "speaker": "Rodrigo Italiano",
+        "text": "Dos corretores imobiliários agendamento de visitação e finalizando aqui mais uma vez na na gestão de pagamento ali com a com o banco digital, né? Então aqui a gente Resumindo em alguns pontos aqui o um pouco do que é o ecossistema e aí teremos também aqui, né? Aí tem aqui."
+      },
+      {
+        "startTime": 4268,
+        "endTime": 4526,
+        "speaker": "Rodrigo Italiano",
+        "text": "Um final. Aqui já são mais de três mil incorporadoras conectadas. O cara pensar ali falar pô, só falta eu eu não tô ainda então é com a ideia de trazer esse essa Incorporadora e aqui também um QR. Code que vai puxar ali com leite de peixe que vai falar mais em detalhes sobre ecossistema sobre o Z2 e sobre óbvio."
+      },
+      {
+        "startTime": 4526,
+        "endTime": 4767,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então esse vai ser o folder aqui, né? A gente separou então teremos aqui acho que mil unidades para corretora imobiliário 250 para Incorporadora e a gente vai entender ali na hora entregar o que de fato faz sentido. Então evoluindo aqui temos aqui também um panfleto que ele vem numa versão que ele vai ser aquela sanfona."
+      },
+      {
+        "startTime": 4767,
+        "endTime": 5129,
+        "speaker": "Rodrigo Italiano",
+        "text": "Né? Então ele vai ter ali a capa ele vai abrir vai ter aqui vai se desdobrar até a contracapa então o que que a gente fez aqui a gente separou em alguns principais funcionalidades também aqui do Z2 então primeiro falando ali de Material de vendas ou atendimento no WhatsApp o agendamento da visita e relacionamento aqui com imobiliárias e Corretores e aí a gente dobra aqui é basicamente um resumo da nossa apresentação comercial, né? Então quem tem o costume de usar ali o material."
+      },
+      {
+        "startTime": 5129,
+        "endTime": 3793,
+        "speaker": "Rodrigo Italiano",
+        "text": "Vai ver ali que a gente traz principalmente aqui o dentro das funções a centralização da força de vendas a consulta ali em tempo real com o Zé no WhatsApp a consolidação ali do score dos coletores. O disparo em massa o atendimento automático e por fim aqui mais uma vez o Z2 Play com a pagadoria dando transparência ali e agilidade no pagamento e recebimento de comissão."
+      },
+      {
+        "startTime": 3793,
+        "endTime": 3793,
+        "speaker": "Diego Diehl",
+        "text": "Oi tá esse aí é o que a gente imprimiu é o que a gente não imprimiu muitos"
+      },
+      {
+        "startTime": 3793,
+        "endTime": 3793,
+        "speaker": "Rodrigo Italiano",
+        "text": "então"
+      },
+      {
+        "startTime": 3797,
+        "endTime": 3797,
+        "speaker": "Diego Diehl",
+        "text": "né?"
+      },
+      {
+        "startTime": 3799,
+        "endTime": 3800,
+        "speaker": "Rodrigo Italiano",
+        "text": "Isso isso aqui não tem muitos não, tá a gente vai."
+      },
+      {
+        "startTime": 3800,
+        "endTime": 3833,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o robusto time esse material aí esse material aí a gente pediu para ser um papel mais robusto para servir de apoio para o nosso atendimento, tá? Então cara de uma forma prática, eu não sei se a gente só vai conseguir ter acesso a quarta, eu vou ver se eu consigo pegar a terça com eles, mas isso aí é o que você vai pegar na mão ler tudo tum tum tum e montar meio que um caminho de Pit ali mostrando o panfleto para o cara, entendeu? É a nossa a nossa colinha ali, tá? E daí, a gente não vai entregar esse daí para todo mundo tá? Porque a gente"
+      },
+      {
+        "startTime": 3833,
+        "endTime": 3834,
+        "speaker": "Rodrigo Italiano",
+        "text": "É isso aí"
+      },
+      {
+        "startTime": 3836,
+        "endTime": 3847,
+        "speaker": "Diego Diehl",
+        "text": "mandou. Acho que sim ou 200 fazer acho que são sem tá, então a gente vai dar. Uma segurada com o nosso material de mão aí para não ter que levar o cara para um celular toda hora ou muito rápido assim a gente ter o que mostrar na hora tá?"
+      },
+      {
+        "startTime": 3851,
+        "endTime": 3871,
+        "speaker": "Rodrigo Italiano",
+        "text": "Uma beleza Beleza então, esse aqui é o que a gente vai apresentar ali mesmo. Eu gosto muito de fazer a dinâmica no WhatsApp, tá? Então eu acho que é dar uma visão geral ali para o cara dá na mão dele enquanto ele tá lendo ali, a gente já cadastra ali ó, olha na prática, como funciona."
+      },
+      {
+        "startTime": 3871,
+        "endTime": 3888,
+        "speaker": "Rodrigo Italiano",
+        "text": "Tá um ponto importante que a gente também acabou não não falando aqui além da instância. Que Nós criamos aqui do Z2 para centralizar todos esses vídeos para a gente fazer ali a apresentação a dinâmica. Nós criamos também um produto no ouro que vai estar integrado essa conta do Z2."
+      },
+      {
+        "startTime": 3888,
+        "endTime": 3933,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então, principalmente para Incorporadora ali o corretor que a conversa a gente sentir que ele tá mais confortável ali a gente pode fazer a dinâmica funcionar ali ao vivo com ele, então ele abriu o produto oro dele clicar lá já receber a mensagem de quem for ali que tiver na vez na nossa roleta no WhatsApp e dali a gente seguir com a dinâmica com ele, tá? É algo também aqui que a gente vai vai desdobrar ali no Uma demonstrações Entre terça à noite e quarta ali antes do evento pegar fogo então teremos hoje para o até algo inédito, né? A gente nunca tinha feito isso até nas nossas apresentações comerciais aqui a gente só fala lá no Z2 a gente vai mostrar acontecendo também."
+      },
+      {
+        "startTime": 3933,
+        "endTime": 3956,
+        "speaker": "Rodrigo Italiano",
+        "text": "E aqui também teremos a versão, né do panfleto aqui na verdade, não é um panfleto, né? É o livrinho mesmo para corretores imobiliárias então aqui Falando exclusivamente do órgão, né os principais números ali. Falando das integrações do número de corretores é imobiliárias número de incorporadoras também e para o corretora que o que importa é o que ele tem de vgv ali que ele pode trabalhar."
+      },
+      {
+        "startTime": 3956,
+        "endTime": 3972,
+        "speaker": "Rodrigo Italiano",
+        "text": "Né então aqui falando mais um pouquinho do órgão nessa frente do corretor Imobiliária, então a gente fala aqui desses acessos é o que ele vai ter um oro E no fim aqui a inteligência de mercado e o dragão comentou ali mais cedo também."
+      },
+      {
+        "startTime": 3976,
+        "endTime": 3982,
+        "speaker": "Diego Diehl",
+        "text": "Bora então a hora que isso aí galera, vai estudar tudo depois também. Aí a parte importante."
+      },
+      {
+        "startTime": 3984,
+        "endTime": 4011,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então aqui a gente colocou aqui de próximos passos, né a gente reforçar alguns pontos que são importantes para nós aqui o primeiro ponto aqui que fala da ausência. Em alguns momentos ali no estande é algo que a gente vai combinar ali na quarta-feira de manhã, tá? Então tem alguns horários que são que nós tivemos aqui de horário de pico, né? Que é Principalmente quando finaliza uma grande palestra no palco principal."
+      },
+      {
+        "startTime": 4011,
+        "endTime": 4032,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então é um momento ali que quando tá rolando as principais palestras lá no palco grande é muita gente fica concentrada lá e quando acaba quem já já viu um jogo de futebol no estádio. Ali vai vai entender quando acaba essa palestra a massa de pessoas caminham em direção aos instantes ali, então são os principais."
+      },
+      {
+        "startTime": 4032,
+        "endTime": 4064,
+        "speaker": "Rodrigo Italiano",
+        "text": "horários que a gente tem que estar ali na esquina né pegando a galera puxando pelo braço ali Então a gente ainda vai desdobrar aqui melhor a programação e vamos trazer os pontos ali dos principais horários que nós vamos ter que tá todo mundo ali bem alinhado. Vamos definir também ali a dinâmica de almoço, né? Então mais uma vez como a gente tá com time grande vai ser bem tranquilo, a gente organiza ali na quarta-feira mesmo, tá? Vamos reforçar também a dinâmica com Robô."
+      },
+      {
+        "startTime": 4064,
+        "endTime": 4085,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então quer fazer ali também os primeiros a gente faz junto. Quem já tá acostumado quem já fez outras vezes, mas é mais sobre a utilização ali que é super tranquilo também então as instruções são muito Claras. A gente vai ter uma vocês vão ver que muitos momentos vai formar uma fila para galera interagir com Robô."
+      },
+      {
+        "startTime": 4085,
+        "endTime": 4103,
+        "speaker": "Rodrigo Italiano",
+        "text": "E aí nessa fila é um momento também que a gente ganha para estar ali falando com essa galera interagindo aí porque ele não tem o que fazer. Ele tá esperando ali na fila para ele falar com Robô. Então é um momento também que é bom ali para nossa abordagem."
+      },
+      {
+        "startTime": 4103,
+        "endTime": 4127,
+        "speaker": "Rodrigo Italiano",
+        "text": "o direcionamento aqui de pessoas por empresa, né que a gente já Já tá mais ou menos alinhado nesse ponto, né? Então vai ter o time ali que os especialistas para falar com corretor Imobiliária É mais do lado do time de ouro e Incorporadora, eu acho que tá mais no mix aqui, mas a gente vai combinar também essa dinâmica ali na quarta-feira de manhã."
+      },
+      {
+        "startTime": 4127,
+        "endTime": 4152,
+        "speaker": "Rodrigo Italiano",
+        "text": "Tá não vai ter também aqui muita rigidez, né? Então eu falei aqui a gente tinha experiência que os eventos de que chega lá uma galera, vamos falar aqui do Marcelão, Marcelão é DF não é toda hora que ele vai ali para o jogo, né? Cara? Primeira ele vai ver a gente abordando três quatro ali, ele já vai sentir o gás Ali vai entrar no ritmo."
+      },
+      {
+        "startTime": 4152,
+        "endTime": 4174,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então não vamos ter aqui um uma rigidez em falar olha. Tem aqui o time de especialista só o tipo de especialista, pode avançar pode evoluir então é muito da nossa dinâmica ali do evento tá e todo mundo aqui também tá muito bem contextualizado do que o nosso negócio, né? Então mesmo assim precisou do apoio chama ali."
+      },
+      {
+        "startTime": 4174,
+        "endTime": 4193,
+        "speaker": "Rodrigo Italiano",
+        "text": "Vamos junto. É então, beleza. É que é o quarto ponto aqui é o que a gente tá fazendo agora. Vamos falar sobre a dinâmica do produto óleo de demonstração aqui também. Eu comentei ele mais cedo, né? Teremos esse produto do hora lá é padrão igual hoje tem qualquer produto de Incorporadora."
+      },
+      {
+        "startTime": 4193,
+        "endTime": 4214,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então o que vai acontecer é que a gente vai poder abrir o link ali e falar cara interagir com o produto para você entender como que funciona só um ponto aqui de não que eu lembrei agora, eu acho que a gente comentou, mas reforçando a gente precisa colocar a pontuação mínima de um lá nesse produto, tá?"
+      },
+      {
+        "startTime": 4214,
+        "endTime": 4218,
+        "speaker": "Diego Diehl",
+        "text": "Você já pediu na integração? Isso é rapidinho para gente. Pode pedir já junto com integração e falar isso aí bota um ponto que é para"
+      },
+      {
+        "startTime": 4218,
+        "endTime": 4218,
+        "speaker": "Rodrigo Italiano",
+        "text": "então"
+      },
+      {
+        "startTime": 4222,
+        "endTime": 4224,
+        "speaker": "Diego Diehl",
+        "text": "o conector."
+      },
+      {
+        "startTime": 4224,
+        "endTime": 4248,
+        "speaker": "Rodrigo Italiano",
+        "text": "Perfeito perfeito então a dinâmica da entrega do folder aqui panfleto, né um pouco que a gente falou pão feito a gente vai entregar na mão mesmo ali para ele levar embora, porque vai ter o que era Coach ali conectar ali depois e o folderzão aqui vai ser mais como nosso material de apoio vai ter um cara que vai falar."
+      },
+      {
+        "startTime": 4248,
+        "endTime": 4271,
+        "speaker": "Rodrigo Italiano",
+        "text": "Posso levar pode não tem problema, mas a ideia é quando a gente foi entregar o panfleto e não Tá então aqui o cadastro na apresentação de 2 a hora no jornal do anfitrião isso aqui já tá feito tá? Eu já cadastrei também todo mundo então todo mundo já tá com acesso lá na Estância que chama Z2 a conecta 2025."
+      },
+      {
+        "startTime": 4271,
+        "endTime": 4303,
+        "speaker": "Rodrigo Italiano",
+        "text": "Tá então quem quiser depois acessar lá tá com o telefone de vocês aí tá? Os combos eu vou passar aqui rapidinho também. Tá. E aqui é um pouco do que a gente falou também, né? É o que interessado em negociação, não é o Número grande de clientes que isso vai acontecer do cliente fala assim, pô, quero entender já quero comprar ali ele tá Principalmente quando a gente vai falando com alguém no começo do evento, né? O cara ali ainda tá na pegada."
+      },
+      {
+        "startTime": 4303,
+        "endTime": 4342,
+        "speaker": "Rodrigo Italiano",
+        "text": "Pô, ainda tenho 30 stands aqui para passar ele não vai chegar ali, pô no primeiro, eu quero comprar. Então, É mas quando a gente entender aqui cara, o cliente está mais quente especialista e o que é importante aqui sempre agendar um próximo passo ali um próximo encontro. Então vamos falar ali Diego da Incorporadora X por legal, gostei demais, cara é animal, eu quero só que eu tenho que ali eu vou almoçar agora ou tem a palestra que eu quero ver vai começar legal, Diego, vamos fazer o seguinte, então vamos combinar aqui uma apresentação ali um encontro pra gente falar."
+      },
+      {
+        "startTime": 4342,
+        "endTime": 4354,
+        "speaker": "Rodrigo Italiano",
+        "text": "Opinião a gente já pode sair dali com essa dinâmica. E aqui Último Ponto aqui eu acho que tá com contigo aí Diegão geral, RL lá do ouro para cadastro com identificação."
+      },
+      {
+        "startTime": 4354,
+        "endTime": 4356,
+        "speaker": "Diego Diehl",
+        "text": "Já mandei para o neto."
+      },
+      {
+        "startTime": 4356,
+        "endTime": 4361,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então beleza é isso aqui não tava muito atualizado esses próximos passos aqui."
+      },
+      {
+        "startTime": 4363,
+        "endTime": 4386,
+        "speaker": "Diego Diehl",
+        "text": "Times Sobre a escala só reforçar um ponto ali para dar um pouco mais de clareza. a nossa ideia minha ideia aqui é que Como a gente vai estar em várias pessoas quando o estande der uma diminuída no volume vocês possam dar uma circulada pelo evento tá vocês possam escolher uma palestra que você quer ver algo assim e tal o ponto principal para a gente Estar atento."
+      },
+      {
+        "startTime": 4386,
+        "endTime": 4409,
+        "speaker": "Diego Diehl",
+        "text": "São três quatro momentos no início do evento é bem importante a gente chegar cedo porque a galera chega cedo para conversar nos estandes antes das palestras. Então esse é um momento importante é o início. No final das palestras, se você tiver assistindo a palestra é só você se ligar, tipo tá acabando já vai levantando fica ali na porta e escuta o finalzinho quando acabar essa primeira série."
+      },
+      {
+        "startTime": 4409,
+        "endTime": 4426,
+        "speaker": "Diego Diehl",
+        "text": "Já tá pronto nesse instante para atender só ser esperto na hora do almoço é o maior pico um dos maiores Picos. E aí você a gente comercial não é o pior horário para mostrar no horário do almoço, tudo tem fila tudo tá lotado, então a gente se combinar em grupo cara."
+      },
+      {
+        "startTime": 4426,
+        "endTime": 4452,
+        "speaker": "Diego Diehl",
+        "text": "Sai antes para almoçar. O outro sai depois e na hora do almoço tá todo mundo lá. E no final do evento também no final do evento é onde bomba que a galera ai que bomba de número de pessoas, mas é onde a galera estende mais o papo porque cara já meio que acabou a pessoa tá com mais tempo é hora de conversar dá risada é um momento bacana ali de falar daí no final ali também."
+      },
+      {
+        "startTime": 4452,
+        "endTime": 4470,
+        "speaker": "Diego Diehl",
+        "text": "A gente tá tá ligado no evento é mas também tá bem de boa, tá? A gente vai estar em várias pessoas vai circulando troca com alguém conversa ele reforçar esse ponto aí para a gente é o nosso eu tava falando com o ITA que a gente não quer fazer igual."
+      },
+      {
+        "startTime": 4470,
+        "endTime": 4492,
+        "speaker": "Diego Diehl",
+        "text": "A ideia não é ser rígida a escala que a tabela de cada um porque o objetivo principal é todo mundo tá com uma energia boa então cara. Se der uma canseira em você, às vezes dá no evento cara. p*** eu canseira cara, avisa ou troca, fala cara. Vou dar um time ali senta se afasta vai lá para fora é muito barulho lá dentro da alta."
+      },
+      {
+        "startTime": 4492,
+        "endTime": 4508,
+        "speaker": "Diego Diehl",
+        "text": "O tempo deita um pouco. Sei lá vou para casa dormir uma hora e meia vai o que importa, na hora que você voltar, você tá bem? Então vocês vão estar bem solto aí para fazer o que vocês quiserem salvar uma alinhando e sabendo do Objetivo aí tá?"
+      },
+      {
+        "startTime": 4511,
+        "endTime": 4512,
+        "speaker": "Rodrigo Italiano",
+        "text": "É isso aí é isso aí."
+      },
+      {
+        "startTime": 4512,
+        "endTime": 4517,
+        "speaker": "Diego Diehl",
+        "text": "Negócio vai estar solto, aí, a gente vai sentindo vai se regulando aí cada um."
+      },
+      {
+        "startTime": 4520,
+        "endTime": 4542,
+        "speaker": "Rodrigo Italiano",
+        "text": "Não é isso aí exatamente aí, pô. Quero respirar bicho as janela segura aí aí vou tomar um café já volto, então é? Tranquilo então é só a gente está bem alinhado ali então como eu falei, né? Tinha falado quase 20 vamos lá 2 4 6 8 10 11 13 15 e 7 19."
+      },
+      {
+        "startTime": 4542,
+        "endTime": 4544,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eita 23 pessoas. Então tá no exército."
+      },
+      {
+        "startTime": 4544,
+        "endTime": 4548,
+        "speaker": "Diego Diehl",
+        "text": "Tem mais o Bruno é que faltou nessa lista 24 pessoas."
+      },
+      {
+        "startTime": 4548,
+        "endTime": 4573,
+        "speaker": "Rodrigo Italiano",
+        "text": "24 pessoas cara, então é com a minha experiência aqui dos que nós já fizemos com um time bem mais reduzido vai ser super tranquilo, essa dinâmica ninguém vai estar ali. Desesperado com três quatro pessoas que foi o que já aconteceu com a gente lá tinha fila lá para falar povo chamava um chamava o outro aqui também tranquila, vai ser."
+      },
+      {
+        "startTime": 4573,
+        "endTime": 4602,
+        "speaker": "Rodrigo Italiano",
+        "text": "Principalmente essa questão de almoçar. Pô, dá para ir lá vai dois almoçar. Volta vai outros dois então é? Tranquilo, a gente está contigo pesado aí. Tá a gente até trouxe aqui algumas classificações, né? Então especialista atendimento qualquer um pouco dessa ideia aqui, né? O pessoal que tá aqui como atendimento é quem vai basicamente puxar ali fazer o primeiro a primeira apresentação ali e trazer aqui para o especialista."
+      },
+      {
+        "startTime": 4602,
+        "endTime": 4623,
+        "speaker": "Rodrigo Italiano",
+        "text": "Quem não se sentir confortável para tocar o negócio. Eu comentei aqui a gente até tivemos algumas revelações ali em outros eventos, né de falar pô, o cara que ele não tem o apetite aqui comercial 200% mas a gente lá e fala p****, esse cara aqui já quer trazer meu comercial."
+      },
+      {
+        "startTime": 4623,
+        "endTime": 4624,
+        "speaker": "Rodrigo Italiano",
+        "text": "então tem"
+      },
+      {
+        "startTime": 4625,
+        "endTime": 4651,
+        "speaker": "Diego Diehl",
+        "text": "No nosso caso ali pessoal, todo mundo é comercial, né? Então eu até comecei a escrever especialista. Tentei dizer que o Gustavo era atendimento mas no fundo. Todos vocês aí hoje são especialistas a gente treina de uma forma geral, o que eu queria reforçar, principalmente é o mercado imobiliário. Ele é muito hierárquico, então as pessoas gostam de subir na hierarquia gostam é um momento às vezes significativo dele sentir que tá avançando no funil."
+      },
+      {
+        "startTime": 4651,
+        "endTime": 4675,
+        "speaker": "Diego Diehl",
+        "text": "Então às vezes você tá atendendo. Sei lá, eu tô atendendo. Aí o cara ah, então vou ver eu quero saber de móvel. Eu quero avançar, cara, eu vou chamar o Bruno então ó, vem aqui falar com o cara aqui que é sabe tudo de Imobiliária aí o cliente já muda de postura sabendo que vai falar que o especialista para fechar ali com outro cara."
+      },
+      {
+        "startTime": 4675,
+        "endTime": 4690,
+        "speaker": "Diego Diehl",
+        "text": "Então às vezes essa troca, às vezes é mais por vontade. O do que necessidade tá no nosso caso aqui Z2 até vai ter mesma coisa, tá então fique à vontade para chamar alguém para atender junto para somar junto quando quiserem aí, tá?"
+      },
+      {
+        "startTime": 4691,
+        "endTime": 4694,
+        "speaker": "Rodrigo Italiano",
+        "text": "Bom demais bem observado. Bem observado aí Diegão. Então é legal. Às vezes a gente está ali pô,"
+      },
+      {
+        "startTime": 4694,
+        "endTime": 4698,
+        "speaker": "Diego Diehl",
+        "text": "A cliente vai ser legal isso, viu, gente? Quando for cliente ou Deixa eu"
+      },
+      {
+        "startTime": 4698,
+        "endTime": 4716,
+        "speaker": "Rodrigo Italiano",
+        "text": "olhou do lado ali, viu? Que o Diego não tá falando com o cliente na hora fala assim, mestre. Deixa eu chamar aqui o meu diretor aqui para te apresentar. Deixa eu chamar aqui o senhor aqui para você apertar a mão dele. Então é legal também essa essa dinâmica aí a mesma."
+      },
+      {
+        "startTime": 4716,
+        "endTime": 4717,
+        "speaker": "Rodrigo Italiano",
+        "text": "demais"
+      },
+      {
+        "startTime": 4718,
+        "endTime": 4736,
+        "speaker": "Diego Diehl",
+        "text": "aproveitar você conhece o fundador aqui uns fundadores da Orlando foi essa que para a gente fazer aqui, ó, Alejandro Felipe Eduardo Marcelo falar em com o cliente da ponta, tá? Quando for cliente final assim, faz o cara engajar passa enfim, ele vai inventar umas coisas lá."
+      },
+      {
+        "startTime": 4736,
+        "endTime": 4765,
+        "speaker": "Rodrigo Italiano",
+        "text": "Dinâmica que é muito legal porque o próprio cliente ele fala do outro lado fala pô, então é você que é o cara que tá aí por trás tal não sei o quê, então é importante, tá? Essa autoridade ali enfim é bem legal. Bom então avançando aqui, eu acho que passamos por todos os pontos, né? É isso aqui é isso aí mesmo, então, só que eu queria mostrar aqui para vocês aqui da clareza um pouco maior é do estande mesmo."
+      },
+      {
+        "startTime": 4765,
+        "endTime": 4769,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ah só para vocês verem ali o que que vai ficar?"
+      },
+      {
+        "startTime": 4772,
+        "endTime": 4772,
+        "speaker": "Diego Diehl",
+        "text": "dúvidas pessoal perguntas"
+      },
+      {
+        "startTime": 4772,
+        "endTime": 4805,
+        "speaker": "Rodrigo Italiano",
+        "text": "Das Artes deixou. É verdade E tiver aí a qualquer momento é só. Então aqui só para dar maior clareza. Esse é o nosso estande né? Que nós vamos ter nessa parede de dentro a primeira imagem. Que é que são os nossos clientes tá então essa essa imagem ela vai ficar aqui, provavelmente atrás de nós esse balcão aqui, ele é móvel."
+      },
+      {
+        "startTime": 4805,
+        "endTime": 4851,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então a gente pode puxar para cá para lá tá? Então os clientes vão ficar aqui nessa parede nessa parede que é a maior que é das costas do estande a gente vai trazer a dinâmica aqui do ecossistema então a imagem que mais ilustra aquilo. Mais ilustra que o ecossistema não todo e o a imagem ali mais incógnita, né? Vem ainda mais com inteligência artificial é que vai ficar aqui nessa parede de fora, tá? Então quem vier de frente já vai ver essa."
+      },
+      {
+        "startTime": 4851,
+        "endTime": 4878,
+        "speaker": "Rodrigo Italiano",
+        "text": "Essa dinâmica aí vem mais para Inteligência Artificial, quem tiver viagem traz aqui vai ver o nosso o ecossistema completo e quem passar ali dentro vai bater o olho ali nas marcas as principais cobradores que a gente tá aprendendo. Assim que vai ficar aqui o nosso instante. Bom time alguma dúvida."
+      },
+      {
+        "startTime": 4878,
+        "endTime": 4883,
+        "speaker": "Rodrigo Italiano",
+        "text": "Acho que passamos aqui por todos os pontos, né?"
+      },
+      {
+        "startTime": 4884,
+        "endTime": 4886,
+        "speaker": "Guilherme Rocha",
+        "text": "Deixa eu perguntar só uma coisa quando ler ali o QR Code do crachá, já tem"
+      },
+      {
+        "startTime": 4886,
+        "endTime": 4888,
+        "speaker": "Rodrigo Italiano",
+        "text": "Fala aí."
+      },
+      {
+        "startTime": 4890,
+        "endTime": 4900,
+        "speaker": "Guilherme Rocha",
+        "text": "uma classificação se a pessoa corretora se ela é de Imobiliária alguma coisa do tipo a gente vai ter que buscar essa informação e colocar ali no campo lá no Z2. Importante segmentar né?"
+      },
+      {
+        "startTime": 4900,
+        "endTime": 4908,
+        "speaker": "Rodrigo Italiano",
+        "text": "Gui tem informação tá tem essa informação quando a gente parte QR Code só que a informação que o usuário coloca né?"
+      },
+      {
+        "startTime": 4908,
+        "endTime": 4909,
+        "speaker": "Diego Diehl",
+        "text": "Os dois é a resposta os dois Gui. Vem no crachá e a gente vai ter na"
+      },
+      {
+        "startTime": 4909,
+        "endTime": 4913,
+        "speaker": "Rodrigo Italiano",
+        "text": "então"
+      },
+      {
+        "startTime": 4913,
+        "endTime": 4914,
+        "speaker": "Diego Diehl",
+        "text": "Estância."
+      },
+      {
+        "startTime": 4915,
+        "endTime": 4915,
+        "speaker": "Guilherme Rocha",
+        "text": "tá"
+      },
+      {
+        "startTime": 4915,
+        "endTime": 4930,
+        "speaker": "Rodrigo Italiano",
+        "text": "E aí exatamente mesmo assim mesmo trazendo ali no crachá que é uma informação que a gente só vai ver depois que acabou o evento nós vamos fazer a qualificação com ele ali na hora então nos campos dinâmicos aqui um dos Campos é o tipo do usuário ali, né? Se ele é corretor."
+      },
+      {
+        "startTime": 4930,
+        "endTime": 4933,
+        "speaker": "Guilherme Rocha",
+        "text": "Beleza, a estratégia é pegar na hora mesmo é melhor, né?"
+      },
+      {
+        "startTime": 4935,
+        "endTime": 4945,
+        "speaker": "Rodrigo Italiano",
+        "text": "E isso a estratégia pegar na hora porque até tem outras perguntinhas ali também que a gente vai fazer que a estratégia para nós para utilizar a comunicação do segundo momento e não vai vir não. Quer code essa informação."
+      },
+      {
+        "startTime": 4946,
+        "endTime": 4946,
+        "speaker": "Guilherme Rocha",
+        "text": "Boa beleza."
+      },
+      {
+        "startTime": 4947,
+        "endTime": 4952,
+        "speaker": "Diego Diehl",
+        "text": "Criou o produto lá já chegou um corretor falando comigo, velho."
+      },
+      {
+        "startTime": 4955,
+        "endTime": 4956,
+        "speaker": "Rodrigo Italiano",
+        "text": "Você já tá conectado ou não? Ele te chamou?"
+      },
+      {
+        "startTime": 4956,
+        "endTime": 4963,
+        "speaker": "Diego Diehl",
+        "text": "Não é que ele pegou meu número lá no produto a gente botou no meio de Brasília o produto. Que eu quero ter um produto eu quero ter um produto."
+      },
+      {
+        "startTime": 4963,
+        "endTime": 4968,
+        "speaker": "Rodrigo Italiano",
+        "text": "Como que era chegando na sua cidade, né? Aí ó que top Diego já te falei dessa dinâmica da gente ter lá o pinguim em"
+      },
+      {
+        "startTime": 4968,
+        "endTime": 4970,
+        "speaker": "Diego Diehl",
+        "text": "Que loucura."
+      },
+      {
+        "startTime": 4972,
+        "endTime": 4974,
+        "speaker": "Rodrigo Italiano",
+        "text": "todas as capitais velho."
+      },
+      {
+        "startTime": 4974,
+        "endTime": 4976,
+        "speaker": "Diego Diehl",
+        "text": "É já vamos foi o teste aí?"
+      },
+      {
+        "startTime": 4978,
+        "endTime": 4978,
+        "speaker": "Rodrigo Italiano",
+        "text": "Boa boa boa bom demais."
+      },
+      {
+        "startTime": 4978,
+        "endTime": 4982,
+        "speaker": "Diego Diehl",
+        "text": "Corretor de imóveis Distrito Federal lá os caras já estão esperando a gente chegar na cidade."
+      },
+      {
+        "startTime": 4984,
+        "endTime": 5005,
+        "speaker": "Rodrigo Italiano",
+        "text": "Pô que top top. Mas beleza time. Essa é a dinâmica então que ficou aí para o evento a gente vai até teremos ali os alinhamentos também ali presenciais, tá que a gente vai dar maior clareza, mas é o que eu falei é ver o primeiro segundo terceiro ali rolando."
+      },
+      {
+        "startTime": 5005,
+        "endTime": 5019,
+        "speaker": "Rodrigo Italiano",
+        "text": "E daqui a pouco tá todo mundo aí no mesmo no mesmo nível. Vai estar todo mundo bem animado, né? Então é empolgação. Conta mais do que qualquer outro elemento ali na hora."
+      },
+      {
+        "startTime": 5022,
+        "endTime": 5046,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o principal reforço aqui que eu queria dar é que É quando eu fazia eu fiz uns seis anos de feirão caixa na época que eu trabalhava em Incorporadora. E o feirão era muito louco que tinha um Marco assim no time de vendas pós feirão. Porque cara você fala tanto você destrava tanto que pós o evento você dá uma formada assim nos corretores que iam mais novos."
+      },
+      {
+        "startTime": 5046,
+        "endTime": 5068,
+        "speaker": "Diego Diehl",
+        "text": "Posso ver um cara já desenrolava assim porque você vai para a prática não tem Pit certo não tem nada é abordar a galera trocar uma ideia e querer falar com gente, né? Então eu acho que eu queria destacar esse ponto assim vai ser uma oportunidade legal da gente tanto falar com pessoas no presencial para recalibrar aí como é que a galera vê."
+      },
+      {
+        "startTime": 5068,
+        "endTime": 5106,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero muito que a gente possa interagir entre os times, né? Acho que uns objetivos aí que eu falo bastante com o Júnior ele cuida e a gente poder se conhecer como equipes, né trocar uma ideia então cara. Não tá com um cliente bate um papo e beleza conversar aí trocar uma ideia ver o pit do outro também poder se aproximar do atendimento do outro e ver como é que Tá rola ver acho que o objetivo de cada um assim é ver o kit de como é que cada um vai atender também outras pessoas atendem para o teu mesmo trabalho, né para o teu mesmo Business."
+      },
+      {
+        "startTime": 5106,
+        "endTime": 5127,
+        "speaker": "Diego Diehl",
+        "text": "Acho que é uma coisa legal aí e aí eu acho que a gente não fechou isso, né? Mas talvez a gente faça algo à noite ou na quarta mesmo à noite a gente sai jantar geral. Ou na quinta ou se der tempo na terça, mas acho que não vai dar a gente vai estar na correria aí na terça."
+      },
+      {
+        "startTime": 5127,
+        "endTime": 5148,
+        "speaker": "Diego Diehl",
+        "text": "Então, eu tô animado aí para caramba de ter conseguido reunir aí uma das minhas missões é conseguir consolidar aproximar aí órus e dois a gente poder enxergar as duas empresas como produtos juntos a gente conseguiu criar um propósito em comum ali foi maior legal, né? p****, a gente conecta corretores imobiliários incorporadoras reduzindo atritos nessa jornada das transações imobiliárias."
+      },
+      {
+        "startTime": 5148,
+        "endTime": 5167,
+        "speaker": "Diego Diehl",
+        "text": "Então, tô bem feliz aí da gente ter Tornado realidade algo que parecia tão distante. Quer reunir o Pedro Knight, por exemplo tá na hora ele faz 4 anos não conhece os fundadores presencialmente. Muito louco, então, acho que vai ser uma coisa bacana aí para todo mundo e aí eu queria pedir novamente um ponto cara."
+      },
+      {
+        "startTime": 5167,
+        "endTime": 5186,
+        "speaker": "Diego Diehl",
+        "text": "Tem muita coisa que a gente não pensou que a gente vai ter que decidir na hora que vai aparecer na hora dúvida desafio problema e cara faz parte, acho que o problema une a gente o que importa é cara, se aparecer um problema alguma coisa, a gente vai conversa resolve dá um jeito tudo."
+      },
+      {
+        "startTime": 5186,
+        "endTime": 5208,
+        "speaker": "Diego Diehl",
+        "text": "Dá um jeito que importa a gente como tinha aí não não reclamar ou não, cara. Objetivo é cara, beleza situações, vamos resolver chama pede ajuda resolve eu queria pedir aí a resiliência de todos vocês aí para a gente poder fazer fluir esse evento. Se acabar o evento a gente tiver empresa as empresas mais conectadas mais alinhadas é todo mundo se conhecido."
+      },
+      {
+        "startTime": 5208,
+        "endTime": 5232,
+        "speaker": "Diego Diehl",
+        "text": "Aí a gente vai colher frutos ao longo de todo um ano aí quem sabe ano que vem a gente pode estar de novo no conecta. Quem sabe com dois estandes daí um do lado do outro, né com órgão com z2a, o que importa é a gente fazer gerar um resultado e gerar conexão entre os times nesse que daí vai justificar um investimento para um próximo de uma forma legal."
+      },
+      {
+        "startTime": 5232,
+        "endTime": 5258,
+        "speaker": "Rodrigo Italiano",
+        "text": "Deixa eu contribuir um pouquinho aí com que o Diego falou. Eu não é si, mas eu tenho certeza que essa conexão vai ser muito mais fluida. Eu não conheço aqui ninguém presencial. Então vai ser o enorme satisfação, vamos estar junto ali vai ter uma baita troca de ideia, a gente se acaba se prendendo aqui, às vezes é uma reunião de uma hora uma ligação ali de 10 minutos, cara."
+      },
+      {
+        "startTime": 5258,
+        "endTime": 5298,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ali a gente vai estar um do lado do outro o tempo inteiro. Então as trocas vão ser ricas demais e tenho certeza que no ano que vem estaremos também e com dois estandes então vai ser um sucesso ali absoluto, a gente conseguiu criar essa. Esse pleito do ecossistema que eu acho que é isso é o a conclusão ali que faltava para a gente estar mais junto, né? Então eu um pouco falo hoje de Z2 ou eu falo de ecossistema então é algo que eu já tô praticando desde ali do Faz um mês e meio que a gente tá tá estruturando esses detalhes dinâmicas do evento."
+      },
+      {
+        "startTime": 5298,
+        "endTime": 5327,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então já algo que eu tô aplicando aqui então hoje eu me posiciono como ecossistema e depois eles dobra ali no que tem dentro do ecossistema. Então acho que é vamos ganhar essa força aí e até o Diego tava brincando, né? Eu falei pô, conheceu o Alejandro pessoalmente ali. Vou conhecer o Pedro conhecer as meninas tal aí o Diego falou Pô, mas o Pedro que já tá aqui com a gente há quatro anos não conhece a galera falei caramba."
+      },
+      {
+        "startTime": 5327,
+        "endTime": 5332,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então vai ser um grande Marco ali para todo mundo, né, então."
+      },
+      {
+        "startTime": 5333,
+        "endTime": 5334,
+        "speaker": "Guilherme Rocha",
+        "text": "Deixa eu te falar uma curiosidade."
+      },
+      {
+        "startTime": 5334,
+        "endTime": 5334,
+        "speaker": "Rodrigo Italiano",
+        "text": "até"
+      },
+      {
+        "startTime": 5337,
+        "endTime": 5337,
+        "speaker": "Guilherme Rocha",
+        "text": "Tem um dos nossos sócios os nossos um dos nossos sócios aqui que é o Marcelo,"
+      },
+      {
+        "startTime": 5337,
+        "endTime": 5340,
+        "speaker": "Rodrigo Italiano",
+        "text": "vai lá"
+      },
+      {
+        "startTime": 5342,
+        "endTime": 5345,
+        "speaker": "Guilherme Rocha",
+        "text": "a gente nunca encontra com ele, ninguém nunca conheceu o Marcelo pessoalmente."
+      },
+      {
+        "startTime": 5345,
+        "endTime": 5353,
+        "speaker": "Rodrigo Italiano",
+        "text": "É Era exatamente isso que eu ia falar e é a segunda empresa que a gente trabalha junto, né, então."
+      },
+      {
+        "startTime": 5354,
+        "endTime": 5354,
+        "speaker": "Marcelo Tadeu",
+        "text": "Ele já constrói."
+      },
+      {
+        "startTime": 5354,
+        "endTime": 5361,
+        "speaker": "Rodrigo Italiano",
+        "text": "Pô, tô com o Marcelão ali é há mais de cinco anos e a gente não se conhece presencial também então é um grande marca para todos."
+      },
+      {
+        "startTime": 5363,
+        "endTime": 5364,
+        "speaker": "Marcelo Tadeu",
+        "text": "Não vai ser bem legal, galera, vai ser muito produtivo a gente se conhecer"
+      },
+      {
+        "startTime": 5364,
+        "endTime": 5367,
+        "speaker": "Guilherme Rocha",
+        "text": "Valeu, valeu."
+      },
+      {
+        "startTime": 5367,
+        "endTime": 5375,
+        "speaker": "Marcelo Tadeu",
+        "text": "aumentar entrosamento a confiança ali é estar Tete é muito bom, cara. A gente tá bem ansioso para participar vai ser legal."
+      },
+      {
+        "startTime": 5376,
+        "endTime": 5377,
+        "speaker": "Rodrigo Italiano",
+        "text": "Bom demais bom demais, galera. Então vamos lá, acho que é isso, né? Vamos"
+      },
+      {
+        "startTime": 5377,
+        "endTime": 5377,
+        "speaker": "Diego Diehl",
+        "text": "Deixou galera."
+      },
+      {
+        "startTime": 5380,
+        "endTime": 5387,
+        "speaker": "Rodrigo Italiano",
+        "text": "trabalhar tem ainda alguns pontos aí para a gente finalizar. E guardar as energias aí porque quarta e quinta."
+      },
+      {
+        "startTime": 5389,
+        "endTime": 5389,
+        "speaker": "Diego Diehl",
+        "text": "Esse é um bom ponto aí para fechar para você gente, estou em água."
+      },
+      {
+        "startTime": 5389,
+        "endTime": 5393,
+        "speaker": "Rodrigo Italiano",
+        "text": "Você não entende. Ó aqui é para eleição não pode ter balada."
+      },
+      {
+        "startTime": 5393,
+        "endTime": 5397,
+        "speaker": "Diego Diehl",
+        "text": "Conversa em Pouco conversa em pouco guarde energia social."
+      },
+      {
+        "startTime": 5398,
+        "endTime": 5407,
+        "speaker": "Rodrigo Italiano",
+        "text": "É igual o time é futebol aqui ó, todo mundo aqui resguardado. Até quarta então. Tem que tacar a Duracell aí no 100%"
+      },
+      {
+        "startTime": 5411,
+        "endTime": 5411,
+        "speaker": "Diego Diehl",
+        "text": "Valeu pessoal fechamos"
+      },
+      {
+        "startTime": 5411,
+        "endTime": 5412,
+        "speaker": "Rodrigo Italiano",
+        "text": "Valeu time"
+      },
+      {
+        "startTime": 5413,
+        "endTime": 5413,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado a reunião. Aí, qualquer coisa valeu abraço falou."
+      },
+      {
+        "startTime": 5413,
+        "endTime": 5414,
+        "speaker": "Marcelo Tadeu",
+        "text": "Olha o time obrigado."
+      },
+      {
+        "startTime": 5415,
+        "endTime": 5415,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Valeu galera"
+      },
+      {
+        "startTime": 5417,
+        "endTime": 5418,
+        "speaker": "Michelle Trajano",
+        "text": "Valeu, valeu, gente."
+      },
+      {
+        "startTime": 5418,
+        "endTime": 5418,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Né pessoal?"
+      },
+      {
+        "startTime": 5419,
+        "endTime": 5420,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Tchau, tchau, boa tarde. Bom dia."
+      },
+      {
+        "startTime": 5420,
+        "endTime": 5421,
+        "speaker": "Rodrigo Italiano",
+        "text": "Olha pessoal excelente semana."
+      },
+      {
+        "startTime": 5421,
+        "endTime": 5421,
+        "speaker": "Guilherme Rocha",
+        "text": "É nós."
+      },
+      {
+        "startTime": 5423,
+        "endTime": 5423,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ali."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 241,
+    "speakers": [
+      "Ana Carolina dos Santos Silva Santos",
+      "Junior Silva",
+      "Michelle Trajano",
+      "Mirla Menezes",
+      "João Vitor Portes da Silva",
+      "Guilherme Rocha",
+      "Marcelo Tadeu",
+      "Carol Pizzano",
+      "Rodrigo Italiano",
+      "Bruno Zucchetti Rodrigues",
+      "Pedro Ruza Kneip Navarro",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 8649,
+    "duration_start": 12,
+    "duration_end": 5423
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49a",
+        "timestamp": 255,
+        "text": "Diego inicia alinhamento da equipe do Campus para próximo evento",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d8",
+        "timestamp": 267,
+        "text": "Planos podem ser ajustados conforme necessidade durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae498"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d9",
+        "timestamp": 323,
+        "text": "Equipe deve permanecer flexível e adaptável durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae498"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b2",
+        "timestamp": 382,
+        "text": "Iniciar apresentação do evento",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4cd",
+        "timestamp": 685,
+        "text": "Equipe focará em transformar local da Coelba em Z2, priorizando networking com representantes locais.",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a6",
+        "timestamp": 737,
+        "text": "Objetivo da plataforma: Permitir agendamento de visitas e acompanhamento de vendas e comissões",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a7",
+        "timestamp": 842,
+        "text": "Foco em criar audiência e tráfego como objetivo natural do negócio",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a8",
+        "timestamp": 856,
+        "text": "Prioridade: Organizar inventário para garantir informações precisas",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a9",
+        "timestamp": 905,
+        "text": "Visão de ecossistema: Cobrir todo ciclo desde originação até pagamento de comissões",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ce",
+        "timestamp": 1103,
+        "text": "Diego identifica time inicial para programa de embaixadores: Diego, Júnior, Rita e João",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4cf",
+        "timestamp": 1148,
+        "text": "Objetivo estratégico: Conquistar incorporadoras em capitais brasileiras para acelerar crescimento",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d0",
+        "timestamp": 1164,
+        "text": "Embaixadores receberão suporte completo e investimento mínimo em parcerias imobiliárias",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4aa",
+        "timestamp": 1231,
+        "text": "Z2Pay pode atuar com incorporadoras e imobiliárias, expandindo modelo de negócio",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ab",
+        "timestamp": 1681,
+        "text": "Z2P focará em agilidade no pagamento de comissões para incorporadoras.",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ac",
+        "timestamp": 1732,
+        "text": "Plataforma permitirá que corretores se conectem gratuitamente e expandam portfólio.",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d1",
+        "timestamp": 1794,
+        "text": "Equipe planeja abrir novas portas de entrada em diferentes cidades através do Conecta.",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d2",
+        "timestamp": 1842,
+        "text": "Plataforma oferece agenda de visitas, transparência de vendas e fluidez para usuários",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d3",
+        "timestamp": 1875,
+        "text": "Foco em engajamento com entidades de classe e influenciadores do mercado imobiliário.",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d4",
+        "timestamp": 2049,
+        "text": "Corretora Imobiliária deve ser direcionada para o time da Z2 para atendimento rápido",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d5",
+        "timestamp": 2089,
+        "text": "Incorporadoras serão atendidas inicialmente e posteriormente conectadas com a equipe Z2",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4bc",
+        "timestamp": 2226,
+        "text": "Objetivo do evento: troca de conhecimento entre equipes da Hora e Z2 sobre atendimento",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4bd",
+        "timestamp": 2321,
+        "text": "Rodrigo planeja abordagem inicial com corretores, imobiliárias, incorporadores e entidades de classe",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49b",
+        "timestamp": 2399,
+        "text": "Diego sugere elevar o nível tecnológico de uma cidade através de parceria estratégica",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49c",
+        "timestamp": 2406,
+        "text": "Após o evento, enviar mensagem de agradecimento para contatos cadastrados no Z2",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49d",
+        "timestamp": 2466,
+        "text": "Capturar cadastro rapidamente e enviar pitch via WhatsApp para manter contato com participantes",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49e",
+        "timestamp": 2505,
+        "text": "Escanear QR Code dos participantes para obter contatos do WhatsApp",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae49f",
+        "timestamp": 2517,
+        "text": "Preparar planilha com todos os contatos coletados durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a0",
+        "timestamp": 2561,
+        "text": "Definir estratégia de cadastro, identificar contatos corretos e demonstrar funcionalidades de IA via WhatsApp.",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d6",
+        "timestamp": 2707,
+        "text": "Parceria potencial permite transformar cidade e reconhecer líder que implementa tecnologia inovadora",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b3",
+        "timestamp": 2740,
+        "text": "Robô será chamariz de atração no estande, com dinâmicas de foto profissional e criação de vídeos",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b4",
+        "timestamp": 2826,
+        "text": "Equipe fará cadastro imediato de contatos no sistema Z2",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b5",
+        "timestamp": 2839,
+        "text": "Planejamento de criação de vídeos interativos com robô em diferentes cidades do mundo",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4be",
+        "timestamp": 2860,
+        "text": "Momento de identificação e registro dos diferentes tipos de participantes do evento",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4dd",
+        "timestamp": 2892,
+        "text": "Discussão sobre países potenciais para gravação de vídeos: Egito e Dubai",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b6",
+        "timestamp": 2915,
+        "text": "Missão principal da equipe é realizar abordagens eficientes durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b7",
+        "timestamp": 2937,
+        "text": "Robô projetado para atrair pessoas com interação inovadora, exigindo contato prévio",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b8",
+        "timestamp": 2962,
+        "text": "Objetivo principal é qualificar corretores com maior contato no Z2",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a1",
+        "timestamp": 2973,
+        "text": "Mais de 250 mil materiais incorporados nas conexões do projeto",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4bf",
+        "timestamp": 2996,
+        "text": "Rodrigo iniciará processo de cadastramento de participantes durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c0",
+        "timestamp": 3138,
+        "text": "Integrar informações de WhatsApp e e-mail no processo de cadastro.",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c1",
+        "timestamp": 3325,
+        "text": "Enriquecer dados de cadastro com informações coletadas durante demonstração no estande.",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c2",
+        "timestamp": 3349,
+        "text": "Diego destaca experiência de órgão para novos participantes",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c3",
+        "timestamp": 3467,
+        "text": "Rodrigo planeja direcionar para uma landing page específica do projeto.",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4d7",
+        "timestamp": 3483,
+        "text": "Discussão sobre o conceito de ecossistema com início, meio e fim no contexto do mercado imobiliário",
+        "topicId": "68b5ae97fb4ae60013bae497"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4de",
+        "timestamp": 3510,
+        "text": "Marcelo solicita material complementar sobre objeções comerciais para área de tecnologia",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a2",
+        "timestamp": 3558,
+        "text": "Diego promete preparar documento com perguntas de abordagem e principais objeções comerciais",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ad",
+        "timestamp": 3651,
+        "text": "Ecossistema conecta mais de 250 mil imobiliárias e corretores",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ae",
+        "timestamp": 3718,
+        "text": "Inteligência artificial como ferramenta de apoio na dinâmica de atendimento imobiliário",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c4",
+        "timestamp": 3748,
+        "text": "Landing page focada em atrair corretores e imobiliárias sem cadastro prévio.",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c8",
+        "timestamp": 3799,
+        "text": "Equipe produzirá material de apoio em papel robusto para auxiliar no atendimento",
+        "topicId": "68b5ae97fb4ae60013bae496"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c9",
+        "timestamp": 3874,
+        "text": "Z2 centraliza vídeos, apresentações e integra Produto Ouro para demonstrar funcionalidades de vendas.",
+        "topicId": "68b5ae97fb4ae60013bae496"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c5",
+        "timestamp": 3906,
+        "text": "Coletar dados de participantes, identificar potenciais clientes e desenvolver livreto informativo para corretores.",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4da",
+        "timestamp": 4051,
+        "text": "Organizar dinâmica de almoço para equipe de 24 pessoas na quarta-feira",
+        "topicId": "68b5ae97fb4ae60013bae498"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b9",
+        "timestamp": 4066,
+        "text": "Reforçar dinâmica de interação com Robô durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4af",
+        "timestamp": 4089,
+        "text": "Funcionalidades incluem agendamento de visitação e gestão de pagamento via banco digital",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ba",
+        "timestamp": 4178,
+        "text": "Demonstrar produto Ouro com link interativo para participantes",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4bb",
+        "timestamp": 4214,
+        "text": "Diego solicitará pontuação mínima para o produto Ouro durante integração",
+        "topicId": "68b5ae97fb4ae60013bae494"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a3",
+        "timestamp": 4260,
+        "text": "Rodrigo já cadastrou toda equipe no Z2 Conecta 2025",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a4",
+        "timestamp": 4298,
+        "text": "Mais de três mil incorporadoras já estão conectadas na plataforma Z2",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c6",
+        "timestamp": 4340,
+        "text": "Agendar próximo encontro com prospects interessados durante o evento",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4c7",
+        "timestamp": 4386,
+        "text": "Priorizar atendimento nos momentos iniciais do evento e após palestras",
+        "topicId": "68b5ae97fb4ae60013bae495"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4db",
+        "timestamp": 4443,
+        "text": "Objetivo principal é aumentar audiência para o órgão/projeto.",
+        "topicId": "68b5ae97fb4ae60013bae498"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4dc",
+        "timestamp": 4470,
+        "text": "Manter escala flexível priorizando energia e bem-estar da equipe",
+        "topicId": "68b5ae97fb4ae60013bae498"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4ca",
+        "timestamp": 4550,
+        "text": "Planejamento de distribuição: mil unidades para corretoras imobiliárias e 250 para incorporadoras",
+        "topicId": "68b5ae97fb4ae60013bae496"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4cb",
+        "timestamp": 4764,
+        "text": "Desenvolvimento de panfleto sanfona destacando funcionalidades principais do Z2",
+        "topicId": "68b5ae97fb4ae60013bae496"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4cc",
+        "timestamp": 4871,
+        "text": "Discussão abrange nível nacional, não apenas São Paulo",
+        "topicId": "68b5ae97fb4ae60013bae496"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4a5",
+        "timestamp": 5056,
+        "text": "Diego propõe interação presencial entre times para recalibrar e trocar experiências.",
+        "topicId": "68b5ae97fb4ae60013bae492"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b0",
+        "timestamp": 5121,
+        "text": "Z2 visa centralizar vendas imobiliárias e conectar corretores com incorporadoras, reduzindo atritos em transações.",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4df",
+        "timestamp": 5152,
+        "text": "Pedro Knight não conhece fundadores presencialmente após 4 anos de trabalho.",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4e0",
+        "timestamp": 5190,
+        "text": "Diego solicita resiliência da equipe e busca gerar conexões para justificar investimento no evento.",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4b1",
+        "timestamp": 5268,
+        "text": "Recursos do Z2: disparo em massa, atendimento automático, Z2 Play com transparência em comissões",
+        "topicId": "68b5ae97fb4ae60013bae493"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4e1",
+        "timestamp": 5337,
+        "text": "Marcelo, sócio, nunca foi encontrado presencialmente por colegas.",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      },
+      {
+        "segmentId": "68b5ae97fb4ae60013bae4e2",
+        "timestamp": 5366,
+        "text": "Equipe animada para aumentar entrosamento e confiança no evento presencial.",
+        "topicId": "68b5ae97fb4ae60013bae499"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68b5ae97fb4ae60013bae492",
+        "order": 1,
+        "title": "Ações Aprovadas e Comprometimentos",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae493",
+        "order": 2,
+        "title": "Estratégia de Negócios Z2",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae494",
+        "order": 3,
+        "title": "Evento e Dinâmicas de Apresentação",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae495",
+        "order": 4,
+        "title": "Abordagem e Cadastramento",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae496",
+        "order": 5,
+        "title": "Materiais e Recursos",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae497",
+        "order": 6,
+        "title": "Networking e Expansão",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae498",
+        "order": 7,
+        "title": "Planejamento Operacional",
+        "summary": ""
+      },
+      {
+        "id": "68b5ae97fb4ae60013bae499",
+        "order": 8,
+        "title": "Conversas Informais",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 73,
+    "topic_count": 8,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68b5ae97fb4ae60013bae492",
+      "order": 1,
+      "title": "Ações Aprovadas e Comprometimentos",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae493",
+      "order": 2,
+      "title": "Estratégia de Negócios Z2",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae494",
+      "order": 3,
+      "title": "Evento e Dinâmicas de Apresentação",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae495",
+      "order": 4,
+      "title": "Abordagem e Cadastramento",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae496",
+      "order": 5,
+      "title": "Materiais e Recursos",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae497",
+      "order": 6,
+      "title": "Networking e Expansão",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae498",
+      "order": 7,
+      "title": "Planejamento Operacional",
+      "summary": ""
+    },
+    {
+      "id": "68b5ae97fb4ae60013bae499",
+      "order": 8,
+      "title": "Conversas Informais",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:47:40.024279+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:40.024279+00:00"
+}

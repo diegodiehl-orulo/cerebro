@@ -1,0 +1,151 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6733b3953c782d0013ae194a",
+      "timestamp": 273,
+      "text": "Diego apresentou proposta em 10 minutos para cliente, solicitou reunião com diretor",
+      "topicId": "6733b3953c782d0013ae193d"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae194b",
+      "timestamp": 305,
+      "text": "Diego sugere cliente experimentar abordagem Z2 para acelerar transformação",
+      "topicId": "6733b3953c782d0013ae193d"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1940",
+      "timestamp": 494,
+      "text": "Felipe divide apresentação em cinco capítulos: lançamento, venda, estoque, velocidade e entregas",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1941",
+      "timestamp": 546,
+      "text": "Felipe recomenda focar em capítulos de estoque e vendas na apresentação",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1942",
+      "timestamp": 702,
+      "text": "Análise indica redução de estoque de apartamentos de 3 e 4 dormitórios",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1943",
+      "timestamp": 1043,
+      "text": "Felipe sugere apresentação focada em estoque e vendas, sem detalhes de lançamentos",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1944",
+      "timestamp": 1475,
+      "text": "Diego e Felipe discutindo mudança de título para percentual vendido do empreendimento",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1945",
+      "timestamp": 1527,
+      "text": "Diego vai enviar print de tela com informações sobre vendas",
+      "topicId": "6733b3953c782d0013ae193b"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1946",
+      "timestamp": 1569,
+      "text": "Necessidade de contratar analista para auxiliar em análises",
+      "topicId": "6733b3953c782d0013ae193c"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1952",
+      "timestamp": 1710,
+      "text": "Diego planeja fazer análise de ROI com duas semanas de mensagens de cinco clientes",
+      "topicId": "6733b3953c782d0013ae193f"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1947",
+      "timestamp": 1916,
+      "text": "Identificar problema de cálculo em filtros de dados de estoque",
+      "topicId": "6733b3953c782d0013ae193c"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1948",
+      "timestamp": 2078,
+      "text": "Diego vai revisar dados de venda e estoque com cautela",
+      "topicId": "6733b3953c782d0013ae193c"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1949",
+      "timestamp": 2493,
+      "text": "Empresa cobre 6.500 de 11.000 empreendimentos estimados no mercado",
+      "topicId": "6733b3953c782d0013ae193c"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae194c",
+      "timestamp": 2864,
+      "text": "Apresentação de Paulo, fundador da Captable, especialista em financiamento imobiliário",
+      "topicId": "6733b3953c782d0013ae193e"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae194d",
+      "timestamp": 2949,
+      "text": "Alertar sobre complexidade regulatória da CVM para valores imobiliários",
+      "topicId": "6733b3953c782d0013ae193e"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae194e",
+      "timestamp": 3016,
+      "text": "Captable única operação nacional minimamente sustentável em financiamento entre pares",
+      "topicId": "6733b3953c782d0013ae193e"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae194f",
+      "timestamp": 3153,
+      "text": "Bancos dificilmente consideram financiamentos abaixo de 20 milhões",
+      "topicId": "6733b3953c782d0013ae193e"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1950",
+      "timestamp": 3340,
+      "text": "Identificar soluções para incorporadores com VGV menor que 50 milhões",
+      "topicId": "6733b3953c782d0013ae193e"
+    },
+    {
+      "segmentId": "6733b3953c782d0013ae1951",
+      "timestamp": 3418,
+      "text": "Discutir diferenças de taxas entre incorporadores de pequeno e grande porte",
+      "topicId": "6733b3953c782d0013ae193e"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6733b3953c782d0013ae193b",
+      "order": 1,
+      "title": "Preparação da Apresentação do Projeto",
+      "summary": "Definir estratégia de apresentação focando em estoque e vendas, ajustando título e conteúdo para destacar percentual vendido do empreendimento"
+    },
+    {
+      "id": "6733b3953c782d0013ae193c",
+      "order": 2,
+      "title": "Análise de Dados e Mercado",
+      "summary": "Empresa cobre 6.500 de 11.000 empreendimentos estimados, necessitando análise detalhada de dados de estoque e vendas"
+    },
+    {
+      "id": "6733b3953c782d0013ae193d",
+      "order": 3,
+      "title": "Proposta e Abordagem do Cliente",
+      "summary": "Diego apresentou proposta em 10 minutos e sugeriu abordagem Z2 para acelerar transformação do cliente"
+    },
+    {
+      "id": "6733b3953c782d0013ae193e",
+      "order": 4,
+      "title": "Financiamento Imobiliário",
+      "summary": "Apresentação de Paulo da Captable sobre soluções de financiamento para incorporadores, destacando desafios regulatórios e limitações bancárias"
+    },
+    {
+      "id": "6733b3953c782d0013ae193f",
+      "order": 5,
+      "title": "Análise de Clientes e ROI",
+      "summary": "Diego planeja realizar análise de ROI com mensagens de cinco clientes nas próximas duas semanas"
+    }
+  ]
+}

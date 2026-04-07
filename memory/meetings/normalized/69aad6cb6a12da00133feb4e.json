@@ -1,0 +1,1704 @@
+{
+  "meeting_id": "69aad6cb6a12da00133feb4e",
+  "name": "Product Planning",
+  "happened_at": "2026-03-06T13:30:00.000Z",
+  "duration_seconds": 3588.291,
+  "duration_minutes": 59.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Guilherme  Andrade Lacerda",
+      "email": "guilherme.lacerda@orulo.com.br"
+    },
+    {
+      "name": "Mariana Marins",
+      "email": "mariana.marins@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Rubem Rocha",
+      "email": "rubem@orulo.com.br"
+    },
+    {
+      "name": "Talita Campos",
+      "email": "talita@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Amanda Caroline Dos Santos",
+      "email": "amanda.santos@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "neno.andrade@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "mirelle.takeda@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69aad6cb6a12da00133feb4e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "ebu-swti-kzn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69aad6e2a9f01200127c8467",
+    "meetingId": "69aad6cb6a12da00133feb4e",
+    "data": [
+      {
+        "startTime": 5,
+        "endTime": 1036,
+        "speaker": "Alejandro Olchik",
+        "text": "Depois a parte do perfil que a gente não sabe se vai ser três ou quatro a gente teria que decidir que foi a pergunta do Marcelo na reunião passada. Você vai ser perfil na web o perfil no aplicativo. Você vale mais a pena fazer o perfil no aplicativo, então seria um desses dois aqui a gente tem que tem que validar, né? A gente jogou para outro épico filtro dos novos."
+      },
+      {
+        "startTime": 1036,
+        "endTime": 1897,
+        "speaker": "Alejandro Olchik",
+        "text": "Então é uma coisa vezes recentes e os recentes novos não há assim tão simples a gente capturar isso. Então a gente separados e o da audiência que é um sexto ano então aqui dentro dessa lógica, a gente está tentando criar em épocas menores a gente investe em um depois vê se os outros têm continuidade tá fazendo esse sequenciamento."
+      },
+      {
+        "startTime": 1897,
+        "endTime": 183,
+        "speaker": "Alejandro Olchik",
+        "text": "Diga do"
+      },
+      {
+        "startTime": 183,
+        "endTime": 201,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tinha de saldo dos meus favoritos aqui."
+      },
+      {
+        "startTime": 201,
+        "endTime": 203,
+        "speaker": "Alejandro Olchik",
+        "text": "É que a forma que fica público."
+      },
+      {
+        "startTime": 206,
+        "endTime": 208,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tô pedindo acesso ali o primeiro da lista."
+      },
+      {
+        "startTime": 215,
+        "endTime": 216,
+        "speaker": "Alejandro Olchik",
+        "text": "Deixar público tá tá todo mundo."
+      },
+      {
+        "startTime": 216,
+        "endTime": 220,
+        "speaker": "Eduardo Stringhini",
+        "text": "valeu não tranquila que"
+      },
+      {
+        "startTime": 224,
+        "endTime": 401,
+        "speaker": "Alejandro Olchik",
+        "text": "tempo tá em relação, mas cada um pode organizar o seu tempo também e tentar puxar algum outro. Lógica que achar que é mais porque a gente para Além disso. alguma dúvida até que Então vamos lá, era só para dar introdução, né? Não vamos dar uma risada no fluxo do visibilidade."
+      },
+      {
+        "startTime": 401,
+        "endTime": 403,
+        "speaker": "Neno Andrade",
+        "text": "Bora Vou compartilhar a tela aqui."
+      },
+      {
+        "startTime": 405,
+        "endTime": 422,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente tá a gente botou na frente esse va né? Mas eu não lembro o que a gente definiu com relação ao eda do preço dos preços ali."
+      },
+      {
+        "startTime": 422,
+        "endTime": 423,
+        "speaker": "Alejandro Olchik",
+        "text": "Que escolhe vem na frente."
+      },
+      {
+        "startTime": 425,
+        "endTime": 427,
+        "speaker": "Eduardo Stringhini",
+        "text": "Discordo o empreendimento."
+      },
+      {
+        "startTime": 427,
+        "endTime": 452,
+        "speaker": "Alejandro Olchik",
+        "text": "Vem na frente do fluxo, mas para ter score a gente precisa primeiro resolver a diferenciação de a e DL é um sequenciamento. Lógico, né? Até para que o score afete, né a diferença de audiência. Então tem o sequenciamento ali então a bola da vez nessa sequência seria diferenciada, entendeu? Teria que resolver isso antes para depois vir escolhe para depois pensar no curso de pagamento."
+      },
+      {
+        "startTime": 461,
+        "endTime": 464,
+        "speaker": "Neno Andrade",
+        "text": "beleza"
+      },
+      {
+        "startTime": 464,
+        "endTime": 470,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tu acha Alejandro que esse ano Tu consegue implementar aquela tua ideia dos trios que tu tinha pensado?"
+      },
+      {
+        "startTime": 472,
+        "endTime": 474,
+        "speaker": "Alejandro Olchik",
+        "text": "Não acho isso faz diferença."
+      },
+      {
+        "startTime": 475,
+        "endTime": 477,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Porque você tem mais de uma época andando em paralelo?"
+      },
+      {
+        "startTime": 478,
+        "endTime": 481,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu já tenho."
+      },
+      {
+        "startTime": 481,
+        "endTime": 483,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Mais de dois épicos."
+      },
+      {
+        "startTime": 483,
+        "endTime": 500,
+        "speaker": "Alejandro Olchik",
+        "text": "As pessoas elas puxam os caras que tiverem ali, se tiver carne de sete épocas vai puxar sete épicos."
+      },
+      {
+        "startTime": 500,
+        "endTime": 2287,
+        "speaker": "Neno Andrade",
+        "text": "A gente permite o usuário poder selecionar aqui entre um dia sete dias e 30 dias de acordo com que ele selecionar ele vai ter uma atualização da audiência aqui logo abaixo. Filtros a gente vai ter os filtros não lidos e novos. O novos é um ponto que a gente tá tentando entender como que vai ser melhor para interpretação do usuário, se a gente chamar de novos vai ficar claro para ele que se trata dos corretores que tiveram ali uma primeira atividade nos Empreendimentos dele em determinado período ou se a gente chamar de agora fugir outra termo que a gente estava considerando."
+      },
+      {
+        "startTime": 2287,
+        "endTime": 652,
+        "speaker": "Neno Andrade",
+        "text": "Deixa eu voltar aqui só para lembrar."
+      },
+      {
+        "startTime": 652,
+        "endTime": 653,
+        "speaker": "Alejandro Olchik",
+        "text": "primeiro acesso"
+      },
+      {
+        "startTime": 653,
+        "endTime": 2229,
+        "speaker": "Neno Andrade",
+        "text": "ativos essa listagem. Ele vai ter as ações de marcar como lido como a gente já vinha conversando e chamar no WhatsApp. Ele também pode atribuir ou não um responsável e nesta questão do Responsável, a gente tem aquelas igrejas de perfil administrador consegue atribuir. E perfil editora e leitor não consegue ele vai ter uma pop-up aqui um barão de administrador caso ele não tenha esse perfil, né? Voltando aqui agora abra captados que seriam aqueles atribuídos a mim."
+      },
+      {
+        "startTime": 2229,
+        "endTime": 716,
+        "speaker": "Neno Andrade",
+        "text": "Dentro do card a gente vai estar apresentando o último empreendimento acessado."
+      },
+      {
+        "startTime": 716,
+        "endTime": 745,
+        "speaker": "Eduardo Stringhini",
+        "text": "E uma empresa tem empresa tem 20 Empreendimentos no Incorporadora. se quiser ver corretores forem empreendimento, como é que aparece o nome do empreendimento aí no"
+      },
+      {
+        "startTime": 745,
+        "endTime": 750,
+        "speaker": "Neno Andrade",
+        "text": "Mas não tem um filtro para ele ver por Empreendimentos nessa tela da listagem aqui."
+      },
+      {
+        "startTime": 751,
+        "endTime": 757,
+        "speaker": "Eduardo Stringhini",
+        "text": "que a gente falou da semana passada, eu me esqueci dessa Live, mas quando tem muito produto para ver se acha interessante, a gente tem alguma forma de"
+      },
+      {
+        "startTime": 757,
+        "endTime": 787,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas aí, qual o critério para mostrar? Porque o fato de o último ter sido associado não quer que não quer dizer que não acessou. o último kcc pode ter sido visto a parte, mas eu também poderia estar no filtro de outro empreendimento para E aqui é listagem, ela está sendo montada para trazer os últimos corretores que acessaram a Incorporadora."
+      },
+      {
+        "startTime": 791,
+        "endTime": 794,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tem uma lógica de Incorporadora não de produto."
+      },
+      {
+        "startTime": 794,
+        "endTime": 826,
+        "speaker": "Alejandro Olchik",
+        "text": "É o que o que sim Incorporadora para dar visibilidade de audiência para Incorporadora. Isso inclusive mudaria a lógica da listagem, né? A gente fosse ter um filtro porque não há sobre os mesmos dados é ter uma associação do corretor das atividades. Até dá para fazer tá? Só que Aí teria que fazer uma nova busca."
+      },
+      {
+        "startTime": 830,
+        "endTime": 832,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu não tinha me dado."
+      },
+      {
+        "startTime": 832,
+        "endTime": 2095,
+        "speaker": "Neno Andrade",
+        "text": "perfil deste corretor, já vou entrar lá então lá clicando para acessar o perfil dos corretor, eu vou ter mais algumas informações aqui dentre elas eu posso ver o interesse nos concorrentes e eu vou para uma nova página ou histórico de atividades e neste histórico de atividades. A gente já tem esse filtro na web eu trouxe para cá no mobile."
+      },
+      {
+        "startTime": 2095,
+        "endTime": 890,
+        "speaker": "Neno Andrade",
+        "text": "E daí ele tem a possibilidade de filtrar por empreendimento, mas ele vai filtrar dentro do histórico de atividades daquele corretor ali dentro do perfil daquele corretor."
+      },
+      {
+        "startTime": 890,
+        "endTime": 915,
+        "speaker": "Alejandro Olchik",
+        "text": "Deixaria como?"
+      },
+      {
+        "startTime": 915,
+        "endTime": 918,
+        "speaker": "Diego Diehl",
+        "text": "A confirmação Qual a informação que tem que tirar?"
+      },
+      {
+        "startTime": 918,
+        "endTime": 945,
+        "speaker": "Alejandro Olchik",
+        "text": "olha, olha o card do vai no card ali do último empreendimento acessado Eu tô filtrando por outro empreendimento o corretor aí no caso ele ele acessou o visto a parte Inicial é 16 minutos. Mas se tiver filtrando pelo sei lá pelo impedimento banana, ele digitou o banana 4 dias atrás."
+      },
+      {
+        "startTime": 945,
+        "endTime": 965,
+        "speaker": "Alejandro Olchik",
+        "text": "Então teria que mostrar atividade recente no empreendimento banana e como eu já tô filtrando por um empreendimento Aranha, não poderia não ser nem mostrar o último empreendimento acessada. Tô filtrando pelo empreendimento. Só tô pegando quem visitou o Empreendimentos."
+      },
+      {
+        "startTime": 967,
+        "endTime": 1048,
+        "speaker": "Talita Campos",
+        "text": "ali aquele corretor não só informação como o corretor. Mas Eu Tô considerando no período que as pessoas qualquer coisa no período eu posso ter uma informação adicional de que Apesar dele ter um interesse naquele empreendimento. Ele tem interesse em outros também que ele está visualizando depois."
+      },
+      {
+        "startTime": 1048,
+        "endTime": 1065,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas não apareceria nada no card nessa. Outra ideia, né? É uma ideia tipo, aí ela continuaria aparecendo Maria Silva Santos 16 minutos atrás. Sendo visto a Parque Residencial, mas aqui em nenhum lugar diz quando foi que ela se a sua empreendimento banana que foi uma semana atrás."
+      },
+      {
+        "startTime": 1065,
+        "endTime": 1066,
+        "speaker": "Talita Campos",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 1066,
+        "endTime": 1073,
+        "speaker": "Alejandro Olchik",
+        "text": "Só saberia que visitou entrar no perfil dela e olhar o histórico criatividade e ver porque aqui não vai aparecer."
+      },
+      {
+        "startTime": 1074,
+        "endTime": 1093,
+        "speaker": "Talita Campos",
+        "text": "É tem que ver como que esse filtro qual o desejo para esse filtro, né? Se é filtrar o último empreendimento acessado ou qualquer interesse no período considerado."
+      },
+      {
+        "startTime": 1101,
+        "endTime": 1127,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pode seguir aí é a mesma coisa. Ele que tem que ver se esse filtro o que que é, né? É um filtro de Ok então empreendimento que esse grupo de corretores. Em algum momento não é um filtro de último empreendimento acessado."
+      },
+      {
+        "startTime": 1127,
+        "endTime": 1132,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que vai ficar claro. A pergunta é para que que a pessoa tá filtrando."
+      },
+      {
+        "startTime": 1136,
+        "endTime": 1152,
+        "speaker": "Eduardo Stringhini",
+        "text": "entrou aqui em tal produto. Então, ele vai poder usar."
+      },
+      {
+        "startTime": 1152,
+        "endTime": 1155,
+        "speaker": "Alejandro Olchik",
+        "text": "Então, tu quer ver o que entrou mais recente no produto concorda?"
+      },
+      {
+        "startTime": 1158,
+        "endTime": 1159,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não sei na prática."
+      },
+      {
+        "startTime": 1161,
+        "endTime": 1176,
+        "speaker": "Diego Diehl",
+        "text": "Eu só conectar com que eu tava pensando aqui que eu acho que é um gancho bom. Aí a gente vai permitir que a galera bombardeio os corretores que fizeram um ponto no produto."
+      },
+      {
+        "startTime": 1178,
+        "endTime": 1179,
+        "speaker": "Alejandro Olchik",
+        "text": "fizeram"
+      },
+      {
+        "startTime": 1179,
+        "endTime": 1180,
+        "speaker": "Diego Diehl",
+        "text": "um ponto"
+      },
+      {
+        "startTime": 1183,
+        "endTime": 1186,
+        "speaker": "Alejandro Olchik",
+        "text": "A atividade mínima a gente não definiu. Qual é a atividade mínima para estar"
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1191,
+        "speaker": "Diego Diehl",
+        "text": "aparecendo a gente pode respeitar aquela atividade mínima. alguma coisa"
+      },
+      {
+        "startTime": 1193,
+        "endTime": 1195,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente pode respeitar a atividade mínima."
+      },
+      {
+        "startTime": 1197,
+        "endTime": 1301,
+        "speaker": "Diego Diehl",
+        "text": "conversão pequena e média pequena e média tem um coordenador tem dois no máximo. Eles vão trabalhar meio que geral os produtos da Incorporadora, né? Não tem muito uma divisão para filtrar. enfim, só tô querendo lembrar desses dois pontos uma eu ligaria para eu falar que gostaria de falar com estes que eu falei e Se for para pensar em me lembrar do que que a gente não consegue converter hoje são pequenas e médias incorporadores."
+      },
+      {
+        "startTime": 1301,
+        "endTime": 1312,
+        "speaker": "Eduardo Stringhini",
+        "text": "É que a pequena e a média não vai ter acesso isso aqui se ela tá DL ela vai ter só um. experimento Ela vai ó, você tem que ser de uma das."
+      },
+      {
+        "startTime": 1312,
+        "endTime": 1319,
+        "speaker": "Diego Diehl",
+        "text": "Para vender né? Eu vou falar você vai ter você vai poder ter isso aqui na tua mão, é isso que eu tô vendo na tela que é isso que eu tô pensando na venda, né?"
+      },
+      {
+        "startTime": 1324,
+        "endTime": 1351,
+        "speaker": "Eduardo Stringhini",
+        "text": "possibilidade de ver Essas atividades mais importantes aí que o Diego Eu sei da do compartilhamento e a questão de estudar de repente a gente segue com apresentação do Neno aí deixa esses dois pontos em aberto. Com dúvida também. Cortar uma apresentação."
+      },
+      {
+        "startTime": 1351,
+        "endTime": 2513,
+        "speaker": "Alejandro Olchik",
+        "text": "Inclusive se o cara de muda de acordo com o tipo de filtro ou não? Né, mas eu eu acho que eu não assim ó o escopo já tá maior do que eu gostaria para essa listagem é evidente que ela vai ter que ser refinada, eu acho que a gente vai conseguir ter esse caminho sem te achar que é algo que precisa seguido."
+      },
+      {
+        "startTime": 2513,
+        "endTime": 1486,
+        "speaker": "Alejandro Olchik",
+        "text": "Lembrando que o nosso foco aqui é que vejam que tem audiência, veja que tem corretor acessando. Né? Então, eu acho que isso Supre e tá tendo corretores vai entrar aqui vai tá vendo corretor entrando tal tal tal tal tal."
+      },
+      {
+        "startTime": 1486,
+        "endTime": 1497,
+        "speaker": "Lais Santos Soares",
+        "text": "O número de compartilhamento ele é muito baixo. Tá então assim. Não seria um filtro principal não porque ele entregaria pouco."
+      },
+      {
+        "startTime": 1505,
+        "endTime": 1514,
+        "speaker": "Eduardo Stringhini",
+        "text": "Para melhorar esse número."
+      },
+      {
+        "startTime": 1514,
+        "endTime": 1517,
+        "speaker": "Alejandro Olchik",
+        "text": "beleza seguimos"
+      },
+      {
+        "startTime": 1520,
+        "endTime": 1572,
+        "speaker": "Neno Andrade",
+        "text": "pode melhorar."
+      },
+      {
+        "startTime": 1572,
+        "endTime": 1595,
+        "speaker": "Alejandro Olchik",
+        "text": "Será que a gente quer alocação de corretores para o gerente de atendimento? Com base no empreendimento e a pessoa já recebe os seus entendeu? Então e é uma configuração a nível de Incorporadora para alguém que tem muito empreendimento então se eu atendo Tais Empreendimentos ou vai ser o corretores que vem Tais Empreendimentos não precisa estar filtrando aqui."
+      },
+      {
+        "startTime": 1595,
+        "endTime": 1612,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso é para configurado, né? É uma seria uma outra lógica e aí o filtro continua a mesma mas eu vou estar vendo os corretores dos Empreendimentos que eu Atento e não necessariamente veria dos outros, tá? Só para considerar isso, mas toca aí."
+      },
+      {
+        "startTime": 1617,
+        "endTime": 3402,
+        "speaker": "Neno Andrade",
+        "text": "perfil dele, né? Mas então dentro da água de captados, o que que eu vou poder fazer eu posso buscar pelo nome de um corretor específico ou uma imobiliária eu posso ordenar por atividade recente ou mais ativos e aqui eu vou ver então só aqueles contatos de corretores que estão atribuídos a mim chamar no WhatsApp, basicamente a gente deu essa quebra aqui dentro do aplicativo para ficar um pouco mais claro também para o usuário."
+      },
+      {
+        "startTime": 3402,
+        "endTime": 1668,
+        "speaker": "Neno Andrade",
+        "text": "até"
+      },
+      {
+        "startTime": 1668,
+        "endTime": 1717,
+        "speaker": "Alejandro Olchik",
+        "text": "Então sem te deixar se atribuídos a mim a gente não poderia mostrar todos para o administrador. E aquilo que a gente imaginou é que vai ser a mesma listagem de corretores que a gente vê na web. Então quando a pessoa é administradora ela vê todos e pode estar atribuindo aqui mesmo, entendeu? Tipo tá vendo tudo se eu sou leitor ou editor, eu só vejo os que estão comigo, mas que foram."
+      },
+      {
+        "startTime": 1717,
+        "endTime": 1738,
+        "speaker": "Diego Diehl",
+        "text": "Valeu tava com uma dúvida, eu tava pensando nisso mesmo nas permissões, qual que vai ser o fluxo do usuário então da Incorporadora o admin. Vai entrar ver vários corretores novos digamos assim vai atribuir para o time dele. E aí vai aparecer para o time dele chamar é isso?"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1741,
+        "speaker": "Alejandro Olchik",
+        "text": "Já já é assim."
+      },
+      {
+        "startTime": 1742,
+        "endTime": 1743,
+        "speaker": "Diego Diehl",
+        "text": "isso é"
+      },
+      {
+        "startTime": 1743,
+        "endTime": 1751,
+        "speaker": "Alejandro Olchik",
+        "text": "Já é assim na web a gente está respeitando as permissões que tem na web para não ter dois tipos de permissões diferentes. Então os vários de mim ele vê"
+      },
+      {
+        "startTime": 1751,
+        "endTime": 1754,
+        "speaker": "Diego Diehl",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 1754,
+        "endTime": 1786,
+        "speaker": "Alejandro Olchik",
+        "text": "todos os corretores da Incorporadora aqueles que foram Associados alguém ou que entraram no portal de parcerias via portal do parceria. Esses são os da Incorporadora vai ver tudo aqui no captado, né? Quem é leitura ou editor só vê os que tem atribuído a si. Para ver os outros administrador precisa alocar nos recentes, eles vêm tudo, mas leitor e editor."
+      },
+      {
+        "startTime": 1786,
+        "endTime": 1812,
+        "speaker": "Alejandro Olchik",
+        "text": "Eles não conseguem atribuir. Eles têm que pedir permissão para o administrador para fazer atribuição. Então não tendo atribuição eles aí isso se eu não tenho atribuição, eu não vou conseguir fazer o contato. eu preciso que alguém atribuo vou ter que me deixa aqui vou ter que como administrador"
+      },
+      {
+        "startTime": 1815,
+        "endTime": 1816,
+        "speaker": "Diego Diehl",
+        "text": "E aí o administrador?"
+      },
+      {
+        "startTime": 1818,
+        "endTime": 1824,
+        "speaker": "Alejandro Olchik",
+        "text": "Não sei se faz sentido essas condições também, né? Tipo daqui a pouco. Isso é um problema."
+      },
+      {
+        "startTime": 1825,
+        "endTime": 1834,
+        "speaker": "Amanda Santos",
+        "text": "Nessa parte que ele não vai conseguir acionar o que que vai acontecer, ele vai ver mas ele não vai conseguir clicar no botão. Como assim?"
+      },
+      {
+        "startTime": 1838,
+        "endTime": 1849,
+        "speaker": "Neno Andrade",
+        "text": "O usuário que for de perfil editor ou leitor ele consegue ver a ação, mas quando ele clica ele vê uma mensagem. Ele não consegue realizar o porquê que ele não consegue realizar."
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1860,
+        "speaker": "Amanda Santos",
+        "text": "Ah tá isso vale esse erro Aparece tanto para quanto quando ele não pode atribuir porque ele não é administrador e tanto para quando ele não pode contactar porque não é um contato que ele foi atribuído."
+      },
+      {
+        "startTime": 1860,
+        "endTime": 1865,
+        "speaker": "Neno Andrade",
+        "text": "Qualquer ação relacionada a perfil que tem um bloqueio de perfil vai aparecer essa mensagem aqui."
+      },
+      {
+        "startTime": 1866,
+        "endTime": 1891,
+        "speaker": "Amanda Santos",
+        "text": "Entendi, eu acho que isso aí vai dar muito muitos contatos para a gente suporte perguntando acho que vai ser uma adaptação um pouco difícil para ele de entender. Não é uma parte principalmente de atribuição de não poder atribuir, mas a parte de não clicar e não poder ver o contato sabe? Porque as permissões hoje não são tão Claras para os clientes."
+      },
+      {
+        "startTime": 1891,
+        "endTime": 1898,
+        "speaker": "Amanda Santos",
+        "text": "Elas são bem Claras pra gente mas para os clientes ainda é um pouco mais complicado deles entenderem? é mas"
+      },
+      {
+        "startTime": 1898,
+        "endTime": 1926,
+        "speaker": "Alejandro Olchik",
+        "text": "Uma dúvida que eu tô o leitor editor. Hoje ele vê o contato. Não consegue entrar no perfil não. É a mesma permissão, eu acho que gera atrito, né? Se tomou a decisão de ser atritado por uma realidade que veio de vocês, né? Tem que ver se é isso que a gente quer."
+      },
+      {
+        "startTime": 1929,
+        "endTime": 1962,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu acho que isso aqui é o que mais faz sentido tá que venha que venha esse tipo de suporte CS a gente quer engajar a gente quer colocar esse corretor para dentro. Eu acho que tem que ter. E não pode liberar tudo. Definitivamente não pode é? Uma das coisas que sempre rola nas reuniões, eu não quero que Fulano Veja tudo ai como que a gente iria lidar com isso falar não tem solução, aí ele vai tirar Fulano da ferramenta."
+      },
+      {
+        "startTime": 1962,
+        "endTime": 1963,
+        "speaker": "Lais Santos Soares",
+        "text": "muito pior"
+      },
+      {
+        "startTime": 1969,
+        "endTime": 2002,
+        "speaker": "Diego Diehl",
+        "text": "E o atrito acho que só de mostrar o nome já pode gerar atrito também nelas. É tipo eu tenho contato dos corretores, às vezes pegam lista de contato todo mundo vocês não sabem quem falar não ativa vai ser Maria Silva Santos Dias no meu WhatsApp Maria Silva Santos. Curitiba por exemplo tenho contato de 8 mil corretores a qualquer nome você acha que"
+      },
+      {
+        "startTime": 2002,
+        "endTime": 2005,
+        "speaker": "Lais Santos Soares",
+        "text": "Já tá na tua base, né?"
+      },
+      {
+        "startTime": 2005,
+        "endTime": 2008,
+        "speaker": "Diego Diehl",
+        "text": "Não tá na minha base só tem ele na minha agenda."
+      },
+      {
+        "startTime": 2009,
+        "endTime": 2010,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu acho que isso não tem como fazer."
+      },
+      {
+        "startTime": 2010,
+        "endTime": 2012,
+        "speaker": "Diego Diehl",
+        "text": "aquele"
+      },
+      {
+        "startTime": 2012,
+        "endTime": 2015,
+        "speaker": "Lais Santos Soares",
+        "text": "E lá na web já mostra o nome deles."
+      },
+      {
+        "startTime": 2016,
+        "endTime": 2018,
+        "speaker": "Diego Diehl",
+        "text": "A lá ele já mostra o nome também, né."
+      },
+      {
+        "startTime": 2019,
+        "endTime": 2025,
+        "speaker": "Lais Santos Soares",
+        "text": "o nome é Ele não acessa o perfil nem o telefone."
+      },
+      {
+        "startTime": 2026,
+        "endTime": 2033,
+        "speaker": "Diego Diehl",
+        "text": "Ah o membro normal ali o editor e tal ele enxerga o grupo de concorrentes inteiro com os nomes só que ele não consegue abrir os contatos, é isso."
+      },
+      {
+        "startTime": 2033,
+        "endTime": 2039,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso aí aquela setinha que abre o perfil tá desabilitado."
+      },
+      {
+        "startTime": 2040,
+        "endTime": 2055,
+        "speaker": "Amanda Santos",
+        "text": "Por definição. Que eu tenho anotado eles podem acessar o que está atribuído a eles não. Até o contato. Mas ele vê o contato do que tá."
+      },
+      {
+        "startTime": 2055,
+        "endTime": 2056,
+        "speaker": "Alejandro Olchik",
+        "text": "Quando tá atribuindo sim."
+      },
+      {
+        "startTime": 2058,
+        "endTime": 2062,
+        "speaker": "Amanda Santos",
+        "text": "Eu não tinha entendido isso tinha entendido que ele não via nada pela resposta."
+      },
+      {
+        "startTime": 2065,
+        "endTime": 2075,
+        "speaker": "Lais Santos Soares",
+        "text": "O leitor e o editor que não são atribuídos. Eles vêm só o nome da pessoa, né? E a ideia é replicar web o aplicativo."
+      },
+      {
+        "startTime": 2077,
+        "endTime": 2085,
+        "speaker": "Alejandro Olchik",
+        "text": "O que poderia ter uma roleta, né? automática Para corretor que não tem responsável."
+      },
+      {
+        "startTime": 2087,
+        "endTime": 2097,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso eu acho que já foi ventilado e barrado por competir com o Zé. Eles queriam muito com o sonho das incorporadoras."
+      },
+      {
+        "startTime": 2101,
+        "endTime": 2116,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso é bobagem de fazer. Tipo não tem responsável atribui com na mesma proporção a questão o grau de sofisticação que a roleta tem que ter Ela poderia estar habilitado ou desabilitado, entendeu? roleta habilitada para o empreendimento"
+      },
+      {
+        "startTime": 2118,
+        "endTime": 2119,
+        "speaker": "Diego Diehl",
+        "text": "Por produto por time por pessoa."
+      },
+      {
+        "startTime": 2121,
+        "endTime": 2133,
+        "speaker": "Alejandro Olchik",
+        "text": "É o problema é que o corretor às vezes entra imagem do produto, né? O primeiro que ele entrar o contato dele vai receber a roleta na primeira entrada quando tem roleta habilitada atribui."
+      },
+      {
+        "startTime": 2136,
+        "endTime": 2164,
+        "speaker": "Lais Santos Soares",
+        "text": "Precisa entregar todas as soluções também, não é só uma. Por ordem de chegada o corretor mas é o que eu falei, eu acho que já pensaram nisso que a gente falou e foi vetado por competir com o Zé que realmente quando chega no treinamento fala. Tem como colocar esse aqui automático, né com letra não tem não tem como contratar o Zete."
+      },
+      {
+        "startTime": 2173,
+        "endTime": 2175,
+        "speaker": "Alejandro Olchik",
+        "text": "É um atrito grande é esse?"
+      },
+      {
+        "startTime": 2175,
+        "endTime": 2178,
+        "speaker": "Lais Santos Soares",
+        "text": "Muito grande, esse quando a Incorporadora tem mais de um gerente parceria."
+      },
+      {
+        "startTime": 2181,
+        "endTime": 2208,
+        "speaker": "Diego Diehl",
+        "text": "E é uma e além de ser um atrito é um valor que a gente deixa na mesa, porque o gestor não fica entrando e distribuindo corretor na mão é falar para um diretor entrar lá e ficar distribuindo. Às vezes ele tem uma assistente, daí ele até ele fazer isso, devia mesmo fazer mas não faz."
+      },
+      {
+        "startTime": 2208,
+        "endTime": 2203,
+        "speaker": "Diego Diehl",
+        "text": "E quando tem uma assistente ele faz ele manda daí se pede para assistente fazer"
+      },
+      {
+        "startTime": 2203,
+        "endTime": 2208,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu vou falar."
+      },
+      {
+        "startTime": 2208,
+        "endTime": 2217,
+        "speaker": "Diego Diehl",
+        "text": "essa distribuição então certa forma a gente geraria mais valor automático assim para galera assim. Usar o tempo da diretoria."
+      },
+      {
+        "startTime": 2219,
+        "endTime": 2252,
+        "speaker": "Lais Santos Soares",
+        "text": "Com certeza assim, se você pegar ali as cinco incorporadoras mais nos pagam ali que são as grandes parceiros. Todas querem é só utilizam de verdade aquelas que tem essa assistente. é a setinha cajado faz bem agora hoje vão entender a gente tava conversando com a Tá vendo Amanda minha memória já não é a mesma mas é."
+      },
+      {
+        "startTime": 2252,
+        "endTime": 2260,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí até que ele trouxe para mim, mas quero queria muito ser roleta."
+      },
+      {
+        "startTime": 2266,
+        "endTime": 2270,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí você mandou eles falarem com a Z2 ou comigo no nosso time?"
+      },
+      {
+        "startTime": 2271,
+        "endTime": 2274,
+        "speaker": "Lais Santos Soares",
+        "text": "Ele que já tinha falado que ele conhece o Júnior, né amiga, então."
+      },
+      {
+        "startTime": 2274,
+        "endTime": 2276,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá, beleza."
+      },
+      {
+        "startTime": 2279,
+        "endTime": 2283,
+        "speaker": "Lais Santos Soares",
+        "text": "O que eu tô falando é um argumento de vendas."
+      },
+      {
+        "startTime": 2285,
+        "endTime": 2290,
+        "speaker": "Diego Diehl",
+        "text": "Não tudo isso aqui que tá na tela. Vai vai conflitar já também. A gente tá indo para o aplicativo, né?"
+      },
+      {
+        "startTime": 2290,
+        "endTime": 2318,
+        "speaker": "Alejandro Olchik",
+        "text": "a questão A gente não tem a gente não tem hoje uma atribuição de gerente por empreendimento. A gente tem o contato do empreendimento. E a gente tem os responsáveis pelo responsável que são colocados manualmente essa relação entre usuário responsável e empreendimento a gente não tem lugar no sistema lógico."
+      },
+      {
+        "startTime": 2318,
+        "endTime": 2322,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas essa seria muito secundária também, Alejandro é raríssimo ter um time"
+      },
+      {
+        "startTime": 2322,
+        "endTime": 2325,
+        "speaker": "Diego Diehl",
+        "text": "que uma pessoa."
+      },
+      {
+        "startTime": 2326,
+        "endTime": 2337,
+        "speaker": "Alejandro Olchik",
+        "text": "Então na verdade, mas como é que a gente sabe quem a gente tem que ter uma forma de indicar quem entra na roleta da Incorporadora, tem que identificar o tipo de empreendimento atende qualquer corretor de qualquer empreendimento."
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2345,
+        "speaker": "Diego Diehl",
+        "text": "A maioria é assim tem duas pessoas mandam para cada um um outro um outro um outro um outro."
+      },
+      {
+        "startTime": 2345,
+        "endTime": 2353,
+        "speaker": "Alejandro Olchik",
+        "text": "Uma freguesinha incluiu na roleta seria a roleta tá recebendo na mesma proporção dos outros corretores que não tem responsável."
+      },
+      {
+        "startTime": 2356,
+        "endTime": 2357,
+        "speaker": "Lais Santos Soares",
+        "text": "Teria que ter também a opção de parar, né?"
+      },
+      {
+        "startTime": 2360,
+        "endTime": 2392,
+        "speaker": "Alejandro Olchik",
+        "text": "Entra ali no admin adiciona remove isso quem faz isso é o administrador. Eu vou colocar isso como uma possível evolução futura aqui a gente definir a prioridade que vem depois da listagem básica. Bruno"
+      },
+      {
+        "startTime": 2394,
+        "endTime": 2415,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Até perguntar se vocês acham que geraria algum conflito nessa roleta, se por exemplo a gente estimular esse uma ganificação engajamento do corretor para essa roleta para ter prioridade. Aquele que é mais engajado ali que tem mais pontos ali de atividade ali com a gente. Este leite parceria ou corretor captador no nosso caso aqui?"
+      },
+      {
+        "startTime": 2419,
+        "endTime": 2484,
+        "speaker": "Alejandro Olchik",
+        "text": "E uma outra pergunta é que passou batido só para ter a definição o critério para aparecer aqui na listagem. Vai porque hoje a gente tem atividade mínima. Que ela é configurada. Mas isso é só para notificação. Então a gente pode ter Empreendimentos que não tem notificações então quando tiver notificação de Hulk a gente vai fazer a mesma atividade mínima aqui na listagem ou precisa fazer esse batimento ou não? Como é que vocês verem?"
+      },
+      {
+        "startTime": 2487,
+        "endTime": 2491,
+        "speaker": "Diego Diehl",
+        "text": "Para não aparecer todos né sobre isso."
+      },
+      {
+        "startTime": 2493,
+        "endTime": 2496,
+        "speaker": "Alejandro Olchik",
+        "text": "Então respeitar atividade mínima do Hulk quando configurado."
+      },
+      {
+        "startTime": 2500,
+        "endTime": 2509,
+        "speaker": "Diego Diehl",
+        "text": "Sim, daí só tem mais um desdobramento que se a gente mandou web hooke para Z2, eles rodam roleta deles lá, né? E vai distribuir para alguém."
+      },
+      {
+        "startTime": 2512,
+        "endTime": 2515,
+        "speaker": "Alejandro Olchik",
+        "text": "Aí não habilita a roleta ao nosso especialista."
+      },
+      {
+        "startTime": 2516,
+        "endTime": 2523,
+        "speaker": "Diego Diehl",
+        "text": "A designação de responsável de lá não tá vindo para a gente de volta, né?"
+      },
+      {
+        "startTime": 2524,
+        "endTime": 2527,
+        "speaker": "Alejandro Olchik",
+        "text": "Ah mas isso já é um outro integração."
+      },
+      {
+        "startTime": 2527,
+        "endTime": 2529,
+        "speaker": "Diego Diehl",
+        "text": "Uma pergunta uma pergunta não tá voltando, né?"
+      },
+      {
+        "startTime": 2529,
+        "endTime": 2542,
+        "speaker": "Alejandro Olchik",
+        "text": "Não. Poderia voltar."
+      },
+      {
+        "startTime": 2544,
+        "endTime": 2573,
+        "speaker": "Diego Diehl",
+        "text": "Os caras que tem Z2 não vão ficar entrando no aplicativo e pegando na mão, sendo que ele já tem. Um oficial para e automático só o ruído que pode gerar que vai ter brecha dessa forma que eu coordenador gerente. Sei lá, tento é que tá na mão da de mim na verdade, né? Pode ter um cara liberado no meu nome aqui que eu vejo no app falo, mas ele foi designado para outra pessoa lá na Z2."
+      },
+      {
+        "startTime": 2573,
+        "endTime": 2576,
+        "speaker": "Diego Diehl",
+        "text": "Talvez seja a fonte da oficial da carteira deles."
+      },
+      {
+        "startTime": 2577,
+        "endTime": 2578,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente vai ter que resolver isso daí mas uma questão."
+      },
+      {
+        "startTime": 2578,
+        "endTime": 2582,
+        "speaker": "Diego Diehl",
+        "text": "A gente deixa a vida ruído e a gente resolve se vê bastante."
+      },
+      {
+        "startTime": 2593,
+        "endTime": 2622,
+        "speaker": "Neno Andrade",
+        "text": "Dessa parte do da princípio é isso tá pessoal aí a partir de DL. Basicamente ele vai ter algumas ações travadas, por exemplo, quem é dele não consegue acessar abacates. Não vai conseguir chamar no WhatsApp não vai conseguir ter o gerenciamento colorido não vai conseguir atribuir responsável. E aí aqui até para ti o errado do que eu tava pensando em paralelo justamente porque eu vi um comentário da Amanda."
+      },
+      {
+        "startTime": 2622,
+        "endTime": 2640,
+        "speaker": "Neno Andrade",
+        "text": "Que antes a gente tava pensando também bloquear visualização do perfil. Eu pensei que pode ser uma oportunidade da gente ter mais um CTA deixar ele para o perfil, porém ele não vai conseguir ver muita informação aí tem mais um CTA aqui."
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2644,
+        "speaker": "Diego Diehl",
+        "text": "Excelente para clicar entra."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2652,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que enfim eu confesso que eu não acho necessário porque já tenho o CTA Ali vai ter o ícone tá bem?"
+      },
+      {
+        "startTime": 2652,
+        "endTime": 2654,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho super necessário super."
+      },
+      {
+        "startTime": 2654,
+        "endTime": 2656,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas tem na CTA na outra cara, tá ali na outra."
+      },
+      {
+        "startTime": 2656,
+        "endTime": 2675,
+        "speaker": "Diego Diehl",
+        "text": "Mas é que ele não sabe o que que ele vai ver tipo ali no nosso app hoje concorrentes, eu seja lá o que é concorrente. Sei lá, o que que é isso se eu entro entenda a estrutura e falo caramba, eu queria ter essa estrutura. Eu queria poder ter acesso a mais vontade."
+      },
+      {
+        "startTime": 2675,
+        "endTime": 2690,
+        "speaker": "Diego Diehl",
+        "text": "Se não for um custo extremamente maior eu colocaria assim para caramba. Inclusive o cara entrar aí ele vai ficar cara. Eu não consigo enxergar esse número podia mandar mensagem para ela. Agora é bem mais forte do que aquele citado atrás."
+      },
+      {
+        "startTime": 2705,
+        "endTime": 2744,
+        "speaker": "Neno Andrade",
+        "text": "Só joguei lenha, né? Beleza aí daqui de DL a princípio seria isso, mas novamente de entrada que ele pode vir pelo menu de corretores. Ele também vai receber mensagem personalizadas aí o que que tem só mais um ponto para a gente bater aqui seria a parte da gente conseguir diferenciar um pouco melhor as nossas três listagens de corretores que a gente vai passar a ter a gente vai ter Manuel que a gente vai ter duas na web sendo na web uma aba de corretores é outra mapa desempenho."
+      },
+      {
+        "startTime": 2744,
+        "endTime": 2767,
+        "speaker": "Neno Andrade",
+        "text": "No app aqui que nem eu comentei mais cedo, eu tô tentando trazer um pouco de destaque que é justamente, o que que ele vai ver são os corretores que tiveram atividade recente. Na aba de corretores, eu fiz meio que duas propostas uma um pouco mais completa e outra um pouco mais mais resumida."
+      },
+      {
+        "startTime": 2767,
+        "endTime": 2786,
+        "speaker": "Neno Andrade",
+        "text": "A ideia é que é transformar isso. Talvez num título pelo que a gente estava conversando ali ontem ele com o Alexandre. corretores captados pela Incorporadora essa tradução dessa listagem ou sua base fixa de contatos que reúne todos os corretores da carteira da Incorporadora"
+      },
+      {
+        "startTime": 2786,
+        "endTime": 2797,
+        "speaker": "Alejandro Olchik",
+        "text": "Só cuida o seguinte a gente tem anunciantes, né e não necessariamente são somente incorporadoras. A gente tem que cuidar com acionamento Natura, então, tu vai ter que utilizar Corretores captados e evitar utilizar o termo."
+      },
+      {
+        "startTime": 2804,
+        "endTime": 2830,
+        "speaker": "Lais Santos Soares",
+        "text": "Sobre essa nomenclatura. Eu sempre tive um problema com ela. O cliente ele bate o olho ali e ele sabe o que que é aquele anunciante ali. Principalmente ali na colônia anunciante concorrente. Concorrente a próxima e não sabe o que é aí a gente fala assim. Ai a gente deixa assim porque a gente tem pessoas que tem mais de um usuário."
+      },
+      {
+        "startTime": 2830,
+        "endTime": 2838,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas é uma oração da Nossa base tão pequena. Para outra fração gigante ficar sem entender, o que é?"
+      },
+      {
+        "startTime": 2839,
+        "endTime": 2841,
+        "speaker": "Alejandro Olchik",
+        "text": "Não porque tem Imobiliária Laís."
+      },
+      {
+        "startTime": 2841,
+        "endTime": 2848,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas é uma mulher veio igualzinho tá aqui. Se Ali no lugar de anunciante não poderia ser o nome da imobiliária."
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2852,
+        "speaker": "Alejandro Olchik",
+        "text": "Não ainda veio igualzinho."
+      },
+      {
+        "startTime": 2852,
+        "endTime": 2870,
+        "speaker": "Lais Santos Soares",
+        "text": "Então uma Espalhe anunciante não poderia ser o nome da Incorporadora ou da imobiliária? E seria no caso se eu tivesse antes dela aqui seria responsável se ela e concorrente."
+      },
+      {
+        "startTime": 2871,
+        "endTime": 2874,
+        "speaker": "Alejandro Olchik",
+        "text": "É a gente vai ter como é que eu resolvo os casos que tem vários anos."
+      },
+      {
+        "startTime": 2875,
+        "endTime": 2879,
+        "speaker": "Lais Santos Soares",
+        "text": "É que eu tô falando uma fração tão pequena da ferramenta."
+      },
+      {
+        "startTime": 2879,
+        "endTime": 2897,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas eu preciso resolver eles igual. Aí tá dizendo que quando não tiver quando tiver músculos eu uso a enchente senão bota o nome da contém um só bota o nome da Incorporadora está querendo dizer. Isso não vira Incorporadora for gigante."
+      },
+      {
+        "startTime": 2913,
+        "endTime": 2925,
+        "speaker": "Talita Campos",
+        "text": "Lá isso é uma dúvida. Você tá questionando a coluna anunciante que tem o nome do anunciante ou a coluna de interesse no anunciante?"
+      },
+      {
+        "startTime": 2927,
+        "endTime": 2932,
+        "speaker": "Lais Santos Soares",
+        "text": "Tô questionando a coluna que tem foguinho Foguinho."
+      },
+      {
+        "startTime": 2932,
+        "endTime": 2938,
+        "speaker": "Talita Campos",
+        "text": "Tá essa coluna ela representa o interesse do corretor nos Empreendimentos do anunciante."
+      },
+      {
+        "startTime": 2939,
+        "endTime": 2952,
+        "speaker": "Lais Santos Soares",
+        "text": "E é do lado o interesse do corretor nos concorrentes dos Empreendimentos do anunciante. sim Agora se você tá olhando para isso aqui, você sabe que é anunciante é você."
+      },
+      {
+        "startTime": 2955,
+        "endTime": 2978,
+        "speaker": "Alejandro Olchik",
+        "text": "7 minutos só a gente não falou do outro negócio, né? Se quiser criar um card para isso a gente discute a gente só tomar agora o que falta aqui da reunião em relação a isso. Tá então vou dar uma cortada aqui, desculpa. Que mais falta aqui."
+      },
+      {
+        "startTime": 2978,
+        "endTime": 3000,
+        "speaker": "Neno Andrade",
+        "text": "Só passar para outra listagem aqui que é da de corretores a área de desempenho aqui, a gente já tem um título querer bem esclarecedor. Eu não mexeria Nele até mesmo porque já é algo que tá mais habitual para o usuário então a única coisa que eu reforçaria mesmo a comunicação dentro dessa aba corretores aqui."
+      },
+      {
+        "startTime": 3000,
+        "endTime": 3001,
+        "speaker": "Neno Andrade",
+        "text": "Seria uma proposta."
+      },
+      {
+        "startTime": 3003,
+        "endTime": 3005,
+        "speaker": "Alejandro Olchik",
+        "text": "E o ícone faltou né? Que eu procuro ícone."
+      },
+      {
+        "startTime": 3006,
+        "endTime": 3039,
+        "speaker": "Neno Andrade",
+        "text": "Sim exato. Aí, eu tenho que sair para outra janela aqui a gente tinha discutido. anterior a respeito do ícone que leva para página do perfil do Corretor não ser tão claro o que que eu fiz a gente que fez a proposta usar o telefonezinho, só que tem que lembrar que a ação aqui é levar esse usuário para página dos detalhes do perfil do corretor e não necessariamente ligado e eu fiz a outra proposta com o texto mesmo."
+      },
+      {
+        "startTime": 3039,
+        "endTime": 3049,
+        "speaker": "Neno Andrade",
+        "text": "Ver contato teremos que ver ele definir, qual que é o melhor caminho, eu não conseguia fazer a proposta usando a lupinha não deu tempo."
+      },
+      {
+        "startTime": 3056,
+        "endTime": 3061,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí Ver contato pode ser tá fechou agora contato então."
+      },
+      {
+        "startTime": 3064,
+        "endTime": 3065,
+        "speaker": "Neno Andrade",
+        "text": "Tá aqui já."
+      },
+      {
+        "startTime": 3065,
+        "endTime": 3089,
+        "speaker": "Alejandro Olchik",
+        "text": "tu consegue mostrar rapidão tem uns 5 minutos só eu consegue mostrar o a parte do tutorial lá tá Beleza então A gente fez uma mudança, né? Não teria que mudar que quer explicar ali o que a gente conversou ontem."
+      },
+      {
+        "startTime": 3091,
+        "endTime": 3141,
+        "speaker": "Neno Andrade",
+        "text": "sim, a princípio o que a gente estava discutindo aqui da parte do Tour né é a gente não não usar mais aquele turqueto que a gente utiliza atualmente seria substituir. Para quando houver uma comunicação e uma determinada página a gente ter um header que me leva para o conteúdo onde eu tenho um vídeo muitas vezes ou pode ser até um outro tipo de material esclarecendo a respeito da novidade naquela página e aonde vai ficar essa base de conteúdo é na nossa central de ajuda que a gente já tem atualmente então por exemplo a tabela digital aqui, se eu tiver alguma novidade nela, eu vou ter o header fixo ali até o usuário clicar nele e ir lá naquela página para visualizar."
+      },
+      {
+        "startTime": 3141,
+        "endTime": 3154,
+        "speaker": "Neno Andrade",
+        "text": "Eu clicando aqui na minha segunda aba Justamente na página da central de ajuda com aquele conteúdo a partir do momento que o usuário. Fez isso esse regra ele desaparece dessa página."
+      },
+      {
+        "startTime": 3155,
+        "endTime": 3208,
+        "speaker": "Alejandro Olchik",
+        "text": "Que a gente imaginou até para simplificar o desenvolvimento, né? Tipo a gente vai poder configurar por página links para central de ajuda ali a gente até pode olhar não ficam fica legal a página, né? E a página ela pode ter vídeo, ela pode ter texto pode ter um material que a gente quiser exclusivo pode fazer uma página de novidades de Fevereiro novidades de Março, né? A gente coloca isso na listagem aí de volta a novidade de rever vai ter uma interação novidade de Fevereiro, né? Aí quando a pessoa assiste ela vai entrar lá e vai ter aprenda a fazer isso isso isso com links para tutoriais as coisas que a gente está colocando no ar, né? Na página de tabela digital, vai ter um negócio a tabela digital e limpa lá com instrução para trabalhar e tal."
+      },
+      {
+        "startTime": 3208,
+        "endTime": 3230,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí depois que viu aí tem que a gente vai ter que decidir se a pessoa ela precisa ver ou pode ter um xizinho aqui, tá? Eu acho que normalmente se deixa um xizinho tá? Não se obriga a pessoa assistir eu acho razoável. Também né, mas aí depois que foi o xizinho ele tem a segunda parte, né? E aí apareceria no menu."
+      },
+      {
+        "startTime": 3230,
+        "endTime": 3245,
+        "speaker": "Neno Andrade",
+        "text": "aqui Eu terei que só dar uma aprimorada nele justamente com as opções que a gente já tem hoje, mas seria a gente ter a aba guias e dentro de guias, a gente tem o tutorial específico também dessa página aqui."
+      },
+      {
+        "startTime": 3249,
+        "endTime": 3270,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente estaria colocando aqui o que a gente pode ter na verdade. A gente estava pensando em ter um link por página, tá? A gente tem que ver daqui a pouco quando você tem uma dinâmica de poder colocar mais de um por página. Né, mas aí a gente não vai poder mostrar mais de um boxezinho, se a pessoa não viu nenhum daquela página."
+      },
+      {
+        "startTime": 3270,
+        "endTime": 3297,
+        "speaker": "Alejandro Olchik",
+        "text": "Acho que naturalmente a gente só vai poder mostrar o último, né? tem que ter uma lógica de mostrar o último e daqui a pouco pode ter mais de um guia que Né? E com isso a gente tem suporta. E aí fica eu acho que é uma interface simples. Sem implementada o conteúdo é gerenciado pela movida é assim, se no futuro a gente quiser cair fora do nós mesmo, desce que a gente cria a nossa própria só puxa tudo para todo mundo desce que gera."
+      },
+      {
+        "startTime": 3297,
+        "endTime": 3313,
+        "speaker": "Alejandro Olchik",
+        "text": "Nossa esse conteúdo e nunca daqui para nós a gente fica com a nossa base de conteúdo de Treinamento um vídeo texto que a gente quiser. Então, a minha proposta é a prisão é com isso daqui ela já suportar as coisas que a gente tá colocando no ar. Que que vocês acham?"
+      },
+      {
+        "startTime": 3323,
+        "endTime": 3324,
+        "speaker": "Lais Santos Soares",
+        "text": "Chorar de emoção."
+      },
+      {
+        "startTime": 3330,
+        "endTime": 3336,
+        "speaker": "Alejandro Olchik",
+        "text": "Marcelo"
+      },
+      {
+        "startTime": 3336,
+        "endTime": 3355,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Do zero meritivos para colocar no ar. Tô com tô pensando no futuro, só tipo a página de edição do empreendimento que são inúmeros itens editáveis, é isso, só que eu tô pensando, mas zero invertido para colocar no ar. O Rogério que já com certeza muito melhor do que a gente já tem hoje."
+      },
+      {
+        "startTime": 3358,
+        "endTime": 3380,
+        "speaker": "Alejandro Olchik",
+        "text": "E a gente Pensou um desenho que serve para qualquer tipo de página, entendeu? Está lá no topo. Então você apaga tem um layout, você tem outro Claro não vai estar embutido em cada um dos elementos, né? Mas daqui a pouco pode ter mais de um guia. A pessoa vai lá e ver os dias específicos da página."
+      },
+      {
+        "startTime": 3380,
+        "endTime": 3381,
+        "speaker": "Alejandro Olchik",
+        "text": "tá imagem"
+      },
+      {
+        "startTime": 3387,
+        "endTime": 3389,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Onde seria configurável esse header?"
+      },
+      {
+        "startTime": 3391,
+        "endTime": 3393,
+        "speaker": "Alejandro Olchik",
+        "text": "Aí vai ter uma semana de mim, eu tô imaginando que a gente vincula a página"
+      },
+      {
+        "startTime": 3393,
+        "endTime": 3395,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E o texto?"
+      },
+      {
+        "startTime": 3395,
+        "endTime": 3409,
+        "speaker": "Alejandro Olchik",
+        "text": "com link. Né? E a gente gera uma interação já vai ter um fim a gente vai ter um controle interno seus olhos viram não viu? Aquela página mostrar aí eu vou botar um texto o link."
+      },
+      {
+        "startTime": 3411,
+        "endTime": 3414,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tá perfeito. Era isso que eu não queria que dependesse de front."
+      },
+      {
+        "startTime": 3416,
+        "endTime": 3435,
+        "speaker": "Alejandro Olchik",
+        "text": "Não é admin e dessa que por enquanto. Laís Eu adoro as suas contribuições. Desculpa ter te cortado, mas a gente estava sem tempo pensando em não poder ter falado isso daqui, tá?"
+      },
+      {
+        "startTime": 3435,
+        "endTime": 3437,
+        "speaker": "Lais Santos Soares",
+        "text": "Tá perdoado. Depois dessa Obrigada Arrasou ficou tudo Fantástico durante."
+      },
+      {
+        "startTime": 3437,
+        "endTime": 3445,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3445,
+        "endTime": 3447,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Depois dessa ela já Depois dessa."
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3453,
+        "speaker": "Amanda Santos",
+        "text": "Tchau, gente."
+      },
+      {
+        "startTime": 3454,
+        "endTime": 3454,
+        "speaker": "Maria Dandara da Silva Pereira",
+        "text": "Tchau pessoal"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 201,
+    "speakers": [
+      "Alejandro Olchik",
+      "Maria Dandara da Silva Pereira",
+      "Marcelo Rodrigues",
+      "Neno Andrade",
+      "Amanda Santos",
+      "Bruno Zucchetti Rodrigues",
+      "Eduardo Stringhini",
+      "Diego Diehl",
+      "Talita Campos",
+      "Lais Santos Soares"
+    ],
+    "total_words_estimate": 5507,
+    "duration_start": 5,
+    "duration_end": 3454
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69aae5e90689ab0013c9bba1",
+        "timestamp": 5,
+        "text": "Alejandro definir se perfil será em três ou quatro partes conforme questionado por Marcelo",
+        "topicId": "69aae5e90689ab0013c9bb98"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc3",
+        "timestamp": 427,
+        "text": "Diferenciação entre tipos de usuários precisa ser resolvida antes do score",
+        "topicId": "69aae5e90689ab0013c9bb9f"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc4",
+        "timestamp": 446,
+        "text": "Escolha de pagamento virá após resolução de diferenciação de audiência",
+        "topicId": "69aae5e90689ab0013c9bb9f"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba6",
+        "timestamp": 500,
+        "text": "Filtro de período permite selecionar um, sete ou trinta dias com atualização de audiência",
+        "topicId": "69aae5e90689ab0013c9bb99"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba9",
+        "timestamp": 724,
+        "text": "Usuários podem marcar como lido e chamar no WhatsApp dentro da listagem",
+        "topicId": "69aae5e90689ab0013c9bb99"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb3",
+        "timestamp": 832,
+        "text": "Interesse em concorrentes será visível no perfil do corretor",
+        "topicId": "69aae5e90689ab0013c9bb9b"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba7",
+        "timestamp": 1029,
+        "text": "Filtros \"não lidos\" e \"novos\" serão implementados na listagem de corretores",
+        "topicId": "69aae5e90689ab0013c9bb99"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbab",
+        "timestamp": 1047,
+        "text": "Administrador consegue atribuir responsável, editor e leitor não conseguem",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba8",
+        "timestamp": 1192,
+        "text": "Termo \"novos\" precisa ser clarificado para melhor interpretação do usuário",
+        "topicId": "69aae5e90689ab0013c9bb99"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc2",
+        "timestamp": 1295,
+        "text": "Sequenciamento de épicos define ordem de implementação de features",
+        "topicId": "69aae5e90689ab0013c9bb9f"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc5",
+        "timestamp": 1486,
+        "text": "Filtro de compartilhamento tem número muito baixo para ser filtro principal",
+        "topicId": "69aae5e90689ab0013c9bb9f"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbac",
+        "timestamp": 1549,
+        "text": "Editor e leitor recebem pop-up ao tentar atribuir sem permissão",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb5",
+        "timestamp": 1572,
+        "text": "Alocação de corretores para gerente de atendimento será configurável por incorporadora",
+        "topicId": "69aae5e90689ab0013c9bb9c"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb6",
+        "timestamp": 1597,
+        "text": "Gerente verá apenas corretores dos empreendimentos que atende",
+        "topicId": "69aae5e90689ab0013c9bb9c"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbaa",
+        "timestamp": 1684,
+        "text": "Aba \"Captados\" mostrará apenas corretores atribuídos ao usuário",
+        "topicId": "69aae5e90689ab0013c9bb99"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb0",
+        "timestamp": 1838,
+        "text": "Mensagem de erro aparece para ações bloqueadas por falta de permissão",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc6",
+        "timestamp": 1866,
+        "text": "Mensagens de erro podem gerar muitos contatos para suporte",
+        "topicId": "69aae5e90689ab0013c9bba0"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc7",
+        "timestamp": 1887,
+        "text": "Permissões não são claras para clientes, causando dificuldade de entendimento",
+        "topicId": "69aae5e90689ab0013c9bba0"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc8",
+        "timestamp": 1969,
+        "text": "Mostrar nome de corretor sem acesso pode gerar atrito com usuários",
+        "topicId": "69aae5e90689ab0013c9bba0"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbaf",
+        "timestamp": 2069,
+        "text": "Leitor e editor veem apenas nome do corretor sem acesso ao perfil",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc9",
+        "timestamp": 2087,
+        "text": "Roleta automática conflita com produto Z2 segundo feedback anterior",
+        "topicId": "69aae5e90689ab0013c9bba0"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb2",
+        "timestamp": 2095,
+        "text": "Histórico de atividades permite filtrar por empreendimento no perfil",
+        "topicId": "69aae5e90689ab0013c9bb9b"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb7",
+        "timestamp": 2113,
+        "text": "Roleta poderia ser habilitada ou desabilitada por empreendimento",
+        "topicId": "69aae5e90689ab0013c9bb9c"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbad",
+        "timestamp": 2116,
+        "text": "Administrador vê todos os corretores da incorporadora e pode atribuir",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb1",
+        "timestamp": 2229,
+        "text": "Card mostrará último empreendimento acessado dentro do perfil",
+        "topicId": "69aae5e90689ab0013c9bb9b"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba3",
+        "timestamp": 2372,
+        "text": "Alejandro colocar alocação automática de corretores como possível evolução futura",
+        "topicId": "69aae5e90689ab0013c9bb98"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba4",
+        "timestamp": 2419,
+        "text": "Definir critério de atividade mínima para aparecer na listagem de corretores",
+        "topicId": "69aae5e90689ab0013c9bb98"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbca",
+        "timestamp": 2516,
+        "text": "Designação de responsável do Z2 não retorna para aplicativo atualmente",
+        "topicId": "69aae5e90689ab0013c9bba0"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba5",
+        "timestamp": 2577,
+        "text": "Resolver integração de designação de responsável vinda do Z2",
+        "topicId": "69aae5e90689ab0013c9bb98"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbbb",
+        "timestamp": 2716,
+        "text": "Três listagens de corretores serão diferenciadas na web e aplicativo",
+        "topicId": "69aae5e90689ab0013c9bb9d"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb8",
+        "timestamp": 2791,
+        "text": "Termo \"corretores captados\" deve ser usado em vez de \"captados pela incorporadora\"",
+        "topicId": "69aae5e90689ab0013c9bb9d"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb9",
+        "timestamp": 2932,
+        "text": "Coluna anunciante representa interesse do corretor nos empreendimentos",
+        "topicId": "69aae5e90689ab0013c9bb9d"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbba",
+        "timestamp": 2988,
+        "text": "Aba \"Desempenho\" mantém nomenclatura atual sem alterações",
+        "topicId": "69aae5e90689ab0013c9bb9d"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bba2",
+        "timestamp": 3003,
+        "text": "Neno aprimorar proposta de ícone para página de perfil do corretor",
+        "topicId": "69aae5e90689ab0013c9bb98"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbb4",
+        "timestamp": 3012,
+        "text": "Usuários podem acessar perfil do corretor clicando no ícone de telefone",
+        "topicId": "69aae5e90689ab0013c9bb9b"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbae",
+        "timestamp": 3032,
+        "text": "Editor e leitor veem apenas corretores atribuídos a si mesmos",
+        "topicId": "69aae5e90689ab0013c9bb9a"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbbc",
+        "timestamp": 3104,
+        "text": "Header fixo levará usuários para central de ajuda com conteúdo sobre novidades",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbbd",
+        "timestamp": 3151,
+        "text": "Header desaparece após usuário acessar conteúdo na central de ajuda",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbbe",
+        "timestamp": 3169,
+        "text": "Página pode conter vídeo, texto ou material exclusivo de treinamento",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbbf",
+        "timestamp": 3208,
+        "text": "Visualização de conteúdo será opcional com opção de fechar",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc0",
+        "timestamp": 3230,
+        "text": "Aba guias mostrará tutoriais específicos da página",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      },
+      {
+        "segmentId": "69aae5e90689ab0013c9bbc1",
+        "timestamp": 3274,
+        "text": "Múltiplos guias por página serão suportados futuramente",
+        "topicId": "69aae5e90689ab0013c9bb9e"
+      }
+    ],
+    "markdownContent": "## 1. Itens de Ação\n\n- [ ] Alejandro definir se perfil será em três ou quatro partes conforme questionado por Marcelo [00:05](/app/meetings/69aad6cb6a12da00133feb4e?t=5)\n- [ ] Neno aprimorar proposta de ícone para página de perfil do corretor [50:03](/app/meetings/69aad6cb6a12da00133feb4e?t=3003)\n- [ ] Alejandro colocar alocação automática de corretores como possível evolução futura [39:32](/app/meetings/69aad6cb6a12da00133feb4e?t=2372)\n- [ ] Definir critério de atividade mínima para aparecer na listagem de corretores [40:19](/app/meetings/69aad6cb6a12da00133feb4e?t=2419)\n- [ ] Resolver integração de designação de responsável vinda do Z2 [42:57](/app/meetings/69aad6cb6a12da00133feb4e?t=2577)\n\n## 2. Filtros e Listagem de Corretores\n\n- Filtro de período permite selecionar um, sete ou trinta dias com atualização de audiência [08:20](/app/meetings/69aad6cb6a12da00133feb4e?t=500)\n- Filtros \"não lidos\" e \"novos\" serão implementados na listagem de corretores [17:09](/app/meetings/69aad6cb6a12da00133feb4e?t=1029)\n- Termo \"novos\" precisa ser clarificado para melhor interpretação do usuário [19:52](/app/meetings/69aad6cb6a12da00133feb4e?t=1192)\n- Usuários podem marcar como lido e chamar no WhatsApp dentro da listagem [12:04](/app/meetings/69aad6cb6a12da00133feb4e?t=724)\n- Aba \"Captados\" mostrará apenas corretores atribuídos ao usuário [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n- Busca por nome de corretor ou imobiliária será possível na aba captados [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n- Ordenação por atividade recente ou mais ativos será disponibilizada [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n\n## 3. Permissões e Controle de Acesso\n\n- Administrador consegue atribuir responsável, editor e leitor não conseguem [17:27](/app/meetings/69aad6cb6a12da00133feb4e?t=1047)\n- Editor e leitor recebem pop-up ao tentar atribuir sem permissão [25:49](/app/meetings/69aad6cb6a12da00133feb4e?t=1549)\n- Administrador vê todos os corretores da incorporadora e pode atribuir [35:16](/app/meetings/69aad6cb6a12da00133feb4e?t=2116)\n- Editor e leitor veem apenas corretores atribuídos a si mesmos [50:32](/app/meetings/69aad6cb6a12da00133feb4e?t=3032)\n- Leitor e editor veem apenas nome do corretor sem acesso ao perfil [34:29](/app/meetings/69aad6cb6a12da00133feb4e?t=2069)\n- Mensagem de erro aparece para ações bloqueadas por falta de permissão [30:38](/app/meetings/69aad6cb6a12da00133feb4e?t=1838)\n\n## 4. Perfil do Corretor\n\n- Card mostrará último empreendimento acessado dentro do perfil [37:09](/app/meetings/69aad6cb6a12da00133feb4e?t=2229)\n- Histórico de atividades permite filtrar por empreendimento no perfil [34:55](/app/meetings/69aad6cb6a12da00133feb4e?t=2095)\n- Interesse em concorrentes será visível no perfil do corretor [13:52](/app/meetings/69aad6cb6a12da00133feb4e?t=832)\n- Usuários podem acessar perfil do corretor clicando no ícone de telefone [50:12](/app/meetings/69aad6cb6a12da00133feb4e?t=3012)\n\n## 5. Alocação e Distribuição de Corretores\n\n- Alocação de corretores para gerente de atendimento será configurável por incorporadora [26:12](/app/meetings/69aad6cb6a12da00133feb4e?t=1572)\n- Gerente verá apenas corretores dos empreendimentos que atende [26:37](/app/meetings/69aad6cb6a12da00133feb4e?t=1597)\n- Roleta automática de distribuição é considerada evolução futura [39:32](/app/meetings/69aad6cb6a12da00133feb4e?t=2372)\n- Roleta poderia ser habilitada ou desabilitada por empreendimento [35:13](/app/meetings/69aad6cb6a12da00133feb4e?t=2113)\n\n## 6. Nomenclatura e Comunicação\n\n- Termo \"corretores captados\" deve ser usado em vez de \"captados pela incorporadora\" [46:31](/app/meetings/69aad6cb6a12da00133feb4e?t=2791)\n- Coluna anunciante representa interesse do corretor nos empreendimentos [48:52](/app/meetings/69aad6cb6a12da00133feb4e?t=2932)\n- Aba \"Desempenho\" mantém nomenclatura atual sem alterações [49:48](/app/meetings/69aad6cb6a12da00133feb4e?t=2988)\n- Três listagens de corretores serão diferenciadas na web e aplicativo [45:16](/app/meetings/69aad6cb6a12da00133feb4e?t=2716)\n\n## 7. Sistema de Tutoriais e Ajuda\n\n- Header fixo levará usuários para central de ajuda com conteúdo sobre novidades [51:44](/app/meetings/69aad6cb6a12da00133feb4e?t=3104)\n- Header desaparece após usuário acessar conteúdo na central de ajuda [52:31](/app/meetings/69aad6cb6a12da00133feb4e?t=3151)\n- Página pode conter vídeo, texto ou material exclusivo de treinamento [52:49](/app/meetings/69aad6cb6a12da00133feb4e?t=3169)\n- Visualização de conteúdo será opcional com opção de fechar [53:28](/app/meetings/69aad6cb6a12da00133feb4e?t=3208)\n- Aba guias mostrará tutoriais específicos da página [53:50](/app/meetings/69aad6cb6a12da00133feb4e?t=3230)\n- Múltiplos guias por página serão suportados futuramente [54:34](/app/meetings/69aad6cb6a12da00133feb4e?t=3274)\n\n## 8. Sequenciamento de Funcionalidades\n\n- Sequenciamento de épicos define ordem de implementação de features [21:35](/app/meetings/69aad6cb6a12da00133feb4e?t=1295)\n- Diferenciação entre tipos de usuários precisa ser resolvida antes do score [07:07](/app/meetings/69aad6cb6a12da00133feb4e?t=427)\n- Escolha de pagamento virá após resolução de diferenciação de audiência [07:26](/app/meetings/69aad6cb6a12da00133feb4e?t=446)\n- Filtro de compartilhamento tem número muito baixo para ser filtro principal [24:46](/app/meetings/69aad6cb6a12da00133feb4e?t=1486)\n\n## 9. Preocupações e Desafios\n\n- Mensagens de erro podem gerar muitos contatos para suporte [31:06](/app/meetings/69aad6cb6a12da00133feb4e?t=1866)\n- Permissões não são claras para clientes, causando dificuldade de entendimento [31:27](/app/meetings/69aad6cb6a12da00133feb4e?t=1887)\n- Mostrar nome de corretor sem acesso pode gerar atrito com usuários [32:49](/app/meetings/69aad6cb6a12da00133feb4e?t=1969)\n- Roleta automática conflita com produto Z2 segundo feedback anterior [34:47](/app/meetings/69aad6cb6a12da00133feb4e?t=2087)\n- Designação de responsável do Z2 não retorna para aplicativo atualmente [41:56](/app/meetings/69aad6cb6a12da00133feb4e?t=2516)",
+    "topics": [
+      {
+        "id": "69aae5e90689ab0013c9bb98",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb99",
+        "order": 2,
+        "title": "Filtros e Listagem de Corretores",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9a",
+        "order": 3,
+        "title": "Permissões e Controle de Acesso",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9b",
+        "order": 4,
+        "title": "Perfil do Corretor",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9c",
+        "order": 5,
+        "title": "Alocação e Distribuição de Corretores",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9d",
+        "order": 6,
+        "title": "Nomenclatura e Comunicação",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9e",
+        "order": 7,
+        "title": "Sistema de Tutoriais e Ajuda",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bb9f",
+        "order": 8,
+        "title": "Sequenciamento de Funcionalidades",
+        "summary": ""
+      },
+      {
+        "id": "69aae5e90689ab0013c9bba0",
+        "order": 9,
+        "title": "Preocupações e Desafios",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 42,
+    "topic_count": 9,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69aae5e90689ab0013c9bb98",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb99",
+      "order": 2,
+      "title": "Filtros e Listagem de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9a",
+      "order": 3,
+      "title": "Permissões e Controle de Acesso",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9b",
+      "order": 4,
+      "title": "Perfil do Corretor",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9c",
+      "order": 5,
+      "title": "Alocação e Distribuição de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9d",
+      "order": 6,
+      "title": "Nomenclatura e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9e",
+      "order": 7,
+      "title": "Sistema de Tutoriais e Ajuda",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9f",
+      "order": 8,
+      "title": "Sequenciamento de Funcionalidades",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bba0",
+      "order": 9,
+      "title": "Preocupações e Desafios",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:51:38.789973+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:51:38.789973+00:00"
+}

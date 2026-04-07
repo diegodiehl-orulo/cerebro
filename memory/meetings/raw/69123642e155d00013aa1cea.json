@@ -1,0 +1,32 @@
+{
+  "id": "69123642e155d00013aa1cea",
+  "happenedAt": "2025-11-10T19:00:00.000Z",
+  "invitees": [
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    },
+    {
+      "name": "João Sabino",
+      "email": "joao.sabino@z2app.com.br"
+    }
+  ],
+  "name": "Parametrizações Z2A",
+  "duration": 3062.698,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69123642e155d00013aa1cea",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "pia-kace-gxo"
+  }
+}

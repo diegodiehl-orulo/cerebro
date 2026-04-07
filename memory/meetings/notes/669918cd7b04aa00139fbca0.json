@@ -1,0 +1,301 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "669944b9377fd90013331c82",
+      "timestamp": 305,
+      "text": "Victor compartilha as alterações feitas no prompt e mostra os testes realizados com o produto Sancler, obtendo 100% de acerto ao solicitar arquivos como a tabela.",
+      "topicId": "669944b9377fd90013331c73"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c83",
+      "timestamp": 796,
+      "text": "Fernando pergunta se o prompt mostrado está vinculado ao número do grupo. Victor explica que precisa atualizar o código para alinhar com a nova versão, mas que o comportamento será o mesmo.",
+      "topicId": "669944b9377fd90013331c73"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c84",
+      "timestamp": 983,
+      "text": "Victor lista os próximos passos como continuar os testes no cenário de usuário com produto vinculado e validar outras perguntas, além de testar o caso do corretor sem produto associado.",
+      "topicId": "669944b9377fd90013331c74"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c85",
+      "timestamp": 1072,
+      "text": "Eduardo complementa que testar como o modelo responde para corretores sem produto é o caso mais comum.",
+      "topicId": "669944b9377fd90013331c74"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c86",
+      "timestamp": 1136,
+      "text": "Diego opina que ainda é cedo para mostrar para cliente, pois não é possível perguntar sobre outros produtos. Victor concorda que são necessárias mais validações.",
+      "topicId": "669944b9377fd90013331c75"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c87",
+      "timestamp": 1213,
+      "text": "Discussão inicial sobre descartar a funcionalidade de envio automático de arquivos pelo bot caso a assertividade não seja de 100%.",
+      "topicId": "669944b9377fd90013331c76"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c88",
+      "timestamp": 1560,
+      "text": "Diego quer entender a visão de Victor sobre o esforço de desenvolvimento necessário para permitir que o bot envie arquivos de forma assertiva em resposta a solicitações.",
+      "topicId": "669944b9377fd90013331c76"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8b",
+      "timestamp": 1778,
+      "text": "Victor destaca que os desafios de assertividade para enviar o arquivo correto no contexto correto são muito grandes.",
+      "topicId": "669944b9377fd90013331c78"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c89",
+      "timestamp": 2113,
+      "text": "Diego sugere que o bot confirme com uma pergunta controlada qual arquivo o corretor deseja receber para aumentar a assertividade.",
+      "topicId": "669944b9377fd90013331c77"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8a",
+      "timestamp": 2247,
+      "text": "Victor concorda que validar a resposta do corretor pode fazer sentido para aumentar a assertividade, principalmente em casos mais complexos.",
+      "topicId": "669944b9377fd90013331c77"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8c",
+      "timestamp": 2297,
+      "text": "Victor aponta que o cenário mais difícil é quando o corretor não informa o produto, pois o bot precisa acertar qual produto ele está se referindo.",
+      "topicId": "669944b9377fd90013331c78"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8f",
+      "timestamp": 2542,
+      "text": "Diego lista desafios como acessar mais de um produto e enriquecer variações de perguntas. Pede sugestão de Victor.",
+      "topicId": "669944b9377fd90013331c7a"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c90",
+      "timestamp": 3077,
+      "text": "Diego pergunta opinião de Victor sobre desenvolver fluxo segmentado com @bot para responder pedidos específicos.",
+      "topicId": "669944b9377fd90013331c7a"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8d",
+      "timestamp": 3090,
+      "text": "Victor sugere testar cenários de estruturação da conversa para instruir o agente. Diego sugere validação feita pelo humano.",
+      "topicId": "669944b9377fd90013331c79"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c8e",
+      "timestamp": 3180,
+      "text": "Victor detalha três opções de abordagem: validação pelo humano, pergunta do agente e análise da conversa. Diego resume como funcionaria.",
+      "topicId": "669944b9377fd90013331c79"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c91",
+      "timestamp": 3415,
+      "text": "Eduardo diz que precisam ser mais pragmáticos e entregar algo funcionando rápido para os clientes, mesmo que foco.",
+      "topicId": "669944b9377fd90013331c7b"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c92",
+      "timestamp": 3618,
+      "text": "Diego comenta sobre estar preocupado com o desenvolvimento do produto e funcionalidades. Victor fala sobre foco no produto e priorização.",
+      "topicId": "669944b9377fd90013331c7c"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c93",
+      "timestamp": 4107,
+      "text": "Diego e Victor discutem sobre continuar avançando no desenvolvimento e inclusão de funcionalidades até a próxima terça-feira.",
+      "topicId": "669944b9377fd90013331c7c"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c95",
+      "timestamp": 4140,
+      "text": "Diego oferece compartilhar dados e projeções de receita para que a equipe tenha noção do potencial comercial.",
+      "topicId": "669944b9377fd90013331c7d"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c94",
+      "timestamp": 4325,
+      "text": "Diego pede para Victor pensar no que poderá ser demonstrado para um cliente na próxima terça-feira.",
+      "topicId": "669944b9377fd90013331c7c"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c98",
+      "timestamp": 4432,
+      "text": "Diego comenta sobre funcionalidade de acionamento do chatbot para controle de gastos e processamento.",
+      "topicId": "669944b9377fd90013331c7e"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9a",
+      "timestamp": 4441,
+      "text": "Victor explica que o chatbot roda atualmente com o modelo GPT-3.5 e GPT-4.",
+      "topicId": "669944b9377fd90013331c7f"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9b",
+      "timestamp": 4513,
+      "text": "Diego comenta sobre técnica de resumo utilizada por um amigo para reduzir custos com tokens.",
+      "topicId": "669944b9377fd90013331c7f"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c96",
+      "timestamp": 4573,
+      "text": "Diego pensa em como poderá treinar o chatbot para enviar apresentações de produtos de forma mais assertiva e aumentar conversões.",
+      "topicId": "669944b9377fd90013331c7d"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c99",
+      "timestamp": 4644,
+      "text": "Diego pergunta sobre a viabilidade de treinar o chatbot para enviar apresentações seguindo padrões.",
+      "topicId": "669944b9377fd90013331c7e"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9c",
+      "timestamp": 4657,
+      "text": "Victor avalia a viabilidade de padrões de resposta treinados no futuro.",
+      "topicId": "669944b9377fd90013331c7f"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c97",
+      "timestamp": 4799,
+      "text": "Diego sugere reuniões periódicas com clientes para que a equipe tenha percepção direta das necessidades.",
+      "topicId": "669944b9377fd90013331c7d"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9d",
+      "timestamp": 4832,
+      "text": "Victor confirma que está tudo bem com o horário combinado para a próxima reunião",
+      "topicId": "669944b9377fd90013331c80"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9e",
+      "timestamp": 4834,
+      "text": "Diego confirma o horário de 1 hora e 20 minutos para a próxima reunião com Victor",
+      "topicId": "669944b9377fd90013331c80"
+    },
+    {
+      "segmentId": "669944b9377fd90013331c9f",
+      "timestamp": 4837,
+      "text": "Diego agradece o tempo de Victor na reunião",
+      "topicId": "669944b9377fd90013331c81"
+    },
+    {
+      "segmentId": "669944b9377fd90013331ca0",
+      "timestamp": 4841,
+      "text": "Victor confirma que vai atualizar o grupo sobre o assunto da reunião",
+      "topicId": "669944b9377fd90013331c81"
+    },
+    {
+      "segmentId": "669944b9377fd90013331ca1",
+      "timestamp": 4843,
+      "text": "Diego deseja bom trabalho a Victor",
+      "topicId": "669944b9377fd90013331c81"
+    },
+    {
+      "segmentId": "669944b9377fd90013331ca2",
+      "timestamp": 4844,
+      "text": "Victor se despede com um abraço",
+      "topicId": "669944b9377fd90013331c81"
+    },
+    {
+      "segmentId": "669944b9377fd90013331ca3",
+      "timestamp": 4845,
+      "text": "Diego retribui o abraço de despedida",
+      "topicId": "669944b9377fd90013331c81"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "669944b9377fd90013331c73",
+      "order": 1,
+      "title": "Atualização do prompt e testes com Sancler",
+      "summary": "Discussão sobre as melhorias feitas no prompt e nos testes realizados com o produto Sancler, obtendo 100% de acerto."
+    },
+    {
+      "id": "669944b9377fd90013331c74",
+      "order": 2,
+      "title": "Próximos passos de validação",
+      "summary": "Discussão sobre a continuidade dos testes em outros cenários e variações de perguntas."
+    },
+    {
+      "id": "669944b9377fd90013331c75",
+      "order": 3,
+      "title": "Apresentação para cliente",
+      "summary": "Discussão sobre não mostrar ainda a versão para cliente devido ao nível de maturidade ainda baixo."
+    },
+    {
+      "id": "669944b9377fd90013331c76",
+      "order": 4,
+      "title": "Funcionalidade de envio de arquivos pelo bot",
+      "summary": "Discussão sobre uma possível funcionalidade onde o bot envia arquivos automaticamente em resposta a solicitações dos corretores."
+    },
+    {
+      "id": "669944b9377fd90013331c77",
+      "order": 5,
+      "title": "Aprimorar a assertividade do bot ao enviar arquivos",
+      "summary": "Discussão sobre possíveis estratégias para aumentar a assertividade do bot ao enviar arquivos, como confirmar com o corretor qual arquivo ele deseja receber."
+    },
+    {
+      "id": "669944b9377fd90013331c78",
+      "order": 6,
+      "title": "Desafios técnicos da funcionalidade de envio de arquivos",
+      "summary": "Discussão sobre os desafios técnicos em desenvolver a funcionalidade de envio de arquivos pelo bot de forma assertiva, como identificar o produto correto sem o contexto."
+    },
+    {
+      "id": "669944b9377fd90013331c79",
+      "order": 7,
+      "title": "Próximos passos",
+      "summary": "Discutem os próximos passos para testes e desenvolvimento do produto."
+    },
+    {
+      "id": "669944b9377fd90013331c7a",
+      "order": 8,
+      "title": "Desafios de produto",
+      "summary": "Discussão sobre desafios técnicos como identificar produtos e enriquecer variações de perguntas."
+    },
+    {
+      "id": "669944b9377fd90013331c7b",
+      "order": 9,
+      "title": "Foco no MVP",
+      "summary": "Eduardo reforça necessidade de entrega pragmática para os clientes, mesmo que funcionalidade básica."
+    },
+    {
+      "id": "669944b9377fd90013331c7c",
+      "order": 10,
+      "title": "Desenvolvimento do Produto",
+      "summary": "Discussão sobre o andamento do desenvolvimento do produto, funcionalidades, prioridades e prazos."
+    },
+    {
+      "id": "669944b9377fd90013331c7d",
+      "order": 11,
+      "title": "Estratégia Comercial",
+      "summary": "Discussão sobre projeções financeiras, aquisição de clientes, demonstrações e indicadores comerciais."
+    },
+    {
+      "id": "669944b9377fd90013331c7e",
+      "order": 12,
+      "title": "Funcionalidades Futuras",
+      "summary": "Discussão sobre possíveis funcionalidades adicionais como acionamento do chatbot e padrões de resposta."
+    },
+    {
+      "id": "669944b9377fd90013331c7f",
+      "order": 13,
+      "title": "Tecnologia",
+      "summary": "Discussão sobre a tecnologia utilizada no chatbot, modelos de linguagem e possibilidades futuras."
+    },
+    {
+      "id": "669944b9377fd90013331c80",
+      "order": 14,
+      "title": "Próximos passos",
+      "summary": "Discutiram sobre a disponibilidade e fecharam uma hora para a próxima reunião"
+    },
+    {
+      "id": "669944b9377fd90013331c81",
+      "order": 15,
+      "title": "Encerrando a reunião",
+      "summary": "Diego agradece o tempo de Victor na reunião e eles combinam de manter contato no grupo"
+    }
+  ]
+}

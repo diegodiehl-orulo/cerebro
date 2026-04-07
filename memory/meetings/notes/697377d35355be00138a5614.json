@@ -1,0 +1,289 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "697389e52ce07f0013f05de5",
+      "timestamp": 654,
+      "text": "Broker clicks \"view contact\" button and receives incorporator's full contact data directly",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de6",
+      "timestamp": 671,
+      "text": "Incorporator simultaneously receives notification showing broker interest and contact volume metrics",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dee",
+      "timestamp": 705,
+      "text": "Audience visibility metrics should show broker access counts and contact interest levels",
+      "topicId": "697389e52ce07f0013f05dd9"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de7",
+      "timestamp": 807,
+      "text": "Button terminology should change from \"ver contato\" to \"quero falar com gerente de parcerias\" for clarity",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de8",
+      "timestamp": 930,
+      "text": "Incorporators should access platform/app, not brokers, to manage contact requests and broker lists",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dde",
+      "timestamp": 1119,
+      "text": "Neno to refine flow scenarios and create detailed message copy for contact intermediation",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de9",
+      "timestamp": 1167,
+      "text": "DL incorporators receive less frequent, less detailed contact notifications than regular incorporators",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dea",
+      "timestamp": 1207,
+      "text": "Batch messaging approach preferred over individual WhatsApp messages to reduce costs and frequency",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05deb",
+      "timestamp": 1291,
+      "text": "App-based notifications should be prioritized over WhatsApp to reduce platform costs",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e04",
+      "timestamp": 1299,
+      "text": "Incentivizing app downloads reduces platform costs compared to WhatsApp-dependent communication",
+      "topicId": "697389e52ce07f0013f05ddd"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dec",
+      "timestamp": 1323,
+      "text": "System should detect app installation and send push notifications instead of WhatsApp when possible",
+      "topicId": "697389e52ce07f0013f05dd8"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df6",
+      "timestamp": 1930,
+      "text": "Email notification panel within portal could drive users to platform instead of relying solely on WhatsApp",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05def",
+      "timestamp": 2026,
+      "text": "Performance dashboard tab should be fully accessible to DL incorporators with complete broker list visibility",
+      "topicId": "697389e52ce07f0013f05dd9"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05ded",
+      "timestamp": 2091,
+      "text": "DL incorporators should see significantly less audience visibility than regular incorporators",
+      "topicId": "697389e52ce07f0013f05dd9"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df5",
+      "timestamp": 2145,
+      "text": "Audience page should display growth metrics similar to banking apps showing recent increases",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df0",
+      "timestamp": 2190,
+      "text": "Incorporators need perception of increased activity through strategic communication and metrics display",
+      "topicId": "697389e52ce07f0013f05dd9"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05ddf",
+      "timestamp": 2212,
+      "text": "Neno to document adjustments removing friction points for brokers in contact flow",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e00",
+      "timestamp": 2521,
+      "text": "Broker messaging should request permission to share contact information to avoid spam perception",
+      "topicId": "697389e52ce07f0013f05ddc"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df1",
+      "timestamp": 2778,
+      "text": "Contact button should be more visible and prominent in portal interface design",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df4",
+      "timestamp": 2813,
+      "text": "Z2 Lite version could be integrated into portal as medium-term feature for broker value perception",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df2",
+      "timestamp": 2974,
+      "text": "Partnership manager contact list should be immediately actionable with WhatsApp integration",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df3",
+      "timestamp": 3006,
+      "text": "Ability to mark contacted brokers in list to track follow-up status",
+      "topicId": "697389e52ce07f0013f05dda"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e02",
+      "timestamp": 3048,
+      "text": "Solution should not punish brokers or create unnecessary friction in contact process",
+      "topicId": "697389e52ce07f0013f05ddd"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e03",
+      "timestamp": 3085,
+      "text": "Problem-focused naming preferred over solution-focused naming for epic definition",
+      "topicId": "697389e52ce07f0013f05ddd"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de0",
+      "timestamp": 3107,
+      "text": "Alejandro to refine epic naming from \"intermediation\" to focus on visibility and value perception",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e01",
+      "timestamp": 3195,
+      "text": "Epic must remain small and focused to deliver concrete results quickly",
+      "topicId": "697389e52ce07f0013f05ddd"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dfd",
+      "timestamp": 3277,
+      "text": "WhatsApp template approved for continuing conversations after 24-hour window expires",
+      "topicId": "697389e52ce07f0013f05ddc"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df7",
+      "timestamp": 3475,
+      "text": "Ester's broker outreach in João Pessoa generated 26-27 incorporator referrals in one week",
+      "topicId": "697389e52ce07f0013f05ddb"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df8",
+      "timestamp": 3511,
+      "text": "Goal is to convert referred incorporators with high conversion rate through simplified onboarding",
+      "topicId": "697389e52ce07f0013f05ddb"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dfa",
+      "timestamp": 3535,
+      "text": "Gustavo to conduct outreach test with João Pessoa incorporators to identify process improvements",
+      "topicId": "697389e52ce07f0013f05ddb"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dfb",
+      "timestamp": 3645,
+      "text": "Previous Espírito Santo test showed in-person relationship building was more effective than remote outreach",
+      "topicId": "697389e52ce07f0013f05ddb"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de1",
+      "timestamp": 3766,
+      "text": "Gustavo to coordinate with Laura on contacting 27 João Pessoa incorporators with standardized approach",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de2",
+      "timestamp": 3903,
+      "text": "Gustavo and Laura to refine Ester's outreach to request partnership channel manager contacts instead of general numbers",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dfc",
+      "timestamp": 3918,
+      "text": "Diego to identify key broker contacts in each region to support commercial operations",
+      "topicId": "697389e52ce07f0013f05ddb"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de3",
+      "timestamp": 4004,
+      "text": "Bruna to share centralized list of key broker contacts by region with Diego",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05e05",
+      "timestamp": 4085,
+      "text": "Volume-based approach necessary for scaling but requires understanding objections and barriers",
+      "topicId": "697389e52ce07f0013f05ddd"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dfe",
+      "timestamp": 4121,
+      "text": "Message copy should emphasize free platform benefits and avoid repetitive sales language",
+      "topicId": "697389e52ce07f0013f05ddc"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05dff",
+      "timestamp": 4133,
+      "text": "Communication cartilha being developed to standardize messaging across channels and regions",
+      "topicId": "697389e52ce07f0013f05ddc"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05de4",
+      "timestamp": 4152,
+      "text": "Bruna to align communication guidelines and cartilha updates with Laura and Mayumi",
+      "topicId": "697389e52ce07f0013f05dd7"
+    },
+    {
+      "segmentId": "697389e52ce07f0013f05df9",
+      "timestamp": 4203,
+      "text": "Test approach with 5-7 incorporators initially rather than attempting all 27 simultaneously",
+      "topicId": "697389e52ce07f0013f05ddb"
+    }
+  ],
+  "markdownContent": "## 1. Ações Acordadas\n\n- [ ] Neno to refine flow scenarios and create detailed message copy for contact intermediation [18:39](/app/meetings/697377d35355be00138a5614?t=1119)\n- [ ] Neno to document adjustments removing friction points for brokers in contact flow [36:52](/app/meetings/697377d35355be00138a5614?t=2212)\n- [ ] Alejandro to refine epic naming from \"intermediation\" to focus on visibility and value perception [51:47](/app/meetings/697377d35355be00138a5614?t=3107)\n- [ ] Gustavo to coordinate with Laura on contacting 27 João Pessoa incorporators with standardized approach [01:02:46](/app/meetings/697377d35355be00138a5614?t=3766)\n- [ ] Gustavo and Laura to refine Ester's outreach to request partnership channel manager contacts instead of general numbers [01:05:03](/app/meetings/697377d35355be00138a5614?t=3903)\n- [ ] Bruna to share centralized list of key broker contacts by region with Diego [01:06:44](/app/meetings/697377d35355be00138a5614?t=4004)\n- [ ] Bruna to align communication guidelines and cartilha updates with Laura and Mayumi [01:09:12](/app/meetings/697377d35355be00138a5614?t=4152)\n\n## 2. Fluxo de Contato e Intermediação\n\n- Broker clicks \"view contact\" button and receives incorporator's full contact data directly [10:54](/app/meetings/697377d35355be00138a5614?t=654)\n- Incorporator simultaneously receives notification showing broker interest and contact volume metrics [11:11](/app/meetings/697377d35355be00138a5614?t=671)\n- Button terminology should change from \"ver contato\" to \"quero falar com gerente de parcerias\" for clarity [13:27](/app/meetings/697377d35355be00138a5614?t=807)\n- Incorporators should access platform/app, not brokers, to manage contact requests and broker lists [15:30](/app/meetings/697377d35355be00138a5614?t=930)\n- DL incorporators receive less frequent, less detailed contact notifications than regular incorporators [19:27](/app/meetings/697377d35355be00138a5614?t=1167)\n- Batch messaging approach preferred over individual WhatsApp messages to reduce costs and frequency [20:07](/app/meetings/697377d35355be00138a5614?t=1207)\n- App-based notifications should be prioritized over WhatsApp to reduce platform costs [21:31](/app/meetings/697377d35355be00138a5614?t=1291)\n- System should detect app installation and send push notifications instead of WhatsApp when possible [22:03](/app/meetings/697377d35355be00138a5614?t=1323)\n\n## 3. Visibilidade e Percepção de Valor\n\n- Epic should focus on providing contact data visibility and audience perception rather than intermediation [51:47](/app/meetings/697377d35355be00138a5614?t=3107)\n- DL incorporators should see significantly less audience visibility than regular incorporators [34:51](/app/meetings/697377d35355be00138a5614?t=2091)\n- Audience visibility metrics should show broker access counts and contact interest levels [11:45](/app/meetings/697377d35355be00138a5614?t=705)\n- Performance dashboard tab should be fully accessible to DL incorporators with complete broker list visibility [33:46](/app/meetings/697377d35355be00138a5614?t=2026)\n- Incorporators need perception of increased activity through strategic communication and metrics display [36:30](/app/meetings/697377d35355be00138a5614?t=2190)\n\n## 4. Melhorias na Interface e Funcionalidades\n\n- Contact button should be more visible and prominent in portal interface design [46:18](/app/meetings/697377d35355be00138a5614?t=2778)\n- Partnership manager contact list should be immediately actionable with WhatsApp integration [49:34](/app/meetings/697377d35355be00138a5614?t=2974)\n- Ability to mark contacted brokers in list to track follow-up status [50:06](/app/meetings/697377d35355be00138a5614?t=3006)\n- Z2 Lite version could be integrated into portal as medium-term feature for broker value perception [46:53](/app/meetings/697377d35355be00138a5614?t=2813)\n- Audience page should display growth metrics similar to banking apps showing recent increases [35:45](/app/meetings/697377d35355be00138a5614?t=2145)\n- Email notification panel within portal could drive users to platform instead of relying solely on WhatsApp [32:10](/app/meetings/697377d35355be00138a5614?t=1930)\n\n## 5. Estratégia de Incorporadores e Corretores\n\n- Ester's broker outreach in João Pessoa generated 26-27 incorporator referrals in one week [57:55](/app/meetings/697377d35355be00138a5614?t=3475)\n- Goal is to convert referred incorporators with high conversion rate through simplified onboarding [58:31](/app/meetings/697377d35355be00138a5614?t=3511)\n- Test approach with 5-7 incorporators initially rather than attempting all 27 simultaneously [01:10:03](/app/meetings/697377d35355be00138a5614?t=4203)\n- Gustavo to conduct outreach test with João Pessoa incorporators to identify process improvements [58:55](/app/meetings/697377d35355be00138a5614?t=3535)\n- Previous Espírito Santo test showed in-person relationship building was more effective than remote outreach [01:00:45](/app/meetings/697377d35355be00138a5614?t=3645)\n- Diego to identify key broker contacts in each region to support commercial operations [01:05:18](/app/meetings/697377d35355be00138a5614?t=3918)\n\n## 6. Comunicação e Mensagens\n\n- WhatsApp template approved for continuing conversations after 24-hour window expires [54:37](/app/meetings/697377d35355be00138a5614?t=3277)\n- Message copy should emphasize free platform benefits and avoid repetitive sales language [01:08:41](/app/meetings/697377d35355be00138a5614?t=4121)\n- Communication cartilha being developed to standardize messaging across channels and regions [01:08:53](/app/meetings/697377d35355be00138a5614?t=4133)\n- Broker messaging should request permission to share contact information to avoid spam perception [42:01](/app/meetings/697377d35355be00138a5614?t=2521)\n\n## 7. Considerações Estratégicas\n\n- Epic must remain small and focused to deliver concrete results quickly [53:15](/app/meetings/697377d35355be00138a5614?t=3195)\n- Solution should not punish brokers or create unnecessary friction in contact process [50:48](/app/meetings/697377d35355be00138a5614?t=3048)\n- Problem-focused naming preferred over solution-focused naming for epic definition [51:25](/app/meetings/697377d35355be00138a5614?t=3085)\n- Incentivizing app downloads reduces platform costs compared to WhatsApp-dependent communication [21:39](/app/meetings/697377d35355be00138a5614?t=1299)\n- Volume-based approach necessary for scaling but requires understanding objections and barriers [01:08:05](/app/meetings/697377d35355be00138a5614?t=4085)",
+  "topics": [
+    {
+      "id": "697389e52ce07f0013f05dd7",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05dd8",
+      "order": 2,
+      "title": "Fluxo de Contato e Intermediação",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05dd9",
+      "order": 3,
+      "title": "Visibilidade e Percepção de Valor",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05dda",
+      "order": 4,
+      "title": "Melhorias na Interface e Funcionalidades",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05ddb",
+      "order": 5,
+      "title": "Estratégia de Incorporadores e Corretores",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05ddc",
+      "order": 6,
+      "title": "Comunicação e Mensagens",
+      "summary": ""
+    },
+    {
+      "id": "697389e52ce07f0013f05ddd",
+      "order": 7,
+      "title": "Considerações Estratégicas",
+      "summary": ""
+    }
+  ]
+}

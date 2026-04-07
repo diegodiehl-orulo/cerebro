@@ -1,0 +1,32 @@
+{
+  "id": "66b38863362f270012db32ab",
+  "happenedAt": "2024-08-07T14:44:51.241Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diogo Fernandes",
+      "email": "diogo.fernandes@avodh.com.br"
+    },
+    {
+      "name": "Johnny Fernandes",
+      "email": "johnny.fernandes@avodh.com.br"
+    }
+  ],
+  "name": "Órulo - Daily",
+  "duration": 1595.502,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66b38863362f270012db32ab",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "det-tdoa-arn"
+  }
+}

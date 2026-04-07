@@ -1,0 +1,3691 @@
+{
+  "meeting_id": "6725092cd9cab00013124c2e",
+  "name": "Treinamento CS | Processos ",
+  "happened_at": "2024-11-01T17:00:00.000Z",
+  "duration_seconds": 7120.385,
+  "duration_minutes": 118.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Giuliano Milano",
+      "email": "giuliano@vgvsa.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "wagner.travassos@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6725092cd9cab00013124c2e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "pyc-hbxw-xwg",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "67250b0273db6f00130ec54f",
+    "meetingId": "6725092cd9cab00013124c2e",
+    "data": [
+      {
+        "startTime": 7,
+        "endTime": 13,
+        "speaker": "Carol Pizzano",
+        "text": "E eu que tô vivendo a obra do vizinho Aline. Que ódio até mudei de lugar."
+      },
+      {
+        "startTime": 26,
+        "endTime": 28,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 30,
+        "endTime": 47,
+        "speaker": "Carolina Campos",
+        "text": "Daqui a pouquinho tá a gente acabou de sair de uma provavelmente, ele já deve estar acessando. Mas eu tinha falado com ele, não sei se ele ia conseguir entrar, ele não te respondido."
+      },
+      {
+        "startTime": 47,
+        "endTime": 53,
+        "speaker": "Diego Diehl",
+        "text": "O Gil tá entrando. E o Edu. Alguém falou com ele? Estava numa reunião."
+      },
+      {
+        "startTime": 71,
+        "endTime": 75,
+        "speaker": "Carolina Campos",
+        "text": "Tá já mandei mensagem para Edu, só que aí vamos esperar o Juliano de qualquer jeito."
+      },
+      {
+        "startTime": 84,
+        "endTime": 85,
+        "speaker": "Diego Diehl",
+        "text": "ganhou do Juliano"
+      },
+      {
+        "startTime": 85,
+        "endTime": 87,
+        "speaker": "Carolina Campos",
+        "text": "água"
+      },
+      {
+        "startTime": 87,
+        "endTime": 92,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tava com a Campos e outra reunião."
+      },
+      {
+        "startTime": 92,
+        "endTime": 93,
+        "speaker": "Diego Diehl",
+        "text": "E pegar um café?"
+      },
+      {
+        "startTime": 96,
+        "endTime": 98,
+        "speaker": "Carolina Campos",
+        "text": "a frase"
+      },
+      {
+        "startTime": 98,
+        "endTime": 98,
+        "speaker": "Diego Diehl",
+        "text": "E foi no banheiro."
+      },
+      {
+        "startTime": 98,
+        "endTime": 105,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí tudo bem pessoal?"
+      },
+      {
+        "startTime": 105,
+        "endTime": 109,
+        "speaker": "Carol Pizzano",
+        "text": "Qual é o cafezinho enquanto o cafezinho tomou hoje Edu?"
+      },
+      {
+        "startTime": 109,
+        "endTime": 111,
+        "speaker": "Eduardo Stringhini",
+        "text": "Acho que foi uns três presos de manhã."
+      },
+      {
+        "startTime": 111,
+        "endTime": 114,
+        "speaker": "Carol Pizzano",
+        "text": "Estou no quinto hein."
+      },
+      {
+        "startTime": 114,
+        "endTime": 115,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tomei pouco."
+      },
+      {
+        "startTime": 115,
+        "endTime": 128,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô me estressa em casa, cara. Você é chique, hein? Nossa eu tenho passado cada vez mais na térmica e do nada ela acaba e é tipo só eu quase"
+      },
+      {
+        "startTime": 128,
+        "endTime": 131,
+        "speaker": "Eduardo Stringhini",
+        "text": "e eu tomo um litro de café"
+      },
+      {
+        "startTime": 131,
+        "endTime": 135,
+        "speaker": "Diego Diehl",
+        "text": "Então é esse o meu esse é meu caso."
+      },
+      {
+        "startTime": 135,
+        "endTime": 140,
+        "speaker": "Carol Pizzano",
+        "text": "Aí depois do jantar também sempre toma os braços. para arrematar"
+      },
+      {
+        "startTime": 140,
+        "endTime": 144,
+        "speaker": "Eduardo Stringhini",
+        "text": "Um dos prazeres da minha vida tomar um expressas eu paro no lugar só para tomar um expresso."
+      },
+      {
+        "startTime": 145,
+        "endTime": 157,
+        "speaker": "Diego Diehl",
+        "text": "A gente foi no lugar não foi do mundo dos almoço que a gente teve a gente tomou um depois pediu o outro. Almoço dois estresses gente, eu acho que dá para começar tá porque"
+      },
+      {
+        "startTime": 158,
+        "endTime": 188,
+        "speaker": "Carolina Campos",
+        "text": "Tá gravando aqui, né? Então só para a gente não perder porque o assunto é longo. Gente, qualquer ideia tá desse desse encontro aqui. Acho que é colocar todo mundo na mesma página hoje, a gente tem vários processos desde lá do comercial que passam por financeiro que chega em CS CS hoje é subdividido quase em três áreas internamente que mais de quatro né mais de três na verdade cada uma das meninas cuida de um processo e com a chegada de novas coisas."
+      },
+      {
+        "startTime": 188,
+        "endTime": 207,
+        "speaker": "Carolina Campos",
+        "text": "Acho que nada mais justo do que todo mundo ficar na mesma página, qual que vai ser a ideia antes da gente falar como que é o processo em si, eu vou trazer as meninas, né? Então hoje vai ser o dia da Laís a Laís ela cuida da primeira ponta do processo que chama o onboard do cliente então ela vai ser a pessoa que cara."
+      },
+      {
+        "startTime": 207,
+        "endTime": 236,
+        "speaker": "Carolina Campos",
+        "text": "Você vendeu a primeira pessoa basicamente que ela vai conversar na hora vai ser igual a isso, tá? Então dentro do processo dela tem muitas etapas antes dela já ir para o treinamento com um cara então hoje vai ser a Laís, depois a gente vai passar como que faz essa passagem da Laís para pisando, como que é a deusa entra nessa jogada e quais são todas as outras atividades então ai hoje eu tenho um cliente que eu fechei, mas ele quer pedir turn, eu vou tentar reverter aqui sozinho, cara, não conta com a Laís."
+      },
+      {
+        "startTime": 236,
+        "endTime": 254,
+        "speaker": "Carolina Campos",
+        "text": "A Laís tem técnica, ela já fez vários treinamentos. Ela já sabe onde vai pegar na dor do cara. Então ela tá aqui para apoiar vocês. Ah eu vendi para o cara e ele quer adicionar mais produtos chama pisando, ela vai te orientar de como que faz essa subida, quais vão ser os valores de reajuste, como que ele vai fazer? Tô com um problema no portal, cara."
+      },
+      {
+        "startTime": 254,
+        "endTime": 272,
+        "speaker": "Carolina Campos",
+        "text": "É a deusa então a deusa ela vai conseguir apoiar em tudo que tá acontecendo no portal, tá? Então a gente vai fazer essa rodada eu vou colocar uma agendinha recorrente pelas próximas sexta-feira, tá? Então eu deixo sempre aqui nesse horário duas horas da tarde de sexta-feira para a gente falar sobre técnicas e práticas aqui processos."
+      },
+      {
+        "startTime": 273,
+        "endTime": 276,
+        "speaker": "Carolina Campos",
+        "text": "Então, vai lá isso que é sua."
+      },
+      {
+        "startTime": 276,
+        "endTime": 297,
+        "speaker": "Eduardo Stringhini",
+        "text": "Deixa eu só fazer uma outra introdução aqui Campos, eu acho que é importante pessoal as pessoas tem o time de CS da hollo que é o time já consolidado e que tem um processo que atende todas as cidades todas as Praças, né? E a Gente Tá experimentando coisas novas na empresa, né? Então a gente tem um experimento em Curitiba."
+      },
+      {
+        "startTime": 297,
+        "endTime": 320,
+        "speaker": "Eduardo Stringhini",
+        "text": "Né que tem usar nela lá fazendo um trabalho comercial e de atendimento nas empresas também. O Juliano é uma outra é uma outra frente, né? Que a gente tá que é um outro experimento da empresa, na verdade, não é mais experimento já tá mais consolidado que esse é um caminho, né? Que é um caminho de canal, né? Um representante a gente chama de sócio local da hora."
+      },
+      {
+        "startTime": 320,
+        "endTime": 344,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então é um modelo de canal que ela faz o papel de Né ter uma presença comercial da aula lá em Goiânia e o João eu não sei se todo mundo conhece aqui, mas o João ele entrou para ser a parte de implementação e atendimento do prm né? E agora com a gente tava meio que com duas."
+      },
+      {
+        "startTime": 344,
+        "endTime": 377,
+        "speaker": "Eduardo Stringhini",
+        "text": "Soluções meio que competindo uma nossa e uma que é Nossa também mas é da Z2 e a gente agora se acertou bem com a Z2 e tudo tá indicando que a gente tudo na dica não vai nós vamos seguir um caminho de focar 100% na Z2 a Z2 como sendo um negócio órgão também, então o João ele ele já começou a ter um trabalho até um pouco mais comercial, porque ele já tá dentro desse assunto de prm tá então assim eu queria deixar claro o pessoal que a empresa ela tá passando por um processo de ajuste de estruturas."
+      },
+      {
+        "startTime": 377,
+        "endTime": 413,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente ainda não sabe exatamente como vai estar desenhada a óleo de 2025, porque nós começamos experimentos. Nesse segundo semestre é um experimento local que o experimento com um sócio local em Goiânia uma nova frente de produto, né? E nesse processo. O que que a gente precisa entender que vai ter trabalho vai ter muito trabalho para todo mundo, né? Então assim a gente hoje tá arranhando a superfície no que ela não pode fazer comercialmente, né? Então a gente já tá em 12 praças e a gente tem não tem uma penetração tão grande comercial na maioria delas."
+      },
+      {
+        "startTime": 413,
+        "endTime": 430,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então a ideia dessa reunião é para a gente tentar organizar essa relação, né? A gente tem um time de CS que faz uma ordem que treina que presta atendimento para todos os clientes da hora. Né que tem o processo na mão controlado não que esse processo ele é perfeito."
+      },
+      {
+        "startTime": 430,
+        "endTime": 444,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ele também é um processo que precisa de melhorias e às vezes até importante o feedback da ponta que tá lá na frente do cliente e às vezes é uma coisa que a gente não consegue ver a distância, né? Não consegue ver a cultura local que eles fazem do jeito, né, então."
+      },
+      {
+        "startTime": 444,
+        "endTime": 473,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então é muito importante que a gente usa esse Marco aqui agora com uma etapa de trabalho em conjunto digamos assim, né? A gente tem algumas frases que a gente tem uma ponta local e a gente tem um centro de sucesso do cliente Centralizado Brasil o homem. Então acho que eu queria fazer só essa introdução aqui porque a gente tá passando por inúmeras mudanças na empresa e Enfim, estamos com boas perspectivas aí."
+      },
+      {
+        "startTime": 473,
+        "endTime": 482,
+        "speaker": "Eduardo Stringhini",
+        "text": "Né para os produtos que foram colocados para essas estratégias comerciais novas aí. Queria fazer essa introdução a reunião aqui."
+      },
+      {
+        "startTime": 484,
+        "endTime": 506,
+        "speaker": "Carolina Campos",
+        "text": "Até complementando só um pouco que eu disse é hoje ainda tá a entrada o pessoal fora. Tá meio bagunçado, tá? E é mesmo e vai funcionar assim mesmo, tá gente até a gente chegar num momento em que tudo vai ser ajustar. Então a gente vai conseguir colocar as delimitações quem apoia quem quem passa informação quando tá precisando de alguma coisa, aonde que joga assim, onde que busca essa informação."
+      },
+      {
+        "startTime": 506,
+        "endTime": 529,
+        "speaker": "Carolina Campos",
+        "text": "Então acho que isso aos poucos vai ficar bem ajustado e todo mundo vai saber acho que muito mais do que Como fazer Qual o seu papel e como que a gente vai se colaborar entre a gente tá eu acho que esse vai ser a parte mais importante daqui para frente."
+      },
+      {
+        "startTime": 529,
+        "endTime": 557,
+        "speaker": "Diego Diehl",
+        "text": "gente, eu não sei se Só lembrar de onde surgiu esse treinamento que é a demanda mais eminente que está pelo menos na minha cabeça. Esse primeiro virado essa conexão essa aproximação, acho que é super importante a gente aprender a tocar eu até agora tô aprendendo para quem que eu peço onde que eu mando, o que que eu faço? Eu mando um e-mail se eu mando um WhatsApp seu nome direto."
+      },
+      {
+        "startTime": 557,
+        "endTime": 583,
+        "speaker": "Diego Diehl",
+        "text": "Juntinho, mas eu tô acostumada e eu vou tentar resolver de alguma forma, ela queria abrir um ponto para só um combinado. Já que eu deixei para falar agora o que for acontecendo ao longo dos dias é legal a gente falando que quer o ideal tipo, eu prefiro que mande aqui na próxima já sabe qual que é o caminho certo, né? Então essa troca é legal."
+      },
+      {
+        "startTime": 583,
+        "endTime": 607,
+        "speaker": "Diego Diehl",
+        "text": "E como surgiu o treinamento pelo menos na minha cabeça eu várias coisas que estão acontecendo ali com usar ela que a gente tá numa. estratégia de abordar até as incorporadoras dele E começar a perguntar se eles acessaram eles viram audiência ele o cara tem login se tornar, ela tá certa."
+      },
+      {
+        "startTime": 607,
+        "endTime": 628,
+        "speaker": "Diego Diehl",
+        "text": "E aí conhecer a órgão, né? E não ligar uma reunião e aí acaba que usando ela tá tendo que ser responder várias coisas que os clientes perguntam ali na ponta. E aí eu tenho falado janela, pergunta isso aqui eu acho que você pergunta para pisando isso aqui você pergunta para Laís e só que isso seria legal a gente ter um check list, só que seria legal ter tal coisa."
+      },
+      {
+        "startTime": 628,
+        "endTime": 653,
+        "speaker": "Diego Diehl",
+        "text": "Então acaba que a nossa força específica é ser comercial, mas como a galera dele já é cliente na verdade esse. Esse SDR abordador na verdade acaba fazendo um papel de suporte ali de CS porque você fala que o cara DL tem várias perguntas para depois a gente agendar uma reunião."
+      },
+      {
+        "startTime": 653,
+        "endTime": 682,
+        "speaker": "Diego Diehl",
+        "text": "Então na minha cabeça a coisa mais importante para mim. É que a gente Entenda como é que a gente pode chegar numa Incorporadora e esclarecer alguns pontos para ela conseguir criar esses pontos para resolver rápido. e depois também eu acho que aconteceu uma outra demanda que era de uma incorporadora que Usa nela, acho que foi até raça que foi conversar a gente conversou mostrou a ferramenta daí quando foi agendar uma reunião com sucesso que foi a nossa recomendação, eles falaram na verdade."
+      },
+      {
+        "startTime": 682,
+        "endTime": 699,
+        "speaker": "Diego Diehl",
+        "text": "usa nela já O que é muito bom a percepção do cliente de ter sido treinado, mas eu fiquei preocupado em e a gente não tá passando por todos os tópicos e talvez o processo é não é a gente ousa nela se responsabilizar por Treinamentos e"
+      },
+      {
+        "startTime": 709,
+        "endTime": 713,
+        "speaker": "Eduardo Stringhini",
+        "text": "tá"
+      },
+      {
+        "startTime": 716,
+        "endTime": 725,
+        "speaker": "Carolina Campos",
+        "text": "Acho que não sei se vai eu acho que ele vai cair. Vai seguir vai vamos Seguindo aqui porque é longo o treinamento da Laís."
+      },
+      {
+        "startTime": 725,
+        "endTime": 727,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu acho que eu entendi ali."
+      },
+      {
+        "startTime": 727,
+        "endTime": 728,
+        "speaker": "Carolina Campos",
+        "text": "É também."
+      },
+      {
+        "startTime": 729,
+        "endTime": 739,
+        "speaker": "Eduardo Stringhini",
+        "text": "Um exemplo né que deu esse aí a gente fez um trabalho de aproximação comercial aí o Zanella foi lá no escritório fazer um suporte. A cliente já pediu um monte de dúvidas, né, então."
+      },
+      {
+        "startTime": 739,
+        "endTime": 754,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí eu queria fazer hoje o momento do tipo eu vou mostrar hoje uma das minhas dificuldades no treinamento para ele não ficar muito longo, eu tenho que ser mais assertiva do que que eu mostro, né? Então eu acho que eu vou dar um foco nessas coisas que eu mostro."
+      },
+      {
+        "startTime": 754,
+        "endTime": 771,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí eu queria deixar aberto para usar nela e João me perguntarem em qualquer momento sobre os detalhes. Né? Poxa o cliente abriu ali então eu já me deixei liberada na alta aqui, que é que você teve uma dúvida ali esses dias, talvez de alguma coisa específica e a gente vai tocar."
+      },
+      {
+        "startTime": 771,
+        "endTime": 810,
+        "speaker": "Lais Santos Soares",
+        "text": "Tá bom? Então vou fazer assim mostrar o meu processo, o que que acontece por onde que eu recebo como eu tô sabendo como cliente chegou aqui e os tópicos principais que eu mostro para ele dentro de um treinamento. Aí eu vou começar a compartilhar minha tela com vocês. Eu sempre descubro que um cliente entrou na hora ou ele fechou um contrato pelo meu funil no Beatles."
+      },
+      {
+        "startTime": 810,
+        "endTime": 844,
+        "speaker": "Lais Santos Soares",
+        "text": "Esse é meu eu que olho para ele até A luz essa Incorporadora por exemplo acabou de entrar aqui a casani, ela veio para mim, porque o closer deu ganho nesse caso ele assinou o cliente assinou ganho no card financeiro conferiu e enviou o quarto para mim. Então já passou aqui pelo time de financeiro para eles começarem as faturas com filhos do CNPJ e etc nesse momento eu tenho identificado quem que é a pessoa que eu vou falar lá."
+      },
+      {
+        "startTime": 844,
+        "endTime": 875,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu tenho alguns contatos que vieram lá desde CDR e tal e aqui tem um ralf que eu vou falar com ele para dar esse treinamento para começar as liberações. Eu também Venho já com contrato da Incorporadora aqui. Às vezes não vem às vezes tá aqui a data que o cliente assinou a gente tem um prazo de até 48 horas vai entrar em contato com esse cliente para conversar um bode."
+      },
+      {
+        "startTime": 875,
+        "endTime": 889,
+        "speaker": "Lais Santos Soares",
+        "text": "Quando eu pego o contrato do cliente eu começo a seguir um roteiro hoje em dia esse roteiro já tá muito bem descrito aqui porque o objetivo desse check list, foi se eu sair de férias e fazer o que eu faço hoje."
+      },
+      {
+        "startTime": 891,
+        "endTime": 931,
+        "speaker": "Carolina Campos",
+        "text": "É até um ponto importante que isso pode gerar uma quebra no cliente de vocês. É que hoje a gente tem várias automações é dentro do bítricos. Então quando vocês derem ganho no card ele vai chegar no financeiro, ele vai receber uma mensagem do WhatsApp da hora ou falando a partir de agora recebendo o seu contato, você vai ser meu boleto no e-mail tal tudo bonitinho, quando chega para Laís igualzinhas, ele também sabe que ele vai começar a falar com a Laís em boas-vindas e o que que vai acontecer dali para frente então o cliente ele nunca fica muito perdido depois que a venda saiu dali tá gente? Então ele sempre vai ter um Marco assim agora você tá financeiro agora você tá passando para o time de CS quando vai para outros times, ele vai sempre sendo comunicado em qual etapa que ele"
+      },
+      {
+        "startTime": 935,
+        "endTime": 972,
+        "speaker": "Lais Santos Soares",
+        "text": "Por exemplo na mensagem que o cliente recebe quando ele vem do financeiro para mim é automática. E aí eu começo a seguir esse roteiro aqui esse roteiro basicamente é eu criar esse cliente na hora então eu crio ele dentro do Move 10 que é hoje o Sistema que a gente usa para responder receber e-mails eu vou criar esse cliente de verdade aqui pois o CNPJ dele coloca a empresa e para que que eu faço isso porque eu consigo assim depois com que a empresa tiver criada associar e-mails a esta organização."
+      },
+      {
+        "startTime": 972,
+        "endTime": 985,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí toda vez que Poxa eu falei que o a Paula pertence a cava Zani, toda vez que chegar um e-mail da Paula já tem identificado que ele acaba usando para chegar e aí já vem direto para o meu time."
+      },
+      {
+        "startTime": 987,
+        "endTime": 994,
+        "speaker": "Eduardo Stringhini",
+        "text": "Beleza até legal mostrar aí pega um cliente que a gente consegue ver todos os tickets abertos só para o pessoal ver ali rapidamente."
+      },
+      {
+        "startTime": 995,
+        "endTime": 1006,
+        "speaker": "Lais Santos Soares",
+        "text": "então Gosta de ficar."
+      },
+      {
+        "startTime": 1009,
+        "endTime": 1022,
+        "speaker": "Carolina Campos",
+        "text": "Inclusive já coloquei até aqui na fila tá Laís? Porque a gente já tá com uma integração legal como o videski para fazer essa criação de cliente automaticamente para você, tá? Eu vou levar isso pra Paloma, vou pedir o orçamento já vai ser uma atividade a menos para ti."
+      },
+      {
+        "startTime": 1022,
+        "endTime": 1027,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então a gente centraliza aqui os todos os e-mails trocados etc com o cliente."
+      },
+      {
+        "startTime": 1027,
+        "endTime": 1063,
+        "speaker": "Lais Santos Soares",
+        "text": "Desde que esteja. Lincado a Incorporadora. Então chegou um e-mail aleatório esse e-mail não é de uma pessoa ligada se ela não vou saber que é aqui, mas aqui tem uma lista dos e-mails, quando que recebeu se eu ficar aqui eu consigo ver o ticketing. Então para mim esse passo esse primeiro passo aqui é muito importante porque eu garanto que o cliente ele quando mandar um e-mail ele vai falar comigo, ele não vai falar com o time de mobi não vai falar com ativação ele vem para acesso."
+      },
+      {
+        "startTime": 1063,
+        "endTime": 1078,
+        "speaker": "Lais Santos Soares",
+        "text": "E eu também sei quem é a pessoa não tem que ficar descobrindo quem é né? Ah, mas às vezes é a empresa tem o arroba lá. No meio, às vezes às vezes não tem aqui. A gente cadastra."
+      },
+      {
+        "startTime": 1080,
+        "endTime": 1105,
+        "speaker": "Carolina Campos",
+        "text": "Para vocês que estão na rua é muito importante então quando o cara falou. Ai eu pedi uma atualização e não teve eu fiz isso e ninguém fez para mim pode mandar para o time que a gente vai rastrear e vai localizar se teve esse pedido mesmo, tá? Porque às vezes o cara acha que ele pediu ou às vezes ele pediu por um canal errado tá e a gente consegue rastrear por onde ver essa solicitação deles e cobrar quem não deu atendimento também tá gente? Isso é bem legal para você contar na rua."
+      },
+      {
+        "startTime": 1107,
+        "endTime": 1139,
+        "speaker": "Lais Santos Soares",
+        "text": "Qual que é o e-mail que a gente recebe aqui é o parcerias@ouro.com.br quando eu vim processo é uma das principais dores do cliente era eu não sei para que queimando isso casava um barracos pessoal se fez reunião aqui terrível assim do cliente falando desaforos que eu não sei da onde é que é eu mandei e-mail para várias pessoas isso realmente tira qualquer um do sério então hoje em dia o que a gente fala ai é reajuste aí não sei o quê, manda para parcerias@.com.br vai chegar em CS e a gente manda para o time que faz sentido."
+      },
+      {
+        "startTime": 1139,
+        "endTime": 1180,
+        "speaker": "Lais Santos Soares",
+        "text": "Então tira esse drama do cliente e aqui em CS a gente consegue saber do que que tá rolando você precisa da nossa intervenção. Vou mostrar outra coisa aqui onde eu tava. Ah, eu também cadastra esse cliente nudes de saque digissaki é o nosso sistema de conversar com cliente via WhatsApp então muito dificilmente eu vou abrir mão de conversar com cliente no meu pessoal que não é pessoal, tá? Eu uso para empresa, mas muito dificilmente eu vou porque aqui no dia de saque eu consigo comunicar esse cliente com qualquer setor da empresa então aí eu fiz o atendimento aqui com o Rodrigo, ele pediu para fazer uma atualização no produto, eu vou mandar o Rodrigo lá para o time."
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1203,
+        "speaker": "Lais Santos Soares",
+        "text": "De atualização o time do Marcelo Ah, ele quer saber ele quer um boleto de novo perdeu a senha do cartão, eu vou mandar para o time de financeiro que tá aqui dentro também. Aí quer saber de ativação digital, manda para Mari. Então muito dificilmente eu abro mão de conversar com a gente daqui."
+      },
+      {
+        "startTime": 1203,
+        "endTime": 1210,
+        "speaker": "Lais Santos Soares",
+        "text": "Então, por favor, quando for caminhar um cliente. Manda ele para conversar com a gente."
+      },
+      {
+        "startTime": 1211,
+        "endTime": 1211,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Esse daí é só uma pergunta esse"
+      },
+      {
+        "startTime": 1211,
+        "endTime": 1213,
+        "speaker": "Lais Santos Soares",
+        "text": "tá"
+      },
+      {
+        "startTime": 1213,
+        "endTime": 1215,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "daí é o número de WhatsApp."
+      },
+      {
+        "startTime": 1215,
+        "endTime": 1223,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso é esse daqui, ó. Este número aqui. Vou deixar aqui na nossa conversa."
+      },
+      {
+        "startTime": 1226,
+        "endTime": 1233,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Boa vamos saber desse canal aí isso daí é tudo para suporte atualização financeira eu posso centralizar todo esse suporte?"
+      },
+      {
+        "startTime": 1233,
+        "endTime": 1240,
+        "speaker": "Lais Santos Soares",
+        "text": ", tá eu atento pesado Deus a todo mundo tá vindo?"
+      },
+      {
+        "startTime": 1240,
+        "endTime": 1258,
+        "speaker": "Carolina Campos",
+        "text": "Ele pode ou mandar formalização por e-mail via parcerias ou acionar via de saque tá e a gente vai ter um outro número que é só automação e a gente escreve que é uma automação tá essa mensagem automática não responder que vai ser o contato lá com pré-vendas e para dar só o direcionamento."
+      },
+      {
+        "startTime": 1258,
+        "endTime": 1259,
+        "speaker": "Carolina Campos",
+        "text": "Em que fase que Ele tá dentro da hora?"
+      },
+      {
+        "startTime": 1259,
+        "endTime": 1261,
+        "speaker": "Lais Santos Soares",
+        "text": "E eles realmente respondem."
+      },
+      {
+        "startTime": 1261,
+        "endTime": 1265,
+        "speaker": "Carolina Campos",
+        "text": "E eles não respondem mesmo."
+      },
+      {
+        "startTime": 1265,
+        "endTime": 1288,
+        "speaker": "Diego Diehl",
+        "text": "Uma dúvida eu tava tentando. Preferir enviar por e-mail. E daí pedir para ele enviar com cópia para eu poder ser informado sobre o andamento das coisas. Por e-mail sem enviar por cópia, eu vou conseguir acompanhar. Se o cliente na verdade enviar para parcerias com cópia para mim eu consigo acompanhar."
+      },
+      {
+        "startTime": 1288,
+        "endTime": 1289,
+        "speaker": "Diego Diehl",
+        "text": "E o WhatsApp não?"
+      },
+      {
+        "startTime": 1289,
+        "endTime": 1291,
+        "speaker": "Carolina Campos",
+        "text": "É WhatsApp mas é"
+      },
+      {
+        "startTime": 1291,
+        "endTime": 1311,
+        "speaker": "Diego Diehl",
+        "text": "Sabe mais complicado, né olhar ali rastrear ela, talvez cara, se a gente tem gente que é praticidade tal da gente fala no WhatsApp, mas eu ia sugerido a gente tentar até para pessoa mandar mais organizado no WhatsApp para ela ficar mandando tudo meio solto na hora não se organiza para enviar."
+      },
+      {
+        "startTime": 1311,
+        "endTime": 1323,
+        "speaker": "Diego Diehl",
+        "text": "Talvez a gente tentar focar no e-mail, por enquanto para a gente poder acompanhar entender esses fluxos, não sei o que que vocês acham meninas existe ok? Enviar por"
+      },
+      {
+        "startTime": 1323,
+        "endTime": 1339,
+        "speaker": "Carol Pizzano",
+        "text": "Por e-mail porque ele gera um ticket. E todo mundo consegue acompanhar esse ticket então vocês vão em cópia nesse ticket pode passar pelo time de operação de atualização do mantendo o histórico ali tá?"
+      },
+      {
+        "startTime": 1339,
+        "endTime": 1339,
+        "speaker": "Diego Diehl",
+        "text": "E como é que eu olho o ticket?"
+      },
+      {
+        "startTime": 1339,
+        "endTime": 1348,
+        "speaker": "Carol Pizzano",
+        "text": "É isso. Na hora que você mandar para parcerias, você vai receber um e-mail com o número de um ticket feito que ela está mostrando aí"
+      },
+      {
+        "startTime": 1348,
+        "endTime": 1348,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1348,
+        "endTime": 1357,
+        "speaker": "Carol Pizzano",
+        "text": "só que essa visão que ela está mostrando é do sistema que a gente usa aí a gente mostra do e-mail aparece assim, tá vendo? Você já deve ter."
+      },
+      {
+        "startTime": 1357,
+        "endTime": 1359,
+        "speaker": "Diego Diehl",
+        "text": "Recebi eu queria saber se eu ia."
+      },
+      {
+        "startTime": 1359,
+        "endTime": 1360,
+        "speaker": "Carol Pizzano",
+        "text": "Isso aí você vai acompanhar todos."
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1364,
+        "speaker": "Diego Diehl",
+        "text": "Estava discutindo sobre usuários no Movie 10 para ver."
+      },
+      {
+        "startTime": 1364,
+        "endTime": 1374,
+        "speaker": "Carol Pizzano",
+        "text": "Ali embaixo você consegue acessar ver o detalhe, só que hoje a gente não consegue criar um usuário para vocês dentro do Move 10 que devido a nossa conta que está limitada, tá bom?"
+      },
+      {
+        "startTime": 1374,
+        "endTime": 1377,
+        "speaker": "Carolina Campos",
+        "text": "Sim, ela é bem cara, ela é bem cara."
+      },
+      {
+        "startTime": 1377,
+        "endTime": 1389,
+        "speaker": "Diego Diehl",
+        "text": "Tranquilo. Se tiver um botão ali tá? Suave, já é que eu não quero ficar no escuro para poder daí acionar quando resolver avisar o cliente que resolveu já tracionar o comercial de novo."
+      },
+      {
+        "startTime": 1389,
+        "endTime": 1393,
+        "speaker": "Carol Pizzano",
+        "text": "Vários mundos, manda por e-mail sempre parcerias@ que você vai manter o histórico."
+      },
+      {
+        "startTime": 1396,
+        "endTime": 1401,
+        "speaker": "Lais Santos Soares",
+        "text": "também, olha eu vou trocar o responsável aqui e mando para o time do Marcelo troco responsável aqui e mando para cadastro."
+      },
+      {
+        "startTime": 1404,
+        "endTime": 1411,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Alguma dúvida em relação a todo o suporte eu mando para parcerias."
+      },
+      {
+        "startTime": 1411,
+        "endTime": 1412,
+        "speaker": "Lais Santos Soares",
+        "text": "parcerias no plural"
+      },
+      {
+        "startTime": 1412,
+        "endTime": 1414,
+        "speaker": "Diego Diehl",
+        "text": "Direcionam daí os anel."
+      },
+      {
+        "startTime": 1414,
+        "endTime": 1414,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "tá"
+      },
+      {
+        "startTime": 1414,
+        "endTime": 1423,
+        "speaker": "Eduardo Stringhini",
+        "text": "Mas espera aí pessoal, usa nela, ele tem feito um trabalho de suporte para o pessoal que é DL. Então a gente mantém no de parcerias@s as questões de DL."
+      },
+      {
+        "startTime": 1423,
+        "endTime": 1428,
+        "speaker": "Carol Pizzano",
+        "text": "Pode manter que a gente vai transferindo para os canais certos."
+      },
+      {
+        "startTime": 1428,
+        "endTime": 1429,
+        "speaker": "Carolina Campos",
+        "text": "isso"
+      },
+      {
+        "startTime": 1429,
+        "endTime": 1432,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1432,
+        "endTime": 1465,
+        "speaker": "Lais Santos Soares",
+        "text": "Não é muito simples para a gente trocar aqui o responsável ficar por dentro do que acontece no incorporador. Fiz os cadastros conversei adicionei as pessoas aqui dentro todo mundo aterronia Rodrigues. Tem uma fila aqui também de atendimento tava chegando. Deus é muito eficiente. Zerou aquilo que já não tem ninguém."
+      },
+      {
+        "startTime": 1465,
+        "endTime": 1493,
+        "speaker": "Lais Santos Soares",
+        "text": "Aí no próximo passo é ver se esse cliente já existe na nossa base. Então tinha Muita confusão, às vezes eu vejo que ainda tem uma confusão no comercial se o cliente paga hora ou se o cliente não paga hora ainda se ele vai mais influente, como que tá o estado desse cliente, eu gosto de usar esse bielzinho aqui que foi Marcelo que construiu ele mostra todas as incorporadoras o plano que elas estão aqui."
+      },
+      {
+        "startTime": 1493,
+        "endTime": 1530,
+        "speaker": "Lais Santos Soares",
+        "text": "aqui no final se elas estão atualizadas se elas não estão atualizadas essa informação você também consegue achar no Admin, só que é muito mais rápido de carregar facilidade. Acabou de entrar aqui, ela tá na base ainda. Tá na base, já ela é cliente DL eu vejo esses produtos cantam que estão atualizados então dão conferida lá no contrato."
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1550,
+        "speaker": "Lais Santos Soares",
+        "text": "Se tudo que tá contratado tá de fato na Incorporadora não tá eu vou pedir para elas materiais e aí quando eu pedi para elas materiais eu vou passar lá para o time do Marcelo. Que eu tive de cadastro esse time vai começar a cadastrar esse produto o time de cadastro demora aí em torno de 72 horas para cadastrar o empreendimento."
+      },
+      {
+        "startTime": 1550,
+        "endTime": 1560,
+        "speaker": "Lais Santos Soares",
+        "text": "Então, eu sei também é muito importante para as janela e João Não prometer prazos muito apertados, então toda vez que procuradora mandou material então de 72 horas, seu produto vai estar cadastrado."
+      },
+      {
+        "startTime": 1563,
+        "endTime": 1567,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente tem acesso a esse por dia aí."
+      },
+      {
+        "startTime": 1567,
+        "endTime": 1568,
+        "speaker": "Lais Santos Soares",
+        "text": "a única questão dele é que ele"
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1578,
+        "speaker": "Diego Diehl",
+        "text": "Nossa bem mais rápido para olhar um excelente."
+      },
+      {
+        "startTime": 1578,
+        "endTime": 1590,
+        "speaker": "Lais Santos Soares",
+        "text": "não é atualizado na hora. Então se eu acabei de mudar um plano no admin, ele não vai refletir aqui agora. tá Vou te falar João."
+      },
+      {
+        "startTime": 1592,
+        "endTime": 1600,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Aí você comentou que é 72 horas para ele se cadastrarem o produto certo para atualização SSA é o mesmo."
+      },
+      {
+        "startTime": 1600,
+        "endTime": 1603,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí vamos já faz atualização a"
+      },
+      {
+        "startTime": 1603,
+        "endTime": 1604,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "ok"
+      },
+      {
+        "startTime": 1609,
+        "endTime": 1630,
+        "speaker": "Lais Santos Soares",
+        "text": "gente promete o cliente encaminhou uma tabela para gente hoje. Eu vou atualizar em 72 horas, eu vou se for a primeira vez que ele tá mandando tabela para mim esse mês se for segunda vez que ele está mandando a tabela para mim esse mês aí ele vai lá para o final da fila de atualização, espera a gente atualizar todo mundo que é a primeira vez e vai para isso."
+      },
+      {
+        "startTime": 1630,
+        "endTime": 1637,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí É nesse momento para não ficar triste. Eu falo na tua cara do cliente, ele faz com a própria atualização de Instagram."
+      },
+      {
+        "startTime": 1639,
+        "endTime": 1665,
+        "speaker": "Carol Pizzano",
+        "text": "Depende da atualização tá João? A gente tem três, tipos, a gente tem os clientes que são integrados tá? Então você tem que entender como que faz integração do CV Anápolis falou que tem esse período aí de 24 48 horas para ter atualização de tabela."
+      },
+      {
+        "startTime": 1671,
+        "endTime": 1694,
+        "speaker": "Lais Santos Soares",
+        "text": "E ainda vou mostrar sobre atualização ainda ficar mais claro. Ah aqui eu também vejo se o cliente está integrado ou não tá aqui nesse falso esse integrado à integração do sistema de tabela espelho lápis. Falou ali CV Box o cliente o sistema que o cliente que tiver a gente integra aqui isso significa que essa atualização ela não depende da gente."
+      },
+      {
+        "startTime": 1694,
+        "endTime": 1713,
+        "speaker": "Lais Santos Soares",
+        "text": "Depende do que o sistema dessa Incorporadora. Aí eu vou para o passo dois vi que a Incorporadora ela já existe conferida no contrato todos os produtos que foram comprometidos no contrato então aqui dentro. Eu vou dar um oi para ele no WhatsApp, eu ainda vou liberar o ideal para ele."
+      },
+      {
+        "startTime": 1713,
+        "endTime": 1738,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí eu vou. No admin uma dica para usar o admin é sempre abrir ele meu uma janela anônima. Porque eu adivinho. Ele fica derrubando.com.br. Então olha não sofreu não. Abre no anônimo. Ele vai ficar caindo."
+      },
+      {
+        "startTime": 1739,
+        "endTime": 1744,
+        "speaker": "Diego Diehl",
+        "text": "Caramba, que dica essa essa é a melhor."
+      },
+      {
+        "startTime": 1744,
+        "endTime": 1781,
+        "speaker": "Lais Santos Soares",
+        "text": "Nem tenta nem tenta vai funcionar duas vezes na próxima vai cair. Então abre não é? Vou abrir. Aí eu vou começar a liberar esse cadastro. É o admin ele tem uma um V2 aqui, ou seja um outro nível de acesso se a gente abrisse uma outra caixinha no admin, então vocês vão ver que quando eu clico em contato clico em contato."
+      },
+      {
+        "startTime": 1781,
+        "endTime": 1799,
+        "speaker": "Lais Santos Soares",
+        "text": "Ele vai para essa outra caixinha. Aí eu venho aqui olá. Essa página que vocês conhecem tem alguma dúvida de mexer."
+      },
+      {
+        "startTime": 1799,
+        "endTime": 1800,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Você já deu uma fuçada?"
+      },
+      {
+        "startTime": 1801,
+        "endTime": 1845,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu simplesmente. Vou colocar aqui. Vou liberar o contrato dela. Adicionar aqui o contrato, se tiver algum produto abonado é nesse momento que eu vou abordar também, depois eu vou lá para o outro passo do meu. Roteiro que é configurar os atonados e eu vou liberar e m desse cliente a laiziene não fica liberado sozinha não é automático."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1875,
+        "speaker": "Lais Santos Soares",
+        "text": "Precisa esperar na mão então entra aqui procuro o painel da cidade correto e libera o painel deste cliente. A mais o cliente ele ainda não tem um a empresa dele ainda não tá cadastrado na hora o time de cadastro vai demorar três dias para cadastrar os produtos. Ele quer usar ele que que eu faço? Você vai vir aqui dentro do painel correto? E vai liberar o e-mail dele aqui embaixo."
+      },
+      {
+        "startTime": 1875,
+        "endTime": 1903,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas você vai anotar que você liberou e quando já houver um cadastro da incorporadoras, apaga aqui a liberação dele que se não seus cliente ficar inadimplente sair do plano, ele vai continuar vendo lá no nosso painel. Ou simplesmente colocaria cavazani aqui e liberaria o IM para ela. Que que isso reflete lá na hora quando o cliente acessar do cliente ele vai ver a aba de inteligência."
+      },
+      {
+        "startTime": 1903,
+        "endTime": 1951,
+        "speaker": "Lais Santos Soares",
+        "text": "Além disso, ele não tá vendo a área de inteligência. Ele ou não é um cliente ideal ou ele não tá liberado aqui dentro desse. São as únicas Duas respostas. depois eu vou lá no Anunciante e vou liberar para o cliente. Agora para anunciantes tá na outra água. Eu vou lá e eu vou salvar o pdf do contrato desse cliente porque lá no Beatles eu tenho acesso."
+      },
+      {
+        "startTime": 1951,
+        "endTime": 1976,
+        "speaker": "Lais Santos Soares",
+        "text": "Alguém tem acesso? Que é a base da outra, então eu vou lá. E eu vou colocar nosso contrato aqui dentro e assim qualquer pessoa esse tipo de Marcela da Jéssica, pode vir e ter acesso ao contrato do cliente. Então nessa a gente não tá a gente começou esse recentemente não existia esse espaço aqui para colocar o contrato."
+      },
+      {
+        "startTime": 1976,
+        "endTime": 1997,
+        "speaker": "Lais Santos Soares",
+        "text": "Então algumas incorporadoras vão estar com o contrato aqui nessa área de arquivo interno arquivo interno significa então que o Incorporadora ela não que esse arquivo não tá indo para dentro da hora do portal. Não vai para o portal. Se eu colocasse aqui ou no lugar errado tá indo lá para dentro da página dando."
+      },
+      {
+        "startTime": 1997,
+        "endTime": 2021,
+        "speaker": "Lais Santos Soares",
+        "text": "então E no próximo passo é avisar para o Marcelo, olha temos um DNA novo Marcelo e a gente precisa dar atenção para ele, porque quando o cliente assina tear ele passa na frente da fila de qualquer problema. Se tiver 30 problemas para resolver ideia eu vou resolver o GTA primeiro."
+      },
+      {
+        "startTime": 2021,
+        "endTime": 2064,
+        "speaker": "Lais Santos Soares",
+        "text": "E o que eu faço então é avisar o time de Marcelo. Olha esse cliente agora tá pagando e ele precisa ter prioridade nos atendimentos. Ah esqueci de avisar o Marcelo que o cliente entrou Marcelo vai continuar tratando ele como dr. Quando eu falo Marcelo o diretor de operações time de operações continuar tratando ele a gente vai ter o nosso atendimento, depois eu vou mandar um e-mail de boas vindas para esse cliente tudo lá no move 10, deixa eu trocar."
+      },
+      {
+        "startTime": 2064,
+        "endTime": 2096,
+        "speaker": "Lais Santos Soares",
+        "text": "E vou dar boas-vindas para esse cliente. Vou falar Oi tudo bom? Você está no plano de distribuição avançadas da hora, eu venho aqui a gente tem algumas máquinas que a gente já deixa escrito para o cliente e nessa máquina de boas vindas, eu tô perguntando se ele já tem todos os produtos cadastrados e se não o que que eles precisam me enviar para a gente liberar então janela e João você já tem esse arquivo aqui do material para encaminhar para o cliente."
+      },
+      {
+        "startTime": 2096,
+        "endTime": 2101,
+        "speaker": "Lais Santos Soares",
+        "text": "Para ele fazer o cadastro dos produtos."
+      },
+      {
+        "startTime": 2101,
+        "endTime": 2117,
+        "speaker": "Diego Diehl",
+        "text": "Uma pergunta eu mandei para o Marcelo me mandou um check list. Eu acho que é isso aí um documento check list você pisar nela já o João não sei se precisou."
+      },
+      {
+        "startTime": 2117,
+        "endTime": 2118,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu ainda não tenho."
+      },
+      {
+        "startTime": 2121,
+        "endTime": 2144,
+        "speaker": "Lais Santos Soares",
+        "text": "o cliente se ele não ver o check list, ele manda para gente informação faltando e o cadastro dele vai demorar mais ainda porque a gente vai ter que ver que a informação tá faltando para poder enviar para ele. Deixa eu ver como você ver então toda vez que a gente falar eu quero cadastrar um produto."
+      },
+      {
+        "startTime": 2144,
+        "endTime": 2151,
+        "speaker": "Lais Santos Soares",
+        "text": "Olha basta, você já estas informações. Não mandou isso para o cliente."
+      },
+      {
+        "startTime": 2151,
+        "endTime": 2195,
+        "speaker": "Diego Diehl",
+        "text": "Hoje é um trabalho legal em Goiânia, se ficar ligado, se não tem algum produto algo assim. Aí você faz a ponte cadastra e quase incorporadoras de divulgar o trabalho ou divulgar o cadastro de breve lançamento como possível na plataforma aproxima bastante também tem uma dúvida Laís. hoje a gente tem algum eu não lembro se eu escutei uma vez isso eu tô confundindo que só poderia por breve lançamento, quem é da A gente tem isso ou não, né? Tá enfim entre nós aqui eu vendo a ideia como cara, eu vou e Libero para você, ele já cadastrar como breve lançamento mesmo vocês sem ser pagante."
+      },
+      {
+        "startTime": 2195,
+        "endTime": 2199,
+        "speaker": "Diego Diehl",
+        "text": "E a galera fica feliz é aproximando incorporado."
+      },
+      {
+        "startTime": 2199,
+        "endTime": 2208,
+        "speaker": "Lais Santos Soares",
+        "text": "A percepção que eu tenho é que a maioria das incorporadoras não sabem que pode cadastrar breve acha que só pode Cadastrar produto que já está sendo vendido."
+      },
+      {
+        "startTime": 2208,
+        "endTime": 2209,
+        "speaker": "Diego Diehl",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 2211,
+        "endTime": 2238,
+        "speaker": "Lais Santos Soares",
+        "text": "Você já vai começar a ter métricas do seu empreendimento? Você já vai começar a ver quem são os corretores acessando o teu produto? Né para ele e para a gente é excelente, né? A gente tem mais informações ali do mercado. São Paulo mesmo adora ver a gente tem uma lista de breves lançamentos e eles adoram acompanhar essa lista lá."
+      },
+      {
+        "startTime": 2238,
+        "endTime": 2276,
+        "speaker": "Lais Santos Soares",
+        "text": "E mandei fiz o checklist conversei Incorporadora, eu vou começar a salvar algumas coisinhas internas aqui de CS que a gente precisa para controle interno como por exemplo. eu preciso saber quando finaliza a fidelidade desse cliente porque quando chegar muito próximo eu vou não muito próximo eu vou entrar em contato com ele tentar fazer uma abordagem aqui de aproximação no caso eu não no caso pisando lá em um Né? A pessoa vai começar a tentar fazer essa abordagem quando chegar na data de fidelidade próximo cliente."
+      },
+      {
+        "startTime": 2276,
+        "endTime": 2308,
+        "speaker": "Lais Santos Soares",
+        "text": "Outra coisa que eu vou fazer é associar essa Incorporadora aqui a uma empresa na hora isso aqui vai fazer com que eu consiga ver todos os cards de ficar vazani dentro do bitrem. Então pode ter um card lá com tinta financeira de operações É nesse momento logo que ele entrou porque Me certificar de que todo mundo vai estar vendo as informações dessa Incorporadora para não ter desânimo."
+      },
+      {
+        "startTime": 2308,
+        "endTime": 2338,
+        "speaker": "Lais Santos Soares",
+        "text": "Depois eu vou aí sim, depois eu fiz tudo isso, eu vou entrar em contato com a Incorporadora, então às vezes naipe lá gente. Entra em contato com aquele cliente eu tento fazer só esses 15 fases aqui antes de falar com cliente. Toda vez que eu pulo alguma dessas coisas vai dar errado no próximo dia no dia seguinte e eu vou ter que refazer um tanto de coisa, eu vou esquecer porque etapa que eu pulei gente ficou sem PM aqui em instalar tô acessando não tô vendo inteligência."
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2369,
+        "speaker": "Lais Santos Soares",
+        "text": "Não tem como eu falar com o cliente antes de fazer essas coisas aqui. tá Aí eu vou conversar com cliente aqui aqui, a gente também tem lacros também tem respostas rápidas aqui então consigo dar um olá para ele. Eu falo que eu sou Laís. Eu tô aqui de treinamento e fala para eles, vamos começar a Será que Nunca conversou com a gente não."
+      },
+      {
+        "startTime": 2369,
+        "endTime": 2396,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu mesma. Vamos começar da Oi para ele e pergunta. Olha vou começar a ser Lombardi aqui e eu quero saber quem você as pessoas que vão ter acesso a ferramenta então assim eu garanto que desde o meu primeiro contato. Ele já tá vendo ele mesmo antes de fazer o primeiro pagamento dele que já tá sendo liberado aqui os acessos das Ferramentas."
+      },
+      {
+        "startTime": 2396,
+        "endTime": 2432,
+        "speaker": "Lais Santos Soares",
+        "text": "Que que eu faço quando o cliente me passa o os e-mails aí eu vou lá. De mim. E vou liberar os acessos para esse cliente. E aí Aqui tem alguns truques. Se o cliente já tiver o usuário na hora eu consigo clicar aqui em adicionar anunciante em um usuário e colocar esse usuário definir o nível de permissão? Se ele ainda não tiver um cadastro na hora, eu preciso enviar um convite para ele."
+      },
+      {
+        "startTime": 2432,
+        "endTime": 2460,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí eu envio o convite aqui embaixo parcerias e vou mandar um convite. O Marcelo vai receber o e-mail lá vai preencher. Eu nunca pergunto se o cliente tem ou não tem cadastro não eles viraram causar. Aí depois que eu liberei os acessos dessa pessoa, eu vou mandar para ele a minha agenda de Treinamento."
+      },
+      {
+        "startTime": 2460,
+        "endTime": 2480,
+        "speaker": "Lais Santos Soares",
+        "text": "E agenda de tratamento também tá aqui dentro. Dou uma agenda pode marcar e nesse momento eu peço ele para trazer todo mundo do time dele. Isso aqui é muito importante que às vezes só o cara do marketing que contrata e o cara o meu gerente de parcerias não tá sabendo."
+      },
+      {
+        "startTime": 2480,
+        "endTime": 2502,
+        "speaker": "Lais Santos Soares",
+        "text": "O time de inteligência não tá sabendo. Então esse mensagem final aqui é muito importante para ver o máximo de pessoas possíveis a mais mas aí você fez um treinamento de comercial misturado com inteligência. Depois eu falo elas querem fazer um só de inteligência, depois 30 minutos, vocês tirarem as dúvidas."
+      },
+      {
+        "startTime": 2502,
+        "endTime": 2530,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu prefiro que vem todo mundo. E aí é Convidei ele mandei o treinamento para ele e vou esperar ele agendar enquanto isso cada etapa dessa que eu fiz eu tô movendo Card aqui no vitrix então se eu fiquei durante um dia a pessoa fique olhando onde estava esse cliente aqui no meu funil, ela sabe se ele ainda não tem material cadastrado."
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2560,
+        "speaker": "Lais Santos Soares",
+        "text": "A gente tá esperando ele enviar material ou se material já foi enviado. Se esse cliente já foi liberado onde ele precisava no da M. Se a gente já fez a liberação dos acessos dele mandou agenda e se ele tá só aguardando marcar o treinamento. Depois que esse treinamento é realizado com o cliente, eu mando ele aqui para eu ter um lugar onde eu fico aqui me aguardando preencher aqui essas informações."
+      },
+      {
+        "startTime": 2560,
+        "endTime": 2585,
+        "speaker": "Lais Santos Soares",
+        "text": "Geralmente eu faço uma sexta-feira fim do dia que é mais tranquilo, onde eu guardo as informações desse treinamento com quem que eu falei? Quem foram as pessoas. Como que foi o treinamento se foi bom? Se não for ruim, eu preciso de dar uma atenção desse cliente em qual ponto é para saber que com quem eu falei eu tenho essa informação para voltar depois Além disso nesse momento eu Coloca outros contatos aqui então."
+      },
+      {
+        "startTime": 2585,
+        "endTime": 2593,
+        "speaker": "Lais Santos Soares",
+        "text": "Poxa no treinamento eu descobri quem é o cara de marketing que eu posso mandar um e-mail para Mário lá de ativações falar fala com ele, eu descobri quem é."
+      },
+      {
+        "startTime": 2593,
+        "endTime": 2595,
+        "speaker": "Carolina Campos",
+        "text": "Aquela que tá aparecendo para gente andar de mim ainda, tá?"
+      },
+      {
+        "startTime": 2595,
+        "endTime": 2597,
+        "speaker": "Lais Santos Soares",
+        "text": "Ai perdão."
+      },
+      {
+        "startTime": 2597,
+        "endTime": 2599,
+        "speaker": "Carolina Campos",
+        "text": "Eu imaginei que era tratado."
+      },
+      {
+        "startTime": 2602,
+        "endTime": 2630,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu consigo identificar quem são as pessoas e encaminhar para outros treinamentos ou para outras ações no dia? Então geralmente que vocês vão ver que tem o contato do diretor comercial as pessoas estão identificadas. O treinamento fica aqui que eu vou te mostrar. Também a nossa coisinhas específicas do cliente financeiro também tá avisando sobre alguma coisa."
+      },
+      {
+        "startTime": 2630,
+        "endTime": 2664,
+        "speaker": "Lais Santos Soares",
+        "text": "A gente comunicar e esse cliente entra aqui numa fila numa automação de pílulas de conhecimento a Campos fez para a gente essa automação juntos. A gente escreveu algumas mensagens. de Pílulas que o cliente pode fazer quando começar na obra. Então ele pode colocar uma promoção ele pode integrar com o sistema dele, ele pode marcar um treinamento com time dele essas mensagens são separadas de que as casa cinco dias sete dias."
+      },
+      {
+        "startTime": 2665,
+        "endTime": 2688,
+        "speaker": "Carolina Campos",
+        "text": "É sem sempre que entrou um cliente novo, ele vai ficar dentro desse processo e ele continua sendo da Laís durante pelo menos 30 dias tá? Então em 30 dias pode mudar a pessoa dentro da empresa e ela vai precisar reinar ela vai treinar é o cara não entendeu? Alguma coisa do treinamento normalmente a comunicação sempre vai ser com ela para a gente conseguir manter e ver que agora sim, o cara tá pronto."
+      },
+      {
+        "startTime": 2688,
+        "endTime": 2693,
+        "speaker": "Carolina Campos",
+        "text": "Ele tá ganhando o gol Live dele, tá?"
+      },
+      {
+        "startTime": 2693,
+        "endTime": 2712,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu tenho também o coluna de falar para eu lembrar de falar desse cliente. Geralmente eu marco uma segunda reunião para ele vir em torno de 15 dias, vamos comparecem outros comparecem, mas a gente chama e depois quando dá um mês eu mando ele para um Boeing. E aí a PIS recebe esse cliente lá no funil."
+      },
+      {
+        "startTime": 2712,
+        "endTime": 2730,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí começa Outra área de tratamento com esse cliente. Então esse é o meu fluxo aqui em um balde. Se tem alguma pergunta de como liberar cliente da Oi como usar o admin?"
+      },
+      {
+        "startTime": 2730,
+        "endTime": 2730,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá tranquilo."
+      },
+      {
+        "startTime": 2732,
+        "endTime": 2767,
+        "speaker": "Lais Santos Soares",
+        "text": "E agora eu vou mostrar como que eu dou esse treinamento, o que que eu foco aqui quando eu dou treinamento com cliente então eu sempre começo primeiro início de tudo, eu converso com cliente para falar com ele, como que a obra funciona? Eu acho que começar o treinamento sem isso daqui é perda de tempo ele entender que nós vamos nas incorporadoras que a gente aborda todo mundo e a gente tem todos os lançamentos da região mapeados com todas as informações os materiais e que está disponível no aplicativo e no site para os corretores."
+      },
+      {
+        "startTime": 2767,
+        "endTime": 2808,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu também explico que agora que ele é um cliente pagante ele tá dentro do sistema de todas as imobiliárias então vários parceiros da hora, né? E que qualquer imobiliária que ele conhecer hoje na rua, ele pode tirar para ela e falar olha clica aqui nesse link e eu vou te Colocar todos os meus produtos cadastrados da sua RM e vou manter eles atualizados de graça com você, então toda vez que eu trocar uma foto na hora vai trocar dentro do CRM desse cliente então a imobiliária ela tá economizando o tempo, né? E você tá garantindo que o teu cliente final."
+      },
+      {
+        "startTime": 2808,
+        "endTime": 2837,
+        "speaker": "Lais Santos Soares",
+        "text": "Tá vendo a informação mais atualizado possível? Já fizeram aí eu abordagem. Eu também explica que vai dar certo no aplicativo no CNM e que a gente aqui na cereja do bolo entrega inteligência de mercado também que a maioria dos clientes depois que eu entrei na plataforma é a maioria."
+      },
+      {
+        "startTime": 2838,
+        "endTime": 2856,
+        "speaker": "Carolina Campos",
+        "text": "Depois depois daí já vamos ver para atualizar essa apresentação e já colocar a inteligência de mercado inteligência não a inteligência artificial do prm. Que aí a gente já puxa isso fechou só para lembrar eu vou anotar aqui. Sim, sim."
+      },
+      {
+        "startTime": 2864,
+        "endTime": 2880,
+        "speaker": "Lais Santos Soares",
+        "text": "que tem sempre lembrar para ele em todos os momentos possíveis que tenham o aplicativo também então se ele tá lá na rua. Ah, mas o cara de inteligente do mercado precisa não tem aplicativo. Você tá lá na rua e ele quer mostrar que esse colega dele. Olha tem um empreendimento aqui do lado."
+      },
+      {
+        "startTime": 2880,
+        "endTime": 2901,
+        "speaker": "Lais Santos Soares",
+        "text": "Vê que a planta ele consegue no celular. No aplicativo também tem mapa? Mostra para ele que dá para buscar por empresa por imóvel. A maioria não sabe acha só para buscar pelo nome da empresa. Vem aqui em tudo e é nesse momento que eu aviso que a gente consegue anunciar das ações então revenda de cliente."
+      },
+      {
+        "startTime": 2901,
+        "endTime": 2929,
+        "speaker": "Lais Santos Soares",
+        "text": "Cliente tá passando para frente a humanidade quer revender a gente consegue anunciar tem unidades. Aqui em estágio a gente tem construção pronto usada e aqui no final eu dou atenção para o filtro de tipologia, então o corretor se ele for um corretor que vende investimento, ele pode clicar aqui em estúdio e ver tudo que tem."
+      },
+      {
+        "startTime": 2929,
+        "endTime": 2952,
+        "speaker": "Lais Santos Soares",
+        "text": "E outro filtro que eu dou atenção é o filtro de lata de entrega corretor consegue falar assim. Ai cliente quer mudar até Junho de 2025, que que vai entregar até aquela data e essa informação aqui é muito importante na Incorporadora lembrar de atualizar. Aqui em oportunidades. Eu também mostro o filtro de promoção."
+      },
+      {
+        "startTime": 2952,
+        "endTime": 2979,
+        "speaker": "Lais Santos Soares",
+        "text": "Nesse tudo que tiver dentro desse filtro João Isa nela, a gente vai fazer um disparo para base inteira de corretores contando sobre essa promoção A cada 15 dias. Né, então, por exemplo tudo que tem promoção tem um etiqueta eu consigo entrar aqui na etiqueta. E ver qual que é conteúdo da promoção acontece, né? Eles não coloca nada escrito."
+      },
+      {
+        "startTime": 2979,
+        "endTime": 3006,
+        "speaker": "Lais Santos Soares",
+        "text": "Então a gente fala aí para eles divulgarem mesmo tem muita promoção de valor. E tem promoção de bônus de X por cento na unidade e Eu sempre gosto de dar exemplos, tá? Eu vejo que carece muito de exemplos aquilo que eles podem colocar então bônus de X por cento na unidade um bônus de comissão sorteio de iPhone é uma cozinha decorada para o cliente a documentação gratuita tudo isso é uma promoção que ele pode anunciar."
+      },
+      {
+        "startTime": 3006,
+        "endTime": 3028,
+        "speaker": "Lais Santos Soares",
+        "text": "Também Deixa aberto durante apresentação esses e-mails aqui são os modelos. Então eu tenho aqui um exemplo de promoção da semana. Aqui o cliente tem algo que House está anunciando desconto se ela tá anunciando batom levou eu gosto de mostrar para o cliente para ele entender. Que que é isso, que promoção é essa que eu tô colocando."
+      },
+      {
+        "startTime": 3028,
+        "endTime": 3046,
+        "speaker": "Lais Santos Soares",
+        "text": "Então, com certeza. Vocês recebem isso aqui, eu acho chega toda quarta-feira aí no teu e-mail e você salva em para mostrar para o cliente. Quando ele tivesse tão legal, que meio é esse. E por que que eu falo dúvida? Porque eles também recebem esse meio aqui. Esse meio aqui com o banner bonitinho."
+      },
+      {
+        "startTime": 3046,
+        "endTime": 3074,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso aqui é uma ativação digital. Isso não é o e-mail das promoções que estão liberados para clientes ideais também de novo. Vocês vão atender clientes DL isso aqui só tá disponível para cliente ideal. Isso aqui é um plus que a gente vende no plano. Você consegue impactar a base inteira de corretores? A cada 15 dias incluso dentro do plano sem cobrar nada a mais."
+      },
+      {
+        "startTime": 3074,
+        "endTime": 3102,
+        "speaker": "Lais Santos Soares",
+        "text": "aqui então é um exemplo de ativação, não é um exemplo de Desse desses também tem o imóvel para renda e minha casa minha vida, os corretores as incorporadoras gostam muito desses filtros tá principalmente na Minha Casa Minha Vida. Você imagina o corretor conseguir clicar e ver tudo que tá dentro da faixa do programa do programa, né? Que aí eu vou entrar geralmente, pode falar."
+      },
+      {
+        "startTime": 3103,
+        "endTime": 3135,
+        "speaker": "Carol Pizzano",
+        "text": "Só para reforçar que essa parte da promoção também pessoal, eu uso muito com os clientes. Não precisa ser um batedor pode ser uma comunicação de abertura distante de vendas um café da manhã especial um treinamento focado, tá? Então eu sempre falo que promoção é só o título, mas o e-mail na verdade é uma comunicação para o mercado que já tá dentro do pacote dele que aí ele pode usar a gente teve no final do ano passado, arrecadação de brinquedos é várias atividades sociais também com essa com esse input."
+      },
+      {
+        "startTime": 3141,
+        "endTime": 3183,
+        "speaker": "Lais Santos Soares",
+        "text": "Tô aqui dentro da página de um produto. E eu sempre mostro para eles. O que que tem dentro dessa página? O que que é uma página bonita que é uma página cheia de informação, então é uma página que tem tudo virtual é uma página que tem vídeos para o corretor acessar, o produto é uma página que tem plantas e eu sempre falo organicamente o corretor vai querer ver o teu produto mais tem mais informações se ele tem mais plantas aqui mais perspectivas desse empreendimento, ele consegue mostrar para o cliente dele mais com detalhe conseguir convencer esse cliente fazer uma visita."
+      },
+      {
+        "startTime": 3183,
+        "endTime": 3218,
+        "speaker": "Lais Santos Soares",
+        "text": "Então mas Quanto mais a Incorporadora conseguir trazer isso materiais melhor para o corretor se interessar por esse entendimento conseguir achar um cliente interessado também. Tem uma capinha aqui como chegar que vocês devem crescer lá no aplicativo no aplicativo dá para abrir o Google Maps. Esse é perto de onde correr tatua, vê se aperta de onde o cliente falou que queria morar aqui, a gente também tem o contato comercial sempre mostra variando WhatsApp."
+      },
+      {
+        "startTime": 3218,
+        "endTime": 3243,
+        "speaker": "Lais Santos Soares",
+        "text": "Fala assim testa aí para ver se tá funcionando. Para ele ficar geralmente o feedback fala direto comigo. Fala direto com Você eu nunca deixe de pedir ele para ficar falar é diferente de fazer ele abrir aqui ver fala direto com ele. Tem a comissão pfpj, então sempre vai ser Alto dos corretores."
+      },
+      {
+        "startTime": 3243,
+        "endTime": 3267,
+        "speaker": "Lais Santos Soares",
+        "text": "Eles vão ficar com medo de ir no seu produto sem saber a comissão. Manda para o mercado, qual que Confissão que você tá ele vai receber tem os tipos disponíveis isso daqui pessoal. Não é digitado por uma pessoa ninguém digitou essa informação aqui então se o cliente falar eu quero que arredonda aqui para 650."
+      },
+      {
+        "startTime": 3267,
+        "endTime": 3315,
+        "speaker": "Lais Santos Soares",
+        "text": "Não tem como essa informação, ela está vindo de dentro da tabela que é Incorporadora mandou para gente você quer atualizar este valor aqui da parte de ele precisa atualizar a tabela dele. Que é muito a pergunta muito frequente, também quero mudar aquele a partir. Esse a partir de também vem da tabela essas características aqui também então lá na tabela é o time de operações quando ele pega esse produto ele vai tipo criar um CPF para cada unidade e cada CPF tem sua característica de tamanho preço quantidade dormitórios e doces então precisa mudar lá no cadastro do empreendimento, tá que é Um textinho."
+      },
+      {
+        "startTime": 3315,
+        "endTime": 3345,
+        "speaker": "Lais Santos Soares",
+        "text": "s Aqui eu também gosto de mostrar o botãozinho de compartilhar isso que faz um sucesso. Então a gente mostra para Incorporadora. Que um corretor ele consegue ter acesso a uma página do teu produto bonitinha com todas as informações pertinentes para clientes. Para cliente ou seja. Cadê a tabela sumiu não tá aqui cada comissão comissão também."
+      },
+      {
+        "startTime": 3345,
+        "endTime": 3368,
+        "speaker": "Lais Santos Soares",
+        "text": "Sumiu, gente não vê comissão. Ah, mas se tivesse uma promessa para cliente para cliente. Essa essa aba que aparece aqui para o cliente, ele não precisa fazer login não tem nenhuma menção de hora ou aqui, então é uma página com produto do Incorporadora completo e o nome do corretor que ele tá mandando para o cliente dele."
+      },
+      {
+        "startTime": 3368,
+        "endTime": 3394,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí também eu gosto de fazer um aumento aqui de merchan que olha Às vezes tem gerente que entra em contato comigo da vida, aí eu vi a página do meu produto com o contato de outro corretor que não eu. E aí é claro que você viu esse esse corretor? Ele tá fazendo tráfego pago em cima dessa página aqui para capturar ali para trazer cliente para você roupa."
+      },
+      {
+        "startTime": 3394,
+        "endTime": 3440,
+        "speaker": "Lais Santos Soares",
+        "text": "Que maravilha então vai gostei. Também chega muito essa daí de vira uma página todo contato. Então já aviso no treinamento logo que também gente é Nossa, vou fechar aqui. E vou entrar dentro de um coisinha de sal aqui, eu tô liberada não tem já. Outra coisa importante de analisar saberem é que a liberação de usuários hoje em dia demora em torno de 10 minutos para refletir dentro da área do cliente então quando você liberar mais de mim vai demorar 10 minutos para o cliente ver de fato a área do cliente lá na página dele."
+      },
+      {
+        "startTime": 3440,
+        "endTime": 3460,
+        "speaker": "Lais Santos Soares",
+        "text": "E em termos de cs e lembra de se liberar na Incorporadora antes de ir para lá. Aqui eu tenho editar que é o botão que vai permitir o cliente editar algumas informações hoje em dia está muito simples antes, eu tive que lembrar ele de ter um virtual aqui, já tá lembrando ele tá claro que tem o espaço que tem um público alvo tem um espaço."
+      },
+      {
+        "startTime": 3460,
+        "endTime": 3483,
+        "speaker": "Lais Santos Soares",
+        "text": "Para o vídeo e aqui tem um lugar de colocar a tabela, você sabe em como editar a tabela de um produto essa parte aqui. Tem muita dúvida. É o que a gente mais recebe aqui cliente novo. Como que o cliente vai fazer ele vai clicar aqui em abrir e depois seguir esse espaço o primeiro passo é abrir uma tabela."
+      },
+      {
+        "startTime": 3483,
+        "endTime": 3514,
+        "speaker": "Lais Santos Soares",
+        "text": "No Google chips e alterar as informações ele precisa seguir o modelo das duas primeiras colunas então aí decidir que quero chamar esse apartamento 402b vai perder toda a configuração o produto vai dar bug ele precisa. Então seguir esse modelo seguir essa formatação de Números aqui estão vendo que não tem vírgula no número, né? Colocou um amigo aqui vai dar errado."
+      },
+      {
+        "startTime": 3514,
+        "endTime": 3547,
+        "speaker": "Lais Santos Soares",
+        "text": "Vender uma unidade é simplesmente excluir a linha. E tudo isso que eu tô falando tá escrito aqui. Tá aí precisa salvar mas não precisa já salva automaticamente é na nuvem. Outra coisa Às vezes o cliente vai lá na tabela que ele criou no Excel dele cheia de fórmula. Dá um control V aqui vem o número da Fórmula não vai funcionar tem que ser o número puro aqui ó numeral."
+      },
+      {
+        "startTime": 3547,
+        "endTime": 3574,
+        "speaker": "Lais Santos Soares",
+        "text": "Aí também dá para trazer um valor promocional que valor promocional é esse pessoal. É aquele valor que fica tajado. De 250 mil por 230 está já é esse valor de promoção aqui ele dispara o gatilho dos e-mails de 15 em 15 dias não dispara. Só dispara o gatilho aquela promoção que você clica lá e editar e fazer."
+      },
+      {
+        "startTime": 3574,
+        "endTime": 3604,
+        "speaker": "Lais Santos Soares",
+        "text": "Aí incorporado veio aqui fez edição. Não Salvo, só saiu e vem aqui validado, tipo, finalizei a atualização da minha tabela. E depois ele pode ele tem duas opções ou ele faz um upload da tabela própria aquele PDF bonitinho com a logo dele que ele geralmente compartilha com o mercado é só ele trazer aqui ou ele pode gerar uma tabela da órgão, mas essa tabela da hora é feiosa."
+      },
+      {
+        "startTime": 3604,
+        "endTime": 3637,
+        "speaker": "Lais Santos Soares",
+        "text": "Ela é bem simplinha, ela vai ter lá três linhas não vai ter longa Incorporadora então. E depois ele vai solicitar a publicação, que que aparece sempre aqui a Incorporadora que só veio aqui e fez upload da tabela aí depois fala assim, mas não mudou o valor. Porque realmente esse é piloto de tabela, ele é só um espelho, ele é uma máscara ele não limpa os valores com o sistemas das imobiliárias o aplicativo e o site."
+      },
+      {
+        "startTime": 3637,
+        "endTime": 3646,
+        "speaker": "Lais Santos Soares",
+        "text": "O que faz a mudança de valor efetivo é o passo 1. Então eu trazer uma tabela aqui, não é Bona de realizar o passo 1."
+      },
+      {
+        "startTime": 3650,
+        "endTime": 3658,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu tenho uma dúvida é esse passo um é aquela tabela que a gente tem dentro do app do celular."
+      },
+      {
+        "startTime": 3663,
+        "endTime": 3668,
+        "speaker": "Lais Santos Soares",
+        "text": "Também sim a tabela digital."
+      },
+      {
+        "startTime": 3668,
+        "endTime": 3668,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá E ela não atualiza a tabela que"
+      },
+      {
+        "startTime": 3668,
+        "endTime": 3671,
+        "speaker": "Lais Santos Soares",
+        "text": "É isso aí"
+      },
+      {
+        "startTime": 3671,
+        "endTime": 3674,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "tá nos arquivos."
+      },
+      {
+        "startTime": 3674,
+        "endTime": 3674,
+        "speaker": "Lais Santos Soares",
+        "text": "isso"
+      },
+      {
+        "startTime": 3674,
+        "endTime": 3675,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "tá"
+      },
+      {
+        "startTime": 3676,
+        "endTime": 3698,
+        "speaker": "Lais Santos Soares",
+        "text": "Ela vai atualizar se ele ficar em gerar a tabela oro geralmente, eles não fazem isso, né? Mas o raciocínio é o contrário é de trás para frente do que você tá falando é Incorporadora muda o valor na nessa tabela aqui e depois ela vem aqui e traz a própria."
+      },
+      {
+        "startTime": 3698,
+        "endTime": 3699,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "beleza"
+      },
+      {
+        "startTime": 3701,
+        "endTime": 3709,
+        "speaker": "Lais Santos Soares",
+        "text": "A gente não tem um sistema que faz a leitura do pdf jogos. acho que"
+      },
+      {
+        "startTime": 3710,
+        "endTime": 3735,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pessoal aproveitando essa parte aqui tá o maior desenvolvimento que está em andamento na orla hoje, se chama tem um terminal chama eda que é edição dos dados do anunciantes, tá? É toda essa parte aqui de gestão, né? Já estão nas fotos dos vídeos das tabelas disponibilidades. A gente vai entrar o nível de ar se a sanidade é do decorado se essa autoridade aqui tem fotos do decorado então fotos por unidade."
+      },
+      {
+        "startTime": 3735,
+        "endTime": 3762,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então esse é hoje o maior desenvolvimento que está em andamento na empresa. E que é um ponto de fragilidade. Nossa com relação ao concorrente, tá que é a gente teve uma laterasse, né? Janela que eles falaram lá, o wv é o espelho oficial, né? Então por isso que eu tô querendo fazer aquela reunião com eles a gente quer a gente precisa fazer uma reunião de desenvolvimento com alguém que usa do wv bastante nessa função justamente para ver se tudo que a gente tá colocando no ar."
+      },
+      {
+        "startTime": 3762,
+        "endTime": 3783,
+        "speaker": "Eduardo Stringhini",
+        "text": "Atende uma substituição do WD então essa parte ela é só para vocês que estão comentando no comercial, né a gente ficar atento que esse aqui é o Hoje a coisa mais importante que tá em andamento na ONU é o uso desse dashboard aqui é fazer com que a órgão seja a ferramenta oficial de gestão dos anúncios."
+      },
+      {
+        "startTime": 3783,
+        "endTime": 3790,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então assim hoje hoje o que tem é isso que ela está mostrando mas o que a gente tem para o que tá para vinha bem mais coisa."
+      },
+      {
+        "startTime": 3794,
+        "endTime": 3818,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É só para aproveitar o gancho do o Mateus da alta, eu acho que vai servir bastante tanto que a gente teve um papo bem interessante ontem em relação a as habilidades do sistema é e eu queria saber se nessas atualização de edições que a gente vai ter a gente vai ter as atualizações das fotos dos Empreendimentos em geral."
+      },
+      {
+        "startTime": 3818,
+        "endTime": 3820,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não sabia se a gente vai conseguir"
+      },
+      {
+        "startTime": 3820,
+        "endTime": 3823,
+        "speaker": "Eduardo Stringhini",
+        "text": "Saber se você tem o quê?"
+      },
+      {
+        "startTime": 3823,
+        "endTime": 3827,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "fazer as atualizações das fotos os clientes conseguem fazer as atualizações."
+      },
+      {
+        "startTime": 3827,
+        "endTime": 3838,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vai vai esse vai ser o primeiro que vai entrar no ar. É o é a gente quebrou. O desenvolvimento que ele é bem grande e o que vai sair no ar primeiro agora é a parte de atualização de fotos."
+      },
+      {
+        "startTime": 3838,
+        "endTime": 3841,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não perfeito é H2. Ela me apontou isso."
+      },
+      {
+        "startTime": 3841,
+        "endTime": 3853,
+        "speaker": "Eduardo Stringhini",
+        "text": "Esse vai ser o agente vai começar por esse fotos e qual é a foto de destaque foto de capa as três que ficam ali na hora e tal ordenamento de fotos vídeos também plantas, né? Então isso vai ser o primeiro que vai entrar."
+      },
+      {
+        "startTime": 3859,
+        "endTime": 3891,
+        "speaker": "Lais Santos Soares",
+        "text": "Estamos ansiosos por esse momento então tabela hora tá aqui. Sempre quando fazer referência isso aqui. Eu chamo ele tá pelado preços e disponibilidades. Também tenho contato comercial eles conseguem clicar nesse botão aqui, olha tornar esse contato padrão, vai para todos os Empreendimentos a comissão também da Petrolina, padrão e outras informações só dá para atualizar a data de entrega e a data de lançamento hoje em dia."
+      },
+      {
+        "startTime": 3891,
+        "endTime": 3916,
+        "speaker": "Lais Santos Soares",
+        "text": "Lembrando que a data de lançamento ela passa por uma revisão do Marcelo ele pessoalmente. Confere se faz sentido essa data de lançamento porque isso impacta nossos números na iene. Então Incorporadora solicita a gente avalia, mas a data de entrega muda na hora. Depois a gente tem como no IPTU e o registro da incorporação porque ele é ri lá embaixo."
+      },
+      {
+        "startTime": 3916,
+        "endTime": 3940,
+        "speaker": "Lais Santos Soares",
+        "text": "É tudo que não tem um botão de editar precisa encaminhar para gente ou seja as fotos precisam caminhar para a gente a descrição. A gente esqueceu também precisa encaminhar presente. As plantas os arquivos e aqui também tem Website geralmente na Incorporadora também precisa encaminhar para gente tudo que não tem botão de editar."
+      },
+      {
+        "startTime": 3940,
+        "endTime": 3966,
+        "speaker": "Lais Santos Soares",
+        "text": "E agora eu vou. Aqui na área do cliente e aqui eu gosto de lembrar que a área do cliente só aparece para usuários das incorporadoras. Então o corretor normal ele não vê área do cliente como eu sei que uma pessoa tá sem acesso à área do cliente é motivo pelo qual ela tá sem acesso porque ela não é usuários nenhum incorporador."
+      },
+      {
+        "startTime": 3966,
+        "endTime": 3988,
+        "speaker": "Lais Santos Soares",
+        "text": "Então de cara aqui na página principal da hora, se ele não for usuário área do cliente não aparece. É você vai lá na de milho libera para ele, guarda 10 minutos, ele vai ver todas essas páginas a primeira página de meus Imóveis, ela vai mostrar um relatório de como que o produto tá performando na hora geralmente de 30 ou 90 dias."
+      },
+      {
+        "startTime": 3988,
+        "endTime": 4009,
+        "speaker": "Lais Santos Soares",
+        "text": "Nos últimos 90 dias então aqui tá mostrando que 239 corretores acessaram copaíba nos últimos 30 dias eles acessaram 608 vezes que é o número de vezes que eles abriram a página do empreendimento clicar em uma tabela em alguma coisa e aqui é o número de download de arquivos que eles fizeram."
+      },
+      {
+        "startTime": 4009,
+        "endTime": 4033,
+        "speaker": "Lais Santos Soares",
+        "text": "Aqui é o número de compartilhamentos com os clientes. Lembra daquela setinha de compartilhar que eu tirei uma página com o nome do corretor. Aqui são os concorrentes eu vou mostrar o que significa e as imobiliárias parceiras 310 imobiliária já estão Integradas recebendo esse produto lá dentro do CRM delas de maneira atualizada e gratuita para elas."
+      },
+      {
+        "startTime": 4033,
+        "endTime": 4069,
+        "speaker": "Lais Santos Soares",
+        "text": "Esse zero Integradas aqui sempre vai aparecer ele é mais uma coisa de CTA quando o cliente é DL tem um CTA aqui falando. Você tem zero a Integradas e 310 não Integradas tá então para adeais aqui sempre vai ser zerado. É o cliente consegue clicar aqui em editar e acessar a página do produto é um microbutão, né? Vocês estão vendo aí a menor botão já visto na face da terra é muito difícil para os clientes verem são dificuldades."
+      },
+      {
+        "startTime": 4069,
+        "endTime": 4073,
+        "speaker": "Lais Santos Soares",
+        "text": "Falar para ele vir meus Imóveis e clicar em editar."
+      },
+      {
+        "startTime": 4073,
+        "endTime": 4075,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente já tá cantando isso foi isso."
+      },
+      {
+        "startTime": 4076,
+        "endTime": 4094,
+        "speaker": "Lais Santos Soares",
+        "text": "Tá então só questão para a gente levar em breve de novo. Eu falei que esse botão tava pequeno, mas fizeram alteração para ele ficar maior laranja. Ficou bom aí reclamaram da cor laranja que não tava na paleta aí viraram esse botão virou uma bolinha com um lapisinho assim, então ficou ruim de novo."
+      },
+      {
+        "startTime": 4094,
+        "endTime": 4102,
+        "speaker": "Carol Pizzano",
+        "text": "Pedindo para aumentar. Porque isso tem impactado? na parte de suporte"
+      },
+      {
+        "startTime": 4103,
+        "endTime": 4131,
+        "speaker": "Lais Santos Soares",
+        "text": "Imagina, né? Fica difícil de eu falar com ele acessar o cliente meus Imóveis e editar o tamanho do hospital. Então, geralmente eu tenho falar tem dado certo é falar com ele para acessar a página do próprio empreendimento. o intercesso a página do empreendimento e clica no botão de editar que é laranja lá Ver ele vê a página do produto em ver detalhes, ele vai lá para página de desempenho se essa página aqui no topo."
+      },
+      {
+        "startTime": 4131,
+        "endTime": 4147,
+        "speaker": "Lais Santos Soares",
+        "text": "Aqui em desempenho muda e vê qual produto que ele quer ver aqui só vão aparecer os produtos da Incorporadora que a gente está falando. É você lembra? Qual que foi aquele aquela questionamento do Dalton? Foi algum produto desses aqui?"
+      },
+      {
+        "startTime": 4149,
+        "endTime": 4150,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Na verdade foi no geral."
+      },
+      {
+        "startTime": 4150,
+        "endTime": 4186,
+        "speaker": "Lais Santos Soares",
+        "text": "tá Aleatório aqui a gente tem a primeira coisa de você mandar um variando ao longo do tempo tá sempre mostrando nos últimos três meses quando você passa o mouse. Aqui você vê que nesta semana aqui do dia 25/08 66 corretores acessaram a página desse produto são os usuários então o usuário único eles acessaram quantas vezes 132 vezes então esse número de sessões é sempre maior que o número."
+      },
+      {
+        "startTime": 4186,
+        "endTime": 4207,
+        "speaker": "Lais Santos Soares",
+        "text": "Eles visualizaram contato ou seja, ele clicaram naquela naquele botãozinho de exibir duas vezes a mais baixa a visualização. É pode ser que esse corretor já ter esse contato salvo no Acre ou já salvou no contato dele, não tem nada a ver e quantidade de download 75 download de arquivos foram feitos."
+      },
+      {
+        "startTime": 4207,
+        "endTime": 4209,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso responde tua dúvida."
+      },
+      {
+        "startTime": 4211,
+        "endTime": 4221,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, na verdade o ponto que a gente estava conversando lá era na árvore de corretores, a gente tava olhando ao contrário. Dores aí não aparecem todos os corretores da expressão e ele e o"
+      },
+      {
+        "startTime": 4221,
+        "endTime": 4221,
+        "speaker": "Lais Santos Soares",
+        "text": "Vou chegar."
+      },
+      {
+        "startTime": 4223,
+        "endTime": 4234,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "ponto que a gente estava conversando na reunião, ele não tem uma visão isolada dos corretores que acessaram somente os Empreendimentos deles. Então, ele teria que excluir os Empreendimentos dos concorrentes."
+      },
+      {
+        "startTime": 4239,
+        "endTime": 4264,
+        "speaker": "Lais Santos Soares",
+        "text": "Aqui embaixo a gente tem grupos de concorrentes é um incorporador consegue inserir aqui até cinco concorrentes dele, então vai ficar aqui ordenado de 1 a 6, como que ele serve concorrente ele busca que o nome do produto ou no empreendimento da Incorporadora, mas atenção é aqui esse drop aqui não aparece em todos os produtos você imagina se fosse a vibra, né? Tem milhares de produtos."
+      },
+      {
+        "startTime": 4264,
+        "endTime": 4294,
+        "speaker": "Lais Santos Soares",
+        "text": "Como é que esse drop apareceu tudo então buscar pelo nome da Incorporadora, não é ideal. Busca pelo nome do empreendimento. Ah, esqueci o nome do empreendimento. S em termos de audiência o copaíba tá com maior audiência que o Gris o que que mede a audiência essa segunda coluna o foguinho tá medindo quão quente esse produto tá para os corretores na plataforma."
+      },
+      {
+        "startTime": 4294,
+        "endTime": 4317,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso aqui é um score interno da hora, o que mede as interações dos corretores com aquele empreendimento então por exemplo quando um corretor ele clica na página do produto. Marca um ponto aí ele baixa a tabela marca dois clica no contato marca três o somatório desses pontos hipotéticos vai dar 1.606 para essa para Esse empreendimento."
+      },
+      {
+        "startTime": 4317,
+        "endTime": 4340,
+        "speaker": "Lais Santos Soares",
+        "text": "Então esse produto Aqui tá quase três vezes até em três vezes mais audiência do que Depois a gente tem as vendas nos últimos três nos últimos 12 meses vendas nos últimos meses nos últimos dois meses nos últimos três meses assim por diante de onde vem essa informação aqui da tabela espelho que se Incorporadora."
+      },
+      {
+        "startTime": 4340,
+        "endTime": 4361,
+        "speaker": "Lais Santos Soares",
+        "text": "Depois a gente tem o vso desse empreendimento tá mostrando quão rápido esse produto tá sendo vendido ao longo do tempo desde que ele foi lançado então copaíba nesse mês vendeu em média 3.68% do estoque dele, desde que ele foi lançado há 21 meses atrás até hoje já foram vendidas de 17 unidades em 21."
+      },
+      {
+        "startTime": 4361,
+        "endTime": 4396,
+        "speaker": "Lais Santos Soares",
+        "text": "Depois a gente tem o preço médio quadrado o estoque e a última vez que esse produto foi atualizado na hora. Aí não quero ver o Gris aqui é só pagar Esse empreendimento. Aí para que que a gente cria o grupo de concorrentes, além de ter essa visualização aqui em termos de audiência, ela vai mostrar para Incorporadora a lista de corretores mais ativos no grupo essa lista ela pode ter até sem contato de corretores que fizeram interações com os Empreendimentos do grupo nos últimos 90 dias."
+      },
+      {
+        "startTime": 4396,
+        "endTime": 4426,
+        "speaker": "Lais Santos Soares",
+        "text": "Então se aqui eu só tenho dois empreendimentos. Se a lista mostra até 100. Com certeza a lista tem menos de 100 corretores. Ela vai ter quanto mais corretores, quanto mais corretores tiverem aqui Empreendimentos? acrescento mais mais Empreendimentos maior fica a lista chegando até sem contato de corretores Lá isso fiz uma negociação aqui com colaboradora, eu quero que eles vejam uma lista com mais de 100 corretores."
+      },
+      {
+        "startTime": 4426,
+        "endTime": 4461,
+        "speaker": "Lais Santos Soares",
+        "text": "Quero ver eu quero entregar para eles 200 esse mês. Aí é entre Diego e vocês mas eu vou ensinar a fazer. A gente vai dentro do admin. E vem aqui. Dentro de anunciante também. Tem aqui em área do cliente e adiciono. Então quantidade de corretoras mais ativos vai dar 200 para ele mostrando nos últimos 120 dias."
+      },
+      {
+        "startTime": 4461,
+        "endTime": 4474,
+        "speaker": "Lais Santos Soares",
+        "text": "Então dá para personalizar até sem corretores nos últimos 90 dias. Se não tiver nada aqui tá mostrando."
+      },
+      {
+        "startTime": 4475,
+        "endTime": 4490,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá e uma dúvida, se ele tirar os por exemplo, eu adicionei em uma semana três concorrentes. Fiz a uma todos lá e eu faço atualização para outros três concorrentes na outra semana, ele não vai me aparecer outros outros corretores."
+      },
+      {
+        "startTime": 4490,
+        "endTime": 4494,
+        "speaker": "Lais Santos Soares",
+        "text": "Muda o empreendimento aqui muda essa"
+      },
+      {
+        "startTime": 4494,
+        "endTime": 4499,
+        "speaker": "Diego Diehl",
+        "text": "É uma vez por semana isso né? Que eu escutei uma vez que"
+      },
+      {
+        "startTime": 4508,
+        "endTime": 4512,
+        "speaker": "Lais Santos Soares",
+        "text": "falo, cheguei aqui fiz contato com"
+      },
+      {
+        "startTime": 4512,
+        "endTime": 4516,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 4516,
+        "endTime": 4546,
+        "speaker": "Lais Santos Soares",
+        "text": "esses sem corretores. Eu quero renovar esse Eu quero novos corredores traz novos nomes aqui de Empreendimentos. Aqui eu pronunciava isso aqui, vamos ver o Perseu o PC. Ele marcou 47 pontos nos Empreendimentos do grupo. Não sei quais ainda. Ele é de Curitiba da Imóveis e aqui na frente na setinha azul."
+      },
+      {
+        "startTime": 4546,
+        "endTime": 4572,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu consigo ver mais detalhes sobre esse corretor. O perceu eu tenho crédito dele muito provavelmente, só ele não é corretor tá? Já fica a dica. Errado aqui geralmente é o Incorporadora alguma coisa assim tem a bolinha de novo. Eu falo com cliente, clica na bolinha. Ah, mas dá para falar direto aqui com coletor."
+      },
+      {
+        "startTime": 4572,
+        "endTime": 4603,
+        "speaker": "Lais Santos Soares",
+        "text": "E aqui em últimas atividades nos seus Empreendimentos, você vê o que que o Perseu fez nos Empreendimentos devem Incorporadora, você não vê o que que ele fez nos empreendimento de outras incorporadoras. Dá para filtrar por empreendimento se ele tivesse acessado drop também estaria aparecendo aqui. Nesse cantinho aqui interesse dos concorrentes vão estar aparecendo só os Empreendimentos."
+      },
+      {
+        "startTime": 4603,
+        "endTime": 4636,
+        "speaker": "Lais Santos Soares",
+        "text": "Estaria aparecendo todos os produtos da alta e aí eu consigo ver se esse corretor além do copaíba acessou outros Empreendimentos e eu também consigo clicando na setinha de mais ver quantos pontos que esse corretor está marcando em cada empreendimento do grupo que eu acabei de criar. Então já sabe que o Perseu ele tá hiper focado aqui no copaíba marcou 47 pontos e foi só três pontos aqui no Brito, provavelmente ele deu só uma olhadinha no deles marcou 47."
+      },
+      {
+        "startTime": 4637,
+        "endTime": 4642,
+        "speaker": "Lais Santos Soares",
+        "text": "Aí o que é sempre importante dá uma dica para o incorporado. Como que ele vai usar isso? Pode falar."
+      },
+      {
+        "startTime": 4645,
+        "endTime": 4670,
+        "speaker": "Eduardo Stringhini",
+        "text": "Depois eu queria discutir um pouco essa parte aqui que eu acho que essa é uma das partes que mais da discussão na aula até agora com a central do prm. Os clientes que estão fechando prm estão ficando com fala tá lá, mas não tá aqui no sistema já eu acho que vai valer a gente em deve segunda-feira tentar agendar uma reunião de discussão mais profunda disso aqui inclusive com o time de deve trazer um pouco do feedback do comercial de quem tá vendendo prm."
+      },
+      {
+        "startTime": 4670,
+        "endTime": 4671,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí eu queria ver contigo também"
+      },
+      {
+        "startTime": 4671,
+        "endTime": 4671,
+        "speaker": "Lais Santos Soares",
+        "text": "é a próxima parte, mas é"
+      },
+      {
+        "startTime": 4671,
+        "endTime": 4680,
+        "speaker": "Eduardo Stringhini",
+        "text": "lá, eles quantos clientes que confundem com essa parte aqui. É uma coisa. É a próxima é a próxima também."
+      },
+      {
+        "startTime": 4681,
+        "endTime": 4707,
+        "speaker": "Lais Santos Soares",
+        "text": "A próxima essa aqui é tranquila, essa que eles entendem acham legal, então sempre falo assim, olha quando você for abordar o Perseu, você já sabe vamos dizer que ele estava marcando mais pontos no concorrente. Você já sabe que ele tá mais interessado em Corrente, você já vai falar com ele que Poxa Minha cozinha é maior do que desse concorrente, eu tenho ainda coisa no segundo andar, o outro só tem no primeiro."
+      },
+      {
+        "startTime": 4707,
+        "endTime": 4732,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu tô com promoção ativa aqui nesse produto esse mês tô dando comissão. Então já dá uma ideia para um incorporador para o gerente parcerias, o que que esse corretor tá buscando se é perfil também, né? Perfil sem trabalho esse padrão de empreendimento. Aí agora já tem o primeiro bug aqui ó, quando eu cliquei."
+      },
+      {
+        "startTime": 4732,
+        "endTime": 4738,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu não volto para desempenho eu volto para a aba de corredores. Que já foi reportado."
+      },
+      {
+        "startTime": 4738,
+        "endTime": 4745,
+        "speaker": "Eduardo Stringhini",
+        "text": "Isso aí o botão digitar ali, você tem que levar a segunda e bater o pé Ali né? Essas coisas aí tem que Já já anota aí para segunda."
+      },
+      {
+        "startTime": 4745,
+        "endTime": 4753,
+        "speaker": "Lais Santos Soares",
+        "text": "aí Eu já trouxe algumas vezes na reunião tá precisando de vocês então."
+      },
+      {
+        "startTime": 4753,
+        "endTime": 4753,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vou te apoiar pode trazer de novo."
+      },
+      {
+        "startTime": 4754,
+        "endTime": 4786,
+        "speaker": "Lais Santos Soares",
+        "text": "Por favor, é aqui em corretores mais nativos, voltei então de verdade na outra água aqui, eu tenho um. Essa aqui eu tenho muito trabalho explicado você já perceberam mas são geralmente explico assim essa lista aqui ela atualizada todo dia. Sempre mostrando os corretores mais quentes a cada 90 dias então pode ser que daqui 90 dias eu percebo não seja um dos corretores mais ativos e você simplesmente vai perder o contato do perfil."
+      },
+      {
+        "startTime": 4786,
+        "endTime": 4806,
+        "speaker": "Lais Santos Soares",
+        "text": "Que que você faz para não perder o contato do terceiro? Você vem aqui responsável, coloca o teu nome como responsável e isso vai estar salvando a pessoa automaticamente na tua base, quando você coloca um responsável pelo seu caminho aqui para me de corretores e daqui ele não sai mesmo."
+      },
+      {
+        "startTime": 4806,
+        "endTime": 4827,
+        "speaker": "Lais Santos Soares",
+        "text": "Então eu vou por esse lado do salvar o contato na base não perderem. Isso me ajuda, só que a gente tem outro problema, se eu não vim para cá na hora ele vem daqui uns minutinhos tá? Você é um problema também para mostrar que funciona usando isso, então deve ser ótimo."
+      },
+      {
+        "startTime": 4827,
+        "endTime": 4845,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí eu volto e falo mais uma coisa. O responsável ele ajuda a fazer mais uma coisinha, vamos dizer que você tem um time de gerentes e você quer distribuir os contatos desse corretores para esse time, então você vem aqui e dá uns pelos para Lucas outros para Maria."
+      },
+      {
+        "startTime": 4845,
+        "endTime": 4877,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso está encarterando mais com o Lucas, toda vez que o Lucas essa hora ele vai ver só os contatos do Perseu e do Michael, ele não vai ver os contatos da Maria. Outra coisa eu mostro de novo aqui em cima. Também não vem na hora então é difícil para mostrar então aqui é mais fácil de mostrar quando vocês estão liberados só dentro da Incorporadora."
+      },
+      {
+        "startTime": 4877,
+        "endTime": 4900,
+        "speaker": "Lais Santos Soares",
+        "text": "Tá aqui também, tem um problema não dá para buscar o empreendimento então se eu tô falando de uma vibra assim fica caótico, eu tava no drop não né? Eu tava no Copaíba. Não precisa clicar em só dentro do perfil do Incorporadora, já vai dar bom. Então, aí eu entro aqui de novo e fala."
+      },
+      {
+        "startTime": 4900,
+        "endTime": 4920,
+        "speaker": "Lais Santos Soares",
+        "text": "Olha lá Lucas está com Maria o terceiro está com Leandro tá com Maria a pessoa tá com Lucas. E agora? Toda vez que eu percebo acessar a hora ele vai ver o contato do Lucas, ele não vai ver mais o contato do gerente de parcerias que tava lá inicialmente."
+      },
+      {
+        "startTime": 4920,
+        "endTime": 4940,
+        "speaker": "Lais Santos Soares",
+        "text": "Então assim eu já garanto que eu criei um canal de comunicação super direto Lucas percebeu. Então são três coisas que eu falo sobre utilização desse responsável. Ficou claro Edu janela João não é fácil, mas"
+      },
+      {
+        "startTime": 4940,
+        "endTime": 4942,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ficou assim."
+      },
+      {
+        "startTime": 4942,
+        "endTime": 4967,
+        "speaker": "Lais Santos Soares",
+        "text": "Aí tem mais um Contorno que você falou, né? Eu não consigo ver os contatos dos corretores que estão acessando só o meu produto. Vem aqui em atividades no empreendimento nos últimos 90 dias. Isso aqui são a última vez que o corretor acessou o teu empreendimento nos últimos 90 dias."
+      },
+      {
+        "startTime": 4967,
+        "endTime": 4978,
+        "speaker": "Lais Santos Soares",
+        "text": "ordena aqui de maior para menor E aí sem atividade no seu empreendimento tem atividades? simples contornato"
+      },
+      {
+        "startTime": 4981,
+        "endTime": 5001,
+        "speaker": "Diego Diehl",
+        "text": "O problema que eu via agora que o Diego respondeu lá no discord. É que não para essa para essa aba aí não vai quando o cara só Acesso. O cara tem que fazer tipo."
+      },
+      {
+        "startTime": 5001,
+        "endTime": 5003,
+        "speaker": "Lais Santos Soares",
+        "text": "responsável igual você."
+      },
+      {
+        "startTime": 5003,
+        "endTime": 5010,
+        "speaker": "Diego Diehl",
+        "text": "Não também. Vai quando ele faz umas outras coisas lá que ele mandou um discord ele."
+      },
+      {
+        "startTime": 5010,
+        "endTime": 5010,
+        "speaker": "Lais Santos Soares",
+        "text": "Não acabou de ver."
+      },
+      {
+        "startTime": 5010,
+        "endTime": 5022,
+        "speaker": "Diego Diehl",
+        "text": "vai quando eu levo. Não só isso não. Só isso uma forma de levar corretor para lá. Pelo que eu entendi é fazer isso que está falando."
+      },
+      {
+        "startTime": 5022,
+        "endTime": 5023,
+        "speaker": "Lais Santos Soares",
+        "text": "E a outra?"
+      },
+      {
+        "startTime": 5023,
+        "endTime": 5035,
+        "speaker": "Diego Diehl",
+        "text": "a outra forma É quando o cara entra no até esqueci, eu mandei um print para você. Das relações que o Diego falou."
+      },
+      {
+        "startTime": 5035,
+        "endTime": 5045,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "empreendimento o corretor responde algum quiz de empreendimento o corretor acesse o portal de parceiro vinculada anunciante ou anunciante atribui como a leis atribuiu."
+      },
+      {
+        "startTime": 5045,
+        "endTime": 5046,
+        "speaker": "Carol Pizzano",
+        "text": "Isso a gente não tem mais tá?"
+      },
+      {
+        "startTime": 5047,
+        "endTime": 5049,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ah tá, beleza."
+      },
+      {
+        "startTime": 5049,
+        "endTime": 5075,
+        "speaker": "Diego Diehl",
+        "text": "Eu percebi que não tem mas aí a proposta Portal. e atribuindo é então, eu acho que esse é um ponto importante João e Eu já vi quando eu aprendi, eu escutei que esse corretor acessasse o empreendimento. Ele iria para essa lista e eu vi alguns clientes que eles acham que é isso."
+      },
+      {
+        "startTime": 5075,
+        "endTime": 5080,
+        "speaker": "Diego Diehl",
+        "text": "Né o Mateus, por exemplo o problema que a gente teve com ele foi esse, né?"
+      },
+      {
+        "startTime": 5080,
+        "endTime": 5080,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 5080,
+        "endTime": 5105,
+        "speaker": "Diego Diehl",
+        "text": "Ele daí eu tô pensando em como. Como bloquear isso, né Às vezes uma comunicação aí na tela? Porque o que o que eu no lugar dele se gostaria de fazer? Eu estaria hoje aqui clicaria em uma dificuldade que eu tenho na verdade é como saber o corretor. Quer ser só agora."
+      },
+      {
+        "startTime": 5105,
+        "endTime": 5118,
+        "speaker": "Diego Diehl",
+        "text": "Porque daí eu pego ele no time e daí eu não consigo é só se ele tiver aí né? Mas Mas o cara que acessou o empreendimento hoje, agora eu não consigo. Só para deixar uma piada."
+      },
+      {
+        "startTime": 5121,
+        "endTime": 5145,
+        "speaker": "Lais Santos Soares",
+        "text": "Então assim em momento nenhum, a gente está mostrando para as incorporadoras. Quem são os corretores que acessaram o empreendimento dele, a gente não tá fazendo essa promessa. Estou prometendo nesse tempo, a gente está mostrando para as incorporadoras os sem corretores que fizeram interações com o grupo de concorrentes que ele criou nos últimos 90 dias."
+      },
+      {
+        "startTime": 5145,
+        "endTime": 5151,
+        "speaker": "Eduardo Stringhini",
+        "text": "Essa é a confusão porque o prm ele é isso, né? Entrou no produto já cai lá no prm né, então."
+      },
+      {
+        "startTime": 5151,
+        "endTime": 5152,
+        "speaker": "Diego Diehl",
+        "text": "Não também Edu."
+      },
+      {
+        "startTime": 5152,
+        "endTime": 5152,
+        "speaker": "Lais Santos Soares",
+        "text": "então"
+      },
+      {
+        "startTime": 5152,
+        "endTime": 5155,
+        "speaker": "Eduardo Stringhini",
+        "text": "É também tem um porém não é bem assim."
+      },
+      {
+        "startTime": 5155,
+        "endTime": 5160,
+        "speaker": "Diego Diehl",
+        "text": "que fazer cinco atividades dentro do produto para gerar o Card."
+      },
+      {
+        "startTime": 5160,
+        "endTime": 5162,
+        "speaker": "Eduardo Stringhini",
+        "text": "depende"
+      },
+      {
+        "startTime": 5162,
+        "endTime": 5162,
+        "speaker": "Diego Diehl",
+        "text": "Depende da configuração."
+      },
+      {
+        "startTime": 5162,
+        "endTime": 5163,
+        "speaker": "Eduardo Stringhini",
+        "text": "depende"
+      },
+      {
+        "startTime": 5163,
+        "endTime": 5164,
+        "speaker": "Carolina Campos",
+        "text": "Um score né?"
+      },
+      {
+        "startTime": 5164,
+        "endTime": 5176,
+        "speaker": "Giuliano Milano",
+        "text": "mas essa desculpa essa parte eu tô com dúvida quando ele entra se ele baixar, por exemplo uma apresentação do produto aí o prm já ativa, né e"
+      },
+      {
+        "startTime": 5176,
+        "endTime": 5177,
+        "speaker": "Diego Diehl",
+        "text": "Ainda não."
+      },
+      {
+        "startTime": 5177,
+        "endTime": 5178,
+        "speaker": "Giuliano Milano",
+        "text": "Ainda não."
+      },
+      {
+        "startTime": 5178,
+        "endTime": 5180,
+        "speaker": "Eduardo Stringhini",
+        "text": "Depende da configuração."
+      },
+      {
+        "startTime": 5180,
+        "endTime": 5203,
+        "speaker": "Diego Diehl",
+        "text": "É é a gente tá com o controle na mão Gil. É uma preocupação que a gente tem é ao longo do tempo. Se a gente pensa se tivesse 50 incorporadoras com prm. E aí o corretor entra no produto recebe um whats. Então já dá uma já colocou uma configuração ali de do cara ter que fazer cinco vezes alguma coisa para a gente criar."
+      },
+      {
+        "startTime": 5203,
+        "endTime": 5207,
+        "speaker": "Eduardo Stringhini",
+        "text": "pontuação"
+      },
+      {
+        "startTime": 5207,
+        "endTime": 5208,
+        "speaker": "Diego Diehl",
+        "text": "Não sei se é pontos o Diego."
+      },
+      {
+        "startTime": 5208,
+        "endTime": 5209,
+        "speaker": "Eduardo Stringhini",
+        "text": "5 pontos"
+      },
+      {
+        "startTime": 5213,
+        "endTime": 5219,
+        "speaker": "Diego Diehl",
+        "text": "Eu queria confirmar depois se aponte porque quando me responder o Fernando me respondeu foi vezes."
+      },
+      {
+        "startTime": 5219,
+        "endTime": 5219,
+        "speaker": "Giuliano Milano",
+        "text": "Mas mesmo eu como incorporador se eu"
+      },
+      {
+        "startTime": 5219,
+        "endTime": 5222,
+        "speaker": "Diego Diehl",
+        "text": "cinco vezes algo"
+      },
+      {
+        "startTime": 5222,
+        "endTime": 5228,
+        "speaker": "Giuliano Milano",
+        "text": "quiser que a cada acesso ele receba ainda não é possível eu posso configurar assim."
+      },
+      {
+        "startTime": 5229,
+        "endTime": 5244,
+        "speaker": "Diego Diehl",
+        "text": "Você pode pedir para a gente avaliar? Aí ó, a gente tá no começo aí em Goiânia algo assim, a gente pode por lá e o cara fez. Qualquer coisa já abordou é uma configuração integração com o Fernando. Daí a gente só é bom o parentes e falar assim, cara."
+      },
+      {
+        "startTime": 5244,
+        "endTime": 5251,
+        "speaker": "Diego Diehl",
+        "text": "Vou te dar essa força agora, mas não dá para a gente deixar isso não, os corretores vão ficar maluco então depois a gente regula de novo."
+      },
+      {
+        "startTime": 5251,
+        "endTime": 5255,
+        "speaker": "Giuliano Milano",
+        "text": "É mais que uma questão estratégica de opção. Nossa de"
+      },
+      {
+        "startTime": 5255,
+        "endTime": 5269,
+        "speaker": "Carolina Campos",
+        "text": "Sim, é porque senão vai acabar banalizando sabe? Não vai falar com o cara que realmente clicou interagiu é um cara que às vezes o cara pode só clicar errado, sabe? Ah eu cliquei ele na linha de baixo, eu queria andar de cima, ele já vai receber um WhatsApp, então a gente"
+      },
+      {
+        "startTime": 5269,
+        "endTime": 5269,
+        "speaker": "Giuliano Milano",
+        "text": "É eu digo mais tá certo?"
+      },
+      {
+        "startTime": 5269,
+        "endTime": 5272,
+        "speaker": "Carolina Campos",
+        "text": "pensa mais na interação."
+      },
+      {
+        "startTime": 5272,
+        "endTime": 5282,
+        "speaker": "Giuliano Milano",
+        "text": "Eu digo mais não aos poucos são incorporador pequeno, eu não tenho tanta audiência tanto acesso ainda então qualquer audiência é válida, né?"
+      },
+      {
+        "startTime": 5282,
+        "endTime": 5287,
+        "speaker": "Diego Diehl",
+        "text": "A gente pode fazer um plano de lançamento nos primeiros três meses de prm aí o cara entrou menos a"
+      },
+      {
+        "startTime": 5287,
+        "endTime": 5288,
+        "speaker": "Giuliano Milano",
+        "text": "Sim, beleza, não legal, tá claro."
+      },
+      {
+        "startTime": 5288,
+        "endTime": 5292,
+        "speaker": "Diego Diehl",
+        "text": "borda daí ajusta até abordagem para ser uma abordagem mais amigável."
+      },
+      {
+        "startTime": 5301,
+        "endTime": 5316,
+        "speaker": "Eduardo Stringhini",
+        "text": "É uma configuração que a gente faz no contrato do cliente, tá? No caso da exo HS é um ela tem o CRM integrado Plus ativo e atividade mínima de 5 pontos para gerar o líder, entendeu?"
+      },
+      {
+        "startTime": 5316,
+        "endTime": 5323,
+        "speaker": "Diego Diehl",
+        "text": "Não não sei se é pontos eu tô escrito atividade, eu não sei se a atividade significa pontos é uma dúvida."
+      },
+      {
+        "startTime": 5323,
+        "endTime": 5323,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ah pode ser."
+      },
+      {
+        "startTime": 5323,
+        "endTime": 5331,
+        "speaker": "Diego Diehl",
+        "text": "Porque o Fernando me falou atividades que pode ser que tenha uma atividade que gera cinco pontos e aí se o cara fizer alguma coisa é mas eu acho que"
+      },
+      {
+        "startTime": 5331,
+        "endTime": 5331,
+        "speaker": "Eduardo Stringhini",
+        "text": "tá vamos tirar hoje assim a dúvida"
+      },
+      {
+        "startTime": 5333,
+        "endTime": 5341,
+        "speaker": "Diego Diehl",
+        "text": "não tá o Fernando me mandou um texto aqui. Ele falou que ele tem que fazer cinco coisas. tá"
+      },
+      {
+        "startTime": 5341,
+        "endTime": 5358,
+        "speaker": "Eduardo Stringhini",
+        "text": "de qual Alejandro e aqui é o seguinte ó ele no caso da hs ele tá limitando em 50 corredores por dia então é configurável em cada integração, entendeu? E no caso no caso da Z2 é outra história também, a gente tem que ver isso aí nós envolvimento com as redores lá."
+      },
+      {
+        "startTime": 5358,
+        "endTime": 5360,
+        "speaker": "Eduardo Stringhini",
+        "text": "Isso aqui é o da plu mesmo."
+      },
+      {
+        "startTime": 5360,
+        "endTime": 5362,
+        "speaker": "Giuliano Milano",
+        "text": "Ah então esse daí é o da Clones ainda, né?"
+      },
+      {
+        "startTime": 5362,
+        "endTime": 5364,
+        "speaker": "Eduardo Stringhini",
+        "text": "Esse é o da plumes é do gdd peso?"
+      },
+      {
+        "startTime": 5364,
+        "endTime": 5365,
+        "speaker": "Giuliano Milano",
+        "text": "tá"
+      },
+      {
+        "startTime": 5365,
+        "endTime": 5369,
+        "speaker": "Diego Diehl",
+        "text": "Mas é que daí só serve integrado que vai mudar, né? Mas acho que é a mesma configuração."
+      },
+      {
+        "startTime": 5369,
+        "endTime": 5370,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso aí então."
+      },
+      {
+        "startTime": 5370,
+        "endTime": 5392,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou. é só é bom falar isso porque Na hora da venda né? Tipo o que tava acontecendo no prm e o cara olhava eu tive uma audiência de mil corretores. Por que que só criou 300? então é complicado, mas que"
+      },
+      {
+        "startTime": 5396,
+        "endTime": 5419,
+        "speaker": "Lais Santos Soares",
+        "text": "Então vamos ajustar aqui o nosso vídeo também que eu tava falando que era para qualquer corretor que fizesse interações ou seja, vou mudar para algumas interações. É o interessante aqui é que eu pego este momento esses exato momento aqui que eu saio dessa planilha dessa lista para essa para falar de PRF."
+      },
+      {
+        "startTime": 5419,
+        "endTime": 5438,
+        "speaker": "Lais Santos Soares",
+        "text": "Então olha aí, eles vem com essas questionamentos lá, mas eu não vejo atenção os corretores que entraram no produto você vê sim, só ordenar aqui e ver quem são eles mas agora a gente tem a iniciativa do prn você consegue abordar os corretores. Aí eu falava no instante que eles entram no produto."
+      },
+      {
+        "startTime": 5438,
+        "endTime": 5443,
+        "speaker": "Lais Santos Soares",
+        "text": "Mudar um pouquinho assim que eles fazem muitas interações algumas interações com teu problema."
+      },
+      {
+        "startTime": 5444,
+        "endTime": 5459,
+        "speaker": "Carolina Campos",
+        "text": "Acho que pode até deixar em aberto muito isso Laís nem se Prende muito porque aí depois entra no detalhe fala olha no prm você vai ter interação com quem interagir com seu produto. Aí não precisa falar a quantidade nem nada porque nem a gente sabe direito certinho ainda fala."
+      },
+      {
+        "startTime": 5459,
+        "endTime": 5463,
+        "speaker": "Carolina Campos",
+        "text": "Segue o discurso normal. E aí depois a gente ajusta lá na ponta. Acho que é melhor, né Diego?"
+      },
+      {
+        "startTime": 5464,
+        "endTime": 5472,
+        "speaker": "Diego Diehl",
+        "text": "É eu acho que é você, pode tipo, pode ser você pode porque na hora do fechamento eu esclareço bem daí, né?"
+      },
+      {
+        "startTime": 5472,
+        "endTime": 5472,
+        "speaker": "Carolina Campos",
+        "text": "isso"
+      },
+      {
+        "startTime": 5472,
+        "endTime": 5478,
+        "speaker": "Diego Diehl",
+        "text": "Então só não falar que ele tem 20 mil acessos a gente vai abordar 20 mil vezes que eu já falei isso, mas agora já tô re."
+      },
+      {
+        "startTime": 5480,
+        "endTime": 5526,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas aqui quando eles vêm fazer tantos contornos para obter as respostas que eles querem cada Contorno desse eu falo mas o PRF resolve. A o responsável tem que pôr na mão. Põe para você. Ah eu Perco essa base não vai perder vai ficar lá dentro. Aqui tem mais uma coisa tá chamando ela quando eu coloco o responsável aqui para Maria não ver os contatos do Lucas."
+      },
+      {
+        "startTime": 5526,
+        "endTime": 5549,
+        "speaker": "Lais Santos Soares",
+        "text": "Ela teria que ter um acesso de Editora ou leitora. Se ela tiver uma série de administradora ela vê todos os contatos aqui todos os responsáveis aqui, tá? Se a Maria tiver um acesso de Editora ela não consegue fazer essa operação que eu fiz de colocar um responsável no produto ela nem vê que esse botão fica desabilitado para ela."
+      },
+      {
+        "startTime": 5549,
+        "endTime": 5574,
+        "speaker": "Lais Santos Soares",
+        "text": "Quando a Maria acessar a página esta página aqui se ela foi Editora ela não tá vendo esse botãozinho azul aqui. Que tá porque esse cliente já tá com Lucas. Tá então a permissão de editor. Ela diferencia um nível de acesso que se tem a lista de corretores mais ativos."
+      },
+      {
+        "startTime": 5576,
+        "endTime": 5610,
+        "speaker": "Diego Diehl",
+        "text": "Esse é um ponto que para mim de deve não sei como resolver ainda, mas Tipo normalmente quem é de mim é gerente, né? É a pessoa diretor que seja e a galera que realmente quer falar com o corretor que está na ponta não enxerga nada. Então no fundo o cara da ponta tá dependente do líder dele que nem o cara da ponta tem tempo às vezes de entrar na página e o líder dele menos ainda né? Então, às vezes é reforçar, tipo usa nela e João quando tem equipes com mais."
+      },
+      {
+        "startTime": 5610,
+        "endTime": 5621,
+        "speaker": "Diego Diehl",
+        "text": "Gente assim com gestor cara do cara da ponta ali onde por alguém de apoio para entrar e sair dividindo os corretores de uma vez porque isso é rápido, né dividir corretora rápido que demora é entrar em"
+      },
+      {
+        "startTime": 5621,
+        "endTime": 5622,
+        "speaker": "Lais Santos Soares",
+        "text": "Então, eu quando eu percebo que"
+      },
+      {
+        "startTime": 5622,
+        "endTime": 5624,
+        "speaker": "Diego Diehl",
+        "text": "contato com cada um e tal."
+      },
+      {
+        "startTime": 5628,
+        "endTime": 5653,
+        "speaker": "Lais Santos Soares",
+        "text": "uma rixa muito forte interna a gente corretores eu falo gerente entra aqui uma vez por semana. Coloca todos os contatos aqui no nome dos seus gerentes. E toda semana que você entrar vai aparecer aqui um contato novo um contato que vazio está vazio, quer dizer que ele ainda não está associado com gerente você põe aí na tua roleta."
+      },
+      {
+        "startTime": 5653,
+        "endTime": 5676,
+        "speaker": "Lais Santos Soares",
+        "text": "Tem outro detalhe para usar essa lista o topo da lista é mais quente que a base. Tá vendo esse ordenados por pontuação por interação os gerente colocar aqui no topo o mesmo se o coordenador colocar aqui no topo do mesmo jeito. O gente ficar aqui embaixo tá com contato pior."
+      },
+      {
+        "startTime": 5676,
+        "endTime": 5707,
+        "speaker": "Lais Santos Soares",
+        "text": "treinamento É outra maneira de o gerentes conseguiram trabalhar, essa lista é vir aqui e ordenar por enunciante anunciante é a própria Incorporadora então o corretor que marcou mais pontos no anunciante tá fazendo mais interações com aquela Incorporadora se marcou 0 pontos quer dizer que ele não viu aquele produto ele viu o produto e o concorrente."
+      },
+      {
+        "startTime": 5707,
+        "endTime": 5735,
+        "speaker": "Lais Santos Soares",
+        "text": "Atividade dos últimos 90 dias no grupo então se a pessoa tá sem atividades aqui nessa coluna e tá com alguma atividade aqui significa que esse corretor ele fez algum acesso no grupo e não no produto da incorporador. Aí como vocês falaram toda vez que um cliente acesso Portal corretor acesso Portal ele vem para cá automaticamente ele vem para essa lista, não precisa fazer associação de responsável."
+      },
+      {
+        "startTime": 5735,
+        "endTime": 5753,
+        "speaker": "Lais Santos Soares",
+        "text": "Só que aí tem um marcador aqui é o origem vai virar Portal. Quando a origem virar Portal. Incorporadora consegue baixar a lista só daqueles corretores que acessaram o portal dela."
+      },
+      {
+        "startTime": 5753,
+        "endTime": 5755,
+        "speaker": "Eduardo Stringhini",
+        "text": "É origem ou marcador Portal?"
+      },
+      {
+        "startTime": 5755,
+        "endTime": 5783,
+        "speaker": "Lais Santos Soares",
+        "text": "É origem. Esse marcador ele serve para aquelas para eles saberem? É a origem ela vira a origem Portal. Tá então tem como eu baixar essa lista aqui de corretores essa aqui não porque original se for Portal A Origem. Você consegue marcar ou você contrata para você?"
+      },
+      {
+        "startTime": 5783,
+        "endTime": 5785,
+        "speaker": "Diego Diehl",
+        "text": "Muito bom Laís."
+      },
+      {
+        "startTime": 5785,
+        "endTime": 5791,
+        "speaker": "Lais Santos Soares",
+        "text": "Qualquer momento que eu tenho agora eu coloco o carrinho. Agora eu vi aqui"
+      },
+      {
+        "startTime": 5791,
+        "endTime": 5793,
+        "speaker": "Carolina Campos",
+        "text": "Antes de ser antes de ser essa ela era vendedora gente, não esqueça."
+      },
+      {
+        "startTime": 5794,
+        "endTime": 5803,
+        "speaker": "Diego Diehl",
+        "text": "É eu sei cara é ser nem vou brincar aqui, mas eu acho que em vendas vai ter lugar em inglês."
+      },
+      {
+        "startTime": 5803,
+        "endTime": 5804,
+        "speaker": "Lais Santos Soares",
+        "text": "olha só"
+      },
+      {
+        "startTime": 5804,
+        "endTime": 5810,
+        "speaker": "Diego Diehl",
+        "text": "Brincando não gerar Intrigas."
+      },
+      {
+        "startTime": 5810,
+        "endTime": 5810,
+        "speaker": "Carolina Campos",
+        "text": "Nem vem na festa."
+      },
+      {
+        "startTime": 5810,
+        "endTime": 5812,
+        "speaker": "Diego Diehl",
+        "text": "a comissão é alta com"
+      },
+      {
+        "startTime": 5812,
+        "endTime": 5812,
+        "speaker": "Carolina Campos",
+        "text": "olho."
+      },
+      {
+        "startTime": 5816,
+        "endTime": 5816,
+        "speaker": "Diego Diehl",
+        "text": "Eu troco pelos janela brincadeira."
+      },
+      {
+        "startTime": 5824,
+        "endTime": 5826,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá em dia?"
+      },
+      {
+        "startTime": 5826,
+        "endTime": 5844,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu vou aqui agora em usuários. Vocês entenderam? Que que o contato corretor não vem automaticamente para cá, ele não vem de fato, só vem de fato para casa com portal para ele vir para cá precisa associar um responsável. Aí ele vem direto. E aí quando eles reclamam disso também."
+      },
+      {
+        "startTime": 5844,
+        "endTime": 5859,
+        "speaker": "Lais Santos Soares",
+        "text": "Fala assim, olha você tem uma lista de até sem contar esse corretores por Empreendimentos, você tem você tem sete Empreendimentos, você tem 700 contatos corredores para entrar em contato agora quando terminar a ligação. Aí acaba qualquer problema."
+      },
+      {
+        "startTime": 5859,
+        "endTime": 5861,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Foi exatamente isso que eu usei para acabar com o problema lá."
+      },
+      {
+        "startTime": 5864,
+        "endTime": 5872,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pessoal, vou ter que sair daqui que eu tenho que preparar para uma outra reunião. Valeu aí bom bom fim de Treinamento muito bom."
+      },
+      {
+        "startTime": 5872,
+        "endTime": 5874,
+        "speaker": "Carolina Campos",
+        "text": "Até mais."
+      },
+      {
+        "startTime": 5874,
+        "endTime": 5890,
+        "speaker": "Eduardo Stringhini",
+        "text": "Passa as ideias aí, eu acho que acho que tem uma discussão bem profunda a gente fazendo uma reunião sobre essa parte aqui do dashboard. Ainda mais agora vendendo os prêmios. Que por um lado a gente não pode deixar o produto tão bom que ele não converter ele mas por outro eu acho que tem uns ajustes pra gente fazer no produto."
+      },
+      {
+        "startTime": 5891,
+        "endTime": 5912,
+        "speaker": "Carolina Campos",
+        "text": "É talvez agora aproveitando que sempre vai ter esse gancho da Laís falando do prm talvez tenha um botãozinho ali adicionar usuário colocar mais um botãozinho contratar prm. Ela já vai com a puxando sabe? Ela vai estar puxando colocar em outra aba também."
+      },
+      {
+        "startTime": 5912,
+        "endTime": 5913,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso aí acabar com seus"
+      },
+      {
+        "startTime": 5913,
+        "endTime": 5915,
+        "speaker": "Diego Diehl",
+        "text": "É um control c né? É nem precisa melhorar nada precisa"
+      },
+      {
+        "startTime": 5915,
+        "endTime": 5916,
+        "speaker": "Eduardo Stringhini",
+        "text": "problemas."
+      },
+      {
+        "startTime": 5916,
+        "endTime": 5920,
+        "speaker": "Diego Diehl",
+        "text": "melhorar nada do produto aí não contrata o terreno que se resolve."
+      },
+      {
+        "startTime": 5920,
+        "endTime": 5927,
+        "speaker": "Eduardo Stringhini",
+        "text": "Acabar com seus problemas contratar o PR. Valeu pessoal, bom treinamento."
+      },
+      {
+        "startTime": 5927,
+        "endTime": 5927,
+        "speaker": "Giuliano Milano",
+        "text": "Valeu Edu"
+      },
+      {
+        "startTime": 5928,
+        "endTime": 5954,
+        "speaker": "Lais Santos Soares",
+        "text": "Já tô acabando tá? 50 aqui eu tô em usuários então aqui onde a Incorporadora consegue dar essas a outras pessoas só pode dar acesso a outras pessoas quem tiver permissão de administrador então se eu sou leitor nessa Incorporadora consigo dar acesso a outra pessoa eu consigo tirar as peças não consegue."
+      },
+      {
+        "startTime": 5954,
+        "endTime": 5985,
+        "speaker": "Lais Santos Soares",
+        "text": "Esse leitor aqui, olha só essa essa situação. O Rogério ele tá só como convidado significa que ele ainda não criou o cadastro na hora. Quando ele criar o cadastro ele ativo. Então, às vezes os próprios coordenadores ficam Poxa, mas falando não tá tendo contato. cadastro Agora eu vou aqui."
+      },
+      {
+        "startTime": 5985,
+        "endTime": 6013,
+        "speaker": "Lais Santos Soares",
+        "text": "vou reforçar mais uma vez se o pessoal tá com O usuário de leitor ele não vai conseguir ver. Essa setinha aqui nos corretores que não tiverem o nome dele ele só vê a setinha para o corretor que tiver com o nome dele como responsável. Ele também não consegue se associar ou associar outras pessoas nem a permissão."
+      },
+      {
+        "startTime": 6013,
+        "endTime": 6037,
+        "speaker": "Lais Santos Soares",
+        "text": "Então nem a permissão editor. Agora eu vou vir em distribuição aqui em distribuição, a gente tem a lista de todas as Imobiliários que já estão Integradas conectadas com essa Incorporadora direto. Essa lista aqui ela às vezes demora carregar, então é mais fácil. Você saberem o empreendimento. Ela carrega mais rápido."
+      },
+      {
+        "startTime": 6037,
+        "endTime": 6067,
+        "speaker": "Lais Santos Soares",
+        "text": "Então aqui eu tenho 466 imobiliárias que já estão recebendo Alfa residência lá dentro do CRM. Tá dentro do site dessa dessa Imobiliária, eu não sei a gente entrega no CRM a imobiliária precisa colocar do CRM dela para o site. Hoje em dia a maioria das imobiliárias já tem essa passagem aberta? Aqui esse número de corretores, pergunta muito pode falar."
+      },
+      {
+        "startTime": 6069,
+        "endTime": 6082,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É só aproveitar esse momento no caso essa passagem aberta quando a gente dispara se integração para essas imobiliárias de um empreendimento novo, ela já faz a publicação no site. Essa que seria a passagem aberta."
+      },
+      {
+        "startTime": 6082,
+        "endTime": 6085,
+        "speaker": "Lais Santos Soares",
+        "text": "É isso na teoria, né?"
+      },
+      {
+        "startTime": 6085,
+        "endTime": 6085,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 6085,
+        "endTime": 6096,
+        "speaker": "Lais Santos Soares",
+        "text": "Aqui eu tenho esse número de corretores que eles perguntam muito aí essa."
+      },
+      {
+        "startTime": 6096,
+        "endTime": 6097,
+        "speaker": "Diego Diehl",
+        "text": "Tirar isso daí, né?"
+      },
+      {
+        "startTime": 6097,
+        "endTime": 6113,
+        "speaker": "Lais Santos Soares",
+        "text": "É tirar essa achei tem dois corretores não significa que quando ela preencher o cadastro na hora ela bateu lá em dois e seguir o cadastro. Aí eu falo que você sabe como é que é o volume, né imobiliárias muda muito. então"
+      },
+      {
+        "startTime": 6113,
+        "endTime": 6127,
+        "speaker": "Diego Diehl",
+        "text": "Como que operadora pergunta cara? eu como que eu faço para Falar para o meu imobiliário se integrar com os meus produtos."
+      },
+      {
+        "startTime": 6127,
+        "endTime": 6129,
+        "speaker": "Lais Santos Soares",
+        "text": "Ai o que tinha que ter meu sonho de botão."
+      },
+      {
+        "startTime": 6129,
+        "endTime": 6132,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô pensando nisso demais, cara."
+      },
+      {
+        "startTime": 6132,
+        "endTime": 6134,
+        "speaker": "Lais Santos Soares",
+        "text": "Meu sonho de botar o convidado Imobiliária aqui."
+      },
+      {
+        "startTime": 6134,
+        "endTime": 6136,
+        "speaker": "Diego Diehl",
+        "text": "E você já pediu esse botão?"
+      },
+      {
+        "startTime": 6136,
+        "endTime": 6139,
+        "speaker": "Lais Santos Soares",
+        "text": "Já pedi algumas vezes. Mas quem sabe agora."
+      },
+      {
+        "startTime": 6139,
+        "endTime": 6140,
+        "speaker": "Diego Diehl",
+        "text": "para não ter que também e"
+      },
+      {
+        "startTime": 6140,
+        "endTime": 6144,
+        "speaker": "Lais Santos Soares",
+        "text": "Já falei com Bruno, eu fiz uma reunião com Bruno só para fazer esse pedido."
+      },
+      {
+        "startTime": 6144,
+        "endTime": 6148,
+        "speaker": "Diego Diehl",
+        "text": "Hoje como é que você falaria você fala para entrar em Barra integrações."
+      },
+      {
+        "startTime": 6149,
+        "endTime": 6176,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu falava antes de eu perceber que agora eu venho aqui e falo com ele assim ó, fala aí o Imobiliária. Você conhece é muito próximo de você, vamos pensar. Ela já está integrada contigo. Você é nova ainda, não tá recebendo o teu produto lá na base. Você vai clicar aqui em cima integrar CRM e copiar esse link enviar para Imobiliária e eles vão entrar neste link vê aqui."
+      },
+      {
+        "startTime": 6176,
+        "endTime": 6200,
+        "speaker": "Lais Santos Soares",
+        "text": "Qual o sistema que eles usam a maioria do sistema utilizados hoje no Brasil então aqui nessa lista. E aí essa Imobiliária vai falar. Ah, eu uso Imóveis, ela fica aqui solicitar frente as informações dela o nosso time dos Imobiliários entra em contato para fazer essa integração Colocar os produtos, né Incorporadora dentro do sistema, né Imobiliária e manter eles atualizados e isso é gratuito."
+      },
+      {
+        "startTime": 6201,
+        "endTime": 6212,
+        "speaker": "Diego Diehl",
+        "text": "tá e uma vez eu ouvi eu não sei se foi certo mas Alguma forma algum link da Incorporadora sugerir só os produtos dela ser integrados rola isso."
+      },
+      {
+        "startTime": 6212,
+        "endTime": 6218,
+        "speaker": "Lais Santos Soares",
+        "text": "Os mais espertos já falou isso na hora é mas não vão integrar só o meu vai integral de todo mundo."
+      },
+      {
+        "startTime": 6218,
+        "endTime": 6222,
+        "speaker": "Diego Diehl",
+        "text": "É então, acho que são um barreira que a gente tem."
+      },
+      {
+        "startTime": 6224,
+        "endTime": 6240,
+        "speaker": "Lais Santos Soares",
+        "text": "Assim eu já acho um passo muito lá na frente hoje, a gente tem uma coisa tão. Ruim de comunicar com a imobiliária só que é tão precisava melhorar tanto. E eu acho que esse passeio é muito à frente se a gente já fala."
+      },
+      {
+        "startTime": 6240,
+        "endTime": 6245,
+        "speaker": "Diego Diehl",
+        "text": "Mas hoje não tem né? Isso que eu quero entender. Hoje não tem algo diferente para Incorporadora indicar."
+      },
+      {
+        "startTime": 6245,
+        "endTime": 6246,
+        "speaker": "Lais Santos Soares",
+        "text": "Não."
+      },
+      {
+        "startTime": 6246,
+        "endTime": 6246,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 6246,
+        "endTime": 6253,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas eu acho que ela não vai deixar de indicar para não correr o risco de ter concorrente não."
+      },
+      {
+        "startTime": 6253,
+        "endTime": 6256,
+        "speaker": "Diego Diehl",
+        "text": "Que eu vejo hoje que pouquíssimas indicam tá vendo os Imobiliários"
+      },
+      {
+        "startTime": 6256,
+        "endTime": 6257,
+        "speaker": "Lais Santos Soares",
+        "text": "Mas você entendeu o que você"
+      },
+      {
+        "startTime": 6257,
+        "endTime": 6261,
+        "speaker": "Diego Diehl",
+        "text": "Integradas em Curitiba, ela não sobe. Sobe muito pouco."
+      },
+      {
+        "startTime": 6262,
+        "endTime": 6276,
+        "speaker": "Lais Santos Soares",
+        "text": "entendeu que a Incorporadora não tá sabendo em momento nenhum que existe essa opção. Cadê o tempo todo lugar nenhum que fala para ela que ela pode convidar uma imobiliária."
+      },
+      {
+        "startTime": 6276,
+        "endTime": 6276,
+        "speaker": "Diego Diehl",
+        "text": "A gente sim, porque usa todo dia né?"
+      },
+      {
+        "startTime": 6276,
+        "endTime": 6286,
+        "speaker": "Lais Santos Soares",
+        "text": "E aí nesse tanto de infância que eu falei com vocês hoje vocês acham que vocês vão lembrar disso aqui nesse link aqui."
+      },
+      {
+        "startTime": 6286,
+        "endTime": 6289,
+        "speaker": "Diego Diehl",
+        "text": "Mas a Incorporadora não."
+      },
+      {
+        "startTime": 6289,
+        "endTime": 6289,
+        "speaker": "Lais Santos Soares",
+        "text": "aí eu já deixei aberto aqui o Card"
+      },
+      {
+        "startTime": 6289,
+        "endTime": 6292,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 6292,
+        "endTime": 6296,
+        "speaker": "Lais Santos Soares",
+        "text": "que eu disse que eu mando para"
+      },
+      {
+        "startTime": 6296,
+        "endTime": 6298,
+        "speaker": "Diego Diehl",
+        "text": "Ah esse é um ponto bom, hein isso"
+      },
+      {
+        "startTime": 6298,
+        "endTime": 6299,
+        "speaker": "Lais Santos Soares",
+        "text": "moradoras"
+      },
+      {
+        "startTime": 6299,
+        "endTime": 6300,
+        "speaker": "Diego Diehl",
+        "text": "janelas João."
+      },
+      {
+        "startTime": 6305,
+        "endTime": 6310,
+        "speaker": "Lais Santos Soares",
+        "text": "O QR. Code leva para aquela página que eu acabei de mostrar Imobiliária escaneou."
+      },
+      {
+        "startTime": 6310,
+        "endTime": 6341,
+        "speaker": "Diego Diehl",
+        "text": "Isso daí ó, eu quero que a gente sente como processo padrão para todo o novo cliente é tipo ele vai contratar. E assim nas nossas palavras, ele tem que divulgar a hora do nos grupos dele para que a gente formente aí não precisa falar tem que porque eles não tem que nada, né, mas a gente tem que conseguir fazer com que isso aconteça aí viu? Você ali com a City com a m e talvez ele com a ebm agora né? Vai ter um evento não sei se a gente falou contigo já."
+      },
+      {
+        "startTime": 6341,
+        "endTime": 6353,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem que fomentar isso daí todos os clientes aí de prm de DDA de tudo assim o dwv faz isso sempre né? Manda o cardzinho dele lá já estão disponíveis e"
+      },
+      {
+        "startTime": 6355,
+        "endTime": 6367,
+        "speaker": "Lais Santos Soares",
+        "text": "Você vai ver que quando você entrar aqui na integração, ele sempre falam assim é a gente que tem que clicar aqui, não é a imobiliária que tem que clicar você vai disparar esse Card aqui para ela e ela tem."
+      },
+      {
+        "startTime": 6369,
+        "endTime": 6377,
+        "speaker": "Diego Diehl",
+        "text": "Você pode né? Liga para Imobiliária abre o formulário e coleta os dados da imobiliária para preencher formulário. Pode pode ser também?"
+      },
+      {
+        "startTime": 6377,
+        "endTime": 6386,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso aqui é trabalho eu faço para praças novas que tem poucas integrações. Hoje em dia."
+      },
+      {
+        "startTime": 6386,
+        "endTime": 6391,
+        "speaker": "Diego Diehl",
+        "text": "Você faria uma cópia disso daí entrega para a gente poder editar também."
+      },
+      {
+        "startTime": 6391,
+        "endTime": 6397,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu acho que eu não tenho essa permissão Campus consegue criar uma cópia."
+      },
+      {
+        "startTime": 6397,
+        "endTime": 6399,
+        "speaker": "Carolina Campos",
+        "text": "consigo"
+      },
+      {
+        "startTime": 6399,
+        "endTime": 6399,
+        "speaker": "Giuliano Milano",
+        "text": "Se a gente solicitar para vocês a"
+      },
+      {
+        "startTime": 6399,
+        "endTime": 6401,
+        "speaker": "Diego Diehl",
+        "text": "isso daí tem que"
+      },
+      {
+        "startTime": 6401,
+        "endTime": 6404,
+        "speaker": "Giuliano Milano",
+        "text": "gente passa o nome das incorporadoras e"
+      },
+      {
+        "startTime": 6404,
+        "endTime": 6419,
+        "speaker": "Carolina Campos",
+        "text": "É não que que a gente faz eu Libero para vocês um link de edição dentro do canva, cara, só entrar e mudar logo tá gente? Então é bem simples é bem fácil só para não ficar tudo nas meninas ali."
+      },
+      {
+        "startTime": 6419,
+        "endTime": 6422,
+        "speaker": "Giuliano Milano",
+        "text": "muda logo e o QR Code"
+      },
+      {
+        "startTime": 6422,
+        "endTime": 6433,
+        "speaker": "Carolina Campos",
+        "text": "Não quer ir com gel mesmo? Porque sempre vai para área da Integração da imobiliária é uma página Nossa de solicitação de integração. Então, só vai mudar logo mesmo."
+      },
+      {
+        "startTime": 6433,
+        "endTime": 6435,
+        "speaker": "Giuliano Milano",
+        "text": "na foto"
+      },
+      {
+        "startTime": 6435,
+        "endTime": 6436,
+        "speaker": "Carolina Campos",
+        "text": "Isso acho que você colocar ali"
+      },
+      {
+        "startTime": 6436,
+        "endTime": 6438,
+        "speaker": "Carol Pizzano",
+        "text": "E mudar a foto também do produto."
+      },
+      {
+        "startTime": 6439,
+        "endTime": 6455,
+        "speaker": "Carolina Campos",
+        "text": "compartilhar É verdade a foto do produto colocar ali em compartilhar, mas eu acho que ah sua conta tá na conta gratuita, né? Deixa comigo que eu tenho eu acho que eu tenho uma conta paga aqui e aí eu consigo colocar mais gente."
+      },
+      {
+        "startTime": 6455,
+        "endTime": 6457,
+        "speaker": "Carol Pizzano",
+        "text": "Mostra o de Incorporadora para eles também."
+      },
+      {
+        "startTime": 6457,
+        "endTime": 6470,
+        "speaker": "Lais Santos Soares",
+        "text": "Isso aí criou esse aqui também que já é a outra ponta, né? Quem não tem sistema. Que o corretor que tá na rua, como que ele acessa a hora via aplicativo no site?"
+      },
+      {
+        "startTime": 6471,
+        "endTime": 6493,
+        "speaker": "Carol Pizzano",
+        "text": "E tem também o pessoal com textinho que fala do portal de parceria dele, tá então é trocar a foto a logo e o do celularzinho desce lá aí só para mostrar para eles é o print de como que apresenta no celular o aplicativo. Então são esses três pontos mas é super rápido."
+      },
+      {
+        "startTime": 6493,
+        "endTime": 6504,
+        "speaker": "Carolina Campos",
+        "text": "É até depois se precisar vou montar um templatezinho assim material mostrando. E aí qualquer coisa a gente pode fazer uma reuniãozinha assim ainda com a pisando para ela mostrar como que muda. Como que altera caso ninguém tenha familiaridade aqui com câmbio."
+      },
+      {
+        "startTime": 6510,
+        "endTime": 6519,
+        "speaker": "Diego Diehl",
+        "text": "Essa daí gente é a principal ação estratégica que a gente tem na nossa mão. Talvez a coisa mais importante que tenha essa parte."
+      },
+      {
+        "startTime": 6521,
+        "endTime": 6529,
+        "speaker": "Carolina Campos",
+        "text": "Mais simples ó não tô conseguindo é assim ao vivo é ao vivo ao vivo. Mas não esqueça não."
+      },
+      {
+        "startTime": 6529,
+        "endTime": 6540,
+        "speaker": "Carol Pizzano",
+        "text": "isso"
+      },
+      {
+        "startTime": 6571,
+        "endTime": 6594,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Só um ponto isso daí é uma das estratégias que a dwv usa aqui em Curitiba para anunciar novos parceiros. Eu acho que seria interessante toda vez que a gente tiver um novo fechamento como por exemplo a Réus materialzinho desse para enviar que aqui tem bastante muitos grupos, eu tenho pelo menos uns 5 7 grupos de corretores."
+      },
+      {
+        "startTime": 6594,
+        "endTime": 6594,
+        "speaker": "Lais Santos Soares",
+        "text": "tenta"
+      },
+      {
+        "startTime": 6594,
+        "endTime": 6596,
+        "speaker": "Diego Diehl",
+        "text": "Mas é isso ou não?"
+      },
+      {
+        "startTime": 6596,
+        "endTime": 6599,
+        "speaker": "Carol Pizzano",
+        "text": "O texto que a gente usa com essas imagens, tá?"
+      },
+      {
+        "startTime": 6599,
+        "endTime": 6599,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "boa"
+      },
+      {
+        "startTime": 6599,
+        "endTime": 6611,
+        "speaker": "Carol Pizzano",
+        "text": "A gente tem um peixinho padrão que a gente está mandando. Aí tem um site o uso que ele diminui o link, deixa o link bem pequenininho, sabe bem bonitinho para ir nessas mensagens."
+      },
+      {
+        "startTime": 6611,
+        "endTime": 6613,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "legal"
+      },
+      {
+        "startTime": 6613,
+        "endTime": 6621,
+        "speaker": "Diego Diehl",
+        "text": "Isso daí Campos a gente tinha que só definir se já divide a função ou se centraliza ainda tem a Reus agora por exemplo."
+      },
+      {
+        "startTime": 6621,
+        "endTime": 6637,
+        "speaker": "Carolina Campos",
+        "text": "Eu acho que é assim ó, se for passar se as vendas passarem aqui pelo time PS naturalmente Elas já estão criando as imagens, tá? Se tiver alguém fora que vocês precisem aí cada um faz a sua eu acho que isso a gente pode ser uma uma definição que a gente faz aqui agora porque já tá no processo"
+      },
+      {
+        "startTime": 6637,
+        "endTime": 6638,
+        "speaker": "Diego Diehl",
+        "text": "A mais né?"
+      },
+      {
+        "startTime": 6638,
+        "endTime": 6640,
+        "speaker": "Carolina Campos",
+        "text": "delas, né?"
+      },
+      {
+        "startTime": 6640,
+        "endTime": 6645,
+        "speaker": "Diego Diehl",
+        "text": "Então a Helsing a primeira janela daí você roda e vê sem dúvida alguma."
+      },
+      {
+        "startTime": 6645,
+        "endTime": 6650,
+        "speaker": "Giuliano Milano",
+        "text": "Eu vi eu vi lá até a logo da web, talvez já foi feito né?"
+      },
+      {
+        "startTime": 6650,
+        "endTime": 6653,
+        "speaker": "Lais Santos Soares",
+        "text": "Já fez posso te mandar Juliana?"
+      },
+      {
+        "startTime": 6653,
+        "endTime": 6657,
+        "speaker": "Giuliano Milano",
+        "text": "Tá e a City deve estar em vez de assinatura também. Daí eu já encaminho para eles."
+      },
+      {
+        "startTime": 6658,
+        "endTime": 6667,
+        "speaker": "Carol Pizzano",
+        "text": "A gente pode seguir um padrão de cliente ou bordo já tá com a Laís se tem algum cliente que já tá dentro da casa. Um bom tempo vocês podem mandar para mim. tá"
+      },
+      {
+        "startTime": 6667,
+        "endTime": 6667,
+        "speaker": "Carolina Campos",
+        "text": "Isso que aí já deixa tudo no mesmo"
+      },
+      {
+        "startTime": 6667,
+        "endTime": 6669,
+        "speaker": "Giuliano Milano",
+        "text": "beleza"
+      },
+      {
+        "startTime": 6669,
+        "endTime": 6676,
+        "speaker": "Carolina Campos",
+        "text": "padrão. As meninas já estão acostumadas. A gente além da imagem. Ela já montaram. Um textinho já tá com tudo bonitinho assim para ser compartilhado."
+      },
+      {
+        "startTime": 6676,
+        "endTime": 6677,
+        "speaker": "Giuliano Milano",
+        "text": "legal"
+      },
+      {
+        "startTime": 6677,
+        "endTime": 6708,
+        "speaker": "Lais Santos Soares",
+        "text": "Ele é muito bom que ele explica aqui ele explicar o que fazer. Então é assim que eu falo para os procuradoras trazerem mais integrações, mas tem que ser falado não tem lugar nenhum. ela Aqui em Portal só vai aparecer o portal para as incorporadoras que tem portal ativo. Esse como mexer no portal e tudo a gente vai fazer um momento."
+      },
+      {
+        "startTime": 6708,
+        "endTime": 6717,
+        "speaker": "Lais Santos Soares",
+        "text": "Essa parte com Deus tá que é a responsabilidade CS por Portal hoje em dia sem Incorporadora não tiver Portal não tá aparecendo. Essa louca."
+      },
+      {
+        "startTime": 6718,
+        "endTime": 6745,
+        "speaker": "Carolina Campos",
+        "text": "isso aí Aqui hoje foi só gente as atividades da Laís tá lembrando que tem um universo ainda que acontece aqui dentro da área de cs. Então todos esses Passos aqui hoje foram só do cliente novo que chegou, mas aí depois a gente vai ter o cliente novo que tem time novo e precisa fazer um retenamento vai ter time novo que tá com alguma dúvida de funcionalidade que a pisando vai chamar para uma qual para poder explicar o que ele precisa."
+      },
+      {
+        "startTime": 6745,
+        "endTime": 6752,
+        "speaker": "Carolina Campos",
+        "text": "Então vão ter várias outras partes que a gente vai também abordando nas próximas."
+      },
+      {
+        "startTime": 6752,
+        "endTime": 6763,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Esse acaba sendo um dos pontos que eu ia trazer até de questionamento porque eu tô vendo por exemplo o Mateus que eu conversei da aula. ele falou que seria interessante, provavelmente um novo treinamento do"
+      },
+      {
+        "startTime": 6765,
+        "endTime": 6783,
+        "speaker": "Carolina Campos",
+        "text": "É isso aí aí isso é só só mandar ali no grupo no grupo de CF. E aí pode jogar assim, ó, Mateus precisa de retreinamento a Laís a pisando vai entrar em contato com ele. Vai fazer uma agenda vai entender quem vão ser as pessoas que vão envolver e ela marca na agenda da Laís, então a gente já tem esse processo também só colocar ali precisou de retreinamento chama."
+      },
+      {
+        "startTime": 6785,
+        "endTime": 6795,
+        "speaker": "Carol Pizzano",
+        "text": "A gente faz assim. Campos a Deus ela tá com o link tanto meu quanto da Laís de agenda e ela Repassa para o cliente, tá? E aí?"
+      },
+      {
+        "startTime": 6795,
+        "endTime": 6796,
+        "speaker": "Carolina Campos",
+        "text": "É a deusa."
+      },
+      {
+        "startTime": 6796,
+        "endTime": 6825,
+        "speaker": "Carol Pizzano",
+        "text": "Como que funciona hoje janela se teu cliente está com problema de comunicação com o nosso financeiro se tá com problema de integração dos produtos tá com problema de não querer disponibilizar tabela todos esses probleminhas sabe fino de ajuste de produto de comunicação, ele faz essa reunião comigo. É como se fosse um alinhamento ali de troca de Insight de venda tá muitas vezes eu identifico nessas reuniões que ele precisa de um novo treinamento."
+      },
+      {
+        "startTime": 6825,
+        "endTime": 6846,
+        "speaker": "Carol Pizzano",
+        "text": "Aí eu passo para ela ir. Sempre que você identificar que o problema é tá ele reclamou do financeiro. Ele reclamou do cadastro do produto é importante você mandar o link da minha agenda que aí eu trago ele tá dentro escuta o problema dele. Isso tem funcionado muito tá pessoal essa empatia com cliente de ouvir ele."
+      },
+      {
+        "startTime": 6846,
+        "endTime": 6868,
+        "speaker": "Carol Pizzano",
+        "text": "E aí a gente leva ele para Laís faz retreinamento sempre tá ali acompanhando a vida dele tá bem? E aí é deusa vocês podem entrar em contato com ela para ela entrar em contato com esse cliente ou mandar a minha agenda ou mandar o agenda dela. Aí você sempre fala, olha um cliente para pisando é um cliente para ela ir."
+      },
+      {
+        "startTime": 6868,
+        "endTime": 6886,
+        "speaker": "Diego Diehl",
+        "text": "Ela tá essa seria legal a gente talvez tá na mão uma mensagem que é Deus Amanda. Porque daí não sei só para economizar porque senão os janela tá na rua, daí fala daí a deusa vai entrar em contato poder marcar uma terceira."
+      },
+      {
+        "startTime": 6886,
+        "endTime": 6890,
+        "speaker": "Carolina Campos",
+        "text": "Meu link também da da agenda direto ali das meninas que dá para para compartilhar e marcar."
+      },
+      {
+        "startTime": 6892,
+        "endTime": 6906,
+        "speaker": "Diego Diehl",
+        "text": "Vocês entenderem que se foi o problema específico problema específico não se for mais geral é com a pisando. E se for treinamento com a Laís isso? Tá bom."
+      },
+      {
+        "startTime": 6906,
+        "endTime": 6929,
+        "speaker": "Carolina Campos",
+        "text": "E aí tem outros pontos, né? Então por exemplo hoje a Laís ela também por mais que ela faz o onboard, ela também é responsável por reajustes. Então aí tem um cliente que quer adicionar mais um produto e ele vai precisar alterar valor, pode passar para ela ir. Ah, eu tô com um cliente que eu conversei ele pediu para cancelar falar isso também é isso? Fala, isso é cola isso."
+      },
+      {
+        "startTime": 6929,
+        "endTime": 6961,
+        "speaker": "Carolina Campos",
+        "text": "Tá então pedido de turning reajuste a gente faz ali com a Laís. Ah o cliente eu vi dentro do painel que ele tá inadimplente pode chamar pisando que a pisando cuida da parte de inadimplência a gente vai saber se já cobrou se o cara tá em acordo com a gente, qual que é a negociação, a gente sabe tudo que tá acontecendo com ele aqui dentro, tá? Isso se vocês buscarem o nome do cliente no Beatles, vocês vão ver se ele teve pedido de Tiane se ele tá sendo trabalhado como inadimplente então isso a gente pode fazer um treinamento também da ferramenta para vocês entenderem?"
+      },
+      {
+        "startTime": 6961,
+        "endTime": 6966,
+        "speaker": "Lais Santos Soares",
+        "text": "Tem o próprio plano inadimplente aqui é o que vocês vão conseguir ver se ele tá."
+      },
+      {
+        "startTime": 6966,
+        "endTime": 6971,
+        "speaker": "Carolina Campos",
+        "text": "Mas já mata muita coisa essa planilha."
+      },
+      {
+        "startTime": 6971,
+        "endTime": 6974,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu quero ver."
+      },
+      {
+        "startTime": 6974,
+        "endTime": 7015,
+        "speaker": "Diego Diehl",
+        "text": "Tá tem o último ponto ali só para os janela na hora lá e se eu puder Abrir ali é o botão do Capital parceiros, né? A gente tá com um baixo volume de parceiros sendo captado por Portal ainda pelo que o Alejandro mandou a última vez. E aí janela, egiu todo mundo que tiver Portal você cada coordenador de parcerias tem um link do portal aí para enviar o convite e se o cara entrar pelo link o corretor vira dele então uma forma de falar com a ponta ele fala assim cara divulga para geral para você ganhar a carteira que todo mundo que tiver com Teu nome vai ver o teu nome lá na hora."
+      },
+      {
+        "startTime": 7015,
+        "endTime": 7028,
+        "speaker": "Diego Diehl",
+        "text": "Então isso daí é bem bem importante para a gente conseguir mais a gente não dependendo só da gente de trazer corretor para órgão, mas fazer Incorporadora trazer corretor para órgão também."
+      },
+      {
+        "startTime": 7028,
+        "endTime": 7029,
+        "speaker": "Lais Santos Soares",
+        "text": "importante só funciona"
+      },
+      {
+        "startTime": 7029,
+        "endTime": 7047,
+        "speaker": "Carol Pizzano",
+        "text": "É outro ponto que eu vou botar aqui, se vocês forem pedir alguma peça daquela lá que a gente apresentou e for para algum coordenador. Vocês avisam a gente que a gente gera um link junto com ele para colocar já naquela naquele textinho, tá?"
+      },
+      {
+        "startTime": 7047,
+        "endTime": 7055,
+        "speaker": "Diego Diehl",
+        "text": "Ao link isso as pegaram então as fotos as divulgações lá dá para ir com o link do portal do coordenador."
+      },
+      {
+        "startTime": 7055,
+        "endTime": 7056,
+        "speaker": "Carol Pizzano",
+        "text": "Então, aí ele vai mandar o link"
+      },
+      {
+        "startTime": 7056,
+        "endTime": 7057,
+        "speaker": "Diego Diehl",
+        "text": "Aí ele ganha."
+      },
+      {
+        "startTime": 7057,
+        "endTime": 7061,
+        "speaker": "Carol Pizzano",
+        "text": "ele vai copiar o link dele vai me mandar e eu boto um peixinho. Vamos fazer mais."
+      },
+      {
+        "startTime": 7061,
+        "endTime": 7065,
+        "speaker": "Diego Diehl",
+        "text": "Se for você que foi fazer a foto, né?"
+      },
+      {
+        "startTime": 7066,
+        "endTime": 7077,
+        "speaker": "Carol Pizzano",
+        "text": "Sim aí geralmente também, eles gostam de dar opinião na foto. Ai bota do produto X então é legal também que vocês me passaram. Talvez o contato dele que eu já li esses pontos finos."
+      },
+      {
+        "startTime": 7081,
+        "endTime": 7093,
+        "speaker": "Diego Diehl",
+        "text": "Oi gente, eu tenho que ir para uma outra reunião aqui. Obrigado pelo treinamento, viu bom a gente se aliando depois Campos eu vou falar contigo, enfim, depois eu não tomou."
+      },
+      {
+        "startTime": 7093,
+        "endTime": 7093,
+        "speaker": "Carolina Campos",
+        "text": "isso aí, eu também vou ter que sair"
+      },
+      {
+        "startTime": 7093,
+        "endTime": 7096,
+        "speaker": "Diego Diehl",
+        "text": "Sério terminar com calma e fique à vontade. Valeu fui."
+      },
+      {
+        "startTime": 7096,
+        "endTime": 7102,
+        "speaker": "Carolina Campos",
+        "text": "para outra tá? Eu já tenho que sair para outra aí vocês podem finalizar aqui, vocês tá gente?"
+      },
+      {
+        "startTime": 7102,
+        "endTime": 7104,
+        "speaker": "Lais Santos Soares",
+        "text": "Eu Já finalizei pessoal boa sexta-feira para vocês, muito"
+      },
+      {
+        "startTime": 7104,
+        "endTime": 7106,
+        "speaker": "Carolina Campos",
+        "text": "Então é isso, muito obrigada."
+      },
+      {
+        "startTime": 7106,
+        "endTime": 7111,
+        "speaker": "Lais Santos Soares",
+        "text": "obrigada pela atenção dois anos aí em Curitiba e no Goiás."
+      },
+      {
+        "startTime": 7111,
+        "endTime": 7112,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Obrigada viu Laís, obrigado."
+      },
+      {
+        "startTime": 7112,
+        "endTime": 7113,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Valeu Luiz"
+      },
+      {
+        "startTime": 7113,
+        "endTime": 7115,
+        "speaker": "Carolina Campos",
+        "text": "Até mais gente, tchau."
+      },
+      {
+        "startTime": 7115,
+        "endTime": 7115,
+        "speaker": "Deusamar Neta",
+        "text": "Obrigada pessoal, tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 521,
+    "speakers": [
+      "João Vitor Portes da Silva",
+      "Giuliano Milano",
+      "Carol Pizzano",
+      "Deusamar Neta",
+      "Eduardo Stringhini",
+      "Carolina Campos",
+      "Luiz Gustavo Zanella",
+      "Diego Diehl",
+      "Lais Santos Soares"
+    ],
+    "total_words_estimate": 17202,
+    "duration_start": 7,
+    "duration_end": 7115
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6725265f568ad600139a3f4b",
+        "timestamp": 240,
+        "text": "Laís, responsável pelo onboarding de clientes, irá apresentar seu processo de trabalho e como apoiar a equipe comercial.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5d",
+        "timestamp": 372,
+        "text": "A empresa está passando por ajustes estruturais, com novos experimentos e frentes de produto, o que exigirá muito trabalho de toda a equipe.",
+        "topicId": "6725265f568ad600139a3f45"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5e",
+        "timestamp": 505,
+        "text": "Aos poucos, serão definidas as responsabilidades e fluxos de colaboração entre as áreas, para que todos saibam seu papel e como se apoiar mutuamente.",
+        "topicId": "6725265f568ad600139a3f45"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5f",
+        "timestamp": 580,
+        "text": "A demanda por este treinamento surgiu da necessidade de alinhar o time comercial com o time de CS para atender melhor os clientes.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f4c",
+        "timestamp": 754,
+        "text": "Laís irá focar em mostrar os principais tópicos do seu processo de onboarding, deixando espaço para perguntas e dúvidas da equipe.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f4d",
+        "timestamp": 894,
+        "text": "Existe uma automação que comunica o cliente sobre as etapas do processo, evitando que ele fique perdido durante a jornada.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f4e",
+        "timestamp": 1015,
+        "text": "Será implementada uma integração para criar os clientes automaticamente no sistema, reduzindo uma atividade manual da Laís.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f4f",
+        "timestamp": 1092,
+        "text": "Equipe comercial deve encaminhar solicitações dos clientes para o e-mail correto, facilitando o rastreamento e atendimento pela equipe de CS.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f50",
+        "timestamp": 1203,
+        "text": "Encaminhar clientes para suporte financeiro via e-mail e WhatsApp, centralizando em um único canal de atendimento.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f51",
+        "timestamp": 1309,
+        "text": "Focar no envio por e-mail para melhor acompanhamento e organização dos fluxos, em vez de usar o WhatsApp.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f52",
+        "timestamp": 1374,
+        "text": "Limitação de conta impede criação de usuários, então o time de operações acompanhará as solicitações e encaminhará para cadastro.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f53",
+        "timestamp": 1411,
+        "text": "Todas as dúvidas de suporte devem ser enviadas para o e-mail parcerias@, incluindo cadastros, adições e acompanhamento da fila de atendimento.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f54",
+        "timestamp": 1462,
+        "text": "Verificar se o cliente já existe na base e conferir o status do contrato e dos produtos contratados.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f55",
+        "timestamp": 1516,
+        "text": "Solicitar materiais ao cliente e encaminhar para o time de cadastro, que leva até 72 horas para concluir o processo.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f69",
+        "timestamp": 1599,
+        "text": "Atualização de tabelas de preços: clientes integrados têm atualização automática em 24-48 horas, os demais entram na fila de atualização.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f56",
+        "timestamp": 2050,
+        "text": "Enviar e-mail de boas-vindas ao cliente com informações sobre o plano e solicitação de documentos faltantes para cadastro.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f57",
+        "timestamp": 2415,
+        "text": "Enviar convite de cadastro para clientes sem registro, liberar acesso e solicitar que a equipe participe do treinamento.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f58",
+        "timestamp": 2513,
+        "text": "Acompanhar o progresso do cliente no funil, desde o cadastro até a realização do treinamento.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f59",
+        "timestamp": 2544,
+        "text": "Registrar informações do treinamento realizado, incluindo participantes e avaliação do cliente, para referência futura.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5a",
+        "timestamp": 2610,
+        "text": "Identificar contatos-chave (como diretores comerciais) durante o treinamento para futuras ações de engajamento.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5b",
+        "timestamp": 2641,
+        "text": "Implementar fluxo de automação de \"pílulas de conhecimento\" para novos clientes, com mensagens programadas ao longo de 30 dias.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f5c",
+        "timestamp": 2688,
+        "text": "Realizar uma segunda reunião com o cliente após 15 dias e, após 1 mês, transferir o cliente para a equipe de pós-venda.",
+        "topicId": "6725265f568ad600139a3f44"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f60",
+        "timestamp": 2750,
+        "text": "Iniciar o treinamento com uma visão geral do funcionamento da plataforma e dos recursos disponíveis para os corretores.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f61",
+        "timestamp": 2837,
+        "text": "Atualizar a apresentação do treinamento para incluir informações sobre a inteligência de mercado disponível na plataforma.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f62",
+        "timestamp": 2905,
+        "text": "Destacar as funcionalidades de revenda de imóveis e filtros de tipologia e prazo de entrega durante o treinamento.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f63",
+        "timestamp": 2950,
+        "text": "Explicar o uso do filtro de promoções e como a equipe fará disparos regulares sobre as promoções ativas.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f64",
+        "timestamp": 3022,
+        "text": "Fornecer exemplos de promoções que os corretores podem anunciar, como descontos, bônus e sorteios.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f65",
+        "timestamp": 3103,
+        "text": "Reforçar que as \"promoções\" são na verdade comunicações de marketing incluídas no pacote do cliente, não apenas descontos.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f66",
+        "timestamp": 3240,
+        "text": "Informar aos corretores sobre as comissões de cada produto, pois isso é uma informação importante para eles.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f67",
+        "timestamp": 3369,
+        "text": "Orientar os corretores sobre o compartilhamento da página do produto com seus clientes e evitar o uso indevido por outros corretores.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f68",
+        "timestamp": 3438,
+        "text": "Explicar o processo de liberação de usuários e a atualização da área do cliente na plataforma.",
+        "topicId": "6725265f568ad600139a3f46"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6a",
+        "timestamp": 3473,
+        "text": "Orientar os clientes sobre como editar a tabela de produtos, seguindo o modelo e formatação corretos.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6b",
+        "timestamp": 3632,
+        "text": "A mudança de valor efetivo é feita no passo 1, que é a tabela digital no aplicativo.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6c",
+        "timestamp": 3682,
+        "text": "A incorporadora atualiza o valor na tabela digital, que depois é trazida para os arquivos.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6d",
+        "timestamp": 3726,
+        "text": "O maior desenvolvimento em andamento é a edição dos dados dos anunciantes, incluindo fotos, vídeos e plantas por unidade.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6e",
+        "timestamp": 3829,
+        "text": "A primeira funcionalidade a ser lançada é a atualização de fotos, incluindo foto de destaque, ordenamento e vídeos.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f6f",
+        "timestamp": 3870,
+        "text": "A tabela de preços e disponibilidades pode ser atualizada pelos corretores, exceto data de lançamento que precisa de aprovação.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f70",
+        "timestamp": 3915,
+        "text": "Tudo que não tem botão de editar (fotos, descrição, plantas, website) precisa ser encaminhado pela incorporadora.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f71",
+        "timestamp": 3987,
+        "text": "A área do cliente mostra relatórios de desempenho do empreendimento, como acessos, downloads e compartilhamentos pelos corretores.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f72",
+        "timestamp": 4056,
+        "text": "O botão de editar na área do cliente é muito pequeno e de difícil acesso, precisando ser melhorado.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f73",
+        "timestamp": 4163,
+        "text": "A página de desempenho mostra dados semanais de acessos, visualizações e downloads pelos corretores.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f74",
+        "timestamp": 4230,
+        "text": "O cliente precisa de uma visão isolada dos corretores que acessaram apenas seus empreendimentos, excluindo os concorrentes.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f75",
+        "timestamp": 4440,
+        "text": "É possível personalizar a lista de corretores mais ativos nos últimos 90 dias, chegando a até 200 nomes.",
+        "topicId": "6725265f568ad600139a3f47"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f76",
+        "timestamp": 4824,
+        "text": "Demonstrar como o recurso de responsável funciona para distribuir contatos de corretores entre gerentes.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f77",
+        "timestamp": 4879,
+        "text": "Não é possível buscar empreendimentos específicos, então a demonstração será feita apenas dentro da Incorporadora.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f78",
+        "timestamp": 4945,
+        "text": "Não é possível ver os contatos de corretores que acessaram apenas um produto específico, apenas a atividade geral nos últimos 90 dias.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f79",
+        "timestamp": 5016,
+        "text": "Será necessário configurar uma atividade mínima (5 ações) para que o corretor seja exibido no PRM da Incorporadora.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7a",
+        "timestamp": 5125,
+        "text": "Não será mostrado para as Incorporadoras quais corretores acessaram seus empreendimentos, apenas a atividade geral nos últimos 90 dias.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7b",
+        "timestamp": 5436,
+        "text": "O vídeo será ajustado para mencionar apenas \"algumas interações\" dos corretores, sem entrar em detalhes numéricos.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7c",
+        "timestamp": 5565,
+        "text": "O nível de permissão \"Editor\" impede que usuários vejam a lista de corretores mais ativos no produto.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7d",
+        "timestamp": 5735,
+        "text": "Quando um corretor acessa o Portal, sua origem é marcada como \"Portal\", permitindo que a Incorporadora baixe essa lista.",
+        "topicId": "6725265f568ad600139a3f48"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7e",
+        "timestamp": 6030,
+        "text": "Há 466 imobiliárias recebendo a Alfa Residência no CRM. Precisam integrar o site da imobiliária com o CRM.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f7f",
+        "timestamp": 6068,
+        "text": "Nova incorporação deve ser publicada automaticamente no site da imobiliária, removendo o número de corretores cadastrados.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f80",
+        "timestamp": 6127,
+        "text": "Criar um botão de \"Convidar Imobiliária\" para facilitar a integração das imobiliárias com os produtos da incorporadora.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f81",
+        "timestamp": 6165,
+        "text": "Fornecer um link de integração para a imobiliária, que ela pode acessar e selecionar o sistema que usa para integrar seus produtos.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f82",
+        "timestamp": 6201,
+        "text": "Não é possível a incorporadora sugerir apenas seus próprios produtos para integração, pois as imobiliárias preferem integrar todos os produtos.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f83",
+        "timestamp": 6245,
+        "text": "Incorporadora não tem conhecimento sobre a opção de convidar imobiliárias para integração, precisamos comunicar melhor essa possibilidade.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f84",
+        "timestamp": 6304,
+        "text": "Criar um QR Code para facilitar o processo de integração e definir um padrão para envio de material.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f85",
+        "timestamp": 6390,
+        "text": "Criar um modelo padrão de material de integração (imagem, texto, QR Code) que possa ser facilmente editado e enviado para as incorporadoras.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f86",
+        "timestamp": 6570,
+        "text": "Usar o material de integração como uma das principais estratégias para anunciar novos parceiros imobiliários, enviando-o para os grupos de corretores.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f87",
+        "timestamp": 6620,
+        "text": "Definir se a equipe de Pós-Vendas ou a equipe de Campanhas será responsável por criar e enviar o material de integração para os clientes.",
+        "topicId": "6725265f568ad600139a3f49"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f88",
+        "timestamp": 6752,
+        "text": "Identificar a necessidade de novos treinamentos para clientes e agendar com a equipe de Capacitação (Laís) para realizar o retreinamento.",
+        "topicId": "6725265f568ad600139a3f4a"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f89",
+        "timestamp": 6815,
+        "text": "Realizar reuniões de alinhamento com o cliente para identificar problemas de comunicação, integração ou outros ajustes, encaminhando-os para as áreas responsáveis.",
+        "topicId": "6725265f568ad600139a3f4a"
+      },
+      {
+        "segmentId": "6725265f568ad600139a3f8a",
+        "timestamp": 6973,
+        "text": "Incentivar as incorporadoras a divulgarem o link do portal de parceiros para que os corretores se cadastrem diretamente com elas.",
+        "topicId": "6725265f568ad600139a3f4a"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6725265f568ad600139a3f44",
+        "order": 1,
+        "title": "Onboarding de Clientes",
+        "summary": "Laís apresentará seu processo de onboarding de clientes, incluindo automações, integrações e fluxos de colaboração entre equipes para melhor atendimento aos clientes."
+      },
+      {
+        "id": "6725265f568ad600139a3f45",
+        "order": 2,
+        "title": "Ajustes Estruturais e Novos Experimentos",
+        "summary": "A empresa está passando por ajustes estruturais e novos experimentos de produto, exigindo muito trabalho e alinhamento de responsabilidades e fluxos de colaboração entre as áreas."
+      },
+      {
+        "id": "6725265f568ad600139a3f46",
+        "order": 3,
+        "title": "Treinamento da Equipe Comercial",
+        "summary": "O treinamento visa alinhar a equipe comercial com a equipe de CS para melhor atendimento aos clientes, abordando tópicos como funcionalidades, promoções e comissões."
+      },
+      {
+        "id": "6725265f568ad600139a3f47",
+        "order": 4,
+        "title": "Atualização de Dados e Informações",
+        "summary": "Clientes podem atualizar tabelas de preços, fotos, vídeos e plantas, com aprovação da incorporadora. Relatórios de desempenho e acesso de corretores também serão abordados."
+      },
+      {
+        "id": "6725265f568ad600139a3f48",
+        "order": 5,
+        "title": "Recursos de Gerenciamento de Corretores",
+        "summary": "Será demonstrado o recurso de responsável para distribuir contatos de corretores entre gerentes, bem como a configuração de atividade mínima para exibição no PRM."
+      },
+      {
+        "id": "6725265f568ad600139a3f49",
+        "order": 6,
+        "title": "Integração com Imobiliárias",
+        "summary": "Criar um botão de \"Convidar Imobiliária\" e um modelo padrão de material de integração para facilitar a integração das imobiliárias com os produtos da incorporadora."
+      },
+      {
+        "id": "6725265f568ad600139a3f4a",
+        "order": 7,
+        "title": "Alinhamento e Retreinamento de Clientes",
+        "summary": "Realizar reuniões de alinhamento com clientes para identificar problemas e necessidades, encaminhando-os para as áreas responsáveis e agendando retreinamentos com a equipe de Capacitação."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 64,
+    "topic_count": 7,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6725265f568ad600139a3f44",
+      "order": 1,
+      "title": "Onboarding de Clientes",
+      "summary": "Laís apresentará seu processo de onboarding de clientes, incluindo automações, integrações e fluxos de colaboração entre equipes para melhor atendimento aos clientes."
+    },
+    {
+      "id": "6725265f568ad600139a3f45",
+      "order": 2,
+      "title": "Ajustes Estruturais e Novos Experimentos",
+      "summary": "A empresa está passando por ajustes estruturais e novos experimentos de produto, exigindo muito trabalho e alinhamento de responsabilidades e fluxos de colaboração entre as áreas."
+    },
+    {
+      "id": "6725265f568ad600139a3f46",
+      "order": 3,
+      "title": "Treinamento da Equipe Comercial",
+      "summary": "O treinamento visa alinhar a equipe comercial com a equipe de CS para melhor atendimento aos clientes, abordando tópicos como funcionalidades, promoções e comissões."
+    },
+    {
+      "id": "6725265f568ad600139a3f47",
+      "order": 4,
+      "title": "Atualização de Dados e Informações",
+      "summary": "Clientes podem atualizar tabelas de preços, fotos, vídeos e plantas, com aprovação da incorporadora. Relatórios de desempenho e acesso de corretores também serão abordados."
+    },
+    {
+      "id": "6725265f568ad600139a3f48",
+      "order": 5,
+      "title": "Recursos de Gerenciamento de Corretores",
+      "summary": "Será demonstrado o recurso de responsável para distribuir contatos de corretores entre gerentes, bem como a configuração de atividade mínima para exibição no PRM."
+    },
+    {
+      "id": "6725265f568ad600139a3f49",
+      "order": 6,
+      "title": "Integração com Imobiliárias",
+      "summary": "Criar um botão de \"Convidar Imobiliária\" e um modelo padrão de material de integração para facilitar a integração das imobiliárias com os produtos da incorporadora."
+    },
+    {
+      "id": "6725265f568ad600139a3f4a",
+      "order": 7,
+      "title": "Alinhamento e Retreinamento de Clientes",
+      "summary": "Realizar reuniões de alinhamento com clientes para identificar problemas e necessidades, encaminhando-os para as áreas responsáveis e agendando retreinamentos com a equipe de Capacitação."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:56.194944+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:56.194944+00:00"
+}

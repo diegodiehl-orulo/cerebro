@@ -1,0 +1,28 @@
+{
+  "id": "67a4c08ffde988001484f857",
+  "happenedAt": "2025-02-06T14:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "Feedback apresentação",
+  "duration": 4502.783,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67a4c08ffde988001484f857",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "zgn-pmmd-uad"
+  }
+}

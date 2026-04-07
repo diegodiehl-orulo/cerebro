@@ -1,0 +1,834 @@
+{
+  "meeting_id": "68cd9a21e0efb100135494b9",
+  "name": "Mensageria Z2",
+  "happened_at": "2025-09-19T18:00:00.000Z",
+  "duration_seconds": 1584.372,
+  "duration_minutes": 26.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68cd9a21e0efb100135494b9",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "bnt-hdkj-ggo",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68cd9a8c0148c10013f541ef",
+    "meetingId": "68cd9a21e0efb100135494b9",
+    "data": [
+      {
+        "startTime": 51,
+        "endTime": 56,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá mas quando a gente está onde é que faz upload de todos os contatos."
+      },
+      {
+        "startTime": 56,
+        "endTime": 56,
+        "speaker": "Diego Diehl",
+        "text": "isso"
+      },
+      {
+        "startTime": 56,
+        "endTime": 63,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele fez o importe. E é aqui."
+      },
+      {
+        "startTime": 63,
+        "endTime": 67,
+        "speaker": "Diego Diehl",
+        "text": "É exatamente. sei lá, eu não tenho aqui mas"
+      },
+      {
+        "startTime": 67,
+        "endTime": 74,
+        "speaker": "Alejandro Olchik",
+        "text": "Quando fica importado como é que tu identifica? Quais foram os contatos?"
+      },
+      {
+        "startTime": 74,
+        "endTime": 107,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho a ele já vem uma origem padrão, né que é importação planilha. Mas de uma forma prática dá para você criar Campos também adicionais aqui ó em configurações. Campos Você pode adicionar aqui um nome de um campo em texto e tal que daí você conecta com a planilha, né? Cria um campo e fala sei lá, qual a importação aí você bota planilha 19/09."
+      },
+      {
+        "startTime": 107,
+        "endTime": 124,
+        "speaker": "Diego Diehl",
+        "text": "Ou planilha do filtrados tal dia você identifica aqui importa aqui. Vem todos para novo. Fica tudo em contato aqui esse funil aqui a base. Você conhece já a base do que é em tese automatizado."
+      },
+      {
+        "startTime": 126,
+        "endTime": 136,
+        "speaker": "Alejandro Olchik",
+        "text": "Não não conheço, mas se puder voltar automação tava eu te cortei na automação, né? Que tá me explicando e a minha quando eu me importo não acontece nada, né? Não tem."
+      },
+      {
+        "startTime": 136,
+        "endTime": 165,
+        "speaker": "Diego Diehl",
+        "text": "Tá isso deixa eu te explicar na ordem até que eu explico para o cliente bem resumidão, daí qualquer dúvida mais você me fala você importa os contatos aqui. E contatos são gerados aqui automaticamente quando o corretor visitar hora logo a gente manda algum webbook para cá, quando ele entra aqui automaticamente dá para a gente mandar uma mensagem de boas-vindas."
+      },
+      {
+        "startTime": 165,
+        "endTime": 192,
+        "speaker": "Diego Diehl",
+        "text": "Então dá para quando importar já programar uma mensagem de boas-vindas que é personalizada. Tem os acompanhamentos aqui, se quando o corretor te mandar até três mensagens, ele se torna verificado que é esse selinho aqui, ó. E move para qualificação todo mundo que tá em qualificação a gente pode deixar habilitado qualificador que manda um script de qualificação."
+      },
+      {
+        "startTime": 192,
+        "endTime": 216,
+        "speaker": "Diego Diehl",
+        "text": "Que é esse link de qualificação aqui ó. Que é um link? Dá para mandar um linkzinho de qualificação que é com os campos que a gente quer tanta gente que põe aqui zona de atuação. Há quanto tempo você está no mercado? Você trabalha isso aqui você escolhe quais Campos aparecem aqui."
+      },
+      {
+        "startTime": 216,
+        "endTime": 223,
+        "speaker": "Diego Diehl",
+        "text": "Que o corretor não gosta muito de preencher se ele se qualifica móvel automaticamente para relacionamento."
+      },
+      {
+        "startTime": 224,
+        "endTime": 227,
+        "speaker": "Alejandro Olchik",
+        "text": "Esse envio do link ele acontece sempre é?"
+      },
+      {
+        "startTime": 227,
+        "endTime": 229,
+        "speaker": "Diego Diehl",
+        "text": "Ele roda um ciclos assim dá para deixar."
+      },
+      {
+        "startTime": 229,
+        "endTime": 232,
+        "speaker": "Alejandro Olchik",
+        "text": "Não eu digo eu não posso desabilitar isso eu posso."
+      },
+      {
+        "startTime": 232,
+        "endTime": 260,
+        "speaker": "Diego Diehl",
+        "text": "Pode pode pode habilitados aí por último aqui tá em relacionamento em tese daí isso acho que não funciona 100% É tem algumas palavras-chave que são detectadas que faz o Card mover automaticamente para oportunidade? Então isso aqui. Tecnicamente uma brincadeira legal ali de fazer de alguma forma, se o cara falar alguma coisa integração problema algo assim, envolve daí aqui fechou esse bloco."
+      },
+      {
+        "startTime": 260,
+        "endTime": 296,
+        "speaker": "Diego Diehl",
+        "text": "Para essa galera aqui dá para criar automações então posso entrar aqui em adicionar automação. Selecionar aqui de quantos usuários eu quero mandar então eu tenho seis números do WhatsApp dá para eu sair disparando dos Seis em paralelo isso daqui ganha uma potência legal. Dá para fazer 10 números. Cadência dá um zoom aqui que Dia ora aqui somente verificados que eu falei aqui a gente escolhe alguns modelos de automação, então dá para a gente deixar configuradinho lá algum."
+      },
+      {
+        "startTime": 296,
+        "endTime": 321,
+        "speaker": "Diego Diehl",
+        "text": "A modelo um modelo dois só para otimizar um pouco tempo ou padronizar dá um título para automação. Dá para rodar automação periódica também então todo mês. Eu mando uma mensagem para coluna novos que é quem não falou comigo ainda uma vez por mês, eu vou cutucar o cara e jogar alguma coisa, por exemplo."
+      },
+      {
+        "startTime": 321,
+        "endTime": 344,
+        "speaker": "Diego Diehl",
+        "text": "Diário semanal normalmente. A galera faz o único bota data E aí dá para filtrar de alguma forma, o que que o naipe fez? Por exemplo o novo o novo é todo mundo que ele importa quem tá em qualificação aqui já respondeu ele e ele morre todas as incorporadoras para oportunidade."
+      },
+      {
+        "startTime": 344,
+        "endTime": 367,
+        "speaker": "Diego Diehl",
+        "text": "É o jeitinho que ele deu ali para não ter que ter um campo dizendo ser Incorporadora o corretor. Ou dá para filtrar por novos contatos, não quero abordar todo mundo que entrou em tal dia de tal dia tal dia. Aqui dá para filtrar por score ou se o cara fez venda."
+      },
+      {
+        "startTime": 367,
+        "endTime": 379,
+        "speaker": "Diego Diehl",
+        "text": "E aqui a gente Adiciona os campos então eu quero adicionar um Opa. Bom dia Opa, beleza. Beleza, Fulano, daí eu tenho alguns algumas variáveis ali. que"
+      },
+      {
+        "startTime": 380,
+        "endTime": 383,
+        "speaker": "Alejandro Olchik",
+        "text": "Variáveis que eu me importo na planilha, eu posso usar aqui?"
+      },
+      {
+        "startTime": 383,
+        "endTime": 416,
+        "speaker": "Diego Diehl",
+        "text": "Eu não tenho certeza se são todas mas eu acho que dá para habilitar assim, né? Você tem que pedir para o CS ó habilita ali esses variáveis para aparecer como variar. Mas essas três aqui com certeza. Daí bota o nome dela, eu não arquivo ou não adiciona aqui. E o teu combo aqui? você é Adiciona o teu bloco aqui de mensagem, eu queria."
+      },
+      {
+        "startTime": 416,
+        "endTime": 442,
+        "speaker": "Diego Diehl",
+        "text": "Aí ela fica programada. Aí o night por exemplo fez essa aqui ó para você ter uma ideia com o número do WhatsApp. Ficou aqui duas semanas disparando. Que ele disparou. Ele disparou numa Cadência baixa das oito às cinco de segunda a sexta. Para os novos e ele disparou isso aqui ó."
+      },
+      {
+        "startTime": 442,
+        "endTime": 447,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas aí ele tá fazendo um nome dele, né na Estância dele no celular através da conta do celular dele."
+      },
+      {
+        "startTime": 449,
+        "endTime": 460,
+        "speaker": "Diego Diehl",
+        "text": "Isso o número dele tá plugado aqui na conta hora no Espírito Santo. Eu tenho uma conta hora no Espírito Santo uma hora no Curitiba e uma hora no João Pessoa."
+      },
+      {
+        "startTime": 462,
+        "endTime": 466,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas é o teu número a partir do teu número que sai as mensagens é um número."
+      },
+      {
+        "startTime": 466,
+        "endTime": 478,
+        "speaker": "Diego Diehl",
+        "text": "Do Espírito Santo o de Curitiba do número profissional dos nela que ele criou um paraólogo e o de João Pessoa. O João tem um número dele a mais lá que é um profissional dele."
+      },
+      {
+        "startTime": 480,
+        "endTime": 483,
+        "speaker": "Alejandro Olchik",
+        "text": "Ah mas eles não nos dão números."
+      },
+      {
+        "startTime": 483,
+        "endTime": 499,
+        "speaker": "Diego Diehl",
+        "text": "Se pedir, eles até dá um jeito, mas é tipo pena disso assim isso daí é o desafio de ter número é aquele esquema de ter um celular conectado do número certo? Quando você compra um chip novo se você sai disparando já bloqueio."
+      },
+      {
+        "startTime": 500,
+        "endTime": 507,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas então essa paralisação que está falando. Depende de ter vários números disponíveis para fazer um envio se não bloqueia."
+      },
+      {
+        "startTime": 508,
+        "endTime": 508,
+        "speaker": "Diego Diehl",
+        "text": "Isso isso."
+      },
+      {
+        "startTime": 509,
+        "endTime": 517,
+        "speaker": "Alejandro Olchik",
+        "text": "Tava aqui essa lógica de tem um monte de chip era eles que fornecer um número, eles usavam uma série de números a gente fica intercalando entre esses números."
+      },
+      {
+        "startTime": 517,
+        "endTime": 539,
+        "speaker": "Diego Diehl",
+        "text": "Eles faziam isso tem que até entender um pouco mais porque uma época eles vendiam aquela ativação chamado de captador digital lá. Ah, eu vou ativar a galera de Goiânia para você vender em São Paulo se vendeu cobra 07, aí eles fazia um monte de disparo e dava um jeito de ter os números deles lá."
+      },
+      {
+        "startTime": 539,
+        "endTime": 584,
+        "speaker": "Diego Diehl",
+        "text": "Dá até para confirmar Porque eles devem saber os detalhes ali do que que é realmente necessário o que eu sei atualmente é que precisa. Esse número precisa estar conectado no celular. O bom disso aqui por exemplo a gente tem sei lá. Tem um cara em Curitiba um cara tem hoje tem o que naipe tem um número lá do João João Pessoa tem em Curitiba e pouco tem um cara em Goiânia, tem isso? Essa galera pode estar na conectado na Z2 e a gente joga alguns disparos para sair do celular deles e a gente gera demanda para eles, né? Que foi que eu fiz com Knight tava todo perdido tava falei não vamos abordar uma galera aqui."
+      },
+      {
+        "startTime": 584,
+        "endTime": 587,
+        "speaker": "Diego Diehl",
+        "text": "Enfim. Tô soltando em sites mais soltos aqui."
+      },
+      {
+        "startTime": 587,
+        "endTime": 619,
+        "speaker": "Alejandro Olchik",
+        "text": "O que a gente está tentando viabilizar, né? Eu tô com 645 corretores. Que receberam tabelas provavelmente a maior parte de São Paulo e não estão na hora. Então, eu estava querendo fazer uma automação no seguinte. Olha João aqui é da hora. Queria te avisar que você pode se cadastrar na hora nos solicitar a integração gratuita dos Empreendimentos dessa Incorporadora no seu CRM."
+      },
+      {
+        "startTime": 619,
+        "endTime": 625,
+        "speaker": "Alejandro Olchik",
+        "text": "Né? Acho que seria uma Seria algo nessa lógica que eu tava imaginando."
+      },
+      {
+        "startTime": 626,
+        "endTime": 632,
+        "speaker": "Diego Diehl",
+        "text": "É sim quer por exemplo que o neto fez aqui, né? Ele botou aqui, ó."
+      },
+      {
+        "startTime": 639,
+        "endTime": 641,
+        "speaker": "Alejandro Olchik",
+        "text": "É aí tá pessoalizado, né?"
+      },
+      {
+        "startTime": 641,
+        "endTime": 663,
+        "speaker": "Diego Diehl",
+        "text": "É esse. Eu acho que é esse o ponto tá levando. Eu não acredito em especialização com alta com alta eficácia assim. Ou não é que eu não acredito, né? É o que eu vi de todas as experiências aí que não foram muitas que a gente teve ou melhor até Incorporadora lá atrás sempre que eu disparava como Hype era uma m****."
+      },
+      {
+        "startTime": 663,
+        "endTime": 712,
+        "speaker": "Diego Diehl",
+        "text": "Sempre eu já tive o número central, já fiz até pelo meta já fiz tal coisa o que sempre deu certo falar eu sou fulano. porque porque tem uma crença no mercado que a galera que tá no mercado como não tem uma hierarquia muito clara de De quem é melhor que o que quem é mais quem tem o diploma quem é mestre quem é doutor? As pessoas buscam se relacionar muito bem então se alguém fala que é Fulano e tá vindo falar comigo é uma questão de educação eu pegar e responder ela bem porque ela vai falar para a galera, elas conhecem falando se encontra porque uma ideia com ele o cara mais gente boa, então tem uma crença na cabeça do cara que são pessoalizo ele tende a ser mais educado comigo."
+      },
+      {
+        "startTime": 712,
+        "endTime": 729,
+        "speaker": "Diego Diehl",
+        "text": "Sim novamente te contando do que eu acredito para dar certo. O João fez isso ele não é ninguém. Ele falou eu sou João. Vitor da orla Aí o cara fala p*** esse João aí deve falar com um monte de gente. Deixa eu tratar bem esse cara aí."
+      },
+      {
+        "startTime": 730,
+        "endTime": 743,
+        "speaker": "Alejandro Olchik",
+        "text": "Então nessa tua nessa lógica a gente precisaria ter uma Instância por praça e uma pessoa para ser a pessoa de cada uma das praças que a gente vai estar enviando as nossas tipo."
+      },
+      {
+        "startTime": 743,
+        "endTime": 768,
+        "speaker": "Diego Diehl",
+        "text": "Não necessariamente. Pode ter uma Instância com cinco números conectados por exemplo. Daí dá para ter tudo no mesmo dá para ter uma Instância atacando quatro praças com dois números. Que o João por exemplo abordou João Pessoa com DDD 47. E ele teve uma alta taxa de resposta. Na verdade é que foi para Incorporadora, né diferente teve uma alta taxa de resposta."
+      },
+      {
+        "startTime": 768,
+        "endTime": 792,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô pensando alto aqui, porque eu ainda também não sei a solução ideal, tá? O que eu acho? Do que eu tô vendo ali que tá dando certo com o Knight e daí até ele tá mudando um pouco essa abordagem. Eu fiz com o João lá, ele tava fazendo na mão falando com alguns corretores que utilizavam a órgão."
+      },
+      {
+        "startTime": 792,
+        "endTime": 822,
+        "speaker": "Diego Diehl",
+        "text": "Lá em João Pessoa. E aí ele mandava uma mensagem. Qual que é o meu B.O, tá? Do meu lado eu preciso de criar processos que gerem demandas específicas para o meu comercial. Que o que que é nas empresas de uma forma geral um marketing gera um líder no marketing digital chega no CRM do comercial e o CRM do comercial tem um S.A para rodar? O que que seria no nosso caso, cara? Eu vou lá."
+      },
+      {
+        "startTime": 822,
+        "endTime": 843,
+        "speaker": "Diego Diehl",
+        "text": "O tem o João ou tem o assistente de expansão lá do João e a gente cria um processo que cara ele vai abordar 30 pessoas por dia. E esse vai cair na operação desse cara desenrolar com o corretor. Se não houvesse desenrolar um pouquinho mais o valor é muito baixo."
+      },
+      {
+        "startTime": 843,
+        "endTime": 871,
+        "speaker": "Diego Diehl",
+        "text": "E aí é um pouco do que eu vejo que aumenta aumentou muito valor em João Pessoa, quando o João trocou uma ideia mandou um áudio o que naipe por exemplo ele manda isso aqui. E a maioria dos contatos tem mensagem de saudação automática pelo WhatsApp Business. Oi Fulano, eu sou o Diego corretor de imóveis em que posso te ajudar e aí o naipe já manda um áudio em seguida."
+      },
+      {
+        "startTime": 871,
+        "endTime": 900,
+        "speaker": "Diego Diehl",
+        "text": "E aí o cara começa a engajar troca ideia, só que daí parece pô, mas isso é muito caro por um cadastro, só que daí não é só isso é muito mais você tipo avanço um pouco mais para o cara ele pô, que massa que legal que você está entrando em contato comigo, pô, vou usar tem integração sim, cara, olha esse M divulga no teu grupo aí se é do meu Imobiliária."
+      },
+      {
+        "startTime": 900,
+        "endTime": 920,
+        "speaker": "Diego Diehl",
+        "text": "Pô, você tem o contato do dono? Vamos integrar. Você conhece daí vira uma Eu acho que a perspectiva que eu tô é outra tá? Eu tô em desenvolver relacionamento. Com sei lá 300 corretores na praça e isso transborda muito porque daí o cara aborda. Falando que veio da hora."
+      },
+      {
+        "startTime": 920,
+        "endTime": 941,
+        "speaker": "Diego Diehl",
+        "text": "E aí do nada essa Incorporadora vem pedir reunião então na minha perspectiva não precisa de esse raitante. com muitos Só que você tá numa outra meta, né? Você tá numa meta de cara esses caras não estão na hora. Eu iria por um caminho Inicial pegar esses 600 bota nessa Instância."
+      },
+      {
+        "startTime": 941,
+        "endTime": 967,
+        "speaker": "Diego Diehl",
+        "text": "Bota uma mensagem de abertura mais leve sem falar, clique aqui avance e tal, eu sou a hora não fala cara. Eu vi que você é o corretor que são produtos na região sul de São Paulo. E abre um pouco a conversa e até entende cara. Como que você não é cadastrado? Você não conhece você nunca viu? Ah não sempre usei a não Stop."
+      },
+      {
+        "startTime": 967,
+        "endTime": 983,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá eu sempre usei a mais Side. Ah entendi daí o carinha aqui para a gente põe escreve do CRM. Fala corretor não tava cadastrado porque nunca viu ou porque achava que era pago. Eu tô indo mais nessa linha, tá?"
+      },
+      {
+        "startTime": 983,
+        "endTime": 1004,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente pode experimentar a gente pode só que a gente teria que ver quem faria em nome de quem faria um disparo. Acho que a gente tem uns 600 700 disparos para fazer. A gente pode tem que bolar a mensagem a gente pode botar um link com um altma de conversão, então todos os corretores que se cadastraram ficam a nome da pessoa"
+      },
+      {
+        "startTime": 1004,
+        "endTime": 1004,
+        "speaker": "Diego Diehl",
+        "text": "legal"
+      },
+      {
+        "startTime": 1005,
+        "endTime": 1017,
+        "speaker": "Alejandro Olchik",
+        "text": "que convidaram então depois isso pode gerar para ti uma meta de sócio local, até você, tem que ter no mínimo x corretores cadastrados convidados por você por mês."
+      },
+      {
+        "startTime": 1020,
+        "endTime": 1037,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô indo nessa linha, tá? Eu botaria alguém gastar um pouco mais de tempo para a gente entender a ponta mais profundamente o cara descobrir a receita. Ele fala assim, cara, é só misturar a água com farinha e sal e faz uma bolachinha aqui barateza e fala beleza automatiza a bolachinha barateza depois."
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1040,
+        "speaker": "Alejandro Olchik",
+        "text": "E quem é que poderia ser essa pessoa?"
+      },
+      {
+        "startTime": 1040,
+        "endTime": 1043,
+        "speaker": "Diego Diehl",
+        "text": "o João O João O João claro eu vou ter que"
+      },
+      {
+        "startTime": 1043,
+        "endTime": 1046,
+        "speaker": "Alejandro Olchik",
+        "text": "o João"
+      },
+      {
+        "startTime": 1046,
+        "endTime": 1062,
+        "speaker": "Diego Diehl",
+        "text": "Hoje eu tô cobrando dele muito embaixadores, mas eu falo João Ó, como é que tá vamos paralisar. Vamos dar um pauzinho aqui uma semana no embaixadores para fazer esse disparo não tem problema."
+      },
+      {
+        "startTime": 1062,
+        "endTime": 1064,
+        "speaker": "Alejandro Olchik",
+        "text": "O João tá com uma Instância no nome dele."
+      },
+      {
+        "startTime": 1064,
+        "endTime": 1093,
+        "speaker": "Diego Diehl",
+        "text": "Tá, deixa eu te mostrar aqui só para você ver quem precisa fechar. Os usuários ele mandou esses 1.600 disparos. E Demorou, ele ficou tipo 14 dias disparando. Então que naipe é tipo uma demanda que fica ali rodando no celular do Knight, entendeu? Pouca dinâmica sabe dá para por mais lento até que fica tipo assim velho e é uma dormindo comercial, sempre assim plataforma parcerias é tipo cara."
+      },
+      {
+        "startTime": 1093,
+        "endTime": 1123,
+        "speaker": "Diego Diehl",
+        "text": "Os caras são bagunçados, não se organizam. Mas eles desenrolam muito se chegar alguma coisa neles, se alguém se ligar para ele ele Desenrola uma reunião ele fecha o negócio, mas a estratégia proativa ele se acalmar até a disciplina. Eles não têm. Então qual que é a minha tese é cara, a gente tem que ter mecanismo de gerar demanda para essa galera e eles vão processando vão respondendo, entendeu?"
+      },
+      {
+        "startTime": 1125,
+        "endTime": 1129,
+        "speaker": "Alejandro Olchik",
+        "text": "Sabe o que tinha que migrar o cara para qualificado é quando ele se cadastra na hora?"
+      },
+      {
+        "startTime": 1130,
+        "endTime": 1130,
+        "speaker": "Diego Diehl",
+        "text": "É também."
+      },
+      {
+        "startTime": 1131,
+        "endTime": 1135,
+        "speaker": "Alejandro Olchik",
+        "text": "Cadastra na ordem já envia os dados e vira ele para qualificado, entendeu?"
+      },
+      {
+        "startTime": 1136,
+        "endTime": 1136,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 1137,
+        "endTime": 1139,
+        "speaker": "Alejandro Olchik",
+        "text": "qual"
+      },
+      {
+        "startTime": 1139,
+        "endTime": 1169,
+        "speaker": "Diego Diehl",
+        "text": "E esses contatos aí que a gente tem é de São Paulo. Te mostrar duas aqui a gente fez essa aqui. Ó, essa aqui se fosse para pensar em resultado essa eu quero fazer de alguma forma logo. É que para mim deveria ser um processo padrão nosso padrão padrão, inclusive podia ser até do time do Marcelo que eu vou mostrar para ele."
+      },
+      {
+        "startTime": 1169,
+        "endTime": 1190,
+        "speaker": "Diego Diehl",
+        "text": "A gente pegou 120 contatos comerciais que estão lá no na orla de João Pessoa. E mandou isso aqui aqui é o João, estamos com mais dois mil usuários na hora de uma grande João Pessoa e queremos garantir o melhor contato da Incorporadora para atender os corretores. Você é o responsável."
+      },
+      {
+        "startTime": 1190,
+        "endTime": 1210,
+        "speaker": "Diego Diehl",
+        "text": "Isso aqui gerou 10 reuniões. Claro daí o Joãozinho E aí o teu último lançamento é esse? Você não tem mais algum para cadastrar é gratuito vamos cadastrar não, cara. E aí pô, você tá no plano gratuito? Você já viu o resultado não viu? Cara? Eu pago é melhor ainda."
+      },
+      {
+        "startTime": 1210,
+        "endTime": 1223,
+        "speaker": "Diego Diehl",
+        "text": "então isso aqui pensando em escala tirando talvez litoral de Santa Catarina que vai ser meio que Estranho abordar lá, mas o resto é um que dava para abordar bimestralmente todas as incorporadoras. parecido com"
+      },
+      {
+        "startTime": 1223,
+        "endTime": 1226,
+        "speaker": "Alejandro Olchik",
+        "text": "Nessa lista aqui, qual é a tua fonte para quem está mandando essa mensagem?"
+      },
+      {
+        "startTime": 1227,
+        "endTime": 1236,
+        "speaker": "Diego Diehl",
+        "text": "É aquela lá que lembra que eu pedi para você por lá no bi de contato comercial. Que é o sabe qual né?"
+      },
+      {
+        "startTime": 1236,
+        "endTime": 1238,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá focando Incorporadora tá cobrando Incorporadora."
+      },
+      {
+        "startTime": 1239,
+        "endTime": 1271,
+        "speaker": "Diego Diehl",
+        "text": "é aqui é Tá daí daí o outro que dele pausou porque eu mudei a prioridade era o que a gente ia testar a gente pegou uma lista. eu não gostei dessa mensagem dele, mas Ele montou com o Wagner? Ele tinha mandado isso aqui, ó. Só que o CTA é ruim, né? Você terá é ruim é mais difícil o cara falar agora para você do que ele falar me manda."
+      },
+      {
+        "startTime": 1271,
+        "endTime": 1298,
+        "speaker": "Diego Diehl",
+        "text": "Posso te mandar o link para cadastro com bônus de inteligência de mercado e hots? Claro Manda Claro o cara tem que responder Claro normalmente para ter uma conversa Claro pode mandar. Daí eu acho que eu posso Testar algo assim com João nesse 600. Um objetivo talvez também Alejandro de entender cara se atua onde? Ah eu atuo em Osasco."
+      },
+      {
+        "startTime": 1298,
+        "endTime": 1310,
+        "speaker": "Diego Diehl",
+        "text": "Ah, tá bom, você não ouviu falar da hora no show cara tu na Vila Nova Conceição eles falaram. Mas é isso nunca ouviu falar da hora. Talvez venha"
+      },
+      {
+        "startTime": 1310,
+        "endTime": 1326,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos fazer o seguinte a minha sugestão a linha com João. Eu vou deixar extrair essa planilha, a gente vamos marcar uma outra conversa nós dois nós dois com João. E já tentar fazer o importe montar um fluxo. Porque a gente já pode ver também o tipo de link para fazer o track."
+      },
+      {
+        "startTime": 1326,
+        "endTime": 1330,
+        "speaker": "Alejandro Olchik",
+        "text": "Que tipo de mensagem a gente vai mandar que que tu acha?"
+      },
+      {
+        "startTime": 1331,
+        "endTime": 1350,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou te mandar dois materiais para você dar uma olhada só para te dar o contexto. Isso aqui tá um pouco do que o João fez aqui, ó. Só para te dar um pouquinho mais de contexto do que eu vejo lá do que a gente precisa ter alguma ação."
+      },
+      {
+        "startTime": 1350,
+        "endTime": 1371,
+        "speaker": "Diego Diehl",
+        "text": "Eu fiz lá eu fiz em João Pessoa em Goiânia um café com um top corretores. Que é simples, mas a gente abordou 50 12 foram mas os 50 Ficaram felizes terem sido convidados. E a gente deu na mão, só que dá para fazer em tudo que é Praça que tem gente com vergonha barata."
+      },
+      {
+        "startTime": 1371,
+        "endTime": 1393,
+        "speaker": "Diego Diehl",
+        "text": "Aqui daí O João fez uma entrevista com os corretores. Eu acho que eu não te mandei isso aqui você dá uma olhada depois. Ele perguntou. Ah o feedback daí eu depois eu peço para dar clareza do que que ele João Pessoa ao comportamento de uso do app mandou para quem mais usado e falava cara."
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1424,
+        "speaker": "Diego Diehl",
+        "text": "Que que você tá achando? Que que você mais curte para pegar essa linha? Aí o vídeo daí a gente fez uma pesquisa também sobre o que eles sentem falta na comunicação com a construtora. E a gente tá convidando também a galera para entrar em comunidade no WhatsApp. Vamos lá em João Pessoa tá com 160 corretores logo assim um pouco esforço ainda mais a ideia é ter uma comunidadezinha em cada Praça que todo o corretor tem um monte de grupo."
+      },
+      {
+        "startTime": 1424,
+        "endTime": 1443,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente tem um marketing alguém um sócio local que ajuda a mandar um dado de mercado um conteúdo. E daí o outro documento. Esse aqui eu vou te mandar também que o Nike é o resultado um pouco das interações das respostas. Eu pedi para ele por uns prints."
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1460,
+        "speaker": "Diego Diehl",
+        "text": "E aí tem uns prints relevantes aqui. Esse aqui é um ó que eu acho que o Edu vai trazer sobre problema de integração. Então tem uns printzinho. Acho que é legal bater o olho para você ver a voz do cliente ali."
+      },
+      {
+        "startTime": 1461,
+        "endTime": 1487,
+        "speaker": "Alejandro Olchik",
+        "text": "e tinha um e daí eu vou mandar um terceiro ali que é Daí a gente bate o olho só me recapitula, qual próxima reunião objetiva e o que trazer? Montar esse fluxo de convite para corretores em São Paulo, acho que a gente quer gerar um fluxo. De cadastro de corretores em cima de corretores que estão quentes na Z2, mas ainda não estão na órgão."
+      },
+      {
+        "startTime": 1487,
+        "endTime": 1510,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente tá com uma base hoje de 700, né? A gente vai extrair ela e vamos tentar montar um fluxo de convite que eu tinha imaginado. É como a gente está recebendo isso do envio da incorporadoras de um material para o corretor estaria oferecendo a integração gratuita daquela Incorporadora por corretor teria personalizar um fluxo nesse sentido."
+      },
+      {
+        "startTime": 1510,
+        "endTime": 1508,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que até pode até a porção questionamento, né? Como é que vocês"
+      },
+      {
+        "startTime": 1508,
+        "endTime": 1509,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente tem"
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1513,
+        "speaker": "Alejandro Olchik",
+        "text": "ficaram sabendo de mim, né?"
+      },
+      {
+        "startTime": 1515,
+        "endTime": 1543,
+        "speaker": "Diego Diehl",
+        "text": "Não tem o teu contato salvo aqui já faz tempo. Eu vi um treinamento de um cara ensinando corretor, pô, mas e se o cliente me questionado, eu não consegui meu número daí ele falando. Não você entrou em contato aqui, você tá na nossa base faz tempo e eu quero falar um cara nem ninguém questiona, ele só vai mas o então só para saber a gente tem a Incorporadora e o produto que ele acessou."
+      },
+      {
+        "startTime": 1543,
+        "endTime": 1546,
+        "speaker": "Diego Diehl",
+        "text": "Dá para ter uma ideia de região que ele acessou."
+      },
+      {
+        "startTime": 1547,
+        "endTime": 1547,
+        "speaker": "Alejandro Olchik",
+        "text": "temos"
+      },
+      {
+        "startTime": 1548,
+        "endTime": 1551,
+        "speaker": "Diego Diehl",
+        "text": "É muita variação de produto ou é de alguns produtos específicos?"
+      },
+      {
+        "startTime": 1552,
+        "endTime": 1553,
+        "speaker": "Alejandro Olchik",
+        "text": "Tudo Z2 por enquanto."
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1556,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1557,
+        "endTime": 1562,
+        "speaker": "Alejandro Olchik",
+        "text": "todos os produtos que a Z2 tá"
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1568,
+        "speaker": "Diego Diehl",
+        "text": "Me manda essa planilha já para ver os dados que a gente tem. Para eu ver que que dá para personalizar."
+      },
+      {
+        "startTime": 1568,
+        "endTime": 1573,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 1576,
+        "endTime": 1578,
+        "speaker": "Diego Diehl",
+        "text": "depois"
+      },
+      {
+        "startTime": 1578,
+        "endTime": 1578,
+        "speaker": "Alejandro Olchik",
+        "text": "até mais aí"
+      },
+      {
+        "startTime": 1579,
+        "endTime": 1580,
+        "speaker": "Diego Diehl",
+        "text": "falou"
+      },
+      {
+        "startTime": 1580,
+        "endTime": 1581,
+        "speaker": "Alejandro Olchik",
+        "text": "Até logo Obrigadão, cara"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 106,
+    "speakers": [
+      "Alejandro Olchik",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 3738,
+    "duration_start": 51,
+    "duration_end": 1581
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68cda19b00796f0013cb712b",
+        "timestamp": 136,
+        "text": "Contatos Z2 podem ser gerados automaticamente com opção de mensagem de boas-vindas personalizada.",
+        "topicId": "68cda19b00796f0013cb7123"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7127",
+        "timestamp": 181,
+        "text": "Corretores que enviam até três mensagens são verificados e movidos para qualificação.",
+        "topicId": "68cda19b00796f0013cb7122"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7128",
+        "timestamp": 270,
+        "text": "Possível disparar mensagens para até seis números de WhatsApp em paralelo.",
+        "topicId": "68cda19b00796f0013cb7122"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb712c",
+        "timestamp": 312,
+        "text": "Automação permite enviar mensagens periódicas para contatos que não foram contatados.",
+        "topicId": "68cda19b00796f0013cb7123"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7129",
+        "timestamp": 990,
+        "text": "Planejamento de disparar 600-700 mensagens para corretores não cadastrados na Hora.",
+        "topicId": "68cda19b00796f0013cb7122"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb712a",
+        "timestamp": 1061,
+        "text": "João pode ser responsável por realizar os disparos de mensagens.",
+        "topicId": "68cda19b00796f0013cb7122"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb712d",
+        "timestamp": 1130,
+        "text": "Proposta de migrar corretores para status 'qualificado' automaticamente após cadastro na Hora.",
+        "topicId": "68cda19b00796f0013cb7123"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7132",
+        "timestamp": 1309,
+        "text": "Alejandro sugere conversa com João para extrair planilha e montar fluxo de importação.",
+        "topicId": "68cda19b00796f0013cb7126"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7131",
+        "timestamp": 1348,
+        "text": "Diego realizou evento com 50 corretores em João Pessoa e Goiânia, obtendo feedback positivo.",
+        "topicId": "68cda19b00796f0013cb7125"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb712e",
+        "timestamp": 1403,
+        "text": "Equipe convida corretores para comunidade no WhatsApp, com objetivo de expandir engajamento local.",
+        "topicId": "68cda19b00796f0013cb7124"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb712f",
+        "timestamp": 1469,
+        "text": "Alejandro propõe fluxo de convite personalizado para corretores de São Paulo com oferta de integração.",
+        "topicId": "68cda19b00796f0013cb7124"
+      },
+      {
+        "segmentId": "68cda19b00796f0013cb7130",
+        "timestamp": 1561,
+        "text": "Diego solicita envio de planilha para análise de dados de personalização de convites.",
+        "topicId": "68cda19b00796f0013cb7124"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68cda19b00796f0013cb7122",
+        "order": 1,
+        "title": "Ações Definidas para Disparos de Mensagens",
+        "summary": ""
+      },
+      {
+        "id": "68cda19b00796f0013cb7123",
+        "order": 2,
+        "title": "Automação e Personalização de Contatos",
+        "summary": ""
+      },
+      {
+        "id": "68cda19b00796f0013cb7124",
+        "order": 3,
+        "title": "Estratégias de Expansão e Engajamento",
+        "summary": ""
+      },
+      {
+        "id": "68cda19b00796f0013cb7125",
+        "order": 4,
+        "title": "Eventos e Feedback de Corretores",
+        "summary": ""
+      },
+      {
+        "id": "68cda19b00796f0013cb7126",
+        "order": 5,
+        "title": "Planejamento de Importação e Fluxo",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 12,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68cda19b00796f0013cb7122",
+      "order": 1,
+      "title": "Ações Definidas para Disparos de Mensagens",
+      "summary": ""
+    },
+    {
+      "id": "68cda19b00796f0013cb7123",
+      "order": 2,
+      "title": "Automação e Personalização de Contatos",
+      "summary": ""
+    },
+    {
+      "id": "68cda19b00796f0013cb7124",
+      "order": 3,
+      "title": "Estratégias de Expansão e Engajamento",
+      "summary": ""
+    },
+    {
+      "id": "68cda19b00796f0013cb7125",
+      "order": 4,
+      "title": "Eventos e Feedback de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "68cda19b00796f0013cb7126",
+      "order": 5,
+      "title": "Planejamento de Importação e Fluxo",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:48:15.657190+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:48:15.657190+00:00"
+}

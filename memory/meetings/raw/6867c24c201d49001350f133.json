@@ -1,0 +1,44 @@
+{
+  "id": "6867c24c201d49001350f133",
+  "happenedAt": "2025-07-04T12:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Maria Dandara da Silva Pereira",
+      "email": "mariadandara.pereira@orulo.com.br"
+    }
+  ],
+  "name": "Alinhamento entre Comercial & CS",
+  "duration": 3639.297,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6867c24c201d49001350f133",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "qrx-kfjp-nfk"
+  }
+}

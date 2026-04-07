@@ -1,0 +1,445 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66a25f60e3399a0013769ff2",
+      "timestamp": 442,
+      "text": "Proposta de um fluxo ideal para a demonstração, incluindo saudações, requisição de materiais e perguntas controladas.",
+      "topicId": "66a25f60e3399a0013769fdd"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff3",
+      "timestamp": 498,
+      "text": "Discussão sobre a necessidade de realizar testes antes da demonstração para garantir o bom funcionamento do bot.",
+      "topicId": "66a25f60e3399a0013769fdd"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff4",
+      "timestamp": 541,
+      "text": "Discussão sobre a necessidade de o bot ser capaz de responder a saudações do cliente.",
+      "topicId": "66a25f60e3399a0013769fde"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff5",
+      "timestamp": 633,
+      "text": "Consideração sobre a importância de o bot reagir de forma adequada às saudações do cliente, levando em conta o histórico de conversas.",
+      "topicId": "66a25f60e3399a0013769fde"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff6",
+      "timestamp": 866,
+      "text": "Discussão sobre a importância de o bot ser capaz de responder rapidamente às saudações do cliente, para melhorar a experiência do usuário.",
+      "topicId": "66a25f60e3399a0013769fdf"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff7",
+      "timestamp": 911,
+      "text": "Consideração sobre a necessidade de otimizar o sistema para melhorar o tempo de resposta e o coeficiente de esforço do bot.",
+      "topicId": "66a25f60e3399a0013769fdf"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff8",
+      "timestamp": 962,
+      "text": "Consideração sobre a necessidade de o bot não parecer um robô para o cliente, a fim de aumentar o valor agregado do serviço.",
+      "topicId": "66a25f60e3399a0013769fe0"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ff9",
+      "timestamp": 1020,
+      "text": "Análise sobre a tendência de as pessoas não quererem falar com algo que não seja inteligente e que não resolva seus problemas.",
+      "topicId": "66a25f60e3399a0013769fe0"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ffa",
+      "timestamp": 1221,
+      "text": "Victor menciona que há um monte de IDs no banco de dados e que será necessário criar um tratamento diferente no sistema para lidar com isso.",
+      "topicId": "66a25f60e3399a0013769fe1"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ffb",
+      "timestamp": 1233,
+      "text": "Victor comenta sobre a necessidade de mudar a descrição dos arquivos quando for necessário informar o nome do arquivo.",
+      "topicId": "66a25f60e3399a0013769fe1"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ffc",
+      "timestamp": 1507,
+      "text": "Diego menciona que é importante discutir os mecanismos para realizar o cadastro de contatos que não estão na Plus e também o rastreamento de conversas.",
+      "topicId": "66a25f60e3399a0013769fe2"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ffd",
+      "timestamp": 1534,
+      "text": "Diego precisa saber os emojis que são usados para ligar e desligar o rastreamento de conversas.",
+      "topicId": "66a25f60e3399a0013769fe2"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769ffe",
+      "timestamp": 1565,
+      "text": "Victor explica que a estratégia para cadastrar contatos fora da Plus é fazer um disparo em uma lista de transmissão, mas que é necessário ter cuidado com o volume de envios para evitar problemas.",
+      "topicId": "66a25f60e3399a0013769fe2"
+    },
+    {
+      "segmentId": "66a25f60e3399a0013769fff",
+      "timestamp": 1650,
+      "text": "Diego sugere que Victor se alinhe com o Johnny para verificar se o cadastro de contatos vai fluir da mesma forma para os novos clientes, alinhado com o modelo Exo.",
+      "topicId": "66a25f60e3399a0013769fe3"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a000",
+      "timestamp": 1683,
+      "text": "Diego menciona que está implementando o envio de emojis de cadastro, mas que precisa verificar se o cadastro já foi realizado anteriormente.",
+      "topicId": "66a25f60e3399a0013769fe4"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a001",
+      "timestamp": 1712,
+      "text": "Diego anota que precisa verificar se o usuário já foi cadastrado em outro momento, possivelmente por outro gerente.",
+      "topicId": "66a25f60e3399a0013769fe4"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a002",
+      "timestamp": 1750,
+      "text": "Diego explica que há uma confusão e bagunça na gestão de carteira de clientes, com os corretores não sabendo quem é o responsável por cada cliente.",
+      "topicId": "66a25f60e3399a0013769fe5"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a003",
+      "timestamp": 1780,
+      "text": "Diego sugere que seria interessante ter um campo para adicionar vários responsáveis por cada cliente, de forma a resolver esse desafio.",
+      "topicId": "66a25f60e3399a0013769fe5"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a004",
+      "timestamp": 2029,
+      "text": "Diego explica que precisa de uma tabela com informações sobre a interação entre gerentes e corretores, como datas de últimas mensagens enviadas e recebidas, e volumes de mensagens nos últimos 90 dias.",
+      "topicId": "66a25f60e3399a0013769fe6"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a005",
+      "timestamp": 2095,
+      "text": "Victor confirma que ainda não havia recebido essa solicitação do Johnny, e discute com Diego sobre a viabilidade de obter esses dados.",
+      "topicId": "66a25f60e3399a0013769fe6"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a006",
+      "timestamp": 2426,
+      "text": "Discutem sobre como saber quantos usuários estão em contato com a empresa e se há conversas em aberto que não foram respondidas.",
+      "topicId": "66a25f60e3399a0013769fe7"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a007",
+      "timestamp": 2470,
+      "text": "Concordam em desenvolver uma documentação específica sobre as métricas que podem ser coletadas, como mensagens enviadas e recebidas, e a evolução do tempo de resposta.",
+      "topicId": "66a25f60e3399a0013769fe7"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a008",
+      "timestamp": 2556,
+      "text": "Diego enfatiza a importância dessas métricas de mensagens enviadas e recebidas, pois podem fornecer uma métrica de desempenho da equipe de vendas conectada diretamente ao WhatsApp.",
+      "topicId": "66a25f60e3399a0013769fe7"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a009",
+      "timestamp": 2595,
+      "text": "Discutem sobre começar a coletar métricas básicas, como número de mensagens enviadas e recebidas, e evoluir para métricas mais refinadas, como tempo de resposta e qualidade das conversas.",
+      "topicId": "66a25f60e3399a0013769fe7"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00a",
+      "timestamp": 2634,
+      "text": "Victor menciona que estão analisando as conversas e ajustando os parâmetros, como penalização de presença, finalização de ausência e temperatura, para tornar o produto mais determinístico e preciso na execução de instruções.",
+      "topicId": "66a25f60e3399a0013769fe8"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00b",
+      "timestamp": 2776,
+      "text": "Victor verifica o status da versão atual e menciona que em alguns casos não estão chamando corretamente a função de envio de mídia, mas que a capacidade de enviar o Algarve está consistente.",
+      "topicId": "66a25f60e3399a0013769fe8"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00c",
+      "timestamp": 2871,
+      "text": "Victor informa que está pedindo o arquivo e que o produto está enviando, indicando que estão alinhando o comportamento do produto.",
+      "topicId": "66a25f60e3399a0013769fe8"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00d",
+      "timestamp": 3002,
+      "text": "Victor menciona que estão testando e ajustando a janela de tempo para melhorar o desempenho do produto.",
+      "topicId": "66a25f60e3399a0013769fe8"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00e",
+      "timestamp": 3105,
+      "text": "Diego enfatiza a necessidade de simplificar algo agora para viabilizar as vendas e atender os primeiros clientes, mesmo que com algumas limitações, para gerar receita e poder acelerar o desenvolvimento.",
+      "topicId": "66a25f60e3399a0013769fe9"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a00f",
+      "timestamp": 3134,
+      "text": "Diego sugere que os primeiros clientes possam gerar uma receita recorrente de 5 a 10 mil reais, o que ajudaria a estruturar a equipe e acelerar o desenvolvimento.",
+      "topicId": "66a25f60e3399a0013769fe9"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a011",
+      "timestamp": 3149,
+      "text": "Diego expressa a sensação de que o desafio atual é entregar algo funcional o mais rápido possível, mesmo que com algumas limitações, para não perder o embalo e os clientes interessados.",
+      "topicId": "66a25f60e3399a0013769fea"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a010",
+      "timestamp": 3202,
+      "text": "Diego e Victor concordam que o mercado está validado, com clientes interessados e dispostos a comprar o produto, e que agora o desafio é entregar uma versão mínima viável.",
+      "topicId": "66a25f60e3399a0013769fe9"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a012",
+      "timestamp": 3377,
+      "text": "Diego e Victor concordam em usar o que já foi desenvolvido, como o envio de mídia, e focar em entregar uma versão funcional, mesmo que com ajustes e melhorias futuras.",
+      "topicId": "66a25f60e3399a0013769fea"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a013",
+      "timestamp": 3458,
+      "text": "Victor reafirma o compromisso da equipe em acelerar, estabilizar e fazer o produto funcionar, alinhado com o objetivo de Diego.",
+      "topicId": "66a25f60e3399a0013769fea"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a014",
+      "timestamp": 3487,
+      "text": "Victor menciona que irá enviar algumas perguntas ou um roteiro para continuarem a conversa e ajustar a memória do agente, que pode estar atrapalhando o envio de arquivos.",
+      "topicId": "66a25f60e3399a0013769fea"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a015",
+      "timestamp": 3855,
+      "text": "Diego propõe uma revisão estratégica do produto, com foco em mapear o que já foi feito, o que pode ser melhorado e avaliar possíveis funcionalidades fáceis de implementar.",
+      "topicId": "66a25f60e3399a0013769feb"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a016",
+      "timestamp": 3981,
+      "text": "Diego pergunta a Victor sobre sua visão para complementar a demonstração, incluindo a estrutura de arquivos, a criação de tarefas e a geração de resumos.",
+      "topicId": "66a25f60e3399a0013769feb"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a017",
+      "timestamp": 4081,
+      "text": "Diego solicita a revisão de Victor sobre a estrutura de arquivos e fontes, para que possa passar essa informação aos clientes e discutir a possibilidade de enviar prompts para ajustes.",
+      "topicId": "66a25f60e3399a0013769fec"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a018",
+      "timestamp": 4147,
+      "text": "Victor sugere marcar uma reunião para documentar e detalhar o funcionamento da estrutura de arquivos e personalização, visando criar um pacote informativo para os clientes.",
+      "topicId": "66a25f60e3399a0013769fec"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a019",
+      "timestamp": 4294,
+      "text": "Diego solicita o prompt utilizado para a geração de e-mails, a fim de entender melhor esse recurso e como pode ser personalizado.",
+      "topicId": "66a25f60e3399a0013769fed"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01a",
+      "timestamp": 4338,
+      "text": "Diego questiona sobre o prompt utilizado para a geração de resumos configuráveis, e sugere a inclusão de informações específicas do mercado imobiliário.",
+      "topicId": "66a25f60e3399a0013769fed"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01b",
+      "timestamp": 4486,
+      "text": "Diego pergunta sobre o prompt utilizado para a criação de tarefas, e se há instruções mais específicas para esse recurso.",
+      "topicId": "66a25f60e3399a0013769fed"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01c",
+      "timestamp": 4592,
+      "text": "Diego comenta sobre a integração com o Google Calendar, observando que a criação de tarefas estava sendo feita de forma diferente do esperado.",
+      "topicId": "66a25f60e3399a0013769fed"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01d",
+      "timestamp": 4704,
+      "text": "Diego questiona sobre o recurso de envio de mensagens, que às vezes não se atualiza com o registro de interação, e se há clientes usando esse recurso em produção.",
+      "topicId": "66a25f60e3399a0013769fee"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01e",
+      "timestamp": 4730,
+      "text": "Diego sugere a implementação de um recurso para enviar relatórios recorrentes via WhatsApp, e questiona se isso seria viável quando tiverem um tempo disponível.",
+      "topicId": "66a25f60e3399a0013769fee"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a01f",
+      "timestamp": 4789,
+      "text": "Diego questiona sobre a viabilidade de rodar o envio de e-mails de oportunidades de forma recorrente, considerando o custo envolvido.",
+      "topicId": "66a25f60e3399a0013769fee"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a020",
+      "timestamp": 4830,
+      "text": "Victor explica que a empresa analisa o volume de conversas para tomar decisões, mesmo que isso acabe ficando um pouco caro.",
+      "topicId": "66a25f60e3399a0013769fef"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a021",
+      "timestamp": 4843,
+      "text": "Diego entende que a empresa analisa os resumos das conversas, e não a íntegra, para evitar custos elevados.",
+      "topicId": "66a25f60e3399a0013769fef"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a022",
+      "timestamp": 4860,
+      "text": "Victor sugere que uma frequência semanal de treinamento é mais adequada para a equipe conseguir absorver melhor o conteúdo.",
+      "topicId": "66a25f60e3399a0013769ff0"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a023",
+      "timestamp": 4869,
+      "text": "Diego pergunta a Victor sobre as instruções que ele iria enviar, e Victor confirma que irá enviá-las.",
+      "topicId": "66a25f60e3399a0013769ff1"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a024",
+      "timestamp": 4895,
+      "text": "Victor explica que a memória do sistema é resetada a cada 5 minutos, para que o modelo possa tomar decisões mais acertadas.",
+      "topicId": "66a25f60e3399a0013769ff1"
+    },
+    {
+      "segmentId": "66a25f60e3399a001376a025",
+      "timestamp": 4925,
+      "text": "Diego informa a Victor sobre as demonstrações que fará hoje às 15:15 e amanhã às 12:15, para que Victor fique ciente.",
+      "topicId": "66a25f60e3399a0013769ff1"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66a25f60e3399a0013769fdd",
+      "order": 1,
+      "title": "Preparação da demonstração",
+      "summary": "Discussão sobre como preparar a demonstração para o cliente, incluindo saudações, requisição de materiais e perguntas controladas."
+    },
+    {
+      "id": "66a25f60e3399a0013769fde",
+      "order": 2,
+      "title": "Saudações e histórico de conversas",
+      "summary": "Análise sobre como o bot deve responder a saudações do cliente, levando em consideração o histórico de conversas."
+    },
+    {
+      "id": "66a25f60e3399a0013769fdf",
+      "order": 3,
+      "title": "Otimização do sistema",
+      "summary": "Análise sobre a necessidade de otimizar o sistema para melhorar o tempo de resposta e o coeficiente de esforço do bot."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe0",
+      "order": 4,
+      "title": "Percepção do cliente sobre o bot",
+      "summary": "Discussão sobre a importância de o bot não parecer um robô para o cliente, a fim de aumentar o valor agregado do serviço."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe1",
+      "order": 5,
+      "title": "Tratamento de nomes e descrições de arquivos",
+      "summary": "Discussão sobre a necessidade de criar um tratamento diferente para nomes e descrições de arquivos no sistema."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe2",
+      "order": 6,
+      "title": "Cadastro de contatos fora da Plus",
+      "summary": "Discussão sobre os mecanismos para realizar o cadastro de contatos que não estão na Plus e o rastreamento de conversas."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe3",
+      "order": 7,
+      "title": "Alinhamento com o Johnny sobre o cadastro de contatos",
+      "summary": "Discussão sobre a necessidade de alinhar com o Johnny o processo de cadastro de contatos, especialmente para os novos clientes."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe4",
+      "order": 8,
+      "title": "Implementação do cadastro de contatos",
+      "summary": "Discussão sobre os próximos passos na implementação do cadastro de contatos, incluindo a verificação de se o usuário já foi cadastrado anteriormente."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe5",
+      "order": 9,
+      "title": "Desafios na gestão de carteira de clientes",
+      "summary": "Discussão sobre os desafios enfrentados na gestão de carteira de clientes, incluindo a necessidade de atribuir responsabilidades aos corretores."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe6",
+      "order": 10,
+      "title": "Obtenção de dados de interação com corretores",
+      "summary": "Discussão sobre a necessidade de obter dados de interação com os corretores, como datas de últimas mensagens enviadas e recebidas, e volumes de mensagens nos últimos 90 dias."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe7",
+      "order": 11,
+      "title": "Métricas de desempenho da equipe de vendas",
+      "summary": "Discussão sobre métricas de desempenho da equipe de vendas, como mensagens enviadas e recebidas, tempo de resposta e qualidade das conversas."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe8",
+      "order": 12,
+      "title": "Ajustes no produto para melhorar a estabilidade",
+      "summary": "Discussão sobre ajustes no produto, como modificações nos parâmetros de linguagem e chamadas de função, para melhorar a estabilidade e a capacidade de seguir instruções."
+    },
+    {
+      "id": "66a25f60e3399a0013769fe9",
+      "order": 13,
+      "title": "Foco em entregar uma versão mínima viável",
+      "summary": "Discussão sobre a necessidade de entregar uma versão mínima viável do produto para atender aos primeiros clientes e gerar receita, mesmo que com algumas limitações."
+    },
+    {
+      "id": "66a25f60e3399a0013769fea",
+      "order": 14,
+      "title": "Alinhamento de expectativas e próximos passos",
+      "summary": "Discussão sobre o alinhamento de expectativas e os próximos passos para entregar uma versão funcional do produto."
+    },
+    {
+      "id": "66a25f60e3399a0013769feb",
+      "order": 15,
+      "title": "Atualizações e Próximos Passos",
+      "summary": "Discussão sobre atualizações no produto, próximos passos e a necessidade de uma revisão estratégica do produto como um todo."
+    },
+    {
+      "id": "66a25f60e3399a0013769fec",
+      "order": 16,
+      "title": "Estrutura de Arquivos e Personalização",
+      "summary": "Discussão sobre a estrutura de arquivos, a personalização de prompts e a autonomia do cliente na atualização de conteúdo."
+    },
+    {
+      "id": "66a25f60e3399a0013769fed",
+      "order": 17,
+      "title": "Recursos de Automação e Integração",
+      "summary": "Discussão sobre os recursos de automação, como a geração de e-mails, resumos e criação de tarefas, bem como a integração com o Google Calendar."
+    },
+    {
+      "id": "66a25f60e3399a0013769fee",
+      "order": 18,
+      "title": "Recursos Experimentais e Próximos Passos",
+      "summary": "Discussão sobre recursos experimentais, como o envio de relatórios recorrentes via WhatsApp, e a viabilidade de implementá-los."
+    },
+    {
+      "id": "66a25f60e3399a0013769fef",
+      "order": 19,
+      "title": "Análise de conversas e custos",
+      "summary": "Discussão sobre como a empresa analisa as conversas dos clientes e os custos envolvidos nesse processo."
+    },
+    {
+      "id": "66a25f60e3399a0013769ff0",
+      "order": 20,
+      "title": "Frequência de treinamento",
+      "summary": "Discussão sobre a frequência ideal de treinamento para a equipe absorver melhor as informações."
+    },
+    {
+      "id": "66a25f60e3399a0013769ff1",
+      "order": 21,
+      "title": "Próximos passos e instruções",
+      "summary": "Discussão sobre as próximas etapas e instruções que Victor irá enviar para Diego."
+    }
+  ]
+}

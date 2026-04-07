@@ -1,0 +1,690 @@
+{
+  "id": "66b274270bcb0b0012674c9c",
+  "meetingId": "66b274225a4b1d0013885295",
+  "data": [
+    {
+      "startTime": 2,
+      "endTime": 2,
+      "speaker": "Luciano Matteelli",
+      "text": "O Gabriel você tem aí?"
+    },
+    {
+      "startTime": 2,
+      "endTime": 2,
+      "speaker": "Diego Diehl",
+      "text": "Eu posso."
+    },
+    {
+      "startTime": 2,
+      "endTime": 4,
+      "speaker": "Leticia Borges",
+      "text": "ali, não é a mesma da ferramenta quando o Luciano for mostrando ali as integrações. Acho que isso vai ficar mais claro, tá? Lu, acho que vale a pena a gente pode"
+    },
+    {
+      "startTime": 4,
+      "endTime": 11,
+      "speaker": "Luciano Matteelli",
+      "text": "ambiente de débito?"
+    },
+    {
+      "startTime": 11,
+      "endTime": 11,
+      "speaker": "Gabriel Kizirian",
+      "text": "Tenho tenho você quer que eu te"
+    },
+    {
+      "startTime": 11,
+      "endTime": 11,
+      "speaker": "Leticia Borges",
+      "text": "falar"
+    },
+    {
+      "startTime": 11,
+      "endTime": 19,
+      "speaker": "Gabriel Kizirian",
+      "text": "mando aqui? Eu tenho aqui. Você quer que eu te mando Luciano?"
+    },
+    {
+      "startTime": 19,
+      "endTime": 20,
+      "speaker": "Luciano Matteelli",
+      "text": "Pode pode mandar."
+    },
+    {
+      "startTime": 20,
+      "endTime": 22,
+      "speaker": "Gabriel Kizirian",
+      "text": "Beleza vou te mandar aqui."
+    },
+    {
+      "startTime": 22,
+      "endTime": 23,
+      "speaker": "Luciano Matteelli",
+      "text": "Mas se quiser entender."
+    },
+    {
+      "startTime": 27,
+      "endTime": 53,
+      "speaker": "Diego Diehl",
+      "text": "Eu só tô preocupado em ir para uma demo meio até pode ser pode ser aberta, a gente vai ganhando mais visão das possibilidades também, né? Mas se puder direcionar. Para o que a gente sabe usando. Nossa ter nós termos mais internos que é o nosso robô respondendo quando solicitado Esse é o meu Core hoje."
+    },
+    {
+      "startTime": 53,
+      "endTime": 64,
+      "speaker": "Diego Diehl",
+      "text": "Se tiver só isso eu vendo. Daí se eu tiver que dar toda uma volta para entender isso eu vou ficar ansioso, não vou nem conseguir prestar atenção. Recomeçar por esse for possível."
+    },
+    {
+      "startTime": 66,
+      "endTime": 77,
+      "speaker": "Luciano Matteelli",
+      "text": "melhor então. Pessoal, o que que realmente a expectativa de vocês para a gente direcionar a reunião para imagem que é mais importante do que passar pela plataforma toda, né falar de rebote"
+    },
+    {
+      "startTime": 77,
+      "endTime": 78,
+      "speaker": "Diego Diehl",
+      "text": "você"
+    },
+    {
+      "startTime": 78,
+      "endTime": 83,
+      "speaker": "Luciano Matteelli",
+      "text": "falar de promove aí. Enfim. Acho que é importante a gente"
+    },
+    {
+      "startTime": 83,
+      "endTime": 83,
+      "speaker": "Diego Diehl",
+      "text": "então"
+    },
+    {
+      "startTime": 83,
+      "endTime": 86,
+      "speaker": "Luciano Matteelli",
+      "text": "entender esse ciclo eu acho que faz sentido isso de você. Daí o medo."
+    },
+    {
+      "startTime": 86,
+      "endTime": 87,
+      "speaker": "Diego Diehl",
+      "text": "tá"
+    },
+    {
+      "startTime": 87,
+      "endTime": 100,
+      "speaker": "Eduardo Stringhini",
+      "text": "A gente já fez uma primeira reunião, tá? Então na verdade a reunião eu acho difícil tocar essa reunião sem o Leandro porque a gente a gente fez a primeira reunião explicou o produto ele entendeu? E aí ele nos mostrar uma poc hoje, então a gente"
+    },
+    {
+      "startTime": 100,
+      "endTime": 112,
+      "speaker": "Diego Diehl",
+      "text": "E a Letícia sabe já o contexto Luciano? tá"
+    },
+    {
+      "startTime": 112,
+      "endTime": 118,
+      "speaker": "Luciano Matteelli",
+      "text": "porta preparada, eu acho que talvez isso o Leandro tenha feito no ambiente desses de desenvolvimento de"
+    },
+    {
+      "startTime": 118,
+      "endTime": 118,
+      "speaker": "Diego Diehl",
+      "text": "tá"
+    },
+    {
+      "startTime": 118,
+      "endTime": 130,
+      "speaker": "Luciano Matteelli",
+      "text": "produto aí o Gabriel que quer time do Leandro também não tá com entendimento disso, né? Então enfim. Eu não sei acho que ele disse. Talvez teria que que remarcar mesmo olhar."
+    },
+    {
+      "startTime": 130,
+      "endTime": 134,
+      "speaker": "Leticia Borges",
+      "text": "Oi Ale"
+    },
+    {
+      "startTime": 135,
+      "endTime": 153,
+      "speaker": "Luciano Matteelli",
+      "text": "Bem sincero pessoal jogando uma transparência o que que eu vou conseguir fazer uma apresentação geral da plataforma, né? Talvez Gabriel tirar algumas dúvidas, mas se tem uma coisa muito mais personalizada muito mais entendimento do que vocês conversaram. Tecnicamente falando não sei se a gente conseguiria passar muito."
+    },
+    {
+      "startTime": 156,
+      "endTime": 177,
+      "speaker": "Eduardo Stringhini",
+      "text": "No contexto aqui O Leandro fez uma cirurgia, ele achou que ia estar melhor não vai conseguir participar. E aí a discussão aqui se vale a pena a gente. A gente já fez uma reunião explicar o produto usando essas cidades a ideia hoje era realmente mostrar mais específico para nossa nosso caso aqui, né? Bem específico mesmo vale a pena a gente vai marcar porque"
+    },
+    {
+      "startTime": 177,
+      "endTime": 179,
+      "speaker": "Alejandro Olchik",
+      "text": "Vamos marcar Vamos marcar."
+    },
+    {
+      "startTime": 181,
+      "endTime": 187,
+      "speaker": "Leticia Borges",
+      "text": "quiserem ver a ferramenta o robozinho funcionando em outros cases pode valer a pena também."
+    },
+    {
+      "startTime": 192,
+      "endTime": 195,
+      "speaker": "Felipe Goettems",
+      "text": "Não sei se não vale a pena em algum Case."
+    },
+    {
+      "startTime": 197,
+      "endTime": 205,
+      "speaker": "Leandro Rossi",
+      "text": "Acabei de vir de uma cirurgia de extrair o dente aqui, não consigo nem falar com você, me desculpe."
+    },
+    {
+      "startTime": 205,
+      "endTime": 207,
+      "speaker": "Leticia Borges",
+      "text": "Não fica tranquila."
+    },
+    {
+      "startTime": 207,
+      "endTime": 209,
+      "speaker": "Luciano Matteelli",
+      "text": "Eu quero você aqui aqui, a gente estava falando que a reunião é."
+    },
+    {
+      "startTime": 221,
+      "endTime": 253,
+      "speaker": "Leandro Rossi",
+      "text": "Eu vou eu tô em casa. Eu acessei todos em de pães da pi passei para o Gabriel agora de manhã. E eu consigo montar o comecei a montar um pedacinho do bote. E mais não deu tempo de terminar hoje foi um dia muito difícil. Desculpa pessoal, mas acho que a melhorando um pouquinho eu já monto aqui hoje à noite e aí eu aviso vocês a gente consegue fazer amanhã."
+    },
+    {
+      "startTime": 253,
+      "endTime": 258,
+      "speaker": "Diego Diehl",
+      "text": "Eles querem achar um horário já aproveitar que tá todo mundo sincronizado. A gente já deixa agendado."
+    },
+    {
+      "startTime": 258,
+      "endTime": 279,
+      "speaker": "Leandro Rossi",
+      "text": "Deixa eu ver aqui. Depois das 14 quanto mais final da tarde para mim Melhor Desculpa mesmo pessoal, mas hoje eu achei que ia sair melhor essa cirurgia mas não rolou não."
+    },
+    {
+      "startTime": 279,
+      "endTime": 281,
+      "speaker": "Leticia Borges",
+      "text": "Ainda mais dente, né? Dói demais."
+    },
+    {
+      "startTime": 281,
+      "endTime": 286,
+      "speaker": "Leandro Rossi",
+      "text": "nossa Achei que ia tá melhor."
+    },
+    {
+      "startTime": 286,
+      "endTime": 290,
+      "speaker": "Alejandro Olchik",
+      "text": "Querem fazer 17 anos."
+    },
+    {
+      "startTime": 290,
+      "endTime": 292,
+      "speaker": "Eduardo Stringhini",
+      "text": "Eu assim que eu não posso. Eu posso das duas às 5:00 nesse"
+    },
+    {
+      "startTime": 292,
+      "endTime": 295,
+      "speaker": "Leticia Borges",
+      "text": "Pode ser?"
+    },
+    {
+      "startTime": 295,
+      "endTime": 296,
+      "speaker": "Eduardo Stringhini",
+      "text": "intervalo."
+    },
+    {
+      "startTime": 296,
+      "endTime": 299,
+      "speaker": "Alejandro Olchik",
+      "text": "quatro"
+    },
+    {
+      "startTime": 299,
+      "endTime": 300,
+      "speaker": "Eduardo Stringhini",
+      "text": "4 eu posso"
+    },
+    {
+      "startTime": 300,
+      "endTime": 300,
+      "speaker": "Leandro Rossi",
+      "text": "Gabriel só me faz um favor."
+    },
+    {
+      "startTime": 300,
+      "endTime": 302,
+      "speaker": "Leticia Borges",
+      "text": "pronto"
+    },
+    {
+      "startTime": 302,
+      "endTime": 302,
+      "speaker": "Diego Diehl",
+      "text": "após"
+    },
+    {
+      "startTime": 302,
+      "endTime": 321,
+      "speaker": "Leandro Rossi",
+      "text": "aproveitar essa cola aqui só para entender o fluxo do bote a história do corretor que eu te expliquei um pouquinho na hora de manhã. Tenta só Gabriel pegar com eles um pouquinho do fluxo. Que aí depois eu conecto nas apis aqui ou você mesmo faz só aproveita isso deixa mais ou menos pronto."
+    },
+    {
+      "startTime": 321,
+      "endTime": 330,
+      "speaker": "Leandro Rossi",
+      "text": "Que amanhã a gente a gente fica mais mais tranquilo para mostrar para eles. aproveita um pouquinho dessa forma aqui que tá todo mundo aqui só para entender as expectativas ali do qual"
+    },
+    {
+      "startTime": 330,
+      "endTime": 331,
+      "speaker": "Gabriel Kizirian",
+      "text": "beleza"
+    },
+    {
+      "startTime": 332,
+      "endTime": 367,
+      "speaker": "Leandro Rossi",
+      "text": "que é a pesquisa do corretor daqueles de Pontes que eu fiz tinha poucos poucos estados ali poucos Imóveis. exemplo. Ele retornou, acho que Morro Grande Morro bonito alguma coisa assim como bairro e poucos Imóveis que eu passei até O Alejandro me deu uma dica aqui se puder pegar. Só um fluxo que normalmente mais acontece discutir com o Alejandro isso a gente a gente termina amanhã."
+    },
+    {
+      "startTime": 367,
+      "endTime": 369,
+      "speaker": "Gabriel Kizirian",
+      "text": "beleza"
+    },
+    {
+      "startTime": 369,
+      "endTime": 391,
+      "speaker": "Alejandro Olchik",
+      "text": "Na verdade o fluxo Gabriel seguinte a gente o foco aqui é um agente de atendimento para Incorporadora tá então por isso que a gente liberou no caso específico Empreendimentos de um Incorporadora. Então é ele tem que atender com base nesses dados demandas de corretores em relação a essa Incorporadora."
+    },
+    {
+      "startTime": 391,
+      "endTime": 410,
+      "speaker": "Alejandro Olchik",
+      "text": "Então é basicamente o que a gente quer ver É daqui a pouco podendo interagir para o WhatsApp, né? E aí eu vou deixar depois do Diego o Edu falar que casos mais emblemáticos assim, né, mas o fluxo gerava isso a corretora entrando pelo WhatsApp interagindo e o agente respondendo com os dados que tem dos produtos."
+    },
+    {
+      "startTime": 411,
+      "endTime": 434,
+      "speaker": "Leandro Rossi",
+      "text": "Acho que é identificar Gabriel basicamente podia fazer uma intenção de dormitórios garagens e o nome do empreendimento. Bem simples só para a gente bater na no end Point e visualizar e depois que ele filtra o imóvel que foi aquele que ele escolheu dá para fazer um pouco mais de perguntas sobre aquele imóvel naquele GAT específico de um imóvel que o Alejandro passou para mim."
+    },
+    {
+      "startTime": 434,
+      "endTime": 437,
+      "speaker": "Leandro Rossi",
+      "text": "Acho que ontem à tarde."
+    },
+    {
+      "startTime": 437,
+      "endTime": 437,
+      "speaker": "Alejandro Olchik",
+      "text": "O contexto que a gente trabalhando"
+    },
+    {
+      "startTime": 437,
+      "endTime": 438,
+      "speaker": "Leandro Rossi",
+      "text": "acho"
+    },
+    {
+      "startTime": 438,
+      "endTime": 458,
+      "speaker": "Alejandro Olchik",
+      "text": "mais até é de corretores que tem dúvidas não são que estão fazendo busca, né? Me corrige do Diego, eles têm dúvidas sobre o preenchimento eles querem. Olha me manda o material desse empreendimento. Como é que tá o preço? Esse empreendimento já são coisas mais direcionadas, não é? Não é uma uma atenção de pesquisa."
+    },
+    {
+      "startTime": 458,
+      "endTime": 459,
+      "speaker": "Alejandro Olchik",
+      "text": "Pode falar aí."
+    },
+    {
+      "startTime": 460,
+      "endTime": 488,
+      "speaker": "Diego Diehl",
+      "text": "MVP assim Gente o que mais no sentido do que mais agrega valor valor solicitações de informações atualizadas Então daí a hora não tem esse poder de ter os arquivos atualizados. Ter as vezes então principalmente arquivo ou os corretores solicitam solicitam informações no sentido de mídias principalmente. Então me manda a tabela de preços do produto tal, você tem que olhar."
+    },
+    {
+      "startTime": 488,
+      "endTime": 500,
+      "speaker": "Diego Diehl",
+      "text": "Então os arquivos que esses produtos têm as URL lá tem um nome e esse envio de arquivos que é a principal dor que os corretores solicitam para o time da Incorporadora responder."
+    },
+    {
+      "startTime": 504,
+      "endTime": 521,
+      "speaker": "Leandro Rossi",
+      "text": "ali quando você tem uma Reizinho que ele retorna é uma rede de arquivos Tem um handpoint Gabriel de mídias tem a planta tem as imagens então daria para pegar a planta. Por exemplo quando for a intenção e enviar a planta para ele, sabe? Como anexo do arquivo?"
+    },
+    {
+      "startTime": 521,
+      "endTime": 525,
+      "speaker": "Gabriel Kizirian",
+      "text": "Mas aí eles já fazem a busca já direcionada para um imóvel que eles têm já."
+    },
+    {
+      "startTime": 525,
+      "endTime": 556,
+      "speaker": "Leandro Rossi",
+      "text": "Não eu como uma porca ficaria mais legal fazer uma busca para entender assim uma pipoca que eu acho que representa bem o que a gente quer fazer usa vários handpoints, eu acho que faz uma entende as intenções. Depois que entendeu a intenção localiza os imóveis daquelas intenções abre aquele carrosselzinho que eu te mostrei faz aquele Call to Action de um de um único cara."
+    },
+    {
+      "startTime": 556,
+      "endTime": 565,
+      "speaker": "Leandro Rossi",
+      "text": "E desse cara permita que ele Faça mais pergunta sobre aquele cara escolhido. Acho que fazer isso vai dar uma boa impressão da Pó que ele"
+    },
+    {
+      "startTime": 567,
+      "endTime": 582,
+      "speaker": "Eduardo Stringhini",
+      "text": "Só só é importante tá pessoal bem assim objetivo é não é para ser um consultor para ficar fazendo busca de vários Imóveis as dúvidas, elas sempre estão sob um imóvel específicos, entendeu? Então."
+    },
+    {
+      "startTime": 582,
+      "endTime": 582,
+      "speaker": "Leandro Rossi",
+      "text": "Então tira a primeira parte Eduardo"
+    },
+    {
+      "startTime": 582,
+      "endTime": 584,
+      "speaker": "Eduardo Stringhini",
+      "text": "é"
+    },
+    {
+      "startTime": 584,
+      "endTime": 586,
+      "speaker": "Leandro Rossi",
+      "text": "Não precisa buscar o imóvel."
+    },
+    {
+      "startTime": 586,
+      "endTime": 601,
+      "speaker": "Diego Diehl",
+      "text": "Na verdade ele vai referência assim para um futuro a gente óbvio que vai querer, né? O cara chega perguntando para Incorporadora assim. Você tem? apartamento dois quartos com suíte no bairro tal às vezes eles perguntam"
+    },
+    {
+      "startTime": 601,
+      "endTime": 602,
+      "speaker": "Leandro Rossi",
+      "text": "Achei que fosse."
+    },
+    {
+      "startTime": 602,
+      "endTime": 635,
+      "speaker": "Diego Diehl",
+      "text": "Mas hoje é mas hoje com a orlon ele também busca já filtrando na nossa ferramenta, né? Sendo mais específico do que tá gerando valor, eu acabei de apresentar aqui agora. Um pouco da solução para o time né que a gente fechou aqui já todo mundo incorpora. E eles não querem um robô respondendo o corretor não quer falar com Robô o corretor quer falar com o time, só que o time gargala dentro de alguma solicitações então que a gente tá como produto hoje."
+    },
+    {
+      "startTime": 635,
+      "endTime": 661,
+      "speaker": "Diego Diehl",
+      "text": "É que a ferramenta esteja conectada no WhatsApp dos 10 gerentes de parcerias nos 10 pessoas da Incorporadora. Lendo entendendo essas conversas e daí no caso ali do que a gente tem hoje, né criando alguns gatilhos até dentro da Clube. da plu. Baseado no que a gente treina e Ah então o corretor por exemplo solicitou um arquivo."
+    },
+    {
+      "startTime": 661,
+      "endTime": 684,
+      "speaker": "Diego Diehl",
+      "text": "O bote responde no meio do WhatsApp do cara o corretor perguntou Ah. E aí vamos tomar uma cerveja. O bote não vai responder nada, então o que o bote haja conforme a gente treine ele e esse que é o desafio hoje de da gente realizar já eu tenho a gente teria dois clientes para rodar com você já."
+    },
+    {
+      "startTime": 684,
+      "endTime": 705,
+      "speaker": "Diego Diehl",
+      "text": "Só que eu preciso que vocês atendam, principalmente essa demanda que é o robô responder porque ele foi treinado e ele perguntar uma coisa diferente roubou não responder. E aí eu tô encontrando o desafio, eu vi que em diversas ferramentas não tem isso. E eu dei uma solução já para Letícia só para fechar de possibilidade."
+    },
+    {
+      "startTime": 705,
+      "endTime": 721,
+      "speaker": "Diego Diehl",
+      "text": "E é que a gente Ative o robô com algum comando específico também. Então pedir fazer alguma solicitação específica para o robô sobre algum comando específico. Essa é a dor. No WhatsApp apoiando especificamente. especificamente."
+    },
+    {
+      "startTime": 722,
+      "endTime": 746,
+      "speaker": "Leandro Rossi",
+      "text": "Diego a gente fez um trabalho para Remax. Onde o telefone do corretor funcionava como Alexia? O jeito do cara fazer essa ativação via WhatsApp. funcionava da seguinte forma sabe no WhatsApp que você tem aquele Você tem você mesmo no WhatsApp um contato chamado você que é você."
+    },
+    {
+      "startTime": 746,
+      "endTime": 748,
+      "speaker": "Diego Diehl",
+      "text": "Você me contou isso daí?"
+    },
+    {
+      "startTime": 748,
+      "endTime": 749,
+      "speaker": "Leandro Rossi",
+      "text": "quando você"
+    },
+    {
+      "startTime": 749,
+      "endTime": 752,
+      "speaker": "Diego Diehl",
+      "text": "Mas daí ele ligando e desligando o robô modo Global, né?"
+    },
+    {
+      "startTime": 753,
+      "endTime": 779,
+      "speaker": "Leandro Rossi",
+      "text": "Não para ele o robô que tava ligado na integração dele se você colocar 10 10 telefones de corretores. Na sua conta que acesso a mesma base de conhecimento o robô passa a atender as pessoas ou robô deixa de atender as pessoas de forma automática e ele perguntando para o próprio para ele mesmo para o contato você."
+    },
+    {
+      "startTime": 779,
+      "endTime": 803,
+      "speaker": "Leandro Rossi",
+      "text": "Passa a funcionar como um assistente um Alex para ele mesmo então ele pode perguntar na primeira pessoa robô. Quais são os condomínios que tem tal determinado informação ou qual é a planta daquele Condomínio? Quais são as informações mais novas daquele condomínio? Essa informação chega para ele uma conversa você com você mesmo."
+    },
+    {
+      "startTime": 803,
+      "endTime": 831,
+      "speaker": "Leandro Rossi",
+      "text": "E depois ele encaminha essa resposta para o cliente dele, então ele tem dois canais de comunicação dentro do mesmo WhatsApp. um representando o robô dele que seria Que seria? Um assistente dele e o outro atendendo o próprio cliente que o próprio robô pode atender o cliente dele enquanto ele não está disponível, entendeu?"
+    },
+    {
+      "startTime": 832,
+      "endTime": 857,
+      "speaker": "Diego Diehl",
+      "text": "E o que eu trouxe para usar o teu exemplo é como se dentro da conversa. da Incorporadora com o corretor houvesse alexas E você adicionasse Alexa chamando Alexa. Mande esse arquivo para o corretor, por gentileza. Alexa me mande é esse é o desafio."
+    },
+    {
+      "startTime": 857,
+      "endTime": 892,
+      "speaker": "Leandro Rossi",
+      "text": "Ele não vai fazer isso. Não mas não ele não hoje a solução que nós temos não é essa a solução que nós temos é Alexa. Me manda o arquivo para eu mandar para eu reencaminhar para o corretor. Alexa não vai interagir com o seu corretor. Com com visitante do site Alex vai interagir com você Alexia vai interagir com o corretor quando você falar Alex a ligar robô por exemplo, aí ela passa a responder as perguntas."
+    },
+    {
+      "startTime": 892,
+      "endTime": 894,
+      "speaker": "Leandro Rossi",
+      "text": "feitas pelo visitante diretamente"
+    },
+    {
+      "startTime": 894,
+      "endTime": 896,
+      "speaker": "Diego Diehl",
+      "text": "todas todas"
+    },
+    {
+      "startTime": 896,
+      "endTime": 897,
+      "speaker": "Leandro Rossi",
+      "text": "todas as perguntas"
+    },
+    {
+      "startTime": 897,
+      "endTime": 900,
+      "speaker": "Diego Diehl",
+      "text": "E não tem uma forma de restringir o que ele respondeu."
+    },
+    {
+      "startTime": 901,
+      "endTime": 931,
+      "speaker": "Leandro Rossi",
+      "text": "Tenho você pode estabelecer o prompt da conversa, né? Então você vai colocar a sistemática de a Que nós vamos usar chamar reggae. Que são os arquivos colocados dentro da base de conhecimento então? As pesquisas semânticas vão ser possível ser feitas se você colocar texto Dentro do speak ele converte em vetor."
+    },
+    {
+      "startTime": 931,
+      "endTime": 952,
+      "speaker": "Leandro Rossi",
+      "text": "O texto bruto existente diretamente na hora a gente não consegue fazer a busca semântica. Tava fazendo Vai fazer um retorno mais específico do que tá na pi de forma conversacional é claro, mas não é uma busca semântica. eu não vou conseguir explicar muito bem isso agora mas"
+    },
+    {
+      "startTime": 954,
+      "endTime": 1013,
+      "speaker": "Alejandro Olchik",
+      "text": "Só vamos lá, o Leandro não tá conseguindo nem falar agora, tá? Eu acho eu acho sacanagem a caçar cirurgia vão postergar a conversa. Acho que não tem problema tá a gente conversa. Amanhã, eu acho a ideia um pouco inicial para gente começar a conhecer a solução de processo certo, então a gente não precisa também agora a gente vai vir algumas coisas a gente vai ter perguntas e vão fazer o que dá o que dá daqui a pouco tem uma segunda rodada, né? Tipo para a gente entender um pouco melhor, né? Só queria achar um detalhe para o Gabriel é o seguinte, me dê conta agora hoje a gente tá jogando os arquivos andando nisso e porque porque a gente não possibilita download de arquivos na nossa pi sem identificação única de corretor, a gente faz o tracking de download de cada arquivo certo então para vocês poderem implementar esse toque além de fazer autenticação de api Clint."
+    },
+    {
+      "startTime": 1013,
+      "endTime": 1033,
+      "speaker": "Alejandro Olchik",
+      "text": "Né? Tu vai ter que rodar, tu tem que criar um cadastro na obra, pode ser com teu nome para o coque né Gabriel ali de cadastra, né? Tu faz autenticação normal de clight Secret e depois tem que rodar uma aplicação de Alfa, né? E é como se fosse. E aí tu tem o segundo token que é o token de usuário."
+    },
+    {
+      "startTime": 1033,
+      "endTime": 1051,
+      "speaker": "Alejandro Olchik",
+      "text": "E os teus acessos tu faz com teu token tá? Porque esse teu token vai te dar direito de baixar os arquivos, senão tu não vai conseguir baixar os arquivos vai ser bloqueado, tu pode tentar baixar os arquivos com as credenciais ali de clientes não vai conseguir então tiver qualquer dúvida, me avisa eu te ajudo, tá?"
+    },
+    {
+      "startTime": 1051,
+      "endTime": 1052,
+      "speaker": "Gabriel Kizirian",
+      "text": "Beleza, obrigado."
+    },
+    {
+      "startTime": 1052,
+      "endTime": 1053,
+      "speaker": "Alejandro Olchik",
+      "text": "Beleza, melhoras aí Leandro, a gente"
+    },
+    {
+      "startTime": 1053,
+      "endTime": 1054,
+      "speaker": "Gabriel Kizirian",
+      "text": "Beleza."
+    },
+    {
+      "startTime": 1054,
+      "endTime": 1058,
+      "speaker": "Alejandro Olchik",
+      "text": "gente conversa amanhã, deixa eu se recuperar."
+    },
+    {
+      "startTime": 1058,
+      "endTime": 1058,
+      "speaker": "Leandro Rossi",
+      "text": "Valeu pessoal, obrigado."
+    },
+    {
+      "startTime": 1058,
+      "endTime": 1058,
+      "speaker": "Alejandro Olchik",
+      "text": "O Leandro tá?"
+    },
+    {
+      "startTime": 1058,
+      "endTime": 1059,
+      "speaker": "Diego Diehl",
+      "text": "deixou"
+    },
+    {
+      "startTime": 1059,
+      "endTime": 1059,
+      "speaker": "Alejandro Olchik",
+      "text": "Fechou."
+    },
+    {
+      "startTime": 1059,
+      "endTime": 1060,
+      "speaker": "Luciano Matteelli",
+      "text": "obrigado"
+    },
+    {
+      "startTime": 1060,
+      "endTime": 1065,
+      "speaker": "Gabriel Kizirian",
+      "text": "Só uma dúvida. O Leandro o Leandro tem seu contato, né? Qualquer coisa eu peço para ele eu"
+    },
+    {
+      "startTime": 1065,
+      "endTime": 1066,
+      "speaker": "Alejandro Olchik",
+      "text": "Sim, sim, sim fica fica à vontade,"
+    },
+    {
+      "startTime": 1066,
+      "endTime": 1068,
+      "speaker": "Gabriel Kizirian",
+      "text": "posso entrar em contato com você. beleza"
+    },
+    {
+      "startTime": 1068,
+      "endTime": 1069,
+      "speaker": "Alejandro Olchik",
+      "text": "vontade, tá bom?"
+    },
+    {
+      "startTime": 1069,
+      "endTime": 1070,
+      "speaker": "Diego Diehl",
+      "text": "Gabriel."
+    },
+    {
+      "startTime": 1070,
+      "endTime": 1070,
+      "speaker": "Gabriel Kizirian",
+      "text": "Fechou, valeu, obrigado."
+    },
+    {
+      "startTime": 1070,
+      "endTime": 1071,
+      "speaker": "Eduardo Stringhini",
+      "text": "Valeu pessoal, até mais."
+    },
+    {
+      "startTime": 1071,
+      "endTime": 1071,
+      "speaker": "Diego Diehl",
+      "text": "Valeu, abraço."
+    },
+    {
+      "startTime": 1071,
+      "endTime": 1073,
+      "speaker": "Luciano Matteelli",
+      "text": "obrigado"
+    },
+    {
+      "startTime": 1073,
+      "endTime": 1076,
+      "speaker": "Alejandro Olchik",
+      "text": "Até logo tchau."
+    },
+    {
+      "startTime": 1076,
+      "endTime": 1076,
+      "speaker": "Gabriel Kizirian",
+      "text": "valeu"
+    }
+  ]
+}

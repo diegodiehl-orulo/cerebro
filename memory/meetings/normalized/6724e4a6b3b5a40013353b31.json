@@ -1,0 +1,75 @@
+{
+  "meeting_id": "6724e4a6b3b5a40013353b31",
+  "name": "Reskatrin (NVT-SC) <> Órulo",
+  "happened_at": "2024-11-01T14:24:38.883Z",
+  "duration_seconds": 39.678,
+  "duration_minutes": 0.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "fernanda.passofundo@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6724e4a6b3b5a40013353b31",
+  "template": {},
+  "conference_id": "emq-qnfg-cxh",
+  "transcript_status": "available",
+  "notes_status": "unavailable",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6724e4aabec0ab001399852d",
+    "meetingId": "6724e4a6b3b5a40013353b31",
+    "data": [
+      {
+        "startTime": 1,
+        "endTime": 3,
+        "speaker": "Bruno Lino",
+        "text": "ótimo"
+      },
+      {
+        "startTime": 3,
+        "endTime": 4,
+        "speaker": "Jayme Verissimo",
+        "text": "vou entrar no outro link agora."
+      },
+      {
+        "startTime": 6,
+        "endTime": 7,
+        "speaker": "Diego Diehl",
+        "text": "Mandei aqui ó."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 3,
+    "speakers": [
+      "Diego Diehl",
+      "Jayme Verissimo",
+      "Bruno Lino"
+    ],
+    "total_words_estimate": 10,
+    "duration_start": 1,
+    "duration_end": 7
+  },
+  "transcript_unavailable_reason": null,
+  "notes": null,
+  "notes_summary": null,
+  "notes_unavailable_reason": "notes empty or not ready",
+  "topics": [],
+  "collected_at": "2026-04-06T23:41:52.547663+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:52.547663+00:00"
+}

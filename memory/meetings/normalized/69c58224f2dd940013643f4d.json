@@ -1,0 +1,2026 @@
+{
+  "meeting_id": "69c58224f2dd940013643f4d",
+  "name": "Forecast Closer",
+  "happened_at": "2026-03-26T19:00:00.000Z",
+  "duration_seconds": 5030.769,
+  "duration_minutes": 83.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Luan Felipe de Souza",
+      "email": "luan.souza@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69c58224f2dd940013643f4d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "qui-pewe-fjs",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69c582410d0b80001326b80d",
+    "meetingId": "69c58224f2dd940013643f4d",
+    "data": [
+      {
+        "startTime": 1,
+        "endTime": 3,
+        "speaker": "Diego Diehl",
+        "text": "Knife. Vou cobrar aqui porque que tá com você esse nome aqui."
+      },
+      {
+        "startTime": 6,
+        "endTime": 8,
+        "speaker": "Gustavo Torres",
+        "text": "comigo"
+      },
+      {
+        "startTime": 8,
+        "endTime": 9,
+        "speaker": "Diego Diehl",
+        "text": "Senhora que é você, né?"
+      },
+      {
+        "startTime": 9,
+        "endTime": 15,
+        "speaker": "Gustavo Torres",
+        "text": "Sim, não sei. Deve ser uma atividade antiga, não sei porque tá."
+      },
+      {
+        "startTime": 15,
+        "endTime": 16,
+        "speaker": "Diego Diehl",
+        "text": "de 4 de março"
+      },
+      {
+        "startTime": 18,
+        "endTime": 20,
+        "speaker": "Gustavo Torres",
+        "text": "Não pode tirar."
+      },
+      {
+        "startTime": 20,
+        "endTime": 35,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "O Diego até sobre a canal eu tinha feito o envio para o vinagre pelo kicksign e daí perguntei para ele agora pouco, né? Se a gente tinha chance de avançar esse mês, ele falou que der a princípio tá tudo certo, parece que tá travando alguma coisa lá da Z2 ele até pediu uma ajuda tua ele me passou hoje."
+      },
+      {
+        "startTime": 37,
+        "endTime": 39,
+        "speaker": "Diego Diehl",
+        "text": "Ter usado ela me mandou. Ah, eu liguei para Bi já validei pode ser assim e ela"
+      },
+      {
+        "startTime": 39,
+        "endTime": 51,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 51,
+        "endTime": 53,
+        "speaker": "Gustavo Torres",
+        "text": "beleza"
+      },
+      {
+        "startTime": 53,
+        "endTime": 74,
+        "speaker": "Diego Diehl",
+        "text": "aí a contratada Não é a partir da data de disponibilização da plataforma a partir da assinatura do contrato."
+      },
+      {
+        "startTime": 74,
+        "endTime": 94,
+        "speaker": "Gustavo Torres",
+        "text": "Nesse período tratante entenda que a solução não atende a sua expectativas. Pode tirar essa parte entenda que a solução é caso contratante não há contratante poderá solicitar. Então, o que que precisa ajustar desde o começo?"
+      },
+      {
+        "startTime": 94,
+        "endTime": 101,
+        "speaker": "Diego Diehl",
+        "text": "e não é referente a mensalidade é referente a adesão Você leu isso aqui?"
+      },
+      {
+        "startTime": 103,
+        "endTime": 107,
+        "speaker": "Gustavo Torres",
+        "text": "Não foi eu pedi para o Zanella validar com você, peguei o que você mandou para ele Colei."
+      },
+      {
+        "startTime": 108,
+        "endTime": 118,
+        "speaker": "Diego Diehl",
+        "text": "Você entendeu?"
+      },
+      {
+        "startTime": 118,
+        "endTime": 123,
+        "speaker": "Gustavo Torres",
+        "text": "Não não li. Não se repetir aqui para eu poder ajustar já no contrato."
+      },
+      {
+        "startTime": 124,
+        "endTime": 233,
+        "speaker": "Diego Diehl",
+        "text": "Será paga próxima data. escolhida É que daí é mais uma data que vocês tem que preencher, né?"
+      },
+      {
+        "startTime": 233,
+        "endTime": 248,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Limpo o cara a implantação pagar dia 30."
+      },
+      {
+        "startTime": 248,
+        "endTime": 555,
+        "speaker": "Diego Diehl",
+        "text": "Que deve ser o dia o próximo dia. Que deve ser preenchido."
+      },
+      {
+        "startTime": 555,
+        "endTime": 563,
+        "speaker": "Gustavo Torres",
+        "text": "Caso por exemplo esses negociações que já foram feitos a janela vai ter que voltar lá e perguntar para os decisores um dia que eles querem pagar implementações."
+      },
+      {
+        "startTime": 566,
+        "endTime": 567,
+        "speaker": "Diego Diehl",
+        "text": "Eu não faria isso."
+      },
+      {
+        "startTime": 569,
+        "endTime": 574,
+        "speaker": "Gustavo Torres",
+        "text": "Mas se for por exemplo de cláusula com essa data que data a gente colocaria."
+      },
+      {
+        "startTime": 576,
+        "endTime": 577,
+        "speaker": "Diego Diehl",
+        "text": "Que data que você colocaria?"
+      },
+      {
+        "startTime": 580,
+        "endTime": 584,
+        "speaker": "Gustavo Torres",
+        "text": "Eu tentaria deixar o contrato mais padrão possível e colocaria talvez."
+      },
+      {
+        "startTime": 586,
+        "endTime": 588,
+        "speaker": "Diego Diehl",
+        "text": "Tem um contrato aqui se eu colocar aqui data."
+      },
+      {
+        "startTime": 589,
+        "endTime": 591,
+        "speaker": "Gustavo Torres",
+        "text": "Eu colocaria a data que venceria a primeira mensalidade dele."
+      },
+      {
+        "startTime": 592,
+        "endTime": 620,
+        "speaker": "Diego Diehl",
+        "text": "Só que não dá para pôr, tipo é a próxima data daí vai clicar assim no dia 13 de Abril. Aí dia 15 fica ruim ou tá sendo dia 15 você dia 30 aí não joga para o próximo mês aí vai no caso desses contratos, eu não falaria nada. Só colocaria data lá pum tá lá o cara vai ler."
+      },
+      {
+        "startTime": 620,
+        "endTime": 624,
+        "speaker": "Gustavo Torres",
+        "text": "Como ficou definido a cláusula então só para eu ajustar aqui no contrato?"
+      },
+      {
+        "startTime": 624,
+        "endTime": 670,
+        "speaker": "Diego Diehl",
+        "text": "a quantidade de dias utilizado no mês pagos Na data combinado, vocês sabem como é que é o modelo de cobrança da hora do Closer?"
+      },
+      {
+        "startTime": 670,
+        "endTime": 675,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Mensal é dia 15 ou dia 25 data de implantação a gente tem liberdade para colocar qualquer data."
+      },
+      {
+        "startTime": 675,
+        "endTime": 680,
+        "speaker": "Diego Diehl",
+        "text": "E se eu assinar no dia cinco? Quanto que eu vou pagar no dia 15?"
+      },
+      {
+        "startTime": 681,
+        "endTime": 682,
+        "speaker": "Gustavo Torres",
+        "text": "Tem uma pro rata não tem do mês."
+      },
+      {
+        "startTime": 682,
+        "endTime": 689,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Você vai pagar o pro rata do dia primeiro do mês vigente até o dia que você definiu a tua mensalidade, né no caso."
+      },
+      {
+        "startTime": 691,
+        "endTime": 692,
+        "speaker": "Diego Diehl",
+        "text": "É errado."
+      },
+      {
+        "startTime": 694,
+        "endTime": 695,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Não sei dessas informações ainda."
+      },
+      {
+        "startTime": 696,
+        "endTime": 2192,
+        "speaker": "Diego Diehl",
+        "text": "eu pago cobra no dia 15, eu vou cobrar o cliente do dia primeiro do dia 15. Não no dia 15 eu cobro sempre o mês de referência. É como se vocês recebessem no dia 15 o salário de vocês e tivesse que trabalhar o mês inteiro se você entrou no dia 10 a contabilização vai ser do dia 10 ao dia 31 de trabalho e você receberá no dia 15 ou você pagará no dia 15, então se você assinou no dia 8 16 10 no dia 10 que dá um terço do mês e tua mensalidade."
+      },
+      {
+        "startTime": 2192,
+        "endTime": 766,
+        "speaker": "Diego Diehl",
+        "text": "Eu não tinha 15. Você vai utilizar a plataforma dois terços do mês certo? Então a cobrança vai ser de quanto?"
+      },
+      {
+        "startTime": 766,
+        "endTime": 767,
+        "speaker": "Gustavo Torres",
+        "text": "dois textos do mês do g15"
+      },
+      {
+        "startTime": 767,
+        "endTime": 890,
+        "speaker": "Diego Diehl",
+        "text": "Concordo que é melhor a disponibilização, só que se o cara demora 10 dias para agendar o treinamento. Entendeu? Durante esse período casa contratante, entenda que a solução. então A primeira cobrança não precisa. Por que que o GPT pouso aquilo ali? Se já tem um contrato em cima."
+      },
+      {
+        "startTime": 890,
+        "endTime": 891,
+        "speaker": "Gustavo Torres",
+        "text": "Você não pode contrato inteiro também."
+      },
+      {
+        "startTime": 893,
+        "endTime": 938,
+        "speaker": "Diego Diehl",
+        "text": "chamando de plataforma toda hora não. plataforma plataforma plataforma plataforma 9 escritos contados a partir da data de assinatura do contrato durante esse período Sabe vocês entenderem porque eu tô tirando isso aqui."
+      },
+      {
+        "startTime": 938,
+        "endTime": 945,
+        "speaker": "Gustavo Torres",
+        "text": "Sim, porque daí Ficamos muito aberto, né? Tipo tem expectativa cara. Tem uma expectativa de vender x milhões, não é bem por aí."
+      },
+      {
+        "startTime": 946,
+        "endTime": 1054,
+        "speaker": "Diego Diehl",
+        "text": "Zero que ele só vai pagar em 60 dias. ocorrerá Tá daí aqui eu vou só mandar. E só para validar usaremos essas. Cláusulas, como padrão para o contrato? É como workshop uma outra coisa que eu quero que você Salve os contratos. chamando de a combo workshop"
+      },
+      {
+        "startTime": 1054,
+        "endTime": 1055,
+        "speaker": "Gustavo Torres",
+        "text": "Tá bom eu tava salvando condições de evento."
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1061,
+        "speaker": "Diego Diehl",
+        "text": "Para o financeiro. Isso é só padronizei com a Bia combo workshop que a gente sabe que chamamos de"
+      },
+      {
+        "startTime": 1061,
+        "endTime": 1062,
+        "speaker": "Gustavo Torres",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1063,
+        "endTime": 1065,
+        "speaker": "Diego Diehl",
+        "text": "combos sabe que é do workshop."
+      },
+      {
+        "startTime": 1066,
+        "endTime": 1074,
+        "speaker": "Gustavo Torres",
+        "text": "Beleza então já tô vou ajustar aqui do da MDI. A gente já manda nesse modelo, só que o meu coabicius."
+      },
+      {
+        "startTime": 1075,
+        "endTime": 1107,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou deixa ver só tem cinco é a gente fez só um desdobramento. beleza Eu vou mandar para ti já tá? Você já deixa engatilhado. Tá me ouvindo? foi canal Pedro"
+      },
+      {
+        "startTime": 1107,
+        "endTime": 1108,
+        "speaker": "Gustavo Torres",
+        "text": "a data"
+      },
+      {
+        "startTime": 1112,
+        "endTime": 1115,
+        "speaker": "Diego Diehl",
+        "text": "Canal W2 essa aí é de São Paulo João."
+      },
+      {
+        "startTime": 1116,
+        "endTime": 1117,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "é"
+      },
+      {
+        "startTime": 1117,
+        "endTime": 1122,
+        "speaker": "Diego Diehl",
+        "text": "É W3 é que eu tava negociando no rio, essa aqui, eu já assinei. Ele assinou."
+      },
+      {
+        "startTime": 1122,
+        "endTime": 1133,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não essa aí eu tive que reenviar digo porque eles pediram para fazer faturamento por Spa é diferente, por isso que eu tive que enviar e cancelar o seu tá mas agora já tá validado pelos dois sócios, É só eles assinarem."
+      },
+      {
+        "startTime": 1134,
+        "endTime": 1174,
+        "speaker": "Diego Diehl",
+        "text": "pagamento. Iremos emitir diretamente no CNPJ da Incorporadora. Ou Vocês precisam de dividir por STS? O ideal é jogar na Incorporadora, porque senão as espécies mudam, tem que ficar atualizando ele escreve isso no processo tá para o vendedor já falar o ideal é? Beleza você esqueceu de perguntar provavelmente, né? Jô porque se eu não não tem processo."
+      },
+      {
+        "startTime": 1174,
+        "endTime": 1179,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Na verdade na verdade na verdade, Diego, eu nem tenho falado sobre isso aí porque eu vejo que é uma forma que trava um pouco a nossa negociação. Eu tô"
+      },
+      {
+        "startTime": 1179,
+        "endTime": 1183,
+        "speaker": "Diego Diehl",
+        "text": "É por isso."
+      },
+      {
+        "startTime": 1183,
+        "endTime": 1189,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "com uma negociação travada por causa disso, porque o cliente está vendo, qual esper vai colocar entendeu? Eu acho que é mais um motivo para estender o processo."
+      },
+      {
+        "startTime": 1190,
+        "endTime": 1199,
+        "speaker": "Diego Diehl",
+        "text": "nós dividimos por esse pe caso o cliente solicite."
+      },
+      {
+        "startTime": 1199,
+        "endTime": 1201,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Exato foi o que aconteceu no W2 a cliente me questionou."
+      },
+      {
+        "startTime": 1203,
+        "endTime": 1293,
+        "speaker": "Diego Diehl",
+        "text": "negociação Cara eu acho que eu vou tirar isso aqui que eu vou rodar. Cadê o Agora sim é"
+      },
+      {
+        "startTime": 1293,
+        "endTime": 1313,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "essa aí tá um pouquinho travada agora Diego tá na mão da diretoria para vocês entenderem a Luli ela tá ela faz parte do mesmo grupo que a que há três Incorporadora que tá fechando agora e"
+      },
+      {
+        "startTime": 1313,
+        "endTime": 1314,
+        "speaker": "Diego Diehl",
+        "text": "E é da onde?"
+      },
+      {
+        "startTime": 1314,
+        "endTime": 1319,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Goiânia são três contratos de Goiânia que dá para entrar agora um já assinou ontem que eu mandei lá no grupo."
+      },
+      {
+        "startTime": 1320,
+        "endTime": 1321,
+        "speaker": "Diego Diehl",
+        "text": "Aonde que fica escrito Goiânia aqui?"
+      },
+      {
+        "startTime": 1322,
+        "endTime": 1331,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu acho que a gente vai estar a gente tá colocando um estado ali, mas eu tô colocando também no título do contrato, esse aí eu acabei não colocando mas eu coloco lá no título da Incorporadora também."
+      },
+      {
+        "startTime": 1333,
+        "endTime": 1334,
+        "speaker": "Diego Diehl",
+        "text": "Cadê o estado daqui?"
+      },
+      {
+        "startTime": 1336,
+        "endTime": 1337,
+        "speaker": "Gustavo Torres",
+        "text": "é mais para baixo ali de"
+      },
+      {
+        "startTime": 1337,
+        "endTime": 1340,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É um pouquinho mais para baixo ali esse eu acabei realmente não preenchendo, mas eu já atualizo."
+      },
+      {
+        "startTime": 1340,
+        "endTime": 1346,
+        "speaker": "Gustavo Torres",
+        "text": "Mas ele fica ele fica no card lá quando você tá vendo por exemplo em campo, ele aparece que é."
+      },
+      {
+        "startTime": 1352,
+        "endTime": 1361,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "E o qual que é? exatamente."
+      },
+      {
+        "startTime": 1361,
+        "endTime": 1363,
+        "speaker": "Diego Diehl",
+        "text": "Para apoiar o cliente na no avanço"
+      },
+      {
+        "startTime": 1364,
+        "endTime": 1393,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Para trazer para ele uma visão de entrega de valor da hora trouxe ele para reunião também. Fiz uma reunião com ele, só que ele também não assinou assim no contrato. Então tá dependendo aí da diretoria. Então é isso que tá travando um pouquinho aí ainda."
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1398,
+        "speaker": "Diego Diehl",
+        "text": "Tá e Augusto aqui a gente vai ver esses campos aqui ainda."
+      },
+      {
+        "startTime": 1398,
+        "endTime": 1402,
+        "speaker": "Gustavo Torres",
+        "text": "vai"
+      },
+      {
+        "startTime": 1402,
+        "endTime": 1404,
+        "speaker": "Diego Diehl",
+        "text": "É essa informação que está lá em cima, né?"
+      },
+      {
+        "startTime": 1405,
+        "endTime": 1420,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não Diego não porque é Goiânia, né? O ponto principal para eles é a divulgação do produto para os 4 mil usuários que a gente tem lá. e"
+      },
+      {
+        "startTime": 1420,
+        "endTime": 1422,
+        "speaker": "Diego Diehl",
+        "text": "Que Goiânia, eu vendi ele para caramba, né?"
+      },
+      {
+        "startTime": 1423,
+        "endTime": 1427,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, mas para eles não não foi o ponto que foi o olho brilhar."
+      },
+      {
+        "startTime": 1427,
+        "endTime": 1445,
+        "speaker": "Diego Diehl",
+        "text": "Proposta formar enviado para dizer que é mais fundo do fundo isso aqui já né?"
+      },
+      {
+        "startTime": 1445,
+        "endTime": 1448,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, sim, tá?"
+      },
+      {
+        "startTime": 1448,
+        "endTime": 1456,
+        "speaker": "Diego Diehl",
+        "text": "Tenta trazer uma ação mais específica, tá? Porque validar Proposta com diretoria não é atuação?"
+      },
+      {
+        "startTime": 1457,
+        "endTime": 1459,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Na verdade a minha ação com quem eu poderia envolver eu já fiz, né?"
+      },
+      {
+        "startTime": 1461,
+        "endTime": 1463,
+        "speaker": "Diego Diehl",
+        "text": "Não sei o que que você fez de envolvimento explicou para ele, mas qual que é"
+      },
+      {
+        "startTime": 1463,
+        "endTime": 1465,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "eu trouxe o"
+      },
+      {
+        "startTime": 1465,
+        "endTime": 1466,
+        "speaker": "Diego Diehl",
+        "text": "a ação que ficou?"
+      },
+      {
+        "startTime": 1467,
+        "endTime": 1474,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Na verdade ação foi eu entregar material na mão dele que ele pudesse apresentar para diretoria isso eu fiz."
+      },
+      {
+        "startTime": 1476,
+        "endTime": 1477,
+        "speaker": "Diego Diehl",
+        "text": "E você mandou que material?"
+      },
+      {
+        "startTime": 1477,
+        "endTime": 1512,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "a IBM então fiz esse comparativo no vídeo. Entreguei na mão deles. Só que daí a diretoria tem que aprovar né, Diego aí que tipo de ação poderia ter além dessa tô aguardando sugestão de vocês aí."
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1515,
+        "speaker": "Diego Diehl",
+        "text": "Você pediu o contato do diretor para falar com ele."
+      },
+      {
+        "startTime": 1516,
+        "endTime": 1519,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não não consegui subir a mais a escala eu consegui uma só."
+      },
+      {
+        "startTime": 1522,
+        "endTime": 1525,
+        "speaker": "Diego Diehl",
+        "text": "Quando você falou com o gerente, você pediu para falar com o diretor dele."
+      },
+      {
+        "startTime": 1526,
+        "endTime": 1528,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Pedi pedi mas questões de final de mês. Esse envolvimento seria bem difícil"
+      },
+      {
+        "startTime": 1528,
+        "endTime": 1529,
+        "speaker": "Diego Diehl",
+        "text": "ele falou que"
+      },
+      {
+        "startTime": 1532,
+        "endTime": 1535,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "agora final de mês de março, né? Então consegui descobrir uma escala só."
+      },
+      {
+        "startTime": 1535,
+        "endTime": 1536,
+        "speaker": "Diego Diehl",
+        "text": "E aí foi combinado?"
+      },
+      {
+        "startTime": 1538,
+        "endTime": 1539,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Aí o combinado foi o combinado foi ele trazer esse material para a diretoria"
+      },
+      {
+        "startTime": 1539,
+        "endTime": 1545,
+        "speaker": "Diego Diehl",
+        "text": "não mas"
+      },
+      {
+        "startTime": 1545,
+        "endTime": 1549,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "numa reunião interna que Eles teriam entre hoje e amanhã Inclusive tem um follow para amanhã com eles."
+      },
+      {
+        "startTime": 1550,
+        "endTime": 1553,
+        "speaker": "Diego Diehl",
+        "text": "Isso é sugeriu de entrar rapidinho na reunião online para explicar."
+      },
+      {
+        "startTime": 1554,
+        "endTime": 1562,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "com material que eu entreguei na mão dele já seria suficiente."
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1565,
+        "speaker": "Diego Diehl",
+        "text": "Mas é isso que eu faria, entendeu? Quando falasse com o gerente ou fulano e tal"
+      },
+      {
+        "startTime": 1565,
+        "endTime": 1568,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 1568,
+        "endTime": 1589,
+        "speaker": "Diego Diehl",
+        "text": "tá tá tá tá tá tá tá tá cara. Você não quer que eu você não quer pedir para o teu diretor me ligar 10 minutos, ele já tira as dúvidas eu troco uma ideia com ele, você já avança isso porque assim eu faço isso todo dia cara. Eu sei que vocês são uma empresa grande, mas nas outras tô acostumado falar com dono e o diretor é com quem eu mais converso por sinal, é isso que eu"
+      },
+      {
+        "startTime": 1589,
+        "endTime": 1591,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim boa inclusive nesses casos até um ponto que eu tô mudando meu discurso a"
+      },
+      {
+        "startTime": 1591,
+        "endTime": 1592,
+        "speaker": "Diego Diehl",
+        "text": "faria."
+      },
+      {
+        "startTime": 1596,
+        "endTime": 1630,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "começando a dar uma cutucada no cara cara, os clientes que falam para mim que vão pensar geralmente são três coisas preço. Uma insegurança que você tá ainda que eu não tirei ou eu não resolvo o teu problema, o que que é me conta? Então eu tô tá vindo alguns pontos para a"
+      },
+      {
+        "startTime": 1630,
+        "endTime": 1632,
+        "speaker": "Diego Diehl",
+        "text": "Deve tá vindo ou demais vai ser."
+      },
+      {
+        "startTime": 1632,
+        "endTime": 1648,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "gente entender a objeção real, né? Mas o que que eu tenho feito, tá eu até compartilhei na quarta-feira no nosso treinamento, compartilhei com o Gustavo uma pergunta que eu sempre faço para esses caras que eu trago para reunião, cara. Se fosse para você bater um martelo hoje, você assinaria o contrato João por mim tá fechado."
+      },
+      {
+        "startTime": 1648,
+        "endTime": 1655,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Resolve o meu problema, só que eu não tenho esse poder ainda então a validação do cara eu já ganho ele como influenciador, né Diego?"
+      },
+      {
+        "startTime": 1655,
+        "endTime": 1679,
+        "speaker": "Diego Diehl",
+        "text": "personalizado para você poder pôr na tua reunião de quatro minutos, você põe até no meio."
+      },
+      {
+        "startTime": 1679,
+        "endTime": 1681,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 1681,
+        "endTime": 1686,
+        "speaker": "Diego Diehl",
+        "text": "Ah o diretor gosta disso, ele é mais assim, ele é mais assado Papa. Você já faz um vídeo falando o nome do cara elogia, o cara falou cara. Tô acordando o"
+      },
+      {
+        "startTime": 1686,
+        "endTime": 1690,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sensacional"
+      },
+      {
+        "startTime": 1690,
+        "endTime": 1698,
+        "speaker": "Diego Diehl",
+        "text": "coordenador ali pegou a visão rápida fala com incorporadoras do Brasil inteiro. Tem gente que tá lá atrás. Esse cara tá para frente falou que ia fazer isso isso então vamos então é uma venda que eu tô vendo que a reunião"
+      },
+      {
+        "startTime": 1698,
+        "endTime": 1703,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, até tem um caso anterior Diego só para não passar em branco, três"
+      },
+      {
+        "startTime": 1703,
+        "endTime": 1705,
+        "speaker": "Diego Diehl",
+        "text": "tá recente, né? Então não tá sem cocada, né?"
+      },
+      {
+        "startTime": 1709,
+        "endTime": 1726,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Incorporadora também de Goiânia reunião direto com desses ou final e tá nessa situação que eu falei para vocês no início tá travado agora nessa questão de faturamento de duas espécies diferentes. Cobrei o Rodrigo hoje pela manhã, mas é um caso também de Goiânia eles."
+      },
+      {
+        "startTime": 1727,
+        "endTime": 1728,
+        "speaker": "Diego Diehl",
+        "text": "Quem Quem é Rodrigo?"
+      },
+      {
+        "startTime": 1728,
+        "endTime": 1733,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Rodrigo é o diretor é o diretor comercial hoje lá Dessa 3 Incorporadora."
+      },
+      {
+        "startTime": 1735,
+        "endTime": 1753,
+        "speaker": "Diego Diehl",
+        "text": "Novamente sugestão minha Rodrigo cara, você é um cara ocupado, você tem que estar focado em vender. Como esse quesito agora desse pe já é burocrático, não tem alguém do financeiro da incorporação que eu posso lá falar com ele já obter esses dados para não tomar teu tempo. Pô cara Claro."
+      },
+      {
+        "startTime": 1753,
+        "endTime": 1764,
+        "speaker": "Diego Diehl",
+        "text": "Manda um áudio para ele só fala que eu vou entrar em contato com ele rapidinho, não tô não gasta tanto com isso cara. Vai vender, muito. Obrigado, valeu."
+      },
+      {
+        "startTime": 1766,
+        "endTime": 1768,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A situação bem parecida com o da Luli também eu trouxe para reunião a"
+      },
+      {
+        "startTime": 1768,
+        "endTime": 1772,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1778,
+        "endTime": 1788,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "diretora de parcerias que é a Denise uma diretora assim até de maioridade, mas entendeu bem a ideia da hora, né? O que pegou mais para eles foi a questão de distribuição acesso aos corretores."
+      },
+      {
+        "startTime": 1788,
+        "endTime": 1791,
+        "speaker": "Diego Diehl",
+        "text": "Cadê o Cadê o estado aqui?"
+      },
+      {
+        "startTime": 1794,
+        "endTime": 1803,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não preencheu ali mas é São Paulo."
+      },
+      {
+        "startTime": 1803,
+        "endTime": 1807,
+        "speaker": "Gustavo Torres",
+        "text": "Mas ele tá preenchido de mas não em um campo que aparece aí, mas ele está"
+      },
+      {
+        "startTime": 1807,
+        "endTime": 1810,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que não não tá não ia aparecer aqui, ó."
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1815,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ele tá puxando isso da empresa, eu acho né, Gustavo não é nem do Card."
+      },
+      {
+        "startTime": 1815,
+        "endTime": 1818,
+        "speaker": "Gustavo Torres",
+        "text": "É para puxar da empresa."
+      },
+      {
+        "startTime": 1818,
+        "endTime": 1828,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá deixa eu ver aqui na arquitec na empresa para ver se tem é que lá não tem. Tá certo. O cadastro da empresa no Beatles não tinha essa informação provavelmente agora se você atualizar e vai aparecer."
+      },
+      {
+        "startTime": 1832,
+        "endTime": 1836,
+        "speaker": "Diego Diehl",
+        "text": "Tá arquitec proposta formol enviada. Qual que é o próximo passo?"
+      },
+      {
+        "startTime": 1838,
+        "endTime": 1860,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "estaria contratado, então a gente tá travado um pouco nisso ainda."
+      },
+      {
+        "startTime": 1860,
+        "endTime": 3294,
+        "speaker": "Diego Diehl",
+        "text": "Foi não é o mais bonito, não é o mais persuasivo impactante, mas tá aí, né? Tem logo mas daí os Talvez uma coisa que a gente possa pensar que eu já vou eu vou tentar me adiantar para Porto Alegre. Eu vou tentar pedir para o Carlos fazer um trabalhinho de pôr as logos da cidade."
+      },
+      {
+        "startTime": 3294,
+        "endTime": 2005,
+        "speaker": "Diego Diehl",
+        "text": "Beleza a gente toca junto então aqui João. Tá na mão do senhor, você deu algum material fez vídeo?"
+      },
+      {
+        "startTime": 2005,
+        "endTime": 2017,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim fiz vídeo mandei material, mandei print do Groove também para as duas meninas que participaram comigo. Por ela, mandei inclusive mandei ainda não tem aquele vídeo lá que aquela cliente que eu aprendi falou que vendeu 70 unidades usando a hora. Mandei esse"
+      },
+      {
+        "startTime": 2017,
+        "endTime": 2022,
+        "speaker": "Diego Diehl",
+        "text": "ela"
+      },
+      {
+        "startTime": 2022,
+        "endTime": 2027,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "case para ele também para ver como a hora do Gera resultado. Acho que isso a gente teria que aproveitar mais também."
+      },
+      {
+        "startTime": 2027,
+        "endTime": 2028,
+        "speaker": "Diego Diehl",
+        "text": "Você fez um recorte Zinho ou não?"
+      },
+      {
+        "startTime": 2029,
+        "endTime": 2031,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu peguei aquele vídeo mesmo. Mandei."
+      },
+      {
+        "startTime": 2032,
+        "endTime": 2033,
+        "speaker": "Diego Diehl",
+        "text": "Tem que dar uma recortada nele."
+      },
+      {
+        "startTime": 2034,
+        "endTime": 2035,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, teve que melhorar mas é para mandei para você, mandei lá no nosso grupo."
+      },
+      {
+        "startTime": 2035,
+        "endTime": 2046,
+        "speaker": "Diego Diehl",
+        "text": "Manda você mandou para mim, né? Eu vou pegar no WhatsApp, depois eu vou já mandar ele recortado para a gente tá na mão no corte você seleciona no WhatsApp seleciona vídeo se arrasta uma"
+      },
+      {
+        "startTime": 2046,
+        "endTime": 2047,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 2047,
+        "endTime": 2049,
+        "speaker": "Diego Diehl",
+        "text": "barrinha para cá para cá e foi."
+      },
+      {
+        "startTime": 2049,
+        "endTime": 2054,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza NG Castro é justamente essa pessoa que fez o vídeo ali comigo."
+      },
+      {
+        "startTime": 2055,
+        "endTime": 2057,
+        "speaker": "Diego Diehl",
+        "text": "23 faz três dias esse negócio."
+      },
+      {
+        "startTime": 2058,
+        "endTime": 2074,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Roselita exatamente faz três dias ela comentou que teria uma reunião hoje com o incorporador para apresentar a ferramenta ela tá representando fazendo a gestão comercial desse lançamento daí de Castro ou Diego cara, ela tem argumento para vender a óleo sem precisar de nós, ela vendeu 70 e poucos unidades."
+      },
+      {
+        "startTime": 2074,
+        "endTime": 2077,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Então tá na mão do incorporador bater o martelo."
+      },
+      {
+        "startTime": 2079,
+        "endTime": 2082,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 2082,
+        "endTime": 2086,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Conhece mais do que qualquer um Eu diria bem engajada."
+      },
+      {
+        "startTime": 2088,
+        "endTime": 2091,
+        "speaker": "Diego Diehl",
+        "text": "show"
+      },
+      {
+        "startTime": 2091,
+        "endTime": 2104,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Olha o Nozinho já meu amigo que é isso, cara. Eldorado é foi o que o Gu falou né? Tô entrei para aprender do jeito certo que é o novo jeito agora que a gente está estruturando, né então Entrei numa época boa."
+      },
+      {
+        "startTime": 2105,
+        "endTime": 2106,
+        "speaker": "Diego Diehl",
+        "text": "Você tem sorte cara?"
+      },
+      {
+        "startTime": 2106,
+        "endTime": 2109,
+        "speaker": "Luan Felipe de Souza",
+        "text": "É eu a gente o Gustavo tinha gravado o vídeo, né para ele para ele poder"
+      },
+      {
+        "startTime": 2109,
+        "endTime": 2110,
+        "speaker": "Diego Diehl",
+        "text": "Beleza algum ponto dela?"
+      },
+      {
+        "startTime": 2117,
+        "endTime": 2158,
+        "speaker": "Luan Felipe de Souza",
+        "text": "novo já converso com ele veja o Paulo Novo posicionamento."
+      },
+      {
+        "startTime": 2158,
+        "endTime": 2160,
+        "speaker": "Diego Diehl",
+        "text": "E essa Incorporadora da onde?"
+      },
+      {
+        "startTime": 2162,
+        "endTime": 2163,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Aí é o dourado Goiânia, é isso?"
+      },
+      {
+        "startTime": 2163,
+        "endTime": 2175,
+        "speaker": "Gustavo Torres",
+        "text": "Ou geralmente é o time de cadastros."
+      },
+      {
+        "startTime": 2175,
+        "endTime": 2187,
+        "speaker": "Diego Diehl",
+        "text": "Quem é que cria essas empresas? Essa aqui você sabe ver quem criou."
+      },
+      {
+        "startTime": 2188,
+        "endTime": 2205,
+        "speaker": "Gustavo Torres",
+        "text": "Não. Acho que não dá para ver. Mas ela já existia porque ela veio do validação de contato comercial, então já tinha criado."
+      },
+      {
+        "startTime": 2206,
+        "endTime": 2215,
+        "speaker": "Diego Diehl",
+        "text": "Cara nosso fundo de fundo, tá baixo, né? Digo empurrando tudo muita coisa já"
+      },
+      {
+        "startTime": 2215,
+        "endTime": 2225,
+        "speaker": "Luan Felipe de Souza",
+        "text": "né? Quer dizer, o que significa fundo de funil? acho que eu nunca vi esse termo fundo de"
+      },
+      {
+        "startTime": 2227,
+        "endTime": 3817,
+        "speaker": "Diego Diehl",
+        "text": "Talvez a gente tá passando entre a hérnias e consideração bdr que qualifica bem já tá considerando a gente já tá considerando ali a solução e aí a gente caminha aqui para decisão e no funil do Closer. Da esquerda e o closet ele já começa em meio de funil digamos você concorda-nos com essa linguagem."
+      },
+      {
+        "startTime": 3817,
+        "endTime": 2303,
+        "speaker": "Diego Diehl",
+        "text": "Hoje ele começa no meio, né? Talvez em algum"
+      },
+      {
+        "startTime": 2303,
+        "endTime": 2306,
+        "speaker": "Gustavo Torres",
+        "text": "isso"
+      },
+      {
+        "startTime": 2306,
+        "endTime": 2365,
+        "speaker": "Diego Diehl",
+        "text": "contrato e venda que é o fundo e funil propósito contrato vendo. Claro e cada. E aí tem várias coisas em relação a Como você fala com o cliente no topo. Como você fala com o cliente do fundo analogia que eu mais gosto de dizer é que no topo de funil é mais quentinho no fundo é mais frio então quando você começa a conhecer o cara na reunião tá educando ele você tá legalzão, queridão, vamos aí que bacana papapa mandou a proposta."
+      },
+      {
+        "startTime": 2365,
+        "endTime": 2387,
+        "speaker": "Diego Diehl",
+        "text": "Já falei. Aí cara, o que é que tá faltando? Você não queria vender mais só que com uma proposta boa para ti já é uma parada mais objetiva, mas que é Um Desafio de vocês legal, queridão dar risada. Fala lá lá, vai chegando por fundo é um papo um pouco mais e aí vai não vai vou comprar no van Claro."
+      },
+      {
+        "startTime": 2387,
+        "endTime": 2392,
+        "speaker": "Diego Diehl",
+        "text": "Você vai falar assim, né? Mas é o sentimento é um pouco mais, beleza?"
+      },
+      {
+        "startTime": 2393,
+        "endTime": 2394,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Perfeito, beleza, valeu."
+      },
+      {
+        "startTime": 2394,
+        "endTime": 2413,
+        "speaker": "Diego Diehl",
+        "text": "Parabéns por perguntar. Não tem pergunta burra aqui não. Tem pergunta ruim, é porque pergunta burro, a gente tá jogando a pessoa tem. Arquitec indicastro do barco Salazar essa que isso queria que eu me envolvesse, né João?"
+      },
+      {
+        "startTime": 2414,
+        "endTime": 2438,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Entendi, eu acho que vai ser necessário a gente evoluir um pouco ali com o Salazar deu uma travada. Porque qualquer situação ele não vai pagar essa conta sozinho, tá? Ele não vai pagar essa conta sozinho e vai dividir com a gerente dele e ela achou tá achando pesado ainda por enquanto então a gente tá travado em questão de orçamento ele aí eu não sei se a gente pode adotar"
+      },
+      {
+        "startTime": 2438,
+        "endTime": 2439,
+        "speaker": "Diego Diehl",
+        "text": "Pode acho que o negócio lá é cara."
+      },
+      {
+        "startTime": 2439,
+        "endTime": 2443,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "uma estratégia."
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2458,
+        "speaker": "Diego Diehl",
+        "text": "Vamos fazer uma crescente porque quando eu te gerar Três Vendas você vai começar a ver uma conta diferente. É a tua mensalidade deveria ser 3.500 ou o valor cheio já esse 2899."
+      },
+      {
+        "startTime": 2459,
+        "endTime": 2460,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Dois. Esse é o gel é o cheiro isso."
+      },
+      {
+        "startTime": 2460,
+        "endTime": 2489,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o valor cara, quanto que você acha que eu se aprovasse para a diretoria? Ficaria mais confortável para você e você fecharia pô, sendo justo comigo também, né? Mas lá o negócio igual o cliente mandando proposta. Ah, r$ 1000, pô. Pensa aí conversa com ela e volta comigo numa proposta eu tento aqui beijando eu consigo chegar porque isso aqui é preocupante, tá? Que que eu faria nessa venda."
+      },
+      {
+        "startTime": 2489,
+        "endTime": 2492,
+        "speaker": "Diego Diehl",
+        "text": "A gente não vai entregar isso aqui."
+      },
+      {
+        "startTime": 2494,
+        "endTime": 2496,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "integração"
+      },
+      {
+        "startTime": 2496,
+        "endTime": 2500,
+        "speaker": "Diego Diehl",
+        "text": "Não a gente tá fraco lá por Embaixador. Já rolou."
+      },
+      {
+        "startTime": 2501,
+        "endTime": 2503,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Já rolou Já rolou, mas não depende só dele, né?"
+      },
+      {
+        "startTime": 2503,
+        "endTime": 2507,
+        "speaker": "Diego Diehl",
+        "text": "Foi Depende. Ele que manda o link para o corretor."
+      },
+      {
+        "startTime": 2508,
+        "endTime": 2510,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Também mas ele não é um ele não é o único gerente, né Diego?"
+      },
+      {
+        "startTime": 2511,
+        "endTime": 2517,
+        "speaker": "Diego Diehl",
+        "text": "Entendeu? O que eu quero é ter um eu ter a hora não ter o portal lá com cara"
+      },
+      {
+        "startTime": 2517,
+        "endTime": 2522,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá e a gente conseguiria chegar numa proposta de Embaixador para eles 50% para"
+      },
+      {
+        "startTime": 2522,
+        "endTime": 2537,
+        "speaker": "Diego Diehl",
+        "text": "50 acessos. Precisa ser 3.000 acesso se essa empresa fazendo marketing lá no telão dizendo o portal da hora. mas Você fala assim, cara. Olha só Surgiu uma meta aqui da empresa que a gente"
+      },
+      {
+        "startTime": 2537,
+        "endTime": 2545,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "fechar o negócio."
+      },
+      {
+        "startTime": 2545,
+        "endTime": 2578,
+        "speaker": "Diego Diehl",
+        "text": "E aí Isso aqui o outro movimento que eu faria é Cara, você sabe qual empresa"
+      },
+      {
+        "startTime": 2578,
+        "endTime": 2582,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 2582,
+        "endTime": 2591,
+        "speaker": "Diego Diehl",
+        "text": "de inteligência de mercado? Como que vocês olham dados ai a gente usa o gel Brand, sei lá."
+      },
+      {
+        "startTime": 2591,
+        "endTime": 2593,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "uhum"
+      },
+      {
+        "startTime": 2593,
+        "endTime": 2611,
+        "speaker": "Diego Diehl",
+        "text": "Tá e cara tem muita gente que contrata a gente para utilizar porque o nosso dado é o do mercado divulgado Corretores e atualizado mensalmente. Normalmente se chama o Carlos novos negócios eles se apaixona pela nossa inteligência de mercado ele contribui aí Para apoiar vocês a decisão. Beleza ideias em contexto tô dando aproveitando muito treinamento aqui."
+      },
+      {
+        "startTime": 2611,
+        "endTime": 2620,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza perfeito Tranquilo o desafio agora é contato com salazarpa, digo segundo. Tô desde"
+      },
+      {
+        "startTime": 2620,
+        "endTime": 2631,
+        "speaker": "Diego Diehl",
+        "text": "segunda-feira para falar com ele falar ligar o que tu imaginasse. Eu não mandei SMS. Salazar Como que ele é?"
+      },
+      {
+        "startTime": 2631,
+        "endTime": 2633,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Como assim como ele é fisicamente ou perfil?"
+      },
+      {
+        "startTime": 2635,
+        "endTime": 2639,
+        "speaker": "Diego Diehl",
+        "text": "Se ele é bonito. Se ele é forte fraco Claro que não né João. Qual que é o"
+      },
+      {
+        "startTime": 2639,
+        "endTime": 2640,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não lembro."
+      },
+      {
+        "startTime": 2640,
+        "endTime": 2643,
+        "speaker": "Diego Diehl",
+        "text": "perfil dele, cara?"
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2646,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Cara, ele é um cara assim bem bem comunicativo bem aberto a tecnologia o cara"
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2647,
+        "speaker": "Diego Diehl",
+        "text": "Não não."
+      },
+      {
+        "startTime": 2652,
+        "endTime": 2660,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "bem engajado, só que bem ocupado. Deixa eu ver se eu tenho aqui."
+      },
+      {
+        "startTime": 2666,
+        "endTime": 2667,
+        "speaker": "Diego Diehl",
+        "text": "Tá isso é tentou ligar para ele não atendeu."
+      },
+      {
+        "startTime": 2668,
+        "endTime": 2685,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim várias vezes desde segunda tô tentando contato. Foi três semanas só para ele me mandar a listagem de produtos atualizada com estoque Total atual e quando a quantidade foi lançada para isso e a gente conseguir montar uma proposta e chegar naquele 2800 e pouco."
+      },
+      {
+        "startTime": 2685,
+        "endTime": 2800,
+        "speaker": "Diego Diehl",
+        "text": "é hora do Gera? Eu posso pedir para ele? Falar rapidamente com o colega dele do da Cyrela RJ. RS Maurício ou isso aqui é processo de venda das grandes que a gente tem que estruturar lá talvez a Mila Se enrole do que eu tô fazendo aqui também. Andei no grupo lá."
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2802,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2802,
+        "endTime": 2816,
+        "speaker": "Diego Diehl",
+        "text": "E o Salazar? Manda ver manda ver eu tô emendando aqui porque é Fim de mês e a gente."
+      },
+      {
+        "startTime": 2816,
+        "endTime": 2828,
+        "speaker": "Luan Felipe de Souza",
+        "text": "pessoal, eu vou ter uma reuniãozinha agora às 5 de ser XL, posso sair só para dar uma relida de novo ali no Beleza fazer uma apresentaçãozinha. Valeu pessoal, boa tarde."
+      },
+      {
+        "startTime": 2828,
+        "endTime": 2835,
+        "speaker": "Diego Diehl",
+        "text": "Vamos tentar o Salazar pode ser João se importa."
+      },
+      {
+        "startTime": 2838,
+        "endTime": 2856,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Sim, vamos"
+      },
+      {
+        "startTime": 2856,
+        "endTime": 2917,
+        "speaker": "Diego Diehl",
+        "text": "aqui na rua saindo de um instante, você pode por um lugar tal para fazer visita eu vendo bastante eu vendo bastante esses dois Ah, mas eu falo que não dá certo com corretor, tá? O negócio é você, tá no carro e aí você manda um áudio na conversa com o cara e fala Zé envia a tabela e o vídeo do empreendimento tal Deus é manda para utilizar o teu tempo."
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2980,
+        "speaker": "Diego Diehl",
+        "text": "o corretor ou o gerente de parcerias Ah não não três esquece treinar o corretor cara é mais para otimizar a tua vida e você faz disparo hoje. E tá pagando meta oficial. Seria boa normal. É um trabalho, né? O contato aí com a galera. Que legal, que legal nas eleições agora a gente criou um QR Code de check-in da gente os coordenadores vão na imobiliária bota QR Code já abre o WhatsApp."
+      },
+      {
+        "startTime": 2980,
+        "endTime": 3079,
+        "speaker": "Diego Diehl",
+        "text": "Manda um oi pega as informações já cadastra o corretor, mas é outra otimização, né? Mas ó Salazar para não tomar o teu tempo e resumir, tá? Se você quiser são duas coisas ao invés de mandar tudo mandar um portal para o cara que ele não vai entrar vai entrar meia dúzia, mas se entrar meia dúzia eu vou te gerar meia dúzia de dezenas de reais lá para você fazer disparo de meio para todos os corretores e tal é Para você avaliar, mas talvez não encaixa agora e aí depois se você quiser o que o que a galera de São Paulo usa muito é a nossa inteligência de mercado, só que é um pouco."
+      },
+      {
+        "startTime": 3079,
+        "endTime": 3145,
+        "speaker": "Diego Diehl",
+        "text": "Outra área que usa Às vezes você pode rachar o custo aí, se você quiser então você tem duas opções ou dois caminhos que eu tô te contando sugerindo um vê se tem alguém de novos negócios que curte dados e a nossa inteligência de mercado. Vem com essa inteligência de mercado que você rachar o custo e aí a outra você fazer alguma contraproposta para o João aí porque eu tenho alguma margem ali para provar tua venda."
+      },
+      {
+        "startTime": 3145,
+        "endTime": 3208,
+        "speaker": "Diego Diehl",
+        "text": "Porque se ela a gente já fez cases em São Paulo, você fica próximo da gente do nada você vira campeão de vendas por quatro meses seguidos, ninguém vai questionar a hora depois entendeu? E o cara de Imobiliária. Ele não conhece a hora não, mas os corretores autônomos que não tem conexão com as incorporadoras que estão fazendo marketing digital, tá é mais difícil, tá ligado? E esse cara que se cadastra ela tem 100."
+      },
+      {
+        "startTime": 3208,
+        "endTime": 3284,
+        "speaker": "Diego Diehl",
+        "text": "cadastro por mês entra novo e vai tudo para você Ela faz os lançamentos todos os corretores e assim. Então assim todos eles passam a conhecer. Daqui a pouco ele sai e vem trabalhando o shared vendas aí ainda. Uma confusão dos infernos. Mas tem uma equipe forte de 2000 corretores que ainda fazem entendeu? Mas não são o resultado absoluto aí de vocês porque as imobiliárias como são corretores que já já conhecem se ela já roda pela cidade os produtos e quem começa novo na verdade esses caras."
+      },
+      {
+        "startTime": 3284,
+        "endTime": 3326,
+        "speaker": "Diego Diehl",
+        "text": "Eles já conhecem muito bem os caras de outros estados. Pouquíssimas vezes ele tem procurado a gente devido a desconfiança e tal e não saber direito como é que o cliente dele vai reagir poucos poucos clientes. Eu tenho algumas imobiliárias. Se cadastrando comigo imobiliárias que já vieram direcionados para produtos."
+      },
+      {
+        "startTime": 3326,
+        "endTime": 3393,
+        "speaker": "Diego Diehl",
+        "text": "o cara de Fora E não veio ninguém falando que não vem ninguém falando que veio da hora, mano. Para vocês. É boa essa máquina mesmo. Que bom é bom para você é isso, ó aqui ó para você saber quando a gente apertar o botão de habilitar. Tem 18 imobiliárias que me pagam para ter o produto dela no CRM no site dela 18 que me pagam só que tem 430 que só pega o que é gratuito."
+      },
+      {
+        "startTime": 3393,
+        "endTime": 3435,
+        "speaker": "Diego Diehl",
+        "text": "E aí como o teu não tá não tá patrocinado ou seja? Não tá gratuito para eles tem 430 que não recebe teu produto quando apertar um botão essas 430 Imobiliários, vamos recebendo o dia seguinte, você pode entrar no site de umas 40 e vê lá o teu produto Cyrela."
+      },
+      {
+        "startTime": 3435,
+        "endTime": 3478,
+        "speaker": "Diego Diehl",
+        "text": "E aí vai direto do site delas automático vai lançar entrou na hora entrou integrou tá no site vai entrar um cliente no site dela clicar pedir pelo produto corretor vai chegar para ti falar tenho cliente e aí o que eu vou precisar quando vocês assinarem, você fala assim corretor."
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3534,
+        "speaker": "Diego Diehl",
+        "text": "Mas me conta da onde é que veio esse cliente ou da onde é que você lembrou desse produto meu vai ter Ah, eu conheço você dela. Ah é o lançamento. Ah, eu pesquisei na hora. Ah o meu cliente veio do site se o cliente veio do site só tá no site porque eu entreguei provavelmente, né? Então tem 430 esperando aqui e um dado legal."
+      },
+      {
+        "startTime": 3534,
+        "endTime": 3589,
+        "speaker": "Diego Diehl",
+        "text": "Ela tem mais ou menos 80 por teve dois mil usuários que acessaram uma série dela, Rio de Janeiro. E deve ser uns 70% de fora mesmo, então. A gente está feliz muito fraco na Parceria e porque as estruturas da cidade do Rio são 12 gerentes no alto padrão 500 corretores 12 gerente no médio baixo padrão que é livre bastante corretores vivem 12."
+      },
+      {
+        "startTime": 3589,
+        "endTime": 3715,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente tinha deixado esse histórico aí para a gente continuar brigando, ele sabe da empresa, né? A gente continuar brigando continuar tentando levantar recurso para pagar e agora também fica bem pesado com a gente a gente não dá premiação, a gente não dá nada para o parceiro nada nada nada porque a gente não tem recurso da acelera tá lá, entendeu? Então a gente tira tudo do nosso bolso tem 19 produtos, né? A mensalidade era 4K, né? Eu acho que ele deve ter feito por quase três e se chegou e o que que é que assim, ó, se você combinar comigo uma parada que não vai te custar nada a gente consegue descer mais que é o que eu te falei agora Salazar sabe qual que é o maior problema é se eu fechar contigo daqui 6 meses, você fala que eu não gerei resultado."
+      },
+      {
+        "startTime": 3715,
+        "endTime": 3772,
+        "speaker": "Diego Diehl",
+        "text": "Essa é a maior m**** para mim porque eu preciso que você fale É do corretor. O parceiro de outros estados é realmente eu entendo que vai ficar bom quando ele recebeu produtos da praia para gente a gente não faz lançamento que faz lançamento de alto padrão na praia, por exemplo na Praia da Barra, a gente tem um percentual muito baixo ainda para pagar o parceiro."
+      },
+      {
+        "startTime": 3772,
+        "endTime": 3855,
+        "speaker": "Diego Diehl",
+        "text": "Mas isso é porque vocês não estão na hora também, né? Tipo, eu tô falando para quando você tiver você coloca meu pedido para ti, tipo, quando você fizer uma venda você virar para o corretor e falar cara, por favor, me conta aí da onde é que você Surgiu irmão da onde é que você veio da onde que o teu cliente veio para um dois ou três responderem, cara, eu vim da hora aí eu aí você vai virar para mim falar Diegão, que mais eu posso fazer para dobrar esses cara aí que vem para mim."
+      },
+      {
+        "startTime": 3855,
+        "endTime": 3934,
+        "speaker": "Diego Diehl",
+        "text": "Eu acabei de o João te mandou um vídeo de uma cliente que falou com a gente essa semana. Ou não das minhas 95 vendas 72 vieram da hora. Falou tá gravado, tem que até pedir para ela assinar autorização para a gente divulgar isso eu vou te mandar como é que é feita a nossa roleta, meu irmão, eu recebo muito mais vídeos de parceiro pelo site da serela do que o corretor exatamente por esse histórico que eles têm a prioridade no site deles produtos aonde? Todos eles já conhecem em alta."
+      },
+      {
+        "startTime": 3934,
+        "endTime": 3998,
+        "speaker": "Diego Diehl",
+        "text": "Mas ele sabe. Que existe a gente. mesmo a gente Tem pouquíssimos eu concordo, mas é que assim na barra lá de três quartos para cima. Na barra, por exemplo tem 86 Empreendimentos de três quartos para cima o ticket de vocês é quanto? a partir de um milhão Dois quartos tem 56 Empreendimentos É isso que eu tô falando acho quando ativar o corretor ele vira e fala precisou ver o que tem na Barra."
+      },
+      {
+        "startTime": 3998,
+        "endTime": 4040,
+        "speaker": "Diego Diehl",
+        "text": "Ele não vai olhar vou ver o que quer ser ela tem não corretor qualquer cara tem 100 mil acessos aqui na hora. Mas enfim, resumo dá para a gente acelerar o que que tem um número na tua cabeça aí, tipo era quatro. O João fez uma proposta de três."
+      },
+      {
+        "startTime": 4040,
+        "endTime": 4085,
+        "speaker": "Diego Diehl",
+        "text": "E quanto é que é o número que você toparia fazer um teste aí com a gente de seis meses? Você não tem o número teu nós dois pagando entendeu dois então é um número que 1.900 eu já ficaria confortável, não dá nem mil reais para cada um fizer uma venda fechou."
+      },
+      {
+        "startTime": 4085,
+        "endTime": 4146,
+        "speaker": "Diego Diehl",
+        "text": "Para você ter uma ideia o nosso mercado com uma confusão que tá tendo das imobiliárias aqui no Rio e a quantidade de lançamentos o nosso setor da Claro somos Zerou que eu mais quero que aconteça isso meu amigo, porque daí a galera começa a recorrer para a hora. Que você perguntar para eles ó, meu combinado contigo, se eu te dar um desconto eu vou te ligar, vou perguntar o Salazar."
+      },
+      {
+        "startTime": 4146,
+        "endTime": 4202,
+        "speaker": "Diego Diehl",
+        "text": "Você perguntou para o corretor de onde é que ele veio porque se ele conhece o site. Mas é que você tá perguntando. Mas é que olha o que acontece. Aqui tá o cara tem 60 lançamentos na Barra. Ele vai pesquisar lá vai olhar quatro um deles é a Cyrela ele vai olhar e se ela falar a sirela tem que entrar no site da Cyrela."
+      },
+      {
+        "startTime": 4202,
+        "endTime": 4251,
+        "speaker": "Diego Diehl",
+        "text": "Vou entrar no site da Cyrela isso que ele faz ele daí é o combinado de você perguntar eu gerei esse cara ele entrou pelo teu site daí é regra de vocês. Vai ser legal a gente comentar ali teu número tem um botão mais claro para o cara ao invés de olhar o produto acelerar tem esse lançamento."
+      },
+      {
+        "startTime": 4251,
+        "endTime": 4297,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu lá me cadastrar ele olhar o lançamento ver o teu botãozão lá e falar deixa que eu já falo. A gente vai trabalhar para aumentar esse número você perguntar para o cara do dlv. Ah, veio do teu site tá? Mas da onde é que você teve vontade de vender um ser ela."
+      },
+      {
+        "startTime": 4297,
+        "endTime": 4342,
+        "speaker": "Diego Diehl",
+        "text": "Ah, na verdade, eu pesquisei na hora você pode apostar que vai ter cara falando isso. E aí eu vou pegar a parte da tua mensalidade, se você topar divulgar testar divulgar ó acessa aqui cara, tem o meu tem todos os lançamentos seu metrifico. Sei lá eu pego parte da tua mensalidade."
+      },
+      {
+        "startTime": 4342,
+        "endTime": 4392,
+        "speaker": "Diego Diehl",
+        "text": "Faça um Facebook ads para gerar mais corretor para dentro do teu produto da seriele. Aí vai ser impossível não não chegar gente é esse movimento que eu quero fazer, entendeu? Eu tô no momento de marketing grosso. Eu vou pegar essa mensalidade. Você tem gestor de tráfico para fazer anúncio, aí eu tenho aí eu vou fazer um anúncio."
+      },
+      {
+        "startTime": 4392,
+        "endTime": 4468,
+        "speaker": "Diego Diehl",
+        "text": "Claro Vou aprovar contigo não tem nada demais por coincidência vai ser o produto que você escolheu. E aí vai ser voltado para corretora entrar. Quando ele entrar ele vai cair na hora ou quando ele cair na hora ou vai estar o teu nome lá, entendeu? O mecanismo eu vou pedir para o João te mandar uma proposta quem que assinar não ia ser pjf com vocês, né, então? Tá então vou fazer meu papel de vendas, eu vou mandar uma proposta lá em 1897 bem esses números Mágicos."
+      },
+      {
+        "startTime": 4468,
+        "endTime": 4536,
+        "speaker": "Diego Diehl",
+        "text": "É com validade até o dia 31 precisa acelerar e fazer um teste. Daí você me diz aí você decide, se não achar que vale acelerar agora a gente avalia. fechou Me mande que eu vou querer saber vou te dar um oi no WhatsApp, você me manda um print e aí cara, eu vou fazer uma eu vou fazer um combinadinho ali que vai ter uma graninha de fazer X para jogar corretor para ti e a gente metrifica esse resultado."
+      },
+      {
+        "startTime": 4536,
+        "endTime": 4598,
+        "speaker": "Diego Diehl",
+        "text": "Você só tem que perguntar para o cara de onde ele veio daí e não adianta falar veio da roleta não, mas da onde que você acordou e falou vou abrir o site da Cyrela hoje não. É papel é papel do é igual o corretor. E aí? Exato, por isso que eu tô falando para invés de ficar fomentando o link da serela mudar o comportamento do mercado velho, ó por sinal Cyrela."
+      },
+      {
+        "startTime": 4598,
+        "endTime": 4651,
+        "speaker": "Diego Diehl",
+        "text": "Ah não abriu uma oportunity. Salazar Ferreira vou até te avaliar aqui com nota 5 para ficar mais bonito. Eu falei caramba duas corretores do rio, mas ele já tinha um cadastro na Selena com muito coordenador. Aí eu não podia eu falei não pode nascer dela. Você não troca de corredor, você precisa acelerar meu irmão, você vai perder tudo os corretor."
+      },
+      {
+        "startTime": 4651,
+        "endTime": 4705,
+        "speaker": "Diego Diehl",
+        "text": "Aí eu falei com ele sobre o produto, eles falaram tá? Ok? Talvez eu tenha cliente e aí foi no início é f***, cara eu morrer aí os cara não querem ajudar ninguém quer ajudar ninguém quer fazer parceria. Então vê se você faz diferente aí pô, pô, vou ajudar os cara da hora, porque os caras são maior do Brasil, eles vão me ajudar."
+      },
+      {
+        "startTime": 4705,
+        "endTime": 4750,
+        "speaker": "Diego Diehl",
+        "text": "Você é gerente do parceria, cara. Por causa de uma briga do Marcos Lopes em São Paulo com o ex dono da franquia da Lopes do rio, mas essa Você tá trabalhando cauda longa da Galera, porque visitar grande Imobiliária. Todo mundo vai ter que ver os corretores que estão escondidos fazendo anúncio."
+      },
+      {
+        "startTime": 4750,
+        "endTime": 4798,
+        "speaker": "Diego Diehl",
+        "text": "Caram a trabalhar sozinho, ele já passaram por essas empresas e já conhecem a gente sai pra seguir um caminho solo. Mas ele já conhece a gente o cara não sai pra seguir os caminhos solo do nada. Ele só sai pra seguir o caminho só depois que ele tem essa experiência com grandes marcas de gerência."
+      },
+      {
+        "startTime": 4798,
+        "endTime": 4886,
+        "speaker": "Diego Diehl",
+        "text": "Se raramente você Pega alguém cara, toda imobiliária do Rio que nasce e começa a trabalhar na escola, ele vai para escola raramente alguém abre uma imobiliária do zero, eu entendo. Concordo concordo, mas ó. Vai ter vai ter vai ter trigo no meio desse joio todo aí vai aparecer quando a gente entrar em Imobiliárias no site dela, mande corretora acessando anúncio Portal que vai rolar teu nome em tudo isso daí ser divulgar não vai ter como vamos decida aí com a tua gerente seus investimentos é 900 pila velho e eu vou converter parte disso em Edis para vocês a gente combina só."
+      },
+      {
+        "startTime": 4886,
+        "endTime": 4932,
+        "speaker": "Diego Diehl",
+        "text": "Aproveita que você tá com pouca visita agiliza isso daí cara que daí mês que vem a gente começa acelerando já na nossa roleta. Vou te mandar. Valeu vou te mandar um oi a gente vai fazer um workshop de estruturação do canal de parceria, você vai lá vai aprender umas coisas legal aí também."
+      },
+      {
+        "startTime": 4932,
+        "endTime": 4438,
+        "speaker": "Diego Diehl",
+        "text": "Valeu. Vamos ver se temos um Case aí para você subir no palco falando. O sobrenome da hora não é novos parceiros. Valeu meu amigo, um abraço, viu? Um grande abraço. Tchau, tchau. Ninguém escuta a ligação do outro começa a virar um tabule que cada um fala"
+      },
+      {
+        "startTime": 4438,
+        "endTime": 4440,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É dá uma gosta de dar uma chorada."
+      },
+      {
+        "startTime": 4454,
+        "endTime": 4458,
+        "speaker": "Diego Diehl",
+        "text": "Gustavo tá bravo aqui esse bigodinho dele hoje, ninguém mexe o Gustavo vai dar um tiro em alguém."
+      },
+      {
+        "startTime": 4459,
+        "endTime": 4463,
+        "speaker": "Gustavo Torres",
+        "text": "É a janela tá perguntando aqui do contrato, eu vou mandar para você o áudio dele para você me ajudar."
+      },
+      {
+        "startTime": 4465,
+        "endTime": 4516,
+        "speaker": "Diego Diehl",
+        "text": "Incluiria que a taxa de implantação será paga em 7 ou 14 dias não a gente vai botar data nessa parte. Acho que teria como usarmos como segundo mês e não 60 dias. É que o terceiro mês né? Pensando que o único probleminha que teremos devolver o dinheiro aqui teremos emitido."
+      },
+      {
+        "startTime": 4516,
+        "endTime": 4568,
+        "speaker": "Diego Diehl",
+        "text": "Ou jogaríamos o pagamento dele para o segundo mês para podermos devolver ou diminuirmos o período da garantia. Para colocarmos o vencimento da taxa bem no início do segundo mês. É que ele começa a pagar no terceiro mês, né? Tá certo isso gente. Assinei dia 26 de Março 6 de Abril."
+      },
+      {
+        "startTime": 4568,
+        "endTime": 4637,
+        "speaker": "Diego Diehl",
+        "text": "26 de Maio vai pagar cinco dias em maio Abril no segundo mês. Bia que saco, né? Se fosse para simplificar vocês veem. Me diga uma coisa que tu já altero aqui, a gente já muda já deixa mais simples, vocês vem algum? quase Qual que é a minha solução daí vocês medir, você tem problema o pagamento da implantação será feito junto a primeira mensalidade no segundo mês."
+      },
+      {
+        "startTime": 4637,
+        "endTime": 4593,
+        "speaker": "Diego Diehl",
+        "text": "a gente Eu acho bem legal aqui da Incorporadora, não paga o modelo da cláusula tendo"
+      },
+      {
+        "startTime": 4593,
+        "endTime": 4600,
+        "speaker": "Gustavo Torres",
+        "text": "Não vejo Acho que até mais fácil do que a gente tem que ficar alinhando uma data de pagamento de implementação foi usar ela acabou de me responder. Se não dá para pôr na mesma data."
+      },
+      {
+        "startTime": 4621,
+        "endTime": 4639,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A emissão da nota eu acho que a gente está fazendo dois dias depois do pagamento, né. Eu até pensei em outro ponto aqui, mas não vai fazer sentido emitir a nota só depois dos 60 dias o cara paga agora. E a gente manda junto com a mensalidade depois."
+      },
+      {
+        "startTime": 4648,
+        "endTime": 4694,
+        "speaker": "Diego Diehl",
+        "text": "em vista que vamos combinar a implantação. Representação junto com a primeira mensalidade diga que a primeira mensalidade será é que é fato segundo mês para ele abrir. É um crescimento de tanta Planta dois meses após a contratação na data. Combinada encontrada dito isso será cobrado juntamente com a primeira mensalidade será devida? falecimento a partir da primeira cobrança A minha cabeça bagunçado."
+      },
+      {
+        "startTime": 4694,
+        "endTime": 4735,
+        "speaker": "Diego Diehl",
+        "text": "Aqui será cobrada só essa p**** aqui do entenda que a solução. Mas quase como se fosse um calor a conversão total da c&a é essa são os melhores as melhores lojas os melhores regiões as melhores chegam a uma conversão de 25%, mas esse é o teto assim não faz sentido a gente colocar tudo certo."
+      },
+      {
+        "startTime": 4735,
+        "endTime": 4778,
+        "speaker": "Diego Diehl",
+        "text": "São aquelas lojas que tem maior do mundo. Daqui a pouquinho é uma estrelinha aqui meio para amar. Eu mudei para o cara pagar implantação junto com a primeira mensalidade se vai dar BO de nota fiscal e devolução o significado beleza, só me dá um ok ali na cláusula que eu preciso de três contratos, beleza? Valeu? Beijo."
+      },
+      {
+        "startTime": 4778,
+        "endTime": 4815,
+        "speaker": "Diego Diehl",
+        "text": "E o mercado consegui achar esse shopping fechamos a cláusula simplificamos vai ter padrão não vai ter que ajustar nada só o preço. A Bia vai dar Ok vou te dar ali no Whats, já acessava como padrão como workshop e deixa certinho isso atende ao áudio que o Zanella mandou."
+      },
+      {
+        "startTime": 4816,
+        "endTime": 4817,
+        "speaker": "Gustavo Torres",
+        "text": "Ele pediu isso."
+      },
+      {
+        "startTime": 4817,
+        "endTime": 4828,
+        "speaker": "Diego Diehl",
+        "text": "tá sobre o Mas eu acho que isso aí a gente desenrola um pouco a gente bate nele e fala ó,"
+      },
+      {
+        "startTime": 4828,
+        "endTime": 4841,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu acho que o único ponto de ressalvo do meu lado é em relação à operação como Embaixador Diego por eles terem esse site que faz essa roleta. Fechou do meu lado aqui, tá? Vou atualizar a proposta que eu mandei."
+      },
+      {
+        "startTime": 4841,
+        "endTime": 4856,
+        "speaker": "Diego Diehl",
+        "text": "a gente vai dar aqui, você quer ter o link que eu vou fazer uma grana entrar fazer algo. E eu botei ali 19."
+      },
+      {
+        "startTime": 4858,
+        "endTime": 4861,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "1897 você falou para ele?"
+      },
+      {
+        "startTime": 4861,
+        "endTime": 4871,
+        "speaker": "Diego Diehl",
+        "text": "0 o preço que só tem 1.731/2028"
+      },
+      {
+        "startTime": 4871,
+        "endTime": 4880,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Mas em contato comigo. 1781 beleza"
+      },
+      {
+        "startTime": 4882,
+        "endTime": 4905,
+        "speaker": "Diego Diehl",
+        "text": "Aí João o combinado na venda. Vocês viram que dá para rolar essa troca essa subida. Tipo assim, eu gastei um tempo, mas é uma venda enterprise e a gente engatou mais um pouco com ele. O cara falou 20 minutos comigo no telefone e tava feliz"
+      },
+      {
+        "startTime": 4905,
+        "endTime": 4908,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 4908,
+        "endTime": 4916,
+        "speaker": "Diego Diehl",
+        "text": "dando risada contando negócio abrindo o jogo. Porque então João nessas vendas. Vamos tentar trocar assim, entendeu? E aí liga a gente troca aprende a"
+      },
+      {
+        "startTime": 4916,
+        "endTime": 4919,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 4919,
+        "endTime": 4942,
+        "speaker": "Diego Diehl",
+        "text": "escutar uma ligação de vocês também para a gente se ajudar, eu ligo aqui não é porque eu quero a foto de vocês. Eu ligo aqui para vocês pegarem algum site. Qualquer que seja entendeu? Tipo assim, c******. Olha isso, olha aquilo qualquer coisa que seja. Vamos aí tentar trazer uma duas Enterprise."
+      },
+      {
+        "startTime": 4942,
+        "endTime": 4944,
+        "speaker": "Diego Diehl",
+        "text": "Que mais tem mais algum ponto?"
+      },
+      {
+        "startTime": 4944,
+        "endTime": 4946,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que não da minha parte não, só dei me dá um ok lá se quando a Bia"
+      },
+      {
+        "startTime": 4946,
+        "endTime": 4950,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 4950,
+        "endTime": 4953,
+        "speaker": "Gustavo Torres",
+        "text": "der ok para você me dá ok para eu poder dar ok para os anéis a gente"
+      },
+      {
+        "startTime": 4953,
+        "endTime": 4962,
+        "speaker": "Diego Diehl",
+        "text": "desenrolar. tá E alguma coisa de mercado, se você encontrar ótimo um relatório alguma coisa, nem que sejam Fallout só com uma caixinha vai o João uma coisa aproveita"
+      },
+      {
+        "startTime": 4962,
+        "endTime": 4963,
+        "speaker": "Gustavo Torres",
+        "text": "fechou"
+      },
+      {
+        "startTime": 4965,
+        "endTime": 4970,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ô, coisa linda."
+      },
+      {
+        "startTime": 4970,
+        "endTime": 5000,
+        "speaker": "Diego Diehl",
+        "text": "contratação do tldv para os closers. E aí você vai ter lá uma logozinha e aprovei o business que daí vai ter um centro de treinamento de ar com feedback os caramba e tal a gente vai vamos implantar isso daí no modelo lá do curso de estrutura de CRM. Você tá até conectar o tldv por N8 n Face, a união tá com o e-mail vinculado já joga no Beatle que se atualiza o contexto."
+      },
+      {
+        "startTime": 5000,
+        "endTime": 5006,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Até uma dá para a gente ajustar algum contexto GPT nele Diego nesse sentido é"
+      },
+      {
+        "startTime": 5006,
+        "endTime": 5008,
+        "speaker": "Diego Diehl",
+        "text": "Vai dar."
+      },
+      {
+        "startTime": 5008,
+        "endTime": 5014,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "que eu tô pensando alto aqui já para a gente aproveitar essa metodologia que o Gustavo treinou para sair da reunião com o histórico completo já naquela"
+      },
+      {
+        "startTime": 5014,
+        "endTime": 5016,
+        "speaker": "Diego Diehl",
+        "text": "Ldv, tem um Spice de lá?"
+      },
+      {
+        "startTime": 5016,
+        "endTime": 5023,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "estrutura aí vai ficar tudo padronizado. Ah. Fechou então, tá?"
+      },
+      {
+        "startTime": 5023,
+        "endTime": 5025,
+        "speaker": "Diego Diehl",
+        "text": "Tem já mas dá para escolher o pronto de que a gente quiser."
+      },
+      {
+        "startTime": 5025,
+        "endTime": 5026,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "dominado show de bola"
+      },
+      {
+        "startTime": 5026,
+        "endTime": 5030,
+        "speaker": "Diego Diehl",
+        "text": "Beleza fica um minutinho só Valeu João, tamo junto."
+      },
+      {
+        "startTime": 5030,
+        "endTime": 5030,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "show"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 288,
+    "speakers": [
+      "Luan Felipe de Souza",
+      "Diego Diehl",
+      "João Vitor Portes da Silva",
+      "Gustavo Torres"
+    ],
+    "total_words_estimate": 7314,
+    "duration_start": 1,
+    "duration_end": 5030
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69c597f415cbcb001385543b",
+        "timestamp": 1056,
+        "text": "Contratos workshop devem ser salvos com nomenclatura padrão \"combo workshop\"",
+        "topicId": "69c597f415cbcb0013855429"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385542d",
+        "timestamp": 1066,
+        "text": "Gustavo ajustar contrato MDI conforme modelo padrão definido",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855439",
+        "timestamp": 1118,
+        "text": "Modelo de cobrança Closer: pro rata do dia de assinatura até data de vencimento mensal",
+        "topicId": "69c597f415cbcb0013855429"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855434",
+        "timestamp": 1122,
+        "text": "W3 Rio: contrato aguardando assinatura dos dois sócios após validação",
+        "topicId": "69c597f415cbcb0013855428"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385543c",
+        "timestamp": 1185,
+        "text": "Faturamento deve ser emitido no CNPJ da Incorporadora para evitar alterações",
+        "topicId": "69c597f415cbcb0013855429"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855435",
+        "timestamp": 1293,
+        "text": "Luli Goiânia: negociação travada aguardando aprovação da diretoria",
+        "topicId": "69c597f415cbcb0013855428"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385543d",
+        "timestamp": 1322,
+        "text": "Estado deve aparecer no título do contrato e no card de visualização",
+        "topicId": "69c597f415cbcb0013855429"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855437",
+        "timestamp": 1838,
+        "text": "Denise São Paulo: material entregue aguardando aprovação da diretoria de parcerias",
+        "topicId": "69c597f415cbcb0013855428"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855445",
+        "timestamp": 2012,
+        "text": "Caso de sucesso: cliente vendeu 70 unidades usando a plataforma Hora",
+        "topicId": "69c597f415cbcb001385542b"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855438",
+        "timestamp": 2058,
+        "text": "Roselita: reunião com incorporador para apresentar ferramenta, cliente bem engajado",
+        "topicId": "69c597f415cbcb0013855428"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855444",
+        "timestamp": 2326,
+        "text": "Abordagem topo de funil é mais \"quentinha\", fundo é mais \"fria\" e objetiva",
+        "topicId": "69c597f415cbcb001385542b"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855436",
+        "timestamp": 2425,
+        "text": "Salazar: cliente hesitante com orçamento, proposta de crescimento em discussão",
+        "topicId": "69c597f415cbcb0013855428"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855430",
+        "timestamp": 2828,
+        "text": "João tentar contato com Salazar para avançar negociação travada",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385543e",
+        "timestamp": 3003,
+        "text": "Salazar pode usar inteligência de mercado ou portal com 50% de acessos",
+        "topicId": "69c597f415cbcb001385542a"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855443",
+        "timestamp": 3287,
+        "text": "Funil Closer começa no meio, diferente de outros que começam no topo",
+        "topicId": "69c597f415cbcb001385542b"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855441",
+        "timestamp": 3401,
+        "text": "430 imobiliárias aguardam ativação para receber produtos quando botão habilitado",
+        "topicId": "69c597f415cbcb001385542a"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855442",
+        "timestamp": 3556,
+        "text": "Parceria Rio estruturada com 12 gerentes alto padrão e 500 corretores",
+        "topicId": "69c597f415cbcb001385542a"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855446",
+        "timestamp": 4085,
+        "text": "Mercado Rio tem confusão entre imobiliárias, oportunidade para acelerar adoção",
+        "topicId": "69c597f415cbcb001385542b"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855440",
+        "timestamp": 4146,
+        "text": "Importante questionar corretores sobre origem do cliente para rastrear resultados",
+        "topicId": "69c597f415cbcb001385542a"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385543f",
+        "timestamp": 4378,
+        "text": "Diego pode fazer anúncio em Facebook ads para gerar corretores para Salazar",
+        "topicId": "69c597f415cbcb001385542a"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385542e",
+        "timestamp": 4450,
+        "text": "Diego enviar proposta para Salazar com valor de R$ 1.897 até 31 de março",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855431",
+        "timestamp": 4459,
+        "text": "Diego mandar áudio para Gustavo sobre questões de contrato do Zanella",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385543a",
+        "timestamp": 4608,
+        "text": "Primeira cobrança será junto com primeira mensalidade no segundo mês",
+        "topicId": "69c597f415cbcb0013855429"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385542c",
+        "timestamp": 4748,
+        "text": "Diego validar cláusula de contrato com Bia e confirmar padrão para workshop",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb001385542f",
+        "timestamp": 4850,
+        "text": "João atualizar proposta e enviar para Salazar com novo valor acordado",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855432",
+        "timestamp": 4950,
+        "text": "Gustavo dar ok na cláusula para Diego repassar aos anéis",
+        "topicId": "69c597f415cbcb0013855427"
+      },
+      {
+        "segmentId": "69c597f415cbcb0013855433",
+        "timestamp": 4990,
+        "text": "João integrar tldv no sistema de CRM e Beatles com contexto GPT",
+        "topicId": "69c597f415cbcb0013855427"
+      }
+    ],
+    "markdownContent": "## 1. Itens de Ação\n\n- [ ] Diego validar cláusula de contrato com Bia e confirmar padrão para workshop [01:19:08](/app/meetings/69c58224f2dd940013643f4d?t=4748)\n- [ ] Gustavo ajustar contrato MDI conforme modelo padrão definido [17:46](/app/meetings/69c58224f2dd940013643f4d?t=1066)\n- [ ] Diego enviar proposta para Salazar com valor de R$ 1.897 até 31 de março [01:14:10](/app/meetings/69c58224f2dd940013643f4d?t=4450)\n- [ ] João atualizar proposta e enviar para Salazar com novo valor acordado [01:20:50](/app/meetings/69c58224f2dd940013643f4d?t=4850)\n- [ ] João tentar contato com Salazar para avançar negociação travada [47:08](/app/meetings/69c58224f2dd940013643f4d?t=2828)\n- [ ] Diego mandar áudio para Gustavo sobre questões de contrato do Zanella [01:14:19](/app/meetings/69c58224f2dd940013643f4d?t=4459)\n- [ ] Gustavo dar ok na cláusula para Diego repassar aos anéis [01:22:30](/app/meetings/69c58224f2dd940013643f4d?t=4950)\n- [ ] João integrar tldv no sistema de CRM e Beatles com contexto GPT [01:23:10](/app/meetings/69c58224f2dd940013643f4d?t=4990)\n\n## 2. Negociações em Andamento\n\n- W3 Rio: contrato aguardando assinatura dos dois sócios após validação [18:42](/app/meetings/69c58224f2dd940013643f4d?t=1122)\n- Luli Goiânia: negociação travada aguardando aprovação da diretoria [21:33](/app/meetings/69c58224f2dd940013643f4d?t=1293)\n- Salazar: cliente hesitante com orçamento, proposta de crescimento em discussão [40:25](/app/meetings/69c58224f2dd940013643f4d?t=2425)\n- Denise São Paulo: material entregue aguardando aprovação da diretoria de parcerias [30:38](/app/meetings/69c58224f2dd940013643f4d?t=1838)\n- Roselita: reunião com incorporador para apresentar ferramenta, cliente bem engajado [34:18](/app/meetings/69c58224f2dd940013643f4d?t=2058)\n\n## 3. Definições de Processo e Padrões\n\n- Modelo de cobrança Closer: pro rata do dia de assinatura até data de vencimento mensal [18:38](/app/meetings/69c58224f2dd940013643f4d?t=1118)\n- Primeira cobrança será junto com primeira mensalidade no segundo mês [01:16:48](/app/meetings/69c58224f2dd940013643f4d?t=4608)\n- Contratos workshop devem ser salvos com nomenclatura padrão \"combo workshop\" [17:36](/app/meetings/69c58224f2dd940013643f4d?t=1056)\n- Faturamento deve ser emitido no CNPJ da Incorporadora para evitar alterações [19:45](/app/meetings/69c58224f2dd940013643f4d?t=1185)\n- Estado deve aparecer no título do contrato e no card de visualização [22:02](/app/meetings/69c58224f2dd940013643f4d?t=1322)\n\n## 4. Estratégias de Vendas e Parcerias\n\n- Salazar pode usar inteligência de mercado ou portal com 50% de acessos [50:03](/app/meetings/69c58224f2dd940013643f4d?t=3003)\n- Diego pode fazer anúncio em Facebook ads para gerar corretores para Salazar [01:12:58](/app/meetings/69c58224f2dd940013643f4d?t=4378)\n- Importante questionar corretores sobre origem do cliente para rastrear resultados [01:09:06](/app/meetings/69c58224f2dd940013643f4d?t=4146)\n- 430 imobiliárias aguardam ativação para receber produtos quando botão habilitado [56:41](/app/meetings/69c58224f2dd940013643f4d?t=3401)\n- Parceria Rio estruturada com 12 gerentes alto padrão e 500 corretores [59:16](/app/meetings/69c58224f2dd940013643f4d?t=3556)\n\n## 5. Discussões sobre Modelo de Negócio\n\n- Funil Closer começa no meio, diferente de outros que começam no topo [54:47](/app/meetings/69c58224f2dd940013643f4d?t=3287)\n- Abordagem topo de funil é mais \"quentinha\", fundo é mais \"fria\" e objetiva [38:46](/app/meetings/69c58224f2dd940013643f4d?t=2326)\n- Caso de sucesso: cliente vendeu 70 unidades usando a plataforma Hora [33:32](/app/meetings/69c58224f2dd940013643f4d?t=2012)\n- Mercado Rio tem confusão entre imobiliárias, oportunidade para acelerar adoção [01:08:05](/app/meetings/69c58224f2dd940013643f4d?t=4085)",
+    "topics": [
+      {
+        "id": "69c597f415cbcb0013855427",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69c597f415cbcb0013855428",
+        "order": 2,
+        "title": "Negociações em Andamento",
+        "summary": ""
+      },
+      {
+        "id": "69c597f415cbcb0013855429",
+        "order": 3,
+        "title": "Definições de Processo e Padrões",
+        "summary": ""
+      },
+      {
+        "id": "69c597f415cbcb001385542a",
+        "order": 4,
+        "title": "Estratégias de Vendas e Parcerias",
+        "summary": ""
+      },
+      {
+        "id": "69c597f415cbcb001385542b",
+        "order": 5,
+        "title": "Discussões sobre Modelo de Negócio",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 27,
+    "topic_count": 5,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69c597f415cbcb0013855427",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69c597f415cbcb0013855428",
+      "order": 2,
+      "title": "Negociações em Andamento",
+      "summary": ""
+    },
+    {
+      "id": "69c597f415cbcb0013855429",
+      "order": 3,
+      "title": "Definições de Processo e Padrões",
+      "summary": ""
+    },
+    {
+      "id": "69c597f415cbcb001385542a",
+      "order": 4,
+      "title": "Estratégias de Vendas e Parcerias",
+      "summary": ""
+    },
+    {
+      "id": "69c597f415cbcb001385542b",
+      "order": 5,
+      "title": "Discussões sobre Modelo de Negócio",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:52:03.027358+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:52:03.027358+00:00"
+}

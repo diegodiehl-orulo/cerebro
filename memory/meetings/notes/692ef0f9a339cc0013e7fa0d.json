@@ -1,0 +1,49 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "692ef2a39556a40013deaebf",
+      "timestamp": 42,
+      "text": "Reunião precisa ser remarcada devido à indisponibilidade de Brian; Marcelo tem restrição apenas na quarta-feira à tarde.",
+      "topicId": "692ef2a39556a40013deaebc"
+    },
+    {
+      "segmentId": "692ef2a39556a40013deaec0",
+      "timestamp": 120,
+      "text": "Sistema bloquearia automaticamente cliente com alto número de acessos",
+      "topicId": "692ef2a39556a40013deaebd"
+    },
+    {
+      "segmentId": "692ef2a39556a40013deaec1",
+      "timestamp": 154,
+      "text": "Cliente logado 490 vezes desde 2023, número de page views parece incorreto",
+      "topicId": "692ef2a39556a40013deaebd"
+    },
+    {
+      "segmentId": "692ef2a39556a40013deaec2",
+      "timestamp": 253,
+      "text": "Departamento jurídico investigará suspeita de coleta de inteligência de mercado por meio de robô.",
+      "topicId": "692ef2a39556a40013deaebe"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "692ef2a39556a40013deaebc",
+      "order": 1,
+      "title": "Reagendamento da Reunião",
+      "summary": ""
+    },
+    {
+      "id": "692ef2a39556a40013deaebd",
+      "order": 2,
+      "title": "Análise de Uso do Sistema",
+      "summary": ""
+    },
+    {
+      "id": "692ef2a39556a40013deaebe",
+      "order": 3,
+      "title": "Investigação Jurídica",
+      "summary": ""
+    }
+  ]
+}

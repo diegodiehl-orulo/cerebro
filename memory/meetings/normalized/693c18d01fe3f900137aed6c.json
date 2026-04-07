@@ -1,0 +1,695 @@
+{
+  "meeting_id": "693c18d01fe3f900137aed6c",
+  "name": "Product Planning",
+  "happened_at": "2025-12-12T13:30:00.000Z",
+  "duration_seconds": 3803.81,
+  "duration_minutes": 63.4,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Guilherme  Andrade Lacerda",
+      "email": "guilherme.lacerda@orulo.com.br"
+    },
+    {
+      "name": "Mariana Marins",
+      "email": "mariana.marins@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Rubem Rocha",
+      "email": "rubem@orulo.com.br"
+    },
+    {
+      "name": "Talita Campos",
+      "email": "talita@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    },
+    {
+      "name": "Amanda Caroline Dos Santos",
+      "email": "amanda.santos@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "neno.andrade@orulo.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "mirelle.takeda@orulo.com.br"
+    },
+    {
+      "name": "Mayumi Takeda",
+      "email": "mayumi.takeda@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/693c18d01fe3f900137aed6c",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "ebu-swti-kzn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "693c18faba51920013dc2016",
+    "meetingId": "693c18d01fe3f900137aed6c",
+    "data": [
+      {
+        "startTime": 80,
+        "endTime": 153,
+        "speaker": "Alejandro Olchik",
+        "text": "Muito bem. Essa aqui é a última versão do board que a gente estava. tá com Foi a acho que da última vez a gente conversou sobre alguns hábitos. E incentivo ao contato. A gente vai usar que estavam andamento, mas o principal que a gente discutiu foi intermediação. eu não tô Lembrando de alguma coisa."
+      },
+      {
+        "startTime": 153,
+        "endTime": 224,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí para esse cara. tinha A ideia era tentar montar um grupo a parte, né, que fosse puxar uma discussão entendimento. Como montar certo esse foi foi o status da nossa última conversa? Então, alguém tem em relação aos épicos alguém tem alguma coisa? Que algo que montou algo que trouxe alguma coisa nova?"
+      },
+      {
+        "startTime": 228,
+        "endTime": 249,
+        "speaker": "Beatriz Fusquino",
+        "text": "Alejandro eu não participei da última mas a Laís me passou ali um pouco do que foi falado e tal e aí eu abri um ticket com relação aquela questão de sincronizar o link do super lógica lá no na área do cliente, então é mais para avisar mesmo. Não sei que que vocês combinaram aqui, mas pelo que ela me passou."
+      },
+      {
+        "startTime": 249,
+        "endTime": 257,
+        "speaker": "Beatriz Fusquino",
+        "text": "Seria algo simples, né? Não precisaria entrar ali nos demais fluxos então para o seu cliente e qualquer dúvida vocês podem falar comigo."
+      },
+      {
+        "startTime": 259,
+        "endTime": 261,
+        "speaker": "Alejandro Olchik",
+        "text": "Sim a gente já viu lá tudo certo."
+      },
+      {
+        "startTime": 261,
+        "endTime": 261,
+        "speaker": "Beatriz Fusquino",
+        "text": "Tá perfeito"
+      },
+      {
+        "startTime": 264,
+        "endTime": 265,
+        "speaker": "Alejandro Olchik",
+        "text": "Diga não."
+      },
+      {
+        "startTime": 266,
+        "endTime": 279,
+        "speaker": "Neno Andrade",
+        "text": "Sobre a intermediação e incentivo ao contato com anunciantes ali como a Campos está de licença, eu acabei não puxando a minha agenda ainda tá para a gente iniciar. A conversa sobre esse assunto."
+      },
+      {
+        "startTime": 284,
+        "endTime": 307,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza então a situação é essa a gente está com esse é um que tá no radar forte para tentar avançar os outros aí depende de outras iniciativas. Tô por vocês aí se tem tem alguma coisa que os crentes de conversar em relação à época os prioridades isso não ficar talvez fique no acordo a reunião de hoje também."
+      },
+      {
+        "startTime": 310,
+        "endTime": 325,
+        "speaker": "Bruna Soares",
+        "text": "A gente não tinha definido que octógono ali a gente estava separando a gente botou fez agora que tá ali tem um dois três quatro cinco seis sete, né? E aí tá o intermediação era o que ia ser feito por fora e é o que Teoricamente é mais latente agora que tem mais impacto."
+      },
+      {
+        "startTime": 325,
+        "endTime": 334,
+        "speaker": "Bruna Soares",
+        "text": "Mas a ideia já trazer algum outro daqui que a gente selecione sendo de maior impacto também que a gente possa trabalhar e levar ou não. A gente vai ficar só quando eu intermediação."
+      },
+      {
+        "startTime": 338,
+        "endTime": 346,
+        "speaker": "Alejandro Olchik",
+        "text": "Assim a gente não tem por você se a gente não tem tanto braço assim também, né? Um épico vai dar trabalho, né?"
+      },
+      {
+        "startTime": 346,
+        "endTime": 351,
+        "speaker": "Bruna Soares",
+        "text": "Agora vai avançar e é esse que a gente vai pegar então foi definido isso."
+      },
+      {
+        "startTime": 352,
+        "endTime": 378,
+        "speaker": "Alejandro Olchik",
+        "text": "Não necessariamente, eu acho que aí depende do a minha lógica a Gente. Se alguém quiser explorar aqui alguma coisa no grupo, né para tentar dar importância para outro em relação intermediação. Acho que é isso é fora, né? O que que eu faço tá por isso que por exemplo eu acho que Como eu penso eu eu tô cheirando que aquele anúncios notificações inteligentes algo crítico para gente."
+      },
+      {
+        "startTime": 378,
+        "endTime": 404,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas eu não vejo ainda que faz sentido trazer aqui seria parar um pouco do meu lado e reorganizar e fazer alguma coisa trazer um negócio um pouco mais acabado. Né para para aprofundar isso são acho que vai ser meio perda de tempo aqui vai ser. Vai ser uma discussão muito especial, então eu tô lutando por não trazer nada as coisas são radar aqui."
+      },
+      {
+        "startTime": 404,
+        "endTime": 419,
+        "speaker": "Alejandro Olchik",
+        "text": "Né, então? Para mim tá tranquilo, quando eu conseguir focar um pouco da minha agenda e se eu achar daqui a pouco eu vou puxar algum outro aqui que eu acho que deveria estar fazendo frente para intermediação nesse sentido."
+      },
+      {
+        "startTime": 422,
+        "endTime": 437,
+        "speaker": "Eduardo Stringhini",
+        "text": "Por que que o é só para me lembrar mesmo esse de incentivar foi definido como unidade? Foi por causa de umas entrevistas que foram feitas de CS com clientes? Ninguém que a gente colocou esse controle."
+      },
+      {
+        "startTime": 439,
+        "endTime": 455,
+        "speaker": "Alejandro Olchik",
+        "text": "Porque a gente acha que traz mais impacto. Tá gráfico de impacto, traz mais impacto. Do pontista de receita Econômica retenção de clientes no espaço mais curto de tempo do que os outros."
+      },
+      {
+        "startTime": 471,
+        "endTime": 482,
+        "speaker": "Eduardo Stringhini",
+        "text": "Mas isso era baseado em que era baseado em que os clientes disseram que não viam. Eu não tô muito seguro dessa dessa posição assim."
+      },
+      {
+        "startTime": 484,
+        "endTime": 521,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele é um small Bete os outros são todos Big Bad. Hoje muitas incorporadoras não tem visibilidade do valor que adicionamos nem do apoio que damos aos corretores. Talvez com um pequeno investimento a gente consiga melhorar essa visibilidade. isso pode significar em mais venda se mexendo em DL e melhor retenção se atacando da Eu acho que tem um grau de certeza, mas foi a discussão que a gente teve várias para mim, parece que faz um bom sentido."
+      },
+      {
+        "startTime": 521,
+        "endTime": 529,
+        "speaker": "Alejandro Olchik",
+        "text": "mas tá aberto aí, a lógica é discussão, mas Tem outra opinião não dá para trazer aqui."
+      },
+      {
+        "startTime": 531,
+        "endTime": 542,
+        "speaker": "Bruna Soares",
+        "text": "Eu lembro que a semana passada sabe quando a gente discutiu sobre isso veio de vários times de impacto. Dessa intermediação sabe desse incentivo assim não só dissesse. A gente teve de vários lugares assim."
+      },
+      {
+        "startTime": 542,
+        "endTime": 544,
+        "speaker": "Eduardo Stringhini",
+        "text": "É uma iniciativa de deixar Sempre visível que o corretor veio da onde."
+      },
+      {
+        "startTime": 544,
+        "endTime": 583,
+        "speaker": "Bruna Soares",
+        "text": "é exato, acho que tem muito assim para entrar aqui dentro para quem quer continuar que Eu acho que tem esse essa visão assim de Cleide. Eles não vem muito e aí como é que tu prova realmente que teve retorno sabe muitas vezes. A gente também fica um pouco ele consegue com audiência, a gente olha teve tantos download teve tantas visitas, mas ele não consegue linkar a venda dele ou o contato dele realmente sendo da órgão."
+      },
+      {
+        "startTime": 583,
+        "endTime": 591,
+        "speaker": "Bruna Soares",
+        "text": "E a gente também não consegue hoje provar mais bem, né? Acho que esse é o impacto."
+      },
+      {
+        "startTime": 593,
+        "endTime": 601,
+        "speaker": "Eduardo Stringhini",
+        "text": "E o que que foi? Ele é esmalbert porque porque a mexida seria o quê mexida? Como é que seria mantido pequeno em cima disso aí."
+      },
+      {
+        "startTime": 601,
+        "endTime": 602,
+        "speaker": "Bruna Soares",
+        "text": "Essa eu tenho dúvida também."
+      },
+      {
+        "startTime": 602,
+        "endTime": 629,
+        "speaker": "Alejandro Olchik",
+        "text": "É o que o grupo tem que definir aqui os Malbec que talvez se consiga encontrar alguma coisa que seja os movette, mas acho que a ideia não é nesse fórum tem que esperar Campos tu o Neno vão sentar e vamos tentar ver um caminho, né? Se for o Big Bang aí daqui a pouco não a gente está um pouco maior ele tem que olhar né? Se faz sentido ou não e a ideia é escolhendo um por vezes e avançando ele entendeu? E vendo se faz sentido tirando a incerteza em"
+      },
+      {
+        "startTime": 630,
+        "endTime": 642,
+        "speaker": "Bruna Soares",
+        "text": "Tá aí, a gente não poderia por estratégia tentar pegar um outro que a gente também considere como? Para já trabalhar ele caso esse seja big. Eu tô tentando dar passos para não esperar esse sabe é que a gente não vai"
+      },
+      {
+        "startTime": 642,
+        "endTime": 642,
+        "speaker": "Alejandro Olchik",
+        "text": "relação"
+      },
+      {
+        "startTime": 645,
+        "endTime": 645,
+        "speaker": "Bruna Soares",
+        "text": "avançar."
+      },
+      {
+        "startTime": 645,
+        "endTime": 647,
+        "speaker": "Alejandro Olchik",
+        "text": "Sim, desde que não sejam as mesmas pessoas tem que fazer tudo, né?"
+      },
+      {
+        "startTime": 648,
+        "endTime": 666,
+        "speaker": "Bruna Soares",
+        "text": "Teria que ser alguma outra. Porque depois eles fazem essa reunião a gente fica esperando aí é big, aí às vezes não avança. Pode ser que avanço. Mas pode ser que a gente encontra em algum atrito e no Avance. E a gente não avançou em nenhum outro. Só que realmente todos que estão ali é big, né?"
+      },
+      {
+        "startTime": 666,
+        "endTime": 672,
+        "speaker": "Alejandro Olchik",
+        "text": "Assim mas vamos tentar ser concreto, né? O qual?"
+      },
+      {
+        "startTime": 677,
+        "endTime": 678,
+        "speaker": "Bruna Soares",
+        "text": "Como eu como é que eu defino"
+      },
+      {
+        "startTime": 680,
+        "endTime": 704,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem uma ali tem uma coisinha Big em todos eles ou pequeno o tamanho do investimento técnico que apareceria se é tipo algo que 5 pontos mas a gente consegue fazer uma entrega pequena, né? Uma duas semanas a gente coloca no ar alguma coisa é um smalbert, né? Então a ideia dos big é ver se a gente consegue tirar uma pequena fatia que talvez seja o visual."
+      },
+      {
+        "startTime": 704,
+        "endTime": 722,
+        "speaker": "Alejandro Olchik",
+        "text": "Então eu acho que daqui a pouco o anúncios dá para fazer mas é o mesmo equipe que vai ter que parar o anúncios, por exemplo, vou dar uma ideia anúncios. Eu acho que quem é de arte que tem uma garantia de audiência, o cara deixa de CTA cai a audiência."
+      },
+      {
+        "startTime": 722,
+        "endTime": 743,
+        "speaker": "Alejandro Olchik",
+        "text": "O cara é dessa sobe a gente. E tipo caiu, vai sofrer, eu acho que isso talvez dê para fazer uma pequena, fatia uma investigação uma validação, entendeu? Eles realmente poderia ser uma investigação, mas eu acho que tá linkado com o anterior porque é interessante que primeiro ele tem a visibilidade dos corretores, entendeu? E depois tem a queda da MAP."
+      },
+      {
+        "startTime": 743,
+        "endTime": 761,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que viria depois então e no final das contas é que tem uma investigação bem técnica que tem que ser feito eu tô afundado até o pescoço, então vou conseguir passar para o time fazer então. Não adianta agora focar nisso outra outra aqui diferenciada. Acho que tem uma correlação ali também."
+      },
+      {
+        "startTime": 761,
+        "endTime": 779,
+        "speaker": "Alejandro Olchik",
+        "text": "Com a intermediação não sei se eu colocaria nisso antes de ver o impacto na visibilidade ou não e tem relação também com anúncios. Melhorar a painel de distribuição é algo bem legal, mas a gente está começando a capturar agora os links de publicação dos imóveis com mexida na api."
+      },
+      {
+        "startTime": 779,
+        "endTime": 806,
+        "speaker": "Alejandro Olchik",
+        "text": "Então acho que tem uma questão técnica. Tem que esperar um pouco para ter informações e daqui a pouco mexer no painel. Na migração para webbooks a gente vai estar exigindo que o crms nos informes o link onde o empreendimento é publicado no Website da imobiliária. E a gente vai readequar todas as integrações para esse modelo."
+      },
+      {
+        "startTime": 806,
+        "endTime": 831,
+        "speaker": "Alejandro Olchik",
+        "text": "Então a expectativa é que ao longo do próximo ano a gente tem a todas as integrações com uma latência de poucos minutos na sincronização dos Empreendimentos e informando quando ela é publicada no site da imobiliária, entendeu? Aí com essas informações a gente consegue ter uma propagação muito rápida e consegue ver que tá aplicado ele pode melhorar drasticamente aquele painel."
+      },
+      {
+        "startTime": 831,
+        "endTime": 864,
+        "speaker": "Alejandro Olchik",
+        "text": "Exato então, só que aí não adianta fazer nada. Agora tem um trabalho de integração. O Fernando tá começando a puxar as integrações api tá pronta, entendeu? Vai ter um tempo para isso. Outro que dá para evoluir também ao compartilhamento de empreendimento, mas eu acho que o time que vai ter que mexer é a mesma time que tem que fazer a protativação então não acho que é dar trabalho para pensar duas frente já é difícil avançar uma."
+      },
+      {
+        "startTime": 864,
+        "endTime": 885,
+        "speaker": "Alejandro Olchik",
+        "text": "Né o eda, ele tá prototipado, entendeu? Então o eda essa parte de compartilhamento e grosso. Acho que entram na mesma competição de esforços de planejamento. Então fica meio trancado e fluxo de pagamento é Ieda para mim é o seguinte. Se não tiver mais nada eu vou puxar o eda."
+      },
+      {
+        "startTime": 885,
+        "endTime": 903,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá porque eu te falo. Entendeu? Reduz a 30 com as incorporadoras, melhora a atualização a gente tem um Square de empreendimento prototipado, né? Não é que a gente não tem o que puxar a gente sabe que a gente tem que fechar. então"
+      },
+      {
+        "startTime": 904,
+        "endTime": 914,
+        "speaker": "Eduardo Stringhini",
+        "text": "O que que daquele Hold map inicial de todo o eda? Que a gente fez lá o que que tá faltando, hoje é o fluxo de pagamento e o score do anúncio é só isso."
+      },
+      {
+        "startTime": 915,
+        "endTime": 943,
+        "speaker": "Alejandro Olchik",
+        "text": "Provavelmente é isso só não me lembro agora. Então para mim isso vai entrar redução de atrito, vai vamos colocando no ar vai puxando. Aí já tem coisa planejada para isso então. Aqui claro eu já vejo uma certa clareza aqui no jogo map, apesar da série de coisas que não são definidas, entendeu em relação."
+      },
+      {
+        "startTime": 943,
+        "endTime": 951,
+        "speaker": "Alejandro Olchik",
+        "text": "Daria para montar uma apresentação do Road map da obra que vem com isso daqui."
+      },
+      {
+        "startTime": 953,
+        "endTime": 957,
+        "speaker": "Bruna Soares",
+        "text": "Não agora faz sentido. Não avançar ele não tá fazendo muito sentido, mas"
+      },
+      {
+        "startTime": 957,
+        "endTime": 957,
+        "speaker": "Eduardo Stringhini",
+        "text": "sim"
+      },
+      {
+        "startTime": 958,
+        "endTime": 959,
+        "speaker": "Bruna Soares",
+        "text": "agora."
+      },
+      {
+        "startTime": 959,
+        "endTime": 971,
+        "speaker": "Alejandro Olchik",
+        "text": "É porque isso daqui é meio que um mapa né, gente agora a gente tem que ver se tem peças que faltam nesse mapa, entendeu? Aí elas têm que estar aparecendo e a gente vai mudando o mapa na medida que a gente vai tendo mais clareza que cada uma das peças significa."
+      },
+      {
+        "startTime": 972,
+        "endTime": 978,
+        "speaker": "Bruna Soares",
+        "text": "E o que a gente tem de muro de promessas ali é o que é o que a gente avançou, né? do login de WhatsApp que é o que entrou no ar"
+      },
+      {
+        "startTime": 980,
+        "endTime": 996,
+        "speaker": "Alejandro Olchik",
+        "text": "Alguém por WhatsApp entra no ar entrou no ar o tá entrando. Ele está tentando colocar no ar essa um painel dashboard para o praça. a parte E aí tem uma parte da edição rápida de dados também que tá entrando."
+      },
+      {
+        "startTime": 997,
+        "endTime": 1000,
+        "speaker": "Bruna Soares",
+        "text": "Que entrou várias e tá entrando mais coisas ainda. Ah tá não."
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1036,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem outros épicos tá gente, a gente deixa o bode de avaliação de uso do produto, mas completo para CS etc isso também tá no radar. Mas de novo, acho que é tem mais coisa aqui para compor esse esse negócio eu acho que o principal é as coisas que eu não sei e você sabe, entendeu? Mas o que vocês o que vocês identificarem que tá faltando tá trazendo para cá?"
+      },
+      {
+        "startTime": 1041,
+        "endTime": 1059,
+        "speaker": "Eduardo Stringhini",
+        "text": "Aquela parte o Leandro dos Filtros da de busca do corredor e do Design lá isso aí já tá encaminhado lá naquela rede no desenho da do mapa lá do mapa do card o filtro de busca do corretor lá que eu tinha um eu tinha um meu com relação a isso."
+      },
+      {
+        "startTime": 1059,
+        "endTime": 1064,
+        "speaker": "Eduardo Stringhini",
+        "text": "Na busca do corretor que a gente tinha aí a reordenar o filtro de busca."
+      },
+      {
+        "startTime": 1065,
+        "endTime": 1093,
+        "speaker": "Alejandro Olchik",
+        "text": "Na nova listagem assim, isso é parte tem também tem os épicos de migração de modernização tecnológica, a gente está migrando a plataforma a gente tem a próxima geração, estamos na listagem, depois vai de empreendimento e nessa migração está ajustando o layout. Então esse já tá sendo ajustado. Não já tá encaminhado."
+      },
+      {
+        "startTime": 1093,
+        "endTime": 1127,
+        "speaker": "Alejandro Olchik",
+        "text": "Então eu tenho os éticos de modernização tecnológicas que estão no radar eu vou puxando eles, entendeu? A gente tá focando em dois épocas de modernização agora e tem coisa de ida sendo puxada. sempre puxando ele sempre puxando modernização tecnológica então concentrar tanto aqui na preocupações Se vocês não tem mais nada, tem que fechar apresentação para companhia que não fez ainda."
+      },
+      {
+        "startTime": 1127,
+        "endTime": 1130,
+        "speaker": "Alejandro Olchik",
+        "text": "Então a gente preferiu encerrar eu."
+      },
+      {
+        "startTime": 1132,
+        "endTime": 1133,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom, vamos fechar então."
+      },
+      {
+        "startTime": 1134,
+        "endTime": 1135,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá, pode ser?"
+      },
+      {
+        "startTime": 1135,
+        "endTime": 1142,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ficou esse aqui é com a volta da Campos. Menos eu vamos fazer isso aí."
+      },
+      {
+        "startTime": 1143,
+        "endTime": 1154,
+        "speaker": "Neno Andrade",
+        "text": "Aí eu puxo uma reunião entre a gente para a gente discutir um pouquinho mais sobre e daí a gente começa a descer um pouco mais no nível de detalhe de do que que a gente pode fazer o que que vale a pena como fazer a isso talvez."
+      },
+      {
+        "startTime": 1156,
+        "endTime": 1163,
+        "speaker": "Eduardo Stringhini",
+        "text": "Alguém mais quer participar aí? não sei se Teria alguém mais."
+      },
+      {
+        "startTime": 1164,
+        "endTime": 1165,
+        "speaker": "Alejandro Olchik",
+        "text": "Talvez o Diego"
+      },
+      {
+        "startTime": 1168,
+        "endTime": 1168,
+        "speaker": "Neno Andrade",
+        "text": "E o Bruno, né?"
+      },
+      {
+        "startTime": 1168,
+        "endTime": 1187,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu falei Diego Bruno, porque pega o Bruno pega a imobiliárias também, né? Eu acho que tem que ser CS comercial em corpo e comercial em Mob tem essas linhas de frente para entender o que faz sentido para Incorporadora e para Imobiliária e tem uma visão"
+      },
+      {
+        "startTime": 1190,
+        "endTime": 1192,
+        "speaker": "Eduardo Stringhini",
+        "text": "Show eu vou eu vou falar com a Campos ver como é que tá e a volta dela. E aí"
+      },
+      {
+        "startTime": 1192,
+        "endTime": 1218,
+        "speaker": "Neno Andrade",
+        "text": "Mas eu vou ela também até para dar os 10 centavos aqui, a gente fez algumas entrevistas com o pessoal da parte de exclusividades. E também é existe essa relação da falta de percepção do Boy e muito relacionado a eles não entenderem de contatos em através da loja também. Então enfim tem do lado do Bruno ali da exclusividade também."
+      },
+      {
+        "startTime": 1226,
+        "endTime": 1232,
+        "speaker": "Eduardo Stringhini",
+        "text": "se for muito extenso. Depende a gente faz uma primeira reunião envolve a Laísa aí para não ficar muito longe isso."
+      },
+      {
+        "startTime": 1233,
+        "endTime": 1240,
+        "speaker": "Neno Andrade",
+        "text": "Também tá fora por um tempinho, né? Não sei quando ela volta ali, mas a gente tenta puxar o quanto antes."
+      },
+      {
+        "startTime": 1241,
+        "endTime": 1241,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vamos fazer no mínimo eu e tu semana que vem. Aí a gente faz uma primeira"
+      },
+      {
+        "startTime": 1241,
+        "endTime": 1252,
+        "speaker": "Alejandro Olchik",
+        "text": "Não precisa tá todo mundo tu pode fazer vai ter que fazer várias rodadas, né? Então tu pode começar aí tem um ciclo de protocol alguma coisa tomar feedback, então, acho que não dá para fazer aqui. Quem tá aí na verdade?"
+      },
+      {
+        "startTime": 1256,
+        "endTime": 1257,
+        "speaker": "Eduardo Stringhini",
+        "text": "rodada."
+      },
+      {
+        "startTime": 1259,
+        "endTime": 1261,
+        "speaker": "Neno Andrade",
+        "text": "Vou dar uma olhada na tua agenda ali eu ponho o horário."
+      },
+      {
+        "startTime": 1262,
+        "endTime": 1267,
+        "speaker": "Eduardo Stringhini",
+        "text": "tá"
+      },
+      {
+        "startTime": 1267,
+        "endTime": 1270,
+        "speaker": "Alejandro Olchik",
+        "text": "Então, tá, é claro encerrada a reunião."
+      },
+      {
+        "startTime": 1272,
+        "endTime": 1273,
+        "speaker": "Beatriz Fusquino",
+        "text": "Valeu pessoal"
+      },
+      {
+        "startTime": 1274,
+        "endTime": 1274,
+        "speaker": "Neno Andrade",
+        "text": "Olá pessoal."
+      },
+      {
+        "startTime": 1274,
+        "endTime": 1274,
+        "speaker": "Eduardo Stringhini",
+        "text": "Até mais."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 82,
+    "speakers": [
+      "Alejandro Olchik",
+      "Beatriz Fusquino",
+      "Bruna Soares",
+      "Neno Andrade",
+      "Eduardo Stringhini"
+    ],
+    "total_words_estimate": 2643,
+    "duration_start": 80,
+    "duration_end": 1274
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "693c286ff54639001359ade9",
+        "timestamp": 266,
+        "text": "Neno adiará discussão sobre intermediação e incentivo de contato com anunciantes devido à licença de Campos",
+        "topicId": "693c286ff54639001359ade5"
+      },
+      {
+        "segmentId": "693c286ff54639001359ade8",
+        "timestamp": 324,
+        "text": "Equipe planeja selecionar e trabalhar em outro épico além da intermediação com maior impacto",
+        "topicId": "693c286ff54639001359ade4"
+      },
+      {
+        "segmentId": "693c286ff54639001359adea",
+        "timestamp": 487,
+        "text": "Alejandro destaca que incorporadoras não têm visibilidade do valor e apoio oferecidos aos corretores",
+        "topicId": "693c286ff54639001359ade5"
+      },
+      {
+        "segmentId": "693c286ff54639001359adeb",
+        "timestamp": 805,
+        "text": "Planejamento de migração para webbooks exigirá que CRMs informem link de publicação do empreendimento",
+        "topicId": "693c286ff54639001359ade6"
+      },
+      {
+        "segmentId": "693c286ff54639001359ade7",
+        "timestamp": 1190,
+        "text": "Eduardo consultará Campos e Neno compartilhará insights de entrevistas sobre próximos passos e valor percebido",
+        "topicId": "693c286ff54639001359ade4"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "693c286ff54639001359ade4",
+        "order": 1,
+        "title": "Próximos Passos e Ações",
+        "summary": ""
+      },
+      {
+        "id": "693c286ff54639001359ade5",
+        "order": 2,
+        "title": "Intermediação e Relacionamento com Corretores",
+        "summary": ""
+      },
+      {
+        "id": "693c286ff54639001359ade6",
+        "order": 3,
+        "title": "Migração Tecnológica",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 5,
+    "topic_count": 3,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "693c286ff54639001359ade4",
+      "order": 1,
+      "title": "Próximos Passos e Ações",
+      "summary": ""
+    },
+    {
+      "id": "693c286ff54639001359ade5",
+      "order": 2,
+      "title": "Intermediação e Relacionamento com Corretores",
+      "summary": ""
+    },
+    {
+      "id": "693c286ff54639001359ade6",
+      "order": 3,
+      "title": "Migração Tecnológica",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:50:06.065052+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:06.065052+00:00"
+}

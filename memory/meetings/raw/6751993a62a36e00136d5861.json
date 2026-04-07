@@ -1,0 +1,28 @@
+{
+  "id": "6751993a62a36e00136d5861",
+  "happenedAt": "2024-12-05T12:15:00.000Z",
+  "invitees": [
+    {
+      "name": "",
+      "email": "caio@mitroconstrutora.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Aula IM + Caio Lobo",
+  "duration": 6469.98,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6751993a62a36e00136d5861",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "tdd-naxr-dgp"
+  }
+}

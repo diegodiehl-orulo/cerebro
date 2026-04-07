@@ -1,0 +1,32 @@
+{
+  "id": "696a2bb639bb030013ac8fcf",
+  "happenedAt": "2026-01-16T12:15:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Elizangela Fernandes Borges",
+      "email": "elizangela.borges@orulo.com.br"
+    }
+  ],
+  "name": "Alinhamento Inicial de Atuação",
+  "duration": 2111.435,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/696a2bb639bb030013ac8fcf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "jce-jyqc-rzi"
+  }
+}

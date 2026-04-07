@@ -1,0 +1,1962 @@
+{
+  "id": "66bb58ae73d4a00012658d21",
+  "meetingId": "66bb58a314cb4d001268c990",
+  "data": [
+    {
+      "startTime": 77,
+      "endTime": 79,
+      "speaker": "Alejandro Olchik",
+      "text": "Olá, olá!"
+    },
+    {
+      "startTime": 82,
+      "endTime": 90,
+      "speaker": "Diego Diehl",
+      "text": "bom"
+    },
+    {
+      "startTime": 90,
+      "endTime": 91,
+      "speaker": "Gabriel Teixeira Sales de França",
+      "text": "Bom dia"
+    },
+    {
+      "startTime": 92,
+      "endTime": 121,
+      "speaker": "Alejandro Olchik",
+      "text": "Bom dia Acabou de ter filho."
+    },
+    {
+      "startTime": 121,
+      "endTime": 123,
+      "speaker": "Diego Diehl",
+      "text": "Parabéns."
+    },
+    {
+      "startTime": 123,
+      "endTime": 128,
+      "speaker": "Gabriel Teixeira Sales de França",
+      "text": "Obrigado para vocês aí."
+    },
+    {
+      "startTime": 128,
+      "endTime": 129,
+      "speaker": "Alejandro Olchik",
+      "text": "Ah Para ti também."
+    },
+    {
+      "startTime": 129,
+      "endTime": 135,
+      "speaker": "Gabriel Teixeira Sales de França",
+      "text": "obrigado"
+    },
+    {
+      "startTime": 135,
+      "endTime": 137,
+      "speaker": "Alejandro Olchik",
+      "text": "Tudo certo tudo certo contigo."
+    },
+    {
+      "startTime": 139,
+      "endTime": 147,
+      "speaker": "Victor Figueredo",
+      "text": "Olá tudo bem? Maravilha"
+    },
+    {
+      "startTime": 147,
+      "endTime": 149,
+      "speaker": "Alejandro Olchik",
+      "text": "Bom dia João bem-vindo."
+    },
+    {
+      "startTime": 151,
+      "endTime": 157,
+      "speaker": "Joao Vitor",
+      "text": "Bom dia obrigado"
+    },
+    {
+      "startTime": 159,
+      "endTime": 167,
+      "speaker": "Alejandro Olchik",
+      "text": "Bem-vindo ao time. Mundo pequeno as pessoas ficam se fechando o tempo todo."
+    },
+    {
+      "startTime": 169,
+      "endTime": 185,
+      "speaker": "Diego Diehl",
+      "text": "E que você fechando essa essa Gaúcha. E fechou eu lembro jogando videogame com joguinho de carro assim aí meus primos."
+    },
+    {
+      "startTime": 195,
+      "endTime": 224,
+      "speaker": "Alejandro Olchik",
+      "text": "Falta só Fernanda. Que caixa de ego, vamos começar pelo começo que ela vai fazer condição pelo bode para sistematizar um pouco e depois toca mais fibra pauta, pode"
+    },
+    {
+      "startTime": 224,
+      "endTime": 226,
+      "speaker": "Diego Diehl",
+      "text": "Por favor, né?"
+    },
+    {
+      "startTime": 226,
+      "endTime": 263,
+      "speaker": "Alejandro Olchik",
+      "text": "mais pode ser? Eu vou puxando aqui. Tá o que tinha validação aqui era essa parte tem uma aqui de adicionar todos os arquivos dos Henrique tá faltando aqui também, mas adicionar todos os arquivos dos Empreendimentos. Acho que isso era uma. acabou ficando todo atribuído aqui Diego, mas acho que o Henrique né"
+    },
+    {
+      "startTime": 263,
+      "endTime": 264,
+      "speaker": "Diego Diehl",
+      "text": "Sim. O Henrique tá saindo, né?"
+    },
+    {
+      "startTime": 264,
+      "endTime": 266,
+      "speaker": "Alejandro Olchik",
+      "text": "que tem que fazer isso."
+    },
+    {
+      "startTime": 269,
+      "endTime": 291,
+      "speaker": "Diego Diehl",
+      "text": "Então, eu vou ver se eu consigo garantir essa última atividade com ele. Mas eu acho que a maioria foi solicitado e tal, eu queria que a gente não se limitasse a isso tá isso não é gargalo, isso é só uma. Preciosidade ali para Final se não tiver arquivo não enviar Ok só tem que enviar o que tiver."
+    },
+    {
+      "startTime": 291,
+      "endTime": 296,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá mas isso na verdade é isso que tem que mandar para o time do Marcelo, né?"
+    },
+    {
+      "startTime": 296,
+      "endTime": 296,
+      "speaker": "Diego Diehl",
+      "text": "Isso exatamente eu vou garantir."
+    },
+    {
+      "startTime": 296,
+      "endTime": 299,
+      "speaker": "Alejandro Olchik",
+      "text": "Fazer o cada."
+    },
+    {
+      "startTime": 299,
+      "endTime": 300,
+      "speaker": "Diego Diehl",
+      "text": "aqui?"
+    },
+    {
+      "startTime": 301,
+      "endTime": 356,
+      "speaker": "Alejandro Olchik",
+      "text": "Então na verdade Então na verdade. Tá então está contigo mesmo. Tá em validação. Depois a gente tinha aqui em testes tem três tem um suporte em vídeo materiais e múltiplos arquivos. Uma melhoria mostrar o nome de arquivo e não link. indivíduo de arquivos específicos solicitados no WhatsApp Aí eu tô colocando eles em conjunto por causa que eles estão correlacionados, né? E tinha ainda um bugzinho que o agente não entende o contexto."
+    },
+    {
+      "startTime": 356,
+      "endTime": 365,
+      "speaker": "Alejandro Olchik",
+      "text": "Envia arquivo de empreendimentos são citados na conversa Fernanda consegue comentar como é que foi a evolução disso."
+    },
+    {
+      "startTime": 366,
+      "endTime": 393,
+      "speaker": "Victor Figueredo",
+      "text": "Consigo sim, eu diria que o nome dos arquivos já está em validação. a gente já subiu a versão para pród. Essa última versão onde de envio de arquivos e nela já tem não manda mais o pedaço, né do caminho da URL e sim o nome específico, né que a gente definir."
+    },
+    {
+      "startTime": 393,
+      "endTime": 396,
+      "speaker": "Victor Figueredo",
+      "text": "Então tá invalidação esse último."
+    },
+    {
+      "startTime": 396,
+      "endTime": 400,
+      "speaker": "Alejandro Olchik",
+      "text": "A URL ela continua sendo registrada na interação?"
+    },
+    {
+      "startTime": 401,
+      "endTime": 412,
+      "speaker": "Victor Figueredo",
+      "text": "É só o nome o nome do arquivo que vai para frente do usuário que tá lá e segue o Segue o mesmo padrão como tá definido na hora."
+    },
+    {
+      "startTime": 413,
+      "endTime": 426,
+      "speaker": "Diego Diehl",
+      "text": "Isso que eu ia te perguntar Vitor primeiro. Parabéns aí eu lembro que você tirou essa daí do bolso em um dia lá um teste. Você o padrão é pegar o nome que estiver na hora. Ou vai estar no prompt?"
+    },
+    {
+      "startTime": 426,
+      "endTime": 429,
+      "speaker": "Victor Figueredo",
+      "text": "isso"
+    },
+    {
+      "startTime": 429,
+      "endTime": 429,
+      "speaker": "Diego Diehl",
+      "text": "Na hora tá bom, beleza."
+    },
+    {
+      "startTime": 429,
+      "endTime": 458,
+      "speaker": "Victor Figueredo",
+      "text": "na hora Ele tá ele tá usando a descrição, né? Eu acredito que no futuro o ideal seria a gente bifurcar ali título descrição. Se a gente quiser fazer algo a que ele caption, né? Que o Eduardo tinha comentado mais rápido, eu acho que o ideal seria a gente ter ali título e descrição usar o título para informar o nome do arquivo e a descrição para dizer."
+    },
+    {
+      "startTime": 458,
+      "endTime": 471,
+      "speaker": "Victor Figueredo",
+      "text": "Olha aqui, você vai encontrar xptoide para até deixar isso definido, mas é só como um ponto para o futuro imediato mais imediato. Vamos dizer assim que o ideal seria a gente abrir a própria. aí."
+    },
+    {
+      "startTime": 471,
+      "endTime": 471,
+      "speaker": "Diego Diehl",
+      "text": "tá, tá"
+    },
+    {
+      "startTime": 471,
+      "endTime": 473,
+      "speaker": "Victor Figueredo",
+      "text": "Pode demorar um pouco mais tem que construir a funcionalidade?"
+    },
+    {
+      "startTime": 473,
+      "endTime": 484,
+      "speaker": "Diego Diehl",
+      "text": "Que que você acha? Que que você acha Alejandro sobre esse ponto tá trazendo Para o Futuro? Acho que vale deixar a linha backlog já a gente não tá? Quer que eu anote?"
+    },
+    {
+      "startTime": 484,
+      "endTime": 490,
+      "speaker": "Alejandro Olchik",
+      "text": "Desculpa, qual é a melhoria que tu gostaria de registrar? registrar?"
+    },
+    {
+      "startTime": 492,
+      "endTime": 510,
+      "speaker": "Diego Diehl",
+      "text": "É que futuramente a gente vai pôr uma descrição do arquivo para ir como. Não sei se em arquivos e você não manda descrição, né na verdade Vitor mais mandaria uma mensagem em seguida. É isso."
+    },
+    {
+      "startTime": 510,
+      "endTime": 515,
+      "speaker": "Victor Figueredo",
+      "text": "é poderia ir como como a gente poderia usar até já e para formulário descrição do arquivo,"
+    },
+    {
+      "startTime": 515,
+      "endTime": 515,
+      "speaker": "Diego Diehl",
+      "text": "e"
+    },
+    {
+      "startTime": 515,
+      "endTime": 518,
+      "speaker": "Victor Figueredo",
+      "text": "proposta seria."
+    },
+    {
+      "startTime": 518,
+      "endTime": 520,
+      "speaker": "Diego Diehl",
+      "text": "padronizar primeiro"
+    },
+    {
+      "startTime": 520,
+      "endTime": 522,
+      "speaker": "Victor Figueredo",
+      "text": "isso"
+    },
+    {
+      "startTime": 522,
+      "endTime": 524,
+      "speaker": "Diego Diehl",
+      "text": "Pode falar."
+    },
+    {
+      "startTime": 524,
+      "endTime": 530,
+      "speaker": "Victor Figueredo",
+      "text": "Teria te basicamente o título e descrição hoje, a gente tem a descrição que tá servindo como título do arquivo."
+    },
+    {
+      "startTime": 536,
+      "endTime": 538,
+      "speaker": "Diego Diehl",
+      "text": "O que que é descrição para você?"
+    },
+    {
+      "startTime": 540,
+      "endTime": 564,
+      "speaker": "Victor Figueredo",
+      "text": "O atributo que tem lá descrição. Hoje ele guarda o título do arquivo então a apresentação underline samclair ponto PDF é só um ponto né para no futuro caso a gente queira fazer um caption bem rápido. O ideal seria a gente ter ali o title a gente usar. Olha aqui tem a tabela do Algarve."
+    },
+    {
+      "startTime": 564,
+      "endTime": 566,
+      "speaker": "Victor Figueredo",
+      "text": "tal."
+    },
+    {
+      "startTime": 566,
+      "endTime": 571,
+      "speaker": "Diego Diehl",
+      "text": "Show show. E aí ele já poderia enviar junto."
+    },
+    {
+      "startTime": 571,
+      "endTime": 571,
+      "speaker": "Victor Figueredo",
+      "text": "sim"
+    },
+    {
+      "startTime": 571,
+      "endTime": 576,
+      "speaker": "Diego Diehl",
+      "text": "Tá então acho que é esse nível um ali onde você ficou Claro."
+    },
+    {
+      "startTime": 576,
+      "endTime": 577,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá registrei lá já registrei lá."
+    },
+    {
+      "startTime": 577,
+      "endTime": 606,
+      "speaker": "Diego Diehl",
+      "text": "Tá tem um que eu quero já tirar da minha cabeça para saber que vai estar em algum momento a gente vai avaliar. Vitor que quando a gente roda uma envio uma função certa forma o bote tá lendo o contexto da conversa certo? E aí uma coisa que tá acontecendo você tinha já."
+    },
+    {
+      "startTime": 606,
+      "endTime": 641,
+      "speaker": "Diego Diehl",
+      "text": "É que eles estão treinando os corretores a da contexto do cliente dar algum contexto. então o futuro Eu vejo que o envio desses arquivos ele poderia estar enviando algum tipo de inteligência comercial. Utilizando o contexto que tiver da conversa que isso bote já fazia né? Mas esse nem precisa Anotar na verdade, pode passar para o próximo isso eu não vou esquecer porque vai rolar e a gente vê o momento adequado, pode avançar."
+    },
+    {
+      "startTime": 641,
+      "endTime": 641,
+      "speaker": "Victor Figueredo",
+      "text": "Tá conectado também com essa."
+    },
+    {
+      "startTime": 645,
+      "endTime": 651,
+      "speaker": "Diego Diehl",
+      "text": "Exato futuro a gente vai MVP mais voltado para essa linha. língua."
+    },
+    {
+      "startTime": 651,
+      "endTime": 655,
+      "speaker": "Alejandro Olchik",
+      "text": "Uma pergunta. Só essa parte do nome já tem produção."
+    },
+    {
+      "startTime": 655,
+      "endTime": 658,
+      "speaker": "Victor Figueredo",
+      "text": "Já tem produção sim."
+    },
+    {
+      "startTime": 659,
+      "endTime": 676,
+      "speaker": "Alejandro Olchik",
+      "text": "E em relação a bom Então na verdade. Em relação ao envio de arquivos específicos isso também já em qual é o estágio que a gente está?"
+    },
+    {
+      "startTime": 676,
+      "endTime": 719,
+      "speaker": "Victor Figueredo",
+      "text": "Também subiu uma versão para produção. Isso envolve também o evals que a gente fez na semana passada usando data 7 de perguntas direcionadas para os arquivos. E a gente tem o Evaldo para olhar também, mas teve um bom retorno um pedido de arquivos específicos que era o cenário 1, né? Que o Eduardo trouxe categorizou dessa forma, que essa eu pedi tabela do Algarve ele tiver tabela do Algarve, vou mandar a tabela do Algarve, então a gente conseguiu reproduzir no evals a taxa de assertividade que a gente tava esperando no conto geral lá da contabilização das perguntas."
+    },
+    {
+      "startTime": 719,
+      "endTime": 740,
+      "speaker": "Victor Figueredo",
+      "text": "A métrica geral não está refletindo isso porque ainda tem no data 7 perguntas que estão. Fora do padrão desse cenário até comentei com o Fernando na semana passada, acho que na quarta na quinta. Para a gente ter uma ajuda ali para formular esse data 7 perguntas para ele ter nesse padrão."
+    },
+    {
+      "startTime": 744,
+      "endTime": 764,
+      "speaker": "Alejandro Olchik",
+      "text": "Então que tá pendente é ajuste. do conjunto de perguntas Para medir a taxa efetiva. De sucesso e quem tá com isso daqui é o Fernando."
+    },
+    {
+      "startTime": 764,
+      "endTime": 767,
+      "speaker": "Victor Figueredo",
+      "text": "Eu tinha comentado com ele tinha pedido uma ajuda específica para"
+    },
+    {
+      "startTime": 767,
+      "endTime": 768,
+      "speaker": "Alejandro Olchik",
+      "text": "tá"
+    },
+    {
+      "startTime": 768,
+      "endTime": 773,
+      "speaker": "Victor Figueredo",
+      "text": "nesse sentido, mas a gente não não necessariamente atribuições."
+    },
+    {
+      "startTime": 774,
+      "endTime": 799,
+      "speaker": "Alejandro Olchik",
+      "text": "Então isso daqui são duas além do da taxa efetiva, né? Então acho que é interessante escolher feedback bom o Henrique vai ser vai entrar alguém a gente vai ter que ter feedback específico, né? De como é que tá funcionando o envio de arquivos e o nome dos gerentes ali da EXO."
+    },
+    {
+      "startTime": 799,
+      "endTime": 802,
+      "speaker": "Alejandro Olchik",
+      "text": "Feedback interessante pegar também."
+    },
+    {
+      "startTime": 802,
+      "endTime": 805,
+      "speaker": "Diego Diehl",
+      "text": "O primeiro envio do arquivo segundo. Você falou o quê de"
+    },
+    {
+      "startTime": 805,
+      "endTime": 817,
+      "speaker": "Alejandro Olchik",
+      "text": "Na verdade tá tudo relacionado em vindo arquivo, né em vídeo o nome do arquivo arquivo específico é interessante validar com o gerentes coordenadores. funcionando."
+    },
+    {
+      "startTime": 818,
+      "endTime": 827,
+      "speaker": "Diego Diehl",
+      "text": "Sim, eu quero colocar o João Alejandro é para estar implementando o prm na eso."
+    },
+    {
+      "startTime": 827,
+      "endTime": 827,
+      "speaker": "Alejandro Olchik",
+      "text": "legal"
+    },
+    {
+      "startTime": 827,
+      "endTime": 854,
+      "speaker": "Diego Diehl",
+      "text": "Entendeu? Então vai ser uma perspectiva de implantar que é isso, né? No final do dia a gente está implementando num projeto que a gente tem mais proximidade, mas que é isso? Então João se quiser notar isso que depois eu explico melhor para ti é a gente. Implementar o chatbot para os executivos da ISO."
+    },
+    {
+      "startTime": 854,
+      "endTime": 884,
+      "speaker": "Diego Diehl",
+      "text": "E Estar atento aos feedbacks do funcionamento e antes disso até você e eu a gente rodar um teste. E daí, Victor, eu tô com uma dificuldade. Eu tô com uma dificuldade de De rodar ali eu rodar teste a partir do meu número. Para o número da eso lá para eu rodar as demos e eu não sei se foi adicionado como."
+    },
+    {
+      "startTime": 884,
+      "endTime": 893,
+      "speaker": "Diego Diehl",
+      "text": "Como o cliente ou algo assim tá bugando lá da eso eu tô até olhando se eu tenho algum Card criado algo assim."
+    },
+    {
+      "startTime": 893,
+      "endTime": 894,
+      "speaker": "Victor Figueredo",
+      "text": "Sim, tá ok."
+    },
+    {
+      "startTime": 894,
+      "endTime": 897,
+      "speaker": "Diego Diehl",
+      "text": "Tá você vê aí para mim me dá um ok depois."
+    },
+    {
+      "startTime": 898,
+      "endTime": 907,
+      "speaker": "Victor Figueredo",
+      "text": "Sim. Dou sim, a gente vai a gente rodou mais localmente, eu acredito que tá Tá desligado nesse momento, mas a gente vai trocar o ambiente lá e deixar ele ligado Full para você, tá?"
+    },
+    {
+      "startTime": 907,
+      "endTime": 908,
+      "speaker": "Diego Diehl",
+      "text": "Tá."
+    },
+    {
+      "startTime": 908,
+      "endTime": 908,
+      "speaker": "Victor Figueredo",
+      "text": "E aí Diego?"
+    },
+    {
+      "startTime": 908,
+      "endTime": 911,
+      "speaker": "Diego Diehl",
+      "text": "E aí, o João vai pode falar?"
+    },
+    {
+      "startTime": 911,
+      "endTime": 926,
+      "speaker": "Victor Figueredo",
+      "text": "Não e aí, sempre que você tiver demo pode pingar na gente aqui que a gente né Vira e Mexe a gente aponta local e faz alguns testes só para você para a gente garantir que vai estar vai estar ligado para você, tá bom?"
+    },
+    {
+      "startTime": 926,
+      "endTime": 949,
+      "speaker": "Diego Diehl",
+      "text": "Tá cara, eu preferia a gente anotar isso como alguma ação de bloqueio de causo que até a gente cria um número da órgão. Que a gente tem a logo da hora no número não aquela logo da flutterfit que a gente começa a dar uma cara melhor do nosso produto vai te pedir isso antes, mas eu falei Ah, beleza deixa mas como você tá falando que liga desliga que liga Desliga desliga, cara."
+    },
+    {
+      "startTime": 949,
+      "endTime": 967,
+      "speaker": "Diego Diehl",
+      "text": "Qualquer momento eu posso estar rodando uma demo com alguém, mas tem cliente que sei lá eu encontro em algum lugar algum evento. Abra o prefeito. Então eu preciso dessa. Na verdade agora, daqui a pouco o João vai estar rodando. Daqui a pouco vai ter uma outra pessoa rodando vai ter outra pessoa do comercial da hora, eu vou mostrando."
+    },
+    {
+      "startTime": 967,
+      "endTime": 977,
+      "speaker": "Diego Diehl",
+      "text": "Eu preciso disso estável para a gente rodar muitas vezes. Como que você acha? Que que a gente poderia viabilizar isso?"
+    },
+    {
+      "startTime": 977,
+      "endTime": 991,
+      "speaker": "Victor Figueredo",
+      "text": "A gente pode criar um card aqui, inicialmente para alocar um número fixo para para as demos. E aí a gente faz todos os procedimentos, deixei ele ativo."
+    },
+    {
+      "startTime": 991,
+      "endTime": 991,
+      "speaker": "Diego Diehl",
+      "text": "tá"
+    },
+    {
+      "startTime": 991,
+      "endTime": 994,
+      "speaker": "Victor Figueredo",
+      "text": "E aí a gente não se preocupa com isso mais."
+    },
+    {
+      "startTime": 994,
+      "endTime": 1018,
+      "speaker": "Diego Diehl",
+      "text": "Tá depois eu vou a gente tem um elemento Vitor que é esse amadurecimento da demo que impacta diretamente nas nossas conversões na nossa receita e na nossa todo o nosso negócio aqui, aí eu converso com você, depois melhor tá idealmente eu quero conseguir um cliente. É se for rápido."
+    },
+    {
+      "startTime": 1018,
+      "endTime": 1036,
+      "speaker": "Diego Diehl",
+      "text": "Tem que mapear os processos e tal, mas idealmente eu já integra com o cara e já roda com o produto dele, quando é fundo de funil, mas eu tenho que ver os cursos disso horas é muito caro ou não, mas para o futuro eu vou conversando contigo tá? Depois que o Fernando também é o que a gente viabiliza para amadurecer a demo."
+    },
+    {
+      "startTime": 1036,
+      "endTime": 1053,
+      "speaker": "Victor Figueredo",
+      "text": "Não perfeito e porque não a gente cria esse Card e faz uma conversa específica sobre isso porque uma vez com o número alocado a gente só migra o número né para conta do cliente lá naquele momento naquela janela e depois a gente migra de volta para eles. Se for o caso, entendeu? É bem tranquilo fazer isso."
+    },
+    {
+      "startTime": 1053,
+      "endTime": 1063,
+      "speaker": "Diego Diehl",
+      "text": "Tá beleza, eu converso contigo daí por hora, só liga para mim que eu vou rodar demo e quero testar eu aqui como é que estão as coisas também."
+    },
+    {
+      "startTime": 1063,
+      "endTime": 1064,
+      "speaker": "Victor Figueredo",
+      "text": "Ok combina"
+    },
+    {
+      "startTime": 1064,
+      "endTime": 1068,
+      "speaker": "Diego Diehl",
+      "text": "obrigado"
+    },
+    {
+      "startTime": 1068,
+      "endTime": 1069,
+      "speaker": "Alejandro Olchik",
+      "text": "O João e o Fernando se conhecem?"
+    },
+    {
+      "startTime": 1071,
+      "endTime": 1079,
+      "speaker": "Diego Diehl",
+      "text": "Não eu até Mandar mensagem para o Fernando. Mas eu vi que ele não tava no WhatsApp. Acho que é uma boa apresentar Fernando tá aí."
+    },
+    {
+      "startTime": 1079,
+      "endTime": 1081,
+      "speaker": "Fernando Florêncio",
+      "text": "Tava sem energia pessoal."
+    },
+    {
+      "startTime": 1081,
+      "endTime": 1081,
+      "speaker": "Diego Diehl",
+      "text": "é"
+    },
+    {
+      "startTime": 1081,
+      "endTime": 1083,
+      "speaker": "Fernando Florêncio",
+      "text": "Que acabou de voltar eu entrei aqui. aqui."
+    },
+    {
+      "startTime": 1083,
+      "endTime": 1086,
+      "speaker": "Alejandro Olchik",
+      "text": "A energia elétrica ou energia motivacional?"
+    },
+    {
+      "startTime": 1086,
+      "endTime": 1089,
+      "speaker": "Fernando Florêncio",
+      "text": "elétrica mesmo"
+    },
+    {
+      "startTime": 1089,
+      "endTime": 1095,
+      "speaker": "Alejandro Olchik",
+      "text": "E a tua câmera meu tu vai agora vai te apresentar para o João ele não vai te ver vai achar que tem um Ghost."
+    },
+    {
+      "startTime": 1095,
+      "endTime": 1098,
+      "speaker": "Fernando Florêncio",
+      "text": "Vou ter que plugar aqui só um."
+    },
+    {
+      "startTime": 1098,
+      "endTime": 1101,
+      "speaker": "Diego Diehl",
+      "text": "O Fernando é Nossa e a João"
+    },
+    {
+      "startTime": 1101,
+      "endTime": 1133,
+      "speaker": "Alejandro Olchik",
+      "text": "Não é de verdade. E tá com latência tu viu, né? Olha só aqui então só para alinhar. Eu já te mandei o link ali João do porte tá para tentar entrar no chicote e eu já te coloquei aqui tem que pegar feedback dos coordenadores em relação aos a gente ver o que tá funcionando que não tá funcionando para esse cara."
+    },
+    {
+      "startTime": 1133,
+      "endTime": 1135,
+      "speaker": "Alejandro Olchik",
+      "text": "De arquivos, tá?"
+    },
+    {
+      "startTime": 1135,
+      "endTime": 1153,
+      "speaker": "Victor Figueredo",
+      "text": "E só sobre esse ponto aí também, Alejandro. Um item de check list que é importante que a gente Ativar. O esse procedimento no só deixar registrado, né? Porque aí a gente ativa como o Diego falou selecionar um outro cumprir o rito."
+    },
+    {
+      "startTime": 1153,
+      "endTime": 1169,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá ativo eu achei que tava. Ah tá, então vou deixar aqui em testes tá? Tem que ativar então então tem que fazer tem que fazer o depósito e colocar em produção ativar, né? E aí dá para colher o feedback. tá"
+    },
+    {
+      "startTime": 1169,
+      "endTime": 1171,
+      "speaker": "Victor Figueredo",
+      "text": "isso Que aí a gente."
+    },
+    {
+      "startTime": 1171,
+      "endTime": 1175,
+      "speaker": "Alejandro Olchik",
+      "text": "Quem é que ativa isso é normalmente é o Fernando tu que tá ativando."
+    },
+    {
+      "startTime": 1175,
+      "endTime": 1177,
+      "speaker": "Victor Figueredo",
+      "text": "Somos nós somos nós são dois."
+    },
+    {
+      "startTime": 1177,
+      "endTime": 1177,
+      "speaker": "Alejandro Olchik",
+      "text": "tá"
+    },
+    {
+      "startTime": 1177,
+      "endTime": 1195,
+      "speaker": "Victor Figueredo",
+      "text": "procedimentos a gente tem que incluir o poder de enviar arquivo e de perguntas controladas para Instância do cliente e colocar aquele pronto na instrução do usuário são essas duas etapas, mas é importante a gente sinalizar esse processo."
+    },
+    {
+      "startTime": 1195,
+      "endTime": 1199,
+      "speaker": "Alejandro Olchik",
+      "text": "Fechado, então faz as honras aí te apresenta Fernando."
+    },
+    {
+      "startTime": 1200,
+      "endTime": 1224,
+      "speaker": "Fernando Florêncio",
+      "text": "Bem João Fernando atualmente tô tocando time de antigamente Integração em suporte. Tentando colocar esse projeto com junto com a Filter produção. basicamente João Pessoa, Paraíba E qualquer coisa que precisar comer à disposição."
+    },
+    {
+      "startTime": 1224,
+      "endTime": 1224,
+      "speaker": "Joao Vitor",
+      "text": "show de bola Fernando"
+    },
+    {
+      "startTime": 1224,
+      "endTime": 1230,
+      "speaker": "Alejandro Olchik",
+      "text": "O João te apresenta um pouquinho. Fala aí também de por onde tu passou. Acho que"
+    },
+    {
+      "startTime": 1230,
+      "endTime": 1277,
+      "speaker": "Joao Vitor",
+      "text": "Legal, bom dia a todos. Tenho 27 anos, sou aqui de Floripa, né famoso manezinho da ilha. Famos? Passei tive uma carreira aí principalmente voltada ao mercado imobiliário, né? Foi na vista software que foi adquirida até pela Loft 36 anos então. Passei por diversas áreas desde relacionamentos CS a partir de gestão de carteira, acompanhei diversas imobiliárias aí do Brasil inteiro e entra aí para o time da hora com o papel aí de auxiliar nesse processo principalmente das implementações do prn, né? E espero somar né? Tô à disposição também para a gente trocar ideia evoluir bastante e vamos juntos aí colocar esse projeto aí para rodar o quanto antes."
+    },
+    {
+      "startTime": 1282,
+      "endTime": 1283,
+      "speaker": "Alejandro Olchik",
+      "text": "Apresenta aí também, cara."
+    },
+    {
+      "startTime": 1287,
+      "endTime": 1300,
+      "speaker": "Gabriel Teixeira Sales de França",
+      "text": "Beleza então João eu sou Gabriel, sou da equipe de integração. Também que precisar tô aqui para ajudar para apresentar mais tenho 28 anos e moro aqui em Volta Redonda no Rio."
+    },
+    {
+      "startTime": 1305,
+      "endTime": 1331,
+      "speaker": "Alejandro Olchik",
+      "text": "Valeu também se tiver aí dúvidas de como é que funciona os negócios vistas software Fernanda aí tu dá uma olhada para o João aí que ele vai ter todas as os mistérios Tudo bem seguindo então depois outro que tava. Em testes é o suporte em vídeo materiais e múltiplos arquivos, né?"
+    },
+    {
+      "startTime": 1332,
+      "endTime": 1373,
+      "speaker": "Diego Diehl",
+      "text": "Alejandro eu só aproveitar para somar o contexto aqui porque a gente se apresentou e não deu o contexto. Meu alinhamento com João tinha é que a meta principal dele é implementar os dois clientes que estão rodando agora e mapear esse processo de implementação, então ele vai jogar com o Johnny ali dava de Vai jogar com o Fernando com Teixeira agora com o Vitor e que me ajude a dar mais abraço, principalmente é uma parte de entender o cliente atender o cliente e também ali rodar alguns testes e aí validar o produto muito sobre uma ótica do cliente também."
+    },
+    {
+      "startTime": 1373,
+      "endTime": 1399,
+      "speaker": "Diego Diehl",
+      "text": "Então é uma pessoa que vai estar junto comigo. Sabendo ali testar buscar informação com o cliente do que precisar então ali Fernando naquelas tarefas que a gente entende. Fazer alguma coisa com a Enzo pegar uma informação da setinha algo assim, você pode contar com o João tá para fazer essa ponte para chegar também as demandas mais organizadas para vocês tanto para o Vitor para Fernando para o Johnny lá."
+    },
+    {
+      "startTime": 1399,
+      "endTime": 1423,
+      "speaker": "Diego Diehl",
+      "text": "Eu vou fazer o João ficar bem em cima ali da árvore nesse começo para garantir os nossos prazos essas execuções e até a validação do que está sendo feito, tá bom isso? Como passo um daí como isso vai evoluir a gente vai sentindo por hora a gente está gargalado nessa implementação e ter mais clientes, então o João como objetivo principal, tá? Com implementação."
+    },
+    {
+      "startTime": 1423,
+      "endTime": 1442,
+      "speaker": "Diego Diehl",
+      "text": "E aí o que surgir de bug algo assim, ele também vai conseguir atuar aqui com a gente para ajudar nesses treinamento do desenvolvimento do produto com foco e resolver realmente a demanda que precisa para o cliente. Acho que é isso de contexto assim Inicial, tá?"
+    },
+    {
+      "startTime": 1442,
+      "endTime": 1443,
+      "speaker": "Victor Figueredo",
+      "text": "Maravilha João"
+    },
+    {
+      "startTime": 1443,
+      "endTime": 1446,
+      "speaker": "Diego Diehl",
+      "text": "Acrescentar algo fica à vontade."
+    },
+    {
+      "startTime": 1446,
+      "endTime": 1451,
+      "speaker": "Alejandro Olchik",
+      "text": "Não paixão. O importante está?"
+    },
+    {
+      "startTime": 1451,
+      "endTime": 1452,
+      "speaker": "Diego Diehl",
+      "text": "Fala Vitor"
+    },
+    {
+      "startTime": 1455,
+      "endTime": 1476,
+      "speaker": "Victor Figueredo",
+      "text": "Não só falei para o João contar conosco que precisar. A gente especialmente nesse começo, né? A gente tá entendendo o produto entendendo o cliente tudo ao mesmo tempo, mas continuousco aí sempre que precisar quiser uma reunião tratar de pontos específicos ou coisas mais Gerais só chamar. só chamar."
+    },
+    {
+      "startTime": 1480,
+      "endTime": 1486,
+      "speaker": "Alejandro Olchik",
+      "text": "Tudo bem em relação a muitos arquivos conseguiram evoluir alguma coisa, como é que está a situação?"
+    },
+    {
+      "startTime": 1487,
+      "endTime": 1526,
+      "speaker": "Victor Figueredo",
+      "text": "Também tá na mesma situação do dos indios específicos tem um outro cenário que aí Vale também incluir o data 7 de perguntas, né? Que nesse caso é o suporte a nível de produto já está desenvolvido e em produção ou seja o produto suporta já os múltiplos arquivos aí nessa parte, a gente tem uma questão de instrução de prompt que é dizer quando múltiplos arquivos devem ser enviados na versão do pronto atual que a gente tem já algo nesse sentido então, ele tá instruído para quando a demanda for imprecisa."
+    },
+    {
+      "startTime": 1526,
+      "endTime": 1553,
+      "speaker": "Victor Figueredo",
+      "text": "Enviar todos não tem um Evaldo específico disso, mas a gente testou de forma bem estruturada. Conseguiu né identificar esses pontos então a eu peço os materiais do tal tal. Ele tá enviando os múltiplos arquivos com os nomes certinho então. É mais uma questão de alinhamento de pronto nesse sentido o suporte da funcionalidade está em produção."
+    },
+    {
+      "startTime": 1561,
+      "endTime": 1562,
+      "speaker": "Diego Diehl",
+      "text": "cara errando travou"
+    },
+    {
+      "startTime": 1568,
+      "endTime": 1599,
+      "speaker": "Victor Figueredo",
+      "text": "E o Evaldo o teste bem específico disso. Só aguardar um pouquinho só fazer essa separação. De pedir os apresentação do Sancler veio só o único arquivo e pedir. único arquivo e pedir. Leandro voltou Pedi todos os materiais e de todos. Mas agora Diego também é uma questão de prompt mesmo tá identificar."
+    },
+    {
+      "startTime": 1599,
+      "endTime": 1624,
+      "speaker": "Victor Figueredo",
+      "text": "Quais são os cenários lá? Eu acho que tem uma instrução que é tipo se pedir materiais kit de vendas ou eu acredito também. Com Fernando aqui para a gente dar uma olhada nisso, ele tá direcionado também para algum nível de precisão. Em precisão e a ausência também do produto da demanda por exemplo, eu tô pedindo a tabela e não tem tabela."
+    },
+    {
+      "startTime": 1624,
+      "endTime": 1642,
+      "speaker": "Victor Figueredo",
+      "text": "Então são casos que a gente precisa olhar certinho. Quais são as regras que a gente quer definir para esse envio de múltiplos arquivos. Quais são os cenários disso? E basicamente agora é no pronto e no Evaldo construir e testar na funcionalidade está disponível já."
+    },
+    {
+      "startTime": 1642,
+      "endTime": 1673,
+      "speaker": "Diego Diehl",
+      "text": "Victor não sei se eu entendi eu me distrair um pouquinho. Eu tentar Direcionar para simplificar se ver se não serve essa minha simplificação. Se o corretor pedir alguma forma de múltiplos arquivos e Vi todos. É esse padrão que a gente tinha combinado para simplificar e rodar. MVP. Daí eu não entendi daí agora a partir disso me disse tem algum ponto que precisa esclarecer ou de definição?"
+    },
+    {
+      "startTime": 1674,
+      "endTime": 1688,
+      "speaker": "Alejandro Olchik",
+      "text": "É uma sugestão uma sugestão para deixar mais concreto, quais as perguntas que a gente está testando? Qual o retorno que a gente tá tendo? tendo? Porque não sei eu acho que aí com isso a gente vai ter uma noção, né? Do que que tá cobrindo e o que que tá faltando, o que que O que que vocês?"
+    },
+    {
+      "startTime": 1688,
+      "endTime": 1693,
+      "speaker": "Diego Diehl",
+      "text": "Eu não entendi o que que o Vitor trouxe na verdade. Mas eu acho que isso é concreto."
+    },
+    {
+      "startTime": 1693,
+      "endTime": 1703,
+      "speaker": "Alejandro Olchik",
+      "text": "Mas se a gente olhar se a gente olhar Talvez as perguntas a gente dá uma olhadinha a gente vê como é que tá retornando e com base nelas. Acho que fica mais fica claro para todo mundo seria uma sugestão."
+    },
+    {
+      "startTime": 1703,
+      "endTime": 1723,
+      "speaker": "Diego Diehl",
+      "text": "Eu gosto muito sempre que vem esse pedido, eu acho que até a gente pode amadurecer o formato de reunião para começar sempre abrindo que tá rolando que teste foi feito. Que pergunta foi feita até para todo mundo e amadurecendo o contexto de negócio, né? Senão a gente vai ficando muito abstrato e de longe, né?"
+    },
+    {
+      "startTime": 1724,
+      "endTime": 1735,
+      "speaker": "Alejandro Olchik",
+      "text": "Não sei se é algo que tu tem a mão que vocês têm a mão Victor o Fernando as perguntas utilizadas para o teste dos arquivos."
+    },
+    {
+      "startTime": 1735,
+      "endTime": 1738,
+      "speaker": "Victor Figueredo",
+      "text": "Tem tem sim, deixa deixa eu abrir aqui."
+    },
+    {
+      "startTime": 1738,
+      "endTime": 1740,
+      "speaker": "Alejandro Olchik",
+      "text": "show"
+    },
+    {
+      "startTime": 1742,
+      "endTime": 1757,
+      "speaker": "Victor Figueredo",
+      "text": "Deixa eu abrir aqui. tá no kit leve, eu não sei se Ah legal, eu não sei se o João tá lá já mas seria legal também, ele dá uma olhada."
+    },
+    {
+      "startTime": 1757,
+      "endTime": 1758,
+      "speaker": "Alejandro Olchik",
+      "text": "Podemos adicionar?"
+    },
+    {
+      "startTime": 1759,
+      "endTime": 1790,
+      "speaker": "Fernando Florêncio",
+      "text": "eu vi que de alguns imóveis ali que tava dando dando erro de Arquivos não enviados, eu notei que muito que alguns deles pelo menos o que eu tava validando hoje mais cedo antes, faltou energia era. Que eles não eles não estão removidos na hora. E mesmo assim eles constam dentro do dentro do dentro do clube."
+    },
+    {
+      "startTime": 1790,
+      "endTime": 1813,
+      "speaker": "Fernando Florêncio",
+      "text": "A gente tem alguma. Alguma forma de sinalizar que aquele move não tá disponível. mas Ou também possa ser que as URL não estejam funcionando."
+    },
+    {
+      "startTime": 1813,
+      "endTime": 1817,
+      "speaker": "Alejandro Olchik",
+      "text": "Fernando. Eu tô aqui no setor."
+    },
+    {
+      "startTime": 1817,
+      "endTime": 1821,
+      "speaker": "Victor Figueredo",
+      "text": "Eu acho que tá na minha Branch Alejandro. Não sei se ela foi foi medido."
+    },
+    {
+      "startTime": 1824,
+      "endTime": 1831,
+      "speaker": "Alejandro Olchik",
+      "text": "Essa aqui Light mais trouxa. Claro."
+    },
+    {
+      "startTime": 1831,
+      "endTime": 1868,
+      "speaker": "Victor Figueredo",
+      "text": "bem Específico e ele é só levemente otimizado mesmo. Tá eu acho que ali tem uma tem uma pasta. semi específicas que esse é o conjunto Eu acho que talvez seja esse. Esse aí é o são os Evaldo de cada um dos produtos cada uma das perguntas."
+    },
+    {
+      "startTime": 1868,
+      "endTime": 1875,
+      "speaker": "Alejandro Olchik",
+      "text": "E aí tá jogando as perguntas de múltiplos arquivos dentro do revólver de cada um deles ou tu criam algum aqui separado?"
+    },
+    {
+      "startTime": 1875,
+      "endTime": 1897,
+      "speaker": "Victor Figueredo",
+      "text": "Nesse específico são as perguntas que a ideia dessas perguntas elas serem mais específicas mesmo. Manda a apresentação. Manda a tabela manda o memorial descritivo. São mais essas perguntas aí esse esse data 7 para essas perguntas. O Retorno é um arquivo só. O esperado né? Então ali tem."
+    },
+    {
+      "startTime": 1897,
+      "endTime": 1904,
+      "speaker": "Alejandro Olchik",
+      "text": "tá o Fernando mandou esse daqui, eu não sei ser mas é esse daqui Fernando de muitos desculpa vitória só para"
+    },
+    {
+      "startTime": 1904,
+      "endTime": 1919,
+      "speaker": "Victor Figueredo",
+      "text": "Não não embora em alguns casos dessas perguntas pode existir arquivos retornando pode existir cenários e tornando múltiplos arquivos especialmente nessas perguntas que vão se tornando mais imprecisas. mas esse"
+    },
+    {
+      "startTime": 1919,
+      "endTime": 1926,
+      "speaker": "Alejandro Olchik",
+      "text": "E tem tá então a gente não vai encontrar um arquivo com sódio de múltiplas, né? É isso que eu tô tentando entender."
+    },
+    {
+      "startTime": 1926,
+      "endTime": 1928,
+      "speaker": "Victor Figueredo",
+      "text": "Isso não não tem esse cenário aí."
+    },
+    {
+      "startTime": 1930,
+      "endTime": 1944,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá e a gente consegue encontrar em algum lugar? um exemplo de alguma pergunta Que não. Que vai ser mais difícil, né? É tudo."
+    },
+    {
+      "startTime": 1944,
+      "endTime": 1951,
+      "speaker": "Victor Figueredo",
+      "text": "É pelo pelo markdão, a gente vai ter acho que vai ter uma ideia mais clara ali."
+    },
+    {
+      "startTime": 1951,
+      "endTime": 1965,
+      "speaker": "Alejandro Olchik",
+      "text": "pelo"
+    },
+    {
+      "startTime": 1965,
+      "endTime": 1975,
+      "speaker": "Victor Figueredo",
+      "text": "Eu acho que ele está acima. Organizando aí que já tem muito."
+    },
+    {
+      "startTime": 1975,
+      "endTime": 1979,
+      "speaker": "Alejandro Olchik",
+      "text": "Que não tá? Ah tá, então era isso que essa"
+    },
+    {
+      "startTime": 1979,
+      "endTime": 1985,
+      "speaker": "Victor Figueredo",
+      "text": "S2 o vale deixe um cenário checklist 2"
+    },
+    {
+      "startTime": 1985,
+      "endTime": 1987,
+      "speaker": "Alejandro Olchik",
+      "text": "Fernando tinha mandado mesmo."
+    },
+    {
+      "startTime": 1987,
+      "endTime": 2013,
+      "speaker": "Victor Figueredo",
+      "text": "Isso é isso mesmo, é isso mesmo. A gente ordenou pela taxa de assertividade. De envio na verdade, então ele a pergunta é Existe alguma apresentação do sanclete disponível, aí ele mandou cinco vezes. O arquivo 1 e 5 vezes o de baixo ali então mandou a apresentação corretamente 10 vezes para essa pergunta para esse produto."
+    },
+    {
+      "startTime": 2013,
+      "endTime": 2016,
+      "speaker": "Victor Figueredo",
+      "text": "Tem apresentação e o título é esse daí mesmo? Pode enviar."
+    },
+    {
+      "startTime": 2016,
+      "endTime": 2025,
+      "speaker": "Alejandro Olchik",
+      "text": "tá e de múltiplos arquivos só para a gente tem alguma que Mostra de muitos arquivos."
+    },
+    {
+      "startTime": 2026,
+      "endTime": 2038,
+      "speaker": "Victor Figueredo",
+      "text": "eu acredito que deve ter alguma aí Achar eles a gente até separou também esse esse dado para atualizar o relatório mas não tem"
+    },
+    {
+      "startTime": 2038,
+      "endTime": 2049,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá eu vou eu vou dar uma sugestão. Tá eu vou dar uma atenção aqui, tá? Acho o seguinte ó, tá. Vamos lá, pode acabar."
+    },
+    {
+      "startTime": 2051,
+      "endTime": 2093,
+      "speaker": "Victor Figueredo",
+      "text": "Não Nessa versão aí de relatório não tá tão fácil achar essa informação Acredito que até exista situações dessas aí a gente separou esse dado acho que cabe uma um card específico para a gente atualizar o relatório e conseguir que a gente está colocando ali, né É totalmente. A gente tá contando basicamente quando uma url um arquivo foi enviado dentro de um mesmo de um mesmo chat, então pode ser que enviou uma vez ou pode ser que enviou duas tá contabilizando nessa métrica aí como se fosse uma vez só mas a gente tem essa métrica de mais de uma vez para identificar músculos arquivos, só não tá bem."
+    },
+    {
+      "startTime": 2093,
+      "endTime": 2101,
+      "speaker": "Victor Figueredo",
+      "text": "Estruturado no relatório acho que vale um carro de presente atualizar e ficar mais simples a gente ler essas duas situações."
+    },
+    {
+      "startTime": 2103,
+      "endTime": 2138,
+      "speaker": "Alejandro Olchik",
+      "text": "Então o que eu vou fazer também o que eu tô entendendo o que tá pendente, né aqui vou botar aqui na parte de testes. A gente está pendente aqui suporte. a validação de envio de vários arquivos Pelo Herval. Né? Eu acho que nesse é isso, né? Victor? Quem está falando?"
+    },
+    {
+      "startTime": 2139,
+      "endTime": 2163,
+      "speaker": "Victor Figueredo",
+      "text": "É para a gente colocar múltiplos arquivos no Evaldo, a gente vai precisar formular um data 7 que vai retornar esse tipo de resultado e e também atualizar o script que gera o relatório para a gente ter a métrica de da separação de arquivos totais enviados dentro de uma conversa para a gente saber né? Preciso saber né? Foi mais."
+    },
+    {
+      "startTime": 2163,
+      "endTime": 2180,
+      "speaker": "Alejandro Olchik",
+      "text": "Por hora a único tipo de pergunta que a gente está considerando é variações de cima dessa poderia me enviar os materiais do Barão de Tefé. E vocês tem algum outro termo Diego tem mais algum outro que você já identificar."
+    },
+    {
+      "startTime": 2180,
+      "endTime": 2183,
+      "speaker": "Diego Diehl",
+      "text": "Dentre. Qual os materiais?"
+    },
+    {
+      "startTime": 2183,
+      "endTime": 2196,
+      "speaker": "Alejandro Olchik",
+      "text": "Para teste para testar né? Quais são os tipos de pergunta que demandariam um vídeo de materiais? né? Acho que isso são coisas que a gente poderia já colocar aqui se você já tem."
+    },
+    {
+      "startTime": 2196,
+      "endTime": 2200,
+      "speaker": "Fernando Florêncio",
+      "text": "aquela lista de sinônimo de"
+    },
+    {
+      "startTime": 2200,
+      "endTime": 2202,
+      "speaker": "Diego Diehl",
+      "text": "acabo de variação de pergunta ou de"
+    },
+    {
+      "startTime": 2203,
+      "endTime": 2211,
+      "speaker": "Alejandro Olchik",
+      "text": "De termos pode ser qualquer coisa que ajude a formular perguntas, né? Para ter uma bateria mais completa, pode ser termos, pode ser?"
+    },
+    {
+      "startTime": 2214,
+      "endTime": 2222,
+      "speaker": "Diego Diehl",
+      "text": "também depois? apresentação material book Folder"
+    },
+    {
+      "startTime": 2223,
+      "endTime": 2237,
+      "speaker": "Alejandro Olchik",
+      "text": "Só que eu vou deixar fazer um negócio quando tu pede uma apresentação, às vezes tu tem um arquivo com apresentação. Aí aqui a gente tá perguntando quando é que ele vai enviar múltiplos arquivos."
+    },
+    {
+      "startTime": 2237,
+      "endTime": 2237,
+      "speaker": "Diego Diehl",
+      "text": "Ah tá, tá."
+    },
+    {
+      "startTime": 2237,
+      "endTime": 2241,
+      "speaker": "Alejandro Olchik",
+      "text": "Se eu pedir uma apresentação. Me manda uma apresentação, ele vai buscar representação e vai mandar."
+    },
+    {
+      "startTime": 2241,
+      "endTime": 2243,
+      "speaker": "Diego Diehl",
+      "text": "materiais"
+    },
+    {
+      "startTime": 2243,
+      "endTime": 2251,
+      "speaker": "Alejandro Olchik",
+      "text": "os arquivos"
+    },
+    {
+      "startTime": 2251,
+      "endTime": 2251,
+      "speaker": "Diego Diehl",
+      "text": "kit de vendas quando"
+    },
+    {
+      "startTime": 2251,
+      "endTime": 2257,
+      "speaker": "Victor Figueredo",
+      "text": "de venda marketing"
+    },
+    {
+      "startTime": 2260,
+      "endTime": 2295,
+      "speaker": "Diego Diehl",
+      "text": "Informações quando fala assim me manda informações sobre o produto as informações estão consolidadas nos arquivos. Que essa não é tão óbvio. Materiais arquivos ou Vitor para rodar esse teste aí beleza, né? Para eu tava pensando em como a gente vai implementar diferentes lugares no Brasil e tal daqui a pouco Daí em São Paulo, Curitiba, Porto Alegre muda."
+    },
+    {
+      "startTime": 2295,
+      "endTime": 2312,
+      "speaker": "Diego Diehl",
+      "text": "Eu pensei em a gente a gente ajustar aquele prompt para tirar um relatório novamente da eso até para amadurecer aqui com João algumas coisas ele entender mais as perguntas e tal. Você acha que faz sentido a gente tirar um novo relatório ali da ex agora que tá conectada a mais tempo."
+    },
+    {
+      "startTime": 2312,
+      "endTime": 2342,
+      "speaker": "Diego Diehl",
+      "text": "tempo. Até solicitando esse tipo de coisa no relatório, quais perguntas são feitas? Como que você vê isso assim ó para eu porque eu tô falando isso para não tirar da minha cabeça ou perguntar uma mostra meio aleatória para o time para pegar realmente do relatório e fazer o João dar uma olhada ali começar a entender melhor tudo que a pergunta sabe Fernando aquela planilha que você tava organizando, eu acho que é uma atribuição que o João pode atuar agora que é bem."
+    },
+    {
+      "startTime": 2342,
+      "endTime": 2367,
+      "speaker": "Diego Diehl",
+      "text": "fonte do produto para o cliente organizar Que pergunta que tem que por que resposta que tem que dar que que vocês acham que daí não agora eu posso amadurecer essas outras perguntas mas Você acha viável Victor a gente tirar um novo relatório e daí eu faço um trabalho com João em torno de perguntas termos sinônimos bem completo sobre isso."
+    },
+    {
+      "startTime": 2367,
+      "endTime": 2369,
+      "speaker": "Diego Diehl",
+      "text": "Que a gente vai precisar daqui a pouco né?"
+    },
+    {
+      "startTime": 2371,
+      "endTime": 2390,
+      "speaker": "Victor Figueredo",
+      "text": "Se possível colocar um card também ou algo desse sentido para a gente extrair isso. E aí de alguma coisa interessante que você falou que esse seria o seria uma. Melhoria dentro do que a gente está imaginando né? Tipo melhorar sair de tirar da nossa cabeça e tirar do cliente."
+    },
+    {
+      "startTime": 2390,
+      "endTime": 2408,
+      "speaker": "Victor Figueredo",
+      "text": "O ideal do ponto de vista de pronto também além de ter as perguntas específicas como você falou pode ter variação Regional, isso é aquilo a forma como as pessoas mudam, né a própria amostra da ESA específica o ideal é a gente construir também do nosso lado no pronto uma instrução."
+    },
+    {
+      "startTime": 2408,
+      "endTime": 2423,
+      "speaker": "Victor Figueredo",
+      "text": "Que consiga atender esse tipo de situação então uma coisa que você falou mais cedo que é interessante a gente querer colocar é o cliente pedir no plural. Isso é muito importante tipo. Ah. Me manda as apresentações do tal e tal coisa me manda os materiais. Me manda as tabelas me manda."
+    },
+    {
+      "startTime": 2423,
+      "endTime": 2430,
+      "speaker": "Diego Diehl",
+      "text": "É que eu não tenho poder de pedir para o cliente, eu não tenho o poder de controlar o que o cliente pede Vitor."
+    },
+    {
+      "startTime": 2430,
+      "endTime": 2431,
+      "speaker": "Victor Figueredo",
+      "text": "generalização"
+    },
+    {
+      "startTime": 2431,
+      "endTime": 2457,
+      "speaker": "Diego Diehl",
+      "text": "Mas eu tô entendendo que o teu Desafio o que você está Mirando é em escala, né? Eu ainda não eu ainda estou num passo atrás, tá? Se precisar dar uma ajustada para cada cliente ou para região de São Paulo para região de Curitiba. Eu faria isso Óbvio que não dá eu acho que são três níveis, né? Um cara vamos desenvolver já de uma forma que dê escala a gente consiga vender para mil incorporadoras."
+    },
+    {
+      "startTime": 2457,
+      "endTime": 2475,
+      "speaker": "Diego Diehl",
+      "text": "Esse é o mundo perfeito. Do outro extremo que a gente não quer vamos fazer uma coisa para cada Incorporadora e o modelo não é replicável que a gente não quer. Eu tô no modelo intermediário que é cara, vamos dar um jeito de fazer funcionar por mais que não seja altamente escalável."
+    },
+    {
+      "startTime": 2475,
+      "endTime": 2491,
+      "speaker": "Diego Diehl",
+      "text": "Eu tô com João aqui para a gente dar uma. Que até estratégia hoje da setinha da ideia das Árvores tá que eu tô vendendo para eles conecta os WhatsApp, se a gente vai começar a registrar tudo com isso. Eu vou tirar um relatório e a gente vai poder dar uma organizada no teu pronto."
+    },
+    {
+      "startTime": 2491,
+      "endTime": 2510,
+      "speaker": "Diego Diehl",
+      "text": "Então eu só queria tá alinhado contigo nesse a gente tá nesse meio do caminho por hora assim sabe? Vamos fazer funcionar por mais que não seja. Contra você controver para muita gente, depois a gente vai aprender na como da escala. Até tendo dois três, tipos a gente vê como."
+    },
+    {
+      "startTime": 2510,
+      "endTime": 2521,
+      "speaker": "Diego Diehl",
+      "text": "Como que seria um modelo que funcionaria para São Paulo, Curitiba, Porto Alegre, a gente tem até teste daí para isso, né? Enfim nesse sentido. chão nesse sentido."
+    },
+    {
+      "startTime": 2521,
+      "endTime": 2522,
+      "speaker": "Victor Figueredo",
+      "text": "Tá bom, tá ótimo."
+    },
+    {
+      "startTime": 2523,
+      "endTime": 2558,
+      "speaker": "Diego Diehl",
+      "text": "Tá eu posso dedicar esforço a isso a gente dá uma amadurecida. Em resumo então Vamos definir Você Me manda a instrução do último relatório. Aí eu dou uma interada troco uma ideia com João chamando um retorno de qual instrução você manda para ir lá fornecer o relatório. Aí a gente pega esse relatório para a gente fazer um trabalho mais consolidado já na exo imediatamente que eu preciso correr com isso que em seguida vai ter sentido das árvores e daí eu faço um kit de perguntas um kit de várias coisas que a gente não fez ainda."
+    },
+    {
+      "startTime": 2558,
+      "endTime": 2569,
+      "speaker": "Diego Diehl",
+      "text": "A gente fez só cinco seis perguntas, né? E variações delas, né? Não sei se eu tô atravessando pode me dizer se não é isso o passo agora."
+    },
+    {
+      "startTime": 2569,
+      "endTime": 2585,
+      "speaker": "Alejandro Olchik",
+      "text": "Eu acho que não dá para fazer só que eu acho que o primeiro ponto é o feedback direto, né? Então o João conversando e o uso já teria que apontar uma situação de satisfatório tá eu acho que o"
+    },
+    {
+      "startTime": 2585,
+      "endTime": 2585,
+      "speaker": "Diego Diehl",
+      "text": "Pode ser um passo."
+    },
+    {
+      "startTime": 2585,
+      "endTime": 2613,
+      "speaker": "Alejandro Olchik",
+      "text": "quanto mais porque a gente porque na prática sendo bem direta, quanto menos esforço a gente alocar em coisas que não se a gente já sabe o problema é melhor o jogo falando resolver o problema do que desenvolver uma investigação do problema. A hora que vai para um não vai para outro, né do ponto de vista de otimização do tempo se a gente não sabe o problema se investigar o próximo não faz sentido, mas vamos fechar só esses caras que a gente avaliar os próximos só mas e aí a gente pode."
+    },
+    {
+      "startTime": 2613,
+      "endTime": 2614,
+      "speaker": "Diego Diehl",
+      "text": "Pode ser?"
+    },
+    {
+      "startTime": 2614,
+      "endTime": 2616,
+      "speaker": "Alejandro Olchik",
+      "text": "E aí Decide aí que faz mais"
+    },
+    {
+      "startTime": 2616,
+      "endTime": 2617,
+      "speaker": "Diego Diehl",
+      "text": "beleza"
+    },
+    {
+      "startTime": 2617,
+      "endTime": 2643,
+      "speaker": "Alejandro Olchik",
+      "text": "sentido, tá? Pessoal em relação aqui é o envio dos arquivos, então tô entendendo que faltam formatar os testes tá para validar. Essa parte aqui eu tava pensando assim, eu acho que depois tem uma questão de padronização, né? Vitor que a gente tem que evoluir. Eu fiquei na dúvida. O que que faz mais sentido eu no começo, achei que validar por empreendimento."
+    },
+    {
+      "startTime": 2643,
+      "endTime": 2671,
+      "speaker": "Alejandro Olchik",
+      "text": "Talvez não fosse interessante, depois eu achei que pode ser porque quando a mãe Incorporadora ela tá colocando empreendimento. Ela quer ver que todos os casos estão sendo cobertos para ele, né e vão entrar novos Empreendimentos então pode ser um tipo de organização. Interessante. Então enfim vamos amadurecer um pouco aqui essa quebra, né? Porque a gente tem o fluxo de uso e empreendimento, né? Não sei qual é a hierarquia que faz mais sentido ainda."
+    },
+    {
+      "startTime": 2671,
+      "endTime": 2685,
+      "speaker": "Alejandro Olchik",
+      "text": "Entre os dois. Aqui a gente tá colocando mais por. Aqui eu só acho que esses nomes aqui. Esse daqui são a gente tá Enzo."
+    },
+    {
+      "startTime": 2685,
+      "endTime": 2690,
+      "speaker": "Fernando Florêncio",
+      "text": "Cuidado com a frente Alejandro. que ser aqui."
+    },
+    {
+      "startTime": 2690,
+      "endTime": 2704,
+      "speaker": "Alejandro Olchik",
+      "text": "Ah, eu tô aqui, né? Aprendi abrange, tá? Só que o que que tá acontecendo a gente tem aqui esse daqui são prontos. E esse daqui são resultados de provas, é isso?"
+    },
+    {
+      "startTime": 2706,
+      "endTime": 2733,
+      "speaker": "Victor Figueredo",
+      "text": "esse esse outro Mark Down são os produtos na hora o que tem arquivos, então tem uma um detalhamento ali de quais Tom com e sem porque a combinação com Esse Jason aí de New questions específico, ele mostra por exemplo os resultados Zero onde que onde que tem ou não tem produto para Quais produtos foram formulados perguntas."
+    },
+    {
+      "startTime": 2733,
+      "endTime": 2735,
+      "speaker": "Alejandro Olchik",
+      "text": "New questions"
+    },
+    {
+      "startTime": 2738,
+      "endTime": 2750,
+      "speaker": "Victor Figueredo",
+      "text": "Aí estão só os produtos os produtos que tem arquivos. então ele usa o aquela informação do outro lá, é só para a gente não perder a referência, mas vale dar uma organizada no"
+    },
+    {
+      "startTime": 2751,
+      "endTime": 2763,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá mas esse daqui são as perguntas como se fossem os testes, esse daqui é são os prompts. isso daqui que é"
+    },
+    {
+      "startTime": 2764,
+      "endTime": 2776,
+      "speaker": "Victor Figueredo",
+      "text": "Aí é o detalhamento de por produto e os arquivos que ele tem disponíveis que o data 7 ele pode consultar qualquer um desses arquivos aí formular perguntar. Tem tal e tal coisa de estar empreendimento."
+    },
+    {
+      "startTime": 2776,
+      "endTime": 2809,
+      "speaker": "Alejandro Olchik",
+      "text": "Isso daqui é para geração das dos Testes, é isso? É como se fosse um sítio está que que vocês acham da gente organizar um pouco diferente aqui, eu tô perdendo quando navega, né? Porque talvez fazer a gente tem para mim isso daqui é parte dos evals, né? A gente tem reservar esse daqui é parte do intervalos aqui são os prompts esse daqui eu acho que também é resultado dos ews conferem não."
+    },
+    {
+      "startTime": 2809,
+      "endTime": 2863,
+      "speaker": "Alejandro Olchik",
+      "text": "Também resultado. Então como se não importa, só que eu acho que o intervalos eles podem ser divididos em mais de um folder para ficar mais organizado, né Talvez né? Porque tu tem os testes os dentes e depois tu tem as execuções mesmo, né? Tipo? os logs Talvez a gente pudesse fazer uma quebra nos ervar na organização do diretórios você faz sentido o que escrever? rapidão só para Faz sentido qualquer coisa porque vai começar a crescer vai ficar muito arquivo, né? Para quem não tá acompanhando vai se acabar daí como as notas técnicas, né? A gente poderia ter uma estrutura que é dentro da válvulas."
+    },
+    {
+      "startTime": 2863,
+      "endTime": 2894,
+      "speaker": "Alejandro Olchik",
+      "text": "A gente poderia ter o slogs que são das execuções, né? poderia ter A gente tem os logs só separando os logs, né? Porque depois a gente tem os testes os dados temos os testes os dados, né? E aqui ficaria. O teste vai ter que ter um nome que a gente tem que colocar testes MD."
+    },
+    {
+      "startTime": 2894,
+      "endTime": 2923,
+      "speaker": "Alejandro Olchik",
+      "text": "E algo assim talvez né, que seria um tenta contra o Jason, né ou perguntas, quais o Jason são as perguntas, né? Mas Eles teriam tudo aqui dentro de nós que vocês acham porque quem deixa só o pronto lá no primeiro nível. Não sei estou organiza dessa forma um dos outros, como é que tá fazendo os projetos?"
+    },
+    {
+      "startTime": 2925,
+      "endTime": 2941,
+      "speaker": "Victor Figueredo",
+      "text": "Pode ser pode ser dessa forma. Esses são os maiores lotes que a gente tem o daeso. É o maior aqui em termos de quantidade de perguntas cenário envolve produtos. arquivos."
+    },
+    {
+      "startTime": 2943,
+      "endTime": 2957,
+      "speaker": "Alejandro Olchik",
+      "text": "Sim, tá porque a minha dúvida é vamos testando aqui sem muita variação, a única coisa que me incomodou. Agora não chegou ainda, estamos localizar. Mas começar a colocar nome mais específico, depois a gente."
+    },
+    {
+      "startTime": 2957,
+      "endTime": 2957,
+      "speaker": "Victor Figueredo",
+      "text": "Tá bom."
+    },
+    {
+      "startTime": 2957,
+      "endTime": 2992,
+      "speaker": "Alejandro Olchik",
+      "text": "Pode dar uma risada tá pessoal. Então aqui tem testes. a gente esse daqui tá junto tá junto com arquivos específicos Entende o contexto e arquivos de empreendimentos não citados na conversa. Pode falar."
+    },
+    {
+      "startTime": 2994,
+      "endTime": 3007,
+      "speaker": "Victor Figueredo",
+      "text": "Esse seria um teste específico que a gente tem que for lá também. o que que acontece se pedir isso se tratar do produto em mais acima na conversa coisa do"
+    },
+    {
+      "startTime": 3009,
+      "endTime": 3020,
+      "speaker": "Alejandro Olchik",
+      "text": "Show tá então com isso, a gente está com status do que está em andamento. Tem alguma outra coisa que começou a ser feito, eu tenho andamento assim que você tem colocando a mão e não tá registrado aqui."
+    },
+    {
+      "startTime": 3020,
+      "endTime": 3044,
+      "speaker": "Victor Figueredo",
+      "text": "Tem eu tenho alguns pontos aqui. A gente fechou na semana passada um lixo relacionado às hora a data e hora do das testes. Das criações de tarefas a gente fechou isso tinha um lixo reportado pelo Diego sobre isso, a gente resolveu estudar semana passada."
+    },
+    {
+      "startTime": 3044,
+      "endTime": 3049,
+      "speaker": "Diego Diehl",
+      "text": "Tá só você tá listado aí que eu posso ser só pontuando isso."
+    },
+    {
+      "startTime": 3049,
+      "endTime": 3050,
+      "speaker": "Victor Figueredo",
+      "text": "Pode pode falar eu acredito não tá"
+    },
+    {
+      "startTime": 3050,
+      "endTime": 3051,
+      "speaker": "Diego Diehl",
+      "text": "Tá Eu Tenho."
+    },
+    {
+      "startTime": 3051,
+      "endTime": 3053,
+      "speaker": "Victor Figueredo",
+      "text": "tá ligado."
+    },
+    {
+      "startTime": 3053,
+      "endTime": 3088,
+      "speaker": "Diego Diehl",
+      "text": "Um item aí para a gente pôr no backlog Alessandro que é o amadurecimento do prompt de criação de tarefas. Porque tem um prompt do bot. Tem um pronto te dá funcionalidade de criação de tarefas. Acho que isso daí vai ser bem simples. Talvez eu consiga. Ali. Alexa parar Enfim é um item de produto que a gente não olhou ainda e para a gente determinar para o nosso cliente isso."
+    },
+    {
+      "startTime": 3088,
+      "endTime": 3095,
+      "speaker": "Diego Diehl",
+      "text": "A gente precisa direcionar, né as criações e tarefas."
+    },
+    {
+      "startTime": 3095,
+      "endTime": 3100,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá mas isso daqui era um bugzinho porque eu tô entendendo."
+    },
+    {
+      "startTime": 3100,
+      "endTime": 3125,
+      "speaker": "Victor Figueredo",
+      "text": "Era era um bug ele tava colocando todas as tarefas às 9 da manhã alguma coisa assim, a gente já colocou a data e hora das tarefas. Dentro do contexto correto então lá Marco, vamos vamos falar amanhã 3:42 da tarde. Ele tá colocando isso agora de forma específica no clube era um bug que o Diego me cortou."
+    },
+    {
+      "startTime": 3125,
+      "endTime": 3128,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá que mais."
+    },
+    {
+      "startTime": 3129,
+      "endTime": 3142,
+      "speaker": "Victor Figueredo",
+      "text": "É um outro bug que havia sido reportado sobre a transcrição o registro da transcrição dos áudios. Dos registros de interação também foi resolvido."
+    },
+    {
+      "startTime": 3142,
+      "endTime": 3144,
+      "speaker": "Alejandro Olchik",
+      "text": "Qual o problema?"
+    },
+    {
+      "startTime": 3147,
+      "endTime": 3155,
+      "speaker": "Victor Figueredo",
+      "text": "tá faltando o a transcrição do áudio em si não tava subindo no registro de interação agora já está"
+    },
+    {
+      "startTime": 3157,
+      "endTime": 3158,
+      "speaker": "Diego Diehl",
+      "text": "Boa eu recortei isso aí também."
+    },
+    {
+      "startTime": 3165,
+      "endTime": 3168,
+      "speaker": "Alejandro Olchik",
+      "text": "Isso já está em produção."
+    },
+    {
+      "startTime": 3168,
+      "endTime": 3169,
+      "speaker": "Victor Figueredo",
+      "text": "Já já está?"
+    },
+    {
+      "startTime": 3170,
+      "endTime": 3183,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá esses casos aqui eles precisam de alguma etapa adicional porque é só é só um. Isso daqui não robô do gerente, né que a gente tá falando em todos em todos."
+    },
+    {
+      "startTime": 3183,
+      "endTime": 3184,
+      "speaker": "Diego Diehl",
+      "text": "Isso daí é Filter físico Plus."
+    },
+    {
+      "startTime": 3184,
+      "endTime": 3186,
+      "speaker": "Victor Figueredo",
+      "text": "Só para a gente deixar registrado."
+    },
+    {
+      "startTime": 3187,
+      "endTime": 3196,
+      "speaker": "Alejandro Olchik",
+      "text": "tá E a mesma coisa aqui tá mas essa daqui eu tô entendendo então que não precisa fazer mais nada pronto é isso?"
+    },
+    {
+      "startTime": 3196,
+      "endTime": 3198,
+      "speaker": "Victor Figueredo",
+      "text": "Isso isso mesmo."
+    },
+    {
+      "startTime": 3198,
+      "endTime": 3200,
+      "speaker": "Alejandro Olchik",
+      "text": "tá"
+    },
+    {
+      "startTime": 3201,
+      "endTime": 3212,
+      "speaker": "Victor Figueredo",
+      "text": "tem também a questão do A gente validou o cadastro dos corretores com emoji. Que é o que a gente comentou ontem na dele."
+    },
+    {
+      "startTime": 3212,
+      "endTime": 3216,
+      "speaker": "Diego Diehl",
+      "text": "A boa isso tá certo com o responsável Victor."
+    },
+    {
+      "startTime": 3216,
+      "endTime": 3220,
+      "speaker": "Victor Figueredo",
+      "text": "As duas coisas são coisas diferentes, mas as duas coisas estão."
+    },
+    {
+      "startTime": 3220,
+      "endTime": 3221,
+      "speaker": "Diego Diehl",
+      "text": "Tá."
+    },
+    {
+      "startTime": 3221,
+      "endTime": 3223,
+      "speaker": "Victor Figueredo",
+      "text": "A gente colocou então."
+    },
+    {
+      "startTime": 3223,
+      "endTime": 3227,
+      "speaker": "Diego Diehl",
+      "text": "E você já conectou com o Johnny para ele até o fim."
+    },
+    {
+      "startTime": 3227,
+      "endTime": 3232,
+      "speaker": "Victor Figueredo",
+      "text": "Do da questão de pegar o responsável dali e jogar no colaborador."
+    },
+    {
+      "startTime": 3233,
+      "endTime": 3251,
+      "speaker": "Diego Diehl",
+      "text": "Isso e jogar também no responsável. São duas coisas aí, né? Só para a gente pontuar quando solicita o cadastro se o cadastro já tiver. Já existir adicionar a pessoa que solicitou o cadastro como colaborador. Esse foi."
+    },
+    {
+      "startTime": 3251,
+      "endTime": 3255,
+      "speaker": "Victor Figueredo",
+      "text": "Esse não esse é com Automação com Johnny mesmo."
+    },
+    {
+      "startTime": 3255,
+      "endTime": 3263,
+      "speaker": "Diego Diehl",
+      "text": "Tá o primeiro que é quando não houver o registro do corretor cadastrar e colocar quem pediu o registro como responsável."
+    },
+    {
+      "startTime": 3263,
+      "endTime": 3267,
+      "speaker": "Victor Figueredo",
+      "text": "Isso exatamente."
+    },
+    {
+      "startTime": 3267,
+      "endTime": 3271,
+      "speaker": "Diego Diehl",
+      "text": "Tá tá falta esse segundo então que é com o Johnny."
+    },
+    {
+      "startTime": 3271,
+      "endTime": 3271,
+      "speaker": "Victor Figueredo",
+      "text": "isso"
+    },
+    {
+      "startTime": 3271,
+      "endTime": 3274,
+      "speaker": "Diego Diehl",
+      "text": "E você solicitou para ele já?"
+    },
+    {
+      "startTime": 3274,
+      "endTime": 3278,
+      "speaker": "Victor Figueredo",
+      "text": "Eu pedi uma cor com ele aqui para a gente falar disso e outros temas. mas eu vou transmitir a ele que"
+    },
+    {
+      "startTime": 3278,
+      "endTime": 3281,
+      "speaker": "Diego Diehl",
+      "text": "tá"
+    },
+    {
+      "startTime": 3281,
+      "endTime": 3284,
+      "speaker": "Victor Figueredo",
+      "text": "Que já está em produção."
+    },
+    {
+      "startTime": 3284,
+      "endTime": 3289,
+      "speaker": "Diego Diehl",
+      "text": "Eu acho que é legal deixar aí para a gente acompanhar tá suporte avaliação."
+    },
+    {
+      "startTime": 3289,
+      "endTime": 3297,
+      "speaker": "Alejandro Olchik",
+      "text": "Só para entender o ideal é criar essas cards lá como parte do processo de comunicação e não a posteriori tá porque a gente fica"
+    },
+    {
+      "startTime": 3297,
+      "endTime": 3297,
+      "speaker": "Diego Diehl",
+      "text": "com"
+    },
+    {
+      "startTime": 3297,
+      "endTime": 3333,
+      "speaker": "Alejandro Olchik",
+      "text": "aí é meio perda de tempo assim, então todo mundo já foi feito tipo iria precisar instrumento de Guiar o desenvolvimento da solução. Seria o ideal é porque eu tô entendendo. Aqui é quando coordenador. Envia emoji. E contato já cadastrado Antunes. Então coordenador. Passa a ser o responsável. Pelo contato é isso, né?"
+    },
+    {
+      "startTime": 3333,
+      "endTime": 3339,
+      "speaker": "Diego Diehl",
+      "text": "Não é passa a ser um colaborador. Nesse caso."
+    },
+    {
+      "startTime": 3339,
+      "endTime": 3340,
+      "speaker": "Alejandro Olchik",
+      "text": "e que"
+    },
+    {
+      "startTime": 3340,
+      "endTime": 3374,
+      "speaker": "Diego Diehl",
+      "text": "É um campo que são corresponsáveis. É tipo quem fala com esse corretor. passa a ser um colaborador do contato e não e quando Quando não quando já calma aí quando o que você colocou aí o contato já cadastrado quando não tiver cadastrado, esse já tá resolvido. Acho que"
+    },
+    {
+      "startTime": 3376,
+      "endTime": 3392,
+      "speaker": "Alejandro Olchik",
+      "text": "Então é suporte a vinculação. do cadastro dos corretores existentes E esse daqui? Qual é em que estádio tá?"
+    },
+    {
+      "startTime": 3393,
+      "endTime": 3409,
+      "speaker": "Victor Figueredo",
+      "text": "Isso tá no início do desenvolvimento dele, mas já foi refinado. Tecnicamente como que a gente vai fazer isso via automações no púbis e o A base da funcionalidade também já foi?"
+    },
+    {
+      "startTime": 3409,
+      "endTime": 3411,
+      "speaker": "Alejandro Olchik",
+      "text": "Algo mais ele."
+    },
+    {
+      "startTime": 3411,
+      "endTime": 3418,
+      "speaker": "Diego Diehl",
+      "text": "Victor uma confirmação é independente de quem manda o Emoji, né?"
+    },
+    {
+      "startTime": 3418,
+      "endTime": 3423,
+      "speaker": "Victor Figueredo",
+      "text": "Tem que ser O Agente, né? O gerente tem que sempre partido do gerente."
+    },
+    {
+      "startTime": 3423,
+      "endTime": 3430,
+      "speaker": "Diego Diehl",
+      "text": "Ah tá bom só porque eu ia testar que eu enviando para Algum deles lá, mas eu sou gerente enviando Então beleza."
+    },
+    {
+      "startTime": 3431,
+      "endTime": 3441,
+      "speaker": "Alejandro Olchik",
+      "text": "Tá são três para as 11 só para quase 11 horas, tá só para alinhar sua vida. Tem alguma coisa ainda na tua bandeja aí no teu prato?"
+    },
+    {
+      "startTime": 3443,
+      "endTime": 3452,
+      "speaker": "Victor Figueredo",
+      "text": "Eu acho que esses são os pontos principais aí a gente está acompanhando. Também ideias árvores e árvores e cetim é mais."
+    },
+    {
+      "startTime": 3452,
+      "endTime": 3476,
+      "speaker": "Diego Diehl",
+      "text": "e 10 árvores É que são a Gente Tá misturando, né? A gente aqui fala de desenvolvimento, mas a gente tem um desafio de implementação daí é como que essas duas coisas andam tem planos de ação de implementação rodando e aqui a gente está se concentrando em planos de desenvolvimento de produto e resolução de bugs."
+    },
+    {
+      "startTime": 3476,
+      "endTime": 3493,
+      "speaker": "Diego Diehl",
+      "text": "Aí João sem entender, já que aqui a gente está concentrando o desenvolvimento produto a gente tem que ter muito bem consolidado, né? Que a tarefa que eu já te dei, né? Os planos de ação consolidados das implementações que hoje às vezes se perde uma coisa ou outra."
+    },
+    {
+      "startTime": 3493,
+      "endTime": 3528,
+      "speaker": "Alejandro Olchik",
+      "text": "O que que eu pegaria tá? Como é que eu faria eu não ficaria colocando mais coisa que a gente acha que precisa nesse momento. Eu acho que nesse momento a gente tem que deixar o Vitor e Fernando focar em deixar um vídeo de arquivos, tem que estar melhor possível que a gente consiga fazer, né? E aí Diego e João tem que ver na linha de frente, o que que pega para fechar a venda e deixar o cliente satisfeito, entendeu? Aí e esses casos que estão pegando para deixar ele satisfeitos nesse primeiro momento que vocês têm que trazer aqui para que eles possam tocar com velocidade máxima é o que eu tentaria fazer esse espaço de encher."
+    },
+    {
+      "startTime": 3528,
+      "endTime": 3555,
+      "speaker": "Diego Diehl",
+      "text": "Perfeito, eu tô alinhado para mim desenvolver a demo que a gente falou, né? E resolveu os problemas de cetim das Árvores. E exo são três clientes a minha dúvida de próximos passos sobre não pôr mais coisas para Vitor e Fernando. Com certeza tô alinhadasso, né? Tive uma ideia f***-se a minha ideia anota aqui não bota nem no backlog."
+    },
+    {
+      "startTime": 3555,
+      "endTime": 3576,
+      "speaker": "Diego Diehl",
+      "text": "Ou bota no backlog que sabe que não vai olhar tão cedo para lá a minha. A minha sensação de como que a gente dá isso, eu queria definir uma estratégia que nossa daí pedindo bem para você Leandro. Que que você acha melhor e para os outros também. A minha sensação."
+    },
+    {
+      "startTime": 3576,
+      "endTime": 3605,
+      "speaker": "Diego Diehl",
+      "text": "E o meu medo é da gente ficar vendo coisinha por coisinha e começar a criar uma colcha de retalhos. Mas que olhando do outro ângulo, parece que a gente divide em problemas menores vai resolver um problema um. O meu ângulo que eu faria é a gente falar de forma prática tirar o relatório da Êxodo fazer um trabalho com o João ele fala são essas 40 perguntas aqui que a gente sabe que não é só dar mesmo que é nas outras lá também."
+    },
+    {
+      "startTime": 3605,
+      "endTime": 3626,
+      "speaker": "Diego Diehl",
+      "text": "São esses arquivos e a gente tem esse bloco para resolver. Porque eu tenho a sensação que parece que a gente tá andando andando e quando é que a gente vai chegar nesse estágio, mas eu não sei a resposta que é se resolvendo pequenas e pequenas tarefas não é uma colcha de retalhos assim, a gente vai resolvendo se é bom ruim isso ou seja."
+    },
+    {
+      "startTime": 3626,
+      "endTime": 3633,
+      "speaker": "Diego Diehl",
+      "text": "Olha a situação atual como um todo e o que falta para estar funcional para Ponta. Aí eu não sei como que vocês"
+    },
+    {
+      "startTime": 3633,
+      "endTime": 3633,
+      "speaker": "Alejandro Olchik",
+      "text": "o ponto até até dá para olhar mas"
+    },
+    {
+      "startTime": 3633,
+      "endTime": 3635,
+      "speaker": "Diego Diehl",
+      "text": "melhor."
+    },
+    {
+      "startTime": 3635,
+      "endTime": 3641,
+      "speaker": "Alejandro Olchik",
+      "text": "a funcionalidades ela nem entrou no ar, entendeu? Os arquivos para a gente olhar as perguntas de uma forma bem prática, tá?"
+    },
+    {
+      "startTime": 3641,
+      "endTime": 3645,
+      "speaker": "Diego Diehl",
+      "text": "Então é por no aro o quanto antes da Enzo na minha visão, não"
+    },
+    {
+      "startTime": 3645,
+      "endTime": 3646,
+      "speaker": "Alejandro Olchik",
+      "text": "Exato eu acho que tem que pôr no ar"
+    },
+    {
+      "startTime": 3646,
+      "endTime": 3647,
+      "speaker": "Diego Diehl",
+      "text": "esperar nada."
+    },
+    {
+      "startTime": 3647,
+      "endTime": 3665,
+      "speaker": "Alejandro Olchik",
+      "text": "porque isso é o próximo tópico, por isso que eu não Tiraria foco deles nesse momento, entendeu? Tem que pôr no ar para testar envio de arquivos é a coisa mais importante, eu acho que teria que ser mais importante que o suporte a vinculação do cadastro ali que o Vitor A mão, entendeu em outra coisa já e"
+    },
+    {
+      "startTime": 3665,
+      "endTime": 3665,
+      "speaker": "Diego Diehl",
+      "text": "tá é"
+    },
+    {
+      "startTime": 3665,
+      "endTime": 3687,
+      "speaker": "Alejandro Olchik",
+      "text": "não entrou no ar os testes, entendeu? Ainda do envio de arquivos. Então para mim assim esse board é o seguinte a prioridade é da direita para esquerda de cima para baixo então. No lugar de fazer vinculação bota no ar esse vídeo de arquivos e deixa o pessoal rodar já deixa isso rodando que a gente vai ter uma base de como tá funcionando vê que os testes estão rodando e bota no ar e depois acaba a vinculação,"
+    },
+    {
+      "startTime": 3687,
+      "endTime": 3688,
+      "speaker": "Diego Diehl",
+      "text": "necessidade da setinha em ordem mesmo"
+    },
+    {
+      "startTime": 3688,
+      "endTime": 3689,
+      "speaker": "Alejandro Olchik",
+      "text": "entendeu?"
+    },
+    {
+      "startTime": 3691,
+      "endTime": 3699,
+      "speaker": "Diego Diehl",
+      "text": "na ordem da implementação foi conectada e começar a abordar eles surgiram bugs a gente resolveu alguns."
+    },
+    {
+      "startTime": 3699,
+      "endTime": 3699,
+      "speaker": "Alejandro Olchik",
+      "text": "Mas tá certo isso tu quer que ele"
+    },
+    {
+      "startTime": 3699,
+      "endTime": 3701,
+      "speaker": "Diego Diehl",
+      "text": "aí"
+    },
+    {
+      "startTime": 3701,
+      "endTime": 3706,
+      "speaker": "Alejandro Olchik",
+      "text": "soque em primeiro no vinculação de cadastro ou que faça um vídeo de arquivos?"
+    },
+    {
+      "startTime": 3706,
+      "endTime": 3708,
+      "speaker": "Diego Diehl",
+      "text": "Falhou bem na hora a internet fala de novo."
+    },
+    {
+      "startTime": 3709,
+      "endTime": 3718,
+      "speaker": "Alejandro Olchik",
+      "text": "focar na envio de arquivos ou não vinculação do cadastro cadastro."
+    },
+    {
+      "startTime": 3718,
+      "endTime": 3724,
+      "speaker": "Diego Diehl",
+      "text": "Cara é para minha vinculação é a vinculação de cadastro olhando para cetim e que tem que ser é tipo"
+    },
+    {
+      "startTime": 3724,
+      "endTime": 3726,
+      "speaker": "Alejandro Olchik",
+      "text": "tá"
+    },
+    {
+      "startTime": 3726,
+      "endTime": 3741,
+      "speaker": "Diego Diehl",
+      "text": "Tecnicamente gera uma funcionalidade que estava funcional. Então na verdade é tipo um bug ou uma defasagem, ele não é uma coisa nova que a gente está desenvolvendo. Então é passar por essa rápido e voltar ao foco dos arquivos."
+    },
+    {
+      "startTime": 3744,
+      "endTime": 3783,
+      "speaker": "Alejandro Olchik",
+      "text": "Beleza eu vou botar outros para discutir mais para frente, tá que é. O que eu queria ter eu vou colocar aqui avaliação. avaliação A gente volta assim a gente para. avaliação da qualidade Das respostas mas mais para frente porque a gente tem que escalar né, mas depois a gente conversa com mais calma."
+    },
+    {
+      "startTime": 3783,
+      "endTime": 3786,
+      "speaker": "Alejandro Olchik",
+      "text": "calma. A gente pode ter métricas que"
+    },
+    {
+      "startTime": 3786,
+      "endTime": 3786,
+      "speaker": "Diego Diehl",
+      "text": "Acho que nossa tarefa então eu com"
+    },
+    {
+      "startTime": 3786,
+      "endTime": 3788,
+      "speaker": "Alejandro Olchik",
+      "text": "estão."
+    },
+    {
+      "startTime": 3790,
+      "endTime": 3804,
+      "speaker": "Diego Diehl",
+      "text": "João é implementar na eso e começar a ver o que acontece. Daí a gente faz sem organizando tendo visão do que falta como MVP mesmo assim só enviar o básico de resolver. fechou"
+    },
+    {
+      "startTime": 3804,
+      "endTime": 3806,
+      "speaker": "Alejandro Olchik",
+      "text": "Então tá fechamos."
+    },
+    {
+      "startTime": 3810,
+      "endTime": 3816,
+      "speaker": "Diego Diehl",
+      "text": "Valeu gente, valeu falou."
+    },
+    {
+      "startTime": 3816,
+      "endTime": 3818,
+      "speaker": "Alejandro Olchik",
+      "text": "Obrigado todo mundo até mais."
+    },
+    {
+      "startTime": 3818,
+      "endTime": 3819,
+      "speaker": "Victor Figueredo",
+      "text": "Obrigado tchau, tchau."
+    },
+    {
+      "startTime": 3819,
+      "endTime": 3819,
+      "speaker": "Joao Vitor",
+      "text": "Valeu pessoal"
+    }
+  ]
+}

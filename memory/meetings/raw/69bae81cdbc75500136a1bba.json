@@ -1,0 +1,40 @@
+{
+  "id": "69bae81cdbc75500136a1bba",
+  "happenedAt": "2026-03-18T18:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Paulo Deitos",
+      "email": "pd@cfgroup.com.br"
+    },
+    {
+      "name": "",
+      "email": "americo@unionproperties.com.br"
+    },
+    {
+      "name": "",
+      "email": "raphael@unionproperties.com.br"
+    },
+    {
+      "name": "",
+      "email": "eduardohalperin@duartegarcia.com.br"
+    }
+  ],
+  "name": "Duarte Garcia <> Captable <> Orulo <> Union Properties",
+  "duration": 3588.34,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69bae81cdbc75500136a1bba",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "rfd-bpqa-bun"
+  }
+}

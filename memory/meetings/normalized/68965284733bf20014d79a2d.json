@@ -1,0 +1,1826 @@
+{
+  "meeting_id": "68965284733bf20014d79a2d",
+  "name": "Estratégia Imob Conecta",
+  "happened_at": "2025-08-08T19:39:48.197Z",
+  "duration_seconds": 3740.223,
+  "duration_minutes": 62.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68965284733bf20014d79a2d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "xmb-xoos-xfv",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "689652869a8fd800133d9ed9",
+    "meetingId": "68965284733bf20014d79a2d",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 1,
+        "speaker": "Diego Diehl",
+        "text": "Fala Brunão"
+      },
+      {
+        "startTime": 2,
+        "endTime": 4,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não tranquilo"
+      },
+      {
+        "startTime": 4,
+        "endTime": 18,
+        "speaker": "Diego Diehl",
+        "text": "beleza Cara eu acho que a pisando vai querer me mostrar um negócio em Três minutinhos. dela passar rapidão, você pode ficar aí no multi ou Só porque?"
+      },
+      {
+        "startTime": 20,
+        "endTime": 20,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "beleza"
+      },
+      {
+        "startTime": 22,
+        "endTime": 23,
+        "speaker": "Carol Pizzano",
+        "text": "Oi gente, desculpa."
+      },
+      {
+        "startTime": 24,
+        "endTime": 25,
+        "speaker": "Diego Diehl",
+        "text": "fala"
+      },
+      {
+        "startTime": 26,
+        "endTime": 26,
+        "speaker": "Carol Pizzano",
+        "text": "Tudo bem."
+      },
+      {
+        "startTime": 28,
+        "endTime": 29,
+        "speaker": "Diego Diehl",
+        "text": "Vai lápis mande."
+      },
+      {
+        "startTime": 29,
+        "endTime": 65,
+        "speaker": "Carol Pizzano",
+        "text": "finalizou? tá"
+      },
+      {
+        "startTime": 65,
+        "endTime": 81,
+        "speaker": "Diego Diehl",
+        "text": "Direito ali esses da esquerda é feijãozinho com arroz, né dos dados. Normais aí o meu principal é o os da direita. É mais isso o meu principal é isso aí."
+      },
+      {
+        "startTime": 83,
+        "endTime": 84,
+        "speaker": "Carol Pizzano",
+        "text": "então eu"
+      },
+      {
+        "startTime": 85,
+        "endTime": 87,
+        "speaker": "Diego Diehl",
+        "text": "Que você considera como data de início?"
+      },
+      {
+        "startTime": 87,
+        "endTime": 91,
+        "speaker": "Carol Pizzano",
+        "text": "Coloco o início desde o momento da prospecção do R tá fechamento."
+      },
+      {
+        "startTime": 92,
+        "endTime": 92,
+        "speaker": "Diego Diehl",
+        "text": "Boa acho que seria legal ter a data."
+      },
+      {
+        "startTime": 92,
+        "endTime": 92,
+        "speaker": "Carol Pizzano",
+        "text": "tá"
+      },
+      {
+        "startTime": 95,
+        "endTime": 97,
+        "speaker": "Diego Diehl",
+        "text": "Que o SDR deu ganho."
+      },
+      {
+        "startTime": 99,
+        "endTime": 101,
+        "speaker": "Carol Pizzano",
+        "text": "tá"
+      },
+      {
+        "startTime": 101,
+        "endTime": 120,
+        "speaker": "Diego Diehl",
+        "text": "A gente vê quanto tempo esse deve ficou e quanto tempo closer ficou. fechado fonte do Lead nome do SDR pessoa responsável Aí é o Loser eu faço o local, né?"
+      },
+      {
+        "startTime": 120,
+        "endTime": 122,
+        "speaker": "Carol Pizzano",
+        "text": "É porque eu botei o título."
+      },
+      {
+        "startTime": 122,
+        "endTime": 122,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 126,
+        "endTime": 149,
+        "speaker": "Carol Pizzano",
+        "text": "De cada coluna de acordo como que tá também a planilha? Tá aí o que que eu quis trazer também aqui para você hoje? Tá de é primeiro essa coluna do id que traz o Card dentro do bitrix, tá e a outra coluna que eu quis acrescentar aqui também para a gente ter uma visualização é o valor da questão da taxa de implementação."
+      },
+      {
+        "startTime": 150,
+        "endTime": 150,
+        "speaker": "Diego Diehl",
+        "text": "Tá, beleza."
+      },
+      {
+        "startTime": 151,
+        "endTime": 154,
+        "speaker": "Carol Pizzano",
+        "text": "Para a gente saber também o quanto que tá vindo de taxa de implementação tá? Ok?"
+      },
+      {
+        "startTime": 155,
+        "endTime": 158,
+        "speaker": "Diego Diehl",
+        "text": "Tá e já centraliza, né?"
+      },
+      {
+        "startTime": 159,
+        "endTime": 170,
+        "speaker": "Carol Pizzano",
+        "text": "Isso já centraliza um outro ponto também importante que eu coloquei por mais que eu tenha o ID lá no final, eu coloquei o link de cada Card aqui também. tá"
+      },
+      {
+        "startTime": 172,
+        "endTime": 1690,
+        "speaker": "Diego Diehl",
+        "text": "nosso colo, né? Dando exemplo simples o trabalho que a gente vai fazer o que eu como passou a gente vai desenvolver um pouquinho cada mês então. Esse aí básico cheque boa o que que eu gostaria que a fonte do lítio fosse dividido em duas. É eu acho que eu quero."
+      },
+      {
+        "startTime": 1690,
+        "endTime": 270,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero uma estratificação ali para a gente poder rastrear. Oi Campos."
+      },
+      {
+        "startTime": 270,
+        "endTime": 270,
+        "speaker": "Carolina Campos",
+        "text": "Oi tudo bem?"
+      },
+      {
+        "startTime": 272,
+        "endTime": 273,
+        "speaker": "Diego Diehl",
+        "text": "tudo"
+      },
+      {
+        "startTime": 273,
+        "endTime": 273,
+        "speaker": "Carol Pizzano",
+        "text": "Oi"
+      },
+      {
+        "startTime": 274,
+        "endTime": 274,
+        "speaker": "Carolina Campos",
+        "text": "Boa tarde pessoal."
+      },
+      {
+        "startTime": 276,
+        "endTime": 278,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, daí a gente quebra na esquerda na direita."
+      },
+      {
+        "startTime": 279,
+        "endTime": 279,
+        "speaker": "Carol Pizzano",
+        "text": "tá"
+      },
+      {
+        "startTime": 280,
+        "endTime": 289,
+        "speaker": "Diego Diehl",
+        "text": "É em balde tipo que a gente deu um nome por exemplo em balde dias de saque. No outro desdobramento tem que ter algum nome."
+      },
+      {
+        "startTime": 290,
+        "endTime": 290,
+        "speaker": "Carol Pizzano",
+        "text": "tá"
+      },
+      {
+        "startTime": 290,
+        "endTime": 314,
+        "speaker": "Diego Diehl",
+        "text": "Ah esse cara sei lá, daí a gente descobre um pouco de um para a gente rastrear. Mas não precisa fazer isso agora tá? Vamos de conversa na semana que vem mais tranquilo sobre isso."
+      },
+      {
+        "startTime": 314,
+        "endTime": 323,
+        "speaker": "Carol Pizzano",
+        "text": "Tá tá eu vou compartilhar contigo, tá? Já fiz aqui algumas anotações junho julho como eu tinha combinado, mas eu vou tá eu vou colocar também essas colunas."
+      },
+      {
+        "startTime": 323,
+        "endTime": 324,
+        "speaker": "Diego Diehl",
+        "text": "Semana que vem a gente conversa."
+      },
+      {
+        "startTime": 324,
+        "endTime": 329,
+        "speaker": "Carol Pizzano",
+        "text": "Tá bom. Tchau gente boa reunião."
+      },
+      {
+        "startTime": 330,
+        "endTime": 330,
+        "speaker": "Diego Diehl",
+        "text": "valeu"
+      },
+      {
+        "startTime": 331,
+        "endTime": 333,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "99"
+      },
+      {
+        "startTime": 333,
+        "endTime": 344,
+        "speaker": "Diego Diehl",
+        "text": "deixou Eu vou abrir aqui. Observei para pensar em Mobi com a gente."
+      },
+      {
+        "startTime": 345,
+        "endTime": 346,
+        "speaker": "Carolina Campos",
+        "text": "Exato aí não tava ali na agenda. Mas como eu tinha visto, eu tô pensando em"
+      },
+      {
+        "startTime": 346,
+        "endTime": 346,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 348,
+        "endTime": 354,
+        "speaker": "Carolina Campos",
+        "text": "algumas coisas eu falei deixa eu entrar porque como é da conecta para conseguir participar"
+      },
+      {
+        "startTime": 356,
+        "endTime": 1539,
+        "speaker": "Diego Diehl",
+        "text": "A gente vai estar no conecta o público principal é corretores imobiliárias. A gente a z2a não tem nada para corretor Imobiliária hoje no ano passado eles tinham. Então a gente vai ter uma um grande volume de pessoas com uma oportunidade legal para a gente falar sobre Orlando oferecer algo para elas captar esses vídeos fazer alguma coisa."
+      },
+      {
+        "startTime": 1539,
+        "endTime": 407,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente vai ter que definir. E aí já vou falar na semana que vem o que que a gente vai falar para essas pessoas. Está aqui comigo Bruno."
+      },
+      {
+        "startTime": 407,
+        "endTime": 409,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "99"
+      },
+      {
+        "startTime": 409,
+        "endTime": 496,
+        "speaker": "Diego Diehl",
+        "text": "Para a gente ficar sintonizado na mesma página enquanto a gente cria o nosso Nossa campanha conecta. Vamos falar assim. Nossa o que que a gente vai fazer a mais tá tá claro tá aqui de boa."
+      },
+      {
+        "startTime": 496,
+        "endTime": 511,
+        "speaker": "Carolina Campos",
+        "text": "É eu tenho uma dúvida. Alguém já sabe eu tenho algum radar assim se vai ter participação da num Stop no conecta, talvez não com estande mas com algum outro tipo de abordagem. Vai ter algo da Remax assim?"
+      },
+      {
+        "startTime": 511,
+        "endTime": 514,
+        "speaker": "Diego Diehl",
+        "text": "Isso Calma. Vamos você tá? Só adiantando o segundo bloco que eu pensei em"
+      },
+      {
+        "startTime": 514,
+        "endTime": 555,
+        "speaker": "Carolina Campos",
+        "text": "tiver ali no conecta o seio os três primeiros meses dela vão ser grátis."
+      },
+      {
+        "startTime": 555,
+        "endTime": 1254,
+        "speaker": "Diego Diehl",
+        "text": "oferecer para Incorporadora tá em praça que a gente já atua e não é cliente é DL o que a gente vai oferecer para ela. A Incorporadora tá numa praça que é estratégica para gente mas a gente não tá que que a gente vai oferecer para ela. Aí Incorporadora está numa praça que não é prioritária, tipo assim é uma cidade de nada."
+      },
+      {
+        "startTime": 1254,
+        "endTime": 2171,
+        "speaker": "Diego Diehl",
+        "text": "Assim que que a gente vai oferecer para ela, então tá definindo essas coisas Incorporadora. Qual que é o objetivo principal, deixa eu dar um exemplo aqui? O da cara a gente quer maximizar performance automação dela. Então, daí a gente tava levantando coisas a gente vai para DL. Por exemplo, a gente vai dar Uma degustação gratuita ou não está decidindo que não que a gente vai fazer por sinal é só uma coisa Campos que depois a gente tem que ver Impacto."
+      },
+      {
+        "startTime": 2171,
+        "endTime": 1225,
+        "speaker": "Diego Diehl",
+        "text": "Ah vai dar vai trazer. Se a gente for trazer 80 clientes novos no próximo mês tem que ter um plano. de mercado. É zero custo para gente a gente pode oferecer para eles. Fechando agora mais de 20 exclusividades você ganha inteligência de mercado por seis meses. Pode ser um exemplo fechando."
+      },
+      {
+        "startTime": 1225,
+        "endTime": 2563,
+        "speaker": "Diego Diehl",
+        "text": "Agora você tem 50% de desconto exclusividade integrando agora você pega o São Paulo inteira por 997. Por 497 aí Bruno, é a gente pensar e aí o desafio ter o principal é pensar em Mobi. Eu nem quero te distrair muito com corretor, tá que é para corretores pode pensar junto no outro Brainstorm, mas o principal pensar em Mobi os produtos que você tem e que oferta você vai dar para quem tá lá."
+      },
+      {
+        "startTime": 2563,
+        "endTime": 831,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 831,
+        "endTime": 843,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "personas."
+      },
+      {
+        "startTime": 843,
+        "endTime": 848,
+        "speaker": "Diego Diehl",
+        "text": "Não tá aqui embaixo já Bruno. É para centralizar tudo aqui ó imobiliária."
+      },
+      {
+        "startTime": 849,
+        "endTime": 965,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "pronto. Ah, mas tá demora muito aí a liberação."
+      },
+      {
+        "startTime": 965,
+        "endTime": 966,
+        "speaker": "Diego Diehl",
+        "text": "Desafio é simplificar na real."
+      },
+      {
+        "startTime": 966,
+        "endTime": 997,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Desses ó a gente tá com um cadastro Express aqui para agilizar esse cadastramento. Enfim só para trazer algumas coisas que daí a gente pode até perguntar aí na próxima reunião que a gente tiver aí de deve, né para a semana para ver e alinhar antes disso. O que que a gente pode ter de diferencial e ver o que que o pessoal consegue nos ajudar nos entregar seja de leve e outra coisa financeiro também, né? Então tem algumas coisas que a gente vai pensar aqui que daqui a pouco a gente teria que alinhar e veio."
+      },
+      {
+        "startTime": 997,
+        "endTime": 1007,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tá. Tá legal, podemos trazer essa esse diferencial aí então só para falar que algumas coisas que a gente vai daqui a pouco tem que envolver outro outros times aí também."
+      },
+      {
+        "startTime": 1009,
+        "endTime": 2276,
+        "speaker": "Carolina Campos",
+        "text": "imóvel ali, talvez a gente esteja com desses ouro ou não Imóveis até para o Diego saber acho que esse treinamento aí na quarta-feira, vai ser muito legal é bem complexinho, principalmente para catálogo precificar tá então, por exemplo o cara ele vai lá, beleza? Eu quero o catálogo, tá? Mas quais Empreendimentos né? Qual tudo a gente tem que abrir uma trilhona lá, eu iria assim no caminho de mobi, cara, eu vou te dar o cupom, sei lá Bruno soquete, tá? Você tá aqui conversando comigo, você tem o cupom blusa que Cat vamos deixar já uma reunião agendada para a próxima semana, então a gente já faz um pós evento ali com eles e oferece tipo um desconto."
+      },
+      {
+        "startTime": 2276,
+        "endTime": 1081,
+        "speaker": "Carolina Campos",
+        "text": "Para exclusividades eu acho mais fácil fechar na hora tá? Mas é que Mobi. Ainda tem muito disso paradear é mais fácil, porque para adiar é um valor único um Preço Fixo Caraca, quantos Empreendimentos vai lá e tchau imóveis, tem que contar muitas mini coisinhas assim. Acho que isso vai vai."
+      },
+      {
+        "startTime": 1081,
+        "endTime": 1083,
+        "speaker": "Diego Diehl",
+        "text": "Desafio é simplificar na real."
+      },
+      {
+        "startTime": 1083,
+        "endTime": 1084,
+        "speaker": "Carolina Campos",
+        "text": "exato"
+      },
+      {
+        "startTime": 1084,
+        "endTime": 1089,
+        "speaker": "Diego Diehl",
+        "text": "Dá para ir para reunião, eu gostei, eu gostei todos. Você quer continuar aí Bruno? Na verdade? Você compartilhou?"
+      },
+      {
+        "startTime": 1093,
+        "endTime": 1096,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não até desculpa Campus, mas só aproveitei para ir compartilhar enquanto ia"
+      },
+      {
+        "startTime": 1096,
+        "endTime": 1097,
+        "speaker": "Carolina Campos",
+        "text": "Ela já ela deu bastante resultado e foi o resultado bem legal."
+      },
+      {
+        "startTime": 1097,
+        "endTime": 1161,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "empreendimentos. Já trouxe algumas opções aqui para a gente já ir pensando. E isso coisas. Exato exato até aqui até a gente já tem os cardzinhos aqui da Black a gente"
+      },
+      {
+        "startTime": 1161,
+        "endTime": 1161,
+        "speaker": "Diego Diehl",
+        "text": "Voltei."
+      },
+      {
+        "startTime": 1161,
+        "endTime": 1166,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "pode utilizar. beleza"
+      },
+      {
+        "startTime": 1173,
+        "endTime": 1176,
+        "speaker": "Carolina Campos",
+        "text": "O jeito é?"
+      },
+      {
+        "startTime": 1179,
+        "endTime": 1182,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tô compartilhando."
+      },
+      {
+        "startTime": 1182,
+        "endTime": 1182,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1183,
+        "endTime": 1272,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "divulgação da promoção do Black o ano passado Ah, tu vai ganhar a inteligência de mercado tu vai ganhar o hotsite enfim."
+      },
+      {
+        "startTime": 1272,
+        "endTime": 1277,
+        "speaker": "Diego Diehl",
+        "text": "Só que a gente de mercado que você deu aquela de graça na real, né?"
+      },
+      {
+        "startTime": 1277,
+        "endTime": 1290,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Mas é aí que tá a inteligência de mercado. Já algum tempo já algum tempo não já deu esse ano todo aí mesmo ano passado, eu já estou utilizando ela como argumento para fechar. um plano pago se tá"
+      },
+      {
+        "startTime": 1290,
+        "endTime": 1293,
+        "speaker": "Diego Diehl",
+        "text": "Mas é gratuita, né? Que já é gratuito é que é fake, né? Isso aí não é de verdade."
+      },
+      {
+        "startTime": 1293,
+        "endTime": 1334,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "estratégia de deixar inteligência de mercado para incentivar o cara a contratar um plano porque assim Diego eu vejo não só a questão assim."
+      },
+      {
+        "startTime": 1334,
+        "endTime": 1341,
+        "speaker": "Diego Diehl",
+        "text": "Não o Bruno isso daí já não tá funcionando a gente divulga nos treinamentos inteligência de mercado entrega para todo mundo."
+      },
+      {
+        "startTime": 1341,
+        "endTime": 1344,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não não OK. OK isso daí tipo."
+      },
+      {
+        "startTime": 1344,
+        "endTime": 1346,
+        "speaker": "Diego Diehl",
+        "text": "Mas há de verdade a de verdade."
+      },
+      {
+        "startTime": 1347,
+        "endTime": 1364,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "A gente vai te dar inteligência de mercado que a gente cobra para o plano pago, mas a gente vai te dar isso até é bom para a gente até alinhado a gente para ele se sentir um cara especial esse aqui inteligente mercado a gente dá para quem é contratante, pô, mas eu tô aqui com uma reunião com vocês aqui."
+      },
+      {
+        "startTime": 1364,
+        "endTime": 1383,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Vocês são especiais para nós tu vai fazer e sentir especial, mas eu acho que como estratégia comercial aqui para immob, a gente tem que manter de deixar a inteligência de mercado para porque assim o cara que é gratuito da mesma forma por 50 reais para ele ter um plano pago de de catálogo, entendeu? E outra incentivo o cara aí, ele tá mais engajado na ferramenta."
+      },
+      {
+        "startTime": 1383,
+        "endTime": 1384,
+        "speaker": "Diego Diehl",
+        "text": "Você Tá misturando só uma coisa para gente eu não agora eu até não queria"
+      },
+      {
+        "startTime": 1384,
+        "endTime": 1387,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tem muita gente perguntando gratuito que deixa lá e nem."
+      },
+      {
+        "startTime": 1391,
+        "endTime": 1416,
+        "speaker": "Diego Diehl",
+        "text": "discutir. Qual que é o futuro do imob só para a gente não misturar eu quero discutir. De que forma a gente vai conseguir ser agressivo estratégico por conecta. Só para te dar um contexto a hora ele já tem um perfil de fechar de cobrar de não dar isso. A gente vai ter a gente consegue ter fácil logo em seguida do conecta."
+      },
+      {
+        "startTime": 1416,
+        "endTime": 1437,
+        "speaker": "Diego Diehl",
+        "text": "Acho que o é O expandir aproveitar o volume o volume do conecta volume, tá então do que eu entendi, tá? A gente pode a gente tem um catálogo para negociar de alguma forma que a gente quiser, eu gostei da tua ideia do Preço. Fixo ali, você tá aqui comigo Bruno."
+      },
+      {
+        "startTime": 1441,
+        "endTime": 1446,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu tiro o áudio aqui porque muitas vezes o alto-falante ele é muito próximo. E aí para não não vier."
+      },
+      {
+        "startTime": 1448,
+        "endTime": 1474,
+        "speaker": "Diego Diehl",
+        "text": "Tá que eu tô conversando com você, teu olho vai de um lado para o outro para o outro. Daí até ela ficar claro deve ficar escuro não. plano pago catálogo a gente tem opção Exclusividades a gente tem opção de ter uma promoção. Inteligência de mercado a gente pode entregar? Tem mais algo que eu não falei."
+      },
+      {
+        "startTime": 1476,
+        "endTime": 1479,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "O hotsite né? O hotsite a gente a gente divulgava ele como gratuito, mas acho."
+      },
+      {
+        "startTime": 1479,
+        "endTime": 1482,
+        "speaker": "Diego Diehl",
+        "text": "A gente está tendo ruído, deixa eu conduzir a reunião rapidinho, está tendo"
+      },
+      {
+        "startTime": 1482,
+        "endTime": 1494,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Que não tá mas assim até desculpa voltar nesse tema porque hoje ele não é nem futuro. Ele é presente a gente já bastante tempo utiliza ele como estratégia para fechar plano pago e inteligente."
+      },
+      {
+        "startTime": 1494,
+        "endTime": 1501,
+        "speaker": "Carolina Campos",
+        "text": "Não a gente não tem isso."
+      },
+      {
+        "startTime": 1501,
+        "endTime": 2328,
+        "speaker": "Diego Diehl",
+        "text": "O que eu tô dizendo Bruno, é que você hoje usa como argumento de fechamento dar uma inteligência de mercado. Que ela foi feita para entregar de forma gratuita e os sócios locais, por exemplo nas praças a gente vai nas imobiliárias e divulga o link desse dessa inteligência de mercado para todo mundo e é aberto."
+      },
+      {
+        "startTime": 2328,
+        "endTime": 3271,
+        "speaker": "Diego Diehl",
+        "text": "É só isso que eu quis dizer. Você pode continuar usando eu tô ligado, você já usa continua e faça faça continue. O que é o que daí a minha visão de teste para o conecta? A gente daí do que eu tô percebendo na rua no mercado, tá? Hoje eu até não sei se dado tá quantas imobiliárias hoje pagam Nossa inteligência de mercado."
+      },
+      {
+        "startTime": 3271,
+        "endTime": 1555,
+        "speaker": "Diego Diehl",
+        "text": "Entendeu aí?"
+      },
+      {
+        "startTime": 1555,
+        "endTime": 1564,
+        "speaker": "Carolina Campos",
+        "text": "igual ele vai achar que ele tá ganhando alguma coisa."
+      },
+      {
+        "startTime": 1564,
+        "endTime": 1760,
+        "speaker": "Diego Diehl",
+        "text": "Exclusividade então catálogo pago eu gostei do Preço Fixo Bruno. Acho que podia até lá cara, você pode pegar sei lá qualquer Praça até uma pergunta, quanto que a gente fatura de catálogo pago em São Paulo hoje. 5 10 ou 30 mil"
+      },
+      {
+        "startTime": 1760,
+        "endTime": 1761,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "em que"
+      },
+      {
+        "startTime": 1762,
+        "endTime": 1762,
+        "speaker": "Diego Diehl",
+        "text": "Lá de São Paulo."
+      },
+      {
+        "startTime": 1763,
+        "endTime": 1764,
+        "speaker": "Carolina Campos",
+        "text": "Tá não chega nisso."
+      },
+      {
+        "startTime": 1765,
+        "endTime": 1766,
+        "speaker": "Diego Diehl",
+        "text": "Chega o que 5 10. Olha a minha língua."
+      },
+      {
+        "startTime": 1766,
+        "endTime": 1768,
+        "speaker": "Carolina Campos",
+        "text": "Ele está em torno de 5 no máximo, mas não mês."
+      },
+      {
+        "startTime": 1772,
+        "endTime": 1781,
+        "speaker": "Diego Diehl",
+        "text": "A gente fatura quanto que o cara paga para ter acesso ao que ele quiser em São Paulo. Vai dar quanto?"
+      },
+      {
+        "startTime": 1783,
+        "endTime": 1784,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "São Paulo tá em 8 mil"
+      },
+      {
+        "startTime": 1785,
+        "endTime": 1785,
+        "speaker": "Carolina Campos",
+        "text": "Essa que aí isso tudo interfere no time de integração, tá?"
+      },
+      {
+        "startTime": 1785,
+        "endTime": 1822,
+        "speaker": "Diego Diehl",
+        "text": "897 tá tudo liberado para você. Aí o cara escolhe o que ele quer, depois a gente fecha na hora porque ele não precisa escolher para a gente fazer precificar pode falar que 897. Ah, mas isso não sei o quê cara para o conecta."
+      },
+      {
+        "startTime": 1822,
+        "endTime": 1839,
+        "speaker": "Carolina Campos",
+        "text": "Então, por exemplo se eu libero 8000 ou 800 o time de integração tem um trabalho muito longo para poder fazer essas liberações para poder integrar. Então isso tem que passar por outro time também tá Diego, eu entendo aqui sua visão de ai pro conecta, só que por exemplo tem coisas que vão impactar"
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1839,
+        "speaker": "Diego Diehl",
+        "text": "Mas tudo que eu tô falando que a gente vai ter que validar outras áreas Campos"
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1839,
+        "speaker": "Carolina Campos",
+        "text": "outras áreas."
+      },
+      {
+        "startTime": 1842,
+        "endTime": 1892,
+        "speaker": "Diego Diehl",
+        "text": "gente experimentar dar um sprint com os times. É ser agressivo com os times é fazer algo algo fora do comum. E não ah não o prazo É que 15 dias não o time do Fernando se organiza para dois dias, você dá a vazão a um alto volume e foca nisso para resolver a gente ter um serviço excelente com a galera e não andar conforme anda, tá bom?"
+      },
+      {
+        "startTime": 1892,
+        "endTime": 1895,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu só acho que daí tem que ter um alinhamento de expectativa assim bem bem"
+      },
+      {
+        "startTime": 1895,
+        "endTime": 1896,
+        "speaker": "Diego Diehl",
+        "text": "Deixa comigo."
+      },
+      {
+        "startTime": 1896,
+        "endTime": 1907,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "certa assim, né? Para chegar aí, ó, porque depois é aquela coisa a gente vai comer. Pode prometer uma coisa lá pro pro cliente e não entregar. Então tem que estar bem alinhado essas expectativas com"
+      },
+      {
+        "startTime": 1907,
+        "endTime": 1946,
+        "speaker": "Diego Diehl",
+        "text": "Que era só mandar os comandos certo que ele e daí estabilizar. Fala de novo o Bruno, não escutei ali o que você falou por último o alinhamento com as áreas para ver as viabilidades."
+      },
+      {
+        "startTime": 1946,
+        "endTime": 1972,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Alinhamento com as áreas antes da gente da gente ver o que que eles conseguem entregar eu acho não Ok vamos ver o que que a gente consegue agilizar das outras áreas que a gente Depende de ter uma maioridade algo especial que a gente consiga fazer então por isso que eu já trouxe até lá no início lá tem coisas que a gente vai ter ideias aqui que são ótimas, mas que daqui a pouco vai barrar um financeiro ou uma integração técnica, né?"
+      },
+      {
+        "startTime": 1972,
+        "endTime": 1993,
+        "speaker": "Diego Diehl",
+        "text": "É isso é isso que eu quero testar os limites aí tem muita coisa aqui do nada. Ah, não dá não dá não dá investiga um pouco mais e às vezes dá. Mas é quem quem sabe se dá ou não dá vai ver ou não. Vê é o responsável da área."
+      },
+      {
+        "startTime": 1993,
+        "endTime": 2013,
+        "speaker": "Diego Diehl",
+        "text": "Eu perguntei para Alejandro, qual seria o custo da gente liberar as integrações e tal então por exemplo uma coisa que eu avaliaria Bruno ou Se é muito grande. Liberação Paulo olha só não importa. Tipo assim, o ponto não é falar de São Paulo que libera tudo gera um trabalho gigantesco."
+      },
+      {
+        "startTime": 2013,
+        "endTime": 2032,
+        "speaker": "Diego Diehl",
+        "text": "O cara não vai nem usar o ponto é? Que eu tô na internet. Deixa eu trocar de internet aqui, só deixa eu trocar de internet que a gente Alô Aí voltei. Um exemplo Bruno ou exemplo não que que eu vou solicitar para você que é premissa para o conecta."
+      },
+      {
+        "startTime": 2032,
+        "endTime": 2070,
+        "speaker": "Diego Diehl",
+        "text": "algo que algo que é simples de explicar extremamente agressivo em preço Então qual que é a quantidade de produtos que o cara vai pegar em São Paulo, será? p*** é mil produtos. sairia 10 mil reais Então, vou fazer por 997 mil produtos aí o cara depois escolhe o meu produto não sei mas alguma coisa daí a gente integra já correr no São Paulo inteiro não o cara tem que voltar a planilha lá com os produtos que ele quer para os bairros que ele quer, mas algo que seja fora do normal da nossa negociação."
+      },
+      {
+        "startTime": 2070,
+        "endTime": 2093,
+        "speaker": "Diego Diehl",
+        "text": "Para a gente poder lá o cara que tá no conecta sentir que cara ele foi e ele p*** se ele seguir aquela negociação que ele se empolgou com a gente, ele vai ter um benefício muito grande e foi uma sorte ele ter encontrado a gente lá se ele ligasse para a gente aqui, ele não teria isso."
+      },
+      {
+        "startTime": 2093,
+        "endTime": 2096,
+        "speaker": "Diego Diehl",
+        "text": "É nessa linha, daí a gente avalia as viabilidades."
+      },
+      {
+        "startTime": 2098,
+        "endTime": 2129,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Acho que tu trouxe algo que eu concorrem em relação a ser algo simples. E agressivo ao mesmo tempo então por isso como por exemplo a questão da M robusta que a gente tem a gente sabe, ela é muito voltada para desenvolvimento Imobiliário para Incorporadora. Então tem que ver bem o perfil que a gente que vai despertar e vai ter valor para uma imobiliária grande, por exemplo."
+      },
+      {
+        "startTime": 2129,
+        "endTime": 2118,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não"
+      },
+      {
+        "startTime": 2118,
+        "endTime": 2122,
+        "speaker": "Diego Diehl",
+        "text": "Eu apresento"
+      },
+      {
+        "startTime": 2122,
+        "endTime": 2133,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "vai fazer tanto sentido, mas só para a gente dosar identificar um perfil e ver para qual perfil que a gente consegue trazer determinado diferencial."
+      },
+      {
+        "startTime": 2134,
+        "endTime": 2153,
+        "speaker": "Diego Diehl",
+        "text": "Tá sobre Imobiliária todas que eu vou e abro os caras piram Nisso, porque eles não têm formas de demonstrar a rentabilidade do imóvel. Eles não tem formas de mostrar que o preço no bairro subiu. Eles não têm formas de dizer que os produtos nessa região são extremamente líquidos e vendem seis meses."
+      },
+      {
+        "startTime": 2153,
+        "endTime": 2173,
+        "speaker": "Diego Diehl",
+        "text": "Eles não tem formas hoje a gente tem e não entrega para eles a Incorporadora tem deveria entregar mas o comercial não tem maturidade de fazer isso chegar na imobiliária. Só novos negócios que usa no geral. E o detalhe Bruno até não é nem tão longe é tipo assim. Para agora para a gente fazer um teste."
+      },
+      {
+        "startTime": 2173,
+        "endTime": 2204,
+        "speaker": "Diego Diehl",
+        "text": "Abrir liberar. Tem um custo gigante para gente. Não é o acesso de um. Não tem então tem algum impeditivo. Se você descobrir um me avisa, se não não tem então eu tô querendo quebrar paradigmas porque eu tô batendo. Já faz um ano Felipe barra toda hora daí eu vou vou vou ah, olha só deu certo, pois é, deu certo, cara, para que ser tão rígido, para que ser tão ah não mas assim essa inteligência de mercado vale muito tá? Quanto que estão pagando para a gente hoje nada."
+      },
+      {
+        "startTime": 2204,
+        "endTime": 2226,
+        "speaker": "Diego Diehl",
+        "text": "Não tem uma imobiliária pagando inteligência de mercado, então não vale p**** nenhuma. Se eu conseguir acrescentar 200 reais no Ticket médio nosso 300 que ajude você a fechar e transformar a receita de São Paulo de cinco para 20 k. Valeu para caramba, desde que o time de integração suporte financeiro suporte, então eu tô provocando assim só para a gente."
+      },
+      {
+        "startTime": 2226,
+        "endTime": 2245,
+        "speaker": "Diego Diehl",
+        "text": "Talvez a gente vá longe e volte, mas não que a gente vá pouco. E aí não tenha certeza se podia ir mais né? Por exemplo o cara que fechar no conecta. Ah, mas eu não preciso dar inteligência em mercado não, mas eu quero que dê eu quero espalhar. Nossa inteligência de mercado pelo mercado."
+      },
+      {
+        "startTime": 2245,
+        "endTime": 2266,
+        "speaker": "Diego Diehl",
+        "text": "Nem que a gente dê por três meses ou por seis meses, depois a gente tira vai que eles apresentam para outra Incorporadora que não conhece da gente. Vai lá e fecha o de ar, entendeu? É isso que tá acontecendo é uma estratégia tipo. Não é sobre cobrar só da imob ela mostra para outra Incorporadora, ela conta a vantagem para incorporador."
+      },
+      {
+        "startTime": 2266,
+        "endTime": 2292,
+        "speaker": "Diego Diehl",
+        "text": "Olha o que eu tenho aqui. Ó que era só para incorporadoras. Eu tenho acesso, caramba, não sabia daí vira cliente para gente então. É inteligência de mercado, eu queria que você pudesse já pensassem vamos entregar para quem tiver no Connect e quiser nos pagar. E só inteligência de mercado de São Paulo para quem não é Incorporadora, quanto é é quase da escala uns sete k também né? Vocês estão ligado esse preço, né?"
+      },
+      {
+        "startTime": 2294,
+        "endTime": 2314,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "inteligência de mercado que apresenta faz o comercial é incorp Né, a gente que eu até falo assim naquele sentido de que? Se tiver que já pagam valor grande vão ver que a gente tá dando de graça. Por isso eu para mim Maravilha. Pô, meu time top uma receita aqui dando inteligente mercado para ele."
+      },
+      {
+        "startTime": 2314,
+        "endTime": 2322,
+        "speaker": "Diego Diehl",
+        "text": "Você entendeu errado, eu não tô dando de graça. É só quem for pagar. Não tô dando de graça."
+      },
+      {
+        "startTime": 2322,
+        "endTime": 2330,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "De graça de graça na percepção por exemplo do incorporador que que descobri isso que tá pagando o valor cheio digamos assim."
+      },
+      {
+        "startTime": 2330,
+        "endTime": 2330,
+        "speaker": "Diego Diehl",
+        "text": "aí aí"
+      },
+      {
+        "startTime": 2331,
+        "endTime": 2338,
+        "speaker": "Carolina Campos",
+        "text": "É porque até hoje Diego o plano de m era um plano destinado para Incorporadora Imobiliária, agora é uma novidade que vai ser validada a gente vai entender o"
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2339,
+        "speaker": "Diego Diehl",
+        "text": "E sempre vai ser."
+      },
+      {
+        "startTime": 2345,
+        "endTime": 2365,
+        "speaker": "Carolina Campos",
+        "text": "que faz sentido ou que não faz para poder fazer essa liberação também a preocupação do Bruno é eu tô lá falando com um cara eu vou falar assim, olha eu vou te dar o m do nada Óbvio isso não é bem difícil de acontecer tá o cara lá, sei lá dá vértices que o cara vai lá ele paga três pau, só de m hoje ele vai falar posso tá dando para o cara."
+      },
+      {
+        "startTime": 2365,
+        "endTime": 2376,
+        "speaker": "Carolina Campos",
+        "text": "Aí eu pago três pausa para poder ter essa SM, entendeu? Então é mais ou menos nesse ponto aqui de resguardar e tentar entender. Quais são os pratos importantes para dar sem poder dar tiro no escuro, entendeu?"
+      },
+      {
+        "startTime": 2376,
+        "endTime": 2397,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito e essa diferença do comercial agressivo e não agressivo. É isso é quando o comercial pode sem querer travar pelo risco. E ele arrisca. E aí a gente vai avaliar esses riscos então uma frase que não pode sair Bruno da nossa boca, nunca é que a gente está dando e m nunca nunca."
+      },
+      {
+        "startTime": 2397,
+        "endTime": 2425,
+        "speaker": "Diego Diehl",
+        "text": "Tipo, a gente tá dando a gente tá vendendo por 997 por 497 algo que é custar cinco k de m para quem não é Incorporadora, mas cinco cara e catálogo pago para quem Imobiliária e só no conecta por um ano vai ser sei lá 500 ou r$ 900 é esse o plano que a gente tem que montar Ah, mas e a outra lá o m Não cara, você é uma imobiliária."
+      },
+      {
+        "startTime": 2425,
+        "endTime": 2449,
+        "speaker": "Diego Diehl",
+        "text": "Não você não é Imobiliária não tem nenhuma imobiliária que me paga hoje a sua empresas que usam os nossos dados para inteligência de mercado não daí aquele preço lá. Ah você é uma imobiliária você vai divulgar exclusividade, você vai integrar o catálogo pago e eu vou poder dar um treinamento para o teu time de órgão e você consegue entrar no nosso plano aqui."
+      },
+      {
+        "startTime": 2449,
+        "endTime": 2475,
+        "speaker": "Diego Diehl",
+        "text": "que a gente tem por 997, catálogo, exclusividade e m Seja bem-vindo. Ah não não sou Imobiliária. Então esse preço aqui teu tem 50% de desconto hoje era 5k vai ser 2.500. Daí faz também um para empresa que vai querer. Nossa inteligência de mercado um desconto no conecta é outro público, a gente vai amarrando se aparecer um risco a gente ajusta o pit para que o do lado."
+      },
+      {
+        "startTime": 2475,
+        "endTime": 2508,
+        "speaker": "Diego Diehl",
+        "text": "Entenda que certa forma coerente. Tá o que eu Bruno? O que que eu preciso, tá? É que você visualiza primeiro óbvio. Imobiliária que tá em praça que a gente já é Marketplace tá é um plano agressivo para catálogo pago. E aí pensa em oferecer dar os produtos de renda de São Paulo? Tipo, cara, você vai poder escolher sem produtos ali de estúdio e tal que uma galera do Brasil compra isso aí vai valer para Imobiliária, tudo que é lugar, você pode pegar 100 Empreendimentos."
+      },
+      {
+        "startTime": 2508,
+        "endTime": 2531,
+        "speaker": "Diego Diehl",
+        "text": "Que é investidor que compra e tem investidor do Brasil inteiro que compra São Paulo que é o catálogo? A exclusividade o cara aqui quiser, por exemplo catálogo exclusividade, dá para a gente pôr o imi junto. Ou só o cara que quer catálogo dá para a gente pôr o iene junto, tipo ó, se você pegar mais de 200 produtos."
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2563,
+        "speaker": "Diego Diehl",
+        "text": "É x e vem com inteligência de mercado. Pensar nos combinhos ali para imóveis agressivo. E aí sempre o modelo de tanto por tanto então de 12 mil reais por 997. O indicador principal é 10 vezes mais. Que daí Óbvio Às vezes a gente dá uma bota o preço do m para quem é? Empresa de dados não vai pôr o de Incorporadora que é sete calar e vai estar no ponto aqui que vai somar lá 7k no nosso plano da gente."
+      },
+      {
+        "startTime": 2563,
+        "endTime": 2575,
+        "speaker": "Diego Diehl",
+        "text": "Deixa agressivinho aí vai fazer um template disso daí. E vai imprimir lá para estar na nossa mão no dia lá para ficar fácil, tá? Tipo um cardzão assim. com QR Code até"
+      },
+      {
+        "startTime": 2577,
+        "endTime": 2588,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "A de repente até tô pensando de repente pode fazer mais sentido QR. Code algum tipo de que um impresso que daqui a pouco ele vai nos cobrar a imprensa no ano que vem e esse plano aqui."
+      },
+      {
+        "startTime": 2588,
+        "endTime": 2603,
+        "speaker": "Diego Diehl",
+        "text": "Olá o risco eu boto um asterisco. Eu boto asterisco, vale para o conecta 2025 você vê que tá um padrão nosso pensar em risco, cara. A gente não é um hospital que vai morrer alguém vamos traz o risco que você"
+      },
+      {
+        "startTime": 2603,
+        "endTime": 2604,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Vamos para cima."
+      },
+      {
+        "startTime": 2604,
+        "endTime": 2617,
+        "speaker": "Diego Diehl",
+        "text": "trouxer, traz o risco de metido isso. Ah, mas daí o cara vai tirar foto f***-se. f***-se a internet agora tô pagando 99 Se o cara que o cara que tava morando esse prédio aqui pagava 159."
+      },
+      {
+        "startTime": 2620,
+        "endTime": 2636,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Eu para mim assim ó, o que a gente conseguia aprovar e trazer por mais aquele que seja. Bora mama, é só isso. Só só Tô levantando essas árvores para a gente já ir pensando aqui até onde que a gente pode ir, mas acho ótimo a gente."
+      },
+      {
+        "startTime": 2638,
+        "endTime": 2643,
+        "speaker": "Diego Diehl",
+        "text": "Valeu, viu. Obrigado mano pelo serviço. Qualquer coisa eu te ligo, viu? Obrigadão. Valeu, tchau. Tchau. Oi."
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2663,
+        "speaker": "Carolina Campos",
+        "text": "A gente faz levanta ali os pacotes faz um Brainstorm legal aqui, depois a gente preenche ele na planilha ali para o Diego para dar levantamento e envolve as outras áreas com seu impactadas. E aí depois a gente pensa isso, mas não se preocupa você com isso agora tá a gente pensa ali no pacote."
+      },
+      {
+        "startTime": 2663,
+        "endTime": 2674,
+        "speaker": "Carolina Campos",
+        "text": "Depois a gente vai conseguir envolver todo mundo e aí cada área vai falar isso é possível isso não é possível ou isso é possível até x volume nesse volume. Eu não atendo mais."
+      },
+      {
+        "startTime": 2674,
+        "endTime": 2692,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito você Bruno agora a provocação É pensa longe. Tem bastante gente para pensar risco. Todas as áreas que estão em volta comercial já penso em tudo que é risco que é problema que vai dar que vai sobrecarregar sistema que vai galar que não sei o quê que não sei o quê comercial relação com Incorporadora, É eu mesmo que avalia o risco."
+      },
+      {
+        "startTime": 2692,
+        "endTime": 2708,
+        "speaker": "Diego Diehl",
+        "text": "Ah, mas é Incorporadora não vai isso. Daí eu avalio com calma. Daí o cara da inteligência do mercado também sou eu. Ah, mas o cara não vai achar isso. Daí a gente bota um asterisco. Bota sei lá, o que importa a gente ser agressivo conseguir fechar bons negócios comprovar um roi para no ano que vem."
+      },
+      {
+        "startTime": 2708,
+        "endTime": 2715,
+        "speaker": "Diego Diehl",
+        "text": "A gente tá lá no conecta de novo. Daí com estande da hora que vai fechar negócio que vai ser bacana que vai ganhar coisas aí para acessar, tá?"
+      },
+      {
+        "startTime": 2717,
+        "endTime": 2734,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "A Remax é patrocinadora Master tá então. Provavelmente vão estar em peso e não vi nada deles ali, mas ah possível que pelo menos já vão estar lá, talvez não."
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2736,
+        "speaker": "Carolina Campos",
+        "text": "E ainda Provavelmente eu acho que é Max aí meio que apresentaram uma"
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2741,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2741,
+        "endTime": 2743,
+        "speaker": "Carolina Campos",
+        "text": "ferramenta oficial deles. Confiando mas isso a gente Traz ele para outro tópico."
+      },
+      {
+        "startTime": 2743,
+        "endTime": 2761,
+        "speaker": "Diego Diehl",
+        "text": "Tá a coisa junto então pensando nisso. Seria bom a gente tentar levantar um dois três principais diferenciais que a gente entrega em relação ao stop. Por exemplo."
+      },
+      {
+        "startTime": 2761,
+        "endTime": 2766,
+        "speaker": "Carolina Campos",
+        "text": "A gente já tá levantando de estar com uma pessoa exclusiva para a gente estar"
+      },
+      {
+        "startTime": 2766,
+        "endTime": 2766,
+        "speaker": "Diego Diehl",
+        "text": "ela"
+      },
+      {
+        "startTime": 2772,
+        "endTime": 2790,
+        "speaker": "Carolina Campos",
+        "text": "levantando toda a diferenciação entre as ferramentas hoje querendo ou não que diferenciar a gente ali da no stop. Por enquanto é audiência é o volume de acessos que tem dentro da hora nos demais, cara. Não Stop, tá ganhando muito da gente. Então a gente vai ter que pensar em um plano bem legal ali para poder levar para poder virar."
+      },
+      {
+        "startTime": 2790,
+        "endTime": 2826,
+        "speaker": "Carolina Campos",
+        "text": "E lá se eles tiverem lá com essa pegada que eu tô imaginando eles vão ser de graça ali para todo mundo, né? Como já é hoje e a gente tem que pensar como que a gente transforma isso, talvez para mim a melhor maneira ali para trabalhar em Mobi no conecta é não cobrar nenhum valor nos primeiros meses e validar, o que que o cara tem para entregar ou não fazer uma coisa mais rápida ali com eles é testar se vai ter alguma possibilidade deles conseguirem fazer o cigarro cadastrar que acho que é isso que é mais importante para eles eu falo de Experiência própria eu que tô cuidando da curadoria dos Empreendimentos gente é coisa para c******."
+      },
+      {
+        "startTime": 2826,
+        "endTime": 2843,
+        "speaker": "Carolina Campos",
+        "text": "Tá faço todo dia de manhã, ele quase 40 minutos olhar um por um preencher tudo ver. Se foto tá certa. Cara. Isso dá mal trabalhando, eles têm que fazer esse trabalho lá para a gente reavaliar aqui e na noite dizendo que vai sozinho, então a gente tem que pensar como que a gente vai dobrar isso."
+      },
+      {
+        "startTime": 2846,
+        "endTime": 2859,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Aí vindo a questão do agressivo de eu acho que a linha exclusividade realmente se a gente quiser bater de frente, a gente vai ter que pensar algo bem agressivo, né para as coisas pelo menos para o conecta ali que vai ter um concorrente direto ali falando com muita re."
+      },
+      {
+        "startTime": 2859,
+        "endTime": 2881,
+        "speaker": "Diego Diehl",
+        "text": "Sabe o que que eu vou dar uma ideia de agressivo, tá? É a gente é maior plataforma de móveis novos do Brasil hoje. Sei lá, quantas imobiliárias integrais a gente fala 3000 lá tá na nossa apresentação 3 mil imobiliárias integrados. E para o conecta quem se integrar quem se cadastrar Vai ter até 200 exclusividades gratuitas."
+      },
+      {
+        "startTime": 2881,
+        "endTime": 2907,
+        "speaker": "Diego Diehl",
+        "text": "É isso que se bate de frente num go to Market de alguém que está crescendo aí a p*** daí vai gerar 5 mil exclusividades sim, daí a Campos abre uma vaga este contrato uma pessoa para fazer isso vai nos custar uma pessoa para tentar matar num stop. Mas não fizer isso se esperar o deve fazer um negócio para outro cadastro já foi seis meses."
+      },
+      {
+        "startTime": 2907,
+        "endTime": 2925,
+        "speaker": "Diego Diehl",
+        "text": "A gente já perdeu cada dia que passa a gente perde Às vezes a solução para amanhã é contratar um estagiário. Campus ensino estagiário se O estagiário passar o dia inteiro até uma pergunta Campos ou estagiário que passasse o dia inteiro validando isso daí quantas exclusividades ele validaria"
+      },
+      {
+        "startTime": 2926,
+        "endTime": 2940,
+        "speaker": "Carolina Campos",
+        "text": "É acho que ele nem questão de exclusividade que é exclusividade. O cara tem que subir para a gente só fazer uma aprovação, tá? Então de qualquer jeito já tem um alto cadastro que é feito ali pelo time do Fernando. Então isso teria que validar com o time do Fernando quanto que sairia para isso aí já"
+      },
+      {
+        "startTime": 2940,
+        "endTime": 2940,
+        "speaker": "Diego Diehl",
+        "text": "É isso."
+      },
+      {
+        "startTime": 2941,
+        "endTime": 2943,
+        "speaker": "Carolina Campos",
+        "text": "não seria uma coisa que dá imóvel é uma coisa técnica."
+      },
+      {
+        "startTime": 2944,
+        "endTime": 2962,
+        "speaker": "Diego Diehl",
+        "text": "Se tiver um Fernando se por um cara só para cadastrar quanto você cadastraria? Cara cinco mil exclusividades no mês p*** já era vai custar um estagiário a gente bater de frente quando o stop hoje. Pelo menos um emergencial, né? A gente pode pensar em algo assim."
+      },
+      {
+        "startTime": 2962,
+        "endTime": 2967,
+        "speaker": "Carolina Campos",
+        "text": "É que na verdade o cara na mão Stop ele se auto cadastra e essa experiência"
+      },
+      {
+        "startTime": 2967,
+        "endTime": 2979,
+        "speaker": "Diego Diehl",
+        "text": "então estagiário aqui, talvez não seria uma saída, né, mas vamos entrar nessa nessa. Eu Vou sugerir isso já."
+      },
+      {
+        "startTime": 2980,
+        "endTime": 3023,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "É não não até Desculpa pessoal, eu sei que só para trazer por isso que eu trouxe como prioritária a questão do cadastro manual porque p**** que que é um cadastro manual que o corretor mesmo vai fazer questão de trazer o cadastro dele bem completo. Como como o que que eu vejo muitas vezes a integração para os ml a gente vê as exclusividades a Campos, talvez tenha visto isso às vezes não tá tão completa quanto o corretor que tá lá com carinho ali focado em fazer o cadastro dele e não precisa de ninguém hoje em dia a gente tá aí com automatizando tudo e a gente quer trazer mais gente para fazer cadastro para o próprio corretor, pode estar fazendo mais uma vez, eu acho que módulo de cadastro manual é uma grande solução aí para nós, mas claro aí vai esperar passar e fazer né?"
+      },
+      {
+        "startTime": 3023,
+        "endTime": 3028,
+        "speaker": "Diego Diehl",
+        "text": "Sim, beleza conta comigo. Para apoiar aí é Bruno. Você acha que"
+      },
+      {
+        "startTime": 3030,
+        "endTime": 3030,
+        "speaker": "Carolina Campos",
+        "text": "Esses dados até quando precisa desses valores."
+      },
+      {
+        "startTime": 3030,
+        "endTime": 3051,
+        "speaker": "Diego Diehl",
+        "text": "É isso que eu ia falar eu ia sugerir da gente terça à tarde. Se trazer uma proposta daí eu trago outra a gente bate. Tenta avançar. E aí vai como o próximo passo validar? Qual o custo dessas propostas aí para as áreas e se elas conseguem entregar?"
+      },
+      {
+        "startTime": 3052,
+        "endTime": 3070,
+        "speaker": "Carolina Campos",
+        "text": "Legal. Quais são as outras áreas que estão impactadas porque eu sei que ali no desconto de da a gente vai ter um impacto ali direto em CS. Você tem uma Projeção de quanto tá imaginando. Beleza então consegui preparar a casa aqui também."
+      },
+      {
+        "startTime": 3071,
+        "endTime": 3077,
+        "speaker": "Diego Diehl",
+        "text": "Sim, é o Júnior o italiano falaram que no ano passado eles não fecharam muita coisa."
+      },
+      {
+        "startTime": 3077,
+        "endTime": 3080,
+        "speaker": "Carolina Campos",
+        "text": "Eu também acho que não fecha tá? Evento não fecha a coisa."
+      },
+      {
+        "startTime": 3082,
+        "endTime": 3102,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente pode se preparar. Eu acho que o que é legal é talvez haja um gargalo e um gargalo de novas vendas é bom basta, talvez a gente se preparar para ajustar esse aliado com o cliente, né? Naquele discurso de cara muita gente conecta e tal lá lá, olha só eu vou assinar teu contrato agora."
+      },
+      {
+        "startTime": 3102,
+        "endTime": 3116,
+        "speaker": "Diego Diehl",
+        "text": "Só vai começar a cobrar no próximo mês porque eu vou demorar para te atender. f***-se ok a gente dilui a venda para não galar o CS e não travar em ser agressivo por falta de horário de reunião."
+      },
+      {
+        "startTime": 3116,
+        "endTime": 3139,
+        "speaker": "Carolina Campos",
+        "text": "É um desconto até Diego que é sempre muito fácil, eu já Participei de alguns eventos com empresas assim é o mesmo desconto que a empresa já aprovou na Black e até falar para os caras, cara. A gente sempre espera chegar novembro para poder liberar essa ação eu tô liberando agora para você aqui em agosto numa condição especial de evento porque porque já tá aprovado pelo financeiro já tá aprovado pelas outras áreas."
+      },
+      {
+        "startTime": 3139,
+        "endTime": 3160,
+        "speaker": "Carolina Campos",
+        "text": "Já tá aprovado por todo mundo tá? Eu fiz isso. Qual é o menu que era gumer lá? A gente pegou a mesma ação que fez na Black levou para para como que era era fiscal que era de restaurante várias restaurantes fez exatamente a mesma ação e a gente conseguiu tirar bastante venda lá na hora porque todo mundo já tava treinado com a condição."
+      },
+      {
+        "startTime": 3160,
+        "endTime": 3162,
+        "speaker": "Carolina Campos",
+        "text": "O time inteiro já sabia como que ela funcionava como"
+      },
+      {
+        "startTime": 3162,
+        "endTime": 3165,
+        "speaker": "Diego Diehl",
+        "text": "antes do ano"
+      },
+      {
+        "startTime": 3165,
+        "endTime": 3185,
+        "speaker": "Carolina Campos",
+        "text": "A da condição da Black de era o cara comprava e pagava só no final do começo de Janeiro. Ele tinha um desconto de 50% e ou ele pagava só começava a pagar a partir de fevereiro, então dá para fazer algumas ações assim porque o financeiro consegue se programar bem tá? Já tá tudo alinhado então."
+      },
+      {
+        "startTime": 3185,
+        "endTime": 3218,
+        "speaker": "Diego Diehl",
+        "text": "Eu já entendi os 90% dos limites do financeiro ali. Que é isso que barra, né? O desafio acho que nosso hoje como a gente vai estar com a Z2 o desafio é o combo na real, né? É quando o cara que for levar da Z2 a e talvez até um eu vou ter reunião com a Mari e o Alejandro até um combo de ativação digital, se o cara quiser lá que vai ter cliente que é ideais é dois a lá também."
+      },
+      {
+        "startTime": 3218,
+        "endTime": 3235,
+        "speaker": "Diego Diehl",
+        "text": "Que que a gente vai ter para oferecer para essa pessoa vai ter alguma condição não vai então. Vai ter tudo vai ter os nossos os nossos pombinhos ali para o cara ver que é o momento ali. Talvez ele fechar. Fala aí Bruno."
+      },
+      {
+        "startTime": 3235,
+        "endTime": 3248,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não queria até aproveitar para adiantar algo que provavelmente vai o pessoal vai perguntar lá corretor imobiliária que é tá e a automação do WhatsApp para nós. corridas que hoje a gente ainda não faz mas vem esses"
+      },
+      {
+        "startTime": 3248,
+        "endTime": 3251,
+        "speaker": "Diego Diehl",
+        "text": "Tem um monte de coisa aí?"
+      },
+      {
+        "startTime": 3251,
+        "endTime": 3254,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "E tá, beleza, aí vai lá com concorrente que ainda não é o nosso Foco."
+      },
+      {
+        "startTime": 3254,
+        "endTime": 3263,
+        "speaker": "Diego Diehl",
+        "text": "No nosso é o nosso foco é servir o corretor e Imobiliária com dados e mapeamento de mercado. E ano passado."
+      },
+      {
+        "startTime": 3263,
+        "endTime": 3270,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Beleza, só para saber que vem para nós."
+      },
+      {
+        "startTime": 3273,
+        "endTime": 3276,
+        "speaker": "Diego Diehl",
+        "text": "Eu tentei priorizar tá na pauta ali tá Bruno de uma discussão que a gente tem"
+      },
+      {
+        "startTime": 3276,
+        "endTime": 3276,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "para"
+      },
+      {
+        "startTime": 3277,
+        "endTime": 3285,
+        "speaker": "Diego Diehl",
+        "text": "que fazer dois a que se não é a Z2 a que vai nos atender com isso. Quem é que vai nos atender? Porque a gente podia ter um parceiro para isso, né?"
+      },
+      {
+        "startTime": 3285,
+        "endTime": 3286,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 3287,
+        "endTime": 3309,
+        "speaker": "Diego Diehl",
+        "text": "Mas tá acho que no momento tá um pouquinho delicado ainda. Isso daí está no radar. Isso daí é uma coisa bacana, por treinamento, tá Bruno? Tipo. Quais são as principais dúvidas ou perguntas que a galera faz o que que principalmente ele não entende? Daí a gente troca uma ideia assim para a galera tá bem informadinha assim falar mas a integração daí é isso."
+      },
+      {
+        "startTime": 3309,
+        "endTime": 3338,
+        "speaker": "Diego Diehl",
+        "text": "Daí eu aquilo papapa as mais isso aqui é o mais I, né? O mais isso mais eu aquilo porque a base da integração e Mobi a maioria já sabe acho que em dois três minutos cinco a gente revisa, né? Ó galera Imobiliária pode solicitar integração pegar os produtos para o CRM assim assim assado, pode ter essa exclusividades, tá? E aí a partir de agora que que funciona de Pitty, qual que são as dúvidas? Porque daí vai ter cara você ganhou."
+      },
+      {
+        "startTime": 3338,
+        "endTime": 3344,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá 10 pessoas falando que o imob aí no conecta, cara, a gente vai ser setembro."
+      },
+      {
+        "startTime": 3345,
+        "endTime": 3361,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não claro é isso é bom estar todo mundo afiado para falar quando tiver conversando com O cara E aí você acha que a intenção desse treinamento da quarta e deixar todo mundo aí bem bem alinhado com essas dúvidas. Como que é o processo de mobi?"
+      },
+      {
+        "startTime": 3361,
+        "endTime": 3375,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, é terça-feira. Vocês conseguem? três ou quatro As três para mim é melhor."
+      },
+      {
+        "startTime": 3379,
+        "endTime": 3386,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tá anotado. Pode ser?"
+      },
+      {
+        "startTime": 3386,
+        "endTime": 3413,
+        "speaker": "Carolina Campos",
+        "text": "Coloca na agenda eu vou fazer um levantamento, não sei se na terça a gente consegue dar essa resposta, eu e o Bruno que a gente tá com uma banca aqui gigante para resolver tá? A gente tá com um processo bem apurado aqui, a gente está fazendo os levantamentos bem rigorosos."
+      },
+      {
+        "startTime": 3413,
+        "endTime": 3417,
+        "speaker": "Carolina Campos",
+        "text": "Então segunda-feira a nossa agenda ali tá basicamente comprometida então provavelmente vamos tentar colocar essa resposta aí para quinta. Pode ser?"
+      },
+      {
+        "startTime": 3417,
+        "endTime": 3428,
+        "speaker": "Diego Diehl",
+        "text": "Não Campos não pode que Quintas. 2:30 Fechou. Tô f*** é Não beleza. Eu vou marcar daí com quase dois na sexta."
+      },
+      {
+        "startTime": 3428,
+        "endTime": 3430,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Por mim."
+      },
+      {
+        "startTime": 3440,
+        "endTime": 3457,
+        "speaker": "Diego Diehl",
+        "text": "Fechou, acho que de mobi o desafio que fica em aberto aí para talvez se estiver alguma ideia. É o que que a gente vai falar para os corretores? Talvez por corretor que se cadastrar. Lá a gente pode dar um hotsite para ele."
+      },
+      {
+        "startTime": 3458,
+        "endTime": 3464,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tá o corretor a gente já validou. Inclusive a questão do da Black 90. Deu certo foi aprovada por todo mundo e tal por aqui 50% de desconto."
+      },
+      {
+        "startTime": 3464,
+        "endTime": 3472,
+        "speaker": "Diego Diehl",
+        "text": "Tá ok. Não corretor Bruno."
+      },
+      {
+        "startTime": 3474,
+        "endTime": 3476,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "também"
+      },
+      {
+        "startTime": 3476,
+        "endTime": 3478,
+        "speaker": "Diego Diehl",
+        "text": "Não isso é Imobiliária foi um corretor."
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3484,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Não não é diferente corretor corretor também é só que o corretor ele vai"
+      },
+      {
+        "startTime": 3484,
+        "endTime": 3485,
+        "speaker": "Diego Diehl",
+        "text": "Ah não é não não tô falando da entrega não. Tô falando a entrega do time"
+      },
+      {
+        "startTime": 3485,
+        "endTime": 3488,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "pegar o plano básico o plano básico."
+      },
+      {
+        "startTime": 3491,
+        "endTime": 3492,
+        "speaker": "Diego Diehl",
+        "text": "de mobi."
+      },
+      {
+        "startTime": 3492,
+        "endTime": 3494,
+        "speaker": "Carolina Campos",
+        "text": "corretor que acessa a ferramenta"
+      },
+      {
+        "startTime": 3494,
+        "endTime": 3496,
+        "speaker": "Diego Diehl",
+        "text": "Falando corretor que vai estar lá e não vai."
+      },
+      {
+        "startTime": 3498,
+        "endTime": 3500,
+        "speaker": "Carolina Campos",
+        "text": "celular"
+      },
+      {
+        "startTime": 3500,
+        "endTime": 3527,
+        "speaker": "Diego Diehl",
+        "text": "Porque às vezes o cara fala não Não já tem uma imobiliária e tal a gente vai vender isso, mas o passo antes o básico por exemplo o cara que todo mundo se cadastre. Né, eu posso dar alguma coisa. O iene lá? Oi Vou levar o brindezinho. Então se vocês tiverem algumas ideias, eu tô coletando ideias tá para para ver o que a gente pode fazer, mas só"
+      },
+      {
+        "startTime": 3528,
+        "endTime": 3532,
+        "speaker": "Bruno Zucchetti Rodrigues",
+        "text": "Tu pode ver é sempre a fila."
+      },
+      {
+        "startTime": 3532,
+        "endTime": 3555,
+        "speaker": "Diego Diehl",
+        "text": "Só de ter gente da hora lá falando com corretor já vai ser super legal. Acho que a gente vai conseguir. Talvez depoimento vai ter uma galera que já usa. Mas eu vou se tiver em 10 me avisam. Não para vender mas para isca para troca com ele. Fechou a gente."
+      },
+      {
+        "startTime": 3555,
+        "endTime": 3577,
+        "speaker": "Carolina Campos",
+        "text": "Evento que por mais i***** que seja chama a gente para c****** é uma que coloca uns balãozinho com os papeizinhos escritos dentro a galera vem para explodir. Aí vem assim, você acaba de ganhar um i m você ganhou um carregador de celular. Você ganhou um hotsurar o balão tá cara é o maior ação assim baratex, mas"
+      },
+      {
+        "startTime": 3577,
+        "endTime": 3580,
+        "speaker": "Diego Diehl",
+        "text": "O desafio é formar fila, né?"
+      },
+      {
+        "startTime": 3580,
+        "endTime": 3597,
+        "speaker": "Carolina Campos",
+        "text": "Todo evento que tem isso faz fila porque a galera quer estourar o balão porque ela espera que ela vai ganhar alguma coisa aí no meio a gente coloca você ganhou um chopp que a gente vai lá no restaurante, já compra o chopp e paga você ganhou uma batata frita você aí coloca um monte de coisa assim no primeiro, você não ganhou nada sabe? Tipo pode mas pode."
+      },
+      {
+        "startTime": 3597,
+        "endTime": 3598,
+        "speaker": "Diego Diehl",
+        "text": "Você ganhou um abraço."
+      },
+      {
+        "startTime": 3599,
+        "endTime": 3612,
+        "speaker": "Carolina Campos",
+        "text": "E aí ganhei, um abraço do Diego abraço do Diego ali e aí dá para fazer ação cara? É uma ação mais i***** que tem que ter menor custo e traz um movimento assim que a galera fica alucinada, tá?"
+      },
+      {
+        "startTime": 3614,
+        "endTime": 3630,
+        "speaker": "Diego Diehl",
+        "text": "Boa. Vou sugerir eu tô um pouquinho já notei aqui. Vou sugerir para um pouquinho de mãos atadas porque o dono estande é Z2, né? Desse ano. Mas ano que vem eu acho que a gente vai ter o nosso estande daí a gente vai fazer o que a gente quiser nele."
+      },
+      {
+        "startTime": 3630,
+        "endTime": 3634,
+        "speaker": "Diego Diehl",
+        "text": "Então, beleza, obrigado aí, viu? Gente? Vamos para cima aí, vamos Inovar."
+      },
+      {
+        "startTime": 3635,
+        "endTime": 3656,
+        "speaker": "Carolina Campos",
+        "text": "Uma que dá para fazer também Diego que é barato, a gente manda fazer de como se fosse umas raspadinha porque não vai impedir nada ali dentro do estande a Raspadinha fica com o nosso QR. Code mesmo. Da hora ele entra vai ter que baixar alguma coisa assim, aí ele ganha uma raspadinha."
+      },
+      {
+        "startTime": 3656,
+        "endTime": 3656,
+        "speaker": "Carolina Campos",
+        "text": "A gente pode meu oferecer para ele, desde o m hots homologado. Então você agora pode fazer raspadinha aí"
+      },
+      {
+        "startTime": 3656,
+        "endTime": 3659,
+        "speaker": "Diego Diehl",
+        "text": "Abre o aplicativo da orla e deixa eu ver se tá logado, tá logado."
+      },
+      {
+        "startTime": 3663,
+        "endTime": 3678,
+        "speaker": "Carolina Campos",
+        "text": "coloca de tudo dá chope para os cara no evento dá hambúrguer dá uma caralhada de coisa ali que vai sair uma ação barata, coloca até tipo você ganhar um pique de r$ 10. Você ganhou um pique de r$ 50. Sabe aquele negócio assim para engajar e sai bem barato, tá é muito barato fazer raspadinha."
+      },
+      {
+        "startTime": 3679,
+        "endTime": 3681,
+        "speaker": "Diego Diehl",
+        "text": "balão"
+      },
+      {
+        "startTime": 3681,
+        "endTime": 3684,
+        "speaker": "Carolina Campos",
+        "text": "O balão você chama mais barulho. Talvez isso o"
+      },
+      {
+        "startTime": 3685,
+        "endTime": 3686,
+        "speaker": "Diego Diehl",
+        "text": "Eu tento enche o saco."
+      },
+      {
+        "startTime": 3687,
+        "endTime": 3700,
+        "speaker": "Carolina Campos",
+        "text": "Padinha cara custo baixo e você faz a pessoa passando assim nada também é bem legal e não chama não vai ter tanto tanto barulho ali talvez."
+      },
+      {
+        "startTime": 3700,
+        "endTime": 3708,
+        "speaker": "Diego Diehl",
+        "text": "sim Boa fechou o Campos? E no fim você vai? Você vai os dois dias, como é que ficou?"
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3717,
+        "speaker": "Carolina Campos",
+        "text": "Eu comprei passagem, já vou nos dois dias, eu não sei se eu vou conseguir ficar o dia inteiro no dia 3. Mas no dia 4 eu fico o dia inteiro, tá?"
+      },
+      {
+        "startTime": 3718,
+        "endTime": 3721,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá, você vai chegar digamos sei lá."
+      },
+      {
+        "startTime": 3721,
+        "endTime": 3727,
+        "speaker": "Carolina Campos",
+        "text": "No dia 2 é dia 2 eu tô em São Paulo já. E aí eu vou mas eu vou dar uns dois dias."
+      },
+      {
+        "startTime": 3728,
+        "endTime": 3730,
+        "speaker": "Diego Diehl",
+        "text": "Tá beleza, só para confirmar. Então beleza deixou a gente."
+      },
+      {
+        "startTime": 3730,
+        "endTime": 3733,
+        "speaker": "Carolina Campos",
+        "text": "Tá vou. beleza"
+      },
+      {
+        "startTime": 3733,
+        "endTime": 3735,
+        "speaker": "Diego Diehl",
+        "text": "Bom final de semana aí bom resto de trabalho."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 255,
+    "speakers": [
+      "Carol Pizzano",
+      "Diego Diehl",
+      "Bruno Zucchetti Rodrigues",
+      "Carolina Campos"
+    ],
+    "total_words_estimate": 7373,
+    "duration_start": 0,
+    "duration_end": 3735
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6896618f87e8e700130c34ca",
+        "timestamp": 83,
+        "text": "Carol propõe incluir data de início desde a prospecção até o fechamento do lead.",
+        "topicId": "6896618f87e8e700130c34c5"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34cb",
+        "timestamp": 134,
+        "text": "Carol sugere adicionar coluna de ID do Bitrix e valor da taxa de implementação na planilha.",
+        "topicId": "6896618f87e8e700130c34c5"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34cc",
+        "timestamp": 280,
+        "text": "Diego quer estratificação dos leads para rastreamento, com possível categorização por tipo.",
+        "topicId": "6896618f87e8e700130c34c5"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34cd",
+        "timestamp": 314,
+        "text": "Carol criará anotações para junho e julho com novas colunas conforme discutido.",
+        "topicId": "6896618f87e8e700130c34c5"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34cf",
+        "timestamp": 355,
+        "text": "Evento Conecta terá foco em corretores imobiliários, representando oportunidade de negócio.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d7",
+        "timestamp": 555,
+        "text": "Definir estratégia de oferta para incorporadoras em diferentes praças de atuação.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d8",
+        "timestamp": 731,
+        "text": "Considerar oferta de inteligência de mercado por seis meses para clientes com 20+ exclusividades.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d0",
+        "timestamp": 788,
+        "text": "Foco principal será produtos e ofertas para incorporadoras no evento Conecta.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d1",
+        "timestamp": 1392,
+        "text": "Diego quer discutir o futuro do Imob e estratégias agressivas para o Conecta.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d2",
+        "timestamp": 1458,
+        "text": "Identificadas opções para plano pago: catálogo, exclusividades e possível promoção.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d3",
+        "timestamp": 1555,
+        "text": "Identificar quais empreendimentos serão incluídos no catálogo",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d9",
+        "timestamp": 1782,
+        "text": "Faturamento atual em São Paulo para catálogo pago é de aproximadamente 8 mil reais.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34de",
+        "timestamp": 1830,
+        "text": "Carolina alerta que liberações em massa impactarão o time de integração.",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34df",
+        "timestamp": 1873,
+        "text": "Carolina propõe agendar reunião pós-evento para oferecer desconto com cupom",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e0",
+        "timestamp": 1946,
+        "text": "Bruno sugere alinhamento prévio com outras áreas antes de propor novas estratégias.",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34da",
+        "timestamp": 2134,
+        "text": "Diego destaca que imobiliárias precisam de dados sobre rentabilidade e liquidez de imóveis.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e1",
+        "timestamp": 2242,
+        "text": "Proposta para distribuir inteligência de mercado gratuitamente, com foco em fechar exclusividades durante o evento.",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e2",
+        "timestamp": 2313,
+        "text": "Diego esclarece que não está oferecendo serviço de inteligência de mercado gratuitamente.",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34db",
+        "timestamp": 2370,
+        "text": "Equipe desenvolve estratégia de serviços com precificação cuidadosa de empreendimentos.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e3",
+        "timestamp": 2674,
+        "text": "Diego solicita análise de riscos por todas as áreas envolvidas no projeto comercial.",
+        "topicId": "6896618f87e8e700130c34c8"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34dc",
+        "timestamp": 2747,
+        "text": "Equipe propõe levantar os três principais diferenciais em relação ao Stop.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34dd",
+        "timestamp": 2859,
+        "text": "Diego sugere oferecer até 200 exclusividades gratuitas para imobiliárias que se integrarem.",
+        "topicId": "6896618f87e8e700130c34c7"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34ce",
+        "timestamp": 3040,
+        "text": "Próximo passo: validar custos das propostas com as áreas responsáveis.",
+        "topicId": "6896618f87e8e700130c34c5"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e4",
+        "timestamp": 3415,
+        "text": "Reunião de alinhamento sobre Mobi será reagendada para quinta-feira.",
+        "topicId": "6896618f87e8e700130c34c9"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d4",
+        "timestamp": 3515,
+        "text": "Equipe busca ideias de brindes ou incentivos para atrair corretores no evento.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d5",
+        "timestamp": 3579,
+        "text": "Proposta de ação promocional com distribuição de brindes e incentivos para atrair participantes em eventos.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34d6",
+        "timestamp": 3635,
+        "text": "Carolina propõe ações promocionais criativas: raspadinhas com QR Code e distribuição de brindes de baixo custo.",
+        "topicId": "6896618f87e8e700130c34c6"
+      },
+      {
+        "segmentId": "6896618f87e8e700130c34e5",
+        "timestamp": 3708,
+        "text": "Carolina confirma presença nos dois dias do evento, com disponibilidade parcial no dia 3.",
+        "topicId": "6896618f87e8e700130c34c9"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6896618f87e8e700130c34c5",
+        "order": 1,
+        "title": "Ações Acordadas e Compromissos",
+        "summary": ""
+      },
+      {
+        "id": "6896618f87e8e700130c34c6",
+        "order": 2,
+        "title": "Estratégia Evento Conecta",
+        "summary": ""
+      },
+      {
+        "id": "6896618f87e8e700130c34c7",
+        "order": 3,
+        "title": "Modelo de Negócio e Precificação",
+        "summary": ""
+      },
+      {
+        "id": "6896618f87e8e700130c34c8",
+        "order": 4,
+        "title": "Gestão de Projeto e Riscos",
+        "summary": ""
+      },
+      {
+        "id": "6896618f87e8e700130c34c9",
+        "order": 5,
+        "title": "Agenda e Disponibilidade",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 28,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6896618f87e8e700130c34c5",
+      "order": 1,
+      "title": "Ações Acordadas e Compromissos",
+      "summary": ""
+    },
+    {
+      "id": "6896618f87e8e700130c34c6",
+      "order": 2,
+      "title": "Estratégia Evento Conecta",
+      "summary": ""
+    },
+    {
+      "id": "6896618f87e8e700130c34c7",
+      "order": 3,
+      "title": "Modelo de Negócio e Precificação",
+      "summary": ""
+    },
+    {
+      "id": "6896618f87e8e700130c34c8",
+      "order": 4,
+      "title": "Gestão de Projeto e Riscos",
+      "summary": ""
+    },
+    {
+      "id": "6896618f87e8e700130c34c9",
+      "order": 5,
+      "title": "Agenda e Disponibilidade",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:47:33.510202+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:33.510202+00:00"
+}

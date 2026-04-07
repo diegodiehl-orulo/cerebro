@@ -1,0 +1,36 @@
+{
+  "id": "68f0f34db433e6001320387c",
+  "happenedAt": "2025-10-16T13:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Caroline Mello",
+      "email": "caroline.mello@orulo.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    }
+  ],
+  "name": "Checkpoint de Forecast",
+  "duration": 4821.186,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68f0f34db433e6001320387c",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "vua-ioiy-ggs"
+  }
+}

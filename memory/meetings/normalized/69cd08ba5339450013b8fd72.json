@@ -1,0 +1,1431 @@
+{
+  "meeting_id": "69cd08ba5339450013b8fd72",
+  "name": "Treinamento Comercial",
+  "happened_at": "2026-04-01T12:00:00.000Z",
+  "duration_seconds": 4236.226,
+  "duration_minutes": 70.6,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Jade Rosa",
+      "email": "jade.rosa@orulo.com.br"
+    },
+    {
+      "name": "Ester Elisa de Souza Rodrigues",
+      "email": "ester.rodrigues@orulo.com.br"
+    },
+    {
+      "name": "Luan Felipe de Souza",
+      "email": "luan.souza@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69cd08ba5339450013b8fd72",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "hhz-faeg-vfq",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69cd08e5fa037e00139483dd",
+    "meetingId": "69cd08ba5339450013b8fd72",
+    "data": [
+      {
+        "startTime": 27,
+        "endTime": 27,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Bom dia, bom dia. Bom dia Mila."
+      },
+      {
+        "startTime": 27,
+        "endTime": 33,
+        "speaker": "Gustavo Torres",
+        "text": "Vou pegar aqui meu."
+      },
+      {
+        "startTime": 33,
+        "endTime": 34,
+        "speaker": "Mirla Menezes",
+        "text": "Bom dia, bom dia. Tudo bem?"
+      },
+      {
+        "startTime": 35,
+        "endTime": 36,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Tudo bom e você?"
+      },
+      {
+        "startTime": 37,
+        "endTime": 38,
+        "speaker": "Mirla Menezes",
+        "text": "Tudo tranquilo."
+      },
+      {
+        "startTime": 38,
+        "endTime": 39,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Tudo bom?"
+      },
+      {
+        "startTime": 41,
+        "endTime": 43,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 43,
+        "endTime": 46,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Dia."
+      },
+      {
+        "startTime": 46,
+        "endTime": 54,
+        "speaker": "Mirla Menezes",
+        "text": "E qual Mineiro falando dia para responder o bom dia? Tudo bem."
+      },
+      {
+        "startTime": 55,
+        "endTime": 58,
+        "speaker": "Gustavo Torres",
+        "text": "Bom dia como é que vocês estão?"
+      },
+      {
+        "startTime": 60,
+        "endTime": 90,
+        "speaker": "Mirla Menezes",
+        "text": "Tudo tranquilo por aqui, eu mandei dois áudios para você ontem. Não."
+      },
+      {
+        "startTime": 90,
+        "endTime": 92,
+        "speaker": "Jade Rosa",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 92,
+        "endTime": 98,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "buenas"
+      },
+      {
+        "startTime": 98,
+        "endTime": 99,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia time."
+      },
+      {
+        "startTime": 102,
+        "endTime": 103,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 106,
+        "endTime": 129,
+        "speaker": "Gustavo Torres",
+        "text": "Bom dia time acho que tá todo mundo aí falta alguém Falta só o naipe naipe vai participar hoje. Bora lá então."
+      },
+      {
+        "startTime": 131,
+        "endTime": 134,
+        "speaker": "Diego Diehl",
+        "text": "Eu tava no mudo, não sei vou mandar mensagem, mas pode começar."
+      },
+      {
+        "startTime": 134,
+        "endTime": 1289,
+        "speaker": "Gustavo Torres",
+        "text": "a utilização e também para a gente tirando mais dúvidas de vocês. Então eu vou passar rapidamente aqui pelas pelas etapas do Funil, a gente pode abrir alguns links para ver um pouco do estado que eles estão e também para frisar cada vez mais não porque que eles estão nessas etapas com a ideia e objetivo da gente cristalizar um pouco melhor e absorver um pouco melhor, principalmente aí é a lógica do Funil que a gente montou."
+      },
+      {
+        "startTime": 1289,
+        "endTime": 209,
+        "speaker": "Gustavo Torres",
+        "text": "Vamos começar então do começo. Abrir já o funil de PDR primeiro partindo ali dos novos vídeos a gente tem que pegar aqui o Rodrigo Rodrigo tá na etapa de novo líder que veio ali do processo que a gente chama de novo usuário de"
+      },
+      {
+        "startTime": 209,
+        "endTime": 518,
+        "speaker": "Diego Diehl",
+        "text": "parte de uma ida. Nossa que tá bem legal. Beleza se quiser complementar em algo aí tá aberto. Queria fazer."
+      },
+      {
+        "startTime": 518,
+        "endTime": 813,
+        "speaker": "Gustavo Torres",
+        "text": "agendamento de forma sucinta."
+      },
+      {
+        "startTime": 813,
+        "endTime": 816,
+        "speaker": "Mirla Menezes",
+        "text": "Abaixa um pouquinho só para ver o final do número dele, por gentileza é o"
+      },
+      {
+        "startTime": 816,
+        "endTime": 819,
+        "speaker": "Gustavo Torres",
+        "text": "Claro"
+      },
+      {
+        "startTime": 819,
+        "endTime": 826,
+        "speaker": "Mirla Menezes",
+        "text": "5890 gente. Eu faço isso todo dia tá? Eu sempre olho o fim do número e procuro para ver qual é o contexto."
+      },
+      {
+        "startTime": 828,
+        "endTime": 832,
+        "speaker": "Gustavo Torres",
+        "text": "Aqui já tem inclusive, né? Um pouquinho do contexto ali do Mateus."
+      },
+      {
+        "startTime": 832,
+        "endTime": 861,
+        "speaker": "Mirla Menezes",
+        "text": "Isso na verdade, ele é arquiteto de sistemas, ele tá fazendo o uso da plataforma mais para estudo pessoal e tá vinculadora Incorporadora, convidei ele para um bate-papo. Falei sobre o nosso m. E tentando tracionar ele para isso, mas claro vendo se faz sentido ele realmente participar de uma reunião de m, né? Será que ele é um decisou Que É O Que Eu Tô investigando agora."
+      },
+      {
+        "startTime": 863,
+        "endTime": 878,
+        "speaker": "Gustavo Torres",
+        "text": "dentro da empresa Sobral da construtora Incorporadora Sobral correto e ele tá desenvolvendo um trabalho de estudo de mercado para a Incorporadora certo."
+      },
+      {
+        "startTime": 878,
+        "endTime": 880,
+        "speaker": "Mirla Menezes",
+        "text": "Isso exatamente."
+      },
+      {
+        "startTime": 880,
+        "endTime": 895,
+        "speaker": "Gustavo Torres",
+        "text": "Legal, então aqui a gente já tem bastante um pouco da situação. E esse estudo por exemplo do Milho já aproveitando para para expandir agregar. Esse estudo que ele tá fazendo é para que exatamente, eles têm lançamento é um estudo porque Qual que é o objetivo?"
+      },
+      {
+        "startTime": 895,
+        "endTime": 908,
+        "speaker": "Mirla Menezes",
+        "text": "Ele tá fazendo estudo com final com a finalidade de estudar viabilidade e tracionar ticket médio das incorporadoras na região de Curitiba. Mas aí ele não me deu tanta abertura para saber se é alto padrão se é mede"
+      },
+      {
+        "startTime": 908,
+        "endTime": 909,
+        "speaker": "Gustavo Torres",
+        "text": "de Curitiba"
+      },
+      {
+        "startTime": 912,
+        "endTime": 919,
+        "speaker": "Mirla Menezes",
+        "text": "padrão, eu fiquei de pesquisar no site da Incorporadora mesmo para dar uma visão um pouco mais macro assim."
+      },
+      {
+        "startTime": 920,
+        "endTime": 936,
+        "speaker": "Gustavo Torres",
+        "text": "entendeu? Só entender eles então, será que o desenvolvimento de produto então estudando para Ah legal? Então a gente já tem alguns pontos bem bem."
+      },
+      {
+        "startTime": 936,
+        "endTime": 940,
+        "speaker": "Mirla Menezes",
+        "text": "isso"
+      },
+      {
+        "startTime": 940,
+        "endTime": 965,
+        "speaker": "Gustavo Torres",
+        "text": "Situação desse cliente então quem leva onde ele está o que ele faz a gente tem um pouquinho de lacunas não né? Mas de oportunidade de entender o que que ele tá usando para pesquisar. Quais são os problemas que ele tá tentando encontrar que talvez seja esse preço médio aí de metro quadrado e um momento que a gente poderia falar crítico que é um novo projeto que tá vindo, ele precisa desses dados da gente."
+      },
+      {
+        "startTime": 965,
+        "endTime": 982,
+        "speaker": "Gustavo Torres",
+        "text": "Tem ali já uma mapeamento Inicial é bom legal. Trazer isso para vocês entenderem? Que então o Mateus ele tá nesse processo inicial de investigação ali com a Mila é que tá tentando trazer ele para o agendamento enquanto ela tá deixando mais robusta. E essa essa investigação pode falar de"
+      },
+      {
+        "startTime": 984,
+        "endTime": 997,
+        "speaker": "Diego Diehl",
+        "text": "para a gente pensar no fundo de bdrs a gente trata cada Card como uma pessoa e uma empresa pode ter vários cards ativos aí certo."
+      },
+      {
+        "startTime": 997,
+        "endTime": 998,
+        "speaker": "Gustavo Torres",
+        "text": "isso"
+      },
+      {
+        "startTime": 998,
+        "endTime": 1010,
+        "speaker": "Diego Diehl",
+        "text": "No funil do executivo de contas ao contrário né? Cada Card é uma empresa. E a gente não pode ter mais de um card por empresa certo?"
+      },
+      {
+        "startTime": 1010,
+        "endTime": 1014,
+        "speaker": "Gustavo Torres",
+        "text": "isso"
+      },
+      {
+        "startTime": 1014,
+        "endTime": 1070,
+        "speaker": "Diego Diehl",
+        "text": "melhor ter mais de um. Então a gente vai ter que evoluir nesse sentido tá e depois para as automações vai ser às vezes cada pessoa da empresa tá em uma diferente jornada, né? Validar esse ponto e lembrar desse."
+      },
+      {
+        "startTime": 1070,
+        "endTime": 1095,
+        "speaker": "Gustavo Torres",
+        "text": "Eu vou pegar só mais um bem rápido aqui só para a gente ver um da Jade também, pode ser essa Bianca aqui que tá essa aqui é a Bianca ela ela veio pela validação de contato comercial do Rio Grande do Sul de Capão da Canoa, principalmente aqui a gente vai ter quer falar um pouco dela já de que a gente tem de entendimento dela."
+      },
+      {
+        "startTime": 1096,
+        "endTime": 1172,
+        "speaker": "Jade Rosa",
+        "text": "informações do evento para ela."
+      },
+      {
+        "startTime": 1172,
+        "endTime": 2563,
+        "speaker": "Gustavo Torres",
+        "text": "a problema com vendas. Ah não já vendeu todo estoque isso, tipo já vendeu? Tudo estoque então não tem momento crítico que tá tudo certo, porque provavelmente tem outras coisas ali dentro do processo da incorporador que podem existir e podem virar uma oportunidade. Para gente então, toda vez que a gente eu lembro que eu mandei lá uma vez no treinamento sobre isso é entendo mais o contexto da situação do Incorporadora, porque às vezes tem isso tipo, por exemplo."
+      },
+      {
+        "startTime": 2563,
+        "endTime": 1264,
+        "speaker": "Gustavo Torres",
+        "text": "Ela falou que tá com 80% do estoque vendido, beleza? E aí eles não tem lançamento para esse ano, por exemplo se chegou a validar essas coisas."
+      },
+      {
+        "startTime": 1264,
+        "endTime": 1273,
+        "speaker": "Jade Rosa",
+        "text": "Cheguei cheguei sim, tudo isso foi validado e assim foi uma postura bem fechada, foi ao falar do evento que ela teve uma abertura maior. Então acho que pode ser"
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1349,
+        "speaker": "Gustavo Torres",
+        "text": "cenário ideal Claro existir uma reunião e isso ser somado ao evento né para então gerar autoridade junto ali com o contexto de cada empresa, mas nesse caso específico a Bianca. Ela demonstrou interesse exclusivo ali no evento. mais macro e não só focada em Incorporadora com problema de venda, até porque às vezes dependendo do problema de venda de Incorporadora, ela não vai querer sentar numa reunião porque ela quer coisas mais imediatas ali para resolver o problema isso acontece muito ou a água bate muito na bunda lá, eles não sabe mais o que fazer voltando aqui rapidinho então era só mesmo para Que a gente trazer um pouco de contexto esses atendimentos aqui assim que eles demonstram interesse, eles vão passar para essa fase aqui que a gente chama de agendamento aqui no caso nesse que a gente já tem."
+      },
+      {
+        "startTime": 1349,
+        "endTime": 1350,
+        "speaker": "Mirla Menezes",
+        "text": "Foi eu é que eu fiz esse agendamento já eu fiz o preenchi o agendamento por"
+      },
+      {
+        "startTime": 1350,
+        "endTime": 1357,
+        "speaker": "Gustavo Torres",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 1357,
+        "endTime": 1366,
+        "speaker": "Mirla Menezes",
+        "text": "volta das 5:40 e pouco, mas eu continuei conversando com Marcelo. Aí hoje eu vou deixar bem mais detalhada a parte da situação problema da parte dos Pais."
+      },
+      {
+        "startTime": 1367,
+        "endTime": 3069,
+        "speaker": "Gustavo Torres",
+        "text": "dois caminhos ou ele vai virar uma realizada com daí o feedback do closet do que mais ele descobriu contas do que mais ele descobriu ou vai acontecer do cara não participar da reunião e Vai cair aqui por minha agendamento que a gente entender que que né reencaixar essa reunião entender porque que não deu para participar e assim por diante."
+      },
+      {
+        "startTime": 3069,
+        "endTime": 1440,
+        "speaker": "Gustavo Torres",
+        "text": "Pode falar, quem levantou. Não."
+      },
+      {
+        "startTime": 1440,
+        "endTime": 1479,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "pode faltar depois da reunião que o Close realizou para a gente ter esse histórico registrado tanto no card do bdr quanto no do Closer."
+      },
+      {
+        "startTime": 1479,
+        "endTime": 1601,
+        "speaker": "Gustavo Torres",
+        "text": "ciclo várias vezes, mas vão chegar vários próspedes vão ter que ajudar se Incorporadora avançar então objetivo é esse a gente entender qual que fez então o cara avançar de fato, tá?"
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1602,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 1602,
+        "endTime": 1631,
+        "speaker": "Gustavo Torres",
+        "text": "Tempo legal disso foi a anto. Teve alguma Teve alguma Incorporadora específica ali que até no relatório que o dia apresentou tava com um Mille Jade de SDR, mas o janela Dantas mas o prospect que fez a movimentação foi um prospectiva que veio do processo da jadista é importante entender embora tenham uma que tava com a gente, mas a gente entender."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1635,
+        "speaker": "Gustavo Torres",
+        "text": "Qual foi que virou a chave principalmente Beleza, deixa eu botar aqui então beleza então acho que no"
+      },
+      {
+        "startTime": 1635,
+        "endTime": 1639,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "show de bola"
+      },
+      {
+        "startTime": 1639,
+        "endTime": 3199,
+        "speaker": "Gustavo Torres",
+        "text": "executivo de contas descobriu além do que o bdr trouxe, que que o que mais foi falado na reunião, que mais que a gente tem de informação desse Incorporadora que possa agregar para que a gente consiga justamente categorizar ela nas outras etapas para que a gente possa entender se ela vai entrar em educação ou ativação se ela vai para uma avaliação estratégica se ela já vai para uma proposta."
+      },
+      {
+        "startTime": 3199,
+        "endTime": 1738,
+        "speaker": "Gustavo Torres",
+        "text": "Enfim então por isso que essa etapa esse nome de educação/ativação, pode falar de"
+      },
+      {
+        "startTime": 1738,
+        "endTime": 3090,
+        "speaker": "Diego Diehl",
+        "text": "processo a galera vende quem vende segue um processinho então novamente é esse letramento de esforço mental de todo mundo aqui pensar cara. Tá em educação e ativação cx DL. O que que eu faço aqui? Tá uma pergunta para vocês. Alguém pode me dar exemplos do que que eu faço com 71 cards que estão nessa etapa um exemplo de uma ação tosca que leva um minuto."
+      },
+      {
+        "startTime": 3090,
+        "endTime": 1873,
+        "speaker": "Diego Diehl",
+        "text": "Vai 3 minutos é muito bom quatro minutos, vai o que que a gente pode fazer em quatro minutos com essa incorporador. Pode chutar Pode qualquer coisa."
+      },
+      {
+        "startTime": 1873,
+        "endTime": 1882,
+        "speaker": "Mirla Menezes",
+        "text": "Exemplo. Tosco fazer um disparo de e-mail com eu não sei se isso é tosco, mas eu faria um disparo de e-mail com as novidades do mercado imobiliário, por"
+      },
+      {
+        "startTime": 1882,
+        "endTime": 1883,
+        "speaker": "Diego Diehl",
+        "text": "Pode mandar."
+      },
+      {
+        "startTime": 1886,
+        "endTime": 1889,
+        "speaker": "Mirla Menezes",
+        "text": "exemplo. Olha no último mês as cinco incorporadoras contrataram a ouro alguma"
+      },
+      {
+        "startTime": 1889,
+        "endTime": 1894,
+        "speaker": "Diego Diehl",
+        "text": "prova social"
+      },
+      {
+        "startTime": 1894,
+        "endTime": 1909,
+        "speaker": "Mirla Menezes",
+        "text": "coisa mais nesse perfil. Porque a gente já coloca isso a gente já coloca nos status nos Stories do Instagram da hora Luna. Ah Paulo Mauro agora faz parte da hora. Eu faria algo desse tipo era um tipo de nutrição."
+      },
+      {
+        "startTime": 1909,
+        "endTime": 1993,
+        "speaker": "Diego Diehl",
+        "text": "Eu sim na reunião participou da reunião a que seu e-mail saiu da reunião mandou um e-mail formalizando ali e você prometeu de enviar algo para ele por e-mail mandou e-mail. Foi no WhatsApp, você recebeu meu e-mail? Mandei lá o título é esse pum cara abriu o e-mail já subiu a régua do score do teu e-mail, já não vai cair mais no spam passou para fazer educação, pode mandar por exemplo usar nela que é uma praça só é um e-mail para todo mundo que é nessa praça problema que eu tenho seis braços Diferentes, né? Tem quem foi a Incorporadora que fechou cola lá lá lá, como é que tá mandou o e-mail do caramba, meu você mandou uma"
+      },
+      {
+        "startTime": 1993,
+        "endTime": 1999,
+        "speaker": "Gustavo Torres",
+        "text": "ação de um para muitos por executivo de contas que normalmente o executivo de com prova social"
+      },
+      {
+        "startTime": 1999,
+        "endTime": 2008,
+        "speaker": "Diego Diehl",
+        "text": "contas. Compra um social ainda não foi nada. Nadíssima. Qual mais exemplo aqui de educação numa outra vibe?"
+      },
+      {
+        "startTime": 2009,
+        "endTime": 2011,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que também seguindo esse exemplo da Mila a desculpa Claro."
+      },
+      {
+        "startTime": 2011,
+        "endTime": 2014,
+        "speaker": "Diego Diehl",
+        "text": "O João já ia falar deixa ele trazer ele só."
+      },
+      {
+        "startTime": 2015,
+        "endTime": 2040,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Acho que eu vou assim, eu vou partir da premissa que eu não sei como é que eles estão fazendo hoje, tá bdr, mas questão de usuários o cara quer DL o cara entrou agora recém cadastrou na Óbvio, vocês estão cadastrando o usuário dele antes. Ou Isso está ficando para depois ou depende, se não pode ser uma uma ação."
+      },
+      {
+        "startTime": 2040,
+        "endTime": 2054,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Liberar o acesso do cara e de tempos em tempos saber se ele está acessando a ferramenta logo para acompanhar a audiência do produto hoje e atualizando o produto. Tô perguntando porque daí tem caso sabe Gustavo que eu na Fernando eu libero"
+      },
+      {
+        "startTime": 2054,
+        "endTime": 2058,
+        "speaker": "Gustavo Torres",
+        "text": "a gente"
+      },
+      {
+        "startTime": 2058,
+        "endTime": 2077,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tempos em tempos a gente pode fazer esse falou up para acompanhar o engajamento dele com a gente."
+      },
+      {
+        "startTime": 2077,
+        "endTime": 2316,
+        "speaker": "Diego Diehl",
+        "text": "Quer falarmos ou não a Palmas?"
+      },
+      {
+        "startTime": 2316,
+        "endTime": 2318,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu também oh glória coisa boa."
+      },
+      {
+        "startTime": 2320,
+        "endTime": 2379,
+        "speaker": "Diego Diehl",
+        "text": "daí. Olhar o número e vai falar caramba dele vai ter um botão sabe? Sabe quando a gente fica nesse criativo é isso. Beleza? Pode seguir desculpa atrapalhar. E aí que eu tô jogando sementes."
+      },
+      {
+        "startTime": 2379,
+        "endTime": 3032,
+        "speaker": "Gustavo Torres",
+        "text": "cliente liberada como editor que seja ou a maioria né? Então esse cara que ele recebe esse vídeo de pílula de conhecimento isso mais falando de educação, principalmente talvez mais para frente. Sites de eu fechar e isso a gente tá validando. Por isso que é importante muito esse feedback, eu João."
+      },
+      {
+        "startTime": 3032,
+        "endTime": 3850,
+        "speaker": "Gustavo Torres",
+        "text": "Deus é nela teu naipe. Quando receber porque talvez a gente separe ainda ainda mais o que a gente está chamando aqui de Educação de ativação do xl e talvez a parte de educação a gente tire de vocês e Para vocês quando ele tem um critério mínimo ali para que vocês façam sua ativação que é por exemplo ó, vai lá para o closer."
+      },
+      {
+        "startTime": 3850,
+        "endTime": 2484,
+        "speaker": "Gustavo Torres",
+        "text": "Principalmente quando ele é um contato que tipo já tá inativação e não ainda muito cruzam assim na plataforma, mas são devagações, mas esse é um exemplo pode falar de"
+      },
+      {
+        "startTime": 2484,
+        "endTime": 2487,
+        "speaker": "Diego Diehl",
+        "text": "Não não fala nada não. eu acho que é só é só a visão gente consolidando que"
+      },
+      {
+        "startTime": 2487,
+        "endTime": 2489,
+        "speaker": "Gustavo Torres",
+        "text": "Eu vou abrir aqui então."
+      },
+      {
+        "startTime": 2493,
+        "endTime": 2516,
+        "speaker": "Diego Diehl",
+        "text": "Vou dar um exemplo diferente, tá? Esse final de semana fiz uma imersão em open. Que foram as manhãs e tal os caras ensinando como estrutura na empresa Beleza e ele tava mostrando a empresa deles tudo que eu vou mostrar aqui é o que a gente implementou aqui na nossa empresa."
+      },
+      {
+        "startTime": 2516,
+        "endTime": 2579,
+        "speaker": "Diego Diehl",
+        "text": "E a empresa deles faturou um milhão Agora em março. Beleza o melhor faturamento alto. É né? p****, um milhão a gente tá aqui na Orlando tentando atingir os 850 900 para bater um milhão. Sabe quantas pessoas tem na empresa dele? sim E eles automatizaram tudo otimizaram muito. Então o caminho que a gente tá trilhando aqui é? Como é que a gente vira um super falar um Power Rangers, cara? Como é que a gente vira um sei lá um que desenho que vai ativar uma boa memória visual em você são Dragon Ball Z um Super Sayajin, sei lá, o que que você assistir, mas é você como vendedor se imaginar nesse estado elevado de potência é esse lugar que eu quero levar a gente e aí a gente tá começando a conversar sobre esses caminhos essas automações essas conexões beleza forçando."
+      },
+      {
+        "startTime": 2579,
+        "endTime": 2608,
+        "speaker": "Diego Diehl",
+        "text": "Isso parece meio futuro, mas a empresa toda. Você tem uma ideia. O Alejandro tá contratando um deve para focar automações. O time do Marcelo vai ter duas pessoas que ele vai tirar da operação que já faziam automações para ele para focar somente em automações para também apoiar comercial. Eu tô eu tava vendo uma empresa de ar que vende horas para implementariar o Gustavo."
+      },
+      {
+        "startTime": 2608,
+        "endTime": 2635,
+        "speaker": "Diego Diehl",
+        "text": "Tava junto e eu tô aprovando na diretoria ou seja em 12 horas de trabalho. Eles conectam o nosso WhatsApp diretamente para o CRM atualiza o CRM automático. Entendeu os caminhos para que eu tenha vendedores bons aqui. E as coisas mais operacionais, a gente tem a tecnologia. Então esse é o caminho tá gente? Parece bom para mim para vocês também."
+      },
+      {
+        "startTime": 2635,
+        "endTime": 2636,
+        "speaker": "Diego Diehl",
+        "text": "Pode seguir isso."
+      },
+      {
+        "startTime": 2636,
+        "endTime": 2649,
+        "speaker": "Gustavo Torres",
+        "text": "Não abri um exemplo aqui até do João mas recente aqui da Partini que tá justamente nessa etapa aqui nesse que ele veio direto por você, né? João foi tipo mandado pelo Ah não foi pela Mila."
+      },
+      {
+        "startTime": 2649,
+        "endTime": 2674,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Foi foi pela Mila eu tive reunião semana passada com o Rafael Rabelo. Até comentei contigo esse caso Diego Lembra. Você já falou com ele também assim reunião foi bem objetiva, ele não deu muita abertura, né? Falou que já conhecia hora não mostrei a parte do nosso audiência. Então assim não é um cliente que estaria no momento de compra agora então foi um trabalho de educação, foi um trabalho de ajuste de produto."
+      },
+      {
+        "startTime": 2674,
+        "endTime": 2694,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eles têm uma sócia que é eu até coloquei ali na no comentário que a GPL que eles construíram em sociedade estava sendo anunciado por essa outra empresa na hora o cinco produtos, eles pedi ele pediu para fazer essa alteração. Então o meu folap com ele, hoje é justamente para confirmar se já deu tudo certo."
+      },
+      {
+        "startTime": 2694,
+        "endTime": 2710,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu providenciai essa mudança com um time de cadarço atualização para que a gente tirasse os produtos de uma colocasse para ele atualizasse contato comercial, então é bem dentro daquilo que eu até sugerir anteriormente para vocês, né como sugestão de Follow com o cara que está mas não"
+      },
+      {
+        "startTime": 2710,
+        "endTime": 2714,
+        "speaker": "Gustavo Torres",
+        "text": "Vou por isso aqui João o link do agendamento da Mila que não tava nesse só"
+      },
+      {
+        "startTime": 2714,
+        "endTime": 2716,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 2716,
+        "endTime": 2776,
+        "speaker": "Gustavo Torres",
+        "text": "para a gente ter rastreado e vou aproveitar só a oportunidade de abrir rapidinho aqui da Mila que é esse aqui tá legal que ela fez também já nesse modelo de investigação lá que estava falando só para exemplificar então a gente entendeu esse ponto aqui da situação da Incorporadora 11 Empreendimentos um breve lançamento é o motivo é que o Rafael novo contato comercial, então não peça a hora olhar uma Call mesmo igual você falou já de apresentação, ele é de Goiânia, viu de que depois de ontem, viu? Que eu mandei lá uma planilhazinha no grupo."
+      },
+      {
+        "startTime": 2776,
+        "endTime": 2778,
+        "speaker": "Gustavo Torres",
+        "text": "A gente está discutindo, Goiânia uma das traças de prioridade um a gente quer entender um pouco desse contexto vai ser legal é problema aqui, ó, como ele não abriu muitos problemas, por isso que não tem momento crítico que a minha identificou que a gente se relaciona ele tem um breve lançamento e aqui ela já também identificou o impacto essa falha de comunicação com o mercado uma vez que dentro do legal"
+      },
+      {
+        "startTime": 2778,
+        "endTime": 2806,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim Eu até busquei implicar né sobre essa situação de novo lançamento deles aumentarem a divulgação, mas o argumento dele é que é João cara o que você tá me trazendo aí faz todo sentido, só que para a gente no momento, a gente tá seguindo por uma outra estratégia. Eu tô focando mais um trabalho presencial com as imobiliárias, então ele concordou com as nossas entregas e que de fato ajudaria ele mas que para eles no momento tá tudo certo."
+      },
+      {
+        "startTime": 2806,
+        "endTime": 2823,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eles não quer focar nisso, então quem sabe mais para frente a gente consiga explorar né? O potencial que ele tá perdendo hoje da nossa audiência nos imobiliárias também que a gente tem parceiros que são quase 200 tudo isso eu trouxe para ele. Pode falar janela?"
+      },
+      {
+        "startTime": 2825,
+        "endTime": 2878,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu tenho algumas dúvidas na verdade referente a forma que está estruturado. Esse passo a passo desse cliente pegando por exemplo exatamente a partine aí o João ele fez a reunião, ele fez a descoberta, ele fez até então Pelo que eu entendi uma parte de validação estratégica enviou a proposta em teoria, ele estaria em processo de negociação porque o cliente estava com a proposta na mão aguardando e a gente está aguardando análise do cliente para dizer sim ou não? E aí um ponto que eu fico pensando é Se esse cliente nos traz uma negativa a partir de qual momento que a gente vai começar a mapear os fechados e perdidos e os motivos desses fechados e perdidos para que a gente tem uma ação em cima desses dados que a gente pode gerar."
+      },
+      {
+        "startTime": 2880,
+        "endTime": 2896,
+        "speaker": "Gustavo Torres",
+        "text": "Beleza, eu acho que isso é um ponto que a gente vai ter que justamente ir ajustando, viu? Quando a gente pede um cliente quando ele volta exatamente lá, por exemplo para o time de vdr reativar por algum motivo até pode falar."
+      },
+      {
+        "startTime": 2896,
+        "endTime": 2965,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Desculpa, é porque eu vejo uma a gente tá tentando deixar dois modelos comerciais diferentes em um único funil que aí no caso a gente está vendo um funil com uma ideia de insights onde a gente tem a passagem do bdr para o closer para executivo de contas e a partir desse momento que o executivo de contas tem o primeiro contato com o cliente através de uma reunião onde a gente consegue fazer um processo de educação validação, até mesmo o envio da proposta dependendo do cliente é? E aí sim, a gente tem uma resposta do cliente como positivo ou negativa para a gente gerar dados de fechamento, né? Então como eu tava conversando com o di eu mapeei alguns Alguns formatos de incorporadoras, né? O que que eu vejo hoje especificamente em Curitiba, quais estados que essas incorporadoras geralmente estão né, então? Eu tenho alguns estados que é Incorporadora, ela não conhece a orla e ela não está na órgão e ela nunca nos respondeu a gente tem incorporadoras que não conhecem a órgão, mas estão na hora só que nunca responder um comercial que isso também acaba acontecendo."
+      },
+      {
+        "startTime": 2965,
+        "endTime": 2994,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí a gente tem um time de atualização que tem acesso ao drive e vai se atualizando por ali, a gente tem incorporadoras que conhecem órgão, mas nunca fez uma reunião com a gente. Só que ainda assim ela conversa com a gente. Ela nos retorna e a gente tem um relacionamento, só que a gente nunca sentou para conversar sobre isso muitas vezes por incorporou Incorporadora achar que às vezes já conhece ou que não é o momento isso acaba acontecendo."
+      },
+      {
+        "startTime": 2994,
+        "endTime": 3016,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí a gente tem as incorporadoras que já fizeram a reunião, só que não fechou com a gente. Que aí eu acho que seguiria como objetivo, não é deixar esses cards parados num funil, só que ao mesmo tempo eu preciso ter a visualização de toda a praça num único funil para eu manter essa ativação de todos esses cards."
+      },
+      {
+        "startTime": 3016,
+        "endTime": 3041,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Então é São esses os formatos. Que que eu vejo uma certa complexidade e que eu não eu não consigo enxergar o passo a passo nesse funil da forma que está estruturada na realidade como com o trabalho que eu faço aqui tá com a realidade de ensaios. Eu acho que cabe bastante tem o passo a passo até o fechado e perdido tem como a gente manter exato."
+      },
+      {
+        "startTime": 3041,
+        "endTime": 3065,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Nesse exato funil, é só que na questão de Sócio local eu vejo uma certa complexidade de manter todas essas incorporadoras num funil para eu conseguir manter a Cadência de relacionamento de contar de contato. E aí ainda assim gerar os fechados e perdidos e ainda assim geral os dados para a gente conseguir trabalhar nesse em cima são algumas coisas que eu pensei durante essa reunião."
+      },
+      {
+        "startTime": 3065,
+        "endTime": 3068,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Que eu acho que é importante para vocês."
+      },
+      {
+        "startTime": 3070,
+        "endTime": 3092,
+        "speaker": "Gustavo Torres",
+        "text": "Sim. Acho que o desafio eu entendo assim se teu desafio eu acho que a solução pode estar injustamente a utilização do Funil de PDR para essa galera mais fria. É que eu entendo que no trabalho de sócio local, existe um pouco de trabalho, por exemplo que seria feito em tese lá pelo time de cadastro que seria feito em tese tem um pouquinho de cada de cada ação."
+      },
+      {
+        "startTime": 3092,
+        "endTime": 3118,
+        "speaker": "Gustavo Torres",
+        "text": "E aí é justamente do Funil. Por exemplo de vdr que você pode ter essa diferenciação de O que que tá muito longe do fechamento e ainda muito numa pensa que o funil de PDR ele ele acaba ali. Teoricamente ele é um funil de conscientização. Então esse cara que nem tá na hora não nem sabe por que que é hora ele tá lá, ele tinha que tá lá no tá lá tentando contato que você nunca conseguiu contato."
+      },
+      {
+        "startTime": 3118,
+        "endTime": 3145,
+        "speaker": "Gustavo Torres",
+        "text": "Ou no máximo que você já conversou uma vez e nunca fez uma reunião que é só Aquela fase ainda estaria atendimento. O que você já até conversou até responder você até você fez uma reunião, mas ainda não avançou. Comercialmente ainda se encontraria lá por exemplo em reunião realizada. E aí passaria para essa etapa que do Funil de executivo de contas aquelas incorporadoras que já entrariam no teu pai mesmo de tipo tá aqui agora a gente já tá falando da mesma língua."
+      },
+      {
+        "startTime": 3145,
+        "endTime": 3167,
+        "speaker": "Gustavo Torres",
+        "text": "Ele já tem consciência da hora. Ele já sabe exatamente ali o que a gente faz agora. Eu preciso só nutrir esse cliente preciso só ele já tem uma consciência limpa da hora e por isso agora esperar o momento da Incorporadora. Vou dar um exemplo digamos a própria. É 108 incorporações que fechou ali do plateia é do plateia, né? Então Digamos que antes antes de agora."
+      },
+      {
+        "startTime": 3167,
+        "endTime": 3202,
+        "speaker": "Gustavo Torres",
+        "text": "Ela poderia estar lá numa reunião realizada de vdr que você fez porque fez em União falou que não tipo deu uma negativa não avançou não quis comprar ou do máximo você colocaria ela para educação e ativação porque você ele entendeu o produto até falou que poderia estar assistindo, mas não naquele momento, mas eu acho que seria encontrar dentro lá do Funil de bdr como você pega o funil inteiro que você tem hoje e reparte até para você ter como se fosse um filho mais quente e o filho mais frio, mas Óbvio as janela se você acha que não encaixa aí vamos falando."
+      },
+      {
+        "startTime": 3202,
+        "endTime": 3247,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu vejo que encaixa eu tava pensando exatamente isso até porque tava até encaixando porque o funil de bdr faz sentido para a gente fazer essa subdivisão. Eh só a partir do momento de passagem de para geração de fechada e perdido que eu acho que a gente teria que ter também ali no funil de bdr só para a gente manter também os dados centralizados ali praias incorporadoras que não respondem, né? E aí para as incorporadoras que eu mantenho essa educação, por exemplo que já fiz reunião e que deu a negativa faria o fechado e perdido e voltaria para o funil de BRS, porque eu vejo que eu preciso dessa visualização completa da praça que todas as incorporadoras estejam centralizados no CRM."
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3272,
+        "speaker": "Gustavo Torres",
+        "text": "Legal, só um ponto antes você falar até de o objetivo da gente ter feito transferido o funil de bdrs janela para ir para funil e não ter deixado em blitz é para que você possa, por exemplo posso até transferir de um funil pro outro para não esse aqui na real preciso ou você pode perder e reativar ele mais para frente, mas só para avisar que dá para transferir de um filho para o outro tranquilo, seu próprio Card sem ter que criar um novo."
+      },
+      {
+        "startTime": 3272,
+        "endTime": 3280,
+        "speaker": "Gustavo Torres",
+        "text": "Acho que você vai conseguir utilizar isso até de uma maneira mais limpa ainda por conta da de ser sócio local da praça. Fala aí."
+      },
+      {
+        "startTime": 3283,
+        "endTime": 3313,
+        "speaker": "Diego Diehl",
+        "text": "eu acho que As suas necessidades. Estão relativamente Claras para mim assim dá para a gente eu entendo a importância de enxergar. todas as incorporadoras no mesmo local Mas isso eu consigo resolver de outras formas também, por exemplo. Tô fazendo um portal que vai ser bem melhor do que você enxergar fases com Incorporadora que você olha seis incorporadoras só e o resto."
+      },
+      {
+        "startTime": 3313,
+        "endTime": 3346,
+        "speaker": "Diego Diehl",
+        "text": "Tem que rolar para baixo. Você não enxerga todas o pipeline para trabalho, não é nem para visualização globalização. Então eu acho que tem algumas dores que a gente vai conseguir resolver de uma forma melhor que hoje nem resolve. Eu acho que é legal você refletir sobre a sensação de uma coisa Às vezes a sensação de versos do que realmente gera valor, qualquer sensação de ter tudo no mesmo lugar."
+      },
+      {
+        "startTime": 3346,
+        "endTime": 3373,
+        "speaker": "Diego Diehl",
+        "text": "Né? Ou qual que eu ganho qualquer perda disso que dá para a gente ajustar tá? Tipo assim, se for necessário por algum motivo Claro. Talvez eu já falei isso, talvez eu tenha. Um exemplo tá vendo a gente possa ter uma duas fases anteriores do executivo de contas que representam o bdr que é tipo."
+      },
+      {
+        "startTime": 3373,
+        "endTime": 3399,
+        "speaker": "Diego Diehl",
+        "text": "Cara, sei lá longe e perto longe quase agendando de algum nome e tem todas as incorporadoras lá. E aí eu vou saber coisas que estão acontecendo cara, quantas incorporadoras a gente está trabalhando é o que tá na fase daqui para frente ali para trás ninguém tá trabalhando nada. Então a gente tem duas incorporado."
+      },
+      {
+        "startTime": 3399,
+        "endTime": 3429,
+        "speaker": "Diego Diehl",
+        "text": "E a gente consegue ter uma visualização. Eu também quero ter a visualização de todas as incorporadoras da órgão. Em algum momento tá? Então a gente vai resolver. Porque eu queria pedir. Eu queria pedir são parentes um problema de passar um card para o outro, não sei se resolve não sei como é que é transformar pergunta o filho de brita por pessoa."
+      },
+      {
+        "startTime": 3429,
+        "endTime": 3442,
+        "speaker": "Diego Diehl",
+        "text": "Executivo de contas tá tipo título que eu enxergo do card é o nome da Incorporadora, se ele passar já transmuta já muda. Então, não tem problema mesmo."
+      },
+      {
+        "startTime": 3443,
+        "endTime": 3448,
+        "speaker": "Gustavo Torres",
+        "text": "Em tédio não porque o que ela falou me explicou pra gente que aqui é só um ordenamento diferente."
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3472,
+        "speaker": "Diego Diehl",
+        "text": "De visualização de Campos, ah Ótimo então usa nela a gente está num período de olhar CRM nada tá decidido, o que que não dá? Não dá para eu já conversar decidir sem você ter operado. Porque pode ser que você operando você sabe fale caramba, tá bom para um c****** bem melhor."
+      },
+      {
+        "startTime": 3472,
+        "endTime": 3506,
+        "speaker": "Diego Diehl",
+        "text": "Eu tenho meu fundo ele funil que é o fechador e relacionamento e eu tenho o meu eu prospecção se eu não entro no meu funil prospecção, cara. Não tô fazendo prospecção. Eu tô vivendo um acaso da minha paz, eu tô trabalhando meu daqui a pouco a gente vê outros benefícios e entende as dores então talvez o meu pedido agora é? Já era tarefa para essa semana e qualquer forma comercial local vai deixar de existir."
+      },
+      {
+        "startTime": 3506,
+        "endTime": 3535,
+        "speaker": "Diego Diehl",
+        "text": "Passar da forma que vocês entenderem. E aí daqui a pouco as necessidades depois de depois de ter. Duas semanas mexendo três semanas mexendo a gente entende? O que precisa a gente faz. E aí com clareza Tá mas o que não vai dar para acesa nela é Ah, eu preciso eu preciso ver é quase que eu sinto que eu preciso ver todas num só local."
+      },
+      {
+        "startTime": 3536,
+        "endTime": 3537,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não é sim."
+      },
+      {
+        "startTime": 3537,
+        "endTime": 3540,
+        "speaker": "Diego Diehl",
+        "text": "Eu digo tô falando só que não dá para ser o qual você quer trazer algum"
+      },
+      {
+        "startTime": 3540,
+        "endTime": 3543,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "é que"
+      },
+      {
+        "startTime": 3543,
+        "endTime": 3563,
+        "speaker": "Diego Diehl",
+        "text": "ponto finalizar o treinamento pessoal, eu vou ter um tempo para conversar com os anélicos para a gente definir o processo sócio local, eu não preciso tomar tempo de todo mundo, mas enfim da mesma forma que os bebés e para os closers elementos que vocês vêm que estão atrapalhando o trabalho."
+      },
+      {
+        "startTime": 3563,
+        "endTime": 3578,
+        "speaker": "Diego Diehl",
+        "text": "Vamos conversando CRM é para vocês não é para gente não tá? Talvez ser uma coisa que eu falei, eu preciso disso então você vai ter que fazer daqui a pouco a gente toma ativa, mas é sempre uma um diálogo tá? Não é fechou."
+      },
+      {
+        "startTime": 3581,
+        "endTime": 3604,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu só queria tirar uma dúvida, Diego e Gustavo sobre esse caso da parte de Goiânia é baseado no nosso processo ali que foi superado Gustavo falou muito sobre aquela questão de uma proposta ela não se tornar um mais um orçamento certo e eu acredito que é o que vai acontecer agora o Rafael me pediu a proposta, mas sabe quando você pede a proposta para João."
+      },
+      {
+        "startTime": 3604,
+        "endTime": 3616,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Me manda a proposta aí cara, que eu vou dar uma olhada com meu diretor, mas o cara não me deu o mínimo abertura em reunião então esse cenário Gustavo eu acredito que vai virar um orçamento na mão do cara, mas o que que acontece mesmo que eu não"
+      },
+      {
+        "startTime": 3616,
+        "endTime": 3621,
+        "speaker": "Gustavo Torres",
+        "text": "boa"
+      },
+      {
+        "startTime": 3621,
+        "endTime": 3641,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "mandasse hoje mandasse daqui a dois meses quando ele tivesse mais no momento mais adequado. Questões de valores mudaria muito pouco, eles têm um estoque elevado então para a gente em questão de investimento não vai mudar a pergunta é faz sentido da gente mandar uma proposta na etapa que o cara tá hoje ou esperamos ele amadurecer e mandamos depois."
+      },
+      {
+        "startTime": 3643,
+        "endTime": 3660,
+        "speaker": "Gustavo Torres",
+        "text": "Eu eu acho que o que que vai ser dois pontos importantes primeiro é justamente esse um dos materiais que eu tô pedindo para Mayumi um modelo de pré-proposta que não fale de valores e fale como se fosse uma proposta de serviço. É o"
+      },
+      {
+        "startTime": 3660,
+        "endTime": 3673,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "cliente, ele não sabe por exemplo que a nossa a tabela de preço. Ela é anual a gente pode inclusive falar não vou te montar uma proposta hoje porque assim a gente tem lá no contrato depois que ele ensina, mas ele"
+      },
+      {
+        "startTime": 3673,
+        "endTime": 3677,
+        "speaker": "Diego Diehl",
+        "text": "Eu nem fiz reunião, a gente nem conversou com teu diretor, a gente tá"
+      },
+      {
+        "startTime": 3677,
+        "endTime": 3728,
+        "speaker": "Gustavo Torres",
+        "text": "É tipo dá para isso fala assim, ó para até para onde passar uma proposta sem ser o que vocês precisam de fato, já que a gente personaliza x y z, eu vou te entregar uma proposta. Vou te mandar uma proposta de valor de serviço. O que que significa hora ele explicar para você um pouco da lógica de como funcionaria num cenário de contratação uma precificação que é sem valores é o que eu quero trazer junto com a Mayumi algo que traga os eixos que a gente entrega no modelo avançado algo que traga uma parte personalizada ali para você colocar da Incorporadora, o que vocês apresentam em um do tipo hoje, você tem x Imobiliários procuradora partindo tem x imobiliárias Integradas avançando parada na data de hoje entrariam mais x daí a gente vai editando esses campos para que seja uma proposta de serviço, para que ele possa estar entre ou educação e validação estratégica que daí são materiais de pré-proposta."
+      },
+      {
+        "startTime": 3728,
+        "endTime": 3783,
+        "speaker": "Gustavo Torres",
+        "text": "E aí eu só mandaria uma. Oficial para ele quando ele tivesse não é realmente, eu quero isso, mas a empresa também quer validez estratégicamente agora eu quero que você ponha isso em valores. Traga isso para minha realidade aí a partir desse momento que ele entraria numa proposta por mão enviada que nem seria uma proposta final, mas agora a gente tá falando de valores, porque acho que aí tá muito para a gente conseguir e esse é um Desafio tá João que a gente vai descobrindo junto que era o principal desafio que a gente antes de muita proposta que é enviada antes virar orçamento que era o nosso processo até então, né? E é o que a gente tá descobrindo de como a gente consegue entregar um certo tipo de propósito de serviço sem falar de valores para que a gente não fique discutindo preço com o cliente e a gente escuta de fato valor, porque senão o cara fala pô é igual ao Exemplo, foi a gente falou hoje sobre o exemplo."
+      },
+      {
+        "startTime": 3783,
+        "endTime": 3811,
+        "speaker": "Gustavo Torres",
+        "text": "Não sei se foi esse da partindo isso foi algum da Jade eu não lembro que a pessoa falar acho que você não ele até quer vender até gostou, mas agora. Rporadora não vai querer fazer você vai querer gastar com isso não enxergou o valor porque se tá preocupado com venda se quer tipo vender mais se quer tipo aumentar o canal de parcerias e tá tipo chorando por conta de 500 600 mil reais nem entendeu o valor que isso entregaria lá de Roy, por exemplo."
+      },
+      {
+        "startTime": 3811,
+        "endTime": 3829,
+        "speaker": "Gustavo Torres",
+        "text": "Esse é um outro desafio como a gente vai unindo ali o time comercial de materiais para essa etapa de validação estratégica, porque fazia isso que eu trouxe para Mayumi de construção. Estão pautados nessas duas etapas. Com base no que vocês trouxeram na última reunião que a gente fez tá tudo lá com a Mayumi João que eles apontamentos"
+      },
+      {
+        "startTime": 3829,
+        "endTime": 3830,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 3830,
+        "endTime": 3850,
+        "speaker": "Gustavo Torres",
+        "text": "viraram um documento. Depois vou até compartilhar uma olhada, mas também dessa validação de pré-proposta que eu chamei que é tipo quero ter algo que eu entregue para Incorporadora que não conste valores e se for para constar um valor outro a gente coloca uma taxa de implementação, só que é sempre um padrão e a gente deixa em aberto que dependendo a gente negocia."
+      },
+      {
+        "startTime": 3850,
+        "endTime": 3856,
+        "speaker": "Gustavo Torres",
+        "text": "Enfim algo desse tipo só para o cara também não achar que tá no escuro e ter uma ideia inicial."
+      },
+      {
+        "startTime": 3858,
+        "endTime": 3859,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 3859,
+        "endTime": 3865,
+        "speaker": "Gustavo Torres",
+        "text": "fala de"
+      },
+      {
+        "startTime": 3865,
+        "endTime": 3896,
+        "speaker": "Diego Diehl",
+        "text": "Vou tentar só avisar um pouco aqui. João primeiro ponto você fez reunião com o cara e você vai sentir o que precisa ser feito. Segundo ponto jogar a proposta com valor sem muita aproximação vou te dar um exemplo um exemplo que aproveitar as panelas. Do Cláudio 500 por mês."
+      },
+      {
+        "startTime": 3896,
+        "endTime": 3897,
+        "speaker": "Diego Diehl",
+        "text": "Bora assinar."
+      },
+      {
+        "startTime": 3900,
+        "endTime": 3901,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "aí eu"
+      },
+      {
+        "startTime": 3901,
+        "endTime": 3903,
+        "speaker": "Gustavo Torres",
+        "text": "Quando ele fala assim, sabe?"
+      },
+      {
+        "startTime": 3905,
+        "endTime": 3943,
+        "speaker": "Diego Diehl",
+        "text": "Você acredita nisso hoje? Não, mas você vai fazer o Cláudio vender duas. Se você souber assina eu pago para você então uma relação de Acreditar também, né e ver o Royal, né assim no Cláudio porque não é caro. E 100 reais não. Porque nem falei nada, entendeu? Agora convence a Isa a rachar com ela."
+      },
+      {
+        "startTime": 3943,
+        "endTime": 3981,
+        "speaker": "Diego Diehl",
+        "text": "É sempre a cada janela, nem entendeu direito, o que que ele vai fazer? Tô falando alto aqui, eu preciso dividir no escritório a Isa usa nela, nem entendeu direito, o que que o Cláudio vai fazer na vida dele para gerar valor e ele tem que ir lá sentar para namorada dele convencer ela a assinar e tirar dinheiro dela, entendeu? A dor só precisando de uma analogia então João uma dica minha é que o bom vendedor ele conduz o processo."
+      },
+      {
+        "startTime": 3981,
+        "endTime": 4011,
+        "speaker": "Diego Diehl",
+        "text": "Então primeiro que o cliente pediu uma proposta, tá errado já. Então você guia, ó. Tô te apresentando é uma primeira visualização aqui o nosso processo seguem eu vou te mandar uma pré-proposta. Que é basicamente uma proposta sem valor? Para você lembrar dos entregagáveis e trocar uma ideia que o diretor para ver se ele tem interesse a gente fazer uma reunião de fechamento."
+      },
+      {
+        "startTime": 4011,
+        "endTime": 4022,
+        "speaker": "Diego Diehl",
+        "text": "Entendeu? Então, a gente tá mudando o processo agora, se você se sentir apertado não vê saído tiver que mandar Beleza já mandamos 300. Beleza a gente vai medir ou"
+      },
+      {
+        "startTime": 4022,
+        "endTime": 4035,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A ideia a ideia é a ideia é mudar tanto é que eu tô me questionando isso a partir de agora porque a gente manda eu mandava sempre só que virava um orçamento na mão do cara entende? Então esse caso eu já tava na qual a"
+      },
+      {
+        "startTime": 4035,
+        "endTime": 4037,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso."
+      },
+      {
+        "startTime": 4037,
+        "endTime": 4039,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "mentalidade de não mandar por que que você quer continuar?"
+      },
+      {
+        "startTime": 4039,
+        "endTime": 4072,
+        "speaker": "Diego Diehl",
+        "text": "Se você quiser, se você quiser mandar o orçamento. Com muito valor gerado. Beleza, cara, olha só nossa expectativa é que x mil corretores visualizem o teu produto a mais x Imobiliários recebam que você tenha x visitas a mais que dessas visitas Gere x vendas a mais. Então você vai me pagar r$ 1000 e você vai gerar um milhão em vendas no ano."
+      },
+      {
+        "startTime": 4072,
+        "endTime": 4098,
+        "speaker": "Diego Diehl",
+        "text": "Isso vai te custar 01% do que eu te gerei em Venda fora todos os outros benefícios, a gente tem que evoluir para isso. E sabe qual que é o metro louco às vezes? De ligar para o cara falar cara, olha só sempre te aposto, mas deixa eu te jogar Real."
+      },
+      {
+        "startTime": 4098,
+        "endTime": 4129,
+        "speaker": "Diego Diehl",
+        "text": "Eu senti que nem na reunião você nem tipo, eu nem consegui explicar tudo você acabou de entender você precisa também uma oportunidade de ter uma venda. Tipo, meu processo não dá certo assim. Que que você acha da gente não te mandar algo para você trazer uma reunião ó, dia 15 de Maio, eu tenho um evento por sinal."
+      },
+      {
+        "startTime": 4129,
+        "endTime": 4140,
+        "speaker": "Diego Diehl",
+        "text": "Sabe alguma coisa do tipo assim se você não tem saída. Eu normalmente vendo assim, você não tem saída. Liga para a pessoa seja sincero. Se quiser conversar, avisa aí."
+      },
+      {
+        "startTime": 4140,
+        "endTime": 4150,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Fechou demais. Show e a pergunta que não quer calar previsão desses documentos estarem prontos na primeira versão esse mês será Gustavo."
+      },
+      {
+        "startTime": 4151,
+        "endTime": 4155,
+        "speaker": "Diego Diehl",
+        "text": "Você já validaram? Então nem começou"
+      },
+      {
+        "startTime": 4155,
+        "endTime": 4159,
+        "speaker": "Gustavo Torres",
+        "text": "não não porque eu não passei por"
+      },
+      {
+        "startTime": 4159,
+        "endTime": 4161,
+        "speaker": "Diego Diehl",
+        "text": "Então nem começou a contar o prazo ainda."
+      },
+      {
+        "startTime": 4161,
+        "endTime": 4166,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Beleza, se precisar de um fazer um marcar uma reunião aí Gustavo pra gente bater alguns pontos."
+      },
+      {
+        "startTime": 4167,
+        "endTime": 4168,
+        "speaker": "Gustavo Torres",
+        "text": "tá, tá"
+      },
+      {
+        "startTime": 4168,
+        "endTime": 4187,
+        "speaker": "Diego Diehl",
+        "text": "Se vocês que vão usar os documentos, vocês tem que dizer se a gente vai mandar produzir vai gastar dinheiro para isso tipo usar nela. Eu falei eu vou mandar produzir brinde, você vai usar? Você vai entregar os brindes, tem que entregar os brindes, não vou produzir vocês tem que olhar lá, você tem que mandar print para o João lá já falou"
+      },
+      {
+        "startTime": 4187,
+        "endTime": 4188,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu não sabia que era 5.000."
+      },
+      {
+        "startTime": 4192,
+        "endTime": 4193,
+        "speaker": "Diego Diehl",
+        "text": "com ele."
+      },
+      {
+        "startTime": 4194,
+        "endTime": 4198,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não tá tá notado aqui para falar contigo hoje aí."
+      },
+      {
+        "startTime": 4198,
+        "endTime": 4200,
+        "speaker": "Diego Diehl",
+        "text": "Vou despachar."
+      },
+      {
+        "startTime": 4200,
+        "endTime": 4203,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Aí você vai amar não diz."
+      },
+      {
+        "startTime": 4203,
+        "endTime": 4218,
+        "speaker": "Diego Diehl",
+        "text": "Fechou, a gente tá ligado para eles olharem porque eles tem que dar ok que eles vão usar esse negócio a gente não vai fazer. Tá bom então pessoal tá dispensado e vamos falar repetindo."
+      },
+      {
+        "startTime": 4219,
+        "endTime": 4220,
+        "speaker": "Gustavo Torres",
+        "text": "Fico aqui."
+      },
+      {
+        "startTime": 4220,
+        "endTime": 4222,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 4222,
+        "endTime": 4225,
+        "speaker": "Diego Diehl",
+        "text": "Valeu falou"
+      },
+      {
+        "startTime": 4225,
+        "endTime": 4226,
+        "speaker": "Gustavo Torres",
+        "text": "beleza"
+      },
+      {
+        "startTime": 4226,
+        "endTime": 4228,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Pessoal, bora."
+      },
+      {
+        "startTime": 4228,
+        "endTime": 4230,
+        "speaker": "Gustavo Torres",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 4230,
+        "endTime": 4231,
+        "speaker": "Mirla Menezes",
+        "text": "Tchau pessoal"
+      },
+      {
+        "startTime": 4231,
+        "endTime": 4231,
+        "speaker": "Diego Diehl",
+        "text": "tchau"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 182,
+    "speakers": [
+      "Mirla Menezes",
+      "João Vitor Portes da Silva",
+      "Jade Rosa",
+      "Gustavo Torres",
+      "Luan Felipe de Souza",
+      "Luiz Gustavo Zanella",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 6611,
+    "duration_start": 27,
+    "duration_end": 4231
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69cd198e6e30950012ab5e19",
+        "timestamp": 832,
+        "text": "Mateus é arquiteto de sistemas usando plataforma para estudo pessoal e vinculado à incorporadora",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1a",
+        "timestamp": 895,
+        "text": "Mateus estuda viabilidade e ticket médio de incorporadoras em Curitiba para lançamentos",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1c",
+        "timestamp": 1289,
+        "text": "Bianca demonstrou interesse exclusivo no evento, não em reunião comercial",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e11",
+        "timestamp": 1361,
+        "text": "Mirla detalhar situação e problema dos Pais no agendamento com Marcelo",
+        "topicId": "69cd198e6e30950012ab5e09"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e18",
+        "timestamp": 1440,
+        "text": "Feedback do closer após reunião deve ser registrado no card do BDR e do closer",
+        "topicId": "69cd198e6e30950012ab5e0a"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e16",
+        "timestamp": 1873,
+        "text": "Etapa de educação e ativação requer ações rápidas como disparos de email com prova social",
+        "topicId": "69cd198e6e30950012ab5e0a"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e17",
+        "timestamp": 2040,
+        "text": "Liberar acesso de usuários e acompanhar engajamento são ações de educação e ativação",
+        "topicId": "69cd198e6e30950012ab5e0a"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1b",
+        "timestamp": 2563,
+        "text": "Bianca tem 80% do estoque vendido e sem lançamento previsto para este ano",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e23",
+        "timestamp": 2584,
+        "text": "Empresa contratando desenvolvedor para focar em automações comerciais",
+        "topicId": "69cd198e6e30950012ab5e0d"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e24",
+        "timestamp": 2589,
+        "text": "Time de Marcelo terá duas pessoas dedicadas exclusivamente a automações",
+        "topicId": "69cd198e6e30950012ab5e0d"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e25",
+        "timestamp": 2614,
+        "text": "Empresa de ar conectará WhatsApp diretamente ao CRM com atualização automática",
+        "topicId": "69cd198e6e30950012ab5e0d"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1d",
+        "timestamp": 2656,
+        "text": "Rafael Rabelo da Partini não deu abertura em reunião e já conhecia a plataforma",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1e",
+        "timestamp": 2778,
+        "text": "Rafael Rabelo está focando em trabalho presencial com imobiliárias, não em divulgação digital",
+        "topicId": "69cd198e6e30950012ab5e0b"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e27",
+        "timestamp": 2934,
+        "text": "Incorporadoras têm diferentes estágios de conhecimento e relacionamento com plataforma",
+        "topicId": "69cd198e6e30950012ab5e0e"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e28",
+        "timestamp": 3041,
+        "text": "Sócio local precisa manter visualização completa da praça e cadência de relacionamento",
+        "topicId": "69cd198e6e30950012ab5e0e"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e14",
+        "timestamp": 3104,
+        "text": "Funil de PDR funciona como conscientização para incorporadoras que não conhecem a plataforma",
+        "topicId": "69cd198e6e30950012ab5e0a"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e15",
+        "timestamp": 3134,
+        "text": "Funil de executivo de contas recebe incorporadoras que já têm consciência e conhecem a plataforma",
+        "topicId": "69cd198e6e30950012ab5e0a"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e29",
+        "timestamp": 3247,
+        "text": "Transferência de cards entre funneis é possível sem criar novo card",
+        "topicId": "69cd198e6e30950012ab5e0e"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e26",
+        "timestamp": 3301,
+        "text": "Portal em desenvolvimento resolverá visualização de incorporadoras melhor que funil atual",
+        "topicId": "69cd198e6e30950012ab5e0d"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e2a",
+        "timestamp": 3449,
+        "text": "CRM está em período de avaliação e nenhuma decisão foi finalizada",
+        "topicId": "69cd198e6e30950012ab5e0e"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e12",
+        "timestamp": 3498,
+        "text": "Luiz operar novo modelo de funil BDR por duas a três semanas antes de decisões finais",
+        "topicId": "69cd198e6e30950012ab5e09"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e13",
+        "timestamp": 3543,
+        "text": "Diego conversar com Luiz após treinamento para definir processo de sócio local",
+        "topicId": "69cd198e6e30950012ab5e09"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e0f",
+        "timestamp": 3643,
+        "text": "Gustavo preparar modelo de pré-proposta sem valores com Mayumi para validação estratégica",
+        "topicId": "69cd198e6e30950012ab5e09"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e1f",
+        "timestamp": 3687,
+        "text": "Pré-proposta deve explicar lógica de funcionamento sem incluir valores monetários",
+        "topicId": "69cd198e6e30950012ab5e0c"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e20",
+        "timestamp": 3729,
+        "text": "Proposta oficial com valores deve ser enviada apenas quando cliente valida estrategicamente",
+        "topicId": "69cd198e6e30950012ab5e0c"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e21",
+        "timestamp": 3971,
+        "text": "Vendedor deve conduzir processo e não deixar cliente pedir proposta prematuramente",
+        "topicId": "69cd198e6e30950012ab5e0c"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e22",
+        "timestamp": 4046,
+        "text": "Proposta deve demonstrar ROI esperado em vendas geradas versus investimento necessário",
+        "topicId": "69cd198e6e30950012ab5e0c"
+      },
+      {
+        "segmentId": "69cd198e6e30950012ab5e10",
+        "timestamp": 4161,
+        "text": "João marcar reunião com Gustavo para definir pontos sobre documentos de proposta",
+        "topicId": "69cd198e6e30950012ab5e09"
+      }
+    ],
+    "markdownContent": "## 1. Itens de Ação\n\n- [ ] Gustavo preparar modelo de pré-proposta sem valores com Mayumi para validação estratégica [01:00:43](/app/meetings/69cd08ba5339450013b8fd72?t=3643)\n- [ ] João marcar reunião com Gustavo para definir pontos sobre documentos de proposta [01:09:21](/app/meetings/69cd08ba5339450013b8fd72?t=4161)\n- [ ] Mirla detalhar situação e problema dos Pais no agendamento com Marcelo [22:41](/app/meetings/69cd08ba5339450013b8fd72?t=1361)\n- [ ] Luiz operar novo modelo de funil BDR por duas a três semanas antes de decisões finais [58:18](/app/meetings/69cd08ba5339450013b8fd72?t=3498)\n- [ ] Diego conversar com Luiz após treinamento para definir processo de sócio local [59:03](/app/meetings/69cd08ba5339450013b8fd72?t=3543)\n\n## 2. Estrutura do Funil de Vendas\n\n- Funil de PDR funciona como conscientização para incorporadoras que não conhecem a plataforma [51:44](/app/meetings/69cd08ba5339450013b8fd72?t=3104)\n- Funil de executivo de contas recebe incorporadoras que já têm consciência e conhecem a plataforma [52:14](/app/meetings/69cd08ba5339450013b8fd72?t=3134)\n- Etapa de educação e ativação requer ações rápidas como disparos de email com prova social [31:13](/app/meetings/69cd08ba5339450013b8fd72?t=1873)\n- Liberar acesso de usuários e acompanhar engajamento são ações de educação e ativação [34:00](/app/meetings/69cd08ba5339450013b8fd72?t=2040)\n- Feedback do closer após reunião deve ser registrado no card do BDR e do closer [24:00](/app/meetings/69cd08ba5339450013b8fd72?t=1440)\n\n## 3. Investigação e Qualificação de Clientes\n\n- Mateus é arquiteto de sistemas usando plataforma para estudo pessoal e vinculado à incorporadora [13:52](/app/meetings/69cd08ba5339450013b8fd72?t=832)\n- Mateus estuda viabilidade e ticket médio de incorporadoras em Curitiba para lançamentos [14:55](/app/meetings/69cd08ba5339450013b8fd72?t=895)\n- Bianca tem 80% do estoque vendido e sem lançamento previsto para este ano [42:43](/app/meetings/69cd08ba5339450013b8fd72?t=2563)\n- Bianca demonstrou interesse exclusivo no evento, não em reunião comercial [21:29](/app/meetings/69cd08ba5339450013b8fd72?t=1289)\n- Rafael Rabelo da Partini não deu abertura em reunião e já conhecia a plataforma [44:16](/app/meetings/69cd08ba5339450013b8fd72?t=2656)\n- Rafael Rabelo está focando em trabalho presencial com imobiliárias, não em divulgação digital [46:18](/app/meetings/69cd08ba5339450013b8fd72?t=2778)\n\n## 4. Gestão de Propostas e Precificação\n\n- Pré-proposta deve explicar lógica de funcionamento sem incluir valores monetários [01:01:27](/app/meetings/69cd08ba5339450013b8fd72?t=3687)\n- Proposta oficial com valores deve ser enviada apenas quando cliente valida estrategicamente [01:02:09](/app/meetings/69cd08ba5339450013b8fd72?t=3729)\n- Vendedor deve conduzir processo e não deixar cliente pedir proposta prematuramente [01:06:11](/app/meetings/69cd08ba5339450013b8fd72?t=3971)\n- Proposta deve demonstrar ROI esperado em vendas geradas versus investimento necessário [01:07:26](/app/meetings/69cd08ba5339450013b8fd72?t=4046)\n\n## 5. Automações e Tecnologia\n\n- Empresa contratando desenvolvedor para focar em automações comerciais [43:04](/app/meetings/69cd08ba5339450013b8fd72?t=2584)\n- Time de Marcelo terá duas pessoas dedicadas exclusivamente a automações [43:09](/app/meetings/69cd08ba5339450013b8fd72?t=2589)\n- Empresa de ar conectará WhatsApp diretamente ao CRM com atualização automática [43:34](/app/meetings/69cd08ba5339450013b8fd72?t=2614)\n- Portal em desenvolvimento resolverá visualização de incorporadoras melhor que funil atual [55:01](/app/meetings/69cd08ba5339450013b8fd72?t=3301)\n\n## 6. Desafios Operacionais\n\n- Incorporadoras têm diferentes estágios de conhecimento e relacionamento com plataforma [48:54](/app/meetings/69cd08ba5339450013b8fd72?t=2934)\n- Sócio local precisa manter visualização completa da praça e cadência de relacionamento [50:41](/app/meetings/69cd08ba5339450013b8fd72?t=3041)\n- Transferência de cards entre funneis é possível sem criar novo card [54:07](/app/meetings/69cd08ba5339450013b8fd72?t=3247)\n- CRM está em período de avaliação e nenhuma decisão foi finalizada [57:29](/app/meetings/69cd08ba5339450013b8fd72?t=3449)",
+    "topics": [
+      {
+        "id": "69cd198e6e30950012ab5e09",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69cd198e6e30950012ab5e0a",
+        "order": 2,
+        "title": "Estrutura do Funil de Vendas",
+        "summary": ""
+      },
+      {
+        "id": "69cd198e6e30950012ab5e0b",
+        "order": 3,
+        "title": "Investigação e Qualificação de Clientes",
+        "summary": ""
+      },
+      {
+        "id": "69cd198e6e30950012ab5e0c",
+        "order": 4,
+        "title": "Gestão de Propostas e Precificação",
+        "summary": ""
+      },
+      {
+        "id": "69cd198e6e30950012ab5e0d",
+        "order": 5,
+        "title": "Automações e Tecnologia",
+        "summary": ""
+      },
+      {
+        "id": "69cd198e6e30950012ab5e0e",
+        "order": 6,
+        "title": "Desafios Operacionais",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 28,
+    "topic_count": 6,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69cd198e6e30950012ab5e09",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69cd198e6e30950012ab5e0a",
+      "order": 2,
+      "title": "Estrutura do Funil de Vendas",
+      "summary": ""
+    },
+    {
+      "id": "69cd198e6e30950012ab5e0b",
+      "order": 3,
+      "title": "Investigação e Qualificação de Clientes",
+      "summary": ""
+    },
+    {
+      "id": "69cd198e6e30950012ab5e0c",
+      "order": 4,
+      "title": "Gestão de Propostas e Precificação",
+      "summary": ""
+    },
+    {
+      "id": "69cd198e6e30950012ab5e0d",
+      "order": 5,
+      "title": "Automações e Tecnologia",
+      "summary": ""
+    },
+    {
+      "id": "69cd198e6e30950012ab5e0e",
+      "order": 6,
+      "title": "Desafios Operacionais",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:52:09.199554+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:52:09.199554+00:00"
+}

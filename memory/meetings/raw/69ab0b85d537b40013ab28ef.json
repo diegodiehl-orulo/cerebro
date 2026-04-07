@@ -1,0 +1,32 @@
+{
+  "id": "69ab0b85d537b40013ab28ef",
+  "happenedAt": "2026-03-06T17:15:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Paulo Deitos",
+      "email": "pd@cfgroup.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Funil CRI",
+  "duration": 3228.171,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69ab0b85d537b40013ab28ef",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "egw-yzvm-xcp"
+  }
+}

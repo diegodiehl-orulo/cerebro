@@ -1,0 +1,42 @@
+{
+  "meeting_id": "6977c7b7764dcd0013dc6ea3",
+  "name": "Tamira <> Processo Seletivo | AE Órulo",
+  "happened_at": "2026-01-26T20:00:00.000Z",
+  "duration_seconds": 403.267,
+  "duration_minutes": 6.7,
+  "organizer": {
+    "name": "Gustavo Torres",
+    "email": "gustavo.torres@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "eeliza257@gmail.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6977c7b7764dcd0013dc6ea3",
+  "template": {},
+  "conference_id": "pst-fihg-wjt",
+  "transcript_status": "error",
+  "notes_status": "error",
+  "analysis_status": "ready",
+  "transcript": null,
+  "transcript_summary": null,
+  "transcript_unavailable_reason": "unexpected: Erro HTTP 403 em transcript.",
+  "notes": null,
+  "notes_summary": null,
+  "notes_unavailable_reason": "unexpected: Erro HTTP 403 em notes.",
+  "topics": [],
+  "collected_at": "2026-04-06T23:50:50.818834+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:50.818834+00:00"
+}

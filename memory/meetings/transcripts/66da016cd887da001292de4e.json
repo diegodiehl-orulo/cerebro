@@ -1,0 +1,2748 @@
+{
+  "id": "66da016fcceed20013ef062f",
+  "meetingId": "66da016cd887da001292de4e",
+  "data": [
+    {
+      "startTime": 36,
+      "endTime": 48,
+      "speaker": "Victor Figueredo",
+      "text": "Legal, Diego, é muito importante isso e legal a gente ter pego esse caso logo no comecinho para a gente fazer algumas melhorias já de partida normalmente vai um e-mail de conexão."
+    },
+    {
+      "startTime": 48,
+      "endTime": 77,
+      "speaker": "Caio Gomes",
+      "text": "Desculpa te interromper. Mas é só para você entender que a nossa reunião a gente não pegou isso logo no comecinho, tá? Faz três meses que a gente tá em plantação, gente. Eu só quero deixar claro é a pressão que eu tô tomando aqui então. O que você tá interpretando como comecinho para mim é bem no finalzinho tá não tô enfim é questionando-se foi falha de um ou de outro, mas como que a gente está bem atrasado em relação à implantação do sistema."
+    },
+    {
+      "startTime": 77,
+      "endTime": 101,
+      "speaker": "Caio Gomes",
+      "text": "Então mas tudo bem segue se A Guerra Não é só em ciência que eu hoje meu meio de comunicação é 100% Diego e tem mais outras áreas envolvidas então. Quero que todos entendam que a pessoinha que tá forte, então eu sei que depende do dia que depende do Joe depende do Vítor do João filho do Lucas de todos envolvidos aqui então tá, mas pode pode seguir aí com a sua com a sua explicação."
+    },
+    {
+      "startTime": 101,
+      "endTime": 103,
+      "speaker": "Caio Gomes",
+      "text": "Obrigado."
+    },
+    {
+      "startTime": 103,
+      "endTime": 132,
+      "speaker": "Victor Figueredo",
+      "text": "Eu agradeço também o seu posicionamento e a gente entende? A gente tá fazendo o melhor para te atender nesse sentido e você pode contar conosco também para Promover todas as melhorias que você precisa com a maior urgência possível. Esse ponto que a gente identificou então normalmente vai um e-mail de desconexão para o usuário então o usuário recebe eu queria confirmar depois com usuário estavam desconectados eles receberam."
+    },
+    {
+      "startTime": 132,
+      "endTime": 143,
+      "speaker": "Victor Figueredo",
+      "text": "Esse e-mail é um e-mail que segue a automação da turma é mais ou menos como na mesma padrão de visitas aí de meios também que a gente está construindo na outra frente e"
+    },
+    {
+      "startTime": 143,
+      "endTime": 157,
+      "speaker": "Diego Diehl",
+      "text": "Victor só sobre isso rapidinho não dá para a gente por um usuário tipo geral para receber também isso porque às vezes essa pessoa não vai ver a gente podia por acaso ou o Caio para receber esse e-mail de conexão."
+    },
+    {
+      "startTime": 157,
+      "endTime": 160,
+      "speaker": "Victor Figueredo",
+      "text": "A gente pode pode incluir alguns algumas có?"
+    },
+    {
+      "startTime": 160,
+      "endTime": 161,
+      "speaker": "Caio Gomes",
+      "text": "Kátia deixa na carta"
+    },
+    {
+      "startTime": 161,
+      "endTime": 176,
+      "speaker": "Diego Diehl",
+      "text": "João anota isso por gentileza então tarefa combinada de adicionar a Kátia ao e-mail que caso alguém desconecte chegue para cá te decati, você fica ligado no e-mail ali se acontecer a gente busca entender o que aconteceu também para não ficar desconectando toda hora também."
+    },
+    {
+      "startTime": 177,
+      "endTime": 200,
+      "speaker": "Victor Figueredo",
+      "text": "Isso é a tendência é que o número ele preserva a conexão né? Mas para uma razão ou outra né? Pode pode acontecer normalmente isso vai notificado a gente promove essa melhoria de incluir. Uma cópia para de redundância e uma outra melhoria também que a gente discutir um pouco também mais recentemente agora mais cedo."
+    },
+    {
+      "startTime": 200,
+      "endTime": 219,
+      "speaker": "Victor Figueredo",
+      "text": "Incluir um status dentro do próprio usuário na conta da do próprio cliente no caso a cetim de quem está conectado ou não para a gente considerar isso já na distribuição da roleta então na distribuição da roleta a gente tem esse cuidado de não vincular um contato a um responsável que eventualmente possa estar desconectado."
+    },
+    {
+      "startTime": 221,
+      "endTime": 260,
+      "speaker": "Diego Diehl",
+      "text": "Perfeito Victor esse bloqueio esse essa melhoria Kátia bloqueia. Corretores que deveriam ir para Cláudio estão sendo do teu WhatsApp como Cláudia. Tá bom. E daí eu troco uma ideia também com a Cláudia para explicar para ela. Preciso saber gente há uma há um ponto muito importante para os gerentes terem segurança na cabeça deles que as conversas pessoais deles não serão craqueadas, eu vou ter uma conversa com a Cláudia para tranquilizar ela que só serão traqueadas os contatos que tiveram cadastrados no clubes e ela tem autonomia também de mandar os dois emojis, na hora que ela quiser parar de rastrear conversa de quem ela quiser."
+    },
+    {
+      "startTime": 260,
+      "endTime": 288,
+      "speaker": "Diego Diehl",
+      "text": "Beleza, eu tô reforçando isso só para cátiar também dessa reforço quando alguém te sente inseguro lembrar que tem um emoji lá que eu acho que é duas casinhas que é como se fosse isso aqui é pessoal meu para pausar o traqueamento, beleza? Show do Vitor foi minha sugestão gente, eu acho que eu queria guardar para segunda metade da reunião, eu acho que uma visão mais Geral do projeto eu conversei um pouco com o Caio que já conversava depois."
+    },
+    {
+      "startTime": 288,
+      "endTime": 322,
+      "speaker": "Diego Diehl",
+      "text": "Sobre um pouco dessa demora essa sensação de não tá andando de não tá aqui evoluindo pouca coisa implementada, eu vou estar mais presente aqui na Cetim. Para ir tirando dúvidas. Tô pegando alguns pontos. Mas eu queria deixar essa parte mais para o final porque desde a gente já mostra o que tanto a gente evoluiu da automação de e-mail e tal para o Caio para Cátia já validar entenderem e no final a gente passa um overview de York isso aqui que já foi feito isso aqui está sendo feito próximo passo é esse já se compromete com alguns prazos também, pode ser?"
+    },
+    {
+      "startTime": 322,
+      "endTime": 322,
+      "speaker": "Johnny Fernandes",
+      "text": "perfeito"
+    },
+    {
+      "startTime": 325,
+      "endTime": 345,
+      "speaker": "Diego Diehl",
+      "text": "Sugestão daí eu acho que o Johnny a pessoa mais experiente para mostrar o processo ali de onde de funil. De explicar certinho aqui para o Caio para Cátia entenderem? Essa reunião vai ficar gravada caso Elisa queira ver ou João a gente recortar algum vídeo clipe e deixar como padrão ali para as pessoas entenderem o processo."
+    },
+    {
+      "startTime": 345,
+      "endTime": 375,
+      "speaker": "Diego Diehl",
+      "text": "Então Caio só para dar o contexto e Kátia hoje, a gente tem um funil que eu li desorum. A gente vai ter um funil que é de prospecção de corretores, por sinal. Já testei um disparo aqui com o Barbosa e com Datena, botei lá para disparar para alguns corretores já funcionou foi legal a ideia que a gente automatiza isso para dar volume, mas o tema de hoje é o filho de negócios para conseguir avançar a perspectiva do Caio de negócios ele possa começar a controlar os negócios dele dentro da ferramenta."
+    },
+    {
+      "startTime": 375,
+      "endTime": 378,
+      "speaker": "Diego Diehl",
+      "text": "Beleza então Johnny, pode mandar."
+    },
+    {
+      "startTime": 379,
+      "endTime": 417,
+      "speaker": "Johnny Fernandes",
+      "text": "Perfeito. Então vou compartilhar aqui, tá bom? a gente fazer esse overview e já mostrar como que Está funcionando. Perfeito então aqui Caio e Kátia, nós temos esse funil que é o funil de corretores. Todas as demandas corretores da audiência órgão e vai disparando as mensagens ali através do WhatsApp dos gerentes, tá bom? Fica tudo registrado aqui."
+    },
+    {
+      "startTime": 417,
+      "endTime": 447,
+      "speaker": "Johnny Fernandes",
+      "text": "quando Essa esse oportunidade é qualificada como Ok existe um potencial negócio. negócio. A ideia é que ele venha para o futuro de negócio, né? E aí vai começar a partir da o agendamento de visita. Isso daqui também pode ser iniciado, manualmente tá pelo aplicativo e pelo pelo pela web aqui tá então iniciei uma conversa porque a audiência da obra."
+    },
+    {
+      "startTime": 447,
+      "endTime": 477,
+      "speaker": "Johnny Fernandes",
+      "text": "Ele trouxe uma oportunidade aqui de corretor que tava navegando naquele empreendimento conversei no WhatsApp com ele. Vamos fazer uma visita. Ok então eu vou iniciar diretamente desse processo aqui ajuda bastante de visita. E nós temos alguns Campos aqui a serem preenchidos quando ele vem lá do Funil de solo, tudo praticamente já vem preenchido aqui tá? Você vai só preencher os dados de visita como eu tô fazendo um do zero ou seja."
+    },
+    {
+      "startTime": 477,
+      "endTime": 506,
+      "speaker": "Johnny Fernandes",
+      "text": "Alguém me ligou aqui agora e eu conversei foi por telefone. Ele tem interesse em visitar um certo empreendimento, tá bom? Então, eu vou selecionar aqui, por exemplo. Aleatoriamente, vou pegar. Pegar um contato aqui vou pegar. O nome daqui tá bom. como exemplo"
+    },
+    {
+      "startTime": 506,
+      "endTime": 509,
+      "speaker": "Caio Gomes",
+      "text": "No caso é corretora é isso, né?"
+    },
+    {
+      "startTime": 509,
+      "endTime": 511,
+      "speaker": "Johnny Fernandes",
+      "text": "Aqui nós temos os dois cenários."
+    },
+    {
+      "startTime": 511,
+      "endTime": 515,
+      "speaker": "Caio Gomes",
+      "text": "É porque ali em cima tá escrito cliente, não é isso aí."
+    },
+    {
+      "startTime": 517,
+      "endTime": 526,
+      "speaker": "Johnny Fernandes",
+      "text": "Mas aqui o cliente ele é o corretor é o parceiro tá o cliente da imobiliária. O cliente é procuradora é o parceiro, tá bom?"
+    },
+    {
+      "startTime": 526,
+      "endTime": 537,
+      "speaker": "Caio Gomes",
+      "text": "A gente consegue alterar isso daí para pode ser essa nomenclatura porque no caso de visita pode confundir o gerente porque tem o parceiro e tem o cliente final também que vai fazer a visita."
+    },
+    {
+      "startTime": 540,
+      "endTime": 557,
+      "speaker": "Johnny Fernandes",
+      "text": "Caio A princípio eu não consigo trocar esse nome aqui tá mas a gente não tá pegando os dados do cliente final nesse momento aqui agora tá eu vou mostrar o processo para você, eu acho que vai ficar claro quando a gente seguir. frente, tá bom? Mas o cliente"
+    },
+    {
+      "startTime": 557,
+      "endTime": 571,
+      "speaker": "Diego Diehl",
+      "text": "Só para te explicar só para te explicar um ponto cara, tem alguns Campos nativos da clubes que eles conectam a teia toda esses nativos a gente não consegue mudar, mas todos os outros a gente consegue ajustar tá?"
+    },
+    {
+      "startTime": 571,
+      "endTime": 597,
+      "speaker": "Johnny Fernandes",
+      "text": "É eu vou mostrar um conceito aqui. Caio que vai ficar bem interessante você entender então o meu cliente é procuradora, ele é o corretor, né? Então, eu posso vincular o corretor especificamente já esse processo aqui. E eu também posso vincular aí Imobiliária. E amarrar o corretor também, como contar dessa Imobiliária caso tenha esse cenário."
+    },
+    {
+      "startTime": 597,
+      "endTime": 625,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá bom então, por exemplo quando seleciona aqui um cliente do tipo pessoa. Eu não tenho como se acionar o contato porque o meu contato já é o corretor pessoa física aqui no caso. Quando seleciono aqui imobiliária? aqui Há dois pei Imóveis quando selecionei Imobiliária automaticamente já posso vincular aqui o corretor."
+    },
+    {
+      "startTime": 625,
+      "endTime": 663,
+      "speaker": "Johnny Fernandes",
+      "text": "Que estava que eu estou atendendo aqui como cliente está dois pay Imóveis isso para todas as imobiliárias, tá bom? Eu vou até seguir esse exemplo aqui. Vinculando a imobiliária evitando corretor isso aqui Caio e Kátia interessante porque lá em relatório a gente consegue saber quais vendas quais visitas quais negócios foram vinculados ao corretor autônomo aquele corretor que é independente e as corretoras que são vinculadas imobiliárias, fica bem legal essa arquitetura de relatórios."
+    },
+    {
+      "startTime": 663,
+      "endTime": 671,
+      "speaker": "Johnny Fernandes",
+      "text": "Deixa eu pegar aqui o corretor eu vou pegar aqui aleatoriamente. Vou pegar o aroma aqui."
+    },
+    {
+      "startTime": 671,
+      "endTime": 678,
+      "speaker": "Diego Diehl",
+      "text": "Me tira uma dúvida a gente consegue buscar o corretor aí pelo telefone. telefone."
+    },
+    {
+      "startTime": 678,
+      "endTime": 680,
+      "speaker": "Johnny Fernandes",
+      "text": "Pelo telefone pelo e-mail pelo CPF."
+    },
+    {
+      "startTime": 680,
+      "endTime": 698,
+      "speaker": "Diego Diehl",
+      "text": "Ah então isso é legal tá Caio Cat para vocês saberem na hora de treinar o time a gente mostra. Mas é difícil também saber que nome. Tá salvo vai ter nome de um jeito o nome do outro e uma fonte mais. Única que a gente tem provavelmente seja o telefone então daí a gente já treina a galera jogar tipo."
+    },
+    {
+      "startTime": 698,
+      "endTime": 705,
+      "speaker": "Diego Diehl",
+      "text": "Entra no WhatsApp. Copia o telefone do corretor entra para criar um negócio aí já cola o nome do corretor, ele já foi o corretor. Tá bom."
+    },
+    {
+      "startTime": 705,
+      "endTime": 730,
+      "speaker": "Johnny Fernandes",
+      "text": "Perfeito, inclusive nesse sentido também no nosso trabalho de vincular os corretores as imobiliárias. Tá quando seleção Imobiliária aqui por padrão quando fica aqui ele só vai listar os corretores dessa Imobiliária como esse vídeo quando não tá feito nós não tínhamos esse veículo feito lá na base, ele traz em branco porque não encontrou nenhum."
+    },
+    {
+      "startTime": 730,
+      "endTime": 734,
+      "speaker": "Johnny Fernandes",
+      "text": "Mas a forma de digitar aí ele vai toda a base aqui, ele vai percorrer toda a base de corretores, tá bom?"
+    },
+    {
+      "startTime": 736,
+      "endTime": 744,
+      "speaker": "Diego Diehl",
+      "text": "É uma forma de vinculado aí né? Não tá vinculado, mas na hora de registrar o negócio você acha ele já faz o vínculo certo Johnny."
+    },
+    {
+      "startTime": 744,
+      "endTime": 748,
+      "speaker": "Johnny Fernandes",
+      "text": "Se o cara já está cadastrado, ele não faz o vínculo porque ela está"
+    },
+    {
+      "startTime": 748,
+      "endTime": 748,
+      "speaker": "Diego Diehl",
+      "text": "Ah entendi"
+    },
+    {
+      "startTime": 748,
+      "endTime": 750,
+      "speaker": "Johnny Fernandes",
+      "text": "cadastrado, entendeu?"
+    },
+    {
+      "startTime": 750,
+      "endTime": 750,
+      "speaker": "Diego Diehl",
+      "text": "Tá bom, daí a gente ajustaria."
+    },
+    {
+      "startTime": 750,
+      "endTime": 751,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu tenho que ir lá."
+    },
+    {
+      "startTime": 751,
+      "endTime": 754,
+      "speaker": "Diego Diehl",
+      "text": "depois o vínculo tá? Eu ajusto."
+    },
+    {
+      "startTime": 754,
+      "endTime": 757,
+      "speaker": "Johnny Fernandes",
+      "text": "Isso Beleza, é bem tranquilo de fazer esse vínculo tá é bem simples."
+    },
+    {
+      "startTime": 757,
+      "endTime": 761,
+      "speaker": "Caio Gomes",
+      "text": "Não estiver na base aí dá para preencher manualmente."
+    },
+    {
+      "startTime": 762,
+      "endTime": 782,
+      "speaker": "Johnny Fernandes",
+      "text": "Então, por exemplo vou colocar aqui ó, o Lucas Vicente como corretor, eu nem preciso sair da tela por aqui mesmo aí nesse caso já vai ficando automático o Lucas lá da SP Imóveis. Entendeu, Diego? Ou seja eu tô criando aqui agora, ele até vincula aí eu coloco aqui ó, ele é um parceiro."
+    },
+    {
+      "startTime": 782,
+      "endTime": 791,
+      "speaker": "Johnny Fernandes",
+      "text": "O tipo de cadastro é de parceiro qualquer tipo de parceiro corretor imobiliário, ele autônomo nesse caso é o corretor de imobiliária."
+    },
+    {
+      "startTime": 791,
+      "endTime": 819,
+      "speaker": "Caio Gomes",
+      "text": "Só uma dúvida quando a gente faz o disparo. Pela lista de transmissão a gente mandou lá para vários números a lista de transmissão não entende que o celular 935460022 não é do Lucas Vicente. Mas porém ele já está na nossa base. Como que a gente faz daí nesse caso."
+    },
+    {
+      "startTime": 819,
+      "endTime": 820,
+      "speaker": "Caio Gomes",
+      "text": "Você entende o que eu tô falando."
+    },
+    {
+      "startTime": 820,
+      "endTime": 850,
+      "speaker": "Diego Diehl",
+      "text": "Acho que você vai procurar assim, por isso que eu falei aquele ponto Caio que eu eu acho que pelo tamanho da nossa base, como é que tá organizado muita gente. Ali no contato do Lucas Johnny vai até de olho aperta um control + duas vezes que eu acho que vai facilitar aqui, ele não vai distorcer tanto aí fica um pouquinho melhor nesse momento do Lucas ali que até tá escrito diferente não ia ter a primeira coisa, eu acho que vai ser procurar pelo número de telefone."
+    },
+    {
+      "startTime": 850,
+      "endTime": 855,
+      "speaker": "Diego Diehl",
+      "text": "E daí se já tá cadastrado você seleciona ele pelo número de telefone. Entendeu cara"
+    },
+    {
+      "startTime": 856,
+      "endTime": 867,
+      "speaker": "Caio Gomes",
+      "text": "É isso seria melhor então daí não pelo nome sim pelo número de telefone e daí a hora que coloca o número de telefone e já puxa automaticamente o corretor. Ou se não tiver."
+    },
+    {
+      "startTime": 867,
+      "endTime": 868,
+      "speaker": "Diego Diehl",
+      "text": "É isso."
+    },
+    {
+      "startTime": 869,
+      "endTime": 879,
+      "speaker": "Johnny Fernandes",
+      "text": "Tô digitando o telefone aqui. Ó, eu consigo pesquisar por telefone foi que o Diego perguntou. eu tô no processo tá e de negócios tá e"
+    },
+    {
+      "startTime": 879,
+      "endTime": 909,
+      "speaker": "Caio Gomes",
+      "text": "Não entendi mas é exato assim, ó, porque assim ó, pensa que nem todos os corretores estão planejados ou seja com responsáveis aí dentro do nosso do nosso CRM do nosso CRM, entrou um corretor novo para mim aqui agora, por isso que eu sou um dos gerente então corretor novo eu vou lá e vou mandar aqueles dois emojis para cadastrar esse corretor para mim para ele vir para mim como corresponsável como responsável."
+    },
+    {
+      "startTime": 909,
+      "endTime": 921,
+      "speaker": "Caio Gomes",
+      "text": "Esse corretor quando eu mando os dois emojis salva o número dele na minha base, mas ninguém sabe não tem como identificar. Qual que é o nome efetivo dele? Efe?"
+    },
+    {
+      "startTime": 921,
+      "endTime": 922,
+      "speaker": "Johnny Fernandes",
+      "text": "alguns casos sim"
+    },
+    {
+      "startTime": 922,
+      "endTime": 925,
+      "speaker": "Caio Gomes",
+      "text": "Você entende o que eu tô falando daí, por exemplo o número esse."
+    },
+    {
+      "startTime": 925,
+      "endTime": 927,
+      "speaker": "Johnny Fernandes",
+      "text": "perfeito"
+    },
+    {
+      "startTime": 927,
+      "endTime": 934,
+      "speaker": "Caio Gomes",
+      "text": "número agendou visita, eu sei que o nome desse cara é João Vicente"
+    },
+    {
+      "startTime": 934,
+      "endTime": 935,
+      "speaker": "Johnny Fernandes",
+      "text": "você"
+    },
+    {
+      "startTime": 935,
+      "endTime": 971,
+      "speaker": "Caio Gomes",
+      "text": "Lucas Vicente mas a o CRM não sabe. Então os dados que eu preciso, né? Eu acho que talvez seria até. Melhor se a gente criasse até mais um campo aí então no campo contato tem um campo de telefone e um campo de nome porque daí caso ele não esteja cadastrado ainda esse contato você atualiza o nome dele automaticamente."
+    },
+    {
+      "startTime": 971,
+      "endTime": 976,
+      "speaker": "Caio Gomes",
+      "text": "Entende o que eu tô falando."
+    },
+    {
+      "startTime": 976,
+      "endTime": 979,
+      "speaker": "Johnny Fernandes",
+      "text": "telefone buscar o contato, beleza?"
+    },
+    {
+      "startTime": 979,
+      "endTime": 980,
+      "speaker": "Caio Gomes",
+      "text": "beleza"
+    },
+    {
+      "startTime": 980,
+      "endTime": 1000,
+      "speaker": "Johnny Fernandes",
+      "text": "Caso eu tenha aí só voltando naquele ponto você colocou os dois emoji, ele foi cadastrado automaticamente da ferramenta. Ok eu acredito pelo que eu acompanhei, eu acho que 80% dos casos. O eles conseguem pegar o nome do cara lá no WhatsApp. Porque quando ele responde a"
+    },
+    {
+      "startTime": 1000,
+      "endTime": 1001,
+      "speaker": "Caio Gomes",
+      "text": "Tá ok."
+    },
+    {
+      "startTime": 1001,
+      "endTime": 1006,
+      "speaker": "Johnny Fernandes",
+      "text": "o robô já pega o nome dele e já salva aqui tá?"
+    },
+    {
+      "startTime": 1006,
+      "endTime": 1006,
+      "speaker": "Caio Gomes",
+      "text": "Ok mas é que geralmente quando salva"
+    },
+    {
+      "startTime": 1006,
+      "endTime": 1008,
+      "speaker": "Johnny Fernandes",
+      "text": "Simulamos inclusive, tá?"
+    },
+    {
+      "startTime": 1009,
+      "endTime": 1024,
+      "speaker": "Caio Gomes",
+      "text": "no WhatsApp aparece Sei lá Pedro Fonseca. Sei lá tá ou o Lucas Vicente só que para eu mandar uma autorização para o prédio, eu tenho que colocar o nome inteiro é Pedro Fonseca Silveira da Silva."
+    },
+    {
+      "startTime": 1024,
+      "endTime": 1025,
+      "speaker": "Johnny Fernandes",
+      "text": "certo"
+    },
+    {
+      "startTime": 1025,
+      "endTime": 1052,
+      "speaker": "Caio Gomes",
+      "text": "Com o RG dele, então, eu não posso assim, eu tô tentando fazer da forma mais completa possível. É claro que já aconteceu de né, eu nunca tive esse tipo de problema não nunca tive mas eu já tive é quer dizer eu já tive situações onde a portaria me deu eu entrei mas ela me deu dor de cabeça porque tava faltando sobrenome tava faltando sei lá algum dado."
+    },
+    {
+      "startTime": 1052,
+      "endTime": 1058,
+      "speaker": "Caio Gomes",
+      "text": "Das pessoas que entrariam no prédio, entendeu?"
+    },
+    {
+      "startTime": 1058,
+      "endTime": 1062,
+      "speaker": "Diego Diehl",
+      "text": "Mas se a gente der o nome sobrenome e o RG."
+    },
+    {
+      "startTime": 1062,
+      "endTime": 1064,
+      "speaker": "Caio Gomes",
+      "text": "eu acho que pode eu acho que pode mas"
+    },
+    {
+      "startTime": 1064,
+      "endTime": 1064,
+      "speaker": "Diego Diehl",
+      "text": "Você acha que a portaria encrencaria?"
+    },
+    {
+      "startTime": 1064,
+      "endTime": 1070,
+      "speaker": "Caio Gomes",
+      "text": "eu acho que no WhatsApp às vezes só vai aparecer Lucas. É muitas pessoas que deixam salvo no"
+    },
+    {
+      "startTime": 1070,
+      "endTime": 1071,
+      "speaker": "Diego Diehl",
+      "text": "Ah tá."
+    },
+    {
+      "startTime": 1071,
+      "endTime": 1077,
+      "speaker": "Caio Gomes",
+      "text": "WhatsApp lá o nome certinho só coloca Lucas não coloca o sobrenome no meu por exemplo."
+    },
+    {
+      "startTime": 1077,
+      "endTime": 1107,
+      "speaker": "Johnny Fernandes",
+      "text": "Mas o tá pronto para isso, já inclusive vamos até simular aqui, se precisar ajustar eu acho que agora com você é dois minutos, mas vou te mostrar que é possível alterar viu? Caio de forma simples, mas não aqui na criação do negócio. É isso."
+    },
+    {
+      "startTime": 1107,
+      "endTime": 1114,
+      "speaker": "Diego Diehl",
+      "text": "Vai é vamos seguindo eu acho que até pode ir seguindo o cara que a gente pensou em várias coisas dessas já mas ficou um pouquinho ele para frente então."
+    },
+    {
+      "startTime": 1114,
+      "endTime": 1118,
+      "speaker": "Caio Gomes",
+      "text": "Ok vamos seguindo. Aí a gente faz os depois os ajustes."
+    },
+    {
+      "startTime": 1118,
+      "endTime": 1142,
+      "speaker": "Johnny Fernandes",
+      "text": "Essa parte aí cara, já mapeou que você pode editar o nome dele, você pode colocar o RG tudo bonitinho na fase específica que eu tô fora ele ser uma oportunidade, entendeu? E aqui eu não posso ser burocrático aqui, entendeu? Aí eu coloco aqui Imobiliária o contato que é o corretor, né o produto que ele tá interessado."
+    },
+    {
+      "startTime": 1142,
+      "endTime": 1162,
+      "speaker": "Johnny Fernandes",
+      "text": "Se eu estiver tipologia unidade eu posso colocar se não tiver não precisou mencionar aqui agora, eu só preciso mencionar quem vai ser o como que ele chegou essa oportunidade chegou até você esse corretor foi na hora ele veio lá da empresa artificial foi a divulgação de meio Marques fez uma lista de transmissão com ele."
+    },
+    {
+      "startTime": 1162,
+      "endTime": 1168,
+      "speaker": "Johnny Fernandes",
+      "text": "Né? Nós já validamos com vocês você me passou as opções aqui, tá bom anteriormente. Então vou colocar aqui ó gerente da"
+    },
+    {
+      "startTime": 1168,
+      "endTime": 1168,
+      "speaker": "Caio Gomes",
+      "text": "ok"
+    },
+    {
+      "startTime": 1168,
+      "endTime": 1191,
+      "speaker": "Johnny Fernandes",
+      "text": "imobiliária, ok? Ele que indicou esse corretor para você lá, tinha um relacionamento e ter essa oportunidade. Aqui nesse caso a dois tá no nome da Cláudia. Tá eu vou seguir com exemplo como se fosse a Cláudia mesmo. Então, eu criei aqui essa oportunidade. Já criei no processo de visita."
+    },
+    {
+      "startTime": 1191,
+      "endTime": 1214,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá bom então, qualquer tipo de visita nós temos em obras lançamento e pronto porque você mandou lá no áudio que dependendo de como você seleciona algumas perguntas são necessárias e outras não. Correto. Então vou simular aqui, pode falar."
+    },
+    {
+      "startTime": 1214,
+      "endTime": 1216,
+      "speaker": "Caio Gomes",
+      "text": "tipo do produto, mas tudo bem."
+    },
+    {
+      "startTime": 1216,
+      "endTime": 1232,
+      "speaker": "Diego Diehl",
+      "text": "Eu botei Caio. Eu botei o tipo de visita porque pode ter uma visita num produto pronto que não é no produto pronto que é no escritório por exemplo. Então o tipo de produto não determina o tipo da visita esse tipo da visita."
+    },
+    {
+      "startTime": 1232,
+      "endTime": 1236,
+      "speaker": "Caio Gomes",
+      "text": "Pode pode."
+    },
+    {
+      "startTime": 1236,
+      "endTime": 1242,
+      "speaker": "Johnny Fernandes",
+      "text": "Pode ser? Qualquer coisa a gente ajusta aqui o dinheiro não vai colocando aquele pessoal também."
+    },
+    {
+      "startTime": 1242,
+      "endTime": 1249,
+      "speaker": "Diego Diehl",
+      "text": "É tudo sugestão, tá? Caio que eles entenderam eu fiz um refinamento."
+    },
+    {
+      "startTime": 1249,
+      "endTime": 1252,
+      "speaker": "Caio Gomes",
+      "text": "operação, né?"
+    },
+    {
+      "startTime": 1252,
+      "endTime": 1253,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu vou pegar o cenário do produto"
+    },
+    {
+      "startTime": 1256,
+      "endTime": 1263,
+      "speaker": "Diego Diehl",
+      "text": "Exatamente. Só usando que vocês vão entender mesmo. Daí a gente vai ajustando o que?"
+    },
+    {
+      "startTime": 1263,
+      "endTime": 1293,
+      "speaker": "Johnny Fernandes",
+      "text": "pronto, porque ele é mais complexa então quando eu coloco o produto pronto. Ele pede aqui ó dados para criação de visita do cliente nome do corretor aqui. Acho que pode editar o nome do corretor completo, né? Tipo Lucas, você pode colocar Lucas? se a gente mudar aqui só para explicar o comportamento."
+    },
+    {
+      "startTime": 1293,
+      "endTime": 1302,
+      "speaker": "Johnny Fernandes",
+      "text": "para lançamento Ó já não tem não há necessidade de solicitar aqueles dados lá do"
+    },
+    {
+      "startTime": 1302,
+      "endTime": 1302,
+      "speaker": "Caio Gomes",
+      "text": "Perfeito exatamente, ok?"
+    },
+    {
+      "startTime": 1302,
+      "endTime": 1317,
+      "speaker": "Johnny Fernandes",
+      "text": "cliente, tá bom? Então quando eu coloco aqui agora em obras. Provavelmente, eu acho que ele pede também em obras também é necessário formar os dados do cliente. ok"
+    },
+    {
+      "startTime": 1317,
+      "endTime": 1343,
+      "speaker": "Caio Gomes",
+      "text": "necessário informar os dados do cliente previamente porque nós temos um instante de vendas para fazer as visitas. Enfim então pedir acesso a ninguém, mas para a questão do meu relatório pós visita é necessário o dado do cliente. O Lucas corretor levou o cliente que é o Johnny eu vou precisar de um campo preencher."
+    },
+    {
+      "startTime": 1343,
+      "endTime": 1361,
+      "speaker": "Diego Diehl",
+      "text": "Tá uma pergunta daí Caio quando for nesse caso de obra. É o que a gente tem que pensar o que a gente tem que saber então é o qual dado você não quer pegar. Tipo até a gente pode olhar aqui já por exemplo, você quer o RG do cliente?"
+    },
+    {
+      "startTime": 1361,
+      "endTime": 1361,
+      "speaker": "Johnny Fernandes",
+      "text": "É tipo e pronto pega nome RG, é"
+    },
+    {
+      "startTime": 1361,
+      "endTime": 1368,
+      "speaker": "Diego Diehl",
+      "text": "cliente já fala que a gente tira."
+    },
+    {
+      "startTime": 1368,
+      "endTime": 1369,
+      "speaker": "Johnny Fernandes",
+      "text": "em obra pega só o nome por exemplo."
+    },
+    {
+      "startTime": 1369,
+      "endTime": 1370,
+      "speaker": "Diego Diehl",
+      "text": "ou define"
+    },
+    {
+      "startTime": 1373,
+      "endTime": 1388,
+      "speaker": "Caio Gomes",
+      "text": "Pronto e obra. São os mesmos dados nome e RG do cliente quando é em lançamento. Eu só preciso do nome não preciso do RG."
+    },
+    {
+      "startTime": 1388,
+      "endTime": 1388,
+      "speaker": "Diego Diehl",
+      "text": "Quando é lançamento tá perfeito"
+    },
+    {
+      "startTime": 1388,
+      "endTime": 1390,
+      "speaker": "Johnny Fernandes",
+      "text": "perfeito"
+    },
+    {
+      "startTime": 1390,
+      "endTime": 1392,
+      "speaker": "Diego Diehl",
+      "text": "seguir assim? Podemos seguir assim?"
+    },
+    {
+      "startTime": 1392,
+      "endTime": 1404,
+      "speaker": "Caio Gomes",
+      "text": "tem mais um campo que eu coloco daí no feedback das visitas que é Bairro que o cliente mora isso a gente extrai na visita. Então a primeira coisa que eu não"
+    },
+    {
+      "startTime": 1404,
+      "endTime": 1404,
+      "speaker": "Diego Diehl",
+      "text": "Lá na frente daí?"
+    },
+    {
+      "startTime": 1404,
+      "endTime": 1414,
+      "speaker": "Caio Gomes",
+      "text": "tenho primeira coisa que eu não entendi a visitar um empreendimento nosso eu quero entender da onde que ele da vida, você tá me querendo de outro bairro seja do bairro de outra cidade."
+    },
+    {
+      "startTime": 1415,
+      "endTime": 1461,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza então só para te alinhar o que tá aqui já tá certo, então tá quando a gente coloca em obras ou pronto. Ele pede o nome do cliente o evangelho do cliente aqui ó, nós temos dados dos demais clientes relacionados. Tem mas o cara quer levar a esposa quer levar o irmão a gente deixou o canto do texto livre, você pode colocar o que você quiser aqui, tá bom? Inclusive tem aquele comportamento você pode falar e como transcreve para você, tá bom? Então, vou fazer um exemplo aqui, tá? Vou colocar aqui o nome do que botar na ordem para ficar legal aqui então tipo de visita em obras origem da visita indicação retorno."
+    },
+    {
+      "startTime": 1461,
+      "endTime": 1485,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu vou colocar indicação. Gerente conexões cetim isso aqui são os direitos colaboradores é cruzeirense que a Cláudia é responsável. Mas eu vi que você tem a opção de colocar vários gerentes para ficar a cobrir a Cláudia caso ela. Não possa ir ali, né? Então você pode colocar um ou mais tá? Eu vou colocar aqui."
+    },
+    {
+      "startTime": 1485,
+      "endTime": 1489,
+      "speaker": "Johnny Fernandes",
+      "text": "O Agnaldo vou colocar. Barbosa tudo bem? E eles vão eles vão ter também."
+    },
+    {
+      "startTime": 1489,
+      "endTime": 1491,
+      "speaker": "Caio Gomes",
+      "text": "ok"
+    },
+    {
+      "startTime": 1495,
+      "endTime": 1543,
+      "speaker": "Johnny Fernandes",
+      "text": "beleza O produto já é automático já preencher anteriormente que era o essencial Perdizes. Aí aqui eu vou colocar a data do agendamento. Vou colocar aqui segunda-feira. E o horário do agendamento eu vou colocar 10 horas posso digitar eu posso clicar aqui? beleza preencher os dados da visita aqui, agora, vou colocar os dados do Vou colocar os Cliente o cliente eu vou colocar aqui é o João Vitor."
+    },
+    {
+      "startTime": 1543,
+      "endTime": 1591,
+      "speaker": "Johnny Fernandes",
+      "text": "João Vitor ao cliente O RG ou pouquinho qualquer coisa só para gente poder passar. Ao João Vitor vai levar lá a esposa e mais alguém então, vamos colocar. esposa Y De outros né pessoas que vão acompanhar também ali o João. Eu vou colocar aqui o RG do corretor aí aqui então."
+    },
+    {
+      "startTime": 1591,
+      "endTime": 1603,
+      "speaker": "Johnny Fernandes",
+      "text": "Quando eu colocar se esse corretor aqui que eu selecionei o Lucas Vicente já tivesse RG cresci já vira automático para cá, então isso aqui você faz uma vez só tá porque quando você fizer isso aqui"
+    },
+    {
+      "startTime": 1603,
+      "endTime": 1605,
+      "speaker": "Caio Gomes",
+      "text": "Ótimo ótimo."
+    },
+    {
+      "startTime": 1605,
+      "endTime": 1624,
+      "speaker": "Johnny Fernandes",
+      "text": "na próxima visita do corretor automático o RG 3D inclusive muitos a maioria deles. Então eu preciso já ver automático aqui para você, tá bom? Só o RG que não tinha daquelas daquelas bases que você vai colocar uma vez só para o corretor, tá bom?"
+    },
+    {
+      "startTime": 1624,
+      "endTime": 1625,
+      "speaker": "Caio Gomes",
+      "text": "Tá bom perfeito."
+    },
+    {
+      "startTime": 1625,
+      "endTime": 1631,
+      "speaker": "Johnny Fernandes",
+      "text": "Vou colocar aqui que o corretor o RG dele é esse e o crescimento."
+    },
+    {
+      "startTime": 1631,
+      "endTime": 1637,
+      "speaker": "Caio Gomes",
+      "text": "Não necessariamente o crescido ele não precisa necessariamente ser obrigatório tá ou é ou RG ou"
+    },
+    {
+      "startTime": 1637,
+      "endTime": 1640,
+      "speaker": "Johnny Fernandes",
+      "text": "Não é obrigatório."
+    },
+    {
+      "startTime": 1640,
+      "endTime": 1643,
+      "speaker": "Caio Gomes",
+      "text": "cresce?"
+    },
+    {
+      "startTime": 1643,
+      "endTime": 1645,
+      "speaker": "Johnny Fernandes",
+      "text": "ou um ou outro"
+    },
+    {
+      "startTime": 1645,
+      "endTime": 1646,
+      "speaker": "Caio Gomes",
+      "text": "sim"
+    },
+    {
+      "startTime": 1646,
+      "endTime": 1655,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá então só para estudar não perder tempo Ô João. Você é justo anota para mim fazer uma obrigatoriedade condicional aqui, por favor."
+    },
+    {
+      "startTime": 1655,
+      "endTime": 1655,
+      "speaker": "Caio Gomes",
+      "text": "A gente prefere que não tem o RG."
+    },
+    {
+      "startTime": 1655,
+      "endTime": 1657,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "beleza"
+    },
+    {
+      "startTime": 1657,
+      "endTime": 1659,
+      "speaker": "Caio Gomes",
+      "text": "como principal tá é"
+    },
+    {
+      "startTime": 1659,
+      "endTime": 1664,
+      "speaker": "Johnny Fernandes",
+      "text": "Vamos fazer assim então Caio o RG ficou obrigatório e o crescer fica como opcional."
+    },
+    {
+      "startTime": 1664,
+      "endTime": 1668,
+      "speaker": "Caio Gomes",
+      "text": "Tá bom perfeito. Beleza, ótimo perfeito."
+    },
+    {
+      "startTime": 1668,
+      "endTime": 1678,
+      "speaker": "Johnny Fernandes",
+      "text": "Que a gente já não deixa não deixa a ponta solta para depois da reunião. 30 segundos já faz."
+    },
+    {
+      "startTime": 1686,
+      "endTime": 1699,
+      "speaker": "Diego Diehl",
+      "text": "caiu O colaborador lá gerente colaborador, pode ser o Vini?"
+    },
+    {
+      "startTime": 1699,
+      "endTime": 1700,
+      "speaker": "Caio Gomes",
+      "text": "Desculpa?"
+    },
+    {
+      "startTime": 1700,
+      "endTime": 1715,
+      "speaker": "Diego Diehl",
+      "text": "Ali tem os gerentes colaboradores que podem visitar lá também e tal. É um deles, o principal é o vídeo não é? Eu acho que a gente passou batido nisso aí. Isso daí é legal notar também."
+    },
+    {
+      "startTime": 1715,
+      "endTime": 1716,
+      "speaker": "Johnny Fernandes",
+      "text": "tá"
+    },
+    {
+      "startTime": 1716,
+      "endTime": 1739,
+      "speaker": "Diego Diehl",
+      "text": "João é como padrão já bota o vídeo em todos os e-mails e os dados do vinho caso ele que vá para visita já tá tudo lá aí no e-mail. Acho que é legal um padrão de dizer. O Ville vai quando não vai o teu gerente certo, cara. Então daí é legal pensar no modelo do padrão que deixa claro isso no e-mail, talvez de alguma forma."
+    },
+    {
+      "startTime": 1739,
+      "endTime": 1740,
+      "speaker": "Diego Diehl",
+      "text": "Talvez de"
+    },
+    {
+      "startTime": 1740,
+      "endTime": 1750,
+      "speaker": "Caio Gomes",
+      "text": "Tem o gerente que você pode colocar um dois três, mas deixa o vídeo sempre travado que ele sempre vai estar."
+    },
+    {
+      "startTime": 1750,
+      "endTime": 1755,
+      "speaker": "Diego Diehl",
+      "text": "É interessante o Ville receber e-mails desses agendamentos ele em cópia também."
+    },
+    {
+      "startTime": 1755,
+      "endTime": 1757,
+      "speaker": "Caio Gomes",
+      "text": "Sim todos."
+    },
+    {
+      "startTime": 1757,
+      "endTime": 1773,
+      "speaker": "Diego Diehl",
+      "text": "Então João mais isso O Ville acho que uma coisa legal da gente pensar a gente e perguntar sempre para o Caio Caio você quer que como padrão mais gente seja informado sobre esses agendamentos. Por exemplo Caio você quer receber e-mails de agendamento ou não?"
+    },
+    {
+      "startTime": 1773,
+      "endTime": 1773,
+      "speaker": "Caio Gomes",
+      "text": "Sim, sim."
+    },
+    {
+      "startTime": 1773,
+      "endTime": 1779,
+      "speaker": "Johnny Fernandes",
+      "text": "É possível você pegar o e-mail? Eu lembro que a diretoria também recebe da confirmação, né? Se você puder mandar o e-mail."
+    },
+    {
+      "startTime": 1779,
+      "endTime": 1781,
+      "speaker": "Caio Gomes",
+      "text": "Proposta é proposta."
+    },
+    {
+      "startTime": 1781,
+      "endTime": 1797,
+      "speaker": "Diego Diehl",
+      "text": "André é proposta lá para frente então ó para visita só para amadurecer o vidro tem que estar no e-mail como autorizado para entrar na obra e ele acompanhar esses e-mails também porque ele é o dono do produto. Ele tá interessado nas visitas que estão rolando é isso."
+    },
+    {
+      "startTime": 1797,
+      "endTime": 1814,
+      "speaker": "Caio Gomes",
+      "text": "Tem que copiar todos da hierarquia, né? Então se o Datena Elisa são os cinco gerentes aqui com exceção do Barbosa. O Leandro tem que estar copiado. Se é o Barbosa ou a Daniela, né que a outra gerente Nossa o Rodrigo tem que estar copiado. a Daniela não vai entrar porque ela"
+    },
+    {
+      "startTime": 1814,
+      "endTime": 1816,
+      "speaker": "Diego Diehl",
+      "text": "Mais uma evolução."
+    },
+    {
+      "startTime": 1816,
+      "endTime": 1817,
+      "speaker": "Caio Gomes",
+      "text": "é interior."
+    },
+    {
+      "startTime": 1819,
+      "endTime": 1846,
+      "speaker": "Diego Diehl",
+      "text": "Tá fechou, entendeu isso João e vi Johnny tem hierarquia que é gerentes um superintendente em cada liderança desse gerentes, o Caio em cima e o vídeo lateral. O Ville é tudo. O Caio é tudo aí, o Leandro e os Rodrigo é só da hierarquia. Daí a gente vai ter que ver como organizar isso e talvez para esse momento agora a gente já está tudo aí, depois a gente ajusta também, deixa anotadinho."
+    },
+    {
+      "startTime": 1846,
+      "endTime": 1874,
+      "speaker": "Johnny Fernandes",
+      "text": "Dessa forma que eu fiz o pessoal o corretor aqui o gerente vai enviar o e-mail. e-mail. Por departamento interno com todos esses dados aqui. Ok quando o departamento interno responde o e-mail o gerente ele é informado ó, o seu e-mail foi respondido favor verificar urgente. O Retorno lá para essa pessoa é aprovado ou não só autorizado não aquela visita naquele dia."
+    },
+    {
+      "startTime": 1874,
+      "endTime": 1877,
+      "speaker": "Caio Gomes",
+      "text": "100% é autorizada. Tá mas ok vamos lá a gente a gente"
+    },
+    {
+      "startTime": 1877,
+      "endTime": 1878,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá bom."
+    },
+    {
+      "startTime": 1879,
+      "endTime": 1900,
+      "speaker": "Caio Gomes",
+      "text": "só formaliza com eles. Que vamos visitar não sei quando a gente pede alguma coisa de exceção ao cliente quer entrar na obra num domingo às 6 horas da tarde. Daí. Pode ser que dê uma recusa. Mas no geral a gente já sabe e daí quando é extrema exceção assim a nossa comunicação."
+    },
+    {
+      "startTime": 1900,
+      "endTime": 1910,
+      "speaker": "Caio Gomes",
+      "text": "Daí a gente formaliza apenas para engenharia ter ciência, mas até o Ok vem via telefone ela deu não deu enfim a gente sabe. como proceder"
+    },
+    {
+      "startTime": 1910,
+      "endTime": 1928,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu vou explicar aqui o processo a gente já chega nesse ponto aí. Tá bom? Então aqui ó. Ficou só obrigatório o RG. E o cresci na maioria dos casos ela vem preenchido porque já tem mas ele não é obrigatório, ele é desejável. Tá bom então, vou colocar o RG aqui."
+    },
+    {
+      "startTime": 1928,
+      "endTime": 1950,
+      "speaker": "Johnny Fernandes",
+      "text": "E aí Aqui tem dois pontos que cria alinhar com você tá aí com os demais também. Aqui nós estamos pedindo o gerente do corretor e o RG do gerente do corretor. Para tomar automático o que que eu pensei né? O gerente aqui não seria para Cláudia que é responsável nesse caso."
+    },
+    {
+      "startTime": 1951,
+      "endTime": 1964,
+      "speaker": "Caio Gomes",
+      "text": "Mas eu acho que como você colocou aí, pode ser que você tá pensando que talvez o corretor vai acompanhando do gerente da imobiliária dele. Então seria um corretor 2 pode até"
+    },
+    {
+      "startTime": 1964,
+      "endTime": 1964,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu não confundi, né?"
+    },
+    {
+      "startTime": 1964,
+      "endTime": 1973,
+      "speaker": "Caio Gomes",
+      "text": "mudar a nomenclatura para corretor 2 RG do corretor 2 e daí corretor 3 RG do corretor 3."
+    },
+    {
+      "startTime": 1973,
+      "endTime": 1973,
+      "speaker": "Johnny Fernandes",
+      "text": "beleza"
+    },
+    {
+      "startTime": 1973,
+      "endTime": 1991,
+      "speaker": "Diego Diehl",
+      "text": "É Johnny. A nomenclatura para a gente também, tá alinhado a gente é? O gerente de parcerias do corretor Esse é Cláudio Datena e tal A gerente de parcerias da Incorporadora que atende o corretor o corretor ele tem o seu gerente na Imobiliário. Também por isso que ficou ambígua."
+    },
+    {
+      "startTime": 1991,
+      "endTime": 2008,
+      "speaker": "Johnny Fernandes",
+      "text": "O que nós podemos fazer aqui ou colocar gerente do corretor imobiliário na frente vai ficar bem claro. Ou eu coloco o corretor 2. Que que você acha melhor? corretor 2"
+    },
+    {
+      "startTime": 2008,
+      "endTime": 2008,
+      "speaker": "Diego Diehl",
+      "text": "corretor 2"
+    },
+    {
+      "startTime": 2008,
+      "endTime": 2010,
+      "speaker": "Caio Gomes",
+      "text": "corretor 2"
+    },
+    {
+      "startTime": 2010,
+      "endTime": 2020,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá tchau. Pode ser três."
+    },
+    {
+      "startTime": 2020,
+      "endTime": 2029,
+      "speaker": "Diego Diehl",
+      "text": "para não ficar muito grande o formulário não faz sentido a gente por como um dado dos demais que"
+    },
+    {
+      "startTime": 2029,
+      "endTime": 2032,
+      "speaker": "Caio Gomes",
+      "text": "observação ali que pode preencher qualquer coisa."
+    },
+    {
+      "startTime": 2032,
+      "endTime": 2043,
+      "speaker": "Diego Diehl",
+      "text": "É bota como de cima ali é exatamente Johnny Johnny. Dá um dois contra o mais aí só para também dá para enxergar um pouquinho melhor. obrigado"
+    },
+    {
+      "startTime": 2047,
+      "endTime": 2058,
+      "speaker": "Johnny Fernandes",
+      "text": "vou colocar aqui mais corretores da imobiliária, porque aí você pode colocar o gerente lá, pode pôr o terceiro não fica travado, tudo bem."
+    },
+    {
+      "startTime": 2058,
+      "endTime": 2060,
+      "speaker": "Diego Diehl",
+      "text": "os demais corretores só"
+    },
+    {
+      "startTime": 2060,
+      "endTime": 2061,
+      "speaker": "Johnny Fernandes",
+      "text": "Só tem mais corretores, eu vou"
+    },
+    {
+      "startTime": 2061,
+      "endTime": 2063,
+      "speaker": "Diego Diehl",
+      "text": "Não sei se vai ser da imobiliário que foi."
+    },
+    {
+      "startTime": 2064,
+      "endTime": 2072,
+      "speaker": "Johnny Fernandes",
+      "text": "agora isso aqui tá? Aí eu vou precisar fazer um pequeno ajuste no modelo de e-mail se dá tempo de fazer agora eu passo na sequência da reunião. Tá bom? Mas já?"
+    },
+    {
+      "startTime": 2073,
+      "endTime": 2082,
+      "speaker": "Diego Diehl",
+      "text": "Eu até eu tô preocupado com horário tá de olho. Se você quiser que eu Anote te mande esse aí faz mas o outro vamos com medo não dá tempo."
+    },
+    {
+      "startTime": 2082,
+      "endTime": 2169,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá então a nota esse ponto aqui essa que faz isso aqui rapidinho então, espera aí. Você quer dois minutos também? Perfeito, já fiz aqui já tá pronto. top 5 aqui Eu posso colocar aqui os nomes os dados dos demais do gerente dele lá e o que for necessário, tá bom? Beleza então não é obrigatório porque pode ser que não tenha tá então."
+    },
+    {
+      "startTime": 2169,
+      "endTime": 2173,
+      "speaker": "Caio Gomes",
+      "text": "Exato 90% 95% não terá Mas é bom"
+    },
+    {
+      "startTime": 2173,
+      "endTime": 2173,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza aí, qual que é a ideia aqui,"
+    },
+    {
+      "startTime": 2173,
+      "endTime": 2175,
+      "speaker": "Caio Gomes",
+      "text": "Mas é bom obrigado."
+    },
+    {
+      "startTime": 2175,
+      "endTime": 2216,
+      "speaker": "Johnny Fernandes",
+      "text": "cara? Preenche os dados tá eles configurou aqui um e-mail um modelo de e-mail padrão para ser enviado por departamento interno, tá? Ele já vem com assunto preenchido automaticamente visita coloca o nome do produto a data que foi agendado e o horário que foi agendado. E no modelo de e-mail ele já vai naquele modelo que você passou ali, tá? Com todos os dados já preenchidos automaticamente como mexer aqui nos campos, vou precisar assim que acabar a reunião fazer uma uma organizada aqui, tá? Mas ele vai trazer o produto."
+    },
+    {
+      "startTime": 2216,
+      "endTime": 2230,
+      "speaker": "Johnny Fernandes",
+      "text": "A data o horário o corretor. E aí eu já coloquei do lado o número da imobiliário caso estava vinculado lá tiver só ouvido só o corretor ele vem só o corretor se tiver Imobiliária vinculada, ele traz o nome da imobiliária na frente também."
+    },
+    {
+      "startTime": 2231,
+      "endTime": 2253,
+      "speaker": "Caio Gomes",
+      "text": "É só uma dúvida porque assim aí eu vi que a gente pegou um corretor que é responsável Cláudio, né? Mas os gerentes aqui com a gente já sabe mas é carteira aberta. Então por mais que o responsável seja Cláudia, mas ele tá interagindo bastante com o Datena é o Datena que vai solicitar esse e-mail."
+    },
+    {
+      "startTime": 2253,
+      "endTime": 2256,
+      "speaker": "Diego Diehl",
+      "text": "Você pode mudar lá?"
+    },
+    {
+      "startTime": 2256,
+      "endTime": 2258,
+      "speaker": "Caio Gomes",
+      "text": "Como que vai ficar essa essa"
+    },
+    {
+      "startTime": 2258,
+      "endTime": 2260,
+      "speaker": "Johnny Fernandes",
+      "text": "tranquilo"
+    },
+    {
+      "startTime": 2260,
+      "endTime": 2260,
+      "speaker": "Caio Gomes",
+      "text": "assinatura?"
+    },
+    {
+      "startTime": 2260,
+      "endTime": 2261,
+      "speaker": "Diego Diehl",
+      "text": "só vem para"
+    },
+    {
+      "startTime": 2262,
+      "endTime": 2287,
+      "speaker": "Johnny Fernandes",
+      "text": "Ó aqui é o seguinte, ó dois pontos quando eu vou simular aqui novamente ó, vou criar zero aqui, tá? Quando estiver a criar ele vai trazer automático responsável. Aqui de acordo com corretor Imobiliário. Vou pegar dois peitos de novo, ó, vai trazer a Claudia. vai trazer a Cláudia. Mas eu sou Datena, eu que tô fazendo aqui."
+    },
+    {
+      "startTime": 2287,
+      "endTime": 2288,
+      "speaker": "Johnny Fernandes",
+      "text": "Então eu coloco."
+    },
+    {
+      "startTime": 2288,
+      "endTime": 2297,
+      "speaker": "Caio Gomes",
+      "text": "Todos vão ter acessos de quem todos vão ter acesso ao responsável hoje que tá na parte deles."
+    },
+    {
+      "startTime": 2297,
+      "endTime": 2298,
+      "speaker": "Johnny Fernandes",
+      "text": "se a gente não segmentou porque"
+    },
+    {
+      "startTime": 2298,
+      "endTime": 2299,
+      "speaker": "Diego Diehl",
+      "text": "quando"
+    },
+    {
+      "startTime": 2299,
+      "endTime": 2301,
+      "speaker": "Johnny Fernandes",
+      "text": "você falou para ti aberto, né?"
+    },
+    {
+      "startTime": 2301,
+      "endTime": 2307,
+      "speaker": "Caio Gomes",
+      "text": "É mas acho que pode me gerar um ruído aqui se desse para ocultar esse responsável."
+    },
+    {
+      "startTime": 2307,
+      "endTime": 2313,
+      "speaker": "Diego Diehl",
+      "text": "Ah entendi não vir preenchido Johnny selecionou Imobiliária, não vem alto preenchido."
+    },
+    {
+      "startTime": 2313,
+      "endTime": 2315,
+      "speaker": "Caio Gomes",
+      "text": "exato exato"
+    },
+    {
+      "startTime": 2315,
+      "endTime": 2315,
+      "speaker": "Diego Diehl",
+      "text": "Entendeu?"
+    },
+    {
+      "startTime": 2315,
+      "endTime": 2316,
+      "speaker": "Johnny Fernandes",
+      "text": "Entendi, entendi."
+    },
+    {
+      "startTime": 2316,
+      "endTime": 2361,
+      "speaker": "Caio Gomes",
+      "text": "Porque será ele vai falar pô, pode tirar o qualquer gerentena há muito tempo. Como é que é o responsável dele, tá como ele? Desculpa É principalmente o Agnaldo que tá aqui ele vai falar assim, pô, já fala que esse corretor era oito anos, como é que ele tá falando com Elenice agora? Como que é responsável no início? Quem mudou para Elenice? Então pode me gerar desnecessário, acho que eles não terem acesso ao responsável efetivo, enfim, porque assim o responsável só nomenclatura."
+    },
+    {
+      "startTime": 2361,
+      "endTime": 2376,
+      "speaker": "Caio Gomes",
+      "text": "Exato, deixa como obrigatório quem tá preenchendo, ele tá preenchendo. O Datena que tá preenchendo ele coloca lá, você pode colocar aqui gerente da da visita ao invés de responsabilidade. assinatura do e-mail, vai que"
+    },
+    {
+      "startTime": 2380,
+      "endTime": 2389,
+      "speaker": "Johnny Fernandes",
+      "text": "o seguinte então como você sempre o criador não vou por obrigatório quando ele salvar eu peço que tá criando automaticamente."
+    },
+    {
+      "startTime": 2389,
+      "endTime": 2389,
+      "speaker": "Caio Gomes",
+      "text": "Ok porque vai acontecer inclusive"
+    },
+    {
+      "startTime": 2389,
+      "endTime": 2395,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza então perfeito, eu vou fazer Beleza e ele pode trocar lá, se ele quiser tá? Então eu tava aqui com exemplo."
+    },
+    {
+      "startTime": 2396,
+      "endTime": 2411,
+      "speaker": "Caio Gomes",
+      "text": "porque às vezes o pessoal tá na rua fala Caio eu tô chegando no empreendimento x pelo amor de Deus, manda a atualização de visita, eu vou preencher com os dados dele, entendeu? Eu Leandro quem tiver no escritório pode agendar uma visita para um colega, entendeu?"
+    },
+    {
+      "startTime": 2411,
+      "endTime": 2447,
+      "speaker": "Johnny Fernandes",
+      "text": "Automação vou pedir para o João anotar para mim fazendo a sequência João. E aí ó, agora ele vai vir automático? Não vou perder tempo com isso. Depois eu edito aqui. Coloca aqui só por favor para deixar isso aqui em branco novo peixe do automático, tá bom?"
+    },
+    {
+      "startTime": 2447,
+      "endTime": 2449,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "beleza"
+    },
+    {
+      "startTime": 2450,
+      "endTime": 2468,
+      "speaker": "Johnny Fernandes",
+      "text": "E aí Caio mesmo já tendo preenchido? Aqui dentro. A gente pode ó, tá Cláudia, eu posso vir aqui trocar a qualquer momento? Entendeu?"
+    },
+    {
+      "startTime": 2468,
+      "endTime": 2468,
+      "speaker": "Caio Gomes",
+      "text": "Entendeu?"
+    },
+    {
+      "startTime": 2468,
+      "endTime": 2490,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu posso quase necessário, mas já vai ter essa lógica aí de vinho branco, pega quem tá criando mesmo. Colocando aqui você pode alterar, tá bom? Beleza então Seguindo aqui alterar o modelo tiver automático uma dúvida que eu vi agora aqui tá? Esse modelo eu peguei do seu print lá que você mandou do WhatsApp."
+    },
+    {
+      "startTime": 2490,
+      "endTime": 2498,
+      "speaker": "Johnny Fernandes",
+      "text": "O crescimento ele não precisa estar aqui no modelo de e-mail é só RG mesmo."
+    },
+    {
+      "startTime": 2498,
+      "endTime": 2502,
+      "speaker": "Caio Gomes",
+      "text": "porque o RG ou é cresce."
+    },
+    {
+      "startTime": 2502,
+      "endTime": 2504,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá então eu vou deixar os dois, né?"
+    },
+    {
+      "startTime": 2504,
+      "endTime": 2505,
+      "speaker": "Caio Gomes",
+      "text": "Pode ser, pode ser."
+    },
+    {
+      "startTime": 2506,
+      "endTime": 2524,
+      "speaker": "Johnny Fernandes",
+      "text": "Que no modelo que eu tinha pegado de meio-dia. Vou colocar o cresci aqui tá aí do gerente para não ter que ficar preenchendo. Eu coloquei eles colocou o campo no cadastro do gerente mesmo um campo RG cada vez pode possui o RG que já é automático. Tá bom você troca um"
+    },
+    {
+      "startTime": 2524,
+      "endTime": 2534,
+      "speaker": "Diego Diehl",
+      "text": "Beleza, é isso daí a gente toca João a gente dá uma cobradinha de cada gerente. Mostra onde é que faz para cada um preencher."
+    },
+    {
+      "startTime": 2535,
+      "endTime": 2549,
+      "speaker": "Johnny Fernandes",
+      "text": "Qualquer dúvida é bem tranquilo, só clicar aqui no nome e tal nome perfil a pessoa pode pôr sua própria foto e pode postar o RG. E o senhor cresci também, né? O gerente. Pode pôr o senhor crescer aqui também, beleza?"
+    },
+    {
+      "startTime": 2549,
+      "endTime": 2553,
+      "speaker": "Diego Diehl",
+      "text": "O Johnny com conta de mim a gente consegue alterar."
+    },
+    {
+      "startTime": 2553,
+      "endTime": 2553,
+      "speaker": "Johnny Fernandes",
+      "text": "Ouvir que alguém colocou uma"
+    },
+    {
+      "startTime": 2553,
+      "endTime": 2561,
+      "speaker": "Diego Diehl",
+      "text": "É mas eu acho que eu prefiro que eles altere tá junto eles terem contato com a ferramenta entre na ferramenta altere seu cadastro, tá?"
+    },
+    {
+      "startTime": 2563,
+      "endTime": 2590,
+      "speaker": "Johnny Fernandes",
+      "text": "já ficou legal, né? Então eles podem pôr a foto deles também da ferramenta nome completo deles, tá bom? Beleza perfeito aí, qualquer ideia aqui quem enviar e-mail. O modelo de veja tá pronto dá para configurar assinatura de e-mail de cada um dos gerentes também no perfil deles, tá? Tudo bonitinho tudo preenchido."
+    },
+    {
+      "startTime": 2590,
+      "endTime": 2602,
+      "speaker": "Johnny Fernandes",
+      "text": "E aí aqui a gente vai deixar um e-mail cadastrado que é o do setor interno que é não lembro agora. meio do setor interno."
+    },
+    {
+      "startTime": 2603,
+      "endTime": 2605,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "proposta@setinha"
+    },
+    {
+      "startTime": 2613,
+      "endTime": 2620,
+      "speaker": "Diego Diehl",
+      "text": "Pera aí, esse não é para proposta está falando de visita. Então é o mesmo."
+    },
+    {
+      "startTime": 2620,
+      "endTime": 2625,
+      "speaker": "Caio Gomes",
+      "text": "É visita mesmo visitas vai para a proposta roupa cetim.com.br. mesmo?"
+    },
+    {
+      "startTime": 2625,
+      "endTime": 2628,
+      "speaker": "Diego Diehl",
+      "text": "uma dúvida Johnny esse quando você seleciona o assunto não deveria vir"
+    },
+    {
+      "startTime": 2628,
+      "endTime": 2639,
+      "speaker": "Johnny Fernandes",
+      "text": "Então, tô mandando aqui para eles, tá? E aí?"
+    },
+    {
+      "startTime": 2639,
+      "endTime": 2642,
+      "speaker": "Diego Diehl",
+      "text": "o destinatário preenchido já ou não vem?"
+    },
+    {
+      "startTime": 2642,
+      "endTime": 2644,
+      "speaker": "Johnny Fernandes",
+      "text": "Ele não vem preenchido não, vem."
+    },
+    {
+      "startTime": 2644,
+      "endTime": 2644,
+      "speaker": "Diego Diehl",
+      "text": "Ah tá, beleza."
+    },
+    {
+      "startTime": 2644,
+      "endTime": 2647,
+      "speaker": "Johnny Fernandes",
+      "text": "vem tudo pronto modelinho tudo pronto o assunto vai pronto."
+    },
+    {
+      "startTime": 2647,
+      "endTime": 2649,
+      "speaker": "Diego Diehl",
+      "text": "tá, eles tem que"
+    },
+    {
+      "startTime": 2649,
+      "endTime": 2651,
+      "speaker": "Johnny Fernandes",
+      "text": "só se a senhora deixa de"
+    },
+    {
+      "startTime": 2651,
+      "endTime": 2652,
+      "speaker": "Diego Diehl",
+      "text": "Fechou fechou para saber para"
+    },
+    {
+      "startTime": 2652,
+      "endTime": 2653,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá bom aí? bom?"
+    },
+    {
+      "startTime": 2653,
+      "endTime": 2656,
+      "speaker": "Diego Diehl",
+      "text": "treinar."
+    },
+    {
+      "startTime": 2656,
+      "endTime": 2667,
+      "speaker": "Caio Gomes",
+      "text": "Depois tem um relatório daí de visitas do dia alguma coisa assim que já tá bom."
+    },
+    {
+      "startTime": 2667,
+      "endTime": 2679,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza, tranquilo. Aí aqui só para alinhar aqui está fazendo o agendamento, tá? Tá caindo no agendamento aqui, a gente vai fazer agendamento."
+    },
+    {
+      "startTime": 2679,
+      "endTime": 2694,
+      "speaker": "Caio Gomes",
+      "text": "A previsão de visitas do final de semana toda sexta-feira às 6 horas da tarde, eu quero saber quantas vidas tem agendada para o final de semana, eu já tenho esse número né? Mas hoje de uma forma manual perguntando um a um então por aí"
+    },
+    {
+      "startTime": 2694,
+      "endTime": 2695,
+      "speaker": "Johnny Fernandes",
+      "text": "legal"
+    },
+    {
+      "startTime": 2695,
+      "endTime": 2696,
+      "speaker": "Caio Gomes",
+      "text": "eu consigo ver tudo ó, eu tenho"
+    },
+    {
+      "startTime": 2696,
+      "endTime": 2697,
+      "speaker": "Johnny Fernandes",
+      "text": "Muito bom não aqui dá para fazer"
+    },
+    {
+      "startTime": 2697,
+      "endTime": 2701,
+      "speaker": "Caio Gomes",
+      "text": "três me envia até duas lojas. quatro."
+    },
+    {
+      "startTime": 2702,
+      "endTime": 2727,
+      "speaker": "Johnny Fernandes",
+      "text": "automático. Esse controle aí tá bom aí aqui ó. Eu tô no processo de venda ali, né do corretor, sou gerente e o teu etapa de visita, depois a gente vai criar um registro de interação automático de visita mesmo, você tem o relatório das visitas efetuadas? Então aqui eu coloco o e-mail da proposta, tá? Não vou mandar para eles agora para não receber isso já vai meditar."
+    },
+    {
+      "startTime": 2727,
+      "endTime": 2750,
+      "speaker": "Johnny Fernandes",
+      "text": "Vou mandar aqui para mim mesmo. enviar Aí a pergunta que eu quero fazer. pandei."
+    },
+    {
+      "startTime": 2752,
+      "endTime": 2783,
+      "speaker": "Caio Gomes",
+      "text": "Ali nos dados dos gerentes que apareceu nesse e-mail não tá os dados efetivos do gerente seu caráter precisa deixar automático aí Datena, é que o nome dele é a gente coloca Datena. Traço José Eduardo erival que é o nome dele. E o Creci dele O Agnaldo automático também Barbosa automaticamente porque se ele chegar lá só dá pena da conexão científica pode Lógico que deixa né? Mas se for um porteiro novo não vai não vai autorizar porque não tem os dados do direito."
+    },
+    {
+      "startTime": 2783,
+      "endTime": 2798,
+      "speaker": "Caio Gomes",
+      "text": "Acho que os dados do gerentes tem que estar pronto já para nessa importação que você fez aqui, né? Já apareceu os dados dos gerentes, entendeu? Ficou claro, né."
+    },
+    {
+      "startTime": 2798,
+      "endTime": 2814,
+      "speaker": "Johnny Fernandes",
+      "text": "ficou Eu vou vou trabalhar em cima disso, tá essa regrinha aí de trazer o nome completo, porque aqui eu peguei o nome do cadastro. Nós colocou só o primeiro nome por causa do WhatsApp. Vai ficar legal lá. Quando abordagem no bote a borda"
+    },
+    {
+      "startTime": 2814,
+      "endTime": 2815,
+      "speaker": "Caio Gomes",
+      "text": "é só que além do nome é o único"
+    },
+    {
+      "startTime": 2815,
+      "endTime": 2816,
+      "speaker": "Johnny Fernandes",
+      "text": "ficar chamando o sobrenome, entendeu?"
+    },
+    {
+      "startTime": 2821,
+      "endTime": 2826,
+      "speaker": "Caio Gomes",
+      "text": "que tem apelido é mas precisa colocar o nome de todos completo, né ou o nome sobrenome e o cresci ou o"
+    },
+    {
+      "startTime": 2826,
+      "endTime": 2829,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu cresci."
+    },
+    {
+      "startTime": 2829,
+      "endTime": 2830,
+      "speaker": "Caio Gomes",
+      "text": "RG."
+    },
+    {
+      "startTime": 2830,
+      "endTime": 2841,
+      "speaker": "Lucas Vicente",
+      "text": "Johnny confirma no cadastro do usuário para mim, se não tem um campo lá chamado o nome completo. Que eu tinha criado com o João se eu não me engano."
+    },
+    {
+      "startTime": 2841,
+      "endTime": 2849,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "Já foi criado já foi criado esses campos tá caiu então o nome completo é o nome, né? Que seria só aquele apelido e o"
+    },
+    {
+      "startTime": 2849,
+      "endTime": 2849,
+      "speaker": "Lucas Vicente",
+      "text": "E o RG?"
+    },
+    {
+      "startTime": 2849,
+      "endTime": 2851,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "Creci RG então."
+    },
+    {
+      "startTime": 2851,
+      "endTime": 2852,
+      "speaker": "Johnny Fernandes",
+      "text": "já"
+    },
+    {
+      "startTime": 2852,
+      "endTime": 2852,
+      "speaker": "Lucas Vicente",
+      "text": "isso"
+    },
+    {
+      "startTime": 2852,
+      "endTime": 2856,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "O gerente atualizando esses dados ele já conseguiria trazer ali preenchido."
+    },
+    {
+      "startTime": 2857,
+      "endTime": 2864,
+      "speaker": "Johnny Fernandes",
+      "text": "fazer essa regra. De trazer aqui que é fazer uma configuração específica em cima disso aqui, tá?"
+    },
+    {
+      "startTime": 2866,
+      "endTime": 2879,
+      "speaker": "Diego Diehl",
+      "text": "Show então só para ver se entendi tudo sempre que for falar gerente, talvez participe tem que ter nome nome completo apelido nome completo e RG e aí cheque o modelo de e-mail. Tati."
+    },
+    {
+      "startTime": 2879,
+      "endTime": 2885,
+      "speaker": "Caio Gomes",
+      "text": "Cresce gente usa mais cresce para os gerentes aqui, mas pode ser o RG também não tem problema. Isso ótimo."
+    },
+    {
+      "startTime": 2885,
+      "endTime": 2901,
+      "speaker": "Johnny Fernandes",
+      "text": "os dois O que tiver vai aparecer. Então aqui qualquer ideia Diego como a gente coloca aqui esses nomes. A ideia é que ele vai lá no cadastro usuário e busca que o nome completo dele o RG dele"
+    },
+    {
+      "startTime": 2901,
+      "endTime": 2902,
+      "speaker": "Diego Diehl",
+      "text": "Isso entendi."
+    },
+    {
+      "startTime": 2902,
+      "endTime": 2904,
+      "speaker": "Johnny Fernandes",
+      "text": "E ele veio aqui poderia tá bom?"
+    },
+    {
+      "startTime": 2904,
+      "endTime": 2916,
+      "speaker": "Diego Diehl",
+      "text": "Só faltou embaixo, né, Johnny? Faz uma gentileza, envia esse e-mail já. Para o Caio e talvez para Cátia porque depois Eles olham vai que Surge mais uma coisa."
+    },
+    {
+      "startTime": 2919,
+      "endTime": 2920,
+      "speaker": "Johnny Fernandes",
+      "text": "É Caio."
+    },
+    {
+      "startTime": 2926,
+      "endTime": 2935,
+      "speaker": "Caio Gomes",
+      "text": "Isso cetim cetim.com.br da Kátia Cátia. Não é com c o k."
+    },
+    {
+      "startTime": 2944,
+      "endTime": 2954,
+      "speaker": "Diego Diehl",
+      "text": "Aí gente, vocês puderem dar só uma olhadinha mais um cheque. Se quiser mudar a água interaja pode responder ele para mim para a gente que a gente já faz essa alteração se for necessário."
+    },
+    {
+      "startTime": 2954,
+      "endTime": 2983,
+      "speaker": "Johnny Fernandes",
+      "text": "É a ideia Nossa que Caio é que você começa a usar amanhã deve ser hoje. Se tivesse nenhuma ajuste. Seria hoje mesmo, como vai ter esses ajustes. A ideia é usar amanhã, tá bom? Deixa eu só procurar aqui que eu perdi vocês aqui. Ó, eu ia mostrar aqui também eu recebendo né, mas você recebeu também então."
+    },
+    {
+      "startTime": 2983,
+      "endTime": 2984,
+      "speaker": "Johnny Fernandes",
+      "text": "beleza"
+    },
+    {
+      "startTime": 2984,
+      "endTime": 2990,
+      "speaker": "Diego Diehl",
+      "text": "Eu pedi para ajustar eu não sei quem O Lucas está mexendo nesse meio hein Lucas. Quem que tá mexendo nesse meio?"
+    },
+    {
+      "startTime": 2990,
+      "endTime": 2992,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu refiz ele hoje, eu refiz."
+    },
+    {
+      "startTime": 2992,
+      "endTime": 2999,
+      "speaker": "Diego Diehl",
+      "text": "Tá só no título ali também. Dá um espacinho entre o horário e o asa ali que faltou."
+    },
+    {
+      "startTime": 2999,
+      "endTime": 3006,
+      "speaker": "Johnny Fernandes",
+      "text": "beleza aí"
+    },
+    {
+      "startTime": 3006,
+      "endTime": 3036,
+      "speaker": "Caio Gomes",
+      "text": "é porque Imobiliária ou é porque? Às vezes o corretor vai estar com cadastro desatualizado e nem sempre Mas pode colocar atrás da imobiliária corretor traço imobiliário porque é bom que a gente encontra também pelas imobiliárias, tudo bem? Isso é um passo dois, mas se colocar um tracinho aí só para separar."
+    },
+    {
+      "startTime": 3036,
+      "endTime": 3112,
+      "speaker": "Johnny Fernandes",
+      "text": "tá Beleza se ela tem jogo, por favor. beleza? Boa deixa eu só fazer um negócio aqui. beleza Vou simular aqui ó, um ok autorizado, tá? Já o departamento interno respondendo o corretor tá bom o gerente. Departamento Terra respondeu ok está autorizado aí aqui que é legal aqui cara fazer assim."
+    },
+    {
+      "startTime": 3112,
+      "endTime": 3124,
+      "speaker": "Johnny Fernandes",
+      "text": "Ó, você como um gestor você vai conseguir verificar que horas que dia que hora que foi solicitado esse e-mail para o departamento interno vai ficar registrado no histórico aqui, tá bom? Você pode vir aqui você pode"
+    },
+    {
+      "startTime": 3124,
+      "endTime": 3125,
+      "speaker": "Caio Gomes",
+      "text": "legal"
+    },
+    {
+      "startTime": 3125,
+      "endTime": 3166,
+      "speaker": "Johnny Fernandes",
+      "text": "visualizar. Você visualiza aqui. Tá bom, tudo bonitinho. E aí você já atualizou aqui? beleza Ele já criou aqui para mim, eu odeio ok lá no e-mail, né? Respondendo dando ok, ele já cria para mim. Para o gerente responsável um aviso de que o retorno Foi recebido. Tá E ele avisa no aplicativo do celular dele e já cai na agenda porque para ele já vir no clube."
+    },
+    {
+      "startTime": 3166,
+      "endTime": 3194,
+      "speaker": "Johnny Fernandes",
+      "text": "OK? Recebi beleza. Fui notificado. Qual que é a ideia? Quando ele receber esse aviso aqui ele venha e forma aqui, ó. confirmado. Ele vem falar que sim, agendamento confirmado que que vai acontecer aqui agora nesse caso cai duas coisas vai acontecer quando ele confirma primeiro. O próprio sistema já vai criar uma agenda para ele no calendário dele."
+    },
+    {
+      "startTime": 3194,
+      "endTime": 3239,
+      "speaker": "Johnny Fernandes",
+      "text": "tá Falando nesse dia específico com os dados todos da reunião, tá bom? É que como tá no caso da Cláudia, ele foi pra Claro. Acho que coloquei dos outros Da semana que vem que eu coloquei, né? Enfim, vamos dar um exemplo aqui só para mostrar o que que eu faço então quando ele coloca confirmar cai."
+    },
+    {
+      "startTime": 3239,
+      "endTime": 3274,
+      "speaker": "Johnny Fernandes",
+      "text": "O próprio sistema já cria uma tarefa. Com aquele corretor com aquela Imobiliária para Aquele gerente naquele dia com o título bonitinho, tá? Isso já vai para agenda dele automaticamente para ele saber que tem que fazer aquela visita. Ou seja a criação de tarefas de visita é feito pelo próprio sistema automaticamente para o gerente, tá bom? Essa é a primeira coisa que acontece segunda coisa que acontece quando ele coloca que a confirmação foi confirmada."
+    },
+    {
+      "startTime": 3274,
+      "endTime": 3285,
+      "speaker": "Johnny Fernandes",
+      "text": "É enviado um e-mail automaticamente para o departamento interno, você pediu que fosse né? Eu só não sei para que que é esse meio você falou que a diretoria né? pretendente."
+    },
+    {
+      "startTime": 3285,
+      "endTime": 3303,
+      "speaker": "Caio Gomes",
+      "text": "É porque assim o e-mail proposta vai para todo o setor do comercial, então, às vezes tem um gerente comercial responsável por aquele empreendimento, mas sei lá, ele tá de folga alguma coisa todos recebem para responder por ele, então todos podem responder esse e-mail de proposta. Entendeu não?"
+    },
+    {
+      "startTime": 3303,
+      "endTime": 3306,
+      "speaker": "Johnny Fernandes",
+      "text": "Não, mas aqui nesse caso é da visita não é da proposta ainda."
+    },
+    {
+      "startTime": 3306,
+      "endTime": 3311,
+      "speaker": "Caio Gomes",
+      "text": "Eu sei mas é aquele meio proposta@cetim é de visita."
+    },
+    {
+      "startTime": 3311,
+      "endTime": 3316,
+      "speaker": "Johnny Fernandes",
+      "text": "Então mas assim entendi quando ele manda."
+    },
+    {
+      "startTime": 3316,
+      "endTime": 3334,
+      "speaker": "Diego Diehl",
+      "text": "Explicar Johnny deixa eu pegar adicionar um ponto só o primeiro ponto eu Pelo que eu entendi o e-mail que a gente envia para propostas que é para confirmar a visita. Não é muito uma autorização em si é mais um informativo certo, cara. O teu time espera receber o e-mail."
+    },
+    {
+      "startTime": 3334,
+      "endTime": 3336,
+      "speaker": "Diego Diehl",
+      "text": "Tava somando aí sucesso."
+    },
+    {
+      "startTime": 3337,
+      "endTime": 3350,
+      "speaker": "Caio Gomes",
+      "text": "A gente manda um e-mail e basicamente sucesso basicamente isso, mas tem alguns empregos por exemplo em obras que a gente espera confirmação hiperinheiros abaut e daí a gente a"
+    },
+    {
+      "startTime": 3350,
+      "endTime": 3352,
+      "speaker": "Diego Diehl",
+      "text": "Ah então beleza Tá então."
+    },
+    {
+      "startTime": 3353,
+      "endTime": 3362,
+      "speaker": "Caio Gomes",
+      "text": "gente já fala coisa OK? Agendado e tal a gente não espera essa confirmação. Mas é bom a gente ter esse e-mail confirmado recebido."
+    },
+    {
+      "startTime": 3362,
+      "endTime": 3364,
+      "speaker": "Johnny Fernandes",
+      "text": "Ele fica salvo aqui ó a resposta do"
+    },
+    {
+      "startTime": 3364,
+      "endTime": 3367,
+      "speaker": "Caio Gomes",
+      "text": "Sim, excelente É isso aí, porque?"
+    },
+    {
+      "startTime": 3367,
+      "endTime": 3370,
+      "speaker": "Johnny Fernandes",
+      "text": "retorno."
+    },
+    {
+      "startTime": 3370,
+      "endTime": 3371,
+      "speaker": "Diego Diehl",
+      "text": "Beleza pode"
+    },
+    {
+      "startTime": 3371,
+      "endTime": 3392,
+      "speaker": "Caio Gomes",
+      "text": "isso é para você entender a gente manda para proposta que vai para o pessoal do comercial. O comercial ele vai mandar um e-mail ele não é ele que autoriza ele pega esse e-mail encaminha para cortar e ela da obra ou da do prédio ele copiando todos nós então. histórico também ele vai mandar para todos."
+    },
+    {
+      "startTime": 3392,
+      "endTime": 3397,
+      "speaker": "Caio Gomes",
+      "text": "A portaria que vai responder a todos. visita autorizada, entendeu?"
+    },
+    {
+      "startTime": 3400,
+      "endTime": 3421,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza, aí, ele vai o comercial vai responder aqui com o gerente. Né, provavelmente. E aí o cara ele veio aqui e confirma a visita o agendamento. Quando ele confirma julgamento, então o pai não vai para ninguém mais não é necessário mandar e-mail automático, né?"
+    },
+    {
+      "startTime": 3421,
+      "endTime": 3422,
+      "speaker": "Caio Gomes",
+      "text": "É bom é bom é bom visitar Lógico"
+    },
+    {
+      "startTime": 3422,
+      "endTime": 3424,
+      "speaker": "Johnny Fernandes",
+      "text": "É bom."
+    },
+    {
+      "startTime": 3424,
+      "endTime": 3425,
+      "speaker": "Caio Gomes",
+      "text": "é bom tudo que tiver."
+    },
+    {
+      "startTime": 3425,
+      "endTime": 3437,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza, porque aqui são duas coisas três coisas acontecem aqui de forma automática, na verdade, cara. Primeiro é criado a tarefa de agendamento para o corretor para o gerente."
+    },
+    {
+      "startTime": 3437,
+      "endTime": 3438,
+      "speaker": "Caio Gomes",
+      "text": "ok"
+    },
+    {
+      "startTime": 3438,
+      "endTime": 3448,
+      "speaker": "Johnny Fernandes",
+      "text": "Segundo vai ser envelhecimento automático. Só precisava saber novamente para a proposta. É para outra pessoa."
+    },
+    {
+      "startTime": 3448,
+      "endTime": 3451,
+      "speaker": "Caio Gomes",
+      "text": "O gerente manda para o propósito."
+    },
+    {
+      "startTime": 3451,
+      "endTime": 3451,
+      "speaker": "Johnny Fernandes",
+      "text": "ok"
+    },
+    {
+      "startTime": 3451,
+      "endTime": 3460,
+      "speaker": "Caio Gomes",
+      "text": "O propósito responde a todos copiando a portaria. a portaria da Ok para todos a partir"
+    },
+    {
+      "startTime": 3460,
+      "endTime": 3460,
+      "speaker": "Johnny Fernandes",
+      "text": "perfeito"
+    },
+    {
+      "startTime": 3460,
+      "endTime": 3491,
+      "speaker": "Caio Gomes",
+      "text": "do ok da portaria é que efetivamente está autorizada visita nessa obra, mas quando a gente nunca teve problema a gente manda mais já sei lá de 100% dos e-mails. Sei lá eu acredito que 50% tem uma resposta efetiva da portaria. O restante é uma mera formalização ó, eu solicito visita e a proposta mandar autorização é só comunicando."
+    },
+    {
+      "startTime": 3491,
+      "endTime": 3517,
+      "speaker": "Caio Gomes",
+      "text": "só comunicando ó. visita Entendeu? Autorizada e eu tenho um problema lá na frente. na frente. Eu tenho que mostrar ou do engenheiro da obra."
+    },
+    {
+      "startTime": 3517,
+      "endTime": 3533,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá bom perfeito. Então aconteceu isso vou mandar um e-mail aqui novamente quando é Confirmado aqui e a gente vai disparar um WhatsApp para o corretor também confirmando a visita para ele. Nesse momento aqui, tá bom?"
+    },
+    {
+      "startTime": 3533,
+      "endTime": 3535,
+      "speaker": "Caio Gomes",
+      "text": "ok"
+    },
+    {
+      "startTime": 3535,
+      "endTime": 3556,
+      "speaker": "Johnny Fernandes",
+      "text": "então quando ele recebe lá o e-mail tá autorizado, ele vem aqui informa que foi confirmado o agendamento quando ele confirmar que vai disparar um e-mail novamente confirmação vai agendar a tarefa no calendário dele para aquele dia especificamente e vai ser reparado um WhatsApp pelo bote para o corretor"
+    },
+    {
+      "startTime": 3556,
+      "endTime": 3567,
+      "speaker": "Caio Gomes",
+      "text": "Eu não gostaria de burocratizar respondeu não dá para automaticamente colocar com visita agendada aí. Sem ser ele precisa alterar manualmente."
+    },
+    {
+      "startTime": 3568,
+      "endTime": 3586,
+      "speaker": "Johnny Fernandes",
+      "text": "Olha é esse ponto a gente tava conversando sobre isso, né que acontece o sistema ele não consegue ler. O que tá dentro do e-mail para saber se foi atualizado ou não eu consigo saber que foi recebido o e-mail? Entendeu?"
+    },
+    {
+      "startTime": 3586,
+      "endTime": 3587,
+      "speaker": "Caio Gomes",
+      "text": "Então então, acho que não precisa"
+    },
+    {
+      "startTime": 3587,
+      "endTime": 3588,
+      "speaker": "Johnny Fernandes",
+      "text": "Como esse?"
+    },
+    {
+      "startTime": 3588,
+      "endTime": 3613,
+      "speaker": "Caio Gomes",
+      "text": "deixar essa esse campo agendamento. Foi confirmado sim ou não e sim tipo mandou o e-mail vai virar a resposta, né? Ele consegue ler a resposta e daí depois já podemos pular para o campo feedback da visita. Porque se foi recusado é o que eu falei pouquíssimos casos eu os caras vão ligar e falar não pode não vai dar tá errado, entendeu?"
+    },
+    {
+      "startTime": 3613,
+      "endTime": 3614,
+      "speaker": "Johnny Fernandes",
+      "text": "Ah entendi"
+    },
+    {
+      "startTime": 3614,
+      "endTime": 3620,
+      "speaker": "Caio Gomes",
+      "text": "O restante 99,9% das visitas são autorizadas."
+    },
+    {
+      "startTime": 3620,
+      "endTime": 3621,
+      "speaker": "Johnny Fernandes",
+      "text": "tá"
+    },
+    {
+      "startTime": 3621,
+      "endTime": 3644,
+      "speaker": "Diego Diehl",
+      "text": "É um ponto de One, eu acho que reduz o processo de uma forma interessante nesse nessa região final que ele entrou aí uma vez preencheu os campos e enviou o e-mail e acabou a receber uma notificação olhou o e-mail dele e tal foi para visita. Quando ele foi para visita daí ele vai voltar e dar o feedback da visita."
+    },
+    {
+      "startTime": 3644,
+      "endTime": 3657,
+      "speaker": "Diego Diehl",
+      "text": "Mas não precisava voltar só para mexer no campo de visita confirmada porque Eu acho que é isso que o cara quis dizer não precisa a gente vai fazer o cara entrar mais uma vez na ferramenta só para mexer no campo, né?"
+    },
+    {
+      "startTime": 3657,
+      "endTime": 3665,
+      "speaker": "Johnny Fernandes",
+      "text": "E vai ser necessário mandar esse WhatsApp para o corretor. Ou não Porque para mim mandar WhatsApp."
+    },
+    {
+      "startTime": 3665,
+      "endTime": 3700,
+      "speaker": "Diego Diehl",
+      "text": "Ah esse é o ponto. Esse é o ponto, né, Johnny Caio para você entender é se ele entrar aqui e dizer que é o agendamento. Foi confirmado algo assim, a gente consegue enviar um WhatsApp ou Johnny uma sugestão já misturando eu caio pode validar. O cara pode enviar o e-mail aqui e na hora já colocar confirmado enviar para enviar WhatsApp, não precisa ser depois pode ser já desde o começo que daí o corretor sabe ó, já solicitei e avisei a obra da nossa visita até para dar mais peso na visita ali."
+    },
+    {
+      "startTime": 3700,
+      "endTime": 3706,
+      "speaker": "Diego Diehl",
+      "text": "Ó, já avisei Incorporadora tá tudo certo, viu? Vamos aí, que que você acha?"
+    },
+    {
+      "startTime": 3706,
+      "endTime": 3706,
+      "speaker": "Johnny Fernandes",
+      "text": "Então beleza"
+    },
+    {
+      "startTime": 3706,
+      "endTime": 3715,
+      "speaker": "Diego Diehl",
+      "text": "Tem algum problema no sistema se a gente entrar preencher enviar o e-mail e nesse mesmo momento já dizer que foi confirmado?"
+    },
+    {
+      "startTime": 3715,
+      "endTime": 3716,
+      "speaker": "Johnny Fernandes",
+      "text": "Não não."
+    },
+    {
+      "startTime": 3716,
+      "endTime": 3719,
+      "speaker": "Diego Diehl",
+      "text": "Então pegou né? Caio? Enviou e-mail deu cheque."
+    },
+    {
+      "startTime": 3719,
+      "endTime": 3721,
+      "speaker": "Caio Gomes",
+      "text": "do e-mail"
+    },
+    {
+      "startTime": 3721,
+      "endTime": 3729,
+      "speaker": "Diego Diehl",
+      "text": "A gente já vai. já vai sair um WhatsApp automático do gerente para facilitar a"
+    },
+    {
+      "startTime": 3729,
+      "endTime": 3735,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza comportamento aqui para não ser manual."
+    },
+    {
+      "startTime": 3735,
+      "endTime": 3742,
+      "speaker": "Caio Gomes",
+      "text": "muito mais daí a mensagem que vamos enviar para o corretor, depois você discutir uma próxima Renovo. O Diego aqui é isso, né?"
+    },
+    {
+      "startTime": 3742,
+      "endTime": 3742,
+      "speaker": "Diego Diehl",
+      "text": "Isso."
+    },
+    {
+      "startTime": 3742,
+      "endTime": 3743,
+      "speaker": "Johnny Fernandes",
+      "text": "porque só assim visita confirmada"
+    },
+    {
+      "startTime": 3743,
+      "endTime": 3746,
+      "speaker": "Diego Diehl",
+      "text": "Cadê a mensagem."
+    },
+    {
+      "startTime": 3746,
+      "endTime": 3752,
+      "speaker": "Johnny Fernandes",
+      "text": "gente pode melhorar essa mensagem aí, tá bom?"
+    },
+    {
+      "startTime": 3752,
+      "endTime": 3758,
+      "speaker": "Diego Diehl",
+      "text": "Eu preciso só eu preciso só saber Johnny. Quais são as variáveis que eu posso usar?"
+    },
+    {
+      "startTime": 3758,
+      "endTime": 3763,
+      "speaker": "Johnny Fernandes",
+      "text": "É a princípio são os dados do próprio corretor ali."
+    },
+    {
+      "startTime": 3763,
+      "endTime": 3763,
+      "speaker": "Caio Gomes",
+      "text": "Acho que você pode colocar visita"
+    },
+    {
+      "startTime": 3763,
+      "endTime": 3765,
+      "speaker": "Johnny Fernandes",
+      "text": "mas"
+    },
+    {
+      "startTime": 3765,
+      "endTime": 3768,
+      "speaker": "Caio Gomes",
+      "text": "agendado em empreendimento x está o horário."
+    },
+    {
+      "startTime": 3769,
+      "endTime": 3779,
+      "speaker": "Johnny Fernandes",
+      "text": "O trabalho em cima disso eu grave força acionar Diego eu levo o empreendimento e levo o horário e o dia."
+    },
+    {
+      "startTime": 3779,
+      "endTime": 3784,
+      "speaker": "Diego Diehl",
+      "text": "Isso mas me diz que variável que eu posso ter todos esses campos da esquerda, se eu posso usar na mensagem ou não."
+    },
+    {
+      "startTime": 3784,
+      "endTime": 3786,
+      "speaker": "Johnny Fernandes",
+      "text": "Pode pode pode."
+    },
+    {
+      "startTime": 3786,
+      "endTime": 3786,
+      "speaker": "Diego Diehl",
+      "text": "Posso então daí monta uma primeira"
+    },
+    {
+      "startTime": 3786,
+      "endTime": 3787,
+      "speaker": "Johnny Fernandes",
+      "text": "pode"
+    },
+    {
+      "startTime": 3788,
+      "endTime": 3801,
+      "speaker": "Diego Diehl",
+      "text": "depois amadureça que o Caio porque pode ser uma mensagemzinha legalzinha para o corretor olhar com o que robusto sabe que empresa organizada. Acho que é legal esse momento Caio para a gente mostrar como vocês da empresa sistemática."
+    },
+    {
+      "startTime": 3803,
+      "endTime": 3833,
+      "speaker": "Johnny Fernandes",
+      "text": "Levar tudo tá? Pode fazer isso. Beleza então, eu vou criar essa vontade padrão com o máximo de dados possíveis aqui conforme o cara teve um exemplo aí. E no processo aqui de visita. Realizada é onde ele coloca o feedback da visita tá? Deixa eu só Ah tá, o nome imobiliário aqui não precisa ter de manual já vai estar preenchido."
+    },
+    {
+      "startTime": 3833,
+      "endTime": 3834,
+      "speaker": "Johnny Fernandes",
+      "text": "Esse aqui eu vou."
+    },
+    {
+      "startTime": 3834,
+      "endTime": 3836,
+      "speaker": "Caio Gomes",
+      "text": "autônomo"
+    },
+    {
+      "startTime": 3837,
+      "endTime": 3859,
+      "speaker": "Johnny Fernandes",
+      "text": "Sim sim, ele vai automático. Aí o bairro que você comentou, né? O bairro de residência atual do cliente. Ó, ele tá inclusive olhando para o Maps aqui, depois você pode ter um"
+    },
+    {
+      "startTime": 3859,
+      "endTime": 3860,
+      "speaker": "Caio Gomes",
+      "text": "show"
+    },
+    {
+      "startTime": 3860,
+      "endTime": 3868,
+      "speaker": "Johnny Fernandes",
+      "text": "relatório disso geograficamente. tá? E aí aqui eu sugiro até ficar obrigatório esse campo aqui que vai dar o feedback da visita."
+    },
+    {
+      "startTime": 3868,
+      "endTime": 3870,
+      "speaker": "Caio Gomes",
+      "text": "É obrigatório."
+    },
+    {
+      "startTime": 3870,
+      "endTime": 3871,
+      "speaker": "Johnny Fernandes",
+      "text": "Ou seja, ele pode falar, entendeu?"
+    },
+    {
+      "startTime": 3871,
+      "endTime": 3872,
+      "speaker": "Caio Gomes",
+      "text": "ok"
+    },
+    {
+      "startTime": 3872,
+      "endTime": 3897,
+      "speaker": "Johnny Fernandes",
+      "text": "Fiz a visita no predimento junto com o corretor do cliente. O cliente está muito interessado vai conversar com a esposa e nos retornar. Então isso aqui pelo aplicativo é a mesma coisa ele abre lá prende fala o feedback. E aí, colocou os dados do feedback da visita?"
+    },
+    {
+      "startTime": 3897,
+      "endTime": 3898,
+      "speaker": "Caio Gomes",
+      "text": "Tá excelente."
+    },
+    {
+      "startTime": 3898,
+      "endTime": 3907,
+      "speaker": "Johnny Fernandes",
+      "text": "Colocou visita, ele entraria para a etapa de propósito, tá bom? E aí automaticamente."
+    },
+    {
+      "startTime": 3907,
+      "endTime": 3929,
+      "speaker": "Diego Diehl",
+      "text": "Johnny pode terminar bom deixa eu só falar uma coisa ali na parte do feedback da visita. Dá para a gente por um campo com mais informações porque caiu uma sugestão que eu daria ali no feedback da visita por um parente assim, ó. Nos digo que o cliente achou que ele gostou que ele não gostou que a objeção você acha se ele tá quente ou frio."
+    },
+    {
+      "startTime": 3929,
+      "endTime": 3964,
+      "speaker": "Caio Gomes",
+      "text": "Eu só queria colocar um campo ali também que eu usava na outra Incorporadora que eu não coloco que é três selecionar três status dessa visita frio, morno quente. E daí, depois a gente fazer um filtro dos daí, depois a gente se lembra mas os mornos concretizou a compra. Acho que só colocar mais um campo ali daí com essas três opções já para ele legal se é frio morno quente."
+    },
+    {
+      "startTime": 3964,
+      "endTime": 3966,
+      "speaker": "Johnny Fernandes",
+      "text": "Além disso"
+    },
+    {
+      "startTime": 3966,
+      "endTime": 3968,
+      "speaker": "Caio Gomes",
+      "text": "Que você falou digo pode repetir, por favor."
+    },
+    {
+      "startTime": 3968,
+      "endTime": 3992,
+      "speaker": "Diego Diehl",
+      "text": "Eu falei eu falei que assim ó, pensa que escrever feedback da visita não vai encher de coisas na cabeça do teu time. Mas se a gente escreve feedback da visita daí bota entre parentes. O que o cliente gostou que ele não gostou se tem algum elemento de vapore conexão que foi dito naquele momento é cara vários itens que você acha que faz sentido para o teu time."
+    },
+    {
+      "startTime": 3992,
+      "endTime": 4011,
+      "speaker": "Diego Diehl",
+      "text": "Porque pensa que mistura um monte de visita quando ele olhar esse cliente de novo lembrar Ô lembra que esse cliente viajou para Europa que ele curte cachorro sabe esses elementos bem de vendas, eu acho que é legal ter uma sugestões ali, mas daí é mais na tua gestão. Que que você acha que a galera responderia como feedback?"
+    },
+    {
+      "startTime": 4011,
+      "endTime": 4014,
+      "speaker": "Caio Gomes",
+      "text": "OK, tá bom, mas você quer que eu fale já é isso, coloca algumas coisas."
+    },
+    {
+      "startTime": 4014,
+      "endTime": 4022,
+      "speaker": "Diego Diehl",
+      "text": "Não eu discuto contigo lista e eu só peço para o Johnny ajustar o campo. Ou até eu sei pegar e mudar o campo"
+    },
+    {
+      "startTime": 4022,
+      "endTime": 4022,
+      "speaker": "Johnny Fernandes",
+      "text": "Beleza então, por enquanto vai"
+    },
+    {
+      "startTime": 4022,
+      "endTime": 4024,
+      "speaker": "Diego Diehl",
+      "text": "ali."
+    },
+    {
+      "startTime": 4024,
+      "endTime": 4044,
+      "speaker": "Johnny Fernandes",
+      "text": "colocar a temperatura quente morno frio e a gente pode customizar mais esses outros Campos. Bom o nosso a nossa pauta especificamente era validar com essas automações com todo esse esse. automações com todo esse esse. Essas regras de negócios que a gente fez aqui, né? E o próximo passo aqui, cara."
+    },
+    {
+      "startTime": 4044,
+      "endTime": 4071,
+      "speaker": "Johnny Fernandes",
+      "text": "É seguir aqui o funil de vendas mesmo, né acompanhar ali o corretor junto ao cliente para ter essa venda aconteça tá então Teoricamente aqui a gente fez você realizou nós fica posicionado aqui no interesse confirmado caso tenha um interesse confirmado nesse cliente e aqui vai ficar alguns dias semana."
+    },
+    {
+      "startTime": 4071,
+      "endTime": 4104,
+      "speaker": "Johnny Fernandes",
+      "text": "Meses dependendo do time do cliente tá bom Claro aqui cai nessa e Kátia também, né? O intuito é elevar para a etapa de geração de proposta. Tá. Inclusive, a gente já tem o modelinho de propostas aqui no sistema tá uma simplificada em uma mais completa. Onde você pode ser só um documento interno tá ou você pode usar se você gera alguma proposta para o corretor para imobiliária?"
+    },
+    {
+      "startTime": 4104,
+      "endTime": 4108,
+      "speaker": "Caio Gomes",
+      "text": "Sim a gente tem um tem uma proposta em"
+    },
+    {
+      "startTime": 4108,
+      "endTime": 4110,
+      "speaker": "Johnny Fernandes",
+      "text": "E Word."
+    },
+    {
+      "startTime": 4110,
+      "endTime": 4117,
+      "speaker": "Caio Gomes",
+      "text": "Não é nem hoje é Excel e tem uma outra que é em PDF editável que daí a gente manda para o corretor preenchê-la e o legal que aqui na"
+    },
+    {
+      "startTime": 4117,
+      "endTime": 4118,
+      "speaker": "Johnny Fernandes",
+      "text": "então isso aí"
+    },
+    {
+      "startTime": 4119,
+      "endTime": 4129,
+      "speaker": "Caio Gomes",
+      "text": "setinha que não é obrigatório assinar então o cliente. Colocou lá os dados já pode devolver essa."
+    },
+    {
+      "startTime": 4129,
+      "endTime": 4131,
+      "speaker": "Johnny Fernandes",
+      "text": "Legal, então o bom desse recurso. aqui Claro."
+    },
+    {
+      "startTime": 4131,
+      "endTime": 4150,
+      "speaker": "Diego Diehl",
+      "text": "Fazer uma pergunta, deixa eu fazer uma pergunta nisso Caio você acha que agora é o momento interessante da gente avaliar criar um documento uma proposta por dentro do sistema aqui ou quando chega a proposta vocês vão para um outro caminho cigarro. Sei lá o sistema que vocês têm."
+    },
+    {
+      "startTime": 4151,
+      "endTime": 4181,
+      "speaker": "Caio Gomes",
+      "text": "Eu acho que nesse momento não assim, ó, é lógico que no futuro podemos pensar em começar a evoluir por aqui e tal, mas acho que nesse momento o que eu preciso é startar até a proposta quando chega no assunto de proposta. Acho que daí a gente não precisa não nesse momento agora e colocar internamente podemos fazer da forma como está então até a visita legal que a gente sinalizou a proposta hoje, viu? A proposta a gente pode até colocar os números manuais aí sem documento sem nada para"
+    },
+    {
+      "startTime": 4181,
+      "endTime": 4182,
+      "speaker": "Diego Diehl",
+      "text": "isso são"
+    },
+    {
+      "startTime": 4183,
+      "endTime": 4200,
+      "speaker": "Caio Gomes",
+      "text": "Eu preciso tratar essa operação o quanto antes ainda hoje. Quem? Segunda-feira enfim e para começar e depois a gente vai vai aprimorando as funcionalidade."
+    },
+    {
+      "startTime": 4200,
+      "endTime": 4200,
+      "speaker": "Johnny Fernandes",
+      "text": "tá aqui só"
+    },
+    {
+      "startTime": 4200,
+      "endTime": 4206,
+      "speaker": "Diego Diehl",
+      "text": "Tá Johnny, pode continuar foi só para dar o tom de não ter que enviar para o cliente algo assim. Mas explica que precisa ser feito"
+    },
+    {
+      "startTime": 4206,
+      "endTime": 4206,
+      "speaker": "Johnny Fernandes",
+      "text": "Concordo perfeitamente."
+    },
+    {
+      "startTime": 4206,
+      "endTime": 4207,
+      "speaker": "Diego Diehl",
+      "text": "para a gente ter dados."
+    },
+    {
+      "startTime": 4208,
+      "endTime": 4223,
+      "speaker": "Johnny Fernandes",
+      "text": "Então essa simplificada aqui cara. É só algo interno mesmo. Só para você ter no sistema a proposta que foi gerada, mas assim eu fiz aqui em 20 segundos tá? É nova proposta produto valor e x pronto."
+    },
+    {
+      "startTime": 4223,
+      "endTime": 4224,
+      "speaker": "Caio Gomes",
+      "text": "Fechou excelente."
+    },
+    {
+      "startTime": 4225,
+      "endTime": 4253,
+      "speaker": "Johnny Fernandes",
+      "text": "Tá e com que os loucos de vocês aqui tanto que não tem nem informações aqui muito específicas, tá? Porque quando você gera proposta aqui em 20 segundos igual eu fiz aqui, né nesse primeiro momento, você já tem uma proposta vinculada no sistema e quando você Eu vou até para o final aqui, você aconteceu a venda quando você dá um ganho ele já abre tudo preenchido o formulário de venda para registrar a venda já veio o valor que você colocou já vê um produto já vem tudo."
+    },
+    {
+      "startTime": 4253,
+      "endTime": 4278,
+      "speaker": "Johnny Fernandes",
+      "text": "E aí quando você dá um ganho nessa nesse negócio? Que ele só com uma visita. Você tem a proposta que foi gerada e você tem a venda que foi gerada e aí eu alimento relatórios aqui no sistema Caio de negócio de proposta de venda de forma automática. Tá bom depois se você quiser aprimorar essa proposta."
+    },
+    {
+      "startTime": 4278,
+      "endTime": 4303,
+      "speaker": "Johnny Fernandes",
+      "text": "Para ser compartilhada por dentro do sistema você consegue mandar ela, ó? Você pode baixar o pdf você vai mandar por e-mail por aqui mesmo, tá você pode ter um modelo de e-mail aqui para envio de proposta já com os textos padronizados. usando. Aqui ó o exemplo de visita e você pode mandar pelo WhatsApp por aqui também é que o meu tá conectado."
+    },
+    {
+      "startTime": 4303,
+      "endTime": 4311,
+      "speaker": "Johnny Fernandes",
+      "text": "E se você quiser assinar digitalmente você consegue mandar por aqui também, tá? Claro que fica em Passo 2, tá bom? Só queria mostrar esse."
+    },
+    {
+      "startTime": 4311,
+      "endTime": 4323,
+      "speaker": "Caio Gomes",
+      "text": "É passo dois que daí acho que sim, a gente pode vir depois né? Acho que vai demorar ainda alguns meses. Enfim, a gente pode vincular com a nossa Secretaria de vendas junto com o dockside pra gente rastrear tudo por lá para aparecer no nosso"
+    },
+    {
+      "startTime": 4323,
+      "endTime": 4324,
+      "speaker": "Johnny Fernandes",
+      "text": "Boa e muito bom, beleza?"
+    },
+    {
+      "startTime": 4324,
+      "endTime": 4330,
+      "speaker": "Caio Gomes",
+      "text": "relatório. Acho que é legal passo três isso aí faço quatro sei lá, né?"
+    },
+    {
+      "startTime": 4330,
+      "endTime": 4331,
+      "speaker": "Johnny Fernandes",
+      "text": "Tranquilo então essa proposta"
+    },
+    {
+      "startTime": 4331,
+      "endTime": 4333,
+      "speaker": "Caio Gomes",
+      "text": "beleza"
+    },
+    {
+      "startTime": 4333,
+      "endTime": 4341,
+      "speaker": "Johnny Fernandes",
+      "text": "simplificada aqui que é 20 segundos, tá bom? Só para ter os dados no sistema do que foi gerado de proposta e o das vendas realizadas."
+    },
+    {
+      "startTime": 4346,
+      "endTime": 4369,
+      "speaker": "Caio Gomes",
+      "text": "em relação a isso daí é só fazer os ajustes então feitos que a gente falou agora em reunião, o Diego continua conosco aqui, eu quero amanhã já começar a fazer alguns testes. A gente já tem visitas para amanhã para sábado para domingo para semana que vem. Quero já começar a fazer esses testes já para inclusive para reunião que eu vou ter com a nossa VP aqui mostrar para ela."
+    },
+    {
+      "startTime": 4369,
+      "endTime": 4371,
+      "speaker": "Caio Gomes",
+      "text": "Já que já está operando."
+    },
+    {
+      "startTime": 4371,
+      "endTime": 4378,
+      "speaker": "Johnny Fernandes",
+      "text": "Tem mais um ponto que que eu coloquei como pauta também, Diego só mais dois minutos. Deixa eu aproveitar essa cal aqui."
+    },
+    {
+      "startTime": 4378,
+      "endTime": 4378,
+      "speaker": "Caio Gomes",
+      "text": "Tá bom."
+    },
+    {
+      "startTime": 4378,
+      "endTime": 4390,
+      "speaker": "Johnny Fernandes",
+      "text": "Aqui em relatórios Caio já deixei configurado um relatório de gestão de base. Tá eu vi que você mandou ontem para o Diego mais alguma sugestões que o gelo me passou a gente vai."
+    },
+    {
+      "startTime": 4391,
+      "endTime": 4424,
+      "speaker": "Diego Diehl",
+      "text": "Eu vou revisar ali. Eu quero agora o Caio vai conseguir meia hora comigo, a gente vai olhar com o tempo de qualidade. O que já é claro é que o mapeamento de responsável, ele é meio abstrato para carteira o que a gente quer ver principalmente são os usuários colaboradores lá da automação que com quantos corretores Cada um fala tá interagindo e tal esse é que ele se sobrepõe, ele vai ser maior do que o número total do parceiros a gente precisa contabilizar colaborador."
+    },
+    {
+      "startTime": 4424,
+      "endTime": 4429,
+      "speaker": "Johnny Fernandes",
+      "text": "Eu deixei pronto por responsável e também por colaborador, tá bom?"
+    },
+    {
+      "startTime": 4429,
+      "endTime": 4430,
+      "speaker": "Diego Diehl",
+      "text": "Aonde que tá o colaborador?"
+    },
+    {
+      "startTime": 4430,
+      "endTime": 4438,
+      "speaker": "Johnny Fernandes",
+      "text": "É preciso que ele tá vazio aqui. carrego. Mas a ideia que"
+    },
+    {
+      "startTime": 4439,
+      "endTime": 4452,
+      "speaker": "Diego Diehl",
+      "text": "E aí tem um relatório que a gente só para já formalizar aqui que é alguma leitura sobre registros de interação ou mensagens enviadas e recebidas que a gente vai ter."
+    },
+    {
+      "startTime": 4452,
+      "endTime": 4455,
+      "speaker": "Johnny Fernandes",
+      "text": "Legal, beleza aqui tem essa timeline."
+    },
+    {
+      "startTime": 4455,
+      "endTime": 4457,
+      "speaker": "Diego Diehl",
+      "text": "Isso e por que só da hora e os"
+    },
+    {
+      "startTime": 4457,
+      "endTime": 4467,
+      "speaker": "Johnny Fernandes",
+      "text": "aqui de por dia, quantos corretores da ordem foram cadastrados aqui tá dia a dia."
+    },
+    {
+      "startTime": 4467,
+      "endTime": 4467,
+      "speaker": "Diego Diehl",
+      "text": "outros?"
+    },
+    {
+      "startTime": 4467,
+      "endTime": 4468,
+      "speaker": "Caio Gomes",
+      "text": "Eu queria saber."
+    },
+    {
+      "startTime": 4468,
+      "endTime": 4471,
+      "speaker": "Johnny Fernandes",
+      "text": "O Geraldo aqui embaixo o Geraldo aqui embaixo."
+    },
+    {
+      "startTime": 4471,
+      "endTime": 4473,
+      "speaker": "Caio Gomes",
+      "text": "Quantas interações tivemos?"
+    },
+    {
+      "startTime": 4473,
+      "endTime": 4474,
+      "speaker": "Johnny Fernandes",
+      "text": "aqui é"
+    },
+    {
+      "startTime": 4474,
+      "endTime": 4477,
+      "speaker": "Caio Gomes",
+      "text": "hoje"
+    },
+    {
+      "startTime": 4477,
+      "endTime": 4479,
+      "speaker": "Johnny Fernandes",
+      "text": "interações"
+    },
+    {
+      "startTime": 4479,
+      "endTime": 4483,
+      "speaker": "Diego Diehl",
+      "text": "Olha só dia 26 foi cadastrado 1.700 corretores."
+    },
+    {
+      "startTime": 4483,
+      "endTime": 4488,
+      "speaker": "Johnny Fernandes",
+      "text": "Teve algumas importações aqui, não tem jeito teve mais. Quer ver ó?"
+    },
+    {
+      "startTime": 4488,
+      "endTime": 4510,
+      "speaker": "Diego Diehl",
+      "text": "Deixa eu ver isso é ouvir o Vitor saiu, né? Eu acho que uma coisa mais importante Johnny que eu queria que João Johnny Vitor que o Vitor saiu agora que a gente olhasse é só validar exatamente a parte dos emojis se tá cadastrando. Tá porque não sei se já tá cadastrado e tal para a gente ficar seguro."
+    },
+    {
+      "startTime": 4510,
+      "endTime": 4531,
+      "speaker": "Diego Diehl",
+      "text": "Eu dei essa tarefa para o João ali para pegar uma amostra na segunda-feira com eles a gente reforçar o demores para a gente vai lidar a carteira aí principalmente daí caiu a parte das interações. Eu tô desenvolvendo com o Johnny tá? A gente desenhou esse relatório já né, Johnny? Daí a gente amadurece para enxergar registros de interação por gerente."
+    },
+    {
+      "startTime": 4531,
+      "endTime": 4532,
+      "speaker": "Diego Diehl",
+      "text": "Que é conversas?"
+    },
+    {
+      "startTime": 4535,
+      "endTime": 4550,
+      "speaker": "Johnny Fernandes",
+      "text": "Mas hoje por exemplo, eu tô vendo aqui ó hoje dia 5 foram cadastrar 15 novos corretores do sistema. Tá então esse daqui que foi feito pelo Barbosa. Fiquei aqui na latani e vou clicar"
+    },
+    {
+      "startTime": 4550,
+      "endTime": 4552,
+      "speaker": "Diego Diehl",
+      "text": "Clica nesse aí por sinal."
+    },
+    {
+      "startTime": 4555,
+      "endTime": 4566,
+      "speaker": "Johnny Fernandes",
+      "text": "aqui também. Só para confirmar que se ele veio ver hoje ou se ele veio de outra."
+    },
+    {
+      "startTime": 4566,
+      "endTime": 4566,
+      "speaker": "Diego Diehl",
+      "text": "Não tem outra forma, né?"
+    },
+    {
+      "startTime": 4566,
+      "endTime": 4568,
+      "speaker": "Johnny Fernandes",
+      "text": "Entrada, né?"
+    },
+    {
+      "startTime": 4568,
+      "endTime": 4568,
+      "speaker": "Diego Diehl",
+      "text": "Não tem outra."
+    },
+    {
+      "startTime": 4568,
+      "endTime": 4581,
+      "speaker": "Johnny Fernandes",
+      "text": "Ó aqui ó. Foi a interação passado criou esse daqui. Ele não tem aqui o nome porque esse cara não deve ter respondido ainda o Barbosa."
+    },
+    {
+      "startTime": 4581,
+      "endTime": 4592,
+      "speaker": "Diego Diehl",
+      "text": "Tá. E aí, não vem o Primeiro Registro também, né? A gente tava em dúvida disso, mas a mensagem do registro não vai."
+    },
+    {
+      "startTime": 4592,
+      "endTime": 4594,
+      "speaker": "Caio Gomes",
+      "text": "Mensagem eu não entendi que mensagem digo."
+    },
+    {
+      "startTime": 4594,
+      "endTime": 4608,
+      "speaker": "Diego Diehl",
+      "text": "Tipo provavelmente se a mensagem com os emojis Que serviu para cadastro ela não tá registrado aqui só as próximas, vê se track tá ligado e só para ver se hoje já para validade."
+    },
+    {
+      "startTime": 4608,
+      "endTime": 4610,
+      "speaker": "Johnny Fernandes",
+      "text": "tá"
+    },
+    {
+      "startTime": 4610,
+      "endTime": 4614,
+      "speaker": "Diego Diehl",
+      "text": "Então gente, é isso evoluímos agora."
+    },
+    {
+      "startTime": 4618,
+      "endTime": 4622,
+      "speaker": "Caio Gomes",
+      "text": "passo a passo"
+    },
+    {
+      "startTime": 4625,
+      "endTime": 4644,
+      "speaker": "Diego Diehl",
+      "text": "Tá. Deixa eu aproveitar para fazer um fichamento só Caio aqui contigo sei que a reunião foi longa, mas Acho que para todo mundo alinhado aqui. A ideia em setembro acelerar bastante focado muito na setinha, falei para o João quinta e sexta foco organizar tudo ele está E aí passar mais esse Portes mais recorrentes."
+    },
+    {
+      "startTime": 4644,
+      "endTime": 4660,
+      "speaker": "Diego Diehl",
+      "text": "Talvez não no grupo João mas para o Caio ali a gente tá inteirando o que tá fazendo que não tá. E aí eu a gente eu e você junto a gente já viu uma forma de já treinar o time para ele registrar as primeiras visitas, beleza? E para o Vitor a gente o próximo"
+    },
+    {
+      "startTime": 4660,
+      "endTime": 4660,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "combinado"
+    },
+    {
+      "startTime": 4662,
+      "endTime": 4681,
+      "speaker": "Diego Diehl",
+      "text": "passo mais cor importante é ligar o bote para responder alguns arquivos já começar a enviar material para a gente dar velocidade nisso. Para deixar claro no plano básico, daí eu vou estratificar com o Caio aqui com mais. Valeu, abraço."
+    },
+    {
+      "startTime": 4681,
+      "endTime": 4681,
+      "speaker": "João Vitor Portes da Silva",
+      "text": "Valeu Caio"
+    },
+    {
+      "startTime": 4681,
+      "endTime": 4682,
+      "speaker": "Johnny Fernandes",
+      "text": "obrigado"
+    },
+    {
+      "startTime": 4682,
+      "endTime": 4682,
+      "speaker": "Lucas Vicente",
+      "text": "Aqui ó pessoal, boa tarde."
+    },
+    {
+      "startTime": 4682,
+      "endTime": 4682,
+      "speaker": "Diego Diehl",
+      "text": "Falou."
+    }
+  ]
+}

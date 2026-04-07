@@ -1,0 +1,32 @@
+{
+  "id": "695e8cb1aa480d00134aa7cf",
+  "happenedAt": "2026-01-07T16:41:21.373Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Paulo Deitos",
+      "email": "pd@cfgroup.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "CRI - SCP",
+  "duration": 3664.448,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/695e8cb1aa480d00134aa7cf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "dvk-nbfg-phs"
+  }
+}

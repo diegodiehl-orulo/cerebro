@@ -1,0 +1,2145 @@
+{
+  "meeting_id": "685d2ba7319f52001361c0e4",
+  "name": "Update: Z2 + Orulo",
+  "happened_at": "2025-06-26T11:15:00.000Z",
+  "duration_seconds": 3823.704,
+  "duration_minutes": 63.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "rodrigo@infoimob.pro"
+    },
+    {
+      "name": "",
+      "email": "felipe@infoimob.pro"
+    },
+    {
+      "name": "",
+      "email": "junior@infoimob.pro"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "CHARLES AUGUSTO DA SILVA",
+      "email": "charles@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "guilherme@infoimob.pro"
+    },
+    {
+      "name": "",
+      "email": "neto@z2app.com.br"
+    },
+    {
+      "name": "Marcelo Tadeu",
+      "email": "marcelo@z2app.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/685d2ba7319f52001361c0e4",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "jth-vxfp-jxj",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "685d2bba0d4976001310f401",
+    "meetingId": "685d2ba7319f52001361c0e4",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 53,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí pessoal? É que o pessoal vem aí na reunião."
+      },
+      {
+        "startTime": 53,
+        "endTime": 56,
+        "speaker": "Carolina Campos",
+        "text": "Eu tive minhas dúvidas que não tem ninguém deles ali confirmado."
+      },
+      {
+        "startTime": 85,
+        "endTime": 87,
+        "speaker": "Eduardo Stringhini",
+        "text": "Se não vou lá reunião Campos a gente podia antecipar nossa, né?"
+      },
+      {
+        "startTime": 92,
+        "endTime": 96,
+        "speaker": "Carolina Campos",
+        "text": "Já estamos aqui pode tocar."
+      },
+      {
+        "startTime": 97,
+        "endTime": 97,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vamos ver se eles entram."
+      },
+      {
+        "startTime": 173,
+        "endTime": 174,
+        "speaker": "Ruilce Neto",
+        "text": "Olá bom dia."
+      },
+      {
+        "startTime": 175,
+        "endTime": 211,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom dia neto. Bom dia"
+      },
+      {
+        "startTime": 211,
+        "endTime": 216,
+        "speaker": "Rodrigo Italiano",
+        "text": "Bom dia, bom dia. Tudo bem Edu Campos Diego."
+      },
+      {
+        "startTime": 217,
+        "endTime": 218,
+        "speaker": "Carolina Campos",
+        "text": "Bom dia pessoal."
+      },
+      {
+        "startTime": 219,
+        "endTime": 220,
+        "speaker": "Ruilce Neto",
+        "text": "Bom dia, bom dia."
+      },
+      {
+        "startTime": 220,
+        "endTime": 225,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia aí pessoal, tô passando um café, mas tô de fone ouvindo."
+      },
+      {
+        "startTime": 225,
+        "endTime": 249,
+        "speaker": "Rodrigo Italiano",
+        "text": "Oi Du, como que nós estamos de pauta aí, cara? Confesso que nós pulamos a última aí eu também. Perdido aqui mano."
+      },
+      {
+        "startTime": 249,
+        "endTime": 266,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não tem uma pauta fechada. Eu tenho aquela planilha lá que a gente tem alguns itens, né? Que eu compartilhei onde? E eu tinha anotado alguns assuntos aqui para a gente falar hoje. Que na verdade eu não é uma pauta que eu trouxe para mim aqui questionar posso"
+      },
+      {
+        "startTime": 266,
+        "endTime": 272,
+        "speaker": "Rodrigo Italiano",
+        "text": "passar aqui? Gabriela e vamos falar."
+      },
+      {
+        "startTime": 272,
+        "endTime": 1908,
+        "speaker": "Eduardo Stringhini",
+        "text": "Também aqui eu queria falar um pouco da situação do conecta. Como é que tá que a gente tem interesse em participar? Você daria um update aí da ferramenta de pagadoria também, porque acho que só eu participei quando vocês trouxeram. E eu queria falar daquele até assunto que eu tava falando contigo pelo WhatsApp ali Ita sobre a geração de resultado real dos vedeus ali sobre o funil de oportunidades negócios a gente puder trocar uma ideia sobre isso ou a gente fala amanhã no nossa reunião."
+      },
+      {
+        "startTime": 1908,
+        "endTime": 334,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso que eu tinha anotado para eu falar aqui."
+      },
+      {
+        "startTime": 334,
+        "endTime": 334,
+        "speaker": "Rodrigo Italiano",
+        "text": "fala"
+      },
+      {
+        "startTime": 335,
+        "endTime": 344,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu tenho mais uma coisinha, se puder adicionar aí é do bem tática assim queria ver como é que tá a questão do traqueamento do envio dos arquivos a sincronização de materiais."
+      },
+      {
+        "startTime": 352,
+        "endTime": 372,
+        "speaker": "Rodrigo Italiano",
+        "text": "Para não ficar solto aí. Então você falou do agendamento de visita com a interface do órgão é o conecta. Qual foi o terceiro ponto que você comentou aí?"
+      },
+      {
+        "startTime": 372,
+        "endTime": 375,
+        "speaker": "Eduardo Stringhini",
+        "text": "o status da apagado da ferramenta de pagadoria"
+      },
+      {
+        "startTime": 375,
+        "endTime": 375,
+        "speaker": "Rodrigo Italiano",
+        "text": "tá"
+      },
+      {
+        "startTime": 377,
+        "endTime": 382,
+        "speaker": "Eduardo Stringhini",
+        "text": "e o funil e o status do Funil de oportunidades sobre"
+      },
+      {
+        "startTime": 382,
+        "endTime": 382,
+        "speaker": "Rodrigo Italiano",
+        "text": "oportunidade"
+      },
+      {
+        "startTime": 385,
+        "endTime": 399,
+        "speaker": "Eduardo Stringhini",
+        "text": "E até uma discussão sobre os outros clientes, né? Como é que eles estão vendo o resultado assim? trocar o CD Falando nisso e tá quantos clientes ativos hoje tem no Z2? Que que nós temos de clientes aí?"
+      },
+      {
+        "startTime": 403,
+        "endTime": 407,
+        "speaker": "Rodrigo Italiano",
+        "text": "S uma balançada aqui esses dias a gente tá com 94 ativos."
+      },
+      {
+        "startTime": 409,
+        "endTime": 409,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tinha quantos anos?"
+      },
+      {
+        "startTime": 410,
+        "endTime": 413,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ah tava com cento e pouco ali aí tinha uns que não tava pagando."
+      },
+      {
+        "startTime": 414,
+        "endTime": 415,
+        "speaker": "Eduardo Stringhini",
+        "text": "Era muito estranho, né de alguns."
+      },
+      {
+        "startTime": 417,
+        "endTime": 440,
+        "speaker": "Rodrigo Italiano",
+        "text": "É. E aí, a gente deu um check-mate aqui em alguns e a gente está considerando aqui o que tá pagando hoje aí é 94. A gente atualizou o controle aqui na semana que vem ou não é tão anota. Aí a gente tá tá mudando aqui um pouquinho as apresentações."
+      },
+      {
+        "startTime": 440,
+        "endTime": 450,
+        "speaker": "Rodrigo Italiano",
+        "text": "Aí eu quero trazer aqui para aquele nosso fechamento a gente entrar com fechamento de Junho aqui. aí a gente dá essa clareza aí para"
+      },
+      {
+        "startTime": 450,
+        "endTime": 451,
+        "speaker": "Ruilce Neto",
+        "text": "combinado"
+      },
+      {
+        "startTime": 454,
+        "endTime": 505,
+        "speaker": "Rodrigo Italiano",
+        "text": "não vejo nenhum impeditivo ali no até surgir uma demanda de semana passada da MV tudo de Usar o nosso portal como um artilheiro. Porque eles têm lá um app e tal tem uma estrutura legal lá aí o time ficou de avaliar lá até uma possível customização. Mas é bem nessa nessa linha aí de ter um recurso de agendar visita lá no Na plataforma deles lá no site dele."
+      },
+      {
+        "startTime": 505,
+        "endTime": 525,
+        "speaker": "Eduardo Stringhini",
+        "text": "Antes disso é como é que tá o uso dessa solução pelo pelos clientes nos E2 assim a gente tem alguma. alguma métrica alguma ideia assim de Dos que porque hoje assim dos 94 clientes todos têm Todos usam o agendamento de visita tá liberado para todos é uma coisa mais."
+      },
+      {
+        "startTime": 527,
+        "endTime": 620,
+        "speaker": "Rodrigo Italiano",
+        "text": "agendamento de visita. Com esses dados a gente tá criando aqui um help score do cliente. Até ver aqui a gente fez uma planilha aqui. No primeiro momento. É da para dividir aí contigo rapidão."
+      },
+      {
+        "startTime": 620,
+        "endTime": 624,
+        "speaker": "Eduardo Stringhini",
+        "text": "Você está fazendo um mapa do que que os clientes que desses 94 aqui estão utilizando isso."
+      },
+      {
+        "startTime": 626,
+        "endTime": 647,
+        "speaker": "Rodrigo Italiano",
+        "text": "Exatamente para a gente entender ali o cara que a saúde do cliente de Fato, né? Então não racional do seguinte se o cara não tem venda registrada se ele não tem atividade registrada se ele não usa lá o comando do arroba Zé cara. Isso é um cliente que é risco de Turner."
+      },
+      {
+        "startTime": 648,
+        "endTime": 653,
+        "speaker": "Eduardo Stringhini",
+        "text": "Sim, ele provavelmente está pagando por alguma coisa lá que ele usa ou duas."
+      },
+      {
+        "startTime": 653,
+        "endTime": 719,
+        "speaker": "Rodrigo Italiano",
+        "text": "plataforma ali, vamos olhar o detalhe enfim."
+      },
+      {
+        "startTime": 719,
+        "endTime": 725,
+        "speaker": "Eduardo Stringhini",
+        "text": "Sim, tem que estar mais a fundo assim. Tem tempo que entrar nas contas deles dá uma olhada geral."
+      },
+      {
+        "startTime": 725,
+        "endTime": 736,
+        "speaker": "Rodrigo Italiano",
+        "text": "É exato exato, aí a gente pode fazer esse aí no amanhã ali na nossa. E aí falando rapidamente aqui da pagadora, né? Falei?"
+      },
+      {
+        "startTime": 736,
+        "endTime": 758,
+        "speaker": "Diego Diehl",
+        "text": "Só pedir uma coisa antes, na verdade, eu vou te mandar, mas só para a gente tá alinhado. Eu vou ver que cliente que eu não tô na conta dele ainda que eu vendi. E aí vou te mandar uma lista atualizada para vocês me adicionarem como usuário, tá? Porque daí eu vou fazer esse cheque aí com alguns clientes para ver tipo da city."
+      },
+      {
+        "startTime": 758,
+        "endTime": 766,
+        "speaker": "Diego Diehl",
+        "text": "Que eu entrei é nem precisa de help score ali para eu ver que não tá certo, né que não tá bom. então"
+      },
+      {
+        "startTime": 766,
+        "endTime": 769,
+        "speaker": "Rodrigo Italiano",
+        "text": "Tem algumas que a gente bate o olho aqui já fica claro, né?"
+      },
+      {
+        "startTime": 769,
+        "endTime": 805,
+        "speaker": "Diego Diehl",
+        "text": "vou jogar aí contigo para ver o que que a gente vai fazer com ele está porque em Goiânia por exemplo tem dois. Que eu quero aproximar. Porque eles estão caminhando para um modelo nosso do embaixador para ajudar a divulgar Óbvio e tal então daí a gente Entra naquele modelo a quatro mãos que a gente falou ontem, tá? E aí os outros eu só vou Cobrar daí que vocês se aproxime até para te ajudar a priorizar e saber que aquele lá é risco de Turner."
+      },
+      {
+        "startTime": 805,
+        "endTime": 852,
+        "speaker": "Rodrigo Italiano",
+        "text": "nesse. Nessa estrutura que a gente criou para a gente ter essas respostas. Mas aí tem os caras os casos mais críticos aí que só ele bateu o olho, né? O exemplo aí foi o que você deu da city."
+      },
+      {
+        "startTime": 852,
+        "endTime": 853,
+        "speaker": "Carolina Campos",
+        "text": "Se você quiser pode fazer uma qual em comum que a Laís também fez um"
+      },
+      {
+        "startTime": 853,
+        "endTime": 857,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 857,
+        "endTime": 874,
+        "speaker": "Carolina Campos",
+        "text": "levantamento aqui com alguns clientes e aí eu te passo uma visão, tá? Ela saiu de férias ela retorna na segunda-feira. E aí eu vou fazer uma agenda contigo que eu quero passar também algumas coisas que a gente Andou conversando com alguns clientes. Acho que vai poder dar um metezinho legal aí com que vocês estão fazendo também."
+      },
+      {
+        "startTime": 876,
+        "endTime": 912,
+        "speaker": "Rodrigo Italiano",
+        "text": "fórum separado não envolvendo o cliente, mas para tá todo mundo na mesma página. A gente vai exercitar um pouquinho isso aí principalmente com as com as do de Curitiba ali. Goiás ajustando isso aí com Diego aqui."
+      },
+      {
+        "startTime": 912,
+        "endTime": 918,
+        "speaker": "Carolina Campos",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 918,
+        "endTime": 920,
+        "speaker": "Rodrigo Italiano",
+        "text": "O Júnior Entrou fala doutor. Bom dia."
+      },
+      {
+        "startTime": 922,
+        "endTime": 931,
+        "speaker": "Junior Silva",
+        "text": "Fala, bom dia. Bom dia senhores, tudo bem? Desculpa o atraso tava num colchão aqui. Mas eu peguei já o gancho aí do CS, né, Rita?"
+      },
+      {
+        "startTime": 932,
+        "endTime": 943,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eu tava até para te contar aqui, eu tava comentando aqui com o time. É que eu tô me aproximando mais aqui dessa frente do CS, né? A gente criou ali. Aquele controle para trazer um recorte do cliente."
+      },
+      {
+        "startTime": 943,
+        "endTime": 945,
+        "speaker": "Junior Silva",
+        "text": "controle do cliente"
+      },
+      {
+        "startTime": 947,
+        "endTime": 948,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eu falei um pouco da gente fazer uma atuação ali em conjunto com os clientes"
+      },
+      {
+        "startTime": 948,
+        "endTime": 950,
+        "speaker": "Junior Silva",
+        "text": "Eu falei um pouco da gente fazer uma."
+      },
+      {
+        "startTime": 952,
+        "endTime": 957,
+        "speaker": "Rodrigo Italiano",
+        "text": "E aí a ideia é afinar a gente tá cada vez mais próximo ali e garante o"
+      },
+      {
+        "startTime": 957,
+        "endTime": 961,
+        "speaker": "Junior Silva",
+        "text": "Legal legal legal. Espero que todos estejam bem animado aqui. Ô, Diego. Tô"
+      },
+      {
+        "startTime": 961,
+        "endTime": 988,
+        "speaker": "Rodrigo Italiano",
+        "text": "sucesso do cliente, né? É o Edu trouxe também aqui algumas questões aqui eu vou até compartilhar. Todo mundo bateu o olho aqui no nesses pontos eu anotei E aí Júnior, o Edu também comentou de do status da pagadoria aqui, como que tá ainda não entramos nesse. Nesse assunto até para contextualizar O Alejandro também eu acho que na última que nós falamos sobre isso, ele não participou."
+      },
+      {
+        "startTime": 988,
+        "endTime": 994,
+        "speaker": "Rodrigo Italiano",
+        "text": "E a pauta da participação do conecta aqui, deixa eu. compartilhar a tela"
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1006,
+        "speaker": "Junior Silva",
+        "text": "indo para palestra da plaenge lá, vamos hoje palestrar aqui no étimo aqui da"
+      },
+      {
+        "startTime": 1006,
+        "endTime": 1006,
+        "speaker": "Diego Diehl",
+        "text": "Ah é."
+      },
+      {
+        "startTime": 1007,
+        "endTime": 1009,
+        "speaker": "Junior Silva",
+        "text": "plaenge coisa boa 9 horas começa o passe é 9 horas começa o café a palestra"
+      },
+      {
+        "startTime": 1009,
+        "endTime": 1010,
+        "speaker": "Diego Diehl",
+        "text": "Que horas agora de manhã?"
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1015,
+        "speaker": "Junior Silva",
+        "text": "às 10:00, se tiver em São Paulo de conseguir lá é no jardim."
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1039,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou em outro. Eu vou em outro aqui, eu tenho umas 10 e meio-dia presencial hoje à tarde eu vou estar rodando cidade com o cara novo, meu. Mas bem legal a plaenge Paraná Júnior, preciso saber tá com contrato na mão, tipo, agora ele vai assinar hoje. Só para você saber tá no radar se alguém comentar algo, você já sabe."
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1046,
+        "speaker": "Diego Diehl",
+        "text": "Paraná não tá Curitiba na verdade porque Paraná tem a parte do de Londrina lá gigante que a gente não chegou."
+      },
+      {
+        "startTime": 1049,
+        "endTime": 1050,
+        "speaker": "Rodrigo Italiano",
+        "text": "Estava sorrindo."
+      },
+      {
+        "startTime": 1051,
+        "endTime": 1053,
+        "speaker": "Diego Diehl",
+        "text": "Ia ser melhor né? Mas é questão de tempo."
+      },
+      {
+        "startTime": 1053,
+        "endTime": 1059,
+        "speaker": "Rodrigo Italiano",
+        "text": "Porque é lá que é o ouro, né? É todo mundo pede bem só para Londrina e Londrina. O Cris saiu, não sei se você tá sabendo aí."
+      },
+      {
+        "startTime": 1060,
+        "endTime": 1067,
+        "speaker": "Diego Diehl",
+        "text": "Não eu nem tô falando com Londrina, mas eu acho que talvez o Júnior ali próximo se a gente colocar Z2 em São Paulo para eles."
+      },
+      {
+        "startTime": 1067,
+        "endTime": 1069,
+        "speaker": "Rodrigo Italiano",
+        "text": "Não é isso, esse é o melhor caminho até agora."
+      },
+      {
+        "startTime": 1069,
+        "endTime": 1071,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que a gente cresce por ali mesmo, né? Mas fechou."
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1071,
+        "speaker": "Rodrigo Italiano",
+        "text": "100%"
+      },
+      {
+        "startTime": 1074,
+        "endTime": 2103,
+        "speaker": "Junior Silva",
+        "text": "então entrou o Gustavo que era da arcos que era isso gafisa é um cara super sênio toma organizando todo e agora a gente vai estar bem próximo lá da plano lá para a gente enfim monetizar sobre o transacional lá também, né que a gente já viu que teve resultado teve venda e agora a gente está organizando essa parte interna."
+      },
+      {
+        "startTime": 2103,
+        "endTime": 1173,
+        "speaker": "Junior Silva",
+        "text": "Do lado do conecta a gente tem aqui para Setembro, né? Que é o conecta a gente fechou o patrocínio com eles. Então é um estande de 12 metros quadrados É 12 ou 20. Acho que se quiser até mostrar depois aí eu fizer abrir o mid aqui ou neto"
+      },
+      {
+        "startTime": 1173,
+        "endTime": 1178,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ou é 24 a 18, não lembro lá, deixa eu procurar o midia kit aqui."
+      },
+      {
+        "startTime": 1178,
+        "endTime": 1180,
+        "speaker": "Junior Silva",
+        "text": "Quer comentar."
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1191,
+        "speaker": "Ruilce Neto",
+        "text": "Eu não ia falar se eu não me engano 12 metros quadrados era do SINE. É um pouquinho maior do conector, eu já vou procurar aqui, já já compartilhei."
+      },
+      {
+        "startTime": 1191,
+        "endTime": 1197,
+        "speaker": "Junior Silva",
+        "text": "Não ele pede que tem uma marca e o que que eu pensei lá, o Edu é se o órgão"
+      },
+      {
+        "startTime": 1197,
+        "endTime": 1204,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tu sabe se pode ter duas marcas aí ou é uma regra lá da"
+      },
+      {
+        "startTime": 1209,
+        "endTime": 1230,
+        "speaker": "Junior Silva",
+        "text": "resolver aí a gente construiu uma comunicação num conceito de ecossistemas. Então a gente ir com Z2 Bauer pau é ouro ou algo nesse sentido a gente construiu uma comunicação que seja de uma mandala de um ecossistema, né que se fecha ali com a audiência do órgão com tudo que tem ali."
+      },
+      {
+        "startTime": 1230,
+        "endTime": 1247,
+        "speaker": "Junior Silva",
+        "text": "Eu acho que faz muito sentido sabe esse tipo de comunicação. Então lá e não tem restrição porque eu já vi o CV fazendo outros caras Loft fazendo com vista, né? O ecossistema ali com vista é vista da Loft, né? Acho que é."
+      },
+      {
+        "startTime": 1247,
+        "endTime": 1250,
+        "speaker": "Eduardo Stringhini",
+        "text": "eu acho interessante, não sei se a gente precisa consultar eles ou vamos tocar"
+      },
+      {
+        "startTime": 1250,
+        "endTime": 1271,
+        "speaker": "Junior Silva",
+        "text": "né a gente pensar num Blend com Brand aqui entre as duas empresas com uma dinâmica muito voltada para essa questão do ecossistema."
+      },
+      {
+        "startTime": 1271,
+        "endTime": 1271,
+        "speaker": "Eduardo Stringhini",
+        "text": "assim, mas"
+      },
+      {
+        "startTime": 1272,
+        "endTime": 1345,
+        "speaker": "Junior Silva",
+        "text": "quer escolher o tema eu sugeri a gente promover uma premiação lá entre corretores. Corretores gerentes ou empresas Z2 sabe algo nesse sentido você é o coordenador de destaque entregar um prismazinho um prêmiozinho, p****. Parabéns fazer uma coisa lá de barulho. Talvez junto com o conteúdo muito voltado entre a gente pensar na dinâmica que eu acho que é mais do que a gente lá falar, talvez é usar esse pau."
+      },
+      {
+        "startTime": 1345,
+        "endTime": 1346,
+        "speaker": "Diego Diehl",
+        "text": "Travou o teu áudio Júnior."
+      },
+      {
+        "startTime": 1347,
+        "endTime": 1347,
+        "speaker": "Junior Silva",
+        "text": "Tão me ouvindo bem."
+      },
+      {
+        "startTime": 1348,
+        "endTime": 1349,
+        "speaker": "Diego Diehl",
+        "text": "Grava o teu áudio agora."
+      },
+      {
+        "startTime": 1349,
+        "endTime": 1351,
+        "speaker": "Rodrigo Italiano",
+        "text": "Microfone alguma coisa?"
+      },
+      {
+        "startTime": 1351,
+        "endTime": 1353,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tô ouvindo engraçado. Tô ouvindo bem o Júnior."
+      },
+      {
+        "startTime": 1354,
+        "endTime": 1355,
+        "speaker": "Alejandro Olchik",
+        "text": "Também tô ouvindo bem."
+      },
+      {
+        "startTime": 1357,
+        "endTime": 1358,
+        "speaker": "Carolina Campos",
+        "text": "Ele também tá chegando normal."
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1362,
+        "speaker": "Eduardo Stringhini",
+        "text": "Acho que é o problema do item do Diego."
+      },
+      {
+        "startTime": 1362,
+        "endTime": 1362,
+        "speaker": "Diego Diehl",
+        "text": "Tenta aí de novo."
+      },
+      {
+        "startTime": 1363,
+        "endTime": 1365,
+        "speaker": "Junior Silva",
+        "text": "Beleza, ó testando aí."
+      },
+      {
+        "startTime": 1365,
+        "endTime": 1367,
+        "speaker": "Rodrigo Italiano",
+        "text": "Não. zero"
+      },
+      {
+        "startTime": 1367,
+        "endTime": 1369,
+        "speaker": "Diego Diehl",
+        "text": "Tá chegando para vocês aí Campos."
+      },
+      {
+        "startTime": 1371,
+        "endTime": 1375,
+        "speaker": "Rodrigo Italiano",
+        "text": "ué"
+      },
+      {
+        "startTime": 1375,
+        "endTime": 1378,
+        "speaker": "Junior Silva",
+        "text": "Não é possível."
+      },
+      {
+        "startTime": 1381,
+        "endTime": 1383,
+        "speaker": "Eduardo Stringhini",
+        "text": "Estamos te ouvindo bem. Eu tô te ouvindo."
+      },
+      {
+        "startTime": 1383,
+        "endTime": 1389,
+        "speaker": "Junior Silva",
+        "text": "Bom querem fazer não sei agora meia dúzia me escutou."
+      },
+      {
+        "startTime": 1389,
+        "endTime": 1389,
+        "speaker": "Diego Diehl",
+        "text": "Que loucura."
+      },
+      {
+        "startTime": 1390,
+        "endTime": 1392,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tô ouvindo bem."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1393,
+        "speaker": "Rodrigo Italiano",
+        "text": "Você não lembra não era 10 mil p**** internet."
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1397,
+        "speaker": "Diego Diehl",
+        "text": "Eu não. Caramba, eu entro e saio."
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1400,
+        "speaker": "Junior Silva",
+        "text": "É possível?"
+      },
+      {
+        "startTime": 1407,
+        "endTime": 1411,
+        "speaker": "Diego Diehl",
+        "text": "pela compreensão"
+      },
+      {
+        "startTime": 1413,
+        "endTime": 1414,
+        "speaker": "Junior Silva",
+        "text": "continua"
+      },
+      {
+        "startTime": 1415,
+        "endTime": 1417,
+        "speaker": "Diego Diehl",
+        "text": "Pode pode voltou?"
+      },
+      {
+        "startTime": 1419,
+        "endTime": 1445,
+        "speaker": "Junior Silva",
+        "text": "prêmio Nobel. Oscar que premia agora Z2 também com premia também então reconhece as pessoas a dinâmica legal."
+      },
+      {
+        "startTime": 1445,
+        "endTime": 1476,
+        "speaker": "Diego Diehl",
+        "text": "O Júnior eu tava pensando sobre esse tema aí e eu achei assim. Eu tô tô motivado ainda para essa linha tá o eu tô fazendo um trabalho de João Pessoa para perguntar para os corretores. Que que eles sentem falta das incorporadoras. O que que é uma incorporadora que atende bem que eu me Incorporadora que atende mal aí tem os cara fala assim, eu quero ser tratado como um parceiro nosso como um vendedor a gente tá perguntando pai, o que que de forma prática? Demonstra que o cara te trata como um parceiro não como vendedor."
+      },
+      {
+        "startTime": 1476,
+        "endTime": 1497,
+        "speaker": "Diego Diehl",
+        "text": "E enfim tem uma dinâmica bacana. E se a gente só que daí vai dar um trabalhinho antes para gente né? De quem premiar. Mas seria legal a nossa palestra aspas dizer. O que é que é um bom gerente de parcerias? Quais critérios foram avaliados? E Quem é que ganhou o negócio, mas vai dar um trabalho, tá? Mas acho que seria bacana a gente fazer."
+      },
+      {
+        "startTime": 1497,
+        "endTime": 1519,
+        "speaker": "Junior Silva",
+        "text": "Não não dá não, cara, não dá não Diegão. A gente está com os indicadores lá ficando bem legal assim ó, se a gente olhar para Z2 e Orion. Vamos premiar. Quem são os clientes premissas tem que ser da hora e tem que ser Z2 beleza? Aí a gente elege o cara que tem mais interações tempo de resposta, a gente tem todos os dados."
+      },
+      {
+        "startTime": 1519,
+        "endTime": 1537,
+        "speaker": "Junior Silva",
+        "text": "Aí a gente é elenco os critérios no banco aqui, tá tranquilo. Isso a gente tá com volume de dados muito legal, então ontem eu tava Pô, depois eu vou mostrar o painel que a gente tá construindo aí dá para a gente é um formato sair fazer a nível de usuário."
+      },
+      {
+        "startTime": 1537,
+        "endTime": 1563,
+        "speaker": "Junior Silva",
+        "text": "Você é bem tranquilo fazer um aquário lá consultar no banco a gente extrair os dados tá bem Tranquilo isso aí isso eu tô bem tranquilo, aí a gente pensa na dinâmica então do conecta. Eu pensei muito na dinâmica da gente falar dessa premiação e no conceito que a gente tá estudando aqui a possibilidade de levar um robô a gente ainda tá usando tá querendo levar lá que é um quase que um Android né então."
+      },
+      {
+        "startTime": 1563,
+        "endTime": 1589,
+        "speaker": "Junior Silva",
+        "text": "Com algo que a gente fez ano passado com Robô esse ano a gente queria levar porque gera uma dinâmica de inovação aquela coisa de expectativa do cara falou assim, cara, aqueles caras estão muito na frente de todo mundo já estão com Android lá na feira. Só que a gente está ainda avaliando tá? Então legal aí pensando nisso, hoje estande connecta sem personalização ficou para 67 basicamente 70 mil reais, aí a gente parcelou aqui em três vezes."
+      },
+      {
+        "startTime": 1589,
+        "endTime": 1629,
+        "speaker": "Junior Silva",
+        "text": "E aí é o que eu comentei com o Diego eu falei Diegão tenho qualquer expectativa de vocês assim, se for basicamente entrar com a metade a gente tentar ver como é que faz a dinâmica não faz sentido vou entrar com menos a gente faz uma proporção pensa juntos aqui, mas eu acho que é muito legal, tá? O nosso time o time de vocês lá no Numa posição só eu acho que isso vai dar uma integração muito legal, olha tá? Então isso é o tema sobre conecta a gente tá discutindo agora as dinâmicas e era importante a gente definir ali já para a gente começar a impulsionar aqui a gente começar a fazer dos dois lados."
+      },
+      {
+        "startTime": 1629,
+        "endTime": 1657,
+        "speaker": "Junior Silva",
+        "text": "A gente vai ter o link de desconto. Então tem umas dinâmicas legais ali que estão sendo feitas. E também se encarar eu quero ir com estande também, eu acho que que já está do nosso lado lá também vale juro, eu vou pegar um estande igual eu vou fazer um mantenho ouro e dois do mesmo lado eu falo com a turma lá da da OLX dentro condicionais em estado do mesmo lado tem várias dinâmico para mim assim ó hoje."
+      },
+      {
+        "startTime": 1657,
+        "endTime": 1677,
+        "speaker": "Junior Silva",
+        "text": "nós A gente tem que estar nesse evento todos os anos. Ah, Júnior. Será que resultado comercial ele gera ao longo do ano a gente recuperou. Teve bons contratos que nasceram lá e a gente fechou lá em João dele, a gente foi nutrindo, né algumas coisas a gente quer criar aqui agora pombos para estimular os caras fecharem lá na hora."
+      },
+      {
+        "startTime": 1677,
+        "endTime": 1697,
+        "speaker": "Junior Silva",
+        "text": "Então, talvez fazer um combo ganhar mais Z2 e falar assim, cara você fechar aqui na feira, tu fecha portanto aí a gente pensar nas dinâmicas juntos, tá? Mas isso funciona muito bem eu fazia dentro de OLX lá envolvendo os pacotes data Zap Zap Imóveis Viva Real fazer uns pacotões lá para o cara fechar no no Connect."
+      },
+      {
+        "startTime": 1697,
+        "endTime": 1716,
+        "speaker": "Junior Silva",
+        "text": "Dava muito certo. Eu acho muito importante a gente sabe a presença de marca é muito forte ali tá os principais influências do mercado imobiliário, então não conecta. Então é a hora de vocês se conectar com esses embaixadores. Eu quero saber o que é ouro e depois ainda tentar tirar algo viral desse cara ali para impulsionar."
+      },
+      {
+        "startTime": 1716,
+        "endTime": 1719,
+        "speaker": "Junior Silva",
+        "text": "Eu acho que é muito rico conecta."
+      },
+      {
+        "startTime": 1719,
+        "endTime": 1727,
+        "speaker": "Eduardo Stringhini",
+        "text": "Estimativa para deixar o estande pronto foram 67 para deixar pronto."
+      },
+      {
+        "startTime": 1727,
+        "endTime": 1751,
+        "speaker": "Junior Silva",
+        "text": "O instante tá tudo pronto com mobília com tudo. Esse preço tá 100% tá com tudo aí eu posso personalizar algumas plotagens. Ah, eu quero botar aqui uma plotagem diferente, não sei o que que a gente vai personalizar vai custar mais uns 8 pau a mais é facada cara, tudo lá é igual aeroporto internet link de bosta, tu vai pagar r$ 1000 aí tu fala."
+      },
+      {
+        "startTime": 1751,
+        "endTime": 1755,
+        "speaker": "Rodrigo Italiano",
+        "text": "Você não lembra não era 10 mil p**** internet."
+      },
+      {
+        "startTime": 1755,
+        "endTime": 1757,
+        "speaker": "Junior Silva",
+        "text": "Era meu era no outro, né? No fim?"
+      },
+      {
+        "startTime": 1757,
+        "endTime": 1758,
+        "speaker": "Rodrigo Italiano",
+        "text": "Como no 5g?"
+      },
+      {
+        "startTime": 1762,
+        "endTime": 1773,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não beleza a gente a gente vai bater o martelo aqui do quanto a gente gostaria de entrar se a gente já tinha pensado em colocar uns 20 mil aproximadamente."
+      },
+      {
+        "startTime": 1776,
+        "endTime": 1777,
+        "speaker": "Rodrigo Italiano",
+        "text": "Repete aí do última frase."
+      },
+      {
+        "startTime": 1777,
+        "endTime": 1778,
+        "speaker": "Diego Diehl",
+        "text": "Só para você só para você aqui tá seguindo."
+      },
+      {
+        "startTime": 1778,
+        "endTime": 1786,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não a gente tem interesse em instalar com essa coparticipação, a gente é"
+      },
+      {
+        "startTime": 1786,
+        "endTime": 1798,
+        "speaker": "Diego Diehl",
+        "text": "Aí voltou."
+      },
+      {
+        "startTime": 1801,
+        "endTime": 1803,
+        "speaker": "Junior Silva",
+        "text": "Voltou aí para vocês. Eu entrei no túnel."
+      },
+      {
+        "startTime": 1813,
+        "endTime": 1830,
+        "speaker": "Eduardo Stringhini",
+        "text": "pensado aqui internamente investir uns 20 25 mil. Tá mas a gente revisa aqui onde a gente bate o martelo aí com vocês até essa semana para ver exatamente, qual é a proporção que é o ano você de entrar e daí a gente monta o ecossistema baseado na proporção da marca então."
+      },
+      {
+        "startTime": 1831,
+        "endTime": 1855,
+        "speaker": "Junior Silva",
+        "text": "Eu Acho super válido Pensa aí a gente organiza eu já fechei já. Assinei o contrato quero o principal para garantir o a reserva lá eu pago a primeira agora eu acho que essa semana no final da semana agora aqui. Então a gente tem umas dinâmicas aqui para aplicar e eu acho que é muito bacana, você instalem tá cara vai ser um divisor de águas aí por hora eu diria ali em relação a brand."
+      },
+      {
+        "startTime": 1856,
+        "endTime": 1862,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente vai estar eu só vou te dizer exatamente a proporção aí que a gente quer estar você tem que aprovar com as financeiro Felipe."
+      },
+      {
+        "startTime": 1864,
+        "endTime": 1875,
+        "speaker": "Junior Silva",
+        "text": "É o que se foi do E aí vem se você quiser entrar com estande também, cara, eu tento fazer uma negociação de dois aqui em um só dá para a gente pensar em várias dinâmicas aqui, pense aí e me fala."
+      },
+      {
+        "startTime": 1879,
+        "endTime": 1906,
+        "speaker": "Diego Diehl",
+        "text": "uma coisa só para pôr na Roda aqui do evento para mim eu já falei 10 vezes. O principal ali é o nosso time vendendo junto, eu vou poder contribuir com um vendedor treinados e bons e pra gente abordar é bom ter gente boa na ponta. quero levar mais gente como só Como é que chama visitador lá pessoa que tá indo curtir o evento e movimentar o evento?"
+      },
+      {
+        "startTime": 1906,
+        "endTime": 1908,
+        "speaker": "Junior Silva",
+        "text": "formador de opinião e tal"
+      },
+      {
+        "startTime": 1908,
+        "endTime": 1937,
+        "speaker": "Diego Diehl",
+        "text": "É eu quero levar a gente cara. Enfim fazer uma camiseta da hora fazer uma galera fazer o marketing da hora lá meio espalhado conversando com as pessoas. Tem gente que vai querer pagar uma parte, a gente vai estimular aqui do nosso lado Júnior, mas que esse cara não vai ficar no estande exatamente, mas circulando e essa integração dos times para mim, eu acho que tá caindo de maduro assim para a gente quando não tá entrosado, parece que tá tudo bem, mas quando entrosa e fala c******, nem se compara."
+      },
+      {
+        "startTime": 1937,
+        "endTime": 1954,
+        "speaker": "Diego Diehl",
+        "text": "Como a gente trabalha hoje como a gente trabalhava, né? Acho que isso é um ponto legal, eu acho que um ponto para a gente pensar também nessa divisão. Eu acho que eu me sinto confortável em dois pontos. Eu acho que seria razoável. Edu tá falando para você, a gente não entrar com metade."
+      },
+      {
+        "startTime": 1954,
+        "endTime": 1983,
+        "speaker": "Diego Diehl",
+        "text": "Tendo em vista uma política comercial mais tranquila lá e a gente for sentar aqui, cara, como é que vão ficar as vendas lá? Tipo entra tudo como Z2 daí. Porque eles que estão indo a gente tá indo mais Para apoiar. E aí com isso, tipo não tem essa porque isso não pode gerar um problema também, né? Ter dois times lá veneno de quem que é venda blá blá, eu acho que a política comercial do evento é algo importante da gente setar e eu não tô muito preocupado com isso."
+      },
+      {
+        "startTime": 1983,
+        "endTime": 2003,
+        "speaker": "Diego Diehl",
+        "text": "Ah, mas a venda é minha sei lá que eu tô mais em mim, por exemplo contribuir para reduzir custo a nossa marca tá lá. Mas eu acho que é um ponto legal de bater, porque se for de uma forma acho que faz sentido entrar numa quantidade ou de outro tá? Mas acho que se pode conversar direto com o Júnior aí."
+      },
+      {
+        "startTime": 2003,
+        "endTime": 2004,
+        "speaker": "Diego Diehl",
+        "text": "trocar uma ideia e"
+      },
+      {
+        "startTime": 2005,
+        "endTime": 2008,
+        "speaker": "Junior Silva",
+        "text": "É o Diegão, isso é bem tranquilo, cara. A gente alinha aí tá? Eu não tenho"
+      },
+      {
+        "startTime": 2008,
+        "endTime": 2008,
+        "speaker": "Diego Diehl",
+        "text": "É então, mas o que que você pensa hoje Júnior como alinhamento básico"
+      },
+      {
+        "startTime": 2008,
+        "endTime": 2013,
+        "speaker": "Junior Silva",
+        "text": "eu acho que eu tô eu acho que"
+      },
+      {
+        "startTime": 2015,
+        "endTime": 2019,
+        "speaker": "Diego Diehl",
+        "text": "assim, tipo entra tudo com vocês entra rachado."
+      },
+      {
+        "startTime": 2019,
+        "endTime": 2037,
+        "speaker": "Junior Silva",
+        "text": "Não nem pensei nisso não, cara no final assim, eu acho que lá a venda lá é muito pouca. Diego assim de na hora. Pode ser que a gente nos Surpreenda lá sabe? Então é muito mais hoje, a gente tem que focar mais nessa construção de topo de funil, lide bombar essa estratégia muito bem de mal de marketing depois do"
+      },
+      {
+        "startTime": 2037,
+        "endTime": 2039,
+        "speaker": "Diego Diehl",
+        "text": "Não não."
+      },
+      {
+        "startTime": 2039,
+        "endTime": 2060,
+        "speaker": "Junior Silva",
+        "text": "automação fazer um negócio legal e dar continuidade porque assim hoje com Z2 o ouro ganha de qualquer lado, né, cara, então não tem perca aqui aí a gente remunerar comercial. Se for isso a gente pensar na dinâmica, isso é de menos Cara isso. Aí a gente alinha aqui eu adoro pagar vendedor é bom demais pagar né, cara, que entra dinheiro junto todo mundo paga sorrindo."
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2079,
+        "speaker": "Junior Silva",
+        "text": "Eu mesmo aqui fico feliz demais. Quando eu tenho que pagar um vendedor. Então tá isso aí é de menos cara. A gente alinha a gente pode escrever a regra. E aí eu queria pensar que eu Neto só para você colocar aí na pauta, a gente já discutir no primeiro dia de conecta sobra um espaço durante a noite."
+      },
+      {
+        "startTime": 2079,
+        "endTime": 2088,
+        "speaker": "Junior Silva",
+        "text": "Eu queria promover um jantar entre as principais incorporadoras ali, talvez que a gente eleja uns 30 40 convidados, eu vou arrumar o espaço. Eu tô tentando ver se eu consigo."
+      },
+      {
+        "startTime": 2088,
+        "endTime": 2088,
+        "speaker": "Ruilce Neto",
+        "text": "legal"
+      },
+      {
+        "startTime": 2089,
+        "endTime": 2100,
+        "speaker": "Junior Silva",
+        "text": "Fazer talvez dentro do espaço patrocinado pela Infinity Bank lá que é já o cara lá que entra na pagadoria que ele tem espaços lá e tal se eu conseguir vai ser legal. Que aí a gente consegue promover e convidar esses caras lá a gente eleger"
+      },
+      {
+        "startTime": 2100,
+        "endTime": 2100,
+        "speaker": "Diego Diehl",
+        "text": "Bom demais."
+      },
+      {
+        "startTime": 2104,
+        "endTime": 2107,
+        "speaker": "Junior Silva",
+        "text": "algumas pessoas para a gente fortalecer Network ali, né?"
+      },
+      {
+        "startTime": 2108,
+        "endTime": 2115,
+        "speaker": "Ruilce Neto",
+        "text": "Muito bacana. E eu acho que por exemplo quem entrar ali na premiação, vamos dizer assim já. Já participa a garante a sua vaga ali no jantar que eu acho que seria legal a"
+      },
+      {
+        "startTime": 2115,
+        "endTime": 2120,
+        "speaker": "Diego Diehl",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2120,
+        "endTime": 2122,
+        "speaker": "Ruilce Neto",
+        "text": "gente dar um jeito de até remunerar essa premiação, né?"
+      },
+      {
+        "startTime": 2123,
+        "endTime": 2127,
+        "speaker": "Junior Silva",
+        "text": "Pode ser a gente pensa que juntos escreve aí é só a gente escrever para gente"
+      },
+      {
+        "startTime": 2127,
+        "endTime": 2128,
+        "speaker": "Ruilce Neto",
+        "text": "combinado"
+      },
+      {
+        "startTime": 2128,
+        "endTime": 2156,
+        "speaker": "Junior Silva",
+        "text": "bater orçamento bater tudo certinho aqui e aí a gente valida. Então vamos tentar validar um plano essa semana para semana que vem. A gente já bateu um martelo e discutir o que que vai ser e vamos puxar num fórum só para falar disso. Aí é legal aí a gente Diego já pensa nas regras também a gente compartilha, né? Tu coloca isso aí no documento a gente já pensa no que pode ser até levar uma ideia de ecossistema ali já do que que a gente acredita de linha de comunicação."
+      },
+      {
+        "startTime": 2156,
+        "endTime": 2157,
+        "speaker": "Junior Silva",
+        "text": "Acho que é legal."
+      },
+      {
+        "startTime": 2159,
+        "endTime": 2178,
+        "speaker": "Diego Diehl",
+        "text": "É só o esforço da gente ter que definir essas coisas já vai ser bom a gente aproximada e minha sugestão era que cara tudo fique com vocês lá do evento. É porque eles para de fazer em bar onde isso aquilo eu acho que a gente não sincronizou e não criou estratégia de marketing e vendas em comum até hoje."
+      },
+      {
+        "startTime": 2178,
+        "endTime": 2194,
+        "speaker": "Diego Diehl",
+        "text": "Eu prefiro nem por mais esse negócio no meio da jogada. Se não Imagina eu fazendo em balde de vocês fazendo em balde. Eu prefiro já ter uma política comercial aqui cara, tudo que entrar no eventos captam vocês fazem uma estratégia. A não ser que vocês queiram realmente sentar e a gente montar um conjunto."
+      },
+      {
+        "startTime": 2194,
+        "endTime": 2199,
+        "speaker": "Diego Diehl",
+        "text": "Mas seria algo a mais ainda para a gente alinhada, eu deixaria para o passo 2."
+      },
+      {
+        "startTime": 2199,
+        "endTime": 2215,
+        "speaker": "Junior Silva",
+        "text": "O Diegão O Neto tá reestruturando toda a parte de marketing. Nossa a partir do site tá mudando tudo e nessa estratégia também, principalmente a estratégia de tráfego pago de como que vai ser ali a automação uma série de coisas. Então que eu vejo ali a gente vai ter várias personas, né? Tem Incorporadora"
+      },
+      {
+        "startTime": 2215,
+        "endTime": 2215,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 2219,
+        "endTime": 2226,
+        "speaker": "Junior Silva",
+        "text": "tem corretor vai ter Imobiliária então muita coisa a gente vai ter que direcionar um tráfego ali para Por exemplo de corretor, cara, eu não tenho o que vender para o corretor. Eu"
+      },
+      {
+        "startTime": 2226,
+        "endTime": 2229,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 2229,
+        "endTime": 2231,
+        "speaker": "Junior Silva",
+        "text": "tenho que jogar esse cara para fora."
+      },
+      {
+        "startTime": 2231,
+        "endTime": 2232,
+        "speaker": "Diego Diehl",
+        "text": "Sem corretor imobiliária."
+      },
+      {
+        "startTime": 2232,
+        "endTime": 2238,
+        "speaker": "Junior Silva",
+        "text": "Tem que se conectar sair de lá com a conta é então a gente já até que pensar nisso, mas vamos botar isso tudo no plano aqui ó, tipo de abordagem"
+      },
+      {
+        "startTime": 2238,
+        "endTime": 2238,
+        "speaker": "Diego Diehl",
+        "text": "deixou"
+      },
+      {
+        "startTime": 2238,
+        "endTime": 2246,
+        "speaker": "Junior Silva",
+        "text": "qualquer audiência por Persona. O que que a gente vai comentar falar a gente deixa isso, tudo bem feito e compartilha esse documento com o time que mais."
+      },
+      {
+        "startTime": 2247,
+        "endTime": 2262,
+        "speaker": "Diego Diehl",
+        "text": "Sim, eu acho que uma coisa bacana é que a gente ora no pensar em algum material físico. Eu não tô falando físico, mas às vezes você não quer code um bônus não vai pensar e lá o que mais tem a corretora Imobiliária, né?"
+      },
+      {
+        "startTime": 2263,
+        "endTime": 2263,
+        "speaker": "Junior Silva",
+        "text": "Vou dar um exemplo. Vocês poderiam dar integração para o cara por um"
+      },
+      {
+        "startTime": 2263,
+        "endTime": 2263,
+        "speaker": "Diego Diehl",
+        "text": "corretor"
+      },
+      {
+        "startTime": 2267,
+        "endTime": 2269,
+        "speaker": "Junior Silva",
+        "text": "período? Se fosse possível."
+      },
+      {
+        "startTime": 2270,
+        "endTime": 2271,
+        "speaker": "Diego Diehl",
+        "text": "imobiliária"
+      },
+      {
+        "startTime": 2271,
+        "endTime": 2272,
+        "speaker": "Junior Silva",
+        "text": "É Imobiliária é tudo cara integra que teu CRM com todos os imóveis do de"
+      },
+      {
+        "startTime": 2272,
+        "endTime": 2276,
+        "speaker": "Diego Diehl",
+        "text": "Principalmente corretor Imobiliária tá aí tem que ver."
+      },
+      {
+        "startTime": 2276,
+        "endTime": 2294,
+        "speaker": "Junior Silva",
+        "text": "lançamento do Brasil. Então esse é o nosso presente para você, você ganhou um voucher de três meses. Sei lá, quantos meses vai ser. Vocês são daí é uma ideia tá? É uma ideia. Seja ousado, cara ali é hora de você fazer a gente tá botando é um investimento considerado."
+      },
+      {
+        "startTime": 2294,
+        "endTime": 2299,
+        "speaker": "Junior Silva",
+        "text": "Então você tem que bombar funil encher o cara tem que sair de lá falando oro."
+      },
+      {
+        "startTime": 2301,
+        "endTime": 2302,
+        "speaker": "Diego Diehl",
+        "text": "Tá ligado?"
+      },
+      {
+        "startTime": 2303,
+        "endTime": 2303,
+        "speaker": "Junior Silva",
+        "text": "Oráculo, né? Beleza?"
+      },
+      {
+        "startTime": 2303,
+        "endTime": 2311,
+        "speaker": "Diego Diehl",
+        "text": "Show demais é uma galera p****. Devia chamar oráculo é bem mais fácil faz muito mais sentido."
+      },
+      {
+        "startTime": 2314,
+        "endTime": 2338,
+        "speaker": "Eduardo Stringhini",
+        "text": "Mas é isso então, vamos nesse modelo de ecossistema a gente vai definir aqui a nossa participação ali. e acho que é mais como o Diego falou assim uma coisa mais a marca Z2 e a gente aglutina ali na comunicação de certo modo e Vamos tocar a ficha a gente vai estar com mais gente da hora lá também circulando com camiseta então."
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2340,
+        "speaker": "Eduardo Stringhini",
+        "text": "Essa que é a ideia."
+      },
+      {
+        "startTime": 2340,
+        "endTime": 2348,
+        "speaker": "Diego Diehl",
+        "text": "E para que a gente vai acabar focando e atender os corretores imobiliários aí para ir deixando o time livre para quando chegar o Incorporadora, né?"
+      },
+      {
+        "startTime": 2351,
+        "endTime": 2351,
+        "speaker": "Junior Silva",
+        "text": "Não beleza, beleza."
+      },
+      {
+        "startTime": 2351,
+        "endTime": 2355,
+        "speaker": "Diego Diehl",
+        "text": "Pensar nas personas. Mas vamos felizão e por isso viu? Compra assim."
+      },
+      {
+        "startTime": 2355,
+        "endTime": 2376,
+        "speaker": "Junior Silva",
+        "text": "Vamos lá bom. E aí concluindo falando aqui do Z2 Play, né? A pagadoria a gente vem conversando Alejandro e Edu. Eu acho que o Edu acompanhou da última vez ali, mas o Alejandro não. A gente cara sofre tá até a transação, né? Para ter o gol eu tenho que estar integrado no CRM."
+      },
+      {
+        "startTime": 2376,
+        "endTime": 2397,
+        "speaker": "Junior Silva",
+        "text": "Tem que estar olhando para venda, né? E é uma série de critérios ali, o que que a gente percebeu que existe um vácuo no mercado que é aposentadoria imobiliária, já tava no nosso plano de Business Play ali desenvolver uma pagado Arena imobiliária que era uma das minhas de receita que poderia crescer aqui."
+      },
+      {
+        "startTime": 2397,
+        "endTime": 2420,
+        "speaker": "Junior Silva",
+        "text": "E a gente percebeu e recebeu aqui uma oportunidade agora no meio do caminho a link pay que é uma aparadoria hoje já existente no mercado já tem um volume hoje de mais ou menos 50 mil contas entre recebendo todos os meses de 10 a 15 mil contos e transaciona mais ou menos em comissões por mês de 30 a 50 milhões."
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2461,
+        "speaker": "Junior Silva",
+        "text": "Isso mesmo, e aí ele cara Tecnologia antiga, o cara tá super bem um cara super bem capitalizado, eu já fui ver lá do do Infinity Bank lá que é a empresa Hold dele que toca ali que tem outras coisas. E aí ele me chamou ele falou p**** Júnior, cara, onde eu vou o mercado fala de você, você sempre teve aqui os clientes a maioria que tá comigo é que você trouxe, só que eu enchi o saco cansei, eu quero desenvolver uma pagadora nova com outro CNPJ com outra marca e eu quero que tudo faça isso toque aí eu falei cara, não dá tô na Z2."
+      },
+      {
+        "startTime": 2461,
+        "endTime": 2487,
+        "speaker": "Junior Silva",
+        "text": "Ela tem esse plano aqui eu posso fazer aqui a gente pode fazer. Uma g******* entre Z2 Infinite Bank que a gente desenvolve a pagadoria daqui tal tal tal tal beleza dito isso. Hoje nesse negócio a gente. Fez um DVD onde a gente tá lançando essa pagadora que a Z2 e CNPJ é sócia dessa empresa, então oro também vai ter participação que você tem na Z2."
+      },
+      {
+        "startTime": 2487,
+        "endTime": 2508,
+        "speaker": "Junior Silva",
+        "text": "E dentro dessa estrutura a gente vai fazer uma portabilidade dessas contas dele para essa nova. Nossa padoria que tá 100% embedado e conectada dentro do Código da Z2 usando as mesmas estruturas. Então eu não vou criar uma outra aplicação ou outra plataforma dentro lá do Z2 eu vou usar a mesma estrutura de usuário."
+      },
+      {
+        "startTime": 2508,
+        "endTime": 2543,
+        "speaker": "Junior Silva",
+        "text": "A diferença é que um Corretor Parceiro ele necessariamente ele tem uma conta Z2 e vai ter uma conta Z2 Play. É que ali ele vai poder usar para receber comissões podendo lançar a venda manualmente para fazer um split de uma comissão de uma unidade pronta ou ele podendo por exemplo aqui recebeu uma comissão que veio proveniente de um CRM como CV anáforo, né? Então existe algumas pagadoras no mercado todas elas eu participei da idealização, acompanhei e bropei linktei conta pronta banco Paulista agitas a regra de negócio de visão."
+      },
+      {
+        "startTime": 2543,
+        "endTime": 2572,
+        "speaker": "Junior Silva",
+        "text": "Como é que funciona? Eu só nunca fiz uma então a gente resolveu agora. Iniciar essa pagadoria pensando nisso, o Infinity bem que vai botar a grana a gente vai crescer e tá criando uma Squad só focada nisso, então eu não penalismo é o mesmo deve que tá tocando o z2a que vai tocar o Z2 play, então a gente tem um spin-off de equipe aqui vão ter duas equipes uma equipe focadas em uma equipe focados."
+      },
+      {
+        "startTime": 2572,
+        "endTime": 2609,
+        "speaker": "Junior Silva",
+        "text": "e dentro dessa estrutura é o Infinite Bank também ele entra com grana ali para Aportar ali e custear também. Esse aumento de equipe. Tão legal dito isso que que a gente está que paz que estamos já fechamos com um bem que vocês acesse que é o asas. Aqui O Alejandro provavelmente conhece tem vários aí tem asas tem modal, né? Tem vários mercados tem Fit e assim vai a gente fez uma uma reunião com diversos deles que a ETEC né e outros Como por exemplo o pessoal da catus e a gente decidiu ali de fato pelo pelo."
+      },
+      {
+        "startTime": 2609,
+        "endTime": 2638,
+        "speaker": "Junior Silva",
+        "text": "Asus então nessa estrutura a gente já fechou o contrato com Asus já tá assinado com eles, já estamos consumindo as apis já fizemos o mockup do front lá do Z2 Play já tá pronto, a gente já construiu a parte de beck, né na parte das tabelas estruturas de banco tão conectando as abelhas a gente pretende fazer um teste já na próxima semana de uma conta sendo criada recebendo e a gente quer lançar oficialmente."
+      },
+      {
+        "startTime": 2638,
+        "endTime": 2653,
+        "speaker": "Junior Silva",
+        "text": "No evento do connecta o Z2 Play, né? Então a ideia que a gente entra e com essa estratégia e a gente comece ali de fato a cercada né a ter a transação até o monitoramento de tudo ali. acompanhando"
+      },
+      {
+        "startTime": 2655,
+        "endTime": 2677,
+        "speaker": "Diego Diehl",
+        "text": "Júnior você já chegou a pensar no modelo que vocês vão estar de Falar comercial, mas no sentido de primeira você chegou a falar que uma meta tu era quase que zerar o custo. Hoje você já chegaram a trocar uma ideia sobre qual diferencial que a pagadoria vai ter se vai ter algum específico?"
+      },
+      {
+        "startTime": 2678,
+        "endTime": 2704,
+        "speaker": "Junior Silva",
+        "text": "Já já não o Diegão aí eu posso mostrar eu não sei se o ITA tem aí tem todo um plano de negócio. Fiz um plano de negócio um Business ali, então tem os diferenciais elenquei ali o nosso foco é que seja no futuro taxa zero. A gente inicia com uma taxa menor com um robô de cobrança ali com a no WhatsApp."
+      },
+      {
+        "startTime": 2704,
+        "endTime": 2719,
+        "speaker": "Junior Silva",
+        "text": "Então tem alguns diferenciais ali principais e o principal assim, né? Cara é pagadoria. Por exemplo, já tô com mais canto com ponto sem ter o sistema pronto Fechado. Estamos com a plano também já negociando sem tá pronto só a plano movimenta"
+      },
+      {
+        "startTime": 2719,
+        "endTime": 2721,
+        "speaker": "Rodrigo Italiano",
+        "text": "Mas tem outra reunião aqui, estou esperando cliente entrar então a qualquer"
+      },
+      {
+        "startTime": 2721,
+        "endTime": 2732,
+        "speaker": "Junior Silva",
+        "text": "40 milhões de comissões por mês mais ou menos na média 30 40. Então assim Diegão também tem um relacionamento, né? Cara que tá muito forte só esses clientes aí já paga a conta."
+      },
+      {
+        "startTime": 2733,
+        "endTime": 2735,
+        "speaker": "Diego Diehl",
+        "text": "Sim, que legal."
+      },
+      {
+        "startTime": 2740,
+        "endTime": 2744,
+        "speaker": "Rodrigo Italiano",
+        "text": "momento vou pular aqui, tá?"
+      },
+      {
+        "startTime": 2744,
+        "endTime": 2752,
+        "speaker": "Junior Silva",
+        "text": "não legal também cheguei aqui na Cara 9 horas aqui então. Claro claro."
+      },
+      {
+        "startTime": 2752,
+        "endTime": 2761,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode ser eu acho legal a gente entende melhor, como é que é a configuração"
+      },
+      {
+        "startTime": 2761,
+        "endTime": 2767,
+        "speaker": "Rodrigo Italiano",
+        "text": "podemos Vamos combinar para a próxima quinta, pode ser?"
+      },
+      {
+        "startTime": 2773,
+        "endTime": 2774,
+        "speaker": "Alejandro Olchik",
+        "text": "geral ali do modelo."
+      },
+      {
+        "startTime": 2777,
+        "endTime": 2779,
+        "speaker": "Junior Silva",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 2779,
+        "endTime": 2783,
+        "speaker": "Eduardo Stringhini",
+        "text": "a próxima quinta"
+      },
+      {
+        "startTime": 2786,
+        "endTime": 2787,
+        "speaker": "Junior Silva",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 2791,
+        "endTime": 2792,
+        "speaker": "Alejandro Olchik",
+        "text": "uma coisa bem operacional"
+      },
+      {
+        "startTime": 2792,
+        "endTime": 2792,
+        "speaker": "Junior Silva",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 2802,
+        "endTime": 2804,
+        "speaker": "Rodrigo Italiano",
+        "text": "O Júnior está retornando um pouco."
+      },
+      {
+        "startTime": 2804,
+        "endTime": 2804,
+        "speaker": "Diego Diehl",
+        "text": "moto Júnior"
+      },
+      {
+        "startTime": 2807,
+        "endTime": 2814,
+        "speaker": "Alejandro Olchik",
+        "text": "Tu tem alguma ideia como é que tá a questão do ajuste do traqueamento de arquivos e se a sincronização já tá funcionando?"
+      },
+      {
+        "startTime": 2817,
+        "endTime": 2821,
+        "speaker": "Rodrigo Italiano",
+        "text": "O ali eu não tenho esse esse update, aí eu vou anotar aqui para eu questionar o time, tá?"
+      },
+      {
+        "startTime": 2821,
+        "endTime": 2829,
+        "speaker": "Junior Silva",
+        "text": "Garante que o Marcelo o Gui depois esteja nessa reunião aqui cara, não sei se eles estão aí, mas não sei se eles também cara."
+      },
+      {
+        "startTime": 2829,
+        "endTime": 2833,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então assim a gente replicou, né?"
+      },
+      {
+        "startTime": 2833,
+        "endTime": 2846,
+        "speaker": "Junior Silva",
+        "text": "Deixa eu ver se eles estão no inverno. Porque é bom eles participarem aqui cara para atualizarem aqui. Depois manda lá no grupo dos sócios lá, cara, por favor."
+      },
+      {
+        "startTime": 2848,
+        "endTime": 2849,
+        "speaker": "Diego Diehl",
+        "text": "o Júnior"
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2849,
+        "speaker": "Rodrigo Italiano",
+        "text": "Cíntia comigo"
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2851,
+        "speaker": "Junior Silva",
+        "text": "Eu acho que eu vou."
+      },
+      {
+        "startTime": 2851,
+        "endTime": 2856,
+        "speaker": "Diego Diehl",
+        "text": "O update Eu acho que eu vou. Eu te ligo mais tarde para Vivaz."
+      },
+      {
+        "startTime": 2856,
+        "endTime": 2858,
+        "speaker": "Junior Silva",
+        "text": "Eu te ligo mais tarde sobre."
+      },
+      {
+        "startTime": 2858,
+        "endTime": 2859,
+        "speaker": "Diego Diehl",
+        "text": "Tá mas eu te ligo a gente fala."
+      },
+      {
+        "startTime": 2859,
+        "endTime": 2863,
+        "speaker": "Junior Silva",
+        "text": "A gente liga a gente fala tá bom combinado."
+      },
+      {
+        "startTime": 2863,
+        "endTime": 2864,
+        "speaker": "Diego Diehl",
+        "text": "Te ligar umas 11:30, tá?"
+      },
+      {
+        "startTime": 2864,
+        "endTime": 2868,
+        "speaker": "Junior Silva",
+        "text": "11:30 Tá combinado?"
+      },
+      {
+        "startTime": 2868,
+        "endTime": 2870,
+        "speaker": "Diego Diehl",
+        "text": "vou avisar o Felipe aqui, ele tava falando sobre o"
+      },
+      {
+        "startTime": 2870,
+        "endTime": 2879,
+        "speaker": "Junior Silva",
+        "text": "Vou almoçar com o da Diana então, se tiver alguma coisa para cobrar. Essa é a hora. Me avisa cara, eu vou estar com ele."
+      },
+      {
+        "startTime": 2879,
+        "endTime": 2884,
+        "speaker": "Diego Diehl",
+        "text": "Já imóvel, né?"
+      },
+      {
+        "startTime": 2887,
+        "endTime": 2897,
+        "speaker": "Junior Silva",
+        "text": "Me avisa vou estar com ele lá, eles estavam querendo vender mesmo. Beleza senhora."
+      },
+      {
+        "startTime": 2900,
+        "endTime": 2929,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso eu acho que o foco principal agora a gente dá uma olhada nessa questão aí do CS que a gente falou no início da reunião ali. Mas a gente também deu uma olhada que a gente deu uma reduzida no ritmo de contas aí novas e daí eu acho que a gente paralelo a gente também vê uma frente para isso aí, né? A gente a gente percebeu assim nos últimos tempos a gente não tem mais fechado conjuntamente muitos Z2 mais oro."
+      },
+      {
+        "startTime": 2929,
+        "endTime": 2948,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí a gente tá dando uma olhada internamente como é que a gente reacelera esse ritmo. Mas eu ainda acho que a prioridade é resolver o uso da ferramenta pelos clientes, eu acho que a gente a gente já chegou tem um caminho de venda. Aí a gente já sabe que o negócio vende bem junto."
+      },
+      {
+        "startTime": 2948,
+        "endTime": 2961,
+        "speaker": "Eduardo Stringhini",
+        "text": "Acho que é mais isso. eu coloquei mais como prioridade, a gente dá uma olhada a fundo nas contas que tem para os clientes que eles estão usando que Uma agressividade tão grande em Venda Nova nós temos sempre."
+      },
+      {
+        "startTime": 2962,
+        "endTime": 2965,
+        "speaker": "Diego Diehl",
+        "text": "Oi pessoal uma confirmação vocês fecharam algum Dea esse ano?"
+      },
+      {
+        "startTime": 2968,
+        "endTime": 2968,
+        "speaker": "Rodrigo Italiano",
+        "text": "Sim, sim dragão."
+      },
+      {
+        "startTime": 2968,
+        "endTime": 2972,
+        "speaker": "Diego Diehl",
+        "text": "Eu não tá na não tá na planilha lá de comissionamento de eu tô achando estranho, tá?"
+      },
+      {
+        "startTime": 2975,
+        "endTime": 2975,
+        "speaker": "Rodrigo Italiano",
+        "text": "Ah eu vou anotar aqui para lá."
+      },
+      {
+        "startTime": 2975,
+        "endTime": 2978,
+        "speaker": "Diego Diehl",
+        "text": "Então, depois vocês dão um cheque. beleza"
+      },
+      {
+        "startTime": 2982,
+        "endTime": 2987,
+        "speaker": "Junior Silva",
+        "text": "Diegão tá dando bastante resultado, viu, cara?"
+      },
+      {
+        "startTime": 2988,
+        "endTime": 3014,
+        "speaker": "Diego Diehl",
+        "text": "É por isso que eu tô assim, tá São Paulo na sua Praça que mais cresce. E aí eu queria um repórter mais claro de vocês, talvez a gente bater funil que já foi uns dois meses aí que vocês estão Já deram dá uma batida ver quem avançou porque eu tô tomando aqui os As abordagens com o pessoal de São Paulo que é de plástico que nosso eu não queria ficar batendo no mesmo sabe vamos marcar então uma reunião de revisão do Funil."
+      },
+      {
+        "startTime": 3014,
+        "endTime": 3015,
+        "speaker": "Diego Diehl",
+        "text": "A gente dá um cheque aí quem?"
+      },
+      {
+        "startTime": 3015,
+        "endTime": 3083,
+        "speaker": "Junior Silva",
+        "text": "Vamos vamos entender já impactamos tá na terceira vez já os 10 as reuniões estão dando certo a gente fez as dinâmicas de vídeo lá deu muito certo. Perdão, só tá me identificando aqui aí o Diegão a gente está impactando bem tá avançando muitos dos deas lá, a gente tá tendo um avanço bem legal aqui tá? Pode dar."
+      },
+      {
+        "startTime": 3083,
+        "endTime": 3087,
+        "speaker": "Diego Diehl",
+        "text": "É que eu te passei os deles os que não são pagantes da hora, né?"
+      },
+      {
+        "startTime": 3087,
+        "endTime": 3100,
+        "speaker": "Junior Silva",
+        "text": "Dele a gente falou que a maioria já né, cara todos eles tá na régua de novo. Tá na Cadência os dls lá. a gente tá falando com"
+      },
+      {
+        "startTime": 3100,
+        "endTime": 3108,
+        "speaker": "Diego Diehl",
+        "text": "Está falando que tá avançando. Tá mas estava falando que tava avançando com os pagantes oron para upgrade."
+      },
+      {
+        "startTime": 3108,
+        "endTime": 3109,
+        "speaker": "Junior Silva",
+        "text": "trazer dois"
+      },
+      {
+        "startTime": 3109,
+        "endTime": 3114,
+        "speaker": "Diego Diehl",
+        "text": "Achou é eu acho que esse aí é um foco bom aí, né? Então beleza"
+      },
+      {
+        "startTime": 3114,
+        "endTime": 3118,
+        "speaker": "Junior Silva",
+        "text": "Tá dando muito certo tá dando muito certo, cara para nós aqui é tão tá sendo bem legal."
+      },
+      {
+        "startTime": 3119,
+        "endTime": 3138,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, eu acho que eu vou marcar p****** para a gente bater para quando for retomar aqui, eu não economizar esforço, né, cara, a gente tem time comercial enxuto, não dá para ficar claro que disparar é mais fácil, né? Mandar para todos mas se for para evoluir mesmo sobrepor aí."
+      },
+      {
+        "startTime": 3139,
+        "endTime": 3140,
+        "speaker": "Junior Silva",
+        "text": "Então tá dando praticamente a gente você vai ver lá a gente falou quase todo"
+      },
+      {
+        "startTime": 3140,
+        "endTime": 3144,
+        "speaker": "Diego Diehl",
+        "text": "Uma dificuldade que eu tô vendo aqui em São Paulo só para te adiantar esses"
+      },
+      {
+        "startTime": 3144,
+        "endTime": 3149,
+        "speaker": "Junior Silva",
+        "text": "mundo tá reunindo. Tem empresas boas avançando fibra. Tem empresas."
+      },
+      {
+        "startTime": 3154,
+        "endTime": 3174,
+        "speaker": "Diego Diehl",
+        "text": "forem ainda. Eu Tô considerando que vocês estão sendo um bom canal de vendas aqui em São Paulo, então vocês conhecem bastante gente tal eu tô eu fiz uma análise de mapa ali e a gente tem pouca penetração pouca expansão geográfica em São Paulo é muito no miolinho aqui e tem uma galera em Barueri."
+      },
+      {
+        "startTime": 3174,
+        "endTime": 3179,
+        "speaker": "Diego Diehl",
+        "text": "Osasco, lembra que a gente falou disso, Barueri Osasco um pouco mais para baixo."
+      },
+      {
+        "startTime": 3179,
+        "endTime": 3185,
+        "speaker": "Junior Silva",
+        "text": "Lembro lá, eu tô atendendo lá, eu tô atendendo a maioria cara, só que não tem audiência e eles são delas, né?"
+      },
+      {
+        "startTime": 3186,
+        "endTime": 3191,
+        "speaker": "Diego Diehl",
+        "text": "ABC Paulista é isso? Daí eu preciso apresentar para vocês um plano de como é que com o cliente a gente faz a hora do crescer, mas eu vou marcar específico,"
+      },
+      {
+        "startTime": 3191,
+        "endTime": 3191,
+        "speaker": "Junior Silva",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3194,
+        "endTime": 3196,
+        "speaker": "Diego Diehl",
+        "text": "tá que São Paulo tem muita grana para tirar ainda. A gente só tá ninguém em"
+      },
+      {
+        "startTime": 3196,
+        "endTime": 3197,
+        "speaker": "Junior Silva",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3198,
+        "endTime": 3200,
+        "speaker": "Diego Diehl",
+        "text": "São Paulo. fechou"
+      },
+      {
+        "startTime": 3201,
+        "endTime": 3202,
+        "speaker": "Junior Silva",
+        "text": "Fechado. Valeu. Obrigado. Bom dia excelente semana."
+      },
+      {
+        "startTime": 3202,
+        "endTime": 3207,
+        "speaker": "Diego Diehl",
+        "text": "Valeu pessoal, abraço."
+      },
+      {
+        "startTime": 3207,
+        "endTime": 3208,
+        "speaker": "Alejandro Olchik",
+        "text": "logo"
+      },
+      {
+        "startTime": 3208,
+        "endTime": 3208,
+        "speaker": "Rodrigo Italiano",
+        "text": "Valeu senhores"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 276,
+    "speakers": [
+      "Alejandro Olchik",
+      "Junior Silva",
+      "Rodrigo Italiano",
+      "Carolina Campos",
+      "Eduardo Stringhini",
+      "Ruilce Neto",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 6740,
+    "duration_start": 0,
+    "duration_end": 3208
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "685d3ae7246a9300133c26ea",
+        "timestamp": 250,
+        "text": "Eduardo menciona planilha com itens previamente compartilhados para discussão",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26eb",
+        "timestamp": 272,
+        "text": "Eduardo planeja discutir situação do Conecta",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d6",
+        "timestamp": 334,
+        "text": "Alejandro solicita acompanhamento do rastreamento de envio de arquivos e sincronização de materiais",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d7",
+        "timestamp": 396,
+        "text": "Z2 atualmente possui 94 clientes ativos, reduzido de cerca de cem clientes anteriormente",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d8",
+        "timestamp": 453,
+        "text": "Potencial demanda da MV para usar portal como artilheiro identificada",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d9",
+        "timestamp": 504,
+        "text": "Equipe busca avaliar métricas de uso da solução de agendamento entre os 94 clientes atuais",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26da",
+        "timestamp": 625,
+        "text": "Rodrigo sugere análise da saúde dos clientes via registros de atividade, identificando riscos de churn.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26db",
+        "timestamp": 657,
+        "text": "Eduardo solicita update sobre ferramenta de pagadoria",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26dc",
+        "timestamp": 741,
+        "text": "Criando help score do cliente para análise de dados",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d0",
+        "timestamp": 742,
+        "text": "Diego enviará lista atualizada de clientes para adicionar como usuário.",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d1",
+        "timestamp": 752,
+        "text": "Diego fará verificação de clientes para avaliar status atual.",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26ec",
+        "timestamp": 804,
+        "text": "Equipe desenvolve estrutura para obter respostas específicas",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26ed",
+        "timestamp": 851,
+        "text": "Carolina propõe realizar levantamento com clientes para compartilhar insights",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f8",
+        "timestamp": 860,
+        "text": "Laís retorna de férias na próxima segunda-feira",
+        "topicId": "685d3ae7246a9300133c26ce"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f9",
+        "timestamp": 876,
+        "text": "Rodrigo sugere criar fórum separado para alinhar equipe, sem envolver cliente",
+        "topicId": "685d3ae7246a9300133c26ce"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d2",
+        "timestamp": 937,
+        "text": "Rodrigo aproxima-se de Customer Success, criando controle para acompanhamento específico de clientes.",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26fa",
+        "timestamp": 1015,
+        "text": "Diego terá reunião presencial com novo colaborador hoje à tarde, percorrendo a cidade.",
+        "topicId": "685d3ae7246a9300133c26ce"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26fb",
+        "timestamp": 1025,
+        "text": "Diego informa que Plaenge Paraná (Curitiba) está próximo de assinar contrato.",
+        "topicId": "685d3ae7246a9300133c26ce"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26fc",
+        "timestamp": 1046,
+        "text": "Eduardo propõe discussão sobre resultados dos vedeus; Gustavo chega para potencializar monetização transacional.",
+        "topicId": "685d3ae7246a9300133c26ce"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26ee",
+        "timestamp": 1104,
+        "text": "Time avaliará possível customização do app Orulo",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26fd",
+        "timestamp": 1173,
+        "text": "Rodrigo procurando detalhes sobre o espaço do evento, possivelmente 24 ou 18 metros quadrados.",
+        "topicId": "685d3ae7246a9300133c26cf"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26fe",
+        "timestamp": 1180,
+        "text": "Ruilce confirma que estande do SINE tem 12 metros quadrados.",
+        "topicId": "685d3ae7246a9300133c26cf"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26ef",
+        "timestamp": 1214,
+        "text": "Equipe planeja desenvolver comunicação em conceito de ecossistema, integrando marcas sem restrições.",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f0",
+        "timestamp": 1250,
+        "text": "Explorar potencial de blend de marca entre Z2 e outra empresa, focando na dinâmica de ecossistema",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f4",
+        "timestamp": 1272,
+        "text": "Junior sugere promover premiação para corretores Z2",
+        "topicId": "685d3ae7246a9300133c26cd"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f5",
+        "timestamp": 1308,
+        "text": "Equipe discutirá modelo de embaixador para divulgação do projeto.",
+        "topicId": "685d3ae7246a9300133c26cd"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d3",
+        "timestamp": 1464,
+        "text": "Diego propõe pesquisar o que corretores valorizam em incorporadoras para entender critérios de parceria.",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f6",
+        "timestamp": 1505,
+        "text": "Júnior sugere premiar clientes Z2 e Orulo com base em métricas como interações e tempo de resposta.",
+        "topicId": "685d3ae7246a9300133c26cd"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e3",
+        "timestamp": 1578,
+        "text": "Estande no evento Connecta custará aproximadamente 67 mil reais, parcelado em três vezes.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f7",
+        "timestamp": 1642,
+        "text": "Proposta de reconhecer corretores gerentes com prêmio de destaque",
+        "topicId": "685d3ae7246a9300133c26cd"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e4",
+        "timestamp": 1652,
+        "text": "Equipe identifica Connecta como evento estratégico para geração de negócios ao longo do ano.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e5",
+        "timestamp": 1709,
+        "text": "Objetivo é implementar recurso de agendamento de visita na plataforma Orulo",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e6",
+        "timestamp": 1778,
+        "text": "Eduardo propõe investimento inicial de 20 a 25 mil reais no estande.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d4",
+        "timestamp": 2038,
+        "text": "Diego solicita aproximação da equipe para identificar riscos potenciais",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e7",
+        "timestamp": 2069,
+        "text": "Júnior planeja organizar jantar com 30-40 convidados de incorporadoras durante o evento Connecta.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e8",
+        "timestamp": 2143,
+        "text": "Evento Conecta agendado para Setembro.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e9",
+        "timestamp": 2322,
+        "text": "Conecta fechou patrocínio com a equipe.",
+        "topicId": "685d3ae7246a9300133c26cb"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26dd",
+        "timestamp": 2396,
+        "text": "Identificada oportunidade de desenvolvimento de pagadoria imobiliária com potencial de 50 mil contas mensais.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26de",
+        "timestamp": 2441,
+        "text": "Desenvolvendo dinâmica de reconhecimento para corretores; Z2 e Infinite Bank planejam pagadoria conjunta.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f1",
+        "timestamp": 2495,
+        "text": "Junior planeja estrutura unificada de usuário para Z2 e Z2 Play, com contas para corretores.",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f2",
+        "timestamp": 2547,
+        "text": "Equipe criará Squad dedicada ao Z2 Play, com spin-off de equipe.",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26f3",
+        "timestamp": 2607,
+        "text": "Contrato com Asus fechado; mockup do Z2 Play pronto, com lançamento previsto no evento Connecta.",
+        "topicId": "685d3ae7246a9300133c26cc"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26df",
+        "timestamp": 2685,
+        "text": "Plano de negócios prevê taxa zero no futuro, com taxa inicial menor.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e0",
+        "timestamp": 2721,
+        "text": "Volume de comissões estimado em 30-40 milhões de reais por mês.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26d5",
+        "timestamp": 2962,
+        "text": "Diego solicita confirmação de fechamento de novos deals no ano.",
+        "topicId": "685d3ae7246a9300133c26c9"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e1",
+        "timestamp": 3047,
+        "text": "Junior reporta avanço significativo em negociações e reuniões com clientes.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      },
+      {
+        "segmentId": "685d3ae7246a9300133c26e2",
+        "timestamp": 3154,
+        "text": "Diego identifica baixa penetração geográfica da empresa em São Paulo.",
+        "topicId": "685d3ae7246a9300133c26ca"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "685d3ae7246a9300133c26c9",
+        "order": 1,
+        "title": "Ações Acordadas e Atribuições",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26ca",
+        "order": 2,
+        "title": "Status do Z2 e Métricas de Clientes",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26cb",
+        "order": 3,
+        "title": "Evento Connecta e Estratégia de Marketing",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26cc",
+        "order": 4,
+        "title": "Desenvolvimento de Produtos e Plataformas",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26cd",
+        "order": 5,
+        "title": "Programa de Reconhecimento e Incentivos",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26ce",
+        "order": 6,
+        "title": "Equipe e Recursos Internos",
+        "summary": ""
+      },
+      {
+        "id": "685d3ae7246a9300133c26cf",
+        "order": 7,
+        "title": "Espaço e Infraestrutura de Evento",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 47,
+    "topic_count": 7,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "685d3ae7246a9300133c26c9",
+      "order": 1,
+      "title": "Ações Acordadas e Atribuições",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26ca",
+      "order": 2,
+      "title": "Status do Z2 e Métricas de Clientes",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26cb",
+      "order": 3,
+      "title": "Evento Connecta e Estratégia de Marketing",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26cc",
+      "order": 4,
+      "title": "Desenvolvimento de Produtos e Plataformas",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26cd",
+      "order": 5,
+      "title": "Programa de Reconhecimento e Incentivos",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26ce",
+      "order": 6,
+      "title": "Equipe e Recursos Internos",
+      "summary": ""
+    },
+    {
+      "id": "685d3ae7246a9300133c26cf",
+      "order": 7,
+      "title": "Espaço e Infraestrutura de Evento",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:46:29.367788+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:46:29.367788+00:00"
+}

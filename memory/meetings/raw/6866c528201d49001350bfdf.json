@@ -1,0 +1,28 @@
+{
+  "id": "6866c528201d49001350bfdf",
+  "happenedAt": "2025-07-03T18:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "name": "João <> Diego (Acompanhamento Embaixadores)",
+  "duration": 7184.95,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6866c528201d49001350bfdf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "twc-vpma-ryp"
+  }
+}

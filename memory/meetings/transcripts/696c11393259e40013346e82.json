@@ -1,0 +1,450 @@
+{
+  "id": "696c113aa33ae20013409b2a",
+  "meetingId": "696c11393259e40013346e82",
+  "data": [
+    {
+      "startTime": 1,
+      "endTime": 7,
+      "speaker": "Speaker 1",
+      "text": "Esses  dias  um  amigo  meu  disse  que  tinha  treinado  muito  uma  YAH  e  eu  perguntei  para  ele  o  que  ele  tinha  feito."
+    },
+    {
+      "startTime": 7,
+      "endTime": 14,
+      "speaker": "Speaker 1",
+      "text": "Ele  estava  falando  num  só  chat  tudo  que  ele  queria  e  achou  que  ia  ficar  treinado,  ia  tudo  funcionar."
+    },
+    {
+      "startTime": 14,
+      "endTime": 20,
+      "speaker": "Speaker 1",
+      "text": "E  aí  eu  expliquei  algumas  coisas  para  ele  que  eu  vou  compilar  aqui  para  a  gente  em  três  passos."
+    },
+    {
+      "startTime": 20,
+      "endTime": 26,
+      "speaker": "Speaker 1",
+      "text": "Para  quem  me  pergunta  como  é  que  eu  otimizo  o  uso,  como  é  que  você  tem  essas  entregas  tão  robustas  que  você  faz  com  YAH."
+    },
+    {
+      "startTime": 26,
+      "endTime": 37,
+      "speaker": "Speaker 1",
+      "text": "É  tudo  com  relação  ao  contexto,  então  eu  vou  dar  três  passos  aqui  para  a  gente  personalizar,  ajustar  e  chegar  a  um  potencial  mais  alto  do  que  a  YAH  pode  te  entregar."
+    },
+    {
+      "startTime": 37,
+      "endTime": 39,
+      "speaker": "Speaker 1",
+      "text": "O  primeiro  é  na  sua  própria  conta  aqui."
+    },
+    {
+      "startTime": 39,
+      "endTime": 49,
+      "speaker": "Speaker 1",
+      "text": "Então  você  vai  em  personalização  e  você  dizer  para  a  YAH,  para  o  GPT,  algo  claro  que  é,  responda  com  neutralidade,  objetividade,  coerência."
+    },
+    {
+      "startTime": 49,
+      "endTime": 55,
+      "speaker": "Speaker 1",
+      "text": "Você  pode  me  confrontar,  não  quero  que  fique  me  agradando,  foque  na  verdade  e  vamos  em  frente."
+    },
+    {
+      "startTime": 55,
+      "endTime": 59,
+      "speaker": "Speaker 1",
+      "text": "Tem  um  combinho  aqui  que  eu  deixei  em  um  dos  vídeos  meus  aqui."
+    },
+    {
+      "startTime": 59,
+      "endTime": 60,
+      "speaker": "Speaker 1",
+      "text": "Esse  é  o  primeiro  passo."
+    },
+    {
+      "startTime": 60,
+      "endTime": 65,
+      "speaker": "Speaker 1",
+      "text": "O  segundo  passo  é  você  criar  contexto  do  terceiro  já  conto."
+    },
+    {
+      "startTime": 65,
+      "endTime": 72,
+      "speaker": "Speaker 1",
+      "text": "O  segundo  passo  para  criar  contexto,  eu  joguei  aqui,  por  exemplo,  um  prompt  pedindo  para  ser  um  especialista  de  YAH,"
+    },
+    {
+      "startTime": 72,
+      "endTime": 76,
+      "speaker": "Speaker 1",
+      "text": "criar  um  conteúdo  de  tudo  que  você  aprendeu  nesse  chat."
+    },
+    {
+      "startTime": 76,
+      "endTime": 78,
+      "speaker": "Speaker 1",
+      "text": "Mas  criei  um  prompt  para  isso."
+    },
+    {
+      "startTime": 78,
+      "endTime": 80,
+      "speaker": "Speaker 1",
+      "text": "E  aí  o  GPT  me  dá  um  prompt."
+    },
+    {
+      "startTime": 80,
+      "endTime": 89,
+      "speaker": "Speaker 1",
+      "text": "Atue  como  um  especialista  senior  em  YAH,  gestando  conhecimento  com  foco  em  transformar  conversas  extensas  em  ativos  estruturados  de  aprendizado  e  referência  estratégica."
+    },
+    {
+      "startTime": 89,
+      "endTime": 95,
+      "speaker": "Speaker 1",
+      "text": "Então  você  deve  ter  aí  no  teu  GPT  alguns  chats  que  tem  vários  conhecimentos  valiosos."
+    },
+    {
+      "startTime": 95,
+      "endTime": 102,
+      "speaker": "Speaker 1",
+      "text": "Você  tem  que  rodar  um  prompt  desse  e  criar  alguns  documentos  mais  consolidados  desse  conteúdo  para  servir  de  base  de  referência."
+    },
+    {
+      "startTime": 102,
+      "endTime": 105,
+      "speaker": "Speaker 1",
+      "text": "Então  você  roda  um  prompt  como  esse  e  joga  na  tua  conversa."
+    },
+    {
+      "startTime": 105,
+      "endTime": 108,
+      "speaker": "Speaker 1",
+      "text": "Quem  quiser  ali  eu  mando  esse  prompt  aqui  mais  compilado."
+    },
+    {
+      "startTime": 108,
+      "endTime": 110,
+      "speaker": "Speaker 1",
+      "text": "E  você  vai  ter  alguns  documentos."
+    },
+    {
+      "startTime": 110,
+      "endTime": 118,
+      "speaker": "Speaker 1",
+      "text": "E  aí  o  terceiro  passo  que  eu  descobri  hoje,  por  isso  que  eu  estou  gravando  esse  vídeo,  eu  falei,  caramba,  não  acredito  que  o  GPT  evoluiu  para  isso."
+    },
+    {
+      "startTime": 118,
+      "endTime": 121,
+      "speaker": "Speaker 1",
+      "text": "Aqui  em  um  novo  projeto,  você  pode  criar  aqui."
+    },
+    {
+      "startTime": 121,
+      "endTime": 124,
+      "speaker": "Speaker 1",
+      "text": "Eu  acabei  de  criar  um  teste  que  eu  estou  migrando."
+    },
+    {
+      "startTime": 124,
+      "endTime": 125,
+      "speaker": "Speaker 1",
+      "text": "Toda  a  minha  conta  aqui  está  nova."
+    },
+    {
+      "startTime": 125,
+      "endTime": 128,
+      "speaker": "Speaker 1",
+      "text": "Estou  configurando  toda  ela  de  novo."
+    },
+    {
+      "startTime": 128,
+      "endTime": 131,
+      "speaker": "Speaker 1",
+      "text": "Então  eu  criei  aqui  um  diretoria  Orlo."
+    },
+    {
+      "startTime": 131,
+      "endTime": 135,
+      "speaker": "Speaker 1",
+      "text": "E  você  pode  adicionar  arquivos,  dar  instruções."
+    },
+    {
+      "startTime": 135,
+      "endTime": 137,
+      "speaker": "Speaker 1",
+      "text": "E  isso  é  muito  valioso."
+    },
+    {
+      "startTime": 137,
+      "endTime": 145,
+      "speaker": "Speaker 1",
+      "text": "Você  ter  aqui  aqueles  documentos  que  você  criou  dos  outros  chats,  combinando  para  esse  projeto  usar  essa  base  de  conhecimento."
+    },
+    {
+      "startTime": 145,
+      "endTime": 152,
+      "speaker": "Speaker 1",
+      "text": "Você  pode  criar  um  GPT  também,  que  é  um  robô,  com  vários  conteúdos  para  servir  de  contexto."
+    },
+    {
+      "startTime": 152,
+      "endTime": 158,
+      "speaker": "Speaker 1",
+      "text": "E  o  terceiro  ponto  aqui,  que  hoje  que  eu  descobri,  deixa  eu  ver  onde  é  que  está."
+    },
+    {
+      "startTime": 158,
+      "endTime": 160,
+      "speaker": "Speaker 1",
+      "text": "Aqui,  memória."
+    },
+    {
+      "startTime": 160,
+      "endTime": 166,
+      "speaker": "Speaker 1",
+      "text": "Você  tem  a  memória  do  GPT,  que  você  pode  olhar  aqui  em  personalização,  personalização."
+    },
+    {
+      "startTime": 166,
+      "endTime": 167,
+      "speaker": "Speaker 1",
+      "text": "Tem  aqui  a  memória,  gerenciar."
+    },
+    {
+      "startTime": 167,
+      "endTime": 168,
+      "speaker": "Speaker 1",
+      "text": "O  meu  está  em  branco."
+    },
+    {
+      "startTime": 168,
+      "endTime": 170,
+      "speaker": "Speaker 1",
+      "text": "Eu  estava  na  conta  business,  eu  migrei  e  perdi  tudo."
+    },
+    {
+      "startTime": 170,
+      "endTime": 174,
+      "speaker": "Speaker 1",
+      "text": "Então  eu  vou  criar  tudo  do  zero  agora,  mais  refinadinho."
+    },
+    {
+      "startTime": 174,
+      "endTime": 178,
+      "speaker": "Speaker 1",
+      "text": "Sempre  que  você  tiver  algum  insight  ou  algo  no  chat,  você  pode  falar  assim,  grave  na  memória."
+    },
+    {
+      "startTime": 178,
+      "endTime": 180,
+      "speaker": "Speaker 1",
+      "text": "Ele  vai  para  a  memória  global  do  GPT."
+    },
+    {
+      "startTime": 180,
+      "endTime": 181,
+      "speaker": "Speaker 1",
+      "text": "Essa  aqui  é  uma  memória."
+    },
+    {
+      "startTime": 181,
+      "endTime": 185,
+      "speaker": "Speaker 1",
+      "text": "Mas  você  tem  a  memória  do  projeto  agora,  que  evoluiu."
+    },
+    {
+      "startTime": 185,
+      "endTime": 187,
+      "speaker": "Speaker 1",
+      "text": "Então  aqui  nos  arquivos,  a  memória."
+    },
+    {
+      "startTime": 187,
+      "endTime": 189,
+      "speaker": "Speaker 1",
+      "text": "Olha  que  legal."
+    },
+    {
+      "startTime": 189,
+      "endTime": 191,
+      "speaker": "Speaker 1",
+      "text": "Ué,  não  dá  para  ajustar  aqui."
+    },
+    {
+      "startTime": 191,
+      "endTime": 192,
+      "speaker": "Speaker 1",
+      "text": "Acabei  de  ver  isso  aqui."
+    },
+    {
+      "startTime": 192,
+      "endTime": 195,
+      "speaker": "Speaker 1",
+      "text": "Deixa  eu  abrir  um  novo  para  a  gente  ver  junto."
+    },
+    {
+      "startTime": 195,
+      "endTime": 197,
+      "speaker": "Speaker 1",
+      "text": "Vou  criar  um  teste."
+    },
+    {
+      "startTime": 197,
+      "endTime": 198,
+      "speaker": "Speaker 1",
+      "text": "Olha  só  que  bacana."
+    },
+    {
+      "startTime": 198,
+      "endTime": 203,
+      "speaker": "Speaker 1",
+      "text": "Criar  projeto."
+    },
+    {
+      "startTime": 203,
+      "endTime": 205,
+      "speaker": "Speaker 1",
+      "text": "Adicionar  arquivos."
+    },
+    {
+      "startTime": 205,
+      "endTime": 205,
+      "speaker": "Speaker 1",
+      "text": "Memória."
+    },
+    {
+      "startTime": 205,
+      "endTime": 209,
+      "speaker": "Speaker 1",
+      "text": "Oh,  caramba,  não  está  aparecendo."
+    },
+    {
+      "startTime": 209,
+      "endTime": 209,
+      "speaker": "Speaker 1",
+      "text": "Acessar..."
+    },
+    {
+      "startTime": 209,
+      "endTime": 210,
+      "speaker": "Speaker 1",
+      "text": "Ah,  aqui  ó."
+    },
+    {
+      "startTime": 210,
+      "endTime": 211,
+      "speaker": "Speaker 1",
+      "text": "Memória  padrão."
+    },
+    {
+      "startTime": 211,
+      "endTime": 212,
+      "speaker": "Speaker 1",
+      "text": "Isso  que  eu  queria  mostrar."
+    },
+    {
+      "startTime": 212,
+      "endTime": 214,
+      "speaker": "Speaker 1",
+      "text": "Depois  dá  para  ajustar  e  deixar  restrito  em  algum  lugar."
+    },
+    {
+      "startTime": 214,
+      "endTime": 216,
+      "speaker": "Speaker 1",
+      "text": "Eu  acho  que  é  em  personalização."
+    },
+    {
+      "startTime": 216,
+      "endTime": 218,
+      "speaker": "Speaker 1",
+      "text": "Aqui  ó,  configurações  do  projeto."
+    },
+    {
+      "startTime": 218,
+      "endTime": 220,
+      "speaker": "Speaker 1",
+      "text": "Mas  não  sei  porque  não  dá  para..."
+    },
+    {
+      "startTime": 220,
+      "endTime": 221,
+      "speaker": "Speaker 1",
+      "text": "Não  está  mexendo."
+    },
+    {
+      "startTime": 221,
+      "endTime": 224,
+      "speaker": "Speaker 1",
+      "text": "Enfim,  a  memória  padrão,  ela  diz  assim  ó."
+    },
+    {
+      "startTime": 224,
+      "endTime": 229,
+      "speaker": "Speaker 1",
+      "text": "O  projeto  pode  acessar  memórias  de  outros  chats  e  vice -versa."
+    },
+    {
+      "startTime": 229,
+      "endTime": 230,
+      "speaker": "Speaker 1",
+      "text": "Isso  não  pode  ser  alterado."
+    },
+    {
+      "startTime": 230,
+      "endTime": 233,
+      "speaker": "Speaker 1",
+      "text": "Então  é  na  criação  do  projeto."
+    },
+    {
+      "startTime": 233,
+      "endTime": 235,
+      "speaker": "Speaker 1",
+      "text": "Então,  olha  que  bacana."
+    },
+    {
+      "startTime": 235,
+      "endTime": 244,
+      "speaker": "Speaker 1",
+      "text": "Vários  chats  que  você  conversar  e  criar  dentro  do  mesmo  projeto,  daí  por  favor  separe  por  temas,  ele  vai  poder  aprender  um  com  o  outro."
+    },
+    {
+      "startTime": 244,
+      "endTime": 250,
+      "speaker": "Speaker 1",
+      "text": "Os  chats  soltos  do  teu  GPT  não  ensinam  um  ao  outro,  a  não  ser  que  você  grave  na  memória  alguns  pedaços."
+    },
+    {
+      "startTime": 250,
+      "endTime": 266,
+      "speaker": "Speaker 1",
+      "text": "Agora  você  criando  um  projeto  de  uma  área  que  você  como  gerente  da  tua  empresa  na  área  de  vendas,  você  como  gerente  da  tua  empresa  na  área  de  marketing,  você  pode  criar  projetos  diferentes  e  ele  começar  a  rodar  e  aprender  que  é  mais  ou  menos  esse  movimento  que  a  gente  faz  nos  arquivos."
+    },
+    {
+      "startTime": 266,
+      "endTime": 268,
+      "speaker": "Speaker 1",
+      "text": "Então,  está  aí  três  passos."
+    },
+    {
+      "startTime": 268,
+      "endTime": 280,
+      "speaker": "Speaker 1",
+      "text": "Personalizar  a  tua  conta,  utilizar  as  memórias  aqui  do  projeto  e  do  GPT  normal  e  criar  esses  arquivos  com  base  nesse  prompt."
+    },
+    {
+      "startTime": 280,
+      "endTime": 287,
+      "speaker": "Speaker 1",
+      "text": "Valeu,  tomei  o  conteúdo,  vivendo  aí  uma  linha  de  trazer  conteúdo  e  compartilhar  o  que  a  gente  está  aprendendo."
+    },
+    {
+      "startTime": 287,
+      "endTime": 287,
+      "speaker": "Speaker 1",
+      "text": "Valeu."
+    }
+  ]
+}

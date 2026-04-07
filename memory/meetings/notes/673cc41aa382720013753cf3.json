@@ -1,0 +1,155 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "673cd44f70fe730013512657",
+      "timestamp": 82,
+      "text": "Ativar base de 30 mil corretores com teste inicial de mensagem sem recorrência",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512658",
+      "timestamp": 447,
+      "text": "Base de 19 mil corretores sem gerente para disparar mensagens",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512663",
+      "timestamp": 485,
+      "text": "Definir estratégia de disparo: robô com múltiplos chips ou disparo transacional",
+      "topicId": "673cd44f70fe730013512654"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512664",
+      "timestamp": 705,
+      "text": "Configurar roleta para receber contatos novos apenas em São Paulo",
+      "topicId": "673cd44f70fe730013512654"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512659",
+      "timestamp": 1056,
+      "text": "Objetivo: aumentar volume de usuários impactados na base de corretores",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265a",
+      "timestamp": 1282,
+      "text": "Planejar disparo para 20 mil corretores com teste inicial",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512665",
+      "timestamp": 1353,
+      "text": "Necessário customizar sistema para registrar interações com diferentes coordenadores",
+      "topicId": "673cd44f70fe730013512654"
+    },
+    {
+      "segmentId": "673cd43b1c59c30013ee27c9",
+      "timestamp": 1535,
+      "text": "momento de descrição dos critérios"
+    },
+    {
+      "segmentId": "673cd43b1c59c30013ee27c8",
+      "timestamp": 1536,
+      "text": "Discutindo ativação de base e robô, com referências a cetim, roleta e verificação de gráficos de origem e ativação."
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265b",
+      "timestamp": 1780,
+      "text": "Decidir estratégia de disparo com cuidado para evitar banimento no WhatsApp",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265c",
+      "timestamp": 1817,
+      "text": "Excluir 19 mil usuários sem gerente do sistema",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512667",
+      "timestamp": 1946,
+      "text": "Reunião com Luiz Felipe para analisar resultados dos disparos e conversões",
+      "topicId": "673cd44f70fe730013512656"
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265e",
+      "timestamp": 2735,
+      "text": "Kátia precisa ativar imobiliárias não integradas no sistema",
+      "topicId": "673cd44f70fe730013512653"
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265f",
+      "timestamp": 2870,
+      "text": "Ativar imobiliárias PJ e expandir base de corretores cadastrados",
+      "topicId": "673cd44f70fe730013512653"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512660",
+      "timestamp": 2973,
+      "text": "Revisar integração de 1072 imobiliárias e qualificar cada parceiro individualmente",
+      "topicId": "673cd44f70fe730013512653"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512661",
+      "timestamp": 3050,
+      "text": "Verificar se imobiliárias integradas estão exibindo produtos em seus sites",
+      "topicId": "673cd44f70fe730013512653"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512662",
+      "timestamp": 3095,
+      "text": "Qualificar 10 parceiros por dia como meta inicial de ativação",
+      "topicId": "673cd44f70fe730013512653"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512668",
+      "timestamp": 3520,
+      "text": "Carlos enviará jornada de parceria para Caio, excluindo base de 19 mil e ativando 2 mil parceiros.",
+      "topicId": "673cd44f70fe730013512656"
+    },
+    {
+      "segmentId": "673cd44f70fe73001351265d",
+      "timestamp": 3642,
+      "text": "Realizar 300 disparos por dia para base inicial de 2 mil parceiros",
+      "topicId": "673cd44f70fe730013512652"
+    },
+    {
+      "segmentId": "673cd44f70fe730013512666",
+      "timestamp": 3909,
+      "text": "Criar disparos segmentados para parceiros interessados em empreendimentos específicos",
+      "topicId": "673cd44f70fe730013512655"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "673cd44f70fe730013512652",
+      "order": 1,
+      "title": "Estratégia de Ativação de Corretores",
+      "summary": "Plano para ativar base de 30 mil corretores com estratégias de disparo cuidadosas, iniciando com teste de 2 mil contatos e expandindo gradualmente."
+    },
+    {
+      "id": "673cd44f70fe730013512653",
+      "order": 2,
+      "title": "Gestão de Parceiros e Imobiliárias",
+      "summary": "Ativação e qualificação de imobiliárias PJ, revisão de 1072 integrações e meta de qualificar 10 parceiros diariamente."
+    },
+    {
+      "id": "673cd44f70fe730013512654",
+      "order": 3,
+      "title": "Configuração de Sistema e Disparos",
+      "summary": "Customização do sistema para registrar interações com coordenadores e configurar roleta de contatos focada em São Paulo."
+    },
+    {
+      "id": "673cd44f70fe730013512655",
+      "order": 4,
+      "title": "Planejamento de Comunicação",
+      "summary": "Definir estratégias de disparo de mensagens, incluindo uso de robô com múltiplos chips e disparos transacionais segmentados."
+    },
+    {
+      "id": "673cd44f70fe730013512656",
+      "order": 5,
+      "title": "Acompanhamento e Próximos Passos",
+      "summary": "Reunião com Luiz Felipe para analisar resultados de disparos e Carlos enviará jornada de parceria para Caio."
+    }
+  ]
+}

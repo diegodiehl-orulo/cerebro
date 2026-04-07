@@ -1,0 +1,36 @@
+{
+  "id": "68d299f2eee53400143d1a94",
+  "happenedAt": "2025-09-23T13:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "Pablo  Augusto do Nascimento",
+      "email": "pablo.nascimento@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    }
+  ],
+  "name": "Forecast  <> SDR",
+  "duration": 4700.541,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68d299f2eee53400143d1a94",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "wvz-oeaq-web"
+  }
+}

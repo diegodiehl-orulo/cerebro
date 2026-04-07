@@ -1,0 +1,151 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66ba24fa53bc580013175e57",
+      "timestamp": 550,
+      "text": "Conectar a integração do WhatsApp do gerente de parceria das Árvores.",
+      "topicId": "66ba24fa53bc580013175e4c"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e51",
+      "timestamp": 682,
+      "text": "Cadastro de corretores por meio de envio de emojis no WhatsApp. Ajuste do emoji a ser utilizado.",
+      "topicId": "66ba24fa53bc580013175e49"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e52",
+      "timestamp": 763,
+      "text": "Dois níveis de cadastro: 1) Corretor cadastra com responsável; 2) Corretor já cadastrado, outro solicita como colaborador.",
+      "topicId": "66ba24fa53bc580013175e49"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e53",
+      "timestamp": 885,
+      "text": "Sugestão de registrar interações entre gerentes e corretores para relatório de volume de interações.",
+      "topicId": "66ba24fa53bc580013175e49"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e54",
+      "timestamp": 918,
+      "text": "Automação para adicionar corretor como colaborador quando já cadastrado no sistema e gerente enviar emoji de cadastro.",
+      "topicId": "66ba24fa53bc580013175e4a"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e55",
+      "timestamp": 1058,
+      "text": "Verificar se gerente está cadastrado como responsável ou colaborador do contato antes de registrar a interação.",
+      "topicId": "66ba24fa53bc580013175e4a"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e56",
+      "timestamp": 1096,
+      "text": "Campo de usuário na interação é um campo de usuário, não apenas um texto.",
+      "topicId": "66ba24fa53bc580013175e4b"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e58",
+      "timestamp": 1161,
+      "text": "Prazo de amanhã ou amanhã à tarde para implementar a funcionalidade de registro de interações.",
+      "topicId": "66ba24fa53bc580013175e4c"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e59",
+      "timestamp": 1202,
+      "text": "Validação do emoji a ser usado no cadastro do cliente, preocupação com a escolha para não confundir com o contexto normal da conversa.",
+      "topicId": "66ba24fa53bc580013175e4d"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5a",
+      "timestamp": 1335,
+      "text": "Necessidade de implementar o bot para responder às dúvidas e evoluir o sistema.",
+      "topicId": "66ba24fa53bc580013175e4e"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5b",
+      "timestamp": 1386,
+      "text": "Ativação do bot para que ele possa responder aos corretores e enviar arquivos.",
+      "topicId": "66ba24fa53bc580013175e4e"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5c",
+      "timestamp": 1417,
+      "text": "Preocupação com a implementação do bot para não confundir o cliente.",
+      "topicId": "66ba24fa53bc580013175e4e"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5d",
+      "timestamp": 1452,
+      "text": "Necessidade de definir o processo de implementação do bot com a equipe.",
+      "topicId": "66ba24fa53bc580013175e4e"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5e",
+      "timestamp": 1487,
+      "text": "Contratação de uma nova pessoa para ajudar no atendimento ao cliente.",
+      "topicId": "66ba24fa53bc580013175e4f"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e5f",
+      "timestamp": 1544,
+      "text": "Instruções para a nova pessoa sobre suas responsabilidades.",
+      "topicId": "66ba24fa53bc580013175e4f"
+    },
+    {
+      "segmentId": "66ba24fa53bc580013175e60",
+      "timestamp": 1730,
+      "text": "Necessidade de criar automações que integrem o Filter Feed com o funil de vendas, estratégia de implementar automações de comunicação.",
+      "topicId": "66ba24fa53bc580013175e50"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66ba24fa53bc580013175e49",
+      "order": 1,
+      "title": "Cadastro de corretores via WhatsApp",
+      "summary": "Discutir o processo de cadastro de corretores via WhatsApp, incluindo a configuração de responsáveis e colaboradores."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4a",
+      "order": 2,
+      "title": "Automação de interações entre gerentes e corretores",
+      "summary": "Discutir a implementação de automações para gerenciar as interações entre gerentes e corretores no sistema."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4b",
+      "order": 3,
+      "title": "Configuração do campo de usuário na interação",
+      "summary": "Discutir a configuração do campo de usuário no registro de interações entre gerentes e corretores."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4c",
+      "order": 4,
+      "title": "Próximos passos e prazos",
+      "summary": "Alinhar os próximos passos e prazos para implementação das funcionalidades discutidas."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4d",
+      "order": 5,
+      "title": "Cadastro através de emoji",
+      "summary": "Discussão sobre a validação do emoji a ser usado para o cadastro do cliente."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4e",
+      "order": 6,
+      "title": "Implementação do bot",
+      "summary": "Discussão sobre a implementação do bot para responder aos corretores e enviar arquivos relevantes."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4f",
+      "order": 7,
+      "title": "Contratação de novo membro da equipe",
+      "summary": "Discussão sobre a contratação de um novo membro da equipe para auxiliar no atendimento ao cliente."
+    },
+    {
+      "id": "66ba24fa53bc580013175e50",
+      "order": 8,
+      "title": "Automações de comunicação com o funil",
+      "summary": "Discussão sobre a criação de automações para integrar o Filter Feed com o funil de vendas."
+    }
+  ]
+}

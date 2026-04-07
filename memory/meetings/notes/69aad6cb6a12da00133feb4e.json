@@ -1,0 +1,313 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "69aae5e90689ab0013c9bba1",
+      "timestamp": 5,
+      "text": "Alejandro definir se perfil será em três ou quatro partes conforme questionado por Marcelo",
+      "topicId": "69aae5e90689ab0013c9bb98"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc3",
+      "timestamp": 427,
+      "text": "Diferenciação entre tipos de usuários precisa ser resolvida antes do score",
+      "topicId": "69aae5e90689ab0013c9bb9f"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc4",
+      "timestamp": 446,
+      "text": "Escolha de pagamento virá após resolução de diferenciação de audiência",
+      "topicId": "69aae5e90689ab0013c9bb9f"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba6",
+      "timestamp": 500,
+      "text": "Filtro de período permite selecionar um, sete ou trinta dias com atualização de audiência",
+      "topicId": "69aae5e90689ab0013c9bb99"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba9",
+      "timestamp": 724,
+      "text": "Usuários podem marcar como lido e chamar no WhatsApp dentro da listagem",
+      "topicId": "69aae5e90689ab0013c9bb99"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb3",
+      "timestamp": 832,
+      "text": "Interesse em concorrentes será visível no perfil do corretor",
+      "topicId": "69aae5e90689ab0013c9bb9b"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba7",
+      "timestamp": 1029,
+      "text": "Filtros \"não lidos\" e \"novos\" serão implementados na listagem de corretores",
+      "topicId": "69aae5e90689ab0013c9bb99"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbab",
+      "timestamp": 1047,
+      "text": "Administrador consegue atribuir responsável, editor e leitor não conseguem",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba8",
+      "timestamp": 1192,
+      "text": "Termo \"novos\" precisa ser clarificado para melhor interpretação do usuário",
+      "topicId": "69aae5e90689ab0013c9bb99"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc2",
+      "timestamp": 1295,
+      "text": "Sequenciamento de épicos define ordem de implementação de features",
+      "topicId": "69aae5e90689ab0013c9bb9f"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc5",
+      "timestamp": 1486,
+      "text": "Filtro de compartilhamento tem número muito baixo para ser filtro principal",
+      "topicId": "69aae5e90689ab0013c9bb9f"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbac",
+      "timestamp": 1549,
+      "text": "Editor e leitor recebem pop-up ao tentar atribuir sem permissão",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb5",
+      "timestamp": 1572,
+      "text": "Alocação de corretores para gerente de atendimento será configurável por incorporadora",
+      "topicId": "69aae5e90689ab0013c9bb9c"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb6",
+      "timestamp": 1597,
+      "text": "Gerente verá apenas corretores dos empreendimentos que atende",
+      "topicId": "69aae5e90689ab0013c9bb9c"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbaa",
+      "timestamp": 1684,
+      "text": "Aba \"Captados\" mostrará apenas corretores atribuídos ao usuário",
+      "topicId": "69aae5e90689ab0013c9bb99"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb0",
+      "timestamp": 1838,
+      "text": "Mensagem de erro aparece para ações bloqueadas por falta de permissão",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc6",
+      "timestamp": 1866,
+      "text": "Mensagens de erro podem gerar muitos contatos para suporte",
+      "topicId": "69aae5e90689ab0013c9bba0"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc7",
+      "timestamp": 1887,
+      "text": "Permissões não são claras para clientes, causando dificuldade de entendimento",
+      "topicId": "69aae5e90689ab0013c9bba0"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc8",
+      "timestamp": 1969,
+      "text": "Mostrar nome de corretor sem acesso pode gerar atrito com usuários",
+      "topicId": "69aae5e90689ab0013c9bba0"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbaf",
+      "timestamp": 2069,
+      "text": "Leitor e editor veem apenas nome do corretor sem acesso ao perfil",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc9",
+      "timestamp": 2087,
+      "text": "Roleta automática conflita com produto Z2 segundo feedback anterior",
+      "topicId": "69aae5e90689ab0013c9bba0"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb2",
+      "timestamp": 2095,
+      "text": "Histórico de atividades permite filtrar por empreendimento no perfil",
+      "topicId": "69aae5e90689ab0013c9bb9b"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb7",
+      "timestamp": 2113,
+      "text": "Roleta poderia ser habilitada ou desabilitada por empreendimento",
+      "topicId": "69aae5e90689ab0013c9bb9c"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbad",
+      "timestamp": 2116,
+      "text": "Administrador vê todos os corretores da incorporadora e pode atribuir",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb1",
+      "timestamp": 2229,
+      "text": "Card mostrará último empreendimento acessado dentro do perfil",
+      "topicId": "69aae5e90689ab0013c9bb9b"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba3",
+      "timestamp": 2372,
+      "text": "Alejandro colocar alocação automática de corretores como possível evolução futura",
+      "topicId": "69aae5e90689ab0013c9bb98"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba4",
+      "timestamp": 2419,
+      "text": "Definir critério de atividade mínima para aparecer na listagem de corretores",
+      "topicId": "69aae5e90689ab0013c9bb98"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbca",
+      "timestamp": 2516,
+      "text": "Designação de responsável do Z2 não retorna para aplicativo atualmente",
+      "topicId": "69aae5e90689ab0013c9bba0"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba5",
+      "timestamp": 2577,
+      "text": "Resolver integração de designação de responsável vinda do Z2",
+      "topicId": "69aae5e90689ab0013c9bb98"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbbb",
+      "timestamp": 2716,
+      "text": "Três listagens de corretores serão diferenciadas na web e aplicativo",
+      "topicId": "69aae5e90689ab0013c9bb9d"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb8",
+      "timestamp": 2791,
+      "text": "Termo \"corretores captados\" deve ser usado em vez de \"captados pela incorporadora\"",
+      "topicId": "69aae5e90689ab0013c9bb9d"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb9",
+      "timestamp": 2932,
+      "text": "Coluna anunciante representa interesse do corretor nos empreendimentos",
+      "topicId": "69aae5e90689ab0013c9bb9d"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbba",
+      "timestamp": 2988,
+      "text": "Aba \"Desempenho\" mantém nomenclatura atual sem alterações",
+      "topicId": "69aae5e90689ab0013c9bb9d"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bba2",
+      "timestamp": 3003,
+      "text": "Neno aprimorar proposta de ícone para página de perfil do corretor",
+      "topicId": "69aae5e90689ab0013c9bb98"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbb4",
+      "timestamp": 3012,
+      "text": "Usuários podem acessar perfil do corretor clicando no ícone de telefone",
+      "topicId": "69aae5e90689ab0013c9bb9b"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbae",
+      "timestamp": 3032,
+      "text": "Editor e leitor veem apenas corretores atribuídos a si mesmos",
+      "topicId": "69aae5e90689ab0013c9bb9a"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbbc",
+      "timestamp": 3104,
+      "text": "Header fixo levará usuários para central de ajuda com conteúdo sobre novidades",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbbd",
+      "timestamp": 3151,
+      "text": "Header desaparece após usuário acessar conteúdo na central de ajuda",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbbe",
+      "timestamp": 3169,
+      "text": "Página pode conter vídeo, texto ou material exclusivo de treinamento",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbbf",
+      "timestamp": 3208,
+      "text": "Visualização de conteúdo será opcional com opção de fechar",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc0",
+      "timestamp": 3230,
+      "text": "Aba guias mostrará tutoriais específicos da página",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    },
+    {
+      "segmentId": "69aae5e90689ab0013c9bbc1",
+      "timestamp": 3274,
+      "text": "Múltiplos guias por página serão suportados futuramente",
+      "topicId": "69aae5e90689ab0013c9bb9e"
+    }
+  ],
+  "markdownContent": "## 1. Itens de Ação\n\n- [ ] Alejandro definir se perfil será em três ou quatro partes conforme questionado por Marcelo [00:05](/app/meetings/69aad6cb6a12da00133feb4e?t=5)\n- [ ] Neno aprimorar proposta de ícone para página de perfil do corretor [50:03](/app/meetings/69aad6cb6a12da00133feb4e?t=3003)\n- [ ] Alejandro colocar alocação automática de corretores como possível evolução futura [39:32](/app/meetings/69aad6cb6a12da00133feb4e?t=2372)\n- [ ] Definir critério de atividade mínima para aparecer na listagem de corretores [40:19](/app/meetings/69aad6cb6a12da00133feb4e?t=2419)\n- [ ] Resolver integração de designação de responsável vinda do Z2 [42:57](/app/meetings/69aad6cb6a12da00133feb4e?t=2577)\n\n## 2. Filtros e Listagem de Corretores\n\n- Filtro de período permite selecionar um, sete ou trinta dias com atualização de audiência [08:20](/app/meetings/69aad6cb6a12da00133feb4e?t=500)\n- Filtros \"não lidos\" e \"novos\" serão implementados na listagem de corretores [17:09](/app/meetings/69aad6cb6a12da00133feb4e?t=1029)\n- Termo \"novos\" precisa ser clarificado para melhor interpretação do usuário [19:52](/app/meetings/69aad6cb6a12da00133feb4e?t=1192)\n- Usuários podem marcar como lido e chamar no WhatsApp dentro da listagem [12:04](/app/meetings/69aad6cb6a12da00133feb4e?t=724)\n- Aba \"Captados\" mostrará apenas corretores atribuídos ao usuário [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n- Busca por nome de corretor ou imobiliária será possível na aba captados [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n- Ordenação por atividade recente ou mais ativos será disponibilizada [28:04](/app/meetings/69aad6cb6a12da00133feb4e?t=1684)\n\n## 3. Permissões e Controle de Acesso\n\n- Administrador consegue atribuir responsável, editor e leitor não conseguem [17:27](/app/meetings/69aad6cb6a12da00133feb4e?t=1047)\n- Editor e leitor recebem pop-up ao tentar atribuir sem permissão [25:49](/app/meetings/69aad6cb6a12da00133feb4e?t=1549)\n- Administrador vê todos os corretores da incorporadora e pode atribuir [35:16](/app/meetings/69aad6cb6a12da00133feb4e?t=2116)\n- Editor e leitor veem apenas corretores atribuídos a si mesmos [50:32](/app/meetings/69aad6cb6a12da00133feb4e?t=3032)\n- Leitor e editor veem apenas nome do corretor sem acesso ao perfil [34:29](/app/meetings/69aad6cb6a12da00133feb4e?t=2069)\n- Mensagem de erro aparece para ações bloqueadas por falta de permissão [30:38](/app/meetings/69aad6cb6a12da00133feb4e?t=1838)\n\n## 4. Perfil do Corretor\n\n- Card mostrará último empreendimento acessado dentro do perfil [37:09](/app/meetings/69aad6cb6a12da00133feb4e?t=2229)\n- Histórico de atividades permite filtrar por empreendimento no perfil [34:55](/app/meetings/69aad6cb6a12da00133feb4e?t=2095)\n- Interesse em concorrentes será visível no perfil do corretor [13:52](/app/meetings/69aad6cb6a12da00133feb4e?t=832)\n- Usuários podem acessar perfil do corretor clicando no ícone de telefone [50:12](/app/meetings/69aad6cb6a12da00133feb4e?t=3012)\n\n## 5. Alocação e Distribuição de Corretores\n\n- Alocação de corretores para gerente de atendimento será configurável por incorporadora [26:12](/app/meetings/69aad6cb6a12da00133feb4e?t=1572)\n- Gerente verá apenas corretores dos empreendimentos que atende [26:37](/app/meetings/69aad6cb6a12da00133feb4e?t=1597)\n- Roleta automática de distribuição é considerada evolução futura [39:32](/app/meetings/69aad6cb6a12da00133feb4e?t=2372)\n- Roleta poderia ser habilitada ou desabilitada por empreendimento [35:13](/app/meetings/69aad6cb6a12da00133feb4e?t=2113)\n\n## 6. Nomenclatura e Comunicação\n\n- Termo \"corretores captados\" deve ser usado em vez de \"captados pela incorporadora\" [46:31](/app/meetings/69aad6cb6a12da00133feb4e?t=2791)\n- Coluna anunciante representa interesse do corretor nos empreendimentos [48:52](/app/meetings/69aad6cb6a12da00133feb4e?t=2932)\n- Aba \"Desempenho\" mantém nomenclatura atual sem alterações [49:48](/app/meetings/69aad6cb6a12da00133feb4e?t=2988)\n- Três listagens de corretores serão diferenciadas na web e aplicativo [45:16](/app/meetings/69aad6cb6a12da00133feb4e?t=2716)\n\n## 7. Sistema de Tutoriais e Ajuda\n\n- Header fixo levará usuários para central de ajuda com conteúdo sobre novidades [51:44](/app/meetings/69aad6cb6a12da00133feb4e?t=3104)\n- Header desaparece após usuário acessar conteúdo na central de ajuda [52:31](/app/meetings/69aad6cb6a12da00133feb4e?t=3151)\n- Página pode conter vídeo, texto ou material exclusivo de treinamento [52:49](/app/meetings/69aad6cb6a12da00133feb4e?t=3169)\n- Visualização de conteúdo será opcional com opção de fechar [53:28](/app/meetings/69aad6cb6a12da00133feb4e?t=3208)\n- Aba guias mostrará tutoriais específicos da página [53:50](/app/meetings/69aad6cb6a12da00133feb4e?t=3230)\n- Múltiplos guias por página serão suportados futuramente [54:34](/app/meetings/69aad6cb6a12da00133feb4e?t=3274)\n\n## 8. Sequenciamento de Funcionalidades\n\n- Sequenciamento de épicos define ordem de implementação de features [21:35](/app/meetings/69aad6cb6a12da00133feb4e?t=1295)\n- Diferenciação entre tipos de usuários precisa ser resolvida antes do score [07:07](/app/meetings/69aad6cb6a12da00133feb4e?t=427)\n- Escolha de pagamento virá após resolução de diferenciação de audiência [07:26](/app/meetings/69aad6cb6a12da00133feb4e?t=446)\n- Filtro de compartilhamento tem número muito baixo para ser filtro principal [24:46](/app/meetings/69aad6cb6a12da00133feb4e?t=1486)\n\n## 9. Preocupações e Desafios\n\n- Mensagens de erro podem gerar muitos contatos para suporte [31:06](/app/meetings/69aad6cb6a12da00133feb4e?t=1866)\n- Permissões não são claras para clientes, causando dificuldade de entendimento [31:27](/app/meetings/69aad6cb6a12da00133feb4e?t=1887)\n- Mostrar nome de corretor sem acesso pode gerar atrito com usuários [32:49](/app/meetings/69aad6cb6a12da00133feb4e?t=1969)\n- Roleta automática conflita com produto Z2 segundo feedback anterior [34:47](/app/meetings/69aad6cb6a12da00133feb4e?t=2087)\n- Designação de responsável do Z2 não retorna para aplicativo atualmente [41:56](/app/meetings/69aad6cb6a12da00133feb4e?t=2516)",
+  "topics": [
+    {
+      "id": "69aae5e90689ab0013c9bb98",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb99",
+      "order": 2,
+      "title": "Filtros e Listagem de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9a",
+      "order": 3,
+      "title": "Permissões e Controle de Acesso",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9b",
+      "order": 4,
+      "title": "Perfil do Corretor",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9c",
+      "order": 5,
+      "title": "Alocação e Distribuição de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9d",
+      "order": 6,
+      "title": "Nomenclatura e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9e",
+      "order": 7,
+      "title": "Sistema de Tutoriais e Ajuda",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bb9f",
+      "order": 8,
+      "title": "Sequenciamento de Funcionalidades",
+      "summary": ""
+    },
+    {
+      "id": "69aae5e90689ab0013c9bba0",
+      "order": 9,
+      "title": "Preocupações e Desafios",
+      "summary": ""
+    }
+  ]
+}

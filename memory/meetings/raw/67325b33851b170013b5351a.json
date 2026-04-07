@@ -1,0 +1,44 @@
+{
+  "id": "67325b33851b170013b5351a",
+  "happenedAt": "2024-11-11T19:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "wagner.travassos@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "anne.mesquita@mouradubeux.com.br"
+    }
+  ],
+  "name": "Moura Dubeux (JPA-PB) <> Órulo",
+  "duration": 2379.057,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67325b33851b170013b5351a",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "aos-pvyz-yer"
+  }
+}

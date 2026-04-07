@@ -1,0 +1,3439 @@
+{
+  "meeting_id": "66a3dce59ec51700121715e4",
+  "name": "Demo PRM Órulo - GT Building",
+  "happened_at": "2024-07-26T17:29:09.089Z",
+  "duration_seconds": 6092.608,
+  "duration_minutes": 101.5,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Esther Koschewski",
+      "email": "esther.koschewski@gtbuilding.com.br"
+    },
+    {
+      "name": "",
+      "email": "hugo.enes@gtbuilding.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66a3dce59ec51700121715e4",
+  "template": {
+    "id": "ai-topics",
+    "label": "AI Topics"
+  },
+  "conference_id": "jfj-bmcn-gue",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66a3dce757e0250013e1df67",
+    "meetingId": "66a3dce59ec51700121715e4",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 24,
+        "speaker": "Diego Diehl",
+        "text": "Agora E participar de algumas semanas. Então Felipe, fica à vontade é estérildo o Hugo até apresentando. Eu acho que o Hugo é. Ti não precisa apresentar certo tá? Mas pelo que eu entendi isso."
+      },
+      {
+        "startTime": 24,
+        "endTime": 26,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu apresento a gente aqui tá certo?"
+      },
+      {
+        "startTime": 26,
+        "endTime": 27,
+        "speaker": "Diego Diehl",
+        "text": "obrigado."
+      },
+      {
+        "startTime": 28,
+        "endTime": 56,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Prazer aí Felipe, Diego a gente já teve oportunidade de conversar, né? Em outro momento, eu sou gestor é de ti inovação aqui da GT build e o Hugo. Ele é nosso analista sénior aqui de tecnologia inovação também da empresa e quando nós recebemos essa acho que a gente teve a primeira apresentação, faz o que uns 15 dias mais ou menos, né? Diego até o CN férias e daí não podemos falar na semana passada."
+      },
+      {
+        "startTime": 56,
+        "endTime": 83,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "O Diego apresentou aí a ideia do projeto para nossa equipe nosso time comercial e eu pedi para o Diego para ele fazer uma demonstração porque ele só Ele só comentou das funcionalidades do sistema, né que era uma Inovação de vocês uma coisa nova do mercado. Enfim em conjunto com a até me fugir um nome agora do sistema que vocês estão em conjunto que a hora ali mais um sistema é como que é o nome Diego."
+      },
+      {
+        "startTime": 83,
+        "endTime": 84,
+        "speaker": "Diego Diehl",
+        "text": "lumes lumes do grupo"
+      },
+      {
+        "startTime": 84,
+        "endTime": 86,
+        "speaker": "Felipe Goettems",
+        "text": "É a plumis/ Plus na verdade é de propriedade"
+      },
+      {
+        "startTime": 86,
+        "endTime": 87,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Perfeito perfeito."
+      },
+      {
+        "startTime": 87,
+        "endTime": 100,
+        "speaker": "Felipe Goettems",
+        "text": "hoje da santia, tá que é aquela que de alguma é um RP não é um RP grande que concorre com a totos então é sangue a plumes e órgão essa esse projeto."
+      },
+      {
+        "startTime": 100,
+        "endTime": 106,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "pediu uma demonstração porque ele falou das funcionalidades falou do projeto, mas a gente queria visualizar. Aí é por isso que a gente pediu"
+      },
+      {
+        "startTime": 106,
+        "endTime": 107,
+        "speaker": "Felipe Goettems",
+        "text": "Claro, vamos lá."
+      },
+      {
+        "startTime": 107,
+        "endTime": 111,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "essa reunião, beleza? Vamos lá então."
+      },
+      {
+        "startTime": 113,
+        "endTime": 124,
+        "speaker": "Diego Diehl",
+        "text": "Vamos lá gente, eu vou. Você Eu não abri ferramenta no dia não. Fiquei na apresentação, né? Tá então assim vou falar óbvio,"
+      },
+      {
+        "startTime": 124,
+        "endTime": 126,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 126,
+        "endTime": 153,
+        "speaker": "Diego Diehl",
+        "text": "né? Se quiserem me interromper perguntar me explica melhor ali e aquilo lá podem. Podem me perguntando. Tá eu vou. Talvez para vocês eu não vou focar tanto em até em algum eu vou dar poucos exemplos operacionais ali comerciais, porque às vezes eu apresento para o time de plataforma, né? Daí eu dou um tom para vocês eu vou dar um caráter mais estrutura uma parte que talvez um pouquinho mais."
+      },
+      {
+        "startTime": 153,
+        "endTime": 154,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Mas tranquilo."
+      },
+      {
+        "startTime": 154,
+        "endTime": 155,
+        "speaker": "Diego Diehl",
+        "text": "Talvez um pouquinho mais técnica. Tá bom."
+      },
+      {
+        "startTime": 155,
+        "endTime": 158,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tranquilo que a gente entende no negócio também, você que sabe, do jeito que você quiser conduzir"
+      },
+      {
+        "startTime": 158,
+        "endTime": 159,
+        "speaker": "Diego Diehl",
+        "text": "show"
+      },
+      {
+        "startTime": 159,
+        "endTime": 160,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "tranquilo."
+      },
+      {
+        "startTime": 160,
+        "endTime": 194,
+        "speaker": "Diego Diehl",
+        "text": "Beleza então aqui já a gente falou da lumes, essa aqui é a cara da luz que a gente está desenvolvendo mais ou menos um ano. A gente fecha uma parceria com eles personalizou para o mercado imobiliário e eu acho que nesse ponto aqui é legal a gente destacar sobre a decisão, né de a gente desenvolver ou pegar uma plataforma pronta quando a gente desenvolve a gente tem um potencial de lucro maior empresa tem a imagem toda a gente se associano a um sistema."
+      },
+      {
+        "startTime": 194,
+        "endTime": 224,
+        "speaker": "Diego Diehl",
+        "text": "Fica um pouco menor só que Em contrapartida um dos objetivos que a gente tem é colocar trazer mais tecnologia do ponto para o mercado imobiliário então o mercado imobiliário às vezes se associa de ferramentas específicas para o mercado só que dessas ferramentas só tem o próprio mercado imobiliário, vira uma bolha, às vezes passa dois três anos a ferramenta fica defasada e a gente escolheu por estratégia se conectar um grupo maior que tem clientes como Unimed como 99 Táxi."
+      },
+      {
+        "startTime": 224,
+        "endTime": 269,
+        "speaker": "Diego Diehl",
+        "text": "Como assim grandes empresas? Porque por exemplo há umas três semanas desenvolver uma feature para Unimed e está disponível para a gente a gente começa a aplicar no mercado imobiliário então. A ideia é fazer esse Hub que a gente se mantenha num Grande Circuito num grande Rubi que tá atualizado que tá robusto para poder beber da fonte ali de tecnologia, tá? Então acho que esse ponto é legal porque tem gente que olha e acha ruim não sei da hora, mas a parceria que a gente Fechou tá sendo ótimo porque A Globo tem mais de 2.000 clientes e aí não tem problemas níveis nível instabilidade de sistema bug essas coisas já tá muito estável, tá? Esse é um ponto legal aqui é cara principal resumo aqui da ferramenta."
+      },
+      {
+        "startTime": 269,
+        "endTime": 291,
+        "speaker": "Diego Diehl",
+        "text": "Que onde você pode deixa eu já ir clicando aqui nos elementos que eu um dos itens principais pelo qual a gente escolheu trabalhar com eles é pela praticidade de personalização. Então você consegue configurar aqui alguns dados principais por exemplo Card criado proposta gerado venda realizada aqui em que período você quer? O meu não tá aparecendo muita coisa aqui."
+      },
+      {
+        "startTime": 291,
+        "endTime": 326,
+        "speaker": "Diego Diehl",
+        "text": "Porque eu não tenho atividade aqui ó no meu usuário, essa aqui é uma operação de Porto Alegre, então é uma operação que tá rodando. Que é a Sócio é a orla sócia dessa operação. Então vou mostrar uma operação na prática para vocês que não é uma um caráter de teste é uma que tá rodando, por exemplo aqui ó foi registrado já que a Patrícia é uma coordenadora do plataforma online, Porto Alegre, ela conversou com o Vitor aqui, na verdade só recebeu um olho e o Vitor é da imobiliária comer lá."
+      },
+      {
+        "startTime": 326,
+        "endTime": 345,
+        "speaker": "Diego Diehl",
+        "text": "E aqui já tem um histórico de registro de atividades aqui o Henrique que é o nosso IDR lá aqui é o bote falando. Por exemplo lá, manda só o Henrique da exigeção comercial estão enviando contato, por exemplo se interessou pelo like pode receber algumas perguntas. Ele não respondeu ainda aqui por exemplo."
+      },
+      {
+        "startTime": 345,
+        "endTime": 366,
+        "speaker": "Diego Diehl",
+        "text": "A órgão criou um lead automaticamente dentro do sistema porque as pessoas que visitarem a GT tanto no quanto no nosso portal se portal se Associar em divulgar o nosso portal que eu expliquei para o Bruno sobre a relação do drive, né? Tem muita gente que divulga o drive o drive não é rastreado."
+      },
+      {
+        "startTime": 366,
+        "endTime": 404,
+        "speaker": "Diego Diehl",
+        "text": "Você não sabe quem entrou. Então a gente tem um uma entrada de leads. Do portal se vocês optarem pelo Portal A maioria optando. optando. Do CRM dados imobiliárias que estão integrado aqui em Curitiba. São mais ou menos 300 imobiliárias Integradas e o corretor entrar pelo CRM acessar um produto da GT vocês vão saber também e também pelo aplicativo do celular que tem corretores mexendo também então é Portal da hora no aplicativo da Hora Portal da GT e CRM das imobiliárias como entrada de traqueamento de livros."
+      },
+      {
+        "startTime": 405,
+        "endTime": 424,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Diz assim o portal da GT pensando aqui a gente hoje tem uma entrada via site da GT. Que aí a gente tem um bote específico só para eu entender assim, porque às vezes né? Você tá mostrando a ferramenta. Eu preciso situar para entender tudo."
+      },
+      {
+        "startTime": 424,
+        "endTime": 424,
+        "speaker": "Diego Diehl",
+        "text": "É líderes corretores não House a"
+      },
+      {
+        "startTime": 424,
+        "endTime": 428,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "todas as entradas aí dentro"
+      },
+      {
+        "startTime": 429,
+        "endTime": 438,
+        "speaker": "Diego Diehl",
+        "text": "gente nem tá trazendo o sistema para House é plataforma especializada em plataforma os vídeos entre aspas aspas da plataforma são corretores"
+      },
+      {
+        "startTime": 438,
+        "endTime": 438,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tá só plataforma, a gente não vai"
+      },
+      {
+        "startTime": 438,
+        "endTime": 439,
+        "speaker": "Diego Diehl",
+        "text": "gente chama."
+      },
+      {
+        "startTime": 439,
+        "endTime": 442,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "falar de rosa é verdade, tá bom? Eu lembrei disso, tá?"
+      },
+      {
+        "startTime": 442,
+        "endTime": 452,
+        "speaker": "Hugo Enes",
+        "text": "Beleza. E então a documentação que hoje nós disponibilizamos externamente, né através do do nosso drive, ele seria migrado para dentro da hora"
+      },
+      {
+        "startTime": 452,
+        "endTime": 455,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Vendo toda hora."
+      },
+      {
+        "startTime": 455,
+        "endTime": 465,
+        "speaker": "Hugo Enes",
+        "text": "para daí a gente ter esse trechinho de quem pediu quem solicitou quem quem movimentou? Quem visualizou ele."
+      },
+      {
+        "startTime": 465,
+        "endTime": 466,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente se assim, isso é"
+      },
+      {
+        "startTime": 466,
+        "endTime": 467,
+        "speaker": "Hugo Enes",
+        "text": "Tem pode falar."
+      },
+      {
+        "startTime": 468,
+        "endTime": 488,
+        "speaker": "Diego Diehl",
+        "text": "independente da solução é mais como vocês estão vocês estão implementando você vê ainda, né? Quando vocês implementar a cerveja tem uma integração nativa da hora no curso CV que se vocês mudarem o preço de uma unidade hoje na hora agora na hora não atualiza agora então a gente garante os dados atualizados o portal."
+      },
+      {
+        "startTime": 488,
+        "endTime": 512,
+        "speaker": "Diego Diehl",
+        "text": "Por exemplo. Eu vou dar um exemplo do portal aqui do nosso primeiro cliente que é que em Curitiba foi à praia, esse aqui é um portal da oro que eles personalizaram com O design deles com a identidade visual quando você clica aqui para acessar um conteúdo. Olha já deu os três pontinhos daquele Lobão tem os produtos da praia de conectados."
+      },
+      {
+        "startTime": 512,
+        "endTime": 538,
+        "speaker": "Diego Diehl",
+        "text": "Automaticamente com a órgão e atualizados o centro aqui por exemplo em qualquer produto você já tem uma interface parecida com Interface da orla que esse é um dos score um dos envolvido a melhor página possível para o corretor a gente ficou anos vendo o que que faz sentido. Por exemplo o corretor bate olho na fachada, ele dá uma descida de tela, ele já tem as principais informações do produto."
+      },
+      {
+        "startTime": 538,
+        "endTime": 563,
+        "speaker": "Diego Diehl",
+        "text": "Data de entrega preço metro quadrado metragem diferenciais, ele pode clicar aqui entrar em contato e já vai entrar em contato com um gerente com o coordenador de plataforma que vocês quiserem deixar para cada produto ou mesmo para todos já tem informação de comissão e daí aqui embaixo vocês podem por o material que vocês quiserem aqui, por exemplo, eles não botaram Mais Materiais, eles deixaram só a tabela."
+      },
+      {
+        "startTime": 563,
+        "endTime": 564,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sobe um pouquinho que você falou."
+      },
+      {
+        "startTime": 564,
+        "endTime": 564,
+        "speaker": "Diego Diehl",
+        "text": "E apresentação."
+      },
+      {
+        "startTime": 564,
+        "endTime": 570,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "informação de comissão, sobe um pouquinho. Ah tá aqui o valor, né? Tipologia disponível Garden a partir."
+      },
+      {
+        "startTime": 570,
+        "endTime": 574,
+        "speaker": "Diego Diehl",
+        "text": "isso"
+      },
+      {
+        "startTime": 574,
+        "endTime": 579,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Porque aqui no caso seria o portal da especifico para os corretores, é isso?"
+      },
+      {
+        "startTime": 582,
+        "endTime": 592,
+        "speaker": "Diego Diehl",
+        "text": "produto Ester como se a gente pegasse a tecnologia da órgão e jogar-se para um portal Incorporadora, porque as incorporadoras tem que ficar"
+      },
+      {
+        "startTime": 592,
+        "endTime": 592,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Não entendi"
+      },
+      {
+        "startTime": 592,
+        "endTime": 595,
+        "speaker": "Diego Diehl",
+        "text": "desenvolvendo Portal sozinhos. E aí a gente"
+      },
+      {
+        "startTime": 595,
+        "endTime": 597,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "drive"
+      },
+      {
+        "startTime": 597,
+        "endTime": 622,
+        "speaker": "Diego Diehl",
+        "text": "Exato e o drive vira aquele negócio de cara não tem traqueamento que é o ouro do estratégico. E não tem um traqueamento, esse é o principal, né? Daí o time fica no escuro sobre como agir se eu tenho craqueamento como um exemplo prático operacional. Começa a semana o coordenador de plataforma já vê quem baixou arquivo, quem acessou quem entrou em mais de um produto."
+      },
+      {
+        "startTime": 622,
+        "endTime": 632,
+        "speaker": "Diego Diehl",
+        "text": "Liga para o cara e fala. Oi posso te ajudar em algo está com algum cliente a chance dele falar assim, eu tô com cliente é alta, você apoia aumenta vendas, tá bom?"
+      },
+      {
+        "startTime": 632,
+        "endTime": 634,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "um portal. Que foi feito na praia?"
+      },
+      {
+        "startTime": 634,
+        "endTime": 644,
+        "speaker": "Diego Diehl",
+        "text": "É esse aqui é o portal da praia e assim é um White Label. Programável por vocês é tipo. já virou?"
+      },
+      {
+        "startTime": 644,
+        "endTime": 646,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Outros jovens eu não conheço."
+      },
+      {
+        "startTime": 646,
+        "endTime": 650,
+        "speaker": "Diego Diehl",
+        "text": "É tipo. Como se você pudesse personalizar"
+      },
+      {
+        "startTime": 650,
+        "endTime": 651,
+        "speaker": "Hugo Enes",
+        "text": "Para ver ele é basicamente modular"
+      },
+      {
+        "startTime": 651,
+        "endTime": 653,
+        "speaker": "Diego Diehl",
+        "text": "seu site?"
+      },
+      {
+        "startTime": 653,
+        "endTime": 655,
+        "speaker": "Hugo Enes",
+        "text": "é um site modular que você vai ah."
+      },
+      {
+        "startTime": 655,
+        "endTime": 657,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "E você?"
+      },
+      {
+        "startTime": 657,
+        "endTime": 669,
+        "speaker": "Hugo Enes",
+        "text": "Ah, eu escolho aqui na esquerda um sumário na centralização que era imagens em cima ou imagens por baixo, então, ele é todo mundo lá. É nesse sentido que você disse."
+      },
+      {
+        "startTime": 669,
+        "endTime": 671,
+        "speaker": "Diego Diehl",
+        "text": "É louco bem louco hoje."
+      },
+      {
+        "startTime": 671,
+        "endTime": 682,
+        "speaker": "Hugo Enes",
+        "text": "isso E 100% api com você?"
+      },
+      {
+        "startTime": 682,
+        "endTime": 683,
+        "speaker": "Diego Diehl",
+        "text": "É que espera aí 100% eu não posso"
+      },
+      {
+        "startTime": 683,
+        "endTime": 684,
+        "speaker": "Hugo Enes",
+        "text": "mesmo"
+      },
+      {
+        "startTime": 687,
+        "endTime": 707,
+        "speaker": "Diego Diehl",
+        "text": "100% é difícil falar mas atualização de preço tabela informação de produto disponibilidade toda essa linha SIM. E daí o 100% começa a ficar complexo que é a reservou sabe? Mas dá para a gente olhar com calma até agora as necessidades que a gente teve dá para dizer que foram 100% atendidos."
+      },
+      {
+        "startTime": 707,
+        "endTime": 749,
+        "speaker": "Diego Diehl",
+        "text": "Tá então voltando tá voltando para o sistema então aqui a cara principal tarefa. Porque não tá aparecendo aqui. Quero mostrar ali já na visão inicial. É que você já bate o olho no funil que tá acontecendo lá em Porto Alegre. Você consegue aqui começar a ter previsibilidade de receita que é algo da plataforma que hoje provavelmente vocês não têm vocês têm previsibilidade quando vocês enxergam a partir de visita."
+      },
+      {
+        "startTime": 749,
+        "endTime": 765,
+        "speaker": "Diego Diehl",
+        "text": "Só que a partir de visita é aqui, ó. Tipo não tem visibilidade de agendamento de visita ou de oportunidade qualificada ou de volume de consulta de informações esse desdobramento de funil você consegue começar a prever um pouquinho de como é que tá o comportamento daquele produto. beleza"
+      },
+      {
+        "startTime": 768,
+        "endTime": 775,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, daí como você falou, só que daí ele vai pegar todas as informações que você falou dos portais, né?"
+      },
+      {
+        "startTime": 775,
+        "endTime": 775,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá."
+      },
+      {
+        "startTime": 775,
+        "endTime": 789,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "das plataformas e esse WhatsApp ali. Em que momento porque assim a gente tem que ter várias várias inputs no sistema para ele trazer todas as informações aqui, então só me recapitula, quais são os impulsos. Quais."
+      },
+      {
+        "startTime": 789,
+        "endTime": 791,
+        "speaker": "Diego Diehl",
+        "text": "Vai estar conectado ao WhatsApp?"
+      },
+      {
+        "startTime": 791,
+        "endTime": 795,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "o WhatsApp do WhatsApp dos coordenadores"
+      },
+      {
+        "startTime": 798,
+        "endTime": 826,
+        "speaker": "Diego Diehl",
+        "text": "árvore cronológico o corretor vai entrar em qualquer canal em qualquer canal. Nos canais que eu te falei Portal da hora no aplicativo da hora no CRM da imobiliária Portal da GT. Com isso a gente tem a gente tem o traqueamento. os web hulks ali sobre as ações deles lá dentro Com isso a gente pode programar o sistema."
+      },
+      {
+        "startTime": 826,
+        "endTime": 852,
+        "speaker": "Diego Diehl",
+        "text": "Como que é o default do sistema? O cara visitou o produto da GT? A gente gera um lide corretor para o coordenador de plataforma. Olha a carteira se tem uma divisão de carteira se já tem alguém falando com ele ou não para direcionar para qual coordenador que faz sentido direcionou por um coordenador dispara um oi para esse corretor do WhatsApp do Coordenador automático, por exemplo."
+      },
+      {
+        "startTime": 852,
+        "endTime": 876,
+        "speaker": "Diego Diehl",
+        "text": "Oi tudo bom pa pa ou criou uma tarefa para ele ou ou o que a gente faz é mandar uma mensagem direto do WhatsApp dele. A partir disso é já tá o corretor já tá no funil. E aí Tem uma galera consultando informações só oi Papa legal daí ele vai por exemplo identificar uma oportunidade."
+      },
+      {
+        "startTime": 876,
+        "endTime": 898,
+        "speaker": "Diego Diehl",
+        "text": "Esse é um desenvolvimento atual que a gente está tendo sobre o amadurecimento automático dele já entender que tem uma oportunidade. oportunidade. Um exemplo prático se o corretor falar tem um cliente para o aço já Move para oportunidade para oportunidade de identificada a gente então tá estudando estudando não tá desenvolvendo ainda."
+      },
+      {
+        "startTime": 898,
+        "endTime": 906,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou falar algumas coisas que já estão consolidadas que é o Pareto feijão com arroz e coisas que vem pela frente tá? Porque isso tudo é muito novo as"
+      },
+      {
+        "startTime": 906,
+        "endTime": 907,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "É legal."
+      },
+      {
+        "startTime": 907,
+        "endTime": 953,
+        "speaker": "Diego Diehl",
+        "text": "possibilidades daí há seis meses atrás quando era 3.5 tava muito mais limitado. Aí lançou quatro, o processamento ficou gigante caiu pela metade do preço 4 ficou melhor ainda agora semana passada liberou mais uma versão do 4 alguma coisa que ficou mais barato ainda então a gente consegue rodar operações mais complexas, tá? Tem um acho que vou usar 20 segundos aqui só para a gente descontrair um pouquinho, não sei se vocês viram um vídeo do Duma ya há um ano atrás fazendo um vídeo do Will Smith comendo macarrão e um vídeo daí agora você já viu isso? Olha o vídeo de cima e o vídeo de baixo."
+      },
+      {
+        "startTime": 953,
+        "endTime": 958,
+        "speaker": "Diego Diehl",
+        "text": "Olha a qualidade e o realismo que tem o vídeo hoje."
+      },
+      {
+        "startTime": 958,
+        "endTime": 958,
+        "speaker": "Diego Diehl's Presentation",
+        "text": "What the f*** my?"
+      },
+      {
+        "startTime": 959,
+        "endTime": 972,
+        "speaker": "Diego Diehl",
+        "text": "Eu gosto de trazer isso só para a gente lembrar da linha do tempo que a gente tá porque eu falo em abre algumas pessoas você começa assim vocês não vão porque são da área de inovação, vocês entendem já mas para a gente posicionar que tem coisas que eu tô falando, cara."
+      },
+      {
+        "startTime": 972,
+        "endTime": 987,
+        "speaker": "Diego Diehl",
+        "text": "Agora é possível e está no nosso Road map. Eu prometo para vocês que no máximo três meses tem tem outras coisas que não foram desenvolvidas e eu vou focar principalmente aqui no que já está funcionando rodando a três quatro meses, tá bom Ester."
+      },
+      {
+        "startTime": 987,
+        "endTime": 990,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Beleza, entendi."
+      },
+      {
+        "startTime": 990,
+        "endTime": 1015,
+        "speaker": "Diego Diehl",
+        "text": "Importante esse alinhamento Aí segundo módulo aqui o módulo de clientes no sistema, esse aqui já é um módulo que atua num corda plataforma que se chama gestão de carteira. Você ter todos os corretores registrados você ter todos os Deixa eu tirar um pouco. Aqui no módulo de carteira a gente tem por exemplo a estrutura de imobiliárias."
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1033,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô na internet do celular aqui, então, tá um pouquinho lento. Tá eu tô num hotel em Londrina. Explicar para vocês o sistema normalmente, ele é bem rápido aí por exemplo, eu tenho cadastro das imobiliárias aqui. Eu tô travando para vocês."
+      },
+      {
+        "startTime": 1033,
+        "endTime": 1035,
+        "speaker": "Hugo Enes",
+        "text": "Tá um pouco sim."
+      },
+      {
+        "startTime": 1035,
+        "endTime": 1090,
+        "speaker": "Diego Diehl",
+        "text": "Tá eu vou deixa eu só fazer um teste tentar conectar na internet do hotel aqui em 30 segundos, talvez fique melhor. Voltei gente."
+      },
+      {
+        "startTime": 1090,
+        "endTime": 1095,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "beleza Desliga o vídeo às vezes não."
+      },
+      {
+        "startTime": 1095,
+        "endTime": 1102,
+        "speaker": "Hugo Enes",
+        "text": "Será que vai ficar melhor? Qualquer coisa também. desliga."
+      },
+      {
+        "startTime": 1102,
+        "endTime": 1148,
+        "speaker": "Diego Diehl",
+        "text": "Pode desligar, por favor, eu desliguei o meu aqui já. Aí perfeito, então, eu tava mostrando aqui. Deixa eu recarregar. O módulo de clientes onde a gente organiza imobiliárias corretores então no nível aqui imobiliárias eu tenho por exemplo a foxter que é uma imobiliária Grande. De Porto Alegre no cadastro da imobiliária eu tenho aqui na parte da esquerda os dados que vocês quiserem, mas a gente já deixou alguns dados que fazem sentido para o mercado como por exemplo dia de reunião comercial horário de reunião comercial importante saber isso zona de atuação."
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1158,
+        "speaker": "Diego Diehl",
+        "text": "Que zona que eles trabalham. Que tipo de produto que eles trabalham essa Imobiliária com 400 corretores lá, então, eles trabalham de tudo, mas esses"
+      },
+      {
+        "startTime": 1158,
+        "endTime": 1160,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "imobiliária."
+      },
+      {
+        "startTime": 1160,
+        "endTime": 1184,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente aplicação prática quanto mais? Quanto mais relevante for a mensagem que você envia para o teu parceiro. Maior a relevância que você vai ter para ele então se eu só tenho listas de transmissão sem segmentação disparo tudo para todo mundo. Eu mando um alto padrão para uma imobiliária Econômica."
+      },
+      {
+        "startTime": 1184,
+        "endTime": 1184,
+        "speaker": "Diego Diehl",
+        "text": "Lá começa a ficar exatamente"
+      },
+      {
+        "startTime": 1184,
+        "endTime": 1186,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Que não tem nada a ver."
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1205,
+        "speaker": "Diego Diehl",
+        "text": "aqui eu começo a foco de atuação, eu posso ter uma unidade pronta que eu faço um disparo para Imobiliários que vendem usados. E aí eles usado na verdade não usaram mas é pronto então você pode ter diversas estratégias segundo estratégia um sistema de classificação. E você pode ter um sla aí dentro da GT dizendo assim é Imobiliária a"
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1206,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "É uma classificação, nossa."
+      },
+      {
+        "startTime": 1208,
+        "endTime": 1227,
+        "speaker": "Diego Diehl",
+        "text": "Tem que visitar toda semana Imobiliária B é todo mês Imobiliária. E aí você consegue controlar indicador e criar regra em cima disso então ó. O coordenador de plataforma se você não visitar e a visita por check-in GPS pelo aplicativo, se você não digitar você perdeu imobiliária. E aí os cara se mexem então?"
+      },
+      {
+        "startTime": 1227,
+        "endTime": 1231,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, tem que estar presente ainda mais quando os caras são bons e são bem parceiros. Nossa."
+      },
+      {
+        "startTime": 1231,
+        "endTime": 1256,
+        "speaker": "Diego Diehl",
+        "text": "Exatamente e aqui a gente tem tudo que foi registrado, ó, foi criado uma tarefa hoje clientes. Deram um prazo de até sexta-feira para definir se iriam se irão fazer proposta da unidade 303, o Eduardo registrou isso aqui então você consegue ter um histórico uma visão histórico completo que é legal também a visão de pessoas vinculadas Imobiliária os gerentes os diretores a gente tem uma nomenclatura que a gente"
+      },
+      {
+        "startTime": 1256,
+        "endTime": 1258,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "São as pessoas da imobiliária são tipo os corretores imobiliária que"
+      },
+      {
+        "startTime": 1258,
+        "endTime": 1259,
+        "speaker": "Diego Diehl",
+        "text": "É exato."
+      },
+      {
+        "startTime": 1259,
+        "endTime": 1261,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "atendem a gente aí da imobiliária"
+      },
+      {
+        "startTime": 1261,
+        "endTime": 1262,
+        "speaker": "Diego Diehl",
+        "text": "A gente pode."
+      },
+      {
+        "startTime": 1262,
+        "endTime": 1264,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "que atendem a GT, tá?"
+      },
+      {
+        "startTime": 1264,
+        "endTime": 1264,
+        "speaker": "Diego Diehl",
+        "text": "Exato."
+      },
+      {
+        "startTime": 1264,
+        "endTime": 1265,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "poderia"
+      },
+      {
+        "startTime": 1265,
+        "endTime": 1290,
+        "speaker": "Diego Diehl",
+        "text": "foi falado no WhatsApp com cada uma dessas pessoas contribui para Os indicadores daquela Imobiliária, por exemplo, a gente falou com 20 corretores da Fox era essa semana o corretores líderes são corretores mais seniores ou que vendem mais a gente cria uma segmentação também dá para enxergar todos os cards que estão aqui dentro, já vou mostrar isso para vocês."
+      },
+      {
+        "startTime": 1290,
+        "endTime": 1303,
+        "speaker": "Diego Diehl",
+        "text": "Que proposta que tá rolando, por exemplo. Talvez vocês. Utilizem as propostas mais você vê mas daí a gente pode criar uma integração para só acompanhar a proposta aqui para ter o dado consolidado aqui também."
+      },
+      {
+        "startTime": 1303,
+        "endTime": 1309,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Porque aí no caso o sistema ele também dá para fazer embutido de proposta, pelo que eu tô vendo, né?"
+      },
+      {
+        "startTime": 1309,
+        "endTime": 1314,
+        "speaker": "Diego Diehl",
+        "text": "Dá mas ó. Eu recomendo estar que vocês centralizem no CV, tá?"
+      },
+      {
+        "startTime": 1314,
+        "endTime": 1314,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Ah, não com certeza."
+      },
+      {
+        "startTime": 1314,
+        "endTime": 1315,
+        "speaker": "Diego Diehl",
+        "text": "Porque né?"
+      },
+      {
+        "startTime": 1315,
+        "endTime": 1317,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "gente vai ficar louco."
+      },
+      {
+        "startTime": 1317,
+        "endTime": 1327,
+        "speaker": "Diego Diehl",
+        "text": "Aqui é exatamente aqui é mais para acompanhar assim em geral é até você cobra o cara que coloca aqui porque aqui é que o Bruno vai olhar o indicador dele, por exemplo que é o time de plataforma."
+      },
+      {
+        "startTime": 1327,
+        "endTime": 1329,
+        "speaker": "Hugo Enes",
+        "text": "Emitir uma dúvida depois Essa"
+      },
+      {
+        "startTime": 1329,
+        "endTime": 1330,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 1330,
+        "endTime": 1349,
+        "speaker": "Hugo Enes",
+        "text": "gestão de usuários é dentro dessas imobiliárias, né? Ela seria realizada por nós nesse cadastro das imobiliárias esse cadastro dos usuários internos dessas imobiliárias ou esse cadastro, ele já é pré-existente dentro do sistema."
+      },
+      {
+        "startTime": 1349,
+        "endTime": 1349,
+        "speaker": "Diego Diehl",
+        "text": "Olha só Google."
+      },
+      {
+        "startTime": 1349,
+        "endTime": 1356,
+        "speaker": "Hugo Enes",
+        "text": "e vocês, apenas vinculam ele com o painel da"
+      },
+      {
+        "startTime": 1360,
+        "endTime": 1392,
+        "speaker": "Diego Diehl",
+        "text": "que mais de uma pessoa já me pediu. Hoje aqui ó, por exemplo lá em Porto Alegre, a gente tem aqui já segmentado 1.300 corretores. E 458 imobiliárias, só que é uma operação. Nossa então eu poderia vender essa base por exemplo, porque a gente que na verdade fez ela hoje eu não entrego separadinho isso porque cada Incorporadora tem a sua base."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1410,
+        "speaker": "Diego Diehl",
+        "text": "Então é como se fosse de responsabilidade de cada Incorporadora segmentar enriquecer o dado. Mas eu acredito que para o futuro não muito distante. Aí talvez seis meses um ano a gente vai acabar consolidando isso, né? Porque até uma parceria de vocês."
+      },
+      {
+        "startTime": 1410,
+        "endTime": 1410,
+        "speaker": "Hugo Enes",
+        "text": "Foi só uma dúvida mesmo para ver."
+      },
+      {
+        "startTime": 1410,
+        "endTime": 1413,
+        "speaker": "Diego Diehl",
+        "text": "É isso."
+      },
+      {
+        "startTime": 1413,
+        "endTime": 1429,
+        "speaker": "Hugo Enes",
+        "text": "digamos assim. Ah, beleza nós vamos subir os nossos contatos digamos assim segmentar esses contatos aí só para a gente poder se organizar internamente para fazer e realizar esse cadastro já vem pronto então adiciona, né ao"
+      },
+      {
+        "startTime": 1429,
+        "endTime": 1434,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1434,
+        "endTime": 1438,
+        "speaker": "Hugo Enes",
+        "text": "nosso old map assim uma parte de cadastro de usuários."
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1473,
+        "speaker": "Diego Diehl",
+        "text": "que se cadastro de corretores. Já mostrando os corretores tem alguns que são vinculados com a ordem então ó, já vem com uma fotinho da pessoa já tá validado. Já veio da hora não tem e-mail tem o cresce dele até CPF que eu por exemplo o ID da orla, a gente tá sempre integrando com a hora no porque a gente vai a gente manda informações para o sistema que é uma pontuação do corretor o quão ativo ele tá o comativo."
+      },
+      {
+        "startTime": 1473,
+        "endTime": 1498,
+        "speaker": "Diego Diehl",
+        "text": "Ele tá nos teus produtos para a gente enriquecer uma qualificação dele e a gente tava testando só para te falar em rodenectar a gente testou lá em Porto Alegre aí há de vez em quando fazer um aquecimento de dados. Ele pergunta para o corretor por exemplo, Doutor. Você pode me confirmar que Imobiliária você tá aí ele fala o nome daí a gente Verifica se tem alguma parecido e fala você pode confirmar se essa primeira ou a segunda Imobiliária ele falar essa segunda."
+      },
+      {
+        "startTime": 1498,
+        "endTime": 1527,
+        "speaker": "Diego Diehl",
+        "text": "E aí já preenche no campo da imobiliária, qual ele tá mas isso também para o futuro e um outro mecanismo de registro. De corretores fogo é que por exemplo os coordenadores de plataforma de vocês. Provavelmente tem lista de transmissão, né e fala com os corretores a gente criou um mecanismo que quando você manda em qualquer lugar da mensagem dois emojis dois emotions de casinha junto."
+      },
+      {
+        "startTime": 1527,
+        "endTime": 1547,
+        "speaker": "Diego Diehl",
+        "text": "Ele registra todos do sistema. Então quando a gente for por o sistema eles vão lá e fazem um disparo na lista de transmissão, bota uma casinha lá para os dois as duas casinhas e já cadastra todo mundo automático. Tá mas não o nosso desafio é vincular o corretor Imobiliário."
+      },
+      {
+        "startTime": 1547,
+        "endTime": 1556,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o"
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1571,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Você falou que os É eu vi ele desculpa é você comentou que quando a gente usa esses dois emojis de duas casinhas juntas, ele já faz essa essa integração automática, ele já faz o cadastro automático. interessante"
+      },
+      {
+        "startTime": 1571,
+        "endTime": 1581,
+        "speaker": "Diego Diehl",
+        "text": "E aí isso para dar privacidade também para os corretores que tem o número pessoal que tem outros mecanismos."
+      },
+      {
+        "startTime": 1581,
+        "endTime": 1581,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Pois é porque assim né?"
+      },
+      {
+        "startTime": 1581,
+        "endTime": 1583,
+        "speaker": "Diego Diehl",
+        "text": "Porque a gente pode."
+      },
+      {
+        "startTime": 1583,
+        "endTime": 1594,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "a maioria dos nossos corretores, né? Ele usa o celular tanto profissional como pessoal, imagine tudo que tem do WhatsApp dele vindo para cá,"
+      },
+      {
+        "startTime": 1594,
+        "endTime": 1595,
+        "speaker": "Diego Diehl",
+        "text": "perfeito todo mundo pergunta, isso é"
+      },
+      {
+        "startTime": 1595,
+        "endTime": 1605,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "entendeu? Então como que é essa seria uma pergunta minha para você, você já tá respondendo então duas casinhas. essas duas casinhas. Olha aí, que legal."
+      },
+      {
+        "startTime": 1605,
+        "endTime": 1617,
+        "speaker": "Diego Diehl",
+        "text": "pergunta importante. Sim, é exatamente na verdade tem Incorporadora menor, por exemplo. Teve uma que eu vendi agora que o cara que tá pagando o sistema para ele, ele é sozinho. ele falou cara, pode rastrear tudo"
+      },
+      {
+        "startTime": 1617,
+        "endTime": 1618,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "certo"
+      },
+      {
+        "startTime": 1619,
+        "endTime": 1632,
+        "speaker": "Diego Diehl",
+        "text": "que tá no celular vai até me ajudar a me organizar com as minhas coisas, porque queria tarefa justa. Ele falou esses dias tinha tarefa que minha mulher tinha pedido para eu lembrar de sei lá passar no mercado e eu lembrei daí ele tá usando lá do jeito dele, mas incorporadoras a"
+      },
+      {
+        "startTime": 1632,
+        "endTime": 1635,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "É porque ele é sozinho, mas a gente que é grande, né? Não tem como."
+      },
+      {
+        "startTime": 1638,
+        "endTime": 1660,
+        "speaker": "Diego Diehl",
+        "text": "gente só rastreia, o que tá cadastrado no sistema. E aí para cadastrar no sistema, você manda as duas casinhas. Claro e aí você pode também no meio da casinha por mais que esteja cadastrado, você manda outros dois outro comando para ele parar de rastrear por um momento para pausar e depois você pode mandar um comando para voltar."
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1660,
+        "speaker": "Diego Diehl",
+        "text": "Por exemplo, vai que eu tô"
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1660,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Porque o comando o comando para"
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1662,
+        "speaker": "Diego Diehl",
+        "text": "coordenador."
+      },
+      {
+        "startTime": 1662,
+        "endTime": 1664,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "cadastrar sempre as duas casinhas são ele mandou uma vez cadastrar"
+      },
+      {
+        "startTime": 1664,
+        "endTime": 1664,
+        "speaker": "Diego Diehl",
+        "text": "É a casinha."
+      },
+      {
+        "startTime": 1665,
+        "endTime": 1674,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "qualquer interação a partir do momento Putz, não vou mais não. Preciso mais que essa interação é vá para o sistema. Aí você falou que tem uma para pausar."
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1723,
+        "speaker": "Diego Diehl",
+        "text": "E é como se fosse assim um start. um pause e um resume tipo assim start cadastra todo mundo Beleza, cadastrou, tá ligado o traqueamento. Mas putz eu tô falando ali com o Bruno e cara. A gente tá marcando de sei lá e para praia comprar cerveja, eu vou lá e mando dois emojis ele para de rastrear aí segunda-feira, eu ligo de novo, então o coordenador tem a autonomia de controlar porque se você pressiona muito disso que você vai controlar tudo ele não tem autonomia dele as pessoas ficam com medo e na verdade a ferramenta quando elas entendem é para ajudar elas ninguém vai ficar olhando mensagem por mensagem é muita mensagem não dá tempo, entendeu? Mas a gente entrega essa autonomia essa liberdade para ele se sentirem Seguros."
+      },
+      {
+        "startTime": 1723,
+        "endTime": 1726,
+        "speaker": "Diego Diehl",
+        "text": "Ficou claro"
+      },
+      {
+        "startTime": 1726,
+        "endTime": 1730,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "É sempre as duas casinhas tanto para startar quanto para parar?"
+      },
+      {
+        "startTime": 1730,
+        "endTime": 1738,
+        "speaker": "Diego Diehl",
+        "text": "Não não são diferentes casinha para cadastrar daí tem um outro dois que é pausar e outro Para retomar. retomar."
+      },
+      {
+        "startTime": 1738,
+        "endTime": 1738,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tá."
+      },
+      {
+        "startTime": 1738,
+        "endTime": 1738,
+        "speaker": "Diego Diehl",
+        "text": "Mas eles aprendem são três comando."
+      },
+      {
+        "startTime": 1738,
+        "endTime": 1740,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Depois a gente vai saber qual a experiência, tá?"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1740,
+        "speaker": "Diego Diehl",
+        "text": "então aqui corretores que já vem"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1745,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Beleza."
+      },
+      {
+        "startTime": 1745,
+        "endTime": 1780,
+        "speaker": "Diego Diehl",
+        "text": "todo mundo que tá acessando as coisas e tal prioridade, o que eu acho legal para vocês olharem. É novamente aquela facilidade, por exemplo tem a facilidade do mapa, né? Você pode aqui olhar aí não tem corretor diferente. Eu vou aqui Imobiliária, eu abro o mapa. Ó é legal se o sistema de mapa também."
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1810,
+        "speaker": "Diego Diehl",
+        "text": "Então aqui para o coordenador que vai visitar algumas às vezes ele cara faz uma rotina para ele aqui. Ele bate o olho clica e consegue ter uma ideia das imobiliárias, mas que eu queria mostrar para vocês é o mecanismo de Nova abra muito fácil criar tanto criar um filtro que é um novo filtro, você vai lá ó, tem o filtro simples tem um filtro avançado que a gente pode criar os principais na implantação e tem uma nova aba."
+      },
+      {
+        "startTime": 1810,
+        "endTime": 1837,
+        "speaker": "Diego Diehl",
+        "text": "É legal isso aqui porque você pode editar tantos em massa, eu já vou explicar uma coisinha para vocês que ela é muito valiosa é o seguinte. Eu tenho a conexão com a gente de Whatsapp, vocês estão vendo aqui. agente. Isso aqui comanda o WhatsApp e depois eu vou explicar melhor para vocês, o que que é cada coisa mais, por exemplo."
+      },
+      {
+        "startTime": 1837,
+        "endTime": 1863,
+        "speaker": "Diego Diehl",
+        "text": "Vou dar vou dar esse caso para vocês. Vocês querem fazer um filtro de corretores que não falaram comigo nos últimos 90 dias você vai lá faz um filtro e edita em massa tornando esse contato um Target. Quando você coloca esse contato como um target eu já vou pular aqui para essa parte do WhatsApp só para seguir o fluxo de operação mesmo."
+      },
+      {
+        "startTime": 1863,
+        "endTime": 1893,
+        "speaker": "Diego Diehl",
+        "text": "Quando eu coloco ele como target eu vim aqui na nossa ferramenta de WhatsApp, eu tenho três mecanismos. Vou usar aqui o mecanismo de mensagem padrão, eu posso criar uma mensagem aqui para ele, por exemplo usar esse exemplo aqui faz tempo que não fala contigo. sei lá Você ainda tá focando em vender lançamentos, você me avisa."
+      },
+      {
+        "startTime": 1893,
+        "endTime": 1952,
+        "speaker": "Diego Diehl",
+        "text": "Que eu quero te trazer uma novidade, sei lá. Eu posso por exemplo quebrar ela em três? Fica aqui eu vou em próximo. Ah, eu não botei nenhum target aqui aparece os contatos que são target aqui. aqui. E eu boto enviar ó seleciono todos da lista e bota enviar aqui é o mecanismo que começa a disparar a mensagem com o espaçamento de tempo com espaçamento de mensagem para as pessoas ali que você citou então tem uma forma prática de você ativar a base utilizando um filtro aqui como esse como uma aba de não falei a mais de 90 dias ou quem visitou no último mês mandar um reconhecimento para pessoa que vendeu ou quem vocês quiserem baseado nos filtros que vocês vão ter e nos dados que vocês vão ter no corretor que tem vários que são cadastrados automáticos, por exemplo aqui ó."
+      },
+      {
+        "startTime": 1952,
+        "endTime": 1975,
+        "speaker": "Diego Diehl",
+        "text": "Presta status, deixa eu por aqui. Ó a preferência de produtos zona de atuação cidade de atuação com data da última venda nos últimos 12 meses eu consigo usar se tiver preenchido eu faço um disparo junto aquela ferramenta que eu acabei de mostrar. Ficou claro isso que a gente foi muito."
+      },
+      {
+        "startTime": 1975,
+        "endTime": 1975,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 1975,
+        "endTime": 1982,
+        "speaker": "Hugo Enes",
+        "text": "Ficou somente uma dúvida, você tem algum tipo de ranqueamento? Desses corretores ou imobiliárias."
+      },
+      {
+        "startTime": 1984,
+        "endTime": 2004,
+        "speaker": "Diego Diehl",
+        "text": "Se assim já tá com estrutura para fazer isso, só que as operações que a gente pegou eles não quiseram focar nisso ainda, mas vou te dar um exemplo aqui em relatório, já a gente tem um ranking de corretores aqui, ó. Quem vendeu mais ranking de Imobiliária, esse aqui é o que a gente fez já de bate pronto dá para você fazer de tudo quem visitou mais."
+      },
+      {
+        "startTime": 2004,
+        "endTime": 2019,
+        "speaker": "Diego Diehl",
+        "text": "Ah tem o traqueamento agora de mensagem recebida mensagem enviada. Então qual foi o corretor que mais falou com a gente? Qual foi a imobiliário que Somando todos os corretores mais falou com a gente? Quem vendeu mais quem visitou mais dá para você fazer um ranking que você quiser aquilo."
+      },
+      {
+        "startTime": 2019,
+        "endTime": 2021,
+        "speaker": "Diego Diehl",
+        "text": "Ficou claro"
+      },
+      {
+        "startTime": 2021,
+        "endTime": 2022,
+        "speaker": "Hugo Enes",
+        "text": "Ficou ficou assim e esse painel de é"
+      },
+      {
+        "startTime": 2022,
+        "endTime": 2023,
+        "speaker": "Diego Diehl",
+        "text": "Era isso."
+      },
+      {
+        "startTime": 2023,
+        "endTime": 2030,
+        "speaker": "Hugo Enes",
+        "text": "isso mesmo esse painel de relatórios aí você rolou a barra na esquerda temos alguns."
+      },
+      {
+        "startTime": 2032,
+        "endTime": 2051,
+        "speaker": "Diego Diehl",
+        "text": "Tá posso já pular para essa parte esses aqui são os que a gente tá usando lá em Porto Alegre, tá? Tem algumas variações para outros clientes. Qual que é o mecanismo que a gente entrega só para falar já da solução? Eu já entrego esses aqui. Ajustado com implementação de pode ajustar pode olhar e aí, por exemplo aqui, ó."
+      },
+      {
+        "startTime": 2051,
+        "endTime": 2083,
+        "speaker": "Diego Diehl",
+        "text": "Nesse caso eu tenho imobiliárias estão ativas se estão em prospecção se foram descartadas um gráficozinhos Imobiliária, volume de cadastro de imobiliárias por mês. Imobiliária por responsável para ver tamanho de carteira de cada um Aqui um gráficozinho mais bonitinho volume de visitas nas imobiliárias lá Fox, será que eles mais visitaram lá volume de visitas por imobiliária aqui, por exemplo, você pode clicar editar."
+      },
+      {
+        "startTime": 2083,
+        "endTime": 2114,
+        "speaker": "Diego Diehl",
+        "text": "Esse aqui é uma vantagem de pegar uma solução mais robusta já as coisas já são mais personalizadas. Você vai lá ó métrica do gráfico. Eu posso adicionar uma métrica selecionar agora que por exemplo é venda. Eu quero uma soma seleciona o campo daí eu boto aqui, cara. Eu quero o valor de venda daí eu já boto mais um filtro, entendeu? Praticidade que já visualiza aqui na esquerda, como é que vai ficar? E eu posso também colocar outros gráficos."
+      },
+      {
+        "startTime": 2114,
+        "endTime": 2137,
+        "speaker": "Diego Diehl",
+        "text": "cruzar. Assim falando para você Hugo obviamente isso aqui não é tipo você tem uma possibilidade de tratar o dado de higienizado fazer várias coisas não é uma proposta. Você pode tirar os dados daqui jogar por viagem, se você quiser mas para gráficos mais simples de operação para a galera olhar todo dia tá sincronizado já funciona e já atende."
+      },
+      {
+        "startTime": 2137,
+        "endTime": 2140,
+        "speaker": "Diego Diehl",
+        "text": "Já tem atendido o que a gente está trazendo, tá?"
+      },
+      {
+        "startTime": 2140,
+        "endTime": 2140,
+        "speaker": "Hugo Enes",
+        "text": "Interessante."
+      },
+      {
+        "startTime": 2140,
+        "endTime": 2141,
+        "speaker": "Diego Diehl",
+        "text": "aqui"
+      },
+      {
+        "startTime": 2141,
+        "endTime": 2146,
+        "speaker": "Hugo Enes",
+        "text": "Então tem uma forma de extração desses dados em geral, eu posso querer extrair tudo ao mesmo tempo."
+      },
+      {
+        "startTime": 2146,
+        "endTime": 2147,
+        "speaker": "Diego Diehl",
+        "text": "tem"
+      },
+      {
+        "startTime": 2147,
+        "endTime": 2150,
+        "speaker": "Hugo Enes",
+        "text": "mas ele vem cru para eu poder tratar ele no nomear e num Python da vida."
+      },
+      {
+        "startTime": 2150,
+        "endTime": 2183,
+        "speaker": "Diego Diehl",
+        "text": "Isso você pode sincronizar. E tratando se vocês têm estrutura, imagina que a gente Provavelmente queira já organizar as bases deixar os dados estruturado para consolidar. Talvez House plataforma, tá bom? Que a gente consegue dar o gráfico para o operador para pessoa da ponta daí ele vai lá ver como é que ele tá ver se ele tá acima."
+      },
+      {
+        "startTime": 2183,
+        "endTime": 2217,
+        "speaker": "Diego Diehl",
+        "text": "Vê se ele tá baixo ele começa ele a olhar. Tá bom? Eu tô indo abrindo aqui, ó, por produto por Incorporadora volume de negócios assinados cada um. Ass. Olhe em Porto Alegre até ficou Júnior porque deu. Deu enchente lá. Foi bem crítico aí a produtividade interações do mês os relatórios aqui são vários a gente tem alguns que a gente usa mais aqui, ó, principalmente retorno análise das vendas, tá claro aqui ver mais algo sobre"
+      },
+      {
+        "startTime": 2217,
+        "endTime": 2222,
+        "speaker": "Hugo Enes",
+        "text": "beleza Não tá claro isso. Gostei interessante. Se quiser seguir manda ver."
+      },
+      {
+        "startTime": 2223,
+        "endTime": 2249,
+        "speaker": "Diego Diehl",
+        "text": "Então, a gente falou sobre cliente aqui as bases as abas deixar um filtro aqui, ó, por exemplo. A gente pega se entra aqui e falou Fulano. Você tá faltando aqui você ajustar os dados dos seus corretores, você vai lá acompanhando queria algum Alerta. E aí aqui é a parte do Funil a parte do Funil a gente tem esses três principais aquele desoram que já vem é um esquema ali que eu falei do cara."
+      },
+      {
+        "startTime": 2249,
+        "endTime": 2264,
+        "speaker": "Diego Diehl",
+        "text": "Tá acessando algum produto para a gente abordar automático tem um funil de negócios. que Aqui a gente acompanha básico. Você já conhece né? A gente bota as etapas que a gente quer os dados que a gente quer. Por exemplo aqui ó."
+      },
+      {
+        "startTime": 2264,
+        "endTime": 2266,
+        "speaker": "Hugo Enes",
+        "text": "Basicamente um cambão mesmo."
+      },
+      {
+        "startTime": 2266,
+        "endTime": 2291,
+        "speaker": "Diego Diehl",
+        "text": "Prático. Não tem melhor do que acompanhar funil a gente programa aqui alguma algum Campo. Obrigatório para ele mover de fase a gente acompanha histórico e é bem prático aqui bem é relativamente minimalista aqui para o corretor. Tipo ele bate o olho ó, botou esse azulzinho para ver se está atualizado o cardio não o gestor bate olho e fala galera."
+      },
+      {
+        "startTime": 2291,
+        "endTime": 2315,
+        "speaker": "Diego Diehl",
+        "text": "Fala que eu Patricia. Ah você precisa atualizar o like lá da Sandra, né? O produto João Menezes é corretor a gente não traz a gente tenta não trazer dado pelo menos na maioria das operações de clientes aqui para dentro tá para não ficar sensível. Não tem aqueles problemas. Às vezes a gente tem."
+      },
+      {
+        "startTime": 2315,
+        "endTime": 2333,
+        "speaker": "Diego Diehl",
+        "text": "Que mais então aqui tarefa atrasada ou não Ó que tarefa atrasada tarefa para hoje tá sem tarefa, eu tinha puxado mais os caras porque não podia estar vazio aqui se tem. Funil você precisa ter uma próxima tarefa uma próxima atividade, né? Então entrando aqui você vê. Então entrando aqui você vê."
+      },
+      {
+        "startTime": 2333,
+        "endTime": 2363,
+        "speaker": "Diego Diehl",
+        "text": "Aqui as interações ó. Ele registrou uma visita. E aí automação já jogou aqui para dentro do card a gente fez esse esquema de estrutura também então registra no contato registrando cardio que eles estão atuando tem valor do apartamento se a proposta foi gerada valor da comissão. Essa parte que eu mais commodit assim, né? É funil tem eu acho que uma coisa legal que olhar os vídeos da hora no que cadastra o novo líder aqui."
+      },
+      {
+        "startTime": 2363,
+        "endTime": 2387,
+        "speaker": "Diego Diehl",
+        "text": "Ó, esse aqui por exemplo foi cadastrado. Hoje 11:15 no início a gente se apresenta. Vamos ver se ele respondeu aqui, ó, olha ele não respondeu esse corretor. Vou jogar aqui já em conversa. Olha isso aqui há dois dias em conversa. Ó, o Alencar tá falando com ele, vamos ver como é que chegou ele foi criado."
+      },
+      {
+        "startTime": 2387,
+        "endTime": 2416,
+        "speaker": "Diego Diehl",
+        "text": "Ou a gente falou aí eu a Patrícia. O Thiago falou Estou aqui no Barão na Barão do Tefé. Então, a Patrícia tá conversando com ele tem um resuminho. E ele já dá alguns insights também aqui com a yaki vocês têm na mão pronto para poder treinar eu já mostro pronto para vocês também, né? Às vezes uma especificidade de vocês que eu lembro da GT."
+      },
+      {
+        "startTime": 2416,
+        "endTime": 2420,
+        "speaker": "Diego Diehl",
+        "text": "Ela tava conversando com a minha mãe ontem, ela falou que te conhece, minha mãe é só trabalhou há"
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2422,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sério?"
+      },
+      {
+        "startTime": 2422,
+        "endTime": 2429,
+        "speaker": "Diego Diehl",
+        "text": "tempo. Como coordenadora do Seven? Ela falou a estéria é antenada ela"
+      },
+      {
+        "startTime": 2429,
+        "endTime": 2431,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu acho que eu conheço ela mesmo."
+      },
+      {
+        "startTime": 2435,
+        "endTime": 2441,
+        "speaker": "Diego Diehl",
+        "text": "Ela sempre estava ligado em tecnologia em mídia e tal. Eu falei que legal agora que eu vou conversar."
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2441,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Oh que legal."
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2451,
+        "speaker": "Diego Diehl",
+        "text": "Eu estudava eu fazia cursinho na época do Seven e eu estudava no plantão do Sérvia lá que minha mãe ia dar treinamento para os corretores. Eu ficava no cantinho estudando lá naquela época, eu tava escutando o"
+      },
+      {
+        "startTime": 2451,
+        "endTime": 2452,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Nossa Manda um abração para ela."
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2455,
+        "speaker": "Diego Diehl",
+        "text": "treinamento. Vou mandar naquela época, eu tava"
+      },
+      {
+        "startTime": 2455,
+        "endTime": 2455,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Você imagina."
+      },
+      {
+        "startTime": 2455,
+        "endTime": 2458,
+        "speaker": "Diego Diehl",
+        "text": "escutando nos primeiros treinamentos de corretores."
+      },
+      {
+        "startTime": 2458,
+        "endTime": 2459,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Ô que legal."
+      },
+      {
+        "startTime": 2459,
+        "endTime": 2463,
+        "speaker": "Diego Diehl",
+        "text": "Daí fui parar nesse mercado aqui sem querer sem querer querendo."
+      },
+      {
+        "startTime": 2463,
+        "endTime": 2466,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Você vê como que o mundo é pequeno, né?"
+      },
+      {
+        "startTime": 2466,
+        "endTime": 2478,
+        "speaker": "Diego Diehl",
+        "text": "Esses dias eu agradeci ela falei mãe, eu não entendia como é que eu entendo. O mercado imobiliário de um outro ângulo que uma galera que tá ao mesmo tempo que eu não entendi daí ela falou filho, você ficava todo"
+      },
+      {
+        "startTime": 2478,
+        "endTime": 2478,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Graças"
+      },
+      {
+        "startTime": 2478,
+        "endTime": 2499,
+        "speaker": "Diego Diehl",
+        "text": "dia escutando eu contar a história do cliente de mercado, né? Então aqui ó que eu queria mostrar para vocês É registro as conversas, dá um resumo e você pode até programar que ele queria tarefas automáticos automáticas também. Conforme você programa e a é tipo. pronto de É tipo não é um chat."
+      },
+      {
+        "startTime": 2499,
+        "endTime": 2512,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu lembro que você eu lembro que você comentou que daí a partir dessas dessa criação de tarefas que ele pode estar disparando algum comunicado algum material essas essas informações, né?"
+      },
+      {
+        "startTime": 2515,
+        "endTime": 2525,
+        "speaker": "Diego Diehl",
+        "text": "também. Deixa eu ir abrindo aqui uma outra coisa, então eu como é que vocês estão de tempo gente que daí eu vejo o seu acelerose. Você tem que sair três e pouquinho,"
+      },
+      {
+        "startTime": 2525,
+        "endTime": 2527,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Olha eu tenho"
+      },
+      {
+        "startTime": 2527,
+        "endTime": 2528,
+        "speaker": "Diego Diehl",
+        "text": "né Ester"
+      },
+      {
+        "startTime": 2528,
+        "endTime": 2531,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu tenho que sair umas 3:40, tem umas 3:40 tranquilo."
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2543,
+        "speaker": "Diego Diehl",
+        "text": "Beleza então não dá tempo que demonstrar então assim eu vou passando vocês me interrom, por favor, tá? Fala Diego, não entendi nada eu porque eu tô vivendo isso aqui o dia inteiro daí às vezes eu resumo."
+      },
+      {
+        "startTime": 2543,
+        "endTime": 2543,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Não tranquilo tá bem tá bem legal."
+      },
+      {
+        "startTime": 2543,
+        "endTime": 2545,
+        "speaker": "Diego Diehl",
+        "text": "fica tão claro então."
+      },
+      {
+        "startTime": 2545,
+        "endTime": 2550,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "a gente interrom bastante não entendeu?"
+      },
+      {
+        "startTime": 2550,
+        "endTime": 2569,
+        "speaker": "Diego Diehl",
+        "text": "A gente pode gerar uma proposta automática pode gerar venda automática pode gerar relatório automático lá a gente manda um relatório de visitas por exemplo para Incorporadora óculos feedbacks, cada visita que lá a gente tem um time de plataforma que tem 10 incorporadoras é o modelo do negócio diferente. Então a gente desenvolveu algumas coisas para isso."
+      },
+      {
+        "startTime": 2569,
+        "endTime": 2588,
+        "speaker": "Diego Diehl",
+        "text": "Ah isso aqui em documento por produto. Dá para vocês mandarem um relatório automático para o gerente de produto sobre o que que tá rolando sobre o produto para ele estudar, entendeu do produto pegar feedback. Aqui os produtos já integrado com a hora então, por exemplo que o Algarve. A gente já sincroniza com a órgão e sabe essa tela aqui."
+      },
+      {
+        "startTime": 2588,
+        "endTime": 2619,
+        "speaker": "Diego Diehl",
+        "text": "Ó, deixa eu abrir aquela tela. essa tela aqui ó, por exemplo do as Toda essas informações aqui, ó. selecionar assim não sabe. Como selecionasse todas elas aqui jogassem linguagem do código? Para ferramenta aqui ela joga aqui embaixo, então, ele já tá em Jason aqui, qual que é o preço a partir de quantos banheiros qualquer tipologia."
+      },
+      {
+        "startTime": 2619,
+        "endTime": 2643,
+        "speaker": "Diego Diehl",
+        "text": "Qual que é a área se tá pronto data de entrega? Qual que é o endereço? Código postal imagens ou com links imagem da fachada imagem do apartamento então tem aqui as informações que estão na hora não. Essas são as básicas. a partir desse ponto mensagem."
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2643,
+        "speaker": "Felipe Goettems",
+        "text": "eu só que isso colaborar aqui e e"
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2646,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "O Felipe pediu."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2646,
+        "speaker": "Felipe Goettems",
+        "text": "esse esse é o iniciado, né?"
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2648,
+        "speaker": "Diego Diehl",
+        "text": "Tinha até esquecido que você tava aí, cara."
+      },
+      {
+        "startTime": 2648,
+        "endTime": 2674,
+        "speaker": "Felipe Goettems",
+        "text": "Eu voltei agora a pouco tá? Eu consegui pegar uma uma conexão mais estável isso aqui poderia. Esse é o bem básico, tá pessoal isso aqui evoluiria para entendimento do memorial descritivo, para que pudesse ter um nível de profundidade na pergunta nas perguntas. Caso vocês quisessem isso poderia ser automatizado também, tá? Claro que muitas vezes a gente quer manter aquele relacionamento com o com o parceiro, mas é só tô dizendo que é possível, né? Isso seria possível ser."
+      },
+      {
+        "startTime": 2687,
+        "endTime": 2687,
+        "speaker": "Felipe Goettems",
+        "text": "pode ser que"
+      },
+      {
+        "startTime": 2691,
+        "endTime": 2693,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "legal Diego você tá sem o"
+      },
+      {
+        "startTime": 2702,
+        "endTime": 2723,
+        "speaker": "Diego Diehl",
+        "text": "Eu joguei só para vocês baterem o olho aqui do que a gente está falando aqui, ó, o que mudou já tinha 34 10 vezes mais rápido. O gpt-4 possui o limite de 32 mil tokens enquanto o gpt3 tinha 4 mil tokens. Então a gente está acompanhando essa evolução gigantesca."
+      },
+      {
+        "startTime": 2723,
+        "endTime": 2742,
+        "speaker": "Diego Diehl",
+        "text": "De velocidade da Iara é isso que o Felipe tá trazendo hoje é complicado a gente ler todos os memoriais descritivos. Mas a gente tem praticamente certeza que crescendo aiada que seis meses um ano no máximo por todos os memoriais descritivos e até o que o cliente perguntar a gente já verifica no memorial."
+      },
+      {
+        "startTime": 2742,
+        "endTime": 2759,
+        "speaker": "Diego Diehl",
+        "text": "Dá em que página do memorial que tá respondendo? Tá bom, esse aqui já é a tecnologia para jogar isso aqui para dentro do sistema e o chatbot usar isso para responder é o que já tá feito basta e a continuar evoluindo. produto eu já vou conectado aí com"
+      },
+      {
+        "startTime": 2759,
+        "endTime": 2760,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "fechou"
+      },
+      {
+        "startTime": 2760,
+        "endTime": 2781,
+        "speaker": "Diego Diehl",
+        "text": "o chatbot, eu queria só bater o olho aqui nessa parte que eu lembro que sempre que eu mexi em Sistemas eu gostava de ir para Parque de configurações porque lá que eu entendi a robustez e o quanto eu podia mexer naquilo e aqui você você depois podem a gente pode dar uma olhada com calma."
+      },
+      {
+        "startTime": 2781,
+        "endTime": 2806,
+        "speaker": "Diego Diehl",
+        "text": "Eu gosto de olhar principalmente essa parte aqui ó uma coisa que me perguntou, às vezes é sobre equipe tabela do usuário e perfil de usuário que é importante a gente pode criar vários perfis e cada perfil. E cada perfil a gente disponibiliza é exato para ele ver o que se pode cadastrar."
+      },
+      {
+        "startTime": 2806,
+        "endTime": 2826,
+        "speaker": "Diego Diehl",
+        "text": "Pode excluir pode acessar a gente vai ajustando isso é importante e uma parte de automações aqui que isso aqui na mão de quem mexe é muito importante aqui a gente já entrega com 40 automações que é para dar visibilidade para facilitar coisas, então você pode aqui facilmente criar uma automação escolher o gatilho que você quer usar um filtro."
+      },
+      {
+        "startTime": 2826,
+        "endTime": 2850,
+        "speaker": "Diego Diehl",
+        "text": "E adicionar uma ação qualquer aqui que você quer que faça. E aí tem um mecanismo lá, lembra que ela voltar rapidinho aqui, ó, por exemplo, a gente tem um mecanismo aqui. que Nos corretores quando eu entro no corretor aqui. Tem um campo do corretor que está aqui embaixo o agente."
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2882,
+        "speaker": "Diego Diehl",
+        "text": "E eu posso por aqui ó, se eu colocar. Se eu colocar aqui uma Custom nessas E escrever qualquer coisa aqui, deixa eu fazer um teste que eu já mostrei para vocês. Vou buscar eu aqui. Ó tem eu aqui a minha fotinha antiga lá que tava na hora. Se eu buscar aqui o agente e mandar um Custom Messenger."
+      },
+      {
+        "startTime": 2882,
+        "endTime": 2917,
+        "speaker": "Diego Diehl",
+        "text": "Eu posso por aqui também para a gente engajar ou não se ele é um time ou não? Como assim? E aí se eu na hora que Eu preencho. preenchonete. Deixa eu compartilhar outra coisa aqui porque ela chegue só para vocês baterem. No meu WhatsApp aqui ó, já chegou uma mensagem da Enzo."
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2943,
+        "speaker": "Diego Diehl",
+        "text": "Falando que teste de mensagem então pense pense nisso. Com você criando qualquer tipo de automação, né? Você vai lá e compartilhar outra coisa, você vai lá e falar se o corretor se qualquer coisa acontecer preencha o campo com os promessas. como. E a gente consegue daí tá disparando alguma mensagem tá mandando Ficou claro também."
+      },
+      {
+        "startTime": 2943,
+        "endTime": 2945,
+        "speaker": "Diego Diehl",
+        "text": "O Ester mostrei rapidinho ali um teste."
+      },
+      {
+        "startTime": 2945,
+        "endTime": 2946,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2946,
+        "endTime": 2947,
+        "speaker": "Hugo Enes",
+        "text": "então"
+      },
+      {
+        "startTime": 2947,
+        "endTime": 2983,
+        "speaker": "Diego Diehl",
+        "text": "Tá beleza então, gente essa parte aqui. Esse é um ângulo aqui do sistema. A parte principal eu quero mostrar uma segunda parte, agora eu vou abrir a minha conta aqui, essa aqui é a minha conta. aqui ó Já vou usar estão vendo a minha conta já? Aqui ó, já registrou a nossa conversa sério, a conversa e a cliente está revela alguns pontos importantes atrasos tanto dinheiro, quanto está a informação dele atrasos 5 minutos."
+      },
+      {
+        "startTime": 2983,
+        "endTime": 3008,
+        "speaker": "Diego Diehl",
+        "text": "rela. Colaboração Diego estava acompanhado pelo seu da hora uma chamada de quando abordagem flexibilidade Diego, demonstrou, flexibilidade comunicação eficiente a troca de mensagens super Clara e direta então aqui eu já tô testando um outro modelo de resumo, eu quero que ele traga alguns pontos principais para depois analisar toda essa massa de informação."
+      },
+      {
+        "startTime": 3008,
+        "endTime": 3034,
+        "speaker": "Diego Diehl",
+        "text": "Então aqui já tá registrando meu WhatsApp. Eu queria o que eu ia mostrar aqui é só para vocês verem no caso de vocês. Já cadastrou aqui teu número. E ele já começa ele começa a registrar e trazer alguns pontos eu queria ver se ele criou alguma tarefa, ele não criou."
+      },
+      {
+        "startTime": 3034,
+        "endTime": 3059,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado um sócio local meu que eu fechei negócio de Goiânia, o Juliano falou comigo agora. de Goiânia. O Juliano falou comigo agora. Que ele falou consegue me ajudar a montar a proposta para óculos e ouro America que são duas grandes ali de Goiânia. Eu falei assim te ajudo tem reunião tá 15 e 15."
+      },
+      {
+        "startTime": 3059,
+        "endTime": 3077,
+        "speaker": "Diego Diehl",
+        "text": "Atrasado para ele ali mas tudo bem e já criou uma tarefa aqui, ó, criou tinha criado aqui de quinta-feira para me lembrar de criar de enviar a apresentação para ele do terreno para outra Incorporadora. Então se quis mostrar essa parte aqui de registro que realmente está funcionando com a Ester registra resume."
+      },
+      {
+        "startTime": 3077,
+        "endTime": 3086,
+        "speaker": "Diego Diehl",
+        "text": "E cria algumas tarefas no nosso caso ali sério, a gente não falou nada que deixou em aberto, né? Não foi a Ester foi uma semana que vem a gente conversa, provavelmente já teria criado. Uma conversa exatamente senão não"
+      },
+      {
+        "startTime": 3086,
+        "endTime": 3088,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "A gente resolveu na hora."
+      },
+      {
+        "startTime": 3089,
+        "endTime": 3111,
+        "speaker": "Diego Diehl",
+        "text": "é para ficar criando tarefa que não tem nada, né? E eu queria passar para uma última parte da apresentação que Em algumas reuniões estão me perguntando e para vocês que são de certa forma mais técnicos. Eu quero já mostrar essa parte que é uma parte da conexão da inteligência artificial."
+      },
+      {
+        "startTime": 3111,
+        "endTime": 3132,
+        "speaker": "Diego Diehl",
+        "text": "A interface para vocês eu mostrei esse primeiro essa primeira parte aqui que é o modo de disparo então para ficar claro para vocês. A gente tem o modo de disparo que eu mostrei aqui a mensagem padrão eu posso filtrar com algum dado lá na base. E aí trazer aqui por disparar no número de cada gerente."
+      },
+      {
+        "startTime": 3132,
+        "endTime": 3160,
+        "speaker": "Diego Diehl",
+        "text": "Beleza tem essa outra parte aqui. Que é a parte do prompt então aqui ó, tem um prompt aqui que a gente sentou como a gente dá erro. Sua responsabilidade corretor de imóveis primeiro de tudo, ele traz uma parte mais já técnica em seguida, então tem algumas coisas aqui ó, que o bote de cada pessoa ler isso daqui."
+      },
+      {
+        "startTime": 3160,
+        "endTime": 3187,
+        "speaker": "Diego Diehl",
+        "text": "E aí você pode ajustar o bote e realizar refinamentos aqui por esse bote aqui, por exemplo, ele tá no modo de conectado ao WhatsApp do coordenador de plataforma, então a ideia não é que ele fique respondendo. Eu acho que eu tô logado no mundo e coordenador de plataforma, então a ideia que ele não fique respondendo muita coisa, eu tava testando aqui se ele ia responder, olha a ideia ele não responder e daí."
+      },
+      {
+        "startTime": 3187,
+        "endTime": 3233,
+        "speaker": "Diego Diehl",
+        "text": "Sobre esse não respondeu, eu queria explicar uma coisa técnica não técnica, mas um modelo de negócio para vocês que é o seguinte. A gente tá com três módulos. principais de três um chamado dois módulos para simplificar tem um módulo que é o padrão chatbot com o Que é basicamente assim, ele tá conectado aos produtos, ele vai estar conectado aos produtos da GT ele vai estar conectado a tabela do preços, ele vai estar conectado ao que você ao que a gente colocar ali na informação e ele pode por exemplo seu número central da GT que as pessoas podem perguntar qualquer coisa para ele, ele vai responder qualquer coisa conectado."
+      },
+      {
+        "startTime": 3233,
+        "endTime": 3253,
+        "speaker": "Diego Diehl",
+        "text": "Então ele pode mandar um áudio falando assim. Ô GT. Eu tô com um cliente para o asa aqui, eu gostaria que você me ajudasse com uma mensagem de abordagem para ele e levantasse algumas argumentos porque ele falou ali que aquela que é Padre Agostinho que a Padre Agostinho tem muito barulho e ele tá preocupado."
+      },
+      {
+        "startTime": 3253,
+        "endTime": 3275,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá, o que me ajuda a contornar essa objeção pt4, pode ajudar ele a ter uma resposta vinculado até a base do conhecimento que vocês trouxerem como por exemplo lá no OAS, a gente tem. Esquadrias com o vidro duplo reforçado para isolamento acústico e você pode ir lá visitar o nosso decorado e testar isso para que a gente fecha a janela e você vai ver que o barulho não atrapalha."
+      },
+      {
+        "startTime": 3275,
+        "endTime": 3300,
+        "speaker": "Diego Diehl",
+        "text": "Então esse é o módulo 1 Que a gente chama de a gente com o engajamento ligado. Beleza então esse aqui vocês podem brincar deixar aberto, qual que tá sendo mais efetivo para as pessoas para alteração no dia a dia um segundo um segundo formato que a gente desenvolveu que a gente chama de robô do coordenador de plataforma."
+      },
+      {
+        "startTime": 3300,
+        "endTime": 3321,
+        "speaker": "Diego Diehl",
+        "text": "Que a gente atua com o que a gente está chamando aqui de perguntas controladas. Qual que é o mecanismo que ele funciona a gente seta uma faca de perguntas e respostas e a gente programa pronto? Para o bote só responder quando ele tiver 100% de certeza que aquela é uma pergunta que ele foi programada para responder."
+      },
+      {
+        "startTime": 3321,
+        "endTime": 3333,
+        "speaker": "Diego Diehl",
+        "text": "porque quando a gente conectar no WhatsApp do coordenador de plataforma de vocês, por exemplo da Esqueci o nome do pessoal aí sei lá diz o nome do coordenador."
+      },
+      {
+        "startTime": 3333,
+        "endTime": 3334,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "a Leila Leila Cibele"
+      },
+      {
+        "startTime": 3334,
+        "endTime": 3358,
+        "speaker": "Diego Diehl",
+        "text": "Isso o WhatsApp da Leila tem corretor que cara já tem um relacionamento com a Leila. A gente não quer o impacto. Talvez de já ter um bote respondendo qualquer coisa para ela ela cuida do WhatsApp dela, só que a gente programa algumas perguntas principais como por exemplo. Se algum corretor pedir assim você consegue me mandar a tabela de preço atualizada do Oz."
+      },
+      {
+        "startTime": 3358,
+        "endTime": 3364,
+        "speaker": "Diego Diehl",
+        "text": "Cara é uma coisa determinística é uma coisa factível principal. Aí a gente é exato da gente faz o"
+      },
+      {
+        "startTime": 3364,
+        "endTime": 3367,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Operacional, né?"
+      },
+      {
+        "startTime": 3367,
+        "endTime": 3390,
+        "speaker": "Diego Diehl",
+        "text": "bote e enviar a tabela já automático, mas se o bote Pergunta assim aí Leila você vai conseguir dar uma passada aqui na imobiliária essa semana. Que vai olhar lá e vai desenvolver o relacionamento com ele ou até Ah, eu quero ajudar uma visita. Não fazer nada ou pode ser que a gente Programe algo como pô, que legal e quem é o teu cliente."
+      },
+      {
+        "startTime": 3390,
+        "endTime": 3423,
+        "speaker": "Diego Diehl",
+        "text": "Tem algum empreendimento específico, você quer me ligar a gente pode responder algo assim por exemplo. Então eu queria dar essa clareza sobre um bote que trabalha com uma fonte de conhecimento engajam responde tudo pode ser um número central. E tem o segundo que é para os coordenadores e plataforma e é para responder o que a gente treinar o bote para dar uma vazão ao volume operacional deles e não deixar o corretor esperando para reduzir o tempo de resposta de perguntas básicas e reduzir o esforço do coordenador de plataforma ficar buscando arquivo ficar buscando o material."
+      },
+      {
+        "startTime": 3423,
+        "endTime": 3424,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Certo esse segundo bote que a gente"
+      },
+      {
+        "startTime": 3424,
+        "endTime": 3425,
+        "speaker": "Diego Diehl",
+        "text": "Faz sentido."
+      },
+      {
+        "startTime": 3425,
+        "endTime": 3453,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "deixa mais faz sentido esse segundo bote que a gente delimita mais aí até. Vamos dizer assim estrutura, o que que ele pode responder? Como você acabou de explicar. Ele seria um bom e ficou para os coordenadores, então é um bote que a gente programa para os coordenadores e os coordenadores poderiam usar esse mesmo bote ou não que a gente tá falando hoje de quatro."
+      },
+      {
+        "startTime": 3453,
+        "endTime": 3455,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "o Carlão e a Cibele"
+      },
+      {
+        "startTime": 3456,
+        "endTime": 3478,
+        "speaker": "Diego Diehl",
+        "text": "A gente deixa segmentado pronto por pronto de pessoa a pessoa. Então, você pode dar um copiar e deixar uma versão básica programada para todo mundo, por exemplo que tem o Eduardo. sistema."
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3478,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Ah tranquilo, então seria um tipo"
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3479,
+        "speaker": "Diego Diehl",
+        "text": "Por exemplo, a Leila a Leila quer"
+      },
+      {
+        "startTime": 3480,
+        "endTime": 3487,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "quatro Bots dá um só que vai ter alguma coisa específica para outro faz mal."
+      },
+      {
+        "startTime": 3489,
+        "endTime": 3511,
+        "speaker": "Diego Diehl",
+        "text": "não quer dar bom dia. Ela quer falar. Olá dela programa o bote dela para ficar falando lá e não bom dia. E o Fulano gosta de falar? Diga aí então até para dar uma personalizada, mas é assim, a Leila passou básico, cara, já tem um bote programado desenvolvido. para atuar nas principais frentes e o que que a gente tá começando a se"
+      },
+      {
+        "startTime": 3511,
+        "endTime": 3512,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "assim"
+      },
+      {
+        "startTime": 3513,
+        "endTime": 3538,
+        "speaker": "Diego Diehl",
+        "text": "posicionar tá Ester. Então eu não sei se é o caso da GT mas É o ouro agora na nossa visão aqui da Obra É treinar aliar, né, cara e ela tá com poderes cada vez maiores e o desafio você treinar ela e programar ela e aí a gente presta esse suporte específico, daí pós implementação daqui três meses falam cara."
+      },
+      {
+        "startTime": 3538,
+        "endTime": 3554,
+        "speaker": "Diego Diehl",
+        "text": "A gente quer dar um up aqui na nossa e a gente presta essa conexão para vocês. Pode prestar de consultoria de implementação de programação da especificamente para vocês para vocês irem evoluindo conforme aí a vai evoluindo também conforme vocês estão evoluindo."
+      },
+      {
+        "startTime": 3554,
+        "endTime": 3558,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "verdade, tem que ser uma evolução tem que ser algo contínuo. né"
+      },
+      {
+        "startTime": 3558,
+        "endTime": 3558,
+        "speaker": "Diego Diehl",
+        "text": "exato"
+      },
+      {
+        "startTime": 3558,
+        "endTime": 3587,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Porque a gente tá evoluindo cada dia tem coisa nova. Então realmente sempre vai ter que estar ajustando e melhorando e deixa eu fazer uma outra pergunta com relação ao módulo 1 que você falou que é do chat P4 que aí ele é um botinho que ele pode estar respondendo aí os nossos corretores, né? Os nossos corretores lidos que você falou que aí como você deu um excelente exemplo ali que ele teria dificuldade de estar respondendo uma argumentação de um cliente, né para convencer achei muito legal bem bacana."
+      },
+      {
+        "startTime": 3587,
+        "endTime": 3599,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "aí esse caso ela como que você a gente programaria sairá, ela seria uma machine learning também que ela vai aprendendo com As perguntas e respostas ainda não."
+      },
+      {
+        "startTime": 3599,
+        "endTime": 3605,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o sonho da automatizar tudo. A gente está automatizando os picotes tá picote que eu digo é para não quando a gente quer automa."
+      },
+      {
+        "startTime": 3605,
+        "endTime": 3607,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "tá"
+      },
+      {
+        "startTime": 3607,
+        "endTime": 3644,
+        "speaker": "Diego Diehl",
+        "text": "automatizar tudo às vezes embola e trava né? Então a gente tá deixando os bloquinhos separados, eu vou te dar um exemplo prático aqui, ó. essa aqui Você tá vendo na minha tela? Que a gente pegou um relatório consolidado oportunidades e recomendações Paraíso. Então, por exemplo. Vou te falar da onde isso aqui veio a gente tira."
+      },
+      {
+        "startTime": 3644,
+        "endTime": 3664,
+        "speaker": "Diego Diehl",
+        "text": "Pode tirar a periodicamente um relatório de todas as conversas e pedir para ir a me dar uma análise do que tá acontecendo no nosso caso lá de Porto Alegre. Ele falou assim ó oportunidade de ampliar opções para diferentes orçamentos alguns corretores relatam dificuldades encontrarem Imóveis dentro do orçamento dos clientes, ou seja, aparece muito cliente que não tem orçamento."
+      },
+      {
+        "startTime": 3664,
+        "endTime": 3681,
+        "speaker": "Diego Diehl",
+        "text": "O que que a gente pensou lá na isopo? Talvez a gente possa ter um cliente mais econômico. Porque tem corretor que tem cliente que não tem orçamento ou ponto dois aproveitar o potencial de ação. Lá todo mundo tá falando, olha tem um cliente que quer dar um imóvel dele como parte do pagamento vocês aceitam."
+      },
+      {
+        "startTime": 3681,
+        "endTime": 3693,
+        "speaker": "Diego Diehl",
+        "text": "E a gente fala caramba tá ficando no volume alto isso vamos estruturar um processo até uma dúvida. Vocês estão com o modelo de ação? Você não vai virar o caos né?"
+      },
+      {
+        "startTime": 3693,
+        "endTime": 3707,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, mas assim não é a gente sempre estuda. A gente não vamos dizer assim não publica isso que a gente aceita entende? Mas a gente sempre estuda. Exato, mas a gente estuda e é bem que acontecesse."
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3759,
+        "speaker": "Diego Diehl",
+        "text": "Então, enfim, eu dei esse exemplo que posso pegar um relatório. Das conversas um outro exemplo que eu queria dar para vocês. Deixa eu ver se eu acho que rapidinho. Eu pedi. opa É só abrir aqui. pesquisar Já compartilho, eu pedi para a gente pegar um relatório. WhatsApp mesmo, tá gente? Ó nesse caso aqui, eu pedi um relatório a faca e detalhado de todos os agentes produzidos."
+      },
+      {
+        "startTime": 3759,
+        "endTime": 3785,
+        "speaker": "Diego Diehl",
+        "text": "As perguntas mais frequentes. E como foi a pergunta então por exemplo a categoria disponibilidade de informação e unidades lá em Porto Alegre é o que mais perguntam perguntaram 26 vezes em uma semana aí exemplos de perguntas aqui em Higienópolis é um bairro. Logo mais em Higienópolis é um bairro."
+      },
+      {
+        "startTime": 3785,
+        "endTime": 3813,
+        "speaker": "Diego Diehl",
+        "text": "Ele respondeu tenho Algarve. Oi Patrícia não me mandou então a gente consegue obter esse relatório aqui de tudo que foi perguntado por categoria. E aí vocês podem por exemplo jogar gpt4 pedir para organizar uma faca e terá irá com isso, entendeu? Espera um pouco do mecanismo é tipo tem os dados pega uma ia para processar pega esse processamento joga no Montreal organizo pego e jogo na minha outra Yak tá conectado para o CRM."
+      },
+      {
+        "startTime": 3813,
+        "endTime": 3813,
+        "speaker": "Diego Diehl",
+        "text": "E assim o mundo tá ficando muito"
+      },
+      {
+        "startTime": 3813,
+        "endTime": 3815,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, daí a gente sempre vai ter que estar atualizando."
+      },
+      {
+        "startTime": 3815,
+        "endTime": 3816,
+        "speaker": "Diego Diehl",
+        "text": "louco."
+      },
+      {
+        "startTime": 3816,
+        "endTime": 3862,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tem sim é no caso dessa primeira então ali Pelo que eu entendi, né? Desse módulo 1 com relação aí a é o PT com a desculpa o módulo 1 com a né que é o Boticário. Eu acho que seria então algo assim que a gente também estria da onde que ela buscaria essas informações para ela tá podendo responder, né? O corretor e a gente vai Fazendo a manutenção disso certo, porque as coisas vão mudando enfim, não só através daqueles inputs que você comentou, né? Que aí ela vai buscar mas também de alguma de algo que a gente passaria para você, sei lá, como se a gente tivesse um pouco grudados que falasse de todos os nossos Empreendimentos e essa é a buscarem a informação de lá para poder responder o corretor."
+      },
+      {
+        "startTime": 3862,
+        "endTime": 3867,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "corretor. algo assim"
+      },
+      {
+        "startTime": 3867,
+        "endTime": 3868,
+        "speaker": "Diego Diehl",
+        "text": "Mudança a gente ligaram um"
+      },
+      {
+        "startTime": 3868,
+        "endTime": 3872,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "beleza"
+      },
+      {
+        "startTime": 3872,
+        "endTime": 3874,
+        "speaker": "Diego Diehl",
+        "text": "aqui, tá muito ruim. Tá muito ruim."
+      },
+      {
+        "startTime": 3874,
+        "endTime": 3875,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "tranquilo"
+      },
+      {
+        "startTime": 3875,
+        "endTime": 3876,
+        "speaker": "Diego Diehl",
+        "text": "É isso a gente paga né?"
+      },
+      {
+        "startTime": 3876,
+        "endTime": 3881,
+        "speaker": "Felipe Goettems",
+        "text": "Tá bloqueando bem, viu. O Diego tá bloqueando bem, tá?"
+      },
+      {
+        "startTime": 3881,
+        "endTime": 3915,
+        "speaker": "Diego Diehl",
+        "text": "É um negócio é comprar um bom sistema é só usar iOS aqui ó, tá bloqueando bem mas é 1.200 o fone de ouvido. O nosso nem tá tão caro assim ainda viu? Tabela zero o nosso produto. brincadeira. Respondendo. Você tem uma linha de produtos de dados conectados com a órgão que vai estar conectado com CV mudou uma unidade mudou preço se perguntarem do preço vai formar o certo e tem uma outra linha de perguntas controladas que é uma FAQ que algum mecanismo que vocês atualizam."
+      },
+      {
+        "startTime": 3915,
+        "endTime": 3916,
+        "speaker": "Diego Diehl",
+        "text": "Que a ideia é a gente ter um"
+      },
+      {
+        "startTime": 3916,
+        "endTime": 3917,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "sim"
+      },
+      {
+        "startTime": 3917,
+        "endTime": 3933,
+        "speaker": "Diego Diehl",
+        "text": "documento online, por exemplo a gente tá hoje, tá fazendo um pouco mais na mão, porque não atualiza toda hora todo momento, né? Mas a ideia é que a gente usa até Unboxing do Google que vai lá aquela consulta de fonte de informações. E aí vocês têm acesso a pegar e mudar e alterar e altera na hora."
+      },
+      {
+        "startTime": 3933,
+        "endTime": 3935,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, porque a linguagem natural,"
+      },
+      {
+        "startTime": 3935,
+        "endTime": 3936,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "beleza"
+      },
+      {
+        "startTime": 3936,
+        "endTime": 3943,
+        "speaker": "Diego Diehl",
+        "text": "entendeu? Não é a programação é tipo, pergunta e resposta e a ler tudo aquilo lá. Tá bom."
+      },
+      {
+        "startTime": 3943,
+        "endTime": 3944,
+        "speaker": "Felipe Goettems",
+        "text": "Mas eu acho só um detalhezinho. Acho que é importante."
+      },
+      {
+        "startTime": 3944,
+        "endTime": 3945,
+        "speaker": "Diego Diehl",
+        "text": "E aí?"
+      },
+      {
+        "startTime": 3945,
+        "endTime": 3967,
+        "speaker": "Felipe Goettems",
+        "text": "Diego. Acho que a Ester acabou sobre a lógica ali de não quero tomar muito tempo aqui de criar argumentos tá? Isso vai evoluindo tá Ester não a gente não tem uma segurança perfeita, se você entrar hoje no chat GTT e você começar a fazer perguntas sobre você. Você vai ver que você não vai conseguir as melhores respostas."
+      },
+      {
+        "startTime": 3967,
+        "endTime": 4002,
+        "speaker": "Felipe Goettems",
+        "text": "Então existe essas coisas que Vão melhorando e realmente essa em seis meses, você tem saltos muito grandes, mas coisas um pouco mais básicas, por exemplo se a gente tem um produto que é perto de uma praça de um parque e nesse parque tem não sei uma mente muito aberto onde as pessoas Correm com seus cachorros e daí eu tenho um cliente que gosta muito de pet, gosta muito de cachorro essa conexão de falar do Parque que no parque tem cachorro e que o empreendimento."
+      },
+      {
+        "startTime": 4002,
+        "endTime": 4032,
+        "speaker": "Felipe Goettems",
+        "text": "Tá no endereço próximo do Parque eu te diria que é muito estável, tá começar a montar essas essas conexões a gente até tava brincando com o cliente ontem, né? Que realmente ele tinha ele tinha cachorro e queria saber se era um bom empreendimento, ele podia morar com o pet dele o chat GPT acabou fazendo um look para o parque próximo poderia se você deixa ele solto, ele pode dizer não, olha a rua onde ele tá ela."
+      },
+      {
+        "startTime": 4032,
+        "endTime": 4064,
+        "speaker": "Felipe Goettems",
+        "text": "Calçadas amplas então é bacana bastante deixou livre assim, mas ele pode ir para o parque ele pode ou você vai coordenar para você ter uma resposta um pouquinho mais estruturada, né? Então olha se perguntarem sobre Pets. Fale isso aqui fale dessa forma. Fale sobre isso então ou você tá dando muita liberdade, você corre o risco de vir o que vier o que a máquina entender ou você consegue ter esses níveis de controle mesmo em diálogos mais abertos."
+      },
+      {
+        "startTime": 4065,
+        "endTime": 4094,
+        "speaker": "Diego Diehl",
+        "text": "A gente deu. A gente estava e é justamente esse modelo de treinar e tal que a gente já tem um modelo mais estável que o feijão com arroz funciona e é o feijãozinho com arroz, mas essa evolução. Pode acontecer eu vou usar um exemplo dessa semana passada, a gente não queria que o bote fizesse uma coisa e o bote tava fazendo essa coisa daí um cara teve uma ideia e fala assim, cara, fala que alguém vai morrer se o bote responder essa coisa."
+      },
+      {
+        "startTime": 4094,
+        "endTime": 4101,
+        "speaker": "Diego Diehl",
+        "text": "E daí a gente escreveu lá no próprio de pessoas morreram, se você responder isso ele nunca mais respondeu é bem engraçado é muito louco."
+      },
+      {
+        "startTime": 4101,
+        "endTime": 4108,
+        "speaker": "Hugo Enes",
+        "text": "Ele tá levando Leite Isaque as Imóveis agora. Ele tá levando as leis de vacas Imóveis agora."
+      },
+      {
+        "startTime": 4108,
+        "endTime": 4114,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso gente, eu queria agora para fechar."
+      },
+      {
+        "startTime": 4114,
+        "endTime": 4119,
+        "speaker": "Felipe Goettems",
+        "text": "Mas é isso é uma criança, realmente é uma criança a gente pode a gente pode fazer essa analogia com a criança e ela vai melhorando"
+      },
+      {
+        "startTime": 4119,
+        "endTime": 4120,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "e"
+      },
+      {
+        "startTime": 4120,
+        "endTime": 4122,
+        "speaker": "Felipe Goettems",
+        "text": "ao longo do tempo."
+      },
+      {
+        "startTime": 4122,
+        "endTime": 4123,
+        "speaker": "Diego Diehl",
+        "text": "exato"
+      },
+      {
+        "startTime": 4123,
+        "endTime": 4145,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Felipe do coordenar, né de gente instruir né direcionar porque a gente quer aí só para só para fechar o meu entendimento Diego porque a gente também tá fazendo uns trabalhos aqui do de bote com iar aí voltado para o nosso site da GT build e é muito parecido que vocês estão apresentando aí para mim também."
+      },
+      {
+        "startTime": 4145,
+        "endTime": 4169,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Só que assim é outro foco para nossos vídeos clientes, é isso para a equipe da house. É diferente da plataforma uma coisa uma coisa outra coisa outra coisa, mas eu vou dizer assim que vamos a ferramenta, né? Enfim vai acabar sendo meio que a mesma coisa e a gente tá construindo para todos os nossos Empreendimentos como se fosse um banco de dados do empreendimento que é um book que ele orienta tudo."
+      },
+      {
+        "startTime": 4169,
+        "endTime": 4192,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sobre o empreendimento construindo isso junto com as nossas agências. Enfim. Nossa equipe do marketing porque comercial então esse coordenar eu entendo essa estrutura que a gente vai ter que criar. Eu acredito que isso vai demandar também um pouco da nossa equipe dela. Tá passando essas informações e dizendo. Olha o que eu quero, minha regra é essa."
+      },
+      {
+        "startTime": 4192,
+        "endTime": 4201,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu quero isso, né? E ela delimitar o que ela quer. Que seja que seja feito e a gente fazer esses testes para daí tá validando certo."
+      },
+      {
+        "startTime": 4201,
+        "endTime": 4207,
+        "speaker": "Diego Diehl",
+        "text": "Certo e olha que legal estar se vocês estão desenvolvendo algo relacionado a cliente. Vocês estão se passando por"
+      },
+      {
+        "startTime": 4207,
+        "endTime": 4209,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "exato"
+      },
+      {
+        "startTime": 4209,
+        "endTime": 4243,
+        "speaker": "Diego Diehl",
+        "text": "corretores, vamos falar assim é a inteligência de um corretor. E daí, o que que é plataforma é vocês como coordenadores plataforma, ele tem um corretor tentando atender um cliente o que que eu tô vendo como tendência, tá? Você aí eu acabei não avisando que eu ia. Tava começando um teste ali demonstrando já volto para ele."
+      },
+      {
+        "startTime": 4243,
+        "endTime": 4268,
+        "speaker": "Diego Diehl",
+        "text": "Vocês estão estruturando isso isso? Se vocês como GT Falam assim para o mercado pessoal, a gente te ajuda a atender o teu cliente. A gente ajuda com uma e a gente apoia você o corretor. Fala ai me manda a apresentação. Você falou pera aí para quem você vai mandar me conta, qualquer coisa do teu cliente que eu tenho uma yaki vai te ajudar."
+      },
+      {
+        "startTime": 4268,
+        "endTime": 4290,
+        "speaker": "Diego Diehl",
+        "text": "E aí essa tecnologia de atendimento interno da GT isso se for interesse para vocês, né? Mas se for para ajudar o corretor você pode pegar e falar o corretor, toma aqui uma sugestão de atendimento do teu cliente. Do que você me trouxe do que você me falou, você vai poder jogar essa inteligência de um lado para outro se você entrega para o corretor o corretor fala caramba GT é muito massa, velho."
+      },
+      {
+        "startTime": 4290,
+        "endTime": 4311,
+        "speaker": "Diego Diehl",
+        "text": "Eu mandei uma coisa para eles, eles me responderam como se fosse um mentor para mim um treinador. Ou eu gosto muito eu oferece a GT porque eu sei que eu não atendo tão bem, mas eu vou mandar lá, eles vão me ajudar então começando a enxergar isso acontecer se vocês estão rodando esse paralelo depois Vocês conseguem? Usar essa tecnologia de um lado para o outro porque a linguagem natural."
+      },
+      {
+        "startTime": 4311,
+        "endTime": 4315,
+        "speaker": "Diego Diehl",
+        "text": "né? Pronto. Beleza aí um exemplo bem prático."
+      },
+      {
+        "startTime": 4315,
+        "endTime": 4315,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim, sim legal."
+      },
+      {
+        "startTime": 4318,
+        "endTime": 4356,
+        "speaker": "Diego Diehl",
+        "text": "aqui. Eu pedi aqui por exemplo a tabela do Algarve. E tá conectado aqui a tabela do Algarve mandou a tabela por ponto o b e o Algarve é um produto que a gente tinha visto ali até usando como exemplo para para mostrar a programação do produto. Você pode pedir por exemplo tem apresentação do Sancler."
+      },
+      {
+        "startTime": 4356,
+        "endTime": 4376,
+        "speaker": "Diego Diehl",
+        "text": "Aí um detalhe tá aqui já me perguntaram de alinhar. Acho que é importante de alinhar. Quando bote só responde um fluxozinho rápido a gente consegue fazer ele responder em três quatro segundos. Quando eu tô pedindo um produto um arquivo, ele tem que rastrear tudo achar tudo fazer o download do arquivo tá no WhatsApp enviar no WhatsApp."
+      },
+      {
+        "startTime": 4376,
+        "endTime": 4402,
+        "speaker": "Diego Diehl",
+        "text": "Então ele demora ó que quando eu tava falando que ele demorou um pouquinho, mas já mandou aqui apresentação do Sancler. Você tá aqui com a apresentação do Sancler. E aí. A gente falou lá do vocês aceitam aceitação. É um exemplo de é um exemplo de pergunta controlada. Se aceita da ação que a gente pôs lá que lá em Porto Alegre estão perguntando muito."
+      },
+      {
+        "startTime": 4402,
+        "endTime": 4415,
+        "speaker": "Diego Diehl",
+        "text": "Então, a gente deu ó as incorporadoras é a mesma resposta que você deu a gente Analisa, não é? Nem aceita a gente tá Analisa da ação então aqui jogo rápido, tipo perguntas ou"
+      },
+      {
+        "startTime": 4415,
+        "endTime": 4416,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Exatamente isso perfeita a resposta"
+      },
+      {
+        "startTime": 4417,
+        "endTime": 4450,
+        "speaker": "Diego Diehl",
+        "text": "É exatamente tem também alguém que pergunta como a gente é uma a gente estrutura uma pergunta lá que é qual a sua relação com a tgd. Que é uma incorporadora porque a gente é uma gestão comercial terceirizada lá. E aí mas quem que é você? Daí a gente já deixou uma resposta pronta aqui ó em relação com a tgd é a parceria para auxiliar na gestão comercial, como posso ajudar então a gente tem tanta pergunta quanto o arquivo que a gente estrutura e manda para facilitar a vida."
+      },
+      {
+        "startTime": 4450,
+        "endTime": 4453,
+        "speaker": "Diego Diehl",
+        "text": "coordenador Fechou bem."
+      },
+      {
+        "startTime": 4453,
+        "endTime": 4471,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "bem bacana, É só isso que a gente precisava entender visualizar mesmo fazer essa demonstração aí para a gente entender as funcionalidades e como é que tá bem bacana mesmo, eu não sei digo se você já chegou a passar questão de orçamento para o Bruno se conversou melhor, não sei como é que"
+      },
+      {
+        "startTime": 4471,
+        "endTime": 4472,
+        "speaker": "Diego Diehl",
+        "text": "vezes comigo. Falei ô Bruno."
+      },
+      {
+        "startTime": 4472,
+        "endTime": 4473,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sério?"
+      },
+      {
+        "startTime": 4473,
+        "endTime": 4475,
+        "speaker": "Diego Diehl",
+        "text": "A gente nem viu nada e você já tá negociando comigo cara dele não mas"
+      },
+      {
+        "startTime": 4475,
+        "endTime": 4476,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Ah mas o Bruno é assim."
+      },
+      {
+        "startTime": 4476,
+        "endTime": 4482,
+        "speaker": "Diego Diehl",
+        "text": "pô Diegão vou eu já mandei para ele eu posso mandar para você."
+      },
+      {
+        "startTime": 4482,
+        "endTime": 4482,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "isso me manda de novo copiando ele"
+      },
+      {
+        "startTime": 4482,
+        "endTime": 4483,
+        "speaker": "Diego Diehl",
+        "text": "Eu falei."
+      },
+      {
+        "startTime": 4484,
+        "endTime": 4493,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "porque nós dois que normalmente batemos o martelo quando envolve alguma ferramenta que envolve era comercial é a ti e a área"
+      },
+      {
+        "startTime": 4493,
+        "endTime": 4493,
+        "speaker": "Diego Diehl",
+        "text": "Sim sim, eu tô já já jogando para"
+      },
+      {
+        "startTime": 4493,
+        "endTime": 4496,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "comercial."
+      },
+      {
+        "startTime": 4496,
+        "endTime": 4518,
+        "speaker": "Diego Diehl",
+        "text": "clareza sobre isso. É uma coisa para você avaliar até nas ferramentas que está contratando, tá? Qual o que você usa para processar o que que eu tô te respondendo eu uso? p? Que eu jamais cara, só que é a melhor e é que tá desenvolvendo. Tem umas que são gratuitas, né? A galera vende lá mais barato."
+      },
+      {
+        "startTime": 4518,
+        "endTime": 4530,
+        "speaker": "Diego Diehl",
+        "text": "Então esse é o primeiro eu não tô vendendo limite para você também, tá isso eu tô ancorando o preço características que eu não falei não verbalizei para você saber na hora de você entender. entender."
+      },
+      {
+        "startTime": 4530,
+        "endTime": 4531,
+        "speaker": "Hugo Enes",
+        "text": "Tira uma dúvida só."
+      },
+      {
+        "startTime": 4531,
+        "endTime": 4532,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 4533,
+        "endTime": 4557,
+        "speaker": "Hugo Enes",
+        "text": "Na relação de dos documentos ali do drive numa limitação ou eu consigo mãe esses arquivos no nosso drive e apenas linká-los ele com a plataforma de vocês ou a gente migra tudo 100% para plataforma de vocês. Aí tem essa a gente tem que se atentar fazer esse. Esse regime não vamos colocar exatamente esses arquivos aqui."
+      },
+      {
+        "startTime": 4563,
+        "endTime": 4595,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem todas as opções tem que ver o que vai ser mais viável para vocês também, tá? Na órgão tem gente que é por todos os projetos arquitetônicos todas as plantas todos os documentos do empreendimento começa a ficar não usual. Por ficar disponível na lista fica muito grande, então a gente pode os da hora, ela já vem integrados automaticamente que eu sugiro que atualiza toda hora estar lá que é a tabela de preços modificam apresentação."
+      },
+      {
+        "startTime": 4595,
+        "endTime": 4611,
+        "speaker": "Diego Diehl",
+        "text": "Tenho memória descritiva que é o principal e às vezes até o ri quando é o produto recém-lançado com corretor já bateu ele falar Opa tá com ri. E aí do drive é Hugo a gente pode como se fosse um FAQ e que a resposta é o link do arquivo."
+      },
+      {
+        "startTime": 4611,
+        "endTime": 4637,
+        "speaker": "Diego Diehl",
+        "text": "A gente pode vincular com Drive também e o cuidado para diminuir muito o trabalho que a gente tem é que arquivos que vão não sei se eu posso fazer isso. Ó arquivos que estão lá que você quer atualizar você pode utilizar essa parte de gerenciar versões. E aí não muda o link do arquivo? Só muda a versão e já fica continua configurado."
+      },
+      {
+        "startTime": 4637,
+        "endTime": 4639,
+        "speaker": "Diego Diehl",
+        "text": "Ficou claro"
+      },
+      {
+        "startTime": 4639,
+        "endTime": 4640,
+        "speaker": "Hugo Enes",
+        "text": "ficou assim, era só para"
+      },
+      {
+        "startTime": 4640,
+        "endTime": 4641,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 4641,
+        "endTime": 4672,
+        "speaker": "Felipe Goettems",
+        "text": "Só com isso só contribuindo bem bem rapidinho aqui, na verdade. Pode ser? Realmente tudo tá a sugestão que eu tenho. Os documentos que são muito voláteis disponibilidade de preço a gente tem que estar plugando direto do CD de vocês, tá? Inclusive a gente quer saber quando é que vocês terminam a implantação lá para a gente começar a puxar eles de maneira automática em 30 segundos a gente integra com o CV sobre ter todos os documentos ou não é mais."
+      },
+      {
+        "startTime": 4672,
+        "endTime": 4679,
+        "speaker": "Felipe Goettems",
+        "text": "Talvez seja uma decisão até mais estratégica de vocês em termos de quanto você quer que o cara seja Auto servido, né?"
+      },
+      {
+        "startTime": 4679,
+        "endTime": 4679,
+        "speaker": "Hugo Enes",
+        "text": "mesmo."
+      },
+      {
+        "startTime": 4679,
+        "endTime": 4680,
+        "speaker": "Felipe Goettems",
+        "text": "Se vocês querem provocar um"
+      },
+      {
+        "startTime": 4680,
+        "endTime": 4681,
+        "speaker": "Hugo Enes",
+        "text": "Não há dúvida foi"
+      },
+      {
+        "startTime": 4681,
+        "endTime": 4710,
+        "speaker": "Felipe Goettems",
+        "text": "diálogo. Ou não mas a minha sugestão é o seguinte que tudo que você decidam que seja numa primeira servida sim esteja com a gente até porque eu não sei se o Diego mencionou tudo que está na hora ou vai ficar também disponível. Caso vocês queiram isso está inclusive. Está incluindo no nosso plano um portal de plataforma próprio para vocês, então tudo que tá no banco de dados da hora."
+      },
+      {
+        "startTime": 4710,
+        "endTime": 4730,
+        "speaker": "Felipe Goettems",
+        "text": "Ele vai alimentar o portal que a gente vai dar para vocês. Ele vai alimentar o site da obra. Ele vai alimentar o aplicativo da obra. Ele vai alimentar o sistema de gestão das imobiliárias. Acho que vocês não acabaram não conversando a respeito disso, mas a gente alimenta lá o sistema de gestão da imobiliária então a lógica aqui é a seguinte a gente."
+      },
+      {
+        "startTime": 4730,
+        "endTime": 4752,
+        "speaker": "Felipe Goettems",
+        "text": "Todas as fronteiras possíveis do corretor chegar até em se relacionar com os materiais tá que a seja na interface de vocês quer que seja dentro do sistema de gestão lá dele quer seja no órgão então tudo que tiver com a gente vai para esses lugares todos inclusive para o diálogo de WhatsApp que a gente estava vendo agora aqui."
+      },
+      {
+        "startTime": 4753,
+        "endTime": 4777,
+        "speaker": "Hugo Enes",
+        "text": "Não entendi senhora só para ver se tava se a gente faria no filtro melhor, né de subir, mas ele pisando o enviar um link ou fazer o download enviar como ele mostrou ali na demonstração, né? Eu acredito que filtrar e subir para hora diretamente seria melhor claro a gente tem diversos."
+      },
+      {
+        "startTime": 4777,
+        "endTime": 4787,
+        "speaker": "Hugo Enes",
+        "text": "Materiais para disponibilizar. Mas pontualmente vamos subir inicialmente, né? Aqueles materiais mais utilizados mais solicitados, né?"
+      },
+      {
+        "startTime": 4787,
+        "endTime": 4788,
+        "speaker": "Diego Diehl",
+        "text": "A gente vai."
+      },
+      {
+        "startTime": 4788,
+        "endTime": 4796,
+        "speaker": "Hugo Enes",
+        "text": "adicionando mais."
+      },
+      {
+        "startTime": 4796,
+        "endTime": 4798,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Mas fazer uma última pergunta aí que agora eu também tenho que ir."
+      },
+      {
+        "startTime": 4798,
+        "endTime": 4799,
+        "speaker": "Diego Diehl",
+        "text": "Pode fazer."
+      },
+      {
+        "startTime": 4800,
+        "endTime": 4843,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "até o Felipe comentou ali sobre fez uma pergunta dentro da resposta dele com relação à implantação do consultor de vendas. Nós estamos no momento na implantação do módulo vender a questão de gestão de líderes, a gente já fez e pela minha previsão pela experiência que eu tenho acredito que final de Novembro Dezembro tá que a gente vai implantar porque a gente tá a gente teve alguns lançamentos na nossa equipe aqui é enxuta da parte comercial nossos que users então se vocês terem uma noção, a gente tá um mês parado na implantação por conta da de um lançamento do projeto Lang e Turim que a gente lançou aqui."
+      },
+      {
+        "startTime": 4843,
+        "endTime": 4859,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "E aí a equipe toda tava voltada para as vendas do lançamento e a nossa que user, ela tá dentro da área administrativa de vendas e eles tiveram que focar nesse lançamento e foi uma loucura. Então a gente tá. Mas parar e agora ela entrou em férias, então a gente vai ficar um mês e duas semanas."
+      },
+      {
+        "startTime": 4859,
+        "endTime": 4882,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Então por conta disso, né? É porque a gente precisa de quatro mãos ali, né? Tanto da equipe vamos é seis pessoal desse aí a equipe dos que usam, mas a equipe da de projeto do CV então a gente parou esse tempo e olhando assim o cronograma deles é o nosso tempo que a gente tá tendo para estar relacionando e fazendo as atividades de projeto."
+      },
+      {
+        "startTime": 4882,
+        "endTime": 4897,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu acredito que final de novembro. dezembro. A gente consegue finalizar a implantação tá? Então só para você saber aí como que ficaria a questão da implantação também do óvulo porque também algumas informações dependem do CV. que que vocês me dizem seria melhor"
+      },
+      {
+        "startTime": 4897,
+        "endTime": 4897,
+        "speaker": "Felipe Goettems",
+        "text": "É independente não é?"
+      },
+      {
+        "startTime": 4897,
+        "endTime": 4905,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "a gente esperar ou faz em paralelo é que também a gente tem que ver equipe, né? Porque também ela seria ela teria que ser aqui user também então aí"
+      },
+      {
+        "startTime": 4905,
+        "endTime": 4905,
+        "speaker": "Felipe Goettems",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 4905,
+        "endTime": 4924,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "eu tenho que conversar com a equipe com o Bruno. Inclusive que ele falou com você Diego para ver se ele escolheria outra pessoa para ser que use porque se for ela vai ferrar, ela já tá bem ferradinha e a gente entender essa questão aí dos usuários. Mas é uma coisa que eu vou discutir internamente a gente vê enfim, mas para vocês independem a gente"
+      },
+      {
+        "startTime": 4924,
+        "endTime": 4924,
+        "speaker": "Felipe Goettems",
+        "text": "independe independe"
+      },
+      {
+        "startTime": 4924,
+        "endTime": 4930,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "conseguiria tocar em paralelo. E aí depois a gente faria essa integração com você ver."
+      },
+      {
+        "startTime": 4930,
+        "endTime": 4948,
+        "speaker": "Felipe Goettems",
+        "text": "Nte a gente tem tanto a capacidade de manter isso atualizado para vocês, quanto a gente tem uma interface de atualização. Claro que com a integração é muito melhor que você não vai estar atualizando em dois lugares diferentes ou não vai estar tendo que atualizar lá e nos mandar para a gente atualizar para você, né? É uma vez só num local só e acontece todo fluxo."
+      },
+      {
+        "startTime": 4948,
+        "endTime": 4951,
+        "speaker": "Felipe Goettems",
+        "text": "Mas eles são independentes."
+      },
+      {
+        "startTime": 4951,
+        "endTime": 4952,
+        "speaker": "Diego Diehl",
+        "text": "Espero o outro ponto que eu tô"
+      },
+      {
+        "startTime": 4952,
+        "endTime": 4953,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "ok"
+      },
+      {
+        "startTime": 4953,
+        "endTime": 4959,
+        "speaker": "Diego Diehl",
+        "text": "falando, eu também estou vivenciando isso em algumas outras incorporadoras."
+      },
+      {
+        "startTime": 4959,
+        "endTime": 4959,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Essa questão do CV."
+      },
+      {
+        "startTime": 4959,
+        "endTime": 4966,
+        "speaker": "Diego Diehl",
+        "text": "pensando em Pareto Tanto do CV quanto tô lançando quando não tenho tempo?"
+      },
+      {
+        "startTime": 4966,
+        "endTime": 4967,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Boa vamos lá compartilha a"
+      },
+      {
+        "startTime": 4967,
+        "endTime": 4969,
+        "speaker": "Diego Diehl",
+        "text": "e eles não têm ainda estéreo Hugo"
+      },
+      {
+        "startTime": 4969,
+        "endTime": 4970,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "experiência conosco."
+      },
+      {
+        "startTime": 4970,
+        "endTime": 4994,
+        "speaker": "Diego Diehl",
+        "text": "e eles não não existem estéreongo ainda tá é um pouco pior, qual que é uma das estratégias. rapidinho que você tem que sair. Cada dia que passa tem gente entrando no lançamento de vocês e a gente não tá falando com essas pessoas. Isso aí é plugin Play eu vou por exemplo o Lang aqui."
+      },
+      {
+        "startTime": 4994,
+        "endTime": 5002,
+        "speaker": "Diego Diehl",
+        "text": "Cara 186 corretores entraram nos últimos 30 dias. Né o outro ali que vocês falaram é deve estar na outra página."
+      },
+      {
+        "startTime": 5002,
+        "endTime": 5006,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Eu falei eu falei não é o Lang e Turim é que parece que é um"
+      },
+      {
+        "startTime": 5006,
+        "endTime": 5007,
+        "speaker": "Diego Diehl",
+        "text": "Ah é o mesmo."
+      },
+      {
+        "startTime": 5007,
+        "endTime": 5008,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "empreendimento só mas eu mesmo é"
+      },
+      {
+        "startTime": 5008,
+        "endTime": 5009,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá la"
+      },
+      {
+        "startTime": 5009,
+        "endTime": 5011,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "que um é um ano uma esquina e o outro na outra esquina."
+      },
+      {
+        "startTime": 5011,
+        "endTime": 5013,
+        "speaker": "Diego Diehl",
+        "text": "eu até fiquei pensando eu até fiquei na dúvida aqui então, então"
+      },
+      {
+        "startTime": 5013,
+        "endTime": 5016,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "É o Lang e o Turim."
+      },
+      {
+        "startTime": 5016,
+        "endTime": 5036,
+        "speaker": "Diego Diehl",
+        "text": "o que que é legal falar para vocês assim, ó. Quando a gente joga para dentro conecta ali de da hora, dispara um oi para os corretores do WhatsApp deles foi o Pareto de tabela preço apresentação. Já respondeu WhatsApp. Tá deixou não precisa de quem usa não é só manda manda conecta."
+      },
+      {
+        "startTime": 5036,
+        "endTime": 5072,
+        "speaker": "Diego Diehl",
+        "text": "Envia eu valido em meia hora com vocês para você, porque a gente começa a Gerar dados do sistema a gente começa a ter toda análise das conversas para daqui duas três semanas tirar um relatório de perguntas como que responde. Quais são os corretores cadastrados já começa a cadastrar? Já começa a não tumultuar toda a implantação para falar não tem que deixar tudo azeitado para cortar faixa e abrir não é tipo conecta ali de da hora, cadastro dos corretores conectam o WhatsApp ajuda o time a performar aí agora."
+      },
+      {
+        "startTime": 5072,
+        "endTime": 5085,
+        "speaker": "Diego Diehl",
+        "text": "Vamos para uma etapa 2 agora a gente quer refinaria agora a gente quer ajustar os relatórios. Agora a gente quer ter um relatório automático. Agora é o biai, só que são elementos mais de gestão, né? O importante que eu tô rodando."
+      },
+      {
+        "startTime": 5085,
+        "endTime": 5087,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Daria para fazer é isso que você tá me dizendo."
+      },
+      {
+        "startTime": 5087,
+        "endTime": 5117,
+        "speaker": "Diego Diehl",
+        "text": "É exatamente o ponto é cara, usa os líderes coloca o portal gera ali de corretor de todas as frentes da hora dá essa vazão ajuda o coordenador o time tá sem tempo porque porque tem que ficar mandando tabela e apresentação para os corretores. Então já implementa isso já começa então isso daí eu não tô vendo necessidades grandes de quem usa porque o negócio é o mesmo é mandar memorial descritivo apresentação tabela de vendas é responder a data de entrega do produto."
+      },
+      {
+        "startTime": 5117,
+        "endTime": 5133,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tá não bacana bacana se dá para a gente fazer bastante coisa assim já fazendo essas parametrizações que não demandam tanto legal. Que que eu queria te pedir junto com orçamento ali com a proposta. Você já consegue dar uma noção para a gente então é olhando o nosso cenário que eu comentei agora com relação ao escrever de"
+      },
+      {
+        "startTime": 5133,
+        "endTime": 5135,
+        "speaker": "Diego Diehl",
+        "text": "de fazer"
+      },
+      {
+        "startTime": 5135,
+        "endTime": 5157,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "faseamento e um cronograma. E assim seja realista não precisa ser otimista a gente aqui preza pela qualidade e não pela agilidade sem qualidade. Então seja realista e pensando aqui que a gente é mais enxuto. Mas você tá me dizendo que você tem outros clientes que são mais ainda então ok, mas eu já realista não otimista, tá? Eu prefiro ser assim."
+      },
+      {
+        "startTime": 5157,
+        "endTime": 5157,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 5157,
+        "endTime": 5160,
+        "speaker": "Hugo Enes",
+        "text": "Eu acho que eu te falei a mesma coisa a semana passada, né."
+      },
+      {
+        "startTime": 5162,
+        "endTime": 5173,
+        "speaker": "Diego Diehl",
+        "text": "Sim, eu até trouxe o CEO da empresa que apoia a gente na implantação porque ele apoia sete anos implantações da clubes e tal. Eles são bons bons nisso, eu sou"
+      },
+      {
+        "startTime": 5173,
+        "endTime": 5173,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "legal"
+      },
+      {
+        "startTime": 5173,
+        "endTime": 5178,
+        "speaker": "Diego Diehl",
+        "text": "Eu sou bom em conectar o mercado imobiliário. Eu sei falar eu entendo os dois lados, né para fazer essa"
+      },
+      {
+        "startTime": 5178,
+        "endTime": 5179,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Você entender a língua?"
+      },
+      {
+        "startTime": 5179,
+        "endTime": 5188,
+        "speaker": "Diego Diehl",
+        "text": "transcrição e ver o que precisa exatamente. Ele falou até para o Hugo. Falou cara de quatro a seis meses. Eu acho que ele falou. Eu até virei para ele, depois falei"
+      },
+      {
+        "startTime": 5188,
+        "endTime": 5188,
+        "speaker": "Hugo Enes",
+        "text": "Isso é de 4 a 6."
+      },
+      {
+        "startTime": 5188,
+        "endTime": 5190,
+        "speaker": "Diego Diehl",
+        "text": "cara, quatro ou seis meses."
+      },
+      {
+        "startTime": 5190,
+        "endTime": 5192,
+        "speaker": "Hugo Enes",
+        "text": "É o tempo ideal digamos assim."
+      },
+      {
+        "startTime": 5192,
+        "endTime": 5214,
+        "speaker": "Diego Diehl",
+        "text": "Eu falei quatro a seis meses, eu liguei para depois ele falou cara que às vezes as pessoas estão na correria demoram para responder a gente então eu já falo isso porque às vezes depende do cliente eu falo eu falei beleza aí o que eu vou mandar para você e se faziamento porque tem uns que é plug Clay conectar um mês um mês e meio dois para ter essa primeira fase aí as outras a gente estende."
+      },
+      {
+        "startTime": 5214,
+        "endTime": 5215,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Sim perfeito."
+      },
+      {
+        "startTime": 5215,
+        "endTime": 5246,
+        "speaker": "Diego Diehl",
+        "text": "É até melhor porque daí a iaja vai evoluindo e o último ponto para você saber estar de disponibilidade. Nesses primeiros clientes eu tô vendendo horas minhas para estar participando ativamente da implementação tem Incorporadora que eu sou barra, eu ajudo no papel que vocês dois fazem dentro do Incorporadora quer chegar a entender as escutar o time no plantão perguntar fazer tal coisa, tipo uma consultoria para matar processo para fazer essa frente até eu falei com o Bruno que ele tava falando de preço."
+      },
+      {
+        "startTime": 5246,
+        "endTime": 5246,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "sim"
+      },
+      {
+        "startTime": 5246,
+        "endTime": 5264,
+        "speaker": "Diego Diehl",
+        "text": "E eu falei Bruno. Mas vocês já prestar você já pegaram consultoria da DNA de vendas sabe 10 anos atrás já tem processo já tem várias coisas que dá para a gente utilizar então, talvez ajude então é um balizamento do valor de implantação da aba de consultoria que vocês vão querer utilizar."
+      },
+      {
+        "startTime": 5264,
+        "endTime": 5280,
+        "speaker": "Diego Diehl",
+        "text": "Que a gente pode conversar. Tem a parte padrão e a mensalidade. Hoje eu tô sentando um preço agora do terceiro trimestre para as vendas que eu fizer em Curitiba, tá? Minha meta é fechar três ou quatro com um preço que eu tô fazendo o mesmo por usuário para todas até para não ser Poxa."
+      },
+      {
+        "startTime": 5280,
+        "endTime": 5291,
+        "speaker": "Diego Diehl",
+        "text": "Achei que você era mais meu amigo do que o outro sabe? Eu tô fazendo um preço padronizado por usuário para ficar justo o negócio. Ficou claro que isso já fala tudo isso então beleza gente."
+      },
+      {
+        "startTime": 5292,
+        "endTime": 5309,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Então passa para gente a gente Analisa é semana que vem eu vou estar na correria, eu vou estar fora. Vou estar em São Paulo, mas aí na outra semana acho que eu já consigo conversar ele com o Bruno a gente se alinhar e até entender ele de equipe, como que a gente faria questão de implantação é conversas internas para a gente tá dando um retorno para vocês."
+      },
+      {
+        "startTime": 5309,
+        "endTime": 5315,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Então semana que vem ainda não consigo te dar esse retorno, mas na outra semana do início do mês de agosto, eu consigo. ok"
+      },
+      {
+        "startTime": 5315,
+        "endTime": 5320,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou te mandar apresentação agora. E aí eu te mando na semana que vem o cronograma só para quebrar em duas"
+      },
+      {
+        "startTime": 5320,
+        "endTime": 5321,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Tá ótimo, gente, tá ótimo."
+      },
+      {
+        "startTime": 5321,
+        "endTime": 5324,
+        "speaker": "Diego Diehl",
+        "text": "já combinado. Fechou então gente."
+      },
+      {
+        "startTime": 5324,
+        "endTime": 5331,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Obrigada aí pela apresentação pela disponibilidade pelas informações que passaram para gente tá muito bacana esse tema bem legal mesmo."
+      },
+      {
+        "startTime": 5331,
+        "endTime": 5332,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado, valeu."
+      },
+      {
+        "startTime": 5332,
+        "endTime": 5333,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "Valeu gente, tchau."
+      },
+      {
+        "startTime": 5333,
+        "endTime": 5333,
+        "speaker": "Diego Diehl",
+        "text": "Vai ser um prazer trabalhar com"
+      },
+      {
+        "startTime": 5333,
+        "endTime": 5334,
+        "speaker": "Hugo Enes",
+        "text": "Valeu gente, tchau, tchau."
+      },
+      {
+        "startTime": 5334,
+        "endTime": 5335,
+        "speaker": "Diego Diehl",
+        "text": "vocês aí."
+      },
+      {
+        "startTime": 5335,
+        "endTime": 5335,
+        "speaker": "Esther Fleury Rocha Koschewski",
+        "text": "valeu, tchau."
+      },
+      {
+        "startTime": 5335,
+        "endTime": 5349,
+        "speaker": "Diego Diehl",
+        "text": "Aí abraço, tchau. Valeu, tchau. Vamos entrar numa outra só para já falar rapidinho. sair dessa aqui para"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 455,
+    "speakers": [
+      "Diego Diehl",
+      "Hugo Enes",
+      "Diego Diehl's Presentation",
+      "Esther Fleury Rocha Koschewski",
+      "Felipe Goettems"
+    ],
+    "total_words_estimate": 13626,
+    "duration_start": 0,
+    "duration_end": 5349
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66a3f4f1dc319300135bb93a",
+        "timestamp": 0,
+        "text": "Diego inicia a apresentação da plataforma Plumis, uma solução desenvolvida em parceria com a Globo para o mercado imobiliário.",
+        "topicId": "66a3f4f1dc319300135bb927"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb93b",
+        "timestamp": 160,
+        "text": "Diego explica a estratégia de desenvolvimento da plataforma, destacando a decisão de se conectar a um grupo maior de clientes para trazer mais tecnologia para o mercado imobiliário.",
+        "topicId": "66a3f4f1dc319300135bb927"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb93c",
+        "timestamp": 270,
+        "text": "Diego demonstra as funcionalidades da plataforma, como a personalização do portal para cada cliente e a integração com o CRM das imobiliárias.",
+        "topicId": "66a3f4f1dc319300135bb927"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb93d",
+        "timestamp": 404,
+        "text": "Esther questiona sobre a entrada de leads no sistema, e Diego explica as diferentes formas de integração, como o portal da GT, o aplicativo e o CRM das imobiliárias.",
+        "topicId": "66a3f4f1dc319300135bb928"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb93e",
+        "timestamp": 451,
+        "text": "Hugo questiona sobre a integração da documentação disponibilizada no drive com a plataforma Plumis, e Diego comenta sobre a importância do rastreamento de informações.",
+        "topicId": "66a3f4f1dc319300135bb928"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb93f",
+        "timestamp": 464,
+        "text": "Diego explica que a integração com outros sistemas é uma prioridade, e que a plataforma Plumis garante a atualização de informações em tempo real.",
+        "topicId": "66a3f4f1dc319300135bb928"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb940",
+        "timestamp": 721,
+        "text": "Diego mostra a visão inicial da plataforma, que permite visualizar o funil de vendas e ter previsibilidade de receita.",
+        "topicId": "66a3f4f1dc319300135bb929"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb941",
+        "timestamp": 803,
+        "text": "Diego explica como a plataforma Plumis se integra com diferentes canais, como o portal, o aplicativo e o CRM das imobiliárias, para rastrear as ações dos corretores.",
+        "topicId": "66a3f4f1dc319300135bb929"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb942",
+        "timestamp": 848,
+        "text": "Diego descreve como o sistema pode automatizar o envio de mensagens no WhatsApp dos coordenadores, com base nas ações dos corretores no sistema.",
+        "topicId": "66a3f4f1dc319300135bb929"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb943",
+        "timestamp": 900,
+        "text": "Diego explica que algumas funcionalidades ainda estão em desenvolvimento, mas que o sistema tem evoluído constantemente, com melhorias de performance e redução de custos.",
+        "topicId": "66a3f4f1dc319300135bb92a"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb944",
+        "timestamp": 972,
+        "text": "Diego usa um exemplo de evolução tecnológica para ilustrar que algumas funcionalidades que parecem impossíveis hoje podem se tornar realidade em breve.",
+        "topicId": "66a3f4f1dc319300135bb92a"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb945",
+        "timestamp": 987,
+        "text": "Diego se compromete a focar na apresentação das funcionalidades já consolidadas, deixando as novidades para uma próxima oportunidade.",
+        "topicId": "66a3f4f1dc319300135bb92a"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb946",
+        "timestamp": 1200,
+        "text": "Explicação sobre como criar SLAs e classificações para acompanhar a atividade dos corretores, como visitas semanais e mensais.",
+        "topicId": "66a3f4f1dc319300135bb92b"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb947",
+        "timestamp": 1287,
+        "text": "Demonstração de como o sistema registra e acompanha as propostas e atividades dos corretores, com opção de centralizar no CV.",
+        "topicId": "66a3f4f1dc319300135bb92b"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb948",
+        "timestamp": 1327,
+        "text": "Discussão sobre a gestão de usuários internos das imobiliárias, se é realizada pela plataforma ou se o cadastro já é pré-existente.",
+        "topicId": "66a3f4f1dc319300135bb92b"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb949",
+        "timestamp": 1443,
+        "text": "Explicação sobre o cadastro automatizado de corretores, com informações como foto, email, CRECÍ e pontuação de atividade.",
+        "topicId": "66a3f4f1dc319300135bb92b"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94a",
+        "timestamp": 1534,
+        "text": "Apresentação de um mecanismo de registro automático de corretores através do uso de emojis em mensagens de WhatsApp.",
+        "topicId": "66a3f4f1dc319300135bb92b"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94b",
+        "timestamp": 1744,
+        "text": "Apresentação de recursos de relatórios e painéis, como filtros, gráficos e métricas personalizáveis para acompanhamento de desempenho.",
+        "topicId": "66a3f4f1dc319300135bb92c"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94e",
+        "timestamp": 1815,
+        "text": "Demonstração de como a plataforma se integra com o WhatsApp para controle e registro de atividades dos corretores.",
+        "topicId": "66a3f4f1dc319300135bb92d"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94f",
+        "timestamp": 1866,
+        "text": "Explicação sobre os mecanismos de envio de mensagens padrão para grupos de corretores selecionados por filtros.",
+        "topicId": "66a3f4f1dc319300135bb92d"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94c",
+        "timestamp": 1948,
+        "text": "Explicação sobre a funcionalidade de disparo de mensagens em massa para corretores com base em filtros, como contatos inativos há mais de 90 dias.",
+        "topicId": "66a3f4f1dc319300135bb92c"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb94d",
+        "timestamp": 1975,
+        "text": "Discussão sobre a possibilidade de ranqueamento de corretores e imobiliárias com base em diversos indicadores, como volume de vendas e visitas.",
+        "topicId": "66a3f4f1dc319300135bb92c"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb950",
+        "timestamp": 2253,
+        "text": "Apresentação do módulo de funil de vendas, com configuração de etapas e campos obrigatórios para acompanhamento do processo.",
+        "topicId": "66a3f4f1dc319300135bb92e"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb951",
+        "timestamp": 2282,
+        "text": "Explicação sobre a interface simplificada do funil de vendas, com informações relevantes para o corretor e o gestor.",
+        "topicId": "66a3f4f1dc319300135bb92e"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb952",
+        "timestamp": 2324,
+        "text": "Discussão sobre a importância de ter próximas tarefas e atividades registradas no funil de vendas.",
+        "topicId": "66a3f4f1dc319300135bb92e"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb953",
+        "timestamp": 2405,
+        "text": "Diego lembra de uma especificidade da GT que sua mãe comentou, e que ela conhece Esther, que era coordenadora do Seven.",
+        "topicId": "66a3f4f1dc319300135bb92f"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb954",
+        "timestamp": 2441,
+        "text": "Diego conta que estudava em um plantão do Sérvia onde sua mãe dava treinamento para corretores, e que ficava escutando os treinamentos naquela época.",
+        "topicId": "66a3f4f1dc319300135bb92f"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb955",
+        "timestamp": 2466,
+        "text": "Diego agradece sua mãe por ele ter entendido o mercado imobiliário de um outro ângulo, pois ficava escutando as histórias dos clientes.",
+        "topicId": "66a3f4f1dc319300135bb92f"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb956",
+        "timestamp": 2482,
+        "text": "Diego mostra que o sistema pode registrar conversas, gerar resumos e programar tarefas automaticamente.",
+        "topicId": "66a3f4f1dc319300135bb930"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb957",
+        "timestamp": 2549,
+        "text": "O sistema pode gerar propostas, vendas e relatórios automaticamente, como relatórios de visitas para incorporadoras.",
+        "topicId": "66a3f4f1dc319300135bb930"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb958",
+        "timestamp": 2589,
+        "text": "Os produtos já estão integrados com a hora, trazendo informações como preço, tipologia, área, data de entrega e imagens.",
+        "topicId": "66a3f4f1dc319300135bb930"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb959",
+        "timestamp": 2760,
+        "text": "O sistema registra a conversa, resume os pontos importantes e cria tarefas automaticamente.",
+        "topicId": "66a3f4f1dc319300135bb930"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95a",
+        "timestamp": 2784,
+        "text": "Diego gosta de explorar a parte de configurações do sistema, como a criação de perfis de usuário e permissões.",
+        "topicId": "66a3f4f1dc319300135bb931"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95b",
+        "timestamp": 2838,
+        "text": "O sistema possui um mecanismo de automações que permite criar disparos de mensagens personalizadas com base em dados do corretor.",
+        "topicId": "66a3f4f1dc319300135bb931"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95c",
+        "timestamp": 3103,
+        "text": "Diego apresenta duas formas de integração da IA: um chatbot padrão conectado aos produtos, e um robô do coordenador de plataforma com perguntas controladas.",
+        "topicId": "66a3f4f1dc319300135bb932"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95d",
+        "timestamp": 3351,
+        "text": "O robô do coordenador de plataforma é programado para responder apenas a perguntas específicas, evitando impactar o relacionamento do coordenador com os corretores.",
+        "topicId": "66a3f4f1dc319300135bb932"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95e",
+        "timestamp": 3422,
+        "text": "O segundo bot é voltado para os coordenadores, respondendo perguntas operacionais básicas e reduzindo o esforço deles.",
+        "topicId": "66a3f4f1dc319300135bb932"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb95f",
+        "timestamp": 3474,
+        "text": "Os bots podem ser personalizados e segmentados por coordenador, com respostas e abordagens específicas para cada um.",
+        "topicId": "66a3f4f1dc319300135bb932"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb960",
+        "timestamp": 3534,
+        "text": "A GT pode evoluir a integração da IA com o apoio da Obra, que possui expertise nessa área.",
+        "topicId": "66a3f4f1dc319300135bb932"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb961",
+        "timestamp": 3610,
+        "text": "Apresentação de um exemplo prático de relatório consolidado de oportunidades e recomendações para a região de Porto Alegre.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb962",
+        "timestamp": 3661,
+        "text": "Discussão sobre a possibilidade de ter um cliente mais econômico, aproveitando o potencial de ação de clientes que querem dar um imóvel como parte do pagamento.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb963",
+        "timestamp": 3723,
+        "text": "Demonstração de um relatório detalhado de perguntas frequentes dos corretores, organizado por categoria, para ser processado por uma IA e integrado ao sistema de atendimento.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb964",
+        "timestamp": 3808,
+        "text": "Comentários sobre a evolução da tecnologia e a necessidade de manter o sistema de atendimento atualizado e personalizado para cada cliente.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96d",
+        "timestamp": 3812,
+        "text": "Comentários sobre a necessidade de estar sempre atualizando o sistema de atendimento, à medida que as informações e requisitos mudam.",
+        "topicId": "66a3f4f1dc319300135bb935"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb965",
+        "timestamp": 3867,
+        "text": "Discussão sobre a importância de coordenar e direcionar as respostas do sistema de atendimento, evitando respostas inadequadas ou imprevisíveis.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96e",
+        "timestamp": 3941,
+        "text": "Explicação sobre a diferença entre a programação tradicional e a linguagem natural, destacando a importância de controlar as respostas do sistema.",
+        "topicId": "66a3f4f1dc319300135bb935"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96f",
+        "timestamp": 3963,
+        "text": "Exemplo de como o sistema de atendimento pode evoluir rapidamente, com a necessidade de ajustes e controle das respostas.",
+        "topicId": "66a3f4f1dc319300135bb935"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb970",
+        "timestamp": 4065,
+        "text": "Comentários sobre a importância de treinar e estabilizar o modelo de atendimento, mantendo um ",
+        "topicId": "66a3f4f1dc319300135bb935"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb971",
+        "timestamp": 4100,
+        "text": "Discussão sobre a necessidade de criar regras e limites para evitar respostas indesejadas ou inadequadas do sistema de atendimento.",
+        "topicId": "66a3f4f1dc319300135bb935"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb966",
+        "timestamp": 4201,
+        "text": "Sugestão de oferecer o sistema de atendimento ao corretor como um serviço adicional, ajudando-o a atender melhor seus clientes.",
+        "topicId": "66a3f4f1dc319300135bb933"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb972",
+        "timestamp": 4240,
+        "text": "Sugestão de oferecer o sistema de atendimento como um serviço de apoio aos corretores, integrando-o com outras plataformas e sistemas.",
+        "topicId": "66a3f4f1dc319300135bb936"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb967",
+        "timestamp": 4318,
+        "text": "Demonstração de como o sistema pode acessar e exibir informações atualizadas sobre os empreendimentos, como tabelas de preços e apresentações.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb968",
+        "timestamp": 4346,
+        "text": "Explicação sobre o tempo de resposta do sistema, destacando a diferença entre respostas rápidas e a busca e envio de arquivos mais complexos.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb969",
+        "timestamp": 4383,
+        "text": "Exemplo de como o sistema pode fornecer respostas pré-definidas para perguntas comuns, como a aceitação de imóveis como parte do pagamento.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96a",
+        "timestamp": 4417,
+        "text": "Demonstração de como o sistema pode fornecer informações sobre a relação da empresa com outras incorporadoras, facilitando o atendimento ao corretor.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96b",
+        "timestamp": 4481,
+        "text": "Discussão sobre a necessidade de alinhar a contratação de ferramentas com as áreas comercial e de TI da empresa.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb973",
+        "timestamp": 4493,
+        "text": "Comentários sobre a importância de alinhar a contratação de ferramentas com as áreas comercial e de TI da empresa.",
+        "topicId": "66a3f4f1dc319300135bb936"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb96c",
+        "timestamp": 4528,
+        "text": "Orientações sobre as opções de integração de documentos, como a possibilidade de vincular arquivos do drive ou migrar conteúdo para a plataforma.",
+        "topicId": "66a3f4f1dc319300135bb934"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb974",
+        "timestamp": 4645,
+        "text": "Sugestão de integrar diretamente os dados mais voláteis, como tabelas de preços, diretamente do sistema da empresa para o sistema de atendimento.",
+        "topicId": "66a3f4f1dc319300135bb936"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb975",
+        "timestamp": 4695,
+        "text": "Explicação sobre a possibilidade de integrar o sistema de atendimento com outros canais, como o site da obra, o aplicativo e o sistema de gestão das imobiliárias.",
+        "topicId": "66a3f4f1dc319300135bb936"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb976",
+        "timestamp": 4838,
+        "text": "A equipe estava muito focada no lançamento, o que atrasou a implantação do CV. Agora a responsável está de férias, então a equipe ficará sem 4 mãos por 1 mês e 2 semanas.",
+        "topicId": "66a3f4f1dc319300135bb937"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb977",
+        "timestamp": 4878,
+        "text": "Acredita-se que a implantação do CV possa ser finalizada até o final de novembro/dezembro. Algumas informações do CV dependem da implantação do óvulo.",
+        "topicId": "66a3f4f1dc319300135bb937"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb978",
+        "timestamp": 4924,
+        "text": "A implantação do CV pode ser feita em paralelo com a do óvulo, pois são independentes. A integração entre os sistemas é melhor, mas não é obrigatória.",
+        "topicId": "66a3f4f1dc319300135bb938"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb979",
+        "timestamp": 4951,
+        "text": "Diego compartilha estratégias para agilizar a implantação, como conectar os corretores, cadastrá-los e automatizar relatórios, sem sobrecarregar a equipe.",
+        "topicId": "66a3f4f1dc319300135bb938"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb97a",
+        "timestamp": 5085,
+        "text": "Esther concorda que as estratégias propostas por Diego podem ser implementadas, pois não demandam tanto da equipe.",
+        "topicId": "66a3f4f1dc319300135bb938"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb97b",
+        "timestamp": 5123,
+        "text": "Esther solicita que Diego forneça um cronograma e orçamento realistas para a implantação do CV, considerando a capacidade enxuta da equipe.",
+        "topicId": "66a3f4f1dc319300135bb939"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb97c",
+        "timestamp": 5162,
+        "text": "Diego menciona que o CEO da empresa que o apoia na implantação estima que o processo leve de 4 a 6 meses, dependendo do cliente.",
+        "topicId": "66a3f4f1dc319300135bb939"
+      },
+      {
+        "segmentId": "66a3f4f1dc319300135bb97d",
+        "timestamp": 5263,
+        "text": "Diego comenta sobre a possibilidade de oferecer serviços de consultoria durante a implantação, além da parte padrão e mensalidade.",
+        "topicId": "66a3f4f1dc319300135bb939"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66a3f4f1dc319300135bb927",
+        "order": 1,
+        "title": "Apresentação da plataforma Plumis",
+        "summary": "Diego apresenta a plataforma Plumis, uma solução de tecnologia para o mercado imobiliário, destacando suas funcionalidades e a estratégia de integração com outras empresas."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb928",
+        "order": 2,
+        "title": "Integração da plataforma Plumis com outros sistemas",
+        "summary": "A equipe discute a integração da plataforma Plumis com outros sistemas, como o CRM das imobiliárias e o portal da GT, para garantir a atualização e o rastreamento de informações."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb929",
+        "order": 3,
+        "title": "Funcionalidades da plataforma Plumis",
+        "summary": "Diego demonstra as principais funcionalidades da plataforma Plumis, como a visualização do funil de vendas, a previsibilidade de receita e a integração com o WhatsApp dos coordenadores."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92a",
+        "order": 4,
+        "title": "Roadmap e evolução da plataforma Plumis",
+        "summary": "Diego comenta sobre o roadmap de desenvolvimento da plataforma Plumis, destacando as melhorias recentes e as funcionalidades futuras que estão sendo estudadas."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92b",
+        "order": 5,
+        "title": "Cadastro e Gerenciamento de Corretores",
+        "summary": "Discussão sobre o cadastro e gerenciamento de corretores imobiliários, incluindo recursos como rastreamento de atividades e comunicação automatizada."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92c",
+        "order": 6,
+        "title": "Relatórios e Painéis de Desempenho",
+        "summary": "Demonstração de recursos de relatórios e painéis de desempenho para acompanhamento de indicadores de imobiliárias e corretores."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92d",
+        "order": 7,
+        "title": "Integração com WhatsApp",
+        "summary": "Apresentação de recursos de integração com o WhatsApp para comunicação e registro de atividades dos corretores."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92e",
+        "order": 8,
+        "title": "Acompanhamento de Funil de Vendas",
+        "summary": "Discussão sobre os recursos de acompanhamento do funil de vendas, incluindo etapas, campos obrigatórios e histórico de atividades."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb92f",
+        "order": 9,
+        "title": "Histórico de Diego no mercado imobiliário",
+        "summary": "Diego compartilha sua trajetória no mercado imobiliário, desde acompanhar os treinamentos de corretores na época do Seven até chegar onde está hoje."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb930",
+        "order": 10,
+        "title": "Automações e funcionalidades do sistema",
+        "summary": "Diego apresenta diversas funcionalidades e automações do sistema, como geração de propostas, relatórios e tarefas automatizadas."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb931",
+        "order": 11,
+        "title": "Configuração e personalização do sistema",
+        "summary": "Diego mostra a importância da configuração do sistema, como a criação de perfis de usuário e automações personalizadas."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb932",
+        "order": 12,
+        "title": "Integração da Inteligência Artificial",
+        "summary": "Diego explica os diferentes módulos de integração da Inteligência Artificial, como o chatbot padrão e o robô do coordenador de plataforma."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb933",
+        "order": 13,
+        "title": "Estruturação de um sistema de atendimento ao corretor",
+        "summary": "Discussão sobre a criação de um sistema de atendimento ao corretor, com integração de dados, FAQ e respostas personalizadas para melhorar o serviço ao cliente."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb934",
+        "order": 14,
+        "title": "Integração de dados e documentos no sistema de atendimento",
+        "summary": "Discussão sobre a melhor forma de integrar dados e documentos do empreendimento no sistema de atendimento, incluindo opções de linkagem e gerenciamento de versões."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb935",
+        "order": 15,
+        "title": "Considerações sobre a evolução e manutenção do sistema de atendimento",
+        "summary": "Discussão sobre a necessidade de manter o sistema de atendimento atualizado e personalizado, com atenção aos desafios de evolução e controle das respostas."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb936",
+        "order": 16,
+        "title": "Integração do sistema de atendimento com outros sistemas e plataformas",
+        "summary": "Discussão sobre a possibilidade de integrar o sistema de atendimento com outros sistemas e plataformas, como o site da empresa e o sistema de gestão das imobiliárias."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb937",
+        "order": 17,
+        "title": "Atraso na implantação do CV e impacto na equipe",
+        "summary": "Discussão sobre o atraso na implantação do CV devido à sobrecarga da equipe com o lançamento. Necessidade de ajuste no cronograma e planejamento da implantação."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb938",
+        "order": 18,
+        "title": "Estratégias para agilizar a implantação do CV",
+        "summary": "Discussão sobre formas de agilizar a implantação do CV, como conectar os corretores, cadastrá-los e automatizar relatórios, sem sobrecarregar a equipe."
+      },
+      {
+        "id": "66a3f4f1dc319300135bb939",
+        "order": 19,
+        "title": "Definição de cronograma e orçamento para implantação",
+        "summary": "Discussão sobre a necessidade de um cronograma realista e orçamento para a implantação do CV, levando em conta a capacidade da equipe."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 68,
+    "topic_count": 19,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66a3f4f1dc319300135bb927",
+      "order": 1,
+      "title": "Apresentação da plataforma Plumis",
+      "summary": "Diego apresenta a plataforma Plumis, uma solução de tecnologia para o mercado imobiliário, destacando suas funcionalidades e a estratégia de integração com outras empresas."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb928",
+      "order": 2,
+      "title": "Integração da plataforma Plumis com outros sistemas",
+      "summary": "A equipe discute a integração da plataforma Plumis com outros sistemas, como o CRM das imobiliárias e o portal da GT, para garantir a atualização e o rastreamento de informações."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb929",
+      "order": 3,
+      "title": "Funcionalidades da plataforma Plumis",
+      "summary": "Diego demonstra as principais funcionalidades da plataforma Plumis, como a visualização do funil de vendas, a previsibilidade de receita e a integração com o WhatsApp dos coordenadores."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92a",
+      "order": 4,
+      "title": "Roadmap e evolução da plataforma Plumis",
+      "summary": "Diego comenta sobre o roadmap de desenvolvimento da plataforma Plumis, destacando as melhorias recentes e as funcionalidades futuras que estão sendo estudadas."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92b",
+      "order": 5,
+      "title": "Cadastro e Gerenciamento de Corretores",
+      "summary": "Discussão sobre o cadastro e gerenciamento de corretores imobiliários, incluindo recursos como rastreamento de atividades e comunicação automatizada."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92c",
+      "order": 6,
+      "title": "Relatórios e Painéis de Desempenho",
+      "summary": "Demonstração de recursos de relatórios e painéis de desempenho para acompanhamento de indicadores de imobiliárias e corretores."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92d",
+      "order": 7,
+      "title": "Integração com WhatsApp",
+      "summary": "Apresentação de recursos de integração com o WhatsApp para comunicação e registro de atividades dos corretores."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92e",
+      "order": 8,
+      "title": "Acompanhamento de Funil de Vendas",
+      "summary": "Discussão sobre os recursos de acompanhamento do funil de vendas, incluindo etapas, campos obrigatórios e histórico de atividades."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb92f",
+      "order": 9,
+      "title": "Histórico de Diego no mercado imobiliário",
+      "summary": "Diego compartilha sua trajetória no mercado imobiliário, desde acompanhar os treinamentos de corretores na época do Seven até chegar onde está hoje."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb930",
+      "order": 10,
+      "title": "Automações e funcionalidades do sistema",
+      "summary": "Diego apresenta diversas funcionalidades e automações do sistema, como geração de propostas, relatórios e tarefas automatizadas."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb931",
+      "order": 11,
+      "title": "Configuração e personalização do sistema",
+      "summary": "Diego mostra a importância da configuração do sistema, como a criação de perfis de usuário e automações personalizadas."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb932",
+      "order": 12,
+      "title": "Integração da Inteligência Artificial",
+      "summary": "Diego explica os diferentes módulos de integração da Inteligência Artificial, como o chatbot padrão e o robô do coordenador de plataforma."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb933",
+      "order": 13,
+      "title": "Estruturação de um sistema de atendimento ao corretor",
+      "summary": "Discussão sobre a criação de um sistema de atendimento ao corretor, com integração de dados, FAQ e respostas personalizadas para melhorar o serviço ao cliente."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb934",
+      "order": 14,
+      "title": "Integração de dados e documentos no sistema de atendimento",
+      "summary": "Discussão sobre a melhor forma de integrar dados e documentos do empreendimento no sistema de atendimento, incluindo opções de linkagem e gerenciamento de versões."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb935",
+      "order": 15,
+      "title": "Considerações sobre a evolução e manutenção do sistema de atendimento",
+      "summary": "Discussão sobre a necessidade de manter o sistema de atendimento atualizado e personalizado, com atenção aos desafios de evolução e controle das respostas."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb936",
+      "order": 16,
+      "title": "Integração do sistema de atendimento com outros sistemas e plataformas",
+      "summary": "Discussão sobre a possibilidade de integrar o sistema de atendimento com outros sistemas e plataformas, como o site da empresa e o sistema de gestão das imobiliárias."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb937",
+      "order": 17,
+      "title": "Atraso na implantação do CV e impacto na equipe",
+      "summary": "Discussão sobre o atraso na implantação do CV devido à sobrecarga da equipe com o lançamento. Necessidade de ajuste no cronograma e planejamento da implantação."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb938",
+      "order": 18,
+      "title": "Estratégias para agilizar a implantação do CV",
+      "summary": "Discussão sobre formas de agilizar a implantação do CV, como conectar os corretores, cadastrá-los e automatizar relatórios, sem sobrecarregar a equipe."
+    },
+    {
+      "id": "66a3f4f1dc319300135bb939",
+      "order": 19,
+      "title": "Definição de cronograma e orçamento para implantação",
+      "summary": "Discussão sobre a necessidade de um cronograma realista e orçamento para a implantação do CV, levando em conta a capacidade da equipe."
+    }
+  ],
+  "collected_at": "2026-04-06T23:40:04.620119+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:40:04.620119+00:00"
+}

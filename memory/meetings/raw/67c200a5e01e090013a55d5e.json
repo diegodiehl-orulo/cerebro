@@ -1,0 +1,32 @@
+{
+  "id": "67c200a5e01e090013a55d5e",
+  "happenedAt": "2025-02-28T18:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "comercial@nexland.com.br"
+    },
+    {
+      "name": "",
+      "email": "dloreto@nexland.com.br"
+    }
+  ],
+  "name": "Órulo & Nexland",
+  "duration": 2689.123,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67c200a5e01e090013a55d5e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "tri-yuem-soy"
+  }
+}

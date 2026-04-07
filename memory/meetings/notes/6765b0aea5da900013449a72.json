@@ -1,0 +1,67 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6765b6c163057f0013b66e12",
+      "timestamp": 359,
+      "text": "Reunião alinha cronograma de implementação do projeto Pride: 20 dias previstos, atual média de 8 a 10 dias.",
+      "topicId": "6765b6c163057f0013b66e0c"
+    },
+    {
+      "segmentId": "6765b6c163057f0013b66e0e",
+      "timestamp": 433,
+      "text": "Carlos enviará checklist para definir usuários que acessarão a ferramenta.",
+      "topicId": "6765b6c163057f0013b66e0a"
+    },
+    {
+      "segmentId": "6765b6c163057f0013b66e10",
+      "timestamp": 514,
+      "text": "Pride possui 12 empreendimentos cadastrados no Óleo, com 25 no pacote contratado.",
+      "topicId": "6765b6c163057f0013b66e0b"
+    },
+    {
+      "segmentId": "6765b6c163057f0013b66e11",
+      "timestamp": 887,
+      "text": "Plano inclui 4 licenças WhatsApp, treinamento e cadastro de produtos, com grupo para suporte contínuo.",
+      "topicId": "6765b6c163057f0013b66e0b"
+    },
+    {
+      "segmentId": "6765b6c163057f0013b66e13",
+      "timestamp": 1147,
+      "text": "Suporte e acompanhamento do grupo de WhatsApp serão vitalícios após go-live.",
+      "topicId": "6765b6c163057f0013b66e0d"
+    },
+    {
+      "segmentId": "6765b6c163057f0013b66e0f",
+      "timestamp": 1206,
+      "text": "Próximos passos incluem cadastro no Óleo e coleta de dados dos usuários que acessarão a plataforma.",
+      "topicId": "6765b6c163057f0013b66e0a"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6765b6c163057f0013b66e0a",
+      "order": 1,
+      "title": "Ações Acordadas e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "6765b6c163057f0013b66e0b",
+      "order": 2,
+      "title": "Escopo do Projeto Pride",
+      "summary": ""
+    },
+    {
+      "id": "6765b6c163057f0013b66e0c",
+      "order": 3,
+      "title": "Cronograma de Implementação",
+      "summary": ""
+    },
+    {
+      "id": "6765b6c163057f0013b66e0d",
+      "order": 4,
+      "title": "Suporte e Acompanhamento",
+      "summary": ""
+    }
+  ]
+}

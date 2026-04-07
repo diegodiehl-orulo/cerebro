@@ -1,0 +1,1576 @@
+{
+  "meeting_id": "68c32a3b7696b60013de6acc",
+  "name": "Creci PR / Garrido",
+  "happened_at": "2025-09-11T20:00:00.000Z",
+  "duration_seconds": 2871.156,
+  "duration_minutes": 47.9,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Garrido",
+      "email": "luiz@gdlaw.tech"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68c32a3b7696b60013de6acc",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "xic-jybp-iyr",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68c32a8833b7990013fe74f0",
+    "meetingId": "68c32a3b7696b60013de6acc",
+    "data": [
+      {
+        "startTime": 2,
+        "endTime": 3,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá me escutando ou não?"
+      },
+      {
+        "startTime": 5,
+        "endTime": 9,
+        "speaker": "Eduardo Stringhini",
+        "text": "porque"
+      },
+      {
+        "startTime": 9,
+        "endTime": 11,
+        "speaker": "Alejandro Olchik",
+        "text": "vou fazer mais um desafio para"
+      },
+      {
+        "startTime": 16,
+        "endTime": 17,
+        "speaker": "Diego Diehl",
+        "text": "Eu achei ruim a resposta dele."
+      },
+      {
+        "startTime": 19,
+        "endTime": 29,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente apertou ele agora aqui. Já passei para ele, mas depois conversei com a mãe, a gente vai dar mais uma chance de algum outro desafio."
+      },
+      {
+        "startTime": 29,
+        "endTime": 30,
+        "speaker": "Diego Diehl",
+        "text": "Não usou."
+      },
+      {
+        "startTime": 32,
+        "endTime": 36,
+        "speaker": "Alejandro Olchik",
+        "text": "usou tudo e a"
+      },
+      {
+        "startTime": 36,
+        "endTime": 39,
+        "speaker": "Diego Diehl",
+        "text": "mal então"
+      },
+      {
+        "startTime": 39,
+        "endTime": 41,
+        "speaker": "Alejandro Olchik",
+        "text": "Não também fiz eu tenho eu tenho eu."
+      },
+      {
+        "startTime": 41,
+        "endTime": 53,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que eu te mandei um lembra que Você Jogou esse desafio, eu te mandei um e-mail com a resposta do meu. Você lembra digo tem uns nortes?"
+      },
+      {
+        "startTime": 53,
+        "endTime": 75,
+        "speaker": "Alejandro Olchik",
+        "text": "Voltou várias questões aqui e assim a colaborativamente ele é um cara muito bom. Ele também tem um perfil de Campo que eu acho que pode ser muito interessante, mas o pensar crítico. Mal achei muito superficial. Então é isso que acho que eu quero explorar um pouco melhor."
+      },
+      {
+        "startTime": 81,
+        "endTime": 82,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tudo bem."
+      },
+      {
+        "startTime": 82,
+        "endTime": 84,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Boa tarde, tudo joia por aí?"
+      },
+      {
+        "startTime": 84,
+        "endTime": 86,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí Garrido tudo certo?"
+      },
+      {
+        "startTime": 86,
+        "endTime": 88,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Tudo certo. Tudo certo, vamos para mais uma bronca."
+      },
+      {
+        "startTime": 90,
+        "endTime": 92,
+        "speaker": "Diego Diehl",
+        "text": "Só traz uma oportunidade para você, cara."
+      },
+      {
+        "startTime": 94,
+        "endTime": 100,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Oportunidade que é bom né? Mas a gente tenta ver o ponto Positivo, né? Toda a crise tem uma oportunidade dentro."
+      },
+      {
+        "startTime": 100,
+        "endTime": 105,
+        "speaker": "Diego Diehl",
+        "text": "eu Tenho muita gente vendo negativo eu fico concentrado no dispositivos."
+      },
+      {
+        "startTime": 106,
+        "endTime": 113,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "É isso aí, mas nós vamos lá a gente marcou hoje para me explicar com um pouco mais de detalhamento."
+      },
+      {
+        "startTime": 113,
+        "endTime": 117,
+        "speaker": "Eduardo Stringhini",
+        "text": "Isso te dá um contexto mais detalhado. Acho que na verdade o dinheiro que vai te dar um contexto porque ele fez a reunião com o pessoal do"
+      },
+      {
+        "startTime": 117,
+        "endTime": 117,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "tá"
+      },
+      {
+        "startTime": 121,
+        "endTime": 1819,
+        "speaker": "Eduardo Stringhini",
+        "text": "imóveis porque a gente colocou dentro do sistema CRM deles. Então a gente tem que se mexer já da espada do Diego vai explicar o que como é que foi o teor da reunião? Que que eles deram de prazo ou coisas para a gente fazer? mas basicamente a gente vai ter que dar uma revisada na nossa parte contratual com corretores imobiliárias incorporadoras e na nossa parte tecnológica para ver se a gente consegue ser uma ferramenta que vai resolver esse problema que vai começar a aparecer no mercado aí os caras vão dar jeito de De fazer com que todo mundo tem autorização para vender qualquer coisa que anuncia."
+      },
+      {
+        "startTime": 1819,
+        "endTime": 223,
+        "speaker": "Eduardo Stringhini",
+        "text": "Em diagrama, se quiser contar um pouco da reunião aí."
+      },
+      {
+        "startTime": 223,
+        "endTime": 297,
+        "speaker": "Diego Diehl",
+        "text": "Eles começaram me apresentando a reunião assim."
+      },
+      {
+        "startTime": 297,
+        "endTime": 298,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "da plataforma na hora"
+      },
+      {
+        "startTime": 298,
+        "endTime": 1303,
+        "speaker": "Diego Diehl",
+        "text": "e documentos imobiliários. E ali na frente. eles falam que O contrato padrão só de que ele validade se firmado com assinatura eletrônica avançada ou superior conforme definições contidas na lei 14063 2020. E daí o artigo segundo tá escrito o registro de contratos e documentos no sistema confesse cresce é prerrogativa do SGL."
+      },
+      {
+        "startTime": 1303,
+        "endTime": 528,
+        "speaker": "Diego Diehl",
+        "text": "Não sei se o prerrogativa. daí eu registro, eles falam também que Do registro do contrato nesse GR antes da celebração de contrato padrão escrito deve consultar o Sr. Para verificar se há contrato prévio com o mesmo objeto. O registro de contrato padrão no svr lá lá lá lá lá lá."
+      },
+      {
+        "startTime": 528,
+        "endTime": 613,
+        "speaker": "Eduardo Stringhini",
+        "text": "O João não tem como ver se a Incorporadora a não tá com exclusividade com outro corretor. E aí eles estão por isso que eles querem centralizar aquelas assinaturas seja feita no scr para que qualquer um consulte se existe uma exclusividade já de venda seja de mesmo mercado primário de Incorporadora."
+      },
+      {
+        "startTime": 613,
+        "endTime": 613,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "e"
+      },
+      {
+        "startTime": 615,
+        "endTime": 621,
+        "speaker": "Eduardo Stringhini",
+        "text": "então, eles estão querendo que toda a assinatura eletrônica seja feita por essa plataforma e até"
+      },
+      {
+        "startTime": 621,
+        "endTime": 623,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eles podem querer né, mas eles não tem como exigir."
+      },
+      {
+        "startTime": 626,
+        "endTime": 627,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não sei."
+      },
+      {
+        "startTime": 627,
+        "endTime": 638,
+        "speaker": "Diego Diehl",
+        "text": "Eles podem não facilitar. E aí Edu tendo em vista a conversa de outras para fechar minha minha parte que merenda e raciocínio inicial. E começou a falar antes."
+      },
+      {
+        "startTime": 638,
+        "endTime": 640,
+        "speaker": "Eduardo Stringhini",
+        "text": "levantar o amor"
+      },
+      {
+        "startTime": 644,
+        "endTime": 1790,
+        "speaker": "Alejandro Olchik",
+        "text": "ali do não sei que autoridade eles têm para isso. Tá? Mas o eles falam assim ficam incluídos os contratos padrão para os seguintes serviços de proteger Imóveis. Venda de imóvel com exclusividade e venda de imóvel tinha exclusividade. Então significa que um quinto andar uma OLX. Ela vai ter que exigir."
+      },
+      {
+        "startTime": 1790,
+        "endTime": 695,
+        "speaker": "Alejandro Olchik",
+        "text": "da imobiliária Quem tá anunciando no portal tem que ter? O contrato para poder fazer isso com o proprietário. Todo mundo vai ter que ter senão não pode nem fazer."
+      },
+      {
+        "startTime": 695,
+        "endTime": 701,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "E o pior que isso exigiu o contrato padrão, né? Refere totalmente a liberdade Econômica é muito sério um monte de princípio constitucional."
+      },
+      {
+        "startTime": 702,
+        "endTime": 792,
+        "speaker": "Diego Diehl",
+        "text": "Juridicamente que a gente tá de boa nessa história e o passo dois e a gente vê como é que a gente vai apoiar o nosso cliente a vencer essa burocracia com ou sem esse GR. sim e um segundo ponto ali que você falou dos contratos padrões, eles falam"
+      },
+      {
+        "startTime": 792,
+        "endTime": 821,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem uma questão anterior a essa né? Se essa é uma burocracia que vai acontecer e se ela é vai poder ser aplicada. Nesse barco e apoiar esse essa que apoiar quer apoiar o cresce confesse nesse processo, né? Ou Ok Contra isso filosoficamente, entendeu? Que a outra é um passo atrás."
+      },
+      {
+        "startTime": 825,
+        "endTime": 857,
+        "speaker": "Diego Diehl",
+        "text": "venda de móveis exclusividade nada a ver compra de imóvel nada a ver compra de imóvel nada a ver locação de imóvel nada a ver parceria para intermediação Imobiliária é esse aí que a gente entra daí só que você falou de compra e venda não tem a ver com a gente, né? Não é intermediação é? E eu nem tenho certeza que é que o ponto é da divulgação, né? Tem que estar autorizado a divulgar."
+      },
+      {
+        "startTime": 857,
+        "endTime": 862,
+        "speaker": "Alejandro Olchik",
+        "text": "Pois é para divulgar, tu tem que ter um contrato de parceria para intermediação."
+      },
+      {
+        "startTime": 862,
+        "endTime": 874,
+        "speaker": "Diego Diehl",
+        "text": "E essa lei já existe faz tempo tá essa não é recente. Essa é desde sempre só que eles passavam reto e pode ser que eles falem que vão fiscalizar e tal, mas de água isso aí, né? Tipo. cara não"
+      },
+      {
+        "startTime": 874,
+        "endTime": 874,
+        "speaker": "Eduardo Stringhini",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 874,
+        "endTime": 922,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Então como Alejandro falou a gente tem que entender se a gente tem a ganhar estando do lado deles para fazer esse Lobby junto com eles e ganhar junto ou se isso vai ser tão ruim para o nosso modelo de negócio que a gente prefere comprar uma briga com eles e discutir com funcionalidade do que eles estão exigindo enfim, né? Tem um outro tipo de briga."
+      },
+      {
+        "startTime": 922,
+        "endTime": 937,
+        "speaker": "Diego Diehl",
+        "text": "O nosso específico ali é sobre o contrato a parte de tipos de Publicidade permitida. Que tem um padrão ali do que tipo de publicidade. É permitido entre incorporador?"
+      },
+      {
+        "startTime": 938,
+        "endTime": 2116,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eles exigem a assinatura eletrônica avançada, mas eles não podem exigir que seja a plataforma deles, né assinatura eletrônica avançada pela lei. É aquela que não é com certificação eletrônica, mas que existe uma forma robusta de validar tanto quem assina quanto a integridade do documento que vai ser docksiden assim, como pode ser uma ferramenta de vocês mesmo que você desenvolvam e tenham como comprovar isso, né? Então me parece né que o problema operacional de fato eu poderia fazer uma Peri até com esse Sr."
+      },
+      {
+        "startTime": 2116,
+        "endTime": 1002,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Enfim, me parece que o problema operacional de fato é? A Incorporadora não quer ficar tendo que entrar no sistema e fazer assinatura um por um porque ela vai perder escala, né? Perde o propósito de tudo, né? Não sei o que que vocês pensam sobre isso."
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1005,
+        "speaker": "Eduardo Stringhini",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 1005,
+        "endTime": 1005,
+        "speaker": "Diego Diehl",
+        "text": "Daí."
+      },
+      {
+        "startTime": 1005,
+        "endTime": 1013,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas vou procurar agora no contrato conosco não poderia assinar nos dar uma procuração de autorizadas imobiliárias por ela, tipo isso poderia fazer parte"
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1013,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "pode"
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1035,
+        "speaker": "Alejandro Olchik",
+        "text": "do processo de contratação, quem quiser se resolver e aí é tudo e a gente quando se manda assinado, manda assinado pela aula e uma cópia da procuração que para ela uma coisa assim e fica a assinatura e a procuração gerada de forma automática assim com o nome do Com o nome da imobiliária corretora que está solicitando."
+      },
+      {
+        "startTime": 1035,
+        "endTime": 1050,
+        "speaker": "Diego Diehl",
+        "text": "Aí seria aí que eu vejo uma oportunidade, só que depende se eles vão fiscalizar mesmo, né? Eles vão fiscalizar mesmo. A gente poderia cobrar para otimizar essa vida deles, né tanto cobrar Imobiliária, quanto cobrar incorporador."
+      },
+      {
+        "startTime": 1050,
+        "endTime": 1051,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas eu acho que a finalidade deles."
+      },
+      {
+        "startTime": 1051,
+        "endTime": 1051,
+        "speaker": "Diego Diehl",
+        "text": "para utilizar"
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1055,
+        "speaker": "Alejandro Olchik",
+        "text": "Não há fiscalização se a gente resolveu a fiscalização fora desse VR ele"
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1056,
+        "speaker": "Diego Diehl",
+        "text": "isso mas"
+      },
+      {
+        "startTime": 1060,
+        "endTime": 1066,
+        "speaker": "Alejandro Olchik",
+        "text": "não é o que ele assim, parece que eles querem é o Sr. Como elemento centralizadoras."
+      },
+      {
+        "startTime": 1066,
+        "endTime": 1067,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eles falam governantes fala em governança."
+      },
+      {
+        "startTime": 1067,
+        "endTime": 1070,
+        "speaker": "Diego Diehl",
+        "text": "Inclusive o cara você viu a reunião inteira já Alejandro Um item."
+      },
+      {
+        "startTime": 1070,
+        "endTime": 1072,
+        "speaker": "Alejandro Olchik",
+        "text": "Mais não não conseguimos só vou conseguir olhar para o final de semana."
+      },
+      {
+        "startTime": 1072,
+        "endTime": 1098,
+        "speaker": "Diego Diehl",
+        "text": "Um item que que eles falaram bom tem vários itens preocupantes lá que daí entra no quesito de vamos apoiar vamos dar uma freada, né. Eles falaram que querem deixar tudo cadastrado lá com imagens e tal padrão para facilitar a divulgação dos portais. Cartão eles estão meio ambiciosos assim, eu sinto no ar assim."
+      },
+      {
+        "startTime": 1098,
+        "endTime": 1106,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Não é que imagina, né que o parceiro deles privado com K. Zero fazendo um monte de legalidade em nome do Creci. Aí fica fácil, né?"
+      },
+      {
+        "startTime": 1108,
+        "endTime": 1145,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente está numa situação, eu não sei passo um para mim básico, independente de qualquer coisa. É o cresce ou alguém não poder virar para gente e falar alguma coisa então eu acho que um passo um é esse cheque nos nossos contratos. E dá até para eu parecer técnico deles ali para depois para você olhar para a gente tirar o nosso da reta no sentido de algum problema aí talvez não passa um a gente Facilite para Imobiliária comunicando um pouco mais claramente para ela não virar depois para hora."
+      },
+      {
+        "startTime": 1145,
+        "endTime": 1157,
+        "speaker": "Diego Diehl",
+        "text": "E falar alguma coisa. Aí esse passo três de vão desenvolver vamos fazer tal coisa isso aí, eu acho que vai ter pano para manga ainda um tempo aí para discussões."
+      },
+      {
+        "startTime": 1158,
+        "endTime": 1183,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu ainda acho que dá para uma boa motivo para pegar o telefone ligar. Olha sei que são os concorrentes. Mas o confesse tá vindo, né? Tá pedindo fiscalização. A gente não acha que o negócio legal para o mercado como um todo o que que vocês acham? Né, tipo é tipo, eu acho que é interessante assim do ponto de vista."
+      },
+      {
+        "startTime": 1183,
+        "endTime": 1185,
+        "speaker": "Alejandro Olchik",
+        "text": "E de mercado oportunidade."
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1195,
+        "speaker": "Diego Diehl",
+        "text": "Se a gente não quiser desenvolver daí a gente ganha tempo, né? Se eles estão dormindo nesse negócio. Quando bater na porta deles o problema a gente já tá com a solução."
+      },
+      {
+        "startTime": 1195,
+        "endTime": 1220,
+        "speaker": "Alejandro Olchik",
+        "text": "É que esse desenvolvimento a gente não vai ter ganho, entendeu? Vai mover os dados para os caras vai dar um trabalhão vai nos tirar o foco. Né? E no final qualquer um desses caras que operar vai ter que acordar assim, a gente vai dar força para eles. A gente vai dar força para oferecer, eles estão querendo botar os lados para dentro não tem uma relação com o Andrés e com aquele."
+      },
+      {
+        "startTime": 1221,
+        "endTime": 1221,
+        "speaker": "Eduardo Stringhini",
+        "text": "o cara que"
+      },
+      {
+        "startTime": 1221,
+        "endTime": 1229,
+        "speaker": "Alejandro Olchik",
+        "text": "É o caminho para a base de informações e montar depois a tocar ele tá indo por esse caminho, entendeu? Então."
+      },
+      {
+        "startTime": 1229,
+        "endTime": 1244,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que isso de movimento parece que faz sentido botar o pé na porta assim, mas parece que faz sentido botar o pé na porta. Eu acho que tu vai ter que assistir a reunião ali Leandro, eu não sei também"
+      },
+      {
+        "startTime": 1244,
+        "endTime": 1245,
+        "speaker": "Diego Diehl",
+        "text": "Não é não sei."
+      },
+      {
+        "startTime": 1248,
+        "endTime": 1254,
+        "speaker": "Eduardo Stringhini",
+        "text": "o cara que a gente falou sem querer, nem sabia, ele é sócio do Gol index lá que é o negócio do André."
+      },
+      {
+        "startTime": 1254,
+        "endTime": 1264,
+        "speaker": "Diego Diehl",
+        "text": "O gol É eles querem a nossa pi pedindo para eles querem a nossa PI. E a gente quer também dados deles, né? Eu queria ter os 400 mil corretores de imóveis."
+      },
+      {
+        "startTime": 1266,
+        "endTime": 1268,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eles querem eles."
+      },
+      {
+        "startTime": 1269,
+        "endTime": 1275,
+        "speaker": "Diego Diehl",
+        "text": "O Júnior tá focado ele falou que esse ano a meta dele conseguia a base do confesse. Então, eu sei que nas praças assim só jogando contraponto comercial que daí"
+      },
+      {
+        "startTime": 1275,
+        "endTime": 1275,
+        "speaker": "Eduardo Stringhini",
+        "text": "então"
+      },
+      {
+        "startTime": 1280,
+        "endTime": 1298,
+        "speaker": "Diego Diehl",
+        "text": "você continua puxando esse lado aí da preocupação e o meu é. Esse apoio do cresce esse apoio do confesse pode ser muito forte para gente né? Quem tá lá é a brainly. E a gente tá longe, a gente não é político nesse sentido de estar com as relações azeitadas lá para abrir braço."
+      },
+      {
+        "startTime": 1299,
+        "endTime": 1305,
+        "speaker": "Diego Diehl",
+        "text": "Pode ser alguma coisa? Então aí é a parte dos contratos nossos né? Tipo."
+      },
+      {
+        "startTime": 1305,
+        "endTime": 1334,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ele falou que eles prepararam o Sr para Incorporadora poder fazer um cadastro. Tem uma base cadastrada. Mas isso não está no ar porque segundo ele falou na reunião a ideia do sgr não é atropelar negócios privados. É simplesmente ter estruturas tecnológicas que ajudem a melhorar o mercado quando existe algum algum GAP no mercado, né? Então ele falou que tem isso, mas eles não botar no ar."
+      },
+      {
+        "startTime": 1334,
+        "endTime": 1370,
+        "speaker": "Eduardo Stringhini",
+        "text": "Porque isso pode atrapalhar algum a verdade que o cara veio fazer reunião com a gente sem saber muito, o que que a gente era sabe. O cara dele é bem preparado e falou tudo ele veio falando todo o modelo de negócio do Andreia sem saber que era a gente assim, sabe? Então vai ser legal tu assistir essa reunião, mas acionar a prática os caras não tem como eles construir uma base de uma árvores assim dependendo da Incorporadora e lá cadastrar imagina."
+      },
+      {
+        "startTime": 1370,
+        "endTime": 1403,
+        "speaker": "Eduardo Stringhini",
+        "text": "E nem sabe que isso sabe pode até ter vai ter lá meia dúzia que vai ficar atualizando cadastrando. Mas vai ser uma m****, entendeu? Então eu Eu não vejo eles como um concorrente direto assim sabe na parte de ter uma plataforma de móveis atualizada e cadastro de Imóveis e tal pelo contrário, eu acho que se eles quiserem ter para fazer algo essa base deveria ser órgão, entendeu? A gente deveria ficar responsável pela curadoria disso."
+      },
+      {
+        "startTime": 1403,
+        "endTime": 1424,
+        "speaker": "Eduardo Stringhini",
+        "text": "então O negócio do Index lá vai ser onde é que eles vão ganhar dinheiro com ele, não é na base de móveis na busca é nas transações, eles vão brigar o cara a fazer compra de imóvel lá. Então nas transações não é na busca de morte."
+      },
+      {
+        "startTime": 1424,
+        "endTime": 1426,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Mas daí é uma loucura, né? Se eles tentaram obrigar isso."
+      },
+      {
+        "startTime": 1428,
+        "endTime": 1430,
+        "speaker": "Eduardo Stringhini",
+        "text": "Cara, ela tá uma loucura o mercado aí tá vindo uma onde tem organização."
+      },
+      {
+        "startTime": 1431,
+        "endTime": 1441,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Ok não a gente até tem feito projetos de organização Imobiliária e tal é a obrigação. Ah tem que pagar pelo Wallet."
+      },
+      {
+        "startTime": 1441,
+        "endTime": 1468,
+        "speaker": "Diego Diehl",
+        "text": "Não eles falaram eles não falaram nesse sentido assim de obrigar, mas vão vão atrapalhar, né? Eu acho que o passo 1 que a gente está não sei se a gente quer ir avançando estratégico mesmo aqui, mas o passo um básico a gente dá um cheque rápido dos nossos contratos e ver se a gente precisa ajustar algo agora porque vai virar o tubo e começar a fiscalizar eu vou ter que fazer alguma comunicação para o mercado para as nossas incorporadoras de Curitiba."
+      },
+      {
+        "startTime": 1468,
+        "endTime": 1480,
+        "speaker": "Diego Diehl",
+        "text": "Vão fiscalizar não sei o que que eu vou lidar com isso, mas para a gente tá ok com contrato e ver se a gente pode fazer algo com Incorporadora ou com as imobiliárias. E aí isso aí vai."
+      },
+      {
+        "startTime": 1480,
+        "endTime": 1494,
+        "speaker": "Alejandro Olchik",
+        "text": "Aí é o passo 2 que a gente pode ter uma reunião com o Garrido e com eles que acho que tá para reunião semana que vem para entender como Tecnicamente Mais Positivo, a gente poderia implementar isso. Tipo se alguma outra ideia tipo, mas nem essa na procuração, entendeu?"
+      },
+      {
+        "startTime": 1495,
+        "endTime": 1496,
+        "speaker": "Eduardo Stringhini",
+        "text": "Segunda às 17:00."
+      },
+      {
+        "startTime": 1496,
+        "endTime": 1499,
+        "speaker": "Alejandro Olchik",
+        "text": "Oferecem É por isso né?"
+      },
+      {
+        "startTime": 1503,
+        "endTime": 1509,
+        "speaker": "Diego Diehl",
+        "text": "eu não acho tá no tom que tá eu acho que eu não acho no sentido de eu não sei na verdade mas"
+      },
+      {
+        "startTime": 1510,
+        "endTime": 1510,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eu ia dizer isso porque talvez Traga uma coisa de confronto."
+      },
+      {
+        "startTime": 1510,
+        "endTime": 1515,
+        "speaker": "Diego Diehl",
+        "text": "Minha sensação de segunda-feira ainda. Exato. Já rolou um pouco, o Felipe começou a confrontar ontem. Já falei você"
+      },
+      {
+        "startTime": 1515,
+        "endTime": 1518,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "O advogado tem o papel do confronto na cabeça da galera, né?"
+      },
+      {
+        "startTime": 1520,
+        "endTime": 1530,
+        "speaker": "Diego Diehl",
+        "text": "tá maluco, cara, vira amigo dos cara primeiro tava questionando já falei calma comercial. Deixa os cara falar o que eles querem como que eles querem fazer o que que faria como é que seria?"
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1547,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "A oportunidade que a gente tem nisso. É fazer um convênio de cooperação com eles onde a gente pode usar a base de dados contribui com eles e eles ficam com uma rebinha do lucro que a gente fizer com sei lá, o que entendeu É exatamente, entendeu? Porque eles procuram fonte"
+      },
+      {
+        "startTime": 1547,
+        "endTime": 1548,
+        "speaker": "Diego Diehl",
+        "text": "assinatura dos negócios"
+      },
+      {
+        "startTime": 1551,
+        "endTime": 1555,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "de renda talvez se a gente ajudar a resolver a fonte de renda para eles eles virem para o nosso lado."
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1559,
+        "speaker": "Diego Diehl",
+        "text": "Incorporadora vai querer pagar para não ter esse trabalho?"
+      },
+      {
+        "startTime": 1559,
+        "endTime": 1561,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Perfeito exatamente então que eles Confiam na hora ou para ser esse ponto focal"
+      },
+      {
+        "startTime": 1561,
+        "endTime": 1562,
+        "speaker": "Diego Diehl",
+        "text": "E a imobiliária também."
+      },
+      {
+        "startTime": 1564,
+        "endTime": 1567,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "com as incorporadoras. E aí a gente divide o dinheiro com esse."
+      },
+      {
+        "startTime": 1567,
+        "endTime": 1581,
+        "speaker": "Diego Diehl",
+        "text": "O que é o que o que o que eu não tenho certeza ainda não sei se dá para saber. Essa fiscalização vai para frente mesmo. Vocês estão falando falando falando na verdade isso aí vai virar secundário mercado secundário."
+      },
+      {
+        "startTime": 1581,
+        "endTime": 1586,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eles não tem equipe para isso, né? É basicamente quando eles quiserem incomodar alguém específico."
+      },
+      {
+        "startTime": 1588,
+        "endTime": 1591,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom dia o link da reunião que a gente gravou o Garrido consegue ver ou é fechado."
+      },
+      {
+        "startTime": 1592,
+        "endTime": 1595,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô cobrando 50 dólares, mas eu consigo liberar aqui."
+      },
+      {
+        "startTime": 1597,
+        "endTime": 1597,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que a linha mais ou menos essa no passo 2, é talvez se associar com os"
+      },
+      {
+        "startTime": 1597,
+        "endTime": 1610,
+        "speaker": "Diego Diehl",
+        "text": "Utilizando pagar minha anualidade ali do tld. Não sei eu posso liberar daí da rede, você dá uma olhada aí inclusive pegar a transcrição jogar no GPT conversar."
+      },
+      {
+        "startTime": 1618,
+        "endTime": 1623,
+        "speaker": "Eduardo Stringhini",
+        "text": "cara, esse é o a ferramenta privada mais próxima deles, entendeu?"
+      },
+      {
+        "startTime": 1625,
+        "endTime": 1636,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "É basicamente pergunta falar assim, olha a gente pode ajudar a gente tem interesse em ajudar o que que precisa para que? Tenhamos essa relação, né? E deixar eles falarem colei informação."
+      },
+      {
+        "startTime": 1637,
+        "endTime": 1638,
+        "speaker": "Diego Diehl",
+        "text": "Exato eu acho que eles vão soltar a informação a segunda-feira."
+      },
+      {
+        "startTime": 1638,
+        "endTime": 1667,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Porque assim acaba sendo bem comum essas demandas com conselhos profissionais. Que eles tentam fazer dinheiro, então ele sai autuando todo mundo dizendo. Ah vocês trabalham nisso e não tem um profissional habilitado, né? Eles autuam até que eles sabem que não vão ganhar porque eles sabem que no volume da ameaça tem as empresas que vão fazer um acordo que vão tá e o que que eles oferece, tá? Então paga daqui em diante, não precisa pagar para trás sendo que a empresa."
+      },
+      {
+        "startTime": 1667,
+        "endTime": 1680,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Precisaria estar associada a eles enfim, né? Então por mais que a gente faça o estudo é um estudo interno da gente entender se tem risco o tamanho do Risco porque se eles quiserem incomodar e autores."
+      },
+      {
+        "startTime": 1681,
+        "endTime": 1687,
+        "speaker": "Eduardo Stringhini",
+        "text": "A praia que pagou 16 mil mês passado por causa de três corretoras lá do ano depois de três anos atrás."
+      },
+      {
+        "startTime": 1689,
+        "endTime": 1692,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Podia até discutir mas aí Prefiro não se incomodar. Eles vão pegando dinheiro assim."
+      },
+      {
+        "startTime": 1692,
+        "endTime": 1695,
+        "speaker": "Eduardo Stringhini",
+        "text": "Agora tem que ir atrás do corretor para comprar."
+      },
+      {
+        "startTime": 1695,
+        "endTime": 1696,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Com certeza"
+      },
+      {
+        "startTime": 1696,
+        "endTime": 1722,
+        "speaker": "Eduardo Stringhini",
+        "text": "Já saiu da empresa, mas foi aprendizado, né? Não manter cara que não tá crescendo. Tem que estar todo mês aí não pagou crescer. É responsabilidade da PJ, entendeu não deixar os caras. Bom, mas eu acho que eu passo um então é dar uma olhada no nosso contrato, só tem uma um detalhe nessa questão do contrato que é o seguinte."
+      },
+      {
+        "startTime": 1722,
+        "endTime": 1760,
+        "speaker": "Eduardo Stringhini",
+        "text": "Do lado das imobiliárias que pega o nosso dado nós temos contrato com todos seja o catálogo que a gente chama de catálogo desse produto seja o catálogo gratuito seja o catálogo pago. Do lado da Incorporadora, a gente só tem contrato com os pagos. Que é aproximadamente 30% dependendo da cidade né? 30 40% do que tá na nossa base? Entendeu? Então assim vamos lá Porto Alegre é quase 70%, então 70 de 100% das empresas que a gente tem na plataforma em Porto Alegre 70% eu tenho contrato."
+      },
+      {
+        "startTime": 1760,
+        "endTime": 1777,
+        "speaker": "Eduardo Stringhini",
+        "text": "Por causa me pagam eu tenho um contrato de cliente pagante, entendeu? E as outras 30% eu só tenho uma relação por WhatsApp. Não tenho nenhum contrato, eu só fico pegando os dados dela atualizando e na média."
+      },
+      {
+        "startTime": 1777,
+        "endTime": 1779,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Mas isso por escolher operacional para não ter que fazer um trabalho sem"
+      },
+      {
+        "startTime": 1779,
+        "endTime": 1780,
+        "speaker": "Eduardo Stringhini",
+        "text": "É o nosso modelo de negócio é frio é o iFood gratuito é que nem eu tenho eu"
+      },
+      {
+        "startTime": 1780,
+        "endTime": 1780,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "ganhar."
+      },
+      {
+        "startTime": 1783,
+        "endTime": 1790,
+        "speaker": "Eduardo Stringhini",
+        "text": "tenho os restaurantes alguns me pagam eu tenho o contrato e outros eu só fico atualizando que existe comida lá e era isso."
+      },
+      {
+        "startTime": 1790,
+        "endTime": 1800,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Não eu pergunto só porque a gente poderia mesmo se encontra a prestação financeira alterar o termino e eles aceitarem aquele termo de qualquer jeito mesmo sem pagar, entendeu? Para ter a formalização."
+      },
+      {
+        "startTime": 1800,
+        "endTime": 1807,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que isso é viável. Mas se eu falar isso para o Felipe e ele vai dizer que isso é enviado é o custo de"
+      },
+      {
+        "startTime": 1807,
+        "endTime": 1836,
+        "speaker": "Alejandro Olchik",
+        "text": "Só um pequeno detalhe que ameniza um pouco. As não pagantes são só recebidas pelas imobiliárias pagantes. Que são 10% da base integrada. Então não é que a gente precisaria são esses 10% de imobiliárias pagantes que estariam ameaçadas por essa carência. Digamos assim, né da gente não ter o contrato porque não paga então eu acho que não saberia obter para 70% da base, entendeu?"
+      },
+      {
+        "startTime": 1836,
+        "endTime": 1844,
+        "speaker": "Eduardo Stringhini",
+        "text": "É verdade Eu posso resolver o contrato da imobiliária pagante o problema que eu tenho com as incorporadoras não pagantes."
+      },
+      {
+        "startTime": 1844,
+        "endTime": 1858,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí daqui a pouco vai ter um fluxo de pedir que elas assinem um terninho para elas também poderem ser divulgadas, né nesses casos de pagantes interessados em receber que é o fluxo que a gente tem que pensar mas não para todo mundo."
+      },
+      {
+        "startTime": 1859,
+        "endTime": 1880,
+        "speaker": "Eduardo Stringhini",
+        "text": "A Incorporadora que me paga. Eu distribuo de graça a informação. Aqui não me paga. Eu cobro aí eu tenho um contrato com cobrança com a imobiliária que quer o da dúvida. E aí eu tenho um contrato. Para ele entender a lógica."
+      },
+      {
+        "startTime": 1880,
+        "endTime": 1894,
+        "speaker": "Diego Diehl",
+        "text": "Mas por que que vocês estão falando tudo isso? Porque? não vai resolver não não eu digo a linha do Por que que as imobiliárias pagantes estão no risco e qual o risco?"
+      },
+      {
+        "startTime": 1896,
+        "endTime": 1902,
+        "speaker": "Eduardo Stringhini",
+        "text": "Porque eu não tenho eu não tenho eu não tenho como formalizar com Incorporadora nada, entendeu?"
+      },
+      {
+        "startTime": 1903,
+        "endTime": 1906,
+        "speaker": "Diego Diehl",
+        "text": "Mas tudo que tudo que está formalizado nosso não é válido."
+      },
+      {
+        "startTime": 1907,
+        "endTime": 1910,
+        "speaker": "Eduardo Stringhini",
+        "text": "Formalizar com quem a gente tem contrato."
+      },
+      {
+        "startTime": 1910,
+        "endTime": 1912,
+        "speaker": "Diego Diehl",
+        "text": "Ah tá, tá entendi, entendi."
+      },
+      {
+        "startTime": 1913,
+        "endTime": 1922,
+        "speaker": "Eduardo Stringhini",
+        "text": "Se a gente for agora atualizar os contratos dos nossos incorporadoras pagantes agora vai ter uma cláusula nova lá que ela autoriza a orla distribuir para quem quer que seja."
+      },
+      {
+        "startTime": 1923,
+        "endTime": 1924,
+        "speaker": "Diego Diehl",
+        "text": "Para entregar a procuração."
+      },
+      {
+        "startTime": 1925,
+        "endTime": 1941,
+        "speaker": "Eduardo Stringhini",
+        "text": "Exatamente ou que ela está ciente que ela está autorizando todas as imobiliárias Integradas com Orla vender o produto. Eu sei que não funciona por confessa porque tem que ser individual. Mas talvez tira o nosso da reta, sabe? Então alguma coisa assim."
+      },
+      {
+        "startTime": 1941,
+        "endTime": 1977,
+        "speaker": "Diego Diehl",
+        "text": "Mas é ser irado chegar no e-mail das incorporadoras DL um monte de contrato feliz assinarem que tem um monte de Imobiliária querendo receber o produto monte de nada. São 10 12, às vezes que eu vejo nos incorporadores Eu digo tem uma falando de negócio tem um GAP nosso que é o mercado não vê valor é Incorporadora DL não sabe que tem Imobiliária pagando para receber o produto dela e tem um monte de imobiliária que receberia se ela nos pagasse não sabe o Senhor das 21 horas que eu fiz 18 não sabia."
+      },
+      {
+        "startTime": 1977,
+        "endTime": 1996,
+        "speaker": "Diego Diehl",
+        "text": "Então às vezes esse fluxo de informação por mais burocrático Custoso que fosse. É um é o que a gente chama de gatilho, né? É um porque Claro para eu te ligar. Só tô te ligando porque o Eduardo pediu é o motivo para o cara falar comigo no telefone, né?"
+      },
+      {
+        "startTime": 1996,
+        "endTime": 2013,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas dentro dos gatilhos que a gente tem a oportunidade de priorizar Diego. Esse é um que vai custar uma bufa para Uma alavancagem muito maior que essa então um só estaria fazendo isso porque está com uma arma na cabeça, entendeu? Porque se a gente não faria isso agora de jeito nenhum."
+      },
+      {
+        "startTime": 2013,
+        "endTime": 2017,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom então, me arruma um mais barato tá precisando desses aí."
+      },
+      {
+        "startTime": 2017,
+        "endTime": 2020,
+        "speaker": "Alejandro Olchik",
+        "text": "Do contato do interesse WhatsApp."
+      },
+      {
+        "startTime": 2020,
+        "endTime": 2025,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu não falei de assinar, eu não falei não."
+      },
+      {
+        "startTime": 2030,
+        "endTime": 2035,
+        "speaker": "Alejandro Olchik",
+        "text": "De todas as incorporadoras integrar com sistema de assinatura digital tem Api"
+      },
+      {
+        "startTime": 2035,
+        "endTime": 2045,
+        "speaker": "Diego Diehl",
+        "text": "Precisa resolver um problema todo eu digo é um porque a gente poderia se comunicar e dar um Control V no modelo padrão mandar um PDF para ele editar já para programado."
+      },
+      {
+        "startTime": 2052,
+        "endTime": 2055,
+        "speaker": "Alejandro Olchik",
+        "text": "para fazer essa Integração eu consegui gerar os contratos de forma dinâmica e"
+      },
+      {
+        "startTime": 2055,
+        "endTime": 2056,
+        "speaker": "Diego Diehl",
+        "text": "Eu não estou falando para a gente assinar."
+      },
+      {
+        "startTime": 2056,
+        "endTime": 2073,
+        "speaker": "Alejandro Olchik",
+        "text": "pensar num fluxo que seja usável, né? Para que a imobiliária ela possa facilmente ter essas atestados às vezes assim, quando isso acontecesse então tipo cara, vai ser um p*** esforço para implementar esse negócio é um p*** desvio de foco."
+      },
+      {
+        "startTime": 2073,
+        "endTime": 2105,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o a simplificação que eu tô falando Alexandre. Sabemos de algo que pode servir para comunicar não assinar fazer fluxo procurar depois a gente pensar em cara sem Imobiliária pagar. As incorporadoras que DL a gente pode comunicar essas incorporadoras DL? E pegar um ok delas de que elas sabem que tem que assinar um contrato, por exemplo é um envio de WhatsApp, né? Só o envio do WhatsApp."
+      },
+      {
+        "startTime": 2105,
+        "endTime": 2120,
+        "speaker": "Diego Diehl",
+        "text": "É uma oportunidade do envio do WhatsApp. Sem deve de procuração nada, tipo avisei. Avisei por WhatsApp, avisei por e-mail para todos os usuários da Incorporadora. Mas isso para a gente pensar. Independente de daqui"
+      },
+      {
+        "startTime": 2121,
+        "endTime": 2124,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "manutenção de relacionamento na finalização"
+      },
+      {
+        "startTime": 2124,
+        "endTime": 2127,
+        "speaker": "Diego Diehl",
+        "text": "A gente precisa de um Porquê Claro para se relacionar com Incorporadora que nem conhece a gente."
+      },
+      {
+        "startTime": 2134,
+        "endTime": 2137,
+        "speaker": "Alejandro Olchik",
+        "text": "Ok próximo passo. Então quem foi definido?"
+      },
+      {
+        "startTime": 2137,
+        "endTime": 2163,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eu imagino que seja Fazer essa essa opinião legal sobre qual a possível responsabilização ou não Da órgão com relação a essa operação. Que vai desencadear na revisão do contrato para ver se tem que mudar alguma coisa para tirar uma eventual responsabilidade ou repassar para o cliente, não sei se é isso exatamente."
+      },
+      {
+        "startTime": 2164,
+        "endTime": 2167,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eles deram parecer sobre os contatos."
+      },
+      {
+        "startTime": 2167,
+        "endTime": 2193,
+        "speaker": "Diego Diehl",
+        "text": "eu acho que eu acho que Eles avaliaram cada contrato, ele só colaram aqui. Por isso."
+      },
+      {
+        "startTime": 2198,
+        "endTime": 2213,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente pode ajustar já o contrato ele virar uma espécie de procuração para a gente. poder distribuir A face frente a os órgãos competentes sei lá com algo mais genérico assim que depois pudesse assinar."
+      },
+      {
+        "startTime": 2214,
+        "endTime": 2236,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Vamos lá, eu acho que existe alguns pontos, né? O primeiro é Imagino eu que eles não vão pedir para ser uma procuração pública, né? Imagina que não não exigindo que seja uma procuração pública a gente só vai ter a questão da sensibilidade do contrato, né? Que ao invés de apresentar só a procuração a gente vai ter que apresentar o contrato inteiro com as regras comerciais."
+      },
+      {
+        "startTime": 2236,
+        "endTime": 2238,
+        "speaker": "Alejandro Olchik",
+        "text": "Se fosse só uma questão de já padronizar para a gente poder eventualmente"
+      },
+      {
+        "startTime": 2238,
+        "endTime": 2240,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Eu faria separado por isso né pela questão de negócio."
+      },
+      {
+        "startTime": 2242,
+        "endTime": 2246,
+        "speaker": "Diego Diehl",
+        "text": "Mas se a gente quiser ter a procuração é só para se preparar você acha porque"
+      },
+      {
+        "startTime": 2254,
+        "endTime": 2264,
+        "speaker": "Alejandro Olchik",
+        "text": "tá? Pronto para assinar no futuro não precisaria a gente tá assinando incorporadoras novas, não teria que correr atrás disso depois entendeu É mesmo, gente para correr atrás assim, você sabe que vai para o seu efeito."
+      },
+      {
+        "startTime": 2266,
+        "endTime": 2275,
+        "speaker": "Eduardo Stringhini",
+        "text": "O Garrido Tô te passando o e-mail exato que eu passei tô te encaminhando o e-mail que eu enviei para o cresci com os nossos contratos o texto todos os contatos."
+      },
+      {
+        "startTime": 2275,
+        "endTime": 2279,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Tá tá depois o Diego. Depois você me envia ali o parecer deles também."
+      },
+      {
+        "startTime": 2280,
+        "endTime": 2286,
+        "speaker": "Diego Diehl",
+        "text": "Eu enviei no grupo ali só com a minhas duas fotos é duas páginas do parecer real. O resto é cola dos nossos contratos não tem parecer sobre os nossos"
+      },
+      {
+        "startTime": 2286,
+        "endTime": 2291,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "A gente é só uma ferramenta tecnológica da imobiliária, né? Ela tem que"
+      },
+      {
+        "startTime": 2291,
+        "endTime": 2313,
+        "speaker": "Diego Diehl",
+        "text": "contratos além dessas duas páginas e a resolução do confesse que seja deve ter tido. assim Se você dá uma olhada no contrato da rede, tem chance de você já falar assim, cara, tá de boa sem fazer nada nem fazer opinião legal nem fazer nada e aguardar aí cenas dos próximos."
+      },
+      {
+        "startTime": 2313,
+        "endTime": 2329,
+        "speaker": "Diego Diehl",
+        "text": "Episódios do que eu li eu acho que tá de boa porque o problema é Imobiliária a gente deixa Claro lá a gente só. A gente deixa lá a gente só cadastra. E atualiza o dá para abrir rapidinho."
+      },
+      {
+        "startTime": 2336,
+        "endTime": 2347,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Obviamente se adequar né? Mais ou menos como sei lá Microsoft Office, né? A gente tá só fornecendo a ferramenta, né? Se eles fizerem alguma ilegalidade a responsabilidade é deles."
+      },
+      {
+        "startTime": 2349,
+        "endTime": 2366,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó Não se altero deve seguir os protocolos comerciais usuais entre as partes ou seja ou seja Sigam as leis. A gente está utilizando duas etapas."
+      },
+      {
+        "startTime": 2367,
+        "endTime": 2382,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Cimo tá porque a relação comercial é a relação privada ali no final como tem bem com madeira as suas regras de anúncio de motos. Imóveis, eu botaria Um vírgula conforme regulamentação, legislação e vigor. Que Aí ficaria bem."
+      },
+      {
+        "startTime": 2383,
+        "endTime": 2393,
+        "speaker": "Diego Diehl",
+        "text": "Bem claro, né? a divulgação"
+      },
+      {
+        "startTime": 2393,
+        "endTime": 2398,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "E aí mais para frente, né? Se a gente quiser ser bastante Claro."
+      },
+      {
+        "startTime": 2398,
+        "endTime": 2406,
+        "speaker": "Diego Diehl",
+        "text": "Aqui da autorização de produtos não patrocinados a gente fala. é eu acho que é bom você dar uma olhadinha aqui porque"
+      },
+      {
+        "startTime": 2406,
+        "endTime": 2424,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Porque é mais para frente se eles começarem a apertar essa fiscalização mesmo, a gente pode até colocar algo mais explícito como a contratante declara que possui ciência da resolução tal do cresci que obriga a e isenta hora, né? Então dá para mais para frente dá para ser mais expressa ainda."
+      },
+      {
+        "startTime": 2426,
+        "endTime": 2450,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem outra coisa, né bem prática é quantas elas tem braço para fiscalizar ao mesmo tempo? Tipo se a gente tivesse um processo que consegue gerar por exemplo, se a gente conseguir gerar uma assinatura para Incorporadora no Beatrix. Né, tipo tiver uma procuração que a gente consiga assinar em nome de operadora, tipo é mediante requisição, entendeu? A gente só bota."
+      },
+      {
+        "startTime": 2450,
+        "endTime": 2469,
+        "speaker": "Diego Diehl",
+        "text": "Que Tem que apresentar na hora tem que mostrar que já tá assinado ou clicar na hora que o fiscal tá na frente Eu perguntei isso nessa linha que está falando, tipo pediu beleza? Amanhã eu te mando já era gera gera gera mana, mana, é isso que você tá pensando."
+      },
+      {
+        "startTime": 2469,
+        "endTime": 2469,
+        "speaker": "Diego Diehl",
+        "text": "Não dá dessa forma."
+      },
+      {
+        "startTime": 2469,
+        "endTime": 2476,
+        "speaker": "Alejandro Olchik",
+        "text": "É alguém para gerar na hora ou tem alguém para gerar uma hora em horário comercial? Pronto atendimento."
+      },
+      {
+        "startTime": 2477,
+        "endTime": 2478,
+        "speaker": "Diego Diehl",
+        "text": "Até o cara descobrir para quem ele liga."
+      },
+      {
+        "startTime": 2480,
+        "endTime": 2512,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente já teria a procuração. Eu tô falando de ligação a nível de produto, né um ser humano que entra aí no bíteres e fala gerar contrato de autorização. A gente já tá autorizado a questão da dos pré-contratos de autorização. A gente teria que ter a gente não precisa ter o fluxo Integrado de geração, entendeu? Automação poderia ser uma fase 2 horário comercial com uma pessoa dedicada a isso por exemplo."
+      },
+      {
+        "startTime": 2512,
+        "endTime": 2515,
+        "speaker": "Diego Diehl",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2515,
+        "endTime": 2520,
+        "speaker": "Alejandro Olchik",
+        "text": "Mitigar o fator e ajudar as imobiliárias na fiscalização."
+      },
+      {
+        "startTime": 2520,
+        "endTime": 2520,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "e tem um culto aí, ela é ruim que"
+      },
+      {
+        "startTime": 2520,
+        "endTime": 2526,
+        "speaker": "Diego Diehl",
+        "text": "por favor"
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2530,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "uma coisa"
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2535,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não assim eu tenho que é um café serve um café para ele vir aqui."
+      },
+      {
+        "startTime": 2535,
+        "endTime": 2539,
+        "speaker": "Diego Diehl",
+        "text": "Falaram alguma coisa da MRV já alguma coisa lá?"
+      },
+      {
+        "startTime": 2539,
+        "endTime": 2544,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "O barulho de impressora atrás assim, eu quero assinar a mão contrata"
+      },
+      {
+        "startTime": 2544,
+        "endTime": 2545,
+        "speaker": "Alejandro Olchik",
+        "text": "Aí caiu na triagem do Fernando lá que tá com três dias de atraso."
+      },
+      {
+        "startTime": 2545,
+        "endTime": 2576,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "retroativo. Tem um aspecto também pessoal que eu penso. É que existe um efeito rebote do órgão. Se indispor com tanta gente na região, né? Porque a partir do momento que ele começa a prejudicar o desenvolvimento econômico das incorporadoras os corretores começam a ficar p*** com eles e tal eles têm uma ruptura institucional bastante relevante."
+      },
+      {
+        "startTime": 2576,
+        "endTime": 2599,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "A ponto de gerar um prejuízo além do reputacional mas comercial com eles com relação a isso, né? E quando a gente está falando de Lobby, né? A gente vai ter incorporadoras muito grandes da região que vão ir no pescoço deles. então é"
+      },
+      {
+        "startTime": 2600,
+        "endTime": 2610,
+        "speaker": "Diego Diehl",
+        "text": "Essa decisão é vamos vai ser muito bom participar desse lobby. Vamos participar sim ou não? Se não vamos mostrar uma campanha fake de"
+      },
+      {
+        "startTime": 2610,
+        "endTime": 2612,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "É isso que isso quer dizer, né? Porque vamos pensar. Vamos pensar."
+      },
+      {
+        "startTime": 2612,
+        "endTime": 2618,
+        "speaker": "Diego Diehl",
+        "text": "marketing de revolta contra o confesse. É que o b****** ele vai anunciar igual entendeu?"
+      },
+      {
+        "startTime": 2618,
+        "endTime": 2639,
+        "speaker": "Eduardo Stringhini",
+        "text": "É que tu for ver né? Cara, a Incorporadora ela tem a preocupação de um coletor vender o imóvel dela ok, né? Daqui a pouco o cara é um b******. Sei lá, o corretor é um picareta e tal agora elas preocupar de alguém anunciaram um imóvel uma incorporadora é muito tirotela não querer fazer isso tem uma"
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2646,
+        "speaker": "Diego Diehl",
+        "text": "Eu não sei como é que eles vão pressionar, mas estão confiantes, eles estão"
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2664,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Vamos pensar o consumidor comum e o cara que vai comprar o imóvel. Quantas pessoas na população brasileira vão saber que existe o Sr. Vão entrar no sgr vão pegar os dados. Tipo ninguém vai ficar ninguém vai ver isso antes de comprar um imóvel, entendeu? É natimorto essa ideia a ideia é muito boa, mas não ninguém vai fazer para evitar isso."
+      },
+      {
+        "startTime": 2669,
+        "endTime": 2672,
+        "speaker": "Diego Diehl",
+        "text": "plantando para tokenizar ali na frente. Eu não pesquei. O Felipe falou que tá"
+      },
+      {
+        "startTime": 2672,
+        "endTime": 2672,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "é"
+      },
+      {
+        "startTime": 2675,
+        "endTime": 2693,
+        "speaker": "Diego Diehl",
+        "text": "por dentro dessas histórias aí faz tempo. Eu eu entrei em contato faz um mês eu não tenho uns pontos sombreados aí que não faz sentido ainda porque eu não entendi. Mas acho que segunda a gente vai conseguir segunda. Talvez o nosso plano é tipo cara. Estamos entendendo. Vamos ver como ajudar o que que vocês precisam vai ser legal."
+      },
+      {
+        "startTime": 2693,
+        "endTime": 2696,
+        "speaker": "Diego Diehl",
+        "text": "Não vai para daí a gente decidir com tudo na mão, né?"
+      },
+      {
+        "startTime": 2698,
+        "endTime": 2710,
+        "speaker": "Eduardo Stringhini",
+        "text": "O bom desse vídeo dessa reunião é que o cara entregou todo o plano do Andréa sem saber quem é que era e pelo outro por outra visão. As duas fotos do Diego e os contratos com texto do e-mail que eu acabei porque"
+      },
+      {
+        "startTime": 2710,
+        "endTime": 2711,
+        "speaker": "Diego Diehl",
+        "text": "José Carneiro Eu até me inscrevi lá no index bem legal já vai direto no"
+      },
+      {
+        "startTime": 2711,
+        "endTime": 2715,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele tem 50. Qual é o nome do cara?"
+      },
+      {
+        "startTime": 2720,
+        "endTime": 2732,
+        "speaker": "Diego Diehl",
+        "text": "WhatsApp coleta teu cadastro. Tô na fila de espera agora. A gente podia ter fila de espera da cidade, né? Mas legalzinho. Já deram uma aulinha de ar para a gente."
+      },
+      {
+        "startTime": 2737,
+        "endTime": 2744,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Então vou Vou analisar ali o que aconteceu que vocês mandarem. E aí a gente segue por e-mail ali."
+      },
+      {
+        "startTime": 2751,
+        "endTime": 2753,
+        "speaker": "Eduardo Stringhini",
+        "text": "cresci ali."
+      },
+      {
+        "startTime": 2755,
+        "endTime": 2779,
+        "speaker": "Diego Diehl",
+        "text": "É um plano é só avaliar o contrato de Imobiliária tem o catálogo gratuito catálogo pago? mensalmente para deixar claro que a gente lembra a imobiliária Imobiliária assinou que sabe da lei E sabe que a gente não resolve o problema da lei para ela. E sim, saímos do front a gente decide depois."
+      },
+      {
+        "startTime": 2783,
+        "endTime": 2785,
+        "speaker": "Luiz Gustavo Garrido",
+        "text": "Fechado então até mais."
+      },
+      {
+        "startTime": 2785,
+        "endTime": 2788,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza, obrigado. Até logo."
+      },
+      {
+        "startTime": 2788,
+        "endTime": 2788,
+        "speaker": "Diego Diehl",
+        "text": "valeu"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 215,
+    "speakers": [
+      "Alejandro Olchik",
+      "Diego Diehl",
+      "Luiz Gustavo Garrido",
+      "Eduardo Stringhini"
+    ],
+    "total_words_estimate": 5614,
+    "duration_start": 2,
+    "duration_end": 2788
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68c3364756b1320013c38450",
+        "timestamp": 19,
+        "text": "Alejandro planeja dar mais uma chance para um desafio após conversar com a mãe.",
+        "topicId": "68c3364756b1320013c38438"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38451",
+        "timestamp": 53,
+        "text": "Colaborador avaliado tem bom perfil de campo, mas pensamento crítico considerado superficial.",
+        "topicId": "68c3364756b1320013c38438"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843e",
+        "timestamp": 121,
+        "text": "Sistema CRM de imóveis precisa ser atualizado após reunião.",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843f",
+        "timestamp": 155,
+        "text": "Revisar contratos com corretores imobiliários e incorporadoras para resolver problemas de mercado.",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38440",
+        "timestamp": 434,
+        "text": "Contratos padrão só são válidos com assinatura eletrônica avançada conforme Lei 14063/2020.",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38441",
+        "timestamp": 614,
+        "text": "Plataforma exige que toda assinatura eletrônica seja feita por seu sistema",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38442",
+        "timestamp": 661,
+        "text": "Contratos padrão serão obrigatórios para serviços de proteção e venda de imóveis",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38443",
+        "timestamp": 695,
+        "text": "Impacto de contrato padrão analisado, com foco em superar burocracias de assinaturas eletrônicas",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38452",
+        "timestamp": 856,
+        "text": "Estratégia definida entre colaboração e confronto com reguladores para parceria de divulgação",
+        "topicId": "68c3364756b1320013c38439"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38444",
+        "timestamp": 921,
+        "text": "Contrato com incorporadores discute tipos de publicidade e requisitos de assinatura eletrônica",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38445",
+        "timestamp": 985,
+        "text": "Preocupação da incorporadora com assinatura manual, que prejudica escalabilidade",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38446",
+        "timestamp": 1050,
+        "text": "Proposta de procuração para imobiliárias autorizadas assinarem em nome da incorporadora",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38447",
+        "timestamp": 1082,
+        "text": "Equipe planeja centralizar assinaturas no SCR e verificar contratos para evitar problemas com Creci",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38448",
+        "timestamp": 1349,
+        "text": "Necessidade de esclarecer detalhes sobre prerrogativa não definida claramente",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c38449",
+        "timestamp": 1434,
+        "text": "Próximos passos incluem consulta prévia e preparação de comunicação para incorporadoras",
+        "topicId": "68c3364756b1320013c38436"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844a",
+        "timestamp": 1721,
+        "text": "Situação contratual atual: contratos apenas com incorporadoras pagas (30-40% da base)",
+        "topicId": "68c3364756b1320013c38437"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844b",
+        "timestamp": 1874,
+        "text": "Modelo de negócio: distribuição gratuita para incorporadoras pagantes, cobrança para não pagantes",
+        "topicId": "68c3364756b1320013c38437"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844c",
+        "timestamp": 2123,
+        "text": "Equipe precisa definir justificativa clara para se relacionar com incorporadoras desconhecidas.",
+        "topicId": "68c3364756b1320013c38437"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843b",
+        "timestamp": 2197,
+        "text": "Alejandro sugere ajustar contrato para transformá-lo em uma procuração genérica para representação junto a órgãos competentes.",
+        "topicId": "68c3364756b1320013c38435"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843a",
+        "timestamp": 2275,
+        "text": "Eduardo enviará e-mail com contratos para Luiz analisar.",
+        "topicId": "68c3364756b1320013c38435"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844d",
+        "timestamp": 2313,
+        "text": "Diego avalia que contrato atual protege a empresa, indicando que são apenas uma plataforma de cadastro.",
+        "topicId": "68c3364756b1320013c38437"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844e",
+        "timestamp": 2406,
+        "text": "Luiz propõe adicionar declaração explícita sobre resolução do CRECI no contrato para futuras fiscalizações.",
+        "topicId": "68c3364756b1320013c38437"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843d",
+        "timestamp": 2449,
+        "text": "Confirmação de autorização necessária para divulgação de conteúdo",
+        "topicId": "68c3364756b1320013c38435"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3843c",
+        "timestamp": 2505,
+        "text": "Alejandro sugere automação de geração de contratos como fase 2, com atendimento em horário comercial.",
+        "topicId": "68c3364756b1320013c38435"
+      },
+      {
+        "segmentId": "68c3364756b1320013c3844f",
+        "timestamp": 2762,
+        "text": "Plano de criar catálogo gratuito e pago para deixar claro responsabilidades legais das imobiliárias.",
+        "topicId": "68c3364756b1320013c38437"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68c3364756b1320013c38435",
+        "order": 1,
+        "title": "Ações Acordadas e Próximos Passos",
+        "summary": ""
+      },
+      {
+        "id": "68c3364756b1320013c38436",
+        "order": 2,
+        "title": "Estratégia de Contratos e Assinaturas Eletrônicas",
+        "summary": ""
+      },
+      {
+        "id": "68c3364756b1320013c38437",
+        "order": 3,
+        "title": "Modelo de Negócio e Relacionamento com Incorporadoras",
+        "summary": ""
+      },
+      {
+        "id": "68c3364756b1320013c38438",
+        "order": 4,
+        "title": "Avaliação de Colaborador",
+        "summary": ""
+      },
+      {
+        "id": "68c3364756b1320013c38439",
+        "order": 5,
+        "title": "Estratégia de Comunicação e Parceria",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 25,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68c3364756b1320013c38435",
+      "order": 1,
+      "title": "Ações Acordadas e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "68c3364756b1320013c38436",
+      "order": 2,
+      "title": "Estratégia de Contratos e Assinaturas Eletrônicas",
+      "summary": ""
+    },
+    {
+      "id": "68c3364756b1320013c38437",
+      "order": 3,
+      "title": "Modelo de Negócio e Relacionamento com Incorporadoras",
+      "summary": ""
+    },
+    {
+      "id": "68c3364756b1320013c38438",
+      "order": 4,
+      "title": "Avaliação de Colaborador",
+      "summary": ""
+    },
+    {
+      "id": "68c3364756b1320013c38439",
+      "order": 5,
+      "title": "Estratégia de Comunicação e Parceria",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:47:57.818344+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:47:57.818344+00:00"
+}

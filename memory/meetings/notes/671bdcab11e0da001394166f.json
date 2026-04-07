@@ -1,0 +1,121 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "671bef2529515000137c0c39",
+      "timestamp": 220,
+      "text": "Apresentação dos novos membros da equipe, incluindo Eduardo de João Pessoa.",
+      "topicId": "671bef2529515000137c0c32"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3a",
+      "timestamp": 351,
+      "text": "Revisão dos aniversariantes de setembro e reconhecimento de seus destaques.",
+      "topicId": "671bef2529515000137c0c32"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3c",
+      "timestamp": 435,
+      "text": "Destaque para o desempenho de Pablo e Mila na equipe comercial.",
+      "topicId": "671bef2529515000137c0c33"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3d",
+      "timestamp": 586,
+      "text": "Reconhecimento do trabalho de Carlos na área de difusão e suporte.",
+      "topicId": "671bef2529515000137c0c33"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3e",
+      "timestamp": 646,
+      "text": "Destaque para o desempenho de Amelo na entrega de progresso ao cliente.",
+      "topicId": "671bef2529515000137c0c33"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3b",
+      "timestamp": 690,
+      "text": "Revisão dos destaques do mês e aniversariantes de outubro.",
+      "topicId": "671bef2529515000137c0c32"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c3f",
+      "timestamp": 782,
+      "text": "Apresentação dos dados financeiros de agosto e setembro pela equipe de finanças.",
+      "topicId": "671bef2529515000137c0c34"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c40",
+      "timestamp": 971,
+      "text": "Discussão sobre o crescimento da audiência e parcerias em Curitiba.",
+      "topicId": "671bef2529515000137c0c35"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c41",
+      "timestamp": 1111,
+      "text": "Análise do desempenho e estratégia de entrada em João Pessoa.",
+      "topicId": "671bef2529515000137c0c35"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c42",
+      "timestamp": 1493,
+      "text": "Revisão do plano de reajuste do auxílio Home Office e alinhamento da equipe.",
+      "topicId": "671bef2529515000137c0c36"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c43",
+      "timestamp": 1563,
+      "text": "Discussão sobre o uso de inteligência artificial em diferentes setores da empresa.",
+      "topicId": "671bef2529515000137c0c37"
+    },
+    {
+      "segmentId": "671bef2529515000137c0c44",
+      "timestamp": 1837,
+      "text": "Compartilhamento de insights sobre a presença da empresa em eventos e marketing.",
+      "topicId": "671bef2529515000137c0c38"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "671bef2529515000137c0c32",
+      "order": 1,
+      "title": "Apresentação da Equipe",
+      "summary": "Novos membros da equipe foram apresentados, incluindo Eduardo de João Pessoa. Aniversariantes de setembro e outubro foram reconhecidos por seus destaques."
+    },
+    {
+      "id": "671bef2529515000137c0c33",
+      "order": 2,
+      "title": "Desempenho da Equipe",
+      "summary": "Destaque para o trabalho de Pablo, Mila, Carlos e Amelo em diferentes áreas da empresa. Revisão dos destaques do mês."
+    },
+    {
+      "id": "671bef2529515000137c0c34",
+      "order": 3,
+      "title": "Dados Financeiros",
+      "summary": "Apresentação dos dados financeiros de agosto e setembro pela equipe de finanças."
+    },
+    {
+      "id": "671bef2529515000137c0c35",
+      "order": 4,
+      "title": "Expansão e Estratégia",
+      "summary": "Discussão sobre o crescimento da audiência e parcerias em Curitiba. Análise do desempenho e estratégia de entrada em João Pessoa."
+    },
+    {
+      "id": "671bef2529515000137c0c36",
+      "order": 5,
+      "title": "Benefícios e Políticas",
+      "summary": "Revisão do plano de reajuste do auxílio Home Office e alinhamento da equipe."
+    },
+    {
+      "id": "671bef2529515000137c0c37",
+      "order": 6,
+      "title": "Tecnologia e Inovação",
+      "summary": "Discussão sobre o uso de inteligência artificial em diferentes setores da empresa."
+    },
+    {
+      "id": "671bef2529515000137c0c38",
+      "order": 7,
+      "title": "Eventos e Marketing",
+      "summary": "Compartilhamento de insights sobre a presença da empresa em eventos e marketing."
+    }
+  ]
+}

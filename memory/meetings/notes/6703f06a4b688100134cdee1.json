@@ -1,0 +1,79 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e0",
+      "timestamp": 66,
+      "text": "Ativar automação de descarte ainda não criada. Confirmar se automação de 5 dias após segunda etapa está ativa para clientes.",
+      "topicId": "6703f4d7bf41bc00132fe8dc"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e2",
+      "timestamp": 117,
+      "text": "Abordar situação ocorrida na sexta-feira com o gerente. Resolver problema com a abordagem, pois houve outros casos no final de semana.",
+      "topicId": "6703f4d7bf41bc00132fe8dd"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e1",
+      "timestamp": 224,
+      "text": "Verificar se higienização e automação de funil de leads a partir de 5 dias estão ativas nos clientes.",
+      "topicId": "6703f4d7bf41bc00132fe8dc"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e3",
+      "timestamp": 288,
+      "text": "Automação de abordagem não estava sendo executada corretamente antes de sexta-feira.",
+      "topicId": "6703f4d7bf41bc00132fe8dd"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e4",
+      "timestamp": 364,
+      "text": "Continuar testes com @hotmail e avançar com a segunda funcionalidade. Reunião com Patrícia da ex para entender uso da ferramenta.",
+      "topicId": "6703f4d7bf41bc00132fe8de"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e5",
+      "timestamp": 397,
+      "text": "Tarefas pendentes do João, incluindo reuniões.",
+      "topicId": "6703f4d7bf41bc00132fe8de"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e6",
+      "timestamp": 403,
+      "text": "Verificar prazo para completar as tarefas pendentes da fonte. Confirmar com Vitor o prazo para completar os ajustes.",
+      "topicId": "6703f4d7bf41bc00132fe8df"
+    },
+    {
+      "segmentId": "6703f4d7bf41bc00132fe8e7",
+      "timestamp": 461,
+      "text": "Lucas irá dar uma olhada na exo e fazer a duplicata da automação para Canopus.",
+      "topicId": "6703f4d7bf41bc00132fe8df"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6703f4d7bf41bc00132fe8dc",
+      "order": 1,
+      "title": "Ativação de Automações",
+      "summary": "Discussão sobre a ativação de automações de descarte e higienização de dados, com foco em prazos e implementação."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8dd",
+      "order": 2,
+      "title": "Resolução de Problemas com Abordagem",
+      "summary": "Discussão sobre problemas com a abordagem de clientes, incluindo a necessidade de resolver uma situação específica ocorrida na sexta-feira."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8de",
+      "order": 3,
+      "title": "Próximos Passos e Tarefas",
+      "summary": "Discussão sobre próximas etapas, incluindo testes com @hotmail, reuniões com a Patrícia da ex, e tarefas pendentes."
+    },
+    {
+      "id": "6703f4d7bf41bc00132fe8df",
+      "order": 4,
+      "title": "Acompanhamento de Tarefas",
+      "summary": "Discussão sobre o acompanhamento de tarefas pendentes, incluindo a configuração de arquivos e respostas do bot para os corretores."
+    }
+  ]
+}

@@ -1,0 +1,1295 @@
+{
+  "meeting_id": "68dd25df2a58930013fe3d7a",
+  "name": "Órulo + LM Saraiva",
+  "happened_at": "2025-10-01T13:00:00.000Z",
+  "duration_seconds": 3797.142,
+  "duration_minutes": 63.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "luiz carlos sa silva filho",
+      "email": "luizfilho.imoveis@gmail.com"
+    },
+    {
+      "name": "",
+      "email": "comercial@lmsaraiva.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68dd25df2a58930013fe3d7a",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "oby-acif-qjb",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68dd2689bb3bd30013bc8aab",
+    "meetingId": "68dd25df2a58930013fe3d7a",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 1,
+        "speaker": "Diego Diehl",
+        "text": "Ah beleza. Tá com uma tela ok aí né?"
+      },
+      {
+        "startTime": 2,
+        "endTime": 2,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "isso"
+      },
+      {
+        "startTime": 3,
+        "endTime": 19,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, é Lucas, vamos lá até antes de começar a falar algo assim queria entender aí o que que Como é que o que que você conhece aqui da hora já se você pensa. Você veio para essa reunião com que expectativa?"
+      },
+      {
+        "startTime": 21,
+        "endTime": 43,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "É na verdade, eu não conheço praticamente a ferramenta. Foi algo que foi nos apresentado através do pessoal da vnv que a gente tá prestando consultoria e também quando Luiz foi para o connecta que eu não tive a oportunidade de ir é Luiz também teve conhecimento lá dessa ferramenta lá com vocês, mas eu particularmente não conheço ainda."
+      },
+      {
+        "startTime": 44,
+        "endTime": 48,
+        "speaker": "Diego Diehl",
+        "text": "Beleza e você é da parte comercial da LM Saraiva?"
+      },
+      {
+        "startTime": 49,
+        "endTime": 49,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "isso"
+      },
+      {
+        "startTime": 51,
+        "endTime": 75,
+        "speaker": "Diego Diehl",
+        "text": "vendas hoje e lançamentos. Pergunta assim quem é que vende é uma imobiliária duas é o mercado todo lance e vende tudo ou fica ao longo do da obra toda vendendo, como é que tá aí estratégia de vocês e execução."
+      },
+      {
+        "startTime": 75,
+        "endTime": 84,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "A gente tá com empreendimento em construção que foi lançado a cerca de dois anos. Tá precisando de entrega para o próximo ano cerca de um ano aí?"
+      },
+      {
+        "startTime": 85,
+        "endTime": 87,
+        "speaker": "Diego Diehl",
+        "text": "Show e hoje as vendas elas são já pulverizadas a galera que vendeu aí o brisa"
+      },
+      {
+        "startTime": 87,
+        "endTime": 110,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Exato a gente tá aí com 80 um pouquinho mais de 80% vendido, estamos aí na reta final das unidades. Estamos ainda sem perspectiva de um próximo lançamento, estamos captando o terreno. Não tem nada ainda concreto e hoje a gente tá aberto ao mercado como sempre como sempre estivemos não temos House."
+      },
+      {
+        "startTime": 110,
+        "endTime": 113,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "relacionamento com o mercado todo"
+      },
+      {
+        "startTime": 119,
+        "endTime": 125,
+        "speaker": "Diego Diehl",
+        "text": "dos nortes são várias imobiliárias diferentes que vendem mais concentrado. Como é que é?"
+      },
+      {
+        "startTime": 125,
+        "endTime": 126,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "É mais pulverizado."
+      },
+      {
+        "startTime": 127,
+        "endTime": 129,
+        "speaker": "Diego Diehl",
+        "text": "Pulverizado já tô te perguntando porque a gente daqui a pouco eu te conto o"
+      },
+      {
+        "startTime": 129,
+        "endTime": 134,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "isso"
+      },
+      {
+        "startTime": 134,
+        "endTime": 181,
+        "speaker": "Diego Diehl",
+        "text": "apresentando. E aí a gente vai avançando pode ser?"
+      },
+      {
+        "startTime": 181,
+        "endTime": 181,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Pode ser tranquilo."
+      },
+      {
+        "startTime": 182,
+        "endTime": 1376,
+        "speaker": "Diego Diehl",
+        "text": "para o mercado imobiliário para Para o mercado imobiliário é como um todo aqui em Recife. Vou te jogar uma pergunta, por exemplo um corretor. Que eu virei cliente aqui do eu sou cliente de vocês. Eu liguei para vocês e falei assim Luiz. Cara Quero Quero investir em Recife. No apartamento aí na planta."
+      },
+      {
+        "startTime": 1376,
+        "endTime": 342,
+        "speaker": "Diego Diehl",
+        "text": "Que que você tem para mim? Como é que você ia se movimentar aí Luiz? Que que você ia falar para mim? Pergunta a sério mesmo, quero comprar em Recife. Se você fosse"
+      },
+      {
+        "startTime": 342,
+        "endTime": 346,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Aí eu ia te apresentar o nosso produto a região que a gente tem."
+      },
+      {
+        "startTime": 346,
+        "endTime": 359,
+        "speaker": "Diego Diehl",
+        "text": "Do mercado não da LM Saraiva. Entendeu me entendeu? Eu quero tô meio aberto, como é que você encontrar os lançamentos agora?"
+      },
+      {
+        "startTime": 363,
+        "endTime": 375,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Hoje hoje aqui em Recife e a gente procura, vamos ver quem tá na imobiliária através das informações que as imobiliárias passam por corretor, geralmente ele vai dar uma pesquisada."
+      },
+      {
+        "startTime": 377,
+        "endTime": 2167,
+        "speaker": "Diego Diehl",
+        "text": "ligar em número fixo de Incorporadora aí cai na central. Daí cai para um lado daí cai para o outro toda essa morosidade essa trava. Na nossa informação do mercado imobiliário aqui do mercado imobiliário que torna o mercado. Ineficiente e Pobre vamos falar assim, a gente tenta resolver organizando informação."
+      },
+      {
+        "startTime": 2167,
+        "endTime": 495,
+        "speaker": "Diego Diehl",
+        "text": "Fala aí Lucas."
+      },
+      {
+        "startTime": 495,
+        "endTime": 499,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Mas nesse caso o corretor precisa ter acesso a ferramenta é isso?"
+      },
+      {
+        "startTime": 502,
+        "endTime": 503,
+        "speaker": "Diego Diehl",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 503,
+        "endTime": 506,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Não precisa ter conhecimento e precisa ter acesso a ferramenta."
+      },
+      {
+        "startTime": 508,
+        "endTime": 605,
+        "speaker": "Diego Diehl",
+        "text": "Não gasta meu tempo, não, vou ficar te respondendo a imobiliária dela começa a Perceber. Aqui ó, deixa eu mostrar Recife. Se está bem."
+      },
+      {
+        "startTime": 605,
+        "endTime": 613,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "O corretor precisa ser usuário da ferramenta e o nosso experimento precisa estar dentro logicamente da ferramenta para que ele tenha acesso, né?"
+      },
+      {
+        "startTime": 613,
+        "endTime": 657,
+        "speaker": "Diego Diehl",
+        "text": "tecnologia. Fala isso."
+      },
+      {
+        "startTime": 657,
+        "endTime": 676,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Hoje na realidade sim, pesquisa dessa seria as próprias imobiliárias quando ela tem site. porém Ele não tem ele não tem uma pessoa específica que fique sempre atualizando. Isso é muito raro."
+      },
+      {
+        "startTime": 677,
+        "endTime": 688,
+        "speaker": "Diego Diehl",
+        "text": "Daí o site atualizado por exemplo, eu vou pegar aqui. Uma para vocês verem na prática aqui ó, um cliente que eu tava."
+      },
+      {
+        "startTime": 688,
+        "endTime": 709,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "E assim e Nesse caso eles não tem a opção de do corretor ir direto para a consultora, né? Então tem essa aqui no teu carro no caso a pessoa ele vai direto o acesso da própria consultora. Então não precisa ir atrás de outra pessoa para tentar descobrir então ele vai direto para"
+      },
+      {
+        "startTime": 709,
+        "endTime": 2459,
+        "speaker": "Diego Diehl",
+        "text": "Você vai receber no teu sistema de CRM automaticamente manter atualizado o teu site completo com zero custo. A imobiliária fica doida nessa hora ela fala caramba, eu vou eu vou parar de fazer isso. Eu vou ter isso tudo atualizado, eu falo vou. No lançamento da praça eu deixo todos os Empreendimentos gratuitos aí uma galera SINTEGRA vai crescendo se eu pegar João Pessoa aqui já tem umas 200 e poucas imobiliárias Integradas lá."
+      },
+      {
+        "startTime": 2459,
+        "endTime": 930,
+        "speaker": "Diego Diehl",
+        "text": "Eu até ver de Recife, fala uma incorporadora de Recife."
+      },
+      {
+        "startTime": 930,
+        "endTime": 931,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Vamos ver."
+      },
+      {
+        "startTime": 931,
+        "endTime": 931,
+        "speaker": "Diego Diehl",
+        "text": "como"
+      },
+      {
+        "startTime": 932,
+        "endTime": 933,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Campos Gouveia"
+      },
+      {
+        "startTime": 936,
+        "endTime": 942,
+        "speaker": "Diego Diehl",
+        "text": "Campos Gouveia Vocês conhecem esses produtos provavelmente, né?"
+      },
+      {
+        "startTime": 944,
+        "endTime": 944,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "sim"
+      },
+      {
+        "startTime": 946,
+        "endTime": 966,
+        "speaker": "Diego Diehl",
+        "text": "então tem 75 imobiliárias que Oi"
+      },
+      {
+        "startTime": 966,
+        "endTime": 969,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Ela tem ela tem que ficar meio que se cadastrar."
+      },
+      {
+        "startTime": 969,
+        "endTime": 972,
+        "speaker": "Diego Diehl",
+        "text": "Moura do B Paraíba ou Recife"
+      },
+      {
+        "startTime": 972,
+        "endTime": 977,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "DDD 31"
+      },
+      {
+        "startTime": 977,
+        "endTime": 1044,
+        "speaker": "Diego Diehl",
+        "text": "dentro do CRM delas e consequentemente o site delas. Ou seja, se a moda do B for lançar um produto hoje. amanhã Com tecnologia eu vou entregar para 75 imobiliárias dentro do sistema vai estar em 75 sites e vai ter cliente circulando o site estão entendendo o valor disso, tipo só o mecanismo."
+      },
+      {
+        "startTime": 1044,
+        "endTime": 1055,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Ela tem ela tem que ficar meio que se cadastrar."
+      },
+      {
+        "startTime": 1055,
+        "endTime": 1722,
+        "speaker": "Diego Diehl",
+        "text": "trabalhar aquilo. E aí a gente começa a criar esse mecanismo como está em lançamento ver que tem zero não Integradas aqui, né? todas estão recebendo o produto da Mora do B se eu pegar aqui uma de Uma de João Pessoa aqui ó o grupo Aqua que tem o visione."
+      },
+      {
+        "startTime": 1722,
+        "endTime": 2545,
+        "speaker": "Diego Diehl",
+        "text": "Eles estão visualizando o produto. Mas ó das imobiliárias parceiras 122 não recebem o produto somente 8 recebe por quê? Porque o grupo Aqua não é meu cliente Premium. Ela não me paga então, eu só entrego para as imobiliárias que pagam para receber o produto dela cada Imobiliária me paga r$ 10 por produto por mês para receber o produto do grupo."
+      },
+      {
+        "startTime": 2545,
+        "endTime": 1131,
+        "speaker": "Diego Diehl",
+        "text": "Aqua se o grupo Aqua fosse meu cliente eu entregaria para todas as imobiliárias gratuitamente. A maioria das imobiliárias pega só que é gratuito, né?"
+      },
+      {
+        "startTime": 1131,
+        "endTime": 1152,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "consigo enxergar. Quais são as imobiliárias que estão cadastradas que de repente não estão recebendo meu produto para que eu de repente eu como comercial eu faço um trabalho nessas imobiliárias para apresentar eu consigo ver isso."
+      },
+      {
+        "startTime": 1152,
+        "endTime": 1162,
+        "speaker": "Diego Diehl",
+        "text": "Você tá Você tá dando um giro ao contrário, tá? Você pode mas não é esse não. É isso que eu tô tentando te mostrar aqui, eu tô te mostrando é"
+      },
+      {
+        "startTime": 1162,
+        "endTime": 1165,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Essa era a minha dúvida em relação a isso justamente essa tentar identificar"
+      },
+      {
+        "startTime": 1165,
+        "endTime": 1927,
+        "speaker": "Diego Diehl",
+        "text": "Luiz. Já tem lá uns 400 e poucos corretores cadastrados, você consegue ver que corretor que acessou o teu produto. E aí mais você consegue selecionar por exemplo produtos concorrentes? E saber e receber uma lista dos 100 corretores que mais acessam esse grupo então cara, você tem a tua região ali."
+      },
+      {
+        "startTime": 1927,
+        "endTime": 2718,
+        "speaker": "Diego Diehl",
+        "text": "Tem cinco produtos em torno de você, até amora do B tem outro tem outra, qual corretor que está acessando o produto deles e não Tá acessando. Meu deixa eu dar um oi para ele. E aí você clica aqui em dois cliques você abre uma página pega o nome telefone e-mail do corretor."
+      },
+      {
+        "startTime": 2718,
+        "endTime": 1429,
+        "speaker": "Diego Diehl",
+        "text": "Para você ao invés de pegar o carro dirigir a cada Imobiliária gastar duas horas do nada tem 50 corretores aqui com telefone. Eu acho que isso aqui daí ó Carolina."
+      },
+      {
+        "startTime": 1429,
+        "endTime": 1430,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "DDD 31"
+      },
+      {
+        "startTime": 1432,
+        "endTime": 1443,
+        "speaker": "Diego Diehl",
+        "text": "Não estou com acesso. Enfim, você vai pegar ali o telefone. e evoluir"
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1447,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Essa era a minha dúvida em relação a isso justamente essa tentar identificar"
+      },
+      {
+        "startTime": 1447,
+        "endTime": 1447,
+        "speaker": "Diego Diehl",
+        "text": "você"
+      },
+      {
+        "startTime": 1449,
+        "endTime": 1456,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "quem tinha esse perfil nosso que de repente estava pesquisando alguma coisa próxima. E eu consegui resgatar essa pessoa."
+      },
+      {
+        "startTime": 1456,
+        "endTime": 2262,
+        "speaker": "Diego Diehl",
+        "text": "em João Pessoa, a gente entrou em setembro. Só que tem de Recife, tá que eu tô sem acesso aqui, eu tenho que liberar eu posso eu posso até liberar para vocês o acesso de uma semana para vocês baterem olho na inteligência de mercado. Aqui você começa a ter uma visão da cidade então, como é que tá o comportamento de estoque? Deixa eu selecionar aqui para ficar melhor."
+      },
+      {
+        "startTime": 2262,
+        "endTime": 3194,
+        "speaker": "Diego Diehl",
+        "text": "Onde é que estão o estoque da cidade por exemplo João Pessoa lá, tá bombando um quarto? São os flashes que eles chamam um quarto, mas também equilibrado que um quarto dois quartos três quartos, aí começa a ver o que tá vendendo mais quem tá lançando mais. Qual que é o preço de cada tipologia o que tá vendendo mais? Se a região tá com alto, estoque não tá vendendo ou se tinha estoque vendeu tudo e acabou o estoque."
+      },
+      {
+        "startTime": 3194,
+        "endTime": 1674,
+        "speaker": "Diego Diehl",
+        "text": "Se é uma região que aqui ó ticket médio posso escolher um bairro vocês conhecem João Pessoa ou não?"
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1674,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Muito pouco."
+      },
+      {
+        "startTime": 1675,
+        "endTime": 1675,
+        "speaker": "Diego Diehl",
+        "text": "Muito pouco."
+      },
+      {
+        "startTime": 1677,
+        "endTime": 1680,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Mas isso você pode filtrar por bairro é isso?"
+      },
+      {
+        "startTime": 1681,
+        "endTime": 2315,
+        "speaker": "Diego Diehl",
+        "text": "O cara fica só não o meu produtor melhor. O meu é melhor. O meu é melhor. O meu é melhor tá? Mas com base em que cara, você é da construtora é óbvio que você vai falar que o teu é melhor, né? Então eu te dou meio que uma munição digamos assim."
+      },
+      {
+        "startTime": 2315,
+        "endTime": 3219,
+        "speaker": "Diego Diehl",
+        "text": "Para você falar de uma forma mais concreta com o teu cliente, né? Porque o teu cliente ele vai três construtoras diferentes, escuta o mesmo discursinho nas três ou ele se apaixona por algum ou ele fica perdido e não compra ou ele compra no que ele quiser, mas a primeira que começa a falar de uma forma mais madura, a gente não tá falando de comprar uma caneta, né? A gente fala e comprar um apartamento."
+      },
+      {
+        "startTime": 3219,
+        "endTime": 1969,
+        "speaker": "Diego Diehl",
+        "text": "O cliente já sente que é outro nível, né? Então só que começa a virar uma arma para novos terrenos para novos negócios para precificação. O meu tá caro. Tá barato. E para atendimento, né? Tá fazendo sentido a gente fala aí."
+      },
+      {
+        "startTime": 1969,
+        "endTime": 1984,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "a tabela essas coisas certo essa atualização que faz sou eu como Incorporadora, não é isso?"
+      },
+      {
+        "startTime": 1984,
+        "endTime": 2005,
+        "speaker": "Diego Diehl",
+        "text": "Eu tenho os dois eu tenho Incorporadora que fala assim Diego eu esqueço, tô corrido e tal me cobra para te mandar a tabela eu te mando você faz o resto. A gente Porque pensa eu tenho 170 Empreendimentos lá em Recife, você acha que se eu deixar na mão da Incorporadora atualizar ela vai lembrar da atualizar? Não vai né? Então a gente aprendeu isso."
+      },
+      {
+        "startTime": 2005,
+        "endTime": 2024,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem uma equipe que garante a atualização. Ah Diego, mas cara eu vendi uma unidade. Eu quero entrar no aplicativo clicar no botão e tirar. E tirar a unidade em estoque para o corretor já saber que essa aqui já saiu em dois cliques você tira. Ah quero subir a tabela toda você pode subir também."
+      },
+      {
+        "startTime": 2024,
+        "endTime": 2032,
+        "speaker": "Diego Diehl",
+        "text": "Aqui ó, gente p****, agora consegui tava fazendo paralelo aqui para a gente não perder tempo, qual que é o bairro do produto de vocês?"
+      },
+      {
+        "startTime": 2033,
+        "endTime": 2033,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Cordeiro"
+      },
+      {
+        "startTime": 2035,
+        "endTime": 2061,
+        "speaker": "Diego Diehl",
+        "text": "Agora a gente vai falar de uma família. Tem três Empreendimentos mapeados lá? Incorporadora América Lira Júnior Campos Gouveia Vocês não estão por algum motivo? Estoque. Ó tá acabando o estoque lá isso mesmo."
+      },
+      {
+        "startTime": 2061,
+        "endTime": 2062,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "É do bairro é?"
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2090,
+        "speaker": "Diego Diehl",
+        "text": "É que o de vocês não tá aqui, né, mas vamos ver reduziu bem o estoque de Março até agora. Isso é do bairro mostrar de tirar o bairro aqui, ó. Ó, Recife, deixa eu selecionar também como a gente não tem um mapa desde lá de trás deixar só alguns meses aqui."
+      },
+      {
+        "startTime": 2090,
+        "endTime": 2124,
+        "speaker": "Diego Diehl",
+        "text": "Ó 4.500 unidades em estoque em Recife. a maioria dos quartos um e três mil unidades em GV Foi para 3.300. Recife de lançamento que mais tem um vgv de estoque é três quartos um bilhão Dois quartos e tal a gente começa a ver. preço do metro quadrado deixa eu ver o preço metro quadrado do Recife 11 de média Tá ok."
+      },
+      {
+        "startTime": 2124,
+        "endTime": 2157,
+        "speaker": "Diego Diehl",
+        "text": "Não tá tão estourado preço aí ainda, né? estoque bairro com mais produto Boa Viagem encruzilhada Imbiribeira Boa Vista, olha Incorporadora com mais unidade uma hora do b A clf Carrilho torque Campos Gouveia Max floral que tá no bairro de vocês ali, né? seta Humaitá E aí eu começo a fazer filtro, né? Que é o que eu falei para vocês."
+      },
+      {
+        "startTime": 2157,
+        "endTime": 2167,
+        "speaker": "Diego Diehl",
+        "text": "Ó quem tem mais estoque modo B. Vamos pegar o bairro ali de vocês, qual que é mesmo?"
+      },
+      {
+        "startTime": 2168,
+        "endTime": 2169,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Cordeiro"
+      },
+      {
+        "startTime": 2169,
+        "endTime": 2169,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Cordeiro"
+      },
+      {
+        "startTime": 2170,
+        "endTime": 2174,
+        "speaker": "Diego Diehl",
+        "text": "Quais são os bairros do lado ali que meio que compete também?"
+      },
+      {
+        "startTime": 2174,
+        "endTime": 2187,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Iputinga Mas algumas"
+      },
+      {
+        "startTime": 2187,
+        "endTime": 2187,
+        "speaker": "Diego Diehl",
+        "text": "mais algum"
+      },
+      {
+        "startTime": 2192,
+        "endTime": 2198,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Entre essa seria a torre. Mas não seria uma torre."
+      },
+      {
+        "startTime": 2198,
+        "endTime": 2199,
+        "speaker": "Diego Diehl",
+        "text": "Então aqui ó, se for vamos. Vamos enxergar esse bairro aqui, ó."
+      },
+      {
+        "startTime": 2199,
+        "endTime": 2200,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Torres mas eu acho que já foge um pouquinho."
+      },
+      {
+        "startTime": 2202,
+        "endTime": 2202,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Pode um pouquinho?"
+      },
+      {
+        "startTime": 2209,
+        "endTime": 2242,
+        "speaker": "Diego Diehl",
+        "text": "Estoque unidade está caindo. dois quartos caindo Aí você começa a ver é legal ver eu vou até por exemplo, o que é que vendeu lá? Você começa a ver por. dormitório venda bruta preço metro quadrado médio 6 8 7 200 ticket médio vendido o valor de vendido médio 422 Aí dá para ver quem que mais vendeu lá que mais vendeu lá foi a Campos Gouveia."
+      },
+      {
+        "startTime": 2242,
+        "endTime": 2267,
+        "speaker": "Diego Diehl",
+        "text": "Do nosso mapa, né? Talvez é que vocês não entraram aqui por algum motivo, até olhei no nosso sistema ali a gente entrou em contato com vocês. em Julho de 24 Mas eu não sei o que aconteceu. Vou perguntar para o time lá depois para já por vocês logo de novo."
+      },
+      {
+        "startTime": 2267,
+        "endTime": 2303,
+        "speaker": "Diego Diehl",
+        "text": "Bora do Bira plano? Deixa eu ver o que que é relevante aqui a gente vê. Venda por metro quadrado aqui ó o metro quadrado qualquer tipologia do produto de vocês. Três quartos, vamos ver três quartos. Quadrado que vendeu não que vendeu, né o metro quadrado da unidade que saiu do estoque porque se a Incorporadora deu 5 10 20% de desconto, a gente não sabe né? Uma hora do B tá precificada bem lá, né?"
+      },
+      {
+        "startTime": 2305,
+        "endTime": 2305,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "É isso."
+      },
+      {
+        "startTime": 2307,
+        "endTime": 2308,
+        "speaker": "Diego Diehl",
+        "text": "América tá lá embaixo."
+      },
+      {
+        "startTime": 2312,
+        "endTime": 2314,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "América é o quê?"
+      },
+      {
+        "startTime": 2319,
+        "endTime": 2320,
+        "speaker": "Diego Diehl",
+        "text": "Eu posso por vertical?"
+      },
+      {
+        "startTime": 2321,
+        "endTime": 2321,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Duplex, né?"
+      },
+      {
+        "startTime": 2323,
+        "endTime": 2362,
+        "speaker": "Diego Diehl",
+        "text": "Vertical horizontal eu já tiro para não poluir minha análise, né? Enfim gente daí a gente começa a ver vocês começam a Enxergar o mercado de uma forma mais analítica, né? Tipo? E no mercado imobiliário eu venho de Engenharia de Produção, né? Gente em fábrica e tal você olha indicador, olha número o mercado imobiliário fica circulando um monte de boato e coisa que acho que acho que acho que aquilo que isso que aquilo quando você começa a brincar de olhar cara uma vez na semana que vendeu que não saiu virou um mês que tá subindo que lançou."
+      },
+      {
+        "startTime": 2362,
+        "endTime": 2389,
+        "speaker": "Diego Diehl",
+        "text": "A tua cabeça mesmo começa a absorver tudo, mas ela absorve a partir de dados mais sólidos, né? Não a partir de comentários passados. Eles começa a ter uma visão de mercado e que isso dobra naturalmente porque os cursos de vendas para o teu produto. Ah uma coisa que eu não mostrei aqui eu não vou abrir aqui de novo, mas uma das coisas mais importantes eu em Curitiba, lancei uns."
+      },
+      {
+        "startTime": 2389,
+        "endTime": 2420,
+        "speaker": "Diego Diehl",
+        "text": "Acho que deu uns 50 prédios lá, né Incorporadora que eu trabalhava e uma coisa importante que eu gostava de ver. Era que eu via lá um bairro que tá vendendo bem eu tá vou lançar naquele barco show. Tá mas o que é que tá vendendo bem. É o dois quartos de 50 ou de 60 ou de 40? É o 3/4 de 50 60 ou 70 aí de um prédio que tinha unidade de 40 50 60 e 70 metros."
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2454,
+        "speaker": "Diego Diehl",
+        "text": "Qual que vendeu mais rápido no lançamento, qual que vendeu só no final? Que que o que que encalhou só que você consegue ver um compiladão do bairro inteiro, né? Cara? Tá encalhado as unidades de dois quartos do bairro ou de três quartos ou o três quartos compacto vendeu bem porque tem ticket o três quartos maiorzinho que eu achei que ia ficar uma planta super legal não vendeu? Você começa a ver na granularidade, o que é que tá acontecendo com o mercado? Tá muito abstrato gente."
+      },
+      {
+        "startTime": 2454,
+        "endTime": 2476,
+        "speaker": "Diego Diehl",
+        "text": "Deu para entender o que eu tô o que eu tô dizendo. E aí para fechar o sistema uma pergunta. Se não ia dar uma clareza que final para vocês. Qual que é o convite? Qual que é a nossa situação aí atual? É parecido com o lançamento vocês têm aí, daqui a pouco um pré-lançamento de vocês."
+      },
+      {
+        "startTime": 2476,
+        "endTime": 2500,
+        "speaker": "Diego Diehl",
+        "text": "Tem cliente que vai chegar no lançamento tem cliente que vai chegar no lançamento tem cliente vai chegar quatro meses depois lançando ter cliente vai chegar lá depois quando não não agora eu vi que o rooftop foi feito então posso confiar última laje foi concretada. E na hora a gente tem esses momentos iguais a última cidade que a gente entrou foi João Pessoa."
+      },
+      {
+        "startTime": 2500,
+        "endTime": 2530,
+        "speaker": "Diego Diehl",
+        "text": "Agora a gente vai entrar em Recife por coincidência, encontrei o Luiz no conecta. E aí o que que eu vou falar o que que eu entrego, né? É eu preciso fechar as primeiras parcerias em Recife. O nosso o nosso serviço aqui que é esse combo é ter o teu produto para as imobiliárias receberem integrado ter o teu produto no portal de uma forma tops com planta com tudo tem lá lá tem a inteligência de mercado."
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2553,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem só mostrar tabela de preço nós já explica como é que funciona aqui para vocês, tá? A gente trabalha deixa eu por aqui só 2025. A gente trabalha com mensalidades a partir do tamanho da Incorporadora quantidade de produtos. Ou seja, ou seja amora do B que tem 12 produtos, ela vai me pagar r$ 2.300 por mês."
+      },
+      {
+        "startTime": 2553,
+        "endTime": 2574,
+        "speaker": "Diego Diehl",
+        "text": "A outra que tem 8 vai pagar 1.700 a outra que tem cinco vai pagar 1100 o nosso plano. básico aqui Ele é de um e dois produtos 500 e dois reais. Padrão assim que a gente entra e tal você sempre vão ter isso aqui daí qual que é meu convite a oportunidade na verdade."
+      },
+      {
+        "startTime": 2574,
+        "endTime": 2597,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou entrar em Recife em Janeiro. Vou entrar. E eu vou gastar dinheiro em Recife, eu vou subir anúncios em Recife. Que eu pego e boto lá corretor acesse os produtos da Palma da sua mão ferramenta gratuita, tá tá Daí, o corretor vai lá se cadastra e eu invisto aqui, eu vou fazer meus anúncios no Facebook."
+      },
+      {
+        "startTime": 2597,
+        "endTime": 2621,
+        "speaker": "Diego Diehl",
+        "text": "Vou participar de algum evento vou. Vou fazer alguma coisa assim. E aí o convite para vocês é eu vou se vocês quiserem avaliar. Caramba, tá dando erro que eu queria mostrar os anúncios para vocês. Deixa eu só tentar abrir aqui. O Facebook bugado aí é f***, né? Cara, se o meu sistema cair depois vocês falam até o Facebook é brincadeira."
+      },
+      {
+        "startTime": 2621,
+        "endTime": 2646,
+        "speaker": "Diego Diehl",
+        "text": "Nossa não faz tempo acontece nada, mas o convite que eu trago de oportunidade para vocês é desse disso que eu tô mostrando para vocês. tecnologia e tal É vocês podem ser embaixadores da hora, o que tem baixador na verdade? É a Incorporadora aqui vai fomentar aqui. Ó, cara, você pode acessar meu produto aqui, mas olha só acessa por aqui que é bem melhor."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2668,
+        "speaker": "Diego Diehl",
+        "text": "Porque daí o teu corretor vai falar c****** que massa pô, eu posso compartilhar posso isso? Posso aquilo você vai traquear ele? E você vai poder dar essa essa trazer essa tecnologia? E me ajudar a crescer a praça né? Você me ajuda a crescer, a praça é o metrifico todo o corretor que entrou por meio de você."
+      },
+      {
+        "startTime": 2668,
+        "endTime": 2693,
+        "speaker": "Diego Diehl",
+        "text": "E cada corretora gera um cashback de a gente varia dependendo da praça, eu vou elaborar a campanha ainda, mas é de 20 a 50 reais. Teve uma incorporadora que era 20 reais e ela me trouxe mil corretores. Ela teve lá o cashback de 20 mil reais comigo como ou para bordar mensalidade uma parte da mensalidade ou para fazer campanha de marketing de lançamento."
+      },
+      {
+        "startTime": 2693,
+        "endTime": 2713,
+        "speaker": "Diego Diehl",
+        "text": "E aí o que que eu faço o anúncio que eu vou fazer lá no Facebook? Eu vou por um produto na cara lá falar corretora acessa esse produto e todos os outros e tal e quando ele entrar na hora ele vai entrar em algum produto específico direto para conhecer a plataforma."
+      },
+      {
+        "startTime": 2713,
+        "endTime": 2736,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou fazer um anúncio com Incorporadora de vocês. Então eu divulgo de um lado você divulga para o outro a mensalidade eu dou 50% de desconto. Ou seja você vai pagar nada para mim 200 pino. Porque eu já fiz de graça, não gostei de fazer de graça relação fica estranho tipo fazer a proposta sem sinal não é legal."
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2757,
+        "speaker": "Diego Diehl",
+        "text": "Tem que pagar um boletim ali para para converter, né? Essa grana que os primeiros meses eu converto em anúncio. Então eu vou falar assim, ó, tá vendo esses 250. Por seis meses eu vou investir diretamente no Facebook no anúncio do produto de vocês levando corretor para orla, então não tô querendo dinheiro de vocês."
+      },
+      {
+        "startTime": 2757,
+        "endTime": 2780,
+        "speaker": "Diego Diehl",
+        "text": "Não é sobre isso agora eu quero crescer a praça, então é esse mecanismo de bombar. Qual que é o único critério que eu certo? Não dá para eu tá fomentando hora o meu tá levando um monte de corretor para lá e quando o corretor te pede alguma coisa, você manda o drive para ele vai te mandar órgão."
+      },
+      {
+        "startTime": 2780,
+        "endTime": 2806,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o único critério. E aí vocês ganham inteligência de mercado integração Papa, inclusive você pode indicar imobiliárias que eu vou ter alguém do meu time para ligar para imobiliária para integrar. E aí se vocês quiserem avançar também a gente tem uma outra solução com WhatsApp com Yago que todo o corretor que acessar a hora você aborda automaticamente do teu WhatsApp registra esse cara no sistema."
+      },
+      {
+        "startTime": 2806,
+        "endTime": 2828,
+        "speaker": "Diego Diehl",
+        "text": "E você pode realizar disparo para essa galera que era Z2 a Lembra que você foi no stand da Z2. Aí a Z2 a é um sistema ali no WhatsApp que para Incorporadora de vocês é custar uns r$ 1000 por mês. E aí se vocês forem embaixadores, eu também não nega desconto e faz por 250."
+      },
+      {
+        "startTime": 2828,
+        "endTime": 2850,
+        "speaker": "Diego Diehl",
+        "text": "Assim não existe é aquela parada do preço simbólico de custo. Para quê? Porque vocês vão estar? Usando a nossa tecnologia na praça vocês e mais quatro que eu vou escolher normalmente, eu não pego Incorporadora concorrente. Eu pego uma econômico uma do médio uma do alto uma do Luxo uma de algo assim para fazer isso acontecer."
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2885,
+        "speaker": "Diego Diehl",
+        "text": "Então resuma isso gente é tipo, eu nem tô minha reunião aqui é mais para abrir relacionamento é para quando forem Recife ou visitar vocês. E para convidar vocês a uma oportunidade de o corretor, nunca esquece. Quem apresentou a hora do projeto. Porque ele vai usar todo dia e alguém pode falar pode ser outro que fale, pode ser? Eu pode ser vocês vocês o corretor ele para de te olhar como interesseiro que só quer vender o produto de vocês, né? Ele fala cara, o Luiz chega lá e fala gente."
+      },
+      {
+        "startTime": 2885,
+        "endTime": 2912,
+        "speaker": "Diego Diehl",
+        "text": "Olha só nosso produto tá aqui. Aqui vocês podem ver todos os outros e eu podia mostrar que só o meu drive, mas eu tô colaborando aqui com vocês. Experimenta e me contem como foi depois aí vai começar a ter um monte de corretor eles falando p****, Luiz. Obrigado por me apresentar já indiquei para tal gente, já falei do c******, p****, me ajuda, eu vou vender um produto teu aqui, cara."
+      },
+      {
+        "startTime": 2912,
+        "endTime": 2924,
+        "speaker": "Diego Diehl",
+        "text": "Começa a virar uma relação de reciprocidade essa linha de raciocínio geral, tá gente? Eu queria saber o que vocês acharam dúvidas momento de vocês. Como é que vocês vem?"
+      },
+      {
+        "startTime": 2927,
+        "endTime": 2927,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Lucas"
+      },
+      {
+        "startTime": 2928,
+        "endTime": 2930,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Oi pode falar pode começar a luz?"
+      },
+      {
+        "startTime": 2930,
+        "endTime": 2959,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Não para mim assim. Eu até antes de viajar para o colégio, eu até tinha comentado quando a vmv falou de vocês, eu fiquei com pé atrás. E aí vocês podem sair de prova que eu tinha essa página ninguém conhece ouro aqui vai ser meio complicado da gente pagar algo para para um sistema que não conhece, né? E aí quando eu tive lá no conecta eu já vim com outra visão na realidade."
+      },
+      {
+        "startTime": 2959,
+        "endTime": 2980,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "O homem já passou até o Zé junto que foi que eu achei bastante interessante e assim essa o que você passou aí para mim e para alguma coisa agora para mim ser muito mais do que você falou por algo por mim lá no conecta. Então para mim faz muito sentido."
+      },
+      {
+        "startTime": 2980,
+        "endTime": 2987,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Né? E aí na minha parte? Eu já comprei ele é mas eu não sou homem do dinheiro."
+      },
+      {
+        "startTime": 2989,
+        "endTime": 3011,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "O Diego e como é que esse acesso ao ouro pelo corretor? É por aqui, pode ser por aplicativo também é um acesso assim, porque o corpo é muito imediatista, né? Quando ele quer assim tabela material, ele quer uma coisa que seja rápido e fácil. Quer ter muito trabalho, então queria que você falasse um pouco mais sobre isso, por favor."
+      },
+      {
+        "startTime": 3011,
+        "endTime": 3036,
+        "speaker": "Diego Diehl",
+        "text": "boa Eu te mostrar um dado. Porque daí a gente. Porque uma coisa eu falar claro Lucas Ôxe outra coisa vou te mostrar aqui, ó. Acho que é um dado vou te mostrar a quantidade de usuários Brasil, tá a gente bateu agora em agosto 100 mil usuários direto na hora."
+      },
+      {
+        "startTime": 3036,
+        "endTime": 3061,
+        "speaker": "Diego Diehl",
+        "text": "A gente isso aqui são negativos sabe é corretoras, a gente já tem uma lista de 250 mil luzes que eu quero dizer com isso. Todo o nosso trabalho de todo dia todo dia a dia é que o cara. Aperte um botão. E Abra a cidade dele ele clica em um botão."
+      },
+      {
+        "startTime": 3061,
+        "endTime": 3071,
+        "speaker": "Diego Diehl",
+        "text": "Já tem o produto dele? Ele clica em um botão. Ele compartilha com o cliente dele. E a mesma coisa?"
+      },
+      {
+        "startTime": 3072,
+        "endTime": 3084,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "No caso quando ele for rapidinho quando ele for compartilhar com cliente Sai o contato do corretor que enviou. Por exemplo, eu vou encaminhar para Lucas."
+      },
+      {
+        "startTime": 3084,
+        "endTime": 3084,
+        "speaker": "Diego Diehl",
+        "text": "Vou copiar."
+      },
+      {
+        "startTime": 3084,
+        "endTime": 3085,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Sai o meu contato."
+      },
+      {
+        "startTime": 3086,
+        "endTime": 3098,
+        "speaker": "Diego Diehl",
+        "text": "Vou te mostrar aqui, ó compartilhar, o produto é o que aparece some órgão some o nome da Incorporadora. Aparece o meu nome o meu telefone."
+      },
+      {
+        "startTime": 3098,
+        "endTime": 3099,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Nossa velho"
+      },
+      {
+        "startTime": 3099,
+        "endTime": 3121,
+        "speaker": "Diego Diehl",
+        "text": "Tem a descrição tudo que aparecer de contato aqui, ó. Tem corretor que patrocina essa página? Porque daí o cliente clica aqui, ó. Olá contact. Então o Lucas o que eu queria te trazer assim, cara, a gente faz isso há 12 anos. O nosso trabalho é simplificar o máximo Ah Diego, mas cara, ele é muito preguiçoso."
+      },
+      {
+        "startTime": 3121,
+        "endTime": 3146,
+        "speaker": "Diego Diehl",
+        "text": "Ele só quer o que ele quer na verdade do Luiz quando ele pede algo que o Luiz mande no WhatsApp para ele. Aí a gente tem a nossa e a que manda no WhatsApp. Ô Zé manda apresentação do produto tal manda. Mas qual que é o ponto? Quando o corretor quer consultar tudo bem que no Drive ele já tá logado pelo Google."
+      },
+      {
+        "startTime": 3146,
+        "endTime": 3167,
+        "speaker": "Diego Diehl",
+        "text": "Ele já alugou a primeira vez, né? Então vai abrir direto na hora. E aí Lucas você pode entrar na orla baixar o aplicativo e experimentar também, você vai lá fazer um cadastro Claro. Vai pedir o número do WhatsApp vai chegar um código no teu WhatsApp. Você vai se registrar acabou vai tá logado."
+      },
+      {
+        "startTime": 3167,
+        "endTime": 3201,
+        "speaker": "Diego Diehl",
+        "text": "Só que a partir daí. Por exemplo essa semana Lucas hoje é Luiz é hoje é quarta. Quais foram os corretores que acessaram o book do teu Empreendimento no Drive? Entendeu? É tipo um cliente entrar no teu site você não saber quem é você não pode abordar ele. Então Quando começa essa bola de neve o cara tem que fazer um login Claro é um pouquinho mais chato, mas com a venda que a gente faz com corretor fala corretor, você vai poder acessar todos os Empreendimentos da cidade."
+      },
+      {
+        "startTime": 3201,
+        "endTime": 3232,
+        "speaker": "Diego Diehl",
+        "text": "O meu vai começar a pontuar Ali vai rankear tua Incorporadora para ser uma das primeiras sempre. Cada incorretor que acessa o teu produto ranqueia vocês mais para cima. Enquanto todas as outras estão dormindo todo o corretor que acessa a hora ela vai ter o teu produto lá como primeiro, inclusive daí é que eu não tô dando é muita coisa para explicar né? Mas para Você respondendo a primeira pergunta tá Lucas? Faça o teu cadastro e sinta na pele."
+      },
+      {
+        "startTime": 3232,
+        "endTime": 3268,
+        "speaker": "Diego Diehl",
+        "text": "Você vai ver como é que é? E aí você fala tá Diego, mas p**** é mais simples, eu vou gerar um atrito com corretor eu vou falar vai. É essa a briga que o Luiz tem que estar disposto a trilhar com a gente, pô, vai ter que fazer um cadastro vai ter que baixar o aplicativo vai, mas o ponto não é o desafio do Luiz é o resultado que ele vai colher depois né? Então, por exemplo pô, vários corretores estão acessando o teu produto eu vou virar para vocês o Luiz."
+      },
+      {
+        "startTime": 3268,
+        "endTime": 3289,
+        "speaker": "Diego Diehl",
+        "text": "Essa que é listagem patrocinada é um produto nosso. Que que ele faz? Ele bota o teu produto como destaque para todo o corretor que essa receita inteira vai estar o teu produto por primeiro. Eu vou deixar o teu produto lá em destaque. Vamos acabar vamos zerar esse estoque logo vai estar aqui em primeiro."
+      },
+      {
+        "startTime": 3289,
+        "endTime": 3317,
+        "speaker": "Diego Diehl",
+        "text": "Ah eu vou por aqui vocês vão fazer uma campanha eu vou ter agora 500 corretores, você sabe como fazer o celular apitado o corretor Luis. Hoje não tem como se o cara tiver meu aplicativo eu faço apitar que é uma notificação para ele. Fala pessoal unidade promocional empreendimento tá ou campanha ou lembre produto pronto vai pensa se não vai dar resultado apitar o celular de 300 corretores ao mesmo tempo."
+      },
+      {
+        "startTime": 3317,
+        "endTime": 3348,
+        "speaker": "Diego Diehl",
+        "text": "Eu fiz isso num evento que eu tava com 300 Corretores e eu programei um push prático 10:15. E aí foi muito engraçado, porque como vai tudo ao mesmo tempo é tudo uns barulhos. Só que como foram todos ao mesmo tempo cara do auditório foi muito louco, esse tipo de ter filmado isso que acontece na cidade a gente olha isso aqui custa isso aqui de dinheiro isso aqui em São Paulo, né na cidades pequenas custa r$ 400 500."
+      },
+      {
+        "startTime": 3348,
+        "endTime": 3355,
+        "speaker": "Diego Diehl",
+        "text": "R$ 600, mas só que eu vou dar para vocês depois se vocês me trazerem. Essa contrapartida de usar e a hora."
+      },
+      {
+        "startTime": 3355,
+        "endTime": 3363,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Tá isso é mais um trabalho que tem um efeito maior no momento de lançamento, né?"
+      },
+      {
+        "startTime": 3364,
+        "endTime": 3364,
+        "speaker": "Diego Diehl",
+        "text": "lançamento do produto"
+      },
+      {
+        "startTime": 3366,
+        "endTime": 3367,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Tem sim"
+      },
+      {
+        "startTime": 3367,
+        "endTime": 3375,
+        "speaker": "Diego Diehl",
+        "text": "Cara não na verdade tem muita Incorporadora que compre isso aqui para finalizar estoque. É que daí vocês tem que fazer um."
+      },
+      {
+        "startTime": 3376,
+        "endTime": 3380,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Talvez ele tem um efeito maior para um lançamento pelo fato de ser um trabalho."
+      },
+      {
+        "startTime": 3381,
+        "endTime": 3403,
+        "speaker": "Diego Diehl",
+        "text": "Aro novidade novidades tinha sempre mais quentinho, né? Mas você falar assim, por exemplo o produto de você está pronto. Tem área comum? Tem algum lugar para você levar corretor lá? Deve ter. Você pode pegar e falar assim pessoal aqui em São Paulo fazem isso. É dia de visitas ao decorado e filmagens."
+      },
+      {
+        "startTime": 3403,
+        "endTime": 3427,
+        "speaker": "Diego Diehl",
+        "text": "Quem se cadastrar aqui eu vou contratar um filme Maker por um dia para gravar um vídeo teu no decorado. Aqui em São Paulo eles fazem isso convido o corretor tem um filme Maker para fazer um vídeo do corretor lá Imagina aí um dia uma coisa que geraria valor para vocês, tá? Se vocês fizerem um dia de a gente divulgar aqui."
+      },
+      {
+        "startTime": 3427,
+        "endTime": 3449,
+        "speaker": "Diego Diehl",
+        "text": "Você já tem a divulgação de vocês, nem precisa de mim para isso, mas deixa eu dar uma ideia um exemplo. Falar um dia contrata um filme um vídeo Maker para passar o dia lá. Divulga para os corretores irem lá compra uns pão de queijo um café tal. E grava 60 vídeos e fala assim."
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3475,
+        "speaker": "Diego Diehl",
+        "text": "Quem subiu o patrocinado eu vou por mais r$ 200, sei lá. O cara vai por mais 300. Cara, você vai bombar e tudo que é rede e tudo que é lugar com um monte de vídeo do teu produto o corretor que não tava lá vai ser impactado eu falar caramba, esse produto tá em alta eu vou divulgar também eu vou oferecer também."
+      },
+      {
+        "startTime": 3475,
+        "endTime": 3495,
+        "speaker": "Diego Diehl",
+        "text": "Então é como como que a gente vira é trabalho criativo comercial, né? E aí a hora ela entra como um mecanismo de escala um mecanismo de comunicação também um mecanismo de divulgação mecanismo para fazer apitar o celular do cara não importa o corretor vai entrar na hora o essa semana."
+      },
+      {
+        "startTime": 3495,
+        "endTime": 3519,
+        "speaker": "Diego Diehl",
+        "text": "É que novamente a gente tá com o volume mais baixo aqui, né? Essa semana deve ter entrado sem corretores lá. De segunda até quarta Luiz, você acha que você falou individualmente com sem corretores? Talvez não já e eu nem comecei a acelerar o negócio. Deixa eu ver aqui. Ó Caramba, tem mais até 484? Isso aqui audiência três meses aqui."
+      },
+      {
+        "startTime": 3519,
+        "endTime": 3540,
+        "speaker": "Diego Diehl",
+        "text": "Já tem aí? Uma galera esse gráfico cai aqui porque não terminou a semana né dele fica mais para baixo, mas aqui ó 484 corretores visitaram a órgão. três mil vezes Produto de vocês podia até parecido para todos eles. Ah o cara vai vender então não mas ele já começa a lembrar de você."
+      },
+      {
+        "startTime": 3540,
+        "endTime": 3561,
+        "speaker": "Diego Diehl",
+        "text": "Né, ele já vai lembrar de alguma coisa então esse mecanismo tecnológico gente real assim daqui um ano. Se vocês quiserem ter órgãos e dois a daqui um ano vai custar r$ 2000 por mês. E vocês não vão ter nada mais benefício agora, se quiser ter só órgão é r$ 250."
+      },
+      {
+        "startTime": 3561,
+        "endTime": 3589,
+        "speaker": "Diego Diehl",
+        "text": "Que eu vou que eu vou pegar esse teu boleto, eu posso te mandar o boleto do Facebook para você pagar? Que eu vou investir na praça, então é um dinheiro daqui para lá a Z2 a eu faço eu nem sei eu falei 250 também, né? Nunca desse desconto, mas eu falo assim vai Luiz vai e a galera vai começar a conhecer aí a outra e vai vai me transbordar."
+      },
+      {
+        "startTime": 3589,
+        "endTime": 3601,
+        "speaker": "Diego Diehl",
+        "text": "O ponto é a oportunidade de nós temos você é minha primeira vitrine. Ao mesmo tempo você tem uma vantagem de ter uma tecnologia de ponta nível Brasil que ninguém tem."
+      },
+      {
+        "startTime": 3603,
+        "endTime": 3624,
+        "speaker": "luiz carlos sa silva filho",
+        "text": "Beleza, aí a gente aceitou. Lógico, né? Mas estourou que eu não vejo não vejo o porquê não dá certo. Mas daqui a dois anos tu falasse aí um ano vai estar cobrando r$ 2000 para a gente continuaria o mesmo valor ajustaria alguma coisa, como é que seria esse contrato? Como é que funcionaria?"
+      },
+      {
+        "startTime": 3625,
+        "endTime": 3649,
+        "speaker": "Diego Diehl",
+        "text": "Aí quando quando eu te mostrar o programa de embaixadores é ficar bem claro isso. Para sempre eu não vou deixar 250 que eu tô pagando para isso, né? É embaixadores que se consolidam como embaixadores, eu mantenho para sempre 50% de desconto. Que o que quer se consolidar com o embaixador cara, tá claro que você tem corretora acessando o teu link que você manda."
+      },
+      {
+        "startTime": 3649,
+        "endTime": 3678,
+        "speaker": "Diego Diehl",
+        "text": "Você não tem um drive você centraliza na hora isso daí sempre eu vou ter mas eu limite em Recife eu devo limitar três quatro incorporadoras assim. E o principal Lucas falando para ti que eu até falei com o Luiz e tal para mim não importa muito se é grande se é pequena se é gigante ou não importa se se rola uma conexão da pessoas da ponta se é gente boa, não quero ter um cara esse coroa."
+      },
+      {
+        "startTime": 3678,
+        "endTime": 3703,
+        "speaker": "Diego Diehl",
+        "text": "Tô falando da hora ou na ponta eu troquei uma ideia ás com o Luiz lá no conecta. Achei Luiz um p*** profissional que Entrou abordou fez pergunta inteligente entendeu? Rápido, eu falei Opa tem uma oportunidade. Então, eu nem falo isso aqui para todo mundo, tá Embaixador, a gente escolhe a dedo então só para deixar claro isso que vocês não vão ver a gente falar com todo mundo."
+      },
+      {
+        "startTime": 3703,
+        "endTime": 3706,
+        "speaker": "Diego Diehl",
+        "text": "Eu não paro de péssimo. beleza, gente, eu acho que"
+      },
+      {
+        "startTime": 3706,
+        "endTime": 3709,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Não tranquilo entendi."
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3727,
+        "speaker": "Diego Diehl",
+        "text": "Eu posso mandar duas apresentações para vocês verem dá uma olhadinha rolar o pdf. Vocês podem fazer o cadastro na hora, se não tiver Lucas dá uma olhada na ferramenta, depois me passa o teu e-mail. Posso até liberar a inteligência de mercado por um tempo por sete dias ali para você bater o olho."
+      },
+      {
+        "startTime": 3727,
+        "endTime": 3751,
+        "speaker": "Diego Diehl",
+        "text": "Mas acho que o ponto é uma estratégico Global aí do convite vai ficar feliz em fevereiro ou Março, a gente vai fazer um evento em Recife. Vai ser bom que a gente já chama vocês junto também então. Como o próximo passo o meu pedido É cara, se você puder me responder aí em duas semanas? Porque agora eu acho que eu vou começar a bordar todo mundo das incorporadoras em novembro aí."
+      },
+      {
+        "startTime": 3751,
+        "endTime": 3757,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí fica a critério de vocês. Eu só preciso saber aí para a gente dar os primeiros passos, né?"
+      },
+      {
+        "startTime": 3757,
+        "endTime": 3764,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Total o sentido para mim também. Mas aí a gente dá um retorno até sexta-feira só para a gente poder bater o martelo."
+      },
+      {
+        "startTime": 3765,
+        "endTime": 3777,
+        "speaker": "Diego Diehl",
+        "text": "fechou Combinado gente. Obrigado aí pelo tempo de vocês vai chegar a gravação da reunião no e-mail de vocês que daí a gente já deixa vir tá lá tudo gravadinho formalizado."
+      },
+      {
+        "startTime": 3778,
+        "endTime": 3778,
+        "speaker": "Lucas Leal Saraiva (PR.PE)",
+        "text": "Obrigado pela atenção."
+      },
+      {
+        "startTime": 3778,
+        "endTime": 3789,
+        "speaker": "Diego Diehl",
+        "text": "E fica à disposição, obrigado prazerzar isso aí tudo isso. Obrigado pela reunião aí conte comigo. Tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 173,
+    "speakers": [
+      "Diego Diehl",
+      "Lucas Leal Saraiva (PR.PE)",
+      "luiz carlos sa silva filho"
+    ],
+    "total_words_estimate": 6104,
+    "duration_start": 0,
+    "duration_end": 3789
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68dd380fcf6320001365f63f",
+        "timestamp": 24,
+        "text": "Lucas desconhece a ferramenta, tendo sido informado por consultores da VNV e pelo Luiz.",
+        "topicId": "68dd380fcf6320001365f62c"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f63d",
+        "timestamp": 74,
+        "text": "LM Saraiva com empreendimento em construção próximo de conclusão, buscando novo terreno para próximo lançamento.",
+        "topicId": "68dd380fcf6320001365f62b"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f63e",
+        "timestamp": 363,
+        "text": "Mercado imobiliário de Recife depende de informações repassadas por corretoras.",
+        "topicId": "68dd380fcf6320001365f62b"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f630",
+        "timestamp": 457,
+        "text": "Objetivo da ferramenta: organizar informações para tornar mercado imobiliário mais eficiente.",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f635",
+        "timestamp": 501,
+        "text": "Corretor precisa ter acesso à ferramenta para consultar empreendimentos.",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f634",
+        "timestamp": 666,
+        "text": "Sites de imobiliárias raramente possuem pessoa dedicada para atualizações constantes.",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f639",
+        "timestamp": 1080,
+        "text": "Apenas 8 imobiliárias recebem o produto, pagando R$ 10 mensais pelo serviço.",
+        "topicId": "68dd380fcf6320001365f629"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f636",
+        "timestamp": 1166,
+        "text": "Plataforma já possui 400 corretores cadastrados.",
+        "topicId": "68dd380fcf6320001365f629"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f631",
+        "timestamp": 1303,
+        "text": "Produto B focado em tecnologia, com sistema de acesso rápido a dados de corretores.",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f62f",
+        "timestamp": 1467,
+        "text": "Diego oferecerá acesso de uma semana para avaliação da inteligência de mercado.",
+        "topicId": "68dd380fcf6320001365f627"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f63a",
+        "timestamp": 2501,
+        "text": "Diego busca fechar parcerias em Recife, com planos mensais variando de R$500 a R$2.300.",
+        "topicId": "68dd380fcf6320001365f62a"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f63b",
+        "timestamp": 2659,
+        "text": "Cada incorporadora receberá cashback de R$20 a R$50 por corretor captado",
+        "topicId": "68dd380fcf6320001365f62a"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f632",
+        "timestamp": 2707,
+        "text": "Diego oferece 50% de desconto na mensalidade e anúncios no Facebook para a incorporadora",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f633",
+        "timestamp": 2784,
+        "text": "Solução adicional com WhatsApp permite abordagem automática de corretores que acessam o sistema",
+        "topicId": "68dd380fcf6320001365f628"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f637",
+        "timestamp": 3023,
+        "text": "Plataforma atingiu 100 mil usuários em agosto, com lista de 250 mil contatos de corretoras",
+        "topicId": "68dd380fcf6320001365f629"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f638",
+        "timestamp": 3518,
+        "text": "Nas últimas três semanas, 484 corretores visitaram o produto, com proposta de precificação em evolução.",
+        "topicId": "68dd380fcf6320001365f629"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f63c",
+        "timestamp": 3610,
+        "text": "Discussão sobre preço futuro e proposta de programa de embaixadores com desconto de 50%.",
+        "topicId": "68dd380fcf6320001365f62a"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f62e",
+        "timestamp": 3709,
+        "text": "Diego enviará apresentações e liberará inteligência de mercado, com evento planejado para Recife.",
+        "topicId": "68dd380fcf6320001365f627"
+      },
+      {
+        "segmentId": "68dd380fcf6320001365f62d",
+        "timestamp": 3759,
+        "text": "Lucas promete retorno até sexta-feira para finalizar decisão",
+        "topicId": "68dd380fcf6320001365f627"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68dd380fcf6320001365f627",
+        "order": 1,
+        "title": "Ações e Compromissos",
+        "summary": ""
+      },
+      {
+        "id": "68dd380fcf6320001365f628",
+        "order": 2,
+        "title": "Detalhes do Produto Órulo",
+        "summary": ""
+      },
+      {
+        "id": "68dd380fcf6320001365f629",
+        "order": 3,
+        "title": "Métricas e Alcance",
+        "summary": ""
+      },
+      {
+        "id": "68dd380fcf6320001365f62a",
+        "order": 4,
+        "title": "Estratégia Comercial",
+        "summary": ""
+      },
+      {
+        "id": "68dd380fcf6320001365f62b",
+        "order": 5,
+        "title": "Contexto de Mercado",
+        "summary": ""
+      },
+      {
+        "id": "68dd380fcf6320001365f62c",
+        "order": 6,
+        "title": "Conhecimento Prévio",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 19,
+    "topic_count": 6,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68dd380fcf6320001365f627",
+      "order": 1,
+      "title": "Ações e Compromissos",
+      "summary": ""
+    },
+    {
+      "id": "68dd380fcf6320001365f628",
+      "order": 2,
+      "title": "Detalhes do Produto Órulo",
+      "summary": ""
+    },
+    {
+      "id": "68dd380fcf6320001365f629",
+      "order": 3,
+      "title": "Métricas e Alcance",
+      "summary": ""
+    },
+    {
+      "id": "68dd380fcf6320001365f62a",
+      "order": 4,
+      "title": "Estratégia Comercial",
+      "summary": ""
+    },
+    {
+      "id": "68dd380fcf6320001365f62b",
+      "order": 5,
+      "title": "Contexto de Mercado",
+      "summary": ""
+    },
+    {
+      "id": "68dd380fcf6320001365f62c",
+      "order": 6,
+      "title": "Conhecimento Prévio",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:48:40.712036+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:48:40.712036+00:00"
+}

@@ -1,0 +1,433 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6725265f568ad600139a3f4b",
+      "timestamp": 240,
+      "text": "Laís, responsável pelo onboarding de clientes, irá apresentar seu processo de trabalho e como apoiar a equipe comercial.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5d",
+      "timestamp": 372,
+      "text": "A empresa está passando por ajustes estruturais, com novos experimentos e frentes de produto, o que exigirá muito trabalho de toda a equipe.",
+      "topicId": "6725265f568ad600139a3f45"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5e",
+      "timestamp": 505,
+      "text": "Aos poucos, serão definidas as responsabilidades e fluxos de colaboração entre as áreas, para que todos saibam seu papel e como se apoiar mutuamente.",
+      "topicId": "6725265f568ad600139a3f45"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5f",
+      "timestamp": 580,
+      "text": "A demanda por este treinamento surgiu da necessidade de alinhar o time comercial com o time de CS para atender melhor os clientes.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f4c",
+      "timestamp": 754,
+      "text": "Laís irá focar em mostrar os principais tópicos do seu processo de onboarding, deixando espaço para perguntas e dúvidas da equipe.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f4d",
+      "timestamp": 894,
+      "text": "Existe uma automação que comunica o cliente sobre as etapas do processo, evitando que ele fique perdido durante a jornada.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f4e",
+      "timestamp": 1015,
+      "text": "Será implementada uma integração para criar os clientes automaticamente no sistema, reduzindo uma atividade manual da Laís.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f4f",
+      "timestamp": 1092,
+      "text": "Equipe comercial deve encaminhar solicitações dos clientes para o e-mail correto, facilitando o rastreamento e atendimento pela equipe de CS.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f50",
+      "timestamp": 1203,
+      "text": "Encaminhar clientes para suporte financeiro via e-mail e WhatsApp, centralizando em um único canal de atendimento.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f51",
+      "timestamp": 1309,
+      "text": "Focar no envio por e-mail para melhor acompanhamento e organização dos fluxos, em vez de usar o WhatsApp.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f52",
+      "timestamp": 1374,
+      "text": "Limitação de conta impede criação de usuários, então o time de operações acompanhará as solicitações e encaminhará para cadastro.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f53",
+      "timestamp": 1411,
+      "text": "Todas as dúvidas de suporte devem ser enviadas para o e-mail parcerias@, incluindo cadastros, adições e acompanhamento da fila de atendimento.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f54",
+      "timestamp": 1462,
+      "text": "Verificar se o cliente já existe na base e conferir o status do contrato e dos produtos contratados.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f55",
+      "timestamp": 1516,
+      "text": "Solicitar materiais ao cliente e encaminhar para o time de cadastro, que leva até 72 horas para concluir o processo.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f69",
+      "timestamp": 1599,
+      "text": "Atualização de tabelas de preços: clientes integrados têm atualização automática em 24-48 horas, os demais entram na fila de atualização.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f56",
+      "timestamp": 2050,
+      "text": "Enviar e-mail de boas-vindas ao cliente com informações sobre o plano e solicitação de documentos faltantes para cadastro.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f57",
+      "timestamp": 2415,
+      "text": "Enviar convite de cadastro para clientes sem registro, liberar acesso e solicitar que a equipe participe do treinamento.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f58",
+      "timestamp": 2513,
+      "text": "Acompanhar o progresso do cliente no funil, desde o cadastro até a realização do treinamento.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f59",
+      "timestamp": 2544,
+      "text": "Registrar informações do treinamento realizado, incluindo participantes e avaliação do cliente, para referência futura.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5a",
+      "timestamp": 2610,
+      "text": "Identificar contatos-chave (como diretores comerciais) durante o treinamento para futuras ações de engajamento.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5b",
+      "timestamp": 2641,
+      "text": "Implementar fluxo de automação de \"pílulas de conhecimento\" para novos clientes, com mensagens programadas ao longo de 30 dias.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f5c",
+      "timestamp": 2688,
+      "text": "Realizar uma segunda reunião com o cliente após 15 dias e, após 1 mês, transferir o cliente para a equipe de pós-venda.",
+      "topicId": "6725265f568ad600139a3f44"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f60",
+      "timestamp": 2750,
+      "text": "Iniciar o treinamento com uma visão geral do funcionamento da plataforma e dos recursos disponíveis para os corretores.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f61",
+      "timestamp": 2837,
+      "text": "Atualizar a apresentação do treinamento para incluir informações sobre a inteligência de mercado disponível na plataforma.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f62",
+      "timestamp": 2905,
+      "text": "Destacar as funcionalidades de revenda de imóveis e filtros de tipologia e prazo de entrega durante o treinamento.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f63",
+      "timestamp": 2950,
+      "text": "Explicar o uso do filtro de promoções e como a equipe fará disparos regulares sobre as promoções ativas.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f64",
+      "timestamp": 3022,
+      "text": "Fornecer exemplos de promoções que os corretores podem anunciar, como descontos, bônus e sorteios.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f65",
+      "timestamp": 3103,
+      "text": "Reforçar que as \"promoções\" são na verdade comunicações de marketing incluídas no pacote do cliente, não apenas descontos.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f66",
+      "timestamp": 3240,
+      "text": "Informar aos corretores sobre as comissões de cada produto, pois isso é uma informação importante para eles.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f67",
+      "timestamp": 3369,
+      "text": "Orientar os corretores sobre o compartilhamento da página do produto com seus clientes e evitar o uso indevido por outros corretores.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f68",
+      "timestamp": 3438,
+      "text": "Explicar o processo de liberação de usuários e a atualização da área do cliente na plataforma.",
+      "topicId": "6725265f568ad600139a3f46"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6a",
+      "timestamp": 3473,
+      "text": "Orientar os clientes sobre como editar a tabela de produtos, seguindo o modelo e formatação corretos.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6b",
+      "timestamp": 3632,
+      "text": "A mudança de valor efetivo é feita no passo 1, que é a tabela digital no aplicativo.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6c",
+      "timestamp": 3682,
+      "text": "A incorporadora atualiza o valor na tabela digital, que depois é trazida para os arquivos.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6d",
+      "timestamp": 3726,
+      "text": "O maior desenvolvimento em andamento é a edição dos dados dos anunciantes, incluindo fotos, vídeos e plantas por unidade.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6e",
+      "timestamp": 3829,
+      "text": "A primeira funcionalidade a ser lançada é a atualização de fotos, incluindo foto de destaque, ordenamento e vídeos.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f6f",
+      "timestamp": 3870,
+      "text": "A tabela de preços e disponibilidades pode ser atualizada pelos corretores, exceto data de lançamento que precisa de aprovação.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f70",
+      "timestamp": 3915,
+      "text": "Tudo que não tem botão de editar (fotos, descrição, plantas, website) precisa ser encaminhado pela incorporadora.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f71",
+      "timestamp": 3987,
+      "text": "A área do cliente mostra relatórios de desempenho do empreendimento, como acessos, downloads e compartilhamentos pelos corretores.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f72",
+      "timestamp": 4056,
+      "text": "O botão de editar na área do cliente é muito pequeno e de difícil acesso, precisando ser melhorado.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f73",
+      "timestamp": 4163,
+      "text": "A página de desempenho mostra dados semanais de acessos, visualizações e downloads pelos corretores.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f74",
+      "timestamp": 4230,
+      "text": "O cliente precisa de uma visão isolada dos corretores que acessaram apenas seus empreendimentos, excluindo os concorrentes.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f75",
+      "timestamp": 4440,
+      "text": "É possível personalizar a lista de corretores mais ativos nos últimos 90 dias, chegando a até 200 nomes.",
+      "topicId": "6725265f568ad600139a3f47"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f76",
+      "timestamp": 4824,
+      "text": "Demonstrar como o recurso de responsável funciona para distribuir contatos de corretores entre gerentes.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f77",
+      "timestamp": 4879,
+      "text": "Não é possível buscar empreendimentos específicos, então a demonstração será feita apenas dentro da Incorporadora.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f78",
+      "timestamp": 4945,
+      "text": "Não é possível ver os contatos de corretores que acessaram apenas um produto específico, apenas a atividade geral nos últimos 90 dias.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f79",
+      "timestamp": 5016,
+      "text": "Será necessário configurar uma atividade mínima (5 ações) para que o corretor seja exibido no PRM da Incorporadora.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7a",
+      "timestamp": 5125,
+      "text": "Não será mostrado para as Incorporadoras quais corretores acessaram seus empreendimentos, apenas a atividade geral nos últimos 90 dias.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7b",
+      "timestamp": 5436,
+      "text": "O vídeo será ajustado para mencionar apenas \"algumas interações\" dos corretores, sem entrar em detalhes numéricos.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7c",
+      "timestamp": 5565,
+      "text": "O nível de permissão \"Editor\" impede que usuários vejam a lista de corretores mais ativos no produto.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7d",
+      "timestamp": 5735,
+      "text": "Quando um corretor acessa o Portal, sua origem é marcada como \"Portal\", permitindo que a Incorporadora baixe essa lista.",
+      "topicId": "6725265f568ad600139a3f48"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7e",
+      "timestamp": 6030,
+      "text": "Há 466 imobiliárias recebendo a Alfa Residência no CRM. Precisam integrar o site da imobiliária com o CRM.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f7f",
+      "timestamp": 6068,
+      "text": "Nova incorporação deve ser publicada automaticamente no site da imobiliária, removendo o número de corretores cadastrados.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f80",
+      "timestamp": 6127,
+      "text": "Criar um botão de \"Convidar Imobiliária\" para facilitar a integração das imobiliárias com os produtos da incorporadora.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f81",
+      "timestamp": 6165,
+      "text": "Fornecer um link de integração para a imobiliária, que ela pode acessar e selecionar o sistema que usa para integrar seus produtos.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f82",
+      "timestamp": 6201,
+      "text": "Não é possível a incorporadora sugerir apenas seus próprios produtos para integração, pois as imobiliárias preferem integrar todos os produtos.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f83",
+      "timestamp": 6245,
+      "text": "Incorporadora não tem conhecimento sobre a opção de convidar imobiliárias para integração, precisamos comunicar melhor essa possibilidade.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f84",
+      "timestamp": 6304,
+      "text": "Criar um QR Code para facilitar o processo de integração e definir um padrão para envio de material.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f85",
+      "timestamp": 6390,
+      "text": "Criar um modelo padrão de material de integração (imagem, texto, QR Code) que possa ser facilmente editado e enviado para as incorporadoras.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f86",
+      "timestamp": 6570,
+      "text": "Usar o material de integração como uma das principais estratégias para anunciar novos parceiros imobiliários, enviando-o para os grupos de corretores.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f87",
+      "timestamp": 6620,
+      "text": "Definir se a equipe de Pós-Vendas ou a equipe de Campanhas será responsável por criar e enviar o material de integração para os clientes.",
+      "topicId": "6725265f568ad600139a3f49"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f88",
+      "timestamp": 6752,
+      "text": "Identificar a necessidade de novos treinamentos para clientes e agendar com a equipe de Capacitação (Laís) para realizar o retreinamento.",
+      "topicId": "6725265f568ad600139a3f4a"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f89",
+      "timestamp": 6815,
+      "text": "Realizar reuniões de alinhamento com o cliente para identificar problemas de comunicação, integração ou outros ajustes, encaminhando-os para as áreas responsáveis.",
+      "topicId": "6725265f568ad600139a3f4a"
+    },
+    {
+      "segmentId": "6725265f568ad600139a3f8a",
+      "timestamp": 6973,
+      "text": "Incentivar as incorporadoras a divulgarem o link do portal de parceiros para que os corretores se cadastrem diretamente com elas.",
+      "topicId": "6725265f568ad600139a3f4a"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6725265f568ad600139a3f44",
+      "order": 1,
+      "title": "Onboarding de Clientes",
+      "summary": "Laís apresentará seu processo de onboarding de clientes, incluindo automações, integrações e fluxos de colaboração entre equipes para melhor atendimento aos clientes."
+    },
+    {
+      "id": "6725265f568ad600139a3f45",
+      "order": 2,
+      "title": "Ajustes Estruturais e Novos Experimentos",
+      "summary": "A empresa está passando por ajustes estruturais e novos experimentos de produto, exigindo muito trabalho e alinhamento de responsabilidades e fluxos de colaboração entre as áreas."
+    },
+    {
+      "id": "6725265f568ad600139a3f46",
+      "order": 3,
+      "title": "Treinamento da Equipe Comercial",
+      "summary": "O treinamento visa alinhar a equipe comercial com a equipe de CS para melhor atendimento aos clientes, abordando tópicos como funcionalidades, promoções e comissões."
+    },
+    {
+      "id": "6725265f568ad600139a3f47",
+      "order": 4,
+      "title": "Atualização de Dados e Informações",
+      "summary": "Clientes podem atualizar tabelas de preços, fotos, vídeos e plantas, com aprovação da incorporadora. Relatórios de desempenho e acesso de corretores também serão abordados."
+    },
+    {
+      "id": "6725265f568ad600139a3f48",
+      "order": 5,
+      "title": "Recursos de Gerenciamento de Corretores",
+      "summary": "Será demonstrado o recurso de responsável para distribuir contatos de corretores entre gerentes, bem como a configuração de atividade mínima para exibição no PRM."
+    },
+    {
+      "id": "6725265f568ad600139a3f49",
+      "order": 6,
+      "title": "Integração com Imobiliárias",
+      "summary": "Criar um botão de \"Convidar Imobiliária\" e um modelo padrão de material de integração para facilitar a integração das imobiliárias com os produtos da incorporadora."
+    },
+    {
+      "id": "6725265f568ad600139a3f4a",
+      "order": 7,
+      "title": "Alinhamento e Retreinamento de Clientes",
+      "summary": "Realizar reuniões de alinhamento com clientes para identificar problemas e necessidades, encaminhando-os para as áreas responsáveis e agendando retreinamentos com a equipe de Capacitação."
+    }
+  ]
+}

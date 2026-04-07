@@ -1,0 +1,1682 @@
+{
+  "meeting_id": "69a5ec397ac8c80013e3a8c6",
+  "name": "Órulo & 5A",
+  "happened_at": "2026-03-02T20:00:00.000Z",
+  "duration_seconds": 4308.274,
+  "duration_minutes": 71.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "joao.moreira@quintoandar.com.br"
+    },
+    {
+      "name": "Vanessa Medeiros",
+      "email": "vanessa.medeiros@quintoandar.com.br"
+    },
+    {
+      "name": "",
+      "email": "arthur.gola@quintoandar.com"
+    },
+    {
+      "name": "",
+      "email": "marcus.bianchini@quintoandar.com"
+    },
+    {
+      "name": "",
+      "email": "bruna.amaya@quintoandar.com"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69a5ec397ac8c80013e3a8c6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "jnh-geoi-ufr",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69a5ec6d70d6450013deabd5",
+    "meetingId": "69a5ec397ac8c80013e3a8c6",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 58,
+        "speaker": "Marcus Bianchini",
+        "text": "mais o Core aí com vocês que é o mercado primário. Mas enfim Prazer. Só vocês terem uma referência de quem eu sou e que eu tô responsável aqui no quinto andar."
+      },
+      {
+        "startTime": 58,
+        "endTime": 60,
+        "speaker": "Eduardo Stringhini",
+        "text": "Só para dar um pouquinho mais de contexto que o Marcos falou É da última"
+      },
+      {
+        "startTime": 60,
+        "endTime": 61,
+        "speaker": "Alejandro Olchik",
+        "text": "Prazer Marcos."
+      },
+      {
+        "startTime": 67,
+        "endTime": 191,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "estoque exclusivo. Então tem um subset de imobiliárias, que que trabalham com a orla ali e tem e Tem estoque relevante então Imagine que você tem algumas integrações com CRM. Mas esse é o contexto ali do em alguma das conversas internas aqui surgiu essa terceira possibilidade."
+      },
+      {
+        "startTime": 191,
+        "endTime": 202,
+        "speaker": "Alejandro Olchik",
+        "text": "pegar o que mais o que que vocês estão que problema vocês querem resolver com essas integrações, eu acho que ficaria mais fácil a gente se posicionar se entendendo um pouquinho de dificuldade com"
+      },
+      {
+        "startTime": 202,
+        "endTime": 226,
+        "speaker": "Marcus Bianchini",
+        "text": "boa eu ajudo vocês a entender um pouquinho do onde estamos e O que estamos fazendo né hoje a gente. O desafio então é integral obviamente o estoque das imobiliárias que querem fazer parte do Market Place. num formato desejável foi uma desejável eu digo dentro de um mínimo de completude de padrão de informações"
+      },
+      {
+        "startTime": 229,
+        "endTime": 231,
+        "speaker": "Alejandro Olchik",
+        "text": "Da imobiliária para vocês o caminho da imobiliária."
+      },
+      {
+        "startTime": 233,
+        "endTime": 1573,
+        "speaker": "Marcus Bianchini",
+        "text": "muito porque você já estavam conversando aqui com o João com a Bruna do caraca. A hora não tem um produto nesse sentido que parece que ela está inteirada com diversos RMS, para que vocês consigam suportar ali essa rede de Network de móveis exclusivos que estão operando no ouro. E aí eu falei bom legal contatei aqui o a turma João a Bruna e falei pô, vocês tem alguma um contato ali com a hora? Porque eu quero entrar na conversa se possível para trazer um pouco desse nosso desafio."
+      },
+      {
+        "startTime": 1573,
+        "endTime": 416,
+        "speaker": "Marcus Bianchini",
+        "text": "De tentar ali, talvez ver essa energia com que vocês têm que integração com esse crms dado nosso plano aí de crescer. praticamente 10 vezes o Marketplace em parceiros e inventaram Nos próximos dois anos contando com esse ano. e isso Eles operam hoje boa parte do inventário."
+      },
+      {
+        "startTime": 417,
+        "endTime": 421,
+        "speaker": "Alejandro Olchik",
+        "text": "Qual é o problema e quais os problemas de qualidade que você tem?"
+      },
+      {
+        "startTime": 421,
+        "endTime": 445,
+        "speaker": "Marcus Bianchini",
+        "text": "Cara a gente para algumas investigações específicas que a gente foi fazer junto com o cliente junto com a própria piconatos. A gente perde muito Lead no meio do caminho quando eu falo Lídia de imóvel. A gente tem enrolado um slais tenso para caramba com novo CRM. Para que a gente consiga fechar a integração e passar a receber as informações."
+      },
+      {
+        "startTime": 445,
+        "endTime": 480,
+        "speaker": "Marcus Bianchini",
+        "text": "E a gente na verdade está tentando buscar mais canais outras formas de integrar porque a gente entende que vai engalar em algum momento já está enganando hoje. Ter só ico. Então é esse é o motivo assim principal. Nas operações de que o parceiro tenham a geração de Lead habilitada nem todos eles têm a gente também joga o livro de volta para o CRM."
+      },
+      {
+        "startTime": 480,
+        "endTime": 481,
+        "speaker": "Alejandro Olchik",
+        "text": "E aí é que tem a pedra."
+      },
+      {
+        "startTime": 483,
+        "endTime": 511,
+        "speaker": "Marcus Bianchini",
+        "text": "A perda no nosso vídeo para o CRM não a perda tá acontecendo mais do líder de imóvel é que a turma de lide, né? O imóvel que vem para cá, então vamos lá fecha a parceria com contigo. Você fala vou te disparar mil Imóveis. Quando eu vou olhar chega a 300 chega a 400, aí eu vou falar contigo você fala pô, mas eu já gerei o sei lá XML para iconatos com os meus mil Imóveis, aí eu vou lá bato nele conatos não mas não tem mil."
+      },
+      {
+        "startTime": 511,
+        "endTime": 520,
+        "speaker": "Marcus Bianchini",
+        "text": "Então tem um meio do caminho que não tá tão trivial. E que a gente está buscando formas de mudar para ver se a gente tem resultados melhores."
+      },
+      {
+        "startTime": 523,
+        "endTime": 685,
+        "speaker": "Alejandro Olchik",
+        "text": "vocês querem resolver a gente pode gerar uma trade específica e eu vejo né? Talvez quase o CRM que vocês têm porque o nosso padrão é bem simples, né? A gente pega na verdade o padrão. De obrigação ler os imóveis, né? Mantém isso atualizado e a gente tem um processo também interno de curadoria, né? Tem coisa automática tem coisa cunhada, mas é dentro de uma carteira que ela é não é tão volumosa assim, né? Porque como você opera com exclusividades, a gente tá falando de menos de 10 mil Imóveis, né? Não algo assim então de tanto volume, né, então"
+      },
+      {
+        "startTime": 685,
+        "endTime": 689,
+        "speaker": "Marcus Bianchini",
+        "text": "É hoje, a gente está circulando de novos anúncios de novos Imóveis"
+      },
+      {
+        "startTime": 689,
+        "endTime": 696,
+        "speaker": "Alejandro Olchik",
+        "text": "Imagino que com a integração que vocês têm hoje deve ter um volume bem mais elevado, né de De imóveis Que você estão circulando."
+      },
+      {
+        "startTime": 702,
+        "endTime": 778,
+        "speaker": "Marcus Bianchini",
+        "text": "Em como que quem tá nessa rede interna de vocês compartilha essas informações o que o modelo? De larga escala que eu tô imaginando aqui."
+      },
+      {
+        "startTime": 778,
+        "endTime": 800,
+        "speaker": "Alejandro Olchik",
+        "text": "O que a única coisa assim que eu acho que faria sentido a gente evoluindo é que a gente acaba tendo um portfólio maior para o CRM sendo ponto de vista de modelo de integração porque a gente entrega o catálogo também, né um catálogo que o CRM consegue oferecer para Imobiliária, então do ponto de vista de solução para crms."
+      },
+      {
+        "startTime": 800,
+        "endTime": 820,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que a gente consegue ser mais completo que o parceiro que vocês utilizam assim como o modelo evolutivo, né? Então daqui a pouco para frente até pode pode fazer sentido porque enfim a gente consegue daqui a pouco mobilizar mais o CRM do que alguém que só tá pegando os imóveis jogando para outro lugar."
+      },
+      {
+        "startTime": 820,
+        "endTime": 836,
+        "speaker": "Marcus Bianchini",
+        "text": "pra gente ele é crucial para as coisas acontecerem."
+      },
+      {
+        "startTime": 836,
+        "endTime": 849,
+        "speaker": "Alejandro Olchik",
+        "text": "Olha a gente eu acho que alguns casos da Integração. Até fica disponível. Mas a gente não armazena e não leva adiante porque o contato no nosso caso é"
+      },
+      {
+        "startTime": 849,
+        "endTime": 850,
+        "speaker": "Marcus Bianchini",
+        "text": "É sensível."
+      },
+      {
+        "startTime": 850,
+        "endTime": 870,
+        "speaker": "Alejandro Olchik",
+        "text": "ele fica sempre sendo a próprio Imobiliária, então o dado que eventualmente nos casos que vem a gente meio que nem armazena não não trata, né? É claro é zero problema para a gente pegar se no contrato preço por isso mas para a gente hoje em dia não faz tanto sentido."
+      },
+      {
+        "startTime": 870,
+        "endTime": 875,
+        "speaker": "Marcus Bianchini",
+        "text": "Não perfeito a gente abre. Então essa trade cara. A gente está no WhatsApp"
+      },
+      {
+        "startTime": 875,
+        "endTime": 885,
+        "speaker": "Alejandro Olchik",
+        "text": "a gente pega uma exclusividade e coloca o dado de contato da própria Imobiliária, para que uma possa comercializar com ela fazer parceria com outra então acho que"
+      },
+      {
+        "startTime": 890,
+        "endTime": 903,
+        "speaker": "Marcus Bianchini",
+        "text": "também. Eu posso abrir um grupo separado se facilitar e aí a gente vai trocando umas figurinhas também sobre o tema. Não tenho pressa nenhuma avançar com ele hoje tá era mais para a gente se conhecer mesmo aqui o seu objetivo e abrir essa porta com vocês."
+      },
+      {
+        "startTime": 905,
+        "endTime": 906,
+        "speaker": "Alejandro Olchik",
+        "text": "fechado"
+      },
+      {
+        "startTime": 907,
+        "endTime": 909,
+        "speaker": "Marcus Bianchini",
+        "text": "valeu"
+      },
+      {
+        "startTime": 909,
+        "endTime": 939,
+        "speaker": "Eduardo Stringhini",
+        "text": "Só complementando aí pessoal, o hoje a gente tem essas integrações e os convidados porque a gente tem um modelo de monetização por imóvel, né no caso, ele é imobiliária. Divulga sei lá sem exclusividades comigo, a gente tem uma monetização em cima do número de imóveis que ela tá. Então, a gente também nem saberia, como é que é hoje o modelo de vocês em termos de volume, né? Como é que poderia? Porque como Alejandro falou é bem trabalhoso assim, né essa relação com os sistemas aí."
+      },
+      {
+        "startTime": 939,
+        "endTime": 943,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente tem hoje. Quantos sistemas integrados são mais de 50 e pouco?"
+      },
+      {
+        "startTime": 944,
+        "endTime": 945,
+        "speaker": "Alejandro Olchik",
+        "text": "É na faixa dos 50."
+      },
+      {
+        "startTime": 946,
+        "endTime": 956,
+        "speaker": "Eduardo Stringhini",
+        "text": "É uma dificuldade."
+      },
+      {
+        "startTime": 956,
+        "endTime": 977,
+        "speaker": "Marcus Bianchini",
+        "text": "E essa sinergia que eu enxergo o Eduardo essa integração que vocês têm com esses fases praticamente 50 CRM. O quanto que a gente pode aproveitar dela para conseguir alavancar essa importação de Supply a partir de vocês no Market Place? Mas é isso assim obviamente que o desafio aqui é explicar para vocês um detalhe."
+      },
+      {
+        "startTime": 977,
+        "endTime": 1004,
+        "speaker": "Marcus Bianchini",
+        "text": "E obviamente que a gente faria tudo isso com os termos certinhos ali entre nós vocês e os clientes de vocês que queiram. Aderir ao Marketplace, isso é tudo bem amarradinho e tal para não ter problema com lgpd vazamento de dados tudo. Tudo padrãozinho bem delicado aqui do quinto andar para não dar errado, mas obviamente para isso a gente tem que primeiro ver se faz sentido para vocês."
+      },
+      {
+        "startTime": 1009,
+        "endTime": 1072,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Já puxa aí diminuiu o potencial."
+      },
+      {
+        "startTime": 1072,
+        "endTime": 1148,
+        "speaker": "Marcus Bianchini",
+        "text": "Entendido que vocês apesar de estarem trazendo o exclusividade daquilo que quer ser compartilhado com a rede de vocês para o órgão. Ainda assim sem integra no catálogo completo do parceiro no CRM que ele tiver utilizado."
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1156,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu consigo pegar consigo pegar mas aí vamos ver essas informações."
+      },
+      {
+        "startTime": 1156,
+        "endTime": 1159,
+        "speaker": "Marcus Bianchini",
+        "text": "legal"
+      },
+      {
+        "startTime": 1159,
+        "endTime": 3015,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Então tem o cliente deu um aceite que é exclusivo. Mas a gente não tem os mecanismos para depois fazer o tracking disso. E aí o que a gente tem é a gente tem os mecanismos instruídos para monitorar identificar e ir atrás de casos de bypass. Independente se tava marcado como exclusivo ou não então para todo."
+      },
+      {
+        "startTime": 3015,
+        "endTime": 1279,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "o"
+      },
+      {
+        "startTime": 1279,
+        "endTime": 1319,
+        "speaker": "Alejandro Olchik",
+        "text": "essa carteira de 139 130 mil Imóveis é para compra e venda ou também inclui os imóveis de vocação."
+      },
+      {
+        "startTime": 1319,
+        "endTime": 1331,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Isso só compra e venda isso que eu tô falando. Tem 200 mil imóveis listados para compra e venda dos quais 130.000 estão em São Paulo. Grandes números é isso para aluguel tem mais uns 200 mil lá?"
+      },
+      {
+        "startTime": 1331,
+        "endTime": 1335,
+        "speaker": "Eduardo Stringhini",
+        "text": "E 40 e 40 mil João estão marcados com o proprietário marcou como exclusividade."
+      },
+      {
+        "startTime": 1336,
+        "endTime": 2566,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "a gente recupera esse dinheiro e redistribui para os parceiros certos é tipo ano passado 2024, a gente investiu bastante nesse fluxo 2025, ele rodou bem. Escalado tem sei lá uns 30 milhões de reais de bypass identificado que a gente foi atrás e aí quando a gente recupera tem um pedaço que é do quinto andar um pedaço do corretor se foi uma imobiliária parceira que trouxe tem um pedaço tem uma mulher distribui."
+      },
+      {
+        "startTime": 2566,
+        "endTime": 1537,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Então esse é o cheque que a gente faz no final do bypass, mas independe de ter marcado como exclusivo, não depende de ter tido uma visita com que aconteceu eu vi aqui em panda e depois uma transação que aconteceu fora do campeonato."
+      },
+      {
+        "startTime": 1537,
+        "endTime": 2427,
+        "speaker": "Alejandro Olchik",
+        "text": "experimentar a nossa capacidade de gerar demanda para os imóveis secundários de vocês. Tem outro efeito que pode acontecer vocês podem receber denúncia de que não é exclusivo aí não precisam comprar matrícula, porque aí vocês podem ir atrás do proprietário, entendeu? Tipo porque se um corretor ver que esse imóvel não é exclusivo do quinto andar, ele vai notificar."
+      },
+      {
+        "startTime": 2427,
+        "endTime": 1607,
+        "speaker": "Alejandro Olchik",
+        "text": "Né nessa lógica, né? E aí você pode servir também com antecipação de um potencial bypass aí que pode acontecer porque o proprietário tá anunciando em outras redes, porque a própria os próprios corretores sinalizam isso, né? Tô especulando aqui eu tentaria com subconjunto, né de imóveis daquele que o proprietário tá marcando não cedo faz sentido isso que eu tô falando."
+      },
+      {
+        "startTime": 1607,
+        "endTime": 1628,
+        "speaker": "Eduardo Stringhini",
+        "text": "piloto, mas eu acho que o bypass que eles estão falando não é não desrespeito tem um bypass uma exclusividade é geral mesmo, né? Alguém olha o imóvel na plataforma 5º Andar e vai direto lá no proprietário comprar Independentes exclusivo, não fazia Imobiliária então."
+      },
+      {
+        "startTime": 1628,
+        "endTime": 1634,
+        "speaker": "Alejandro Olchik",
+        "text": "Necessariamente normalmente respeita a questão de só distribuir com Quinto Andar e mesmo assim faz o bypass na hora do fechamento."
+      },
+      {
+        "startTime": 1636,
+        "endTime": 1740,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "transação que a hora não tem. Não tem não tem cliente ali então eu acho que a gente pode ter boas surpresas nesse teste aí."
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1758,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu tenho duas perguntas aqui uma vocês têm para cada anúncio de vocês mais ou menos um score da qualidade do anúncio de imóvel assim. Se a gente fosse priorizar por Imóveis liquidez ou melhor qualidade de fotos e alunos têm se dado"
+      },
+      {
+        "startTime": 1762,
+        "endTime": 2884,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "quentes Imóveis com score mais alto, a gente testa. E aí isso dando certo e sendo interessante para você e sendo interessante para gente aí a gente pode fazer uma segunda rodada depois para aprender mais sobre outros temas tipo aí se a gente coloca os imóveis que estão empacados aqui há muito tempo ele realmente continua empacado ou a gente consegue dar liquidez nesse negócio bom."
+      },
+      {
+        "startTime": 2884,
+        "endTime": 1835,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Isso pode ser muito mais valor ainda, então acho que a gente pode ondas futuras pensar outras aprendizados, mas daria para recortar direto ao ponto dá para recortar assim o discord liquidez ou região ou reticência por tipo que a gente quiser."
+      },
+      {
+        "startTime": 1835,
+        "endTime": 1867,
+        "speaker": "Eduardo Stringhini",
+        "text": "brincar com esses Stories assim e ver se a gente consegue mexer a liquidez é interessante nesse piloto."
+      },
+      {
+        "startTime": 1867,
+        "endTime": 1903,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Não era isso. Era isso mesmo. tá nesse teste eu posso propor para vocês então um formato como que Como que vocês? Como que vocês remuneram os corretores? Como que por exemplo nos Imóveis exclusivos da Remax? Quando transaciona vocês não são remunerados na transação certo? é"
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1905,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não não somos."
+      },
+      {
+        "startTime": 1907,
+        "endTime": 3492,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "vocês no final da semana mandar uma proposta de como a gente testar. Qual o formato de precificação que é melhor para vocês que vocês acham que seria mais fácil a gente emplacar isso porque o automático que eu pensaria no heaven share, então assim gerou a demanda. A gente vai criar só uma forma de fazer o tracking de qual corretor que gerou qual demanda quando acontece uma transação nessa transação teria uma tabela que define quanto do revnisher vai para o corretor, quanto vai para Ouro quanto Vai para o quinto andar essa seria minha reação Inicial, porque mas esse é o modelo de negócio do quinto andar então por isso que eu penso desse jeito."
+      },
+      {
+        "startTime": 3492,
+        "endTime": 1962,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Faz sentido ou vocês tem alguma outra formato que seria mais mais fácil a gente emplacar."
+      },
+      {
+        "startTime": 1962,
+        "endTime": 1982,
+        "speaker": "Eduardo Stringhini",
+        "text": "nosso modelo padrão é porque com vocês a parte de Controle seria de outro nível assim, né para a gente ter esse controle com as imobiliárias, a gente tem bastante dificuldade de ter esse controle."
+      },
+      {
+        "startTime": 1982,
+        "endTime": 2049,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Aí a gente tem que desenhar e pensar o quanto que a gente já investe num Piloto para integrar sistemas e tudo ou se a gente faz um piloto mais processual, mas assim a gente deveria conseguir resolver isso. Daí acho que não deveria ser um problema."
+      },
+      {
+        "startTime": 2049,
+        "endTime": 3695,
+        "speaker": "Alejandro Olchik",
+        "text": "não, pô, tô pagando aqui para votar. Talvez a gente não tem opside tão interessante assim em relação aos fechamentos de resultados se der resultado, entendeu? Mas eu acho que como o piloto pode ser. É um teste, né? Nenhum a gente não tá buscando aqui ter uma grande receita associada isso no primeiro momento só vê se funciona ou não funciona então, talvez pra piloto um valor fixo fosse o mais simples poderia partir para transacional."
+      },
+      {
+        "startTime": 3695,
+        "endTime": 2126,
+        "speaker": "Alejandro Olchik",
+        "text": "Só tô colocando uma ideia aqui na mesa, tá?"
+      },
+      {
+        "startTime": 2126,
+        "endTime": 3349,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "ticket etc e tal se for num formato transacional a gente sugeriria tantos por cento de comissão para o corretor tanto suficiente de comissão para ordem. A gente tá totalmente Aberta a fazer sais no primeiro momento e depois já discutir aí eu jogo a bola para você, vocês falam beleza legal, mas a gente quer no piloto cobrar uma taxa de x r$ 1000 aqui por mês, aí vocês devolvem para a gente a gente tá super disposto a investir para testar é o que você falou Leandro a gente testar e entender."
+      },
+      {
+        "startTime": 3349,
+        "endTime": 2200,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Qual que é o tamanho do site então qualquer formato vai funcionar. Eu faço uma primeira conta do meu lado e mando para vocês. E aí eu eu aviso no WhatsApp lá e passo a bola para vocês devolverem no segundo formato, qual seria a precificação?"
+      },
+      {
+        "startTime": 2200,
+        "endTime": 2201,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tô com medo de falar e quando eu falo minha conexão fica ruim."
+      },
+      {
+        "startTime": 2201,
+        "endTime": 2210,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "beleza Tranquilo. Estamos te ouvindo. Mas beleza fica comigo essa bola então."
+      },
+      {
+        "startTime": 2213,
+        "endTime": 2284,
+        "speaker": "Bruna Amaya",
+        "text": "documento, se você já querem trazer um ponto de vista de vocês."
+      },
+      {
+        "startTime": 2284,
+        "endTime": 2353,
+        "speaker": "Eduardo Stringhini",
+        "text": "então Do modo que hoje a gente distribui os imóveis com nível de informação a distribuição com vocês reforça a nossa proposta Incorporadora. E aí as incorporadoras que Eu tô numa área."
+      },
+      {
+        "startTime": 2353,
+        "endTime": 2354,
+        "speaker": "Bruna Amaya",
+        "text": "Mas tá dando para te ouvir bem."
+      },
+      {
+        "startTime": 2357,
+        "endTime": 2413,
+        "speaker": "Eduardo Stringhini",
+        "text": "vocês a gente queria fazer um algo a mais né? A gente queria entender o nível de informação que vocês. Querem colocar na plataforma, né? E esse retorno também que vocês propuseram ali de retornar com alguns dados dessa audiência do agendamento de visitas e das próprias vendas isso aí é muito interessante para a gente reforça com as incorporadoras do nosso modelo, tá?"
+      },
+      {
+        "startTime": 2413,
+        "endTime": 2417,
+        "speaker": "Bruna Amaya",
+        "text": "E hoje qual que é o modelo que vocês têm com as imobiliárias?"
+      },
+      {
+        "startTime": 2419,
+        "endTime": 2420,
+        "speaker": "Eduardo Stringhini",
+        "text": "É a gente tem assim, a gente tem um catálogo que para Imobiliária ele é"
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2425,
+        "speaker": "Bruna Amaya",
+        "text": "Hoje qual que é o modelo que vocês têm com as imobiliárias que acessam esse inventário?"
+      },
+      {
+        "startTime": 2431,
+        "endTime": 2457,
+        "speaker": "Eduardo Stringhini",
+        "text": "distribuído gratuitamente. Que são as incorporadoras que nos pagam tá então quando apaga a orla a gente distribui gratuitamente para Imobiliária e tem um inventário relevante até grande que que a órgão Faz esse trabalho de atualização sem o pagamento da Incorporadora que daí a gente cobra da imobiliária por volume de empreendimentos que ela quer."
+      },
+      {
+        "startTime": 2457,
+        "endTime": 2461,
+        "speaker": "Eduardo Stringhini",
+        "text": "É no portfólio dela, então basicamente assim. Você pode falar"
+      },
+      {
+        "startTime": 2461,
+        "endTime": 2482,
+        "speaker": "Bruna Amaya",
+        "text": "Então só para ver se eu entendi eu sou uma imobiliária. Tem uma parte de um catálogo que eu consigo acessar gratuitamente porque ele tá expansor dali pelas pelas incorporadoras, mas se eu quiser ampliar o catálogo que eu tenho acesso eu pago baseado no volume de empreendimentos que eu tô acessando e não sobre o profundidade dos dados que eu tô vendo."
+      },
+      {
+        "startTime": 2483,
+        "endTime": 2500,
+        "speaker": "Eduardo Stringhini",
+        "text": "É tem um nível que é sobre a profundidade, tá? Porque esse catálogo que a gente envia, ele é da tipo do preço a partir de algumas tipologias tá então se for querer ter todas as unidades do empreendimento é um outro nível de serviço."
+      },
+      {
+        "startTime": 2502,
+        "endTime": 2505,
+        "speaker": "Bruna Amaya",
+        "text": "Entendi. É João quer falar, mas eu falei."
+      },
+      {
+        "startTime": 2507,
+        "endTime": 2531,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Tirar uma dúvida sobre a precificação se for tipo 400 Empreendimentos tem alguma ideia de ordem de grandeza de quanto que sai a conta assumindo que fosse tudo pago eu imagino que vai ter um pedaço. Grande aqui que vai estar no Pedaço. Gratuito porque a gente vai a Gente. Tá pretendendo começar com 10 a 20 incorporadoras que vão ser as maiores."
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2545,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Então mas essas 10 a 20 já cobrem algumas centenas de empreendimentos tem? Que tem uns 400 a 500 Empreendimentos. Mas se a gente fechar em 10 vai ser isso assim uns 250 300 mais ou menos."
+      },
+      {
+        "startTime": 2547,
+        "endTime": 2587,
+        "speaker": "Alejandro Olchik",
+        "text": "Só queria alinhar o seguinte, esse é o nosso modo Operandi da Integração padrão. Ou seja vocês vão ter que utilizar o que a gente tem disponível hoje na veia. Acesso do corretor tem que ser identificado a gente já explicou um pouquinho, né? Para a gente mandou ali a documentação, né? Como é que a gente tem que funcionar? E são os dados disponíveis ali para anúncio no Website e alguns dados específicos para a consulta do corretor com materiais de empreendimento e tal não tem inteligências marcado não tem outras coisas que estão associadas."
+      },
+      {
+        "startTime": 2590,
+        "endTime": 2611,
+        "speaker": "Bruna Amaya",
+        "text": "não perfeito por isso até que a gente cituou bem o modelo que a gente está buscando na Ali naquele documento tá? A gente precisa viabilizar duas coisas aqui basicamente né? O acesso ao inventário com todo detalhamento para eu poder ter esse anúncio dentro do meu site então informações da propriedade as imagens as mídias."
+      },
+      {
+        "startTime": 2611,
+        "endTime": 2642,
+        "speaker": "Bruna Amaya",
+        "text": "Quais são as tipologias tu precisa acessar isso, mas também tem uma segunda parte que é viabilizar o trabalho do corretor. Então que é o corretor poder acessar a tabela o corredor poder acessar o pdf com a brochura tudo tudo que vai estar como eu te quero lá no documento num back office do corretor do quinto andar, né? A gente não tem a intenção de botar todos os dados explícitos públicos no site, senão a gente seria uma vitrine gratuita da própria Oreo."
+      },
+      {
+        "startTime": 2642,
+        "endTime": 2676,
+        "speaker": "Bruna Amaya",
+        "text": "E isso não faria sentido para vocês. A gente pensou nisso, mas então por isso que eu separei ela. No documento eu chamei de nível um nível dois, né? O que que no nível 1 a gente precisa da aula que vai ser público e que no nível 2. A gente vai ter por trás de um acesso e quando Vocês perguntam assim, que dados especificamente eu parti muito do da própria página de vocês e eu fiz um cadastro aqui no cadastro para experimentar para poder acessar a página dos Empreendimentos."
+      },
+      {
+        "startTime": 2676,
+        "endTime": 2716,
+        "speaker": "Bruna Amaya",
+        "text": "Basicamente todos os dados que estão aqui tá então todas as mídias os arquivos as plantas só que separado e bem definido aqui, o que que é que são as coisas que vão estar públicas e o que que são as coisas que a gente vai ter no back office para os corretores então por exemplo, né? Tudo isso que tá aqui no começo, né? Quantos quartos Range a partir de imagens vídeos etc são Dados que eu tô colocando aqui no nível 1 aqui treinamento apresentação tabela digital com estoque atualizado contato da Incorporadora, né do da pessoa do estande de vendas tudo isso num nível 2."
+      },
+      {
+        "startTime": 2716,
+        "endTime": 2749,
+        "speaker": "Bruna Amaya",
+        "text": "E aí. Passando aqui passando aqui de volta a ideia seria que a gente também aliasse tudo que eu te retorno de dados sobre esses acessos, né aqui no nível. Eu posso inclusive gerar mais valor para inteligência de mercado que vocês dão de volta para as incorporadoras. Dando dados prólogo de visita de favoritos onde que tá a demanda né? Esses dados entregam isso, inclusive fazem um modelo de negócio que vocês queira você pode virar um terceiro plano Premium da própria hora, né? E no nível 2."
+      },
+      {
+        "startTime": 2749,
+        "endTime": 2779,
+        "speaker": "Bruna Amaya",
+        "text": "Vocês trouxeram a preocupação de ter essa autenticação, isso é uma coisa que a gente queria muito evitar eu não vejo muito essa jornada funcionando. Como o Nosso corretor precisando fazer uma autenticação fora do quinto andar. Mas a gente pode entender mais Tecnicamente que que tipo de integração e e puxes, né de dados a gente pode dar inclusive em tempo real, né? Então por exemplo toda vez que eu vi a documentação de vocês e eu vi que vocês têm."
+      },
+      {
+        "startTime": 2779,
+        "endTime": 2807,
+        "speaker": "Bruna Amaya",
+        "text": "É muito fino dado que vocês conseguem dar de retorno para Incorporadora, né? Quem é que tá acessando cada um dos links, quem é que abre o pdf quem é que clica no botão de compartilhar e a gente pode se comprometer com vocês de dar todo esse nível de quem é que tá acessando e o que que está acessando para vocês poderem alimentar de volta o produto de inteligência de mercado de vocês."
+      },
+      {
+        "startTime": 2807,
+        "endTime": 2820,
+        "speaker": "Bruna Amaya",
+        "text": "E aí o técnico a gente vai fazer isso a gente pode depois alinhar melhor até com o próprio gole. Mas é uma coisa que com certeza a gente dá para fazer eu já rico ele."
+      },
+      {
+        "startTime": 2821,
+        "endTime": 2825,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas isso já muda completamente a nossa oferta porque não é uma integração padrão."
+      },
+      {
+        "startTime": 2826,
+        "endTime": 2827,
+        "speaker": "Bruna Amaya",
+        "text": "ok"
+      },
+      {
+        "startTime": 2827,
+        "endTime": 2858,
+        "speaker": "Alejandro Olchik",
+        "text": "Então, não tem nem como a gente falar isso vai demandada a gente a gente atender uma integração específica com vocês. Processar os dados específicos de vocês e no fundo a gente perde o controle dos acessos, né? Tipo é muito difícil pra gente validar que está sendo seguidos padrões que a gente está estabelecendo então isso muda completamente a dinâmica para a gente o melhor tipo e o que Enquadra."
+      },
+      {
+        "startTime": 2858,
+        "endTime": 2894,
+        "speaker": "Alejandro Olchik",
+        "text": "Seria vocês terem um fluxo de cadastro realmente no corretor para ver esses dados porque se enquadra perfeitamente. Enfim, tô colocando aqui, até Se esse for o caminho, tipo, a gente tem que ir para a parte técnica mesmo botar time a ver como vai funcionar a integração ver que dados não tá trabalhando, né? Tipo ver quanto o desenvolvimento vai fazer inclusive veríamos diretoria, né? Enfim a prioridade que a gente estaria dando né? Nesse momento para isso para a gente mais imediato vai fazer o fluxo tradicional."
+      },
+      {
+        "startTime": 2894,
+        "endTime": 2918,
+        "speaker": "Bruna Amaya",
+        "text": "De fluxo tradicional seria a gente ainda conseguir consumir os dados do inventário imagens vídeos etc viapi, mas tudo que envolve acesso do corretor seria esse nível 2, eu não sei exatamente o que que é uma coisa que eu criei na minha cabeça, mas seria esse nível 2 passar por uma autenticação então a diferença do que a gente tá falando aqui é eu ainda consigo fazer os dados públicos."
+      },
+      {
+        "startTime": 2918,
+        "endTime": 2946,
+        "speaker": "Bruna Amaya",
+        "text": "Mas toda vez que eu acessar um dado mais sensível que eu não sei quais são a gente pode falar sobre isso fazer essa autenticação, tá? Claro para gente que a jornada que a gente tá pedindo aqui, ela não é padrão que vocês têm com outros parceiros, tá? E foi por isso mesmo que eu coloquei no que eu coloquei no papel para a gente entender se é viável para vocês fazerem para deixar vocês à vontade para explicar para gente."
+      },
+      {
+        "startTime": 2946,
+        "endTime": 2952,
+        "speaker": "Bruna Amaya",
+        "text": "Fazer uma proposta mesmo de que que vocês teriam de propósito para a gente poder fazer isso aqui."
+      },
+      {
+        "startTime": 2952,
+        "endTime": 2977,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Mas você acha que para pilotar ficaria muito ruim usar o fluxo que já existe? Que o que que vai acontecer, né? Tô tentando tangibilizar o que vai acontecer na prática seu estoque tá lá. É o líder vai conseguir entrar na página e vai conseguir pedir o agendamento de uma visita."
+      },
+      {
+        "startTime": 2977,
+        "endTime": 3007,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Tá aí essa visita vai cair para um corretor associado quintanal. Aí esse corretor vai ter na plataforma no empreendimento X. Aí seria para ele entrar no empreendimento x e entender, o que que ele precisa saber para fazer uma boa visita nesse momento ele sairia do ambiente quinta andar. Porque ele teria que cair para o ambiente órgão fazer autenticação, vai lá."
+      },
+      {
+        "startTime": 3007,
+        "endTime": 3024,
+        "speaker": "Alejandro Olchik",
+        "text": "Não precisa necessariamente sair né? Como se fosse uma autenticação cruzada, né? Tipo como se conectar se a conta do 5º andar para o órgão, né e continua dentro do quinto andar. Então é como se tivesse uma aplicação integrada ao quinto andar que a orla está integrado aqui."
+      },
+      {
+        "startTime": 3024,
+        "endTime": 3035,
+        "speaker": "Diego Diehl",
+        "text": "É assim no CRM João da imobiliária o Imobiliários que o corretor fica pesquisando móveis dentro do CRM da imobiliária. Mesmo assim ela tem título usuário."
+      },
+      {
+        "startTime": 3035,
+        "endTime": 3042,
+        "speaker": "Bruna Amaya",
+        "text": "Isso fica cacheado, então, tipo tem uma janela onde ele autentica e consegue ficar dentro de casa sem precisar fazer isso toda vez."
+      },
+      {
+        "startTime": 3042,
+        "endTime": 3064,
+        "speaker": "Alejandro Olchik",
+        "text": "Sim, vocês gravam pegam o token do usuário gravam na conta dele e reutiliza um token a tela inspirar ele vai precisar logar uma vez a cada tanto demora bastante para fazer login de novo aí quando expira ele logo. Exatamente essa senhora a gente tem um servidor de sso né? É o padrão de autenticação."
+      },
+      {
+        "startTime": 3064,
+        "endTime": 3072,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Então eu acho que Eu acho que funciona ou pelo menos para piloto funciona não. porque"
+      },
+      {
+        "startTime": 3072,
+        "endTime": 3094,
+        "speaker": "Alejandro Olchik",
+        "text": "Porque eu acho que é interessante, desculpa gente é o seguinte porque senão a gente vai até investindo esforço técnico. Em algo que a gente está validando, né? Uma integração completamente nova para vocês, então se a gente consegue encaixar o fluxo exatamente funcionar pra gente como experimentação. A gente já valida o funcionamento depois daqui a pouco no segundo passo a gente poderia estar realizando isso."
+      },
+      {
+        "startTime": 3096,
+        "endTime": 3125,
+        "speaker": "Bruna Amaya",
+        "text": "Tá o que que eu preciso então para conseguir. Eu preciso entender, o que que o que que a gente está chamando de dados públicos e dados. Com Gates da autenticação por exemplo só para também entender esse aquilo que vocês vão conseguir me fornecer sem autenticação que é o que vai ficar público para mim atende a minha necessidade de inventário porque tem lá todas as fichas de empreendimento que a gente quer, se você tiver como me passar isso já é um passo."
+      },
+      {
+        "startTime": 3125,
+        "endTime": 3135,
+        "speaker": "Alejandro Olchik",
+        "text": "Bruna dados de contato arquivos e a parte de promoções e oportunidades ali em cima do empreendimento são esses três elementos que precisam de autenticação."
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3139,
+        "speaker": "Bruna Amaya",
+        "text": "e promoções"
+      },
+      {
+        "startTime": 3139,
+        "endTime": 3140,
+        "speaker": "Alejandro Olchik",
+        "text": "tabela entra como arquivo"
+      },
+      {
+        "startTime": 3142,
+        "endTime": 3143,
+        "speaker": "Bruna Amaya",
+        "text": "Tá tá entendi."
+      },
+      {
+        "startTime": 3144,
+        "endTime": 3147,
+        "speaker": "Alejandro Olchik",
+        "text": "Se você também ela entrou como arquivo, então ele precisa ser autenticado."
+      },
+      {
+        "startTime": 3149,
+        "endTime": 3156,
+        "speaker": "Bruna Amaya",
+        "text": "Beleza e nessa autenticação vocês pegam os dados de Identificação do contato do corretor mesmo."
+      },
+      {
+        "startTime": 3157,
+        "endTime": 3175,
+        "speaker": "Alejandro Olchik",
+        "text": "Pega ele tem que ter um cadastro com a gente, né? Um cadastro simples que faz. E aí com base nisso, ele a gente dá o token, vocês gravam um toque e não precisa fazer de novo. Depois só quando esperar vai ficar transparente para o corretor de vocês fazer uma vez."
+      },
+      {
+        "startTime": 3175,
+        "endTime": 3181,
+        "speaker": "Alejandro Olchik",
+        "text": "Né e depois só com inspirar E demora razoavelmente respirar. Então não vai atrapalhar a jornada de atendimento."
+      },
+      {
+        "startTime": 3181,
+        "endTime": 3184,
+        "speaker": "Bruna Amaya",
+        "text": "E vocês passam os dados desse corretor para Incorporadora?"
+      },
+      {
+        "startTime": 3185,
+        "endTime": 3196,
+        "speaker": "Alejandro Olchik",
+        "text": "A corretora vai ver que tem um corretor, a Incorporadora é tipo que tá bancando, né? A gente para poder. Tá entregando para vocês vai ver que tem corretor aqui então dar acessando empreendimento."
+      },
+      {
+        "startTime": 3196,
+        "endTime": 3199,
+        "speaker": "Bruna Amaya",
+        "text": "Mas o nome e o telefone dele contato dele mesmo ela consegue."
+      },
+      {
+        "startTime": 3199,
+        "endTime": 3216,
+        "speaker": "Alejandro Olchik",
+        "text": "Ele ele vê ele pode ver o telefone pode ver o contato pode entrar em contato assim que a gente passa é certo, né? Se a pessoa pedir para não compartilhar. Cuidado dentro da política de compartilhamento da lgpd que isso não aparece para Incorporadora."
+      },
+      {
+        "startTime": 3219,
+        "endTime": 3244,
+        "speaker": "Diego Diehl",
+        "text": "Bruna Só uma curiosidade ou uma hipótese aqui, talvez no desenho de vocês. Somente o bypass a Incorporadora fica tendo acesso ao contato dos corretores 5º Andar. A não ser que estejam muito tranquilos aí também a gente pode avaliar não sei eu vou chutando ali com o Alejandro Eduardo, mas minha visão aqui se a gente tiver um plano específico para vocês."
+      },
+      {
+        "startTime": 3244,
+        "endTime": 3278,
+        "speaker": "Diego Diehl",
+        "text": "A gente pode não divulgar exatamente quem Tá acessando como uma política de privacidade de vocês porque Incorporadora não vai estar pagando para receber os usuários de vocês porque a negociação de quinto andar até incorporadores é outra, talvez vocês não queiram. O pessoal do comercial da Incorporadora entrando em contato pro ativamente com os corretores do quinto andar, talvez vocês que então é muito uma decisão de estratégia de negócio de vocês, porque é o comercial da Incorporadora que vocês não pagam nada para ele."
+      },
+      {
+        "startTime": 3278,
+        "endTime": 3287,
+        "speaker": "Diego Diehl",
+        "text": "Tecnicamente, ele tá lá trabalhando fomentando os corretores de vocês, mas talvez mais atrapalha do que ajude. Uma visão aqui mais neutra digamos."
+      },
+      {
+        "startTime": 3291,
+        "endTime": 3313,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Eu minha sugestão a gente tentar pilotar o mais próximo possível da solução que já existe a gente pode ver Bruna se a gente já vai ter a lista de quais são os corretoras poder seria bem fácil assim ter essa autenticação. De uma forma pouco atrito para os corretores eu tentarei pilotar com mais próximo possível do que já existe."
+      },
+      {
+        "startTime": 3313,
+        "endTime": 3333,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "E aí a medida que a gente aprender, inclusive do que dá errado, a gente pensa, o que que precisa desenvolver para as próximas próximas ondas porque daí é Na Linha Do que o Alejandro falou assim ao invés da gente botar um mega investimento técnico. Entender o que que funciona que não funciona."
+      },
+      {
+        "startTime": 3333,
+        "endTime": 3356,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "E aí se for um negócio que tá gerando muito valor para o órgão e para o quinto andar, mas que para escala que a gente quer trabalhar precisa de investimento técnico aí é uma fase 2. A gente já viu que já era muito valor para as duas empresas e que vale o investimento até Para conseguir priorizar o investimento então eu faria isso."
+      },
+      {
+        "startTime": 3356,
+        "endTime": 3388,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "E aí com a preocupação sobre o bypass. Eu também preocuparia no segundo momento, tipo a gente vai pilotar com 10 incorporadoras. É pouca pouca empresa é mais fácil a gente fazer gestão e assim das conversas iniciais, elas estão todas muito muito. Animada da gente lançar esse produto. Tipo pô, p*** que pariu, faz tempo que a gente espera que o quintal lance esse produto e a gente deveria ter condição de daqui cinco anos eu um Player que gera uma liquidez incremental que não existia para essa galera."
+      },
+      {
+        "startTime": 3388,
+        "endTime": 3417,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Eles estão animados a gente eu preocuparia menos em tentar cercar todo tipo de bypass para um piloto num pedaço de São Paulo com 10 incorporadoras e deixaria isso para uma preocupação no futuro. Se for um problema sabe cara, se no piloto a gente aprender que p**** se a tinta vai passar na gente beleza, Blacklist, a gente não vai trabalhar mais com eles, mas eu Sabe eu não tentaria resolver todos os problemas no piloto não."
+      },
+      {
+        "startTime": 3417,
+        "endTime": 3419,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Esse é meu esse é meu input."
+      },
+      {
+        "startTime": 3419,
+        "endTime": 3443,
+        "speaker": "Bruna Amaya",
+        "text": "De acordo é bom eu vou alinhar isso com gola que vocês conhecem de engenharia para a gente tentar seguir dessa forma. E aí seguindo dessa forma no modelo que vocês já estão prontos para fazer queria ter uma ideia com vocês de tão rápido, vocês acham que a gente consegue avançar com isso e se a gente poderia entrar no modelo de parceria que você já tem contra os imobiliárias."
+      },
+      {
+        "startTime": 3443,
+        "endTime": 3448,
+        "speaker": "Bruna Amaya",
+        "text": "E aí a gente pagaria pelo volume de empreendimentos que a gente Estaria acessando é isso?"
+      },
+      {
+        "startTime": 3450,
+        "endTime": 3453,
+        "speaker": "Eduardo Stringhini",
+        "text": "É isso aí estamos prontos imediatamente podemos conversar."
+      },
+      {
+        "startTime": 3456,
+        "endTime": 3463,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "vocês têm ideia de quanto custaria para se for tipo 300 Empreendimentos, vocês têm ideia do tamanho do custo"
+      },
+      {
+        "startTime": 3464,
+        "endTime": 3477,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então João eu tenho que ver quantos desses hoje não são patrocinados, né? A gente tem um curso de 10 reais e 50 por empreendimento mensal é uma cobranças então."
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3484,
+        "speaker": "Diego Diehl",
+        "text": "Pensa que uma imobiliária pequena paga esse custo então para vocês esse curso vai ser bem. Trivial eu acho."
+      },
+      {
+        "startTime": 3486,
+        "endTime": 3491,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Boa Não, beleza, vamos fazer funcionar? Beleza, Bruna."
+      },
+      {
+        "startTime": 3492,
+        "endTime": 3516,
+        "speaker": "Bruna Amaya",
+        "text": "Eu vou voltar com essa com esse com essa resposta mais perguntas para vocês, tipo amanhã de manhã tentar falar com bola agora final do dia e mas por mim assim fechou. Acho que se a gente se dá para a gente colocar essa autenticação dentro do fluxo não tem porque a gente a gente fazer trocar isso traidor foi muito pesado da gente fazer tudo uma integração."
+      },
+      {
+        "startTime": 3516,
+        "endTime": 3538,
+        "speaker": "Bruna Amaya",
+        "text": "Beleza, pessoal. Deixa essa bola comigo então aqui do primário e aí a gente avançando eu vou precisar muito do apoio de vocês. Inclusive me ajudar isso logo. Eu tô precisando muito de um ser um pouco dos dados de como que a gente tipo, como que a gente receberia os dados de empreendimentos tipologia, porque eu tô com algumas coisas."
+      },
+      {
+        "startTime": 3543,
+        "endTime": 3544,
+        "speaker": "Alejandro Olchik",
+        "text": "Mas o gola já tem isso Bruna."
+      },
+      {
+        "startTime": 3545,
+        "endTime": 3549,
+        "speaker": "Bruna Amaya",
+        "text": "Ele tentar porque ele tava Acho que ele tava sem essa credencial, mas ele"
+      },
+      {
+        "startTime": 3549,
+        "endTime": 3554,
+        "speaker": "Alejandro Olchik",
+        "text": "Não foi passada credencial já ele tá com acesso ele consegue puxar os dados de mostrar."
+      },
+      {
+        "startTime": 3554,
+        "endTime": 3557,
+        "speaker": "Bruna Amaya",
+        "text": "ótimo"
+      },
+      {
+        "startTime": 3557,
+        "endTime": 3585,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Boa só para amarrar então a bola tá do nosso lado em todas as frentes aqui, né? O Marcos vai passar para vocês uma lista de dados que a gente usa do crms das imobiliárias para o Alejandro ver se se cobre bem ou não cobre bem nas integrações que a hora já tem eu vou mandar para vocês uma sugestão de volume de móveis de São Paulo para a gente testar naquele formato dos exclusivos."
+      },
+      {
+        "startTime": 3585,
+        "endTime": 3608,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Com uma sugestão de como que a gente remuneraria isso se fosse aí, depois vocês devolvem, como que seria a remuneração? SAS e a Bruna vai vai tocar o pedaço aqui da gente entrar no formato de parceria que já existe se a gente for seguir com um pedaço de puxar o estoque para cá quando a gente for lançar uma plataforma de primária."
+      },
+      {
+        "startTime": 3612,
+        "endTime": 3644,
+        "speaker": "Eduardo Stringhini",
+        "text": "Exatamente isso João eu só queria fazer uma observação extra aqui. Para depois não dar confusão hoje a nossas integrações com as imobiliárias, a gente envia o preço mínimo das tipologias, né? Eu não sei se vocês estão esperando o que que vocês estão pensando na experiência do comprador ali que tá buscando a plataforma se ele vai ver o a partir da tipologias ou vocês querem ter uma experiência de ver todas as unidades do empreendimento porque isso aí muda um pouco o nosso modelo no nosso integração aqui só para já deixar isso aí alinhado inicialmente."
+      },
+      {
+        "startTime": 3645,
+        "endTime": 3666,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Eu acho que a gente precisa fazer um depara Eduardo, mas aí tá mais do nosso lado também, eu acho que a gente precisa colocar assim, essa é a página que a gente gostaria de mostrar para o nosso cliente. Esses 90% aqui estão cobertos pela hora, então a gente sugere fazer o MVP sem os 10% que faltam para a gente ganhar tempo e não ter que construir integrações adicionais."
+      },
+      {
+        "startTime": 3666,
+        "endTime": 3683,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Ou os 10% que falta são muito importantes. Aí a gente tem duas opções construir as integrações com a órgão vai fazer um novo tipo de parceria que a hora não tem que vai ser mais demorado. A hora não precisa decidir dentro de casa se eles vão priorizar isso ou não ou a gente vai fazer sem a hora."
+      },
+      {
+        "startTime": 3683,
+        "endTime": 3697,
+        "speaker": "Joao Paulo Silveira Moreira",
+        "text": "Acho que são esses caminhos, mas a gente tem que fazer um depara aqui entre o que você já mandaram que tem e o que a gente acha que seria a experiência mínima ali para o cliente então acho que essa bola fica com a gente também."
+      },
+      {
+        "startTime": 3698,
+        "endTime": 3706,
+        "speaker": "Bruna Amaya",
+        "text": "Mas respondendo sua pergunta é do a tela que a gente está desenhando, ela tem o mínimo da tipologia, só a gente não tá abrindo uma tabela inteira com todos os preços."
+      },
+      {
+        "startTime": 3707,
+        "endTime": 3709,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então é um padrão que a gente já tem ele a gente tem usado de todas as"
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3711,
+        "speaker": "Bruna Amaya",
+        "text": "Ele tá na tabela, né? Ele tá dentro desse dessa parte que tá com os"
+      },
+      {
+        "startTime": 3711,
+        "endTime": 3714,
+        "speaker": "Eduardo Stringhini",
+        "text": "unidades, tá? Só que a gente não a gente não tem um modelo. Hoje ele é uma outra."
+      },
+      {
+        "startTime": 3718,
+        "endTime": 3720,
+        "speaker": "Bruna Amaya",
+        "text": "corretores, né?"
+      },
+      {
+        "startTime": 3720,
+        "endTime": 3724,
+        "speaker": "Diego Diehl",
+        "text": "Pessoal tem a tabela mais em PDF. A gente tem ela toda estruturada em dados."
+      },
+      {
+        "startTime": 3724,
+        "endTime": 3728,
+        "speaker": "Bruna Amaya",
+        "text": "E nessa tabela tem o estoque atualizado. tá"
+      },
+      {
+        "startTime": 3729,
+        "endTime": 3751,
+        "speaker": "Eduardo Stringhini",
+        "text": "É que assim, esse é um ponto importante tá o algumas integrações algumas algumas empresas incorporadoras estão Integradas em tempo real com a gente. Tá nisso é o estoque tá atualizado, quase que online. Tem alguns agora em algumas empresas que não tem a integração com a gente é um dado manual que a gente busca e vai atualizando então."
+      },
+      {
+        "startTime": 3751,
+        "endTime": 3762,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pode ser que a calamidade já tenha sido reservado ou vendida ontem, por exemplo e tá na hora ali como disponível ainda então depende da Integração que a gente tem que Incorporadora."
+      },
+      {
+        "startTime": 3763,
+        "endTime": 3791,
+        "speaker": "Bruna Amaya",
+        "text": "e deixa eu tirar uma dúvida aqui com vocês é vocês tem alguma parte da Do serviço para as imobiliárias que envolve dar um retorno para as imobiliárias dessa transação no funil da Incorporadora. Tipo porque uma parte branca como que eu vou traquear essa venda dentro do Funil da Incorporadora, porque eles que vão estar a gente vai até oferta, mas eles vão fechar esse final alguma parte da hora não faz isso desse retorno."
+      },
+      {
+        "startTime": 3792,
+        "endTime": 3796,
+        "speaker": "Diego Diehl",
+        "text": "Você tá falando funil? Posso proposta?"
+      },
+      {
+        "startTime": 3797,
+        "endTime": 3798,
+        "speaker": "Bruna Amaya",
+        "text": "Entre a primeira proposta porque a gente deve fazer isso dentro pelo app e a e a"
+      },
+      {
+        "startTime": 3798,
+        "endTime": 3805,
+        "speaker": "Diego Diehl",
+        "text": "Bem fundo mesmo."
+      },
+      {
+        "startTime": 3805,
+        "endTime": 3854,
+        "speaker": "Bruna Amaya",
+        "text": "Incorporadora fechar um contrato com ele, né? Que que é o sinal da Mas vocês têm plugado na hora porque eu vi que muitas vezes vocês têm é perfeito esse aí mesmo que eu também tenho uma piada. Aqui vocês têm esses por acaso na hora uma integração, eu sempre conversei com a Então mas vocês hoje além de pegar consomem para devolver?"
+      },
+      {
+        "startTime": 3856,
+        "endTime": 3878,
+        "speaker": "Alejandro Olchik",
+        "text": "É o que acontece, né? A gente o modelo de integração via webbook, né? Então se a gente consegue garantir uma integração em tempo real com Incorporadora, baixou uma unidade isso não recebeu uma notificação que baixou a unidade. Na medida que baixar então vocês vão ter uma sinalização que mudou o estoque então vocês podem atrás para ver o que não vai ter quem fechou isso, entendeu?"
+      },
+      {
+        "startTime": 3879,
+        "endTime": 3881,
+        "speaker": "Bruna Amaya",
+        "text": "Era isso que eu tava era isso que eu tava tentando entender."
+      },
+      {
+        "startTime": 3881,
+        "endTime": 3885,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem um canal aberto já com CV, né, Alejandro?"
+      },
+      {
+        "startTime": 3885,
+        "endTime": 3889,
+        "speaker": "Alejandro Olchik",
+        "text": "Para a gente poderia ir atrás disso e fechar essa integração para puxando."
+      },
+      {
+        "startTime": 3890,
+        "endTime": 3905,
+        "speaker": "Bruna Amaya",
+        "text": "Se a gente puder de alguma forma aproveitar a integração da hora louco com esses três sistemas ajudar a gente nessa traqueamento do final de funil. Aí sim. Muito o circo, né que a gente se fala uma coisa que vocês oferecem."
+      },
+      {
+        "startTime": 3905,
+        "endTime": 3907,
+        "speaker": "Alejandro Olchik",
+        "text": "Isso não é difícil de fazer tá?"
+      },
+      {
+        "startTime": 3907,
+        "endTime": 3908,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente consegue fazer isso aí."
+      },
+      {
+        "startTime": 3909,
+        "endTime": 3910,
+        "speaker": "Bruna Amaya",
+        "text": "E nem que a gente faça uma faz uma proposta paralela isso sendo um serviço"
+      },
+      {
+        "startTime": 3910,
+        "endTime": 3914,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente consegue fazer."
+      },
+      {
+        "startTime": 3914,
+        "endTime": 3922,
+        "speaker": "Bruna Amaya",
+        "text": "adicional assim dentro da nossa da nossa parceria, porque senão eu vou ter que integrar com cada uma delas e conversa com cada uma delas isso vai."
+      },
+      {
+        "startTime": 3922,
+        "endTime": 3944,
+        "speaker": "Alejandro Olchik",
+        "text": "É que acontece que não necessariamente todas não tá com seu evento, entendeu? Então também tem que ver a carteira que estão escolhendo. Talvez o melhor Bruna fosse eu acho que isso não é complicado a gente poderia padronizar ir atrás de fazer essa integração, inclusive da ferramentas para quem procurador é a baixa, né? Porque tem algumas baixas através da própria interface nossa, né?"
+      },
+      {
+        "startTime": 3944,
+        "endTime": 3952,
+        "speaker": "Bruna Amaya",
+        "text": "Nossa isso é muito bom, porque aí a hora luvíra eu falo assim, ó isso aí você vai fazer lá na hora, eu só consumo esses dados eu não preciso."
+      },
+      {
+        "startTime": 3960,
+        "endTime": 3961,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu consideraria isso a etapa 2, né? Eu colocaria dentro do nosso na nossa"
+      },
+      {
+        "startTime": 3961,
+        "endTime": 3970,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o caminho. O Bruno só aproveitar o reforço esse essa tua visão da hora do isso e aquilo"
+      },
+      {
+        "startTime": 3970,
+        "endTime": 3994,
+        "speaker": "Alejandro Olchik",
+        "text": "família de onda né? Na segunda onda porque aí tipo a gente entendendo as demandas que precisa automatizantes mudam os corpos de projeto, né para atacar. E a gente prioriza isso no segundo momento e já a partir da Carteira de Incorporadora das águas que vocês têm para para uma segunda rodada, né? Porque algumas pode ser a nossa interface outras pode ser a gente pode montar um plano de ação específico para isso."
+      },
+      {
+        "startTime": 3995,
+        "endTime": 3998,
+        "speaker": "Bruna Amaya",
+        "text": "Perfeito gente perfeito, muito obrigada, viu? A gente fala."
+      },
+      {
+        "startTime": 4003,
+        "endTime": 4020,
+        "speaker": "Diego Diehl",
+        "text": "de vocês controlasse e tal é um caminho ouro para gente então quanto mais a gente conseguir criar essa energia do interesse da Incorporadora em registrar a unidade e tal nessa parceria mais interessante. Fica para a gente também então o valor para verbalizar."
+      },
+      {
+        "startTime": 4021,
+        "endTime": 4047,
+        "speaker": "Bruna Amaya",
+        "text": "A gente ainda tá debatendo aqui se a gente vai ter uma Interface para esse corporadoras dentro do piloto, porque é um produto automático, tem que construir, né? Eu não tenho hoje um produto de Incorporadora e como não tava definido se a gente ia fazer o quórum. Não eu tava estudando todos as possibilidades porque a gente também tá alternativa a óleo inclui por exemplo lugar uma para o outro."
+      },
+      {
+        "startTime": 4047,
+        "endTime": 4060,
+        "speaker": "Bruna Amaya",
+        "text": "E aí nesse caso se eu vou direto nelas, eu preciso dar esse feedback aí esse feedback, pode ser um PDF pode ser uma interface pode ser um dashboard, mas a gente envia hora."
+      },
+      {
+        "startTime": 4060,
+        "endTime": 4070,
+        "speaker": "Diego Diehl",
+        "text": "Pode fazer toda essa devolução? É uma possibilidade para o piloto, tá?"
+      },
+      {
+        "startTime": 4073,
+        "endTime": 4090,
+        "speaker": "Alejandro Olchik",
+        "text": "E para a gente para soltar o sentido dessa linha tá Bruno, então, se for considerar uma uma interface de devolução, mostra para a gente que tá pensando. Porque a gente tá focando bastante, né? Isso é das nossas prioridades tá essa interface inclusive junto com Incorporadora."
+      },
+      {
+        "startTime": 4090,
+        "endTime": 4095,
+        "speaker": "Diego Diehl",
+        "text": "Já desenvolveu sei lá mais da metade do que precisa provavelmente."
+      },
+      {
+        "startTime": 4095,
+        "endTime": 4116,
+        "speaker": "Bruna Amaya",
+        "text": "Ótimo, eu já tenho uma lista das incorporadoras que a gente quer trabalhar, eu tenho uma lista dos alunos. Porque eu peguei da hora a lista então é adiantar também, eu já mando para vocês para a gente ter uma ideia melhor até do Da precificação e até para vocês também para a gente ter um filho em se se faz sentido você faz enfim."
+      },
+      {
+        "startTime": 4116,
+        "endTime": 4147,
+        "speaker": "Bruna Amaya",
+        "text": "Tem algumas coisas que eu não tenho nem contato, inclusive, talvez vocês tenham até um contato lá para para abrir para abrir essa porta porque além de estar aqui no produto eu tô abrindo as conversas. Possivelmente eu vou tentar Acelerar um pouco a troca assim que aqui então talvez eu use aquele documento que a gente já tem e vai botando algumas perguntas para vocês e a gente vai vai se falando lá pelo documento."
+      },
+      {
+        "startTime": 4147,
+        "endTime": 4168,
+        "speaker": "Bruna Amaya",
+        "text": "Pelo menos eu funciono bem assim e eu vou te travando algumas coisas aqui, tá bom? Mas assim de verdade a nossa preferência é do piloto é 1000%, eu passei um bom tempo para alternativas a ouro porque a gente não tava conseguindo não tava sentindo que tava avançando tanto aqui, mas a nossa preferência tá então a gente conseguiu viabilizar esse modelo."
+      },
+      {
+        "startTime": 4168,
+        "endTime": 4169,
+        "speaker": "Bruna Amaya",
+        "text": "Vamos em frente. Tá bom."
+      },
+      {
+        "startTime": 4169,
+        "endTime": 4174,
+        "speaker": "Eduardo Stringhini",
+        "text": "É do nosso interesse também. Total isso estamos alinhados aqui."
+      },
+      {
+        "startTime": 4174,
+        "endTime": 4177,
+        "speaker": "Bruna Amaya",
+        "text": "Que bom gente boa. A gente vai se falando vocês até amanhã, tá bom?"
+      },
+      {
+        "startTime": 4177,
+        "endTime": 4180,
+        "speaker": "Eduardo Stringhini",
+        "text": "Valeu Bruna obrigado"
+      },
+      {
+        "startTime": 4180,
+        "endTime": 4181,
+        "speaker": "Diego Diehl",
+        "text": "Valeu boa tarde."
+      },
+      {
+        "startTime": 4181,
+        "endTime": 4182,
+        "speaker": "Bruna Amaya",
+        "text": "tchau"
+      },
+      {
+        "startTime": 4182,
+        "endTime": 4182,
+        "speaker": "Eduardo Stringhini",
+        "text": "tchau"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 193,
+    "speakers": [
+      "Alejandro Olchik",
+      "Eduardo Stringhini",
+      "Marcus Bianchini",
+      "Bruna Amaya",
+      "Diego Diehl",
+      "Joao Paulo Silveira Moreira"
+    ],
+    "total_words_estimate": 7201,
+    "duration_start": 0,
+    "duration_end": 4182
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69a5fdd25496280013b742d2",
+        "timestamp": 430,
+        "text": "Marcus relata perda significativa de leads de imóveis no processo de integração com CRM",
+        "topicId": "69a5fdd25496280013b742c0"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d4",
+        "timestamp": 445,
+        "text": "Equipe busca canais alternativos de integração para melhorar resultados",
+        "topicId": "69a5fdd25496280013b742c0"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d6",
+        "timestamp": 452,
+        "text": "Marcus propõe integração com Órgão para acessar rede de imobiliárias com exclusividades",
+        "topicId": "69a5fdd25496280013b742c1"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d5",
+        "timestamp": 466,
+        "text": "Nem todos os parceiros têm geração de leads habilitada nas operações",
+        "topicId": "69a5fdd25496280013b742c0"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d3",
+        "timestamp": 495,
+        "text": "Parceiros geram mil imóveis mas apenas 300 a 400 chegam efetivamente no sistema",
+        "topicId": "69a5fdd25496280013b742c0"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d8",
+        "timestamp": 800,
+        "text": "Alejandro sugere que Órgão pode oferecer solução mais completa que parceiro atual",
+        "topicId": "69a5fdd25496280013b742c1"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d9",
+        "timestamp": 843,
+        "text": "Órgão não armazena dados de contato, mantendo informações sensíveis apenas com imobiliária",
+        "topicId": "69a5fdd25496280013b742c1"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742da",
+        "timestamp": 909,
+        "text": "Quinto Andar tem modelo de monetização por volume de imóveis divulgados",
+        "topicId": "69a5fdd25496280013b742c2"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742db",
+        "timestamp": 940,
+        "text": "Órgão possui aproximadamente 50 CRMs integrados em sua plataforma",
+        "topicId": "69a5fdd25496280013b742c2"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ed",
+        "timestamp": 1322,
+        "text": "Quinto Andar possui 200 mil imóveis listados para compra e venda",
+        "topicId": "69a5fdd25496280013b742c7"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ef",
+        "timestamp": 1328,
+        "text": "Quinto Andar também possui 200 mil imóveis listados para aluguel",
+        "topicId": "69a5fdd25496280013b742c7"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ee",
+        "timestamp": 1331,
+        "text": "40 mil imóveis estão marcados como exclusivos pelo proprietário",
+        "topicId": "69a5fdd25496280013b742c7"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e9",
+        "timestamp": 1336,
+        "text": "João relata recuperação de 30 milhões de reais em bypass identificado em 2024",
+        "topicId": "69a5fdd25496280013b742c6"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f0",
+        "timestamp": 1762,
+        "text": "João sugere priorizar imóveis com score mais alto de qualidade para teste inicial",
+        "topicId": "69a5fdd25496280013b742c8"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742eb",
+        "timestamp": 1793,
+        "text": "Receita de bypass é redistribuída entre Quinto Andar, corretor e imobiliária parceira",
+        "topicId": "69a5fdd25496280013b742c6"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ea",
+        "timestamp": 1876,
+        "text": "Quinto Andar monitora e identifica casos de bypass independente de marcação de exclusividade",
+        "topicId": "69a5fdd25496280013b742c6"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f1",
+        "timestamp": 1911,
+        "text": "Piloto pode testar se imóveis empacados há tempo conseguem ganhar liquidez",
+        "topicId": "69a5fdd25496280013b742c8"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d7",
+        "timestamp": 1932,
+        "text": "Órgão opera com menos de 10 mil imóveis devido ao modelo de exclusividades",
+        "topicId": "69a5fdd25496280013b742c1"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742dc",
+        "timestamp": 2433,
+        "text": "Órgão distribui catálogo gratuitamente para imobiliárias e cobra por volume de empreendimentos",
+        "topicId": "69a5fdd25496280013b742c2"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ec",
+        "timestamp": 2477,
+        "text": "Corretores sinalizam imóveis não exclusivos como antecipação de potencial bypass",
+        "topicId": "69a5fdd25496280013b742c6"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742de",
+        "timestamp": 2649,
+        "text": "Bruna propõe dois níveis de acesso: dados públicos e dados com autenticação",
+        "topicId": "69a5fdd25496280013b742c3"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742df",
+        "timestamp": 2698,
+        "text": "Nível 1 inclui informações básicas, imagens e vídeos para público geral",
+        "topicId": "69a5fdd25496280013b742c3"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f2",
+        "timestamp": 2884,
+        "text": "Dados podem ser segmentados por liquidez, região ou tipo conforme necessário",
+        "topicId": "69a5fdd25496280013b742c8"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e1",
+        "timestamp": 3010,
+        "text": "Alejandro propõe autenticação cruzada entre contas Quinto Andar e Órgão",
+        "topicId": "69a5fdd25496280013b742c4"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e2",
+        "timestamp": 3042,
+        "text": "Corretor faz login uma única vez e token é reutilizado para acesso contínuo",
+        "topicId": "69a5fdd25496280013b742c4"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e5",
+        "timestamp": 3064,
+        "text": "João sugere pilotar com fluxo existente para validar funcionamento antes de investimento técnico",
+        "topicId": "69a5fdd25496280013b742c5"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e0",
+        "timestamp": 3125,
+        "text": "Dados de contato, arquivos e promoções requerem autenticação para acesso",
+        "topicId": "69a5fdd25496280013b742c3"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e3",
+        "timestamp": 3185,
+        "text": "Incorporadora recebe informações do corretor que acessa empreendimento",
+        "topicId": "69a5fdd25496280013b742c4"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e4",
+        "timestamp": 3210,
+        "text": "Compartilhamento de dados de contato segue política de LGPD e preferências do usuário",
+        "topicId": "69a5fdd25496280013b742c4"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e6",
+        "timestamp": 3358,
+        "text": "Piloto será realizado com 10 incorporadoras em São Paulo",
+        "topicId": "69a5fdd25496280013b742c5"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e7",
+        "timestamp": 3372,
+        "text": "Incorporadoras demonstram interesse em lançamento do produto",
+        "topicId": "69a5fdd25496280013b742c5"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742e8",
+        "timestamp": 3388,
+        "text": "Preocupações com bypass serão endereçadas em fase posterior do projeto",
+        "topicId": "69a5fdd25496280013b742c5"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742ce",
+        "timestamp": 3419,
+        "text": "Bruna alinhar com Gola sobre implementação de autenticação no fluxo",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742dd",
+        "timestamp": 3470,
+        "text": "Custo padrão é 10 a 50 reais por empreendimento mensal",
+        "topicId": "69a5fdd25496280013b742c2"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742cf",
+        "timestamp": 3492,
+        "text": "Bruna retornar com resposta e perguntas adicionais amanhã de manhã",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742cb",
+        "timestamp": 3563,
+        "text": "Marcus enviar lista de dados utilizados dos CRMs das imobiliárias para Alejandro avaliar cobertura",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742cc",
+        "timestamp": 3585,
+        "text": "João enviar sugestão de modelo de remuneração para o piloto",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742cd",
+        "timestamp": 3593,
+        "text": "Bruna avançar com formato de parceria existente para acesso ao estoque",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d0",
+        "timestamp": 3645,
+        "text": "Bruna fazer depara entre dados disponíveis e experiência mínima desejada",
+        "topicId": "69a5fdd25496280013b742bf"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f3",
+        "timestamp": 3729,
+        "text": "Algumas incorporadoras estão integradas em tempo real com Órgão",
+        "topicId": "69a5fdd25496280013b742c9"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f4",
+        "timestamp": 3742,
+        "text": "Outras incorporadoras fornecem dados manualmente que são atualizados periodicamente",
+        "topicId": "69a5fdd25496280013b742c9"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f5",
+        "timestamp": 3860,
+        "text": "Órgão pode notificar quando unidade é reservada ou vendida via webhook",
+        "topicId": "69a5fdd25496280013b742c9"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f6",
+        "timestamp": 3960,
+        "text": "Integração com sistemas de incorporadoras será considerada na segunda fase do projeto",
+        "topicId": "69a5fdd25496280013b742c9"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f7",
+        "timestamp": 4021,
+        "text": "Bruna ainda debate se haverá interface para incorporadoras no piloto",
+        "topicId": "69a5fdd25496280013b742ca"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f8",
+        "timestamp": 4047,
+        "text": "Feedback para incorporadoras pode ser em formato PDF, dashboard ou interface",
+        "topicId": "69a5fdd25496280013b742ca"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742f9",
+        "timestamp": 4090,
+        "text": "Órgão já desenvolveu mais da metade do necessário para interface de devolução",
+        "topicId": "69a5fdd25496280013b742ca"
+      },
+      {
+        "segmentId": "69a5fdd25496280013b742d1",
+        "timestamp": 4102,
+        "text": "Bruna enviar lista de incorporadoras e empreendimentos para precificação",
+        "topicId": "69a5fdd25496280013b742bf"
+      }
+    ],
+    "markdownContent": "## 1. Itens de Ação\n\n- [ ] Marcus enviar lista de dados utilizados dos CRMs das imobiliárias para Alejandro avaliar cobertura [59:23](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3563)\n- [ ] João enviar sugestão de volume de imóveis de São Paulo para teste com exclusividades [59:23](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3563)\n- [ ] João enviar sugestão de modelo de remuneração para o piloto [59:45](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3585)\n- [ ] Bruna avançar com formato de parceria existente para acesso ao estoque [59:53](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3593)\n- [ ] Bruna alinhar com Gola sobre implementação de autenticação no fluxo [56:59](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3419)\n- [ ] Bruna retornar com resposta e perguntas adicionais amanhã de manhã [58:12](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3492)\n- [ ] Bruna fazer depara entre dados disponíveis e experiência mínima desejada [01:00:45](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3645)\n- [ ] Bruna enviar lista de incorporadoras e empreendimentos para precificação [01:08:22](/app/meetings/69a5ec397ac8c80013e3a8c6?t=4102)\n\n## 2. Desafios de Integração e Qualidade de Dados\n\n- Marcus relata perda significativa de leads de imóveis no processo de integração com CRM [07:10](/app/meetings/69a5ec397ac8c80013e3a8c6?t=430)\n- Parceiros geram mil imóveis mas apenas 300 a 400 chegam efetivamente no sistema [08:15](/app/meetings/69a5ec397ac8c80013e3a8c6?t=495)\n- Equipe busca canais alternativos de integração para melhorar resultados [07:25](/app/meetings/69a5ec397ac8c80013e3a8c6?t=445)\n- Nem todos os parceiros têm geração de leads habilitada nas operações [07:46](/app/meetings/69a5ec397ac8c80013e3a8c6?t=466)\n\n## 3. Proposta de Integração com Órgão\n\n- Marcus propõe integração com Órgão para acessar rede de imobiliárias com exclusividades [07:32](/app/meetings/69a5ec397ac8c80013e3a8c6?t=452)\n- Órgão opera com menos de 10 mil imóveis devido ao modelo de exclusividades [32:12](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1932)\n- Alejandro sugere que Órgão pode oferecer solução mais completa que parceiro atual [13:20](/app/meetings/69a5ec397ac8c80013e3a8c6?t=800)\n- Órgão não armazena dados de contato, mantendo informações sensíveis apenas com imobiliária [14:03](/app/meetings/69a5ec397ac8c80013e3a8c6?t=843)\n\n## 4. Modelo de Negócio e Monetização\n\n- Quinto Andar tem modelo de monetização por volume de imóveis divulgados [15:09](/app/meetings/69a5ec397ac8c80013e3a8c6?t=909)\n- Órgão possui aproximadamente 50 CRMs integrados em sua plataforma [15:40](/app/meetings/69a5ec397ac8c80013e3a8c6?t=940)\n- Órgão distribui catálogo gratuitamente para imobiliárias e cobra por volume de empreendimentos [40:33](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2433)\n- Custo padrão é 10 a 50 reais por empreendimento mensal [57:50](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3470)\n\n## 5. Estrutura de Dados e Acesso\n\n- Bruna propõe dois níveis de acesso: dados públicos e dados com autenticação [44:09](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2649)\n- Nível 1 inclui informações básicas, imagens e vídeos para público geral [44:58](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2698)\n- Nível 2 inclui tabelas, apresentações e contatos para corretores autenticados [44:58](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2698)\n- Dados de contato, arquivos e promoções requerem autenticação para acesso [52:05](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3125)\n\n## 6. Fluxo de Autenticação\n\n- Alejandro propõe autenticação cruzada entre contas Quinto Andar e Órgão [50:10](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3010)\n- Corretor faz login uma única vez e token é reutilizado para acesso contínuo [50:42](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3042)\n- Incorporadora recebe informações do corretor que acessa empreendimento [53:05](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3185)\n- Compartilhamento de dados de contato segue política de LGPD e preferências do usuário [53:30](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3210)\n\n## 7. Estratégia de Piloto\n\n- João sugere pilotar com fluxo existente para validar funcionamento antes de investimento técnico [51:04](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3064)\n- Piloto será realizado com 10 incorporadoras em São Paulo [55:58](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3358)\n- Incorporadoras demonstram interesse em lançamento do produto [56:12](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3372)\n- Preocupações com bypass serão endereçadas em fase posterior do projeto [56:28](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3388)\n\n## 8. Rastreamento de Transações e Bypass\n\n- João relata recuperação de 30 milhões de reais em bypass identificado em 2024 [22:16](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1336)\n- Quinto Andar monitora e identifica casos de bypass independente de marcação de exclusividade [31:16](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1876)\n- Receita de bypass é redistribuída entre Quinto Andar, corretor e imobiliária parceira [29:53](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1793)\n- Corretores sinalizam imóveis não exclusivos como antecipação de potencial bypass [41:17](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2477)\n\n## 9. Inventário e Cobertura\n\n- Quinto Andar possui 200 mil imóveis listados para compra e venda [22:02](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1322)\n- 130 mil imóveis para compra e venda estão localizados em São Paulo [22:02](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1322)\n- 40 mil imóveis estão marcados como exclusivos pelo proprietário [22:11](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1331)\n- Quinto Andar também possui 200 mil imóveis listados para aluguel [22:08](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1328)\n\n## 10. Qualidade de Anúncios e Liquidez\n\n- João sugere priorizar imóveis com score mais alto de qualidade para teste inicial [29:22](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1762)\n- Piloto pode testar se imóveis empacados há tempo conseguem ganhar liquidez [31:51](/app/meetings/69a5ec397ac8c80013e3a8c6?t=1911)\n- Dados podem ser segmentados por liquidez, região ou tipo conforme necessário [48:04](/app/meetings/69a5ec397ac8c80013e3a8c6?t=2884)\n\n## 11. Integração com Sistemas de Incorporadoras\n\n- Algumas incorporadoras estão integradas em tempo real com Órgão [01:02:09](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3729)\n- Outras incorporadoras fornecem dados manualmente que são atualizados periodicamente [01:02:22](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3742)\n- Órgão pode notificar quando unidade é reservada ou vendida via webhook [01:04:20](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3860)\n- Integração com sistemas de incorporadoras será considerada na segunda fase do projeto [01:06:00](/app/meetings/69a5ec397ac8c80013e3a8c6?t=3960)\n\n## 12. Interface de Devolução de Dados\n\n- Bruna ainda debate se haverá interface para incorporadoras no piloto [01:07:01](/app/meetings/69a5ec397ac8c80013e3a8c6?t=4021)\n- Feedback para incorporadoras pode ser em formato PDF, dashboard ou interface [01:07:27](/app/meetings/69a5ec397ac8c80013e3a8c6?t=4047)\n- Órgão já desenvolveu mais da metade do necessário para interface de devolução [01:08:10](/app/meetings/69a5ec397ac8c80013e3a8c6?t=4090)",
+    "topics": [
+      {
+        "id": "69a5fdd25496280013b742bf",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c0",
+        "order": 2,
+        "title": "Desafios de Integração e Qualidade de Dados",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c1",
+        "order": 3,
+        "title": "Proposta de Integração com Órgão",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c2",
+        "order": 4,
+        "title": "Modelo de Negócio e Monetização",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c3",
+        "order": 5,
+        "title": "Estrutura de Dados e Acesso",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c4",
+        "order": 6,
+        "title": "Fluxo de Autenticação",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c5",
+        "order": 7,
+        "title": "Estratégia de Piloto",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c6",
+        "order": 8,
+        "title": "Rastreamento de Transações e Bypass",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c7",
+        "order": 9,
+        "title": "Inventário e Cobertura",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c8",
+        "order": 10,
+        "title": "Qualidade de Anúncios e Liquidez",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742c9",
+        "order": 11,
+        "title": "Integração com Sistemas de Incorporadoras",
+        "summary": ""
+      },
+      {
+        "id": "69a5fdd25496280013b742ca",
+        "order": 12,
+        "title": "Interface de Devolução de Dados",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 47,
+    "topic_count": 12,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69a5fdd25496280013b742bf",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c0",
+      "order": 2,
+      "title": "Desafios de Integração e Qualidade de Dados",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c1",
+      "order": 3,
+      "title": "Proposta de Integração com Órgão",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c2",
+      "order": 4,
+      "title": "Modelo de Negócio e Monetização",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c3",
+      "order": 5,
+      "title": "Estrutura de Dados e Acesso",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c4",
+      "order": 6,
+      "title": "Fluxo de Autenticação",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c5",
+      "order": 7,
+      "title": "Estratégia de Piloto",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c6",
+      "order": 8,
+      "title": "Rastreamento de Transações e Bypass",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c7",
+      "order": 9,
+      "title": "Inventário e Cobertura",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c8",
+      "order": 10,
+      "title": "Qualidade de Anúncios e Liquidez",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742c9",
+      "order": 11,
+      "title": "Integração com Sistemas de Incorporadoras",
+      "summary": ""
+    },
+    {
+      "id": "69a5fdd25496280013b742ca",
+      "order": 12,
+      "title": "Interface de Devolução de Dados",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:51:32.060517+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:51:32.060517+00:00"
+}

@@ -1,0 +1,1270 @@
+{
+  "meeting_id": "69a18ab585c6ba0013e8d6c6",
+  "name": "CCR Corretores",
+  "happened_at": "2026-02-27T12:15:00.000Z",
+  "duration_seconds": 2508.236,
+  "duration_minutes": 41.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Ester Elisa de Souza Rodrigues",
+      "email": "ester.rodrigues@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69a18ab585c6ba0013e8d6c6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "ejq-nriq-kud",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69a18ac008b20d001359d3ed",
+    "meetingId": "69a18ab585c6ba0013e8d6c6",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 53,
+        "speaker": "Diego Diehl",
+        "text": "sete objetivos que eu tenho acho que três tem relação com a tua área"
+      },
+      {
+        "startTime": 53,
+        "endTime": 54,
+        "speaker": "Gustavo Torres",
+        "text": "Acho que quatro ainda."
+      },
+      {
+        "startTime": 54,
+        "endTime": 174,
+        "speaker": "Diego Diehl",
+        "text": "para mapear algumas coisas. Tá claro."
+      },
+      {
+        "startTime": 174,
+        "endTime": 190,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Tenha ontem eu tava até conversando com o João. Quais são os próximos passos, né? Aí ele até falou assim para mim Calma. Vamos com calma para a gente não acelerar muito, né? Mas é algo que eu já estou em mente, né de querer saber quais vão ser os próximos passos."
+      },
+      {
+        "startTime": 191,
+        "endTime": 192,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 193,
+        "endTime": 196,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Deixa eu só abrir aqui."
+      },
+      {
+        "startTime": 199,
+        "endTime": 202,
+        "speaker": "Diego Diehl",
+        "text": "Gente, eu tô comendo a mesma coisa faz seis dias."
+      },
+      {
+        "startTime": 203,
+        "endTime": 204,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Meu Deus."
+      },
+      {
+        "startTime": 205,
+        "endTime": 208,
+        "speaker": "Diego Diehl",
+        "text": "E tá mó legal tá montado nisso."
+      },
+      {
+        "startTime": 209,
+        "endTime": 210,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Mas é bom pelo menos."
+      },
+      {
+        "startTime": 211,
+        "endTime": 215,
+        "speaker": "Gustavo Torres",
+        "text": "Falei que eu vou seguir essa linha de dieta para ter facilidade não ter que escolher o que almoçar."
+      },
+      {
+        "startTime": 216,
+        "endTime": 225,
+        "speaker": "Diego Diehl",
+        "text": "Cara, tá sendo muito interessante assim ó, eu não imaginava. Mas depois eu conto para vocês molhar o relatório de você."
+      },
+      {
+        "startTime": 228,
+        "endTime": 370,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Corretores que usam CRM próprio da imobiliária e esse algo até questionei com o João né? Quando é próprio da imobiliária se tem como fazer essa integração como é feito e se é tranquilo João falou que normalmente não é feito, mas aí algo que eu queria validar."
+      },
+      {
+        "startTime": 370,
+        "endTime": 378,
+        "speaker": "Diego Diehl",
+        "text": "Da imobiliária, será que eles não querem dizer que é só o CRM da imobiliária, mas deve ser um crime de mercado hoje. Eles responderam qual CRM é?"
+      },
+      {
+        "startTime": 379,
+        "endTime": 387,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Sim alguns tipo assim, eu perguntei qual CRM que era. E aí Alguns falam É eu sei próprio da imobiliária, a gente tem um desenvolvedor. Então essa questão"
+      },
+      {
+        "startTime": 387,
+        "endTime": 395,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que isso é bem comum de até até a V6 aqui, eles vão fazer um da próprio Imobiliário. Tem que ficar de olho, se não vai assinar uma nova frente mesmo."
+      },
+      {
+        "startTime": 395,
+        "endTime": 399,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "sim"
+      },
+      {
+        "startTime": 399,
+        "endTime": 400,
+        "speaker": "Diego Diehl",
+        "text": "Hoje tal é que assim o uma resposta Clara para isso tá Ester a resposta"
+      },
+      {
+        "startTime": 400,
+        "endTime": 407,
+        "speaker": "Gustavo Torres",
+        "text": "né"
+      },
+      {
+        "startTime": 407,
+        "endTime": 413,
+        "speaker": "Diego Diehl",
+        "text": "a órgão integra com qualquer CRM de imobiliária"
+      },
+      {
+        "startTime": 413,
+        "endTime": 414,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "aham"
+      },
+      {
+        "startTime": 414,
+        "endTime": 433,
+        "speaker": "Diego Diehl",
+        "text": "Nossa documentação tá aberta, a integração é bem simples. A gente só tem um processo de homologação que é só clicar lá no site e solicitar. Então essa galera aí toda tipo é só acessar a gente tem um processo que o cara vai a gente faz um teste. Vê se tá fluindo, vê se volta e tal informação."
+      },
+      {
+        "startTime": 433,
+        "endTime": 434,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 434,
+        "endTime": 446,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "É então é foi isso que eu questionei para o João se era mais fácil, né de até fazer essa integração com CRM própria da imobiliária, porque já tem o administrador lá, né? mas aí"
+      },
+      {
+        "startTime": 447,
+        "endTime": 448,
+        "speaker": "Diego Diehl",
+        "text": "Ele faz rapidinho."
+      },
+      {
+        "startTime": 449,
+        "endTime": 1853,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "ou estruturar uma indicação de crms parceiros, né? Eu e João um pouco essa questão de preço de CRM, mas por exemplo mais barato para fazer essa integração com a orla só no plano mais caro então até perder para o João lá, mas como que eu faço na questão de quem não tem CRM eu indico um CRM para essa pessoa."
+      },
+      {
+        "startTime": 1853,
+        "endTime": 563,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Ou deixo para mim conversar com ela, mas no futuro né então. Aí é o que eu queria validar também. então"
+      },
+      {
+        "startTime": 563,
+        "endTime": 1713,
+        "speaker": "Diego Diehl",
+        "text": "órgão botar os lançamentos, eles tinham os lançamentos que eles controlavam que não queriam pôr na hora e tal aí agora eles entenderam que é muito melhor tá tudo na hora que a hora o garante uma base de dados já organizada todo mês é um processo a menos para imobiliário se preocupar e agora vamos usar só integração da hora para não ter processo em torno disso."
+      },
+      {
+        "startTime": 1713,
+        "endTime": 749,
+        "speaker": "Diego Diehl",
+        "text": "Então é muito o principal do catálogo que você tá olhando. Ester que é o braço integrar é falar em eficiência economia de tempo redução do esforço e garantia do site da pessoa confiável atualizado. Talvez seja repetido algumas coisas, mas é para a gente reforçar, tá?"
+      },
+      {
+        "startTime": 749,
+        "endTime": 771,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Beleza, é esse ponto que você falou é até interessante porque quando eu contei para uma amiga que eu comecei a trabalhar na hora ou ela falou. Nossa, eu visitava o site da hora todos os dias, ela não é corretora, mas ela era estagiária e uma imobiliária e ela entrava na hora todos os dias para pegar os Empreendimentos e cadastrar a mão."
+      },
+      {
+        "startTime": 772,
+        "endTime": 774,
+        "speaker": "Diego Diehl",
+        "text": "Meu Deus."
+      },
+      {
+        "startTime": 774,
+        "endTime": 781,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Aí ela até falou. Ah, eu não vou nem falar eu não sei se era errado fazer isso, né? Ela falou não vou nem falar, mas ela entrava todos os dias ela até verifiquei lá e ela entrava mesmo."
+      },
+      {
+        "startTime": 783,
+        "endTime": 812,
+        "speaker": "Diego Diehl",
+        "text": "Olha, só que bacana e será que você não consegue Talvez isso você pode experimentar com o Gustavo Ele Ester. Se você pegou um padrão de comportamento de um corretor de um usuário se a gente consegue pegar esse mesmo padrão de comportamento do usuário. É para a gente entrar em contato com pessoas que estão fazendo isso o gatilhos na minha visão."
+      },
+      {
+        "startTime": 812,
+        "endTime": 838,
+        "speaker": "Diego Diehl",
+        "text": "É o seguinte. Quantos Empreendimentos quantas visualizações de página a pessoa teve de quantos Empreendimentos diferentes normalmente corretores normais entram em média duas vezes no mesmo empreendimento algo assim duas três vezes então é como se ele visitasse. 300 páginas e sem empreendimento 120 essa pessoa tipo Ester falou ela vai visitar 300 páginas e 300 Empreendimentos."
+      },
+      {
+        "startTime": 838,
+        "endTime": 872,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente consegue pegar esse esse tipo de pessoa Ester porque daqui a pouco Ester. Se a gente acha um gatilho desse a gente consegue pegar e fazer um filtro Brasil e talvez acertar alguns usuários alguns Estagiários de Imobiliária e com pompom já consegui várias integrações. Estratégicas na cidades Porque quem tem um estagiário só para fazer isso não é Imobiliária minúscula mais já é uma imobiliária mais média."
+      },
+      {
+        "startTime": 872,
+        "endTime": 883,
+        "speaker": "Diego Diehl",
+        "text": "Bus não tá reagindo eu vou eu vou perguntar eu vou pedir perguntar para o Alejandro. Como é que eu posso conseguir fazer isso, tá?"
+      },
+      {
+        "startTime": 885,
+        "endTime": 899,
+        "speaker": "Gustavo Torres",
+        "text": "você quer ver a cabeça foi longe que você falou de propósito, tipo valor de alavanca, daí eu pensei nessa já veio abrir uma caixa de pandora sabe da cabeça de várias só por isso mas"
+      },
+      {
+        "startTime": 899,
+        "endTime": 907,
+        "speaker": "Diego Diehl",
+        "text": "Eu Vou conduzir esse daí você vai eu Dias bravo o caminho para você entender como é que a gente vai criando esses gatilhos."
+      },
+      {
+        "startTime": 907,
+        "endTime": 913,
+        "speaker": "Gustavo Torres",
+        "text": "Essa era minha pergunta já coisas relacionadas a alavancas questão de usuário é tudo com Alejandro de"
+      },
+      {
+        "startTime": 914,
+        "endTime": 924,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou perguntar para ele e ver se ele direciona para alguém. Talvez seja o Diego de Tech. E aí a gente pega e fala cara, eu preciso."
+      },
+      {
+        "startTime": 926,
+        "endTime": 961,
+        "speaker": "Gustavo Torres",
+        "text": "Do banco de dados de todos os acessos por corretor e eu preciso cruzar corretores usuários. Que tenham. Uma relação entre visualizações de página e Empreendimentos diferentes visitados menor do que um ponto três. Tá boa, eu acho que se você a gente conseguir quem essa pessoa a gente já pode rever também todas as outras alavancas lá até do das incorporadoras, lembra? Que a gente queria."
+      },
+      {
+        "startTime": 962,
+        "endTime": 970,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou eu vou perguntar para o Leandro na reunião mandar uma mensagem para ele hoje à tarde."
+      },
+      {
+        "startTime": 970,
+        "endTime": 991,
+        "speaker": "Gustavo Torres",
+        "text": "Até porque daí agora que a gente já tem três alavancas principais tipo validadas que estão funcionando e dando resultado. Acho que dá para a gente ter isso como base para pedir uma atenção. A gente já coloca coisa de corretores colocados incorporadores e juntos, por isso que minha cabeça foi longe, será que eu consigo fazer? chegar"
+      },
+      {
+        "startTime": 994,
+        "endTime": 996,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia pessoal."
+      },
+      {
+        "startTime": 996,
+        "endTime": 999,
+        "speaker": "Gustavo Torres",
+        "text": "tudo"
+      },
+      {
+        "startTime": 999,
+        "endTime": 1000,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia João."
+      },
+      {
+        "startTime": 1003,
+        "endTime": 1004,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "E aí tudo certo?"
+      },
+      {
+        "startTime": 1005,
+        "endTime": 1007,
+        "speaker": "Diego Diehl",
+        "text": "Tudo certo."
+      },
+      {
+        "startTime": 1007,
+        "endTime": 1010,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Desculpa a demora estava finalizando a minha fisioterapia aqui."
+      },
+      {
+        "startTime": 1012,
+        "endTime": 1015,
+        "speaker": "Gustavo Torres",
+        "text": "Jogador né jogador é o processo."
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1016,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "o jogador que se quebra"
+      },
+      {
+        "startTime": 1020,
+        "endTime": 1045,
+        "speaker": "Diego Diehl",
+        "text": "Ai ai show João só para te atualizar a gente já. Fiz uma introdução aqui que eu quero ver próximos passos e tal. É reforcei um pouco de uma importância da Ester e se aproximando na parte de gestão do Gustavo para te liberar tempo e te utilizar muito na parte de inteligência comercial mesmo de pit de argumento e tal sugerir também a gente criar um grupo."
+      },
+      {
+        "startTime": 1045,
+        "endTime": 1076,
+        "speaker": "Diego Diehl",
+        "text": "Para por nós quatro e a Ester começasse a se comunicar mais por lá para a gente ficando ciente nas coisas, né? Até enfim do que for Claro dúvida muito simples, tá? Se quiser perguntar, por favor por outro beleza? Mas uma coisa que é pouquinho maior assim, eu não vou julgar que nível de coisa que você tá mandando eu Se não mandar se não tiver mandando nada eu falo caramba, não estamos com dúvida não, estamos no site não, estamos com nada."
+      },
+      {
+        "startTime": 1076,
+        "endTime": 1083,
+        "speaker": "Diego Diehl",
+        "text": "Vamos provocar mais então pode mandar o que for ali, tá? Perguntando o Gustavo respondendo o jogo também."
+      },
+      {
+        "startTime": 1084,
+        "endTime": 1107,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Show é um ponto também, eu acho que a Ester deve ter comentado, Diego a gente conversou essa semana. Então, eu tô tô por dentro aí do dos pontos aí principais da semana é sobre questão de imobiliárias, né? Umas um dos pontos do check list que a Ester tem focado bastante essa semana e apareceu, né? Um número alto aí de corretores autônomos que ainda não utilizam CRM."
+      },
+      {
+        "startTime": 1108,
+        "endTime": 1110,
+        "speaker": "Diego Diehl",
+        "text": "É João Pessoa."
+      },
+      {
+        "startTime": 1110,
+        "endTime": 1138,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso exato. Então, eu até fiz um levantamento baseado nos no nas integrações que estão ativas hoje vem tem um alto índice de mobiliários usando em modo Brasil, pode ser até uma sugestão para Ester começa a dar para os corretores Ó gente em João Pessoa as imobiliárias estão usando muito mal ao Brasil, mas em conta vocês podem indicar porque acredito não sei se agora é foco da hora a gente pensar nessa linha, né, Diego?"
+      },
+      {
+        "startTime": 1138,
+        "endTime": 1154,
+        "speaker": "Diego Diehl",
+        "text": "Eu pedi para estar comentou eu pedi para ela falar com o Bruno sobre isso. e Assim João Pessoa não vai ter milhares de integrações mesmo porque o mundo"
+      },
+      {
+        "startTime": 1154,
+        "endTime": 1155,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "sim"
+      },
+      {
+        "startTime": 1155,
+        "endTime": 1195,
+        "speaker": "Diego Diehl",
+        "text": "todo né? Eu acho que o ponto é daqui a pouco agora. Daqui a pouco a gente vê próximos passos, né? Mas vê como expandir um pouco, né? Como ver que elemento a gente consegue dar uma escala. Que daí faz com uma galera e ver que ele Talvez direcione os contatos mais assertivos baseados em dados que ela falou ali de uma estagiária que pegava na mão os produtos João né? A gente vai arrumar uma forma distrair um filtro inteligente para ser mais assertivo com essas pessoas que estão pegando na mão o dado."
+      },
+      {
+        "startTime": 1195,
+        "endTime": 1249,
+        "speaker": "Diego Diehl",
+        "text": "E talvez vem até. novos negócios Incorporadora fazendo isso um monte de gente fazendo isso vai ver uma cesta Mas é isso até agora e que mais é isso dá para indicar o CRM depois até para falar com esse CRM, mas realmente o foco tipo assim foco de integração em João Pessoa, não é a melhor Praça porque Eu acho que um foco externo para você saber talvez seja a gente conseguir chegar nas principais imobiliárias da cidade, entendeu? porque as imobiliárias são mais importantes a gente ter isso é aprender a chegar nas principais imobiliárias, eu falei para o Gustavo ontem chegar nas principais incorporadoras chegaram o mercado ele tem uma É uma distribuição muito desigual assim então como é que a gente chega nos principais?"
+      },
+      {
+        "startTime": 1251,
+        "endTime": 1283,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "beleza É sobre a questão das perguntas no grupo, né, geralmente quando eu tenho dúvidas é dúvidas mais rápidas assim urgentes eu mando no WhatsApp do João. E quando são dúvidas de coisas que eu quero aprender, mas assim eu sempre separo tudo para as reuniões que eu e o João fizemos fazemos né? Até ontem surgiu um monte de dúvida no meio da reunião que eu e o João estávamos fazendo então eu acabo separando esse espaço para tirar várias dúvidas que eu tenho."
+      },
+      {
+        "startTime": 1284,
+        "endTime": 1285,
+        "speaker": "Diego Diehl",
+        "text": "Boa pode continuar?"
+      },
+      {
+        "startTime": 1286,
+        "endTime": 1287,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Beleza, e aí?"
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1289,
+        "speaker": "Diego Diehl",
+        "text": "fazendo"
+      },
+      {
+        "startTime": 1289,
+        "endTime": 1291,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Ah tá, achei que era a apresentação."
+      },
+      {
+        "startTime": 1291,
+        "endTime": 1319,
+        "speaker": "Diego Diehl",
+        "text": "Os dois os dois não tem problema pode usar seu nomes. Acho que é importante aos poucos a gente vê como aproximar O Gustavo. E é isso, porque uma coisa que eu expliquei também João é que você tá um tanto mais focado cada vez mais nos closers, mas que essa parte técnica é fundamental tá próximo da Ester e que a parte da Ester tem que estar cada vez mais próxima dos bdrs."
+      },
+      {
+        "startTime": 1319,
+        "endTime": 1328,
+        "speaker": "Diego Diehl",
+        "text": "Porque para a nova praça para abordar o usuário para conseguir indicação para tudo daqui a pouco. Daqui eu daqui a pouco a gente."
+      },
+      {
+        "startTime": 1330,
+        "endTime": 1362,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Beleza então um espaço Claro né de oportunidade. É para fazer alguns algum vídeo educativo sobre o CRM ou algum conteúdo educativo para eles para os corretores que me responderam mesmo? Né também para ser um follow up não deixar eles abandonados ali. E então o plano de ação é realizar um falou continuo com os corretores que receberam um vídeo, né? Eu tô conversando com aqueles corretores de outubro do ano passado."
+      },
+      {
+        "startTime": 1362,
+        "endTime": 1386,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Então eu tô mandando conteúdo para eles. Eu mandei o vídeo, eu mandei WhatsApp, então tô fazendo esse fala um up para não deixar a galera abandonada mesmo. É priorizar corretoras que utilizam CRM para fazer essa integração? Digo mais desses corretoras que eu já entrei em contato, né? Porque alguns eles têm até uma resistência."
+      },
+      {
+        "startTime": 1386,
+        "endTime": 1420,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Acham que é pago ou acham que eu quero vender algo. Então eu explico para eles. Olha é gratuito, você vai ter isso isso e isso então eu posso até melhorar esse Pit, né com o que você falou para mim agora pouco. então é realmente fazer esse follow up para Ver essa questão da integração e também continuar criando esse conteúdo de valor, né? Agora que eu tô que me aproximei bem mais do da equipe de design."
+      },
+      {
+        "startTime": 1420,
+        "endTime": 1441,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Então a gente até pensou em fazer uma playlist no YouTube com alguns treinamentos básicos simples. Até tem um lá e o Carlos subiu o último vídeo que eu fiz. Então acho que a gente pode fazer uma playlist para mim mandar para alguns corretores, principalmente novos corretores."
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1480,
+        "speaker": "Diego Diehl",
+        "text": "No YouTube, né? Show 2 pontos aqui Ester antes da gente avançar. Se o primeiro que tava vendo Ah João válida se a conta da z2a externa tá cadastrando automaticamente os corretores? Eu acho que não deve estar que o número tá bem baixo ali de traqueamento NASA e 2. Tá mostrando que em fevereiro a Ester teve."
+      },
+      {
+        "startTime": 1480,
+        "endTime": 1490,
+        "speaker": "Diego Diehl",
+        "text": "27 contatos ou 27 novos contatos. Talvez seja 4324 interações únicas, É talvez não esteja errado."
+      },
+      {
+        "startTime": 1490,
+        "endTime": 1494,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Então pelo que o João me passou tá configurado já."
+      },
+      {
+        "startTime": 1494,
+        "endTime": 1495,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1495,
+        "endTime": 1519,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É que a maioria que ela atuou já tava lá dentro tá foi usado disparo da Meta pelo pelo outro número lá da que a gente tem configurado, mas já estão cadastrados. Então, talvez o número que a gente tem que acompanhar é o número de interações, né mensagens enviadas por aí pega essa galera que já tá na base."
+      },
+      {
+        "startTime": 1519,
+        "endTime": 1520,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "no mês de fevereiro"
+      },
+      {
+        "startTime": 1522,
+        "endTime": 1537,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "É na verdade, eu nem sei como tá essa porque por exemplo no meu WhatsApp naquela parte de ferramentas que eu consigo ver conversas iniciadas dos últimos sete dias, fala que eu só tenho quatro conversas iniciadas. Entendeu?"
+      },
+      {
+        "startTime": 1539,
+        "endTime": 1541,
+        "speaker": "Diego Diehl",
+        "text": "São novas será?"
+      },
+      {
+        "startTime": 1541,
+        "endTime": 1545,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "É então."
+      },
+      {
+        "startTime": 1545,
+        "endTime": 1553,
+        "speaker": "Diego Diehl",
+        "text": "É não está tranquilo. Acho que é mais de uma forma geral o número que você tá usando é o final 1997 na Ester."
+      },
+      {
+        "startTime": 1553,
+        "endTime": 1556,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "isso"
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1623,
+        "speaker": "Diego Diehl",
+        "text": "Mas é isso João acho que deixa eu abrir para vocês verem que que eu tô vendo. aqui ó O que a gente queria ver? Engraçado esses filtros aqui aqui interação data de interação, olha. Pegar de fevereiro. ó 324 impactados, eu acho que faz sentido na Tá aqui bastante vários impactados."
+      },
+      {
+        "startTime": 1623,
+        "endTime": 1624,
+        "speaker": "Diego Diehl",
+        "text": "total"
+      },
+      {
+        "startTime": 1624,
+        "endTime": 1625,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "É mas bem a questão."
+      },
+      {
+        "startTime": 1625,
+        "endTime": 1630,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa é que nem mensagens enviadas ali já estava mil e pouco só em fevereiro."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1656,
+        "speaker": "Diego Diehl",
+        "text": "É então, talvez esteja metificando. Eu nem tô julgando que isso é muito se é pouco, mas é mais para a gente ver se tá tracionando aqui, ó, contato teve pouco adicionado. Fevereiro, talvez a gente esteja falando com os mesmos lá, né? 324 interações únicas é que esse gráfico aqui distorceu, né? Porque em janeiro a gente."
+      },
+      {
+        "startTime": 1656,
+        "endTime": 1656,
+        "speaker": "Diego Diehl",
+        "text": "a gente"
+      },
+      {
+        "startTime": 1656,
+        "endTime": 1658,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Janeiro foi feita a Invocação."
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1663,
+        "speaker": "Diego Diehl",
+        "text": "afetados 2300"
+      },
+      {
+        "startTime": 1663,
+        "endTime": 1670,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Também as interações feitas pela api, né pelo número da API. E eu não sei se conta aí também."
+      },
+      {
+        "startTime": 1675,
+        "endTime": 1694,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Essa primeira aí Diego isso. Mas ele não afetou todas tá Diego. Aí você tem que olhar no outro relatório ali do lado voltando lá na tela anterior. Tem ali isso histórico foi 400. Se não me engano que a gente realizou."
+      },
+      {
+        "startTime": 1699,
+        "endTime": 1718,
+        "speaker": "Diego Diehl",
+        "text": "beleza Então tá. E aí próximo passo? Ah volta só num dado ali Ester volta à noite, eu acho que é o dois ali do relatório que é resultado só para ver o que que você colocou aqui."
+      },
+      {
+        "startTime": 1719,
+        "endTime": 1722,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1722,
+        "endTime": 1737,
+        "speaker": "Diego Diehl",
+        "text": "Envio do vídeo. Tá que eu tô sentindo. Tá certo? Eu tô com medo da gente estar perdendo coisa de semana para semana. Eu não tô vendo aqui os nossos ativos do co-rote lá que a gente combinou. lembra"
+      },
+      {
+        "startTime": 1740,
+        "endTime": 1742,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Do Groove que você fala."
+      },
+      {
+        "startTime": 1742,
+        "endTime": 1754,
+        "speaker": "Diego Diehl",
+        "text": "É exato É lá que eu. É lá que eu queria olhar um resultado que é de compartilhar aqui, vocês lembram no corretores de semana que a gente pegou mesmo."
+      },
+      {
+        "startTime": 1755,
+        "endTime": 1757,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Foi em outubro. Se não me engano Diego outubro agosto."
+      },
+      {
+        "startTime": 1759,
+        "endTime": 1760,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar."
+      },
+      {
+        "startTime": 1760,
+        "endTime": 1761,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "18 de outubro"
+      },
+      {
+        "startTime": 1763,
+        "endTime": 1775,
+        "speaker": "Gustavo Torres",
+        "text": "Também tem aquele tópico que você me mandou ontem para a gente trazer aqui para Ester a estratégia dos grupos de WhatsApp que a gente vai lido os grupos de corretores."
+      },
+      {
+        "startTime": 1775,
+        "endTime": 1776,
+        "speaker": "Diego Diehl",
+        "text": "Qual que era?"
+      },
+      {
+        "startTime": 1776,
+        "endTime": 1781,
+        "speaker": "Gustavo Torres",
+        "text": "Boa só para a gente não esquecer também para a gente fazer esse teste junto com você também está?"
+      },
+      {
+        "startTime": 1783,
+        "endTime": 1784,
+        "speaker": "Diego Diehl",
+        "text": "a data"
+      },
+      {
+        "startTime": 1784,
+        "endTime": 1786,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "É da semana do dia 18/10."
+      },
+      {
+        "startTime": 1788,
+        "endTime": 1859,
+        "speaker": "Diego Diehl",
+        "text": "19/10 aqui Deixa eu pegar um período menor. O que tá aparecendo tanto 20. Ah, tá? torcendo Agora sim beleza 18 de outubro 19 de outubro Aqui ó, provavelmente esse 30 aqui, né? 12 A nossa que é o final. Aqui ó. Provavelmente você pegou esse 30 aqui, ó. Você pegou a semana do dia 19 26, é isso Ester."
+      },
+      {
+        "startTime": 1859,
+        "endTime": 1864,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Primeiro foi uma abordagem diagnóstica, né para saber se eles estão usando a"
+      },
+      {
+        "startTime": 1864,
+        "endTime": 1875,
+        "speaker": "Diego Diehl",
+        "text": "Vamos ver isso os números, né? E como é que foram essas abordagens desses corretores que são? Do que se cadastraram nessas duas semanas?"
+      },
+      {
+        "startTime": 1882,
+        "endTime": 1914,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "ouro. e Os que não estavam usando foi aquela questão de saber o porquê? e Fazendo conteúdo perguntando. Olha eu fiz um vídeo sobre os filtros para ver se gerava algum interesse e se eu podia enviar, né? E aí Mandei para eles também o vídeo. E é mais esse contato."
+      },
+      {
+        "startTime": 1914,
+        "endTime": 1915,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "né"
+      },
+      {
+        "startTime": 1915,
+        "endTime": 1936,
+        "speaker": "Diego Diehl",
+        "text": "Tá tá eu acho que Ester vale um oizinho para esse cluster de novo e talvez você perguntar para o João perguntar para o Gustavo criar uma estratégia de Que que vai abordar, tipo a gente liberou o site para eles enviou a inteligência de mercado. Você lembra do check list lá ou você já tá pulando o básico?"
+      },
+      {
+        "startTime": 1936,
+        "endTime": 1937,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Sim para alguns mas não não para todos."
+      },
+      {
+        "startTime": 1937,
+        "endTime": 1949,
+        "speaker": "Diego Diehl",
+        "text": "Oi e deve ser mandou para esses caras do hotsite mercado. Não que quem não super interagiu, você tá aguardando, né, tá eu acho que"
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1950,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "aham"
+      },
+      {
+        "startTime": 1950,
+        "endTime": 1994,
+        "speaker": "Diego Diehl",
+        "text": "esse é o ponto estar pensando mais. Médio prazo Que eu queria com esse experimento que a gente selecionasse corretores que se cadastraram num cenário específico. Para a gente poder fazer um trabalho um pouco mais intenso com eles e ver que nível de retenção que a gente consegue. E com isso entender que tipo de como o que que a gente tá comunicando para essas pessoas que tá gerando um aumento da retenção para daí com esse fluxo, a gente talvez melhorar os nossos fluxos de retenção entender."
+      },
+      {
+        "startTime": 1994,
+        "endTime": 2027,
+        "speaker": "Diego Diehl",
+        "text": "Como reter o que fazer, entendeu alguma coisa, mas assim conseguimos subir. Como faz isso, cara? Sei lá quantos para no WhatsApp? Com alguma coisa, então é esse é um ponto. O outro ponto você talvez vamos olhar um outro documento aqui que é a base que eu tô estratégica. A gente tá se baseando nesse documento que certo todo mundo tem acesso a esse documento."
+      },
+      {
+        "startTime": 2027,
+        "endTime": 2034,
+        "speaker": "Diego Diehl",
+        "text": "Ninguém tem acesso. Será que eu fiz uma cópia? Tirei o excesso de você?"
+      },
+      {
+        "startTime": 2034,
+        "endTime": 2036,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu acho que foi feito uma cópia dele."
+      },
+      {
+        "startTime": 2039,
+        "endTime": 2044,
+        "speaker": "Diego Diehl",
+        "text": "Então ninguém acessou faz um mês então a gente tem um problema ou vocês fizeram uma cópia aí."
+      },
+      {
+        "startTime": 2045,
+        "endTime": 2051,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Então esse aí é esse aí, eu fiz uma cópia e mandei para Ester dos 30 60 e 90."
+      },
+      {
+        "startTime": 2051,
+        "endTime": 2062,
+        "speaker": "Gustavo Torres",
+        "text": "Eu não tenho esse de acho que o que eu tenho aqui de assistente É um que só tem. duas Abas ali laterais deixa ver só se não tá no meu dox outro aqui ou tá aí o"
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2099,
+        "speaker": "Diego Diehl",
+        "text": "Para vocês aqui, o que que a gente tava olhando. Tá só lembrando de lembrar o A base deixa eu jogar aqui para central. eu acho que a gente tá Não aqui o plano de 90 dias. A gente tá indicadores de sucesso corretores contatados. Feedback registrado indicação solicitada corretores reativados novos cadastros, eu acho que essa parte aqui por mais que a gente não consiga medir exatamente."
+      },
+      {
+        "startTime": 2099,
+        "endTime": 2137,
+        "speaker": "Diego Diehl",
+        "text": "Você fez essas quatro na Esther, tipo falou com gente talvez não sei se novos cadastros, a gente acabou não atuando a gente mudou um pouquinho estratégia, né de não atuar novos cadastros. Focamos muito em registrar feedback e ativar corretor e contatar corretores. O que eu não vi aqui indicações, mas eu acho que teve um momento lá no mais em janeiro, né que a gente pegou alguns contatos e tal."
+      },
+      {
+        "startTime": 2137,
+        "endTime": 2141,
+        "speaker": "Diego Diehl",
+        "text": "Não sei que enfim deu esses contatos."
+      },
+      {
+        "startTime": 2142,
+        "endTime": 2149,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "De incorporadoras eu até coloquei aqui não sei falei mas tiveram oito novos. indicações"
+      },
+      {
+        "startTime": 2151,
+        "endTime": 2156,
+        "speaker": "Diego Diehl",
+        "text": "indicação do que de Incorporadora que não está na hora ou Incorporadora para ser cliente"
+      },
+      {
+        "startTime": 2157,
+        "endTime": 2158,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Que não estão na hora."
+      },
+      {
+        "startTime": 2159,
+        "endTime": 2166,
+        "speaker": "Diego Diehl",
+        "text": "Tá show, essa é uma E aí você passou para Daí foi para você, né?"
+      },
+      {
+        "startTime": 2167,
+        "endTime": 2169,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "isso tá lá no"
+      },
+      {
+        "startTime": 2169,
+        "endTime": 2194,
+        "speaker": "Diego Diehl",
+        "text": "Tá eu daí 60 dias o crescimento dos corretores ativos. indicações válidas coletadas precisa retornar reuniões geradas de indicação, eu acho que é meio que um próximo passo de falar da gente tentar fazer algum trabalho de Daí por isso essa aproximação que eu gostava de pegar e falar cara, você não é tô tentando falar com essas incorporadoras aqui."
+      },
+      {
+        "startTime": 2194,
+        "endTime": 2212,
+        "speaker": "Diego Diehl",
+        "text": "Você tem você mandaria um áudio falando da orla. Conseguir gerar algum algum valor de corretor indicando para os bdrs daí João eu acho que é um papo que vocês três podem ter porque você fez muito isso em João Pessoa, né? Lembra?"
+      },
+      {
+        "startTime": 2214,
+        "endTime": 2222,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Já conseguiu 10 reuniões, não foi? Não esse foi de contato comercial. isso"
+      },
+      {
+        "startTime": 2222,
+        "endTime": 2253,
+        "speaker": "Diego Diehl",
+        "text": "Mas tentar instruir ver como é que desdobra ou fazer os corretores pressionarem as incorporadoras em o próximo passo, está que eu vejo tem alguns. Que a gente tem que pedir para o corretor falar para Incorporadora, quando for falar com a Incorporadora que assessor pela órgão essa em escala seja essa numa pequena escala, se você conseguir validar em grande escala vai gerar muito resultado para gente."
+      },
+      {
+        "startTime": 2253,
+        "endTime": 2275,
+        "speaker": "Diego Diehl",
+        "text": "Tá de falar um pouco para o corretor, lembra de falar da hora, o João sabe desse Pit, né? Aqui a gente falou de prova social. Você seria importante, talvez aí. Talvez isso você pode puxar direto entre maiumi Ester de como é que a gente pode coletar alguma prova social."
+      },
+      {
+        "startTime": 2275,
+        "endTime": 2302,
+        "speaker": "Diego Diehl",
+        "text": "Inclusive que eu queria balizar contigo sério, a gente vai começar os eventos. Tá. E aí, eu e o João a gente fez em Goiânia em João Pessoa, tipo um café da manhã para os corretores mais ativos da praça. Inclusive a gente coletou depoimento de alguns em Goiânia, eu nem sei onde é que foram parar aqueles vídeos."
+      },
+      {
+        "startTime": 2302,
+        "endTime": 2328,
+        "speaker": "Diego Diehl",
+        "text": "A gente publicou alguns vídeos lá que teve e prova social dava até para puxar os com a Mayumi para eles achar os vídeos de corretores falando da hora lá em Goiânia que a gente teve. aí ela vê essa visão para ela ver esse ponto eu lembro que A gente fez até umas perguntas contratou uma vídeo Maker lá foi super legal."
+      },
+      {
+        "startTime": 2328,
+        "endTime": 2331,
+        "speaker": "Gustavo Torres",
+        "text": "tá"
+      },
+      {
+        "startTime": 2331,
+        "endTime": 2337,
+        "speaker": "Diego Diehl",
+        "text": "Então a Ester daqui a pouco pode entrar na carreirinha ali do cronograma de eventos, tá?"
+      },
+      {
+        "startTime": 2338,
+        "endTime": 2342,
+        "speaker": "Gustavo Torres",
+        "text": "A gente podia testar com Curitiba não o Curitiba tá muito."
+      },
+      {
+        "startTime": 2343,
+        "endTime": 2348,
+        "speaker": "Diego Diehl",
+        "text": "Com Vitória, já talvez. Vitória semana que vem"
+      },
+      {
+        "startTime": 2351,
+        "endTime": 2356,
+        "speaker": "Gustavo Torres",
+        "text": "tá"
+      },
+      {
+        "startTime": 2356,
+        "endTime": 2385,
+        "speaker": "Diego Diehl",
+        "text": "corretores Que lá tem o Knight. É o João foi bem fácil organizar isso na verdade, né? Pegamos a lista tiramos os contatos dos mais ativos definimos o local chamamos a galera para ir lá o trampo que dá é eu que vou lá presencial."
+      },
+      {
+        "startTime": 2385,
+        "endTime": 2397,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso aí é tranquilo uma manhã. Acho que nem isso a gente faz é legal. Ligar foi o que eu mais senti mais tive resultado pega ali porque é 10 15 no máximo. Liga para cada um ou o cara vai se sentir valorizado para caramba."
+      },
+      {
+        "startTime": 2398,
+        "endTime": 2423,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem que ir para reunião, eu vou puxar uma reunião com Knight. Deixa eu pensar como que organizo rápido, eu vou avisar o que naipe disso. É talvez a gente não precisa nem dar mais nisso. O passo Claro stag daí eu te dou o João sabe o passo Claro a gente vai tirar os corretores mais ativos da praça."
+      },
+      {
+        "startTime": 2423,
+        "endTime": 2436,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou pedir porque naipe definir um local uma padaria uma parada assim, a gente vai contratar um vídeo Maker você vai convidar os corretores para esse para esse café da manhã. Beleza, daí gus. Você só fica perto para aprender que talvez a gente pode nas"
+      },
+      {
+        "startTime": 2436,
+        "endTime": 2441,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "beleza"
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2476,
+        "speaker": "Diego Diehl",
+        "text": "outras praças. Beleza, gente. Eu perdi o horário que a gente tem que ir para outra reunião externo geral, tá legal o pensamentos Claros que precisa acumular mais esse relatório não dá para ir um novo relatório toda semana, tem que estar o que que tá de plano estratégico mensal bimestral trimestral, o que é que a gente está tendo de resultado? O resultado do growth lá a gente tem que ver subir aqueles percentuais e pensar em alguma coisa em escala."
+      },
+      {
+        "startTime": 2476,
+        "endTime": 2488,
+        "speaker": "Diego Diehl",
+        "text": "Tá. E aí, eu vou puxar aqueles dados cruzados para Para pegar corretores Estagiários pegando o produto fechou. Parabéns, vai tracionando um pouquinho, beleza? Valeu gente. Fui."
+      },
+      {
+        "startTime": 2488,
+        "endTime": 2488,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "valeu"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 150,
+    "speakers": [
+      "Ester Elisa de Souza Rodrigues",
+      "Diego Diehl",
+      "João Vitor Portes da Silva",
+      "Gustavo Torres"
+    ],
+    "total_words_estimate": 4241,
+    "duration_start": 0,
+    "duration_end": 2488
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69a196bf7039fd0013141918",
+        "timestamp": 382,
+        "text": "Muitas imobiliárias usam CRM próprio desenvolvido internamente, exigindo validação de integração",
+        "topicId": "69a196bf7039fd0013141909"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141917",
+        "timestamp": 407,
+        "text": "Órgão integra com qualquer CRM de imobiliária com documentação aberta e processo simples",
+        "topicId": "69a196bf7039fd0013141909"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191a",
+        "timestamp": 434,
+        "text": "Integração com CRM próprio da imobiliária é mais fácil pois já tem administrador",
+        "topicId": "69a196bf7039fd0013141909"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191b",
+        "timestamp": 449,
+        "text": "Ester questionar se indicar CRM parceiro ou conversar diretamente com corretores sem CRM",
+        "topicId": "69a196bf7039fd0013141909"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191d",
+        "timestamp": 813,
+        "text": "Corretores normais visitam em média duas a três vezes o mesmo empreendimento",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191c",
+        "timestamp": 830,
+        "text": "Padrão comportamental de estagiários visitando 300 páginas de 300 empreendimentos diferentes identifica oportunidade",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191f",
+        "timestamp": 845,
+        "text": "Estagiários de imobiliárias médias pegando produtos manualmente representam oportunidade de integração estratégica",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314190f",
+        "timestamp": 872,
+        "text": "Diego perguntar a Alejandro sobre como criar filtros de comportamento de usuários para identificar estagiários",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141910",
+        "timestamp": 962,
+        "text": "Diego enviar mensagem a Leandro sobre acesso ao banco de dados de acessos por corretor",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192f",
+        "timestamp": 970,
+        "text": "Três alavancas principais validadas e funcionando podem servir como base para pedidos",
+        "topicId": "69a196bf7039fd001314190e"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141922",
+        "timestamp": 1028,
+        "text": "Diego reforçou importância de Ester se aproximar da gestão de Gustavo para liberar tempo",
+        "topicId": "69a196bf7039fd001314190b"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141919",
+        "timestamp": 1111,
+        "text": "João Pessoa tem alto índice de imobiliárias usando Mal ao Brasil como CRM",
+        "topicId": "69a196bf7039fd0013141909"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141911",
+        "timestamp": 1138,
+        "text": "Ester conversar com Bruno sobre indicação de CRM para corretores autônomos em João Pessoa",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314191e",
+        "timestamp": 1184,
+        "text": "Filtro inteligente pode identificar pessoas pegando dados manualmente para abordagem mais assertiva",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192e",
+        "timestamp": 1197,
+        "text": "Expandir integração em João Pessoa focando nas principais imobiliárias da cidade",
+        "topicId": "69a196bf7039fd001314190e"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141924",
+        "timestamp": 1251,
+        "text": "Ester separar dúvidas urgentes para WhatsApp e dúvidas de aprendizado para reuniões",
+        "topicId": "69a196bf7039fd001314190b"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141923",
+        "timestamp": 1300,
+        "text": "João focado em closers enquanto Ester trabalha técnica próxima a ele e BDRs",
+        "topicId": "69a196bf7039fd001314190b"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141912",
+        "timestamp": 1334,
+        "text": "Ester criar conteúdo educativo em vídeo sobre CRM para corretores que responderam",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141913",
+        "timestamp": 1349,
+        "text": "Ester fazer follow-up contínuo com corretores de outubro para não deixá-los abandonados",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141914",
+        "timestamp": 1420,
+        "text": "Ester criar playlist no YouTube com treinamentos básicos simples sobre CRM",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192a",
+        "timestamp": 1474,
+        "text": "Janeiro teve 2300 contatos afetados enquanto fevereiro teve apenas 27 novos contatos",
+        "topicId": "69a196bf7039fd001314190d"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192b",
+        "timestamp": 1495,
+        "text": "Maioria dos contatos de fevereiro já estava cadastrada na base de dados",
+        "topicId": "69a196bf7039fd001314190d"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141929",
+        "timestamp": 1625,
+        "text": "Fevereiro teve 324 interações únicas e mil mensagens enviadas via WhatsApp API",
+        "topicId": "69a196bf7039fd001314190d"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141930",
+        "timestamp": 1763,
+        "text": "Testar estratégia de grupos de WhatsApp para abordar grupos de corretores",
+        "topicId": "69a196bf7039fd001314190e"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141921",
+        "timestamp": 1859,
+        "text": "Abordagem diagnóstica inicial com corretores para saber se usam CRM ou não",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141920",
+        "timestamp": 1953,
+        "text": "Experimento com corretores de outubro visa entender nível de retenção e comunicação efetiva",
+        "topicId": "69a196bf7039fd001314190a"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192d",
+        "timestamp": 2078,
+        "text": "Plano de 90 dias inclui indicadores de sucesso como feedback registrado e reativação",
+        "topicId": "69a196bf7039fd001314190d"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141931",
+        "timestamp": 2233,
+        "text": "Corretores pressionarem incorporadoras para usar Órgão em pequena escala antes de escalar",
+        "topicId": "69a196bf7039fd001314190e"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141926",
+        "timestamp": 2282,
+        "text": "Eventos em Goiânia e João Pessoa geraram depoimentos de corretores como prova social",
+        "topicId": "69a196bf7039fd001314190c"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141928",
+        "timestamp": 2331,
+        "text": "Ester entrar no cronograma de eventos para próximas praças após aprender modelo",
+        "topicId": "69a196bf7039fd001314190c"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141925",
+        "timestamp": 2346,
+        "text": "Café da manhã com corretores mais ativos em Vitória semana que vem com vídeo maker",
+        "topicId": "69a196bf7039fd001314190c"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141927",
+        "timestamp": 2389,
+        "text": "Ligar para 10 a 15 corretores mais ativos faz eles se sentirem valorizados",
+        "topicId": "69a196bf7039fd001314190c"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141915",
+        "timestamp": 2398,
+        "text": "Diego puxar reunião com Knight para organizar evento em Vitória semana que vem",
+        "topicId": "69a196bf7039fd0013141908"
+      },
+      {
+        "segmentId": "69a196bf7039fd001314192c",
+        "timestamp": 2443,
+        "text": "Relatório estratégico mensal, bimestral ou trimestral necessário em vez de semanal",
+        "topicId": "69a196bf7039fd001314190d"
+      },
+      {
+        "segmentId": "69a196bf7039fd0013141916",
+        "timestamp": 2477,
+        "text": "Diego extrair dados cruzados para identificar corretores estagiários pegando produtos manualmente",
+        "topicId": "69a196bf7039fd0013141908"
+      }
+    ],
+    "markdownContent": "# 1. Itens de Ação\n\n- [ ] Diego perguntar a Alejandro sobre como criar filtros de comportamento de usuários para identificar estagiários. [14:32](/app/meetings/69a18ab585c6ba0013e8d6c6?t=872)\n- [ ] Diego enviar mensagem a Leandro sobre acesso ao banco de dados de acessos por corretor. [16:02](/app/meetings/69a18ab585c6ba0013e8d6c6?t=962)\n- [ ] Ester conversar com Bruno sobre indicação de CRM para corretores autônomos em João Pessoa. [18:58](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1138)\n- [ ] Ester criar conteúdo educativo em vídeo sobre CRM para corretores que responderam. [22:14](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1334)\n- [ ] Ester fazer follow-up contínuo com corretores de outubro para não deixá-los abandonados. [22:29](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1349)\n- [ ] Ester criar playlist no YouTube com treinamentos básicos simples sobre CRM. [23:40](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1420)\n- [ ] Diego puxar reunião com Knight para organizar evento em Vitória semana que vem. [39:58](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2398)\n- [ ] Diego extrair dados cruzados para identificar corretores estagiários pegando produtos manualmente. [41:17](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2477)\n\n# 2. Integração de CRM\n\n- Órgão integra com qualquer CRM de imobiliária com documentação aberta e processo simples. [06:47](/app/meetings/69a18ab585c6ba0013e8d6c6?t=407)\n- Muitas imobiliárias usam CRM próprio desenvolvido internamente, exigindo validação de integração. [06:22](/app/meetings/69a18ab585c6ba0013e8d6c6?t=382)\n- João Pessoa tem alto índice de imobiliárias usando Mal ao Brasil como CRM. [18:31](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1111)\n- Integração com CRM próprio da imobiliária é mais fácil pois já tem administrador. [07:14](/app/meetings/69a18ab585c6ba0013e8d6c6?t=434)\n- Ester questionar se indicar CRM parceiro ou conversar diretamente com corretores sem CRM. [07:29](/app/meetings/69a18ab585c6ba0013e8d6c6?t=449)\n\n# 3. Estratégia de Retenção e Engajamento\n\n- Padrão comportamental de estagiários visitando 300 páginas de 300 empreendimentos diferentes identifica oportunidade. [13:50](/app/meetings/69a18ab585c6ba0013e8d6c6?t=830)\n- Corretores normais visitam em média duas a três vezes o mesmo empreendimento. [13:33](/app/meetings/69a18ab585c6ba0013e8d6c6?t=813)\n- Filtro inteligente pode identificar pessoas pegando dados manualmente para abordagem mais assertiva. [19:44](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1184)\n- Estagiários de imobiliárias médias pegando produtos manualmente representam oportunidade de integração estratégica. [14:05](/app/meetings/69a18ab585c6ba0013e8d6c6?t=845)\n- Experimento com corretores de outubro visa entender nível de retenção e comunicação efetiva. [32:33](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1953)\n- Abordagem diagnóstica inicial com corretores para saber se usam CRM ou não. [30:59](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1859)\n\n# 4. Estrutura Organizacional e Comunicação\n\n- Diego reforçou importância de Ester se aproximar da gestão de Gustavo para liberar tempo. [17:08](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1028)\n- Criar grupo com Diego, João, Gustavo e Ester para comunicação mais frequente e alinhada. [17:08](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1028)\n- João focado em closers enquanto Ester trabalha técnica próxima a ele e BDRs. [21:40](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1300)\n- Ester separar dúvidas urgentes para WhatsApp e dúvidas de aprendizado para reuniões. [20:51](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1251)\n\n# 5. Eventos e Prova Social\n\n- Café da manhã com corretores mais ativos em Vitória semana que vem com vídeo maker. [39:06](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2346)\n- Eventos em Goiânia e João Pessoa geraram depoimentos de corretores como prova social. [38:02](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2282)\n- Ligar para 10 a 15 corretores mais ativos faz eles se sentirem valorizados. [39:49](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2389)\n- Ester entrar no cronograma de eventos para próximas praças após aprender modelo. [38:51](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2331)\n\n# 6. Métricas e Acompanhamento\n\n- Fevereiro teve 324 interações únicas e mil mensagens enviadas via WhatsApp API. [27:05](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1625)\n- Janeiro teve 2300 contatos afetados enquanto fevereiro teve apenas 27 novos contatos. [24:34](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1474)\n- Maioria dos contatos de fevereiro já estava cadastrada na base de dados. [24:55](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1495)\n- Relatório estratégico mensal, bimestral ou trimestral necessário em vez de semanal. [40:43](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2443)\n- Plano de 90 dias inclui indicadores de sucesso como feedback registrado e reativação. [34:38](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2078)\n\n# 7. Próximos Passos Estratégicos\n\n- Expandir integração em João Pessoa focando nas principais imobiliárias da cidade. [19:57](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1197)\n- Três alavancas principais validadas e funcionando podem servir como base para pedidos. [16:10](/app/meetings/69a18ab585c6ba0013e8d6c6?t=970)\n- Testar estratégia de grupos de WhatsApp para abordar grupos de corretores. [29:23](/app/meetings/69a18ab585c6ba0013e8d6c6?t=1763)\n- Corretores pressionarem incorporadoras para usar Órgão em pequena escala antes de escalar. [37:13](/app/meetings/69a18ab585c6ba0013e8d6c6?t=2233)",
+    "topics": [
+      {
+        "id": "69a196bf7039fd0013141908",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd0013141909",
+        "order": 2,
+        "title": "Integração de CRM",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd001314190a",
+        "order": 3,
+        "title": "Estratégia de Retenção e Engajamento",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd001314190b",
+        "order": 4,
+        "title": "Estrutura Organizacional e Comunicação",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd001314190c",
+        "order": 5,
+        "title": "Eventos e Prova Social",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd001314190d",
+        "order": 6,
+        "title": "Métricas e Acompanhamento",
+        "summary": ""
+      },
+      {
+        "id": "69a196bf7039fd001314190e",
+        "order": 7,
+        "title": "Próximos Passos Estratégicos",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 35,
+    "topic_count": 7,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69a196bf7039fd0013141908",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd0013141909",
+      "order": 2,
+      "title": "Integração de CRM",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd001314190a",
+      "order": 3,
+      "title": "Estratégia de Retenção e Engajamento",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd001314190b",
+      "order": 4,
+      "title": "Estrutura Organizacional e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd001314190c",
+      "order": 5,
+      "title": "Eventos e Prova Social",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd001314190d",
+      "order": 6,
+      "title": "Métricas e Acompanhamento",
+      "summary": ""
+    },
+    {
+      "id": "69a196bf7039fd001314190e",
+      "order": 7,
+      "title": "Próximos Passos Estratégicos",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:51:27.475169+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:51:27.475169+00:00"
+}

@@ -1,0 +1,3574 @@
+{
+  "meeting_id": "66e059a64ac6b00013eaa14c",
+  "name": "Órulo - Daily",
+  "happened_at": "2024-09-10T14:37:25.992Z",
+  "duration_seconds": 4008.545,
+  "duration_minutes": 66.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "victor@filterfeed.com.br"
+    },
+    {
+      "name": "Diogo Fernandes",
+      "email": "diogo.fernandes@avodh.com.br"
+    },
+    {
+      "name": "Johnny Fernandes",
+      "email": "johnny.fernandes@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "eduarda.salles@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "lucas.vicente@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "anderson.oliveira@avodh.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66e059a64ac6b00013eaa14c",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "det-tdoa-arn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66e059a7d2565f0013826246",
+    "meetingId": "66e059a64ac6b00013eaa14c",
+    "data": [
+      {
+        "startTime": 2,
+        "endTime": 14,
+        "speaker": "Lucas Vicente",
+        "text": "preenchido. Em algum momento que é o corretor. Para finalizar o nosso processo certo. Talvez não tenha nesse momento Inicial, mas posteriormente ele vai ser preenchido. processo para ele não puxar do"
+      },
+      {
+        "startTime": 14,
+        "endTime": 18,
+        "speaker": "Diego Diehl",
+        "text": "O contato quando a gente não tem Imobiliária, a gente tem um campo cliente o campo contato, né?"
+      },
+      {
+        "startTime": 18,
+        "endTime": 20,
+        "speaker": "Lucas Vicente",
+        "text": "contato então quando tiver sem contato, ele vai correr normalmente. Só que eu fiquei até com uma dúvida eu ia deixar para ver na perfeito reunião de tarde, mas já pergunto"
+      },
+      {
+        "startTime": 20,
+        "endTime": 23,
+        "speaker": "Diego Diehl",
+        "text": "O campo contato é o que tava puxando para as automações."
+      },
+      {
+        "startTime": 23,
+        "endTime": 24,
+        "speaker": "Lucas Vicente",
+        "text": "certo"
+      },
+      {
+        "startTime": 24,
+        "endTime": 31,
+        "speaker": "Diego Diehl",
+        "text": "Só que eu seleciono o cliente corretor no campo cliente."
+      },
+      {
+        "startTime": 31,
+        "endTime": 33,
+        "speaker": "Lucas Vicente",
+        "text": "tá"
+      },
+      {
+        "startTime": 33,
+        "endTime": 49,
+        "speaker": "Diego Diehl",
+        "text": "Aí o ponto é eu poderia adicionar ele já em contato é o mesmo. Ou poderia adicionar um como cliente e o outro como contato acho que assim na hora do cadastro tem que sair certo já eu não entendi, qual que foi a solução na verdade Lucas."
+      },
+      {
+        "startTime": 49,
+        "endTime": 53,
+        "speaker": "Lucas Vicente",
+        "text": "Eu criei um outro. Quer falar alguma coisa?"
+      },
+      {
+        "startTime": 53,
+        "endTime": 54,
+        "speaker": "Johnny Fernandes",
+        "text": "Não pode falar."
+      },
+      {
+        "startTime": 54,
+        "endTime": 64,
+        "speaker": "Lucas Vicente",
+        "text": "Eu criei um outro campo para ele não ficar associado ao cliente. Ele é um campo como se ele fosse Genérico e aí a gente vai conseguir atribuir o corretor, entendeu?"
+      },
+      {
+        "startTime": 64,
+        "endTime": 64,
+        "speaker": "Johnny Fernandes",
+        "text": "O que a gente definiu ali na eso e"
+      },
+      {
+        "startTime": 64,
+        "endTime": 66,
+        "speaker": "Lucas Vicente",
+        "text": "O cliente o campo pode falar perdão?"
+      },
+      {
+        "startTime": 68,
+        "endTime": 91,
+        "speaker": "Johnny Fernandes",
+        "text": "Rodolfo super bem e essa é uma lógica do produto mesmo tá do produto quando eu falo da solução do prm tá vou startar um futuro de negócios ali tá? Seja através de uma visita carta Interessado ou de um lixo que eu acabei de qualificar. Se eu já tiver se eu souber que esse corretor é dessa imobiliária."
+      },
+      {
+        "startTime": 91,
+        "endTime": 117,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu posso identificar imobiliária do cliente o corretor como como contato? Ok só para ter os dados de vgv na imobiliária, porque quando eu faço uma venda naquele corretor eu acumulo veja bem do corretor daquela imobiliária. Beleza, é isso é interessante para algumas versões BG, vem outras coisas quantidade de vendas daquela Imobiliária até os outros dados lá."
+      },
+      {
+        "startTime": 117,
+        "endTime": 144,
+        "speaker": "Johnny Fernandes",
+        "text": "Quando por algum motivo você já é mil motivos, eu vou fazer uma não ter Imobiliária ou é o corretor autônomo que em São Paulo acontece bastante no campo cliente, o corretor vai entrar como cliente. Entendeu? E no checklists e perguntas e regras a gente tem que ter. A condicional lá ou seja, tem que ter o check list para quando eu tiver Imobiliária e corretor."
+      },
+      {
+        "startTime": 144,
+        "endTime": 162,
+        "speaker": "Johnny Fernandes",
+        "text": "Vai ser imobiliária em contato que o meu corretor vai ser o contato do card nessa situação. E eu tenho que ter o mesmos Campos para cliente que é quando meu corretor for meu cliente de fato. Entendeu? Claro não"
+      },
+      {
+        "startTime": 162,
+        "endTime": 163,
+        "speaker": "Diego Diehl",
+        "text": "Não."
+      },
+      {
+        "startTime": 163,
+        "endTime": 164,
+        "speaker": "Johnny Fernandes",
+        "text": "Claro"
+      },
+      {
+        "startTime": 164,
+        "endTime": 165,
+        "speaker": "Diego Diehl",
+        "text": "Não é que foi mal, tava meio que"
+      },
+      {
+        "startTime": 165,
+        "endTime": 167,
+        "speaker": "Johnny Fernandes",
+        "text": "Lucas"
+      },
+      {
+        "startTime": 167,
+        "endTime": 171,
+        "speaker": "Diego Diehl",
+        "text": "criando um card em paralelo que eu não entendi, mas acho que é para o Lucas, entendeu?"
+      },
+      {
+        "startTime": 171,
+        "endTime": 177,
+        "speaker": "Lucas Vicente",
+        "text": "Entendi fazer duas condicionais, né, Johnny? Acho que é mais ou menos o que a gente faz quando o cliente é tipo CNPJ e tipo PF, né?"
+      },
+      {
+        "startTime": 177,
+        "endTime": 178,
+        "speaker": "Johnny Fernandes",
+        "text": "É a mesma coisa, sabe quando a"
+      },
+      {
+        "startTime": 178,
+        "endTime": 179,
+        "speaker": "Lucas Vicente",
+        "text": "CPF? Ah"
+      },
+      {
+        "startTime": 179,
+        "endTime": 184,
+        "speaker": "Johnny Fernandes",
+        "text": "os tipos de vendas lá que se for cliente a pessoa física, a gente segue com uma lista de perguntas e"
+      },
+      {
+        "startTime": 184,
+        "endTime": 184,
+        "speaker": "Lucas Vicente",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 184,
+        "endTime": 187,
+        "speaker": "Johnny Fernandes",
+        "text": "quando é cliente sua agenda jurídicas."
+      },
+      {
+        "startTime": 187,
+        "endTime": 188,
+        "speaker": "Lucas Vicente",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 188,
+        "endTime": 193,
+        "speaker": "Johnny Fernandes",
+        "text": "É a mesma coisa, só que a gente vai olhar para o tipo do cliente também aqui, entendeu?"
+      },
+      {
+        "startTime": 193,
+        "endTime": 193,
+        "speaker": "Lucas Vicente",
+        "text": "tá"
+      },
+      {
+        "startTime": 193,
+        "endTime": 199,
+        "speaker": "Johnny Fernandes",
+        "text": "Então por exemplo. Eu preciso pegar o RG do corretor. Certo se o tipo do cliente do"
+      },
+      {
+        "startTime": 199,
+        "endTime": 201,
+        "speaker": "Lucas Vicente",
+        "text": "certo"
+      },
+      {
+        "startTime": 201,
+        "endTime": 208,
+        "speaker": "Johnny Fernandes",
+        "text": "negócio for. empresa Eu vou gravar isso esse RG no contato."
+      },
+      {
+        "startTime": 208,
+        "endTime": 208,
+        "speaker": "Lucas Vicente",
+        "text": "tá"
+      },
+      {
+        "startTime": 208,
+        "endTime": 220,
+        "speaker": "Johnny Fernandes",
+        "text": "Que ele é o meu corretor. Se o tipo do cliente é pessoa eu vou gravar o RG no cliente do negócio porque ele é o meu corretor."
+      },
+      {
+        "startTime": 220,
+        "endTime": 221,
+        "speaker": "Lucas Vicente",
+        "text": "tá"
+      },
+      {
+        "startTime": 221,
+        "endTime": 223,
+        "speaker": "Johnny Fernandes",
+        "text": "É exatamente essa lógica aí, entendeu?"
+      },
+      {
+        "startTime": 223,
+        "endTime": 224,
+        "speaker": "Lucas Vicente",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 224,
+        "endTime": 246,
+        "speaker": "Johnny Fernandes",
+        "text": "Só para ficar claro aqui, Diego só para você entender também. Acho que para todos aqui rapidinho agora vou aprofundar não só vou passar um peixe aqui porque essa foi a lógica de produto que a gente definiu aí um tempo atrás. E deu super certo ali na Depois de alguns meses, né? Então é bom Compartilhar esse conhecimento aqui."
+      },
+      {
+        "startTime": 246,
+        "endTime": 272,
+        "speaker": "Johnny Fernandes",
+        "text": "Então aqui é o seguinte, ó, eu tô no fundo de negócios, ok? Então, nós temos alguns controles quando a gente vai gerenciar o parceiro que é o veja evento corretor o vgb da imobiliária, quantas vendas essa imobiliária já gerou aqui quantas vezes esse corretor já gerou aqui, né? E para mim gerar as informações na imobiliária."
+      },
+      {
+        "startTime": 272,
+        "endTime": 297,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu preciso que ela esteja vinculada no cards, não tem como não tem como adivinhar, né? Que aquele Estava envolvido no processo então quando eu faço aqui o novo negócio. E eu coloco aqui a imobiliária. pegar Deixa eu pegar aqui vai qualquer coisa aqui."
+      },
+      {
+        "startTime": 297,
+        "endTime": 310,
+        "speaker": "Diego Diehl",
+        "text": "O Johnny eu não sei o que que exatamente eu só para deixar claro o problema tá hoje, a gente não tem as imobiliárias cadastradas. A gente só tem o corretor a gente precisa agendar uma visita. Como é que eu faço isso?"
+      },
+      {
+        "startTime": 310,
+        "endTime": 313,
+        "speaker": "Johnny Fernandes",
+        "text": "Não é exatamente, esse é o tema mesmo."
+      },
+      {
+        "startTime": 313,
+        "endTime": 315,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 317,
+        "endTime": 318,
+        "speaker": "Johnny Fernandes",
+        "text": "Só pegar aqui."
+      },
+      {
+        "startTime": 344,
+        "endTime": 346,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho melhor é um caso real tem"
+      },
+      {
+        "startTime": 346,
+        "endTime": 348,
+        "speaker": "Johnny Fernandes",
+        "text": "Beleza, só queria explicar o"
+      },
+      {
+        "startTime": 348,
+        "endTime": 351,
+        "speaker": "Diego Diehl",
+        "text": "corretor com o número de telefone. Como é que eu crio?"
+      },
+      {
+        "startTime": 354,
+        "endTime": 362,
+        "speaker": "Johnny Fernandes",
+        "text": "seguinte. Ó, se eu tenho só o corretor não tem problema do corretor porque ele é autônomo ou porque eu não tenho informação o corretor entra aqui ó e cliente."
+      },
+      {
+        "startTime": 362,
+        "endTime": 363,
+        "speaker": "Diego Diehl",
+        "text": "Sim, é isso que a gente fez."
+      },
+      {
+        "startTime": 363,
+        "endTime": 364,
+        "speaker": "Johnny Fernandes",
+        "text": "Então bugou porque porque foi que eu"
+      },
+      {
+        "startTime": 364,
+        "endTime": 367,
+        "speaker": "Diego Diehl",
+        "text": "bugou."
+      },
+      {
+        "startTime": 367,
+        "endTime": 373,
+        "speaker": "Johnny Fernandes",
+        "text": "acabei de usar para o Lucas lá nas perguntas, ele tem que tratar os dois cenários."
+      },
+      {
+        "startTime": 373,
+        "endTime": 377,
+        "speaker": "Diego Diehl",
+        "text": "Ah dá para automatizar ou pega da"
+      },
+      {
+        "startTime": 377,
+        "endTime": 378,
+        "speaker": "Lucas Vicente",
+        "text": "diferentes"
+      },
+      {
+        "startTime": 378,
+        "endTime": 385,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendeu? Porque tem que estar pronto Diego para quando ele fizer o corretor direto e quando ele fizer Imobiliária corretor."
+      },
+      {
+        "startTime": 385,
+        "endTime": 386,
+        "speaker": "Diego Diehl",
+        "text": "Então é se não tiver contato"
+      },
+      {
+        "startTime": 386,
+        "endTime": 388,
+        "speaker": "Johnny Fernandes",
+        "text": "o clube"
+      },
+      {
+        "startTime": 388,
+        "endTime": 394,
+        "speaker": "Diego Diehl",
+        "text": "preenchido ou se o cliente for se o cliente for corretor. Não tem contato e pega dados do"
+      },
+      {
+        "startTime": 394,
+        "endTime": 396,
+        "speaker": "Johnny Fernandes",
+        "text": "Vai essas perguntas aqui."
+      },
+      {
+        "startTime": 396,
+        "endTime": 397,
+        "speaker": "Diego Diehl",
+        "text": "cliente se o cliente for"
+      },
+      {
+        "startTime": 397,
+        "endTime": 398,
+        "speaker": "Johnny Fernandes",
+        "text": "E é isso aí?"
+      },
+      {
+        "startTime": 398,
+        "endTime": 399,
+        "speaker": "Diego Diehl",
+        "text": "conecta o corretor."
+      },
+      {
+        "startTime": 399,
+        "endTime": 400,
+        "speaker": "Johnny Fernandes",
+        "text": "Essa é lógico, então assim eu"
+      },
+      {
+        "startTime": 400,
+        "endTime": 401,
+        "speaker": "Lucas Vicente",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 401,
+        "endTime": 404,
+        "speaker": "Johnny Fernandes",
+        "text": "exibo condicional o check list, entendeu?"
+      },
+      {
+        "startTime": 404,
+        "endTime": 409,
+        "speaker": "Diego Diehl",
+        "text": "E uma pergunta não é mais fácil deixar liberado o campo contato."
+      },
+      {
+        "startTime": 410,
+        "endTime": 424,
+        "speaker": "Johnny Fernandes",
+        "text": "É isso é uma regra é um arquitetura do Clube. Se o contato já tá entrando como cliente, ele já é o meu contato direto, não precisa alimentar o contato o contato do cliente que já é uma pessoa física, entendeu?"
+      },
+      {
+        "startTime": 424,
+        "endTime": 441,
+        "speaker": "Diego Diehl",
+        "text": "É que o que eu quero dizer se a gente for higienizar esses dados depois. Não seria melhor a gente ter uma imobiliária geral que é imob geral, ele selecione modo geral e aí ele coloca qualquer corretor dentro desse Mob geral e depois a gente é justa."
+      },
+      {
+        "startTime": 441,
+        "endTime": 448,
+        "speaker": "Johnny Fernandes",
+        "text": "Não não acho que não não porque daqui a pouco Caio vai querer saber dados da imobiliária. Ele já tem algumas obrigações cadastradas."
+      },
+      {
+        "startTime": 448,
+        "endTime": 470,
+        "speaker": "Diego Diehl",
+        "text": "Isso mas eu tô falando assim, ó, só para deixar o exemplo Claro, tá? Hoje os gerentes não eu tenho a sensação que a gente não consegue pegar e cadastrar todas as imobiliárias e fazer com calma eles querem registrar. Tá então vou registrar lá sem visitas de um corretor está no"
+      },
+      {
+        "startTime": 470,
+        "endTime": 471,
+        "speaker": "Johnny Fernandes",
+        "text": "Não."
+      },
+      {
+        "startTime": 471,
+        "endTime": 475,
+        "speaker": "Diego Diehl",
+        "text": "campo, não é autônomo ele participa de imobiliárias."
+      },
+      {
+        "startTime": 475,
+        "endTime": 476,
+        "speaker": "Johnny Fernandes",
+        "text": "tá"
+      },
+      {
+        "startTime": 476,
+        "endTime": 483,
+        "speaker": "Diego Diehl",
+        "text": "Ou como autônomo se quiser, mas ele vai ser preenchido no campo cliente certo?"
+      },
+      {
+        "startTime": 483,
+        "endTime": 483,
+        "speaker": "Johnny Fernandes",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 483,
+        "endTime": 497,
+        "speaker": "Diego Diehl",
+        "text": "E ele é de imobiliário, ele é autônomo tem de todos os tipos. Daqui dois meses aí eu vou virar para Cátia e a gente vai começar a saber cada corretor de que Imobiliária é?"
+      },
+      {
+        "startTime": 497,
+        "endTime": 498,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 498,
+        "endTime": 525,
+        "speaker": "Diego Diehl",
+        "text": "Pergunta se eu pegar esse corretor. E associar ele a uma imobiliária. Os dados vão ser corrigidos. Porque eu tenho a sensação que essa sem visitas não vai ter espaço para eu ter clareza de qual imobiliária que esse corretor é? Ou f***-se o histórico vamos dizer assim a partir do momento que o social corretor é Imobiliária correta."
+      },
+      {
+        "startTime": 525,
+        "endTime": 532,
+        "speaker": "Diego Diehl",
+        "text": "As próximas visitas eu vou registrar certo e aí eu vou começar a mapear com base em imobiliárias."
+      },
+      {
+        "startTime": 532,
+        "endTime": 532,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 532,
+        "endTime": 540,
+        "speaker": "Diego Diehl",
+        "text": "Por hora só tô baseando só tô mapeando com base em corretores. Como se todos fossem autônomos? Essa é real?"
+      },
+      {
+        "startTime": 541,
+        "endTime": 566,
+        "speaker": "Johnny Fernandes",
+        "text": "Não entendi Dá para você também digo mas acho que essa lógica é para sempre ter aqui o cliente PJ aqui e colocar corretor aqui, né? Pode ser ou seja? Aqui internamente a gente vai deixar preparado para os dois cenários para não dar banho na operação. Tá bom? Mas a gente pode pegar todos os corretores desse primeiro momento e vincular a imobiliária geral."
+      },
+      {
+        "startTime": 566,
+        "endTime": 568,
+        "speaker": "Diego Diehl",
+        "text": "Ah não a gente vincularia eles."
+      },
+      {
+        "startTime": 568,
+        "endTime": 582,
+        "speaker": "Johnny Fernandes",
+        "text": "Não precisaria é que quando a gente vincula quando o que que contato ele já vai estar automaticamente. Mas aí você pesquisa ele acha entendeu?"
+      },
+      {
+        "startTime": 582,
+        "endTime": 589,
+        "speaker": "Diego Diehl",
+        "text": "É porque se for vincular todos para achar todos de uma vez é melhor pesquisar, ele vai ter que pesquisar de qualquer forma. exatamente"
+      },
+      {
+        "startTime": 589,
+        "endTime": 591,
+        "speaker": "Johnny Fernandes",
+        "text": "Pode criar uma imobiliária."
+      },
+      {
+        "startTime": 591,
+        "endTime": 595,
+        "speaker": "Diego Diehl",
+        "text": "O que que você acha melhor na tua experiência?"
+      },
+      {
+        "startTime": 595,
+        "endTime": 598,
+        "speaker": "Johnny Fernandes",
+        "text": "Na minha experiência eu não criar essa Imobiliária Padrão."
+      },
+      {
+        "startTime": 598,
+        "endTime": 599,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 599,
+        "endTime": 618,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá e eu falaria o seguinte se você já sabe que esse corretor é da Imobiliária Lopes, coloca Lopes como cliente o corretor aqui como contato. Porque eu já vou computar essa venda no vgb da Lopes GV do cara, se você não tem essa informação, coloca o corretor como cliente normalmente e"
+      },
+      {
+        "startTime": 618,
+        "endTime": 618,
+        "speaker": "Diego Diehl",
+        "text": "E aí Segue normal não vai bugar o"
+      },
+      {
+        "startTime": 618,
+        "endTime": 620,
+        "speaker": "Johnny Fernandes",
+        "text": "segue o fluxo."
+      },
+      {
+        "startTime": 620,
+        "endTime": 620,
+        "speaker": "Diego Diehl",
+        "text": "relatórios?"
+      },
+      {
+        "startTime": 620,
+        "endTime": 622,
+        "speaker": "Johnny Fernandes",
+        "text": "Não vai bugar nada e internamente"
+      },
+      {
+        "startTime": 622,
+        "endTime": 623,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 623,
+        "endTime": 626,
+        "speaker": "Johnny Fernandes",
+        "text": "vou tratar isso no checklist lá, entendeu? Isso é muito comum refrigerante."
+      },
+      {
+        "startTime": 626,
+        "endTime": 628,
+        "speaker": "Diego Diehl",
+        "text": "É sim"
+      },
+      {
+        "startTime": 628,
+        "endTime": 631,
+        "speaker": "Johnny Fernandes",
+        "text": "empresa que vende a pessoa física jurídica, já trato isso mesmo ali"
+      },
+      {
+        "startTime": 631,
+        "endTime": 633,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 633,
+        "endTime": 638,
+        "speaker": "Johnny Fernandes",
+        "text": "porque independente mesmo que o cara coloca aqui eu tenho que gravar certo lá no funil, entendeu?"
+      },
+      {
+        "startTime": 638,
+        "endTime": 655,
+        "speaker": "Diego Diehl",
+        "text": "Assim resolve. Então desde que eu coloco um corretor aí como cliente automação funciona? Então, ok é que eu acho que só voltando no tempo para a gente aprender quando você falou. Ah, é só por o corretor como cliente faltou a gente verificar se essa automação está preparada, né?"
+      },
+      {
+        "startTime": 655,
+        "endTime": 656,
+        "speaker": "Johnny Fernandes",
+        "text": "Na verdade."
+      },
+      {
+        "startTime": 656,
+        "endTime": 665,
+        "speaker": "Diego Diehl",
+        "text": "Porque daí eu tava lá na frente do cliente treinando a galera e bugou a p**** do sistema todo. Tá, mas beleza eu vou só atender uma ligação e pode seguir."
+      },
+      {
+        "startTime": 665,
+        "endTime": 672,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá aí do nosso lado no casei sempre sempre é bom."
+      },
+      {
+        "startTime": 672,
+        "endTime": 673,
+        "speaker": "Lucas Vicente",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 673,
+        "endTime": 681,
+        "speaker": "Johnny Fernandes",
+        "text": "Sempre tratar tipo de quem porque como eu não consigo evitar. Que seja entrado o cliente ou uma empresa ou Já criei sempre tem que estar olhando para os dois cenários."
+      },
+      {
+        "startTime": 683,
+        "endTime": 691,
+        "speaker": "Lucas Vicente",
+        "text": "aí eu coloco duas filtragens na minha condicional, se cliente for igual a contato foi igual vazio É algumas perguntas e se"
+      },
+      {
+        "startTime": 691,
+        "endTime": 692,
+        "speaker": "Johnny Fernandes",
+        "text": "Olha o tipo do cliente, só isso o"
+      },
+      {
+        "startTime": 692,
+        "endTime": 694,
+        "speaker": "Lucas Vicente",
+        "text": "Tá perfeito tipo do cliente."
+      },
+      {
+        "startTime": 694,
+        "endTime": 697,
+        "speaker": "Johnny Fernandes",
+        "text": "tipo do cliente for empresa."
+      },
+      {
+        "startTime": 697,
+        "endTime": 697,
+        "speaker": "Lucas Vicente",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 697,
+        "endTime": 706,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu vou gravar os dados do contato da do negócio se o tipo do cliente for pessoa eu gravo os dados da pessoa."
+      },
+      {
+        "startTime": 706,
+        "endTime": 707,
+        "speaker": "Lucas Vicente",
+        "text": "tá"
+      },
+      {
+        "startTime": 707,
+        "endTime": 708,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom aí automação vai seguir"
+      },
+      {
+        "startTime": 708,
+        "endTime": 709,
+        "speaker": "Lucas Vicente",
+        "text": "beijo"
+      },
+      {
+        "startTime": 709,
+        "endTime": 714,
+        "speaker": "Johnny Fernandes",
+        "text": "certinho então Claro."
+      },
+      {
+        "startTime": 714,
+        "endTime": 715,
+        "speaker": "Diego Diehl",
+        "text": "Ficou cara então, beleza o rápido"
+      },
+      {
+        "startTime": 715,
+        "endTime": 719,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso é rápido."
+      },
+      {
+        "startTime": 719,
+        "endTime": 720,
+        "speaker": "Diego Diehl",
+        "text": "O rápido é hoje ainda, né?"
+      },
+      {
+        "startTime": 720,
+        "endTime": 720,
+        "speaker": "Johnny Fernandes",
+        "text": "É não hoje ainda é rapidinho."
+      },
+      {
+        "startTime": 720,
+        "endTime": 722,
+        "speaker": "Lucas Vicente",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 722,
+        "endTime": 748,
+        "speaker": "Diego Diehl",
+        "text": "Então, a gente está falando só para a gente voltar no corda daí juntos, pode retomar. A gente tava com problemas a gente está no processo de implementação de visitas de registro de visitas, vamos chamar assim de funil de negócios, né na etapa de agendamento de visitas. A gente não tava com e-mail habilitado João já resolveu vai treinar o time vai lidar com o Caio ali, tá de boa."
+      },
+      {
+        "startTime": 748,
+        "endTime": 775,
+        "speaker": "Diego Diehl",
+        "text": "Ponto dois eles precisam eles travaram e cadastrar e pesquisar o contato. Tem que achar o contato deles lá ou criar um novo e registrar a visita. certo E aí a gente tem que conseguir enviar o e-mail. Que tinha alguns ajustes também para ir o Creci do gerente para tal vida na conversa."
+      },
+      {
+        "startTime": 775,
+        "endTime": 797,
+        "speaker": "Diego Diehl",
+        "text": "E recebeu o e-mail retornar ao e-mail e ter um passo a passo aí claro como processo final uma documentaçãozinha João do processo de visitas para o time poder consultar depois que a gente tiver mais longe. Mas no início treinar todo time vai na força mesmo, depois que der uma estabilizadinha a gente registra para eles e grava um vídeo também."
+      },
+      {
+        "startTime": 797,
+        "endTime": 805,
+        "speaker": "Diego Diehl",
+        "text": "O que que falta para isso daí?"
+      },
+      {
+        "startTime": 805,
+        "endTime": 806,
+        "speaker": "Lucas Vicente",
+        "text": "falaram"
+      },
+      {
+        "startTime": 807,
+        "endTime": 835,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "É a gente tá tá finalizando esses pontos estão até trouxe no início da reunião, Diego foi foi já realizado 50% dessas alterações que faltavam relacionados a esse processo de registro de visita. Hoje à tarde eu pretendo já me reunir com o Lucas já para a gente validar e ter essas alterações finais realizadas e confirmadas que tá tudo ok mesmo e passa esse feedback para ti, tá? Então é esse é o meu compromisso com essa demanda hoje."
+      },
+      {
+        "startTime": 835,
+        "endTime": 847,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Em paralelo a isso o que que a gente tem? A configuração do dos e-mails então eu me propus a sentar com gerentes a gente fazer essa configuração produzir um vídeo novamente validar com o Caio e"
+      },
+      {
+        "startTime": 847,
+        "endTime": 848,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 848,
+        "endTime": 850,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "treinar os Como configurar tá isso? Como configurar tá isso?"
+      },
+      {
+        "startTime": 850,
+        "endTime": 856,
+        "speaker": "Johnny Fernandes",
+        "text": "O João só um ponto o Diego falou que já estava feito na verdade. Vai ser feito vai ser feito ainda isso."
+      },
+      {
+        "startTime": 856,
+        "endTime": 861,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso eu vou fazer eu a gente fez essa primeira configuração com a Kátia na sexta-feira, tá?"
+      },
+      {
+        "startTime": 861,
+        "endTime": 861,
+        "speaker": "Lucas Vicente",
+        "text": "é que a gente fez um"
+      },
+      {
+        "startTime": 861,
+        "endTime": 862,
+        "speaker": "Johnny Fernandes",
+        "text": "tá"
+      },
+      {
+        "startTime": 862,
+        "endTime": 863,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "usuário."
+      },
+      {
+        "startTime": 863,
+        "endTime": 874,
+        "speaker": "Lucas Vicente",
+        "text": "grande a ideia do João é fazer um vídeo mais bem direto para disponibilizar para todo mundo e ficar mais fácil foi mais tempo a gente explicando para Cátia, então, acho que não fica muito dinâmico."
+      },
+      {
+        "startTime": 874,
+        "endTime": 876,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom, tá bom, beleza."
+      },
+      {
+        "startTime": 876,
+        "endTime": 881,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso aí eu vou me reunir com gerentes chamar eles e a gente fazer essa configuração."
+      },
+      {
+        "startTime": 881,
+        "endTime": 905,
+        "speaker": "Diego Diehl",
+        "text": "O João desculpa pode economizar usa o jogo Johnny e o Lucas essa parte de ir até e desdobrar, vamos bater o que falta, eles eles a gente desenvolvendo para aplicar no cliente que daí eu toco contigo essa esse plano com cliente. Senão a gente vai gastar muito tempo. Quando tiver mais tempo a gente pode até ir atualizando tudo, mas o teu papel é pegar pronto."
+      },
+      {
+        "startTime": 905,
+        "endTime": 913,
+        "speaker": "Diego Diehl",
+        "text": "E lá treinar o time explicado comentar e tirar dúvida e tal e se tiver algum problema voltar aqui para pedir ajuda. Tá o que falta, então faltam 9"
+      },
+      {
+        "startTime": 913,
+        "endTime": 915,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 915,
+        "endTime": 918,
+        "speaker": "Diego Diehl",
+        "text": "itens lá que tá com Lucas para agendamento de visita cheque tá com"
+      },
+      {
+        "startTime": 918,
+        "endTime": 919,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Exatamente beleza 9 itens."
+      },
+      {
+        "startTime": 919,
+        "endTime": 922,
+        "speaker": "Diego Diehl",
+        "text": "isso. Mas assim."
+      },
+      {
+        "startTime": 922,
+        "endTime": 939,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente tem que finalizar aquela parte de higienização Johnny dos dados ainda da base, né? Que faltaram daquela daquela importação que foi feita, né voltado atrás de empresa. A gente conseguiria dar andamento nisso hoje, como é que como é que a gente consegue dar andamento?"
+      },
+      {
+        "startTime": 939,
+        "endTime": 969,
+        "speaker": "Johnny Fernandes",
+        "text": "Consegue sim eu vou levar uma agenda aqui ó das 14 às 16. Da Tarde de hoje. E aí assim se alguém de vocês me chamar nesse período fazer alguma casa, vou falar pessoal. Tô com uma demanda aqui, não posso entrar porque eu tô. Nessa atividade porque assim. Da semana passada recebemos dois horários, eu tive que interromper para Claro, né? Porque ele foi desnecessário foi as outros assuntos importantes que eu acabei atendendo a ideia as árvores a orla ali a ISO vou reservar aqui"
+      },
+      {
+        "startTime": 969,
+        "endTime": 969,
+        "speaker": "Diego Diehl",
+        "text": "Tá só uma coisa para mim, não é"
+      },
+      {
+        "startTime": 969,
+        "endTime": 976,
+        "speaker": "Johnny Fernandes",
+        "text": "agora a tarde e aí se alguém me perguntar pessoal. Tô cansada aqui muito urgente. Daria para esperar para amanhã ou vocês querem que eu de roupa aqui?"
+      },
+      {
+        "startTime": 979,
+        "endTime": 986,
+        "speaker": "Diego Diehl",
+        "text": "gente essa p**** aí, tá? Por que que a gente"
+      },
+      {
+        "startTime": 986,
+        "endTime": 989,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí vocês podem me Me direcionar, entendeu?"
+      },
+      {
+        "startTime": 989,
+        "endTime": 1000,
+        "speaker": "Diego Diehl",
+        "text": "Não é urgente isso cara é mais urgente os relatórios. Que eu acabei de entrar aqui e não tá funcionando ainda os relatórios por colaborador."
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1000,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu também"
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1010,
+        "speaker": "Diego Diehl",
+        "text": "É um pouco mais para baixo da fila. de higienização o tempo do Johnny"
+      },
+      {
+        "startTime": 1010,
+        "endTime": 1013,
+        "speaker": "Diogo Fernandes",
+        "text": "Eu vou pegar de volta aqui tá a tela."
+      },
+      {
+        "startTime": 1013,
+        "endTime": 1014,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1014,
+        "endTime": 1019,
+        "speaker": "Diego Diehl",
+        "text": "Pode para Para de compartilhar aí voltou o jogo."
+      },
+      {
+        "startTime": 1019,
+        "endTime": 1024,
+        "speaker": "Diogo Fernandes",
+        "text": "Isso Diego, a gente colocou o número de prioridades aqui para a gente identificar dos projetos."
+      },
+      {
+        "startTime": 1024,
+        "endTime": 1031,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "tá"
+      },
+      {
+        "startTime": 1031,
+        "endTime": 1040,
+        "speaker": "Diego Diehl",
+        "text": "Eu tava passando linha linha com João e olhando eu que ajudei o João a criar essa planilha Ótimo, vamos seguir."
+      },
+      {
+        "startTime": 1041,
+        "endTime": 1058,
+        "speaker": "Johnny Fernandes",
+        "text": "prioridade de um aqui é aquilo que você tem que fazer tipo hoje, entendeu? Hoje essa semana pois é. Eu entendo também o meu ponto de vista que essa higienização final ali não é tão crítico assim porque toda a base é tá lá, ele está dando polimento na base dele, entendeu?"
+      },
+      {
+        "startTime": 1058,
+        "endTime": 1066,
+        "speaker": "Diego Diehl",
+        "text": "Põe prioridade 3 isso aí de cetim pelo que mais tem."
+      },
+      {
+        "startTime": 1066,
+        "endTime": 1069,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Aí vai ficar essa questão do relatório."
+      },
+      {
+        "startTime": 1069,
+        "endTime": 1069,
+        "speaker": "Diego Diehl",
+        "text": "o relatório"
+      },
+      {
+        "startTime": 1069,
+        "endTime": 1071,
+        "speaker": "Johnny Fernandes",
+        "text": "Posso colocar hoje?"
+      },
+      {
+        "startTime": 1071,
+        "endTime": 1072,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "gestão de carteira"
+      },
+      {
+        "startTime": 1072,
+        "endTime": 1096,
+        "speaker": "Diego Diehl",
+        "text": "Só o relatório. Espera aí o relatório de ônibus só para a gente ter clareza aqui, ó. Eu acho que quando eu olho o relatório. Eu já vejo que aqui ó isso aqui, talvez não dever estar equilibrado, né? Porque tem é porque tem um problema da hora o lado e não tá verificando."
+      },
+      {
+        "startTime": 1096,
+        "endTime": 1122,
+        "speaker": "Diego Diehl",
+        "text": "Se o corretor é da Carteira de alguém, essa é a prioridade tá só para reforçar por idade máxima de não mandar corretor de um para o outro tá gerando um caos lá e o cara tá deixando correr o caos. cadastro de parceiros Seria bem legal, João. A gente tá ligado se eles estão mandando lá o Emoji tá realmente realizando o cadastro."
+      },
+      {
+        "startTime": 1122,
+        "endTime": 1148,
+        "speaker": "Diego Diehl",
+        "text": "Então beleza 12 parece pouco, né? Parece pouco dá uma pergunta quando o cara manda para fazer o cadastro Johnny. Tá atribuindo como usuário colaborador, né? E se não tem responsável como responsável e o usuário colaborador? Então beleza"
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1157,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso aí tá com cheque. Tá validado, só deu aquele problema lá na semana passada do requestrar aqui, né? Mas isso aí tá funcionando certinho."
+      },
+      {
+        "startTime": 1160,
+        "endTime": 1172,
+        "speaker": "Diego Diehl",
+        "text": "Daí a gente tem que atuar nessa redução dos vazios aqui. Barbosa Agnaldo beleza daí esse aqui ó é o gráfico que"
+      },
+      {
+        "startTime": 1172,
+        "endTime": 1186,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso aí para ver um bug, tá? Vou resolver isso aí porque quando eu olho na base os colaboradores estão vinculados, eu acho que ele não tá conseguindo ler aqui do relatório, mas eu lembro que anotei os pontos do relatório de eu vou até revisar com você, vou abrir aqui."
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1186,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1192,
+        "speaker": "Johnny Fernandes",
+        "text": "O que o que nós tínhamos definido como prioridade para ajustar aí nos relatórios?"
+      },
+      {
+        "startTime": 1192,
+        "endTime": 1197,
+        "speaker": "Lucas Vicente",
+        "text": "Se botar diferente de vazio ali ele já não some não. Pelo menos aquele ali de cima."
+      },
+      {
+        "startTime": 1197,
+        "endTime": 1198,
+        "speaker": "Johnny Fernandes",
+        "text": "Não. Mas é interessante saber quem"
+      },
+      {
+        "startTime": 1198,
+        "endTime": 1206,
+        "speaker": "Lucas Vicente",
+        "text": "Não esse de baixo não aquele outro ali que tem várias informações e tem o vazio."
+      },
+      {
+        "startTime": 1206,
+        "endTime": 1208,
+        "speaker": "Johnny Fernandes",
+        "text": "são os nazistas também, entendeu? Lucas?"
+      },
+      {
+        "startTime": 1208,
+        "endTime": 1211,
+        "speaker": "Lucas Vicente",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 1211,
+        "endTime": 1214,
+        "speaker": "Diego Diehl",
+        "text": "estão sem responsáveis, né?"
+      },
+      {
+        "startTime": 1214,
+        "endTime": 1215,
+        "speaker": "Johnny Fernandes",
+        "text": "sim"
+      },
+      {
+        "startTime": 1215,
+        "endTime": 1222,
+        "speaker": "Diego Diehl",
+        "text": "daí tem um relatório que a gente anotou Johnny que é volume de interações"
+      },
+      {
+        "startTime": 1222,
+        "endTime": 1230,
+        "speaker": "Johnny Fernandes",
+        "text": "Vou abrir aqui eu bato com você, pera aí. Tô abrindo aqui agora."
+      },
+      {
+        "startTime": 1230,
+        "endTime": 1233,
+        "speaker": "Lucas Vicente",
+        "text": "Vitor quer falar alguma coisa João quer dizer?"
+      },
+      {
+        "startTime": 1235,
+        "endTime": 1265,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Com relação a essa questão de colaboradores corretores sem responsável Diego naquele naquela planilha que você me mandou ontem dos parceiros do datenas. fala. Eu encontrei diversas situações corretor sem responsável sem colaborador corretores que estão triplicado dentro da ferramenta em nome de um em nome de outro e isso vai ter um impacto no relatório certamente."
+      },
+      {
+        "startTime": 1265,
+        "endTime": 1267,
+        "speaker": "Diego Diehl",
+        "text": "Que qual que é são os dois"
+      },
+      {
+        "startTime": 1267,
+        "endTime": 1275,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Do comentei. Eu não analisei as 12 planilhas, né? Mas analisei situações pontuais e tem os exemplos aqui."
+      },
+      {
+        "startTime": 1275,
+        "endTime": 1278,
+        "speaker": "Diego Diehl",
+        "text": "principais problemas que você encontrou?"
+      },
+      {
+        "startTime": 1278,
+        "endTime": 1284,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Eu tenho Tem situações que eles estão sem responsável."
+      },
+      {
+        "startTime": 1284,
+        "endTime": 1284,
+        "speaker": "Diego Diehl",
+        "text": "E era do Datena."
+      },
+      {
+        "startTime": 1284,
+        "endTime": 1287,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "E era do Datena Tem situações."
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1287,
+        "speaker": "Diego Diehl",
+        "text": "mas"
+      },
+      {
+        "startTime": 1287,
+        "endTime": 1296,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tem situações que era do Datena e estão três cadastro no sistema em nome da Elise o nome do Agnaldo em nome dele nisso, então eles estão cadastrado diversas formas."
+      },
+      {
+        "startTime": 1296,
+        "endTime": 1298,
+        "speaker": "Diego Diehl",
+        "text": "E ele tá como usuário colaborador?"
+      },
+      {
+        "startTime": 1298,
+        "endTime": 1300,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não."
+      },
+      {
+        "startTime": 1300,
+        "endTime": 1325,
+        "speaker": "Diego Diehl",
+        "text": "Uma pergunta o que a gente tinha que validar só e daí eu tô um pouco preocupado é das planilhas que a gente enviou para o Johnny. Da aba do Datena lá para ver se ele foi realmente alocado com Datena. Entendeu? Porque essa lista João pode ser que seja nova que ele pegou do WhatsApp dele."
+      },
+      {
+        "startTime": 1325,
+        "endTime": 1369,
+        "speaker": "Diego Diehl",
+        "text": "O Johnny Diogo Lucas só precisa entender a gente teve uma coisa nova que é o cadastro pela lista de transmissão não funciona. Certo, então o que que eu tô querendo ver com o João se a gente consegue pegar essa lista deles de número. E atribuir eles como responsável ou usuário colaborador? Só que eu não quero ter aquele caos de novo de subir dados e tudo bagunçado, o que o que o Datena nos enviou é uma um dado que ele os dados que ele tirou da lista que é do Google do Google contas então meio que parece que vem mais organizadinho."
+      },
+      {
+        "startTime": 1369,
+        "endTime": 1389,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente tinha que ver uma forma de dar uma atualizada ou Tipo, como é que a gente faria o serviço do emoji das listas de transmissão? Porque não veio nas listas do Caio, né? E principalmente do Datena que eu quero testar isso com o João porque é o mais problemático lá."
+      },
+      {
+        "startTime": 1389,
+        "endTime": 1392,
+        "speaker": "Diego Diehl",
+        "text": "O cara que mais causa que influencia o grupo é o mais velho."
+      },
+      {
+        "startTime": 1392,
+        "endTime": 1395,
+        "speaker": "Johnny Fernandes",
+        "text": "mais velho"
+      },
+      {
+        "startTime": 1396,
+        "endTime": 1410,
+        "speaker": "Diego Diehl",
+        "text": "Mais velho, cara e ontem eu tava falando da até na eu falei da terra. Eu tô te explicando você não tá você não tá entendendo? Ele não não importa eu sou chato mesmo. Eu falei então, beleza? Se você perguntar vou te explicar você não entender você vai me perguntar de novo."
+      },
+      {
+        "startTime": 1410,
+        "endTime": 1425,
+        "speaker": "Diego Diehl",
+        "text": "Vou parar de te responder você vê o nível que eu tava daí ele não porque é uma relação meio que de brincadeira, mas é verdade. Então eu tô ali nesse jogo com Datena. E ele mandou uma lista de números lá com lista dos parceiros dele."
+      },
+      {
+        "startTime": 1425,
+        "endTime": 1439,
+        "speaker": "Johnny Fernandes",
+        "text": "Tem de que dá para fazer assim, ó, a gente pega essa lista. Eu vou ter que fazer aquela padronização já tá pronto, mas vou ter que rodar aqui na Power no telefones, porque o Google táxi qualquer coisa de novo ele aceitar."
+      },
+      {
+        "startTime": 1439,
+        "endTime": 1440,
+        "speaker": "Diego Diehl",
+        "text": "Sim, qualquer padrão."
+      },
+      {
+        "startTime": 1440,
+        "endTime": 1458,
+        "speaker": "Johnny Fernandes",
+        "text": "Qualquer padrão então vou fazer um padrão padronizar essa esses contatos. Ok e faz aquele esqueminha usar o contato como chave e mandar subir forçando ele como como colaborador como responsável?"
+      },
+      {
+        "startTime": 1458,
+        "endTime": 1464,
+        "speaker": "Diego Diehl",
+        "text": "Se tiver, se não tiver responsável ele entra como responsável dá para fazer isso."
+      },
+      {
+        "startTime": 1464,
+        "endTime": 1465,
+        "speaker": "Johnny Fernandes",
+        "text": "importação não ao ter que fazer é"
+      },
+      {
+        "startTime": 1465,
+        "endTime": 1466,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1466,
+        "endTime": 1490,
+        "speaker": "Johnny Fernandes",
+        "text": "porque importação é o seguinte eu estou importando. Cara, ele vai pegar aqui e vai substituir o que está lá, entendeu? Ou criar se não existir. Então mas o colaborador é acrescenta como o colaborador ele é. Ator é colaboradores acrescenta. Entendeu agora o responsável não tem como um só né?"
+      },
+      {
+        "startTime": 1490,
+        "endTime": 1491,
+        "speaker": "Diego Diehl",
+        "text": "E se não existir cria e entra como"
+      },
+      {
+        "startTime": 1491,
+        "endTime": 1494,
+        "speaker": "Johnny Fernandes",
+        "text": "Então já tiver."
+      },
+      {
+        "startTime": 1494,
+        "endTime": 1496,
+        "speaker": "Diego Diehl",
+        "text": "responsável ou não dá para fazer assim?"
+      },
+      {
+        "startTime": 1497,
+        "endTime": 1512,
+        "speaker": "Johnny Fernandes",
+        "text": "Não no novo já é automático. Entendeu? O meu problema é mas eu acho que não é problema para protetor estou entendendo estou entendendo se esse contato já estiver com outra pessoa como responsável Teria algum problema trocar por Datena."
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1515,
+        "speaker": "Diego Diehl",
+        "text": "daí eu mexo no"
+      },
+      {
+        "startTime": 1515,
+        "endTime": 1516,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendeu?"
+      },
+      {
+        "startTime": 1516,
+        "endTime": 1516,
+        "speaker": "Diego Diehl",
+        "text": "Tem um problema."
+      },
+      {
+        "startTime": 1516,
+        "endTime": 1531,
+        "speaker": "Johnny Fernandes",
+        "text": "Porque tipo assim tá mandando a lista dele, né? Porque isso aconteceu Diego só para ficar claro assim tio na hora das planilhas, enfim que pegou por último acabou sendo um pouco de vantagem porque a mesma pessoa estava em várias planilhas."
+      },
+      {
+        "startTime": 1531,
+        "endTime": 1531,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1531,
+        "endTime": 1539,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí quando entrava só que aí o bom que todos os caras como colaborador menos mal, mas o responsável ele foi trocando a cada vez que ele repetia."
+      },
+      {
+        "startTime": 1539,
+        "endTime": 1542,
+        "speaker": "Diego Diehl",
+        "text": "Cara eu acho que nem coloca como responsável, só bota como colaborador."
+      },
+      {
+        "startTime": 1542,
+        "endTime": 1544,
+        "speaker": "Johnny Fernandes",
+        "text": "só colaborador"
+      },
+      {
+        "startTime": 1544,
+        "endTime": 1568,
+        "speaker": "Diego Diehl",
+        "text": "É. E aí teria como numa automação se eu vou só mapear devagarzinho, porque esse é um problemão ali que tá rolando tá falar devagar. Subimos todos os contatos, o Datena é colaborador e não tem responsável. Como que é automação mesmo de se houver o cadastro e rolar um registro de interação, ele consegue colocar"
+      },
+      {
+        "startTime": 1568,
+        "endTime": 1569,
+        "speaker": "Johnny Fernandes",
+        "text": "Consegue."
+      },
+      {
+        "startTime": 1569,
+        "endTime": 1573,
+        "speaker": "Diego Diehl",
+        "text": "como responsável se não houver responsável?"
+      },
+      {
+        "startTime": 1573,
+        "endTime": 1574,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas acho que vai ser muito lento."
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1574,
+        "speaker": "Diego Diehl",
+        "text": "Mas é que é só responde essa parte assim do lento, tudo bem de ficar"
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1583,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu tenho uma ideia. todo mundo, né? Responsável, né?"
+      },
+      {
+        "startTime": 1583,
+        "endTime": 1588,
+        "speaker": "Diego Diehl",
+        "text": "como usar o colaborador porque hoje responsável não é p**** nenhuma. E aí o campo fica preenchido então"
+      },
+      {
+        "startTime": 1588,
+        "endTime": 1592,
+        "speaker": "Johnny Fernandes",
+        "text": "Se ele falar com a pessoa ele vira o responsável."
+      },
+      {
+        "startTime": 1592,
+        "endTime": 1593,
+        "speaker": "Diego Diehl",
+        "text": "o primeiro falar com a pessoa vai"
+      },
+      {
+        "startTime": 1593,
+        "endTime": 1594,
+        "speaker": "Johnny Fernandes",
+        "text": "é"
+      },
+      {
+        "startTime": 1594,
+        "endTime": 1595,
+        "speaker": "Diego Diehl",
+        "text": "virando responsável."
+      },
+      {
+        "startTime": 1595,
+        "endTime": 1596,
+        "speaker": "Johnny Fernandes",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 1596,
+        "endTime": 1598,
+        "speaker": "Diego Diehl",
+        "text": "Hoje já tá configurado assim."
+      },
+      {
+        "startTime": 1598,
+        "endTime": 1600,
+        "speaker": "Johnny Fernandes",
+        "text": "Já já tá assim."
+      },
+      {
+        "startTime": 1600,
+        "endTime": 1612,
+        "speaker": "Diego Diehl",
+        "text": "Ah então a gente poderia subir a base do Datena só colocando ele como colaborador nos que existem e nos que não existem colocar ele como responsável colaborador. Ah não, só como colaborador também f***-se."
+      },
+      {
+        "startTime": 1612,
+        "endTime": 1613,
+        "speaker": "Johnny Fernandes",
+        "text": "é porque daria para fazer também"
+      },
+      {
+        "startTime": 1613,
+        "endTime": 1619,
+        "speaker": "Diego Diehl",
+        "text": "Tá eu acho que é isso então. uma saída"
+      },
+      {
+        "startTime": 1620,
+        "endTime": 1643,
+        "speaker": "Johnny Fernandes",
+        "text": "só que assim já é mais trabalho que eu vou puxar para o meu lado, mas deve fazer assim, ó. Eu subo. Todos que ele dessa lista aí com ele como colaborador se já existe em letra como colaborador se não existia esse cadastro. Cria ele como colaborador também e vai ficar responsável em branco."
+      },
+      {
+        "startTime": 1643,
+        "endTime": 1645,
+        "speaker": "Diego Diehl",
+        "text": "Mas esse vai dar mais trabalho, não é?"
+      },
+      {
+        "startTime": 1645,
+        "endTime": 1646,
+        "speaker": "Johnny Fernandes",
+        "text": "Não calma, calma, calma, beleza?"
+      },
+      {
+        "startTime": 1646,
+        "endTime": 1649,
+        "speaker": "Diego Diehl",
+        "text": "O que seria ve. Esse até aí ok, né?"
+      },
+      {
+        "startTime": 1649,
+        "endTime": 1660,
+        "speaker": "Johnny Fernandes",
+        "text": "Até ok ok faremos tranquilo, o que eu poderia fazer eu faço um filtro. de cadastro de corretores que o Datena"
+      },
+      {
+        "startTime": 1660,
+        "endTime": 1661,
+        "speaker": "Diego Diehl",
+        "text": "Não não não já para já para"
+      },
+      {
+        "startTime": 1661,
+        "endTime": 1662,
+        "speaker": "Johnny Fernandes",
+        "text": "Vou fazer isso então, beleza?"
+      },
+      {
+        "startTime": 1662,
+        "endTime": 1673,
+        "speaker": "Diego Diehl",
+        "text": "não. Quero você com muito trabalho desse jeito. Quero vamos. Só só tem que subir porque para já ter o requestrar só isso."
+      },
+      {
+        "startTime": 1673,
+        "endTime": 1673,
+        "speaker": "Johnny Fernandes",
+        "text": "Você já tá ok?"
+      },
+      {
+        "startTime": 1673,
+        "endTime": 1686,
+        "speaker": "Diego Diehl",
+        "text": "E daí a gente começa a Gerar registros de interação, porque daí no fim. A gente precisa daquele relatório de quem tá falando mais com quem para daí sim a gente rever os responsáveis. tá"
+      },
+      {
+        "startTime": 1686,
+        "endTime": 1692,
+        "speaker": "Johnny Fernandes",
+        "text": "Show Sales tinha aí você quer estar com vocês aí já? Vocês querem mudar aqui?"
+      },
+      {
+        "startTime": 1692,
+        "endTime": 1693,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Tá eu te mando Johnny."
+      },
+      {
+        "startTime": 1693,
+        "endTime": 1714,
+        "speaker": "Johnny Fernandes",
+        "text": "Manda que aí o processo nos telefones padronizam eles e aí só para mim entender João os telefones. Tá com o telefone para cada corretora ou tem mais de um telefone ali para cada corretor? Vai ter um beleza. gente já"
+      },
+      {
+        "startTime": 1714,
+        "endTime": 1736,
+        "speaker": "Diego Diehl",
+        "text": "Só uma dúvida. É eu tô preocupado porque quando a o cadastro é feito direto pela Filter feed. O padrão de telefone é outro. Você pegou não faria sentido a gente está com o padrão que vem do WhatsApp que é Filter feed faz."
+      },
+      {
+        "startTime": 1736,
+        "endTime": 1738,
+        "speaker": "Johnny Fernandes",
+        "text": "Como que tá o padrão da"
+      },
+      {
+        "startTime": 1738,
+        "endTime": 1749,
+        "speaker": "Diego Diehl",
+        "text": "Eu tenho a impressão. Cara pega João o meu cadastro, tá?"
+      },
+      {
+        "startTime": 1749,
+        "endTime": 1750,
+        "speaker": "Johnny Fernandes",
+        "text": "Pegar uma aqui."
+      },
+      {
+        "startTime": 1753,
+        "endTime": 1776,
+        "speaker": "Diego Diehl",
+        "text": "como 5541. Tá o número corridão sem traço sem espaço sem nada. Aí Victor."
+      },
+      {
+        "startTime": 1776,
+        "endTime": 1809,
+        "speaker": "Victor Figueredo",
+        "text": "Aí tem que ver Johnny. Qual que é o atributo que você normalmente checa para bater o número? Que tem tanto sorte, tem alguns que às vezes vai com a máscara vai sem. Mas a gente só cria via emoji, se a gente consultar lá e ver que não tem nenhum formatado do jeito atual, né, formatado do jeito B quando a gente cria que o número realmente não existe."
+      },
+      {
+        "startTime": 1809,
+        "endTime": 1810,
+        "speaker": "Johnny Fernandes",
+        "text": "Muito bom."
+      },
+      {
+        "startTime": 1810,
+        "endTime": 1844,
+        "speaker": "Victor Figueredo",
+        "text": "Agora em cima do número que já existe que é o nosso lá que a gente cadastrou. Teoricamente se você consultar Ele de uma forma ou de outra dentro das duas variações que são possíveis aí você pode criar um cadastro. Né, mas mesmo assim nas interações lá vai ser priorizado o nosso que é exatamente igual ao que vem do WhatsApp, se a gente não encontrar o número exatamente igual do WhatsApp que veio cadastrado na promis que é tipo o padrão do nosso registro que é exatamente igual ao WhatsApp."
+      },
+      {
+        "startTime": 1844,
+        "endTime": 1850,
+        "speaker": "Victor Figueredo",
+        "text": "A gente testa uma variação que aí poderia pegar o que você criou lá que pode ser de um jeito diferente."
+      },
+      {
+        "startTime": 1850,
+        "endTime": 1868,
+        "speaker": "Diego Diehl",
+        "text": "Mas não faz é eu acho que o a melhoria de processo o Johnny já fez o esquema do powercure lá, só que eu acho que você Johnny escolheu um modelo que não era o do padrão, né? Se pegou o padrão bonito que é lindo aquele formato Ali é maravilhoso."
+      },
+      {
+        "startTime": 1868,
+        "endTime": 1875,
+        "speaker": "Diego Diehl",
+        "text": "Só que não é o padrão de cadastro hoje pela Filter feed."
+      },
+      {
+        "startTime": 1875,
+        "endTime": 1878,
+        "speaker": "Johnny Fernandes",
+        "text": "Não a gente na verdade, o a gente"
+      },
+      {
+        "startTime": 1878,
+        "endTime": 1884,
+        "speaker": "Diego Diehl",
+        "text": "Eu sei que deve ter batido uma tristezinha agora de animais, eu só acredito."
+      },
+      {
+        "startTime": 1885,
+        "endTime": 1895,
+        "speaker": "Johnny Fernandes",
+        "text": "pegou te pegar o padrão do Universal ali só que não tem o 55 não mais 55 igual só que"
+      },
+      {
+        "startTime": 1895,
+        "endTime": 1900,
+        "speaker": "Diego Diehl",
+        "text": "É que eu acho que você tem que lembrar sempre agora da Filter feed, cara. Que é?"
+      },
+      {
+        "startTime": 1900,
+        "endTime": 1904,
+        "speaker": "Johnny Fernandes",
+        "text": "É que toda hora o da hora esse padrãozinho aqui, entendeu?"
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1910,
+        "speaker": "Diego Diehl",
+        "text": "Ah então a gente tem mais um problema, né? tem"
+      },
+      {
+        "startTime": 1910,
+        "endTime": 1914,
+        "speaker": "Johnny Fernandes",
+        "text": "Agora eu preciso ver pode falar então."
+      },
+      {
+        "startTime": 1915,
+        "endTime": 1946,
+        "speaker": "Victor Figueredo",
+        "text": "É que isso que eu falei é para gente a gente trata isso do nosso lado também, entendeu? O único ponto é só o cadastro que for não não o número é com o DDI ou sem o DDI tudo isso a gente trata a única coisa que que a gente trata também mas normalmente, né? Órgão não trata hoje e eu acredito que o Johnny também não é a variação possível do DVD do DVD não do nono disto no Brasil."
+      },
+      {
+        "startTime": 1946,
+        "endTime": 1965,
+        "speaker": "Victor Figueredo",
+        "text": "Essa é a única variação a gente trata do nosso lado. Exclusivamente que é o número no WhatsApp. Tem oito dígitos, só que a regra lá do Alejandro que é 9123. Tá total um dois três quatro o número é isso se a gente inclui por exemplo um nono dígito que é o capune, faz esse é o padrão da Puma."
+      },
+      {
+        "startTime": 1965,
+        "endTime": 1986,
+        "speaker": "Victor Figueredo",
+        "text": "Inclusive na conta deles mesmo, eles incluem 9 dígito forçadamente se o número já não tiver. Isso é uma mudança tipo alteração no número. Né para padronizar com a outra interação para fazer a ligação coisas do tipo, isso é uma modificação no número esse tipo de modificação pode causar uma discrepância."
+      },
+      {
+        "startTime": 1986,
+        "endTime": 2007,
+        "speaker": "Victor Figueredo",
+        "text": "De cadastro do nosso lado a gente me tira isso bastante porque a gente testa ó o número que chegou aqui do WhatsApp exatamente como tá tem no plumes exatamente como como tá vindo tem esse pode ser o caso tanto que o Johnny cadastrou tanto que a gente cadastrou Total se a gente não encontrar."
+      },
+      {
+        "startTime": 2007,
+        "endTime": 2017,
+        "speaker": "Victor Figueredo",
+        "text": "A gente tenta mudando ele fala tá? E se eu botar o nome disso aqui ou se eu tirar eventualmente, né? Eu encontro um cadastro na pomes encontro então todas as interações e os registros do nosso lado são"
+      },
+      {
+        "startTime": 2017,
+        "endTime": 2020,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 2020,
+        "endTime": 2033,
+        "speaker": "Victor Figueredo",
+        "text": "integrados com esse contato. Então a gente não cria um contato a mais para um que pode estar diferente e a gente sempre vincula as interações dos registros. Aquele contato específico, mas a criação Esse é o detalhe."
+      },
+      {
+        "startTime": 2033,
+        "endTime": 2033,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu acho que tá mais fácil."
+      },
+      {
+        "startTime": 2033,
+        "endTime": 2034,
+        "speaker": "Victor Figueredo",
+        "text": "Esse é o detalhe que tá"
+      },
+      {
+        "startTime": 2034,
+        "endTime": 2061,
+        "speaker": "Johnny Fernandes",
+        "text": "Se o Vitor já trata a máscara ali na hora que ele vai verificar se o contato existe ou não. Ao invés de criar eu acho que seria possível Victor você cadastrar com a máscara. O contato porque é o que você falou ali, você tá castrando que o Diego falou tá gastando tipo tudo junto, né? Tipo assim poderia de e o número da pessoa."
+      },
+      {
+        "startTime": 2061,
+        "endTime": 2065,
+        "speaker": "Johnny Fernandes",
+        "text": "Sem traço sem parentes, né? Seu espaço também."
+      },
+      {
+        "startTime": 2066,
+        "endTime": 2108,
+        "speaker": "Victor Figueredo",
+        "text": "é que o plugs tem dois atributos de número ele tem o search for Number o search é extremamente importante para a gente que seja o padrão internacional até para viabilizar o produto aqui em outras situações, né no México lá coisa do tipo até da própria carteira da plugs e tem o Fow Number que é a máscara mesmo né? Esse pode ser editados eu não modificaria a forma que a gente escreve lá muito até porque esse WhatsApp ele vem no padrão internacional para a gente é mais conveniente deixar o padrão internacional mesmo não ter que tratar porque aí a gente tem que descobrir quando que o número é brasileiro, quando que não é que não é a realidade de todos os"
+      },
+      {
+        "startTime": 2108,
+        "endTime": 2135,
+        "speaker": "Johnny Fernandes",
+        "text": "só para Visualizar aqui rapidinho, esse aqui é um cliente cadastrado aqui para integração tarde assim, esse aqui foi o telefone que foi gravado aqui para vocês, tá? esse aqui eu criei agora só para testar aqui a O preenchimento né? Então se eu coloquei ó DDD e vou digitar. Um dois três quatro."
+      },
+      {
+        "startTime": 2135,
+        "endTime": 2165,
+        "speaker": "Johnny Fernandes",
+        "text": "cinco seis sete ou seja o telefone com 8 dígitos Aí ele já ele já meio que coloca nesse padrão aqui, ó. Quando eu gravo aí ele fica formatado aqui. Se eu colocar um outro telefone só para teste mesmo tá pessoal e colocar aqui outros aí ele Teoricamente ele me libera colocar deixa eu ver aqui é por aqui, ele sempre aplica a máscara, né? De qualquer forma."
+      },
+      {
+        "startTime": 2165,
+        "endTime": 2175,
+        "speaker": "Johnny Fernandes",
+        "text": "Via front-end ele sempre coloca a máscara não consigo eu não consigo burlar aqui só quando é via ou importação mesmo, né? mesmo, né?"
+      },
+      {
+        "startTime": 2175,
+        "endTime": 2194,
+        "speaker": "Diego Diehl",
+        "text": "o Vitor você Viu, você tava presente na reunião quando a gente falou que uma das soluções que a gente viu seria a hora no bater na Plus e ver se esse cadastro já existe pelo número ao invés pela lei da hora."
+      },
+      {
+        "startTime": 2194,
+        "endTime": 2196,
+        "speaker": "Victor Figueredo",
+        "text": "Sim, esse é o jeito melhor jeito de fazer isso."
+      },
+      {
+        "startTime": 2196,
+        "endTime": 2217,
+        "speaker": "Diego Diehl",
+        "text": "É isso que a gente tá tentando viabilizar, tá? Eu acho gente que a gente pode tem alguma decisão que a gente quer tomar agora porque pelo que foi então esquece. O Datena tá Johnny. Por hora esquece padronizar número a gente precisa refletir mais estratégico que a gente vai fazer este tem o número da hora."
+      },
+      {
+        "startTime": 2217,
+        "endTime": 2242,
+        "speaker": "Diego Diehl",
+        "text": "Acho que tem o número da Plus e a gente tem um que foi cadastrado todos os cadastros da Cetim e a gente tem o número da Filter feed. Né? E aí, a gente tem que ver eu se fosse para escolher. Eu usaria internacional sempre que tem algo internacional para mim é o melhor porque é mais simples é padronizado."
+      },
+      {
+        "startTime": 2242,
+        "endTime": 2260,
+        "speaker": "Diego Diehl",
+        "text": "Só que tem os cadastros da hora. Que daí eu não sei como é que vai vir de lá se a gente conseguiria fazer um tratamento nesse meio do caminho. Quando for a hora acessar plumes a gente fazer o tratamento por Internacional e mexer na plumes daí na plumes a gente padroniza internacional."
+      },
+      {
+        "startTime": 2260,
+        "endTime": 2274,
+        "speaker": "Diego Diehl",
+        "text": "Só que a galera também cadastra, enfim é esse bolo aí que eu queria saber quem que pode ficar responsável por resolver isso. Se é o João se é o Johnny se é o Vitor."
+      },
+      {
+        "startTime": 2274,
+        "endTime": 2276,
+        "speaker": "Johnny Fernandes",
+        "text": "eu"
+      },
+      {
+        "startTime": 2276,
+        "endTime": 2295,
+        "speaker": "Victor Figueredo",
+        "text": "A gente tem o principal seria aólogo checar o número se o número do jeito que tiver lá com algumas variações e assim no escrito você coloca a máscara você adiciona você coloca umas variações, você coloca o 55 do Brasil ser checou number."
+      },
+      {
+        "startTime": 2295,
+        "endTime": 2296,
+        "speaker": "Diego Diehl",
+        "text": "Não faça o que você fez aí, né?"
+      },
+      {
+        "startTime": 2299,
+        "endTime": 2312,
+        "speaker": "Victor Figueredo",
+        "text": "O ideal seria fazer exatamente como a gente faz mas não precisa fazer exatamente como a gente faz Pode. Só checar se existe se checar se existe já vai ser um grande passo que a gente não duplica."
+      },
+      {
+        "startTime": 2312,
+        "endTime": 2317,
+        "speaker": "Diego Diehl",
+        "text": "checar nas várias variações, né?"
+      },
+      {
+        "startTime": 2317,
+        "endTime": 2317,
+        "speaker": "Victor Figueredo",
+        "text": "Sim, mas isso."
+      },
+      {
+        "startTime": 2317,
+        "endTime": 2334,
+        "speaker": "Johnny Fernandes",
+        "text": "Ó, esse aqui é o caso que eu falei da hora lá. Na hora da vida assim, por isso que eu tive o padrão eu não tinha eu não na verdade. Realmente eu não tinha imaginado a expectativa ali do mas realmente temos que"
+      },
+      {
+        "startTime": 2336,
+        "endTime": 2345,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que essa é uma. Demanda de produto, né?"
+      },
+      {
+        "startTime": 2347,
+        "endTime": 2366,
+        "speaker": "Johnny Fernandes",
+        "text": "Vou te perguntar isso para você já já falar também. O Vitor você tá com uma demanda lá do México. Você comentou né? o telefone lá é o clubes quando você muda o idioma ele já trata Essa Máscara aqui do telefone Ainda não peguei nenhuma conta fora do Brasil"
+      },
+      {
+        "startTime": 2367,
+        "endTime": 2394,
+        "speaker": "Victor Figueredo",
+        "text": "Não pelo menos não trata isso não, mas assim Diego do da tela lá que o Johnny estava mostrando. A máscara do número o formato do número não é um problema aqui para a gente relevante, ele deve ser o problema de terceira ordem. A primeira coisa é porque a hora ele já tá escrevendo número lá e o número tá batendo exatamente igual então o número da forma como número que a hora do tá escrevendo já é exatamente igual porque a gente tem no clube hoje."
+      },
+      {
+        "startTime": 2394,
+        "endTime": 2421,
+        "speaker": "Victor Figueredo",
+        "text": "O número já é igual na mesma máscara não tem problema e essa máscara ou a forma como está escrito é indiferente para fita Fit tanto que escreveu no contato novo lá a gente disparou. Então o ponto um mesmo é checar se esse número lá do jeito que tá pode ser exatamente igual tem variações, né? Mas se ele checado o número exatamente igual antes de escrever já é o primeiro a nossa primeira vitória, entendeu?"
+      },
+      {
+        "startTime": 2421,
+        "endTime": 2421,
+        "speaker": "Diego Diehl",
+        "text": "Mas isso aí eu sei a primeira"
+      },
+      {
+        "startTime": 2421,
+        "endTime": 2423,
+        "speaker": "Victor Figueredo",
+        "text": "O?"
+      },
+      {
+        "startTime": 2423,
+        "endTime": 2447,
+        "speaker": "Diego Diehl",
+        "text": "vitória tá mapeada, né? Só que o problema é ter uma primeira vitória e passa um minuto já tá 2 a 1 para outro time de novo. Daí eu preciso voltar. Eu tô querendo já resolver isso assim só para lembrar do que a gente tá querendo resolver. Primeiro para o usuário Seria muito bom que ele tivesse algum padrão para ele pesquisar ainda mais que ele tá usando pesquisa de telefone tá um saco pesquisar."
+      },
+      {
+        "startTime": 2447,
+        "endTime": 2469,
+        "speaker": "Diego Diehl",
+        "text": "Você tem parentes não tem parentes tem traço não tem traço. É hoje, a gente tá salvando de formas diferentes, então a plugs tem uma forma Filter feed. Tá salvando outra. E a orla ainda o desafio maior para o cliente, hoje é a hora ou não criar um contato duplicado e mandar um gerente diferente falar com o corretor."
+      },
+      {
+        "startTime": 2469,
+        "endTime": 2489,
+        "speaker": "Diego Diehl",
+        "text": "Essa é a dor. Que o que você tá querendo me dizer pelo que eu tô entendendo é se há órgão quando for verificar se já existe o cadastro verificar em diferentes máscaras ou se verificar uma verificação já é uma primeira vitória. Beleza, porque já tem 30 mil contatos lá?"
+      },
+      {
+        "startTime": 2489,
+        "endTime": 2492,
+        "speaker": "Johnny Fernandes",
+        "text": "Ele tá pareado a máscara da"
+      },
+      {
+        "startTime": 2492,
+        "endTime": 2493,
+        "speaker": "Diego Diehl",
+        "text": "Beleza, só que a gente já fica"
+      },
+      {
+        "startTime": 2493,
+        "endTime": 2493,
+        "speaker": "Johnny Fernandes",
+        "text": "Orlando."
+      },
+      {
+        "startTime": 2495,
+        "endTime": 2503,
+        "speaker": "Diego Diehl",
+        "text": "descoberto em alguns casos, né? E aí qual que é a tua solução para resolver os outros casos?"
+      },
+      {
+        "startTime": 2503,
+        "endTime": 2532,
+        "speaker": "Victor Figueredo",
+        "text": "Aí teria que ser teria que ser exatamente como a gente faz teria que Primeiro a primeira coisa antes de tudo validar o número se o número que a orla tem é exatamente igual ao número do WhatsApp. Esse é o primeiro primeira coisa. Aí Tem que repetir os mesmos procedimentos que a gente faz aí pega esse número exatamente, como tá no WhatsApp, esquece máscara por enquanto que não é tão relevante nesse momento, mas o número mesmo o padrão do número o número é válido."
+      },
+      {
+        "startTime": 2532,
+        "endTime": 2558,
+        "speaker": "Victor Figueredo",
+        "text": "O número é um dois três e o número ele a forma como ele tá salvo na orla é a forma correta a representação correta desse número internacionalmente no Whatsapp. Sim ou não. Então a primeira coisa é validar o número aí a segunda coisa é pegar esse número e consultar na plug se esse número dessa forma ele tá lá, se ele não tiver tem que voltar ver a variação do número e checar de novo só nessa segunda."
+      },
+      {
+        "startTime": 2558,
+        "endTime": 2561,
+        "speaker": "Diego Diehl",
+        "text": "Continua desculpa."
+      },
+      {
+        "startTime": 2561,
+        "endTime": 2584,
+        "speaker": "Victor Figueredo",
+        "text": "Só nessa segunda checagem que aí você vai ser possível determinar que o contato que aquele número não está presente na Puma mesmo, porque isso quer dizer que nenhuma das duas possibilidades de números válidos estão lá ou seja um número não tá? Essa é a forma que determina de forma absoluta que não tem um contato lá"
+      },
+      {
+        "startTime": 2584,
+        "endTime": 2586,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu acho que ele resolveria."
+      },
+      {
+        "startTime": 2586,
+        "endTime": 2589,
+        "speaker": "Diego Diehl",
+        "text": "não padroniza para o usuário, né? A gente tem."
+      },
+      {
+        "startTime": 2589,
+        "endTime": 2590,
+        "speaker": "Victor Figueredo",
+        "text": "Só que o ponto é o seguinte"
+      },
+      {
+        "startTime": 2590,
+        "endTime": 2593,
+        "speaker": "Diego Diehl",
+        "text": "E você?"
+      },
+      {
+        "startTime": 2598,
+        "endTime": 2614,
+        "speaker": "Victor Figueredo",
+        "text": "primeiro válida que o número existe na hora de salvar o número que é o segundo passo que ela tá eu não tenho contato. Eu tenho que criar um coletor lá na hora de criar aí formata a máscara e passa o número, entendeu?"
+      },
+      {
+        "startTime": 2617,
+        "endTime": 2640,
+        "speaker": "Diego Diehl",
+        "text": "Tá assim. Tecnicamente a gente precisa decidir. Então se a gente altera todos os padrões para o internacional. Ou não assim tem dois problemas, tá? Eu acho que eu vou mapear e a gente depois vai resolver. Problema um tá vou até de trás para frente problema um a base com vários tipos de número."
+      },
+      {
+        "startTime": 2640,
+        "endTime": 2666,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem que definir se vai por parentes e 11 9 1 2 3 4. quatro. Ou Qualquer que seja para o usuário poder pesquisar do número prático. Tá minha sugestão já entregando para vocês o movimento que a gente vai fazer que o usuário vai fazer a minha sugestão é que ele faça isso aqui, ó."
+      },
+      {
+        "startTime": 2666,
+        "endTime": 2690,
+        "speaker": "Diego Diehl",
+        "text": "Pensa a gente tem que pensar no usuário, né. Ó Fernanda Porto Camargo tá aqui certo. Opa, tô aqui falando com ele eu vou clicar no Fernando da Porto Camargo, eu vou clicar aqui em copiar. Eu vou abrir a plumes e eu vou dar um control V. É isso é que eu gostaria e nenhum tá salvando dessa forma."
+      },
+      {
+        "startTime": 2690,
+        "endTime": 2715,
+        "speaker": "Diego Diehl",
+        "text": "Porque o Vitor tira os traços não tem mais E usuário daí não vai conseguir pesquisar fácil tá? Essa é minha solicitação na Perspectiva do cliente. Ele entra no WhatsApp clica em copiar o número entra na plames dá um control v e acha exatamente o usuário para mim. Isso é e usa Experience que é o meu norte como a gente vai resolver eu não sei."
+      },
+      {
+        "startTime": 2715,
+        "endTime": 2719,
+        "speaker": "Diego Diehl",
+        "text": "Porque ninguém tá salvando nesse padrão. ou eu ensino ou eu ensino eles a que"
+      },
+      {
+        "startTime": 2719,
+        "endTime": 2721,
+        "speaker": "Victor Figueredo",
+        "text": "Isso é verdade."
+      },
+      {
+        "startTime": 2723,
+        "endTime": 2750,
+        "speaker": "Diego Diehl",
+        "text": "gostaria, né? Mas eu ensino eles a fazer assim, ó. Se eu jogo aqui eu vou ensinar eles a fazer isso. A fazer o cara ó o usuário já tentando apagar e já errando, né? E daí eu pesquiso assim. Que para mim não é o mais inteligente ou não precisa de inteligente ou mais."
+      },
+      {
+        "startTime": 2750,
+        "endTime": 2757,
+        "speaker": "Diego Diehl",
+        "text": "Preguiçoso, vamos falar assim, mas prático né para mim esse é o ideal."
+      },
+      {
+        "startTime": 2758,
+        "endTime": 2772,
+        "speaker": "Victor Figueredo",
+        "text": "Tá agora agora é isso. Diego são dois duas situações diferentes. A primeira é a gente garantir pelos pela checagem de número que esse contato não tá lá duas vezes. Para fazer isso aí tem uma série de procedimento que seria essa a"
+      },
+      {
+        "startTime": 2772,
+        "endTime": 2773,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero bloquear ele causa eu quero"
+      },
+      {
+        "startTime": 2773,
+        "endTime": 2774,
+        "speaker": "Victor Figueredo",
+        "text": "a gente."
+      },
+      {
+        "startTime": 2775,
+        "endTime": 2800,
+        "speaker": "Diego Diehl",
+        "text": "bloqueio de causa Vitor se a gente ajusta aqui o qual o padrão que a gente vai usar o Johnny faz um trabalho de edição em massa de algum porte padronizado do WhatsApp, você passa a salvar conforme o padrão a hora ele só tem que verificar um tratamento pegar o número dele transformar no padrão e verificar então a gente simplifica tudo."
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2800,
+        "speaker": "Victor Figueredo",
+        "text": "É que o resolver essa questão do"
+      },
+      {
+        "startTime": 2800,
+        "endTime": 2801,
+        "speaker": "Diego Diehl",
+        "text": "Tipo, eu quero."
+      },
+      {
+        "startTime": 2807,
+        "endTime": 2826,
+        "speaker": "Victor Figueredo",
+        "text": "padrão de número a gente tem outras formas, a gente tem muitas possibilidades de como fazer isso e embora a gente tenha que checar também, o que que se a máscara do plumas dá suporte para essa para esse porque o número na pomes ele tem que estar em um de dois Campos ou ele tá no sertão."
+      },
+      {
+        "startTime": 2826,
+        "endTime": 2848,
+        "speaker": "Victor Figueredo",
+        "text": "Number que é um índice. Que é um que é um tipo de dado de números ou seja? Não pode nem ter espaço nem ter caracteres especiais. Esse é o sertão. E o fonada, aí ele sim recebe uma string se a gente formatar essa string de um jeito específico, ele fica na máscara lá que tem o do número brasileiro."
+      },
+      {
+        "startTime": 2848,
+        "endTime": 2877,
+        "speaker": "Victor Figueredo",
+        "text": "então A primeira coisa Teria que validar se o púbis deixa a gente representar na string dele o mais com espaço no formato internacional. E se sim aí, a gente tem diferentes possibilidades de como formatar esse deixar Sempre consistente com esse padrão que eu acho que faz sentido ponto de vista, mas a princípio a questão da validação tá um pouco deslocada desse desse."
+      },
+      {
+        "startTime": 2877,
+        "endTime": 2882,
+        "speaker": "Victor Figueredo",
+        "text": "Pode ser resolvido junto, mas mas eles são são temas."
+      },
+      {
+        "startTime": 2882,
+        "endTime": 2883,
+        "speaker": "Diego Diehl",
+        "text": "Para mim não tá deslocado Victor a"
+      },
+      {
+        "startTime": 2883,
+        "endTime": 2884,
+        "speaker": "Victor Figueredo",
+        "text": "diferentes"
+      },
+      {
+        "startTime": 2884,
+        "endTime": 2896,
+        "speaker": "Diego Diehl",
+        "text": "gente tem que validar. Entendendo algum padrão dá para a gente criar ter que verificar vários tipos de padrões ou a gente Ajusta a nossa base para a gente verificar de uma forma só."
+      },
+      {
+        "startTime": 2896,
+        "endTime": 2911,
+        "speaker": "Johnny Fernandes",
+        "text": "Ó aqui no clube eu até agora eu consegui achar o campo não tava encontrando. A máscara que a gente pode usar aqui no clube São essas né brasileira essa aqui que o padrão que eu usei. tá para"
+      },
+      {
+        "startTime": 2911,
+        "endTime": 2913,
+        "speaker": "Diego Diehl",
+        "text": "as paredes"
+      },
+      {
+        "startTime": 2913,
+        "endTime": 2916,
+        "speaker": "Johnny Fernandes",
+        "text": "Ou sem massa que é o que o vídeo tá usando hoje a vida tá dançando"
+      },
+      {
+        "startTime": 2916,
+        "endTime": 2917,
+        "speaker": "Diego Diehl",
+        "text": "então"
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2920,
+        "speaker": "Johnny Fernandes",
+        "text": "máscara."
+      },
+      {
+        "startTime": 2920,
+        "endTime": 2922,
+        "speaker": "Diego Diehl",
+        "text": "Experimenta clicar em máscara e põe o mais aí."
+      },
+      {
+        "startTime": 2922,
+        "endTime": 2924,
+        "speaker": "Johnny Fernandes",
+        "text": "É ele fica."
+      },
+      {
+        "startTime": 2925,
+        "endTime": 2947,
+        "speaker": "Diego Diehl",
+        "text": "Esse vai falar o mais deixa eu ver aqui sem máscara. control V salvar I Sem Máscara igual padrão do Whatsapp que para mim o padrão do Whatsapp é o padrão que o usuário tem acesso"
+      },
+      {
+        "startTime": 2956,
+        "endTime": 2962,
+        "speaker": "Johnny Fernandes",
+        "text": "Uma coisa que eu vejo aqui como chata."
+      },
+      {
+        "startTime": 2962,
+        "endTime": 2964,
+        "speaker": "Diego Diehl",
+        "text": "Tem algum contra dele Vitor?"
+      },
+      {
+        "startTime": 2966,
+        "endTime": 2975,
+        "speaker": "Victor Figueredo",
+        "text": "Mas a estética do número acho que tem algumas coisas de cliques na pomes coisas assim, mas não tem muita grande Impacto não."
+      },
+      {
+        "startTime": 2975,
+        "endTime": 2977,
+        "speaker": "Diego Diehl",
+        "text": "clicks da"
+      },
+      {
+        "startTime": 2977,
+        "endTime": 2978,
+        "speaker": "Johnny Fernandes",
+        "text": "Deixa eu ver aqui."
+      },
+      {
+        "startTime": 2978,
+        "endTime": 2985,
+        "speaker": "Victor Figueredo",
+        "text": "Tem alguns números que formatados do padrão brasileiro com a máscara, eles tem um você clica redireciona para algumas coisas."
+      },
+      {
+        "startTime": 2985,
+        "endTime": 2995,
+        "speaker": "Diego Diehl",
+        "text": "Ni você consegue bloquear? para cadastro de números a plumes e só deixar sem máscara"
+      },
+      {
+        "startTime": 2995,
+        "endTime": 2999,
+        "speaker": "Johnny Fernandes",
+        "text": "Tenho que verificar a direção demanda aqui no nunca chegou aqui para nós."
+      },
+      {
+        "startTime": 2999,
+        "endTime": 2999,
+        "speaker": "Diego Diehl",
+        "text": "Assim vamos."
+      },
+      {
+        "startTime": 2999,
+        "endTime": 3006,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu acho que eu acho que Eu tenho que ver eu não tenho essa resposta agora."
+      },
+      {
+        "startTime": 3006,
+        "endTime": 3031,
+        "speaker": "Diego Diehl",
+        "text": "Pensar. Vamos só pensar vou tentar resumir numa forma aqui, tá? Uma ação Johnny a gente pode. Uma ação mais opção a gente pode olhar o padrão que o Vitor está salvando hoje. E salvar todos assim."
+      },
+      {
+        "startTime": 3031,
+        "endTime": 3032,
+        "speaker": "Johnny Fernandes",
+        "text": "posso só te interromper rapidinho e"
+      },
+      {
+        "startTime": 3032,
+        "endTime": 3033,
+        "speaker": "Diego Diehl",
+        "text": "Pode pode."
+      },
+      {
+        "startTime": 3033,
+        "endTime": 3046,
+        "speaker": "Johnny Fernandes",
+        "text": "se eu não sei se é possível, mas se o Vitor salvasse na máscara não estaria resolvido todo o nosso problema. Ou não é possível salvar na máscara ou não é interessante?"
+      },
+      {
+        "startTime": 3046,
+        "endTime": 3048,
+        "speaker": "Victor Figueredo",
+        "text": "Qual má?"
+      },
+      {
+        "startTime": 3048,
+        "endTime": 3062,
+        "speaker": "Johnny Fernandes",
+        "text": "a máscara brasileira Que é parentes DDD fecha parentes 9 ou 8 dígitos na sequência? contratinho ali depois do antes do antes dos quatro últimos"
+      },
+      {
+        "startTime": 3062,
+        "endTime": 3067,
+        "speaker": "Diego Diehl",
+        "text": "Que a base toda tá assim, né? A gente só justaria os que estão bugados agora e aí se você passa"
+      },
+      {
+        "startTime": 3067,
+        "endTime": 3068,
+        "speaker": "Johnny Fernandes",
+        "text": "sim"
+      },
+      {
+        "startTime": 3069,
+        "endTime": 3088,
+        "speaker": "Diego Diehl",
+        "text": "cadastrar Vitor, já que você tem controle de todas as variações. Você pode colocar e tem dois Campos. Ainda não sei qual que é a relação desses dois Campos que você falou um você pode usar mas o que fica no front para o cliente para ele pesquisar que siga um padrão daí que é o que já tá os 33 mil lá."
+      },
+      {
+        "startTime": 3097,
+        "endTime": 3104,
+        "speaker": "Victor Figueredo",
+        "text": "números é muito sensível porque ele envolve justamente essa questão da sincronização desses contatos."
+      },
+      {
+        "startTime": 3104,
+        "endTime": 3126,
+        "speaker": "Diego Diehl",
+        "text": "Então eu acho que é bom assim, vou Resumindo tá? A gente tá com o padrão Vitor. Tanto na hora. Quanto na Plus? E agora a gente tá salvando o número diferente lá que é no teu padrão. Aí é negociar tipo ver o que que a gente pode fazer de um lado do outro."
+      },
+      {
+        "startTime": 3126,
+        "endTime": 3142,
+        "speaker": "Diego Diehl",
+        "text": "Que é melhor eu falei o que que é melhor para o usuário. É ele copiar do WhatsApp. Se bem que às vezes ele abre pelo celular daí digita no computador, tipo f***-se ali o usuário não precisa ajustar isso desde que ele saiba. Qual o padrão que tem né?"
+      },
+      {
+        "startTime": 3142,
+        "endTime": 3149,
+        "speaker": "Johnny Fernandes",
+        "text": "Ele tem que ter um padrão se ele tiver um padrão. Porque eu penso assim, se tiver."
+      },
+      {
+        "startTime": 3149,
+        "endTime": 3173,
+        "speaker": "Diego Diehl",
+        "text": "Só uma coisa o padrão do é que o padrão do Whatsapp que ele dá um control c ele pode apagar os risquinho o padrão do Johnny do Johnny do Vitor. Se a gente só tirar o tracinho e o parênteses dá para deixar com DDD e número sem separações porque quando usar pesquisar não vai bugar."
+      },
+      {
+        "startTime": 3173,
+        "endTime": 3205,
+        "speaker": "Diego Diehl",
+        "text": "Eu não sei só vamos assim o problema do cliente a gente precisa não criar o contato duplicado se a ideia que a gente deu lá para o Alejandro Johnny. Já vai bugar? Né? Porque o Alejandro não tem a não ser que a gente desenvolva ali essa tecnologia que o tecnologia essa verificação dupla tripla ali, ele vai e volta que o Vitor falou ele fica no Tipo ele fica no outro, tipo ele fica no outro, tipo ele fica no outro tipo daí sim dá certo."
+      },
+      {
+        "startTime": 3205,
+        "endTime": 3214,
+        "speaker": "Diego Diehl",
+        "text": "Para hoje a gente poderia deixar os números bagunçados o usuário ia sofrer para encontrar eles. E o Alejandro quando fosse verificar na plumes."
+      },
+      {
+        "startTime": 3214,
+        "endTime": 3217,
+        "speaker": "Johnny Fernandes",
+        "text": "É para hoje, eu esqueci o caminho, Diego é o Alejandro."
+      },
+      {
+        "startTime": 3217,
+        "endTime": 3232,
+        "speaker": "Diego Diehl",
+        "text": "O Vitor sabe como verificado um jeito do outro do outro do outro você só precisa verificar aí fala com o Vitor daí Victor. Você dá um help ali para ver como que o Alejandro verifica dessa forma que você verificou faz sentido assim."
+      },
+      {
+        "startTime": 3232,
+        "endTime": 3243,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu acho que esse para hoje eu acho que esse é o caminho que tem que tomar para resolver já o vazamento do cano tava o cano tava zoando água. Vamos tacar é isso é ou seja."
+      },
+      {
+        "startTime": 3243,
+        "endTime": 3253,
+        "speaker": "Diego Diehl",
+        "text": "Você se o Alejandro te acionar você consegue dar um Norte para ele? Porque eu acho que tem uns minutos de pensamento que você já economizou aí né?"
+      },
+      {
+        "startTime": 3253,
+        "endTime": 3256,
+        "speaker": "Johnny Fernandes",
+        "text": "Passa na lógica ali, eu acho que ele já consegue reaproveitar. reaproveitar."
+      },
+      {
+        "startTime": 3256,
+        "endTime": 3261,
+        "speaker": "Diego Diehl",
+        "text": "Johnny dá para esse Você tá"
+      },
+      {
+        "startTime": 3261,
+        "endTime": 3271,
+        "speaker": "Johnny Fernandes",
+        "text": "Que aí já resolve um problema agora, Diego é esse outro problema aí da máscara, a gente ganha um tempinho aí que não é tão assim urgente, entendeu?"
+      },
+      {
+        "startTime": 3271,
+        "endTime": 3272,
+        "speaker": "Diego Diehl",
+        "text": "puxando."
+      },
+      {
+        "startTime": 3272,
+        "endTime": 3273,
+        "speaker": "Johnny Fernandes",
+        "text": "Dá eu vou encabeçar essa frente"
+      },
+      {
+        "startTime": 3273,
+        "endTime": 3275,
+        "speaker": "Diego Diehl",
+        "text": "Então João anota esse aí que é o"
+      },
+      {
+        "startTime": 3275,
+        "endTime": 3277,
+        "speaker": "Johnny Fernandes",
+        "text": "aí."
+      },
+      {
+        "startTime": 3277,
+        "endTime": 3282,
+        "speaker": "Diego Diehl",
+        "text": "problema dos cadastros duplicados, eu queria só dar um cheque meio minuto. No resto gente."
+      },
+      {
+        "startTime": 3282,
+        "endTime": 3282,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá só para puxar rapidinho o Vitor."
+      },
+      {
+        "startTime": 3282,
+        "endTime": 3284,
+        "speaker": "Diego Diehl",
+        "text": "posso puxar de"
+      },
+      {
+        "startTime": 3286,
+        "endTime": 3295,
+        "speaker": "Diogo Fernandes",
+        "text": "No cronograma agora a segunda fase ele é categorizar essa tarefa, como que vocês entendem de 1 a 3, como que a gente prioriza?"
+      },
+      {
+        "startTime": 3295,
+        "endTime": 3302,
+        "speaker": "Diego Diehl",
+        "text": "Um um esse aí tá causando o maior caos."
+      },
+      {
+        "startTime": 3302,
+        "endTime": 3303,
+        "speaker": "Diogo Fernandes",
+        "text": "Então, eu vou colocar aqui."
+      },
+      {
+        "startTime": 3303,
+        "endTime": 3312,
+        "speaker": "Diego Diehl",
+        "text": "Tá é só rapidinho. Porto Camargo O que falta João?"
+      },
+      {
+        "startTime": 3312,
+        "endTime": 3317,
+        "speaker": "Diogo Fernandes",
+        "text": "Do lado do João que o João tem a reunião parece que na sexta com eles."
+      },
+      {
+        "startTime": 3317,
+        "endTime": 3323,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente vai conectar um pouco conectar os WhatsApps? bordar."
+      },
+      {
+        "startTime": 3323,
+        "endTime": 3324,
+        "speaker": "Diogo Fernandes",
+        "text": "isso"
+      },
+      {
+        "startTime": 3324,
+        "endTime": 3331,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso só para mim a Diego a reunião voltada ali a hora né, mas eu acredito que a gente consiga pegar a parte ali já para conectar o WhatsApp."
+      },
+      {
+        "startTime": 3331,
+        "endTime": 3336,
+        "speaker": "Diego Diehl",
+        "text": "Já conecta ou avisa que vai conectar dá uma visão, vou mandar um áudio para o Fernando ali antes agora. ali antes agora."
+      },
+      {
+        "startTime": 3336,
+        "endTime": 3342,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso boa a questão de roleta. Acho que deles vai ser bem prático, vai ser só a Gabi, né?"
+      },
+      {
+        "startTime": 3342,
+        "endTime": 3342,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 3342,
+        "endTime": 3345,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Então isso a gente já consegue definir tá Lucas e a questão de"
+      },
+      {
+        "startTime": 3345,
+        "endTime": 3345,
+        "speaker": "Diego Diehl",
+        "text": "Viu?"
+      },
+      {
+        "startTime": 3345,
+        "endTime": 3348,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "mensagem. tá eu jogo eu já posso confirmar"
+      },
+      {
+        "startTime": 3348,
+        "endTime": 3350,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 3350,
+        "endTime": 3350,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "isso."
+      },
+      {
+        "startTime": 3350,
+        "endTime": 3372,
+        "speaker": "Diego Diehl",
+        "text": "Então beleza, eles vão lançar semana que vem seria bom essa semana a gente ou na sexta a gente conseguir ligar segunda ligar o WhatsApp para já pelo menos começar a traquear essa galera registrar no sistema e pode daí a gente tem que validar o recast tracking se a gente consegue deixar tudo ligado ou seu número pessoal da Gabi ou se eles têm um número que é profissional e daria para deixar o track."
+      },
+      {
+        "startTime": 3372,
+        "endTime": 3401,
+        "speaker": "Diego Diehl",
+        "text": "Aquele ligado direto uma pergunta Johnny Vitor a gente consegue ligar e desligar recast tracking por número de telefone. Ou é por contato, só tipo número telefone assim, ó, eu tenho um número profissional no na hora e a gente é um cliente. O João tem o número pessoal o meu WhatsApp pode traquear tudo o do João só os contatos já tem essa essa."
+      },
+      {
+        "startTime": 3401,
+        "endTime": 3403,
+        "speaker": "Diego Diehl",
+        "text": "Possibilidade ou não?"
+      },
+      {
+        "startTime": 3403,
+        "endTime": 3404,
+        "speaker": "Victor Figueredo",
+        "text": "Já o seu é?"
+      },
+      {
+        "startTime": 3405,
+        "endTime": 3423,
+        "speaker": "Diego Diehl",
+        "text": "Então beleza João, a gente tem que descobrir qual é o profissional. Mas é por conta. Ou dá para ter dentro de uma conta uma configuração entre a configuração. Então perfeito, entendeu João? Vê na Porto Camargo se dá para deixar um liberado para traquear tudo e o pessoal deixar mais fechado."
+      },
+      {
+        "startTime": 3423,
+        "endTime": 3438,
+        "speaker": "Diego Diehl",
+        "text": "Tá ideias árvores. A gente precisa avançar de alguma forma lá tá resolvido já o problema dos duplicados não né? Ser mapeou tá resolvido."
+      },
+      {
+        "startTime": 3438,
+        "endTime": 3439,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Não tá resolvido ainda a questão"
+      },
+      {
+        "startTime": 3439,
+        "endTime": 3440,
+        "speaker": "Diego Diehl",
+        "text": "Gente, deixa desmontado, vamos"
+      },
+      {
+        "startTime": 3440,
+        "endTime": 3441,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "ali."
+      },
+      {
+        "startTime": 3441,
+        "endTime": 3442,
+        "speaker": "Diego Diehl",
+        "text": "falando aí."
+      },
+      {
+        "startTime": 3442,
+        "endTime": 3448,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Questão ali do que eu comentei hoje Johnny é de ter o mesmo corretor caindo duas vezes para os dois gerentes na roleta para estar"
+      },
+      {
+        "startTime": 3448,
+        "endTime": 3450,
+        "speaker": "Johnny Fernandes",
+        "text": "Já resolvi entre a reunião"
+      },
+      {
+        "startTime": 3450,
+        "endTime": 3450,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "resolvido."
+      },
+      {
+        "startTime": 3450,
+        "endTime": 3451,
+        "speaker": "Johnny Fernandes",
+        "text": "e essas já resolvi."
+      },
+      {
+        "startTime": 3451,
+        "endTime": 3452,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ah beleza"
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3475,
+        "speaker": "Diego Diehl",
+        "text": "Tá então comunicar lá esse problema. Falar das abordagens dar um Norte sobre o robô ó, estamos treinando aí a conectando talvez. Podia dar uma tarefa para eles João de pedir para eles verificar esses arquivos na hora eles estão todos corretos. Para a gente poder daqui a pouco ligar o robô."
+      },
+      {
+        "startTime": 3475,
+        "endTime": 3498,
+        "speaker": "Diego Diehl",
+        "text": "tá Enzo a gente vai testar internamente lá João eu queria que você se aproximasse do cair da Patrícia entendesse? Como que eles registram as coisas? Como é que tá rolando para você aprender melhor sobre isso também. E daí falta, eu acho que isso foi ideia das Árvores a gente vai avançar."
+      },
+      {
+        "startTime": 3498,
+        "endTime": 3517,
+        "speaker": "Diego Diehl",
+        "text": "Ser TIM a gente já falou de problema de cadastro já falou. Já falou da processo de visitas já falou do relatório? Ah o relatório de eu não sei se eu notou um crescimento de parceiros ao longo do tempo tem que ter um gráfico, não sei se a gente consegue isso."
+      },
+      {
+        "startTime": 3517,
+        "endTime": 3526,
+        "speaker": "Diego Diehl",
+        "text": "É tipo acumulado por data de criação da data de hoje para trás da data de hoje para trás tipo um crescimento sabe de acumulado de vendas. Eu tô com medo que não dê Isso você já viu, isso dá certo."
+      },
+      {
+        "startTime": 3529,
+        "endTime": 3536,
+        "speaker": "Johnny Fernandes",
+        "text": "Acumulado é Um Desafio mesmo. mesmo. normalmente a gente faz só de criação de cadastro de"
+      },
+      {
+        "startTime": 3536,
+        "endTime": 3538,
+        "speaker": "Diego Diehl",
+        "text": "Não é?"
+      },
+      {
+        "startTime": 3538,
+        "endTime": 3540,
+        "speaker": "Lucas Vicente",
+        "text": "criação acho que"
+      },
+      {
+        "startTime": 3540,
+        "endTime": 3552,
+        "speaker": "Johnny Fernandes",
+        "text": "Quantos tinham até o dia nove? é. /9 tá numa Barra."
+      },
+      {
+        "startTime": 3552,
+        "endTime": 3553,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que não vai ter cara você"
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3553,
+        "speaker": "Johnny Fernandes",
+        "text": "né"
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3558,
+        "speaker": "Diego Diehl",
+        "text": "já viu."
+      },
+      {
+        "startTime": 3558,
+        "endTime": 3562,
+        "speaker": "Lucas Vicente",
+        "text": "outras coisas, por exemplo o valor mas eu não sei se foi criação daria, entendeu? O agregado de valor que eu"
+      },
+      {
+        "startTime": 3562,
+        "endTime": 3563,
+        "speaker": "Diego Diehl",
+        "text": "agregado"
+      },
+      {
+        "startTime": 3565,
+        "endTime": 3573,
+        "speaker": "Lucas Vicente",
+        "text": "De é obrigado valor que eu digo é por exemplo a o cliente vendeu 10 mil no ano e aí toda vez que entrar Venda Nova vai somar esse valor, entendeu?"
+      },
+      {
+        "startTime": 3573,
+        "endTime": 3575,
+        "speaker": "Diego Diehl",
+        "text": "não é um número que a gente quer a gente quer o número não é a falha"
+      },
+      {
+        "startTime": 3575,
+        "endTime": 3578,
+        "speaker": "Lucas Vicente",
+        "text": "Isso entendi"
+      },
+      {
+        "startTime": 3578,
+        "endTime": 3581,
+        "speaker": "Diego Diehl",
+        "text": "dos biais desses lugares normalmente é não ter isso."
+      },
+      {
+        "startTime": 3581,
+        "endTime": 3581,
+        "speaker": "Johnny Fernandes",
+        "text": "o acumulador"
+      },
+      {
+        "startTime": 3581,
+        "endTime": 3618,
+        "speaker": "Diego Diehl",
+        "text": "Eles não conseguem olhar a foto. Tipo assim hoje quanto tinha até hoje daí amanhã quando tinha até amanhã. Eu posso falar que não vai ter. ter. Não não vai ter tempo não, esquece f***-se aí passa o dois o passo 2 só para a gente ver se consegue avançar porque o cara a gente vai conseguir resolver isso para todos os clientes a gente consegue por alguns dados em Campos para o Vitor ler e criar uma automação para enviar essas informações via WhatsApp."
+      },
+      {
+        "startTime": 3618,
+        "endTime": 3631,
+        "speaker": "Diego Diehl",
+        "text": "Sim, então de onde você finalizando o relatório? Eu já te dou alguns números para a gente poder por em algum campo para o Vitor enviar periodicamente por relatório por WhatsApp."
+      },
+      {
+        "startTime": 3631,
+        "endTime": 3632,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 3632,
+        "endTime": 3660,
+        "speaker": "Diego Diehl",
+        "text": "A gente só se for muito fácil, tá? Porque eu tô pensando. Às vezes a gente faz 90% 95% e tem 5% que se a gente fizer a percepção de valor para o cliente é muito maior. Um exemplo prático quando for agendado uma visita. Hoje a gente não consegue enviar essa mensagem por WhatsApp."
+      },
+      {
+        "startTime": 3660,
+        "endTime": 3662,
+        "speaker": "Diego Diehl",
+        "text": "para um grupo de pessoas"
+      },
+      {
+        "startTime": 3662,
+        "endTime": 3663,
+        "speaker": "Johnny Fernandes",
+        "text": "um grupo"
+      },
+      {
+        "startTime": 3663,
+        "endTime": 3671,
+        "speaker": "Diego Diehl",
+        "text": "Tipo assim, ó, agendei uma visita dispara uma mensagem no WhatsApp do Caio e do superintendente que foi realizado uma visita."
+      },
+      {
+        "startTime": 3672,
+        "endTime": 3687,
+        "speaker": "Johnny Fernandes",
+        "text": "O Vitor acho que isso aqui você só ajuda para responder essa pergunta para o corretor. Eu já até tá configurado ali, ok? Só que a ideia é mandar uma mensagem para outras pessoas que não é o cliente da Dill ali, sabe?"
+      },
+      {
+        "startTime": 3687,
+        "endTime": 3691,
+        "speaker": "Diego Diehl",
+        "text": "É o usuário usuário da conta."
+      },
+      {
+        "startTime": 3691,
+        "endTime": 3693,
+        "speaker": "Johnny Fernandes",
+        "text": "Não sei se teria como."
+      },
+      {
+        "startTime": 3693,
+        "endTime": 3699,
+        "speaker": "Diego Diehl",
+        "text": "Cara se abrir essa porta a gente tem uma porta de possibilidades muito grande para agregar valor para o cliente."
+      },
+      {
+        "startTime": 3699,
+        "endTime": 3708,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu teria que tipo colocar esses usuários em algum canto ali da Dill. né? Como falei o seu pensamento sobre isso?"
+      },
+      {
+        "startTime": 3710,
+        "endTime": 3741,
+        "speaker": "Victor Figueredo",
+        "text": "Deixa eu pensar aqui o grande ponto é o seguinte a gente precisa pegar e primeiro é o esses usuários, a gente está falando deles a gente entende eles como usuários, mas para essa lógica a gente tá falando de contatos tá sempre de contatos nesse momento. Então, o Caio ele a gente está enxergando ele até para envio de relatórios mesmo, tipo amanhã o Caio enquanto o contato do Caio um contato esse pto que tem um aí de lá, a gente cria uma automação para ele mandando algumas"
+      },
+      {
+        "startTime": 3741,
+        "endTime": 3742,
+        "speaker": "Diego Diehl",
+        "text": "É só criar em contato, né criar?"
+      },
+      {
+        "startTime": 3742,
+        "endTime": 3743,
+        "speaker": "Victor Figueredo",
+        "text": "informações."
+      },
+      {
+        "startTime": 3743,
+        "endTime": 3744,
+        "speaker": "Diego Diehl",
+        "text": "Criar um contato cai."
+      },
+      {
+        "startTime": 3744,
+        "endTime": 3779,
+        "speaker": "Victor Figueredo",
+        "text": "Isso isso só para a gente e o que que é o requisito da gente habilitar uma. Automação é a gente passar uma Flag. Para esse contato sinalizar. Olha eu quero falar com esse contato aqui normal e acessar algumas algumas. Informações do contexto ali então normalmente o disparo ele tá envolvido ele ele tá relacionado com o cliente do negócio, né? Eu acredito que o contato também a gente teria acesso a alguma informação"
+      },
+      {
+        "startTime": 3780,
+        "endTime": 3798,
+        "speaker": "Johnny Fernandes",
+        "text": "Ah eu poderia fazer assim, ó, eu posso usar o campo ou usar o campo contatos relacionados do Parque que um campeonato Darei o nome lá é usuários internos para receber mensagem."
+      },
+      {
+        "startTime": 3798,
+        "endTime": 3802,
+        "speaker": "Diego Diehl",
+        "text": "Mas isso é um campo por cliente."
+      },
+      {
+        "startTime": 3802,
+        "endTime": 3803,
+        "speaker": "Johnny Fernandes",
+        "text": "Não por negócio."
+      },
+      {
+        "startTime": 3803,
+        "endTime": 3805,
+        "speaker": "Diego Diehl",
+        "text": "por negócio"
+      },
+      {
+        "startTime": 3805,
+        "endTime": 3807,
+        "speaker": "Johnny Fernandes",
+        "text": "Por visita no caso, né?"
+      },
+      {
+        "startTime": 3807,
+        "endTime": 3807,
+        "speaker": "Diego Diehl",
+        "text": "por visita para"
+      },
+      {
+        "startTime": 3807,
+        "endTime": 3816,
+        "speaker": "Johnny Fernandes",
+        "text": "Por visita por visita e se for o caso automático. Esses campos entendeu?"
+      },
+      {
+        "startTime": 3816,
+        "endTime": 3816,
+        "speaker": "Diego Diehl",
+        "text": "Também vamos nessa."
+      },
+      {
+        "startTime": 3816,
+        "endTime": 3823,
+        "speaker": "Johnny Fernandes",
+        "text": "A gente precisa subir esse horário mais cedo, cara, porque tá atrapalhando nosso almoço aí tá?"
+      },
+      {
+        "startTime": 3823,
+        "endTime": 3829,
+        "speaker": "Diego Diehl",
+        "text": "Tá tranquilo, pode finalizar e eu que eu me ajusto no horário do almoço, vocês não a gente se adequa no horário."
+      },
+      {
+        "startTime": 3829,
+        "endTime": 3832,
+        "speaker": "Johnny Fernandes",
+        "text": "com reuniões 1:30 aqui e aí já começa a atrapalhar o"
+      },
+      {
+        "startTime": 3832,
+        "endTime": 3836,
+        "speaker": "Diego Diehl",
+        "text": "Tranquilo, cara. Guarda esse ponto aí, vamos finalizar o que a gente tem para hoje que a gente tem deles."
+      },
+      {
+        "startTime": 3836,
+        "endTime": 3840,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom, ele fala sobre isso na quinta pode ser afinal. Pode ser?"
+      },
+      {
+        "startTime": 3840,
+        "endTime": 3844,
+        "speaker": "Diego Diehl",
+        "text": "Tá quinta eu vou ver como é que eu vou conseguir que eu vou estar no conecta imob, né? Que é o evento, mas o jogo quarta e"
+      },
+      {
+        "startTime": 3844,
+        "endTime": 3846,
+        "speaker": "Johnny Fernandes",
+        "text": "e Quando que você vai me chamar para"
+      },
+      {
+        "startTime": 3846,
+        "endTime": 3847,
+        "speaker": "Diego Diehl",
+        "text": "quinta."
+      },
+      {
+        "startTime": 3847,
+        "endTime": 3849,
+        "speaker": "Johnny Fernandes",
+        "text": "o homem para jantar ou quinta? É parto ou quinta?"
+      },
+      {
+        "startTime": 3849,
+        "endTime": 3856,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que é quarta ou quinta eu vou ver se vai rolar tá? Vou sentir ele quarta eu já te aviso durante o dia."
+      },
+      {
+        "startTime": 3856,
+        "endTime": 3862,
+        "speaker": "Johnny Fernandes",
+        "text": "Fechou, mas qualquer se você quiser que eu esteja com a sua visita lá também. No evento você me avisa."
+      },
+      {
+        "startTime": 3862,
+        "endTime": 3866,
+        "speaker": "Diego Diehl",
+        "text": "A gente já marcou dia 25, né? Tá na tua agenda."
+      },
+      {
+        "startTime": 3866,
+        "endTime": 3882,
+        "speaker": "Johnny Fernandes",
+        "text": "Não dia 25 já tá aqui é que dessa semana que eu precisaria me animar porque eu tenho outro a outra outra feira, né que aconteceu, né? Que Que a feira das Esquadrias aqui. Aí eu precisava me alinhar para poder participar das duas entendeu? Não marcar as duas no mesmo dia."
+      },
+      {
+        "startTime": 3882,
+        "endTime": 3884,
+        "speaker": "Diego Diehl",
+        "text": "Não entendi as duas o quê?"
+      },
+      {
+        "startTime": 3884,
+        "endTime": 3886,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu tenho outra feira essa semana para participar também."
+      },
+      {
+        "startTime": 3886,
+        "endTime": 3896,
+        "speaker": "Diego Diehl",
+        "text": "Não não fica à vontade esse de hoje dessa semana tá mais miado ainda não tem muito cliente que vai fica tranquilo, eu toco lá. Tá bom."
+      },
+      {
+        "startTime": 3896,
+        "endTime": 3902,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá bom não beleza. Não beleza. Agora você tá falando que tá frio."
+      },
+      {
+        "startTime": 3902,
+        "endTime": 3907,
+        "speaker": "Diego Diehl",
+        "text": "Faz parte eu sou vendedor, meu amigo. amigo."
+      },
+      {
+        "startTime": 3907,
+        "endTime": 3907,
+        "speaker": "Johnny Fernandes",
+        "text": "A melhor coisa que ele falou para"
+      },
+      {
+        "startTime": 3907,
+        "endTime": 3909,
+        "speaker": "Diego Diehl",
+        "text": "Valeu gente"
+      },
+      {
+        "startTime": 3909,
+        "endTime": 3914,
+        "speaker": "Johnny Fernandes",
+        "text": "mim, ele falou para umas 15 pessoas aí só eu e ele tá ligado?"
+      },
+      {
+        "startTime": 3914,
+        "endTime": 3915,
+        "speaker": "Diego Diehl",
+        "text": "É isso."
+      },
+      {
+        "startTime": 3915,
+        "endTime": 3916,
+        "speaker": "Lucas Vicente",
+        "text": "Acabou acabou os convites."
+      },
+      {
+        "startTime": 3916,
+        "endTime": 3922,
+        "speaker": "Victor Figueredo",
+        "text": "Não e semana passada você tava. Olha eu tenho esse quadril, o pai é escritor tal tal e agora não. Cadê meus ingressos."
+      },
+      {
+        "startTime": 3922,
+        "endTime": 3924,
+        "speaker": "Diego Diehl",
+        "text": "É isso eu sou difícil."
+      },
+      {
+        "startTime": 3924,
+        "endTime": 3938,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí ele falou não foi na minha 7.000 clientes a potencial do mercado. Isso aí é só 5.000 só o dinheiro tá aqui comigo e eu faço tudo na parte do aí chega agora tá vendo? Como é que é assim, ó."
+      },
+      {
+        "startTime": 3938,
+        "endTime": 3939,
+        "speaker": "Diego Diehl",
+        "text": "valeu"
+      },
+      {
+        "startTime": 3939,
+        "endTime": 3940,
+        "speaker": "Johnny Fernandes",
+        "text": "Beleza pessoal."
+      },
+      {
+        "startTime": 3940,
+        "endTime": 3953,
+        "speaker": "Victor Figueredo",
+        "text": "Desse ponto aí da automação vamos vamos tentar para conversar ver se a gente consegue resolver. Porque a plumes tinha uma demanda justamente disso daí de confirmar a reunião que aconteceu online mesmo instituição."
+      },
+      {
+        "startTime": 3953,
+        "endTime": 3955,
+        "speaker": "Johnny Fernandes",
+        "text": "não entrar com você."
+      },
+      {
+        "startTime": 3955,
+        "endTime": 3983,
+        "speaker": "Diego Diehl",
+        "text": "é mais importante enviar o relatório diário. Antes tá eu sou os dois um é relatórios diários que a gente lê a base envia uma informativa que é às vezes total de visitas total de inteira é o básico é total de parceiros total de interações total de visitas. Esse é o básico diário para uma série de pessoas usuários aí se a gente for aprimorar o processo de visitas é um outro nível."
+      },
+      {
+        "startTime": 3983,
+        "endTime": 3991,
+        "speaker": "Diego Diehl",
+        "text": "Mas a gente pode deixar para depois porque vamos fazer funcionar primeiro processo de visitas. E daí o relatório a parte mais de relatórios tá claro então, beleza?"
+      },
+      {
+        "startTime": 3991,
+        "endTime": 3993,
+        "speaker": "Victor Figueredo",
+        "text": "Combinado toma à disposição."
+      },
+      {
+        "startTime": 3993,
+        "endTime": 3993,
+        "speaker": "Diego Diehl",
+        "text": "Valeu gente."
+      },
+      {
+        "startTime": 3993,
+        "endTime": 3999,
+        "speaker": "Johnny Fernandes",
+        "text": "Falou na pauta de quinta só para esses dois pontos aqui na pauta para a gente não esquecer desses dois pontos eu falo os dois."
+      },
+      {
+        "startTime": 3999,
+        "endTime": 4000,
+        "speaker": "Diego Diehl",
+        "text": "Valeu gente"
+      },
+      {
+        "startTime": 4000,
+        "endTime": 4001,
+        "speaker": "Lucas Vicente",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 4001,
+        "endTime": 4001,
+        "speaker": "Johnny Fernandes",
+        "text": "Valeu pessoal, obrigado aí tchau,"
+      },
+      {
+        "startTime": 4001,
+        "endTime": 4002,
+        "speaker": "Lucas Vicente",
+        "text": "Falou. Tchau, tchau. Tchau."
+      },
+      {
+        "startTime": 4002,
+        "endTime": 4003,
+        "speaker": "Johnny Fernandes",
+        "text": "tchau."
+      },
+      {
+        "startTime": 4003,
+        "endTime": 4004,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "valeu"
+      },
+      {
+        "startTime": 4004,
+        "endTime": 4004,
+        "speaker": "Victor Figueredo",
+        "text": "Tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 505,
+    "speakers": [
+      "Johnny Fernandes",
+      "Lucas Vicente",
+      "Diogo Fernandes",
+      "João Vitor Portes da Silva",
+      "Victor Figueredo",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 10038,
+    "duration_start": 2,
+    "duration_end": 4004
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66e0698b2b1db80013648137",
+        "timestamp": 63,
+        "text": "Criação de um campo genérico para atribuir o corretor, evitando associá-lo diretamente ao cliente.",
+        "topicId": "66e0698b2b1db80013648128"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648138",
+        "timestamp": 131,
+        "text": "Necessidade de ter check-lists e regras condicionais para quando o corretor for da imobiliária ou for cliente.",
+        "topicId": "66e0698b2b1db80013648128"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648139",
+        "timestamp": 362,
+        "text": "Opção de cadastrar o corretor como cliente caso não haja informação sobre a imobiliária.",
+        "topicId": "66e0698b2b1db80013648128"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813a",
+        "timestamp": 452,
+        "text": "Definição de gravar os dados do contato ou do cliente, dependendo do tipo de cliente (empresa ou pessoa física).",
+        "topicId": "66e0698b2b1db80013648128"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813b",
+        "timestamp": 728,
+        "text": "Problemas no processo de implementação de registro de visitas, incluindo cadastro e pesquisa de contatos.",
+        "topicId": "66e0698b2b1db80013648129"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813c",
+        "timestamp": 819,
+        "text": "Alterações já realizadas e próximos passos, como validação com Lucas e configuração de e-mails.",
+        "topicId": "66e0698b2b1db80013648129"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813d",
+        "timestamp": 880,
+        "text": "Sugestão de focar no desenvolvimento e aplicação no cliente, deixando a documentação para depois.",
+        "topicId": "66e0698b2b1db80013648129"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813e",
+        "timestamp": 978,
+        "text": "Priorização de resolver problemas com relatórios em vez de focar na higienização de dados.",
+        "topicId": "66e0698b2b1db8001364812a"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364813f",
+        "timestamp": 1065,
+        "text": "Necessidade de resolver problemas com o relatório de gestão de carteira.",
+        "topicId": "66e0698b2b1db8001364812a"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648140",
+        "timestamp": 1118,
+        "text": "Importância de verificar se o cadastro de parceiros está sendo realizado corretamente.",
+        "topicId": "66e0698b2b1db8001364812a"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648141",
+        "timestamp": 1234,
+        "text": "João encontrou diversas situações de corretores sem responsável e com múltiplos cadastros, o que impactará o relatório.",
+        "topicId": "66e0698b2b1db8001364812b"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648142",
+        "timestamp": 1283,
+        "text": "João explica que há situações de corretores sem responsável e com múltiplos cadastros em diferentes nomes.",
+        "topicId": "66e0698b2b1db8001364812b"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648143",
+        "timestamp": 1309,
+        "text": "Diego quer validar se os contatos da lista do Datena foram realmente alocados com ele, pois pode ser uma lista nova.",
+        "topicId": "66e0698b2b1db8001364812c"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648144",
+        "timestamp": 1340,
+        "text": "Diego quer uma forma de atribuir os contatos da lista do Datena como responsável ou usuário colaborador, evitando bagunça nos dados.",
+        "topicId": "66e0698b2b1db8001364812c"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648146",
+        "timestamp": 1427,
+        "text": "Johnny vai padronizar os números de telefone da lista do Datena usando o Power Automate.",
+        "topicId": "66e0698b2b1db8001364812d"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648145",
+        "timestamp": 1457,
+        "text": "Johnny e Diego concordam em subir a base do Datena apenas como colaborador, sem atribuir responsável.",
+        "topicId": "66e0698b2b1db8001364812c"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648149",
+        "timestamp": 1678,
+        "text": "Diego diz que precisam gerar relatórios de quem está falando mais com quem para revisar os responsáveis.",
+        "topicId": "66e0698b2b1db8001364812e"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648147",
+        "timestamp": 1715,
+        "text": "Diego alerta que o padrão de telefone da Filter Feed é diferente do padrão usado por Johnny, o que pode causar problemas.",
+        "topicId": "66e0698b2b1db8001364812d"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648148",
+        "timestamp": 1809,
+        "text": "Victor explica a importância de verificar o padrão de telefone e tratar as variações possíveis para evitar duplicidade de cadastros.",
+        "topicId": "66e0698b2b1db8001364812d"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814a",
+        "timestamp": 2199,
+        "text": "Diego sugere que a equipe decida qual a melhor estratégia para lidar com os diferentes formatos de números de telefone.",
+        "topicId": "66e0698b2b1db8001364812e"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814b",
+        "timestamp": 2404,
+        "text": "Verificar se o número do contato é exatamente igual ao número do WhatsApp.",
+        "topicId": "66e0698b2b1db8001364812f"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648151",
+        "timestamp": 2469,
+        "text": "Identificar o desafio de não criar contatos duplicados e enviar o gerente correto para falar com o corretor.",
+        "topicId": "66e0698b2b1db80013648131"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814c",
+        "timestamp": 2503,
+        "text": "Validar o número do contato, consultar na base de dados e determinar se o contato não está presente.",
+        "topicId": "66e0698b2b1db8001364812f"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814d",
+        "timestamp": 2558,
+        "text": "Discutir a necessidade de padronizar o formato dos números de contato.",
+        "topicId": "66e0698b2b1db8001364812f"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814e",
+        "timestamp": 2620,
+        "text": "Definir se o padrão internacional será adotado ou se manterá os diferentes formatos existentes.",
+        "topicId": "66e0698b2b1db80013648130"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364814f",
+        "timestamp": 2662,
+        "text": "Sugestão de que o usuário possa copiar o número do WhatsApp e colá-lo diretamente no sistema.",
+        "topicId": "66e0698b2b1db80013648130"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648150",
+        "timestamp": 2749,
+        "text": "Discutir a possibilidade de salvar todos os números no padrão do WhatsApp.",
+        "topicId": "66e0698b2b1db80013648130"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648152",
+        "timestamp": 3180,
+        "text": "Discutir a possibilidade de desenvolver uma tecnologia para verificar a existência de cadastros duplicados.",
+        "topicId": "66e0698b2b1db80013648131"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648153",
+        "timestamp": 3241,
+        "text": "Definir que a resolução do problema de cadastros duplicados é a prioridade mais alta no momento.",
+        "topicId": "66e0698b2b1db80013648131"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648154",
+        "timestamp": 3384,
+        "text": "Verificar se é possível ativar e desativar o rastreamento de contatos por número de telefone.",
+        "topicId": "66e0698b2b1db80013648132"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648155",
+        "timestamp": 3424,
+        "text": "Definir que a integração com o WhatsApp é uma tarefa importante a ser resolvida.",
+        "topicId": "66e0698b2b1db80013648132"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648156",
+        "timestamp": 3461,
+        "text": "Solicitar que os usuários verifiquem se os arquivos estão corretos para que o robô possa ser conectado.",
+        "topicId": "66e0698b2b1db80013648132"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648157",
+        "timestamp": 3492,
+        "text": "Verificar se é possível gerar um gráfico de crescimento acumulado de parceiros ao longo do tempo.",
+        "topicId": "66e0698b2b1db80013648133"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648158",
+        "timestamp": 3535,
+        "text": "Reconhecer que a geração de relatórios acumulados é um desafio, pois normalmente são feitos apenas relatórios de criação de cadastros.",
+        "topicId": "66e0698b2b1db80013648133"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648159",
+        "timestamp": 3573,
+        "text": "Discutir a possibilidade de gerar um relatório acumulado de valor de vendas, não apenas de número de cadastros.",
+        "topicId": "66e0698b2b1db80013648133"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815a",
+        "timestamp": 3612,
+        "text": "Discutir sobre o relatório diário e como enviar alguns números para Vitor periodicamente.",
+        "topicId": "66e0698b2b1db80013648134"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815b",
+        "timestamp": 3646,
+        "text": "Exemplo de enviar uma mensagem por WhatsApp para um grupo de pessoas após uma visita agendada.",
+        "topicId": "66e0698b2b1db80013648134"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815e",
+        "timestamp": 3662,
+        "text": "Explorar a possibilidade de enviar uma mensagem automática no WhatsApp para outros usuários além do cliente após uma visita.",
+        "topicId": "66e0698b2b1db80013648135"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815f",
+        "timestamp": 3699,
+        "text": "Identificar a necessidade de criar uma lógica para enviar informações sobre visitas realizadas a outros contatos.",
+        "topicId": "66e0698b2b1db80013648135"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815c",
+        "timestamp": 3709,
+        "text": "Definir a lógica de envio de relatórios e automações para contatos como o Caio.",
+        "topicId": "66e0698b2b1db80013648134"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648160",
+        "timestamp": 3750,
+        "text": "Discutir sobre a necessidade de habilitar uma automação para enviar informações sobre visitas realizadas.",
+        "topicId": "66e0698b2b1db80013648135"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648161",
+        "timestamp": 3804,
+        "text": "Explorar a possibilidade de usar o campo \"Contatos Relacionados\" para enviar informações sobre visitas realizadas.",
+        "topicId": "66e0698b2b1db80013648135"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648162",
+        "timestamp": 3816,
+        "text": "Necessidade de alinhar o horário da reunião para não atrapalhar o almoço.",
+        "topicId": "66e0698b2b1db80013648136"
+      },
+      {
+        "segmentId": "66e0698b2b1db80013648163",
+        "timestamp": 3859,
+        "text": "Alinhar a participação de Johnny em um evento com a visita de Diego. Necessidade de alinhar a participação de Johnny em duas feiras diferentes na mesma semana.",
+        "topicId": "66e0698b2b1db80013648136"
+      },
+      {
+        "segmentId": "66e0698b2b1db8001364815d",
+        "timestamp": 3958,
+        "text": "Definir o conteúdo básico do relatório diário a ser enviado, como total de visitas, parceiros e interações.",
+        "topicId": "66e0698b2b1db80013648134"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66e0698b2b1db80013648128",
+        "order": 1,
+        "title": "Cadastro de Corretor e Imobiliária",
+        "summary": "Discussão sobre como cadastrar corretores e imobiliárias no sistema, incluindo tratamento de diferentes cenários e automatização de processos."
+      },
+      {
+        "id": "66e0698b2b1db80013648129",
+        "order": 2,
+        "title": "Implementação de Registro de Visitas",
+        "summary": "Acompanhamento do progresso na implementação do processo de registro de visitas, incluindo ajustes em e-mails e documentação."
+      },
+      {
+        "id": "66e0698b2b1db8001364812a",
+        "order": 3,
+        "title": "Priorização de Tarefas",
+        "summary": "Discussão sobre a priorização de tarefas, com foco em resolver problemas urgentes relacionados a relatórios e cadastro de parceiros."
+      },
+      {
+        "id": "66e0698b2b1db8001364812b",
+        "order": 4,
+        "title": "Cadastro de corretores sem responsável",
+        "summary": "Discussão sobre corretores cadastrados sem responsável, com múltiplos cadastros em diferentes nomes, e a necessidade de resolver esse problema."
+      },
+      {
+        "id": "66e0698b2b1db8001364812c",
+        "order": 5,
+        "title": "Atualização da lista de contatos do Datena",
+        "summary": "Discussão sobre como atualizar a lista de contatos enviada pelo Datena, incluindo-os como colaboradores e resolvendo problemas de duplicidade."
+      },
+      {
+        "id": "66e0698b2b1db8001364812d",
+        "order": 6,
+        "title": "Padronização de números de telefone",
+        "summary": "Discussão sobre a necessidade de padronizar os números de telefone cadastrados, considerando diferentes formatos e origens dos dados."
+      },
+      {
+        "id": "66e0698b2b1db8001364812e",
+        "order": 7,
+        "title": "Próximos passos",
+        "summary": "Discussão sobre as próximas ações a serem tomadas, como a geração de relatórios de interação e a revisão dos responsáveis."
+      },
+      {
+        "id": "66e0698b2b1db8001364812f",
+        "order": 8,
+        "title": "Validação de números de contato",
+        "summary": "Discute a importância de validar os números de contato para evitar duplicatas e garantir a consistência dos dados."
+      },
+      {
+        "id": "66e0698b2b1db80013648130",
+        "order": 9,
+        "title": "Padronização do formato de números",
+        "summary": "Debate sobre a adoção de um padrão único de formatação de números de contato para facilitar a pesquisa e o gerenciamento dos dados."
+      },
+      {
+        "id": "66e0698b2b1db80013648131",
+        "order": 10,
+        "title": "Resolução de cadastros duplicados",
+        "summary": "Aborda a necessidade de implementar uma solução para evitar a criação de cadastros duplicados de contatos."
+      },
+      {
+        "id": "66e0698b2b1db80013648132",
+        "order": 11,
+        "title": "Integração com o WhatsApp",
+        "summary": "Trata da necessidade de integrar o sistema com o WhatsApp para facilitar a pesquisa e o gerenciamento de contatos."
+      },
+      {
+        "id": "66e0698b2b1db80013648133",
+        "order": 12,
+        "title": "Relatórios e métricas",
+        "summary": "Discute a necessidade de gerar relatórios e métricas sobre o crescimento de parceiros e vendas."
+      },
+      {
+        "id": "66e0698b2b1db80013648134",
+        "order": 13,
+        "title": "Relatório Diário",
+        "summary": "Discussão sobre o processo de envio de relatório diário com informações básicas para uma série de usuários."
+      },
+      {
+        "id": "66e0698b2b1db80013648135",
+        "order": 14,
+        "title": "Automação de Visitas",
+        "summary": "Discussão sobre a possibilidade de automatizar o processo de envio de informações sobre visitas realizadas."
+      },
+      {
+        "id": "66e0698b2b1db80013648136",
+        "order": 15,
+        "title": "Alinhamento de Agenda",
+        "summary": "Discussão sobre a necessidade de alinhar a agenda de eventos e feiras para evitar conflitos."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 45,
+    "topic_count": 15,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66e0698b2b1db80013648128",
+      "order": 1,
+      "title": "Cadastro de Corretor e Imobiliária",
+      "summary": "Discussão sobre como cadastrar corretores e imobiliárias no sistema, incluindo tratamento de diferentes cenários e automatização de processos."
+    },
+    {
+      "id": "66e0698b2b1db80013648129",
+      "order": 2,
+      "title": "Implementação de Registro de Visitas",
+      "summary": "Acompanhamento do progresso na implementação do processo de registro de visitas, incluindo ajustes em e-mails e documentação."
+    },
+    {
+      "id": "66e0698b2b1db8001364812a",
+      "order": 3,
+      "title": "Priorização de Tarefas",
+      "summary": "Discussão sobre a priorização de tarefas, com foco em resolver problemas urgentes relacionados a relatórios e cadastro de parceiros."
+    },
+    {
+      "id": "66e0698b2b1db8001364812b",
+      "order": 4,
+      "title": "Cadastro de corretores sem responsável",
+      "summary": "Discussão sobre corretores cadastrados sem responsável, com múltiplos cadastros em diferentes nomes, e a necessidade de resolver esse problema."
+    },
+    {
+      "id": "66e0698b2b1db8001364812c",
+      "order": 5,
+      "title": "Atualização da lista de contatos do Datena",
+      "summary": "Discussão sobre como atualizar a lista de contatos enviada pelo Datena, incluindo-os como colaboradores e resolvendo problemas de duplicidade."
+    },
+    {
+      "id": "66e0698b2b1db8001364812d",
+      "order": 6,
+      "title": "Padronização de números de telefone",
+      "summary": "Discussão sobre a necessidade de padronizar os números de telefone cadastrados, considerando diferentes formatos e origens dos dados."
+    },
+    {
+      "id": "66e0698b2b1db8001364812e",
+      "order": 7,
+      "title": "Próximos passos",
+      "summary": "Discussão sobre as próximas ações a serem tomadas, como a geração de relatórios de interação e a revisão dos responsáveis."
+    },
+    {
+      "id": "66e0698b2b1db8001364812f",
+      "order": 8,
+      "title": "Validação de números de contato",
+      "summary": "Discute a importância de validar os números de contato para evitar duplicatas e garantir a consistência dos dados."
+    },
+    {
+      "id": "66e0698b2b1db80013648130",
+      "order": 9,
+      "title": "Padronização do formato de números",
+      "summary": "Debate sobre a adoção de um padrão único de formatação de números de contato para facilitar a pesquisa e o gerenciamento dos dados."
+    },
+    {
+      "id": "66e0698b2b1db80013648131",
+      "order": 10,
+      "title": "Resolução de cadastros duplicados",
+      "summary": "Aborda a necessidade de implementar uma solução para evitar a criação de cadastros duplicados de contatos."
+    },
+    {
+      "id": "66e0698b2b1db80013648132",
+      "order": 11,
+      "title": "Integração com o WhatsApp",
+      "summary": "Trata da necessidade de integrar o sistema com o WhatsApp para facilitar a pesquisa e o gerenciamento de contatos."
+    },
+    {
+      "id": "66e0698b2b1db80013648133",
+      "order": 12,
+      "title": "Relatórios e métricas",
+      "summary": "Discute a necessidade de gerar relatórios e métricas sobre o crescimento de parceiros e vendas."
+    },
+    {
+      "id": "66e0698b2b1db80013648134",
+      "order": 13,
+      "title": "Relatório Diário",
+      "summary": "Discussão sobre o processo de envio de relatório diário com informações básicas para uma série de usuários."
+    },
+    {
+      "id": "66e0698b2b1db80013648135",
+      "order": 14,
+      "title": "Automação de Visitas",
+      "summary": "Discussão sobre a possibilidade de automatizar o processo de envio de informações sobre visitas realizadas."
+    },
+    {
+      "id": "66e0698b2b1db80013648136",
+      "order": 15,
+      "title": "Alinhamento de Agenda",
+      "summary": "Discussão sobre a necessidade de alinhar a agenda de eventos e feiras para evitar conflitos."
+    }
+  ],
+  "collected_at": "2026-04-06T23:41:16.532817+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:41:16.532817+00:00"
+}

@@ -1,0 +1,67 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "6866ee13afe8160013222b34",
+      "timestamp": 61,
+      "text": "Diego reporta aumento de 8 integrações no período",
+      "topicId": "6866ee13afe8160013222b2f"
+    },
+    {
+      "segmentId": "6866ee13afe8160013222b35",
+      "timestamp": 254,
+      "text": "Diego preocupado com baixo número de requisições",
+      "topicId": "6866ee13afe8160013222b2f"
+    },
+    {
+      "segmentId": "6866ee13afe8160013222b36",
+      "timestamp": 381,
+      "text": "Sistema de pontuação: 1 ponto por novo contrato, 1 ponto a cada 10 exclusividades",
+      "topicId": "6866ee13afe8160013222b30"
+    },
+    {
+      "segmentId": "6866ee13afe8160013222b37",
+      "timestamp": 551,
+      "text": "Reunião com financeiro agendada para dia 5 de agosto",
+      "topicId": "6866ee13afe8160013222b31"
+    },
+    {
+      "segmentId": "6866ee13afe8160013222b32",
+      "timestamp": 695,
+      "text": "Diego planeja negociar contrato e remuneração de Pedro, garantindo pagamento de 8k mesmo com atraso",
+      "topicId": "6866ee13afe8160013222b2e"
+    },
+    {
+      "segmentId": "6866ee13afe8160013222b33",
+      "timestamp": 908,
+      "text": "Metas definidas: 8% de usuários, 4 integrações e 4 exclusividades",
+      "topicId": "6866ee13afe8160013222b2e"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "6866ee13afe8160013222b2e",
+      "order": 1,
+      "title": "Metas e Compromissos Definidos",
+      "summary": ""
+    },
+    {
+      "id": "6866ee13afe8160013222b2f",
+      "order": 2,
+      "title": "Desempenho de Integrações",
+      "summary": ""
+    },
+    {
+      "id": "6866ee13afe8160013222b30",
+      "order": 3,
+      "title": "Sistema de Pontuação",
+      "summary": ""
+    },
+    {
+      "id": "6866ee13afe8160013222b31",
+      "order": 4,
+      "title": "Compromissos Futuros",
+      "summary": ""
+    }
+  ]
+}

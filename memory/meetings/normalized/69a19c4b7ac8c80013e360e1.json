@@ -1,0 +1,1920 @@
+{
+  "meeting_id": "69a19c4b7ac8c80013e360e1",
+  "name": "Product Planning",
+  "happened_at": "2026-02-27T13:30:00.000Z",
+  "duration_seconds": 3828.64,
+  "duration_minutes": 63.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Guilherme  Andrade Lacerda",
+      "email": "guilherme.lacerda@orulo.com.br"
+    },
+    {
+      "name": "Mariana Marins",
+      "email": "mariana.marins@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Beatriz Fusquino",
+      "email": "bfusquino@orulo.com.br"
+    },
+    {
+      "name": "Rubem Rocha",
+      "email": "rubem@orulo.com.br"
+    },
+    {
+      "name": "Talita Campos",
+      "email": "talita@orulo.com.br"
+    },
+    {
+      "name": "Bruna Soares",
+      "email": "bruna.lopes@orulo.com.br"
+    },
+    {
+      "name": "Lais Santos Soares",
+      "email": "lais.soares@orulo.com.br"
+    },
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Bruno   Zucchetti Rodrigues",
+      "email": "bruno.zucchetti@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Amanda Caroline Dos Santos",
+      "email": "amanda.santos@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "neno.andrade@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "mirelle.takeda@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69a19c4b7ac8c80013e360e1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "ebu-swti-kzn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69a19c62c244780013ac160b",
+    "meetingId": "69a19c4b7ac8c80013e360e1",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 1694,
+        "speaker": "Neno Andrade",
+        "text": "Empreendimentos e um novo corretor acessou o seu empreendimento e daí esse daqui também a gente pode determinar a frequência ali que vai ser enviado. E para e-mail a principio de ser planejado algo semanal e também que era compilando um pouco os dados ali de visibilidade dos Empreendimentos. Com uma chamada para levar ele para o aplicativo baixar o aplicativo visualizar os detalhes no aplicativo."
+      },
+      {
+        "startTime": 1694,
+        "endTime": 97,
+        "speaker": "Neno Andrade",
+        "text": "Querem descer no detalhe de alguns."
+      },
+      {
+        "startTime": 97,
+        "endTime": 100,
+        "speaker": "Diego Diehl",
+        "text": "Acho que a gente tinha falado de tirar o Creci, não sei se você deixou em"
+      },
+      {
+        "startTime": 100,
+        "endTime": 101,
+        "speaker": "Neno Andrade",
+        "text": "sim"
+      },
+      {
+        "startTime": 101,
+        "endTime": 140,
+        "speaker": "Diego Diehl",
+        "text": "É não sei se eu não sei se a gente vai discutir mensagem mensagem pode variar e ajustar né? Acho que é mais sistemática aqui, né do produto mensagem a gente pode testar e ajustar tipo ao invés de usuário corretores colocar quantas páginas isso daí a gente ajusta não. Mas comercial digamos assim."
+      },
+      {
+        "startTime": 140,
+        "endTime": 149,
+        "speaker": "Neno Andrade",
+        "text": "Aí do Clécio removi. O que que a gente tinha combinado seria de apresentar Os Quatros dígitos finais do contato daquele corretor, né? Para instigar também um pouco."
+      },
+      {
+        "startTime": 154,
+        "endTime": 189,
+        "speaker": "Amanda Santos",
+        "text": "Que eu vi que na mensagem está ainda."
+      },
+      {
+        "startTime": 189,
+        "endTime": 1297,
+        "speaker": "Neno Andrade",
+        "text": "E se eu for um usuário que tem o perfil de editorou o leitor eu vou receber uma mensagem dizendo que eu não tenho acesso. E seu perfil de usuário não tem permissão para realizar essa ação contar que o administrador dessa conta para solicitar o acesso e uma ação para ele poder contar tal administrador."
+      },
+      {
+        "startTime": 1297,
+        "endTime": 393,
+        "speaker": "Neno Andrade",
+        "text": "Então ele mesmo consegue solicitar e resolver esse cenário aqui. Essa é uma parte nova que a gente estava discutindo justamente por conta de restrição por perfil. Então se alguém não, entendeu? Quiser que eu repasse é só me avisar, tá? Pode falar."
+      },
+      {
+        "startTime": 393,
+        "endTime": 404,
+        "speaker": "Bruna Bregalda",
+        "text": "Eu fiquei na dúvida só vai poder ver se tu for do perfil administrador. Do editor não vai poder."
+      },
+      {
+        "startTime": 404,
+        "endTime": 405,
+        "speaker": "Neno Andrade",
+        "text": "ver ver"
+      },
+      {
+        "startTime": 405,
+        "endTime": 409,
+        "speaker": "Alejandro Olchik",
+        "text": "Para tu atribuir, ele tá clicando alterar o responsável tá vendo a ação é"
+      },
+      {
+        "startTime": 409,
+        "endTime": 418,
+        "speaker": "Bruna Bregalda",
+        "text": "Não que ele falou que ali embaixo tá escrito perfis leitor editor aí mostra a tela e diz que eu tenho que pedir para o administrador. certo"
+      },
+      {
+        "startTime": 424,
+        "endTime": 427,
+        "speaker": "Alejandro Olchik",
+        "text": "de alterar o responsável. Então para ele alterar."
+      },
+      {
+        "startTime": 427,
+        "endTime": 428,
+        "speaker": "Bruna Bregalda",
+        "text": "E o editor não vai poder fazer isso?"
+      },
+      {
+        "startTime": 432,
+        "endTime": 440,
+        "speaker": "Alejandro Olchik",
+        "text": "O editor hoje se eu não me engano ele não consegue alterar o responsável é a mesma permissão que tem na web Amanda."
+      },
+      {
+        "startTime": 440,
+        "endTime": 445,
+        "speaker": "Bruna Bregalda",
+        "text": "Ah tá, entendi, tá era essa minha dúvida se era a mesma permissão que vai ter lá vai ser vai estar replicando aqui."
+      },
+      {
+        "startTime": 447,
+        "endTime": 457,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente tá Por enquanto respeitando exatamente as suas permissões tá para não dar confusão depois se isso aqui não funcionar."
+      },
+      {
+        "startTime": 459,
+        "endTime": 473,
+        "speaker": "Bruna Bregalda",
+        "text": "tiver um administrador."
+      },
+      {
+        "startTime": 473,
+        "endTime": 474,
+        "speaker": "Alejandro Olchik",
+        "text": "É um problema."
+      },
+      {
+        "startTime": 474,
+        "endTime": 476,
+        "speaker": "Amanda Santos",
+        "text": "sempre tem eu acho administrador Bruna porque pelo menos uns 10 quando"
+      },
+      {
+        "startTime": 476,
+        "endTime": 483,
+        "speaker": "Bruna Bregalda",
+        "text": "Não não. Tá não dá ok, porque vai de CS tudo mais mas de todo o resto não é de"
+      },
+      {
+        "startTime": 483,
+        "endTime": 484,
+        "speaker": "Amanda Santos",
+        "text": "puder"
+      },
+      {
+        "startTime": 484,
+        "endTime": 495,
+        "speaker": "Bruna Bregalda",
+        "text": "vocês, com certeza deve ter porque você já sabem quem é a pessoa de administrador, mas os outros que é DL dm. Teria que puxar ali, mas assim vários que eu entrei muitos não tem administrador."
+      },
+      {
+        "startTime": 500,
+        "endTime": 507,
+        "speaker": "Gustavo Torres",
+        "text": "E é um risco, né? A gente por exemplo, quando for fazer a primeira vinculação a gente deixar Sempre como administrador padronizado."
+      },
+      {
+        "startTime": 508,
+        "endTime": 547,
+        "speaker": "Bruna Bregalda",
+        "text": "Ou em alguns casos que a gente tá colocando por exemplo em imobiliária que tem exclusividade, a gente não bota ela como Editora a gente bota ela como leitora para ela não poder fazer nada. Então depende muito do caso."
+      },
+      {
+        "startTime": 547,
+        "endTime": 572,
+        "speaker": "Alejandro Olchik",
+        "text": "Só uma pergunta assim a o editor ele consegue editar os dados dos Empreendimentos, mas não consegue adicionar usuários é isso. E a gente padronizou que o editor não consegue atribuir responsável. Já Tá misturando as duas coisas, a gente está utilizando a mesma a mesma pressão para gestão de conteúdo do empreendimento."
+      },
+      {
+        "startTime": 572,
+        "endTime": 581,
+        "speaker": "Alejandro Olchik",
+        "text": "E para a atribuição de responsável que é mais tipo é um funil comercial, se a gente for pensar."
+      },
+      {
+        "startTime": 582,
+        "endTime": 1943,
+        "speaker": "Amanda Santos",
+        "text": "perfil de administrador porque aí vira bagunça em um gerente vai querer roubar um corretor do outro. Sei lá e aí eles fazem o quê da permissão de editor? Porque aí eles podem editar os Empreendimentos que eles cuidam porque às vezes a gente tem o seu próprio. E eles não podem adicionar outros usuários."
+      },
+      {
+        "startTime": 1943,
+        "endTime": 613,
+        "speaker": "Amanda Santos",
+        "text": "E nem pode atribuir outros corretores para ele que às vezes não é de empreendimento deles, sei lá."
+      },
+      {
+        "startTime": 613,
+        "endTime": 1485,
+        "speaker": "Alejandro Olchik",
+        "text": "Vamos pensar no fluxo que vai acontecer, eu tô entendendo que muitos casos a gente administradora se coloca como administrador. confere ou não pode perder essa oportunidade, né? Então o que a gente pode ter um caso específico para ficar bem simples de implementar que é quando não há administrador encaminha para A gente define."
+      },
+      {
+        "startTime": 1485,
+        "endTime": 684,
+        "speaker": "Alejandro Olchik",
+        "text": "Qual é um encaminhamento interno, né para o pronto atendimento? Faz sentido a gente não precisa mudar nada hoje do modos operando a gente não perde a oportunidade de conversar um DL interessado em pegar o processo."
+      },
+      {
+        "startTime": 684,
+        "endTime": 687,
+        "speaker": "Talita Campos",
+        "text": "Mas esse fluxo aí não é o DDA que o Nemo tava explicando."
+      },
+      {
+        "startTime": 688,
+        "endTime": 694,
+        "speaker": "Neno Andrade",
+        "text": "Sem mais de 10 Seria a mesma regra até então né? É bom validar mesmo."
+      },
+      {
+        "startTime": 697,
+        "endTime": 724,
+        "speaker": "Amanda Santos",
+        "text": "atribuído a ele é ter essa opção de filtro não passa a impressão de que ele pode ver outros corretores além do que tá atribuído a ele. É só uma reflexão."
+      },
+      {
+        "startTime": 724,
+        "endTime": 801,
+        "speaker": "Alejandro Olchik",
+        "text": "gente não estaria implementando agora. Tá é só como evoluiria Interface para que a gente também possa ter aquela mesma listagem dos responsável que a gente tem na web a gente poderia estar aqui dentro certo, mas isso a gente faria uma se a gente continua se investindo aqui nessa frente por hora não vai estar disponível."
+      },
+      {
+        "startTime": 801,
+        "endTime": 1723,
+        "speaker": "Neno Andrade",
+        "text": "Como a gente vai ter nesse cenário 13 listagens de corretores, a gente vai ter do aplicativo que as corretores recentes a gente vai ter a data Corretores e a gente vai ter a data desempenho. A gente tá tentando trazer um pouco mais de clareza para que se refere cada uma."
+      },
+      {
+        "startTime": 1723,
+        "endTime": 874,
+        "speaker": "Neno Andrade",
+        "text": "Então na aba corretores do da web a gente vai alterar um nome para meu corretores para tentar fazer um pouco mais de clareza. E aqueles corretores que eu marcar então atribuição no aplicativo ele vem para cá para eu ter justamente essa assertividade esse registro aqui, né? Tranquilo aqui pessoal."
+      },
+      {
+        "startTime": 874,
+        "endTime": 901,
+        "speaker": "Talita Campos",
+        "text": "O meus corretores não vai ficar meio esquisito no caso do administrador."
+      },
+      {
+        "startTime": 901,
+        "endTime": 915,
+        "speaker": "Alejandro Olchik",
+        "text": "É o correto seria corretores da Incorporadora. O nossos corretores se não fosse fazer Só que aí começa a ficar ruim A nomenclatura do item de memória."
+      },
+      {
+        "startTime": 916,
+        "endTime": 961,
+        "speaker": "Talita Campos",
+        "text": "Então tem esse ponto também de que essa aba quando tem mais de um anunciante, né? Ela faz uma mescla ali."
+      },
+      {
+        "startTime": 961,
+        "endTime": 990,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu tô achando eu não sei se não é melhor deixar aqui Corretores e botar corretores recentes no aplicativo. só que aí os corretores recentes é aquele aquele filtro ali de Atribuídos a mim não seria só os recentes. Graças a Deus que não sou eu que tenho que resolver isso que é o Neno."
+      },
+      {
+        "startTime": 995,
+        "endTime": 996,
+        "speaker": "Neno Andrade",
+        "text": "É tá aqui cada vez anda frio aqui."
+      },
+      {
+        "startTime": 1001,
+        "endTime": 1006,
+        "speaker": "Amanda Santos",
+        "text": "Cada vez que faz essa reunião leva uma atividade nova aí para pensar."
+      },
+      {
+        "startTime": 1017,
+        "endTime": 1036,
+        "speaker": "Neno Andrade",
+        "text": "Aqui no aplicativo. Onde você tava trazendo também o título de listagem de corretores, eu alterei para acesso os recentes justamente para tentar já direcionar um pouco mais a comunicação para algo que é recente, né? Não é uma listagem infinita e histórico."
+      },
+      {
+        "startTime": 1037,
+        "endTime": 1043,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente tem uma outra abordagem está tentando resumir tudo numa palavra a gente pode usar nos dois casos Corretores e tem alguma explicação."
+      },
+      {
+        "startTime": 1046,
+        "endTime": 1148,
+        "speaker": "Neno Andrade",
+        "text": "informação, né alguma coisa que a pessoa possa entender e ver o que significa já na web tem mais os textos pode botar alguma frase alguma coisa aqui esclareça talvez. aba corretores, eu vou ter aqui a visualização somente de um corretor. E também o restante é preciso fazer o upgrade para o plano de saúde."
+      },
+      {
+        "startTime": 1148,
+        "endTime": 1166,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Eu sei que vai aumentar o custo, mas a gente jogar do aplicativo para web. Dá uma encrenca de usabilidade, né? Porque ele vai pedir para se logar de novo e aí vai aparecer aqueles. Se ele nunca se louvou, ele vai ter que se logar a primeira vez ele não vai já entrar no lugar."
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1168,
+        "speaker": "Alejandro Olchik",
+        "text": "Talvez né, mas"
+      },
+      {
+        "startTime": 1168,
+        "endTime": 1175,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Ele fechou o navegador. Em algum momento celular dele, ele vai ter que se logar de novo. E aí quando ele loga ainda vai ficar aquela mensagem."
+      },
+      {
+        "startTime": 1175,
+        "endTime": 1178,
+        "speaker": "Alejandro Olchik",
+        "text": "Alguém a gente tem uma abordagem que faz login automático."
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1190,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Tá então quando ele for entrar aqui vai ficar aquela mensagem insistente dizendo para o cara voltar para o aplicativo não o baixar o aplicativo."
+      },
+      {
+        "startTime": 1194,
+        "endTime": 1225,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu acho que a gente tirou nesse caso. Quem te trata nesse caso, mas a gente pode revisar cante meio que vale dois refluxo em outras circunstâncias a gente enfim. Talvez seja algum tempo algum problema a gente de conseguir acessar direto sem login que seja mais fluidez, a gente vai ter que validar isso, mas a lógica é que seja responsivo, não precisa login e que não fique mostrando bobagem para pessoa, entendeu? É uma boa pergunta a gente pode avaliar."
+      },
+      {
+        "startTime": 1225,
+        "endTime": 1233,
+        "speaker": "Marcelo Rodrigues",
+        "text": "E isso é mais fácil de fazer do que a gente criar essa página bem básica no aplicativo, tipo assim bem básico, eu quero dizer de uma forma básica no aplicativo."
+      },
+      {
+        "startTime": 1242,
+        "endTime": 1245,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente pode trabalhar."
+      },
+      {
+        "startTime": 1245,
+        "endTime": 1265,
+        "speaker": "Amanda Santos",
+        "text": "direcionar para web tipo o navegador do celular. Eu concordo com Marcelo, se tivesse uma página mesmo que simples no aplicativo. Você seria melhor terça-feira."
+      },
+      {
+        "startTime": 1265,
+        "endTime": 1284,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente só vai fazer isso. Se for realmente mais econômico vai ficando muito grande, entendeu? Na alternativa seria não ter o dado do corretor. Então acho que é alternativa não mostrar nenhum dado do corretor e não me linkar para web. Você que não é a melhor alternativa."
+      },
+      {
+        "startTime": 1291,
+        "endTime": 2690,
+        "speaker": "Neno Andrade",
+        "text": "não vai conseguir marcar esse corretor como lido porque ele vai estar vendo somente um Então não vai ter aquele fluxo do lido não lido. Ele só vai realmente ver um corretor ali. Demais fluxos aqui seria no caso, se ele quiser atribuir algum. Algum responsável né que discutiu também para dele que tem aquele cenário onde que a maioria é editora e não tem necessariamente administrador, né? Eu anotei isso aqui para ajustar no fluxo já."
+      },
+      {
+        "startTime": 2690,
+        "endTime": 1358,
+        "speaker": "Neno Andrade",
+        "text": "E a princípio da listagem seria isso, eu percebi que eu acabei pulando aqui em BH. Eu tô voltando agora tá? Pode falar."
+      },
+      {
+        "startTime": 1358,
+        "endTime": 1389,
+        "speaker": "Alejandro Olchik",
+        "text": "nome. Não vai poder entrar o WhatsApp, eu teria que estar desabilitado tá? Ele não poderia entrar em contato com ah não o WhatsApp do primeiro estaria habilitado, é isso? E dos outros não. Não teria outros, né? Porque alternativa e alternativa aqui era mostrar mais"
+      },
+      {
+        "startTime": 1389,
+        "endTime": 1393,
+        "speaker": "Neno Andrade",
+        "text": "Não."
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1413,
+        "speaker": "Alejandro Olchik",
+        "text": "né? Que é acesso a todos né? E depois que se o cara continua se trolando vem um nome mas com botão desabilitado não consegue fazer nada. Né, ele vê que tem corretores, né? Você vê que ele vai ver lá em cima a quantidade, né?"
+      },
+      {
+        "startTime": 1413,
+        "endTime": 2430,
+        "speaker": "Diego Diehl",
+        "text": "corretores, eles têm o contato de Todo Mundo em nome de todo mundo. A grande questão que a gente tem é saber quem acessou no momento Então, se for para mostrar daí não mostrar nem o nome, tá? Porque o valor que a gente gera não é dar um telefone só."
+      },
+      {
+        "startTime": 2430,
+        "endTime": 1462,
+        "speaker": "Diego Diehl",
+        "text": "O valor é dizer o nome da pessoa que acertou quer saber o micro no momento de quem que ele deve abordar agora ele conhece o cara muitas vezes, mas ele não sabia que o cara tava com um cliente."
+      },
+      {
+        "startTime": 1462,
+        "endTime": 1472,
+        "speaker": "Bruna Bregalda",
+        "text": "E botar sua quantidade em vez de botar só o nome tipo assim ó esse mais mais 10 mas não bota o nome que é o que o Diego falou, tipo se ele tem ele sabe o nome ele tem o contato e vai falar com o cara."
+      },
+      {
+        "startTime": 1473,
+        "endTime": 1475,
+        "speaker": "Alejandro Olchik",
+        "text": "Não tá lá em cima tá lá em cima, então isso já tá Bruna a primeira coisa"
+      },
+      {
+        "startTime": 1475,
+        "endTime": 1476,
+        "speaker": "Bruna Bregalda",
+        "text": "Mas é acesso ao Empreendimentos acesso ao Empreendimentos não."
+      },
+      {
+        "startTime": 1476,
+        "endTime": 1477,
+        "speaker": "Alejandro Olchik",
+        "text": "no momento."
+      },
+      {
+        "startTime": 1480,
+        "endTime": 1485,
+        "speaker": "Bruna Bregalda",
+        "text": "Ah não bem lá em cima, tá não é no foguinho ali 221, né bem lá em cima. Então é isso aí."
+      },
+      {
+        "startTime": 1485,
+        "endTime": 1489,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá bom acho que resolve. Então esquece."
+      },
+      {
+        "startTime": 1496,
+        "endTime": 1529,
+        "speaker": "Neno Andrade",
+        "text": "Beleza. Tá pessoal, eu vou voltar para dear porque acabei esquecendo de comentar aqui da aba de audiência, tá bem relevante então no primeiro dia audiência nesse primeiro momento, a gente vai ter alguns dados que eles são métricas compiladas de todos os Empreendimentos daquele anunciante. Então são todos os corretores de todos os anúncios dele fazendo visualizações todos os valores todos os compartilhamentos."
+      },
+      {
+        "startTime": 1529,
+        "endTime": 1546,
+        "speaker": "Neno Andrade",
+        "text": "A gente tinha discutido internamente sobre nesse primeiro momento limitar essa consulta sempre a 90 dias aos últimos 90 dias sem necessariamente permitir usuário editar aqui para 30 dos últimos 90 dias."
+      },
+      {
+        "startTime": 1558,
+        "endTime": 1565,
+        "speaker": "Bruna Bregalda",
+        "text": "É exatamente como tá no site no na área do cliente, né? Fica padrão 90. Tu consegue hoje já botar 30 aí 30 lá?"
+      },
+      {
+        "startTime": 1565,
+        "endTime": 1568,
+        "speaker": "Alejandro Olchik",
+        "text": "é 30 lá só que a gente"
+      },
+      {
+        "startTime": 1569,
+        "endTime": 1573,
+        "speaker": "Amanda Santos",
+        "text": "Eu ia falar."
+      },
+      {
+        "startTime": 1573,
+        "endTime": 1574,
+        "speaker": "Alejandro Olchik",
+        "text": "No cardizinho não é padronizado 30 dias no cais irmãos Imóveis."
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1576,
+        "speaker": "Diego Diehl",
+        "text": "varia para o cliente na verdade cada um tem um número"
+      },
+      {
+        "startTime": 1578,
+        "endTime": 1591,
+        "speaker": "Bruna Bregalda",
+        "text": "É Não essa é uma outra coisa primeiro. Eu queria ver o por dias ali, mas a outra coisa que lá na área do cliente tá por empreendimento aqui vai ser o total dos Empreendimentos, né? Vai ser diferente do que está na área do cliente."
+      },
+      {
+        "startTime": 1599,
+        "endTime": 1610,
+        "speaker": "Alejandro Olchik",
+        "text": "Não lembro."
+      },
+      {
+        "startTime": 1610,
+        "endTime": 1628,
+        "speaker": "Amanda Santos",
+        "text": "Para mim era tudo associado, tá? Quando o quando tá lá em meus Imóveis 90 dias você vai ser 90 dias lá em desempenho, não sei se eu tô errado tá? Mas de qualquer forma os clientes não tem um padrão no geral é 90 dias mas tem críticas preferem ver 30 dias e a gente consegue alterar aí fica 30 dias."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1632,
+        "speaker": "Alejandro Olchik",
+        "text": "Talita"
+      },
+      {
+        "startTime": 1633,
+        "endTime": 1657,
+        "speaker": "Talita Campos",
+        "text": "Desempenho é 90 dias fixo e é dividido semanalmente. Isto é menor. Alejandro no planner a gente tinha comentado que faria Com as opções até 30 dias por conta da variação modificou então. a gente"
+      },
+      {
+        "startTime": 1657,
+        "endTime": 1757,
+        "speaker": "Alejandro Olchik",
+        "text": "Garanta uma audiência mínima superior a quem é Dr. De forma significativa. Então se a gente conseguisse fazer isso deixasse subsível aqui p*** e sim. Né, a gente faz todo sentido a gente focar mais na parte de audiência, hoje, eu não sei se faz tanto sentido implementar como parte deste época isso daqui, tá? os dois centavos Diga a Bruna"
+      },
+      {
+        "startTime": 1757,
+        "endTime": 1775,
+        "speaker": "Bruna Bregalda",
+        "text": "Não aparece aqui quando eu falei Total, mas é que tu falou que a ideia é trazer volume aqui, né? Não por empreendimento porque eu digo assim métricas dos seus Empreendimentos isso significa da Incorporadora não que ele é responsável, porque vai querer entrar para ver o empreendimento dele que ele cuida."
+      },
+      {
+        "startTime": 1775,
+        "endTime": 1778,
+        "speaker": "Bruna Bregalda",
+        "text": "Quando coloca seus Empreendimentos. Da Incorporadora do geral, né?"
+      },
+      {
+        "startTime": 1786,
+        "endTime": 1787,
+        "speaker": "Alejandro Olchik",
+        "text": "geral geral"
+      },
+      {
+        "startTime": 1794,
+        "endTime": 1831,
+        "speaker": "Amanda Santos",
+        "text": "Mas eu acho que é um desenvolvimento futuro e só um ponto. Será que? É Então, mas ele vai querer isso no aplicativo, eu tenho essa esse filho tá? É e sobre não seria interessante manter o mesmo padrão de dias que tem na web porque assim o que tá na web lá no meus Imóveis, é o que o cliente Quis colocar ele queria ver 30 dias, ele queria ver 90 aí aqui a gente vai obrigar ele a ver a quantidade 90 dias, mas ele prefere ver 30."
+      },
+      {
+        "startTime": 1851,
+        "endTime": 1876,
+        "speaker": "Amanda Santos",
+        "text": "Olha, eles gostam muito eles gostam muito dessa parte eu eles acompanham, só que como aqui tá numa visualização de todos os Empreendimentos juntos, eu acho que isso aí faz um pouco, se não ser tão interessante entende? Então é de se pensar. Talvez colocar no próximo pode ser uma opção, mas aí eu acho que no próximo poderia ter já dividido por entendimento."
+      },
+      {
+        "startTime": 1876,
+        "endTime": 1891,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente poderia colocar um CTA aqui você tá Qual o CTA tipo melhor essa audiência contratando o plano de sobre São avançado. Ah já tá ali. Aí já tem um CTA aqui tá como se fosse assim."
+      },
+      {
+        "startTime": 1891,
+        "endTime": 1946,
+        "speaker": "Diego Diehl",
+        "text": "O cara já vai ter porque entrar. Para pegar um corretor que é o que a gente queria. Então ia ser ótimo ter audiência, mas sobre escolher um escolheria o pegar o corretor. Mas eu tô falando aqui, eu tô me fixando em pensar para DL, né? Principalmente. Aqui agora."
+      },
+      {
+        "startTime": 1946,
+        "endTime": 1954,
+        "speaker": "Alejandro Olchik",
+        "text": "Ó, você não tá satisfeito a venda vai ser a contrate quando começou"
+      },
+      {
+        "startTime": 1954,
+        "endTime": 1956,
+        "speaker": "Diego Diehl",
+        "text": "saia do plano gratuito"
+      },
+      {
+        "startTime": 1956,
+        "endTime": 1957,
+        "speaker": "Alejandro Olchik",
+        "text": "avançada para melhorar."
+      },
+      {
+        "startTime": 1960,
+        "endTime": 1974,
+        "speaker": "Amanda Santos",
+        "text": "agora no teatro. Porque às vezes por exemplo não tem porque tem que entrar lá na web parado o"
+      },
+      {
+        "startTime": 1974,
+        "endTime": 1975,
+        "speaker": "Alejandro Olchik",
+        "text": "A gente vai ver o esforço a gente decide."
+      },
+      {
+        "startTime": 1976,
+        "endTime": 1984,
+        "speaker": "Amanda Santos",
+        "text": "computador, mas será que se ele tiver isso no aplicativo ele olhar toda hora isso aí ele não vai ficar mais interessado em usar mais para melhorar isso."
+      },
+      {
+        "startTime": 1987,
+        "endTime": 1993,
+        "speaker": "Alejandro Olchik",
+        "text": "100 eu acho que sim é um efeito colateral é outro benefício dessa desse avanço."
+      },
+      {
+        "startTime": 1993,
+        "endTime": 1997,
+        "speaker": "Bruna Bregalda",
+        "text": "É o engajamento que tem do Instagram o pessoal botando post fica olhando toda hora para ver o engajamento que vai ter."
+      },
+      {
+        "startTime": 2007,
+        "endTime": 2010,
+        "speaker": "Alejandro Olchik",
+        "text": "Show toca ficha aí, vamos lá o que mais."
+      },
+      {
+        "startTime": 2012,
+        "endTime": 2037,
+        "speaker": "Neno Andrade",
+        "text": "Bom, deixa eu só revisitar aqui ver se tem mais algum ponto eu acho que essa parte a gente passou por tudo, né a diferença que eu ia trazer era justamente essa do da tem só a listagem aqui com as métricas itl a gente tem uma CTA aqui para incentivar a distribuição avançado o contrato dele."
+      },
+      {
+        "startTime": 2037,
+        "endTime": 2054,
+        "speaker": "Neno Andrade",
+        "text": "bom Eu acho que é isso nessa parte tinha só a questão do detalhe do empreendimento, mas que lá eu não consegui trazer ainda a parte do score, aí eu não sei se vale a pena passar por aquela de novo."
+      },
+      {
+        "startTime": 2057,
+        "endTime": 2093,
+        "speaker": "Alejandro Olchik",
+        "text": "Acho que vale é mais uma rodada de feedback, então só para fechar esse assunto aqui. O a gente tá? Tá bem encaminhada a definição aqui tá tipo agora. Acho que são mais detalhes assim, então a gente tem só que vê o tamanho dessa bronca aqui e ver se é tudo isso que vai entrar se é uma parte disso tá essa definição que a gente tem que fazer e aqui Talita ficou definido então que a gente vai precisar de um Point novo, né? Não vamos aproveitar o mesmo vai ser um de corretores recentes diferente dos outros dois que a gente tem."
+      },
+      {
+        "startTime": 2093,
+        "endTime": 2093,
+        "speaker": "Alejandro Olchik",
+        "text": "né"
+      },
+      {
+        "startTime": 2094,
+        "endTime": 2113,
+        "speaker": "Talita Campos",
+        "text": "Sim assim a explicação é o que eu tava comentando, né que vai dar a diferenciação entre as listas. Porque pode ainda acontecer do esporte ter mais corretor do que a listagem aqui no aplicativo. Mas a explicação vai ficar ok?"
+      },
+      {
+        "startTime": 2118,
+        "endTime": 2123,
+        "speaker": "Alejandro Olchik",
+        "text": "Show vamos lá, vamos dar uma olhada então na questão dos detalhes."
+      },
+      {
+        "startTime": 2124,
+        "endTime": 2155,
+        "speaker": "Neno Andrade",
+        "text": "Deixa eu voltar para cá. Beleza da última conversa que a gente teve para agora, o que que eu fiz pessoal? Eu ajustei com base nos feedbacks que vocês trouxeram, tá? A tabela digital agora eu coloquei um pouco mais de destaque Trazendo com o botão primário aí não secundário. Ajustei a ordenação das informações a gente tinha eu trouxe tipologias para cima aqui próximo a características."
+      },
+      {
+        "startTime": 2155,
+        "endTime": 2177,
+        "speaker": "Neno Andrade",
+        "text": "Trouxe o vídeo para cima e outra ajuste que eu fiz foi seguir aquela ordenação que o Diego me passou no discord para a parte de outras informações. Eu tinha separado aqui. Pepeu e condomínio eu trouxe para cá também. Eu segui aquela ordenação Brasil. Pode falar."
+      },
+      {
+        "startTime": 2180,
+        "endTime": 2210,
+        "speaker": "Talita Campos",
+        "text": "Essa questão das outras informações ela vira e mexe volta, né? Porque nem sempre fica uma ordem garantida no modelo que a gente faz atualmente. Porque se a gente não tem a informação a gente omite aquele Campo ali e daí a gente trabalha com balanceamento de colunas para não ficar uma maior que a outra e com isso, né? A gente não consegue garantir que um determinado informação fique na conta direito da esquerda em cima abaixo."
+      },
+      {
+        "startTime": 2210,
+        "endTime": 2222,
+        "speaker": "Talita Campos",
+        "text": "Enfim a gente garante, né? A ordem que Foi pedida, porém comissão dos Campos, né? Aí pode ocorrer a movimentação de um campo da direita para esquerda. Se for o caso."
+      },
+      {
+        "startTime": 2224,
+        "endTime": 2232,
+        "speaker": "Diego Diehl",
+        "text": "Talita uma dúvida esse ordenamento, ele é esquerda direita esquerda direita esquerda direita ou é eu imagino que seja né?"
+      },
+      {
+        "startTime": 2233,
+        "endTime": 2237,
+        "speaker": "Talita Campos",
+        "text": "Acho que a esquerda direita. Não é tipo tudo direito."
+      },
+      {
+        "startTime": 2237,
+        "endTime": 2239,
+        "speaker": "Diego Diehl",
+        "text": "Por isso que tá tudo bagunçado, né?"
+      },
+      {
+        "startTime": 2241,
+        "endTime": 2251,
+        "speaker": "Talita Campos",
+        "text": "Tem algum motivo da gente e não é só não ocultar. tem que dar uma olhada certinho, mas Então esse é o ponto que eu ia trazer se poderia não ocultar as informações"
+      },
+      {
+        "startTime": 2251,
+        "endTime": 2256,
+        "speaker": "Diego Diehl",
+        "text": "porque"
+      },
+      {
+        "startTime": 2256,
+        "endTime": 2257,
+        "speaker": "Talita Campos",
+        "text": "as informações que não tem dado e como seria exibido nesse caso ou se a gente"
+      },
+      {
+        "startTime": 2257,
+        "endTime": 2262,
+        "speaker": "Diego Diehl",
+        "text": "Qual que é o dado que você mais oculto ali, você sabe que dá algum problema"
+      },
+      {
+        "startTime": 2262,
+        "endTime": 2267,
+        "speaker": "Talita Campos",
+        "text": "vai permanecer com a questão da ocupação. E aí teria que ver como é que vai ficar essa questão de ordem também."
+      },
+      {
+        "startTime": 2274,
+        "endTime": 2281,
+        "speaker": "Diego Diehl",
+        "text": "algo assim. Por exemplo ali tá a área do terreno e área da laje tá com tracinho na realidade, nem apareceria isso."
+      },
+      {
+        "startTime": 2282,
+        "endTime": 2284,
+        "speaker": "Talita Campos",
+        "text": "Exato quando a gente não tem uma informação registrada a gente oculta, aí eu"
+      },
+      {
+        "startTime": 2284,
+        "endTime": 2286,
+        "speaker": "Bruna Bregalda",
+        "text": "mas"
+      },
+      {
+        "startTime": 2286,
+        "endTime": 2291,
+        "speaker": "Talita Campos",
+        "text": "não sei o que que é mais comum de não ter essa informação, né? Talvez."
+      },
+      {
+        "startTime": 2291,
+        "endTime": 2307,
+        "speaker": "Bruna Bregalda",
+        "text": "A área de terreno área de terreno a gente não coloca aqui na operação. Área de Laje essa pessoa vai entrar e editar e botar essa informação a gente não bota como padrão ser preenchido. Lançamento entrega é sempre colocado uma data a gente não libera produto sem essas duas informações aqui."
+      },
+      {
+        "startTime": 2307,
+        "endTime": 2323,
+        "speaker": "Bruna Bregalda",
+        "text": "Atualizado em vai ter porque isso aí vai puxar do sistema, né? Então não tem. Estágio pega também da data de lançamento. Então vai estar sempre preenchido também, me corrige se eu tiver errado da Talita. Total de unidades pode estar zero porque quando é um breve lançamento a gente não tem total de unidades."
+      },
+      {
+        "startTime": 2323,
+        "endTime": 2345,
+        "speaker": "Bruna Bregalda",
+        "text": "Então ele pode sim estar com na verdade Zero não a gente bota um se eu não me engano. Acho que 00 ele não fica estoque ele pode estar Zerado porque é um breve, mas esse aí não vai estar também porque pega da tabela pega da atualização é automático e número de andares e unidades por andar a gente coloca também IPTU vazio também porque a gente não coloca em condomínio também."
+      },
+      {
+        "startTime": 2345,
+        "endTime": 2347,
+        "speaker": "Bruna Bregalda",
+        "text": "Isso é sócio cliente entrar e botar."
+      },
+      {
+        "startTime": 2349,
+        "endTime": 2351,
+        "speaker": "Diego Diehl",
+        "text": "Então são os quatro as duas últimas linhas."
+      },
+      {
+        "startTime": 2352,
+        "endTime": 2353,
+        "speaker": "Bruna Bregalda",
+        "text": "isso basicamente"
+      },
+      {
+        "startTime": 2353,
+        "endTime": 2354,
+        "speaker": "Diego Diehl",
+        "text": "Ficou ocultados."
+      },
+      {
+        "startTime": 2356,
+        "endTime": 2371,
+        "speaker": "Bruna Bregalda",
+        "text": "Eu ia dar essa solução também de tipo deixar e ficar com tracinho. Até para ele saber que se ele entrar ele pode preencher. Se ele quiser. E aí não corre esse risco da"
+      },
+      {
+        "startTime": 2371,
+        "endTime": 2418,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho legal a visão do de até para abordar as incorporadoras e falar cara, você não tem usuário. Sem corretores estão vendo o negócio não preenchido o teu ali você entrar e preencher uma vez. Eu gosto dessa pequena, a gente faz um cor, né? Bruna contigo, mas é bom jogar uma responsa para o cara da ponta lá um pouquinho também, sabe para ele baixar o aplicativo para ele organizar é isso que a gente tá tentando tracionar agora que tá que é o nosso Core aqui para aproximar O DL né? Só vincular acessar baixar o aplicativo eu gosto de deixar Talita de tracinho, foi aí fica padrão."
+      },
+      {
+        "startTime": 2418,
+        "endTime": 2421,
+        "speaker": "Diego Diehl",
+        "text": "E não vejo um problema grande, tá?"
+      },
+      {
+        "startTime": 2428,
+        "endTime": 2462,
+        "speaker": "Neno Andrade",
+        "text": "Show Beleza seguindo trazer mais telas aqui eu lembro que tinham trazido também a necessidade de poder ver o contatos sem necessariamente precisar clicar no botão, né? Então eu tô trazendo aqui os contatos atribuídos a esse. Usuário indo para outra aqui, esse aqui é só um exemplo, né trazendo a parte de promoção, parceiro oficial e também algumas das séries onde elas ficariam, né? Já que a gente prevendo o layout."
+      },
+      {
+        "startTime": 2462,
+        "endTime": 2474,
+        "speaker": "Neno Andrade",
+        "text": "Outro cenário seria quando não oferece a integração gratuita. Vamos então aqui é outro cenário seria para a gente incluir o botão de agendar visita. Pode falar."
+      },
+      {
+        "startTime": 2476,
+        "endTime": 2495,
+        "speaker": "Bruna Bregalda",
+        "text": "Duas coisas uma quando tiver promoção vai ficar em cima do aonde vai ficar a promoção é a língua do lado, né? Vai sempre ficar ali embaixo não aonde está a porcentagem, tá já achei e a porcentagem ali de comissão, se ela tiver zerada fica o tracinho também não some né Talita."
+      },
+      {
+        "startTime": 2495,
+        "endTime": 2498,
+        "speaker": "Bruna Bregalda",
+        "text": "Quando é não é? Que acontece quando não tem porcentagem?"
+      },
+      {
+        "startTime": 2499,
+        "endTime": 2503,
+        "speaker": "Talita Campos",
+        "text": "porcentagem de comissão acho que a gente estou mentindo quando não tem um determinado valor"
+      },
+      {
+        "startTime": 2507,
+        "endTime": 2514,
+        "speaker": "Bruna Bregalda",
+        "text": "E que seria melhor não ter mesmo tipo essas informações comerciais ou tipo tá zerado também. atrativo digamos"
+      },
+      {
+        "startTime": 2519,
+        "endTime": 2520,
+        "speaker": "Diego Diehl",
+        "text": "Perdi aqui não qual que tua sugestão?"
+      },
+      {
+        "startTime": 2522,
+        "endTime": 2524,
+        "speaker": "Bruna Bregalda",
+        "text": "da comissão informações comerciais"
+      },
+      {
+        "startTime": 2525,
+        "endTime": 2526,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 2526,
+        "endTime": 2530,
+        "speaker": "Bruna Bregalda",
+        "text": "Porque hoje a gente deixa também muito responsável por eles colocarem a gente não bota com padrão exato. Qual é a comissão ou se tem ou não ela a gente"
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2532,
+        "speaker": "Diego Diehl",
+        "text": "Ah, se tiver Zerado o que fazer é isso?"
+      },
+      {
+        "startTime": 2536,
+        "endTime": 2549,
+        "speaker": "Bruna Bregalda",
+        "text": "bota assim, ele dá senão ele que tem que entrar e editar dizendo. Olha eu quero botar aqui este produto tem essa comissão, PF e PJ. Mas aí a Talita falou que hoje oculta. É interessante deixar ocultado ou deixar Zerado e que existir ele a colocar."
+      },
+      {
+        "startTime": 2549,
+        "endTime": 2559,
+        "speaker": "Diego Diehl",
+        "text": "Não. O que que é o contato ali também aparece nada. Eu acho que eu não cara eu acho que"
+      },
+      {
+        "startTime": 2559,
+        "endTime": 2565,
+        "speaker": "Talita Campos",
+        "text": "A gente mostra se tem né? Então assim tem a comissão PRF a gente mostra a sua PF tem a função PJ."
+      },
+      {
+        "startTime": 2565,
+        "endTime": 2591,
+        "speaker": "Diego Diehl",
+        "text": "eu acho que Eu não sei se tem outras linhas de raciocínio, mas a minha assim é eu, prefiro enxergar um negócio sempre padrão para minha cabeça tá organizada e se tá vazio, tá ali do que eu olhar e falar caramba. Cadê a comissão que mudou de lugar? Eu não tô achando tipo eu fico perdido eu preferia deixar um tracinho ali."
+      },
+      {
+        "startTime": 2591,
+        "endTime": 2614,
+        "speaker": "Diego Diehl",
+        "text": "E Ok E aí até um detalhe, né? Gus isso para ti no comercial dá para a gente extrair uma lista de todas as incorporadoras que não está preenchido para a gente abordar elas e falar cara. Olha aqui teve tantos corretores acessando você precisa aqui vincular é até uma ação comercial que vai funcionar certeza."
+      },
+      {
+        "startTime": 2614,
+        "endTime": 2617,
+        "speaker": "Diego Diehl",
+        "text": "Eu a minha resposta Bruno, eu não vejo problema também em deixar um tracinho ali, eu até colocaria assim o ideal né Felipe que brinca assim, mas é"
+      },
+      {
+        "startTime": 2617,
+        "endTime": 2622,
+        "speaker": "Bruna Bregalda",
+        "text": "para"
+      },
+      {
+        "startTime": 2622,
+        "endTime": 2623,
+        "speaker": "Diego Diehl",
+        "text": "Incorporadora não preencheu ou ruim para gente."
+      },
+      {
+        "startTime": 2623,
+        "endTime": 2627,
+        "speaker": "Bruna Bregalda",
+        "text": "ser"
+      },
+      {
+        "startTime": 2627,
+        "endTime": 2629,
+        "speaker": "Diego Diehl",
+        "text": "Mas eu deixo ele entrar assim."
+      },
+      {
+        "startTime": 2629,
+        "endTime": 2638,
+        "speaker": "Bruna Bregalda",
+        "text": "Ruim até para o nosso usuário que é o corretor, né? É tipo tentar pensar com a cabeça dele, na verdade é tipo ele vai querer ter a comissão. Para até ser um vá vou oferecer esse produto."
+      },
+      {
+        "startTime": 2638,
+        "endTime": 2643,
+        "speaker": "Diego Diehl",
+        "text": "Mas ele entrou em vários produtos em vários produtos."
+      },
+      {
+        "startTime": 2646,
+        "endTime": 2651,
+        "speaker": "Bruna Bregalda",
+        "text": "Enfim só dando 10 centavos. Em relação a comissão."
+      },
+      {
+        "startTime": 2651,
+        "endTime": 2652,
+        "speaker": "Neno Andrade",
+        "text": "Eu ia trazer os meus."
+      },
+      {
+        "startTime": 2652,
+        "endTime": 2657,
+        "speaker": "Diego Diehl",
+        "text": "Todos os demais devem estar preenchido. Não Amanda."
+      },
+      {
+        "startTime": 2657,
+        "endTime": 2672,
+        "speaker": "Neno Andrade",
+        "text": "Né só para complementar aqui rapidinho até a maioria sim e você não ocultar a informação do usuário porque pode passar a situação que é book do sistema que alguma falha Nossa e não necessariamente é."
+      },
+      {
+        "startTime": 2679,
+        "endTime": 2691,
+        "speaker": "Diego Diehl",
+        "text": "O ideal seria por um botãozinho, pergunta solicite para Incorporadora. Era só clica assim tu solicitar. Mas vai no meio para incorpora o corretor quer saber o corretor quer saber corretor quer saber."
+      },
+      {
+        "startTime": 2694,
+        "endTime": 2715,
+        "speaker": "Alejandro Olchik",
+        "text": "Lembrando que a gente vai ter score, né, eles são todas as coisas que vão poder contar com o score também me prejudicar o score. E se eu ficar para os usuários também e quando Incorporadora entra vai ver porque que escolhe tá baixo. Ah tá faltando comissão PF da comissão, PJ tá tudo isso aí poderia estar contabilizando."
+      },
+      {
+        "startTime": 2715,
+        "endTime": 2736,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu tenho dúvida só o dado de contato ali o telefone e e-mail ele viria minimizado, né? Ele tem que por padrão tem que clicar para ver aquele telefone e mensagem. Tá e eu tenho e tem um exemplo de como é que fica esse box para ser oficial. Eu acho que eu não vi quando ele não é Dr."
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2737,
+        "speaker": "Alejandro Olchik",
+        "text": "Quando não é da"
+      },
+      {
+        "startTime": 2740,
+        "endTime": 2750,
+        "speaker": "Neno Andrade",
+        "text": "É bem simples aqui, eu não cheguei a detalhar tanto eu só fiz um modelo para discutir mesmo, o que que necessariamente. Vale apresentar para cá, né? Eu tenho os critérios dos agros certinho definido para mim."
+      },
+      {
+        "startTime": 2752,
+        "endTime": 2770,
+        "speaker": "Alejandro Olchik",
+        "text": "Só para ter né? Um cara que não tem velho não vai ter promoção tá só para ficar alinhado, né? Então porque aí confunde a cabeça então o ponto aqui é. O tamanho da vergonha que a gente quer causar, né em relação a não nos contratar. Acho que essa é uma discussão que a gente tem que"
+      },
+      {
+        "startTime": 2771,
+        "endTime": 2774,
+        "speaker": "Bruna Bregalda",
+        "text": "o tour virtual tem o futuro virtual tem"
+      },
+      {
+        "startTime": 2777,
+        "endTime": 2805,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí vai ficar? Desabilitado só né? Ah, tá. Essa daí né para pensando em novas vendas para mim a discussão mais importante. Essa Como que o quão feio o quão O Alejandro falou vergonha, mas eu gosto de pesar o status reduzido, né? Tipo quanto da tem um status melhor DL pior nessa tela aí porque tem gente próxima que demora para entender como descobrir se é ideal ou não."
+      },
+      {
+        "startTime": 2805,
+        "endTime": 2828,
+        "speaker": "Diego Diehl",
+        "text": "Porque daí tem os DNS, né? E aí só dá para ver o meu jeito de ver o DN que tá YouTube todos habilitado. E cara um detalhe, né? Fica tudo igual aos alunos. Então esse daí eu queria dar um aproveitar para a gente dar uma mexida nada grave, mas olhar os textos olhar tudo assim, vocês querem fazer isso"
+      },
+      {
+        "startTime": 2828,
+        "endTime": 2829,
+        "speaker": "Alejandro Olchik",
+        "text": "Eu vou dizer o seguinte. Na minha opinião que eu vou fazer mais a diferença,"
+      },
+      {
+        "startTime": 2829,
+        "endTime": 2832,
+        "speaker": "Diego Diehl",
+        "text": "agora."
+      },
+      {
+        "startTime": 2832,
+        "endTime": 2856,
+        "speaker": "Alejandro Olchik",
+        "text": "não é tanto aqui é a gente botar o DL para o final da lista. E quando apareceu cara de pesquisa, entendeu? Ali quando o cara tá pesquisando e quando aparece o cardzinho tem é Sutil, né? Mas é na Amazon a gente vê isso, né? Quando o Mercado Livre que eles botam o sinalzinho alguma coisa no Carlos que dá credibilidade."
+      },
+      {
+        "startTime": 2856,
+        "endTime": 2858,
+        "speaker": "Alejandro Olchik",
+        "text": "E tem outros que não tem né? E aí tu tem um comparativo, né? Que a pessoa"
+      },
+      {
+        "startTime": 2858,
+        "endTime": 2863,
+        "speaker": "Diego Diehl",
+        "text": "Lá também, né?"
+      },
+      {
+        "startTime": 2863,
+        "endTime": 2878,
+        "speaker": "Alejandro Olchik",
+        "text": "Pô você não vai entrar escolha exato aqui até dá para brincar um pouco deixar mas eu acho que o forte mesmo vai ser a gente mexer no ordenamento e diferenciar os cara tá? Aí é que vai fazer diferença."
+      },
+      {
+        "startTime": 2881,
+        "endTime": 2885,
+        "speaker": "Diego Diehl",
+        "text": "Concordo, mas dá para a gente estar amanhã pesadinho aqui, né?"
+      },
+      {
+        "startTime": 2891,
+        "endTime": 2898,
+        "speaker": "Talita Campos",
+        "text": "a gente vai continuar mostrando o a sessão de empreendimentos similares lá embaixo para quem não é da"
+      },
+      {
+        "startTime": 2899,
+        "endTime": 2926,
+        "speaker": "Alejandro Olchik",
+        "text": "É na verdade até para a diferença de audiência. A minha ideia é jogar para cima, tá? Então a gente vai eu daria como uma estratégia de direcionamento de tráfego, isso vai entrar no Épico de diferenciação da airbl um dos retos vai ser mais um. Como estratégia de direcionar audiência para quem é pagante quem não apagante vai ter lá outros corretoras também se interessaram por esse implemento."
+      },
+      {
+        "startTime": 2926,
+        "endTime": 2937,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem que ver exatamente no topo onde vai ficar algo interessante de prototipar a janela. Bom ponto aí da Talita, né? Porque já começa a dar essas diferenças."
+      },
+      {
+        "startTime": 2945,
+        "endTime": 2949,
+        "speaker": "Neno Andrade",
+        "text": "Beleza. Vim deixar mais um último cenário."
+      },
+      {
+        "startTime": 2951,
+        "endTime": 2960,
+        "speaker": "Diego Diehl",
+        "text": "Uma dúvida Rapidão eu não entendi, o que que você falou dos Empreendimentos similares nos vai mexer em algo. atendimentos semelhantes"
+      },
+      {
+        "startTime": 2962,
+        "endTime": 2970,
+        "speaker": "Alejandro Olchik",
+        "text": "Vai continuar aparecendo. Mas vai ter mais destaque eles vão para vão aparecer porque hoje aparecem no final da página de um DL."
+      },
+      {
+        "startTime": 2972,
+        "endTime": 2973,
+        "speaker": "Diego Diehl",
+        "text": "também"
+      },
+      {
+        "startTime": 2973,
+        "endTime": 2988,
+        "speaker": "Alejandro Olchik",
+        "text": "A ideia é que apareçam mais no topo para tirar audiência do DL e para direcionar para a certo E é isso que o Nemo tem que protestar sugerir ali para ver como é que fica a gente vai chamar a tela."
+      },
+      {
+        "startTime": 2991,
+        "endTime": 3006,
+        "speaker": "Neno Andrade",
+        "text": "Sério, o último cenário aqui que é o produto fez já seria para quando eu tivesse mais de um contato, né? Mas de um responsável por aquele empreendimento e daí seria basicamente acrescentar mais uma sessão mais um card aqui, né de contato nessa listagem aqui."
+      },
+      {
+        "startTime": 3013,
+        "endTime": 3015,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode ter mais de dois contatos gente pode né?"
+      },
+      {
+        "startTime": 3019,
+        "endTime": 3021,
+        "speaker": "Talita Campos",
+        "text": "Atualmente não atualmente."
+      },
+      {
+        "startTime": 3021,
+        "endTime": 3035,
+        "speaker": "Alejandro Olchik",
+        "text": "Tecnicamente não é Tecnicamente é na me refiro na comercialmente. Tecnicamente, a gente tem um problema que a gente explica atacar provavelmente não vai colocar isso agora fico na prática comercialmente."
+      },
+      {
+        "startTime": 3036,
+        "endTime": 3041,
+        "speaker": "Amanda Santos",
+        "text": "Tem eles pedem inclusive eles gostariam de ter que Igual eu falei."
+      },
+      {
+        "startTime": 3042,
+        "endTime": 3043,
+        "speaker": "Neno Andrade",
+        "text": "um"
+      },
+      {
+        "startTime": 3043,
+        "endTime": 3061,
+        "speaker": "Amanda Santos",
+        "text": "Número eu não tenho para te passar agora, mas eu recebo constantemente essas perguntas está Tipo eu consigo colocar mais de um porque eu tenho vários gerentes, né? Às vezes não é por produto que ele separou gerentes por região. Enfim aí vários direitos de trabalho, meus produtos tem variações."
+      },
+      {
+        "startTime": 3063,
+        "endTime": 3092,
+        "speaker": "Alejandro Olchik",
+        "text": "Tá mas o ponto seguinte, imagina que vocês têm que implementar uma interface aqui, quantos cargos de contato a gente teria que suportar tem que ser infinitos. Uma incorporadora pode vir com 50 contatos comerciais não pode? Ser o máximo porque dois esse layout ainda funciona botar teja não funciona mais a gente vai tirar o CTA da visibilidade, entendeu? E aí já começa a ficar ruim assistindo os Interface para múltiplos contatos, a gente tem que pensar em outro em outro outro estilo de interface."
+      },
+      {
+        "startTime": 3093,
+        "endTime": 3101,
+        "speaker": "Bruna Bregalda",
+        "text": "Que eu vejo a briga é mais por dois mesmo, tipo, tira do fulano me coloca, tipo é meio por dois mesmo tipo dois que cuidam são dois gerentes de parcerias."
+      },
+      {
+        "startTime": 3102,
+        "endTime": 3113,
+        "speaker": "Amanda Santos",
+        "text": "Eu acho que dois é um ótimo começo, tá? Eu acho que vai Raramente eu acho que vai ter alguém que vai querer mais mas acho que dois já ia suportar já as demandas que ele ficou perguntando se consegue colocar outro."
+      },
+      {
+        "startTime": 3115,
+        "endTime": 3120,
+        "speaker": "Bruna Bregalda",
+        "text": "A curva que ele fazia hoje é editar e botar o nome das duas pessoas e os dois telefones, né? Essa é a curva que hoje é uma incorporadora faz."
+      },
+      {
+        "startTime": 3121,
+        "endTime": 3132,
+        "speaker": "Amanda Santos",
+        "text": "Eu não cheguei a ver isso não, às vezes eles colocam o número genérico. Pelo menos eles fazem tipo. Aí eles fazem ao invés de encaminhar para um gerente. Eles fazem o número de triagem. Tipo uma recepcionista uma assistente."
+      },
+      {
+        "startTime": 3134,
+        "endTime": 3140,
+        "speaker": "Bruna Bregalda",
+        "text": "É Eu já peguei casa que eles botam bruna/banda e bota o meu número bota o teu número sabe que é a forma que eles acharam de botar duas pessoas."
+      },
+      {
+        "startTime": 3144,
+        "endTime": 3153,
+        "speaker": "Alejandro Olchik",
+        "text": "Outra outra outra poderia ter uma outra interface aqui, né? E mostra um e a pessoa pode ver outros sinalizando que tem e rotaciona aleatória, né? Entre"
+      },
+      {
+        "startTime": 3153,
+        "endTime": 3154,
+        "speaker": "Bruna Bregalda",
+        "text": "Ah eu ia dizer porque isso não é uma briga do tipo que primeiro."
+      },
+      {
+        "startTime": 3154,
+        "endTime": 3185,
+        "speaker": "Alejandro Olchik",
+        "text": "aí limita o tamanho da interface, né a visibilidade porque aí sim tem uma tela menor eu tenho eu tenho medo de não aparecer as ações, entendeu? Quando algo empreendimento numa tela menor especialmente no tablet aí vai ver só o contato e não vai ver que tem agendar visita enviar proposta, né? Então eu tentaria deixar um e poder trocar o contato rotaciona e também não tem a limitação de Quantos contatos se quiser botar uma nota vai ficar rotacionando entre eles e se quiser trocar a troca por outro, né? Vê outro."
+      },
+      {
+        "startTime": 3185,
+        "endTime": 3190,
+        "speaker": "Bruna Bregalda",
+        "text": "E se botasse essa parte em cima o agendar visita para cima e botar os contatos para baixo."
+      },
+      {
+        "startTime": 3192,
+        "endTime": 3193,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode ser também."
+      },
+      {
+        "startTime": 3194,
+        "endTime": 3205,
+        "speaker": "Guilherme Andrade Lacerda",
+        "text": "E se colocar os contatos como escravo horizontal? Em vez debaixo quando for a visualização. responsável"
+      },
+      {
+        "startTime": 3208,
+        "endTime": 3214,
+        "speaker": "Alejandro Olchik",
+        "text": "Poderia ser até lá os memórias tem um padrão diferente com aquela sua marca."
+      },
+      {
+        "startTime": 3217,
+        "endTime": 3263,
+        "speaker": "Diego Diehl",
+        "text": "Normalmente o que daria era para deixar só um aberto, né? Nome contato, por exemplo, esse caso ele não aconteceria. Tá um Sempre quando você abre um fecha, o outro já reduz o tamanho. E não dá para fazer um retângulo Zinho vertical para esse corolar dentro se tiver mais. Seria o natural, né? Ou uma última coisa aqui aquele a partir de 680 está bem solto, né? Tipo? Não conversa com esse com essa área aí, né? Tipo assim concordam com isso, né? Assim vamos tirar ou não, não sei é só não conversa com a área, né?"
+      },
+      {
+        "startTime": 3263,
+        "endTime": 3273,
+        "speaker": "Alejandro Olchik",
+        "text": "Não achei mas só dá só para marcar no ponto aqui. Aproveita que tem mais divergência. Eu acho que é o preço é super importante, né? Tipo é um dos pontos de maior"
+      },
+      {
+        "startTime": 3273,
+        "endTime": 3277,
+        "speaker": "Guilherme Andrade Lacerda",
+        "text": "tipo assim"
+      },
+      {
+        "startTime": 3277,
+        "endTime": 3289,
+        "speaker": "Alejandro Olchik",
+        "text": "destaque ali na listagem tá e enfim, só vamos fazer uma parte. Acho que a Talita tá com a mão levantada. A gente já volta para isso, pode ser Diego. Aí a gente vê a questão do preço."
+      },
+      {
+        "startTime": 3291,
+        "endTime": 3324,
+        "speaker": "Talita Campos",
+        "text": "É a minha dúvida em relação às ações que tem ali porque tem dois contatos sendo exibidos e tem ali chamar no WhatsApp e enviar e-mail que imaginam serem reações referentes a contato. se eu tô vendo Marcos e Paula, né e clico em chamar no WhatsApp, eu vou chamar quem enviar e-mail, eu vou enviar para quem Essas duas ações pelo menos as duas né? Eu vejo que são referentes a um contato específico então no caso elas tenham que se repetir só que aí Imaginando assim os dois botões repetidos ali não fica tão."
+      },
+      {
+        "startTime": 3326,
+        "endTime": 3327,
+        "speaker": "Neno Andrade",
+        "text": "Isso foi?"
+      },
+      {
+        "startTime": 3327,
+        "endTime": 3329,
+        "speaker": "Talita Campos",
+        "text": "agradável"
+      },
+      {
+        "startTime": 3329,
+        "endTime": 3330,
+        "speaker": "Neno Andrade",
+        "text": "Foi um teste só a Talita."
+      },
+      {
+        "startTime": 3335,
+        "endTime": 3338,
+        "speaker": "Alejandro Olchik",
+        "text": "Boa tarde excelente ponto. Amanda"
+      },
+      {
+        "startTime": 3340,
+        "endTime": 3359,
+        "speaker": "Amanda Santos",
+        "text": "Massa de cuidado na questão de ordenamento que que aparece aberto que não aparece porque eu tenho certeza que isso aqui vai ser um motivo de briga entre os direitos e tipo. Ah, eu quero aparecer primeiro. Ah não. O meu tem que aparecer aberto."
+      },
+      {
+        "startTime": 3361,
+        "endTime": 3367,
+        "speaker": "Alejandro Olchik",
+        "text": "A ideia é fazer esse Vamos ver que vai vir de interface a gente decide depois dos critérios. Bruna"
+      },
+      {
+        "startTime": 3370,
+        "endTime": 3387,
+        "speaker": "Bruna Bregalda",
+        "text": "É nesse ponto a Talita tipo se ele ficasse lá em cima aí tu botaste a chamar no WhatsApp aí Abrir tu quer chamar no WhatsApp? Vai abrir os dois contatos e aí tu vai estar os dois na listinha, a gente vai poder selecionar, qual que tu quer, mas abre os dois não fica um minimizado que é o que é o ponto que a Amanda faz que realmente é o que vai dar muito atrito."
+      },
+      {
+        "startTime": 3387,
+        "endTime": 3404,
+        "speaker": "Bruna Bregalda",
+        "text": "Porque que mostra o dela aí tu vai dizer não mas aqui na próxima vez vou mostrar o teu cara, não sabe não vai entender que na próxima vez vou mostrar o teoria vai ficar toda hora ali tentando testando como corretor para ver se vai mostrar o dele mesmo e acho que isso é um atrito bem grande então se botar tipo a jantar visita, tu escolhe com quem tu quer jantar aparece o nome do Marcos e da Paula."
+      },
+      {
+        "startTime": 3404,
+        "endTime": 3407,
+        "speaker": "Bruna Bregalda",
+        "text": "Não é tipo aparece um e o outro tá minimizado. Poderia ser assim também."
+      },
+      {
+        "startTime": 3408,
+        "endTime": 3413,
+        "speaker": "Alejandro Olchik",
+        "text": "Até porque quando mostra um se vai rotacionar a tendência é que o mesmo fique para o mesmo usuário, ele tem que jogar com outros vários vários."
+      },
+      {
+        "startTime": 3413,
+        "endTime": 3431,
+        "speaker": "Bruna Bregalda",
+        "text": "é Mas acho que o foco que a gente tem que pensar para o nosso lado realmente trazer esses botões para cima para que ele realmente, clique para que ele chame para que ele a gente para que ele faça tudo, mas na hora do contato apareceu os dois contatos não não Minimizar um porque acho que é um atrito Grande para principalmente para dar."
+      },
+      {
+        "startTime": 3435,
+        "endTime": 3456,
+        "speaker": "Talita Campos",
+        "text": "É só uma coisa em relação a esse abrir o contato automaticamente, a gente tem que pensar também na nossa meta que a de visualização de contato. Se a gente abre automaticamente a gente vai estar vamos assim contabilizando como uma ação do usuário a visualização dos dois, mas ele não não foi lá apolgação dele abrir o contato visualizou."
+      },
+      {
+        "startTime": 3456,
+        "endTime": 3459,
+        "speaker": "Talita Campos",
+        "text": "Então a gente tem que pensar nessa questão também."
+      },
+      {
+        "startTime": 3461,
+        "endTime": 3477,
+        "speaker": "Alejandro Olchik",
+        "text": "Beleza, bom ponto o preço esse vocês acham que tá ruim ali gente que não casa com informações de contato. Eu poderia ser movido para para a parte da esquerda, né? Ou aqui ele vai ficar é um valor fixo que vai ficar rolando."
+      },
+      {
+        "startTime": 3479,
+        "endTime": 3480,
+        "speaker": "Talita Campos",
+        "text": "Eu acho que é um chamativo."
+      },
+      {
+        "startTime": 3480,
+        "endTime": 3481,
+        "speaker": "Diego Diehl",
+        "text": "Vou olhar como é que está no portão."
+      },
+      {
+        "startTime": 3482,
+        "endTime": 3504,
+        "speaker": "Talita Campos",
+        "text": "Eu acho que é um chamativo prepara também ter uma ideia de média de preço, aliás mínimo de preço daquele empreendimento ali. Sei que uma informação de destaque por empreendimento ele vai estar rolando do lado de cá e vai perder a informação do preço, né? Ele vai estar lá no final vendo fotos é no sei lá o que e não vai ter informação de preço."
+      },
+      {
+        "startTime": 3504,
+        "endTime": 3519,
+        "speaker": "Talita Campos",
+        "text": "Então você olhar eu quero essa estrutura aqui me conquistou, mas deixa eu ver qual é o preço, eu não tenho que rolar até lá em cima para poder dar uma olhada em preço e também achar contato. Enfim essas coisas. Para mim não segue um problema."
+      },
+      {
+        "startTime": 3520,
+        "endTime": 3551,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem ali embaixo no finalzinho última atualização 5 horas atrás. Então tem outro dado que a gente está deixando o tempo todo visível ali também. Que é a última atualização são questões que a gente teria que bater né? A gente quer deixar esses dados fixos nesse Box, né? Preço metragem por metro quadrado e última atualização para ficar o tempo todo é o que a gente queria teria que tem intenção de querer reforçar, né em relação ao empreendimento."
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3554,
+        "speaker": "Bruna Bregalda",
+        "text": "Confesso que eu nem vi essa última atualização lá embaixo, eu nem vi essa"
+      },
+      {
+        "startTime": 3554,
+        "endTime": 3556,
+        "speaker": "Diego Diehl",
+        "text": "Não posso compartilhar aqui rapidinho."
+      },
+      {
+        "startTime": 3557,
+        "endTime": 3576,
+        "speaker": "Bruna Bregalda",
+        "text": "informação lá embaixo, desculpa, teria que ser junto com o preço ali em cima porque a atualização do normalmente é o que eles querem do preço, né? Que é o que a gente mais atualiza também. É então ali embaixo, eu não vi teria que ser tipo. Ali a partir de logo embaixo é a última atualização e tal."
+      },
+      {
+        "startTime": 3581,
+        "endTime": 3582,
+        "speaker": "Alejandro Olchik",
+        "text": "Quer compartilhar aí pode compartilhar?"
+      },
+      {
+        "startTime": 3582,
+        "endTime": 3604,
+        "speaker": "Diego Diehl",
+        "text": "Rapidão tava batendo o olho no eu gosto dele ao do portal porque do portal ficou bem bom. Para mim me chamaram duas dois pontos de atenção aqui do portal. É um olha como é que ficou o preço aqui galera, falou bastante aqui essa atualização super legal tirar né? E colocar lá para baixo."
+      },
+      {
+        "startTime": 3604,
+        "endTime": 3626,
+        "speaker": "Diego Diehl",
+        "text": "A entrega que fica facilitada aqui, né. A visualização mas o preço foi para cá? Enfim, se não for trocada à direita. Eu acho que o que o Neno tava mostrando era por causa do figma que é o mesmo quadrado teu mas não sei se vai estar marcada. Esse quadrado com o preço lá em cima."
+      },
+      {
+        "startTime": 3626,
+        "endTime": 3634,
+        "speaker": "Diego Diehl",
+        "text": "Aí não vejo problema também tá gente? Se mais gente não viu o problema acho que é mais fácil deixar assim."
+      },
+      {
+        "startTime": 3636,
+        "endTime": 3658,
+        "speaker": "Alejandro Olchik",
+        "text": "Tem um detalhe da atualização também, né? Que hoje é um atrito isso vai aparecer mais, né? A percepção de baixa atualização e a reclamação de atualização, realmente tá? Então tem que ver o como a gente quer mostrar e onde a gente quer mostrar eu acho que essa nosso tempo se esgotou agora, mas que vai ser um tema que a gente vai ter que discutir com um pouco mais de profundidade ali e eu acho que o time de operações."
+      },
+      {
+        "startTime": 3658,
+        "endTime": 3666,
+        "speaker": "Alejandro Olchik",
+        "text": "Já identificou algumas coisas que poderia fazer diferente em relação a atualização daqui a pouco a gente leva isso para outra reunião, aí depois a gente volta para cá, né?"
+      },
+      {
+        "startTime": 3668,
+        "endTime": 3688,
+        "speaker": "Diego Diehl",
+        "text": "Olha Só aproveitando o gancho, acho que a mesma resposta que você deu lá para mim que é o maior minha percepção, é que o maior impacto da taxa da atualização ele é dado lá na tela da listagem de empreendimentos e tá muito em destaque lá tantas horas a tanto acho que lá é também o local tá? Não tanto na página do empreendimento."
+      },
+      {
+        "startTime": 3689,
+        "endTime": 3704,
+        "speaker": "Alejandro Olchik",
+        "text": "Pode ser? Pessoal fechamos. Show. Obrigado super produtivo Parabéns Neno, acho que estão avançando bem. Até a próxima e boa sexta."
+      },
+      {
+        "startTime": 3705,
+        "endTime": 3706,
+        "speaker": "Neno Andrade",
+        "text": "Fala pessoal foi mais."
+      },
+      {
+        "startTime": 3709,
+        "endTime": 3710,
+        "speaker": "Maria Dandara da Silva Pereira",
+        "text": "Tchau, tchau pessoal."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 239,
+    "speakers": [
+      "Alejandro Olchik",
+      "Maria Dandara da Silva Pereira",
+      "Neno Andrade",
+      "Marcelo Rodrigues",
+      "Amanda Santos",
+      "Gustavo Torres",
+      "Guilherme Andrade Lacerda",
+      "Bruna Bregalda",
+      "Diego Diehl",
+      "Talita Campos"
+    ],
+    "total_words_estimate": 7070,
+    "duration_start": 0,
+    "duration_end": 3710
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69a1ac85574655001355f4fb",
+        "timestamp": 141,
+        "text": "Mensagens devem incluir últimos quatro dígitos do contato do corretor para instigar",
+        "topicId": "69a1ac85574655001355f4e7"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f7",
+        "timestamp": 189,
+        "text": "Usuário sem permissão recebe mensagem informando restrição e opção de solicitar acesso",
+        "topicId": "69a1ac85574655001355f4e6"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f6",
+        "timestamp": 432,
+        "text": "Editor não consegue alterar responsável, replicando permissões da web",
+        "topicId": "69a1ac85574655001355f4e6"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f8",
+        "timestamp": 490,
+        "text": "Muitos clientes não possuem administrador definido, criando risco operacional",
+        "topicId": "69a1ac85574655001355f4e6"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f9",
+        "timestamp": 508,
+        "text": "Imobiliárias com exclusividade devem ser configuradas como leitoras, não editoras",
+        "topicId": "69a1ac85574655001355f4e6"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4fa",
+        "timestamp": 633,
+        "text": "E-mails planejados semanalmente compilando dados de visibilidade de empreendimentos",
+        "topicId": "69a1ac85574655001355f4e7"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f0",
+        "timestamp": 688,
+        "text": "Neno validar regra de mais de 10 acessos para determinar frequência de envio",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4fd",
+        "timestamp": 801,
+        "text": "Três listagens de corretores: recentes no app, data de corretores e data de desempenho",
+        "topicId": "69a1ac85574655001355f4e8"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4ff",
+        "timestamp": 1019,
+        "text": "Título alterado para \"Acessos Recentes\" para direcionar comunicação a algo recente",
+        "topicId": "69a1ac85574655001355f4e8"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f512",
+        "timestamp": 1175,
+        "text": "Redirecionamento para web requer login automático para melhor fluidez",
+        "topicId": "69a1ac85574655001355f4ee"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4fc",
+        "timestamp": 1236,
+        "text": "Chamada para levar usuário a baixar aplicativo e visualizar detalhes",
+        "topicId": "69a1ac85574655001355f4e7"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f514",
+        "timestamp": 1275,
+        "text": "Alternativa de não mostrar dados de corretor se redirecionamento for necessário",
+        "topicId": "69a1ac85574655001355f4ee"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f500",
+        "timestamp": 1462,
+        "text": "Quantidade de corretores acessando deve aparecer em destaque sem minimizar nomes",
+        "topicId": "69a1ac85574655001355f4e8"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f501",
+        "timestamp": 1497,
+        "text": "Métricas compiladas de todos empreendimentos do anunciante nos primeiros 90 dias",
+        "topicId": "69a1ac85574655001355f4e9"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f502",
+        "timestamp": 1529,
+        "text": "Consulta limitada a 90 dias sem permitir usuário editar período inicialmente",
+        "topicId": "69a1ac85574655001355f4e9"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f1",
+        "timestamp": 1723,
+        "text": "Neno revisar nomenclatura de abas de corretores para maior clareza",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f513",
+        "timestamp": 1790,
+        "text": "Página simples no aplicativo preferível a redirecionamento para web",
+        "topicId": "69a1ac85574655001355f4ee"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f503",
+        "timestamp": 2012,
+        "text": "CTA para incentivar contratação de plano avançado na aba de audiência",
+        "topicId": "69a1ac85574655001355f4e9"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4ef",
+        "timestamp": 2060,
+        "text": "Neno ajustar fluxo de atribuição de responsável para cenários sem administrador",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4fe",
+        "timestamp": 2104,
+        "text": "Aba \"Meus Corretores\" na web mostrará corretores atribuídos no aplicativo",
+        "topicId": "69a1ac85574655001355f4e8"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f504",
+        "timestamp": 2137,
+        "text": "Tabela digital destacada com botão primário em vez de secundário",
+        "topicId": "69a1ac85574655001355f4ea"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f505",
+        "timestamp": 2146,
+        "text": "Tipologias e características reordenadas para posição superior na tela",
+        "topicId": "69a1ac85574655001355f4ea"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f506",
+        "timestamp": 2155,
+        "text": "Vídeo trazido para cima seguindo ordenação de informações",
+        "topicId": "69a1ac85574655001355f4ea"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f5",
+        "timestamp": 2249,
+        "text": "Talita validar se informações sem dados devem ser ocultadas ou exibidas com tracinho",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f508",
+        "timestamp": 2356,
+        "text": "Campos sem dados devem exibir tracinho para indicar possibilidade de preenchimento",
+        "topicId": "69a1ac85574655001355f4ea"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f509",
+        "timestamp": 2442,
+        "text": "Contatos atribuídos ao usuário devem ser visíveis sem necessidade de clicar",
+        "topicId": "69a1ac85574655001355f4eb"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f507",
+        "timestamp": 2483,
+        "text": "Informações comerciais como comissão devem exibir tracinho quando zeradas",
+        "topicId": "69a1ac85574655001355f4ea"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50d",
+        "timestamp": 2832,
+        "text": "Corretores não pagantes devem aparecer no final da listagem com menos destaque",
+        "topicId": "69a1ac85574655001355f4ec"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50f",
+        "timestamp": 2849,
+        "text": "Sinalização visual de credibilidade para diferenciar corretores pagantes de não pagantes",
+        "topicId": "69a1ac85574655001355f4ec"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50e",
+        "timestamp": 2902,
+        "text": "Empreendimentos similares devem aparecer no topo para direcionar tráfego a pagantes",
+        "topicId": "69a1ac85574655001355f4ec"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f3",
+        "timestamp": 2905,
+        "text": "Alejandro definir critérios de diferenciação visual entre corretores pagantes e não pagantes",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50a",
+        "timestamp": 3102,
+        "text": "Suporte para até dois contatos com interface de rotação entre eles",
+        "topicId": "69a1ac85574655001355f4eb"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f2",
+        "timestamp": 3172,
+        "text": "Neno detalhar cenário de múltiplos contatos e interface de rotação",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50b",
+        "timestamp": 3370,
+        "text": "Ações de WhatsApp e e-mail devem aparecer no topo com seleção de contato",
+        "topicId": "69a1ac85574655001355f4eb"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f50c",
+        "timestamp": 3376,
+        "text": "Ambos contatos devem aparecer abertos na seleção, sem minimizar um deles",
+        "topicId": "69a1ac85574655001355f4eb"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f4f4",
+        "timestamp": 3535,
+        "text": "Alejandro revisar posicionamento de preço e última atualização na tela de detalhes",
+        "topicId": "69a1ac85574655001355f4e5"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f510",
+        "timestamp": 3557,
+        "text": "Última atualização deve aparecer junto ao preço para facilitar visualização",
+        "topicId": "69a1ac85574655001355f4ed"
+      },
+      {
+        "segmentId": "69a1ac85574655001355f511",
+        "timestamp": 3641,
+        "text": "Percepção de baixa atualização requer discussão aprofundada sobre apresentação",
+        "topicId": "69a1ac85574655001355f4ed"
+      }
+    ],
+    "markdownContent": "## 1. Itens de Ação\n\n- [ ] Neno ajustar fluxo de atribuição de responsável para cenários sem administrador [34:20](/app/meetings/69a19c4b7ac8c80013e360e1?t=2060)\n- [ ] Neno validar regra de mais de 10 acessos para determinar frequência de envio [11:28](/app/meetings/69a19c4b7ac8c80013e360e1?t=688)\n- [ ] Neno revisar nomenclatura de abas de corretores para maior clareza [28:43](/app/meetings/69a19c4b7ac8c80013e360e1?t=1723)\n- [ ] Neno detalhar cenário de múltiplos contatos e interface de rotação [52:52](/app/meetings/69a19c4b7ac8c80013e360e1?t=3172)\n- [ ] Alejandro definir critérios de diferenciação visual entre corretores pagantes e não pagantes [48:25](/app/meetings/69a19c4b7ac8c80013e360e1?t=2905)\n- [ ] Alejandro revisar posicionamento de preço e última atualização na tela de detalhes [58:55](/app/meetings/69a19c4b7ac8c80013e360e1?t=3535)\n- [ ] Talita validar se informações sem dados devem ser ocultadas ou exibidas com tracinho [37:29](/app/meetings/69a19c4b7ac8c80013e360e1?t=2249)\n\n## 2. Permissões e Controle de Acesso\n\n- Editor não consegue alterar responsável, replicando permissões da web [07:12](/app/meetings/69a19c4b7ac8c80013e360e1?t=432)\n- Usuário sem permissão recebe mensagem informando restrição e opção de solicitar acesso [03:09](/app/meetings/69a19c4b7ac8c80013e360e1?t=189)\n- Muitos clientes não possuem administrador definido, criando risco operacional [08:10](/app/meetings/69a19c4b7ac8c80013e360e1?t=490)\n- Imobiliárias com exclusividade devem ser configuradas como leitoras, não editoras [08:28](/app/meetings/69a19c4b7ac8c80013e360e1?t=508)\n\n## 3. Comunicação e Frequência de Envio\n\n- E-mails planejados semanalmente compilando dados de visibilidade de empreendimentos [10:33](/app/meetings/69a19c4b7ac8c80013e360e1?t=633)\n- Mensagens devem incluir últimos quatro dígitos do contato do corretor para instigar [02:21](/app/meetings/69a19c4b7ac8c80013e360e1?t=141)\n- Chamada para levar usuário a baixar aplicativo e visualizar detalhes [20:36](/app/meetings/69a19c4b7ac8c80013e360e1?t=1236)\n\n## 4. Listagem de Corretores\n\n- Três listagens de corretores: recentes no app, data de corretores e data de desempenho [13:21](/app/meetings/69a19c4b7ac8c80013e360e1?t=801)\n- Aba \"Meus Corretores\" na web mostrará corretores atribuídos no aplicativo [35:04](/app/meetings/69a19c4b7ac8c80013e360e1?t=2104)\n- Título alterado para \"Acessos Recentes\" para direcionar comunicação a algo recente [16:59](/app/meetings/69a19c4b7ac8c80013e360e1?t=1019)\n- Quantidade de corretores acessando deve aparecer em destaque sem minimizar nomes [24:22](/app/meetings/69a19c4b7ac8c80013e360e1?t=1462)\n\n## 5. Aba de Audiência\n\n- Métricas compiladas de todos empreendimentos do anunciante nos primeiros 90 dias [24:57](/app/meetings/69a19c4b7ac8c80013e360e1?t=1497)\n- Consulta limitada a 90 dias sem permitir usuário editar período inicialmente [25:29](/app/meetings/69a19c4b7ac8c80013e360e1?t=1529)\n- CTA para incentivar contratação de plano avançado na aba de audiência [33:32](/app/meetings/69a19c4b7ac8c80013e360e1?t=2012)\n\n## 6. Detalhes do Empreendimento\n\n- Tabela digital destacada com botão primário em vez de secundário [35:37](/app/meetings/69a19c4b7ac8c80013e360e1?t=2137)\n- Tipologias e características reordenadas para posição superior na tela [35:46](/app/meetings/69a19c4b7ac8c80013e360e1?t=2146)\n- Vídeo trazido para cima seguindo ordenação de informações [35:55](/app/meetings/69a19c4b7ac8c80013e360e1?t=2155)\n- Informações comerciais como comissão devem exibir tracinho quando zeradas [41:23](/app/meetings/69a19c4b7ac8c80013e360e1?t=2483)\n- Campos sem dados devem exibir tracinho para indicar possibilidade de preenchimento [39:16](/app/meetings/69a19c4b7ac8c80013e360e1?t=2356)\n\n## 7. Contatos e Responsáveis\n\n- Contatos atribuídos ao usuário devem ser visíveis sem necessidade de clicar [40:42](/app/meetings/69a19c4b7ac8c80013e360e1?t=2442)\n- Suporte para até dois contatos com interface de rotação entre eles [51:42](/app/meetings/69a19c4b7ac8c80013e360e1?t=3102)\n- Ações de WhatsApp e e-mail devem aparecer no topo com seleção de contato [56:10](/app/meetings/69a19c4b7ac8c80013e360e1?t=3370)\n- Ambos contatos devem aparecer abertos na seleção, sem minimizar um deles [56:16](/app/meetings/69a19c4b7ac8c80013e360e1?t=3376)\n\n## 8. Diferenciação de Corretores Pagantes\n\n- Corretores não pagantes devem aparecer no final da listagem com menos destaque [47:12](/app/meetings/69a19c4b7ac8c80013e360e1?t=2832)\n- Empreendimentos similares devem aparecer no topo para direcionar tráfego a pagantes [48:22](/app/meetings/69a19c4b7ac8c80013e360e1?t=2902)\n- Sinalização visual de credibilidade para diferenciar corretores pagantes de não pagantes [47:29](/app/meetings/69a19c4b7ac8c80013e360e1?t=2849)\n\n## 9. Informações de Preço e Atualização\n\n- Preço deve permanecer fixo e visível durante rolagem de informações [58:55](/app/meetings/69a19c4b7ac8c80013e360e1?t=3535)\n- Última atualização deve aparecer junto ao preço para facilitar visualização [59:17](/app/meetings/69a19c4b7ac8c80013e360e1?t=3557)\n- Percepção de baixa atualização requer discussão aprofundada sobre apresentação [01:00:41](/app/meetings/69a19c4b7ac8c80013e360e1?t=3641)\n\n## 10. Integração Web e Aplicativo\n\n- Redirecionamento para web requer login automático para melhor fluidez [19:35](/app/meetings/69a19c4b7ac8c80013e360e1?t=1175)\n- Página simples no aplicativo preferível a redirecionamento para web [29:50](/app/meetings/69a19c4b7ac8c80013e360e1?t=1790)\n- Alternativa de não mostrar dados de corretor se redirecionamento for necessário [21:15](/app/meetings/69a19c4b7ac8c80013e360e1?t=1275)",
+    "topics": [
+      {
+        "id": "69a1ac85574655001355f4e5",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4e6",
+        "order": 2,
+        "title": "Permissões e Controle de Acesso",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4e7",
+        "order": 3,
+        "title": "Comunicação e Frequência de Envio",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4e8",
+        "order": 4,
+        "title": "Listagem de Corretores",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4e9",
+        "order": 5,
+        "title": "Aba de Audiência",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4ea",
+        "order": 6,
+        "title": "Detalhes do Empreendimento",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4eb",
+        "order": 7,
+        "title": "Contatos e Responsáveis",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4ec",
+        "order": 8,
+        "title": "Diferenciação de Corretores Pagantes",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4ed",
+        "order": 9,
+        "title": "Informações de Preço e Atualização",
+        "summary": ""
+      },
+      {
+        "id": "69a1ac85574655001355f4ee",
+        "order": 10,
+        "title": "Integração Web e Aplicativo",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 38,
+    "topic_count": 10,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69a1ac85574655001355f4e5",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4e6",
+      "order": 2,
+      "title": "Permissões e Controle de Acesso",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4e7",
+      "order": 3,
+      "title": "Comunicação e Frequência de Envio",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4e8",
+      "order": 4,
+      "title": "Listagem de Corretores",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4e9",
+      "order": 5,
+      "title": "Aba de Audiência",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4ea",
+      "order": 6,
+      "title": "Detalhes do Empreendimento",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4eb",
+      "order": 7,
+      "title": "Contatos e Responsáveis",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4ec",
+      "order": 8,
+      "title": "Diferenciação de Corretores Pagantes",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4ed",
+      "order": 9,
+      "title": "Informações de Preço e Atualização",
+      "summary": ""
+    },
+    {
+      "id": "69a1ac85574655001355f4ee",
+      "order": 10,
+      "title": "Integração Web e Aplicativo",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:51:28.636980+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:51:28.636980+00:00"
+}

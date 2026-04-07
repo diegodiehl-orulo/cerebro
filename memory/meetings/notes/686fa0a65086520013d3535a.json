@@ -1,0 +1,295 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "686fb32b8c99cc0013628e4e",
+      "timestamp": 195,
+      "text": "Sistema de infraestrutura recebeu mudança importante, com novo domínio api.z2a.com.br.",
+      "topicId": "686fb32b8c99cc0013628e44"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e4b",
+      "timestamp": 290,
+      "text": "Guilherme deve priorizar resolução do tracking de eventos pendente com Alejandro.",
+      "topicId": "686fb32b8c99cc0013628e43"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e4f",
+      "timestamp": 368,
+      "text": "Equipe realizou grande mudança na infraestrutura de serviços e banco de dados.",
+      "topicId": "686fb32b8c99cc0013628e44"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e50",
+      "timestamp": 454,
+      "text": "Infraestrutura atual permite deploy flexível em múltiplas nuvens como Magalu, Claudia e AWS.",
+      "topicId": "686fb32b8c99cc0013628e44"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e51",
+      "timestamp": 544,
+      "text": "Desafio atual é gerenciar volume de transações bancárias e reduzir custos de infraestrutura.",
+      "topicId": "686fb32b8c99cc0013628e44"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e69",
+      "timestamp": 697,
+      "text": "Alejandro solicita documentação e sugere encontro informal para aproximação entre times",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6a",
+      "timestamp": 747,
+      "text": "Proposta de reunião técnica rápida durante horário de almoço para compartilhar evoluções",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e52",
+      "timestamp": 838,
+      "text": "Guilherme apresenta nova tela de organizações com funcionalidades recentemente desenvolvidas",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e53",
+      "timestamp": 920,
+      "text": "Nova funcionalidade permite listar contatos, oportunidades e atividades por organização",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e54",
+      "timestamp": 1178,
+      "text": "Novo recurso de score implementado para listar e pontuar parceiros de uma imobiliária.",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e55",
+      "timestamp": 1342,
+      "text": "Destaque para identificação do parceiro responsável em cada organização na lista.",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e56",
+      "timestamp": 1384,
+      "text": "Comunicação e atividades serão direcionadas individualmente, não à organização como um todo",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e57",
+      "timestamp": 1522,
+      "text": "Proposta de vincular todas as atividades ao responsável principal do projeto.",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e58",
+      "timestamp": 1630,
+      "text": "Esclarecido que a data no sistema está relacionada ao cadastro do cliente, não ao score.",
+      "topicId": "686fb32b8c99cc0013628e45"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e59",
+      "timestamp": 1981,
+      "text": "Script de empreendimento será usado para responder solicitações básicas de informações.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5a",
+      "timestamp": 2007,
+      "text": "Configurações de script foram removidas. Agora marcação de intenção no artigo será suficiente.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5b",
+      "timestamp": 2057,
+      "text": "GPT gerará scripts de resposta, Memorial enviará imagens, Diego trabalhará em abordagem inteligente",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5c",
+      "timestamp": 2124,
+      "text": "Equipe discute possibilidade de enviar pit padrão para o mercado através do memorial descritivo.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5d",
+      "timestamp": 2161,
+      "text": "Nova feature visa autonomia do sistema para identificar e responder dinamicamente em conversas",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5e",
+      "timestamp": 2195,
+      "text": "Diego busca manter informações padrão no contexto de geração de respostas.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6b",
+      "timestamp": 2238,
+      "text": "Junior sugere demonstração prática das mudanças desenvolvidas.",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6c",
+      "timestamp": 2245,
+      "text": "Rodrigo ainda não preparou demonstração, planeja combinar com Diego.",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6d",
+      "timestamp": 2281,
+      "text": "Diego planeja treinar envio de arquivos, nova configuração tornará processo mais eficiente",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6e",
+      "timestamp": 2340,
+      "text": "Próximo passo: desenvolver autoatendimento autônomo e calibrar desempenho do sistema",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e6f",
+      "timestamp": 2409,
+      "text": "Diego quer confirmar se atribuição de organizações para corretores será campo dinâmico",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e70",
+      "timestamp": 2541,
+      "text": "Alejandro interessado em entender captura automática de intenções para diferentes tipos de arquivos",
+      "topicId": "686fb32b8c99cc0013628e49"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e5f",
+      "timestamp": 2590,
+      "text": "Memorial texto agora mais inteligente, capaz de capturar contexto geral com maior precisão.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e61",
+      "timestamp": 2696,
+      "text": "Equipe está criando qualificação geral e data Lake único para centralizar informações de corretores",
+      "topicId": "686fb32b8c99cc0013628e47"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e62",
+      "timestamp": 2896,
+      "text": "Eduardo sugere criar score unificado para perfil de busca e atividade de corretores",
+      "topicId": "686fb32b8c99cc0013628e47"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e63",
+      "timestamp": 3315,
+      "text": "Equipe planeja desenvolver ranking de pontuação para coordenadores com base em atividades e vendas",
+      "topicId": "686fb32b8c99cc0013628e47"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e64",
+      "timestamp": 3377,
+      "text": "Diego propõe gamificação para engajar corretores através de ranking e competição",
+      "topicId": "686fb32b8c99cc0013628e47"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e60",
+      "timestamp": 3546,
+      "text": "Memorial pode se integrar facilmente com imagens, expandindo capacidades de leitura e interpretação.",
+      "topicId": "686fb32b8c99cc0013628e46"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e65",
+      "timestamp": 3558,
+      "text": "Orulo planeja investimento de 20-25 mil para estande Z2",
+      "topicId": "686fb32b8c99cc0013628e48"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e71",
+      "timestamp": 3620,
+      "text": "Junior sugere contar história da jornada de uma incorporadora em uma timeline envolvendo a marca Ouro.",
+      "topicId": "686fb32b8c99cc0013628e4a"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e4c",
+      "timestamp": 3680,
+      "text": "Junior propõe marcar reunião entre amanhã e segunda-feira para discutir próximos passos.",
+      "topicId": "686fb32b8c99cc0013628e43"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e72",
+      "timestamp": 3725,
+      "text": "Junior apresenta ideias para estande, incluindo cadeira de massagem de importador e possível atração com robô.",
+      "topicId": "686fb32b8c99cc0013628e4a"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e4d",
+      "timestamp": 3847,
+      "text": "Junior sugere degustação de serviços no Conecta, Diego propõe descontos para primeira incorporadora",
+      "topicId": "686fb32b8c99cc0013628e43"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e66",
+      "timestamp": 4090,
+      "text": "Eduardo destaca necessidade de evoluir conjuntamente questões de Portal entre Z2 e Ouro.",
+      "topicId": "686fb32b8c99cc0013628e48"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e67",
+      "timestamp": 4288,
+      "text": "Eduardo sugere estratégia para locais com diferentes presenças de Z2 e Ouro, pensando em CTAs.",
+      "topicId": "686fb32b8c99cc0013628e48"
+    },
+    {
+      "segmentId": "686fb32b8c99cc0013628e68",
+      "timestamp": 4457,
+      "text": "Diego anuncia expansão para Maceió com cinco embaixadoras e vagas abertas para Rio, Campinas e Goiânia.",
+      "topicId": "686fb32b8c99cc0013628e48"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "686fb32b8c99cc0013628e43",
+      "order": 1,
+      "title": "Ações Acordadas e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e44",
+      "order": 2,
+      "title": "Infraestrutura e Arquitetura de Serviços",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e45",
+      "order": 3,
+      "title": "Novas Funcionalidades do Sistema",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e46",
+      "order": 4,
+      "title": "Desenvolvimento de Scripts e Inteligência Artificial",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e47",
+      "order": 5,
+      "title": "Estratégias de Pontuação e Engajamento",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e48",
+      "order": 6,
+      "title": "Expansão Geográfica e Parcerias",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e49",
+      "order": 7,
+      "title": "Ideias e Propostas em Discussão",
+      "summary": ""
+    },
+    {
+      "id": "686fb32b8c99cc0013628e4a",
+      "order": 8,
+      "title": "Tópicos Diversos",
+      "summary": ""
+    }
+  ]
+}

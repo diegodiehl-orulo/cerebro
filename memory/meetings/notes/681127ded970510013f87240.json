@@ -1,0 +1,103 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "68112e843ff6ef00131c3034",
+      "timestamp": 32,
+      "text": "Proposta para Rafa fazer triagem inicial de novos contatos, identificando sua origem no sistema.",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3032",
+      "timestamp": 1098,
+      "text": "Criar site Zanella para preencher vendas de Janeiro a Abril por coordenador e status.",
+      "topicId": "68112e843ff6ef00131c302e"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3033",
+      "timestamp": 1196,
+      "text": "Plano de enviar card exclusivo e automatizar mensagens para usuários cadastrados via celular.",
+      "topicId": "68112e843ff6ef00131c302e"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3035",
+      "timestamp": 1235,
+      "text": "Segmentar disparos por região e características de público-alvo.",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c303b",
+      "timestamp": 1282,
+      "text": "Stephanie precisa entender como excluir cadastros duplicados na Z2.",
+      "topicId": "68112e843ff6ef00131c3030"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c303c",
+      "timestamp": 1413,
+      "text": "Diego sugere funcionalidade para configurar cadastro automático de contatos.",
+      "topicId": "68112e843ff6ef00131c3030"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c303d",
+      "timestamp": 1589,
+      "text": "Stephanie planeja criar grupo para discutir implementações com a equipe.",
+      "topicId": "68112e843ff6ef00131c3031"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3036",
+      "timestamp": 12600,
+      "text": "Luiz sugere importar lista de contatos de coordenadores para identificar imobiliárias automaticamente",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3037",
+      "timestamp": 18060,
+      "text": "Luiz propõe implementar chatbot inicial para coletar nome e imobiliária do contato",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3038",
+      "timestamp": 39660,
+      "text": "Stephanie planeja definir padrão de mensagens para distribuição de produtos por time",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c3039",
+      "timestamp": 44760,
+      "text": "Definir processo em três etapas: 1) Definir padrão, 2) Escrever padrão para cada empreendimento, 3) Subir padrão no sistema",
+      "topicId": "68112e843ff6ef00131c302f"
+    },
+    {
+      "segmentId": "68112e843ff6ef00131c303a",
+      "timestamp": 58620,
+      "text": "Diego sugere padrão de mensagem para corretores: cumprimento, imagem de fachada, área comum, perspectiva de planta e diferenciais",
+      "topicId": "68112e843ff6ef00131c302f"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "68112e843ff6ef00131c302e",
+      "order": 1,
+      "title": "Ações Confirmadas de Gerenciamento de Contatos",
+      "summary": ""
+    },
+    {
+      "id": "68112e843ff6ef00131c302f",
+      "order": 2,
+      "title": "Estratégias de Segmentação e Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "68112e843ff6ef00131c3030",
+      "order": 3,
+      "title": "Desafios de Gestão de Dados",
+      "summary": ""
+    },
+    {
+      "id": "68112e843ff6ef00131c3031",
+      "order": 4,
+      "title": "Planejamento de Implementação",
+      "summary": ""
+    }
+  ]
+}

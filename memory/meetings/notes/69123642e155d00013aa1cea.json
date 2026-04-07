@@ -1,0 +1,157 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "691242d993dfd6001391a8fa",
+      "timestamp": 1,
+      "text": "Reunião focada em revisar base do órgão Z2, explorando recursos de IA para corretores.",
+      "topicId": "691242d993dfd6001391a8f6"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a8fe",
+      "timestamp": 240,
+      "text": "Ferramenta permite buscar empreendimentos por contexto e detalhes adicionais",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a8ff",
+      "timestamp": 556,
+      "text": "Listar todas as opções de lazer para facilitar escolha do cliente",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a900",
+      "timestamp": 574,
+      "text": "Formato de lista deve manter cada item em linha separada para busca eficiente",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a901",
+      "timestamp": 913,
+      "text": "Listar informações específicas de um empreendimento por palavra-chave de busca.",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a902",
+      "timestamp": 1029,
+      "text": "Permitir identificação flexível de produto por nome parcial ou palavra-chave.",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a8fb",
+      "timestamp": 1066,
+      "text": "Padronização de busca de produtos Z2 com foco em descrições detalhadas para corretores.",
+      "topicId": "691242d993dfd6001391a8f6"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a903",
+      "timestamp": 1141,
+      "text": "Cálculo de unidades por empreendimento: multiplicar quantidade de andares por apartamentos por andar.",
+      "topicId": "691242d993dfd6001391a8f7"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a904",
+      "timestamp": 1290,
+      "text": "Parceiros podem personalizar mensagens de apresentação de empreendimentos.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a905",
+      "timestamp": 1347,
+      "text": "Adicionado comando personalizado que substitui geração automática de mensagem.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a906",
+      "timestamp": 1524,
+      "text": "Nova funcionalidade: criação de intenções com variáveis para identificar diferentes formas de chamar um recurso.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a907",
+      "timestamp": 1745,
+      "text": "Qualificação automática envia formulário para parceiros preencherem informações definidas em campos dinâmicos.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a908",
+      "timestamp": 1866,
+      "text": "Nova funcionalidade de orientações: filtrar contatos sem resposta e diálogos quentes.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a909",
+      "timestamp": 2140,
+      "text": "Mensagens do Zé podem ser personalizadas para adequar comunicação com parceiros.",
+      "topicId": "691242d993dfd6001391a8f8"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a90a",
+      "timestamp": 2416,
+      "text": "Importação de planilha de contatos pode ser complicada devido a mudanças de número e possíveis problemas de spam.",
+      "topicId": "691242d993dfd6001391a8f9"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a8fc",
+      "timestamp": 2495,
+      "text": "Z2A está criando prática de automação apenas para parceiros verificados e de origem confiável.",
+      "topicId": "691242d993dfd6001391a8f6"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a8fd",
+      "timestamp": 2556,
+      "text": "Estratégia de disparo focada em coordenadores de parcerias de incorporadoras em regiões específicas.",
+      "topicId": "691242d993dfd6001391a8f6"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a90b",
+      "timestamp": 2616,
+      "text": "Possibilidade de usar múltiplos chips no mesmo pool de números para disparos de mensagem.",
+      "topicId": "691242d993dfd6001391a8f9"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a90c",
+      "timestamp": 2775,
+      "text": "Recomendação de incluir número de contato na mensagem para facilitar retorno.",
+      "topicId": "691242d993dfd6001391a8f9"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a90d",
+      "timestamp": 2835,
+      "text": "Usar número pool reduz risco de bloqueio no número principal de comunicação.",
+      "topicId": "691242d993dfd6001391a8f9"
+    },
+    {
+      "segmentId": "691242d993dfd6001391a90e",
+      "timestamp": 2934,
+      "text": "Redução da cadência de mensagens para minimizar riscos de bloqueio.",
+      "topicId": "691242d993dfd6001391a8f9"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "691242d993dfd6001391a8f6",
+      "order": 1,
+      "title": "Ações Definidas e Compromissos",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f7",
+      "order": 2,
+      "title": "Funcionalidades de Busca e Identificação de Produtos",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f8",
+      "order": 3,
+      "title": "Personalização de Comunicação",
+      "summary": ""
+    },
+    {
+      "id": "691242d993dfd6001391a8f9",
+      "order": 4,
+      "title": "Estratégias de Disparo de Mensagens",
+      "summary": ""
+    }
+  ]
+}

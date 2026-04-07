@@ -1,0 +1,52 @@
+{
+  "id": "66f6c213d34b9d00136beaaa",
+  "happenedAt": "2024-09-27T14:32:51.604Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "victor@filterfeed.com.br"
+    },
+    {
+      "name": "Diogo Fernandes",
+      "email": "diogo.fernandes@avodh.com.br"
+    },
+    {
+      "name": "Johnny Fernandes",
+      "email": "johnny.fernandes@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "eduarda.salles@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "lucas.vicente@avodh.com.br"
+    },
+    {
+      "name": "",
+      "email": "anderson.oliveira@avodh.com.br"
+    },
+    {
+      "name": "Paulo Cesar",
+      "email": "paulo.cesar@avodh.com.br"
+    }
+  ],
+  "name": "Órulo - Daily",
+  "duration": 2019.962,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66f6c213d34b9d00136beaaa",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "det-tdoa-arn"
+  }
+}

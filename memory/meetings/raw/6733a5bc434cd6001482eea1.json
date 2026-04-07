@@ -1,0 +1,28 @@
+{
+  "id": "6733a5bc434cd6001482eea1",
+  "happenedAt": "2024-11-12T19:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Insights IM",
+  "duration": 3467.469,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6733a5bc434cd6001482eea1",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ugx-uogu-vmc"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "id": "675b40c523c24500142a25ab",
+  "happenedAt": "2024-12-12T20:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Nikolas Batista",
+      "email": "nikolas.batista@sejahype.com.br"
+    },
+    {
+      "name": "",
+      "email": "rafael.menezes@sejahype.com.br"
+    }
+  ],
+  "name": "Troca Fácil - Órulo + Hype",
+  "duration": 3759.875,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/675b40c523c24500142a25ab",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "ojd-pgyv-tzg"
+  }
+}

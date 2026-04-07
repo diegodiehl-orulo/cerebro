@@ -1,0 +1,1505 @@
+{
+  "meeting_id": "678a3844e7cad900136718a9",
+  "name": "(Tentativa): BORDA: Brognoli & Órulo",
+  "happened_at": "2025-01-17T11:00:00.000Z",
+  "duration_seconds": 3464.959,
+  "duration_minutes": 57.7,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Barbosa",
+      "email": "barbosa@brognoli.com.br"
+    },
+    {
+      "name": "Marcel Manduca",
+      "email": "manduca@brognoli.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/678a3844e7cad900136718a9",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "kju-ihcy-bzy",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "678a38bc0fe43800130dcee7",
+    "meetingId": "678a3844e7cad900136718a9",
+    "data": [
+      {
+        "startTime": 31,
+        "endTime": 47,
+        "speaker": "Eduardo Barbosa",
+        "text": "É verdade, cara, eu eu depois que mandou cantar aqui, ele tá resolvendo os problemas ali da da loja. Mas eu acho que é uma Duca, cara, onde ele tá o negócio fica feio cara, o ano passado tá no Rio Grande do Sul, agora vem para cá, trouxe chuva."
+      },
+      {
+        "startTime": 47,
+        "endTime": 71,
+        "speaker": "Felipe Goettems",
+        "text": "Barbosa eu já te perguntei isso, qual cidade tu é do Rio Grande do Sul? Ah então de repente tu conhece o o É que eu conheço o filho não me lembro o nome do pai o rof. É h o FF."
+      },
+      {
+        "startTime": 71,
+        "endTime": 73,
+        "speaker": "Eduardo Barbosa",
+        "text": "uma galera lá que é."
+      },
+      {
+        "startTime": 77,
+        "endTime": 89,
+        "speaker": "Felipe Goettems",
+        "text": "Acho que da mãe o sobrenome é cesimbra e do pai é Hoff, mas eu esqueci o nome do pai dele é um amigo meu de infância. Que daria bastante ali que a gente ia na Barra do Ribeiro também."
+      },
+      {
+        "startTime": 89,
+        "endTime": 108,
+        "speaker": "Eduardo Barbosa",
+        "text": "Eu conheci o Alexandre, cara, que é na off, eu acho que tem. Eu não me lembro cara. Tanta faz tempo, cara, se eu lembrar você vai Eduardo, tudo bem, cara. Bom dia tudo."
+      },
+      {
+        "startTime": 108,
+        "endTime": 109,
+        "speaker": "Eduardo Stringhini",
+        "text": "tá em"
+      },
+      {
+        "startTime": 111,
+        "endTime": 140,
+        "speaker": "Eduardo Barbosa",
+        "text": "Opa tô em Floripa aqui, mas eu fico aqui no sul da ilha aqui. Choveu minha rua tá alagada, mas cara princípio dentro de casa tudo tranquilo diferente de alguns gerentes aqui que a casa que a água invadiu a casa. Tá feio o negócio. Não continua cara, continua chovendo essa noite é."
+      },
+      {
+        "startTime": 140,
+        "endTime": 156,
+        "speaker": "Eduardo Barbosa",
+        "text": "Aqui tá chovendo Cara essa noite eu acordei às 4 horas da manhã para ligar as bombas para porque a piscina tá transbordando daí eu tinha ficado liguei as bombas tirei água porque senão o cara ia transbordar daí ia entrar dentro de casa. Muita chuva."
+      },
+      {
+        "startTime": 160,
+        "endTime": 166,
+        "speaker": "Felipe Goettems",
+        "text": "venha daqui a pouquinho eu não sei se é o Diego que tá aqui ou é o a ido."
+      },
+      {
+        "startTime": 166,
+        "endTime": 167,
+        "speaker": "Eduardo Barbosa",
+        "text": "Eu acho que aí do Diego cara aos"
+      },
+      {
+        "startTime": 167,
+        "endTime": 173,
+        "speaker": "Diego Diehl",
+        "text": "Os dois tudo bem gente? Bom dia. Eu ando sempre acompanhado agora."
+      },
+      {
+        "startTime": 173,
+        "endTime": 175,
+        "speaker": "Eduardo Stringhini",
+        "text": "Luana"
+      },
+      {
+        "startTime": 175,
+        "endTime": 178,
+        "speaker": "Felipe Goettems",
+        "text": "Eu tenho um cachorro ele tem uma"
+      },
+      {
+        "startTime": 179,
+        "endTime": 188,
+        "speaker": "Diego Diehl",
+        "text": "Aposto mais na minha geração, viu? Eu tô passando um cafezinho cortando umas frutas aqui, mas estou ouvindo tá?"
+      },
+      {
+        "startTime": 188,
+        "endTime": 188,
+        "speaker": "Felipe Goettems",
+        "text": "Tranquilo então vamos começar aqui"
+      },
+      {
+        "startTime": 188,
+        "endTime": 191,
+        "speaker": "Eduardo Barbosa",
+        "text": "Não não."
+      },
+      {
+        "startTime": 191,
+        "endTime": 212,
+        "speaker": "Felipe Goettems",
+        "text": "agora, eu acho que não conhecia nem o Diego nem o Eduardo, né? Tá o Eduardo é meu sócio desde o início da hora. O Diego tá com a gente é um ano ele veio da da Hype de Curitiba, um Incorporadora bastante conhecida de lá e ele tá tocando aqui um Todo projeto de expansão da obra."
+      },
+      {
+        "startTime": 212,
+        "endTime": 214,
+        "speaker": "Felipe Goettems",
+        "text": "Ele tá tá tocando tá e o de Nova geografias de"
+      },
+      {
+        "startTime": 214,
+        "endTime": 214,
+        "speaker": "Eduardo Barbosa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 217,
+        "endTime": 245,
+        "speaker": "Felipe Goettems",
+        "text": "comunicação com o mercado. Então a gente sabe né? O cão local é a gente conversou isso aquela vez, né? Agora não tivesse que a gente Junto o mercado é muito local, você pode eu para mim assim o Caiu a Ficha já tinha caído a ficha, mas eu não sabia que era tão local assim quando eu me dei conta do seguinte, né? A nossa praça mais madura é Porto Alegre."
+      },
+      {
+        "startTime": 245,
+        "endTime": 261,
+        "speaker": "Felipe Goettems",
+        "text": "A gente tá há 10 anos. E a gente começou ano passado em 2024, a gente começou litoral do Rio Grande do Sul, né? Então Capão da Canoa Atlanta. Você conhece bem É deve ser uns 120 km e a coisa é mais ou menos o seguinte a cada 10 corretores de Capão uns nove não conhecem a hora sendo que a gente dá 10 anos em Porto Alegre que é 100 Km."
+      },
+      {
+        "startTime": 261,
+        "endTime": 288,
+        "speaker": "Felipe Goettems",
+        "text": "E que provavelmente os cara fazem negócio toda hora Porto Alegre, Capão da Canoa. Então, ele é local por natureza, né? Então você troca 30 km 40 Km. Talvez em Novo Hamburgo ninguém nos conhece. Então é pouco isso daí então, a gente tem essa essa necessidade de ter uma estrutura que vá que vá a gente não tem um transbordo sinérgico entre geografias, né? Então é uma coisa que a gente"
+      },
+      {
+        "startTime": 288,
+        "endTime": 290,
+        "speaker": "Eduardo Barbosa",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 290,
+        "endTime": 315,
+        "speaker": "Felipe Goettems",
+        "text": "precisa muito prestar muita atenção e o Diego tá captaniando isso daí o Eduardo ele é dentro de todas as responsabilidades que ele tem uma delas é essa relação com exatamente o que a gente tá pensando em fazer com a borda, tá? Então a gente tem isso em outras geografias como eu te comentei Vitória, Porto Alegre, São Paulo, Curitiba."
+      },
+      {
+        "startTime": 315,
+        "endTime": 337,
+        "speaker": "Felipe Goettems",
+        "text": "E e a gente então assim eu trouxe também o Eduardo que é o cara que toca essas essas relações eu te apresentou todo esse contexto para o Manduca na quarta na terça-feira passada, se eu não me engano. E então eu tinha feito essas introdução as introduções de né do que que cada um é responsável."
+      },
+      {
+        "startTime": 337,
+        "endTime": 363,
+        "speaker": "Felipe Goettems",
+        "text": "E o Eduardo contou bastante aí um pouco desse nosso histórico com com esse tipo de operação que a gente tá pensando em fazer aqui, tá? Queria queria te apresentar. Eles. Acho que o Eduardo vai ordenar aqui um pouquinho esse bate-papo. E vamos ver se mandou caeta, daqui a pouco o maluco, talvez roça de novo que a gente já conversou da Travessa."
+      },
+      {
+        "startTime": 363,
+        "endTime": 382,
+        "speaker": "Felipe Goettems",
+        "text": "Mas é para deixar todo mundo a par e ver se isso de alguma forma tirar algumas dúvidas duas tá a babosa até de experiência própria. Nossa do que que já funcionou do que que não funcionou a gente conversou bastante sobre esse comandoka da última vez foi um papo bem longo até E ver se vocês acharem que é interessante para nós nós queremos fazer tá? Nós vamos fazer."
+      },
+      {
+        "startTime": 382,
+        "endTime": 384,
+        "speaker": "Eduardo Barbosa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 387,
+        "endTime": 413,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tá bom você acha que o Felipe resumiu bem então um prazer aí Barbosa e parabéns pela história aí né? Falar bastante da prolioli dos negócios que vocês tocam. Bom o a gente já entendeu o movimento de vocês que enfim hoje. Vocês são uma empresa que tem domínio de mercado aí né? Fazem a gestão de alguns lançamentos também então antecipando o movimento que é meio natural de mercado."
+      },
+      {
+        "startTime": 413,
+        "endTime": 442,
+        "speaker": "Eduardo Stringhini",
+        "text": "Começar a ampliar negócios mais. Menores surgem empresas novas corretoras entrantes. E aí Um trocadores começam a abrir para o mercado mais do que deixar na mão de uma lançadora. Então você já estão querendo se posicionar como a gestora dessas pequenas operações também então perfeito natural esse movimento e muito correto assim essa estratégia de vocês na minha visão."
+      },
+      {
+        "startTime": 442,
+        "endTime": 477,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí enfim, a gente tá a gente já Tá experimentando isso em algumas cidades. E conhecemos alguns processos que esse tipo de negócio faz desde. Como capital que Incorporadora para vender o serviço como modelos de remuneração do gestor que fica na ponta né pode chamar direito de parcerias coordenador de parcerias? No mercado."
+      },
+      {
+        "startTime": 477,
+        "endTime": 499,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então a gente tem um pouco dessa experiência dos números Gerais, que fecha que geralmente fecha a conta para quem tá na ponta, né? Que cada o principal trabalho é do cara de rua, né? Esse cara de rua aí que atende os fatos atendimentos e E fecha os negócios é na verdade quem mais trabalha na operação assim, né duro mesmo, né? É o que vai fazer o relacionamento com os corretores de mercado e então a gente tem essa experiência aí dessas dessas onde é maluca, tudo bem."
+      },
+      {
+        "startTime": 501,
+        "endTime": 518,
+        "speaker": "Marcel Manduca",
+        "text": "Bom dia pessoal. Desculpa a demora aí é que eu tô resolvendo um perrengue, né? Tô vendo a questão das lojas aqui por conta da chuvarada, né? Se a gente fecha a gente abre. Te deu a gente decidiu fechar tá Barbosa, devido a as constatações aí a coisa tá limitante fora."
+      },
+      {
+        "startTime": 518,
+        "endTime": 535,
+        "speaker": "Eduardo Barbosa",
+        "text": "Perfeito cara perfeito. Ou mandou que eu sou um parentes aqui que a gente vai tentar falando para o Felipe. A gente vai fazer uma análise de correlação para entender se esses temporais estão correlacionados com a sua o seu local, entendeu? Porque o ano passado foi o grande suicídio em Santa Catarina."
+      },
+      {
+        "startTime": 535,
+        "endTime": 537,
+        "speaker": "Eduardo Barbosa",
+        "text": "Se tiver cara, eu quero conversar contigo também."
+      },
+      {
+        "startTime": 537,
+        "endTime": 545,
+        "speaker": "Marcel Manduca",
+        "text": "eu vou para o Paraná Meu Deus Que loucura cara eu fugindo desses desastres desastres atrás de mim."
+      },
+      {
+        "startTime": 549,
+        "endTime": 575,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então então Barbosa, a gente tem um pouco da essa experiência de dos números assim, né? De quanto que paga para o computador na ponta quanto que sobra? Mais ou menos tem estruturas essa operação. E enfim onde a Orlando contribui a gente tem algumas contribuições assim mais o papel de tecnologia, principalmente na ativação da base de corretores, né, então."
+      },
+      {
+        "startTime": 575,
+        "endTime": 608,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ele é um trabalho que ele tem um trabalho bem analógico de visita Campo vai Imobiliária, né? Atende provoca as imobiliárias faz treinamentos inventa a promoção, né movimento mercado, mas também tem um lado que é o que a gente pode colaborar bastante aí que a parte digital já que a onda é uma plataforma que pega navegação do corretor, o que que ele tá fazendo? E de certo modo dá um perfil, né do corretor se ele tá buscando um imóvel no sul da ilha."
+      },
+      {
+        "startTime": 608,
+        "endTime": 635,
+        "speaker": "Eduardo Stringhini",
+        "text": "Em algum padrão significa ele é um corredor que tem interesse nesse tipo de negócio, então a gente já separa esse corretor para uma ação daqui a pouco mais direcionada. Para para algum produto que a gente esteja que você esteja um gerenciando aí então, esse é o nosso principal papel assim é movimentar um pouco mais digital essa base e trazer um pouco do que a gente vê os benchmark que a gente vê em outras cidades também de como essas empresas operam."
+      },
+      {
+        "startTime": 635,
+        "endTime": 678,
+        "speaker": "Eduardo Stringhini",
+        "text": "e É mais ou menos isso assim o que a gente faz a gente tem ferramenta também uma ferramenta que a gente chama de prm. Que é um CRM de parceiros, né? Então a gente a gente tem hoje um prm que ele já tem um processo para esse tipo de operação que é o que a gente vende para as incorporadoras na verdade, né? A gente vende."
+      },
+      {
+        "startTime": 678,
+        "endTime": 683,
+        "speaker": "Eduardo Stringhini",
+        "text": "Principalmente as que mais Estão comprando isso em São Paulo obviamente porque são empresas que são grandes imobiliárias de parcerias lá, eles têm grandes houses grandes lançadores, mas tem algumas operações grandes de parceria com 15 20 gestores, né 20 gestores fazendo esse trabalho. Algumas são menores e tal então a gente a gente tem um produto para isso, né? Porque é para dar uma ferramenta para esse cara da rua aí."
+      },
+      {
+        "startTime": 683,
+        "endTime": 712,
+        "speaker": "Eduardo Stringhini",
+        "text": "Dá uma variar com WhatsApp integrado num sistema que ela coloca corretora a gente acompanha as conversas. Né que tá tendo que o corretor e tem algumas automações de disparo de de mensagem WhatsApp de campanhas. E é isso, mas em geral o processo de negócio é no lista de transmissão, né? É muito comum se é um dos principais."
+      },
+      {
+        "startTime": 712,
+        "endTime": 720,
+        "speaker": "Eduardo Stringhini",
+        "text": "Principais modos comunicar com o mercado a lista de transmissão porque daí não tem bloqueio também do chip do WhatsApp etc."
+      },
+      {
+        "startTime": 720,
+        "endTime": 720,
+        "speaker": "Eduardo Barbosa",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 720,
+        "endTime": 743,
+        "speaker": "Eduardo Stringhini",
+        "text": "aí eu queria ouvir de vocês assim, o que que vocês pensaram da parceria com a hora o nosso papel e Que momento tá né? Essa essa ideia de negócios já estão já tá tocando já tá rodando. Se já tem já tem os gestores, né, então."
+      },
+      {
+        "startTime": 743,
+        "endTime": 769,
+        "speaker": "Felipe Goettems",
+        "text": "Queria também comentar uma coisa Barbosa, Manduca, a gente tem visto. Algumas é na margem. Tá mas tem algumas diferenças significativas entre a cidades. Então a gente vê por exemplo eu vou pegar só dois exemplos contrastantes aqui a gente vê um modelo de rua bem importante por exemplo em Porto Alegre."
+      },
+      {
+        "startTime": 769,
+        "endTime": 799,
+        "speaker": "Felipe Goettems",
+        "text": "Tá hoje eu acho que das operações que a gente tá de alguma forma colaborando vai passar aí de 30 milhões mais ou menos por mês, eu acho 30 e poucos milhões. E já tem outras para só comparando Porto Alegre com São Paulo, né? São Paulo já tem uma dificuldade de locomoção que a cidade impõe."
+      },
+      {
+        "startTime": 799,
+        "endTime": 848,
+        "speaker": "Felipe Goettems",
+        "text": "Aonde a coisa é um pouco é mais. Se eu for comparar né um pouco digital um pouco físico em Porto Alegre, ele é mais digital em São Paulo e menos físico em São Paulo se comparado à cidade. Floripa tem para mim tem um ponto de interrogação e que eu não sei se vai mais para um lado para o outro pela característica de que para trocar de bairro na cidade, você tem que pegar Rodovia, né? Então ele fica ele deixa a gente pensar em Porto Alegre, né? Uma uma imobiliária que tá talvez na Auxiliadora vai eventualmente fazer uma venda lá no Menino Deus Ah é longe disso, né, mas são bairros contidos."
+      },
+      {
+        "startTime": 848,
+        "endTime": 876,
+        "speaker": "Felipe Goettems",
+        "text": "Então eles vão produzindo negócios ao longo da sua extensão e às vezes pinga lá alguma coisinha no Menino Deus para né para uma bela vista para uma Auxiliadora. É muito mais difícil, né? O cara tem tá no Campeche e pingar uma venda em ingleses. Acho que é um pouco mais complicado, mas enfim é só para dizer que existem diferenças entre a cidades e essa operação ela tem que de alguma forma se acoplar essa diferença se acoplar a realidade da cidade."
+      },
+      {
+        "startTime": 876,
+        "endTime": 881,
+        "speaker": "Eduardo Stringhini",
+        "text": "São Paulo por exemplo é muito mais digital o trabalho. Digital que eu digo virtual, né"
+      },
+      {
+        "startTime": 881,
+        "endTime": 883,
+        "speaker": "Eduardo Barbosa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 883,
+        "endTime": 904,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não é presencial e lá nas imobiliárias e tal que é muito é muito corretor, né e vem a demanda ela vende muitos lugares vende outra cidade também, então o trabalho é muito no WhatsApp, né lá Porto Alegre é como o Felipe falou. É visita Imobiliária todo momento assim é bem agressivo alguns players que estão aqui fazem visita Imobiliária bem agressiva assim."
+      },
+      {
+        "startTime": 907,
+        "endTime": 934,
+        "speaker": "Felipe Goettems",
+        "text": "Ter essa característica agora me lembrando Porto Alegre, não tem compra de Fora São Paulo tem Floripa estava discutindo né Barbosa da URBS querendo fazer algum negócio alguma relação com vocês a Urbs de Goiânia que a gente tem integração lá com eles. Né uma coisa que não vai acontecer em Porto Alegre, não tem cara de Goiânia comprando Porto Alegre eventualmente tem um cara de Goiânia comprando Floripa da mesma forma que compra São Paulo."
+      },
+      {
+        "startTime": 934,
+        "endTime": 938,
+        "speaker": "Felipe Goettems",
+        "text": "Então são peculiaridades de cada de cada região."
+      },
+      {
+        "startTime": 938,
+        "endTime": 998,
+        "speaker": "Eduardo Barbosa",
+        "text": "Perfeito. Então deixa eu deixa eu dar uma visão geral para vocês. Daí a gente vai conectando os pontos aqui vai construindo juntos. A gente começou essa esse movimento de borda mais Regional aqui com a OAB é um tempo atrás, né? Então a bronholi centralizava toda a conexão com as imobiliárias no início do ano passado e fazia uma intermediação assim como macia faz, né? A gente também Fazia, mas só de cara distribuição de produto não nada além disso e conexão D."
+      },
+      {
+        "startTime": 998,
+        "endTime": 1019,
+        "speaker": "Eduardo Barbosa",
+        "text": "Não queria conversar com todas as imobiliárias. Depois desse movimento efetivamente a gente foi para Borda Nacional, tá a gente queria fazer mesmo trabalho com a borda nacional e a gente trouxe a OAB a arca e tem mais outra que eu não me lembro agora são três incorporadoras, depois eu pesquiso e mando para vocês e a ideia que a gente propôs para ele seria a gente conseguir pegar esse produto e distribuir efetivamente em algumas imobiliárias, né que são parceiras, né? O primeiro a conversa que eu fiz cara foi com a Loft, né? Para tentar colocar isso na plataforma deles como a gente faria isso para a gente conseguir distribuir esses produtos via Loft a gente fez algumas conversas, mas não não andou."
+      },
+      {
+        "startTime": 1019,
+        "endTime": 1077,
+        "speaker": "Eduardo Barbosa",
+        "text": "Depois eu conversei com o pessoal do corretop, vocês conhecem o pessoal do correto top. É um produto cara que ele começou como um aplicativo de treinamento do corretor. E assim gostou muito e trouxe esse aplicativo e transformou ele transformou ele numa fonte de informação por corretor para distribuir produto então lá no aplicativo do corretor consegue entender o que é o produto."
+      },
+      {
+        "startTime": 1077,
+        "endTime": 1070,
+        "speaker": "Eduardo Barbosa",
+        "text": "Qual a disponibilidade tirar dúvida. Tudo isso assim, tá usando corretop tá e votaram não redirecionamento, mas mantém a partir de educação também, né? Então Acho que ali tem um ponto bom para dar uma Depois então a gente começou a conversar com eles, mas cara uma conversa difícil enrolada, cara."
+      },
+      {
+        "startTime": 1070,
+        "endTime": 1101,
+        "speaker": "Eduardo Barbosa",
+        "text": "Daí a gente acabou não avançando daí eu botei o daí eu pedi para o Hernane. Vocês conhecem? O Hernani é exato efetivamente não é pedir perdão e cara. Bota embaixo do braço e abre frente aí vamos vamos conectar diretas imobiliárias dele conectou o cara mais broker conectou a Urbs de Goiânia conectou algumas de São Paulo e depois eu passo a relação para vocês, só que a gente tá muito analógico, né? É de conectou com essas imobiliárias recebem o produto, né? Todo toda."
+      },
+      {
+        "startTime": 1101,
+        "endTime": 1126,
+        "speaker": "Eduardo Barbosa",
+        "text": "Do entendimento do que é o produto e elas descem para suas equipes e o Pedro aqui que é o nosso rapaz que fica aqui no sul da ilha que é o nosso vamos dizer assim o nosso coordenador ali dos lançamentos aqui no sul da ilha que recebe as demandas, né? E conecta com as incorporadoras."
+      },
+      {
+        "startTime": 1126,
+        "endTime": 1166,
+        "speaker": "Eduardo Barbosa",
+        "text": "Só quem sabe que isso não vai funcionar, né? Cara? Não assim é uma dificuldade. Assim o cara não não é prioridade a Urbes mesmo é mais broca mostraram chamaram os corretores apresentados produtos, mas não não veio nada. Então o nosso desafio e daí eu concordo com vocês, nós fizemos como é que eu coloco esses produtos na mão da imobiliária, mas também na mão dos corretores, né dessas imobiliárias de forma que a gente consiga cara ter Real."
+      },
+      {
+        "startTime": 1166,
+        "endTime": 1193,
+        "speaker": "Eduardo Barbosa",
+        "text": "Time assim a disponibilidade de informações sobre os produtos e não tem muita ciência de foguete aqui, né hoje a gente Da Nike a nossa assistente, ela tira todas as tira todas as dúvidas do corretor em relação ao produto, né, disponibilidade tipologia tudo tudo tudo tudo. Cara isso porque ela puxa api efetivamente da OAB e das demais, né? Então é bem tranquilo, eu entendo fazer esse esse push junto essas incorporadoras, mas o cenário é esse, né? E daí o que ele entender com você a gente pode construir juntos assim, como é que a gente como é que vocês estão trabalhando, vocês estão trabalhando na com a imobiliária na mão do corretor, eu entendi um pouco o Eduardo eu posso ter entendido errado que vocês estão na mão do corretor também efetivamente, mas não sei se é bem isso."
+      },
+      {
+        "startTime": 1196,
+        "endTime": 1205,
+        "speaker": "Eduardo Stringhini",
+        "text": "Antes de responder só para entender o borda nacional é a mesma borda que vocês fazem mas escolhendo algumas empresas de fora da região para atuar no produto, é isso?"
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1211,
+        "speaker": "Eduardo Barbosa",
+        "text": "Exatamente borda Nacional porque é fora de Floripa, né, cara, então a gente trata como um guarda nacional."
+      },
+      {
+        "startTime": 1212,
+        "endTime": 1275,
+        "speaker": "Eduardo Stringhini",
+        "text": "Bom essa parte da distribuição da informação do produto ele ele não é nem nosso modelo a gente chama inteiramente esse modelo de GD tá gestor digital. Que essa esse modelo de operação que faz a gestão o que cabe a óleo é a gestão mais digital e o que cabe a empresa de gestão comercial de incorporadoras é a gestão mesmo, né? E então é importante chama de GD, mas esse ponto que tu trouxe Barbosa ele ele recorda a própria."
+      },
+      {
+        "startTime": 1275,
+        "endTime": 1275,
+        "speaker": "Eduardo Stringhini",
+        "text": "Orla assim, não é nem do GD essa distribuição de informação de colocar informação na mão da imobiliária do corretor é o que a gente faz com cor mesmo como um homem. Eu consigo plugar o CRM lá da imobiliária que a gente quer trabalhar que não trabalhar a plataforma é aberta para o corretor buscar né? Dá para fazer algum tipo de ativação em cima desse corretor, né? Então isso já é já é corda própria operação do modelo da obra distribuição de informação para o mercado."
+      },
+      {
+        "startTime": 1275,
+        "endTime": 1305,
+        "speaker": "Eduardo Stringhini",
+        "text": "E então não precisa ser pode ser tudo automatizado essa informação. O que o que tem a mais nesse Modelo, ele é um trabalho mais realmente de ação humana mesmo, né de ter alguém que faz essa relação com a ser Imobiliária com essas imobiliárias de Fora, que provoca que cria promoção que tem uma relação com direta lá com os gerentes, né, então."
+      },
+      {
+        "startTime": 1305,
+        "endTime": 1309,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que não sei se essa pergunta que fez."
+      },
+      {
+        "startTime": 1309,
+        "endTime": 1310,
+        "speaker": "Eduardo Barbosa",
+        "text": "boa"
+      },
+      {
+        "startTime": 1310,
+        "endTime": 1338,
+        "speaker": "Diego Diehl",
+        "text": "Deixa deixa eu acrescentar um ponto Eduardo Barbosa trazer aí conhecer vocês. Vamos que eu já conheço, eu acho que vale uma visão geral, eu trabalhei 10 anos fazendo isso Barbosa e cara. É uma loucura assim, parece que o mais um dá menos um daí dois menos dois dá sete daí, você sabe é uma é uma ciência."
+      },
+      {
+        "startTime": 1338,
+        "endTime": 1361,
+        "speaker": "Diego Diehl",
+        "text": "Abstrata brincadeira não é tanto assim, mas eu acho que dando pontos Gerais assim do que faz um corretor vender o produto, né? Por exemplo, vamos usar o exemplo da OAB. Porque daí eu acho que outras praças o Felipe começou a conversa falando que as Praças não tem sinergia, né? Então é um outro desafio fazer uma imobiliária de uma outra cidade vender uma outra cidade Balneário."
+      },
+      {
+        "startTime": 1361,
+        "endTime": 1368,
+        "speaker": "Diego Diehl",
+        "text": "Tenta fazer isso muito em Curitiba, tem pouco sucesso, ele esforço que eles fazem tem pouco sucesso eles vendem mas pouco então, vamos falar"
+      },
+      {
+        "startTime": 1368,
+        "endTime": 1368,
+        "speaker": "Eduardo Barbosa",
+        "text": "sim"
+      },
+      {
+        "startTime": 1370,
+        "endTime": 1400,
+        "speaker": "Diego Diehl",
+        "text": "do mais básico que é como é que a gente de uma forma sistêmica e de uma operação que dá escala poderia fazer os corretores de outras imobiliárias venderem mais OAB. Acho que é Um Desafio legal para focar o corretor da de outras imobiliárias. Ele ele faz duas coisas basicamente, né? Ele ele recebe clientes tem clientes e quer pesquisar imóvel para esses clientes certo? Então cara."
+      },
+      {
+        "startTime": 1400,
+        "endTime": 1419,
+        "speaker": "Diego Diehl",
+        "text": "Recebi um cliente. Aonde é que eu pesquiso um imóvel? Até uma pergunta para vocês para mapear Floripa hoje de 10 Imobiliários que não são vocês ou até a de vocês, se um corretor recebe um cliente hoje. Liga para ele. Ah entende? O que ele quer aonde é que o corretor vai pesquisar um imóvel hoje é uma pergunta mesmo."
+      },
+      {
+        "startTime": 1420,
+        "endTime": 1435,
+        "speaker": "Eduardo Barbosa",
+        "text": "Cara normalmente ele vai a maioria das imobiliárias aqui tem o captei tá? Então ele vai na captei lá e busca o imóvel efetivamente para entender. Está disponível e até para chegar no próprio proprietário, né normalmente."
+      },
+      {
+        "startTime": 1435,
+        "endTime": 1437,
+        "speaker": "Diego Diehl",
+        "text": "Isso terceiros, né usado?"
+      },
+      {
+        "startTime": 1437,
+        "endTime": 1438,
+        "speaker": "Eduardo Barbosa",
+        "text": "Isso usados o lançamento cara boa"
+      },
+      {
+        "startTime": 1438,
+        "endTime": 1439,
+        "speaker": "Diego Diehl",
+        "text": "e lançamento"
+      },
+      {
+        "startTime": 1441,
+        "endTime": 1457,
+        "speaker": "Eduardo Barbosa",
+        "text": "pergunta Cara. Eu acho que ele vai na grade aqui normalmente não vai na gralha porque não faz parceria. Então não vai. Ele acaba pesquisando no zap não tem esse negócio Boa pergunta agora. É uma boa pergunta, cara."
+      },
+      {
+        "startTime": 1457,
+        "endTime": 1492,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que esse é um vou chutar tá? Depois a gente faz uma pesquisa rápida de campo para entender eu chuto que eles meio que é tudo meio daí meio que conhece meio que sabem quem conversa meio que tem o drive. Pergunta para os colegas algo. Daí, eles têm um drive da Construtora pelo menos de outras cidades assim tá é constitucionalission drive, ele tem que entrar no Drive tem várias pastas abrir um book e ver se mais ou menos é aquilo que ele quer, ele vira meio que um Sabe quando a gente buscava em jornal."
+      },
+      {
+        "startTime": 1492,
+        "endTime": 1499,
+        "speaker": "Diego Diehl",
+        "text": "Só que o driver é mais bagunçado do jornal porque é como se fosse um monte de jornal dentro de jornal e você não enxerga nada direito. então"
+      },
+      {
+        "startTime": 1499,
+        "endTime": 1503,
+        "speaker": "Eduardo Barbosa",
+        "text": "O Manduca sabe cara jornal impresso aí?"
+      },
+      {
+        "startTime": 1503,
+        "endTime": 1507,
+        "speaker": "Diego Diehl",
+        "text": "até o jornal era dava para ver tudo você ia passando a"
+      },
+      {
+        "startTime": 1507,
+        "endTime": 1511,
+        "speaker": "Marcel Manduca",
+        "text": "Tem gente que nos comia pela perna com boleto no final do mês."
+      },
+      {
+        "startTime": 1512,
+        "endTime": 1528,
+        "speaker": "Diego Diehl",
+        "text": "Então eu por exemplo segunda-feira até aproveitando um Ganchinho segunda-feira, eu vou estar em Goiânia, eu vou passar semana lá, a gente tá uns dois três anos na praça lá já. Vou tem umas 10 visitas aí incorporadoras. E aí vocês falaram que tem um contato com a urna?"
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1531,
+        "speaker": "Eduardo Barbosa",
+        "text": "e a mais broca também as duas As"
+      },
+      {
+        "startTime": 1531,
+        "endTime": 1532,
+        "speaker": "Diego Diehl",
+        "text": "URBS não sei se o Felipe tem"
+      },
+      {
+        "startTime": 1532,
+        "endTime": 1532,
+        "speaker": "Eduardo Barbosa",
+        "text": "duas que a gente tem lá."
+      },
+      {
+        "startTime": 1532,
+        "endTime": 1536,
+        "speaker": "Diego Diehl",
+        "text": "também, mas eu quero visitar uma duas três imobiliárias lá daí se"
+      },
+      {
+        "startTime": 1536,
+        "endTime": 1536,
+        "speaker": "Felipe Goettems",
+        "text": "uns três grandes Adão Adão Urbes e"
+      },
+      {
+        "startTime": 1536,
+        "endTime": 1538,
+        "speaker": "Diego Diehl",
+        "text": "puder."
+      },
+      {
+        "startTime": 1538,
+        "endTime": 1543,
+        "speaker": "Felipe Goettems",
+        "text": "mais mais Brokers agora tá começando a picotar. Porque as a"
+      },
+      {
+        "startTime": 1543,
+        "endTime": 1543,
+        "speaker": "Diego Diehl",
+        "text": "tá lá"
+      },
+      {
+        "startTime": 1543,
+        "endTime": 1553,
+        "speaker": "Felipe Goettems",
+        "text": "mesma mesma lógica tá? O cara vê que ganha mais que que é um bom cara interno, abre o olho para abrir a sua própria Imobiliária e vaza é isso enquanto são as três."
+      },
+      {
+        "startTime": 1558,
+        "endTime": 1582,
+        "speaker": "Diego Diehl",
+        "text": "voltar ali raciocínio primeira alavanca de resultado, né? O corretor ele vai pesquisar imóveis. Vai pesquisar ele vai É objetivo dele conseguir um cliente e quando ele vai pesquisar, ele tem que ir em algum lugar e é um caos ele busca em drives e tal a vida do cara é um caos porque ele tem que virar um detetive e não consultou alguma coisa assim, né? Ele fica."
+      },
+      {
+        "startTime": 1582,
+        "endTime": 1617,
+        "speaker": "Diego Diehl",
+        "text": "Cara catando coisa em tudo que é lugar quando a hora entra numa cidade se consolida. E o corretor entende que se ele entrar na Orlando. Ele tem acesso a todos os lançamentos da cidade tirando cinco porcento das incorporadoras que vão falar. Não não quero divulgar o meu produto que hoje em dia tá cada vez menor isso, né? Você fala assim, você não quer divulgar o teu produto de graça na versão a gente tem a versão gratuita, né? Daí o cara fala, não quero."
+      },
+      {
+        "startTime": 1617,
+        "endTime": 1638,
+        "speaker": "Diego Diehl",
+        "text": "Então tá bom. Quando tiver problema de vendas você me liga aí passa seis meses, ele tem problema de vendas, ele liga pra gente então quando essa primeira visão sistêmica é quando o cara pesquisa a gente começa a entender o comportamento dele, então pode ser que os seus clientes Barbosa de De você tenha lá cinco incorporadores."
+      },
+      {
+        "startTime": 1638,
+        "endTime": 1697,
+        "speaker": "Diego Diehl",
+        "text": "Daqui a pouco vou pensar em junho lá temos 10 incorporadoras agora escalamos a operação da borda e a gente sabe um monte de corretor que está pesquisando o produto o próprio produto lá que está conhecia um concorrente. Mas viu que do lado do concorrente tem o teu lá. E vai acabar caindo nisso e a gente sabe o corretor que acessou concorrente também, então dá para a gente dar um oi para o corretor que essa sua concorrente e dá para a gente dar um oi acessando o corretor que acessou o produto na orla."
+      },
+      {
+        "startTime": 1697,
+        "endTime": 1721,
+        "speaker": "Diego Diehl",
+        "text": "Essa é a versão Barbosa mais assim, pode dar sorte de pegar um corretor que tem cliente já. E aí você liga é muito legal. Ah, tem um cliente vamos visitar mas o principal é falar você trabalha a região do Campeche, pô, que legal, cara, pô, me adiciona aí que cara eu tô em contato com vários lançamentos do Campeche, eu te aviso aí entra na segunda alavanca que é a gente jogar informação periódica para o corretor que é o que acontece."
+      },
+      {
+        "startTime": 1721,
+        "endTime": 1725,
+        "speaker": "Diego Diehl",
+        "text": "Não sei se acontece aí. Segunda validação eu acho que não mas em cidades que é um pouco mais aberto já. As incorporadoras tem um trabalho assim se eu for coordenador de parcerias e eu conhecer quatro corretores aqui na sala. Ah, conheci peguei o contato de vocês, cara. Uma vez na semana uma vez acabou semanas."
+      },
+      {
+        "startTime": 1725,
+        "endTime": 1736,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou mandar um oi para vocês. Vou falar. Cara, a gente botou uma unidade de promoção. Ô saiu uma imagem nova, É eu vou fazer um jantar lá na nossa central e eu tenho 15 vagas, veja se você tem um cliente lá para levar aí a Incorporadora fica criando iscas e mecanismos para divulgar coisa para os corretores e eles terem vontade de divulgar essa mesma coisa para cliente então."
+      },
+      {
+        "startTime": 1736,
+        "endTime": 1762,
+        "speaker": "Diego Diehl",
+        "text": "são três alavancas Barbosa só para fechar esse Line raciocínio, a gente tem um desafio de Desafio não é Um Desafio de mostrar para os corretores a hora daí com isso eles começam a pesquisar na hora de vocês como parceiros da hora não tem informação privilegiada digamos assim como interno e fazer um trabalho com automação com e a com tecnologia muito muito bacana."
+      },
+      {
+        "startTime": 1762,
+        "endTime": 1792,
+        "speaker": "Diego Diehl",
+        "text": "o segundo meio Querem esperar aí, não sei se o segundo meio é depois que eu captei. Esse Cara eu tenho uma Como ter uma comunicação escala para ele lembrar de mim, porque não é visto não é lembrado. E aí essa segunda se dobra em duas quem não é visto não é lembrado eu posso lembrar ele com uma mensagem no WhatsApp com áudio no WhatsApp uma ligação para ele com uma visita Imobiliária, então a gente começa a segmentar essa Cadência de contato com ele que é mandar informação."
+      },
+      {
+        "startTime": 1792,
+        "endTime": 1812,
+        "speaker": "Diego Diehl",
+        "text": "WhatsApp de vez em quando eu ligo para ele e falo e aí Fulano, como é que tá pô, tua casa tá segura aí no show de água, pô. Vou te mandar uma campanha e essa visita que daí é uma arte em Porto Alegre. Eu acho que eu não sei se tem outra cidade ainda, mas Porto Alegre Pelo que eu entendi a cidade com essa arte mais bem desenvolvida."
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1849,
+        "speaker": "Diego Diehl",
+        "text": "Que é de visitas a imobiliárias então que a gente tá vendo Barbosa é juntar a tecnologia. da orla Com tecnologia de informação que são Paulo já desenvolveu que é o que que eu mando para o corretor toda hora porque eu não posso visitar ele e terceiro. Aprender a visitar Imobiliária aqui em Porto Alegre sabe fazer porque não adianta mandar o cara visitar ele ficar lá só tomando cafezinho, ele tem que saber como se relacionar quando você faz uma mistura dessas três coisas você começa a ter base de corretores ficar conhecido na cidade e induzir eles a lembrar melhor dos seus produtos."
+      },
+      {
+        "startTime": 1849,
+        "endTime": 1869,
+        "speaker": "Diego Diehl",
+        "text": "Deu para entender eu tentei dar uma visão do que eu concordo com o Edu aqui a gente tem conversado a 6 8 meses. E a hora no daí ajuda muito numa ponte de como dar escala essa comunicação organizar a gestão nesse time que é um caos a Barbosa tipo no Brasil inteiro tá amadurecendo agora."
+      },
+      {
+        "startTime": 1869,
+        "endTime": 1895,
+        "speaker": "Diego Diehl",
+        "text": "Tipo pensa que corretor quando a gente tem um corretor mais controlado dentro da imobiliária já é meio que um caos. Demora para você ensinar para ele assim, ó, segunda-feira, você vai fazer isso terça, você vai fazer isso. Faça aquilo treino aquilo, quando é um cara de rua que faz um monte de coisa diferente é mais caótico ainda então o que a gente tá vendo no Brasil assim principalmente em São Paulo, Curitiba, Porto Alegre de certa forma profissionalização desse trabalho."
+      },
+      {
+        "startTime": 1895,
+        "endTime": 1905,
+        "speaker": "Diego Diehl",
+        "text": "Não é só um cara amigão que toma café, cara. Tem tem uma estratégia tem alguns processos e dá resultado. Fechou tá claro Barbosa, então."
+      },
+      {
+        "startTime": 1905,
+        "endTime": 1906,
+        "speaker": "Eduardo Barbosa",
+        "text": "Bem claro cara."
+      },
+      {
+        "startTime": 1907,
+        "endTime": 1940,
+        "speaker": "Diego Diehl",
+        "text": "desafio que a gente tem aí em Floripa que a gente vocês vão ter ajuda da hora no total é que cara se hoje se hoje Floripa fosse consolidado como Curitiba, Porto Alegre com órgão. A gente é rapidamente tão grande resultado na borda porque a gente poderia falar com muito corretor de uma forma extremamente estratégica, porque eu não vou mandar um produto da região sul para o cara que trabalha na Região Norte em Jurerê, eu sei os caras trabalham mais Jurerê os seus caras trabalham mais Canasvieiras Canasvieiras sem o cara que trabalha mais produto para investidor."
+      },
+      {
+        "startTime": 1940,
+        "endTime": 1959,
+        "speaker": "Diego Diehl",
+        "text": "Eu sei o cara que trabalha mais alto padrão eu começo a comunicar coisas de forma segmentada para cada um e o cara cara ele acaba Lembrando que tem cliente Barbosa os caras vive meio que não falou assim. Pega um card ele fala nossa que produto Legal, cara. Vou disparar isso."
+      },
+      {
+        "startTime": 1959,
+        "endTime": 1959,
+        "speaker": "Marcel Manduca",
+        "text": "Eu vivo eu vivo isso há anos, né?"
+      },
+      {
+        "startTime": 1959,
+        "endTime": 1962,
+        "speaker": "Diego Diehl",
+        "text": "Ser um card você vive isso, mano."
+      },
+      {
+        "startTime": 1964,
+        "endTime": 1995,
+        "speaker": "Marcel Manduca",
+        "text": "Eu sou um dos primeiros clientes da ordem e aquele repórter que vai recebendo semanalmente por e-mail, por exemplo, né atualizando os Empreendimentos os produtos só isso já é uma ponte de comunicação que é justamente a solução que tu traz analogia do cara que vai lá pesquisar um drive e hoje é o panorama atual, né? O Nosso corretor, por exemplo nós nossa última reunião da nossa maior equipe de lançamentos o ponto foi como um corretor consegue."
+      },
+      {
+        "startTime": 1995,
+        "endTime": 2019,
+        "speaker": "Marcel Manduca",
+        "text": "É se atualizar de todos os produtos e lembrar de como acomodar uma proposta que às vezes não se encaixa com produto a que foi a captação daquele Lead para um produto alternativo BCD. E como que ele faz isso de uma maneira dinâmica dentro de uma plataforma? Por exemplo, né? Então quando eles falaram sobre essa carência ou na hora me lembrei do órgão, né? Que ele poderia fazer."
+      },
+      {
+        "startTime": 2019,
+        "endTime": 2053,
+        "speaker": "Marcel Manduca",
+        "text": "um filtro, né? E essa relação já então, o órgão faz essa solução bico corretor e a gente transforma daí isso quando pensando em borda em duas perspectivas primeiro essa penetração aqui na em Florianópolis que ela é difícil ela ela cultura ainda tá ainda fechada. Para parcerias como um todo mas aí eu vejo duas oportunidades, né vendo aí como né? Frágil, né olhando para dificuldade com uma oportunidade."
+      },
+      {
+        "startTime": 2053,
+        "endTime": 2082,
+        "speaker": "Marcel Manduca",
+        "text": "Como que nós poderíamos ser uma mola proporciona na Orlando certo e nós criarmos um benefício de direcional, né? Ou seja tanto para hora no canto para nós entregando valor de informação, só que criando essa cultura. Aonde está a dificuldade, né? Como que a gente faz que os corretores coloquem no seu radar diário, né? O recorrente a plataforma da órgão e não esses instrumentos rudimentares."
+      },
+      {
+        "startTime": 2084,
+        "endTime": 2103,
+        "speaker": "Marcel Manduca",
+        "text": "Por mais que sejam rudimentares culturalmente, eles acabam indo por essas vias, né? E aí a gente vai pegar uma questão de preferência, né? Tem uma outra eu sempre esqueço o nome BW BW. É essa aí que é de Camboriú, né,"
+      },
+      {
+        "startTime": 2103,
+        "endTime": 2104,
+        "speaker": "Diego Diehl",
+        "text": "DW dwv"
+      },
+      {
+        "startTime": 2112,
+        "endTime": 2130,
+        "speaker": "Marcel Manduca",
+        "text": "Itapema ela não chega que ela parece que não tem assim muito Mete Aqui com Florianópolis, né? Se a gente for olhar o mapeamento na orla, vocês estão bem mais apurados do ponto de vista de inteligência de dados do que a concorrente vocês local, digamos assim. e"
+      },
+      {
+        "startTime": 2130,
+        "endTime": 2131,
+        "speaker": "Diego Diehl",
+        "text": "Até em Balneário a gente tá assim, tá?"
+      },
+      {
+        "startTime": 2132,
+        "endTime": 2171,
+        "speaker": "Marcel Manduca",
+        "text": "Pois é então, será que isso realmente é uma crença, né? É uma ortodoxia da praça local então a própria desenvolvedor aqui não acredita. Que que vá se desenvolver culturalmente uma informação dentro de uma plataforma de lançamento. Então eu fico pensando né? Como que a gente rompe essa bolha e como que a gente consegue entrar como parceiro de vocês aí o Barbosa pode dimensionar isso melhor enxergando oportunidade de a gente disseminar os produtos dentro da ordem daquilo que a gente tem como parceiro para toda aí para toda a ilha estendendo o Brasil."
+      },
+      {
+        "startTime": 2171,
+        "endTime": 2179,
+        "speaker": "Marcel Manduca",
+        "text": "Que daí o Brasil talvez seria algo mais consolidado se a gente olha para uma oportunidade macro aí diver. Graças poderiam chegar a Florianópolis através da nossa comunicação."
+      },
+      {
+        "startTime": 2179,
+        "endTime": 2191,
+        "speaker": "Felipe Goettems",
+        "text": "Olha, olha que curioso mandou que eu acho que é muito é muito legal essa comparação porque a gente está falando de 80 km de distância, né, Floripa Itapema, não sei se chega a 80, mas enfim é menos de 100 e você tem."
+      },
+      {
+        "startTime": 2191,
+        "endTime": 2200,
+        "speaker": "Marcel Manduca",
+        "text": "E a minha teoria que esse essa distância está cada vez mais curta, né? Que inevitavelmente esse mercado vai ser vai haver uma fusão, né?"
+      },
+      {
+        "startTime": 2200,
+        "endTime": 2249,
+        "speaker": "Felipe Goettems",
+        "text": "agora Raras vezes raras. Eu acho que eu acho que é maior dicotomia de todas as Praças que é a hora da tua tá você tem em Vale do Itajaí. Uma completa abertura que eu não vi nenhum outro lugar tá Talvez né? Algumas praças estejam próximas do que a abertura é terra de ninguém em termos de terra de ninguém ao mesmo tempo terra de todo mundo, né? Porque cara não tem não vai ter alguém que não está autorizado a vender um produto em Balneário, não existe isso e daí você tem 80 km para baixo."
+      },
+      {
+        "startTime": 2249,
+        "endTime": 2263,
+        "speaker": "Felipe Goettems",
+        "text": "Talvez uma das cidades mais. No outro lado do espectro ainda, né? De que sim, você precisa de uma autorização para defender autorização normalmente a estar dentro daquela imobiliária em específico, né? Agora eu não acho que por ir para se transforma de um ano para o outro em balneário. Mas eu não vejo eu vejo que é Floripa que se aproxima de Balneário e não o contrário."
+      },
+      {
+        "startTime": 2263,
+        "endTime": 2289,
+        "speaker": "Felipe Goettems",
+        "text": "Tá então em última análise, vamos dizer o seguinte, eu sei que isso não é possível, mas em última análise. Imagine que daqui a cinco anos a gente tivesse. Próximo do que é Balneário Floripa estivesse próximo do que é Balneário e vamos dizer para uma cara uma característica mágica do Manduca e do Barbosa todas as incorporadoras da Ilha estivessem na borda da bronholi."
+      },
+      {
+        "startTime": 2289,
+        "endTime": 2293,
+        "speaker": "Felipe Goettems",
+        "text": "Imagina um mercado imagina imagina todo o mercado consumindo."
+      },
+      {
+        "startTime": 2293,
+        "endTime": 2324,
+        "speaker": "Marcel Manduca",
+        "text": "É sobre isso. Eu acho que é um pouco desse dessa. Possibilidade é o que da da perspectiva, né? De a gente poder representar a captação desse desse dessa parceria pela plataforma órgão sobre um espectro maior olhando assim, né por Florianópolis de fora com a brólia quem vê de fora de fora para dentro, né? Entra pela pela contato com bronholi, por exemplo."
+      },
+      {
+        "startTime": 2324,
+        "endTime": 2383,
+        "speaker": "Marcel Manduca",
+        "text": "E seria uma solução razoável se tu olhar a cultura do local porque né o mercado fechado inspira, né? Um dois máximo três parceiras. Então seria uma proposta ainda inédita, eu acredito, né? E a gente teria essa possibilidade. E aí como foi falado ali, né? A gente tem uma questão aqui diferentes, São Paulo diferente de Porto Alegre, porque São Paulo ela por ser grande ela é digital nós por sermos diversos nós somos digital e presencial ao mesmo tempo porque nós temos praias, essa Paula não tem praia Porto Alegre não tem praia, né? A gente tem microcentros distintos com gestão quase que independente do próprio município, né com características culturais muito diferentes é totalmente diferente de inglês de inglês próximo de Jurerê é totalmente diferente Jurerê, por exemplo, né e os Empreendimentos."
+      },
+      {
+        "startTime": 2383,
+        "endTime": 2439,
+        "speaker": "Marcel Manduca",
+        "text": "Os CT muda o empreendimento muda produto muda ticket médio muda, né? Então vem é muito caro, tu criar uma arquitetura para que tu possa fazer isso para todo mundo, nós teremos que criar micro gestão, né? É o que a gente fez no final a gente colocou agências nesses pontos Chaves e a partir daí assumir um pouco a roupagem daquele local, né? Então como que nós faríamos? Como é que a gente poderia ganhar mais escalabilidade em relação a nossa comunicação é entre corretores entre parceiros, né através da plataforma, só que a plataforma não existe culturalmente as habilidades ela dentro da Ilha, né? Então como que isso faz tracionar isso e a gente ganhar mais parceiros mais negócios gerados, né? Eu eu penso."
+      },
+      {
+        "startTime": 2439,
+        "endTime": 2443,
+        "speaker": "Marcel Manduca",
+        "text": "Esse é o ponto, né? Como que a gente constrói isso, né?"
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2452,
+        "speaker": "Diego Diehl",
+        "text": "isso daí Assim você usava táxi? Você usa o Uber agora? Você"
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2452,
+        "speaker": "Marcel Manduca",
+        "text": "Não."
+      },
+      {
+        "startTime": 2452,
+        "endTime": 2470,
+        "speaker": "Diego Diehl",
+        "text": "para usar Uber? Não se descobre um negócio que é melhor que o outro e fala parei de usar o outro daí às vezes você vai no automático. Ligar para o táxi. Ah não, não vou usar Uber agora já liguei para o táxi daí na outra se fala e é isso é Mudança de Hábito."
+      },
+      {
+        "startTime": 2470,
+        "endTime": 2495,
+        "speaker": "Diego Diehl",
+        "text": "Que no ser humano é uma das coisas mais difíceis que existe, mas quando o negócio é muito melhor a gente consegue mostrar o quão bom é é rápido é mostrar e daí é um teste de vocês também até interno na br- olha vocês podem fazer isso e falar assim o corretor cadastra e mexe aí ver ó é assim a plataforma tem os produtos."
+      },
+      {
+        "startTime": 2495,
+        "endTime": 2531,
+        "speaker": "Diego Diehl",
+        "text": "Na abertura da página inicial do computador dele já era. Então, a gente faz isso e é o meu trabalho hoje que é como é que em novas praças a gente implementa um hábito nas pessoas e aí aonde eu principalmente vou apoiar essa sinergia, né? Então cara É bem feijão com arroz é mostrada ferramenta deixar um lembrete do cara reforçar por e-mail reforçar numa comunicação do WhatsApp, quando a gente consolida isso a gente consegue ter toda a base de corretores da cidade na nossa."
+      },
+      {
+        "startTime": 2531,
+        "endTime": 2550,
+        "speaker": "Diego Diehl",
+        "text": "E aí essa parte bidirecional? Que você falou Manduca, aí a gente pode te mostrar tudo que a gente já faz com as incorporadoras que é basicamente. Tudo que a gente faz com as incorporadoras, vocês vão ter acesso e mais ainda porque vocês têm uma parceria mais estratégica ainda com a gente, tá? Você tô tentando resumir tá para a gente não patinar."
+      },
+      {
+        "startTime": 2550,
+        "endTime": 2587,
+        "speaker": "Marcel Manduca",
+        "text": "Eu acho assim, né o caminho a ser pavimentado, né um é o setup da do órgão com integrando os nossos corretores treinamento, né um Borge aí eu acho que daí tu entra como essa fundamental, né? Para disseminar essa Cultura, né e mostrar para eles, né através de comparativos outros locais."
+      },
+      {
+        "startTime": 2587,
+        "endTime": 2592,
+        "speaker": "Marcel Manduca",
+        "text": "Como que isso dá certo, né? E aí a gente começar. Expandir e isso E aí o Barbosa entra no processo de borda pensando, né? Como que se há, né mete? Como que ele pensa as estratégias para esse desenvolvimento macro de parcerias, né?"
+      },
+      {
+        "startTime": 2592,
+        "endTime": 2611,
+        "speaker": "Felipe Goettems",
+        "text": "Então virou Manduca preocupação que você tem foi o que eu coloquei no início, né? A gente hoje tem um diretor para essa preocupação. Para essa para essa abertura de praça, então eu ver como isso é estratégico e é complexo tá? Não é simples o Diego até falou de um modo simples, mas comportamento é complexo de mudar isso é?"
+      },
+      {
+        "startTime": 2611,
+        "endTime": 2630,
+        "speaker": "Diego Diehl",
+        "text": "É repetir repetir repetir e florir para a gente não tem a gente mapeou a praça e não fez um trabalho forte de trazer Corretores e Ir para Praça local e tal, mas se a gente for ver pensa que esse gráfico aqui ó. Bateu o olho isso aqui é Floripa."
+      },
+      {
+        "startTime": 2630,
+        "endTime": 2644,
+        "speaker": "Diego Diehl",
+        "text": "Assim tá inclinado. Em algum momento sobe Não Para de subir e a gente não tá fazendo de certa forma, mas eu acho que zero esforço para trazer corretores em Floripa hoje, né zero"
+      },
+      {
+        "startTime": 2644,
+        "endTime": 2644,
+        "speaker": "Marcel Manduca",
+        "text": "o que que"
+      },
+      {
+        "startTime": 2644,
+        "endTime": 2669,
+        "speaker": "Diego Diehl",
+        "text": "E um já isso aqui é número de corretores é crescendo corretores os que voltaram os inativos que vote meio ativo, então isso aqui é uma curva que tá pouco inclinada, mas a gente vê que tem aderência, entendeu? Se virar lá e pegar 30 40 corretores que mais usam não dá para multiplicar por eles assim a gente monta estratégias o que a gente precisa já mano que o processamento."
+      },
+      {
+        "startTime": 2669,
+        "endTime": 2698,
+        "speaker": "Diego Diehl",
+        "text": "Cara primeiro que vocês comprem muita ideia então para mim o primeiro Case é a bronholi usar a órgão. No dia a dia e os corretores utilizarem. Porque daí a gente tem o conhecimento dentro de vocês a não ser que tenha algum. Algum conflito de interesse de alguma forma que a gente pode mapear bem aberto tranquilo, mas estão ali usando para pesquisar de forma mais otimizada os imóveis dele ou se tiver o CRM de vocês."
+      },
+      {
+        "startTime": 2698,
+        "endTime": 2713,
+        "speaker": "Diego Diehl",
+        "text": "Beleza se essa cultura começa estar perto de vocês a gente começa a respirar junto isso que é tipo cara, é só entrar na hora não só usar tem corretor de vocês que sai vai para outro lugar, cara, já começa a usar daí começa a espalhar, né?"
+      },
+      {
+        "startTime": 2713,
+        "endTime": 2713,
+        "speaker": "Marcel Manduca",
+        "text": "ótimo"
+      },
+      {
+        "startTime": 2713,
+        "endTime": 2736,
+        "speaker": "Eduardo Stringhini",
+        "text": "Só complementando assim, ó, eu queria dizer que o Manduca foi muito muito assertivo nessa colocação tá então. A gente tem essa vertical parte dela por causa da receita que dá mas boa parte por ser uma estratégia de entrada em praça, tá? Essa vertical do GD que a gente chama que é apoiar a operação de gestão de mais só que a gente com a parte digital."
+      },
+      {
+        "startTime": 2736,
+        "endTime": 2754,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ela justamente é para acelerar Nossa entrada em praça porque a pessoa essa operação ela vai muito a campo e ela fala muito com corretor, então é uma forma de escalar isso que o Diego falou tal já usou. Ou seja priorizar que o canal de acesso à informação ele vai ver uma tabela."
+      },
+      {
+        "startTime": 2754,
+        "endTime": 2767,
+        "speaker": "Eduardo Stringhini",
+        "text": "Ele olha para o link da ordem quando ele vai pesquisar para o cliente, ele vai pela hora porque quanto mais a gente tem isso numa praça mais a gente ajuda esse tipo de operação, me ajuda para eu te ajudar."
+      },
+      {
+        "startTime": 2771,
+        "endTime": 2814,
+        "speaker": "Marcel Manduca",
+        "text": "Cultura, né? Isso já gera valor no sentido de pesquisa e tangibilidade, né das pesquisas e entregas para os nossos clientes e isso corretor braynoli e eu visualizo assim o órgão colaborando para que parceiros que não estavam mapeados se tornem parceiros de pegar uma Sei lá uma imobiliária aqui que não tava conectada conosco, mas ela se conectou naturalmente por causa da plataforma é uma qualité, por exemplo que trabalha imóveis de alto padrão e que a gente não tem de repente uma uma comunicação mais mais próxima daqui a pouco ela se conecta por ali uma simples."
+      },
+      {
+        "startTime": 2814,
+        "endTime": 2840,
+        "speaker": "Marcel Manduca",
+        "text": "Eu imagino assim, né? Coloca Clique ali na no empreendimento da OAB no Campeche, ela não tem acesso sabe que o mercado é fechado. E aí tá o ponto de oportunidade, eu acho né? Ela sabe o mercado tá fechado. Ela sabe que ela não teria possibilidade de venda, mas ela vê ali na plataforma e ativa então, né o contato e a gente apresenta esse cenário de parceria que é de para novos parceiros, né?"
+      },
+      {
+        "startTime": 2840,
+        "endTime": 2860,
+        "speaker": "Diego Diehl",
+        "text": "Isso acaba né, Manduca essa parada de percepção de fechado acaba que o corretor pega um cliente pesquisa um produto fala com vocês. Quem que vai deixar de vender não? Quem que vai deixar de visitar você chega um corretor falando que tem cliente isso daí, eu acho que é que o Felipe falou hoje, vem várias praças esse amadurecimento."
+      },
+      {
+        "startTime": 2860,
+        "endTime": 2878,
+        "speaker": "Diego Diehl",
+        "text": "E cara uma coisa é você não sair divulgando para todo mundo outra coisa é você proibir o parceiro de vender. Esse proibir cara, quem proíbe né o seu Incorporadora não não só aceito cliente seguindo dessa imobiliário. Não começa a acabar com esse com essa chegada."
+      },
+      {
+        "startTime": 2878,
+        "endTime": 2882,
+        "speaker": "Felipe Goettems",
+        "text": "Eu vi um comentário hoje da Siri falando isso tá proibido."
+      },
+      {
+        "startTime": 2882,
+        "endTime": 2884,
+        "speaker": "Diego Diehl",
+        "text": "a gente vê os comportamentos mas é"
+      },
+      {
+        "startTime": 2888,
+        "endTime": 2918,
+        "speaker": "Felipe Goettems",
+        "text": "a filha do Campeche Proibindo a filha de trabalhar produto só para gente deixar bastante a gente tá falando de alto nível. Só para deixar bem tátil, tá Diego mostra o WhatsApp uma figura do WhatsApp da gente. Acho que foi a gente build que tem o nosso prm e que o robô automaticamente recomenda e na hora para buscar determinado determinado material determinada."
+      },
+      {
+        "startTime": 2918,
+        "endTime": 2937,
+        "speaker": "Felipe Goettems",
+        "text": "Coisa e Tal, vejam bem pessoal. Isso aqui é o Diego vai mostrar é um é um exemplo bem tangível, tá do prm que é o que é o sistema de gestão de financeiros com o robô Respondendo a um corretor no WhatsApp e que isso favorece ao engajamento na própria Orla."
+      },
+      {
+        "startTime": 2937,
+        "endTime": 2943,
+        "speaker": "Felipe Goettems",
+        "text": "Então eu não sei se tem aí o que tu mandou acho que ontem anteontem mandou uma."
+      },
+      {
+        "startTime": 2943,
+        "endTime": 2966,
+        "speaker": "Diego Diehl",
+        "text": "Aham, eu vou dar o contexto aqui, ó, seria um sistema que a gente avançando. Vocês já vão sair 10 anos na frente aí de das primeiras parcerias de dos times de parcerias das incorporadoras. E ele se integra com a órgão tem os arquivos aqui tabela book apresentação e a gente monta um script padrão."
+      },
+      {
+        "startTime": 2966,
+        "endTime": 3026,
+        "speaker": "Diego Diehl",
+        "text": "Por exemplo, falaram lá a gente tem uma pessoa que responde dúvidas não falaram. Essa pessoa que responde dúvidas que é assistente algo assim, né naturalmente na cidades a pessoa que tem que responder dúvida é a pessoa que apertou a mão do corretor é a pessoa que a voz do corretor tenha coisa para gerar esse Elo emocional de confiança, né? E a gente vem entrega uma ferramenta que otimiza esse envio então aqui ó."
+      },
+      {
+        "startTime": 3026,
+        "endTime": 3019,
+        "speaker": "Diego Diehl",
+        "text": "Isso aqui é o caso da gtbc devem conhecer gtbio falar era antiga tá engenharia agora é só Construtora o gerento comprou. E aí. Esse aqui é um script um modelo de como se eu enviar aqui no meu celular falando assim. O nome da que ficou no jeito é Zé ela fizer envia informações do produto tal ele vai enviar isso aqui ele vai enviar o book."
+      },
+      {
+        "startTime": 3019,
+        "endTime": 3039,
+        "speaker": "Diego Diehl",
+        "text": "Vai enviar perspectivas na orla. Então você já manda um link da hora para acessar as plantas acessa a hora do também então já tem esse link aqui. Aí a tabela qualquer dúvida estou à disposição. Então esse aqui é um exemplo do scriptzinho do robô que apoia. Quem tá na ponta visitando os corretores."
+      },
+      {
+        "startTime": 3039,
+        "endTime": 3053,
+        "speaker": "Diego Diehl",
+        "text": "Para responder então esse isso aqui começa a Gerar audiência, porque o cara clica aqui essa hora deixa eu ver o cara ainda fica curioso para acessar as perspectivas, pô, deixa eu acessar as perspectivas. Então você sai logo isso começa a Gerar audiência e conhecer."
+      },
+      {
+        "startTime": 3054,
+        "endTime": 3091,
+        "speaker": "Felipe Goettems",
+        "text": "uma coisa importante pessoal além de gerar audiência isso aqui gera a informação classificada no corretor quer dizer a gente está pontuando esse corretor dado o comportamento que ele tá fazendo então daqui a pouco se ele interagiu de determinada forma um determinada pontuação e agora a gente está representando um produto que de alguma forma está competindo vinculado ou tem alguma semelhança bom a gente já Uma campanha automática em cima em cima daquele corretor que a gente está classificando então isso aqui é um exemplo bem prático de algo que pode ser implementado."
+      },
+      {
+        "startTime": 3091,
+        "endTime": 3105,
+        "speaker": "Felipe Goettems",
+        "text": "E que tá um gerando audiência para hora e dois gerando classificação do comportamento do corretor que isso uma vez armazenado ele não serve para a gente conhecer quem é quem separar o joio do trigo."
+      },
+      {
+        "startTime": 3106,
+        "endTime": 3145,
+        "speaker": "Diego Diehl",
+        "text": "Essa classificação Gente o que a gente tem em comum assim, não sei vocês, mas vocês tiverem preparados é a gente trazer 10 incorporadoras parceiros que de preferência às vezes em algumas cidades elas Pagam uma mensalidade para vocês fixa e ainda o variável de comissão, às vezes não dá para ter mensalidade, né, mas esses Pit de falar chegar no microporador e falar assim, quantos corretores você conversa você pode divulgar teu produto ah x, mas fala assim, cara, eu tenho 1.200 aqui que se você se associar comigo eu consigo divulgar o teu produto para 1.200 Corretores e 90 imobiliárias Incorporadora, olha e fala caramba."
+      },
+      {
+        "startTime": 3145,
+        "endTime": 3152,
+        "speaker": "Diego Diehl",
+        "text": "Eu preciso de você. E aí Vocês conseguem se consolidar mais na cidade da escala esse negócio? Tá esse ponto do Felipe é Pit."
+      },
+      {
+        "startTime": 3155,
+        "endTime": 3175,
+        "speaker": "Eduardo Barbosa",
+        "text": "Perfeito cara. Gostei bastante Grande São Manduca por ter provocado. Acho que a gente tem que caminhar tomando quentão, pode puxar essa parte aqui. Na borda Nacional daí Diegão, a gente eu acho que vale a gente marcar um papo. Eu queria entender a numerologia tá? Para a gente poder depois ver como é que funciona."
+      },
+      {
+        "startTime": 3175,
+        "endTime": 3188,
+        "speaker": "Eduardo Barbosa",
+        "text": "Vocês. Deve ter alguma coisa nesse sentido ponto dois mandou que eu vou puxar o Regional aqui pode ser mandando Nosso corretor e a Nacional, daí eu puxo com Diogão, se tu não te importar eu puxo com Diego que a minha ideia cara botar isso embaixo"
+      },
+      {
+        "startTime": 3188,
+        "endTime": 3189,
+        "speaker": "Diego Diehl",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 3189,
+        "endTime": 3208,
+        "speaker": "Eduardo Barbosa",
+        "text": "do braço e dizer o seguinte tu quer vender teu produto nacionalmente tá aqui ó, pá pá pá pá pá pá e a gente bater em todas as que eu brinco com Manduca aqui, cara, a gente tem uma chave mestra que é o seu Marcelo que eu abro qualquer porta, mas eu tenho que chegar com alguma coisa que faz sentido para o cara, né? Se não cara."
+      },
+      {
+        "startTime": 3208,
+        "endTime": 3222,
+        "speaker": "Eduardo Barbosa",
+        "text": "Abre a porta e depois me corre, né? Então acho que a gente pode amarrar aqui um plano de ação efetivamente para Borda nacional. Para a gente tocar e o Manduca puxa o restante aqui do local para o nosso Corretores e tudo isso que daí a gente avança pode ser faz sentido."
+      },
+      {
+        "startTime": 3225,
+        "endTime": 3232,
+        "speaker": "Diego Diehl",
+        "text": "contigo, a gente marca um horário para entender melhor o que está buscando que vocês já fizeram e tal e aí vou alinhando também."
+      },
+      {
+        "startTime": 3232,
+        "endTime": 3233,
+        "speaker": "Eduardo Barbosa",
+        "text": "Tá perfeito, porque assim você"
+      },
+      {
+        "startTime": 3233,
+        "endTime": 3235,
+        "speaker": "Diego Diehl",
+        "text": "E aí"
+      },
+      {
+        "startTime": 3235,
+        "endTime": 3237,
+        "speaker": "Eduardo Barbosa",
+        "text": "conhecer a BM, né, cara?"
+      },
+      {
+        "startTime": 3237,
+        "endTime": 3238,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 3238,
+        "endTime": 3250,
+        "speaker": "Eduardo Barbosa",
+        "text": "A bmi a gente fez uma convenção com eles em Balneário apresentou os produtos todo mundo tá querendo cara, mas eu não tinha tecnologia eu ia usar Loft, né ou o corretop agora? Vamos com órgão para cima deles."
+      },
+      {
+        "startTime": 3252,
+        "endTime": 3283,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito Barbosa, eu tenho lá em você saber só desse Nacional um site em São Paulo, eu tô em São Paulo, né? Tô morando aqui cara no último conecta imob. Tinha quatro incorporadoras e eu vou todos os anos lá faz uns 8 anos. E eu falei cara, nunca vi Incorporadora com estande que cheguei para cada uma e falei que que vocês estão fazendo aqui até brincando, eles deram risada, ela falou cara, a gente quer expandir a nossa rede de parceiros para o Brasil."
+      },
+      {
+        "startTime": 3283,
+        "endTime": 3289,
+        "speaker": "Diego Diehl",
+        "text": "As quatro né? Ela tava skr plaenge, até esqueci. Agora. Acho que é Expo."
+      },
+      {
+        "startTime": 3289,
+        "endTime": 3290,
+        "speaker": "Felipe Goettems",
+        "text": "Mitre"
+      },
+      {
+        "startTime": 3290,
+        "endTime": 3309,
+        "speaker": "Diego Diehl",
+        "text": "E a Mitre? E aí a Mitre tá com um programa Bem robusto de vender em várias cidades, ela chega divulga propõe um evento e tal então já tem uns métodozinhos umas forminhas que eu já entendi alguns então dá para compartilhar contigo para a gente sintonizar. E aí sobre viabilidades oram também."
+      },
+      {
+        "startTime": 3309,
+        "endTime": 3309,
+        "speaker": "Eduardo Barbosa",
+        "text": "Perfeito e uma informação"
+      },
+      {
+        "startTime": 3309,
+        "endTime": 3310,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3310,
+        "endTime": 3327,
+        "speaker": "Eduardo Barbosa",
+        "text": "importante aqui para todos a OAB. Ela fez o movimento de abrir para Borda local, ela tirou da bronholi deixou só nacional com a gente e a gente me chamar para conversar semana que vem porque cara eles tiveram que inchar a área de comercial de um jeito absurdo e agora estão sofrendo é"
+      },
+      {
+        "startTime": 3327,
+        "endTime": 3328,
+        "speaker": "Diego Diehl",
+        "text": "Me ajuda."
+      },
+      {
+        "startTime": 3328,
+        "endTime": 3336,
+        "speaker": "Eduardo Barbosa",
+        "text": "exatamente então sofrendo está Barbosa. Vem cá conversar. Como é que a gente como é que a gente faz aí. exatamente"
+      },
+      {
+        "startTime": 3336,
+        "endTime": 3336,
+        "speaker": "Felipe Goettems",
+        "text": "E olha só que curioso a gente"
+      },
+      {
+        "startTime": 3336,
+        "endTime": 3338,
+        "speaker": "Diego Diehl",
+        "text": "Ah que eu entrei como cliente."
+      },
+      {
+        "startTime": 3338,
+        "endTime": 3348,
+        "speaker": "Felipe Goettems",
+        "text": "usar a borda da bronholi no produto da OAB em quando em abril maio. Onde é que foi isso isso?"
+      },
+      {
+        "startTime": 3348,
+        "endTime": 3378,
+        "speaker": "Diego Diehl",
+        "text": "Foi em carfo em abril ou em março do ano passado. E Enfim, acho que demorou uma semana para pessoa entrar em contato comigo. Dela entrou eu falei. Ah sim, tá dando respondeu aí depois só mandou outra coisa assim. Bem complexo não é trivial atender bem e tem uma coisa se vocês atendem bem até falando tem que nascer bem esse projeto já porque quando você"
+      },
+      {
+        "startTime": 3378,
+        "endTime": 3379,
+        "speaker": "Eduardo Barbosa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 3379,
+        "endTime": 3393,
+        "speaker": "Diego Diehl",
+        "text": "atende bem. Cara, todo mundo fala bem o corretor ele fala não nem fala com o incorporador. Não responde não não tem lugar quando fala assim, cara. Liga para ele que o cara é bom de mesa, chama teu cliente que vai fechar com esse cara aí."
+      },
+      {
+        "startTime": 3397,
+        "endTime": 3402,
+        "speaker": "Felipe Goettems",
+        "text": "tá? Porque a gente pegou no site fez no site da eu não sei quanto tempo a OAB demorou para passar para vocês. Mas aos olhos do cliente foi."
+      },
+      {
+        "startTime": 3409,
+        "endTime": 3411,
+        "speaker": "Eduardo Barbosa",
+        "text": "Show de bola gente super alinhados. Então tá"
+      },
+      {
+        "startTime": 3412,
+        "endTime": 3436,
+        "speaker": "Diego Diehl",
+        "text": "Fechou Manduca. Edu conecta mas com você, talvez uma das primeiras ações práticas e fáceis para melhorar a eficiência da empresa de vocês. É a gente fazer uns treinamentos da hora no time de vocês e sentir, como é que pega o que acontece vocês conhecerem presencial aí em Floripa, a gente tem três pessoas próximas aí que podem ir na imobiliária ajudar a treinar."
+      },
+      {
+        "startTime": 3436,
+        "endTime": 3436,
+        "speaker": "Marcel Manduca",
+        "text": "Eu vou eu vou solicitar aí o"
+      },
+      {
+        "startTime": 3436,
+        "endTime": 3439,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3439,
+        "endTime": 3445,
+        "speaker": "Marcel Manduca",
+        "text": "ingresso da do plano da orla e na sequência. Vamos para os treinamentos aí."
+      },
+      {
+        "startTime": 3445,
+        "endTime": 3446,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 3446,
+        "endTime": 3448,
+        "speaker": "Eduardo Barbosa",
+        "text": "Fechado gente muito bom."
+      },
+      {
+        "startTime": 3448,
+        "endTime": 3449,
+        "speaker": "Eduardo Stringhini",
+        "text": "Valeu pessoal, então, tá."
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3449,
+        "speaker": "Marcel Manduca",
+        "text": "valeu"
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3451,
+        "speaker": "Eduardo Barbosa",
+        "text": "Valeu ótima sessão de fim de semana."
+      },
+      {
+        "startTime": 3451,
+        "endTime": 3452,
+        "speaker": "Marcel Manduca",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3453,
+        "speaker": "Diego Diehl",
+        "text": "Valeu, abraço."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 210,
+    "speakers": [
+      "Felipe Goettems",
+      "Marcel Manduca",
+      "Eduardo Stringhini",
+      "Diego Diehl",
+      "Eduardo Barbosa"
+    ],
+    "total_words_estimate": 8985,
+    "duration_start": 31,
+    "duration_end": 3453
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "678a4611c73b960013888922",
+        "timestamp": 198,
+        "text": "Diego veio da Hype de Curitiba e está responsável pelo projeto de expansão da obra e geografias de comunicação.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888923",
+        "timestamp": 241,
+        "text": "Empresa expandiu para o litoral do Rio Grande do Sul em 2024, iniciando em Capão da Canoa e Atlântida.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888924",
+        "timestamp": 274,
+        "text": "Necessidade de desenvolver estrutura para transbordo sinérgico entre diferentes geografias.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888925",
+        "timestamp": 305,
+        "text": "Empresa atua em múltiplas geografias: Vitória, Porto Alegre, São Paulo e Curitiba.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888926",
+        "timestamp": 783,
+        "text": "Diferenças significativas entre mercados: São Paulo mais digital, Porto Alegre mais físico e relacional.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888927",
+        "timestamp": 962,
+        "text": "Empresa iniciou movimento de borda regional com OAB, expandindo para borda nacional.",
+        "topicId": "678a4611c73b96001388891b"
+      },
+      {
+        "segmentId": "678a4611c73b960013888928",
+        "timestamp": 1124,
+        "text": "Desafio principal: distribuir produtos para imobiliárias e corretores de forma eficiente e informativa.",
+        "topicId": "678a4611c73b96001388891c"
+      },
+      {
+        "segmentId": "678a4611c73b960013888929",
+        "timestamp": 1561,
+        "text": "Corretores atualmente enfrentam desafio de pesquisar imóveis em diversos lugares de forma caótica.",
+        "topicId": "678a4611c73b96001388891c"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892d",
+        "timestamp": 1710,
+        "text": "Incorporadoras criam estratégias para atrair corretores, como oferecer vagas para jantares e eventos promocionais.",
+        "topicId": "678a4611c73b96001388891d"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892e",
+        "timestamp": 1768,
+        "text": "Estratégia de comunicação com corretores inclui mensagens por WhatsApp, ligações e visitas para manter-se presente.",
+        "topicId": "678a4611c73b96001388891d"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892a",
+        "timestamp": 1875,
+        "text": "Mercado imobiliário brasileiro passa por profissionalização, com processos mais estratégicos para corretores.",
+        "topicId": "678a4611c73b96001388891c"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892b",
+        "timestamp": 2074,
+        "text": "Desafio é fazer corretores incluírem plataforma digital no radar diário, substituindo métodos tradicionais.",
+        "topicId": "678a4611c73b96001388891c"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892c",
+        "timestamp": 2469,
+        "text": "Mudança de hábito dos corretores é difícil, mas possível ao demonstrar claramente os benefícios da nova ferramenta.",
+        "topicId": "678a4611c73b96001388891c"
+      },
+      {
+        "segmentId": "678a4611c73b96001388891e",
+        "timestamp": 2667,
+        "text": "Diego propõe primeiro caso: Brognoli usar Órgão no dia a dia e engajar corretores.",
+        "topicId": "678a4611c73b96001388891a"
+      },
+      {
+        "segmentId": "678a4611c73b96001388892f",
+        "timestamp": 2735,
+        "text": "Vertical digital vai acelerar entrada em praças, aproximando-se de corretores.",
+        "topicId": "678a4611c73b96001388891d"
+      },
+      {
+        "segmentId": "678a4611c73b960013888930",
+        "timestamp": 2770,
+        "text": "Plataforma pode conectar naturalmente imobiliárias que não estavam mapeadas anteriormente.",
+        "topicId": "678a4611c73b96001388891d"
+      },
+      {
+        "segmentId": "678a4611c73b960013888931",
+        "timestamp": 2918,
+        "text": "PRM com robô automatizado no WhatsApp responde corretores, favorecendo engajamento.",
+        "topicId": "678a4611c73b96001388891d"
+      },
+      {
+        "segmentId": "678a4611c73b960013888921",
+        "timestamp": 3144,
+        "text": "Objetivo é trazer 10 incorporadoras parceiras, possivelmente com modelo de mensalidade fixa.",
+        "topicId": "678a4611c73b96001388891a"
+      },
+      {
+        "segmentId": "678a4611c73b96001388891f",
+        "timestamp": 3214,
+        "text": "Eduardo sugere plano de ação para Borda nacional e expansão de corretores.",
+        "topicId": "678a4611c73b96001388891a"
+      },
+      {
+        "segmentId": "678a4611c73b960013888920",
+        "timestamp": 3420,
+        "text": "Diego propõe realizar treinamentos presenciais com time da Brognoli em Florianópolis.",
+        "topicId": "678a4611c73b96001388891a"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "678a4611c73b96001388891a",
+        "order": 1,
+        "title": "Ações Estratégicas e Próximos Passos",
+        "summary": ""
+      },
+      {
+        "id": "678a4611c73b96001388891b",
+        "order": 2,
+        "title": "Expansão Geográfica e Presença Regional",
+        "summary": ""
+      },
+      {
+        "id": "678a4611c73b96001388891c",
+        "order": 3,
+        "title": "Desafios do Mercado Imobiliário",
+        "summary": ""
+      },
+      {
+        "id": "678a4611c73b96001388891d",
+        "order": 4,
+        "title": "Estratégias de Comunicação e Engajamento",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 20,
+    "topic_count": 4,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "678a4611c73b96001388891a",
+      "order": 1,
+      "title": "Ações Estratégicas e Próximos Passos",
+      "summary": ""
+    },
+    {
+      "id": "678a4611c73b96001388891b",
+      "order": 2,
+      "title": "Expansão Geográfica e Presença Regional",
+      "summary": ""
+    },
+    {
+      "id": "678a4611c73b96001388891c",
+      "order": 3,
+      "title": "Desafios do Mercado Imobiliário",
+      "summary": ""
+    },
+    {
+      "id": "678a4611c73b96001388891d",
+      "order": 4,
+      "title": "Estratégias de Comunicação e Engajamento",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:43:20.871145+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:43:20.871145+00:00"
+}

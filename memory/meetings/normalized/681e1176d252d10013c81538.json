@@ -1,0 +1,2046 @@
+{
+  "meeting_id": "681e1176d252d10013c81538",
+  "name": "Apresentação Documento Sócio Local",
+  "happened_at": "2025-05-09T14:30:00.000Z",
+  "duration_seconds": 5865.018,
+  "duration_minutes": 97.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/681e1176d252d10013c81538",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "vyg-xfuw-mxc",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "681e119e23f45c001355b538",
+    "meetingId": "681e1176d252d10013c81538",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Agora sim melhor."
+      },
+      {
+        "startTime": 0,
+        "endTime": 393,
+        "speaker": "Diego Diehl",
+        "text": "uma discussão com as lideranças aqui sobre o discorde interessante Você viu a cartilha que eu enviei no grupo ali? Você viu a cartilha que eu enviei no grupo ali? Dá uma olhadinha, quanto eu vou? Deixar meus amigos aqui. Olha essa mensagem. Eu vou jogar. o teu pit o do e-mail lá no documento de pics Legal trazer os dados."
+      },
+      {
+        "startTime": 396,
+        "endTime": 396,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Quais dados?"
+      },
+      {
+        "startTime": 399,
+        "endTime": 400,
+        "speaker": "Diego Diehl",
+        "text": "de crescimento da audiência"
+      },
+      {
+        "startTime": 402,
+        "endTime": 403,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ah sim"
+      },
+      {
+        "startTime": 428,
+        "endTime": 445,
+        "speaker": "Diego Diehl",
+        "text": "aceito feito"
+      },
+      {
+        "startTime": 452,
+        "endTime": 453,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tô sem crédito no meu chá de PT agora."
+      },
+      {
+        "startTime": 456,
+        "endTime": 459,
+        "speaker": "Diego Diehl",
+        "text": "E aí bora lá?"
+      },
+      {
+        "startTime": 459,
+        "endTime": 476,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não. Não. bora"
+      },
+      {
+        "startTime": 479,
+        "endTime": 483,
+        "speaker": "Diego Diehl",
+        "text": "documentos sócios locais Como é que tá?"
+      },
+      {
+        "startTime": 485,
+        "endTime": 508,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu fiz o caminho que você não passou ontem de responder as perguntas. Pedir para ele fazer mais cinco perguntas depois de daquele esclarecimento que eu trouxe para ele. E aí eu pedi para ele estruturar em blocos. Ele criou uma estrutura com Três blocos."
+      },
+      {
+        "startTime": 510,
+        "endTime": 510,
+        "speaker": "Diego Diehl",
+        "text": "só três"
+      },
+      {
+        "startTime": 512,
+        "endTime": 534,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "só três cara, eu tô assim ó, eu tô Até um pouco. Decepcionado com a resposta que deu e o que que eu consegui formalizar o meu documento que eu fiz sem Inteligência Artificial ficou muito melhor do que o documento que eu gerei com inteligência artificial respondendo as perguntas. Respondi as outras cinco."
+      },
+      {
+        "startTime": 534,
+        "endTime": 562,
+        "speaker": "Diego Diehl",
+        "text": "Por isso que eu te falei Zanella para você mandar. Queria esse documento e me manda ele. Com as suas respostas, tá ligado? Eu acho que do que eu entendi tá as perguntas que eu pedi para você responder foram show. As tuas respostas né? Deu para refletir trazer vários pontos certo."
+      },
+      {
+        "startTime": 562,
+        "endTime": 572,
+        "speaker": "Diego Diehl",
+        "text": "Depois você mandou e pediu para ele fazer mais cinco. E respondeu. Bota no mesmo documento essa resposta."
+      },
+      {
+        "startTime": 572,
+        "endTime": 574,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "tá"
+      },
+      {
+        "startTime": 574,
+        "endTime": 582,
+        "speaker": "Diego Diehl",
+        "text": "E aí E aí pelo que eu vi você teve problema com a resposta dos blocos que ele te deu certo."
+      },
+      {
+        "startTime": 582,
+        "endTime": 585,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Na verdade me dá uma resposta enxuta."
+      },
+      {
+        "startTime": 585,
+        "endTime": 591,
+        "speaker": "Diego Diehl",
+        "text": "É então, daí talvez tenha problema no teu prompt. Abre aí para a gente olhar ele."
+      },
+      {
+        "startTime": 592,
+        "endTime": 594,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Na verdade eu trabalhei em cima do chat que você me mandou."
+      },
+      {
+        "startTime": 595,
+        "endTime": 604,
+        "speaker": "Diego Diehl",
+        "text": "É então, mas o prompt que você não te mandei um prompt para você pedir blocos, né? Entendeu?"
+      },
+      {
+        "startTime": 605,
+        "endTime": 611,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Mais ou menos, vamos lá, deixa eu compartilhar minha tela. Daí você consegue visualizar o que foi respondido."
+      },
+      {
+        "startTime": 615,
+        "endTime": 618,
+        "speaker": "Diego Diehl",
+        "text": "mas isso aí não é o"
+      },
+      {
+        "startTime": 622,
+        "endTime": 625,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Você que me mandou isso daqui, você falou ó, tem essas perguntas aqui, deixa"
+      },
+      {
+        "startTime": 625,
+        "endTime": 625,
+        "speaker": "Diego Diehl",
+        "text": "engraçado, né que o meu o teu não aparece ali no lugar de chat PT o"
+      },
+      {
+        "startTime": 625,
+        "endTime": 649,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "eu explicar o processo que aconteceu tá? Você mandou esse chat falou eu tava conversando com o chat. Joguei esse prompt aqui em cima, ele desenvolveu todas as respostas fui desenvolvendo com ele e ele me trouxe alguns questionamentos que eu queria que você respondesse. Para a gente conseguir gerar um material mais rico ainda com uma visão mais operacional."
+      },
+      {
+        "startTime": 649,
+        "endTime": 652,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Então você me passou esse chat e"
+      },
+      {
+        "startTime": 657,
+        "endTime": 659,
+        "speaker": "Diego Diehl",
+        "text": "Restante quando é?"
+      },
+      {
+        "startTime": 659,
+        "endTime": 660,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ele aparece é por isso que eu tô achando."
+      },
+      {
+        "startTime": 660,
+        "endTime": 661,
+        "speaker": "Diego Diehl",
+        "text": "Que eu acho que acabou os créditos."
+      },
+      {
+        "startTime": 663,
+        "endTime": 665,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ah entendi"
+      },
+      {
+        "startTime": 665,
+        "endTime": 684,
+        "speaker": "Diego Diehl",
+        "text": "Me manda o link é Me manda o link ali. Que daí Pelo menos eu olho aqui a gente já. Aí pelo menos bom, mas me mostra ali."
+      },
+      {
+        "startTime": 685,
+        "endTime": 719,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Aí ele me trouxe essas perguntas. Essas perguntas são 10 perguntas na verdade foram 10 é tópicos com várias perguntas e eu fui respondendo de duas em duas aí eu fui mandando áudio lendo as perguntas. Quais foram as primeira dela desdobramento assim? Fui respondendo todos esses pontos é ele. Me trazia essas respostas por tópicos de forma mais organizada."
+      },
+      {
+        "startTime": 719,
+        "endTime": 721,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E eu voltava lá em cima no tópico e continuado então eu fiz todas as"
+      },
+      {
+        "startTime": 721,
+        "endTime": 723,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 723,
+        "endTime": 731,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "respostas desses 10 desses 10 tópicos de tudo. tá, tá"
+      },
+      {
+        "startTime": 736,
+        "endTime": 740,
+        "speaker": "Diego Diehl",
+        "text": "Que legal cara o material rico isso."
+      },
+      {
+        "startTime": 741,
+        "endTime": 746,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, pois é, por isso que por isso que eu me decepcionei com a resposta é visto isso agora quero."
+      },
+      {
+        "startTime": 746,
+        "endTime": 752,
+        "speaker": "Diego Diehl",
+        "text": "meu irmão Tá no DL e quer resultado do ideal meu amigo."
+      },
+      {
+        "startTime": 755,
+        "endTime": 761,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Também eu tenho que voltar a pagar essa bosta, cara. Não dá para ficar assim."
+      },
+      {
+        "startTime": 761,
+        "endTime": 763,
+        "speaker": "Diego Diehl",
+        "text": "Não é?"
+      },
+      {
+        "startTime": 764,
+        "endTime": 797,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Né exatamente tipo internet. E para fazer mais cinco perguntas relevantes para trazer mais clareza mais clareza um trabalho de Filter feed de forma prática. Aí ó com base ele falou quais padrões você usou para identificar as incorporadoras que mais engajaram quais os argumentos funcionaram? Quais os momentos que você percebe que perdeu a atenção interesse e o que ainda depende exclusivamente no dia a dia e pode ser sistematizado e teve se você tivesse que montar um kit de ativação para um novo fio terceiros em outra"
+      },
+      {
+        "startTime": 797,
+        "endTime": 797,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 799,
+        "endTime": 825,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "cidade que você teria Nele até alguns exemplos aqui. Daí eu respondi também a pergunta número um. Feito essas respostas. Aí ele me trouxe esses pontos. Quando perde a atenção quando tomador de atenção acredito que a força às vezes internos é o suficiente quando a proposta sua como algo que vai exigir esforço Extra."
+      },
+      {
+        "startTime": 825,
+        "endTime": 860,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Então foram algumas coisas que a gente não consegue extrair realmente operacional que vai começar a importar. Essas ideias aí até aqui eu falei agora chat quero com todas as informações que eu joguei. Eu quero que você crie um documento estruturado para trazer clareza para conseguir apresentar para outras pessoas onde eu quero que você estrutura por blocos esse documento que a gente consiga trabalhar bloco por bloco esse documento pode ser PDF."
+      },
+      {
+        "startTime": 861,
+        "endTime": 872,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu ver bloco um Panorama geral. Sou os principais ações executadas resultados obtidos."
+      },
+      {
+        "startTime": 872,
+        "endTime": 872,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "então"
+      },
+      {
+        "startTime": 872,
+        "endTime": 873,
+        "speaker": "Diego Diehl",
+        "text": "Dores"
+      },
+      {
+        "startTime": 875,
+        "endTime": 878,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "proposta evolução que te dedicação"
+      },
+      {
+        "startTime": 878,
+        "endTime": 882,
+        "speaker": "Diego Diehl",
+        "text": "Mas Legal, né? Dá para deixar ali meio vazio, mas"
+      },
+      {
+        "startTime": 882,
+        "endTime": 907,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Daí eu gostei, mas eu queria entender se você sente falta de algum tópico específico ou se você tem mais alguma dúvida para conseguir desenvolver esse documento. A gente está estruturando. Eu falei cara, pode deixar, a gente está estruturando ainda a ideia pode deixar em aberto sem nenhuma resposta referente a mensagem que a gente está"
+      },
+      {
+        "startTime": 907,
+        "endTime": 909,
+        "speaker": "Diego Diehl",
+        "text": "Eu não tenho tido boas experiências também quando peço para criar em PDF, viu?"
+      },
+      {
+        "startTime": 909,
+        "endTime": 931,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "estruturando. E essa foi minha resposta e é perfeito com base nos últimos instruções. Vou atualizar o documento com foco total da operacional porque ele tava puxando muito para o estratégico e não tanto operacional então querendo falar de automação de CRM não cara. Vamos eu quero eu quero trazer uma clareza para operacional em si."
+      },
+      {
+        "startTime": 931,
+        "endTime": 957,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí eu falei um monte de bloco por bloco e ele foi imitou-se esses blocos aqui de aí, ele foi montando o bloco do bloco, né, bloco? Eu falei ó, não gostei desse formato. Eu queria que você falasse mais em cada tópico. Escreva em cada tópico, porque a gente vai usar isso porque a gente vai usar esse documento para enriquecer outros documentos outros chats."
+      },
+      {
+        "startTime": 957,
+        "endTime": 984,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Então seja um pouquinho mais abrangente no bloco 1 novamente Reescreva, aí ele escreveu um pouco mais de Dados aqui daí ele perguntou pode ser bloco 2 pode avançar três. Daí ele falou no final aquele desejo que um monte de PDF assim. Ele montou esse PDF aqui e aí eu achei esse PDF que eu não gostei muito desse PDF porque ele foi um tanto quanto enxuto, né?"
+      },
+      {
+        "startTime": 986,
+        "endTime": 989,
+        "speaker": "Diego Diehl",
+        "text": "Eu não tenho tido boas experiências também quando peço para criar em PDF, viu?"
+      },
+      {
+        "startTime": 990,
+        "endTime": 995,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu não gostei muito primeiro que limitou em Três blocos. Mas ele trouxe."
+      },
+      {
+        "startTime": 996,
+        "endTime": 1000,
+        "speaker": "Diego Diehl",
+        "text": "É que aí ele já não entendeu mais nada, o que é óbvio provavelmente."
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1029,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Daí eu como eu não gostei desse PDF eu copiei todos os blocos colei, deixei no documento, mas da mesma forma coloquei aqui a aí sim, eu joguei a atuação que eu fiz que eu desenvolvi a atuação local na prática eu falei agora eu quero que você analise e complemente se necessário faça mais perguntas para a gente aquecer ainda mais esse documento o enviar o documento do trabalho da sua local responsável pelo filho dos seios onde eu descrevo o trabalho na prática."
+      },
+      {
+        "startTime": 1029,
+        "endTime": 1036,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu quero que você utilize todos. Né? Eu acho que ele fugiu um pouquinho. E aí ele que acabou meus créditos."
+      },
+      {
+        "startTime": 1038,
+        "endTime": 1041,
+        "speaker": "Diego Diehl",
+        "text": "O link que você me mandou não deu certo você clicar em compartilhar ali, ó."
+      },
+      {
+        "startTime": 1041,
+        "endTime": 1042,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "a verdade"
+      },
+      {
+        "startTime": 1042,
+        "endTime": 1048,
+        "speaker": "Diego Diehl",
+        "text": "Como foi fazer o exercício para você ter que responder as perguntas e tal?"
+      },
+      {
+        "startTime": 1050,
+        "endTime": 1078,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu já tinha eu já tinha feito essas perguntas para mim mesmo. Para desenvolver aquele documento do trabalho na prática. Mas é bom quando você reforça aí quando você fala de novo e esse exercício que é que é interessante até o João falou um negócio ontem. Que fez bastante sentido a gente vai fazendo tanta coisa no dia a dia que aí quando a gente vai colocar no papel tudo que a gente fez durante esses meses, cara."
+      },
+      {
+        "startTime": 1078,
+        "endTime": 1080,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "A gente fez coisa para c******."
+      },
+      {
+        "startTime": 1081,
+        "endTime": 1105,
+        "speaker": "Diego Diehl",
+        "text": "E isso é um pouco do um dos resultados esperados que eu. Queria e eu gostei bastante ele do volume de conteúdo e tal, mas realmente você deu uma apanhada aí pra tecnologia duas coisas. Acho que um é saiu do Plus, né do Real state mesmo."
+      },
+      {
+        "startTime": 1107,
+        "endTime": 1109,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Foram os blocos."
+      },
+      {
+        "startTime": 1109,
+        "endTime": 1171,
+        "speaker": "Diego Diehl",
+        "text": "E agora a gente tem conteúdo rico, o que eu acho que vale cara é você criar. Agora um documento. Tipo Abra o documento aí que você que você falou que colou as paradas. Eu quero queria um documento com 20 páginas sobe no chat ali. tipo É louco, né? Porque o que eu tô vendo da Manos e que é o E que é o que eu acho que o novo o próximo nível de GPT ele traz né? Deixa eu dar uma olhada que faça upgrade."
+      },
+      {
+        "startTime": 1171,
+        "endTime": 1215,
+        "speaker": "Diego Diehl",
+        "text": "acesso ilimitado todos os modelos Acesse estendido a investigações precisas onlines aqui, ó em várias etapas para tarefas complexas. Acessa as prévias experimentais do gpt4.5 do operator. Acesso ao modo A1 pro que utiliza mais capacidade de computacional para oferecer as melhores respostas perguntas mais difíceis. É tipo. personalize O business tem o tarefas rotineiras? Sara ferramentas programação proteja seus dados colabore facilmente"
+      },
+      {
+        "startTime": 1218,
+        "endTime": 1219,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Um dos insetos que eu trouxe."
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1240,
+        "speaker": "Diego Diehl",
+        "text": "Para dois usuários no mais ou o que que você acha da gente? Sabe o que a gente podia fazer cara? Tem que ver isso não vai bugar. mas É por exemplo é 20 dólares o Plus. E 25 business."
+      },
+      {
+        "startTime": 1244,
+        "endTime": 1245,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "isso"
+      },
+      {
+        "startTime": 1245,
+        "endTime": 1251,
+        "speaker": "Diego Diehl",
+        "text": "A gente podia talvez experimental business. no momento"
+      },
+      {
+        "startTime": 1253,
+        "endTime": 1254,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "eu concordo eu concordo até porque quando eu tava desenvolvendo esse documento"
+      },
+      {
+        "startTime": 1254,
+        "endTime": 1254,
+        "speaker": "Diego Diehl",
+        "text": "só tem que"
+      },
+      {
+        "startTime": 1258,
+        "endTime": 1278,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "uma das coisas que Um dos pontos que a gente está pensando na verdade faz tempo é o como que a gente começa a registrar todas as ações de todos os sites que a gente tem durante todo Nossa todo o nosso trabalho e cara no final das contas. Na minha percepção a melhor fonte que a gente pode registrar é o chá de PT."
+      },
+      {
+        "startTime": 1278,
+        "endTime": 1282,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Principalmente se a gente tiver um projeto para a gente só imputar as ideias."
+      },
+      {
+        "startTime": 1283,
+        "endTime": 1302,
+        "speaker": "Diego Diehl",
+        "text": "Jogar as coisas. Então tá eu vou pensar melhor no não é para agora o PIS bus. O teu documento ali o teu conteúdo. Você tá sem o pago, né, cara?"
+      },
+      {
+        "startTime": 1303,
+        "endTime": 1319,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não, mas eu vou eu vou resolver isso hoje já de Porque não eu não consigo fazer assim. Ó, eu tava conseguindo porque ele tem a limitação e cara. Eu não tava sendo limitado não. Tava dando diferença nenhuma, só que quando eu tenho um trabalho mais intenso para fazer um chá de PT."
+      },
+      {
+        "startTime": 1319,
+        "endTime": 1323,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não tem o que fazer não tem problema. Então tem que pagar."
+      },
+      {
+        "startTime": 1326,
+        "endTime": 1339,
+        "speaker": "Diego Diehl",
+        "text": "E então voltando Então beleza esse segundo passo lá Business, dá para a gente pensar. Até para ter Asi Asus projetos de trabalho e tal o f*** que eu acho que as"
+      },
+      {
+        "startTime": 1339,
+        "endTime": 1339,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 1341,
+        "endTime": 1386,
+        "speaker": "Diego Diehl",
+        "text": "coisas de projetos só para fechar esse tema que ela vai lhe dar uma coisa. É que daí os caras são f***, né, mano? ele Os projetos e o business ele não deixa compartilhar. Entendeu? Daí é f***, né? Então, vamos dar Uma segurada. Só pensando no meu objetivo que eu tenho para quarta que é o que eu tô olhando para tudo isso por sinal na próxima companhia."
+      },
+      {
+        "startTime": 1386,
+        "endTime": 1411,
+        "speaker": "Diego Diehl",
+        "text": "Vou fazer uma apresentação sobre tudo que a gente está fazendo. o modelo de fio de seios as anotações nas praças e o programa do embaixadores principalmente Os eventos talvez então, eu tô esse trabalho de consolidar. Tem que fazer uma coisa aqui. ó, cara"
+      },
+      {
+        "startTime": 1411,
+        "endTime": 1414,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "travando para c****** aqui para"
+      },
+      {
+        "startTime": 1430,
+        "endTime": 1460,
+        "speaker": "Diego Diehl",
+        "text": "Cara, então está junto. dançar Falando para ti que você fez para você trazer uma experiência na prática do que que era o seu local. E tal que foi o que você fez."
+      },
+      {
+        "startTime": 1462,
+        "endTime": 1463,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 1463,
+        "endTime": 1499,
+        "speaker": "Diego Diehl",
+        "text": "Talvez o que a gente pode fazer. Junto agora ao start. eu achei que Uma coisa Antes só para poder evoluir se não estiver marcando na minha cabeça ontem. Eu vi que eu até tentei achar template. treinamento inteligência artificial aqui ó Google, prompt eu vi que em si 9 de Maio Aqui ó, eu vou mandar para você que eu percebi de uma forma geral."
+      },
+      {
+        "startTime": 1499,
+        "endTime": 1536,
+        "speaker": "Diego Diehl",
+        "text": "os teus Os teus prompts não estão tão claros e tá faltando o método de criação de prompt. É o que lembra do curso do Mário lá cedinho. Isto até nem lembro agora de cara também, mas quando você pede ali eu acho que falta tá faltando acho que uma coisa você falou ontem, que coisa que você tá mais curtindo que a gente tá trabalhando com ela."
+      },
+      {
+        "startTime": 1536,
+        "endTime": 1570,
+        "speaker": "Diego Diehl",
+        "text": "E aí eu acho que vale cara a gente. fazer um cursinho aí de de prompt A gente esquece sabe aquela palavra que a gente faz todo dia daí do nada a gente esquece tá falando diferente. Eu vi um post cara. Vê se você consegue achar depois ouvir no Instagram que o Google lançou um template de 40 páginas falando sobre como."
+      },
+      {
+        "startTime": 1570,
+        "endTime": 1600,
+        "speaker": "Diego Diehl",
+        "text": "Sobre a sobre como funciona e aí falaram de novo sobre a técnica dos dois passos, tipo assim. Cara, eu quero que Saturno como isso. Isso me diga como é que é a melhor forma de isso acontecer. Daí eles daí você as coisas através de mandar o prompt e o contexto você manda o prompt."
+      },
+      {
+        "startTime": 1600,
+        "endTime": 1631,
+        "speaker": "Diego Diehl",
+        "text": "Ele fala aí, você manda o contexto ele aumenta a performance muito então, eu tô sentindo que você algumas vezes falou que não obteve a resposta que você desejaria pegando até o nível de falar que o que você escreveu, então é melhor. O que é uma falácia, né? Porque se você escreveu o que você quer escrever."
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1662,
+        "speaker": "Diego Diehl",
+        "text": "E jogar no meio a tendência dela ela enriquecer, né? Ah daí a linguagem diferente. Daí a gente tá resolvendo com o assistente. Então acho que o ponto de tudo ali que eu vi que você mostrou a conversa. Eu acho que vale uma piszinho sobre engenharia de prompt e eu vi que tem um curso ali."
+      },
+      {
+        "startTime": 1662,
+        "endTime": 1672,
+        "speaker": "Diego Diehl",
+        "text": "E deve ter no GPT também, né? Dá até para perguntar no próprio GPT, né? Deixa eu fazer um teste aqui. Gostaria que de melhorar minhas habilidades em criar prompts."
+      },
+      {
+        "startTime": 1672,
+        "endTime": 1680,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 1680,
+        "endTime": 1710,
+        "speaker": "Diego Diehl",
+        "text": "Começando mais essencial. Como posso fazer isso? Vamos ver o que que Eu não sei se você viu isso aqui eu vou te mandar um print. Tem um nível. Tem um investigar não sei se você viu, tá ligado."
+      },
+      {
+        "startTime": 1712,
+        "endTime": 1713,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu não sei se o meu tem."
+      },
+      {
+        "startTime": 1715,
+        "endTime": 1744,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó É o básico, deixa eu compartilhar. Eu tô olhando junto também, tá? Porque como fazer vários professores de manhã, já olha junto contigo. etapa 1 clareza contexto e objetivo Clareza e objetivo. Em uma mensagem do Meio para diretores comerciais convidando para uma reunião então deve ser direto lá."
+      },
+      {
+        "startTime": 1744,
+        "endTime": 1746,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó, Etapa 2"
+      },
+      {
+        "startTime": 1748,
+        "endTime": 1750,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu não tô conseguindo ver essa p****. Cara não tá carregando a internet tá"
+      },
+      {
+        "startTime": 1750,
+        "endTime": 1774,
+        "speaker": "Diego Diehl",
+        "text": "diretor de receita de uma plataforma de inteligência imobiliária Direcionamento crie um pedido de vendas para uma reunião input o que que eu tenho de contexto modelo? Como que você quer a resposta? Né, então você falou Três blocos e tal, sabe o que que você podia fazer antes assim, cara, eu sou."
+      },
+      {
+        "startTime": 1774,
+        "endTime": 1799,
+        "speaker": "Diego Diehl",
+        "text": "Eu sou um operador de fio de seios. É um sócio local da hora Letal e eu tô querendo organizar o meu trabalho e trazer uma visão completa porque é um cargo novo, então a gente tá querendo amadurecer tudo isso. Seja um especialista em vendas. Daí tem um botão aqui, ó, olha esse botão aqui, meu irmão."
+      },
+      {
+        "startTime": 1803,
+        "endTime": 1807,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "horrível hoje. deixar minha câmera para ver se"
+      },
+      {
+        "startTime": 1807,
+        "endTime": 1816,
+        "speaker": "Diego Diehl",
+        "text": "Veja que eu te mandei no Whats. Deixa que eu te mandei no Whats."
+      },
+      {
+        "startTime": 1819,
+        "endTime": 1821,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "nada"
+      },
+      {
+        "startTime": 1821,
+        "endTime": 1836,
+        "speaker": "Diego Diehl",
+        "text": "É você vê que eu tenho 25 em um mês, então é tipo um por dia que a gente tem. deixa eu tentar compartilhar na tela do Eu disse você vê aí."
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1840,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Agora sim"
+      },
+      {
+        "startTime": 1840,
+        "endTime": 1882,
+        "speaker": "Diego Diehl",
+        "text": "Sei se ele chegar tenho esse cedinho, né? contexto direcionamento último modelo Além de ser a capacidade interações. Parece uma versão Inicial. Depois peço me dê três variações melhores. Então deixe mais conselhos. Aonde posso melhorar meu próprio prompt. Eu acho que isso aqui é interessante também. E daí crie templates para o seu dia a dia isso é que é do c******, né? A gente não vai nem criar template de pronto, a gente vai criar e a né? Daqui a pouco a gente pode ter os templates eu fiz ontem."
+      },
+      {
+        "startTime": 1883,
+        "endTime": 1884,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim estou mas parece que ela está travado."
+      },
+      {
+        "startTime": 1884,
+        "endTime": 1886,
+        "speaker": "Diego Diehl",
+        "text": "Olha o Felipe que eu tive ontem tá vendo minha tela de novo."
+      },
+      {
+        "startTime": 1892,
+        "endTime": 1894,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Como treine sua capacidade de interação ainda?"
+      },
+      {
+        "startTime": 1903,
+        "endTime": 1906,
+        "speaker": "Diego Diehl",
+        "text": "Você não tem um repetidor aí na casa da sua mãe?"
+      },
+      {
+        "startTime": 1906,
+        "endTime": 1910,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 1910,
+        "endTime": 1910,
+        "speaker": "Diego Diehl",
+        "text": "E mesmo assim."
+      },
+      {
+        "startTime": 1939,
+        "endTime": 3111,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Cara na verdade o que eu vi que eu não tive tempo sábio para conseguir entregar um algo completo sabe eu vi que Teve alguns pontos que a inteligência artificial não me respondeu que eu fui desenvolvendo e que ela não me retornou como eu imaginei. Talvez pelo pronto mas Quanto mais eu converso com ela mais acontece se ela me dá."
+      },
+      {
+        "startTime": 3111,
+        "endTime": 1950,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "O que eu vejo independente do pronto eu começar sem o pronto e desenvolvendo com ela, ela vai ela vai funilando cada vez mais cada vez mais e trazendo uma resposta cada vez mais."
+      },
+      {
+        "startTime": 1950,
+        "endTime": 1987,
+        "speaker": "Diego Diehl",
+        "text": "Tá enfim só completando cara. Olha isso aqui primeiro base de conhecimento. Falei você especialista da orla interpretar com profundidade extraindo conhecimento último para útil para treinar o agente de ar sobre atuação comercial da obra. Organiza a resposta regra e nesse bloco aqui em instrução prática argumento analogia objeção diferenciais técnicos modelo conceito Framework entendimento do mercado imobiliário, beleza aí olha isso eu fui eu fui coletar em sites de uma reunião de embaixadores."
+      },
+      {
+        "startTime": 1987,
+        "endTime": 2024,
+        "speaker": "Diego Diehl",
+        "text": "Aí eu falei cara Pronto agora para coletar informações dos embaixadores. Aí ele fez um procisão dos embaixadores, tá ligado? Aí eu falei tá mas na real agora. Eu quero pegar a transcrição daquele treinamento de produto financeiro que o Felipe deu. Tá ligado, aí? Eu falei cara na verdade e agora eu quero uma curadoria técnico estratégica que o objetivo é fazer com que? O agente consiga abordar os clientes falando é ele ajustou pronto."
+      },
+      {
+        "startTime": 2024,
+        "endTime": 2060,
+        "speaker": "Diego Diehl",
+        "text": "E daí o último clipe. Eu peguei e falei tá? Mas se eu mandar para o Douglas. Que que ele vai obter? Como o cliente pensa o que ele valoriza como Ele Decide? Argumento comercial. Olha esse todos os argumentos utilizados. transcreva frases reais usadas pelo time registre toda a explicação e simplifique algo complexo objeções Olha o entendimento do mercado imobiliário como os Players operam quais fluxos de venda gargalos medos crenças mentalidade."
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2085,
+        "speaker": "Diego Diehl",
+        "text": "Que é daí por último eu falei cara. Eu preciso também de base de conhecimento não só de vendas mas para falar sobre os nossos produtos. Eu quero que você fale o que é o produto que que a gente resolve o que que a gente entrega qualquer lógica de funcionamento."
+      },
+      {
+        "startTime": 2085,
+        "endTime": 2112,
+        "speaker": "Diego Diehl",
+        "text": "integração requisito então que eu tô trazendo um Para fechar esse bloco. E que eu tô vendo Para o Futuro, tá? Você já ouviu falar que tudo que a gente obtém depende do quão bem a gente pede para ela, né? Então resumão cara, vamos dar uma piszinho próximo mês aí para olhar sobre prompt."
+      },
+      {
+        "startTime": 2112,
+        "endTime": 2137,
+        "speaker": "Diego Diehl",
+        "text": "Daqui a pouco a gente tem no nosso documento no nosso dia a dia. Olha, como é que tá no GPT agora que eu tava. Normalizei eu tava ontem 10 horas da noite fazendo isso aqui também. Daí eu comecei eu tava jogando tudo no mesmo eu peguei e falei cara."
+      },
+      {
+        "startTime": 2137,
+        "endTime": 2164,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó Olha o que eu fiz, olha cara, tudo que é conteúdo que eu vou pedir de base de conhecimento comercial para o dono jogar no mesmo. embaixadores de marketing de Mas isso só para um período agora mesmo que eu tô criando, né? Mas a gente tá então tipo o de sócio local."
+      },
+      {
+        "startTime": 2164,
+        "endTime": 2190,
+        "speaker": "Diego Diehl",
+        "text": "É isso que a gente tem que fazer agora para dar essa alterado, final a gente tem os playbooks, né? Eu não botei o playbook de sócio local no state ainda. Agora ontem que eu me liguei não tá então. Minha sugestão tá meu pedido aí para você dar esse essa entrega para mim."
+      },
+      {
+        "startTime": 2190,
+        "endTime": 2216,
+        "speaker": "Diego Diehl",
+        "text": "Mas final aí você deu uma dedicada mais meia hora. É tenta resolver PT Óbvio você já dá para você pegar de novo. Pega os playbooks que a gente criou lá no modelo do Dog e outro no modelo de outras paradas. Sabe que a gente tem. Dá o contexto de sócio local."
+      },
+      {
+        "startTime": 2216,
+        "endTime": 2231,
+        "speaker": "Diego Diehl",
+        "text": "Enriquece, mas vai bota vamos você quer você quer começar junto? Que como que você quer fazer aqui? Eu entendi que tu entrega ali não. eu posso fazer também sozinho, mas"
+      },
+      {
+        "startTime": 2231,
+        "endTime": 2254,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Cara na verdade o que eu vi que eu não tive tempo sábio para conseguir entregar um algo completo sabe eu vi que Teve alguns pontos que a inteligência artificial não me respondeu que eu fui desenvolvendo e que ela não me retornou como eu imaginei. Talvez pelo pronto mas Quanto mais eu converso com ela mais acontece se ela me dá."
+      },
+      {
+        "startTime": 2254,
+        "endTime": 2267,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "O que eu vejo independente do pronto eu começar sem o pronto e desenvolvendo com ela, ela vai ela vai funilando cada vez mais cada vez mais e trazendo uma resposta cada vez mais."
+      },
+      {
+        "startTime": 2267,
+        "endTime": 2267,
+        "speaker": "Diego Diehl",
+        "text": "É que é normal."
+      },
+      {
+        "startTime": 2268,
+        "endTime": 2299,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "O que o que o que eu imagino que tá na minha cabeça que os próximos passos que eu faria saindo dessa reunião, por exemplo agora. É pegar todos os documentos o que estão naquela o documento de sócio local na prática e todos os documentos que estão dentro desse documento do nosso local que tem alguns que a gente redireciona a gente comercial apresentação, etc, eu jogaria tudo no Doug."
+      },
+      {
+        "startTime": 2299,
+        "endTime": 2305,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "daria um contexto local e Aí complementaria com a resposta dele. Esse é o caminho que eu faria."
+      },
+      {
+        "startTime": 2305,
+        "endTime": 2342,
+        "speaker": "Diego Diehl",
+        "text": "cara Eu acho que é isso Zanão. modelo de fio de seios Olha aqui ó, como que a gente pode? É isso que tá faltando tá faltando método e como é que a gente faz essa p****, né? Tipo? Olha o que que eu fiz no modelo sobre tipos de estruturas de vendas."
+      },
+      {
+        "startTime": 2342,
+        "endTime": 2361,
+        "speaker": "Diego Diehl",
+        "text": "Me traga um contexto que é um modelo de fio de seios. Quais são as particularidades? As definições etc até fiz errado, cara. Quero criar um prompt aqui para pegar"
+      },
+      {
+        "startTime": 2361,
+        "endTime": 2361,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 2363,
+        "endTime": 2377,
+        "speaker": "Diego Diehl",
+        "text": "informações e investigar sobre os seus seios. Eu posso até usar um dos meus 25 do investigar lá vai se dá para abrir se for pais que fazem projeto daí não dá para usar umas outras paradas, tá ligado?"
+      },
+      {
+        "startTime": 2377,
+        "endTime": 2380,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Mas os três pontos ali não abre do lado."
+      },
+      {
+        "startTime": 2380,
+        "endTime": 2402,
+        "speaker": "Diego Diehl",
+        "text": "olha só Eu vou. Eu vou. Eu vou fazer assim então. Vamos fazer o seguinte? Aqui eu vou. Minha sugestão para ti, tá? Dá uma dá uma levantada nos documentos que a gente tem de sócio local. Joga tudo numa pasta. Joga num até as suas perguntas joga nos documentos separadinhos."
+      },
+      {
+        "startTime": 2402,
+        "endTime": 2428,
+        "speaker": "Diego Diehl",
+        "text": "Aí minha sugestão bem prática, tá? Pegou aquele teu chat lá, ele ficou acumuladão, ele vai se perder ele. Pega teu documento pega suas respostas todas, talvez você pode até pegar as suas respostas. Dá uma O que teria que ser feita dá uma curada nas suas respostas para tipo assim, ó, aqui está minhas respostas para as perguntas."
+      },
+      {
+        "startTime": 2428,
+        "endTime": 2454,
+        "speaker": "Diego Diehl",
+        "text": "Responda as perguntas com tudo que você entendeu. Aí você cria os blocos com as suas respostas das perguntas. Pega o modelo de sócio local que a gente criou lá os documentos a gente já criou os documentos do que fazer até o dog criou uma parada massa, se você não tiver acesso eu vou fazer agora em 10 minutinhos."
+      },
+      {
+        "startTime": 2454,
+        "endTime": 2479,
+        "speaker": "Diego Diehl",
+        "text": "Buscar no meu aqui também e manda o link da pasta. Eu jogo lá. E você tem que se preparar para reunião com naipe na verdade. E Seria legal se você jogando esses documentos falasse assim, cara, eu vou fazer uma reunião. Eu quero trocar uma ideia com um novo fio de seios que já entende da hora."
+      },
+      {
+        "startTime": 2479,
+        "endTime": 2503,
+        "speaker": "Diego Diehl",
+        "text": "Passar por uns tópicos que daí você vai para reunião com o naipe. Já dá uma desaguada em várias coisas tem tópico, cara. Pode falar em rotina em desafio que dá para fazer lá lá o que você já fez vai ativar de novo toda a tua cabeça, né? Você falou não vai estar gravado."
+      },
+      {
+        "startTime": 2503,
+        "endTime": 2528,
+        "speaker": "Diego Diehl",
+        "text": "E aí Quando você acabar a reunião você me dá um toque na hora que daí eu vou dar um gás de novo nessa parte do nosso local. Para a gente criar o documento criar alguns documentos são documento maior. Sobre filtro dos seios e o que eu queria trazer para você Zanella para você ficar tranquilo."
+      },
+      {
+        "startTime": 2528,
+        "endTime": 2552,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que você tem uma parada que é um pouco parecida comigo e a gente tem. é eu acho que é uma mistura de A barra alta porque a gente quer entregar e fazer e tipo um perfeccionismo. Então, eu tô olhando tudo isso e carta não vontade de fazer um bagulho do c******."
+      },
+      {
+        "startTime": 2552,
+        "endTime": 2588,
+        "speaker": "Diego Diehl",
+        "text": "Só que não dá tempo agora é uma versão ali então cara. Calma, tá ligado? Só dedica tempo, fala assim prospectar agora sexta-feira dia 9 de tarde eu vou me dedicar isso aí vai dar uma zerada cria um documento faz de novo você para os blocos uma coisa que eu li lá no manual também é separe por itens de tarefas tanto que eu tirei a dica ontem que eu tinha lido, né? Faz um bloco um daí a gente faz o desenho geral."
+      },
+      {
+        "startTime": 2588,
+        "endTime": 2621,
+        "speaker": "Diego Diehl",
+        "text": "Qual que é o objetivo? Quais são os indicadores? Que a gente pode fazer com cada Player, como é que a gente cruza cada Play a gente vai devagar dando uma crescida. O que eu quero te tranquilizar só é calma, tá ligado? Tem um contrato que tá só preciso parar e E editar o contrato eu vou até te mandar já o modelo do Juliano para você já poder dar uma olhada nele."
+      },
+      {
+        "startTime": 2621,
+        "endTime": 2634,
+        "speaker": "Diego Diehl",
+        "text": "eu vou mudar pouca coisa, só vou referencial anexo algo assim, mas vou mandar depois para você porque eu quero que Nisso que a gente está fazendo agora, senão você vai descansar."
+      },
+      {
+        "startTime": 2634,
+        "endTime": 2634,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 2636,
+        "endTime": 2652,
+        "speaker": "Diego Diehl",
+        "text": "Porque eu tô Eu não esperava essa missão para quarta-feira agora, entendeu? Então, tô focando Total nela. O meu objetivo não é criar um monte de coisa para mudar isso com você, tá? Estou falando Óbvio só para Óbvio ser dito, né?"
+      },
+      {
+        "startTime": 2652,
+        "endTime": 2652,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 2653,
+        "endTime": 2676,
+        "speaker": "Diego Diehl",
+        "text": "Mas para a gente ter. Lembra que o primeiro momento é quase que treinar ter uma depois semana que vem a gente vai. Para Curitiba, trabalha na frente do outro Desenrola uma parada eu vou da mesma forma que eu fiz com a Manos para olhar. Eu vou depois dar um contexto da hora e falar investigue."
+      },
+      {
+        "startTime": 2676,
+        "endTime": 2689,
+        "speaker": "Diego Diehl",
+        "text": "Me traga uma metodologia. Me traga. Case talvez a gente faça a leitura. Fala c******, como é que é mais um trabalho? Como é que o Google trabalha que esses caras Têm filhos?"
+      },
+      {
+        "startTime": 2690,
+        "endTime": 2691,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, sim."
+      },
+      {
+        "startTime": 2691,
+        "endTime": 2734,
+        "speaker": "Diego Diehl",
+        "text": "Tipo depois a gente vai dar uma sabe então, só quero te dar uma tranquilizada trabalho agora mais um. Você já criou Aquele teu chat que você mandou você já criou a gente já tem um playbook vinho já tem o que o sócio local faz. É só você ter paciência que tem o Fronte está muito curto quebra, ela fala, cara, eu quero me organizar primeiro uma visão mais estratégica agora do fio dos seios dos blocos maiores com potenciais para o desdobramento."
+      },
+      {
+        "startTime": 2734,
+        "endTime": 2764,
+        "speaker": "Diego Diehl",
+        "text": "Aí o que ele desdobrar a gente dobra um a um tá ligado Tipo. Isso aí vai virar. Que sócio lembrou que oficial só se local? Eu vou te compartilhar para você lembrar. Que é? um playbookzinho local Olha tinha até espaço para reflexão, eu joguei dois aqui na real. Ontem até um princípio que guia jornada de sócio local."
+      },
+      {
+        "startTime": 2764,
+        "endTime": 2785,
+        "speaker": "Diego Diehl",
+        "text": "Aí tem um outro modelo ali mais simplificado nesse link que eu te mandei. Eu só não vou jogar para treinar e lá depois a gente vai ter que dar uma curada nos conteúdos, né. Que é bastante coisa ali que a gente jogou. Mas vai com calma que isso daí vai te eu acho que daqui na semana que vem cara,"
+      },
+      {
+        "startTime": 2785,
+        "endTime": 2789,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá por mim tranquilo. Eu tô eu acho que esse é o ponto é talvez."
+      },
+      {
+        "startTime": 2789,
+        "endTime": 2814,
+        "speaker": "Diego Diehl",
+        "text": "você vai voltar com uma visão tão estratégica daí com a nossa viagem vai poder perguntar cara, como é que Quais são as ações cruciais que você acha que eu tenho que fazer toda semana? E um período do mês cria um trimestre e faça perguntas para a gente citar prioridade Demais João em Julho sabe uns negocinho assim que daí a gente vai poder organizar com calma, só não quero."
+      },
+      {
+        "startTime": 2814,
+        "endTime": 2821,
+        "speaker": "Diego Diehl",
+        "text": "Tá estressante, tá? Eu também tô um pouco estressado muita coisa, mas vamos mais um pouquinho, tá meu querido?"
+      },
+      {
+        "startTime": 2826,
+        "endTime": 2847,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Por ter esse pensamento de querer deixar tudo muito f*** então pouco tempo, eu acho que isso que é mais estressante, sabe é esse que mais deixa p*** então. Né ontem de noite, então dá uma bagunçada daí como é muita informação em pouco tempo, cara."
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2850,
+        "speaker": "Diego Diehl",
+        "text": "Não vai. Que bom usar elas. Se fosse fácil eu estaria sendo um líder ruim."
+      },
+      {
+        "startTime": 2850,
+        "endTime": 2862,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não está sendo fácil saiba. Eu entendo então pronto, mas aqui também não. exatamente"
+      },
+      {
+        "startTime": 2865,
+        "endTime": 2872,
+        "speaker": "Diego Diehl",
+        "text": "Antes da vontade de te apoiar mais ficar mais perto, mas vamos eu queria que você lembrasse agora é hora de criar conteúdo."
+      },
+      {
+        "startTime": 2873,
+        "endTime": 2874,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 2874,
+        "endTime": 2899,
+        "speaker": "Diego Diehl",
+        "text": "A frente do que a gente faz um conteúdo não é o como não é um site mais. Nossa f***** eu falo não não é o cara eu já sei minha visão Geral do trabalho pega teu diagnóstico ali. Sugestão aqui para gente fechar com mais organização, vamos vamos separar numa ordem de ações para você não ficar tonto nas paradas."
+      },
+      {
+        "startTime": 2899,
+        "endTime": 2900,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 2900,
+        "endTime": 2910,
+        "speaker": "Diego Diehl",
+        "text": "Abre um box aí uma parada para a gente criar um. Vamos pensar mas eu vou eu vou tentar aqui pegar um"
+      },
+      {
+        "startTime": 2910,
+        "endTime": 2911,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Só para pegar um site aqui também. aqui"
+      },
+      {
+        "startTime": 2918,
+        "endTime": 2952,
+        "speaker": "Diego Diehl",
+        "text": "Quando eu te mostrei isso aqui, né? São Francisco"
+      },
+      {
+        "startTime": 3011,
+        "endTime": 3017,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Quando eu te mostrei isso aqui, né? São Francisco"
+      },
+      {
+        "startTime": 3066,
+        "endTime": 3066,
+        "speaker": "Diego Diehl",
+        "text": "Que que você ia mostrar?"
+      },
+      {
+        "startTime": 3069,
+        "endTime": 3089,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Olha que legal. Sabe aquelas bolinhas que você aperta. É tipo aquelas bolinhas para tirar o estresse, desde que a empresa que eu trabalhava deles, a gente tava daqui de brinde nos eventos que a gente ia. Só depois que c****** muito é bom."
+      },
+      {
+        "startTime": 3089,
+        "endTime": 3092,
+        "speaker": "Diego Diehl",
+        "text": "É que massa mano, pode ser?"
+      },
+      {
+        "startTime": 3096,
+        "endTime": 3105,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Só para trazer uma ideia também 15 dias atrás, a gente tava pensando eu tinha esquecido porque ficou em Joinville. Isso daqui é um cérebrozinho. Muito legal."
+      },
+      {
+        "startTime": 3108,
+        "endTime": 3114,
+        "speaker": "Diego Diehl",
+        "text": "Olha isso aqui, ó. Não tinha visto uma entrega assim."
+      },
+      {
+        "startTime": 3118,
+        "endTime": 3118,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "c******"
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3136,
+        "speaker": "Diego Diehl",
+        "text": "Massa né?"
+      },
+      {
+        "startTime": 3137,
+        "endTime": 3146,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "irado É o modelo que você usou, você mudou o modelo dele. o modelo do chat"
+      },
+      {
+        "startTime": 3146,
+        "endTime": 3190,
+        "speaker": "Diego Diehl",
+        "text": "Eu mandei um. Um não peguei uma conversa de sócio local que a gente tinha mandado. Mandei. um playbook o contrato É uma parada do Doug aqui expansão é um chat que eu conversei um tempo. Eu pedi para ele assim. Era que sature como planejador agora e me ajuda a organizar um poucos."
+      },
+      {
+        "startTime": 3190,
+        "endTime": 3233,
+        "speaker": "Diego Diehl",
+        "text": "Passos acionáveis o seguinte eu criei vários conteúdos já sobre sócio local tem várias perguntas respondidas documentos soltos etc. Agora eu quero um passo a passo de como posso fazer para organizar tudo isso com dois objetivos. Um ter um documento de visão estratégica do sócio local estratégia alavancas conexões com a matrizes."
+      },
+      {
+        "startTime": 3233,
+        "endTime": 3286,
+        "speaker": "Diego Diehl",
+        "text": "Até aí depois eu vou ajustar ter alguns outros documentos do desdobramento de conhecimento para que tudo isso possa ser utilizado futuramente para treinamento de pessoas e também o maior. Vamos ver o que ele mandou a gente vê o que a gente faz abaixo está um plano de organização em duas frentes simultâneas com pouco espaço subjetivos um documento estratégico uma base estruturada de desdobramentos."
+      },
+      {
+        "startTime": 3286,
+        "endTime": 3336,
+        "speaker": "Diego Diehl",
+        "text": "plano de organização do conhecimento Sinalidade Passos reunir os documentos essenciais de Visões estratégica. De sócio local lá sugeridas para contrato pode tirar? desdobramento estratégico 2025 documento de pleaching de plano de expansão Eu acho que ele deixou trabalhoso demais na real, tá ligado? Mas dá para a gente de alguma forma dá para ter isso aqui, eu vou alterar isso aqui."
+      },
+      {
+        "startTime": 3336,
+        "endTime": 3386,
+        "speaker": "Diego Diehl",
+        "text": "Um dois objetivos ter um documento. e Além disso Gostaria que você também pensasse. Com base em entendimento. Sobre estruturas comerciais o que mais faz sentido ter? Nesse documento para ele abraçar os principais pontos os pontos. os importantes Isso deve servir também para a construção do todo. Quero que cria um plano de ação simplificado para ser executado em duas horas."
+      },
+      {
+        "startTime": 3386,
+        "endTime": 3392,
+        "speaker": "Diego Diehl",
+        "text": "Tendo em vista. lutar documentos Como trabalhar e desenvolver? os documentos impostos Olá duas horas."
+      },
+      {
+        "startTime": 3392,
+        "endTime": 3392,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "né Etapa uma organização dos insumos viva passa a central que tudo passas posso levar? um documento de visão estratégica interna documentos e treinamento e a Playboy operacional manual de Cultura em Minecraft tá que respostas Chaves materiais brutos Colete Os arquivos já criados salve tudo. Tem materiais bruto?"
+      },
+      {
+        "startTime": 3399,
+        "endTime": 3433,
+        "speaker": "Diego Diehl",
+        "text": "Isso daí eu vi que uma boa parte disso. Daí a gente já tem desenvolvido."
+      },
+      {
+        "startTime": 3434,
+        "endTime": 3435,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Isso daí eu vi que uma boa parte disso. Daí a gente já tem desenvolvido."
+      },
+      {
+        "startTime": 3435,
+        "endTime": 3474,
+        "speaker": "Diego Diehl",
+        "text": "Então é o que a gente falou, né? primeiro passo Tem os materiais brutos tudo que a gente já tem e daí, talvez você tem um trabalhinho de criar materiais brutos do que você escreveu ali para aquela toalha pegar aquilo lá que ela escreveu. montagem do documento são estratégica estrutura do documento contexto objetivos estratégicos o papel do sócio local alavancas conexões com a matriz indicadores estratégicos e estrutura comercial rituais"
+      },
+      {
+        "startTime": 3478,
+        "endTime": 3487,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Você fez algum intuito de desses dados que a gente já tem por exemplo o papel da sua local indicadores estratégicos."
+      },
+      {
+        "startTime": 3489,
+        "endTime": 3497,
+        "speaker": "Diego Diehl",
+        "text": "aqui ó Esse aqui era o teu documento."
+      },
+      {
+        "startTime": 3499,
+        "endTime": 3506,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não foi essa dúvida porque eu tô vendo que tem são coisas que desenvolvida."
+      },
+      {
+        "startTime": 3506,
+        "endTime": 3541,
+        "speaker": "Diego Diehl",
+        "text": "Que tem coisas suas. Ah legal tem as mentes. Daí eu respondi as perguntas. indicadores mínimos de performance autonomia ajustando verbo capacitação continua Eu vou até te mandar as janela. Eu vou colar deixa eu ver onde que isso aqui, tá?"
+      },
+      {
+        "startTime": 3543,
+        "endTime": 3545,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Você não consegue mandar esse chat inteiro para mim, né?"
+      },
+      {
+        "startTime": 3545,
+        "endTime": 3597,
+        "speaker": "Diego Diehl",
+        "text": "Não. Eu acho que a gente tem uma pasta. modelos sócio local opa espaço local aqui ó compartilhar na tela contigo Tipo dá uma descansada e dá uma olhada no que eu vou organizar para ti que você já vai acalmar a cabeça. Ó a primeira entrega que ele me deu são indicadores entregas estrutura operacional."
+      },
+      {
+        "startTime": 3597,
+        "endTime": 3612,
+        "speaker": "Diego Diehl",
+        "text": "Lembro que a gente fez isso. Sou né, ações de relacionamento pô, p*** outra primeiro conteúdo."
+      },
+      {
+        "startTime": 3618,
+        "endTime": 3618,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 3618,
+        "endTime": 3630,
+        "speaker": "Diego Diehl",
+        "text": "Aqui beleza, agora me dá um conteúdo detalhado para fazer. um Ele deu esse. Olha que bonitinho, cara. Tá legal isso aqui."
+      },
+      {
+        "startTime": 3631,
+        "endTime": 3631,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ficou bem melhor?"
+      },
+      {
+        "startTime": 3634,
+        "endTime": 3712,
+        "speaker": "Diego Diehl",
+        "text": "São materiais capacitação. Não tô pedindo depois. Bom, então, vou copiar esse aqui, ó. Que ele é mais neutro assim não tá ainda com um tom f***. f************ perdido Eu tô criando esse. Trilhando mais documento aqui para a gente poder separar tudo. modelo Vai escrever aqui um. Beleza modelo. Que deu um tom legal também sócio local, tá ligado? tipo Que tá errado também, né? Ah esse aqui tá aqui já."
+      },
+      {
+        "startTime": 3712,
+        "endTime": 3767,
+        "speaker": "Diego Diehl",
+        "text": "Você não é um vendedor por método são pequenos. não vamos chamar ela de Um dog 1 sócio local Beleza, você sabe que é um tom um pouco, na verdade é uma mistura poste do c****** esse material que tá do c******. Aqui beleza, mandei a visão. Joguei o contrato aqui."
+      },
+      {
+        "startTime": 3767,
+        "endTime": 3823,
+        "speaker": "Diego Diehl",
+        "text": "Quero que você atue por um advogado. Como você analisa um bom contrato? contrato está robusto comissionamento e tal E não reflete lógica. Tá metas mínimas mensais scorepad relatório caixinha da praça. evolução da jornada a isso aqui eu daí eu criei aqui eu vou até Eu acho que tá aqui ó."
+      },
+      {
+        "startTime": 3823,
+        "endTime": 3842,
+        "speaker": "Diego Diehl",
+        "text": "Aqui ó, acho que tem que separar esse documento. Isso aqui a gente deixa para depois né?"
+      },
+      {
+        "startTime": 3842,
+        "endTime": 3848,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim Quase um roteirinho."
+      },
+      {
+        "startTime": 3861,
+        "endTime": 3904,
+        "speaker": "Diego Diehl",
+        "text": "Esse é tipo um plano de carreira na real. jornada evolutiva aqui tem dois modelos tantos referências Quero deixar o contrato relativamente mais abrangente. Esse aqui eu acho que eu colei lá também é o mesmo. cláusula, alinhamento cultural sobre essas coisas aqui você vê Entrega operacional daí eu falei com o Felipe Eduardo eu falei gente."
+      },
+      {
+        "startTime": 3904,
+        "endTime": 3970,
+        "speaker": "Diego Diehl",
+        "text": "Porque isso aqui que é o contrato mais robusto, tá ligado? Ou não? Quer cara vai estar no contrato, tem que entregar o relatório lá, mas cara, como não tá criado tudo isso. Caixinha da verba da praça local tipo não é agora tá ligado. Ó, gostaria que a gente criasse um contexto tudo que a gente aprendeu nesse chat, para que serve como instruções para o agente que estou criando."
+      },
+      {
+        "startTime": 3970,
+        "endTime": 4080,
+        "speaker": "Diego Diehl",
+        "text": "Olha que bacana. papéis de responsabilidades indicadores Nossa esse aqui é o nosso primeiro. É o maiado sócio local. a gente já um processo práticos É isso aqui é outro. outro Olha, só a base de conhecimento lá atrás. de conhecimento a gente já A gente dois. Olha aqui ó a estruturação criação de completa indicadores contrato."
+      },
+      {
+        "startTime": 4080,
+        "endTime": 4084,
+        "speaker": "Diego Diehl",
+        "text": "cultura desenvolvimento"
+      },
+      {
+        "startTime": 4085,
+        "endTime": 4088,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não só para organizar o seu local."
+      },
+      {
+        "startTime": 4088,
+        "endTime": 4111,
+        "speaker": "Diego Diehl",
+        "text": "a gente dois e a formatos de script para alimentar diretamente de manhã São essas. O bicho é que ele tá dando uma limitada, tá ligado?"
+      },
+      {
+        "startTime": 4114,
+        "endTime": 4116,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim"
+      },
+      {
+        "startTime": 4116,
+        "endTime": 4179,
+        "speaker": "Diego Diehl",
+        "text": "É, tipo é porque a gente é por isso é um passo depois o outro por isso que eu tô falando não vamos criar uma ya agora. porque tem coisa que A script de configuração GPT, mas pelo menos a gente lembra? Ó daí o planejador que eu cheguei aqui objetivo, não gostei agora vamos para o talvez esse print aqui ó mandar para você para servir como referência na Nossa, conversa, talvez se organiza pode organizar a pasta com algo parecido."
+      },
+      {
+        "startTime": 4179,
+        "endTime": 4225,
+        "speaker": "Diego Diehl",
+        "text": "Padronizar resultado daí eu mandei de novo aí agora chegamos. organização expressa Crie uma pasta com subpastas, ele criou uma outra. Etapa 1 aqui salve tudo em materiais Brutos. Eu já tô fazendo isso aqui, né? O que você fez? Talvez aqui também. Ó, vamos dar uma olhadinha que só. alguns local na prática Você vê que tem aqui."
+      },
+      {
+        "startTime": 4225,
+        "endTime": 4252,
+        "speaker": "Diego Diehl",
+        "text": "Ah aquele todo momento, eu acho que Esse aqui dá para mover. modelo sócio local ordem Vou para lá inteligência comercial. Treinamos Imobiliários em Curitiba, só que é relevante. Talvez eu acho que não né?"
+      },
+      {
+        "startTime": 4253,
+        "endTime": 4259,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu coloquei aí mais para tão um contexto de uma análise um diagnóstico."
+      },
+      {
+        "startTime": 4259,
+        "endTime": 4270,
+        "speaker": "Diego Diehl",
+        "text": "Um relatório né? Eu vou pôr na mesa pasta modelo sócio local. Esse aqui é mais um modelo de relatório, né? Tipo melhor e o meu motor do relatório."
+      },
+      {
+        "startTime": 4270,
+        "endTime": 4272,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Isso na verdade é mais a ideia de trazer um contexto do mercado em geral para"
+      },
+      {
+        "startTime": 4272,
+        "endTime": 4274,
+        "speaker": "Diego Diehl",
+        "text": "Esse aqui como os times internos podem jogar tem tudo a ver, né?"
+      },
+      {
+        "startTime": 4274,
+        "endTime": 4284,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Iago não só os dados institucionais. sim"
+      },
+      {
+        "startTime": 4285,
+        "endTime": 4329,
+        "speaker": "Diego Diehl",
+        "text": "É uma frente, tá ligado ou não? Modelo fio de seios esse aqui eu acho que eu joguei várias paradas. Do c****** tem 30 páginas aqui nesses documentos. Eu acho que esse aqui eu vou fazer uma pop. Cara essa parada criar uma cópia e não abrir a cópia só para mim."
+      },
+      {
+        "startTime": 4329,
+        "endTime": 4376,
+        "speaker": "Diego Diehl",
+        "text": "beleza prontos análise vamos aquilo Aqui vamos fechar então, então a gente você tá nessa tarefa um quer salvar tudo em materiais Brutos. tá montagem de documentos Aquele dá uma sugestão. da estrutura de montagem de documento O que que eu acho que você podia fazer aqui antes? Até você Abrir chat diferente das vezes sabe."
+      },
+      {
+        "startTime": 4376,
+        "endTime": 4425,
+        "speaker": "Diego Diehl",
+        "text": "Se o padre um agora o teu objetivo é montagem do documento de visão estratégica? Aqui tem a estrutura que já vem. O que que eu acho que aqui tem que fazer as anel? Antes da gente evoluir ou até se você quiser evoluir mesmo. É avançar sem tanta crise, você pode já usar isso aqui, ó."
+      },
+      {
+        "startTime": 4425,
+        "endTime": 4488,
+        "speaker": "Diego Diehl",
+        "text": "Tá ligado, esse aqui é o modelo, mas eu criticaria. esse modelo primeiro sabe esse é o modelo que eu tenho ou Não sei se você tá pegando você tá acompanhando está escrevendo. Como é que tá? É que eu tô com afiada aqui. Ó que eu faria aqui. a tua Etapa 2 É a montagem do documento de visão estratégica certo? A etapa 2.1 é definir o modelo do documento de visão estratégica? Tá vendo essas sessões aqui?"
+      },
+      {
+        "startTime": 4488,
+        "endTime": 4493,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não sei se eu entendi. sim"
+      },
+      {
+        "startTime": 4495,
+        "endTime": 4548,
+        "speaker": "Diego Diehl",
+        "text": "Você concorda que elas foram criadas meio que foram criadas? O que que eu faria nesse ponto eu? Eu criticaria para a gente fazer isso aqui. Que eu faria e talvez eu já posso compartilhar contigo daí. Vou te mostrar o que eu falei rapidamente eu pegar isso aqui. esse documento Ah se jogou outras coisas para cá."
+      },
+      {
+        "startTime": 4553,
+        "endTime": 4556,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Esse daí é o que já tava. Você chegou agora?"
+      },
+      {
+        "startTime": 4556,
+        "endTime": 4613,
+        "speaker": "Diego Diehl",
+        "text": "Então se fosse local na prática. aqui Sei que dá para conectar direto lá, mas eu prefiro fazer assim que fica mais organizado. Eu jogaria aqui. Ou até já falei assim. Eu quero que a imagem. depois que Eu posso clicar em investigar show? As que hábito na linha que eu quero."
+      },
+      {
+        "startTime": 4613,
+        "endTime": 4675,
+        "speaker": "Diego Diehl",
+        "text": "Eu quero que você atua como. um especialista em métodos e criações de estruturas comerciais E de fio de seios com relação ao mercado imobiliário. E fique preparado para receber alguns arquivos nem entender todo o contexto porque depois vou pedir para você investigar e trazer metodologias e coisas. Fazer um teste aqui contigo, tô curioso dessa."
+      },
+      {
+        "startTime": 4675,
+        "endTime": 4706,
+        "speaker": "Diego Diehl",
+        "text": "investigação Ele trouxe já. Tá, beleza. Daí agora que eu quero pensar. Olá tá criando uma outra forma, né? E daí você que está mais solto, ele está menos."
+      },
+      {
+        "startTime": 4721,
+        "endTime": 4722,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É e ele só tava falando que ele aprendeu."
+      },
+      {
+        "startTime": 4722,
+        "endTime": 4733,
+        "speaker": "Diego Diehl",
+        "text": "menos enfezado Exatamente, beleza? Mas olha tem uns bloquinhos, né que a gente sabe que tem."
+      },
+      {
+        "startTime": 4734,
+        "endTime": 4740,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim de todos os documentos, ele já deixa tudo separado numa única mensagem."
+      },
+      {
+        "startTime": 4750,
+        "endTime": 4781,
+        "speaker": "Diego Diehl",
+        "text": "Sou gostei das respostas o que eu quero fazer agora é que eu estou em dúvidas sobre os itens das formas que está organizados os documentos, às vezes me parece que não tem uma ordem lógica. Eu não tô apoiado sobre nenhuma metodologia de vendas estruturas são de canais o pessoal aqui da empresa é muito científico é o que ele trazer algo mais robusto."
+      },
+      {
+        "startTime": 4781,
+        "endTime": 4806,
+        "speaker": "Diego Diehl",
+        "text": "E para isso eu quero que você crie um prompt para mim de como é que eu poderia pedir. Para o chat PT investigar e me trazer um conteúdo Rico para me ajudar a evoluir com esse com essa estruturação dos modelos de sócio local. Iza arquivos Agora eu tô pedindo para ele."
+      },
+      {
+        "startTime": 4806,
+        "endTime": 4809,
+        "speaker": "Diego Diehl",
+        "text": "Eu pedi para ele criar um prompt."
+      },
+      {
+        "startTime": 4815,
+        "endTime": 4817,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Um super promete na verdade."
+      },
+      {
+        "startTime": 4819,
+        "endTime": 4840,
+        "speaker": "Diego Diehl",
+        "text": "sorry managements Entendeu que ele aqueceu?"
+      },
+      {
+        "startTime": 4840,
+        "endTime": 4852,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "o RPM"
+      },
+      {
+        "startTime": 4852,
+        "endTime": 4896,
+        "speaker": "Diego Diehl",
+        "text": "Vou mandar um sim primeiro e ver o que ele traz. Porque eu não liguei a investigação na investigação tem 25 créditos. Vamos ver o que ele traz. Olha tinha que ele recomenda para vocês Amarelinho. Mas olha que legal treinamento suporte monitoramento é que esse daí é? Louco é como se fosse eu com você, né? Olha que outro modelo."
+      },
+      {
+        "startTime": 4896,
+        "endTime": 4943,
+        "speaker": "Diego Diehl",
+        "text": "Olha aqui os links. Perfeito, gostei das respostas, só que eu queria que você inteirasse novamente porque há uma mistura. De canais de vendas quando tem muitos distribuidores e muitos vendedores que não é o nosso caso nosso local, ele é o representante na cidade da empresa. Ela é uma pessoa mais próxima ele é um quase um vendedor da empresa, só que mais local."
+      },
+      {
+        "startTime": 4943,
+        "endTime": 4981,
+        "speaker": "Diego Diehl",
+        "text": "Não queria que você fizesse um pouco prompt que eu vou te mandar abaixo. Tendo como base essa clareza. Para não misturar com Enfim mistura da forma que você acha que faça mais sentido. às vezes até nos seios é quando você Por exemplo é o trabalho da Incorporadora com os imobiliárias."
+      },
+      {
+        "startTime": 4981,
+        "endTime": 5055,
+        "speaker": "Diego Diehl",
+        "text": "Eles cada Imobiliária é um é um canal digamos assim, tem que ter um border em treinamento acompanhamento para que todas elas vendam eu contigo é diferente, né? Não é não é nem de perto isso. aqui ó Deixa eu mandar um sim, primeiro ver o que vem. Daí eu vou mandar ele investigar."
+      },
+      {
+        "startTime": 5055,
+        "endTime": 5096,
+        "speaker": "Diego Diehl",
+        "text": "Para a gente ver diferença e eu compartilho contigo. Olha que legal os dentes. Olha aqui ó, é isso aqui que falta nossa. Eu acho que não."
+      },
+      {
+        "startTime": 5096,
+        "endTime": 5111,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "sim Mas fazer dois ele tá falando. Ele tá falando de da Matriz com suas locais. Olha lá implementar terreno e pode melhorar o gerenciamento."
+      },
+      {
+        "startTime": 5111,
+        "endTime": 5117,
+        "speaker": "Diego Diehl",
+        "text": "É Ah tá entendi. É tipo minha conversa. Olha que eu sugestões de leitura, mano."
+      },
+      {
+        "startTime": 5119,
+        "endTime": 5121,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "c****** Você tem uma investigado?"
+      },
+      {
+        "startTime": 5121,
+        "endTime": 5122,
+        "speaker": "Diego Diehl",
+        "text": "ok Não."
+      },
+      {
+        "startTime": 5124,
+        "endTime": 5128,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "curioso"
+      },
+      {
+        "startTime": 5128,
+        "endTime": 5171,
+        "speaker": "Diego Diehl",
+        "text": "Agora vamos mandar. Detalhado vou investigar e ver o que acontece. Só para confirmar Agora o bagulho ficou louco, hein? Bom enquanto faz isso. Eu até fui para prática aqui para eu acho que essa parte eu não precisava. Deixar na tua mão não eu já tô fazendo. Mas quando a gente tava olhando no plano aqui, ó."
+      },
+      {
+        "startTime": 5171,
+        "endTime": 5191,
+        "speaker": "Diego Diehl",
+        "text": "Cadê o plano estava seguindo? Acho que eu fechei. que era o Nosso plano de ação para organizar, né? Acho que tá dentro de uma estratégia aqui, ó."
+      },
+      {
+        "startTime": 5208,
+        "endTime": 5209,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Acho que vai acabar com a bateria do computador."
+      },
+      {
+        "startTime": 5223,
+        "endTime": 5291,
+        "speaker": "Diego Diehl",
+        "text": "então aqui passa um Passo um a gente você vai terminar, né? Que é o materiais brutos pegar suas respostas lá certo. passo dois montagem dos documentos estratégico que eu tô fazendo eu tô Definindo o modelo para a gente não perder pontos, né? Os ia para resumir parte de documentos brutos circular trechos como blocos de conteúdo resumos aprendizados documentos."
+      },
+      {
+        "startTime": 5291,
+        "endTime": 5367,
+        "speaker": "Diego Diehl",
+        "text": "Que é isso aqui eu acho que você vai ter o modelo geral. Daí você expande o ponto 1 expande 1.2 expande.3. Daí se o ponto 2 tem esses três pontos aqui ó, dá para primeiro falho cria um trecho sobre escalabilidade por mais que ele não traga um mega conteúdo ele consegue pensar mais específico dá uma resposta melhor, né? Beleza, aí, você vai cada ponto aqui."
+      },
+      {
+        "startTime": 5367,
+        "endTime": 5430,
+        "speaker": "Diego Diehl",
+        "text": "E aqui fechou. e arquivos documentos de Cultura, só que as forças Eu acho que isso aqui nem Nem precisa super né? Acho que vai ser meio talvez ali no Talvez quando terminar o playbook a gente veja que documentos a mais preciso a manual de Cultura mindset essas coisas que não precisa agora nessa não."
+      },
+      {
+        "startTime": 5430,
+        "endTime": 5442,
+        "speaker": "Diego Diehl",
+        "text": "É mais seus documentos, talvez que eu falei. Investigar está sendo."
+      },
+      {
+        "startTime": 5446,
+        "endTime": 5452,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "muito curioso para saber a resposta do piano"
+      },
+      {
+        "startTime": 5454,
+        "endTime": 5455,
+        "speaker": "Diego Diehl",
+        "text": "Vamos dar uma olhada aqui de novo."
+      },
+      {
+        "startTime": 5455,
+        "endTime": 5455,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "irado"
+      },
+      {
+        "startTime": 5476,
+        "endTime": 5524,
+        "speaker": "Diego Diehl",
+        "text": "Que vai dar boa. próximo sentido Daí sabe o que que é legal Zanella a gente deixar. Olha os desdobramentos aqui, ó, só que a gente não faz isso. Agora tá ligado? Vou te mandar esse aqui, tá? plano Ele vai criar um template, mas daí quando vier a resposta do investigar."
+      },
+      {
+        "startTime": 5524,
+        "endTime": 5530,
+        "speaker": "Diego Diehl",
+        "text": "Aí a gente dá uma revisada."
+      },
+      {
+        "startTime": 5530,
+        "endTime": 5556,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá bom, beleza. Eu tenho uma reunião com naipe agora vou aproveitar para gravar e explicar eu vou usar aquele documento que eu fiz na prática para ser mais dinâmico. Como foi o que que Que digitei então um processo ali que eu já tenho. E aí eu apresento para ele ele Talvez ele tem algumas dúvidas também, né? A gente vai conversando sobre E aí depois a gente tem a nossa reunião, né?"
+      },
+      {
+        "startTime": 5558,
+        "endTime": 5625,
+        "speaker": "Diego Diehl",
+        "text": "Boa não vai ter muito tempo entre isso. Para minha sugestão. lembra Vou te dar duas sugestões, tá? a primeira Do c******, ele deu uma entrega massa na janela. Vou te mostrar só enquanto. Isso é estratégica. no sonho aqui alavancas Na verdade. Pilares de atuação Tiver uma coisa. É um template."
+      },
+      {
+        "startTime": 5625,
+        "endTime": 5685,
+        "speaker": "Diego Diehl",
+        "text": "editar Mas deixei que nem todos os espaços para preencher. Tem que ser ele. Com o naipes. eu jogaria no No Maiara igual eu fiz ali. Qual documento por sinal que você tá falando que você vai usar só para saber? A gente faz isso contigo."
+      },
+      {
+        "startTime": 5685,
+        "endTime": 5695,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "esclarecendo registrado"
+      },
+      {
+        "startTime": 5695,
+        "endTime": 5724,
+        "speaker": "Diego Diehl",
+        "text": "Tá eu jogaria numa ali no state algo assim, falaria quero fazer uma reunião apresentando esse modelo num cara e deixe debaixo debaixo de cada tópico, me dê duas três perguntas abertas para eu conversar com ele. E que sirva para eu também enriquecer minha visão e daí a gravação essa gravação, acho que vai ser rica, cara também."
+      },
+      {
+        "startTime": 5724,
+        "endTime": 5750,
+        "speaker": "Diego Diehl",
+        "text": "Né? Tipo? Você vai explicar para ele, eu acho que ele já entendeu o modelo não tem muito segredo. Entendeu? Depois eu te mando o resultado ali. de investigar E aí eu vou te mandar. Esse aqui eu não consigo te mandar o link. Mas eu te mando ali mais um modelo."
+      },
+      {
+        "startTime": 5750,
+        "endTime": 5781,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que o principal é as suas perguntas lá que vão enriquecendo um contexto bem rico e a gente consolidar o primeiro documento com a visão aí depois a gente vai. escalar isso para c****** e Pensa que uma coisa que você lembrar é que cara vai vão ter provavelmente, sei lá, daqui a pouco umas 20 praças para a gente fazer."
+      },
+      {
+        "startTime": 5781,
+        "endTime": 5807,
+        "speaker": "Diego Diehl",
+        "text": "Idade a pouco vai ter só seu local. Em Londrina, talvez não tem um cara focado, mas o cara que é tudo de vez em quando colabora. E esses manuais essa clareza vai servir para todo mundo, não sei esse dia tá fazendo com a minha idade, mas a gente tá te acelerando aí."
+      },
+      {
+        "startTime": 5807,
+        "endTime": 5822,
+        "speaker": "Diego Diehl",
+        "text": "A visão estratégica isso é bom você poder com essa visão atuar mais um ano dois anos tocada em Curitiba que você vai. Consolidar uma robustez isso daí, né?"
+      },
+      {
+        "startTime": 5822,
+        "endTime": 5823,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, sim também."
+      },
+      {
+        "startTime": 5826,
+        "endTime": 5827,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 5828,
+        "endTime": 5828,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "fechou"
+      },
+      {
+        "startTime": 5829,
+        "endTime": 5834,
+        "speaker": "Diego Diehl",
+        "text": "Valeu acho que a gente se produzir, né? Esse ali é"
+      },
+      {
+        "startTime": 5834,
+        "endTime": 5837,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, não sou bastante sim."
+      },
+      {
+        "startTime": 5839,
+        "endTime": 5847,
+        "speaker": "Diego Diehl",
+        "text": "mas eu te mando ali o eu vou inteirar aqui e o meu papel talvez você te dá um modelo de visão estratégica para a gente preencher"
+      },
+      {
+        "startTime": 5849,
+        "endTime": 5850,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá bom, beleza."
+      },
+      {
+        "startTime": 5850,
+        "endTime": 5851,
+        "speaker": "Diego Diehl",
+        "text": "Beleza. Valeu, meu querido."
+      },
+      {
+        "startTime": 5851,
+        "endTime": 5853,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Fechou. Valeu. Tamo junto. Obrigado."
+      },
+      {
+        "startTime": 5853,
+        "endTime": 5856,
+        "speaker": "Diego Diehl",
+        "text": "Tá bem, aí vai regulando sua energia interna."
+      },
+      {
+        "startTime": 5857,
+        "endTime": 5860,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Abraço falou."
+      },
+      {
+        "startTime": 5860,
+        "endTime": 5862,
+        "speaker": "Diego Diehl",
+        "text": "abraço alô"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 279,
+    "speakers": [
+      "Luiz Gustavo Zanella",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 8363,
+    "duration_start": 0,
+    "duration_end": 5862
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "681e2ab29df8230013fa0cea",
+        "timestamp": 484,
+        "text": "Luiz concluiu documento sem IA, considerando resultado melhor que gerado com inteligência artificial",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ceb",
+        "timestamp": 563,
+        "text": "Luiz respondeu cinco perguntas adicionais sobre o documento",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cec",
+        "timestamp": 649,
+        "text": "Luiz buscava gerar material mais rico com visão operacional",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cdc",
+        "timestamp": 860,
+        "text": "Diego sugere estrutura de documento em blocos: Panorama geral, principais ações e resultados obtidos",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf6",
+        "timestamp": 906,
+        "text": "Diego levanta preocupações sobre documentos PDF, Luiz busca atualização focada em operações e automação de CRM.",
+        "topicId": "681e2ab29df8230013fa0cd0"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf7",
+        "timestamp": 947,
+        "text": "Objetivo de criar documento abrangente para enriquecer outros documentos e chats.",
+        "topicId": "681e2ab29df8230013fa0cd0"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cdd",
+        "timestamp": 985,
+        "text": "Diego concorda que criar documentos em PDF não tem sido uma boa experiência.",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cde",
+        "timestamp": 1118,
+        "text": "Diego sugere criar documento com aproximadamente 20 páginas de conteúdo rico.",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf8",
+        "timestamp": 1229,
+        "text": "Diego considera experimentar plano Business do ChatGPT por $25.",
+        "topicId": "681e2ab29df8230013fa0cd0"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ced",
+        "timestamp": 1272,
+        "text": "Luiz identifica ChatGPT como melhor fonte para registrar ações de trabalho em diferentes sites.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf9",
+        "timestamp": 1383,
+        "text": "Diego prepara apresentação sobre modelo de fio de seios, anotações nas praças e programa de embaixadores.",
+        "topicId": "681e2ab29df8230013fa0cd0"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cee",
+        "timestamp": 1499,
+        "text": "Diego identifica que os prompts atuais não estão claros e necessitam de um método de criação mais estruturado.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cef",
+        "timestamp": 1538,
+        "text": "Sugestão de realizar um curso rápido sobre criação de prompts para melhorar habilidades de interação.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf0",
+        "timestamp": 1596,
+        "text": "Identificado que adicionar contexto aos prompts pode melhorar significativamente a performance da inteligência artificial.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf1",
+        "timestamp": 1649,
+        "text": "Diego propõe estudar engenharia de prompt para aprimorar a qualidade das interações com IA.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf2",
+        "timestamp": 1728,
+        "text": "Diego destaca duas etapas importantes para criação de prompts: clareza de contexto e objetivo.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf3",
+        "timestamp": 1952,
+        "text": "Diego sugere criar base de conhecimento para treinar agente de atendimento comercial.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf4",
+        "timestamp": 2017,
+        "text": "Diego almeja aprimorar abordagem dos agentes, compreendendo decisões e valores dos clientes.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cf5",
+        "timestamp": 2074,
+        "text": "Diego solicita base de conhecimento sobre produtos, suas funcionalidades e integrações.",
+        "topicId": "681e2ab29df8230013fa0ccf"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd1",
+        "timestamp": 2165,
+        "text": "Necessidade de atualizar playbook de sócio local no sistema.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd2",
+        "timestamp": 2199,
+        "text": "Diego pede para revisar playbooks existentes e adaptar para contexto de sócio local.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd3",
+        "timestamp": 2278,
+        "text": "Luiz planeja coletar todos os documentos de sócio local e carregar no Doug para complementar contexto.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd4",
+        "timestamp": 2389,
+        "text": "Diego sugere levantar documentos de sócio local, organizá-los em pasta e separar perguntas.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd5",
+        "timestamp": 2439,
+        "text": "Diego sugere criar blocos de respostas de documentos existentes, Luiz prepara-se para reunião com documentos organizados.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd6",
+        "timestamp": 2555,
+        "text": "Diego propõe organização de documentos na sexta-feira e definição de estratégias para cada player.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce2",
+        "timestamp": 2734,
+        "text": "Foco inicial será criar visão estratégica dos blocos maiores com potencial de desdobramento.",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce3",
+        "timestamp": 3455,
+        "text": "Estruturação de documento estratégico com foco em sócio local, conexões com matriz e indicadores comerciais",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce4",
+        "timestamp": 3516,
+        "text": "Diego planeja ajustar indicadores mínimos de performance e autonomia para capacitação contínua",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce5",
+        "timestamp": 3753,
+        "text": "Diego solicita análise de contrato sob perspectiva jurídica para verificar robustez de comissionamento",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce6",
+        "timestamp": 3860,
+        "text": "Desenvolvimento de plano de carreira e jornada evolutiva para sócio local",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce7",
+        "timestamp": 4008,
+        "text": "Criar documento com papéis, responsabilidades e indicadores para sócio local",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce8",
+        "timestamp": 4176,
+        "text": "Padronizar resultados criando pasta estruturada com subpastas para materiais brutos",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce9",
+        "timestamp": 4348,
+        "text": "Iniciar tarefa de salvar documentos em materiais brutos e estruturar montagem de documentos",
+        "topicId": "681e2ab29df8230013fa0cce"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cdf",
+        "timestamp": 4750,
+        "text": "Diego questionou a organização lógica dos documentos e busca uma metodologia mais robusta para estruturação.",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce0",
+        "timestamp": 4781,
+        "text": "Diego solicita criação de prompt para investigar e melhorar a estruturação dos modelos de sócio local.",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0ce1",
+        "timestamp": 4933,
+        "text": "Diego quer diferenciar o modelo de representante local do modelo tradicional de canais de vendas.",
+        "topicId": "681e2ab29df8230013fa0ccd"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd7",
+        "timestamp": 5183,
+        "text": "Plano de ação definido em 3 passos: coletar materiais brutos, montar documentos estratégicos e resumir conteúdo.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd8",
+        "timestamp": 5531,
+        "text": "Luiz planeja reunião com Naipe, utilizando documento prático para explicar processo.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cd9",
+        "timestamp": 5749,
+        "text": "Diego recomenda consolidar documento estratégico inicial antes de expandir para 20 localidades diferentes.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cda",
+        "timestamp": 5792,
+        "text": "Equipe desenvolverá manuais para clareza, com visão estratégica focada em Curitiba para próximos 1-2 anos.",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      },
+      {
+        "segmentId": "681e2ab29df8230013fa0cdb",
+        "timestamp": 5838,
+        "text": "Diego enviará modelo de visão estratégica para preenchimento",
+        "topicId": "681e2ab29df8230013fa0ccc"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "681e2ab29df8230013fa0ccc",
+        "order": 1,
+        "title": "Ações Definidas para Documento de Sócio Local",
+        "summary": ""
+      },
+      {
+        "id": "681e2ab29df8230013fa0ccd",
+        "order": 2,
+        "title": "Estruturação e Metodologia de Documentos",
+        "summary": ""
+      },
+      {
+        "id": "681e2ab29df8230013fa0cce",
+        "order": 3,
+        "title": "Desenvolvimento de Estratégia para Sócio Local",
+        "summary": ""
+      },
+      {
+        "id": "681e2ab29df8230013fa0ccf",
+        "order": 4,
+        "title": "Uso de Inteligência Artificial e Prompts",
+        "summary": ""
+      },
+      {
+        "id": "681e2ab29df8230013fa0cd0",
+        "order": 5,
+        "title": "Considerações sobre Documentação",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 41,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "681e2ab29df8230013fa0ccc",
+      "order": 1,
+      "title": "Ações Definidas para Documento de Sócio Local",
+      "summary": ""
+    },
+    {
+      "id": "681e2ab29df8230013fa0ccd",
+      "order": 2,
+      "title": "Estruturação e Metodologia de Documentos",
+      "summary": ""
+    },
+    {
+      "id": "681e2ab29df8230013fa0cce",
+      "order": 3,
+      "title": "Desenvolvimento de Estratégia para Sócio Local",
+      "summary": ""
+    },
+    {
+      "id": "681e2ab29df8230013fa0ccf",
+      "order": 4,
+      "title": "Uso de Inteligência Artificial e Prompts",
+      "summary": ""
+    },
+    {
+      "id": "681e2ab29df8230013fa0cd0",
+      "order": 5,
+      "title": "Considerações sobre Documentação",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:45:20.494352+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:45:20.494352+00:00"
+}

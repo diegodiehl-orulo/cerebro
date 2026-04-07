@@ -1,0 +1,43 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "68bec84f5d3f0d00139ca3ec",
+      "timestamp": 188,
+      "text": "Rodrigo planeja fazer fechamento de contas da Incorporadora.",
+      "topicId": "68bec84f5d3f0d00139ca3ea"
+    },
+    {
+      "segmentId": "68bec84f5d3f0d00139ca3ee",
+      "timestamp": 219,
+      "text": "Ruilce identificou erro na contagem bruta de dados.",
+      "topicId": "68bec84f5d3f0d00139ca3eb"
+    },
+    {
+      "segmentId": "68bec84f5d3f0d00139ca3ed",
+      "timestamp": 280,
+      "text": "Ruilce realiza consolidação manual de dados, exigindo revisão cuidadosa para garantir precisão.",
+      "topicId": "68bec84f5d3f0d00139ca3ea"
+    },
+    {
+      "segmentId": "68bec84f5d3f0d00139ca3ef",
+      "timestamp": 324,
+      "text": "Risco de duplicidade identificado ao puxar registros por nome.",
+      "topicId": "68bec84f5d3f0d00139ca3eb"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "68bec84f5d3f0d00139ca3ea",
+      "order": 1,
+      "title": "Ações de Fechamento e Consolidação de Dados",
+      "summary": ""
+    },
+    {
+      "id": "68bec84f5d3f0d00139ca3eb",
+      "order": 2,
+      "title": "Desafios de Qualidade e Integridade de Dados",
+      "summary": ""
+    }
+  ]
+}

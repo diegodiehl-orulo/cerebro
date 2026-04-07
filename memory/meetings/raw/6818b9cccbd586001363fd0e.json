@@ -1,0 +1,28 @@
+{
+  "id": "6818b9cccbd586001363fd0e",
+  "happenedAt": "2025-05-05T13:15:00.000Z",
+  "invitees": [
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "Start PRM Squad",
+  "duration": 3983.595,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/6818b9cccbd586001363fd0e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "xon-mszh-bao"
+  }
+}

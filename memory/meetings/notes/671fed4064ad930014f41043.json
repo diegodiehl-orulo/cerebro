@@ -1,0 +1,103 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "671ff1df2f69710013b8cbcc",
+      "timestamp": 45,
+      "text": "Carlos é o diretor de operações que apresentará o documento de implantação do projeto Tarjab.",
+      "topicId": "671ff1df2f69710013b8cbc5"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbcd",
+      "timestamp": 85,
+      "text": "A implantação do projeto Tarjab tem uma estimativa de 7 a 10 dias úteis, dividida em 4 etapas.",
+      "topicId": "671ff1df2f69710013b8cbc5"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbce",
+      "timestamp": 131,
+      "text": "Será coletado dados de usuários (nome, telefone, email) e mapeadas as integrações e sistemas utilizados pela Tarjab.",
+      "topicId": "671ff1df2f69710013b8cbc5"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbcf",
+      "timestamp": 212,
+      "text": "O Ouro é o principal canal de captação de corretores parceiros, mas outras opções serão avaliadas.",
+      "topicId": "671ff1df2f69710013b8cbc6"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbd0",
+      "timestamp": 286,
+      "text": "Os dados obrigatórios para cadastro de usuários são nome, celular e CPF, com validação por SMS.",
+      "topicId": "671ff1df2f69710013b8cbc7"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbd1",
+      "timestamp": 388,
+      "text": "Será importada a base de parceiros e vendas da Tarjab para integração com o sistema Z2A.",
+      "topicId": "671ff1df2f69710013b8cbc8"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbd2",
+      "timestamp": 474,
+      "text": "Serão realizados treinamentos separados para administradores e gerentes/coordenadores sobre a utilização da plataforma.",
+      "topicId": "671ff1df2f69710013b8cbc9"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbd3",
+      "timestamp": 572,
+      "text": "Será criado um grupo de WhatsApp para acompanhamento e suporte durante a implantação do projeto.",
+      "topicId": "671ff1df2f69710013b8cbca"
+    },
+    {
+      "segmentId": "671ff1df2f69710013b8cbd4",
+      "timestamp": 874,
+      "text": "As atualizações de preço e materiais serão centralizadas no portal Ouro, com apenas materiais exclusivos sendo atualizados no Z2A.",
+      "topicId": "671ff1df2f69710013b8cbcb"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "671ff1df2f69710013b8cbc5",
+      "order": 1,
+      "title": "Projeto Tarjab",
+      "summary": "Projeto Tarjab será implantado em 7-10 dias úteis, com 4 etapas. Dados de usuários serão coletados e integrados com sistemas da Tarjab."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbc6",
+      "order": 2,
+      "title": "Canais de Captação",
+      "summary": "Ouro é o principal canal de captação de corretores parceiros, mas outras opções serão avaliadas."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbc7",
+      "order": 3,
+      "title": "Cadastro de Usuários",
+      "summary": "Dados obrigatórios para cadastro de usuários são nome, celular e CPF, com validação por SMS."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbc8",
+      "order": 4,
+      "title": "Integração de Sistemas",
+      "summary": "Base de parceiros e vendas da Tarjab será importada e integrada com o sistema Z2A."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbc9",
+      "order": 5,
+      "title": "Treinamentos",
+      "summary": "Treinamentos separados serão realizados para administradores e gerentes/coordenadores sobre a utilização da plataforma."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbca",
+      "order": 6,
+      "title": "Acompanhamento e Suporte",
+      "summary": "Será criado um grupo de WhatsApp para acompanhamento e suporte durante a implantação do projeto."
+    },
+    {
+      "id": "671ff1df2f69710013b8cbcb",
+      "order": 7,
+      "title": "Materiais e Atualizações",
+      "summary": "Atualizações de preço e materiais serão centralizadas no portal Ouro, com apenas materiais exclusivos sendo atualizados no Z2A."
+    }
+  ]
+}

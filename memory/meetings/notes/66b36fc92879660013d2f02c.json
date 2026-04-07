@@ -1,0 +1,175 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66b37cd15a4b1d00138a688c",
+      "timestamp": 334,
+      "text": "Etapas de implantação: criar conta na plataforma, definir mensagem de abordagem e configurar base de gestão de carteiras.",
+      "topicId": "66b37cd15a4b1d00138a6884"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a688d",
+      "timestamp": 389,
+      "text": "Importação da base de contatos pré-existente do cliente é uma etapa importante a ser realizada.",
+      "topicId": "66b37cd15a4b1d00138a6884"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a688e",
+      "timestamp": 503,
+      "text": "Cliente precisa contratar serviços da Plumis, Filter Feed e áudio para ter acesso ao serviço de RM.",
+      "topicId": "66b37cd15a4b1d00138a6885"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a688f",
+      "timestamp": 529,
+      "text": "Contrato é uma coisa só, não precisa contratar serviços separados, mas o cliente precisa ter esses serviços contratados.",
+      "topicId": "66b37cd15a4b1d00138a6885"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6890",
+      "timestamp": 815,
+      "text": "Diego se oferece para participar da especificação, contribuindo com a perspectiva de negócio além da técnica.",
+      "topicId": "66b37cd15a4b1d00138a6886"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6891",
+      "timestamp": 871,
+      "text": "Importância de escrever a especificação com clareza sobre o contexto de negócio e o valor gerado para o cliente.",
+      "topicId": "66b37cd15a4b1d00138a6886"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6892",
+      "timestamp": 914,
+      "text": "Será implementado um sistema de respostas pré-definidas para envio de links de arquivos e pastas do Google Drive.",
+      "topicId": "66b37cd15a4b1d00138a6887"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6893",
+      "timestamp": 983,
+      "text": "Envio de links de pastas do Drive para disponibilizar diversos arquivos, e envio de arquivos específicos do Drive.",
+      "topicId": "66b37cd15a4b1d00138a6887"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6894",
+      "timestamp": 1212,
+      "text": "Criar uma ficha para cada membro explicar suas ações. Verificar se há mais ações disponíveis.",
+      "topicId": "66b37cd15a4b1d00138a6888"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6895",
+      "timestamp": 1247,
+      "text": "Adicionar outras questões além de arquivos, como a tabela de ações, para enriquecer o teste.",
+      "topicId": "66b37cd15a4b1d00138a6888"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6896",
+      "timestamp": 1410,
+      "text": "Identificar erros simples de digitação e melhorar a estrutura do editor de resposta antes de enriquecer o teste.",
+      "topicId": "66b37cd15a4b1d00138a6888"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689d",
+      "timestamp": 1434,
+      "text": "O teste atual ainda não valida se a mídia enviada é a correta, sendo necessário melhorar essa funcionalidade.",
+      "topicId": "66b37cd15a4b1d00138a688b"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689a",
+      "timestamp": 1474,
+      "text": "Solicitar os arquivos do Drive e as perguntas correspondentes para serem adicionadas no teste.",
+      "topicId": "66b37cd15a4b1d00138a688a"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6897",
+      "timestamp": 1481,
+      "text": "Solicitar a tabela de ações disponíveis para incluir no teste.",
+      "topicId": "66b37cd15a4b1d00138a6888"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689b",
+      "timestamp": 1506,
+      "text": "Discutir a possibilidade de adicionar sinônimos nas perguntas para ajudar o bot.",
+      "topicId": "66b37cd15a4b1d00138a688a"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6898",
+      "timestamp": 1520,
+      "text": "Criar uma seção de sinônimos para mídias e perguntas frequentes no teste.",
+      "topicId": "66b37cd15a4b1d00138a6889"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a6899",
+      "timestamp": 1640,
+      "text": "Solicitar a lista de sinônimos para a tabela de ações e outros itens, para enriquecer o teste.",
+      "topicId": "66b37cd15a4b1d00138a6889"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689c",
+      "timestamp": 1650,
+      "text": "Solicitar a lista de sinônimos para a tabela de ações e outros itens.",
+      "topicId": "66b37cd15a4b1d00138a688a"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689e",
+      "timestamp": 1777,
+      "text": "O foco atual é verificar se o bot está enviando a mídia correta, antes de enriquecer o teste com mais perguntas.",
+      "topicId": "66b37cd15a4b1d00138a688b"
+    },
+    {
+      "segmentId": "66b37cd15a4b1d00138a689f",
+      "timestamp": 1842,
+      "text": "Não há testes sendo executados no momento, o foco é melhorar o teste de envio de mídia.",
+      "topicId": "66b37cd15a4b1d00138a688b"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66b37cd15a4b1d00138a6884",
+      "order": 1,
+      "title": "Configuração inicial do cliente",
+      "summary": "Discute as etapas necessárias para iniciar um novo cliente, incluindo a criação de conta, definição de mensagens e configuração de base de contatos."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a6885",
+      "order": 2,
+      "title": "Contratação do serviço de RM",
+      "summary": "Discute os serviços que o cliente precisa contratar para ter acesso ao serviço de RM, incluindo a plataforma Plumis e a automação do WhatsApp."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a6886",
+      "order": 3,
+      "title": "Especificação de funcionalidades",
+      "summary": "Discute a importância de uma boa especificação de funcionalidades, com foco no contexto de negócio e não apenas nos aspectos técnicos."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a6887",
+      "order": 4,
+      "title": "Envio de arquivos via WhatsApp",
+      "summary": "Discute as diferentes formas de enviar arquivos para os corretores via WhatsApp, incluindo o envio de links de pastas e arquivos do Google Drive."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a6888",
+      "order": 5,
+      "title": "Melhorias no teste de envio de mídia",
+      "summary": "Discutir melhorias no teste de envio de mídia, como validação da mídia correta e enriquecimento do teste com mais perguntas."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a6889",
+      "order": 6,
+      "title": "Adição de sinônimos para perguntas e mídias",
+      "summary": "Discutir a adição de sinônimos para perguntas e mídias no teste, a fim de melhorar a compreensão do bot."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a688a",
+      "order": 7,
+      "title": "Preparação de arquivos e perguntas para o teste",
+      "summary": "Discutir a preparação de arquivos e perguntas a serem adicionadas no teste, para melhorar a avaliação do bot."
+    },
+    {
+      "id": "66b37cd15a4b1d00138a688b",
+      "order": 8,
+      "title": "Atualização do status do teste",
+      "summary": "Discutir o status atual do teste de envio de mídia e as próximas etapas a serem realizadas."
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "67a4eaaefde9880014851622",
+  "happenedAt": "2025-02-06T17:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "gabriel@makenincorporadora.com.br"
+    }
+  ],
+  "name": "Órulo & Maken",
+  "duration": 4414.099,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/67a4eaaefde9880014851622",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "aiv-mrob-rey"
+  }
+}

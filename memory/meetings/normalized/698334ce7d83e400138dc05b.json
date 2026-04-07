@@ -1,0 +1,1480 @@
+{
+  "meeting_id": "698334ce7d83e400138dc05b",
+  "name": "Treinamento Comercial",
+  "happened_at": "2026-02-04T12:00:00.000Z",
+  "duration_seconds": 3707.681,
+  "duration_minutes": 61.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "Jade Rosa",
+      "email": "jade.rosa@orulo.com.br"
+    },
+    {
+      "name": "Ester Elisa de Souza Rodrigues",
+      "email": "ester.rodrigues@orulo.com.br"
+    },
+    {
+      "name": "Elizangela Fernandes Borges",
+      "email": "elizangela.borges@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/698334ce7d83e400138dc05b",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "hhz-faeg-vfq",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "698335078f070e0013dc29be",
+    "meetingId": "698334ce7d83e400138dc05b",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "speaker": "Diego Diehl",
+        "text": "Sim computador na nuvem."
+      },
+      {
+        "startTime": 0,
+        "endTime": 0,
+        "speaker": "Gustavo Torres",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 0,
+        "endTime": 1,
+        "speaker": "Mirla Menezes",
+        "text": "Esperando minha web."
+      },
+      {
+        "startTime": 1,
+        "endTime": 8,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 8,
+        "endTime": 1184,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Essa 2.0 ainda tá meio fraca. Aí eu tô vendo agora tava vendo aqui mais cedo se era o uso do CPU lá no servidor. Mas tá tudo livre. E agora vou começar a mexer nas configurações dele, não sei se é o modelo de ar que eu escolhi. Que o agente principal eu botei para usar o GPT Mini."
+      },
+      {
+        "startTime": 1184,
+        "endTime": 89,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "E aí a ideia é o sub agentes dele, cada um tem uma função. Não vai mexer na minha agenda o outro vai resumir meus áudios para botar esse RM essas coisas assim, sabe?"
+      },
+      {
+        "startTime": 89,
+        "endTime": 95,
+        "speaker": "Diego Diehl",
+        "text": "Entendi entendi. Ah, você não foi até a ação prática que gera valor, você tá configurarem entendi então."
+      },
+      {
+        "startTime": 95,
+        "endTime": 96,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "configuração"
+      },
+      {
+        "startTime": 99,
+        "endTime": 101,
+        "speaker": "Diego Diehl",
+        "text": "Boa sorte."
+      },
+      {
+        "startTime": 101,
+        "endTime": 104,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Mas é legal é legal, você é legal."
+      },
+      {
+        "startTime": 107,
+        "endTime": 110,
+        "speaker": "Diego Diehl",
+        "text": "Bom dia pessoal, bom dia janela."
+      },
+      {
+        "startTime": 110,
+        "endTime": 111,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Bom dia certo."
+      },
+      {
+        "startTime": 113,
+        "endTime": 180,
+        "speaker": "Diego Diehl",
+        "text": "Usando ela você lembra você deu você chegou a usar alguns slides do último treinamento."
+      },
+      {
+        "startTime": 180,
+        "endTime": 181,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "todos do último que você"
+      },
+      {
+        "startTime": 181,
+        "endTime": 184,
+        "speaker": "Diego Diehl",
+        "text": "Usou todos os"
+      },
+      {
+        "startTime": 184,
+        "endTime": 186,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá boa pessoal, então no último treinamento a gente deu uma revisada em"
+      },
+      {
+        "startTime": 186,
+        "endTime": 199,
+        "speaker": "Diego Diehl",
+        "text": "vamos Lá então. Puxa um review Viu?"
+      },
+      {
+        "startTime": 205,
+        "endTime": 1390,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "na plataforma e utilizam os nossos dados para no dia a dia deles, o que que eles podem fazer para chegar até os corretores e aumentar sua capilaridade. A gente também deu uma passadinha em relação a nosso m de uma forma bem breve para descobrir algumas alavancas aí já acaba sendo um pouquinho longe de da tua Apresentação, mas eu aproveitei algum dos Ganchos da reunião para a gente entrar no m para."
+      },
+      {
+        "startTime": 1390,
+        "endTime": 268,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tá boa pessoal, então no último treinamento a gente deu uma revisada em Algumas alavancas de abordagem que a gente pode ter com algumas incorporadoras e como utilizar isso ao nosso favor. Então esse foi o nosso o nosso treinamento"
+      },
+      {
+        "startTime": 268,
+        "endTime": 269,
+        "speaker": "Diego Diehl",
+        "text": "um pouco"
+      },
+      {
+        "startTime": 269,
+        "endTime": 270,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "da semana passada."
+      },
+      {
+        "startTime": 272,
+        "endTime": 293,
+        "speaker": "Diego Diehl",
+        "text": "Boa e time para ajudar aí a relembrar. O que que vocês lembram que mais chamou atenção de vocês na semana passada assim uma frase um aprendizado uma ação em site? Como a voz do Zanella era bonita qualquer coisa aí."
+      },
+      {
+        "startTime": 294,
+        "endTime": 317,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa é, o Diego uma questão que usa nela comentou e eu tenho pego bastante essa questão do da objeção em relação a ter mais uma ferramenta para utilizar então usar nela trouxe aí muita questão da relevância, né? A gente criou um link com a relevância lá na busca para o corretor de que mesmo sem o gerente de parcerias utilizar ferramentas só da gente apertar um botão e mudar o cara de plano, cara."
+      },
+      {
+        "startTime": 317,
+        "endTime": 319,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ele já a gente já vai estar distribuindo ele para as"
+      },
+      {
+        "startTime": 319,
+        "endTime": 320,
+        "speaker": "Diego Diehl",
+        "text": "boa"
+      },
+      {
+        "startTime": 320,
+        "endTime": 332,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "imobiliárias gerando capilaridade. E a tendência que ele apareça nas primeiras páginas porque o corretor não vai procurar pela Incorporadora lá na décima página. Então isso é um ponto que eu tenho pego bastante tenho batido bastante nessa tecla. Inclusive essa semana."
+      },
+      {
+        "startTime": 333,
+        "endTime": 363,
+        "speaker": "Diego Diehl",
+        "text": "vou pagar. E na real é a gente precisa explicar para o cara que não é bem assim, não é a hora não tá nesse saco aí o que mais."
+      },
+      {
+        "startTime": 363,
+        "endTime": 385,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "tal gancho de antes do próximo falar ontem fiz uma reunião com arcplan e eu mostrei no nos meus Imóveis, eles não estavam integrando para 1050 se eu não me engano 1050 CRM, eles estavam integrando somente para 50 cm das imobiliárias que estão E aí foi muito gostoso mostrar esse"
+      },
+      {
+        "startTime": 388,
+        "endTime": 390,
+        "speaker": "Diego Diehl",
+        "text": "boa Que mais gente."
+      },
+      {
+        "startTime": 391,
+        "endTime": 400,
+        "speaker": "Jade Rosa",
+        "text": "Rosane ela Inclusive é o Carlos da arteplan ele me chamou ele me mandou uma figurinha falou assim, nossa ontem foi muito enriquecedor, então assim gostou."
+      },
+      {
+        "startTime": 400,
+        "endTime": 403,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Ô coisa boa. coisa boa"
+      },
+      {
+        "startTime": 403,
+        "endTime": 410,
+        "speaker": "Jade Rosa",
+        "text": "Pode deixar, a gente eu vou falar então da semana passada. Acho que é algo que"
+      },
+      {
+        "startTime": 410,
+        "endTime": 411,
+        "speaker": "Diego Diehl",
+        "text": "dele."
+      },
+      {
+        "startTime": 411,
+        "endTime": 414,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É deixar orgulhosa também."
+      },
+      {
+        "startTime": 416,
+        "endTime": 420,
+        "speaker": "Diego Diehl",
+        "text": "Que mais?"
+      },
+      {
+        "startTime": 420,
+        "endTime": 456,
+        "speaker": "Jade Rosa",
+        "text": "ficou muito marcado foram algumas práticas do que o corretor. Vê a questão do relacionamento para a gente ter atenção a capilaridade e também essa esse. Entendimento de como abordar Incorporadora porque a objeção ela vem muito rápido não a gente já tem um CRM não a gente já trabalha com algo assim, já tem uma uma e tentar mostrar que a nossa infraestrutura ela aborda muito mais que isso então acho que isso é um ponto importante que eu tenho tentado trazer Quando surge."
+      },
+      {
+        "startTime": 457,
+        "endTime": 1718,
+        "speaker": "Diego Diehl",
+        "text": "Prospectar e contornar objeção, achei muito legal o resumo do nosso trabalho. Se for ver isso a gente tem que falar com gente e quando você fala com gente elas trazem objeções. Senão você tá avançando ela, né? Conseguiu falar com gente. Você tá avançando ela no funil que ela vai fazer não mas é aqui mas não mas ali ele então é isso fica bom em prospectar e contornar objeção."
+      },
+      {
+        "startTime": 1718,
+        "endTime": 513,
+        "speaker": "Diego Diehl",
+        "text": "É cor o resto tudo vai em torno disso, né? Passa Mirla, você que tá com a sua gatinha aí? Essa gatinha está bem? Você não botou ela de castigo, né?"
+      },
+      {
+        "startTime": 513,
+        "endTime": 2003,
+        "speaker": "Mirla Menezes",
+        "text": "foi quando ele mostrar. Se eu não me engano é na parte do grupo de comparação que Incorporadora não aparece lá. E ele usa isso como um gancho para continuar conversando com o cliente é uma Acho que foi o terceiro slide. Janela, me ajuda, eu não tô conseguindo lembrar exatamente, qual foi o slide mas foi enquanto você apresentava a área do cliente."
+      },
+      {
+        "startTime": 2003,
+        "endTime": 570,
+        "speaker": "Mirla Menezes",
+        "text": "Foi isso mesmo, quem Incorporadora não aparecia não aparecer justamente porque ele tava mostrando"
+      },
+      {
+        "startTime": 570,
+        "endTime": 574,
+        "speaker": "Gustavo Torres",
+        "text": "entendidos corretores que acessaram os concorrentes não acessaram o"
+      },
+      {
+        "startTime": 574,
+        "endTime": 580,
+        "speaker": "Mirla Menezes",
+        "text": "Ah legal na área de desempenho"
+      },
+      {
+        "startTime": 580,
+        "endTime": 581,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Isso lá embaixo."
+      },
+      {
+        "startTime": 582,
+        "endTime": 590,
+        "speaker": "Diego Diehl",
+        "text": "E o sinal Precisa de algum cliente aqui, ó, Porto Camargo, não é? Nessa aba ou Ah, não é na aba de corretores, né?"
+      },
+      {
+        "startTime": 590,
+        "endTime": 622,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não esse daí eu pego um da por exemplo. E aí tem um corretor onde não tem nenhuma atividade no empreendimento que é quando o corretor ele acessou algum concorrente, mas não acessou o empreendimento do da Incorporadora. Se você pegar algum corretor aí que tenha nenhuma atividade nesse empreendimento quer dizer que ele tava olhando um concorrente não chegou até o empreendimento."
+      },
+      {
+        "startTime": 623,
+        "endTime": 643,
+        "speaker": "Diego Diehl",
+        "text": "Ah, entendi. Entendi. Mas por exemplo, esse aqui ó. Vou falar de outra forma, né, cara? O cara é um dos mais ativos e faz 28 dias que não entra no teu. Tipo, se tivesse concorrente, né? Se bem que aqui não tem concorrente, né? Tem um aqui só."
+      },
+      {
+        "startTime": 643,
+        "endTime": 644,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Tem nenhum só?"
+      },
+      {
+        "startTime": 647,
+        "endTime": 661,
+        "speaker": "Diego Diehl",
+        "text": "Aqui tem né atividade no empreendimento nos últimos 90 dias atividade no grupo nos últimos 90 dias, né?"
+      },
+      {
+        "startTime": 661,
+        "endTime": 668,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "É verdade, eles deram essa ferramenta nova, né? É verdade"
+      },
+      {
+        "startTime": 670,
+        "endTime": 967,
+        "speaker": "Diego Diehl",
+        "text": "integrado. Eu já falei imagina entrar num que tá aparecendo o produto dele e entrar no outro que não tá. Deixa eu ver se tem mais água comparação. A daí você chegou a passar as objeções dela?"
+      },
+      {
+        "startTime": 967,
+        "endTime": 970,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "objeções alguma em específico eu falei várias na verdade"
+      },
+      {
+        "startTime": 971,
+        "endTime": 972,
+        "speaker": "Diego Diehl",
+        "text": "Não nos slides."
+      },
+      {
+        "startTime": 972,
+        "endTime": 974,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Sim, eu passei todos os slides."
+      },
+      {
+        "startTime": 976,
+        "endTime": 999,
+        "speaker": "Diego Diehl",
+        "text": "Eu uso uma coisa que eu queria que a gente preparasse vou até jogar um desafio para você para frente. É para no chutar uma data aqui, depois você me disse faz sentido chutar. Não não precisa resolver um problema no dia 4 de março. É dia quatro que ficou Vitória."
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1003,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "exato"
+      },
+      {
+        "startTime": 1003,
+        "endTime": 1207,
+        "speaker": "Diego Diehl",
+        "text": "treinamento. Pois é é podia fazer um quiz dos Treinamentos e quem ganhasse o quiz ganhava um vale iFood."
+      },
+      {
+        "startTime": 1207,
+        "endTime": 1210,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Aí tá ótimo 20 pila estourar uns balão."
+      },
+      {
+        "startTime": 1210,
+        "endTime": 2930,
+        "speaker": "Diego Diehl",
+        "text": "para gente. É um presente para feedback é um presente para a gente poder se desenvolver, né? Jogar no escuro. A pior coisa que tem jogar no time que não se comunica que não cresce de bag é a pior coisa que tem. Às vezes o Serra o povo da parada né? Não tá escutando não tá falando."
+      },
+      {
+        "startTime": 2930,
+        "endTime": 1283,
+        "speaker": "Diego Diehl",
+        "text": "Manda em ver vai."
+      },
+      {
+        "startTime": 1283,
+        "endTime": 1296,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que eu queria ver mais acho que são cases reais assim de sucesso que a gente Teve ou do treinamento que a gente está dando tipo, tem um dado baseado também a aplicabilidade. Acho que seria legal."
+      },
+      {
+        "startTime": 1298,
+        "endTime": 1301,
+        "speaker": "Diego Diehl",
+        "text": "O que que é aplicabilidade?"
+      },
+      {
+        "startTime": 1301,
+        "endTime": 1309,
+        "speaker": "Gustavo Torres",
+        "text": "Tipo assim, eu tô falando igual Zanela, né? Ah tem um cliente que quando eu mostrei isso não sei que tipo traseiro o cliente, por exemplo para a gente ter."
+      },
+      {
+        "startTime": 1309,
+        "endTime": 1312,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o case e ou é a aplicabilidade também?"
+      },
+      {
+        "startTime": 1313,
+        "endTime": 1316,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que acho que desculpas."
+      },
+      {
+        "startTime": 1316,
+        "endTime": 1322,
+        "speaker": "Diego Diehl",
+        "text": "É a mesma coisa. Tá bom perfeito. Chama alguém aí?"
+      },
+      {
+        "startTime": 1323,
+        "endTime": 1326,
+        "speaker": "Gustavo Torres",
+        "text": "Pode ser?"
+      },
+      {
+        "startTime": 1326,
+        "endTime": 1340,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa vou trazer um ponto. Até conversei contigo semana passada sobre isso, né? Diego na sexta-feira, mas eu diria que seria treinamento sobre perguntas para realizar durante as reuniões com os clientes."
+      },
+      {
+        "startTime": 1342,
+        "endTime": 1344,
+        "speaker": "Diego Diehl",
+        "text": "Que legal."
+      },
+      {
+        "startTime": 1344,
+        "endTime": 1361,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Isso eu trouxe esse ponto tá gente até para trazer para vocês. O porquê disso, às vezes eu sinto que as reuniões a gente acaba afirmando muitas coisas, sabe? E ao invés de perguntar mais para ouvir mais do cliente. Eu acho que isso aí é um divisor de águas para quem convido."
+      },
+      {
+        "startTime": 1361,
+        "endTime": 1364,
+        "speaker": "Diego Diehl",
+        "text": "Ah é só é só perguntar se faz sentido para você."
+      },
+      {
+        "startTime": 1367,
+        "endTime": 1368,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "A gente já faz mais."
+      },
+      {
+        "startTime": 1368,
+        "endTime": 1393,
+        "speaker": "Diego Diehl",
+        "text": "Faz sentido para você, eu não gosto não que não posso usar é super utilizado. Não. Tô jogando isso eu odeio essa pergunta. Porque parece que a gente não tem pergunta melhor, fala faz sentido para você. Mas é uma boa estratégia é só uma coisa peculiar minha chama alguém."
+      },
+      {
+        "startTime": 1393,
+        "endTime": 1394,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "ela"
+      },
+      {
+        "startTime": 1394,
+        "endTime": 1395,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Qualquer dúvida fica à disposição."
+      },
+      {
+        "startTime": 1398,
+        "endTime": 1399,
+        "speaker": "Diego Diehl",
+        "text": "pergunta de gente marketing"
+      },
+      {
+        "startTime": 1400,
+        "endTime": 2614,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "perfil, cada um tem o seu próprio jeito de falar e eu vejo que a gente pode ter bons insights, se a gente trazer caso reais que foram aplicados durante o nosso trabalho para essa reunir treinamentos. Então essa seria a parte positiva que eu gostaria que tivesse mais a parte que eu gostaria que não necessariamente tivesse menos até porque a gente não tem mas eu ouvi acho que deu a ideia de fazer mais uma reunião semanal para treinamento."
+      },
+      {
+        "startTime": 2614,
+        "endTime": 1472,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu acho que não. Eu acho que a gente já tem duas reuniões a reunião na segunda-feira e a reunião na quarta-feira e eu acho que não não caberia mais uma reunião de Treinamento durante a semana tá então. minha opinião"
+      },
+      {
+        "startTime": 1472,
+        "endTime": 1473,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1474,
+        "endTime": 1475,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Menos duas suficiente, acho que esse é o ponto."
+      },
+      {
+        "startTime": 1475,
+        "endTime": 1479,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1479,
+        "endTime": 1481,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Boa naipe, então, já que você concorda vai você."
+      },
+      {
+        "startTime": 1484,
+        "endTime": 2121,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Como é que tá a nossa audiência? Como é que tá as suas analidade curioso, né? A gente trouxe as analisar muito forte entre final de desenho do início de Janeiro e eu percebi que esse ano a recuperação foi muito rápida. Né? Aqui é a audiência, ela fez assim, ó, quase 90 graus."
+      },
+      {
+        "startTime": 2121,
+        "endTime": 2888,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Acho que a gente entender um pouquinho essas nuances até para Pode ajudar o Close aí no momento da reunião, né? A gente tem essa parada aqui, meu pessoal, tá na ativa mostrar o interesse voltando. Que é muito importante, né? Porque a gente tem essa. Esse costume a gente todo mundo tem esse problema, né? O início do ano as pessoas são mais devagar."
+      },
+      {
+        "startTime": 2888,
+        "endTime": 1552,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Tá todo mundo engrenando ainda. Acho que isso pode despertar o sucesso de urgência ou o vislumbre ali da janela de oportunidade, tá Incorporadora. Eu gosto muito de discutir com dados, principalmente os nossos."
+      },
+      {
+        "startTime": 1552,
+        "endTime": 1555,
+        "speaker": "Diego Diehl",
+        "text": "Qual que é a tua sugestão então que naipe só para compila ela numa frase?"
+      },
+      {
+        "startTime": 1555,
+        "endTime": 1559,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "A gente dá uma paginada ali na audiência, dá uma discutida."
+      },
+      {
+        "startTime": 1561,
+        "endTime": 1562,
+        "speaker": "Diego Diehl",
+        "text": "Ah tipo um treinamento barra visão de mercado visão do nosso mercado e"
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1567,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "como é que a pessoa a gente poderia começar Toda a reunião olhando o"
+      },
+      {
+        "startTime": 1567,
+        "endTime": 1572,
+        "speaker": "Diego Diehl",
+        "text": "órgão."
+      },
+      {
+        "startTime": 1572,
+        "endTime": 1595,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Preço dado de repente né que a gente a gente vai construir isso mentalmente nessas se virar um padrão. Todo mundo vai conseguir interpretar isso e a gente tá sempre afiado. Eu tô indo para uma reunião daqui a pouco mas aí segunda-feira quarta-feira, eu olhei já sei como é que tava na outra quarta, eu vou conseguir construir mentalmente."
+      },
+      {
+        "startTime": 1595,
+        "endTime": 1600,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Como é que isso está flutuando, né? Vai fazer parte do dia a dia, né?"
+      },
+      {
+        "startTime": 1601,
+        "endTime": 1602,
+        "speaker": "Diego Diehl",
+        "text": "Legal, gostei."
+      },
+      {
+        "startTime": 1608,
+        "endTime": 1610,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Deixa eu ver se tem que eu chamo aí."
+      },
+      {
+        "startTime": 1614,
+        "endTime": 1639,
+        "speaker": "Mirla Menezes",
+        "text": "Eu pensei em duas coisas é dois pontos eu queria ter um overview um pouco mais focado em m e m na prática pegando uma incorporadora comparando com outra avaliando. Como que ela tá se comportando dentro do bairro velocidade de vendas é algo que nunca mais eu vi sinceramente sinto falta de fazer uma recaptor."
+      },
+      {
+        "startTime": 1639,
+        "endTime": 1666,
+        "speaker": "Mirla Menezes",
+        "text": "Ah, esqueci a palavra. Revisão uma revisão dessa parte é outra ideia que eu tive é fazer bem o que uma sala de aula invertida é um dos closets, escolhe uma das reuniões e vocês acharam tipo assim fora da caixa muito boa e o cliente falou para caramba e a gente poder ver um pedacinho e discutir sobre depois."
+      },
+      {
+        "startTime": 1668,
+        "endTime": 1674,
+        "speaker": "Diego Diehl",
+        "text": "bem legal troca de pergunta"
+      },
+      {
+        "startTime": 1674,
+        "endTime": 1678,
+        "speaker": "Mirla Menezes",
+        "text": "Tem significado para vocês mas"
+      },
+      {
+        "startTime": 1679,
+        "endTime": 1680,
+        "speaker": "Diego Diehl",
+        "text": "Essa foi boa."
+      },
+      {
+        "startTime": 1682,
+        "endTime": 1688,
+        "speaker": "Mirla Menezes",
+        "text": "O lance é tipo a gente pega uma reunião fantástica que virou de ar. Por exemplo que esse cara tava super engajado e a gente assiste um trechinho de 10"
+      },
+      {
+        "startTime": 1688,
+        "endTime": 1692,
+        "speaker": "Diego Diehl",
+        "text": "mas"
+      },
+      {
+        "startTime": 1692,
+        "endTime": 1695,
+        "speaker": "Mirla Menezes",
+        "text": "minutos e depois cada um traz as suas considerações."
+      },
+      {
+        "startTime": 1698,
+        "endTime": 1700,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado Mirla anotadíssimo chamo alguém aí."
+      },
+      {
+        "startTime": 1702,
+        "endTime": 1707,
+        "speaker": "Mirla Menezes",
+        "text": "a Jade"
+      },
+      {
+        "startTime": 1707,
+        "endTime": 1809,
+        "speaker": "Jade Rosa",
+        "text": "por e-mail. Então ela falou já de tudo que eu vejo de vocês. É só chega no meu e-mail. Então assim pensa o quanto que informações ela não está acessando, ela não tá entendendo? Porque ela acha que no e-mail é mais prático. Então São pontos nesse tipo."
+      },
+      {
+        "startTime": 1809,
+        "endTime": 1816,
+        "speaker": "Diego Diehl",
+        "text": "Massa já adiantaço. Vai lá Ester fecha com chave de ouro aí."
+      },
+      {
+        "startTime": 1818,
+        "endTime": 3615,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "gostaria. E aí já Junta um pouquinho do que eu não gostei tanto que é questão de menos slides e mais mais case mais coisa para mais integração, né? Então, tipo assim por exemplo vai ter se você quisesse colocar uma reunião na quinta, eu acho que seria interessante ter um convidado."
+      },
+      {
+        "startTime": 3615,
+        "endTime": 1879,
+        "speaker": "Ester Elisa de Souza Rodrigues",
+        "text": "Entendeu?"
+      },
+      {
+        "startTime": 1879,
+        "endTime": 1904,
+        "speaker": "Diego Diehl",
+        "text": "Boa Ester. Obrigado. Parabéns pela sinceridade, objetividade, você foi a mais top nisso começou com positivo é esse negativo é esse. Pau menos Obrigado Parabéns show time vou dar um enter aqui só no que eu escrevi. Mandar para o nosso essa liderança extrema. E mastigar essas coisas aí a gente conversar junto, obrigado time."
+      },
+      {
+        "startTime": 1904,
+        "endTime": 1943,
+        "speaker": "Diego Diehl",
+        "text": "Então segunda segunda pergunta obrigado mesmo. É pode trazer mais feedback. O que? Tá bom que tá ruim. E aí Eu vou fazer a segunda pergunta para vocês que de nossa direção. Mas eu queria mostrar uma coisa para vocês. Vou mandar para vocês depois. Eu vou trazer segunda. tem um vocês já ouviram falar dos estágios de evolução das empresas e organizações no mundo Que tem as cores vermelho laranja Amarelo já viu Milo? É bem resumir, mas eu vou trazer um clandestino no próximo treinamento."
+      },
+      {
+        "startTime": 1943,
+        "endTime": 1969,
+        "speaker": "Diego Diehl",
+        "text": "No próximo ou reunião treinamento. A gente tá no mundo hoje que tá todo mundo diferente, né? Que para vocês é mais importante, né? Como que as empresas estão construídas o que incomoda o que que não incomoda o que que é legal que não é legal. Diz que a gente tá estava no estágio onde as empresas."
+      },
+      {
+        "startTime": 1969,
+        "endTime": 1999,
+        "speaker": "Diego Diehl",
+        "text": "Falava muito sobre propósito e esse é o nível ali o penúltimo. nível de evolução E então as empresas vendiam muita essa ideia do Propósito. Você buscava uma empresa que você tinha um propósito alinhado com o dela. E aí de acordo com os estudiosos do assunto? O próximo nível e último são empresas que a gente chama de tio que é um tom de azul."
+      },
+      {
+        "startTime": 1999,
+        "endTime": 2025,
+        "speaker": "Diego Diehl",
+        "text": "Que que são empresas em que idealmente regenera o ambiente? O ambiente não é esgoto o rio o ambiente é a gente que você saia da empresa digamos saia, né? Quando você sair da empresa você sente que você saiu muito melhor do que você entrou muito melhor e disse que o paradigma tá muito voltado ao desenvolvimento individual."
+      },
+      {
+        "startTime": 2025,
+        "endTime": 2050,
+        "speaker": "Diego Diehl",
+        "text": "Então você está bem e a empresa fazendo sentido para você ou não o quanto você está se desenvolvendo nela. E eu gosto muito disso, eu concordo assim ver. E aí para mim um alinhamento que eu quero ter com vocês é muito um que todo mundo sinta que está se desenvolvendo no dia a dia."
+      },
+      {
+        "startTime": 2050,
+        "endTime": 2086,
+        "speaker": "Diego Diehl",
+        "text": "Como pessoa como ser humano como pessoal emocional espiritual tem espaço para os seus outros desenvolvimentos e a gente aqui consigo se desenvolver? E aí eu fiz um curso uma vez e ele deu 12 frases que contextualizavam essa empresa, eu vou falar uma para vocês. Que são muitas muito boas, né? O teste era o quanto você concorda que isso acontece na tua empresa e é verdade para você ir para empresa e o quanto não é verdade."
+      },
+      {
+        "startTime": 2086,
+        "endTime": 2109,
+        "speaker": "Diego Diehl",
+        "text": "E aí eu gostaria muito que a gente se esforçasse para tornar cada vez mais verdade essas frases. E uma delas é? Aqui um combinado entre nós né? Que eu queria tentar fazer. Que é cada um de nós tem um total responsabilidade não deixa eu ver outra melhor mais simples."
+      },
+      {
+        "startTime": 2109,
+        "endTime": 2136,
+        "speaker": "Diego Diehl",
+        "text": "Uma é relacionamos uns com os outros supondo intenções positivas. Que que é isso a gente acreditar nisso e cara, tá todo mundo se relacionando tentando fazer coisa tentando com alguma intenção positiva. E a gente se concentra entender. Qual é ela? Quais qual é aquela intenção tá tipo assim, sei lá algum departamento quer criar um processo e travam tanto comercial."
+      },
+      {
+        "startTime": 2136,
+        "endTime": 2179,
+        "speaker": "Diego Diehl",
+        "text": "Tá mas qual que é a intenção positiva dela, ela tá se relacionando comigo por qual intenção? E isso desenvolve muito empatia, né? Ninguém tá aqui querendo prejudicar o outro. E a gente assumisse faz muito bem tá? Todo mundo tentando resolver um problema Às vezes a impactar no outro departamento, mas a gente está com uma intenção positiva vai ser um ponto para a gente tentar acreditar entender qual que a intenção do outro simpático com isso, né? Uma outra é feedback se confrontações respeitosas são presentes que Compartilhamos para ajudarmos uns aos outros."
+      },
+      {
+        "startTime": 2179,
+        "endTime": 2217,
+        "speaker": "Diego Diehl",
+        "text": "Então você dá um feedback ou confrontar de forma respeitosa ou outra é um presente que você dá. Para a gente ajudar uns aos outros então, às vezes sei lá. João p**** tá falando umas paradas na reunião tá cara está sentindo que tá impactando. Tá te incomodando. Você vai lá no feedback vai confrontar ou ele tá puxando uma ideia que tá errado para você que não é bom para empresa, você vai lá e dá um feedback para a gente tentar se ajudar."
+      },
+      {
+        "startTime": 2217,
+        "endTime": 2243,
+        "speaker": "Diego Diehl",
+        "text": "um outro ponto que esse é um dos mais importantes Resolvemos os desentendimentos um a um e não arrastamos outras pessoas para dentro do problema. Cara isso para mim é muito f*** é tipo pegar empresa em que as pessoas ficam Compartilhando os problemas. Sobre as outras pessoas e não resolvem intoxica quando vê tá todo mundo doente."
+      },
+      {
+        "startTime": 2243,
+        "endTime": 2269,
+        "speaker": "Diego Diehl",
+        "text": "Tá todo mundo intoxicado. E a gente já viu? Vocês já trabalharam em alguma empresa assim provavelmente? E aí um Combinado um pedido um lugar em que a gente cria. E a galera tá vendo que cria-se uma empresa muito melhor emocionalmente tudo para gente é um lugar que a gente pode resolver os desentendimentos um a um."
+      },
+      {
+        "startTime": 2269,
+        "endTime": 2303,
+        "speaker": "Diego Diehl",
+        "text": "E não arrastamos outras pessoas para dentro do problema exemplo. Sei lá eu Vamos dizer que a Jade tem um problema comigo. Só que o Gustavo é líder dela nas empresas antigas em que a hierarquia era muito forte nisso, a Jade deveria falar com o Gustavo. Mas se ela tem um desentendimento comigo, cara, a gente resolve um Não importa se a Jade aciou da empresa ou a estagiária a gente resolve os desentendimentos."
+      },
+      {
+        "startTime": 2303,
+        "endTime": 2328,
+        "speaker": "Diego Diehl",
+        "text": "Beleza e o último que eu queria trazer esse é para vocês me ajudarem a enxergar o comercial enxergar as nossas vendas, é? Cada um de nós tem Total responsabilidade pela organização. Se sentimos que algo precisa acontecer temos o dever de abordar a questão. Não é aceitável limitar nossa preocupação aos limites do nosso papel."
+      },
+      {
+        "startTime": 2328,
+        "endTime": 2360,
+        "speaker": "Diego Diehl",
+        "text": "Pegar essa é o que a gente podia chamar de vestir a camisa da empresa. Tem uns nome aí bem. Pais do Futebol, né? A galera fala muito sobre vestir a camisa, mas aqui é muito sobre um cara. Se você sente que algo precisa acontecer a empresa. Você tem o dever de comunicar isso? Nem que seja para você entender que na verdade você pensou algo que não faz sentido depois."
+      },
+      {
+        "startTime": 2360,
+        "endTime": 2387,
+        "speaker": "Diego Diehl",
+        "text": "Mas você comunica para você aprofundar e uma coisa que eu acredito para c******. por último É uma frase que é acreditamos. Essa é o que eu acredito, né? Eu tento Trazer isso para gente acreditamos no Poder da Inteligência coletiva. Ninguém é tão esperto, quanto todos nós juntos portanto todas as decisões são tomadas com um processo de aconselhamento."
+      },
+      {
+        "startTime": 2387,
+        "endTime": 2423,
+        "speaker": "Diego Diehl",
+        "text": "Isso eu tento fazer muito até um enrolo para decidir alguns, às vezes me falou decide algo. Calma, eu tô Pegando visões tô pegando conselhos aqui e perspectivas das pessoas Claro. Alguém tem que decidir, mas esse aconselhamento eu decidi sem falar com vocês é tosco demais. Eu fico pegando conselho aconselhamento e vocês a mesma coisa eu acredito muito e esses comentários que vocês trouxeram foi muito legal que é cara, vamos fazer os outros trazer ela trouxe."
+      },
+      {
+        "startTime": 2423,
+        "endTime": 2451,
+        "speaker": "Diego Diehl",
+        "text": "Fazer outras pessoas trazerem outras perspectivas já te trouxe vamos trazer lide de outras pessoas. A Ester trouxe vamos falar com outros departamentos. Isso é maravilhoso, tá muito alinhado, beleza? Depois eu mando para vocês esses princípios. Isso daí quem tangibilizou a metodologia é um cara que escreveu o livro chamado reinventando as organizações e quiser dar um GPT depois nisso, eu acho."
+      },
+      {
+        "startTime": 2451,
+        "endTime": 2484,
+        "speaker": "Diego Diehl",
+        "text": "Uma riqueza muito f*** assim porque não dá para a gente ficar reclamando das empresas em que a gente trabalha só né? A gente precisa ter alguma empresa para trabalhar. E aí como é que a gente atua numa empresa para criar empresa que a gente quer trabalhar senão a quantidade de candidatos que a gente vê que fica pingando de empresa? E ela sai da empresa sempre achando que a empresa é horrível."
+      },
+      {
+        "startTime": 2484,
+        "endTime": 2509,
+        "speaker": "Diego Diehl",
+        "text": "E aí ela vai para outro dela, fica um tempo dela, enjoa dos mesmos problemas, ela não atua sobre os problemas ela comunica os problemas. Daí ela muda muda muda muda então criar esse ambiente em que a gente resolve os desentendimentos que a gente comunica o que precisa ser feito que a gente flui."
+      },
+      {
+        "startTime": 2509,
+        "endTime": 2534,
+        "speaker": "Diego Diehl",
+        "text": "Vai deixando. Fechou o time? Tenho fechou a segunda, pergunta na verdade pelo que vocês trouxeram. Eu já decidi eu acho que vou só alinhar a gente tem dois próximos treinamentos. Um que eu tinha montado hoje para já servir de backlog. Eu ajudei uma incorporadora fazer o planejamento estratégico do canal de parcerias dela."
+      },
+      {
+        "startTime": 2534,
+        "endTime": 2570,
+        "speaker": "Diego Diehl",
+        "text": "E eu ia apresentar o planejamento estratégico para vocês. E aí vai muito na Linha Do que vocês trouxeram também, né? Eu não vou falar de órgão não, vou falar de nada falar de qual é o plano do Incorporadora para vender pelo canal e parcerias, esquece. Eu acho que esse que é o que cabe e o outro treinamento é a parte 4 que a gente fez quatro partes treinamento de a que a parte de práticas e prática mesmo."
+      },
+      {
+        "startTime": 2570,
+        "endTime": 2601,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que a gente poderia dar um start numa visão do planejamento estratégico. Numa proposta que que a gente tome 17 minutos e semana que vem tendo em vista um Case tendo em vista o que vocês falaram eu vou remodelar o treinamento de qual que é o treinamento prático e daí talvez cada um traga um lead, traz um Case discute uma apresenta que daí já tava preparado."
+      },
+      {
+        "startTime": 2601,
+        "endTime": 2624,
+        "speaker": "Diego Diehl",
+        "text": "Como caso prático mesmo? como o último estágio do treinamento do Rush de da Que é isso aqui ó, eu montei eu vou revisar ele que o nome que eu que o GPT deu. A série Lab que é um workshop prático todo mundo cria ensaio roleplay um reencontro de tudo."
+      },
+      {
+        "startTime": 2624,
+        "endTime": 2657,
+        "speaker": "Diego Diehl",
+        "text": "Que eu acho que casa com que vocês pediram. Mais também vai ser bom. Tudo bem por vocês? Podemos seguir eu vou dar minha sugestão, eu vou dar um overview do planejamento para a gente. E a gente comenta curiosidades que te chama atenção, a gente passa os slides juntos. E aí fica como tarefa de casa vocês darem uma olhada com mais calma para entender uma visão do canal de parcerias."
+      },
+      {
+        "startTime": 2657,
+        "endTime": 2692,
+        "speaker": "Diego Diehl",
+        "text": "E a gente vai usar como base para semana que vem, pode ser? Esse aqui foi de um cliente chamado do Vitor Urbano. Colega meu que é o Caio ele era da Cetim foi para vida urbana. Daí eu ajudei ele a montar esse planejamento. Então vou dar um tempinho para cada um dar uma batida de olho e a gente só comenta o slide, pode ser? Se vocês puderem desmontar e chamar atenção assim de alguns elementos, né?"
+      },
+      {
+        "startTime": 2699,
+        "endTime": 2701,
+        "speaker": "Gustavo Torres",
+        "text": "Eu acho que o que me chama atenção já de início a essa parte que você tá"
+      },
+      {
+        "startTime": 2701,
+        "endTime": 2703,
+        "speaker": "Diego Diehl",
+        "text": "Manda ver manda ver que chama atenção."
+      },
+      {
+        "startTime": 2710,
+        "endTime": 2711,
+        "speaker": "Gustavo Torres",
+        "text": "grifando que atende é tão imobilizar para o canal de parcerias. O que"
+      },
+      {
+        "startTime": 2711,
+        "endTime": 2716,
+        "speaker": "Diego Diehl",
+        "text": "essa aqui"
+      },
+      {
+        "startTime": 2716,
+        "endTime": 2742,
+        "speaker": "Gustavo Torres",
+        "text": "significa em relação a linguagem que ele já está acostumado então tipo estoque venda vgv tipo valor final assim a gente ontem falou muito sobre isso na reunião aqui de S10 no for Cash sobre tangibilizar para realidade da Incorporadora, o que isso entrega de valor final que é um pouco da linha que você fala, né? Tipo, você vai ver mais parceiro, você vai tipo aumentar as vendas pelo Canal de parcerias digamos assim, né aumentar Enfim, então isso"
+      },
+      {
+        "startTime": 2742,
+        "endTime": 2745,
+        "speaker": "Diego Diehl",
+        "text": "boa"
+      },
+      {
+        "startTime": 2745,
+        "endTime": 2746,
+        "speaker": "Gustavo Torres",
+        "text": "já me chama atenção de cara aí."
+      },
+      {
+        "startTime": 2750,
+        "endTime": 2783,
+        "speaker": "Diego Diehl",
+        "text": "Aqui então tem uma meta, né três apostas em resumo da Estratégia dele. Foco nas imobiliárias que vem em todo mês ou seja, ele quer pegar algumas imobiliárias e dar mais foco para elas. velocidade de atendimento rotina com parceiros atendimento rápido São Paulo tem muito essa palavra ser rápido. Vender fora de São Paulo, essa é a tese dele, eu falei que eu não apostaria nela, mas ele quis insistir."
+      },
+      {
+        "startTime": 2783,
+        "endTime": 2825,
+        "speaker": "Diego Diehl",
+        "text": "Quer fazer um trabalho fora da cidade em que atua? números do canal que que ele fez em 25 Que ele fez quer fazer em 26? Ó, ele tá diminuindo a meta. Ah não isso aqui é empresa não tá aumentando empresa fez 560, só ele quer fazer 451. Como foi o canal no passado ele quer manter o mix então é a distribuição das vendas no canal, o que que vende imobiliário? O que que vende autônomo? Tem gente que chama das top imobiliárias e cauda longa que vem das médias imobiliárias."
+      },
+      {
+        "startTime": 2825,
+        "endTime": 2855,
+        "speaker": "Diego Diehl",
+        "text": "a curva de vendas meta dele Então essa visão de quanto ele tem que vender? E é interessante porque? Ver que não é linear né a curva de vendas da Incorporadora. Esse é um ponto bem importante. Ela depende muito mais do lançamento dos Empreendimentos do que da do time evoluir como time, entendeu? Então ele tem que se preparar aqui para abrir em maio."
+      },
+      {
+        "startTime": 2855,
+        "endTime": 2883,
+        "speaker": "Diego Diehl",
+        "text": "Se a gente com mirlan consegue enxergar que a Incorporadora vai ter esse pico. Consegue vender que eles precisam investir mais em tecnologia? As vendas aqui são as siglas dos Empreendimentos normalmente mais perto tem uma sigla assim. E quantas vendas tem que ter cada um? Regra assim Incorporadora tem que você tá regras com o mercado, né? Quanto de comissão."
+      },
+      {
+        "startTime": 2883,
+        "endTime": 2898,
+        "speaker": "Diego Diehl",
+        "text": "Olha só ele paga quatro para mercado cinco para premium 6 para super. Então, ele tem um critério para dizer o que que é super imobiliário que quer Premium o que que é mercado?"
+      },
+      {
+        "startTime": 2899,
+        "endTime": 2902,
+        "speaker": "Mirla Menezes",
+        "text": "Mercado nesse caso seriam os autônomos."
+      },
+      {
+        "startTime": 2902,
+        "endTime": 2933,
+        "speaker": "Diego Diehl",
+        "text": "O resto ele na verdade várias outras imobiliárias tem algumas imobiliárias que eles se tratam como Premium. Velocidade de pagamento de comissão se o canal é aberto ou fechado, né se a Incorporadora vai dar exclusividade para alguma Imobiliária ou não? Ficou um pouco escuro. Qual que é a tese dele as imobiliárias certas então ele quer focar 70% do resultado em poucas imobiliárias."
+      },
+      {
+        "startTime": 2933,
+        "endTime": 2959,
+        "speaker": "Diego Diehl",
+        "text": "E daí isso pode ser um desdobramento. De diferentes formas que que significa Talvez ele não tenha gerentes de parcerias focados em fazer um trabalho mais capilarizado. Ou seja ter a orla ali fazendo isso por ele é ótimo porque ele bota órgão. Não se preocupa com isso e tem essa geração de demanda."
+      },
+      {
+        "startTime": 2959,
+        "endTime": 2989,
+        "speaker": "Diego Diehl",
+        "text": "É o que que define super Premium. Ele vai ele botou ele para ele ajustado. Isso aqui precisa entender, ele mandou uns slides dele, eu fiz alguns comentários, ele ajustou os slides eu me interesse. Pedir para ia fazer 30 perguntas. Fui num bar com ele, a gente passou a tarde lá respondendo os 30 perguntas e literando e montando essa última versão."
+      },
+      {
+        "startTime": 2989,
+        "endTime": 3027,
+        "speaker": "Diego Diehl",
+        "text": "As outras imobiliárias as 12 e tal isso aqui é mais ou menos que a gente vai fazer nas nossas metas, né? Quantas vendas a Jade a Mila e a Elis vão gerar? Quantas vendas O João vai fechar quantas vendas o outro closer vai fechar ou a outra closer vai fechar? quantas quantas indicações a Ester vai trazer quantas vendas usa nela vai fazer o Knight a gente quebra por área e tal e Tem que bater na sua meta."
+      },
+      {
+        "startTime": 3027,
+        "endTime": 3065,
+        "speaker": "Diego Diehl",
+        "text": "Esse aqui ele vai investir nas imobiliárias isso daqui é muito legal também como Case. Ó ele vai investir 20k por mês em mídia para as imobiliárias. E aí imagina que a gente tá querendo vender um Dead 2K para ele. E aí você fala assim, cara, se você virar de Ato é o produto vai para mil imobiliárias que vai para tantos sites que vai para tanta vai dar tanto de visibilidade as imobiliárias já investem Portal."
+      },
+      {
+        "startTime": 3065,
+        "endTime": 3090,
+        "speaker": "Diego Diehl",
+        "text": "Talvez o teu anúncio vai junto lá. É como se vestisse 2 e as imobiliárias gastassem por você 20 mil. Eu tenho 20 aqui pode virar 38 usar dois desses 20 para hora. Esse é um ponto de objeção ali João que é ajudar a Incorporadora a conseguir orçamento. Isso é estratégico para c******."
+      },
+      {
+        "startTime": 3090,
+        "endTime": 3122,
+        "speaker": "Diego Diehl",
+        "text": "Tira daqui tira dali, cara, mas você não investe em mídia para Imobiliária, cara, mas o teu marketing não isso, mas E isso tem que ver da onde é que sai. Ah, mas parcerias não tem verba. Tá mas o teu macho Tá investindo em tráfego pago. A hora quase do tráfico pago a gente da onde é que a gente arranca dinheiro para Incorporadora pagar."
+      },
+      {
+        "startTime": 3122,
+        "endTime": 3130,
+        "speaker": "Diego Diehl",
+        "text": "aquilo Tempo de resposta envio de material uma simulação rápida para o cara agendamento de visita muito rápido e proposta em tanto tempo. Olha como São Paulo é velocidade. Não ele estava pensando em cancelar, talvez eles cancele."
+      },
+      {
+        "startTime": 3130,
+        "endTime": 3143,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Só um ponto eles estão fazendo dois lá, né? tá Aí ele quer agilidade agora o que faz total sentido?"
+      },
+      {
+        "startTime": 3145,
+        "endTime": 3182,
+        "speaker": "Diego Diehl",
+        "text": "É, mas eles ele falou que tava vendo outro bote para responder e que era bem mais barato. Eu falei sim. Bote conversa é mil reais no ano, mas ele tá integrado com seu sistema de CRM, ele vai gerar corretor que veio da órgão ele vai ele vai conectar com o comportamento do corretor que vem da hora do jogar para dentro do teu sistema, ele vai plugar vários WhatsApps e medir, eu comecei a argumentada."
+      },
+      {
+        "startTime": 3182,
+        "endTime": 3225,
+        "speaker": "Diego Diehl",
+        "text": "Talvez ele não consegue bom tanto que eu fui apoiar o planejamento dele muito para também dar uma puxadinha e falar. em SMS aqui treinamento plano para os picos de venda que é que ele vai fazer kit treinamento campanha de incentivo ó Campanha de incentivo a gente falar que com a orla ele consegue divulgar uma campanha para muitos corretores é ouro, tá? Cara tuas campanhas você divulga como na orla de a pode por lá nas promoções e a gente vai disparar e-mail para toda a base."
+      },
+      {
+        "startTime": 3225,
+        "endTime": 3237,
+        "speaker": "Diego Diehl",
+        "text": "Vender fora de São Paulo ele quer vender esse CP para lançamento. É a vitacon faz muito isso vende rentabilidade faz evento. Pode falar."
+      },
+      {
+        "startTime": 3238,
+        "endTime": 3270,
+        "speaker": "Gustavo Torres",
+        "text": "eu acho que é só vale contextualizar para as meninas ali, É principalmente Jade que mais nova no mercado imobiliário que seria uma campanha de incentivo é quando a imobiliária a imobiliária desculpa Incorporadora, coloca lá venda esse apartamento ganhou iPhone vendo esse apartamento e ganha um Macbook então além da comissão existe mais algum prêmio relacionado à venda ou uma campanha específica que eles vão sortear carro ou um próprio apartamento então só para Não uma campanha de incentivo de mais venda o que tem para além da comissão que esse corretor vai ganhar, tá?"
+      },
+      {
+        "startTime": 3274,
+        "endTime": 3313,
+        "speaker": "Diego Diehl",
+        "text": "Nesse P orçamento que ele citou como orçamento. 800k de orçamento Que dá 06 do vgv. Onde ele ia gastar? 252 mil em mídia e geração de demanda que ele tava pondo 20 por mês Evento e relacionamento 200 mil ferramentas WhatsApp SMS bote ao 23k já tá com preço do bote dele mais barato."
+      },
+      {
+        "startTime": 3313,
+        "endTime": 3342,
+        "speaker": "Diego Diehl",
+        "text": "pessoas se produção 300 mil Ele bota aqui o preço por unidade. 800 mil dividido por 451 unidades 1780 por unidade apartamento que eles estão vendendo indicadores É esse time. Vocês acharam de ver um outro ângulo? uma mensagem para você"
+      },
+      {
+        "startTime": 3342,
+        "endTime": 3373,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Era muito bom de me mandar aí cara, eu acho que o segredo aí foi a milha. Extra que você correu o cara, né? Botou a mão junto com ele ali para ajudar ele. A planejar um ponto que talvez. seja um pouco difícil de alcançar esse nível de De principalmente online eu acho né de abertura calabresa esses dados assim."
+      },
+      {
+        "startTime": 3373,
+        "endTime": 3385,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Não é fácil conseguir qualquer sua Ótica aí. Mas achei top, cara. Quero você me mande essa apresentação. Aí depois para ela aqui."
+      },
+      {
+        "startTime": 3386,
+        "endTime": 3400,
+        "speaker": "Diego Diehl",
+        "text": "Falou de entregar algo a mais por sinal que a gente tinha falado no passado. Você me lembrou agora. E olha só que naipe previsão dele, ele tá querendo fazer o que eu fiz. A visão que eu tava trazendo para vocês É isso aí o que eu tava trazendo"
+      },
+      {
+        "startTime": 3400,
+        "endTime": 3402,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "A gente fez para Mazinho, né?"
+      },
+      {
+        "startTime": 3404,
+        "endTime": 3435,
+        "speaker": "Diego Diehl",
+        "text": "para vocês é do que eu fiz gerar valor para vocês de visão. considerando vocês fazendo planejamento O que usar nela tem feito ali percebido e a gente bateu muito em Curitiba, é que a gente como quase consultoria, né? Não a gente batia papo com a GT. O zemir lá ficou uma hora e meia reclamando dos problemas da empresa dele para gente uma das maiores de Curitiba."
+      },
+      {
+        "startTime": 3435,
+        "endTime": 3445,
+        "speaker": "Diego Diehl",
+        "text": "A gente fechou com ele. E a escola escutando do desafio dele com comissão nada a ver com nada. Espanou, né? Apertamos demais, ele fica chorando."
+      },
+      {
+        "startTime": 3445,
+        "endTime": 3448,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Fernando"
+      },
+      {
+        "startTime": 3448,
+        "endTime": 3473,
+        "speaker": "Diego Diehl",
+        "text": "Pediu para sair, mas essa pegada de falar sobre o Mercado entendeu do Business é bem bem legal aí e aos poucos é legal, vocês entenderem. Lembra que eu falei muito de vocês emergirem no mercado Entender no mercado imobiliário, isso é muito rico. E é o mercado muito próximo gente é tipo um bichinho que pica daqui a pouco você pode trabalhar tua vida nesse mercado se apaixonar e tem diferentes ângulos é muito próximo."
+      },
+      {
+        "startTime": 3473,
+        "endTime": 3496,
+        "speaker": "Diego Diehl",
+        "text": "E que naipe uma coisa que eu lembrei já deixar combinado com você. é de você trazer um treinamento de inteligência de mercado e uma visão do que que você fazia para Incorporadora, você já me vendeu essa ideia umas 10 vezes que você às vezes montou um relatório para uma incorporadora para mostrar sei lá, o que Acho que você vai fazer isso melhor e mais rápido que eu então."
+      },
+      {
+        "startTime": 3496,
+        "endTime": 3500,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Hoje tá mais fácil hoje tem yaku antes eu fazendo a munheca só tirar o print."
+      },
+      {
+        "startTime": 3500,
+        "endTime": 3525,
+        "speaker": "Diego Diehl",
+        "text": "Vou deixar. Um Vou deixar um dia para agendar para você trazer isso tá aqui naipe, talvez pós evento, né? Até dia 3 vai estar focadastro do teu evento. Aí eu vou jogar lá para abril. Já deixar na agendinha ali um treinamento. Talvez o mais Pocket. Visitar um plantão de vendas Mirla, olha só tem uma resposta pronta."
+      },
+      {
+        "startTime": 3525,
+        "endTime": 3553,
+        "speaker": "Diego Diehl",
+        "text": "isso Check Out Time algum Insight vou mandar essa apresentação quando vocês pensam no check out vou mandar essa apresentação vou só tirar o nome Vitor Urbano, a gente não pode expor ali o nome do cliente cagada cuidado com isso, tá? Eu posso porque para vocês porque cara eu que tava em contado, mas do nada tem planejamento estratégico de um cliente nosso circulando."
+      },
+      {
+        "startTime": 3553,
+        "endTime": 3569,
+        "speaker": "Diego Diehl",
+        "text": "Nossa empresa não pode só não mandem para ninguém de forma alguma. A não ser que vocês sei lá, principalmente para São Paulo não mande É mais para visão, nossa. Check out algum site algum compartilhamento aí de vocês?"
+      },
+      {
+        "startTime": 3574,
+        "endTime": 3593,
+        "speaker": "Mirla Menezes",
+        "text": "Explicar a questão na visita ao plantão de vendas eu adquiri esse hábito tá é quando começa a conversar com a pessoa que tá lá ela me olha, ela percebe que eu conheço o mercado imobiliário, ela fica olhando assim, que legal eu realmente fiquei obcecada com isso. Às vezes tem alguns no shopping eu paro para ver e ver a planta e o preço."
+      },
+      {
+        "startTime": 3597,
+        "endTime": 3620,
+        "speaker": "Diego Diehl",
+        "text": "Uma explicaçãozinha só para vocês eu senti de trazer um pouco mais até aquelas frases a parada da gestão. Acho que eu vou trazer de forma mais estruturada. Porque cara estratégia processo indicador sistema tecnologia tudo a gente consegue montar? O nosso maior desafio como montar um time coisa que confia que se comunica."
+      },
+      {
+        "startTime": 3620,
+        "endTime": 3645,
+        "speaker": "Diego Diehl",
+        "text": "Que conversa. Então essa parte ali é o nosso maior desafio e a gente está sendo bem rigoroso com quem a gente quer perto da gente. E a gente tá muito feliz, porque quem tá aqui. É muito feliz mesmo. Qualquer coisa que vocês quiserem conversar trocar ideia se comunica e lembra da parada da responsabilidade de comunicar."
+      },
+      {
+        "startTime": 3645,
+        "endTime": 3667,
+        "speaker": "Diego Diehl",
+        "text": "Se comuniquem eles não serão penalizados, por isso na verdade a gente quer estimular mais isso e tá alinhado com a diretoria toda da empresa. A gente falou no planejando estratégico desse ambiente a gente possa ter confrontações respeitosas possa dar feedback, possa se comunicar e tá bem legal esse movimento órgão."
+      },
+      {
+        "startTime": 3667,
+        "endTime": 3695,
+        "speaker": "Diego Diehl",
+        "text": "Para sair dos comentários nos individuais e a gente poder resolver os desentendimentos um a um e poder avançar como empresa para a gente ficar grande como a gente quer. Beleza meu checkout. Semana que vem temos da Selen Lab se preparem vistam seus uniformes estaremos aí. Valeu que naipe Zanella, eu entro em dar dois minutinhos ali a gente já começa intervalo do banheiro da água."
+      },
+      {
+        "startTime": 3695,
+        "endTime": 3698,
+        "speaker": "Diego Diehl",
+        "text": "Valeu time boa semana para todo mundo."
+      },
+      {
+        "startTime": 3700,
+        "endTime": 3701,
+        "speaker": "Pedro Ruza Kneip Navarro",
+        "text": "Falou galera, tchau, tchau."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 182,
+    "speakers": [
+      "Mirla Menezes",
+      "João Vitor Portes da Silva",
+      "Jade Rosa",
+      "Gustavo Torres",
+      "Ester Elisa de Souza Rodrigues",
+      "Luiz Gustavo Zanella",
+      "Pedro Ruza Kneip Navarro",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 6290,
+    "duration_start": 0,
+    "duration_end": 3701
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "698343fa11517e0012b8963d",
+        "timestamp": 363,
+        "text": "Arcplan integra com apenas 50 CRM de imobiliárias, não 1050 como esperado",
+        "topicId": "698343fa11517e0012b8961f"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8963c",
+        "timestamp": 473,
+        "text": "Uso de CPU no servidor está livre sem gargalos identificados",
+        "topicId": "698343fa11517e0012b8961f"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8963b",
+        "timestamp": 945,
+        "text": "Pedro avalia versão 2.0 da plataforma e configurações de agentes com GPT Mini",
+        "topicId": "698343fa11517e0012b8961f"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89629",
+        "timestamp": 1283,
+        "text": "Treinamento incluirá cases reais de sucesso com aplicabilidade prática demonstrada",
+        "topicId": "698343fa11517e0012b8961b"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962a",
+        "timestamp": 1331,
+        "text": "João destaca importância de fazer mais perguntas e ouvir clientes nas reuniões",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962f",
+        "timestamp": 1555,
+        "text": "Pedro sugere incluir análise de audiência e dados de mercado nos treinamentos",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962b",
+        "timestamp": 1614,
+        "text": "Mirla sugere overview focado em M&M na prática comparando incorporadoras",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962c",
+        "timestamp": 1641,
+        "text": "Mirla propõe sala de aula invertida analisando trechos de reuniões bem-sucedidas",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8963f",
+        "timestamp": 1660,
+        "text": "Recuperação de audiência foi rápida no início de 2026 comparado ao final de 2025",
+        "topicId": "698343fa11517e0012b89620"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962d",
+        "timestamp": 1875,
+        "text": "Ester recomenda menos slides e mais cases com integração prática",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89630",
+        "timestamp": 2039,
+        "text": "Empresa busca criar ambiente onde todos sentem desenvolvimento contínuo",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89631",
+        "timestamp": 2109,
+        "text": "Relacionamentos devem supor intenções positivas entre departamentos e pessoas",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89632",
+        "timestamp": 2170,
+        "text": "Feedback e confrontações respeitosas são presentes para ajudar mutuamente",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89633",
+        "timestamp": 2217,
+        "text": "Desentendimentos devem ser resolvidos um a um sem envolver terceiros",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89634",
+        "timestamp": 2312,
+        "text": "Cada pessoa tem responsabilidade total de comunicar questões que precisam acontecer",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89635",
+        "timestamp": 2378,
+        "text": "Decisões são tomadas com processo de aconselhamento coletivo",
+        "topicId": "698343fa11517e0012b8961d"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89621",
+        "timestamp": 2437,
+        "text": "Diego to send organizational evolution framework presentation to team",
+        "topicId": "698343fa11517e0012b8961a"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89626",
+        "timestamp": 2516,
+        "text": "Próximo treinamento será sobre planejamento estratégico de canal de parcerias com case real",
+        "topicId": "698343fa11517e0012b8961b"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89625",
+        "timestamp": 2577,
+        "text": "Diego to remodel practical training based on team feedback for next week",
+        "topicId": "698343fa11517e0012b8961a"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89627",
+        "timestamp": 2616,
+        "text": "Semana seguinte incluirá Lab Series com workshop prático, roleplay e reenactment",
+        "topicId": "698343fa11517e0012b8961b"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89624",
+        "timestamp": 2647,
+        "text": "Team to review strategic planning presentation as homework for next week",
+        "topicId": "698343fa11517e0012b8961a"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8962e",
+        "timestamp": 2660,
+        "text": "Luiz prefere manter duas reuniões semanais sem adicionar mais treinamentos",
+        "topicId": "698343fa11517e0012b8961c"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89637",
+        "timestamp": 2765,
+        "text": "Meta de vendas é 451 unidades em 2026 com foco em velocidade de atendimento",
+        "topicId": "698343fa11517e0012b8961e"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89640",
+        "timestamp": 2780,
+        "text": "Início de ano tem pessoas mais lentas, todos ainda engrenando nos negócios",
+        "topicId": "698343fa11517e0012b89620"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89641",
+        "timestamp": 2841,
+        "text": "Curva de vendas depende muito mais de lançamentos que da evolução do time",
+        "topicId": "698343fa11517e0012b89620"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89639",
+        "timestamp": 2883,
+        "text": "Comissões variam por categoria: mercado 4%, premium 5%, super 6%",
+        "topicId": "698343fa11517e0012b8961e"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89636",
+        "timestamp": 2924,
+        "text": "Cliente Vitor Urbano foca em imobiliárias específicas para 70% dos resultados",
+        "topicId": "698343fa11517e0012b8961e"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8963a",
+        "timestamp": 3035,
+        "text": "Investimento de 20k mensais em mídia para imobiliárias é ponto estratégico",
+        "topicId": "698343fa11517e0012b8961e"
+      },
+      {
+        "segmentId": "698343fa11517e0012b8963e",
+        "timestamp": 3155,
+        "text": "Chatbot integrado com CRM é mais eficaz que alternativas mais baratas",
+        "topicId": "698343fa11517e0012b8961f"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89638",
+        "timestamp": 3281,
+        "text": "Orçamento de 800k dividido em mídia, eventos, ferramentas e pessoas",
+        "topicId": "698343fa11517e0012b8961e"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89628",
+        "timestamp": 3477,
+        "text": "Pedro trará treinamento sobre inteligência de mercado e visão do mercado imobiliário",
+        "topicId": "698343fa11517e0012b8961b"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89622",
+        "timestamp": 3501,
+        "text": "Diego to schedule Pedro's market intelligence training for April",
+        "topicId": "698343fa11517e0012b8961a"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89623",
+        "timestamp": 3525,
+        "text": "Diego to remove client name from strategic planning presentation before sharing",
+        "topicId": "698343fa11517e0012b8961a"
+      },
+      {
+        "segmentId": "698343fa11517e0012b89642",
+        "timestamp": 3574,
+        "text": "Visita a plantões de vendas ajuda a demonstrar conhecimento do mercado imobiliário",
+        "topicId": "698343fa11517e0012b89620"
+      }
+    ],
+    "markdownContent": "## 1. Ações Acordadas\n\n- [ ] Diego to send organizational evolution framework presentation to team [40:37](/app/meetings/698334ce7d83e400138dc05b?t=2437)\n- [ ] Diego to schedule Pedro's market intelligence training for April [58:21](/app/meetings/698334ce7d83e400138dc05b?t=3501)\n- [ ] Diego to remove client name from strategic planning presentation before sharing [58:45](/app/meetings/698334ce7d83e400138dc05b?t=3525)\n- [ ] Team to review strategic planning presentation as homework for next week [44:07](/app/meetings/698334ce7d83e400138dc05b?t=2647)\n- [ ] Diego to remodel practical training based on team feedback for next week [42:57](/app/meetings/698334ce7d83e400138dc05b?t=2577)\n\n## 2. Treinamentos Planejados\n\n- Próximo treinamento será sobre planejamento estratégico de canal de parcerias com case real [41:56](/app/meetings/698334ce7d83e400138dc05b?t=2516)\n- Semana seguinte incluirá Lab Series com workshop prático, roleplay e reenactment [43:36](/app/meetings/698334ce7d83e400138dc05b?t=2616)\n- Pedro trará treinamento sobre inteligência de mercado e visão do mercado imobiliário [57:57](/app/meetings/698334ce7d83e400138dc05b?t=3477)\n- Treinamento incluirá cases reais de sucesso com aplicabilidade prática demonstrada [21:23](/app/meetings/698334ce7d83e400138dc05b?t=1283)\n\n## 3. Feedback sobre Treinamentos Anteriores\n\n- João destaca importância de fazer mais perguntas e ouvir clientes nas reuniões [22:11](/app/meetings/698334ce7d83e400138dc05b?t=1331)\n- Mirla sugere overview focado em M&amp;M na prática comparando incorporadoras [26:54](/app/meetings/698334ce7d83e400138dc05b?t=1614)\n- Mirla propõe sala de aula invertida analisando trechos de reuniões bem-sucedidas [27:21](/app/meetings/698334ce7d83e400138dc05b?t=1641)\n- Ester recomenda menos slides e mais cases com integração prática [31:15](/app/meetings/698334ce7d83e400138dc05b?t=1875)\n- Luiz prefere manter duas reuniões semanais sem adicionar mais treinamentos [44:20](/app/meetings/698334ce7d83e400138dc05b?t=2660)\n- Pedro sugere incluir análise de audiência e dados de mercado nos treinamentos [25:55](/app/meetings/698334ce7d83e400138dc05b?t=1555)\n\n## 4. Princípios Organizacionais\n\n- Empresa busca criar ambiente onde todos sentem desenvolvimento contínuo [33:59](/app/meetings/698334ce7d83e400138dc05b?t=2039)\n- Relacionamentos devem supor intenções positivas entre departamentos e pessoas [35:09](/app/meetings/698334ce7d83e400138dc05b?t=2109)\n- Feedback e confrontações respeitosas são presentes para ajudar mutuamente [36:10](/app/meetings/698334ce7d83e400138dc05b?t=2170)\n- Desentendimentos devem ser resolvidos um a um sem envolver terceiros [36:57](/app/meetings/698334ce7d83e400138dc05b?t=2217)\n- Cada pessoa tem responsabilidade total de comunicar questões que precisam acontecer [38:32](/app/meetings/698334ce7d83e400138dc05b?t=2312)\n- Decisões são tomadas com processo de aconselhamento coletivo [39:38](/app/meetings/698334ce7d83e400138dc05b?t=2378)\n\n## 5. Case de Planejamento Estratégico\n\n- Cliente Vitor Urbano foca em imobiliárias específicas para 70% dos resultados [48:44](/app/meetings/698334ce7d83e400138dc05b?t=2924)\n- Meta de vendas é 451 unidades em 2026 com foco em velocidade de atendimento [46:05](/app/meetings/698334ce7d83e400138dc05b?t=2765)\n- Orçamento de 800k dividido em mídia, eventos, ferramentas e pessoas [54:41](/app/meetings/698334ce7d83e400138dc05b?t=3281)\n- Comissões variam por categoria: mercado 4%, premium 5%, super 6% [48:03](/app/meetings/698334ce7d83e400138dc05b?t=2883)\n- Investimento de 20k mensais em mídia para imobiliárias é ponto estratégico [50:35](/app/meetings/698334ce7d83e400138dc05b?t=3035)\n\n## 6. Discussões sobre Ferramentas e Tecnologia\n\n- Pedro avalia versão 2.0 da plataforma e configurações de agentes com GPT Mini [15:45](/app/meetings/698334ce7d83e400138dc05b?t=945)\n- Uso de CPU no servidor está livre sem gargalos identificados [07:53](/app/meetings/698334ce7d83e400138dc05b?t=473)\n- Arcplan integra com apenas 50 CRM de imobiliárias, não 1050 como esperado [06:03](/app/meetings/698334ce7d83e400138dc05b?t=363)\n- Chatbot integrado com CRM é mais eficaz que alternativas mais baratas [52:35](/app/meetings/698334ce7d83e400138dc05b?t=3155)\n\n## 7. Insights de Mercado\n\n- Recuperação de audiência foi rápida no início de 2026 comparado ao final de 2025 [27:40](/app/meetings/698334ce7d83e400138dc05b?t=1660)\n- Início de ano tem pessoas mais lentas, todos ainda engrenando nos negócios [46:20](/app/meetings/698334ce7d83e400138dc05b?t=2780)\n- Curva de vendas depende muito mais de lançamentos que da evolução do time [47:21](/app/meetings/698334ce7d83e400138dc05b?t=2841)\n- Visita a plantões de vendas ajuda a demonstrar conhecimento do mercado imobiliário [59:34](/app/meetings/698334ce7d83e400138dc05b?t=3574)",
+    "topics": [
+      {
+        "id": "698343fa11517e0012b8961a",
+        "order": 1,
+        "title": "Ações Acordadas",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b8961b",
+        "order": 2,
+        "title": "Treinamentos Planejados",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b8961c",
+        "order": 3,
+        "title": "Feedback sobre Treinamentos Anteriores",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b8961d",
+        "order": 4,
+        "title": "Princípios Organizacionais",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b8961e",
+        "order": 5,
+        "title": "Case de Planejamento Estratégico",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b8961f",
+        "order": 6,
+        "title": "Discussões sobre Ferramentas e Tecnologia",
+        "summary": ""
+      },
+      {
+        "id": "698343fa11517e0012b89620",
+        "order": 7,
+        "title": "Insights de Mercado",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 34,
+    "topic_count": 7,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "698343fa11517e0012b8961a",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b8961b",
+      "order": 2,
+      "title": "Treinamentos Planejados",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b8961c",
+      "order": 3,
+      "title": "Feedback sobre Treinamentos Anteriores",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b8961d",
+      "order": 4,
+      "title": "Princípios Organizacionais",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b8961e",
+      "order": 5,
+      "title": "Case de Planejamento Estratégico",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b8961f",
+      "order": 6,
+      "title": "Discussões sobre Ferramentas e Tecnologia",
+      "summary": ""
+    },
+    {
+      "id": "698343fa11517e0012b89620",
+      "order": 7,
+      "title": "Insights de Mercado",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:50:58.488074+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:58.488074+00:00"
+}

@@ -1,0 +1,999 @@
+{
+  "meeting_id": "692f1b1901fc100012fcfdea",
+  "name": "Órulo - Solução Isenção Tributária Dividendos",
+  "happened_at": "2025-12-02T17:00:00.000Z",
+  "duration_seconds": 2117.024,
+  "duration_minutes": 35.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Pedro Ruza Kneip Navarro",
+      "email": "pkneip@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "celina@torreaovillarim.com.br"
+    },
+    {
+      "name": "Paulo Deitos",
+      "email": "pd@cfgroup.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Mirla Menezes",
+      "email": "mirla.menezes@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Matheus Nascimento",
+      "email": "mn@cfgroup.com.br"
+    },
+    {
+      "name": "Caroline Mello",
+      "email": "caroline.mello@orulo.com.br"
+    },
+    {
+      "name": "Gustavo Torres",
+      "email": "gustavo.torres@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "gg@cfgroup.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "diretoria@construtoradimak.com.br"
+    },
+    {
+      "name": "",
+      "email": "pedrocabral@setin.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/692f1b1901fc100012fcfdea",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "has-zraa-nay",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "692f1b589bbf2d0013a560c3",
+    "meetingId": "692f1b1901fc100012fcfdea",
+    "data": [
+      {
+        "startTime": 153,
+        "endTime": 153,
+        "speaker": "Paulo Deitos",
+        "text": "Olá."
+      },
+      {
+        "startTime": 154,
+        "endTime": 162,
+        "speaker": "Diego Diehl",
+        "text": "Fala Paulo o Pedro da Cetim já entrou só tô aguardando ver se"
+      },
+      {
+        "startTime": 163,
+        "endTime": 164,
+        "speaker": "Paulo Deitos",
+        "text": "Eu vou fazer um cafezinho nesse meio tempo."
+      },
+      {
+        "startTime": 165,
+        "endTime": 219,
+        "speaker": "Diego Diehl",
+        "text": "Vai lá, vai lá dois minutos. Acho que o Pedro tá terminando alguma reunião ali. O João aproveitar."
+      },
+      {
+        "startTime": 219,
+        "endTime": 219,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Opa Fala Diego"
+      },
+      {
+        "startTime": 220,
+        "endTime": 222,
+        "speaker": "Diego Diehl",
+        "text": "Tudo bom, depois vamos falar sobre a direcional, você fez sua união com ele"
+      },
+      {
+        "startTime": 222,
+        "endTime": 225,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Ainda não."
+      },
+      {
+        "startTime": 225,
+        "endTime": 236,
+        "speaker": "Diego Diehl",
+        "text": "sobre embaixadores já. Tá vamos pegar na mão e levar para o caminho. fala"
+      },
+      {
+        "startTime": 237,
+        "endTime": 237,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "beleza"
+      },
+      {
+        "startTime": 238,
+        "endTime": 239,
+        "speaker": "Pedro Cabral",
+        "text": "Pode ser que a gente fez uma reunião aqui."
+      },
+      {
+        "startTime": 239,
+        "endTime": 283,
+        "speaker": "Diego Diehl",
+        "text": "Se quiser aproveitar o horário Pedro chamamos duas incorporadoras juntos daí da dúvida de um já serve para outro tudo bem?"
+      },
+      {
+        "startTime": 283,
+        "endTime": 283,
+        "speaker": "Celina Villarim",
+        "text": "Tudo bem."
+      },
+      {
+        "startTime": 285,
+        "endTime": 286,
+        "speaker": "Diego Diehl",
+        "text": "Seja bem-vindo aí?"
+      },
+      {
+        "startTime": 286,
+        "endTime": 286,
+        "speaker": "Celina Villarim",
+        "text": "obrigado"
+      },
+      {
+        "startTime": 287,
+        "endTime": 316,
+        "speaker": "Diego Diehl",
+        "text": "Você é da Torreão Vilarinho? Pessoal a ideia então aqui até apresentando tenho o Paulo aqui comigo, o Paulo deitos ele é. Senhor fundador da nossa securitizadora da secretizadora dele agora que a gente está fazendo esse negócio junto. E a ideia aqui é explanar de uma forma mais resumida os impactos que a gente já entendeu dobrou aí para as incorporadoras dessa nova lei."
+      },
+      {
+        "startTime": 316,
+        "endTime": 343,
+        "speaker": "Diego Diehl",
+        "text": "E mostrar ali um caminho de solução que a gente está entregando para o Brasil então, essa é uma solução da hora no com a CFG. E aí como a gente dá tá no Brasil inteiro a gente consegue dar uma capilaridade aí para O serviço do Paulo entrar no mercado imobiliário mais forte e agora acelerou tudo, né? A gente já tava hoje Gisele Gisele."
+      },
+      {
+        "startTime": 343,
+        "endTime": 366,
+        "speaker": "Diego Diehl",
+        "text": "Boa tarde. Então A ideia é que em 15 minutos passar rapidinho os impactos Claro só para a gente se tornar a mesma página. A gente tava fazendo essa apresentação ali em novembro e a gente estava muito num óleo vai aprovar e tal daí o pessoal tava ainda meio acho que não vai eu não sei."
+      },
+      {
+        "startTime": 366,
+        "endTime": 398,
+        "speaker": "Diego Diehl",
+        "text": "E aí agora provou. E acho que deu uma acelerada geral aí. A gente falou com umas 200 incorporadoras nos últimos 15 dias essa reunião aqui nos outros horários tinha 40 45 pessoas. Então essa Eu pretendo até a gente tá em três quatro cinco pessoas dá para trocar uma ideia perguntar fiquem à vontade, tá bom? Celina Pedro e Gisele, vamos lá? Eu vou fazer essa parte mais Express, porque se eu deixar Paulo técnico falar dela."
+      },
+      {
+        "startTime": 398,
+        "endTime": 421,
+        "speaker": "Diego Diehl",
+        "text": "Ele vai desdobrar todos os detalhes para vocês e eu vou tentar otimizar o tempo tá, mas qualquer dúvida técnico Paulo tá aí ele pode dobrar então todo mundo tá ciente dessa lei que foi aprovado agora, né? Faz como duas semanas. Tem dois mecanismos que aparece nela uma é um 10% de R na fonte."
+      },
+      {
+        "startTime": 421,
+        "endTime": 456,
+        "speaker": "Diego Diehl",
+        "text": "E o outro é um ir a partir do ano do exercício são duas coisas. Aí contexto rápido órgão vocês conhecem né? Mas a gente tem aí 3.000 incorporadoras na base está pelo Brasil inteiro. E aí tem duas regras, né? Otimizando até uma pergunta para vocês, se chegarem investigar já os detalhes dessa lei ou tão por cima dos artigos e tal, como é que tá a visão de vocês Pedro Celina o time assim cara, já tô nos últimos resolvendo ou tô me interando agora."
+      },
+      {
+        "startTime": 456,
+        "endTime": 488,
+        "speaker": "Pedro Cabral",
+        "text": "A gente já tá olhando. Já tem alguns meses que todo mundo meio debruçado nisso, principalmente o nosso fiscal. Então ele que é quem vai tocar, né? Justamente toda a operacionalização disso que é bem complexa. Mas aí eu precisava bater um papo com ele para ver que tipo de ferramenta o que que essa salada de fruta vai virar lá na frente ainda não tenho eu nunca falei com ele, mas assim a gente já tem conversado em diretoria."
+      },
+      {
+        "startTime": 488,
+        "endTime": 491,
+        "speaker": "Pedro Cabral",
+        "text": "Já tem alguns meses aí sobre essas mudanças."
+      },
+      {
+        "startTime": 492,
+        "endTime": 504,
+        "speaker": "Diego Diehl",
+        "text": "Com certeza o impacto é grande na verdade, né? Então valeu o esforço."
+      },
+      {
+        "startTime": 506,
+        "endTime": 516,
+        "speaker": "Pedro Cabral",
+        "text": "das obras terceirizadas isso vai poder usar para bater crédito ou não então quando a gente acha que a gente tá sabendo você volta as 10 casas e"
+      },
+      {
+        "startTime": 518,
+        "endTime": 523,
+        "speaker": "Diego Diehl",
+        "text": "Ah é o joguinho, a gente aprendeu desde criança, né? Tem umas casinhas ali que é volte duas casas então assim só para pôr na mesma página, a gente tem"
+      },
+      {
+        "startTime": 523,
+        "endTime": 523,
+        "speaker": "Pedro Cabral",
+        "text": "exatamente"
+      },
+      {
+        "startTime": 528,
+        "endTime": 547,
+        "speaker": "Diego Diehl",
+        "text": "dois artigos principais aí que influenciam o que a gente está conversando artigo sexto que a regra dos 50 mil mês essa aqui é o que talvez seja uma menor parte, mas passou de 50 mil faturado para o mesmo para uma mesma pessoa física do mesmo cnpj tributo na fonte."
+      },
+      {
+        "startTime": 547,
+        "endTime": 578,
+        "speaker": "Diego Diehl",
+        "text": "Essa aqui é o que não vai dar para escapar. Tão forte e aí o artigo 16 é o que amarra tudo se for ver a matemática. Que aí não é não tem a ver sobre o mesmo cnpj, né? Uma pessoa física receber do mesmo cnpj é só a lei fala que a gente vai somar tudo todos os dividendos de todas as fontes de uma pessoa física e Se ultrapassar 600 mil no ano começa a subir uma alíquota efetiva."
+      },
+      {
+        "startTime": 578,
+        "endTime": 580,
+        "speaker": "Diego Diehl",
+        "text": "Então vai de 600 mil a um milhão e"
+      },
+      {
+        "startTime": 580,
+        "endTime": 581,
+        "speaker": "Paulo Deitos",
+        "text": "Não só dividendos juros de investimentos salário isso aqui pega altos"
+      },
+      {
+        "startTime": 581,
+        "endTime": 581,
+        "speaker": "Diego Diehl",
+        "text": "duzentos."
+      },
+      {
+        "startTime": 588,
+        "endTime": 602,
+        "speaker": "Paulo Deitos",
+        "text": "executivos também tá então não é uma. um imposto só sobre sócio de empresa a segunda parte que o artigo 16 pega qualquer ingresso da pf"
+      },
+      {
+        "startTime": 603,
+        "endTime": 610,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso recebeu vai contar. E aí a gente começa a separar em"
+      },
+      {
+        "startTime": 610,
+        "endTime": 618,
+        "speaker": "Paulo Deitos",
+        "text": "O crime não tá o crime não não entra na base de cálculo então. O crie outros ativos exemplos."
+      },
+      {
+        "startTime": 621,
+        "endTime": 647,
+        "speaker": "Diego Diehl",
+        "text": "Sim, já vamos falar do dos instrumentos ali, então a gente tá separando aqui a conversa principalmente em três stakeholders para a gente poder enxergar cada um um investidor PF então investidor PF pode ser um SC pista pode ser uma pessoa que comprou lá no lançamento. E vai retornar a imunidade ou de qualquer forma aqui tem um lucro imobiliário ou dividendo."
+      },
+      {
+        "startTime": 647,
+        "endTime": 675,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem o terrenista, esse aqui é um fator bem importante tem cliente tem incorporadoras fechando negócio com a gente só por causa do terrenista na verdade do ano passado nesse ano foi em sua grande maioria é isso, né? Não tinha a lei de dividendos, mas o terrenista ele paga lucro imobiliário grande ali pelo terreno que vende para vocês e o incorporador empreendedor."
+      },
+      {
+        "startTime": 675,
+        "endTime": 713,
+        "speaker": "Diego Diehl",
+        "text": "Com toda a distribuição que a Incorporadora fizer o próprio empreendedor ali vai ser tributado. E o ponto aqui é como é que a gente aumenta a margem do projeto, né olhando para o investidor PF para o terreno e por empreendedor. Então hoje o básico isso aqui para vocês, né? A gente tem stsp o lucro chega na PF sem como é que a gente faz como é que era né o lucro chegava na PF sem ir então era bem legal investir em scp, porque no tributava na PF."
+      },
+      {
+        "startTime": 713,
+        "endTime": 749,
+        "speaker": "Diego Diehl",
+        "text": "Essa estrutura Já É simples vocês conhecem então retorno competitivo para PF tem pouca fricção tributária na ponta então é amarra ali a obra certinho scp ficava como sócio oculto. Agora vai ter esse eu arredondei aqui, né para 10% de R na PF. Consequências do investidor PF reduz o retorno então quando a gente vai vender uma scp pensando em retorno financeiro ou retorno em unidade que seja o lucro que o dividendo que ele conseguir dali vai ser tributado então reduz o retorno final dele."
+      },
+      {
+        "startTime": 749,
+        "endTime": 776,
+        "speaker": "Diego Diehl",
+        "text": "O terrenista já paga 15% de lucro imobiliário isso daqui é um ponto importante para a gente não esquecer. E o empreendedor PF mesma coisa, né? Então sente no bolso direto. Aqui eu trouxe uma comunicação sobre a falta de resposta que algumas incorporadoras estavam dando para investidores então alguns investidores já estavam questionando os nossos clientes incorporadoras sobre o que que elas iam fazer."
+      },
+      {
+        "startTime": 776,
+        "endTime": 802,
+        "speaker": "Diego Diehl",
+        "text": "E a nossa dica estava sendo já levar uma resposta, né? Então o investidor entrou lá atrás, ainda tem algo para pagar para investir e tá perguntando né? E minha o meu retorno de 22 24 vai virar 19 18, como é que vai ficar isso? E aqui a gente começa a trazer uma a nossa O Nosso principal instrumento."
+      },
+      {
+        "startTime": 802,
+        "endTime": 837,
+        "speaker": "Diego Diehl",
+        "text": "Acho que o Pedro chamou de ferramenta, né? Pedro? A gente tá chamando que ele instrumento. Que é passado um sócio do scp? Para um credor de uma estrutura regulada recebendo rendimento com potencial de isenção na PF, então a lei. Aprovado agora assinada prever instrumentos isentos de R. Então a gente tem lá tudo que vai ser tributado e tem instrumentos que continuam isentos de R que são formas de estímulo as principais os principais mecanismos produtivos do Brasil que principalmente agricultura imobiliário."
+      },
+      {
+        "startTime": 837,
+        "endTime": 862,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente tem os cravos e os cris. Os crises só continuam isentos de ir. O instrumento aqui que a gente usa e tem sido o mais eficiente possível são os crises que são certificados de recebíveis imobiliários. Que é emitido por uma securitizadora regulado pela cvm? Lastreado nos créditos Imobiliários do próprio projeto e permite combinar essas duas partes."
+      },
+      {
+        "startTime": 862,
+        "endTime": 887,
+        "speaker": "Diego Diehl",
+        "text": "Então eu acho que daqui para frente a clareza principal para dar para vocês. Certa forma, eu acho que a maturidade de quem tá na sala já conhece Cris já ouviu falar tem que esquecer o que você já ouviu, entendeu? Uma nova perspectiva de como é que você enxerga o cri que não é sobre pagar em juros tudo."
+      },
+      {
+        "startTime": 887,
+        "endTime": 916,
+        "speaker": "Diego Diehl",
+        "text": "E você, pode ter uma parte variável então basicamente a gente tá conseguindo inclusive migrar scps para crer. Agora mantendo até os mesmos combinados então desdobrando cada um né? O terrenista esse aqui. Independente de lei já pagava o imposto. Então terrenista tradicional tem um R alto sobre o ganho de Capital na PF normalmente porque o terreno dele foi avaliado a 30 anos lá por 200 mil reais."
+      },
+      {
+        "startTime": 916,
+        "endTime": 944,
+        "speaker": "Diego Diehl",
+        "text": "Ele vai pagar ali r$ 500 mil reais imposto, esse aqui é um uma saída de imposto, né? Então o que você tá comprando na verdade do terrenista, é eu te entrego três milhões e meio líquido. Te pagando quatro essa linha de raciocínio aqui, a gente tem uma. A gente tem uma redução drástica na carga na PF, então transforma isso daqui imagem para o projeto."
+      },
+      {
+        "startTime": 944,
+        "endTime": 965,
+        "speaker": "Diego Diehl",
+        "text": "O incorporador esse aqui tá claro, acho que para todo mundo a nova lei aplica até 10% sobre esse dividendo se pagar um milhão vai ter um R potencial de 100 mil. E aqui eu fiz um exemplo base do projeto um projeto com custo total de 30 milhões o CAPS."
+      },
+      {
+        "startTime": 965,
+        "endTime": 993,
+        "speaker": "Diego Diehl",
+        "text": "Um terreno de 6 milhões e uma scp de 5 milhões aqui a gente chama o lucro do projeto em 15 milhões o lucro mais bruto, né guardar esse número que 15 milhões o investidor deve ser bem veste 5 coloquei que a gente retorna mais cinco então que seja um projeto de 36 meses aí acaba dando 100% de rentabilidade se você for no 22 24."
+      },
+      {
+        "startTime": 993,
+        "endTime": 1015,
+        "speaker": "Diego Diehl",
+        "text": "Então eles investem cinco retorno 5 o terrenista você tá comprando por 6 milhões do terreno e o Incorporadora, eu chutei bem baixo aqui que ele vai tirar um milhão desse projeto. Então um milhão de lucros distribuídos. Quando a gente Analisa esse fluxo a gente prever o investidor da pf."
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1039,
+        "speaker": "Diego Diehl",
+        "text": "Dos 5 milhões a gente vai ter 500 mil imposto. Se usar a estrutura regulada vai ficar isento na PF. Então já começando a amarrar as coisas. A gente tá falando eu até tirei da apresentação aqui para encurtar. Mas o clique a maioria de vocês conhece até agora é o clique é regulado pela lei cvm 160."
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1036,
+        "speaker": "Diego Diehl",
+        "text": "Esse crime custa normalmente 500 mil reais, talvez você tinha já deve ter feito algum crime deve ter feito já. É o que perfeito 500 p******* normal processo que você paga ali seis entidades"
+      },
+      {
+        "startTime": 1036,
+        "endTime": 1047,
+        "speaker": "Pedro Cabral",
+        "text": "É já fez escrita bem, mas a gente tem bastante experiência por causa dos hotéis, né? Que todos os antigos submeter as BR. Então é os mesmos faixas de 500 mil que é o que seria o pintor aqui, né?"
+      },
+      {
+        "startTime": 1051,
+        "endTime": 1073,
+        "speaker": "Diego Diehl",
+        "text": "diferentes. Em burocrático. Desde dezembro daí notícia nova nova aspas Desde dezembro de 23 A cvm 88 possibilita a emissão de crise de uma forma bem mais atualizada prática e eficiente 88 por sinal, quem ajudou a escrever. Essa lei 88 foi o Paulo. O Paulo participou lá dentro da escrita dessa lei."
+      },
+      {
+        "startTime": 1073,
+        "endTime": 1126,
+        "speaker": "Diego Diehl",
+        "text": "Inclusive a empresa dele é uma das empresas licenciadas pela cvm para emitir Cris pela cv88 e a gente consegue baixar o custo de um crime de 500 mil reais. E aí todo jogo Muda então quando a gente começa a olhar só no investidor PF queria pagar 500 mil de imposto, eu botei aqui 80 de custo de um crime que em 2025 a gente está fazendo por 60 mil de setup para dar o start no primeiro projeto com as incorporadoras aqui já sobra 420, né? Mas aqui tá conta completa que é a visão que eu teria como Incorporadora tem investidor PF que vai pagar 500? O terrenista se ele se ele tiver um ganho de Capital aqui de 15% ele vai pagar 900 mil."
+      },
+      {
+        "startTime": 1126,
+        "endTime": 1153,
+        "speaker": "Diego Diehl",
+        "text": "O investidor PF de um milhão ele vai pagar 100 aqui, a gente está totalizando um milhão e meio de imposto. Então no projeto que prevê um lucro de 15 a gente está falando em um milhão e meio de imposto só para pessoas físicas, né? A gente então tem um imposto de um milhão e meio temos uma solução aqui que custa 80."
+      },
+      {
+        "startTime": 1153,
+        "endTime": 1184,
+        "speaker": "Diego Diehl",
+        "text": "E esse valor aqui é o de retorno é para ser tão claro que a gente. Vamos estudar isso, né? É para ser um novo bem essa essa visão aqui. critérios de olho faz sentido e onde é melhor não mexer Normalmente temos feito operações a partir de três a cinco milhões? Que tem alguma presença relevante de PF que tem algum lastro Claro e uma governança mínima, né? Então micro construtoras incorporadoras a gente."
+      },
+      {
+        "startTime": 1184,
+        "endTime": 1207,
+        "speaker": "Diego Diehl",
+        "text": "Não faz tanto sentido porque a documentação ainda não tá muito organizada. Ponto de atenção é quando tiver um SSH, por exemplo com travas muito fortes ou em obras que estão bem na reta, final a gente tá analisando o caso a caso. Mas obras na reta final ficou um pouco mais complicado de imigrar."
+      },
+      {
+        "startTime": 1207,
+        "endTime": 1235,
+        "speaker": "Diego Diehl",
+        "text": "E ou a base majoritariamente PJ também Tecnicamente reduz o imposto ali do investidor. Então quem tá por trás disso é a órgão, né? Aqui nessa mistura de relação corporadoras e visão de mercado a Captiva parte do banco digital do Paulo a gente já fez mais de um Binho operações em 2025 A CFG eu até deixei aqui no mapa e quiser entrar depois CEF grupo.com.br."
+      },
+      {
+        "startTime": 1235,
+        "endTime": 1260,
+        "speaker": "Diego Diehl",
+        "text": "A gente tem aqui as visões a gente tá 14 anos no mercado, mas sem projetos concluídos mais de 10 mil investidores, claro que vários negócios a gente fala sobre funding, né? Que a gente não tá falando sobre funny está falando sobre vocês terem o seu próprio crise serem sócios do próprio cri para poder distribuir dividendos isentos de é."
+      },
+      {
+        "startTime": 1260,
+        "endTime": 1293,
+        "speaker": "Diego Diehl",
+        "text": "E para fechar. Aqui eu botei, né as leis. A Gente Tem trabalhado em quatro etapas Fazendo um diagnóstico rápido numa segunda reunião em meia hora normalmente a gente sugere que Envia alguns principais documentos para a gente falar cara. Se fosse para desenhar um crie nessa situação seria assim assim essa A modelagem a gente ainda tá personalizando bastante, principalmente pelas migrações então o que que você prometeu para o investidor por ter revista para o empreendedor."
+      },
+      {
+        "startTime": 1293,
+        "endTime": 1317,
+        "speaker": "Diego Diehl",
+        "text": "E aí parte para estruturação e operação? Então é isso gente assim ó a parte 2 e 22 foram 15 minutos. O objetivo aqui era dar uma visão geral e aproveitar agora que a gente está em menos pessoas. Para saber o que vocês estão pensando. Quais são as preocupações aí? Que que vocês acharam também? Fala aí Pedro."
+      },
+      {
+        "startTime": 1321,
+        "endTime": 1354,
+        "speaker": "Pedro Cabral",
+        "text": "É um bom caminho é um caminho que realmente estava até diferente do que eu estava imaginando, mas eu não tava quando vi a reunião não, imagina que era para esse olhar aqui de negócio de fazer uma troca de da scp. Acho que é todo mundo tem que dar uma boa olhada porque scp tem virado, não sei como é que tá e o resto de Brasil Porto Alegre, principalmente nós que tem muito investidor também."
+      },
+      {
+        "startTime": 1354,
+        "endTime": 1385,
+        "speaker": "Pedro Cabral",
+        "text": "Mas aqui no mercado de São Paulo sct ele tá virando a forma de comprar apartamento de alto padrão, porque assim é todo mundo que trabalham tem acesso a esse tipo de investimento. Teoricamente deveria ser investimento, né? Mas Tem se tornado aqui muitas vezes uma antecipação de vendas e alguns casos especificamente alguns problemas porque o cara compra com design muito grande lá atrás e depois você não consegue de fato."
+      },
+      {
+        "startTime": 1385,
+        "endTime": 1407,
+        "speaker": "Pedro Cabral",
+        "text": "Vai lançar de fato não consegue recuperar ou a pessoa que quer comprar agora não compra com os valores do negócio. Então muito bom bem interessante eu no nosso caso aqui a cetim eu ainda não faço as stps é algo que a gente quer começar a trabalhar para o ano que vem."
+      },
+      {
+        "startTime": 1407,
+        "endTime": 1424,
+        "speaker": "Pedro Cabral",
+        "text": "Então tem um projeto especificamente junto com a tresul que provavelmente a gente vai querer fazer algumas. Mas é um modelo que eu preciso estudar muito bem Diego, porque tem dado muito problema aqui hoje em dia tem corretor já a ofertando até em Instagram Vendo scp, então tipo assim. Virou tomar cuidado analisando um pouco tipo de investimento não é um"
+      },
+      {
+        "startTime": 1424,
+        "endTime": 1425,
+        "speaker": "Diego Diehl",
+        "text": "Tenho visto isso."
+      },
+      {
+        "startTime": 1428,
+        "endTime": 1437,
+        "speaker": "Pedro Cabral",
+        "text": "investimento que deveria ser valorizada era para ser algo exclusivo para poucos ele tem se tornando agora a forma de comprar apartamento. Principalmente quando você tem."
+      },
+      {
+        "startTime": 1438,
+        "endTime": 1441,
+        "speaker": "Paulo Deitos",
+        "text": "Tá eu queria. Então para já mudar essa história já começa com um produto diferente."
+      },
+      {
+        "startTime": 1442,
+        "endTime": 1443,
+        "speaker": "Pedro Cabral",
+        "text": "O conceito não deveria ser é o conceito entraria como sócio na que é o Cris"
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1467,
+        "speaker": "Diego Diehl",
+        "text": "Eu não te falei muito sobre isso, né Pedro, mas deve deve saber obviamente que cumprir você traz um profissionalismo bem maior, né com lastro com governança com outro nível de Segurança até para diferenciar uma pequena Incorporadora que tá vendendo mais solta versus uma incorporadora que tá sendo regulada pela cvm."
+      },
+      {
+        "startTime": 1470,
+        "endTime": 1474,
+        "speaker": "Pedro Cabral",
+        "text": "você vai entrar com Sócio. Não sei se quando fizer um crio eu consigo vender"
+      },
+      {
+        "startTime": 1474,
+        "endTime": 1486,
+        "speaker": "Diego Diehl",
+        "text": "Sim a gente pode fazer diferentes formatos do crime, inclusive cada unidade pode"
+      },
+      {
+        "startTime": 1486,
+        "endTime": 1490,
+        "speaker": "Pedro Cabral",
+        "text": "para uma pessoa e depois quando você tiver o ri eu transformar aquela venda no CCB."
+      },
+      {
+        "startTime": 1499,
+        "endTime": 1505,
+        "speaker": "Diego Diehl",
+        "text": "ser uma série. E aí tem o modelo de sair quando for mais conveniente, né?"
+      },
+      {
+        "startTime": 1507,
+        "endTime": 1522,
+        "speaker": "Pedro Cabral",
+        "text": "Né? O que mais tem acontecido essas pessoas fazerem não um modelo de investimento como sócio ele entra mesmo com a compra antecipada quando sai ali transforma aquele investimento em uma onda."
+      },
+      {
+        "startTime": 1522,
+        "endTime": 1530,
+        "speaker": "Diego Diehl",
+        "text": "Ele é sócio de imunidade de uma fração que corresponde exatamente a imunidade, né? sim"
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1554,
+        "speaker": "Pedro Cabral",
+        "text": "Preciso entender um pouquinho melhor, mas acho que é o caminho, a gente pode até estudar um projeto que eu lanço aí vai ano que vem. O projeto de 600 milhões de vgb que com certeza alguma coisa nessa linha eu vou precisar fazer."
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1561,
+        "speaker": "Diego Diehl",
+        "text": "Inclusive para o investidor, né que comprava na scp na pessoa física isento."
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1562,
+        "speaker": "Pedro Cabral",
+        "text": "sim"
+      },
+      {
+        "startTime": 1562,
+        "endTime": 1566,
+        "speaker": "Diego Diehl",
+        "text": "Ele vai pagar 15% do lucro imobiliário, quando ele for vender, né? Então ele"
+      },
+      {
+        "startTime": 1566,
+        "endTime": 1569,
+        "speaker": "Pedro Cabral",
+        "text": "Mas como que fica se eu compro agora Eu transformo esse investimento em uma"
+      },
+      {
+        "startTime": 1569,
+        "endTime": 1573,
+        "speaker": "Diego Diehl",
+        "text": "já perdeu de largada dele se ele pagou."
+      },
+      {
+        "startTime": 1577,
+        "endTime": 1583,
+        "speaker": "Pedro Cabral",
+        "text": "unidade é quase um contrato de gaveta. Também quando ele for vender ele vai pagar lucro Imobiliário."
+      },
+      {
+        "startTime": 1583,
+        "endTime": 1612,
+        "speaker": "Diego Diehl",
+        "text": "dscp para para CCV Cara uma boa pergunta porque eu não vi desdobramento ainda, mas em tese ele pagou 400 mil e vai receber um CCV de quanto 400. E quando ele for é daí quando ele for vender. Isso aí ele já se a unidade dele na verdade vale 700 mil."
+      },
+      {
+        "startTime": 1612,
+        "endTime": 1618,
+        "speaker": "Diego Diehl",
+        "text": "Ele pagou 400, ele já perdeu ali seja cinquentinha, né?"
+      },
+      {
+        "startTime": 1622,
+        "endTime": 1637,
+        "speaker": "Paulo Deitos",
+        "text": "Ele ele pode pegar a unidade e vocês vendem a unidade depois e pagam a cota dele sem imposto paga só o Hatch. É porque ele vamos lá tu pode fazer o crie com várias séries vinculadas as"
+      },
+      {
+        "startTime": 1637,
+        "endTime": 1645,
+        "speaker": "Pedro Cabral",
+        "text": "Dá sim é que nesse caso Paulo continua carregando ele como investidor é que"
+      },
+      {
+        "startTime": 1645,
+        "endTime": 1662,
+        "speaker": "Paulo Deitos",
+        "text": "unidades cada série tá então tu poderia fazer uma série vinculada a unidade 102. E aí tu vai vender a unidade 102 vai pagar o resto da unidade e vai com o resto que tá as séries que o cara comprou."
+      },
+      {
+        "startTime": 1667,
+        "endTime": 1671,
+        "speaker": "Pedro Cabral",
+        "text": "são dois modelos diferentes, entendeu? Diminui bastante."
+      },
+      {
+        "startTime": 1671,
+        "endTime": 1671,
+        "speaker": "Paulo Deitos",
+        "text": "sim"
+      },
+      {
+        "startTime": 1676,
+        "endTime": 1680,
+        "speaker": "Pedro Cabral",
+        "text": "porque ele deixa de ser só você ter uma uma promessa de intimidade que"
+      },
+      {
+        "startTime": 1680,
+        "endTime": 1687,
+        "speaker": "Paulo Deitos",
+        "text": "Ele pode tem jeito de fazer de qualquer maneira tá? Mas ele fica com a responsabilidade da venda não tem problema."
+      },
+      {
+        "startTime": 1690,
+        "endTime": 1697,
+        "speaker": "Diego Diehl",
+        "text": "São esses os mapas né o teu na setinha eu acredito que seja o mais clientes moradores mesmo, né."
+      },
+      {
+        "startTime": 1699,
+        "endTime": 1720,
+        "speaker": "Pedro Cabral",
+        "text": "Hoje sim, a gente quer explodir talvez a forma de trazer o investidor é através do cria mais fácil, né? Em algumas seguranças que para o investidor esse aqui é que eu falo de novo tá uma banalizando."
+      },
+      {
+        "startTime": 1721,
+        "endTime": 1724,
+        "speaker": "Diego Diehl",
+        "text": "Já tem essa questão de segurança agora vai ter mais o 10%"
+      },
+      {
+        "startTime": 1724,
+        "endTime": 1732,
+        "speaker": "Pedro Cabral",
+        "text": "Pega uma empresa que o cara some com seu dinheiro, você nunca mais vê. sim"
+      },
+      {
+        "startTime": 1733,
+        "endTime": 1754,
+        "speaker": "Diego Diehl",
+        "text": ". Então uma coisa vai ser o isento agora recomendando agora Pedro. Para algumas incorporadoras, É talvez trazer um caso específico o ideal para as maiores está falando dois né? Um que vai lançar ainda para a gente ter mais tempo de estruturar e quem sabe colocar bem certinho o terrenista."
+      },
+      {
+        "startTime": 1754,
+        "endTime": 1796,
+        "speaker": "Diego Diehl",
+        "text": "E aí você tem um ganho ali já isentando. e outro projeto que talvez esteja no meio do caminho, que seja preocupante ali do impacto que essa tributação vai ter para a gente ver uma uma solução e tem também incorporadoras que tem vários negócios e é esse ano tá mais acelerando para pavimentar o caminho da primeira solução e quando bater mesmo a Água na bunda digamos assim de distribuir já tem um caminho pavimentado para fazer fluir os próximos mais rápido, né? Porque é um processo burocrático, né? Por mais que seja bem mais simples."
+      },
+      {
+        "startTime": 1796,
+        "endTime": 1802,
+        "speaker": "Diego Diehl",
+        "text": "Não tem que registrar lá e Incorporadora lá na cvm. Mesmo assim demora um pouquinho."
+      },
+      {
+        "startTime": 1804,
+        "endTime": 1815,
+        "speaker": "Pedro Cabral",
+        "text": "Não perfeito. Vamos sentar levantar alguns dois casos aí um futuro que esteja trabalhando agora e o que já tá mais encaminhado a gente."
+      },
+      {
+        "startTime": 1816,
+        "endTime": 1823,
+        "speaker": "Diego Diehl",
+        "text": "Pode trazer o teu cara técnico aí também. Celina Você pode falar?"
+      },
+      {
+        "startTime": 1823,
+        "endTime": 1843,
+        "speaker": "Celina Villarim",
+        "text": "Sim eu vi que você trouxe os as três peças né aí da estrutura que é o incorporador o terrenista e os investidores essa solução ela só funciona assim, só vale a pena tendo esses três atores digamos assim ou pode funcionar só para o incorporador sem ter que trazer o terrenista o investidor."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1866,
+        "speaker": "Diego Diehl",
+        "text": "A conta mais mais mais simples Celina é pensar assim, vou distribuir mais do que dois milhões. Vou pagar 200 mil de imposto, o cri tá custando 100 então você paga 100 e economiza 100 e parece que já é uma alguma troca que faz sentido mas não necessariamente."
+      },
+      {
+        "startTime": 1866,
+        "endTime": 1866,
+        "speaker": "Celina Villarim",
+        "text": "fazendo essa"
+      },
+      {
+        "startTime": 1867,
+        "endTime": 1871,
+        "speaker": "Diego Diehl",
+        "text": "A gente já fez só por incorporador tranquilo Paulo."
+      },
+      {
+        "startTime": 1873,
+        "endTime": 1877,
+        "speaker": "Celina Villarim",
+        "text": "Era obrigatório trazer o técnico junto ou no caso?"
+      },
+      {
+        "startTime": 1877,
+        "endTime": 1898,
+        "speaker": "Diego Diehl",
+        "text": "Tem várias certezas agora que está migrando que o terrestre já foi já tá lá atrás, nem dá para mexer mais nisso já aceitou já negociou. E aí tá olhando só para o investidor tem corporador que tá olhando só por empreendedor só para os sócios da Incorporadora que recebem os dividendos na pessoa física."
+      },
+      {
+        "startTime": 1898,
+        "endTime": 1926,
+        "speaker": "Diego Diehl",
+        "text": "Então depende o Quando Como cria agora facilitou simplificou e passou ali para um custo teto quase de 100 mil muita coisa se tornou mais viável. Problema é quando o custo de carrego tava em 10 15 mil reais daí a conta para fechar tem que ser algo tinha que ser algo com maior volume que foi o que o Pedro falou ali hotéis no geral, já tem estrutura em cima de cri como padrão assim."
+      },
+      {
+        "startTime": 1926,
+        "endTime": 1931,
+        "speaker": "Celina Villarim",
+        "text": "Essa taxa do cvm em cima de que mesmo 0,0."
+      },
+      {
+        "startTime": 1932,
+        "endTime": 1936,
+        "speaker": "Diego Diehl",
+        "text": "valor total do cri de largada não"
+      },
+      {
+        "startTime": 1936,
+        "endTime": 1938,
+        "speaker": "Celina Villarim",
+        "text": "do valor de largado"
+      },
+      {
+        "startTime": 1938,
+        "endTime": 1949,
+        "speaker": "Diego Diehl",
+        "text": "Isso então só que é 003 é apenas de 10 milhões, vai ser. Lá 3 mil 30 mil ela me perdi agora."
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1960,
+        "speaker": "Celina Villarim",
+        "text": "Nesse nesse modelo no caso assim, né pensando. Só no incorporador. O ideal é algum projeto então para lançamento ainda."
+      },
+      {
+        "startTime": 1961,
+        "endTime": 1984,
+        "speaker": "Diego Diehl",
+        "text": "O mais lindo de se fazer é isso um projeto que está lançando ou que está no começo, mas as migrações são possíveis também o mais complicado é quando não se tem mais onde gastar dinheiro na obra obra quase concluída. Ah já recebi tudo. Ah, mas tem onde gastar ainda é viável dá para amarrar certinho."
+      },
+      {
+        "startTime": 1984,
+        "endTime": 1996,
+        "speaker": "Celina Villarim",
+        "text": "É como se o objetivo acho que dessa dessa tributação é permanecer o máximo possível na própria empresa, né? Evitar as distribuições para pessoa física é meio que"
+      },
+      {
+        "startTime": 1997,
+        "endTime": 2031,
+        "speaker": "Diego Diehl",
+        "text": "Esse é esse é um impacto que a lei gera né? Tende a estimular as empresas a reinvestirem aspas aspas cresceram o país investir no país essa tese, mas a gente vai precisar distribuir lucro para PF, porque as pessoas precisam viajar pagar a escola faculdade, né? show Obrigado Celina Pedro quem a Gisele a Gisele tá contigo Pedro da setinha ou não? Né, Gisele? Você tem alguma dúvida alguma pergunta? De mar que isso Gustavo."
+      },
+      {
+        "startTime": 2031,
+        "endTime": 2055,
+        "speaker": "Diego Diehl",
+        "text": "Instrutora de Mac show pessoal então sugestão prática tá essa a gente quis otimizar essa reunião um pouco mais. visão macro Mas a gente está à disposição próximo passo a gente sugere que seja uma reunião até envolvendo a pessoa técnica da empresa que vai ficar com essa responsabilidade na mão de solucionar isso."
+      },
+      {
+        "startTime": 2055,
+        "endTime": 2086,
+        "speaker": "Diego Diehl",
+        "text": "É uma reunião de meia hora normalmente a gente entende o caso. Escolhe um projeto já às vezes coleta documentação antes, já traz uma solução analisada gratuitamente. Se vocês quiserem também compartilhar sem dados sensíveis, né o modelo do scp que vocês fizeram que vocês querem migrar para ver se atende se um criatende os requisitos que vocês colocaram na sct a gente também Analisa, então a gente tá."
+      },
+      {
+        "startTime": 2086,
+        "endTime": 2105,
+        "speaker": "Diego Diehl",
+        "text": "Acelerando aí esse ano porque a tendência que a gente entende ano que vem é dar uma gargalada nisso daí. E que vem a gente vai criar alguns modelos específicos para seguir esse ano a gente ainda tá personalizando para o pessoal migrar. Beleza, obrigado aí, viu? Pessoal. Obrigado. Tchau. Tchau, boa tarde para todo"
+      },
+      {
+        "startTime": 2105,
+        "endTime": 2110,
+        "speaker": "Pedro Cabral",
+        "text": "Beleza, obrigado."
+      },
+      {
+        "startTime": 2110,
+        "endTime": 2115,
+        "speaker": "Diego Diehl",
+        "text": "mundo. Tchau Tchau Gisele"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 120,
+    "speakers": [
+      "João Vitor Portes da Silva",
+      "Paulo Deitos",
+      "Celina Villarim",
+      "Diego Diehl",
+      "Pedro Cabral"
+    ],
+    "total_words_estimate": 4342,
+    "duration_start": 153,
+    "duration_end": 2115
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "692f23a187c25900130afa2f",
+        "timestamp": 287,
+        "text": "Diego apresenta reunião sobre impactos de nova lei tributária para incorporadoras",
+        "topicId": "692f23a187c25900130afa27"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa30",
+        "timestamp": 412,
+        "text": "Nova lei aprovada há duas semanas estabelece 10% de IR na fonte e IR a partir do exercício fiscal",
+        "topicId": "692f23a187c25900130afa27"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa3a",
+        "timestamp": 456,
+        "text": "Pedro confirma que equipe fiscal já está estudando os detalhes operacionais da nova lei",
+        "topicId": "692f23a187c25900130afa2b"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa31",
+        "timestamp": 560,
+        "text": "Lei prevê tributação de dividendos acima de R$ 600 mil por ano, considerando todas as fontes de renda",
+        "topicId": "692f23a187c25900130afa27"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa33",
+        "timestamp": 810,
+        "text": "Lei prevê instrumentos isentos de IR, como CRIs (Certificados de Recebíveis Imobiliários)",
+        "topicId": "692f23a187c25900130afa28"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa34",
+        "timestamp": 1053,
+        "text": "CVM 88 permite emissão de CRIs de forma mais prática e eficiente desde dezembro de 2023",
+        "topicId": "692f23a187c25900130afa28"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa35",
+        "timestamp": 1228,
+        "text": "Órgão CFG tem 14 anos de mercado e mais de 10 mil investidores",
+        "topicId": "692f23a187c25900130afa28"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa36",
+        "timestamp": 1272,
+        "text": "Próximos passos incluem diagnóstico rápido e modelagem personalizada de CRI",
+        "topicId": "692f23a187c25900130afa29"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa38",
+        "timestamp": 1405,
+        "text": "Pedro preocupado com modelo de SCP que está sendo massificado incorretamente no mercado de investimentos imobiliários",
+        "topicId": "692f23a187c25900130afa2a"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa39",
+        "timestamp": 1442,
+        "text": "Diego sugere que CVM pode trazer profissionalismo e governança para incorporadoras",
+        "topicId": "692f23a187c25900130afa2a"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa37",
+        "timestamp": 1530,
+        "text": "Pedro planeja estudar projeto de 600 milhões de VGB com novo modelo de investimento",
+        "topicId": "692f23a187c25900130afa29"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa2c",
+        "timestamp": 1699,
+        "text": "Pedro busca estratégia de atrair investidores através do CRI",
+        "topicId": "692f23a187c25900130afa26"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa2d",
+        "timestamp": 1754,
+        "text": "Diego propõe selecionar dois projetos para testar solução de isenção tributária",
+        "topicId": "692f23a187c25900130afa26"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa32",
+        "timestamp": 1984,
+        "text": "Objetivo da nova tributação é manter recursos dentro da empresa",
+        "topicId": "692f23a187c25900130afa27"
+      },
+      {
+        "segmentId": "692f23a187c25900130afa2e",
+        "timestamp": 2035,
+        "text": "Próximo passo: reunião técnica com especialista para analisar solução de isenção tributária",
+        "topicId": "692f23a187c25900130afa26"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "692f23a187c25900130afa26",
+        "order": 1,
+        "title": "Próximos Passos e Ações Definidas",
+        "summary": ""
+      },
+      {
+        "id": "692f23a187c25900130afa27",
+        "order": 2,
+        "title": "Nova Lei Tributária de Dividendos",
+        "summary": ""
+      },
+      {
+        "id": "692f23a187c25900130afa28",
+        "order": 3,
+        "title": "Instrumentos de Investimento Imobiliário",
+        "summary": ""
+      },
+      {
+        "id": "692f23a187c25900130afa29",
+        "order": 4,
+        "title": "Estratégias e Modelagem de Investimentos",
+        "summary": ""
+      },
+      {
+        "id": "692f23a187c25900130afa2a",
+        "order": 5,
+        "title": "Preocupações e Riscos no Mercado",
+        "summary": ""
+      },
+      {
+        "id": "692f23a187c25900130afa2b",
+        "order": 6,
+        "title": "Acompanhamento Interno",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 15,
+    "topic_count": 6,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "692f23a187c25900130afa26",
+      "order": 1,
+      "title": "Próximos Passos e Ações Definidas",
+      "summary": ""
+    },
+    {
+      "id": "692f23a187c25900130afa27",
+      "order": 2,
+      "title": "Nova Lei Tributária de Dividendos",
+      "summary": ""
+    },
+    {
+      "id": "692f23a187c25900130afa28",
+      "order": 3,
+      "title": "Instrumentos de Investimento Imobiliário",
+      "summary": ""
+    },
+    {
+      "id": "692f23a187c25900130afa29",
+      "order": 4,
+      "title": "Estratégias e Modelagem de Investimentos",
+      "summary": ""
+    },
+    {
+      "id": "692f23a187c25900130afa2a",
+      "order": 5,
+      "title": "Preocupações e Riscos no Mercado",
+      "summary": ""
+    },
+    {
+      "id": "692f23a187c25900130afa2b",
+      "order": 6,
+      "title": "Acompanhamento Interno",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:49:47.813955+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:49:47.813955+00:00"
+}

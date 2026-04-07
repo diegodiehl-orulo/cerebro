@@ -1,0 +1,1669 @@
+{
+  "meeting_id": "677d79b2b306f8001389ed2e",
+  "name": "Z2A <> GT Building - Treinamento ADM",
+  "happened_at": "2025-01-07T19:00:00.000Z",
+  "duration_seconds": 3319.661,
+  "duration_minutes": 55.3,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "",
+      "email": "cristiane.rosa@gtbuilding.com.br"
+    },
+    {
+      "name": "Carlos Stoppa",
+      "email": "carlos@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "zemyr.junior@gtbuilding.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "giovane@z2app.com.br"
+    },
+    {
+      "name": "",
+      "email": "matheus.castro@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/677d79b2b306f8001389ed2e",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "kwr-fpvj-wma",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "677d79c68600770013d0c606",
+    "meetingId": "677d79b2b306f8001389ed2e",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 2,
+        "speaker": "Carlos Stoppa",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 3,
+        "endTime": 6,
+        "speaker": "Allan Moura",
+        "text": "O bem certo finalizando uma reunião ele já entra também."
+      },
+      {
+        "startTime": 12,
+        "endTime": 14,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom aguardo ele aqui."
+      },
+      {
+        "startTime": 51,
+        "endTime": 54,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Boa tarde pessoal."
+      },
+      {
+        "startTime": 54,
+        "endTime": 55,
+        "speaker": "Cristiane Rosa",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 55,
+        "endTime": 58,
+        "speaker": "Carlos Stoppa",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 67,
+        "endTime": 76,
+        "speaker": "Allan Moura",
+        "text": "Google externo vão participar que eles têm uma outra reunião Daí eu vou fazer sozinho da parte da ti sou eu."
+      },
+      {
+        "startTime": 77,
+        "endTime": 186,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom. Aldemir né? Para a gente começar."
+      },
+      {
+        "startTime": 186,
+        "endTime": 186,
+        "speaker": "Cristiane Rosa",
+        "text": "Isso mesmo, só ele."
+      },
+      {
+        "startTime": 186,
+        "endTime": 407,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá ótimo, tranquilo. Boa tarde"
+      },
+      {
+        "startTime": 407,
+        "endTime": 411,
+        "speaker": "Zemyr Werner",
+        "text": "Boa tarde tudo bem?"
+      },
+      {
+        "startTime": 411,
+        "endTime": 412,
+        "speaker": "Carlos Stoppa",
+        "text": "Tudo bem e você?"
+      },
+      {
+        "startTime": 412,
+        "endTime": 415,
+        "speaker": "Zemyr Werner",
+        "text": "Tudo tudo em paz Feliz Ano para todo mundo aí. Desculpa o atraso."
+      },
+      {
+        "startTime": 415,
+        "endTime": 417,
+        "speaker": "Carlos Stoppa",
+        "text": "Para vocês também, gente."
+      },
+      {
+        "startTime": 417,
+        "endTime": 419,
+        "speaker": "Zemyr Werner",
+        "text": "Já cheguei com várias demandas aqui."
+      },
+      {
+        "startTime": 419,
+        "endTime": 423,
+        "speaker": "Carlos Stoppa",
+        "text": "Imagina, estamos todos a todo vapor."
+      },
+      {
+        "startTime": 423,
+        "endTime": 424,
+        "speaker": "Zemyr Werner",
+        "text": "Vamos lá, vamos lá?"
+      },
+      {
+        "startTime": 424,
+        "endTime": 426,
+        "speaker": "Carlos Stoppa",
+        "text": "Vamos lá, deixa eu colocar para compartilhar tela."
+      },
+      {
+        "startTime": 426,
+        "endTime": 427,
+        "speaker": "Zemyr Werner",
+        "text": "beleza"
+      },
+      {
+        "startTime": 427,
+        "endTime": 449,
+        "speaker": "Carlos Stoppa",
+        "text": "Ou a gente vai fazer um treinamento mais administrativo, né? Mas focado nessa parte de vocês que vão manipular a ferramenta. E aí a gente tem alguns próximos passos também de ter ali com uns janela aí para o finalzinho da Renan tiver isso também, tá? Vocês tiverem dúvidas podem me interromper abre o microfone levanta a mão que você preferirem, tá bom? Fiquem à vontade."
+      },
+      {
+        "startTime": 449,
+        "endTime": 478,
+        "speaker": "Carlos Stoppa",
+        "text": "Então desde o treinamento que o Diego fez junto com o time, né? A gente já tem aqui a entrada de 87 parceiros novos oito deles estão verificados, né? Que que significa verificado, o verificado é todo parceiro que respondeu o gerente com pelo menos três mensagens, então o meta né A empresa que gerencia o WhatsApp."
+      },
+      {
+        "startTime": 478,
+        "endTime": 498,
+        "speaker": "Carlos Stoppa",
+        "text": "Ele entende que é um contato confiável. Então, quando eu for trabalhar com Automação esse disparador em massa eu fazer uma automação para quem está verificado é muito mais seguro do que fazer um impacto de lista fria, tá bom? Essa verificação, ela é automática parceiro, manda três mensagens, né? Três linhas diferentes, ele já verifica e já faz a alteração da coluna novo para coluna de qualificação."
+      },
+      {
+        "startTime": 498,
+        "endTime": 554,
+        "speaker": "Carlos Stoppa",
+        "text": "Todos os parceiros que estão em novo podem ser parceiros que receberam a primeira mensagem mas não retornaram o gerente ali com três mensagens ou mais. Tá então dessa base estão 79 parceiros de novo e os 18 restantes aí estão na base de qualificação. Aqui na página inicial, vocês podem tanto utilizar essa visualização de board, né? Que eu botei as colunas e os parceiros alocados em cada uma delas ou também eu posso colocar aqui para exibir por tabela."
+      },
+      {
+        "startTime": 554,
+        "endTime": 585,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí eu posso filtrar por coordenador por coluna por origem por organização, né? Que são as imobiliárias a gente pode fazer esse cadastro dentro do sistema ou até mesmo a data dessa oportunidade, né? Quando que esse parceiro entrou. Ah, eu quero filtrar só os parceiros que entraram de um de Janeiro até o dia de hoje."
+      },
+      {
+        "startTime": 585,
+        "endTime": 580,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu consigo colocar aqui a data de início a data de fim. E aqui também tem um campo, né? A gente consegue adicionar que eu posso filtrar pelo campo dinâmico. Que que significa os campos dinâmicos, né? Ele é uma configuração dentro do sistema aqui nessa aba de configurações. E para que que serve o campo dinâmico Campo dinâmico, eles são os campos de qualificação do corretor."
+      },
+      {
+        "startTime": 580,
+        "endTime": 603,
+        "speaker": "Carlos Stoppa",
+        "text": "Então quais dados vocês entendem como GT como empresa são relevantes eu ter esse registro aqui dentro pensando em alguma ação futura para facilitar o preenchimento de uma venda então existem vários Campos que vocês podem ter de qualificação desse corretor e a gente pode acabar criando ele aqui tanto para segregar ele numa automação e uma comunicação quanto também para qualificar os dados dele, né? Para eu saber quem é aquele corretor que é parceiro e trabalha com a gente hoje."
+      },
+      {
+        "startTime": 603,
+        "endTime": 627,
+        "speaker": "Carlos Stoppa",
+        "text": "Então nessa base a gente tem criado aqui, por exemplo hoje o campo do cresce e data de nascimento eu poderia também criar por exemplo aqui um campo de Regional de atuação para saber em qual parte do nosso Estado de atuação do nosso país esse corretor atua. Então vou criar aqui uma lista múltipla só com dois exemplos aqui um zona sul e um Zona Norte."
+      },
+      {
+        "startTime": 627,
+        "endTime": 648,
+        "speaker": "Carlos Stoppa",
+        "text": "A gente esses modelos aqui, mas ele é muito flexível, você pode personalizar os campos de acordo com as respostas que você quer enxergar dentro do sistema. Ah, eu quero colocar aqui da nossa Regional a capital quero colocar duas cidades que são pontos chaves para a gente pode ir colocando aqui também, tá pode manipulando todos esses campos aqui não tem nenhum problema."
+      },
+      {
+        "startTime": 648,
+        "endTime": 720,
+        "speaker": "Carlos Stoppa",
+        "text": "A parte boa de eu criar Campos dinâmicos e terem estudado qualificado dentro da plataforma é que na página inicial vou até atualizar a página para você dar uma olhadinha. Ele serve de filtro então eu posso filtrar aqui para o Regional de atuação que seja igual a zona sul todos os meus corretores que estiverem essa qualificação preenchida, eu vou conseguir enxergar ele se eu não tiver ninguém com essa qualificação é preenchida, né nessas opções que estão criadas ele vai aparecer em branco, tá? Então o legal de ter Campo dinâmicos é a gente sempre orientar os gerentes de parceria a preencherem o sistema fazer essas perguntas para saber quem é aquele parceiro pensando aí também em futuros lançamentos fazer uma comunicação direta para alguém que atua com aquele produto é alguns exemplos de Campo dinâmicos, né? Crescendo a região que ele atua é aquele corretor tem carteira de investidor ou não? Ele atua com minha casa minha vida com alto padrão a gente poder se agregar direcionar um produto para aquela pessoa que tem potencial de venda não adianta a gente vender."
+      },
+      {
+        "startTime": 720,
+        "endTime": 740,
+        "speaker": "Carlos Stoppa",
+        "text": "Na minha vida respondendo para produzir econômicos. Então essa orientação, né para o sistema, né? Esse dado preenchido dentro do Nosso corretor é muito importante aqui não tem limite tá depois que vocês quiserem pensar em mais alguns outros Campos a gente pode criar quantos forem necessários, eles vão refletir como eu mostrei né tanto aqui no filtro na página inicial."
+      },
+      {
+        "startTime": 740,
+        "endTime": 760,
+        "speaker": "Carlos Stoppa",
+        "text": "Deixa eu só limpar o filtro novamente. Tanto também dentro dos parceiros, vou abrir esse corretor Pires aqui, ó. Então a Regional de atuação que eu acabei de criar ela também cria dentro do parceiro, a gente consegue saber dentro do parceiro, quem tá qualificado e quem não tá tá bom."
+      },
+      {
+        "startTime": 760,
+        "endTime": 792,
+        "speaker": "Carlos Stoppa",
+        "text": "Aqui na própria página inicial, né? Esses cardzinhos cada um representa um parceiro é aquilo Luiz Felipe Jéssica Pires Ariel e assim por diante nesse Quadradinho arredondada que a gente tem a origem dele. Eu vou até abrir aqui o Luiz Felipe ele veio do órgão. Então aqui é enviado a mensagem automática em nome do gerente de parcerias no caso desse Luiz caiu para Cibele."
+      },
+      {
+        "startTime": 792,
+        "endTime": 806,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí foi enviar a mensagem. Olá Luiz Felipe de Oliveira Batista é o nome dele cadastrado no órgão vi que você visitou o produto. O som Ecoville no órgão sou Cibele gerente de parcerias da GT building se precisar de algo conte comigo. Aqui o que aconteceu. Ele deve ter algum tipo de automação lá também ou de mensagem automática de boas-vindas."
+      },
+      {
+        "startTime": 806,
+        "endTime": 812,
+        "speaker": "Carlos Stoppa",
+        "text": "Acabou ele recebeu essa mensagem né? Mas aí a CBL Ainda não fez esse feedback com ele dentro do sistema, pode fazer."
+      },
+      {
+        "startTime": 815,
+        "endTime": 822,
+        "speaker": "Zemyr Werner",
+        "text": "É esse Luiz Felipe, aí ele veio ele se identificou em qual imobiliária ou ele."
+      },
+      {
+        "startTime": 822,
+        "endTime": 831,
+        "speaker": "Carlos Stoppa",
+        "text": "É aqui ele entrou. Deixa eu ver aqui. Esse dado ele não veio para cá se ele imobiliário ou se ele autônomo, ele procurou o produto sobre"
+      },
+      {
+        "startTime": 831,
+        "endTime": 833,
+        "speaker": "Zemyr Werner",
+        "text": "porque"
+      },
+      {
+        "startTime": 833,
+        "endTime": 833,
+        "speaker": "Carlos Stoppa",
+        "text": "Ecoville."
+      },
+      {
+        "startTime": 833,
+        "endTime": 840,
+        "speaker": "Zemyr Werner",
+        "text": "É porque assim a minha preocupação aqui segregar Os canais, né?"
+      },
+      {
+        "startTime": 840,
+        "endTime": 840,
+        "speaker": "Carlos Stoppa",
+        "text": "tá"
+      },
+      {
+        "startTime": 840,
+        "endTime": 867,
+        "speaker": "Zemyr Werner",
+        "text": "tudo que for competência de imobiliárias parceiras Que eu acho que tem algum Campo aí que a gente vai se cadastrado, não nosso que fazê-lo para Cibele. Eu acho que no filtro de vocês quando o cara fosse cadastrado geralmente. Vocês perguntam se ele tá atrelado algum Imobiliária se ele é autônomo ou não isso não existe."
+      },
+      {
+        "startTime": 867,
+        "endTime": 871,
+        "speaker": "Carlos Stoppa",
+        "text": "É lá dentro do Ouro, eu posso confirmar se esse dado ele vem na integração?"
+      },
+      {
+        "startTime": 871,
+        "endTime": 878,
+        "speaker": "Zemyr Werner",
+        "text": "Porque só para saber se tá caindo no canal correto, esse cara isso é um autônomo que deveria para Leila e não para a cidade."
+      },
+      {
+        "startTime": 879,
+        "endTime": 887,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá então hoje na GT tem a separação pelo tipo de pessoa, né? Então Imobiliária é uma pessoa autônoma e outra pessoa, né?"
+      },
+      {
+        "startTime": 888,
+        "endTime": 901,
+        "speaker": "Zemyr Werner",
+        "text": "Tem vários corretores? E os autônomos tem um nome específico dele, então, eu acho que a gente tem que se concentrar um pouco assim o universo de parceiras"
+      },
+      {
+        "startTime": 901,
+        "endTime": 904,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 904,
+        "endTime": 909,
+        "speaker": "Zemyr Werner",
+        "text": "Imobiliária x y z, tudo que tiver fora."
+      },
+      {
+        "startTime": 909,
+        "endTime": 912,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá Leila, então a Cibele cuida das imobiliárias PJ."
+      },
+      {
+        "startTime": 912,
+        "endTime": 913,
+        "speaker": "Zemyr Werner",
+        "text": "Exatamente as principais as"
+      },
+      {
+        "startTime": 913,
+        "endTime": 913,
+        "speaker": "Carlos Stoppa",
+        "text": "Deixa eu anotar aqui."
+      },
+      {
+        "startTime": 914,
+        "endTime": 923,
+        "speaker": "Zemyr Werner",
+        "text": "principais a Leila também tem imobiliárias, mas suas principais. seriam da cidade"
+      },
+      {
+        "startTime": 923,
+        "endTime": 941,
+        "speaker": "Carlos Stoppa",
+        "text": "É a gente só tem que matar isso porque na integração ele vai trazer tudo, né tanto as principais quanto as Gerais né? E aí eu não tenho como se agregar por exemplo se bater a Imobiliária Lopes vai para Cibele. Porque aí eu teria que ter algum outro cadastro para poder validar algum documento."
+      },
+      {
+        "startTime": 941,
+        "endTime": 953,
+        "speaker": "Carlos Stoppa",
+        "text": "Porque eu posso ter por exemplo o Lopes só o Lopes postei Lopes posso ter Lopes Prime, eu como é que eu vou diferenciar cada uma das imobiliárias, mas aí a gente tem desse dado pelo menos chegando aqui dentro nem elas transfiram entre si"
+      },
+      {
+        "startTime": 953,
+        "endTime": 955,
+        "speaker": "Zemyr Werner",
+        "text": "Legal é que é importante."
+      },
+      {
+        "startTime": 955,
+        "endTime": 982,
+        "speaker": "Carlos Stoppa",
+        "text": "já funciona bem. Tá mas eu vou mapear isso aqui com o time do orla, aí eu retorno para vocês também essa esse dado ele é autônomo. Perfeito bom vai vir os dados preenchidos, né? O e-mail o telefone o nome completo dele e aí eu posso criar uma organização para ele, então vamos dizer que ele tá cadastrado no órgão como autônomo, mas ele representa a Z2 a imobiliária eu poderia criar uma organização principal parceiro também, tá?"
+      },
+      {
+        "startTime": 982,
+        "endTime": 984,
+        "speaker": "Zemyr Werner",
+        "text": "Eu acho que ele só só um pouquinho ali pelo e-mail. Acho que a gente"
+      },
+      {
+        "startTime": 984,
+        "endTime": 986,
+        "speaker": "Carlos Stoppa",
+        "text": "opa"
+      },
+      {
+        "startTime": 986,
+        "endTime": 990,
+        "speaker": "Zemyr Werner",
+        "text": "matou esse meio aqui oliveira@mac é dele."
+      },
+      {
+        "startTime": 990,
+        "endTime": 990,
+        "speaker": "Carlos Stoppa",
+        "text": "Isso é dele."
+      },
+      {
+        "startTime": 992,
+        "endTime": 1000,
+        "speaker": "Zemyr Werner",
+        "text": "Então isso aqui é mapa imobiliária."
+      },
+      {
+        "startTime": 1000,
+        "endTime": 1001,
+        "speaker": "Carlos Stoppa",
+        "text": "isso é acho que"
+      },
+      {
+        "startTime": 1002,
+        "endTime": 1010,
+        "speaker": "Zemyr Werner",
+        "text": "Pelo e-mail a gente consegue detectar. Um canal aí eventualmente."
+      },
+      {
+        "startTime": 1011,
+        "endTime": 1065,
+        "speaker": "Carlos Stoppa",
+        "text": "De filtragem legal dá para a gente poder entender também o se tem algum vínculo, né? A organização dele conhecer meio a gente pode entender isso juntos também. Bom vem o telefone a data que ele foi criado, né? Que ele foi integrado dentro do sistema e a origem é do lado direito, vocês vão conseguir enxergar todo esse histórico de mensagens entre a Cibele e no caso o Luiz que é esse Líder aqui de Corretor, Parceiro, então tudo que for verde é a Cibele nosso time."
+      },
+      {
+        "startTime": 1065,
+        "endTime": 1085,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí o que tiver em branco é o Luiz respondendo como Corretor Parceiro. Aqui os dados dele não estão preenchidos tá de crença da data de nascimento região de atuação. A Cibele pode preencher também, manualmente tá? Não tem problema. E aí com permissão Claro a Cibele como é a carteira dela ela consegue enviar a mensagem do próprio sistema partindo para o Luiz, mas por exemplo seus Emily quiser mandar mensagem para o Luiz Felipe de Oliveira em nome da Cibele."
+      },
+      {
+        "startTime": 1085,
+        "endTime": 1096,
+        "speaker": "Carlos Stoppa",
+        "text": "Ele também consegue porque a Cibele tá integrada a nossa E a e aí, ele pode mandar por exemplo Promoção especial do nosso produto sou Ecoville. E aí ele consegue mandar Como Se Fosse A Cibele com conversando com esse gerente de parcerias. Desculpa com o corredor parceiro, então tem essa facilidade aqui é uma permissão você enviar mensagem em nome de outra pessoa, tá? Se tiver mal alguém em cima da hierarquia também precisar fazer esse tipo de ação, a gente pode liberando por perfil também."
+      },
+      {
+        "startTime": 1096,
+        "endTime": 1144,
+        "speaker": "Carlos Stoppa",
+        "text": "É aqui em oportunidade, a gente pode registrar as vendas vinculadas a esse parceiro então Digamos que o Luiz foi aqui vendeu o produto casa Milano, ele vendeu no valor de 800.000. Ele vendeu para o cliente Carlos a unidade 101. Adicionei a venda então o bom de você ter um sistema focada no parceria se você consegue ver o quanto que tá te trazendo de retorno este canal de parcerias porque eu registrei a venda aqui no parceiro que vendeu é bem simples está de fere muito de um CRM o cadastro mas no dashboard eu consigo ver no meu mês a mês quem foi que vendeu quem é o meu corretor que mais interage o quanto que trouxe de vgv ele cria também esse ranking por coordenador."
+      },
+      {
+        "startTime": 1144,
+        "endTime": 1195,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah então entre a Cibele e usa nela, quem vendeu aqui no mês de janeiro. Ah Cibele trouxe um vgb de 800 mil por enquanto usando ela não trouxe nenhum real ainda por enquanto para a gente, mas a gente poder entender também como esse canal tá crescendo. Teve alguma dificuldade do gerente em preencher a ferramenta ou se foi no dia a dia mesmo de fazer a venda de fato não recebeu leads bons, né de parceiros."
+      },
+      {
+        "startTime": 1195,
+        "endTime": 1219,
+        "speaker": "Carlos Stoppa",
+        "text": "Enfim, pode sempre tentando dar mais ferramenta e empoderamento para o gerente. utilizar Aqui a gente vai ter relatório, né? É? Quantos contatos vieram pela origem do órgão e quando foram de cadastro manual que até ficam um pontinho de alerta para nós é existe a integração os parceiros estão entrando aqui do cadastro do órgão, mas do cadastro manual é uma adesão muito baixa ainda então creio eu que a Cibele tem uma carteira que a outra gerente também tem uma carteira de corretores e Elas podem divulgar essa novidade que ele que vocês estão utilizando na GT agora então até de próximos passos que a gente vai falar no final marcar uma reunião com a Cibele e a outra gerente para a gente poder ter ali os próximos passos de falar."
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1250,
+        "speaker": "Carlos Stoppa",
+        "text": "Olha gente a gente tá com todo o sistema polido, né validado. O time já tá sabendo como vai utilizar a ferramenta é legal vocês divulgarem a facilidade que vocês têm porque a ferramenta em si, ela vai auxiliar ela no dia a dia ela não vem para substituir então falar olha para o seu corretor aqui que te pede todo dia o material você ensinar ele a usar o arroba Zé e pedir o material do Milano é mais fácil do que você parar procurar o material em algum drive algum repositório e enviar para essa pessoa então."
+      },
+      {
+        "startTime": 1250,
+        "endTime": 1286,
+        "speaker": "Zemyr Werner",
+        "text": "Eu vejo eu vejo que até a própria título de contribuição a própria experiência desses corretores que estão indo através da hora. Estão se cadastrando. E vocês estão direcionando tanto para Cibele quanto Paralela? Sirva de um exemplo de ganso para que elas Olha isso aqui não facilitou a vida de vocês e vocês entenderem a demanda entenderam? Quem você tem que correr, esse é um ponto o segundo o segundo ponto que eu conversei com a Cris esses dias, né? Na tentativa de tentar ajudá-los."
+      },
+      {
+        "startTime": 1286,
+        "endTime": 1297,
+        "speaker": "Zemyr Werner",
+        "text": "A fazer esse cadastro o duro que está no Whats dela, como é que a gente conseguiria migrar isso? para dentro do sistema"
+      },
+      {
+        "startTime": 1300,
+        "endTime": 1314,
+        "speaker": "Carlos Stoppa",
+        "text": "antecipando essa próxima reunião, elas podem mandar uma roupa Zé e o nome da pessoa colocar aqui usa nela como por exemplo. Porque ele vai cadastrar é como se fosse eu como gerente de parcerias conversando com os nela no WhatsApp. Eu mando lá @se eu tô acionando"
+      },
+      {
+        "startTime": 1314,
+        "endTime": 1316,
+        "speaker": "Zemyr Werner",
+        "text": "Então é rápido."
+      },
+      {
+        "startTime": 1316,
+        "endTime": 1329,
+        "speaker": "Carlos Stoppa",
+        "text": "a E aí eu cadastro a pessoa com o nome Luiz Gustavo Zanella. Tá. E aí é bem rápida assim na mesma hora, ele já retorna uma mensagem que eu já ia chegar lá no final da reunião, mas eu vou falar sobre ela agora."
+      },
+      {
+        "startTime": 1329,
+        "endTime": 1330,
+        "speaker": "Zemyr Werner",
+        "text": "Não tudo bem"
+      },
+      {
+        "startTime": 1330,
+        "endTime": 1356,
+        "speaker": "Carlos Stoppa",
+        "text": "Que essa daqui ó. Para ser incluído com sucesso então quando eu mando lá rouba Zé Luiz Gustavo Zanella automaticamente aí Ah, ela é ativada, né? E ela já vai responder aqui que o parceiro Luiz foi cadastrado com sucesso. E aí o que eu vou até sugerir para elas assim é ao invés de só falar que foi incluído no sistema é a gente dá um boas-vindas seja bem-vindo ao canal de parceria da GT."
+      },
+      {
+        "startTime": 1356,
+        "endTime": 1375,
+        "speaker": "Carlos Stoppa",
+        "text": "Agora você está conectado a nossa e a um benefício exclusivo para os parceiros GT. Se você mandar uma roupa Zé na nossa conversa agora todos os materiais do Podem ser enviados para você e claro que estou à disposição, então a gente pode criar um roteirinho aqui para induzir a pessoa utilizar a ferramenta."
+      },
+      {
+        "startTime": 1375,
+        "endTime": 1376,
+        "speaker": "Carlos Stoppa",
+        "text": "Então vira uma."
+      },
+      {
+        "startTime": 1376,
+        "endTime": 1379,
+        "speaker": "Zemyr Werner",
+        "text": "bacana"
+      },
+      {
+        "startTime": 1379,
+        "endTime": 1422,
+        "speaker": "Carlos Stoppa",
+        "text": "Uma divulgação meio que orgânica né natural porque atacadastrando as pessoas e ela Tá incentivando a pessoa a utilizar. E aí conforme a gente vai fazendo acompanhamento a gente vai sugerindo para elas como gerente é dar algumas mecânicas para o próprio corretor falou aqui na nossa conversa tem o Zé o Zé ele é um assistente de a nossa aqui, você pode utilizar ali como GPT na nossa conversa ou se você preferir também criar lembretes, ó, eu vou te mandar os documentos da nossa venda até o dia 15 de janeiro, então Ó Zé cria para mim um lembrete aqui para falar com os e-mails no dia 15 de Janeiro para ele entregar os documentos da venda, então a gente munir ela de possibilidades de função."
+      },
+      {
+        "startTime": 1422,
+        "endTime": 1440,
+        "speaker": "Carlos Stoppa",
+        "text": "Acho que vai dar muito valor para as duas no dia a dia é mais para elas entende? Rem que é um assistente que é acho que o medo de toda pessoa é hoje quando vai implantar uma Iah é aquela substitua a gente né? Então a gente dá ferramenta para ela descobrir a funcionalidades e ver que ajuda o dia a dia."
+      },
+      {
+        "startTime": 1440,
+        "endTime": 1443,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá mas a gente faz vamos sempre se alinhando aí. Fiquem tranquilos que"
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1443,
+        "speaker": "Zemyr Werner",
+        "text": "Aqui não é só isso aqui aqui tem."
+      },
+      {
+        "startTime": 1443,
+        "endTime": 1444,
+        "speaker": "Carlos Stoppa",
+        "text": "eu"
+      },
+      {
+        "startTime": 1444,
+        "endTime": 1446,
+        "speaker": "Zemyr Werner",
+        "text": "uma outra conotação hoje"
+      },
+      {
+        "startTime": 1446,
+        "endTime": 1447,
+        "speaker": "Carlos Stoppa",
+        "text": "tá"
+      },
+      {
+        "startTime": 1448,
+        "endTime": 1484,
+        "speaker": "Zemyr Werner",
+        "text": "coordenadoras de canais. São como é que posso dizer preservadas dentro da característica de entendimento delas que elas. Se eu sair ou se a gente tirar do campo eu levo toda a minha base. E a Interpretação então elas perdem a importância. De ter esse trabalho conquistaram ao longo dos anos, esse é o maior quebra de paradigma na cabeça dela."
+      },
+      {
+        "startTime": 1486,
+        "endTime": 1532,
+        "speaker": "Carlos Stoppa",
+        "text": "Aí tem um ponto importante assim, mas para a gente discutir assim como empresa não diretamente com elas porque a gente que tá patrocinando a plataforma para elas, né? Vocês que dão a ferramenta para utilizar, por exemplo do órgão que é o Marketplace dos produtos de vocês que elas vendem hoje então eu trazer esse parceiro para a mão dela."
+      },
+      {
+        "startTime": 1532,
+        "endTime": 1529,
+        "speaker": "Carlos Stoppa",
+        "text": "Assim que ela precise acessar o órgão baixar o relatório cadastrar manualmente um por um chamar uma pessoa no WhatsApp, até que entender que esse parceiro é da GT. E se ela for embora amanhã ou depois claro que ela vai levar isso como carteira. Mas dependendo do relacionamento que ela cria aqui dentro no GT, ela pode ficar com esse parceiro ou parceiro pode querer trocar de gerente por não ter sido bem atendido."
+      },
+      {
+        "startTime": 1529,
+        "endTime": 1560,
+        "speaker": "Carlos Stoppa",
+        "text": "Uma boa experiência, então é como a gente fala, né? A gente tem medo de substituído, mas se você faz um bom trabalho fica o seu legado, né? Querendo ou não você saindo da empresa ou continuando fica né? Essa marca a Cibele atendeu super bem a gente na GT foi para outra empresa, eu posso ser atendido por ela lá, mas na GT eu tenho uma ótima experiência de usar o Zé uma iaca assistente, eu tenho tudo na mesma hora então eu acho que é mais fácil."
+      },
+      {
+        "startTime": 1560,
+        "endTime": 1577,
+        "speaker": "Carlos Stoppa",
+        "text": "Essa conveniência que o canal de parcerias traz do que a sensação delas terem o medo de serem substituídas ou serem demitidas por algum motivo, mas a gente vai sempre evoluindo com ela para dar segurança, né não ser uma implantação uma adesão tão agressiva, já que tem essa pequena resistência."
+      },
+      {
+        "startTime": 1577,
+        "endTime": 1596,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá mas a gente vai sempre conversando e Fiquem tranquilos. Então vai ter essa parte de dashboard, né de relatório para que vocês possam enxergar né os dados da ferramenta o que tá gerando de valor e vamos sempre acompanhando esses números para dar esse feedback para vocês também. E aí só voltando para a parte de configuração, né? Eu só vou remover essa venda aqui para não sujar o teste de vocês."
+      },
+      {
+        "startTime": 1596,
+        "endTime": 1612,
+        "speaker": "Carlos Stoppa",
+        "text": "Beleza parceiro aquele acessou pelo sol Ecoville ou foi no dia de hoje, né meio de 45. Se esse parceiro ele entrar por outros produtos de vocês também, ele vai registrar essa informação, tá? Porque a gente consegue saber a movimentação que esse parceiro ele tá procurando algum produto da GT para vender."
+      },
+      {
+        "startTime": 1612,
+        "endTime": 1638,
+        "speaker": "Carlos Stoppa",
+        "text": "Então até esse score que ele vai montar a gente tem esse filho e Pega na mesma hora, pode ser que ele tem um parceiro um cliente quente, né de venda, ele tá procurando um produto na regional ou alguma característica específica é muito mais do gerente ter esse follow up aqui e questionar, olha vê que você acessou."
+      },
+      {
+        "startTime": 1638,
+        "endTime": 1665,
+        "speaker": "Carlos Stoppa",
+        "text": "O Ecoville é um produto x y z tem a condição especial para quem é parceiro então algumas formas de abordagem. Que ela possa ter ela pode saber até mesmo se ele tem um cliente pronto para comprar o produto de vocês. E aí também, né? A gente pode até definir algum em algum acompanhamento como atividade mesmo para que elas possam preencher a informação no sistema para poder dar essa visibilidade para vocês como empresa."
+      },
+      {
+        "startTime": 1665,
+        "endTime": 1706,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah então a Cibele Foi numa Imobiliária e fez um treinamento sobre a mas ela falou sobre o Milano e falou sobre o botânico. E aí ela pode registrar essa informação até questões de feedback interno, não sei como funciona essa rotina para vocês, mas ela pode falar olha no dia certidão, mas as 4:30 eu fui lá na imobiliária x que é o Luiz é o responsável e eu treinei lá o pessoal sobre três produtos, deixei um book deixei material de consulta para eles poderem divulgar nossos produtos então conforme a gente for trabalhando com a ferramenta a gente vem com muitas boas práticas de mercado."
+      },
+      {
+        "startTime": 1706,
+        "endTime": 1718,
+        "speaker": "Carlos Stoppa",
+        "text": "Aí ela sempre compartilhando com vocês o que algumas empresas fazem se é legal a gente aplicar aqui dentro se você tem alguma ideia de como vocês aplicam hoje. Enfim, então é super interessante deixar essa informação aqui dentro. Porque o dado fica para vocês e aí o que eu levo o diário argumento para gerente que tá na ponta é isso aqui, ó, é o agendar envio."
+      },
+      {
+        "startTime": 1718,
+        "endTime": 1744,
+        "speaker": "Carlos Stoppa",
+        "text": "Então, por exemplo, ela fez aqui a visita na imobiliária treinou três produtos e ela quer marcar para semana que vem é mais outros três produtos ela pode vir aqui Janeiro de 2025 só achar aqui 2025. Vou colocar aqui no dia 13 e vou adicionar um comando Olá Luiz. Gostaria de agendar um novo."
+      },
+      {
+        "startTime": 1744,
+        "endTime": 1793,
+        "speaker": "Carlos Stoppa",
+        "text": "treinamento sobre os nossos três Novos Produtos E agradeço pela nossa reunião no dia 7. Foi muito produtiva um exemplo então aqui ela vai criar como se fosse relacionamento em nutrição. E aí o que vai acontecer basicamente no dia 13 de 2025 em janeiro agora as 4:30 ele vai disparar essa mensagem ou poderia ser 9 da manhã para ela agendar para o mesmo dia para o dia seguinte, então isso daqui traz uma facilidade para ela de parar de usar bloco de notas e falar assim, nossa tinha que agendar com Luiz da imobiliária x que eu tinha que ir lá na segunda-feira e eu não marquei."
+      },
+      {
+        "startTime": 1793,
+        "endTime": 1834,
+        "speaker": "Carlos Stoppa",
+        "text": "Então você cria né a expectativa na pessoa e se você não cumpre gera ali um pequeno desgaste, né? Mas aí ela registra a atividade que ela fez no dia e ela programa. O próximo passo vira como se fosse um CRM, né? Querendo ou não o canal de parcerias ele é como se fosse o a relação com o lide, você tem que trazer o parceiro mostrar benefício trazer conveniência para ele para ele sempre lembrar dos anella que é o gerente de parcerias na GT um exemplo, né? Então esses próximos passos também são bem interessantes, ele registra Duas atividades a que você criou agora de treinamento e o próximo passo fica se lembrete no parceiro então É bem interessante."
+      },
+      {
+        "startTime": 1834,
+        "endTime": 1850,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí também executa automaticamente, né? De acordo com a programação que ela fez ela pode colocar um vídeo. Pode colocar uma imagem um documento ou a localização fica muito a critério de cada um dos gerentes dessa comunicação que eles vão criar a gente pode criar junto com eles tá os modelos, né? Que são alguns textos pré-definidos que fala assim."
+      },
+      {
+        "startTime": 1850,
+        "endTime": 1871,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah Carlos aqui eu faço sempre bastante confirmação de visita. Quero sempre confirmar visita com o meu com meu corretor e eu sempre mandam algum tempo. Tivo padrão para ele que eu peço o nome dele o nome do cliente e o telefone dele. Um exemplo então a gente pode sempre criar o modelo para facilitar o dia de ser mais ágil também."
+      },
+      {
+        "startTime": 1871,
+        "endTime": 1889,
+        "speaker": "Carlos Stoppa",
+        "text": "Bom ali na parte de contato se alguém tiver alguma dúvida, pode ficar à vontade tá? Já vou passando aqui para o próximo tópico que é o de organizações que é onde nós podemos criar as imobiliárias. Então vamos dizer que eu tenho aqui uma imobiliária chamada z2a e essa Imobiliária ela tem 50 corretores."
+      },
+      {
+        "startTime": 1889,
+        "endTime": 1915,
+        "speaker": "Carlos Stoppa",
+        "text": "Então o que eu posso fazer aqui é definir. Quem que é o responsável por aquele Imobiliária? Então eu vou ter o cadastro desse corretor. E aí eu consigo também cadastrar todos os outros 50 corretores que pertencem aquela Imobiliária. E aí a parte boa que eu faço um vínculo de todos os 50 a imobiliária z2a pensando em filtro saber se essa Imobiliária performa bastante com a gente e até mesmo na automação."
+      },
+      {
+        "startTime": 1915,
+        "endTime": 1940,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah, vamos lançar um empreendimento aqui e vamos ter imobiliárias exclusivas, então você pode fazer uma comunicação já automação e disparar uma peça convidando aquela Imobiliária específica e todos os seus corretores prometem para um evento de lançamento, tá? Aqui é bem simples, o preenchimento é só definir quem é o a pessoa é responsável pela imobiliária social nome fantasia CNPJ."
+      },
+      {
+        "startTime": 1940,
+        "endTime": 1972,
+        "speaker": "Carlos Stoppa",
+        "text": "Aqui não é obrigatório tá? Só o que tiver estrelinha. Esse é para o endereço dessa Imobiliária para você ter essa informação também dentro do sistema. Coloquei aqui um eu endereço da minha casa hoje, só que tá Como ativo e você já cadastra na mesma hora essa Imobiliária, tá? É aqui nessa função de Whatsapp, vocês como administradores vão conseguir enxergar as conversas que tem dos gerentes, tá? Então aqui a gente consegue ver tá vendo tudo que a Jéssica tava conversando com a Cibele."
+      },
+      {
+        "startTime": 1972,
+        "endTime": 2013,
+        "speaker": "Carlos Stoppa",
+        "text": "Então falou de visita, ela falou que ia confirmar com o Pires e assim por diante, então a gente consegue enxergar todo esse histórico de mensagens tá? Então essa Jéssica aqui seria um bom parceiro para a gente poder ter um follow up. Então tá querendo marcar visita. Então ela pode registrar visita."
+      },
+      {
+        "startTime": 2013,
+        "endTime": 2048,
+        "speaker": "Carlos Stoppa",
+        "text": "Se ela já foi realizada ou não. E se ela vai acontecer em qual disso vai acontecer? Tá então é mais boas práticas de utilização mesmo. A gente vai sempre alinhando com elas. E aí na parte de atividades? Vai ter todo esse registro de informações que eles tiverem também, tá? Ele já vai ter algumas aqui de WhatsApp que é o envio do boas-vindas."
+      },
+      {
+        "startTime": 2048,
+        "endTime": 2038,
+        "speaker": "Carlos Stoppa",
+        "text": "Então já foi enviado. 85 boas-vindas para os parceiros que entraram aí a gente mais Entendeste se está tendo follow up, por exemplo aqui, ó, o Ederson recebeu boas-vindas da Leila, mas ele não respondeu e ela não deu um falou para ver se ele é parceiro de fato se ele tem alguma oportunidade para esse empreendimento a gente pode sempre manter o parceiro o mais atual."
+      },
+      {
+        "startTime": 2038,
+        "endTime": 2057,
+        "speaker": "Carlos Stoppa",
+        "text": "Possível né saber quem é ele se ele tá atuante ou não, né? Porque ele acabou procurando um produto de vocês. Então, vocês vão sempre conseguir enxergar aqui as atividades que forem criadas e de acordo com a tipologia que elas estão registrando no sistema a Registro visita registrou treinamento registrou atendimento."
+      },
+      {
+        "startTime": 2057,
+        "endTime": 2088,
+        "speaker": "Carlos Stoppa",
+        "text": "Não sei se a diferença para vocês. E aí define Filter também, né? Por data de início data de fim e até mesmo pelo coordenador. Que eu consigo saber se o coordenador está registrando informação dentro do sistema. Automação a gente vai falar bastante com elas nessa parte de relacionamento, né de como elas podem criar nutrição para informar o mercado de alguma novidade da GT então um exemplo de automação, né? Eu quero criar aqui um convite de um meeting de um lançamento."
+      },
+      {
+        "startTime": 2088,
+        "endTime": 2117,
+        "speaker": "Carlos Stoppa",
+        "text": "De lançamento colocar aqui GT. Aí eu quero que seja um disparo único, né para disparar uma única vez, eu quero que ele inicie hoje no dia sete do um de 2024 de 2025. Eu quero aquele disparar 17 horas, eu quero impactar todos os meus parceiros na coluna de qualificação ou de novo ou de uma imobiliária específica ou só quem veio do Orla."
+      },
+      {
+        "startTime": 2117,
+        "endTime": 2134,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu quero comunicar que agora tem uma promoção para o corretor que veio do órgão ganha r$ 500 de comissão a mais um exemplo. Então vai trabalhar com vários tipos de filtragem para fazer aquela Como eu disse no começo, né uma comunicação mais assertiva sobre o produto sobre o convite está sendo realizado."
+      },
+      {
+        "startTime": 2134,
+        "endTime": 2169,
+        "speaker": "Carlos Stoppa",
+        "text": "E aqueles vão definir o que vai ser enviado até tem uma partezinha que o marketing pode auxiliar na criação de peças, a gente vai sempre é fazendo essa boa prática aqui de comunicar o mercado de novidade de oportunidades. Então vou colocar um exemplo aqui. Convite de emite. E aí toda a comunicação elas podem também definir a linguagem que vai ser utilizada o texto você vai com emoji, se não vai com emoji, você não vai ser uma imagem vai ser um vídeo."
+      },
+      {
+        "startTime": 2169,
+        "endTime": 2195,
+        "speaker": "Carlos Stoppa",
+        "text": "Então como a criação do agendamento as facilidades aqui também de criar de acordo com a peça desejada. Então, eu quero mandar aqui uma imagem e quero mandar a localização do estande onde vai acontecer o evento então. Aqueles podem sempre preenchendo que ele vai criar certinho esse template. E aí ele vai criar esse preview aqui dentro, né? Aqui ó, eu vou selecionar a Leila como coordenadora de exemplo."
+      },
+      {
+        "startTime": 2195,
+        "endTime": 2196,
+        "speaker": "Carlos Stoppa",
+        "text": "E vou colocar para criar o que vai acontecer, pode falar."
+      },
+      {
+        "startTime": 2196,
+        "endTime": 2207,
+        "speaker": "Zemyr Werner",
+        "text": "Por exemplo. Por exemplo, o nosso nós temos agora uma programação de GP Express. Ões a 29 de Janeiro se eu quiser"
+      },
+      {
+        "startTime": 2207,
+        "endTime": 2208,
+        "speaker": "Carlos Stoppa",
+        "text": "legal"
+      },
+      {
+        "startTime": 2208,
+        "endTime": 2211,
+        "speaker": "Zemyr Werner",
+        "text": "colocar um White por aqui é possível."
+      },
+      {
+        "startTime": 2211,
+        "endTime": 2214,
+        "speaker": "Carlos Stoppa",
+        "text": "Pode assim, vai seria um convite."
+      },
+      {
+        "startTime": 2214,
+        "endTime": 2228,
+        "speaker": "Zemyr Werner",
+        "text": "É um convite para ele poder participar pelo menos convidando para tirar credencial. Em algum momento vai ter o aproach pessoa pessoa ou ele vai vir até AGP enfim."
+      },
+      {
+        "startTime": 2229,
+        "endTime": 2273,
+        "speaker": "Carlos Stoppa",
+        "text": "Dá para fazer dá para fazer ó, por exemplo aqui, eu usei a Leila como exemplo, né? E aí eu tô fazendo um filtro só para quem está na coluna novo e quem veio de origem. Eu vou impactar 43 pessoas da carteira dela, tá vendo eu consigo impactar todas as pessoas aqui eu coloco a comunicação assertiva que é um evento interessante para o parceiro do mercado e se ele tiver interesse em uma informação aqui dentro por exemplo."
+      },
+      {
+        "startTime": 2273,
+        "endTime": 2301,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah para você pegar sua credencial acesse o link o link a seguir e tem essa esse cadastro com a gente é ou por exemplo, se você precisar da nossa credencial vem até a GT e retire presencialmente ganha uma sacolinha de brinde com caneta bloquinho. Enfim, não sei como vocês vão trabalhar essa comunicação, né? Tá dando alguns exemplos."
+      },
+      {
+        "startTime": 2301,
+        "endTime": 2305,
+        "speaker": "Carlos Stoppa",
+        "text": "Mas é possível sim ver só você definir essa peça e a gente coloca para rodar aqui automação, ele é um disparo cade. Matar para dar segurança para o telefone da gerente, então não tem o risco ali de por exemplo, ela impacta muitas pessoas e as conversas dela que tá no topo e tudo para baixo, ele vai sempre uma a cada cinco minutos e vai sempre notificando as pessoas do próprio gerente da gerente do próprio telefone da gerente de parcerias."
+      },
+      {
+        "startTime": 2305,
+        "endTime": 2316,
+        "speaker": "Carlos Stoppa",
+        "text": "Então é super tranquilo. Até mesmo quando vocês forem fazer essa comunicação, se quiser me acionar os nela a gente faz juntos também, tá? A gente coloca a configuração do disparo."
+      },
+      {
+        "startTime": 2316,
+        "endTime": 2320,
+        "speaker": "Zemyr Werner",
+        "text": "É que eu já tô aqui em paralelo falando com a Cristo."
+      },
+      {
+        "startTime": 2320,
+        "endTime": 2321,
+        "speaker": "Carlos Stoppa",
+        "text": "legal"
+      },
+      {
+        "startTime": 2321,
+        "endTime": 2332,
+        "speaker": "Zemyr Werner",
+        "text": "Ela ia anotando essas dicas porque eu quero usar esta ferramenta para poder mais rapidamente atingir o público. Que será convidado entendeu?"
+      },
+      {
+        "startTime": 2332,
+        "endTime": 2332,
+        "speaker": "Carlos Stoppa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 2332,
+        "endTime": 2336,
+        "speaker": "Zemyr Werner",
+        "text": "Principalmente para o que tange a plataforma?"
+      },
+      {
+        "startTime": 2336,
+        "endTime": 2337,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá ótimo perfeito."
+      },
+      {
+        "startTime": 2337,
+        "endTime": 2357,
+        "speaker": "Zemyr Werner",
+        "text": "Acho que o convite depois para as imobiliárias é um pouco diferente, porque lá eles vão selecionar os principais Consultores ao longo do ano se destacaram lá então não consegue colocar muitos Consultores tem uns 800 vagas."
+      },
+      {
+        "startTime": 2357,
+        "endTime": 2368,
+        "speaker": "Carlos Stoppa",
+        "text": "Perfeito dá para a gente fazer assim. Quando você tiver essa peça pronta toda essa essa estratégia, você me chama a gente faz junto. Aí eu disparo o nome da gerente aqui, eu crie o nome delas super tranquilo."
+      },
+      {
+        "startTime": 2368,
+        "endTime": 2369,
+        "speaker": "Zemyr Werner",
+        "text": "pessoal"
+      },
+      {
+        "startTime": 2369,
+        "endTime": 2390,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom. E aí só para a gente encerrar para falar das configurações, né? Que vocês vão manipular muita coisa aqui no sistema aqui na Caixa na caixinha aqui de empreendimentos é onde está configuração de todos os produtos de vocês hoje, tá? Então ele tem um espelhamento aqui com a base do oro, né? Então são nove produtos hoje."
+      },
+      {
+        "startTime": 2390,
+        "endTime": 2410,
+        "speaker": "Carlos Stoppa",
+        "text": "Aqui no editar empreendimento, né no lápis a gente vai ter aqui sempre um descritivo do produto esse descritivo. Ele é enviado para o corretor quando a gente manda o @se acionando aí a para explicar o que que é um pouquinho do amazo, o que que ele oferece de apartamentos as metragens os dormitórios as vagas de garagem."
+      },
+      {
+        "startTime": 2410,
+        "endTime": 2436,
+        "speaker": "Carlos Stoppa",
+        "text": "Totalmente personalizada você pode mudar o texto também tá para ficar maior ou menor, você vai muito de acordo com que vocês tenham de estratégia para poder falar sobre o produto. Aqui a gente tem esse aí do Ouro que é o ID que corresponde ao amasso dentro do órgão, então como eu sei que o parceiro dessa sou Amazing não acesso ao Milano por conta desse número aqui tá até dentro do óleo para vocês darem uma olhadinha, ele aparece aqui, ó."
+      },
+      {
+        "startTime": 2436,
+        "endTime": 2440,
+        "speaker": "Carlos Stoppa",
+        "text": "Esse é o código que a gente faz esse depara, né? Essa configuração."
+      },
+      {
+        "startTime": 2440,
+        "endTime": 2441,
+        "speaker": "Zemyr Werner",
+        "text": "ok"
+      },
+      {
+        "startTime": 2441,
+        "endTime": 2464,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá tem uma aí de customizado porque é o ID da lista do Z2 então ele vai sempre colocar o amasso como primeiro e vai listar todos os outros na ordem que está definida aqui dentro. E aí ele tem um pequeno contexto GPT aqui criado com localização tem aqui algumas tipologias detalhes dessa obra é bem tranquilo, então tudo que a gente eu tô mostrando aqui a gente consegue alterar tá na permissão de administrador."
+      },
+      {
+        "startTime": 2464,
+        "endTime": 2505,
+        "speaker": "Carlos Stoppa",
+        "text": "E aqui na parte de configurações, né? Que esse ícone de engrenagem a gente vai ter todos os materiais que estão disponibilizados para o corretor acessar via e a né então se eu mandei a roupa Zé e coloquei @se número um que é o número do a+ né ou Zé me mande os materiais do amasso, ele vai colocar aqui ó, segue apresentação e memorial descritivo do produto são dois arquivos, né de PDF."
+      },
+      {
+        "startTime": 2505,
+        "endTime": 2511,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí para ele acessar as perspectivas e as plantas a gente colocou o link do órgão que também traz essa aderência essa audiência lá para dentro do órgão e ver que tá povo. Ando ali e acaba divulgando o produto de vocês dentro do órgão também, tá? Então em todos a gente criou esse padrãozinho tá tanto do descritivo conta das configurações."
+      },
+      {
+        "startTime": 2511,
+        "endTime": 2523,
+        "speaker": "Carlos Stoppa",
+        "text": "E aí fica muito a critério de vocês querer colocar mais informações até com a gerentes. A gente pode bater esse papo para saber o que que elas mandam para o corretor que é muito pedido a"
+      },
+      {
+        "startTime": 2523,
+        "endTime": 2523,
+        "speaker": "Zemyr Werner",
+        "text": "boa"
+      },
+      {
+        "startTime": 2524,
+        "endTime": 2551,
+        "speaker": "Carlos Stoppa",
+        "text": "A gente manda bastante convenção de condomínio eu falo muito sobre IPTU nesse Condomínio sobre condomínio. A gente pode criar um contexto que fique fácil para ela chamar o Zé na conversa e ele responder também a informação que a solicitada com muita frequência. Tá em usuários a gente vai ter toda a parte de configuração de quem pode acessar a ferramenta tá lembrando que autenticação é sempre pelo número de telefone."
+      },
+      {
+        "startTime": 2551,
+        "endTime": 2587,
+        "speaker": "Carlos Stoppa",
+        "text": "Coloca o número de telefone, ele vai retornar um código no WhatsApp e vocês colocam um código para autenticar a plataforma. E aí todo mundo que tiver ativo vai poder acessar o sistema, se tiver alguém inativo não consegue utilizar da ferramenta tá em editar o usuário aqui, vou até usar da Cris como exemplo, eu posso definir o status ativo ou Inativo posso mudar a permissão dela posso mudar o grupo que ela pertence as equipes que ela vai enxergar é super tranquilo no caso da gerentes que é a Leila e a Cibele."
+      },
+      {
+        "startTime": 2587,
+        "endTime": 2599,
+        "speaker": "Carlos Stoppa",
+        "text": "Elas têm essa chave de integração aqui tá essa chave daqui são é o que vai dizer se ela tá cone. Ctada na nossa ya ou não no caso da Leila ela não tá tá como na aqui pode conectar ela também. Deixa eu ver aqui o da Cibele, por exemplo tá conectado."
+      },
+      {
+        "startTime": 2599,
+        "endTime": 2616,
+        "speaker": "Carlos Stoppa",
+        "text": "Então eu consigo garantir que a Cibele tá com o Zé funcionando tudo certinho então os comandos que ela realizar vai funcionar e essas chaves aqui, eu só peço para que vocês não alterem porque tem uma configuração no banco uma chave única para Cibele. Para não misturar as coisas, tá bom?"
+      },
+      {
+        "startTime": 2616,
+        "endTime": 2624,
+        "speaker": "Cristiane Rosa",
+        "text": "O Carlos a Leila não conseguiu entrar naquele treinamento que a gente fez com o Diego, né?"
+      },
+      {
+        "startTime": 2624,
+        "endTime": 2643,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá. Depois a gente pode até marcar um com ela, tá bom Cris? Não tem problema. Aí é o ministro para ela também, a gente coleta ela na mesma hora também e Já ensinei lá a utilizar a gente vai até marcar aqui deixar de próxima agenda um teste prático para poder ver como a Cibele tá utilizando e como a Leila tá utilizando também aí eu já"
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2643,
+        "speaker": "Cristiane Rosa",
+        "text": "tá"
+      },
+      {
+        "startTime": 2643,
+        "endTime": 2648,
+        "speaker": "Carlos Stoppa",
+        "text": "aproveito e já faço um mini treinamento com ela e já conecto ela ia também, tá bom?"
+      },
+      {
+        "startTime": 2648,
+        "endTime": 2649,
+        "speaker": "Cristiane Rosa",
+        "text": "tá"
+      },
+      {
+        "startTime": 2649,
+        "endTime": 2650,
+        "speaker": "Zemyr Werner",
+        "text": "Isso pode ser ainda essa semana."
+      },
+      {
+        "startTime": 2650,
+        "endTime": 2657,
+        "speaker": "Carlos Stoppa",
+        "text": "Claro você consegue quinta ou sexta-feira? Já foi na agenda agora?"
+      },
+      {
+        "startTime": 2657,
+        "endTime": 2662,
+        "speaker": "Zemyr Werner",
+        "text": "Eu acho que a gente pode jogar aí na sexta-feira de manhã."
+      },
+      {
+        "startTime": 2662,
+        "endTime": 2663,
+        "speaker": "Carlos Stoppa",
+        "text": "De manhã 10 horas."
+      },
+      {
+        "startTime": 2663,
+        "endTime": 2669,
+        "speaker": "Zemyr Werner",
+        "text": "Depois eu fecho com ela. Pode ser pode ser 9:30."
+      },
+      {
+        "startTime": 2671,
+        "endTime": 2672,
+        "speaker": "Carlos Stoppa",
+        "text": "Depois se puder me mandar o e-mail"
+      },
+      {
+        "startTime": 2672,
+        "endTime": 2681,
+        "speaker": "Zemyr Werner",
+        "text": "Então você consegue você não consegue colocar o invade para elas que você não tem ou tem cadastrado?"
+      },
+      {
+        "startTime": 2681,
+        "endTime": 2683,
+        "speaker": "Carlos Stoppa",
+        "text": "delas, eu consigo colocar elas aqui dentro."
+      },
+      {
+        "startTime": 2683,
+        "endTime": 2683,
+        "speaker": "Zemyr Werner",
+        "text": "fechou"
+      },
+      {
+        "startTime": 2683,
+        "endTime": 2685,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá já reservar aqui."
+      },
+      {
+        "startTime": 2685,
+        "endTime": 2689,
+        "speaker": "Cristiane Rosa",
+        "text": "Eu te mando lá no grupo daí."
+      },
+      {
+        "startTime": 2689,
+        "endTime": 2694,
+        "speaker": "Carlos Stoppa",
+        "text": "Perfeito Cris. Obrigado já colocar vocês aqui no invite. opa"
+      },
+      {
+        "startTime": 2694,
+        "endTime": 2710,
+        "speaker": "Zemyr Werner",
+        "text": "Porque isso aí vai ser fundamental para queijo manuseio para quando nós dermos o status dos convites para esse evento do dia 29, já será na segunda elas terem já rapidinho a noção de como fazer."
+      },
+      {
+        "startTime": 2713,
+        "endTime": 2743,
+        "speaker": "Carlos Stoppa",
+        "text": "Bom aqui em grupos de permissão, a gente vai ter aqui, essa é a informação, né? De quem são os grupos que eu tenho dentro do sistema hoje e qual permissão cada um pode ter dentro do sistema então por exemplo no caso da Cibele da Leila, elas estão como coordenador de parcerias então elas só podem transferir contato editar contato e falar sem Alerta, né? Isso daqui é uma função que a gente coloca marcado sempre no padrão a gente até alinhar com vocês como empresa."
+      },
+      {
+        "startTime": 2743,
+        "endTime": 2789,
+        "speaker": "Carlos Stoppa",
+        "text": "Essa função especificamente falando dela, o que que ela vai fazer dentro do sistema? Se eu tenho ali eu sou um corretor e eu tenho dois gerentes cadastrados, eu tenho Zenir e eu tenho usa nela se eu estou vinculada alzemir os e-mail que me atende na GT. Eu não preciso falar com os nela, mas eu como corretor pedir para o Zimmer da tabela, ele não me mandou naquela hora tava em reunião."
+      },
+      {
+        "startTime": 2789,
+        "endTime": 2804,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu peguei pensando nela que é o outro gerente aí o que vai acontecer do telefone do zemir sai uma mensagem para mim como corretor. Olá Carlos, vi que você tentou falar com o usanella. Como posso te ajudar sendo que eu sou seu gerente de parcerias aqui na GT e dos janela vai partir uma mensagem."
+      },
+      {
+        "startTime": 2804,
+        "endTime": 2806,
+        "speaker": "Carlos Stoppa",
+        "text": "Olá o seu gerente é ozenir, procure ele para te atender no canal de parcerias, tá? Então é uma função aqui que gera um primeiro Impacto ali meu Deus, como é que sabe que eu tô com outro gerente e tal, mas a gente sempre é a linha para não deixar ninguém é cego dessa dessa permissão que existe aqui dentro tá é como se fosse um dedo duro é para aquele corretor que pede para todo mundo material."
+      },
+      {
+        "startTime": 2806,
+        "endTime": 2851,
+        "speaker": "Carlos Stoppa",
+        "text": "Então, eu deixo ela marcada aqui para não ativar, mas se precisar criativa a gente pode colocar essa dinâmica para rodar também. Equipes então aqui como tem só uma única equipe tem salada GT. Por enquanto né? A gente não tá separando. Isso é por gerência por superintendências. Falando de roleta, né? Aqui a gente consegue criar roleta também tentar falar assim Carlos aqui a Leila atende só o Milano e o Turim um exemplo eu consigo criar uma roleta que vai direcionar os produtos do Milano durinho só para Leila e todos os outros chamando para Cibele tá é uma função que existe algumas empresas que elas estarem a gente acabou desenvolvendo essa função de roleta por produto."
+      },
+      {
+        "startTime": 2851,
+        "endTime": 2867,
+        "speaker": "Carlos Stoppa",
+        "text": "Os campos dinâmicos depois se quiserem pensar em alguns Campos que fazem sentido para vocês a gente pode criar eles aqui hoje tá ou até mesmo na próxima reunião, vou até mandar uma listinha que eu tenho aqui de alguns exemplos, aí vocês me falam que faz sentido colocar ou não aqui na plataforma."
+      },
+      {
+        "startTime": 2867,
+        "endTime": 2919,
+        "speaker": "Carlos Stoppa",
+        "text": "Mensagens do Zé vamos falar na próxima reunião com as meninas na sexta às 9:30 também para elas poderem entender. Quais são as mensagens que o Zé tem de forma automática quando ela aciona a ia na conversa tá então aqui o Zé ativação que ele se apresenta se ela quiser mudar o roteiro a gente consegue sempre padronizar para as duas terem a mesma comunicação de ar dentro da ferramenta o boas vindas para redirecionar atendimento saudação do Coordenador."
+      },
+      {
+        "startTime": 2919,
+        "endTime": 2927,
+        "speaker": "Carlos Stoppa",
+        "text": "Então a gente vai sempre alinhando com ela todos esses roteiros que estão aqui criados tá então com elas eu vou falar muito de empreendimento de materiais que estão configurados e também das mensagens da ya como a Iah vai interagir no WhatsApp delas. Transferência em massa aqui, por exemplo eu tirar os parceiros que estão com Diego e mandar para o zemir então aqui é uma transferência em massa de carteiras, tá? Aí é mais em caso de alguém seja desligada do sistema mesmo da empresa."
+      },
+      {
+        "startTime": 2927,
+        "endTime": 2964,
+        "speaker": "Carlos Stoppa",
+        "text": "E aqui como tá sistema aí aqui vamos falar um pouquinho mais para frente também desse contexto global que ele é um contexto geral da empresa, né? Então que a gente está fazendo aqui também com a nossa aí a é colocando alguns contextos que podem ser ampliados em nível técnico, então tem algumas empresas que colocaram aqui com a gente o memorial descritivo de alguns produtos e aí eu consigo perguntar Zé é por exemplo é na GT é quais Empreendimentos possuem gerador de energia, então vamos ver de 9 que a gente tem aqui hoje tem três que tem aí ele vai falar ó dos três que tem o bilano o botânico e o Turim."
+      },
+      {
+        "startTime": 2964,
+        "endTime": 2982,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah legal Zé desses três que tem gerador de energia é quais tem valor de condomínio de até r$ 1000, aí ele vai listar Claro a gente sempre vai desenhar esse contexto a gente desenha esse algoritmo junto com vocês, para que ele possa responder de acordo com memorial descritivo de vocês."
+      },
+      {
+        "startTime": 2982,
+        "endTime": 3023,
+        "speaker": "Carlos Stoppa",
+        "text": "Então além dele enviar os materiais a gente evoluiu bastante esse contexto para ele ser um consultor também do próprio gerente de parcerias então, por exemplo tem uma empresa falou assim Carlos aqui não me pede o valor de IPTU e condomínio de todos os produtos. Aí eu posso pedir posso criar o contexto global de todos os produtos colocar ali valor de condomínio custa r$ 1000 do outro é 500 então a gente conseguiu evoluir aí a para ela também ler um contexto técnico."
+      },
+      {
+        "startTime": 3023,
+        "endTime": 3039,
+        "speaker": "Carlos Stoppa",
+        "text": "Ah, eu quero saber o Do Turim é em massa corrida é grafiato. Enfim, você pode sempre colocar essa descrição que é Técnica, né? Então dependendo da solicitação que vem, às vezes a pessoa tem que procurar um responsável para poder responder a cada informação, se eu tiver algum documento que eu possa transcrever aqui dentro o Zé também consegue ler esse contexto Global, tá? Porque ele vai falar de todos os Empreendimentos de uma forma."
+      },
+      {
+        "startTime": 3039,
+        "endTime": 3064,
+        "speaker": "Carlos Stoppa",
+        "text": "Beleza, gente, então esse daqui vamos falar mais para frente que ele é mais complexo sozinho, mas existe essa possibilidade. E aí é relatório de integração com hora ela vai mostrar quantos parceiros estão entrando e assim por diante e aqui são os blogs do sistema, né? Esses registros que vão acontecendo a pessoa logou no sistema transferências sempre mapeando aí essas evidências."
+      },
+      {
+        "startTime": 3066,
+        "endTime": 3084,
+        "speaker": "Zemyr Werner",
+        "text": "Então perfeito Carlos. Acho que deu para dar mais um grande overview aí na verdade. A gente aprende muita manuseio, né? E a minha preocupação é fazer equipe pegar isso o mais rápido possível para tirar proveito desse."
+      },
+      {
+        "startTime": 3084,
+        "endTime": 3085,
+        "speaker": "Carlos Stoppa",
+        "text": "Legal na sexta-feira zemir eu vou"
+      },
+      {
+        "startTime": 3085,
+        "endTime": 3085,
+        "speaker": "Zemyr Werner",
+        "text": "Também principalmente."
+      },
+      {
+        "startTime": 3085,
+        "endTime": 3107,
+        "speaker": "Carlos Stoppa",
+        "text": "fazer uma parte com elas um pouquinho teórica, né? Plataforma ali que é um pouquinho mais chata, mas eu faço parte prática também, ó, vamos cadastrar um corretor. Manda uma arroba Zé ver como ele interage me dá o feedback. Você gostou da mensagem? Não gostou? Vamos alterar. Então ela é muito mais dinâmica de sexta-feira, tá? Ela não é muito ferramenta igual a gente fez hoje."
+      },
+      {
+        "startTime": 3107,
+        "endTime": 3109,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3109,
+        "endTime": 3113,
+        "speaker": "Zemyr Werner",
+        "text": "Você já pede para elas, né? Estarem logadas portador para não"
+      },
+      {
+        "startTime": 3113,
+        "endTime": 3114,
+        "speaker": "Carlos Stoppa",
+        "text": "isso"
+      },
+      {
+        "startTime": 3114,
+        "endTime": 3115,
+        "speaker": "Zemyr Werner",
+        "text": "ficarem só."
+      },
+      {
+        "startTime": 3115,
+        "endTime": 3123,
+        "speaker": "Carlos Stoppa",
+        "text": "É o ideal é que elas estejam no computador para poder ver a tela, né e elas interagirem pelo WhatsApp pelo celular."
+      },
+      {
+        "startTime": 3123,
+        "endTime": 3125,
+        "speaker": "Zemyr Werner",
+        "text": "Esse comentário já tem que estar no invite."
+      },
+      {
+        "startTime": 3125,
+        "endTime": 3135,
+        "speaker": "Carlos Stoppa",
+        "text": "Eu vou colocar aqui agora, já vou colocar na descrição do nosso invite aqueles falou que ia me mandar os e-mails dela, já põe elas aqui também, tá bom?"
+      },
+      {
+        "startTime": 3135,
+        "endTime": 3136,
+        "speaker": "Cristiane Rosa",
+        "text": "Mandei tá já tá lá?"
+      },
+      {
+        "startTime": 3136,
+        "endTime": 3137,
+        "speaker": "Carlos Stoppa",
+        "text": "Muito obrigado Cris."
+      },
+      {
+        "startTime": 3137,
+        "endTime": 3141,
+        "speaker": "Cristiane Rosa",
+        "text": "manda"
+      },
+      {
+        "startTime": 3141,
+        "endTime": 3149,
+        "speaker": "Carlos Stoppa",
+        "text": "Beleza, gente, se alguém tiver alguma dúvida, fique à vontade, tá da minha parte era isso."
+      },
+      {
+        "startTime": 3149,
+        "endTime": 3151,
+        "speaker": "Cristiane Rosa",
+        "text": "O Carlos Deixa eu só te perguntar um negócio ali onde você onde a gente."
+      },
+      {
+        "startTime": 3151,
+        "endTime": 3151,
+        "speaker": "Carlos Stoppa",
+        "text": "Claro"
+      },
+      {
+        "startTime": 3155,
+        "endTime": 3161,
+        "speaker": "Cristiane Rosa",
+        "text": "consegue ver tudo o que elas recebem, né? No a conversa dela certo."
+      },
+      {
+        "startTime": 3161,
+        "endTime": 3162,
+        "speaker": "Carlos Stoppa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 3162,
+        "endTime": 3169,
+        "speaker": "Cristiane Rosa",
+        "text": "E a partir de quando elas falam roupas é a gente vê toda a conversa delas."
+      },
+      {
+        "startTime": 3169,
+        "endTime": 3197,
+        "speaker": "Carlos Stoppa",
+        "text": "Isso o que vai acontecer Cris a gente só vai conseguir monitorar as mensagens de quem tiver cadastrada no sistema então por exemplo, eu não cadastrei a crise eu falo com aqueles todos os dias. Eu estou plugado no Zé como a Cris não tá dentro do sistema. A gente não tem a permissão de monitorar aquela mensagem então fazendo uma validação bem simples de banco de dados ele vai olhar o telefone da Cris final 5169 um exemplo não tá no sistema cadastrada."
+      },
+      {
+        "startTime": 3197,
+        "endTime": 3210,
+        "speaker": "Carlos Stoppa",
+        "text": "Então ele ignora a conversa entre o gerente e você tá mas se você tiver cadastrada a partir do momento que ela te cadastrou registra todas as mensagens de texto, tudo que for texto ele registra no sistema."
+      },
+      {
+        "startTime": 3210,
+        "endTime": 3210,
+        "speaker": "Cristiane Rosa",
+        "text": "Tá então, tipo, é isso que eu"
+      },
+      {
+        "startTime": 3210,
+        "endTime": 3212,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3212,
+        "endTime": 3218,
+        "speaker": "Cristiane Rosa",
+        "text": "queria entender tipo, qualquer conversa que elas estiverem a gente vai tá vendo?"
+      },
+      {
+        "startTime": 3218,
+        "endTime": 3220,
+        "speaker": "Carlos Stoppa",
+        "text": "Isso sempre de quem tiver cadastrado, se não tiver cadastrado a gente"
+      },
+      {
+        "startTime": 3220,
+        "endTime": 3221,
+        "speaker": "Cristiane Rosa",
+        "text": "Sim, sim, não não é que na"
+      },
+      {
+        "startTime": 3221,
+        "endTime": 3222,
+        "speaker": "Carlos Stoppa",
+        "text": "enxerga nada."
+      },
+      {
+        "startTime": 3222,
+        "endTime": 3226,
+        "speaker": "Cristiane Rosa",
+        "text": "surgiu um pouquinho uma preocupação que eu vou ter que ver aqui com os amigos."
+      },
+      {
+        "startTime": 3226,
+        "endTime": 3230,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom depois quiser ganhar comigo também fiquem à vontade, tá?"
+      },
+      {
+        "startTime": 3230,
+        "endTime": 3233,
+        "speaker": "Cristiane Rosa",
+        "text": "Não é que como elas usam o celular delas é particular pessoal"
+      },
+      {
+        "startTime": 3233,
+        "endTime": 3235,
+        "speaker": "Carlos Stoppa",
+        "text": "WhatsApp pessoal"
+      },
+      {
+        "startTime": 3235,
+        "endTime": 3242,
+        "speaker": "Cristiane Rosa",
+        "text": "exatamente e não sei a gente precisa ver Teste que com o nosso jurídico aqui, como que pode ficar isso, sabe?"
+      },
+      {
+        "startTime": 3242,
+        "endTime": 3245,
+        "speaker": "Carlos Stoppa",
+        "text": "É só elas não cadastrarem as pessoas da família, né amigos próximos. Mas tem uma questãozinha"
+      },
+      {
+        "startTime": 3245,
+        "endTime": 3247,
+        "speaker": "Cristiane Rosa",
+        "text": "É não, mas é que é tem."
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3248,
+        "speaker": "Carlos Stoppa",
+        "text": "do aparelho, né?"
+      },
+      {
+        "startTime": 3248,
+        "endTime": 3261,
+        "speaker": "Cristiane Rosa",
+        "text": "Não e também tem a questão de que tipo por mais que seja um corretor, eles têm muito contato, a gente tem contato com corretores fora, né? O nosso dia a dia. Né? A minha preocupação é só."
+      },
+      {
+        "startTime": 3261,
+        "endTime": 3263,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 3263,
+        "endTime": 3263,
+        "speaker": "Cristiane Rosa",
+        "text": "isso, mas"
+      },
+      {
+        "startTime": 3263,
+        "endTime": 3267,
+        "speaker": "Carlos Stoppa",
+        "text": "Tá bom, tá bom perfeito."
+      },
+      {
+        "startTime": 3267,
+        "endTime": 3267,
+        "speaker": "Cristiane Rosa",
+        "text": "Mas alguma coisa"
+      },
+      {
+        "startTime": 3267,
+        "endTime": 3268,
+        "speaker": "Carlos Stoppa",
+        "text": "combinado"
+      },
+      {
+        "startTime": 3276,
+        "endTime": 3292,
+        "speaker": "Zemyr Werner",
+        "text": "Para mim tá tá de hora é isso? Aí, vamos ter que evoluir nessa atração. Fazendo treinamento checando as oportunidades indo a fundo, por que que não tá fazendo que tá pegando?"
+      },
+      {
+        "startTime": 3292,
+        "endTime": 3292,
+        "speaker": "Carlos Stoppa",
+        "text": "Vamos nessa. E aí se precisar se me"
+      },
+      {
+        "startTime": 3292,
+        "endTime": 3294,
+        "speaker": "Zemyr Werner",
+        "text": "é por isso que"
+      },
+      {
+        "startTime": 3294,
+        "endTime": 3296,
+        "speaker": "Carlos Stoppa",
+        "text": "toda semana a gente se reunir Primeiro vai ficar toda semana tá para ficar bem bem próximo esse"
+      },
+      {
+        "startTime": 3296,
+        "endTime": 3298,
+        "speaker": "Zemyr Werner",
+        "text": "Eu acho que vale a pena vale a pena"
+      },
+      {
+        "startTime": 3298,
+        "endTime": 3299,
+        "speaker": "Carlos Stoppa",
+        "text": "acompanhamento."
+      },
+      {
+        "startTime": 3299,
+        "endTime": 3300,
+        "speaker": "Zemyr Werner",
+        "text": "vale a pena nós vamos sentir agora"
+      },
+      {
+        "startTime": 3300,
+        "endTime": 3301,
+        "speaker": "Carlos Stoppa",
+        "text": "perfeito"
+      },
+      {
+        "startTime": 3301,
+        "endTime": 3306,
+        "speaker": "Zemyr Werner",
+        "text": "sexta-feira a reivindicação dela uma outra sexta e assim a gente vai."
+      },
+      {
+        "startTime": 3306,
+        "endTime": 3308,
+        "speaker": "Carlos Stoppa",
+        "text": "Combinado combinado. Obrigado, viu,"
+      },
+      {
+        "startTime": 3308,
+        "endTime": 3309,
+        "speaker": "Zemyr Werner",
+        "text": "Fechou. Muito obrigado. Tudo de bom"
+      },
+      {
+        "startTime": 3309,
+        "endTime": 3310,
+        "speaker": "Carlos Stoppa",
+        "text": "gente?"
+      },
+      {
+        "startTime": 3310,
+        "endTime": 3311,
+        "speaker": "Zemyr Werner",
+        "text": "Aí, já vou para uma outra reunião."
+      },
+      {
+        "startTime": 3311,
+        "endTime": 3312,
+        "speaker": "Cristiane Rosa",
+        "text": "Tchau, tchau."
+      },
+      {
+        "startTime": 3312,
+        "endTime": 3312,
+        "speaker": "Carlos Stoppa",
+        "text": "Obrigado tchau tchau gente."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 236,
+    "speakers": [
+      "Cristiane Rosa",
+      "Zemyr Werner",
+      "Carlos Stoppa",
+      "Allan Moura",
+      "Luiz Gustavo Zanella"
+    ],
+    "total_words_estimate": 8095,
+    "duration_start": 0,
+    "duration_end": 3312
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "677d8705326f8e001347a744",
+        "timestamp": 454,
+        "text": "GT já tem 87 novos parceiros, com 8 deles verificados pelo sistema de WhatsApp.",
+        "topicId": "677d8705326f8e001347a73a"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a745",
+        "timestamp": 568,
+        "text": "Campos dinâmicos permitem qualificar corretores com informações relevantes para ações futuras.",
+        "topicId": "677d8705326f8e001347a73a"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a746",
+        "timestamp": 883,
+        "text": "Gestão de Território divide parceiros imobiliários: Cibele com PJs principais, Leila com demais.",
+        "topicId": "677d8705326f8e001347a73a"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a747",
+        "timestamp": 1100,
+        "text": "Sistema permite registrar vendas vinculadas a parceiros para acompanhar desempenho.",
+        "topicId": "677d8705326f8e001347a73a"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74d",
+        "timestamp": 1174,
+        "text": "Próximo passo: reunião com Cibele e outra gerente para discutir estratégias de expansão.",
+        "topicId": "677d8705326f8e001347a73c"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a748",
+        "timestamp": 1216,
+        "text": "Sistema facilita comunicação e compartilhamento de materiais com corretores parceiros.",
+        "topicId": "677d8705326f8e001347a73a"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74e",
+        "timestamp": 1331,
+        "text": "Carlos sugere personalizar mensagem de boas-vindas para novos parceiros no canal de atendimento",
+        "topicId": "677d8705326f8e001347a73c"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a749",
+        "timestamp": 1386,
+        "text": "Sistema poderá ajudar corretores a criar lembretes e acompanhar atividades com assistente de IA",
+        "topicId": "677d8705326f8e001347a73b"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74f",
+        "timestamp": 1460,
+        "text": "Coordenadoras temem perder importância com implementação de nova ferramenta tecnológica",
+        "topicId": "677d8705326f8e001347a73d"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74a",
+        "timestamp": 1734,
+        "text": "Plataforma permitirá agendar envio de mensagens e acompanhamento de próximos passos com parceiros",
+        "topicId": "677d8705326f8e001347a73b"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74b",
+        "timestamp": 1888,
+        "text": "Será possível cadastrar imobiliárias com múltiplos corretores no sistema",
+        "topicId": "677d8705326f8e001347a73b"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a74c",
+        "timestamp": 2087,
+        "text": "Nova funcionalidade permitirá criar automações para comunicação com parceiros, como convites personalizados",
+        "topicId": "677d8705326f8e001347a73b"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a73e",
+        "timestamp": 2373,
+        "text": "Sistema terá configurações de empreendimentos com descrições detalhadas dos produtos",
+        "topicId": "677d8705326f8e001347a739"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a73f",
+        "timestamp": 2648,
+        "text": "Treinamento para Leila e Cibele será realizado na sexta-feira pela manhã às 9:30.",
+        "topicId": "677d8705326f8e001347a739"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a740",
+        "timestamp": 2717,
+        "text": "Cibele e Leila têm permissão de coordenador de parcerias, podendo transferir e editar contatos.",
+        "topicId": "677d8705326f8e001347a739"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a741",
+        "timestamp": 2849,
+        "text": "Carlos enviará campos dinâmicos; treinamento sobre mensagens do Zé na sexta às 9:30.",
+        "topicId": "677d8705326f8e001347a739"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a742",
+        "timestamp": 3083,
+        "text": "Carlos fará treinamento teórico e prático com Leila e Cibele na sexta-feira.",
+        "topicId": "677d8705326f8e001347a739"
+      },
+      {
+        "segmentId": "677d8705326f8e001347a743",
+        "timestamp": 3275,
+        "text": "Equipe fará acompanhamento semanal para evoluir e verificar oportunidades de melhoria.",
+        "topicId": "677d8705326f8e001347a739"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "677d8705326f8e001347a739",
+        "order": 1,
+        "title": "Ações e Treinamentos Acordados",
+        "summary": ""
+      },
+      {
+        "id": "677d8705326f8e001347a73a",
+        "order": 2,
+        "title": "Crescimento e Parceria com Corretores",
+        "summary": ""
+      },
+      {
+        "id": "677d8705326f8e001347a73b",
+        "order": 3,
+        "title": "Funcionalidades do Sistema",
+        "summary": ""
+      },
+      {
+        "id": "677d8705326f8e001347a73c",
+        "order": 4,
+        "title": "Sugestões de Melhoria",
+        "summary": ""
+      },
+      {
+        "id": "677d8705326f8e001347a73d",
+        "order": 5,
+        "title": "Preocupações da Equipe",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 18,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "677d8705326f8e001347a739",
+      "order": 1,
+      "title": "Ações e Treinamentos Acordados",
+      "summary": ""
+    },
+    {
+      "id": "677d8705326f8e001347a73a",
+      "order": 2,
+      "title": "Crescimento e Parceria com Corretores",
+      "summary": ""
+    },
+    {
+      "id": "677d8705326f8e001347a73b",
+      "order": 3,
+      "title": "Funcionalidades do Sistema",
+      "summary": ""
+    },
+    {
+      "id": "677d8705326f8e001347a73c",
+      "order": 4,
+      "title": "Sugestões de Melhoria",
+      "summary": ""
+    },
+    {
+      "id": "677d8705326f8e001347a73d",
+      "order": 5,
+      "title": "Preocupações da Equipe",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:43:10.177008+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:43:10.177008+00:00"
+}

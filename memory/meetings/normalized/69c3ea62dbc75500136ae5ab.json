@@ -1,0 +1,1181 @@
+{
+  "meeting_id": "69c3ea62dbc75500136ae5ab",
+  "name": "Inteligência de Mercado - Órulo + Vokkan",
+  "happened_at": "2026-03-25T14:00:00.000Z",
+  "duration_seconds": 2941.953,
+  "duration_minutes": 49.0,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "eduardo.freitas@vokkan.com.br"
+    },
+    {
+      "name": "Luan Felipe de Souza",
+      "email": "luan.souza@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/69c3ea62dbc75500136ae5ab",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "fjn-amtx-eci",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "69c3eac0b799be001377bf65",
+    "meetingId": "69c3ea62dbc75500136ae5ab",
+    "data": [
+      {
+        "startTime": 49,
+        "endTime": 56,
+        "speaker": "Diego Diehl",
+        "text": "Fala Duda. E aí pessoal? Bom dia."
+      },
+      {
+        "startTime": 56,
+        "endTime": 60,
+        "speaker": "Duda Freitas",
+        "text": "Entendeu? beleza"
+      },
+      {
+        "startTime": 61,
+        "endTime": 62,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Bom dia"
+      },
+      {
+        "startTime": 63,
+        "endTime": 64,
+        "speaker": "Duda Freitas",
+        "text": "Não tá aparecendo tá eu e Lucas."
+      },
+      {
+        "startTime": 66,
+        "endTime": 70,
+        "speaker": "Diego Diehl",
+        "text": "Tô vendo. E você tá de fone? Ele tá ouvindo."
+      },
+      {
+        "startTime": 72,
+        "endTime": 79,
+        "speaker": "Duda Freitas",
+        "text": "É verdade"
+      },
+      {
+        "startTime": 79,
+        "endTime": 98,
+        "speaker": "Diego Diehl",
+        "text": "Não sei nem as tecnologias hoje, vai que sei lá o dia tá no óculos, né? Esses dias eu tava tinha um cara sentado conversando e tal não tava com fome não. Tava com celular caramba tá acontecendo aí eu fui ver o Rayman eu falei. Ah safado tá no telefone pelo óculos, né?"
+      },
+      {
+        "startTime": 99,
+        "endTime": 100,
+        "speaker": "Duda Freitas",
+        "text": "sim"
+      },
+      {
+        "startTime": 100,
+        "endTime": 103,
+        "speaker": "Diego Diehl",
+        "text": "E aí vocês são da área de dados?"
+      },
+      {
+        "startTime": 104,
+        "endTime": 106,
+        "speaker": "Duda Freitas",
+        "text": "Eu principalmente aqui."
+      },
+      {
+        "startTime": 107,
+        "endTime": 109,
+        "speaker": "Diego Diehl",
+        "text": "É Duda, quem é Duda, Lucas? O Lucas é de que área?"
+      },
+      {
+        "startTime": 109,
+        "endTime": 117,
+        "speaker": "Duda Freitas",
+        "text": "E o Lucas? Pode treinamento aqui dentro da boca."
+      },
+      {
+        "startTime": 117,
+        "endTime": 120,
+        "speaker": "Diego Diehl",
+        "text": "treinamentos treinamentos para o time comercial"
+      },
+      {
+        "startTime": 120,
+        "endTime": 126,
+        "speaker": "Duda Freitas",
+        "text": "Comercial nós temos uma academia de vendas aqui, o foco é deixar o pessoal bem preparado aqui para o dia a dia."
+      },
+      {
+        "startTime": 128,
+        "endTime": 141,
+        "speaker": "Diego Diehl",
+        "text": "Tentar né? Os corretores a gente sempre se esforça, mas no final do dia a gente tem que fazer tem que ficar apresentando, né? Show e então tá gente. Eu falei com o eu não lembro."
+      },
+      {
+        "startTime": 142,
+        "endTime": 143,
+        "speaker": "Duda Freitas",
+        "text": "Tinha falado com Cristiane."
+      },
+      {
+        "startTime": 143,
+        "endTime": 181,
+        "speaker": "Diego Diehl",
+        "text": "cara. Fala para os caras aí que ele já falou que ia envolver o time. Fala com eles que é melhor. Aí, depois eu me envolvo. Esse é o contexto e qualquer"
+      },
+      {
+        "startTime": 181,
+        "endTime": 183,
+        "speaker": "Duda Freitas",
+        "text": "Sim. Acho que o Lucas é um pouco mais."
+      },
+      {
+        "startTime": 183,
+        "endTime": 1623,
+        "speaker": "Diego Diehl",
+        "text": "contratava as duas soluções em si para o comercial e a hora também eu como para inteligência de mercado. Então a gente tem uma parte que parece que o dwv que vocês vão ver e tem algumas diferenças, mas eu vou focar aqui um pouco na parte de dados e vou só respingar um pouquinho comercial, porque aí na região de vocês tem muita gente do de outras regiões que acessam bastante, né? E aí a orla a gente tá no Brasil."
+      },
+      {
+        "startTime": 1623,
+        "endTime": 264,
+        "speaker": "Diego Diehl",
+        "text": "Aí a gente tem 250 mil corretores que acessam. Inclusive eu tava vendo aí vocês estão focados me conferir em Porto Belo, né?"
+      },
+      {
+        "startTime": 264,
+        "endTime": 265,
+        "speaker": "Duda Freitas",
+        "text": "Isso mesmo."
+      },
+      {
+        "startTime": 265,
+        "endTime": 268,
+        "speaker": "Diego Diehl",
+        "text": "Tem mais alguma região?"
+      },
+      {
+        "startTime": 268,
+        "endTime": 270,
+        "speaker": "Duda Freitas",
+        "text": "A região aqui vai isso vai englobar aqui desde de Bombinhas aqui vai até tenha"
+      },
+      {
+        "startTime": 270,
+        "endTime": 276,
+        "speaker": "Diego Diehl",
+        "text": "Tá, deixa eu por aqui já."
+      },
+      {
+        "startTime": 276,
+        "endTime": 277,
+        "speaker": "Duda Freitas",
+        "text": "mais ou menos."
+      },
+      {
+        "startTime": 284,
+        "endTime": 287,
+        "speaker": "Diego Diehl",
+        "text": "Foi demais bom vocês estão construindo a região, né?"
+      },
+      {
+        "startTime": 289,
+        "endTime": 290,
+        "speaker": "Duda Freitas",
+        "text": "Sim, cara, ela tá bem consolidada que são os dois é o tanto de Itapema"
+      },
+      {
+        "startTime": 290,
+        "endTime": 296,
+        "speaker": "Diego Diehl",
+        "text": "estão"
+      },
+      {
+        "startTime": 296,
+        "endTime": 315,
+        "speaker": "Duda Freitas",
+        "text": "Balneário os dois metros quadrados mais caro do Brasil hoje, né? E a gente está aqui alocado em Porto Belo com o empreendimento grande já consolidado no mercado e que a gente Por isso que a gente está em Busca aí de dados de enxergar. Como está a situação? Então tudo mais."
+      },
+      {
+        "startTime": 317,
+        "endTime": 603,
+        "speaker": "Diego Diehl",
+        "text": "Você sendo nosso cliente você potencializa as vendas do teu produto a divulgação do teu produto e tem acesso inteligência de mercado. Então esse combinho tá tá claro até aqui gente tá muito rápido, tá de boa."
+      },
+      {
+        "startTime": 603,
+        "endTime": 604,
+        "speaker": "Duda Freitas",
+        "text": "Tranquilo, tá tá de boa."
+      },
+      {
+        "startTime": 604,
+        "endTime": 783,
+        "speaker": "Diego Diehl",
+        "text": "Quando for comprar essa briga com o mercado que daí eu comprar os corretores com a órgão que é galera, eu tenho todos lá lá daí vira briga de ferramenta então não vou focar muito nisso, mas quero te mostrar a"
+      },
+      {
+        "startTime": 783,
+        "endTime": 786,
+        "speaker": "Duda Freitas",
+        "text": "sim"
+      },
+      {
+        "startTime": 786,
+        "endTime": 1077,
+        "speaker": "Diego Diehl",
+        "text": "dela hoje amanhã atualizado em todas as imobiliárias em todos os sites em todos os alunos que elas fazem portal esse primeiro bloco de"
+      },
+      {
+        "startTime": 1077,
+        "endTime": 1084,
+        "speaker": "Duda Freitas",
+        "text": "Deixa eu te fazer uma pergunta a respeito disso, tu comentou ele que tem ali. Ah tem cerca de milho mil e poucas imobiliárias digamos né? E aí"
+      },
+      {
+        "startTime": 1084,
+        "endTime": 1088,
+        "speaker": "Diego Diehl",
+        "text": "Não ali só da região tem 5 mil imobiliárias."
+      },
+      {
+        "startTime": 1088,
+        "endTime": 1103,
+        "speaker": "Duda Freitas",
+        "text": "Tá beleza 5.000 ali da região 5.000 milhares da região, mas o empreendimento ali da FG tá com 391 Integradas, né? O que que tu considera por esse integrado? É que ela teve interesse em ter uma atividade com Esse empreendimento."
+      },
+      {
+        "startTime": 1104,
+        "endTime": 2324,
+        "speaker": "Diego Diehl",
+        "text": "Santa Catarina e entrar aqui perto ou do comercial, manda mensagem para o corretor e fala cara. Você tá integrado com a órgão, você não tá pegando meu produto. Vamos fazer uma campanha aqui para você seleciona lá e pega meu produto site ou um áudio do WhatsApp ou você promove ou ela mesma entra aqui praticamente Porto Belo tá com marketing bom aí, né em alto então mais gente talvez já entra aqui em Porto Belo."
+      },
+      {
+        "startTime": 2324,
+        "endTime": 1173,
+        "speaker": "Diego Diehl",
+        "text": "Pode selecionar aqui os bairros alto Perequê, Balneário Perequê centro, Jardim Dourados, escolhe o bairro ela escolhendo bairro vai para essa tela aqui disponíveis dela. Escolhe os Empreendimentos dela que ela quer aqui, ó. Que que eu quero?"
+      },
+      {
+        "startTime": 1173,
+        "endTime": 1179,
+        "speaker": "Duda Freitas",
+        "text": "De hoje quantas imobiliárias tu tem na região aqui de Porto Belo Itapema e balneário? Mais ou menos Integradas entre o sistema."
+      },
+      {
+        "startTime": 1180,
+        "endTime": 1201,
+        "speaker": "Diego Diehl",
+        "text": "Vamos ver junto vai ser baixo Cara. Eu não tô forte. Deixa eu ver aqui. Santa Catarina Em Santa Catarina aos números aqui. 11 Vamos ver em Porto Belo que vocês conhecem o nome é que aquilo que eu te falei, eu nem tô aqui para vender. Isso é mais para vocês conhecer Itapema."
+      },
+      {
+        "startTime": 1201,
+        "endTime": 1205,
+        "speaker": "Duda Freitas",
+        "text": "É mas aí Itapema e balneário."
+      },
+      {
+        "startTime": 1205,
+        "endTime": 1214,
+        "speaker": "Diego Diehl",
+        "text": "Que tem né? Ou você quer ver de balneário?"
+      },
+      {
+        "startTime": 1214,
+        "endTime": 1215,
+        "speaker": "Duda Freitas",
+        "text": "Itapema e balneário quero ver"
+      },
+      {
+        "startTime": 1217,
+        "endTime": 1250,
+        "speaker": "Diego Diehl",
+        "text": "Integrados né integra com mais de 50 cm até sistema próprio a gente integra com os caras. Aqui o nome de algumas imobiliárias. Vocês devem. Até hoje vocês devem saber de algumas né? Melhor Imóveis. Ah Sheila de ofertas BC Auto padrão richans Giovana ranking Imóveis, Lourenço, Rafael. E aí o cara entra aqui ó."
+      },
+      {
+        "startTime": 1250,
+        "endTime": 1253,
+        "speaker": "Diego Diehl",
+        "text": "Mas novamente são não."
+      },
+      {
+        "startTime": 1253,
+        "endTime": 1267,
+        "speaker": "Duda Freitas",
+        "text": "Mas é é interessante também pela pelo cadastro de fora, porque nós temos realmente muitas imobiliárias aqui já cadastradas aqui no nosso sistema, mas a gente busca também mercado fora, né? Porque é um empreendimento único no"
+      },
+      {
+        "startTime": 1267,
+        "endTime": 1268,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou."
+      },
+      {
+        "startTime": 1268,
+        "endTime": 1270,
+        "speaker": "Duda Freitas",
+        "text": "Brasil, então é crescente."
+      },
+      {
+        "startTime": 1270,
+        "endTime": 1303,
+        "speaker": "Diego Diehl",
+        "text": "Vou te mostrar um dado aqui tá pegar só. Santa Catarina A gente tem dos usuário não para de crescer e nem veste nada, mas todo mês é que tem sem nós tem 3.300, beleza? 3.300 Mais ativos que a gente fala tem 200 cento e pouco agora vamos olhar audiência só para você comparar."
+      },
+      {
+        "startTime": 1303,
+        "endTime": 1343,
+        "speaker": "Diego Diehl",
+        "text": "Aqui é audiência, vou pegar um período um pouco maior que eu pegar de 25, tá? Só para a gente ver um cenário maior porque? Daí eu pego aqui. Vale do Itajaí teve 10 milhões de visualizações aqui no ano. pegar vários Itajaí Itajaí vou pegar a cidade. Vamos deixar isso aqui, pode ser? Aí ó, o detalhe audiência aqui, né? Ó teve 91 mil acessos."
+      },
+      {
+        "startTime": 1343,
+        "endTime": 1367,
+        "speaker": "Diego Diehl",
+        "text": "Por 7.100 usuários eu tenho 500 ativos na região ou seja 6.500 usuários nem são da região então olhando ali é que os Empreendimentos mais visitados né? Ó vocês aqui ó. Dois três quatro cinco seis estão em sexto aqui em acesso. Viu aí tirou Duas vendas uma venda já pagou tudo, né? Então tá baixo aqui."
+      },
+      {
+        "startTime": 1367,
+        "endTime": 1403,
+        "speaker": "Diego Diehl",
+        "text": "A galera é finge. Até mais para cima que eles são clientes. Então fechou esse bloco, tá? Claro que ele só contar para vocês da hora desse primeiro bloco comercial aqui rapidão, porque daí vocês entendem que todo mundo que fala de dados comigo. Qual que é o ponto do dado principal você vai me falar Duda? Qual que é a confiabilidade do dado? Qual que é a granularidade do dado que você tem? Qual que é Atualização do teu dado? E aí fala assim."
+      },
+      {
+        "startTime": 1403,
+        "endTime": 1446,
+        "speaker": "Diego Diehl",
+        "text": "Duda eu não faço pesquisa eu não levanto um dado lá aleatório para ó, tá aqui uma pesquisa, eu entrego isso diariamente para dentro do site das imobiliárias CRM das imobiliárias para os corretores necessários se tem algo errado os cara me comunicam me ligam me manda mensagem tem se falta um produto, eles me tem um e-mail meu que eu recebo cara, a gente recebe uns 30 que quando o corretor ele não encontra um produto ele vem aqui ó, fala assim boca, sei lá, tem uma boca dessa forma, pô, não encontrei ele clica aqui ó, não achou o que procurava."
+      },
+      {
+        "startTime": 1446,
+        "endTime": 1468,
+        "speaker": "Diego Diehl",
+        "text": "E fala assim ó, faltou não sei o empreendimento é de Santa Catarina, acabou enviar vai chegar para o meu time de 30 pessoas, eles vão começar jogando Maiar pesquisa no Google isso aquilo e tal tal encontramos o Duda preciso cadastrar teu empreendimento ali, tudo bem não não como assim cadastrar."
+      },
+      {
+        "startTime": 1468,
+        "endTime": 1497,
+        "speaker": "Diego Diehl",
+        "text": "Fala cara de graça vai ter corretor olhando vai ter gente entregando e eu vou atualizar todo mês, mas o que eu preciso fazer nada. Precisar se eu não contrato a tabela no Google Drive você me manda ela eu vou te cobrar pode ser? Pode ser Fechou então, esse é o nosso trampo Master de pagar por uma cidade por sinal Balneário e essa região aí."
+      },
+      {
+        "startTime": 1497,
+        "endTime": 1508,
+        "speaker": "Diego Diehl",
+        "text": "Tem aqui ó 1600 Empreendimentos. Então tem esse todo aí, então posso avançar aqui entramos na parte de dados, pode ser? Então cara todos aqueles dados."
+      },
+      {
+        "startTime": 1508,
+        "endTime": 1509,
+        "speaker": "Duda Freitas",
+        "text": "Aqui porque eu tenho mais gente na volta e pode vazar áudio para ti, tá?"
+      },
+      {
+        "startTime": 1509,
+        "endTime": 1515,
+        "speaker": "Diego Diehl",
+        "text": "Tá ligado? Tranquilo, mas pode interromper falar quando você quiser então cara todos os"
+      },
+      {
+        "startTime": 1515,
+        "endTime": 1516,
+        "speaker": "Duda Freitas",
+        "text": "Sim, beleza."
+      },
+      {
+        "startTime": 1517,
+        "endTime": 1552,
+        "speaker": "Diego Diehl",
+        "text": "dados que eu vou te mostrar tem dois objetivos aqui contigo mostrar qual que é o nível de granularidade do dado que eu consigo que é o que mais afina a tua análise. E aqui tem as visualizações para ilustrar, mas cara a visualização você faz aqui você quiser e tem as 40 páginas de biai aqui que você pode olhar também para o tamanho de você tem empresa pequena que fala assim meu Deus, eu amei esse diário as empresas do tamanho de vocês."
+      },
+      {
+        "startTime": 1552,
+        "endTime": 1574,
+        "speaker": "Diego Diehl",
+        "text": "Fala assim não eu quero dado eu vou fazer o meu aqui. E aí tanto faz pode usar o meu pronto, você pode pegar o dado para acessar Começando aqui um nível interessante olhando filtros, a gente fica publicidade por bairro por Incorporadora por empreendimento ou seja por todos os níveis por tipo."
+      },
+      {
+        "startTime": 1574,
+        "endTime": 1611,
+        "speaker": "Diego Diehl",
+        "text": "Vertical Residencial comercial a gente quebra os Empreendimentos se ele tem Residencial e Comercial a gente divide em dois o dado fica bem certinho subtipo mesma coisa o empreendimento ele ele. Tem vários subtipos, né? Então você tem aí Garden se tem cobertura e às vezes se você deixa uma cobertura sujando a tua análise ela suja o ticket médio sujou tudo então a gente filtra aqui também e aqui o período também, né? Você pode olhar o que aconteceu em cada momento do aqui desde mais de 23."
+      },
+      {
+        "startTime": 1611,
+        "endTime": 1633,
+        "speaker": "Diego Diehl",
+        "text": "Então tem aí três anos e Vai acumulando agora, né? Para você ver como é que tá então por exemplo em fevereiro tem aqui mil Empreendimentos ativos. A gente tem 1.600 na base fase de obra dormitório suíte vaga área privativa, se você quiser já fazer um filtro Preto metro quadrado de lançamento."
+      },
+      {
+        "startTime": 1633,
+        "endTime": 1658,
+        "speaker": "Diego Diehl",
+        "text": "De um cara se for uma ideia genial a gente adiciona aqui, né? Então a gente isso aqui é meio vivo aqui em São Paulo, a gente vende essa inteligência de mercado faz 8 anos e 70% das empresas daqui usam então a gente os analistas e novos negócios é comum bater papo conversar a gente foi aprimorando."
+      },
+      {
+        "startTime": 1658,
+        "endTime": 1681,
+        "speaker": "Diego Diehl",
+        "text": "Aí a gente aprimorou aqui as páginas a gente criou quatro blocos bloco de Bloco de venda estoque velocidade de vendas aí tem as entregas também cinco seis ainda os Breves lançamentos porque aqui em São Paulo principalmente a Incorporadora um ano antes de lançar cadastra na órgão que o corretor já começa a ficar ligado."
+      },
+      {
+        "startTime": 1681,
+        "endTime": 1709,
+        "speaker": "Diego Diehl",
+        "text": "Opa vai ter um relacionamento Incorporadora tal, mas cadê a tabela preço não não tem nada só tem endereço mais ou menos o que vai ser uma foto que é o que a gente fala nas imobiliárias normalmente, né? E aí cada desdobramento a gente quebra em quatro ou cinco que é em unidade dormitório em vgv e dormitório em unidade, bairro Incorporadora em vgv, bairro Incorporadora."
+      },
+      {
+        "startTime": 1709,
+        "endTime": 1735,
+        "speaker": "Diego Diehl",
+        "text": "Então vou dar um exemplo aqui só pegar estoque primeiro. Você enxerga o comportamento da cidade. Nunca conta o último mês porque ele não acabou ainda então a gente não acabou de atualizar sempre olha o penúltimo dia 20 mil unidades aqui os dormitórios há quanto tem de cada uma. Parece linear esse um aqui deu um lançaram 500 de um dormitório aqui."
+      },
+      {
+        "startTime": 1735,
+        "endTime": 1761,
+        "speaker": "Diego Diehl",
+        "text": "Ah isso aqui eu não fui três cidades. Caramba. Olha só, olha as 20 mil unidades dessas todas cidades 7000, tô em Porto Belo. Então você já representa um terço de todo o litoral aí bom pelo menos do que a gente mapiou, né? Então aqui a gente consegue ver o crescimento de cada coisa em vgv bateu 11b em estoque."
+      },
+      {
+        "startTime": 1761,
+        "endTime": 1788,
+        "speaker": "Diego Diehl",
+        "text": "O que são unidades à venda? um carro chefe que são três dormitórios 5 bilhões depois dois depois um A gente vê o preço do metro quadrado médio, deixa eu pegar aqui um dois três só para ficar um gráfico melhor ver o preço do metro quadrado médio o crescimento como é que tá? E aí ó, você pode filtrar por bairro por Incorporadora por tipologia."
+      },
+      {
+        "startTime": 1788,
+        "endTime": 1812,
+        "speaker": "Diego Diehl",
+        "text": "Se eu clicar em qualquer coisa que ela com uma vaga com duas vagas, aí você vai filtrando. Aqui o ticket médio. Deixa eu tirar agora do milhão e meio aqui tem uns riscos solto porque não tem mais ó, só tinha cinco dormitórios. E agora tem cinco dormitórios de novo não tive média de 16 milhões."
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1839,
+        "speaker": "Diego Diehl",
+        "text": "E aqui os bairros e as incorporadoras. Aqui Aqui tá o tubo de 24. Às vezes tem um período antigo selecionados foi pegar fevereiro de 25 a gente vê os bairros ver as incorporadoras também, ó p e b ó vocês aqui. Talvez não esteja 200% aqui as unidades, né? Mas tem aqui 287 unidades em estoque dalano vlcv todo o mapa de incorporador."
+      },
+      {
+        "startTime": 1839,
+        "endTime": 1844,
+        "speaker": "Diego Diehl",
+        "text": "estoque em vgv 543 milhões a venda é mais ou menos isso."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 1853,
+        "speaker": "Duda Freitas",
+        "text": "É tem força de unidade. Aqui quanto que vai fazer o 543 de estoque não."
+      },
+      {
+        "startTime": 1854,
+        "endTime": 1855,
+        "speaker": "Diego Diehl",
+        "text": "Você acha que mais ou menos?"
+      },
+      {
+        "startTime": 1856,
+        "endTime": 1857,
+        "speaker": "Duda Freitas",
+        "text": "mas"
+      },
+      {
+        "startTime": 1858,
+        "endTime": 1864,
+        "speaker": "Diego Diehl",
+        "text": "Mas e é produto que já tá com ri já tá lançado ou ainda é pré-venda?"
+      },
+      {
+        "startTime": 1865,
+        "endTime": 1873,
+        "speaker": "Duda Freitas",
+        "text": "Não todos mas a gente já tem mais de 10, né? Por aí vai ter um lançamento"
+      },
+      {
+        "startTime": 1873,
+        "endTime": 1874,
+        "speaker": "Diego Diehl",
+        "text": "se for"
+      },
+      {
+        "startTime": 1874,
+        "endTime": 1876,
+        "speaker": "Duda Freitas",
+        "text": "agora também."
+      },
+      {
+        "startTime": 1876,
+        "endTime": 1897,
+        "speaker": "Diego Diehl",
+        "text": "Em tese 95% é para estar certo, daí um que sai o que não vai. É estoque preso mais quadrado isso aqui parece bobo, né, mas às vezes a gente gasta tempo tentando ver o dado atualizado, você bate o olho aqui, como é que tá subiu desceu o filtro dois quartos consegue ter uma visão."
+      },
+      {
+        "startTime": 1897,
+        "endTime": 1926,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o detalhe atualizado. Pelas tabelas que vão para os corretores e não que eu peço para vulcão ou preencha que o que você quer que eu mostre para o mercado não é? O que vocês divulgam para mercado e aqui eu acho que bom tem n Abas aqui o ouro aqui para vocês entenderem? O para mim é ouro, né? Que é deixa eu ver se eu consigo dar um zoom aqui."
+      },
+      {
+        "startTime": 1926,
+        "endTime": 1940,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu abrir assim. Aqui ó para mim o ouro tá aqui, deixa eu filtrar para ficar. Um pegar um empreendimento qualquer aqui. É um empreendimento mais complexos diz o nome do empreendimento aí."
+      },
+      {
+        "startTime": 1945,
+        "endTime": 1948,
+        "speaker": "Duda Freitas",
+        "text": "Pega o lago. lá é G é o"
+      },
+      {
+        "startTime": 1948,
+        "endTime": 1959,
+        "speaker": "Diego Diehl",
+        "text": "que Na sala mirra."
+      },
+      {
+        "startTime": 1960,
+        "endTime": 1963,
+        "speaker": "Duda Freitas",
+        "text": "é que ele tem é tudo que ela ganha porque ele"
+      },
+      {
+        "startTime": 1963,
+        "endTime": 1998,
+        "speaker": "Diego Diehl",
+        "text": "Fazem dois então isso aqui ó. Estamos vendo um ABC. Com um período de Fevereiro se eu botar aqui Janeiro duplica seria só fevereiro. endereço beleza Até aqui aqui eu vejo data de lançamento Entrega Total de unidades, estoque do empreendimento então com pouco estoque lá já Venderam tudo quase Qual foi o vsco total vendido? Daí até aqui ó, vê que são linhas todas repetidas Claro tem três tipos de empreendimento, mas podia ter três linhas."
+      },
+      {
+        "startTime": 1998,
+        "endTime": 2030,
+        "speaker": "Diego Diehl",
+        "text": "Mas qual que é o nosso diferencial que é a granularidade do dado cada unidade vira uma linha. Cada variação. E aí aqui ó. Deixa eu pegar somente uma aqui agora. Deixa eu pegar um que tem pegar só essa fase 2 tá então é só um empreendimento. Quando eu pego aqui ó, o que que tá uma por que que são várias linhas? Que parecem repetidas."
+      },
+      {
+        "startTime": 2030,
+        "endTime": 2061,
+        "speaker": "Diego Diehl",
+        "text": "Porque deve ter porque a gente começa a contabilizar tipologia então é que é a quebra da tipologia dela 78 dessa 70 19 28. Percentual vendido tem apartamento tem cobertura duplex tem duplex mudou área privativa ou dormitório ou suíte ou vaga muda tipologia porque a gente sabe que o empreendimento de três quartos com uma vaga é uma coisa um empreendimento 3 quartos com duas vagas."
+      },
+      {
+        "startTime": 2061,
+        "endTime": 2086,
+        "speaker": "Diego Diehl",
+        "text": "É outra coisa é outro ticket. É outra coisa, então a gente separa todas as listas todos os números aqui e também contemplar o que sobrou deles aqui. Não sobrou de 40 nem de 75 Sobrou de 80 e 114. Ele clássico, né que a gente faz um maiorzinho melhor que sobra os pequenos."
+      },
+      {
+        "startTime": 2086,
+        "endTime": 2088,
+        "speaker": "Diego Diehl",
+        "text": "Aqui foram tudo."
+      },
+      {
+        "startTime": 2088,
+        "endTime": 2089,
+        "speaker": "Duda Freitas",
+        "text": "sim"
+      },
+      {
+        "startTime": 2089,
+        "endTime": 2091,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso gente aqui ó resumir."
+      },
+      {
+        "startTime": 2091,
+        "endTime": 2093,
+        "speaker": "Duda Freitas",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 2093,
+        "endTime": 2094,
+        "speaker": "Diego Diehl",
+        "text": "Que que vocês acharam dúvidas?"
+      },
+      {
+        "startTime": 2096,
+        "endTime": 2125,
+        "speaker": "Duda Freitas",
+        "text": "Eu tenho umas dúvidas cara aqui na Vulcan a gente utiliza a gel Brain, né? Como fonte de análise de mercados e eu queria entender de vocês hoje pelo pela ferramenta de vocês, o que que vocês consideram que hoje é um diferencial que vocês têm comparado a geobrem assim a utilização do dia a dia eu vi que vocês têm uma uma análise um pouco diferente ali em alguns pontos mas queria ouvir de você assim da tua visão."
+      },
+      {
+        "startTime": 2126,
+        "endTime": 2165,
+        "speaker": "Diego Diehl",
+        "text": "Tá vou tentar ser neutro aqui, tá? Acho que uma uma diferença de e eu contratei já as duas tá eu fui 10 anos de diretor incorporador então na Hype lá em Curitiba, já contratei pesquisa, já contratei já obreiro já contratei gel imóvel uma época, eu já contratei de tudo agora estando dentro da ordem faz dois anos e meio que que eu entendo de diferente, tá? É primeiro, a orla é uma empresa é um Marketplace que atualiza todos os dados mensalmente todas as incorporadoras possíveis."
+      },
+      {
+        "startTime": 2165,
+        "endTime": 2197,
+        "speaker": "Diego Diehl",
+        "text": "Tabela de preço a gente não é uma empresa de pesquisa. Então, por exemplo, a gente é parceiro aí em Balneário Camboriú da alfaplan, pega os meus dados Analisa e fornece dos com inclusive de Balneário. Eu falei o que que tá errado não porque tenho empreendimento que nasce ele tem 100 unidades, mas já nasce com 70 eu falo assim foram 30 vendidos ou tá travado não mas eu permutante sim."
+      },
+      {
+        "startTime": 2197,
+        "endTime": 2248,
+        "speaker": "Diego Diehl",
+        "text": "A Incorporadora vendeu 20 unidades por perguntante daí são os detalhes, né? A gente analisa o entendimento muito leva muito a sério isso então eu esqueci o nome do Lucas. Lucas Lucas, qual que é a diferença tá? Tem diferença de dado e de visualização e de empresa de empresa sua Marketplace seu distribua os produtos das incorporadoras para imobiliárias e Corretores e também tem esse dado abrem é uma empresa focada mais em pesquisa de dado a gente atualiza mensalmente todos os Empreendimentos que a gente tem com a tabela que eu busco abrem eu não sei em cada cidade, como é que funciona mas em algumas cidades ela manda uma planilha para Incorporadora para encher."
+      },
+      {
+        "startTime": 2248,
+        "endTime": 2278,
+        "speaker": "Diego Diehl",
+        "text": "E Incorporadora preenche com o que ela quiser, eu inclusive tive um empreendimento que estava ruim de vendas lá eu preencher que tinha mais vendido. Ou que eu vendi muito preencher menos entra um viés da Incorporadora com ela para encher o que ela quiser. Daí tem por exemplo uma uma consultoria que se chama vem me ver."
+      },
+      {
+        "startTime": 2278,
+        "endTime": 2313,
+        "speaker": "Diego Diehl",
+        "text": "Não sei se já conheci a vem me ver uma empresa consultoria, ela usou já os dois dados em todos tudo que é lugar, hoje, eles são parceiros nossos ele fala não existe dado mais confiável do que o da órgão. Aí a visualização a ferramenta o botãozinho eles investiram mais que a gente eu não foco nisso eu foco num dado para quem pegar fazer o que quiser."
+      },
+      {
+        "startTime": 2313,
+        "endTime": 2342,
+        "speaker": "Diego Diehl",
+        "text": "Então é um pouco isso tem empresa grande que usa os dois por um tempo e compara. Qual que é a minha diferença? Se você encontrar uma inconsistência no meu dado eu vou encontrar o porquê e vou bloquear porque eu não posso ter dado errado. Ah faltou vimos Empreendimentos aqui não tem na hora."
+      },
+      {
+        "startTime": 2342,
+        "endTime": 2330,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom me dá a lista dos 10 que é o cadastro e mantém atualizado todos os meses porque o meu minha missão é ter todos os lançamentos da cidade cadastrados e atualizados. cara"
+      },
+      {
+        "startTime": 2330,
+        "endTime": 2358,
+        "speaker": "Duda Freitas",
+        "text": "Não bacana, cara e outra dúvida e aqui a gente já tava até discutindo sobre isso mais cedo, né? A gente tem um índice pelo Zap, né que faz um ranqueamento do metro quadrado mais caro no Brasil e pela nossa experiência de mercado aqui pelo que a gente está acompanhando Porto Belo deveria estar no ranking, né pela nossa expectativa e eu queria ver contigo, por que que nesse caso o Porto Belo não entrou."
+      },
+      {
+        "startTime": 2358,
+        "endTime": 2365,
+        "speaker": "Duda Freitas",
+        "text": "Não sei porque os dados mostram de metragem quadrada, enfim ou se a gente pode levar esse em consideração."
+      },
+      {
+        "startTime": 2366,
+        "endTime": 2389,
+        "speaker": "Diego Diehl",
+        "text": "Sim, cara, sendo sincero aqui falando parceiros de mercado se pisar pela bosta. a bosta Inclusive a OLX a gente fez esse olho com eles mês passado que eles queriam integrar com a gente para ter os dados e tal e a gente queria os dados deles, porque eles têm dados bons, mas o levantamento é uma bosta."
+      },
+      {
+        "startTime": 2390,
+        "endTime": 2392,
+        "speaker": "Duda Freitas",
+        "text": "tá"
+      },
+      {
+        "startTime": 2392,
+        "endTime": 2403,
+        "speaker": "Diego Diehl",
+        "text": "Inclusive o meu marketing publicou com o Felipe eu como Incorporadora. Então, eles levam muito em consideração usados."
+      },
+      {
+        "startTime": 2403,
+        "endTime": 2404,
+        "speaker": "Duda Freitas",
+        "text": "Entendi, entendi."
+      },
+      {
+        "startTime": 2404,
+        "endTime": 2409,
+        "speaker": "Diego Diehl",
+        "text": "E a base de dados que eles têm f***-se o que existe é o que eles têm."
+      },
+      {
+        "startTime": 2410,
+        "endTime": 2411,
+        "speaker": "Duda Freitas",
+        "text": "Ah entendi, então é bem."
+      },
+      {
+        "startTime": 2411,
+        "endTime": 2424,
+        "speaker": "Diego Diehl",
+        "text": "E aí é cara, então assim ó hoje o metro quadrado vai pegar Porto dela aqui, ó. Hoje o metro quadrado médio de Porto Belo está em 16 mil de lançamento."
+      },
+      {
+        "startTime": 2426,
+        "endTime": 2427,
+        "speaker": "Duda Freitas",
+        "text": "Tá incluindo tudo, né?"
+      },
+      {
+        "startTime": 2427,
+        "endTime": 2439,
+        "speaker": "Diego Diehl",
+        "text": "é alto Pulando tudo, ó Itapema tá 16 Camboriú, tá 18 800 Balneário tá 28."
+      },
+      {
+        "startTime": 2439,
+        "endTime": 2442,
+        "speaker": "Duda Freitas",
+        "text": "Caso cena ali, né? Explode o metro quadrado."
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2478,
+        "speaker": "Diego Diehl",
+        "text": "Sim é menos não é tanto comparado ao vgv total de Balneário tal cena, não é tanto mas enfim impacta, né? Não estraga bairro impactam também e para o índice impacta também o que eu já vi Incorporadora fazer Lucas. É fazer a sua mídia. Tá ligado porque seria bom para Porto Belo mesmo, né? Tá e eu não sei o que tá destruindo aquela chuva não sei o que que estraga o dado de vocês aí."
+      },
+      {
+        "startTime": 2478,
+        "endTime": 2484,
+        "speaker": "Duda Freitas",
+        "text": "pois é"
+      },
+      {
+        "startTime": 2484,
+        "endTime": 2513,
+        "speaker": "Diego Diehl",
+        "text": "toque quadrado Porto Belo Ela tem essa aqui. Deixa eu tirar esse símbolo. Eu não tenho muito um pênalti. Mas enfim, sinto muito pelo zip zap."
+      },
+      {
+        "startTime": 2516,
+        "endTime": 2521,
+        "speaker": "Duda Freitas",
+        "text": "Bom, né, cara?"
+      },
+      {
+        "startTime": 2522,
+        "endTime": 2540,
+        "speaker": "Diego Diehl",
+        "text": "Criar uma e nos últimos anos os Empreendimentos. Houve muito desenvolvimento de tecnologia junto com inflação então subiu muito o preço dos lançamentos e os Adão ficou lá embaixo."
+      },
+      {
+        "startTime": 2541,
+        "endTime": 2542,
+        "speaker": "Duda Freitas",
+        "text": "sim"
+      },
+      {
+        "startTime": 2542,
+        "endTime": 2563,
+        "speaker": "Diego Diehl",
+        "text": "Usado Inclusive tem perfis, né de cliente tem gente que fala não vou pegar aqui ó 100 metros 130, Alto Grande, eu prefiro estar num 70 novinho redondinho com tecnologia com área comum top do que tá num veiaco, né? Mas os velhos atrapalham o preço do metro quadrado mesmo."
+      },
+      {
+        "startTime": 2565,
+        "endTime": 2576,
+        "speaker": "Duda Freitas",
+        "text": "Então tá cara, aquela minha parte é isso tranquilo vontade a gente vai levar isso adiante aqui dentro, vamos dar uma analisada entre."
+      },
+      {
+        "startTime": 2577,
+        "endTime": 2588,
+        "speaker": "Diego Diehl",
+        "text": "Me digam algo aí, pô, me dá um feedback, pô, foi uma transparente com vocês. Aí vocês vão dar uma olhada e te retorno me dá um feedback. Independente de compromisso comprar ou não, o que que vocês acharam?"
+      },
+      {
+        "startTime": 2588,
+        "endTime": 2618,
+        "speaker": "Duda Freitas",
+        "text": "Não cara assim questão de análise de dados, né? Eu cara eu tô aqui na empresa três meses recentemente assim gasto nem fechou três meses ainda, mas eu venho dessa parte de análise de dados de software, achei muito interessante todo levantamento que é feito ali e cara falou uma coisa que eu achei muito que eu acho que é muito voltado a minha parte que é cara, não me preocupei tanto aqui com essa parte com visual do penduricalho e te trazer mais dado correto."
+      },
+      {
+        "startTime": 2618,
+        "endTime": 2626,
+        "speaker": "Duda Freitas",
+        "text": "Eu sou muito chato com dados até alguns que são diretamente ligados a esse incomodar bastante aqui sabem que é"
+      },
+      {
+        "startTime": 2626,
+        "endTime": 2628,
+        "speaker": "Diego Diehl",
+        "text": "Você foi contratado para isso para ser chato com nada?"
+      },
+      {
+        "startTime": 2628,
+        "endTime": 2653,
+        "speaker": "Duda Freitas",
+        "text": "Foi contratado para isso então, eu sou chato com dado e achei muito interessante essa parte de ter uma equipe que valide isso, né? Que não sei uma uma pesquisa que não seja acho que isso é muito importante para essa questão de confiabilidade, né? A questão de ferramenta que ela entrega cara, tudo que me mostrasse assim o Da OLX para pegar o exemplo que tu deu ele pegasse o filtro da OLX já ia achar."
+      },
+      {
+        "startTime": 2653,
+        "endTime": 2710,
+        "speaker": "Duda Freitas",
+        "text": "Nossa que massa esse filtro aqui então por isso que eu trouxe o Lucas porque o Lucas tá mais por dentro da Brain, tem um outro colega também que já já usa essa ferramenta. Então a gente vai poder fazer esse comparativo, eu vou querer trocar uma ideia com Lucas depois para ver o qual é o comparativo das duas o que que uma entrega o que que a outra não entrega, né? Mas a questão de dados assim o que que ela entrega, eu achei bem interessante, principalmente o fato de ser forte nas capitais, sabe? Porque a gente já tá com a gente tem um mercado bem grande que a gente já explorou bastante o mercado aqui na região e eu acho que temos que buscar alguma coisa fora também, né? Então tendo esse esse cenário de conhecimento que vocês têm principalmente aí São Paulo, Porto Alegre, mas me chamou atenção nessa região de São Paulo vocês terem dominar essa região, né? Para a gente poder entrar melhor por aí e as imobiliárias terem acesso."
+      },
+      {
+        "startTime": 2710,
+        "endTime": 2713,
+        "speaker": "Duda Freitas",
+        "text": "Nas nossas então achei bem interessante mesmo."
+      },
+      {
+        "startTime": 2714,
+        "endTime": 2748,
+        "speaker": "Diego Diehl",
+        "text": "Que eu não aqui em São Paulo assim não tem negócio não tem negociação é tipo o preço de tabela e acabou até porque tem muito amigo, né? Então se eu negocio mais com um menos com o outro ele se conversam então aqui a gente tem os preços bem tabeladinhos aí cara, eu posso fazer um negócio bem legal para vocês usarem testarem para gerar valor em dados que você quiser dependendo cara o nosso negócio aí vai ser sei lá, r$ 1500, para que tudo."
+      },
+      {
+        "startTime": 2748,
+        "endTime": 2772,
+        "speaker": "Diego Diehl",
+        "text": "Aí vocês avaliam às vezes ter os dois pode ser uma opção para você também ter a confiar em uma é olhar se você vê divergência, vai lá e válida na ponta e aí a gente tá aberto sobre capilaridade comercial. É só um número para vocês terem uma uma visão aqui em São Paulo, todos os meses tem 1.200 novos usuários."
+      },
+      {
+        "startTime": 2772,
+        "endTime": 2795,
+        "speaker": "Diego Diehl",
+        "text": "E não para porque troca a gente vai então é a máquina de crescer e tal a gente tem 10 mil Empreendimentos. Nossa, segunda a segunda empresa do nosso nicho tem 2.700 sendo que 1300 São daí? Então o Brasil a gente tá realmente pode contribuir e a gente fez um Case legal com a vida com vitacon."
+      },
+      {
+        "startTime": 2795,
+        "endTime": 2819,
+        "speaker": "Diego Diehl",
+        "text": "Aprendeu a fazer isso externamente né? Para mim eles são referência de mercado em vender fora da onde eles são né? A Elber também então contem com a gente. Caso vocês queiram testar alguma coisa e às vezes até uma célulazinha Lucas, se você quiser testar do que eu já peguei de mercado de fazer um filtrinho lá e não fazer."
+      },
+      {
+        "startTime": 2819,
+        "endTime": 2841,
+        "speaker": "Diego Diehl",
+        "text": "Nossa não fazer uma mídia aqui contratar a televisão e fazer não pegar sem corretores lixados ativos, São Paulo fazer um negócio com eles, cara. Se você fizer isso em uma manhã. E fazer um negocinho uma campanha para por uma uma espinha, né? Ah tem um prêmio tem sei lá o que a gente vai fazer."
+      },
+      {
+        "startTime": 2841,
+        "endTime": 2861,
+        "speaker": "Diego Diehl",
+        "text": "Sei lá tal coisa e gerar uma venda para vocês. Você já vem o que foi feito com 100 podem ser pode ser feito com 5.000 depois né? Aí vocês podem ver um nicho de canal de vendas adicional, aí eu adoraria ter um Case aí com vocês, viu?"
+      },
+      {
+        "startTime": 2862,
+        "endTime": 2863,
+        "speaker": "Duda Freitas",
+        "text": "Tá bom interessante mesmo, com certeza é que é que tu sabe. Tu sabe como é"
+      },
+      {
+        "startTime": 2863,
+        "endTime": 2871,
+        "speaker": "Diego Diehl",
+        "text": "Fechou agora sim, pode fechar e fazer sacanagem, né? É brincadeira."
+      },
+      {
+        "startTime": 2871,
+        "endTime": 2872,
+        "speaker": "Duda Freitas",
+        "text": "que é o cara de exatas, né? Cara, cara. Às vezes aqui cara. Peguei nada."
+      },
+      {
+        "startTime": 2872,
+        "endTime": 2873,
+        "speaker": "Diego Diehl",
+        "text": "Eu sei eu sei eu sei."
+      },
+      {
+        "startTime": 2875,
+        "endTime": 2878,
+        "speaker": "Duda Freitas",
+        "text": "Beleza isso aí, agora vou analisar e bora entendeu? Por isso que eu trouxe o"
+      },
+      {
+        "startTime": 2878,
+        "endTime": 2879,
+        "speaker": "Diego Diehl",
+        "text": "Conte com a gente daqui um tempo aí."
+      },
+      {
+        "startTime": 2880,
+        "endTime": 2884,
+        "speaker": "Duda Freitas",
+        "text": "Lucas. O Lucas é mais mas essa parte aí, tá bom?"
+      },
+      {
+        "startTime": 2884,
+        "endTime": 2898,
+        "speaker": "Diego Diehl",
+        "text": "Mas irado por sinal em junho, a gente vai fazer um combo de evento em Floripa. Vocês vai ser Floripa Porto Belo Balneário e tal que a gente faz um workshop de estruturação do canal e parcerias que é uma consultoria junto com a gente"
+      },
+      {
+        "startTime": 2898,
+        "endTime": 2900,
+        "speaker": "Duda Freitas",
+        "text": "Claro, com certeza, ele tá bom Diego. Valeu gente. Um abraço."
+      },
+      {
+        "startTime": 2900,
+        "endTime": 2928,
+        "speaker": "Diego Diehl",
+        "text": "junto com outra que parcerias né, Lucas você é comercial, né? Essa parte de fazer escolha imobiliária. Por muito tempo parou no tempo, né? Tipo pega o carro visita Imobiliária Bate na Porta panfleto, como é que a gente faz a gestão desse Business todos e o litoral de Santa Catarina e é case viu Brasil assim porque vocês são muito fortes com vocês, não se apegaram a house."
+      },
+      {
+        "startTime": 2928,
+        "endTime": 2940,
+        "speaker": "Diego Diehl",
+        "text": "E ficou muito forte o mercado externo então irado. Acho que vocês vão chamar o mercado e bater em papo. Valeu, obrigado aí gente. Bom dia para vocês aí, valeu pessoal."
+      },
+      {
+        "startTime": 2940,
+        "endTime": 2941,
+        "speaker": "Luan Felipe de Souza",
+        "text": "Valeu pessoal, bom dia."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 148,
+    "speakers": [
+      "Duda Freitas",
+      "Diego Diehl",
+      "Luan Felipe de Souza"
+    ],
+    "total_words_estimate": 4861,
+    "duration_start": 49,
+    "duration_end": 2941
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "69c3f681b4447c00136caac2",
+        "timestamp": 786,
+        "text": "Dados são atualizados diariamente nos sites, CRM e para corretores das imobiliárias",
+        "topicId": "69c3f681b4447c00136caab7"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac9",
+        "timestamp": 1088,
+        "text": "Região tem 391 imobiliárias integradas ao sistema Órulo",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac3",
+        "timestamp": 1403,
+        "text": "Equipe de 30 pessoas valida dados através de pesquisa no Google e comunicação com corretores",
+        "topicId": "69c3f681b4447c00136caab7"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac5",
+        "timestamp": 1497,
+        "text": "Região possui 1.600 empreendimentos mapeados na base de dados",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac0",
+        "timestamp": 1556,
+        "text": "Plataforma oferece granularidade de dados por bairro, incorporadora, empreendimento, tipo e subtipo",
+        "topicId": "69c3f681b4447c00136caab7"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac1",
+        "timestamp": 1622,
+        "text": "Sistema permite filtros por dormitório, suíte, vaga, área privativa e período desde 2023",
+        "topicId": "69c3f681b4447c00136caab7"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac6",
+        "timestamp": 1745,
+        "text": "Porto Belo representa um terço de todo litoral mapeado em estoque de unidades",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac4",
+        "timestamp": 1832,
+        "text": "Porto Belo tem 287 unidades em estoque com VGV de 543 milhões em fevereiro 2025",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caabf",
+        "timestamp": 2154,
+        "text": "Órulo é marketplace que atualiza dados mensalmente de todas incorporadoras e tabelas de preço",
+        "topicId": "69c3f681b4447c00136caab7"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caaca",
+        "timestamp": 2213,
+        "text": "Órulo atualiza mensalmente com dados de incorporadoras, enquanto GeoBrain usa pesquisa com viés",
+        "topicId": "69c3f681b4447c00136caab9"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caacb",
+        "timestamp": 2248,
+        "text": "GeoBrain permite incorporadora preencher dados como desejar, criando inconsistências",
+        "topicId": "69c3f681b4447c00136caab9"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caacc",
+        "timestamp": 2278,
+        "text": "Consultoria Vem Me Ver valida Órulo como dado mais confiável do mercado",
+        "topicId": "69c3f681b4447c00136caab9"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caacd",
+        "timestamp": 2324,
+        "text": "Órulo bloqueia inconsistências encontradas e mantém todos lançamentos cadastrados mensalmente",
+        "topicId": "69c3f681b4447c00136caab9"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caace",
+        "timestamp": 2336,
+        "text": "Porto Belo deveria estar em ranking Zap de metro quadrado mais caro Brasil",
+        "topicId": "69c3f681b4447c00136caaba"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caacf",
+        "timestamp": 2398,
+        "text": "Zap considera imóveis usados em levantamento, impactando negativamente preço médio",
+        "topicId": "69c3f681b4447c00136caaba"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac7",
+        "timestamp": 2417,
+        "text": "Metro quadrado médio de lançamento em Porto Belo está em 16 mil reais",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caac8",
+        "timestamp": 2427,
+        "text": "Itapema está em 16 mil, Camboriú em 18.800 e Balneário em 28 mil metro quadrado",
+        "topicId": "69c3f681b4447c00136caab8"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caad0",
+        "timestamp": 2558,
+        "text": "Imóveis antigos prejudicam preço metro quadrado mesmo com novos lançamentos caros",
+        "topicId": "69c3f681b4447c00136caaba"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caabc",
+        "timestamp": 2577,
+        "text": "Duda analisar dados apresentados e retornar feedback sobre ferramenta Órulo",
+        "topicId": "69c3f681b4447c00136caab6"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caabd",
+        "timestamp": 2663,
+        "text": "Duda comparar Órulo com GeoBrain junto com Lucas para avaliar diferenciais",
+        "topicId": "69c3f681b4447c00136caab6"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caabe",
+        "timestamp": 2724,
+        "text": "Diego fornecer proposta comercial com preço tabelado para teste da ferramenta",
+        "topicId": "69c3f681b4447c00136caab6"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caad1",
+        "timestamp": 2764,
+        "text": "São Paulo tem 1.200 novos usuários mensais e 10 mil empreendimentos mapeados",
+        "topicId": "69c3f681b4447c00136caabb"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caad2",
+        "timestamp": 2780,
+        "text": "Órulo tem segunda maior base de dados do nicho com 10 mil empreendimentos vs 2.700 concorrentes",
+        "topicId": "69c3f681b4447c00136caabb"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caad4",
+        "timestamp": 2819,
+        "text": "Possibilidade de campanha com corretores ativos São Paulo para gerar vendas Vokkan",
+        "topicId": "69c3f681b4447c00136caabb"
+      },
+      {
+        "segmentId": "69c3f681b4447c00136caad3",
+        "timestamp": 2889,
+        "text": "Workshop em junho em Floripa sobre estruturação de canal e parcerias com Órulo",
+        "topicId": "69c3f681b4447c00136caabb"
+      }
+    ],
+    "markdownContent": "# 1. Itens de Ação\n\n- [ ] Duda analisar dados apresentados e retornar feedback sobre ferramenta Órulo [42:57](/app/meetings/69c3ea62dbc75500136ae5ab?t=2577)\n- [ ] Duda comparar Órulo com GeoBrain junto com Lucas para avaliar diferenciais [44:23](/app/meetings/69c3ea62dbc75500136ae5ab?t=2663)\n- [ ] Diego fornecer proposta comercial com preço tabelado para teste da ferramenta [45:24](/app/meetings/69c3ea62dbc75500136ae5ab?t=2724)\n\n# 2. Apresentação da Plataforma Órulo\n\n- Órulo é marketplace que atualiza dados mensalmente de todas incorporadoras e tabelas de preço [35:54](/app/meetings/69c3ea62dbc75500136ae5ab?t=2154)\n- Plataforma oferece granularidade de dados por bairro, incorporadora, empreendimento, tipo e subtipo [25:56](/app/meetings/69c3ea62dbc75500136ae5ab?t=1556)\n- Sistema permite filtros por dormitório, suíte, vaga, área privativa e período desde 2023 [27:02](/app/meetings/69c3ea62dbc75500136ae5ab?t=1622)\n- Dados são atualizados diariamente nos sites, CRM e para corretores das imobiliárias [13:06](/app/meetings/69c3ea62dbc75500136ae5ab?t=786)\n- Equipe de 30 pessoas valida dados através de pesquisa no Google e comunicação com corretores [23:23](/app/meetings/69c3ea62dbc75500136ae5ab?t=1403)\n\n# 3. Dados de Mercado Porto Belo, Itapema e Balneário\n\n- Porto Belo tem 287 unidades em estoque com VGV de 543 milhões em fevereiro 2025 [30:32](/app/meetings/69c3ea62dbc75500136ae5ab?t=1832)\n- Região possui 1.600 empreendimentos mapeados na base de dados [24:57](/app/meetings/69c3ea62dbc75500136ae5ab?t=1497)\n- Porto Belo representa um terço de todo litoral mapeado em estoque de unidades [29:05](/app/meetings/69c3ea62dbc75500136ae5ab?t=1745)\n- Metro quadrado médio de lançamento em Porto Belo está em 16 mil reais [40:17](/app/meetings/69c3ea62dbc75500136ae5ab?t=2417)\n- Itapema está em 16 mil, Camboriú em 18.800 e Balneário em 28 mil metro quadrado [40:27](/app/meetings/69c3ea62dbc75500136ae5ab?t=2427)\n- Região tem 391 imobiliárias integradas ao sistema Órulo [18:08](/app/meetings/69c3ea62dbc75500136ae5ab?t=1088)\n\n# 4. Diferenças Órulo vs GeoBrain\n\n- Órulo atualiza mensalmente com dados de incorporadoras, enquanto GeoBrain usa pesquisa com viés [36:53](/app/meetings/69c3ea62dbc75500136ae5ab?t=2213)\n- GeoBrain permite incorporadora preencher dados como desejar, criando inconsistências [37:28](/app/meetings/69c3ea62dbc75500136ae5ab?t=2248)\n- Consultoria Vem Me Ver valida Órulo como dado mais confiável do mercado [37:58](/app/meetings/69c3ea62dbc75500136ae5ab?t=2278)\n- Órulo bloqueia inconsistências encontradas e mantém todos lançamentos cadastrados mensalmente [38:44](/app/meetings/69c3ea62dbc75500136ae5ab?t=2324)\n\n# 5. Questões sobre Ranking de Metro Quadrado\n\n- Porto Belo deveria estar em ranking Zap de metro quadrado mais caro Brasil [38:56](/app/meetings/69c3ea62dbc75500136ae5ab?t=2336)\n- Zap considera imóveis usados em levantamento, impactando negativamente preço médio [39:58](/app/meetings/69c3ea62dbc75500136ae5ab?t=2398)\n- Imóveis antigos prejudicam preço metro quadrado mesmo com novos lançamentos caros [42:38](/app/meetings/69c3ea62dbc75500136ae5ab?t=2558)\n\n# 6. Oportunidades Comerciais\n\n- São Paulo tem 1.200 novos usuários mensais e 10 mil empreendimentos mapeados [46:04](/app/meetings/69c3ea62dbc75500136ae5ab?t=2764)\n- Órulo tem segunda maior base de dados do nicho com 10 mil empreendimentos vs 2.700 concorrentes [46:20](/app/meetings/69c3ea62dbc75500136ae5ab?t=2780)\n- Workshop em junho em Floripa sobre estruturação de canal e parcerias com Órulo [48:09](/app/meetings/69c3ea62dbc75500136ae5ab?t=2889)\n- Possibilidade de campanha com corretores ativos São Paulo para gerar vendas Vokkan [46:59](/app/meetings/69c3ea62dbc75500136ae5ab?t=2819)",
+    "topics": [
+      {
+        "id": "69c3f681b4447c00136caab6",
+        "order": 1,
+        "title": "Itens de Ação",
+        "summary": ""
+      },
+      {
+        "id": "69c3f681b4447c00136caab7",
+        "order": 2,
+        "title": "Apresentação da Plataforma Órulo",
+        "summary": ""
+      },
+      {
+        "id": "69c3f681b4447c00136caab8",
+        "order": 3,
+        "title": "Dados de Mercado Porto Belo, Itapema e Balneário",
+        "summary": ""
+      },
+      {
+        "id": "69c3f681b4447c00136caab9",
+        "order": 4,
+        "title": "Diferenças Órulo vs GeoBrain",
+        "summary": ""
+      },
+      {
+        "id": "69c3f681b4447c00136caaba",
+        "order": 5,
+        "title": "Questões sobre Ranking de Metro Quadrado",
+        "summary": ""
+      },
+      {
+        "id": "69c3f681b4447c00136caabb",
+        "order": 6,
+        "title": "Oportunidades Comerciais",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 25,
+    "topic_count": 6,
+    "has_markdown": true
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "69c3f681b4447c00136caab6",
+      "order": 1,
+      "title": "Itens de Ação",
+      "summary": ""
+    },
+    {
+      "id": "69c3f681b4447c00136caab7",
+      "order": 2,
+      "title": "Apresentação da Plataforma Órulo",
+      "summary": ""
+    },
+    {
+      "id": "69c3f681b4447c00136caab8",
+      "order": 3,
+      "title": "Dados de Mercado Porto Belo, Itapema e Balneário",
+      "summary": ""
+    },
+    {
+      "id": "69c3f681b4447c00136caab9",
+      "order": 4,
+      "title": "Diferenças Órulo vs GeoBrain",
+      "summary": ""
+    },
+    {
+      "id": "69c3f681b4447c00136caaba",
+      "order": 5,
+      "title": "Questões sobre Ranking de Metro Quadrado",
+      "summary": ""
+    },
+    {
+      "id": "69c3f681b4447c00136caabb",
+      "order": 6,
+      "title": "Oportunidades Comerciais",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:52:01.026860+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:52:01.026860+00:00"
+}

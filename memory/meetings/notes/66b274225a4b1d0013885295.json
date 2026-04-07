@@ -1,0 +1,97 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66b2788f2ae5e600121f293e",
+      "timestamp": 1,
+      "text": "Leandro ausente devido a cirurgia, necessidade de remarcar reunião para amanhã.",
+      "topicId": "66b2788f2ae5e600121f293a"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f293f",
+      "timestamp": 76,
+      "text": "Expectativa dos participantes para a reunião, foco em demonstrar a imagem em vez de passar pela plataforma toda.",
+      "topicId": "66b2788f2ae5e600121f293a"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2940",
+      "timestamp": 134,
+      "text": "Luciano propõe apresentação geral da plataforma, com Gabriel tirando dúvidas, devido à ausência do Leandro.",
+      "topicId": "66b2788f2ae5e600121f293a"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2941",
+      "timestamp": 367,
+      "text": "Alejandro explica o fluxo da demonstração, com foco em atender dúvidas de corretores sobre empreendimentos específicos.",
+      "topicId": "66b2788f2ae5e600121f293b"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2942",
+      "timestamp": 460,
+      "text": "Diego e Alejandro detalham as principais dores dos corretores, como solicitação de informações atualizadas e envio de arquivos.",
+      "topicId": "66b2788f2ae5e600121f293b"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2943",
+      "timestamp": 566,
+      "text": "Eduardo enfatiza que o objetivo não é fazer uma busca de vários imóveis, mas sim atender dúvidas sobre imóveis específicos.",
+      "topicId": "66b2788f2ae5e600121f293b"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2944",
+      "timestamp": 634,
+      "text": "Diego apresenta a solução de conectar o robô aos gerentes de parcerias no WhatsApp, com o robô respondendo às solicitações dos corretores.",
+      "topicId": "66b2788f2ae5e600121f293c"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2945",
+      "timestamp": 722,
+      "text": "Leandro menciona uma solução anterior com a Remax, onde o telefone do corretor funcionava como uma Alexa para ativar o robô.",
+      "topicId": "66b2788f2ae5e600121f293c"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2946",
+      "timestamp": 894,
+      "text": "Diego questiona sobre a possibilidade de restringir o que o robô responde, e Leandro explica a necessidade de estabelecer um prompt de conversa.",
+      "topicId": "66b2788f2ae5e600121f293c"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2947",
+      "timestamp": 981,
+      "text": "Alejandro solicita que Gabriel implemente a autenticação de API e o controle de download de arquivos.",
+      "topicId": "66b2788f2ae5e600121f293d"
+    },
+    {
+      "segmentId": "66b2788f2ae5e600121f2948",
+      "timestamp": 1052,
+      "text": "Alejandro encerra a reunião, sugerindo que a conversa continue amanhã após a recuperação do Leandro.",
+      "topicId": "66b2788f2ae5e600121f293d"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66b2788f2ae5e600121f293a",
+      "order": 1,
+      "title": "Preparação da demonstração",
+      "summary": "Discussão sobre a preparação da demonstração, incluindo a ausência do Leandro devido a uma cirurgia e a necessidade de remarcar a reunião."
+    },
+    {
+      "id": "66b2788f2ae5e600121f293b",
+      "order": 2,
+      "title": "Definição do fluxo da demonstração",
+      "summary": "Discussão sobre o fluxo da demonstração, com foco em atender as dúvidas de corretores sobre empreendimentos específicos."
+    },
+    {
+      "id": "66b2788f2ae5e600121f293c",
+      "order": 3,
+      "title": "Integração do robô com o WhatsApp",
+      "summary": "Discussão sobre a integração do robô com o WhatsApp, incluindo a possibilidade de ativação do robô por comando e a necessidade de restringir as respostas do robô."
+    },
+    {
+      "id": "66b2788f2ae5e600121f293d",
+      "order": 4,
+      "title": "Próximos passos",
+      "summary": "Definição de próximos passos, incluindo a necessidade de implementar a autenticação de API e o controle de download de arquivos."
+    }
+  ]
+}

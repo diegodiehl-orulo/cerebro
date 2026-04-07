@@ -1,0 +1,1444 @@
+{
+  "meeting_id": "66ba1c66d100070013ee0849",
+  "name": "Órulo - Daily",
+  "happened_at": "2024-08-12T14:30:00.000Z",
+  "duration_seconds": 1891.017,
+  "duration_minutes": 31.5,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "victor@filterfeed.com.br"
+    },
+    {
+      "name": "Diogo Fernandes",
+      "email": "diogo.fernandes@avodh.com.br"
+    },
+    {
+      "name": "Johnny Fernandes",
+      "email": "johnny.fernandes@avodh.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/66ba1c66d100070013ee0849",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "det-tdoa-arn",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "66ba1c9fc2580400131af877",
+    "meetingId": "66ba1c66d100070013ee0849",
+    "data": [
+      {
+        "startTime": 1,
+        "endTime": 42,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas está rodando já Victor, o que a gente percebeu ali. é Que tem uma situação. Que assim nem todo o time estava conectado no WhatsApp, entendeu ainda aí o que aconteceu ali. Teve duas pessoas que abordou pelo WhatsApp principal pelo primeiro WhatsApp que acho que foi conectado. Já abordou pelo nome do gerente? Mas não pelo WhatsApp do gerente, porque o WhatsApp dele não estava conectado ainda aí pegou o WhatsApp da Kátia ela mesmo, entendeu?"
+      },
+      {
+        "startTime": 43,
+        "endTime": 51,
+        "speaker": "Victor Figueredo",
+        "text": "Sim, é o que eu imaginei também. Aí seria o caso de filtrar por quem tá conectado, né na automação ali ou conectar todo mundo ver."
+      },
+      {
+        "startTime": 51,
+        "endTime": 51,
+        "speaker": "Johnny Fernandes",
+        "text": "O Vitor tava perguntando da roleta aqui."
+      },
+      {
+        "startTime": 51,
+        "endTime": 52,
+        "speaker": "Victor Figueredo",
+        "text": "Como é que faz?"
+      },
+      {
+        "startTime": 52,
+        "endTime": 79,
+        "speaker": "Johnny Fernandes",
+        "text": "Assim não mais o Diego a ideia dele é conectar todo mundo mesmo ele. E disse que na sexta a ideia era colocar todo mundo. Para que? Para que possa ficar 100% isso daí, né? O da roleta ele já tá rolando bem. O ajustou na quinta ou na sexta mesmo."
+      },
+      {
+        "startTime": 79,
+        "endTime": 101,
+        "speaker": "Johnny Fernandes",
+        "text": "Uma outra melhoria lá que foi a seguinte, né? Por o corretor que já tiver como já tiver responsável. Ele não rolar a roleta, entendeu? Vai para o mesmo cara que já é o responsável. Para não ficar pegando esse cara e distribuindo ele cada oportunidade para pessoas diferentes, entendeu?"
+      },
+      {
+        "startTime": 101,
+        "endTime": 101,
+        "speaker": "Victor Figueredo",
+        "text": "Legal legal boa Legal."
+      },
+      {
+        "startTime": 104,
+        "endTime": 140,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí o que vai faltar é a gente tá com desafio de fazer a roleta nos usuários colaboradores. que é o caso que Um cliente ali, né? Um corretor vai ter tipo três usuários colaboradores e nenhum responsável. Aí mas como a gente eu vou importar a base amanhã. Não é uma preocupação assim de imediato, entendeu? Porque não é uma situação que está acontecendo realmente."
+      },
+      {
+        "startTime": 140,
+        "endTime": 152,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas todas as outras situações. Já estão contempladas. Você teria mais algum ponto que você?"
+      },
+      {
+        "startTime": 152,
+        "endTime": 155,
+        "speaker": "Victor Figueredo",
+        "text": "observando aí, né? E observa."
+      },
+      {
+        "startTime": 155,
+        "endTime": 180,
+        "speaker": "Johnny Fernandes",
+        "text": "Sim, mas ficou bom o Eduardo o Eduardo o Diego passou na sexta final do dia uma mensagem para ajustar a segunda mensagem, quando não é um novo líder. Aí eu vou colocar para ajustar isso entre hoje amanhã, né? Eu tinha pedido na quinta, ele mandou na sexta final do dia."
+      },
+      {
+        "startTime": 180,
+        "endTime": 206,
+        "speaker": "Johnny Fernandes",
+        "text": "Que o cronograma de jogo também para dar uma olhada. É só para antes da gente entrar aqui e acho que o dinheiro talvez não vai entrar vai entrar mais tarde. Eu só queria tirar uma dúvida ali a com o Vitor sobre o a ideia das Árvores. Você já chegou? Você já chegou a conectar ali as armas?"
+      },
+      {
+        "startTime": 206,
+        "endTime": 210,
+        "speaker": "Victor Figueredo",
+        "text": "Não eu tô sempre aí de desse cliente."
+      },
+      {
+        "startTime": 210,
+        "endTime": 212,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendi. o Diogo"
+      },
+      {
+        "startTime": 212,
+        "endTime": 216,
+        "speaker": "Victor Figueredo",
+        "text": "Tipo a gente conectar ela é tranquila que eu não tô a gente."
+      },
+      {
+        "startTime": 216,
+        "endTime": 218,
+        "speaker": "Johnny Fernandes",
+        "text": "Não tá fechado."
+      },
+      {
+        "startTime": 218,
+        "endTime": 221,
+        "speaker": "Victor Figueredo",
+        "text": "A gente conecta contrata as instâncias lá libera a galera"
+      },
+      {
+        "startTime": 221,
+        "endTime": 225,
+        "speaker": "Johnny Fernandes",
+        "text": "Henrique"
+      },
+      {
+        "startTime": 225,
+        "endTime": 228,
+        "speaker": "Victor Figueredo",
+        "text": "pluga, entendeu? Tem segredo não."
+      },
+      {
+        "startTime": 228,
+        "endTime": 231,
+        "speaker": "Diogo Fernandes",
+        "text": "Do que que você precisa Victor para eu entender?"
+      },
+      {
+        "startTime": 231,
+        "endTime": 238,
+        "speaker": "Victor Figueredo",
+        "text": "Eu acho que é mais com o pessoal da hora no mesmo entendeu? Tipo se a gente Em que momento que a gente tá né? Se a gente já é para liberar."
+      },
+      {
+        "startTime": 238,
+        "endTime": 241,
+        "speaker": "Diogo Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 241,
+        "endTime": 242,
+        "speaker": "Victor Figueredo",
+        "text": "Qual que é o estado do cliente?"
+      },
+      {
+        "startTime": 245,
+        "endTime": 266,
+        "speaker": "Johnny Fernandes",
+        "text": "bife aqui com Vitor sobre esse processo. Como a ideia a gente alinhar essa dele aí esses projetos da orla ali? Eu acho que a gente pode eu poderia adiantar já para dar os próximos passos aí das Árvores pelo menos com o Vitor ali, entendeu?"
+      },
+      {
+        "startTime": 266,
+        "endTime": 273,
+        "speaker": "Diogo Fernandes",
+        "text": "Sim podemos aproveitar enquanto Diego não entrou o final a gente. Vê os comentários dele."
+      },
+      {
+        "startTime": 273,
+        "endTime": 280,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá o importante também assim essa reunião e até meio-dia no máximo por mais que ele entrar 11:50. Por mais que ele entrar 11:50."
+      },
+      {
+        "startTime": 280,
+        "endTime": 280,
+        "speaker": "Diogo Fernandes",
+        "text": "Sim vou manter o horário sim."
+      },
+      {
+        "startTime": 280,
+        "endTime": 301,
+        "speaker": "Johnny Fernandes",
+        "text": "A gente tem que ficar sem horário, né de término nessa reunião e eu terminei 1:30. Já então acaba tarde. O Vitor vou então só te bifar aqui porque a ideia e a gente tipo tirar as pedras do caminho, entendeu?"
+      },
+      {
+        "startTime": 301,
+        "endTime": 306,
+        "speaker": "Victor Figueredo",
+        "text": "Tá bom que eu imagino que logo no começo vai ter muito do seu lado muito do meu também e depois a"
+      },
+      {
+        "startTime": 306,
+        "endTime": 310,
+        "speaker": "Johnny Fernandes",
+        "text": "Deixa eu só pegar aqui o TXT que eu tenho deles."
+      },
+      {
+        "startTime": 317,
+        "endTime": 322,
+        "speaker": "Victor Figueredo",
+        "text": "vai andando, né, mas a ideia a gente tentar acompanhar mais de perto aí especialmente nesse comecinho, né?"
+      },
+      {
+        "startTime": 323,
+        "endTime": 346,
+        "speaker": "Johnny Fernandes",
+        "text": "Sim, é porque como o produto tá se tá se modelando ainda se moldando, né? Eu acredito que tipo assim quando chegar no quarto. Vai estar tudo mais Redondo assim, tipo o cronograma já vai estar subtec certinho do que tem que fazer do meu lado do que eu tenho que ajustar de automação também do seu lado também já vai estar mais detalhado."
+      },
+      {
+        "startTime": 346,
+        "endTime": 366,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendeu? Essa ideia na verdade. Porque tipo assim como a gente não tem quando é plug somente pelo menos já tenho a receita do bolo aqui, entendeu? Nesse que a gente tem a órulo interfere feed e ter ajustes nossos pertinentes a ouro a gente não tem a receita do bolo toda desenhada ainda."
+      },
+      {
+        "startTime": 366,
+        "endTime": 403,
+        "speaker": "Johnny Fernandes",
+        "text": "Então, quando eu estiver tipo assim, quando chegar o quarto cliente o terceiro quarto de cliente, esse já tipo Vitor, ó, temos que fazer essas três atividades. Eu sei que eu tenho essa círculo aqui com o time de deve da hora, entendeu? Fica mais fácil. Fica mais replicável, né? Deixa eu pegar aqui a ideia é as árvores compartilhar a tela."
+      },
+      {
+        "startTime": 403,
+        "endTime": 431,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí dessa árvores é um projeto um pouco mais simples tá bem mais simples na verdade no final das contas porque ele vai envolver. Um gerente de parceria só nesse momento, tá? Então qual que é a ideia é conectar o WhatsApp em um gerente lá tá então aqui até no dia dois, né, ó."
+      },
+      {
+        "startTime": 431,
+        "endTime": 451,
+        "speaker": "Johnny Fernandes",
+        "text": "A conta já foi criada e fez uma réplica da conta modelo da orla para eles lá, né? Já criamos usuários de integração. E aí eu não sei se foi eu acho que foi o Lucas o Lucas que mandou alguma mensagem do meu time. Ele no dia 6/08."
+      },
+      {
+        "startTime": 451,
+        "endTime": 454,
+        "speaker": "Victor Figueredo",
+        "text": "acho"
+      },
+      {
+        "startTime": 454,
+        "endTime": 462,
+        "speaker": "Johnny Fernandes",
+        "text": "Teoricamente ele deveria ter te mandado o usuário de integração lá. Da ideia das Árvores. Mas eu posso mandar agora?"
+      },
+      {
+        "startTime": 462,
+        "endTime": 464,
+        "speaker": "Diogo Fernandes",
+        "text": "Acho que ele colocou no grupo."
+      },
+      {
+        "startTime": 464,
+        "endTime": 469,
+        "speaker": "Victor Figueredo",
+        "text": "falou de quem que era, né? Eu assumi que era do da"
+      },
+      {
+        "startTime": 470,
+        "endTime": 497,
+        "speaker": "Johnny Fernandes",
+        "text": "Mas você tá com o usuário aí, né? Então, beleza, então, o que que qual que é o mais prioritário lá, né? O que eles querem urgentemente porque tipo assim lá o time de parcerias é um cara hoje, eles reduziram eram três teve que diminuir o time ficou uma pessoa."
+      },
+      {
+        "startTime": 497,
+        "endTime": 523,
+        "speaker": "Johnny Fernandes",
+        "text": "E essa pessoa tá conversando com certeza de corretores, entendeu? Então o principal deles lá é ativar o bote. No WhatsApp desse gerente para o bote aí a né responder os corretores e enviar os arquivos. arquivos. Eu sei que esse ponto aqui a gente está ainda como é que tá aí, você acha que tá que ponto que como que tá o avanço disso?"
+      },
+      {
+        "startTime": 525,
+        "endTime": 535,
+        "speaker": "Victor Figueredo",
+        "text": "Tá em validação isso daí com a? Mauro já tá bem avançado não entrou em produção ainda, mas tá um step antes de produção."
+      },
+      {
+        "startTime": 535,
+        "endTime": 539,
+        "speaker": "Johnny Fernandes",
+        "text": "Entendi, porque isso aqui é o ponto assim."
+      },
+      {
+        "startTime": 539,
+        "endTime": 540,
+        "speaker": "Victor Figueredo",
+        "text": "Tá isso daí já é para a gente"
+      },
+      {
+        "startTime": 540,
+        "endTime": 546,
+        "speaker": "Johnny Fernandes",
+        "text": "É a necessidade de primária deles lá, entendeu? Então o que você?"
+      },
+      {
+        "startTime": 546,
+        "endTime": 550,
+        "speaker": "Victor Figueredo",
+        "text": "configurar já é para conectar ativar fazer os procedimentos do nosso lado."
+      },
+      {
+        "startTime": 550,
+        "endTime": 580,
+        "speaker": "Johnny Fernandes",
+        "text": "Pode já pode conectar aqui só falar. Pode conectar aqui já tá bom na ideia das Árvores. Pode conectar o a Filter Fi de lá e ah o próprio. Fazer tudo lá, e aí? Não precisa meio que medir esse avanço dessa Vitor. Para poder para poder disponibilizar ela aqui para esse projeto, entendeu?"
+      },
+      {
+        "startTime": 580,
+        "endTime": 583,
+        "speaker": "Victor Figueredo",
+        "text": "Para certinho também, né ou para isso daí especificamente."
+      },
+      {
+        "startTime": 583,
+        "endTime": 584,
+        "speaker": "Johnny Fernandes",
+        "text": "A cetim acho que nem vai ter isso"
+      },
+      {
+        "startTime": 584,
+        "endTime": 589,
+        "speaker": "Victor Figueredo",
+        "text": "Tranquilo, tranquilo."
+      },
+      {
+        "startTime": 589,
+        "endTime": 591,
+        "speaker": "Johnny Fernandes",
+        "text": "nesse momento agora, entendeu?"
+      },
+      {
+        "startTime": 591,
+        "endTime": 593,
+        "speaker": "Victor Figueredo",
+        "text": "tá"
+      },
+      {
+        "startTime": 593,
+        "endTime": 598,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso para ideias é tipo a prioridade deles, entendeu?"
+      },
+      {
+        "startTime": 598,
+        "endTime": 604,
+        "speaker": "Victor Figueredo",
+        "text": "Entendi tranquilo não bom a gente tá fazendo essa aliando aqui esses"
+      },
+      {
+        "startTime": 604,
+        "endTime": 605,
+        "speaker": "Johnny Fernandes",
+        "text": "sim"
+      },
+      {
+        "startTime": 605,
+        "endTime": 613,
+        "speaker": "Victor Figueredo",
+        "text": "pontos. mas tá"
+      },
+      {
+        "startTime": 613,
+        "endTime": 615,
+        "speaker": "Johnny Fernandes",
+        "text": "eu vou ver de qualquer forma com a"
+      },
+      {
+        "startTime": 615,
+        "endTime": 633,
+        "speaker": "Victor Figueredo",
+        "text": "Assim Lembrei aqui que é um ponto importante aqui do nosso lado para a gente se coordenar também nessas testes de subtecs puder incluir a gente no que no que der eu agradeço também um ponto de vista de planejamento aqui nos ajuda. Entender Qual que é a configuração da setinha o Diego? setinha o Diego he?"
+      },
+      {
+        "startTime": 633,
+        "endTime": 635,
+        "speaker": "Johnny Fernandes",
+        "text": "Fala de novo Bom dia."
+      },
+      {
+        "startTime": 635,
+        "endTime": 641,
+        "speaker": "Diego Diehl",
+        "text": "Fala pessoal. Desculpa o atraso tava fechando mais um negócio faz parte."
+      },
+      {
+        "startTime": 641,
+        "endTime": 647,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá tranquilo, eu só comentei com o pessoal aqui Diego para gente ir até no máximo meio-dia, porque eu já me"
+      },
+      {
+        "startTime": 647,
+        "endTime": 648,
+        "speaker": "Diego Diehl",
+        "text": "Suave vai ser todo dia tudo bem."
+      },
+      {
+        "startTime": 648,
+        "endTime": 654,
+        "speaker": "Johnny Fernandes",
+        "text": "marquei a reunião uma hora da tarde então se a gente De boa tranquilo na sexta, desculpa lá eu tive compromisso não podia"
+      },
+      {
+        "startTime": 656,
+        "endTime": 664,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô me adaptando ainda para saber que eu tenho que entrar uns e-mails certinho, mas a gente vai tracionando."
+      },
+      {
+        "startTime": 664,
+        "endTime": 667,
+        "speaker": "Johnny Fernandes",
+        "text": "ficar até mais tarde, entendeu? Aí eu esperei ele 8 minutos."
+      },
+      {
+        "startTime": 667,
+        "endTime": 669,
+        "speaker": "Diego Diehl",
+        "text": "Tá suave?"
+      },
+      {
+        "startTime": 669,
+        "endTime": 671,
+        "speaker": "Johnny Fernandes",
+        "text": "Beleza, você levanta a mão aí né, Diego? Você quer?"
+      },
+      {
+        "startTime": 671,
+        "endTime": 694,
+        "speaker": "Diego Diehl",
+        "text": "É assim, eu não sei o que que vocês conversaram já mas eu queria em um minutinho falar o básico que precisa avançar porque vai ser diário então básico, né? Dá certinho que precisa o que eu preciso receber é Diego Está ok o cadastro de corretores por meio do envio de emojis do WhatsApp E aí Está, ok? Esse é o nível 1."
+      },
+      {
+        "startTime": 694,
+        "endTime": 715,
+        "speaker": "Diego Diehl",
+        "text": "Está ok, a gente testou validou e eu posso abrir para os coordenadores os gerentes da setinha realizar nisso. É isso daí até um ponto queria avaliar com o Vitor se a gente pode. Ajustar o Emoji que aquele emoji tá muito estranho, meu amigo."
+      },
+      {
+        "startTime": 715,
+        "endTime": 716,
+        "speaker": "Victor Figueredo",
+        "text": "Podemos sim claro tem uma sugestão"
+      },
+      {
+        "startTime": 716,
+        "endTime": 718,
+        "speaker": "Diego Diehl",
+        "text": "Tá não sei."
+      },
+      {
+        "startTime": 718,
+        "endTime": 719,
+        "speaker": "Victor Figueredo",
+        "text": "se tiver pode mandar para a gente."
+      },
+      {
+        "startTime": 719,
+        "endTime": 737,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou pedir para o cliente para ele sentir que ele personalizou o produto dele, né? Eu não vou inventar então eu eu mando daí eu vou dar a instrução para ele sobre emojis de rastrear cadastrar com isso já vai estar rastreando a conversa parar de rastrear e voltar a rastrear."
+      },
+      {
+        "startTime": 737,
+        "endTime": 746,
+        "speaker": "Diego Diehl",
+        "text": "Aí com isso na setinha, a gente está no estado de estamos terminando de subir os corretores lá Imobiliários, não sei se já terminou."
+      },
+      {
+        "startTime": 746,
+        "endTime": 748,
+        "speaker": "Johnny Fernandes",
+        "text": "Para terminar hoje eu digo."
+      },
+      {
+        "startTime": 748,
+        "endTime": 750,
+        "speaker": "Diego Diehl",
+        "text": "Já escutei essa frase, mas tudo bem. bem."
+      },
+      {
+        "startTime": 750,
+        "endTime": 759,
+        "speaker": "Johnny Fernandes",
+        "text": "Não, mas o a gente está com até uma pessoa nova no time hoje, tá? E aí ela tá só com essa demanda de"
+      },
+      {
+        "startTime": 759,
+        "endTime": 759,
+        "speaker": "Diego Diehl",
+        "text": "Então a gente vai terminar de subir"
+      },
+      {
+        "startTime": 759,
+        "endTime": 760,
+        "speaker": "Johnny Fernandes",
+        "text": "final?"
+      },
+      {
+        "startTime": 763,
+        "endTime": 788,
+        "speaker": "Diego Diehl",
+        "text": "os cadastros terminando de subir os cadastros isso tá me impedindo de Pôr os cadastros lá porque senão vai inverter a prioridade e a vantagem de cada gerente lá o cadastro tem dois níveis que um é um B.O de desenvolvimento, eu acho o nível 1 é mandou o Emoji cadastrou com responsável que pedir o cadastro está ok já."
+      },
+      {
+        "startTime": 788,
+        "endTime": 794,
+        "speaker": "Diego Diehl",
+        "text": "Está OK? pergunta"
+      },
+      {
+        "startTime": 794,
+        "endTime": 798,
+        "speaker": "Johnny Fernandes",
+        "text": "Então como é que tá essa parte?"
+      },
+      {
+        "startTime": 798,
+        "endTime": 800,
+        "speaker": "Victor Figueredo",
+        "text": "É comigo tá anotando aqui ainda não."
+      },
+      {
+        "startTime": 801,
+        "endTime": 829,
+        "speaker": "Diego Diehl",
+        "text": "E aí, tem esse nível que é quem cadastra fica como responsável o nível 2 que se não der para ser um curtíssimo prazo a gente põe na fila é se o gerente já estiver se o corretor já estiver cadastrado na base com o responsável. E alguém solicitar o cadastro esse alguém adiciona-se como colaborador."
+      },
+      {
+        "startTime": 829,
+        "endTime": 829,
+        "speaker": "Victor Figueredo",
+        "text": "Sim e sobre isso."
+      },
+      {
+        "startTime": 829,
+        "endTime": 830,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 830,
+        "endTime": 855,
+        "speaker": "Victor Figueredo",
+        "text": "Daí eu acho que a gente fez. Já tratei até com Johnny sobre isso, a gente fez um refinamento em cima do ponto de vista de arquitetura mesmo ao invés de ser. O corretor tentar cadastrar. Porque como a funcionalidade do cadastro já vai ter o corretor lá, ela vai praticamente não vai ter consequência, né? Ele já tá cadastrado mandou um emoji não tem consequência porque ele já tá cadastrado."
+      },
+      {
+        "startTime": 855,
+        "endTime": 876,
+        "speaker": "Victor Figueredo",
+        "text": "Então no agente em si, não faz muito sentido a gente mexer nesses pontos, o que que vai acontecer vai ser tratado como uma mensagem qualquer tipo. Ah, Fulano mandou aquilo dois Emoji para pessoa e isso vai aparecer para gente no registro de interação vai aparecer aqui um gerente tentou interagir com outro."
+      },
+      {
+        "startTime": 876,
+        "endTime": 886,
+        "speaker": "Victor Figueredo",
+        "text": "Com outro corretor. Então como interação a gente percebe. Ó, esse cara tá falando com uma pessoa que tem responsável nesse caso aqui adicione ou mexa ou faça"
+      },
+      {
+        "startTime": 886,
+        "endTime": 887,
+        "speaker": "Diego Diehl",
+        "text": "Perfeito perfeito minha sugestão"
+      },
+      {
+        "startTime": 887,
+        "endTime": 888,
+        "speaker": "Victor Figueredo",
+        "text": "alguma."
+      },
+      {
+        "startTime": 888,
+        "endTime": 889,
+        "speaker": "Diego Diehl",
+        "text": "nisso o Vitor."
+      },
+      {
+        "startTime": 890,
+        "endTime": 916,
+        "speaker": "Johnny Fernandes",
+        "text": "Um pontinho rápido que foi até bom de tocar esse ponto então assim o primeiro ponto o Vitor tá terminando de deixar ok para poder trocar a pessoa como responsável ali. O segundo ponto quando quando a pessoa já é já está cadastrada no sistema e o corretor lá manda o Emoji de cadastramento vai acontecer ao registro de interação."
+      },
+      {
+        "startTime": 916,
+        "endTime": 927,
+        "speaker": "Johnny Fernandes",
+        "text": "E aí através desse Vou fazer uma automação para colocar esse cara como colaborador correto. É isso, né?"
+      },
+      {
+        "startTime": 929,
+        "endTime": 956,
+        "speaker": "Diego Diehl",
+        "text": "Eu ia falar de uma forma um pouco mais geral. Que seria assim, ó. Sem pensar em viabilidade sistema como eu não tenho clareza eu vou até ignorar elas. Se fosse para ter uma regra, qual que eu colocaria? Se houver um registro de interação entre corretor. Com o gerente que não é colaborador o responsável do cadastro adicione ele como colaborador."
+      },
+      {
+        "startTime": 956,
+        "endTime": 978,
+        "speaker": "Diego Diehl",
+        "text": "colaborador. Porque a gente vai ter que ter um relatório de volume de interações depois. Então é só isso e eu não preciso nem dele como colaborador. Eu só preciso daquele relatóriozão lá que a gente combinou que é o volume de interação entre gerentes e corretores. E isso é o que vai direcionar a gestão de carteira toda do sistema."
+      },
+      {
+        "startTime": 978,
+        "endTime": 995,
+        "speaker": "Diego Diehl",
+        "text": "Então no fundo quando a gente fala sobre lá é carteira aberta, tá gente por isso que eu que é diferente isso. Quando a Gente Tá acertando responsável é só para caso esse corretor caia como minha eu tô travando ou não."
+      },
+      {
+        "startTime": 995,
+        "endTime": 995,
+        "speaker": "Victor Figueredo",
+        "text": "Tá ok."
+      },
+      {
+        "startTime": 995,
+        "endTime": 996,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá de boa, só imagem."
+      },
+      {
+        "startTime": 996,
+        "endTime": 1023,
+        "speaker": "Diego Diehl",
+        "text": "Vou tirar meu vídeo que minha internet está oscilando. a necessidade do cliente é Defina se um responsável por esse corretor. Para quando cair um líder da hora esse mesmo cara ficar recebendo. O link para não ter se esse líder da hora de entrar segunda quarta e sexta não ir para três gerentes diferentes e causar um caos."
+      },
+      {
+        "startTime": 1023,
+        "endTime": 1051,
+        "speaker": "Diego Diehl",
+        "text": "Num primeiro momento é isso, tá então é só a gente ter ele registrado como Responsável. A primeira vez daqui um mês a gente vai precisar do relatório de volume de interações. Por gerente e corretor para o Caio poder aplicar alguma regra de fulano. Fulano, segue como responsável esses cara entrar ou não ele que vai enfim ele começa a brincar com essa gestão de carteira."
+      },
+      {
+        "startTime": 1051,
+        "endTime": 1058,
+        "speaker": "Diego Diehl",
+        "text": "Tá claro isso para todo mundo. Tipo, eu tô falando a mesma coisa, eu não quero inventar coisa nova. Só tô ainda refinando a mesma"
+      },
+      {
+        "startTime": 1058,
+        "endTime": 1058,
+        "speaker": "Johnny Fernandes",
+        "text": "Se não for claro eu vou ler os"
+      },
+      {
+        "startTime": 1058,
+        "endTime": 1059,
+        "speaker": "Diego Diehl",
+        "text": "coisa."
+      },
+      {
+        "startTime": 1060,
+        "endTime": 1074,
+        "speaker": "Johnny Fernandes",
+        "text": "exercícios de interação ali sempre que acontecer. E aí eu sempre vou verificar se Aquele gerente ele tá como responsável colaborador daquele contato, se não estiver eu coloco como colaborador."
+      },
+      {
+        "startTime": 1074,
+        "endTime": 1074,
+        "speaker": "Diego Diehl",
+        "text": "Cheque perfeito."
+      },
+      {
+        "startTime": 1076,
+        "endTime": 1095,
+        "speaker": "Johnny Fernandes",
+        "text": "E só um ponto rápido nisso que eu fiquei com dúvida, não precisa perguntar para o Vitor eu perguntei ele respondeu só que ele retomar agora o Vitor aquele Campo. Que menciona o vendedor usuário do Clube. Na interação, ele é um campo de usuário mesmo."
+      },
+      {
+        "startTime": 1097,
+        "endTime": 1105,
+        "speaker": "Victor Figueredo",
+        "text": "ele é um campo de usuário, eu acho que na interface do Clones ele é lido como um texto alguma coisa assim, mas eu"
+      },
+      {
+        "startTime": 1107,
+        "endTime": 1115,
+        "speaker": "Johnny Fernandes",
+        "text": "E você consegue gravar você sabe que tem campo de usuário, né? Ele tá com um texto simples."
+      },
+      {
+        "startTime": 1115,
+        "endTime": 1118,
+        "speaker": "Victor Figueredo",
+        "text": "não não ele tá como ele é um campo de usuário é ele é um campo"
+      },
+      {
+        "startTime": 1118,
+        "endTime": 1119,
+        "speaker": "Johnny Fernandes",
+        "text": "usuário mesmo"
+      },
+      {
+        "startTime": 1119,
+        "endTime": 1142,
+        "speaker": "Victor Figueredo",
+        "text": "usuário. Você pode dar um doublete aí, mas é porque na leitura do registro de interação, me parece que o plug renderiza aquele Campo como texto. mas A gente configurou ele como o usuário."
+      },
+      {
+        "startTime": 1149,
+        "endTime": 1159,
+        "speaker": "Johnny Fernandes",
+        "text": "responsável, você acha que quanto tempo você precisaria para deixar isso, ok?"
+      },
+      {
+        "startTime": 1162,
+        "endTime": 1171,
+        "speaker": "Victor Figueredo",
+        "text": "Eu acho que amanhã para nossa para nossa dele, senão amanhã à tarde a gente consegue subir essa. Essa funcionalidade."
+      },
+      {
+        "startTime": 1171,
+        "endTime": 1176,
+        "speaker": "Johnny Fernandes",
+        "text": "Beleza, é esse cara aqui, né user?"
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1176,
+        "speaker": "Diego Diehl",
+        "text": "Esse é Campo Nativo."
+      },
+      {
+        "startTime": 1176,
+        "endTime": 1181,
+        "speaker": "Johnny Fernandes",
+        "text": "Não é o campo customizado."
+      },
+      {
+        "startTime": 1181,
+        "endTime": 1186,
+        "speaker": "Diego Diehl",
+        "text": "Da mandar para esse campo daí você vai ler esse campo. Daí você vai ler esse campo."
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1186,
+        "speaker": "Johnny Fernandes",
+        "text": "Isso é mas beleza."
+      },
+      {
+        "startTime": 1186,
+        "endTime": 1187,
+        "speaker": "Diego Diehl",
+        "text": "Tende tá bom."
+      },
+      {
+        "startTime": 1189,
+        "endTime": 1199,
+        "speaker": "Johnny Fernandes",
+        "text": "Tirei a dúvida aqui Vitor é isso mesmo. Ele tá como usuário mesmo então. Fica mais fácil de criar uma automação em cima dele e tratar."
+      },
+      {
+        "startTime": 1199,
+        "endTime": 1200,
+        "speaker": "Diego Diehl",
+        "text": "tá"
+      },
+      {
+        "startTime": 1203,
+        "endTime": 1218,
+        "speaker": "Johnny Fernandes",
+        "text": "O Diego você comentou aqui sobre esses dois pontos, né? Na verdade um ponto principal que é o cadastro através do emoji. Aí você comentou que que vai validar? Qual emoji, né?"
+      },
+      {
+        "startTime": 1218,
+        "endTime": 1219,
+        "speaker": "Diego Diehl",
+        "text": "vou pedir já"
+      },
+      {
+        "startTime": 1219,
+        "endTime": 1222,
+        "speaker": "Johnny Fernandes",
+        "text": "Vai dar o Emoji com o cliente ou emoji? Ele gostaria."
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1250,
+        "speaker": "Victor Figueredo",
+        "text": "E só um ponto são parentes rápido. Aí tá o Emoji, ele é meio esquisito também com proposto, né? Para tipo ser um par a ideia que não se não a gente não confundiu o Emoji do contexto normal da conversa dele com um emoji que vai cumprir a funcionalidade. Então a ideia desses emojis é ir para o lado mais específico."
+      },
+      {
+        "startTime": 1250,
+        "endTime": 1273,
+        "speaker": "Victor Figueredo",
+        "text": "E se a gente conseguir dois específicos uma combinação muito né? Improvável é o ideal para esse tipo de funcionalidade porque toda vez que ele aparecer daquela forma junto, ele vai ser lido como como uma função, entendeu? Então tipo Dois Corações não serve tipo."
+      },
+      {
+        "startTime": 1273,
+        "endTime": 1279,
+        "speaker": "Diego Diehl",
+        "text": "Para não ficar rodando a automação. De forma inconsciente, né?"
+      },
+      {
+        "startTime": 1279,
+        "endTime": 1279,
+        "speaker": "Victor Figueredo",
+        "text": "isso"
+      },
+      {
+        "startTime": 1282,
+        "endTime": 1285,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou já já tô mandando essa parte aqui."
+      },
+      {
+        "startTime": 1301,
+        "endTime": 1306,
+        "speaker": "Johnny Fernandes",
+        "text": "E outro ponto. Mas é um ponto que você queria comentar."
+      },
+      {
+        "startTime": 1310,
+        "endTime": 1338,
+        "speaker": "Diego Diehl",
+        "text": "Cara, não acho que você tinha isso. A gente eu poder dizer que os corretores estão no sistema. E mandar os cadastros para quem tiver sem responsável, se alguém mandar cadastro você tá como responsável quando não tiver cadastrar e ter um responsável e pronto começamos já estamos lendo as conversas para daqui a pouco aprender com elas as dúvidas e tal."
+      },
+      {
+        "startTime": 1338,
+        "endTime": 1358,
+        "speaker": "Diego Diehl",
+        "text": "Para evoluir o bot você tinha isso ideias árvores é um esquema que não tem cadastro não tem nada a gente só precisa já implantar o bote porque a pessoa tá sozinha e eu tô com medo de implantar lá colocar os vídeos da hora para entrar para pessoa porque ela tá sozinha, talvez ela gargalha então lá."
+      },
+      {
+        "startTime": 1358,
+        "endTime": 1368,
+        "speaker": "Diego Diehl",
+        "text": "Eu precisaria já entrar com O bote respondendo algumas coisas e tal então eu tô um pouco preocupada, mas eu vou conversar com ele as árvores essa semana sobre isso."
+      },
+      {
+        "startTime": 1369,
+        "endTime": 1405,
+        "speaker": "Johnny Fernandes",
+        "text": "eu tava até aproveitando para validar com O Vitão aqui a conexão lá com a ideia das Árvores, né? Como que tá e tal? Ele falou que já vai deixar pronto lá toda integração, tá? E aí essa porque a ideia das Árvores? Ele o principal recurso ali para o d0 é ativar o bot, para que ele possa responder os corretores, né e enviar os arquivos pertinentes."
+      },
+      {
+        "startTime": 1405,
+        "endTime": 1416,
+        "speaker": "Johnny Fernandes",
+        "text": "Aos Empreendimentos certo. Essa é tipo o básico que eles precisam já no início, né? E aí a responder e mandar. arquivo."
+      },
+      {
+        "startTime": 1417,
+        "endTime": 1432,
+        "speaker": "Diego Diehl",
+        "text": "Só que eu o que que eu quero fazer, na verdade, eu vou ligar agora de tarde para o Tomás e fala assim Tomaz Estou preocupado porque a tua pessoa tá sozinho, parece que ela tava gargalada o nosso modelo de implantação em primeiro liga os vídeos da hora não começa a aprender e tal."
+      },
+      {
+        "startTime": 1432,
+        "endTime": 1439,
+        "speaker": "Diego Diehl",
+        "text": "Como é que você vê isso? Aí eu vejo com ele porque a gente tá correndo com o bote, né?"
+      },
+      {
+        "startTime": 1439,
+        "endTime": 1439,
+        "speaker": "Johnny Fernandes",
+        "text": "sim"
+      },
+      {
+        "startTime": 1439,
+        "endTime": 1468,
+        "speaker": "Diego Diehl",
+        "text": "Então daqui a pouco ali o Johnny o Vitor eu acho o Vitor que a gente pode poderia se programar para rodar um pouquinho mais de perto essa implementação do bote na cetim ou na ideias árvores um dos dois mais perto. Para a gente encaminhar como a gente não tem um modelo eu não tô vendo de ter um modelo ainda em conjunto ou onde envolve o Johnny ou se você quer tocar um primeiro já liberando um tempo do Johnny daí o segundo a gente já participa já instrui."
+      },
+      {
+        "startTime": 1468,
+        "endTime": 1486,
+        "speaker": "Diego Diehl",
+        "text": "Como é que é o processo? Eu acho que a gente tem que conversar e definir sobre isso sim. Sobre investimento de tempo de cada um Enfim tudo claro, né para poder rodar porque eu tô vendo que tem algumas coisas que ainda estão meio que patinando é uma coisa legal."
+      },
+      {
+        "startTime": 1486,
+        "endTime": 1510,
+        "speaker": "Diego Diehl",
+        "text": "É que até aproveitando para comunicar você já hoje. Hoje tá entrando uma pessoa nova no nosso time da hora e que eu acho que ela vai poder apoiar um pouquinho mais a gente nessas demandas que surgem paraólogo nessa organização, ela vai me ajudar vai ser um braço meu então eu acho que vai dar uma um novo caráter assim para eu poder."
+      },
+      {
+        "startTime": 1510,
+        "endTime": 1530,
+        "speaker": "Diego Diehl",
+        "text": "Eu sinto que às vezes eu passo muito falado. Tangibilizo escrevo pouco então essa pessoa vai ajudar a azeitar aqui, talvez a conexão com o Diogo de cronograma comunicação com o cliente. Às vezes eu falo porque eu tô em novos clientes a pessoa não reporta ali direito então acho que vai ser um potencializador ali para não saturar tanto a avad."
+      },
+      {
+        "startTime": 1530,
+        "endTime": 1546,
+        "speaker": "Diego Diehl",
+        "text": "E poder aceitar feed com Fernando de certa forma a ideia que ela faça seja uma ponte entre o Fernando entrava de entre Filter feed, sabe porque é muita coisa que tá rolando, né? Então acho que vai ser legal se conhecerem ela daqui a pouco apresenta determina Claro e tal."
+      },
+      {
+        "startTime": 1546,
+        "endTime": 1556,
+        "speaker": "Diego Diehl",
+        "text": "Mas a ideia é que ela seja mais uma ponte que me ajude com o cliente, né? Porque eu tô gargalando aqui velho com essas coisas, tá bom?"
+      },
+      {
+        "startTime": 1556,
+        "endTime": 1561,
+        "speaker": "Johnny Fernandes",
+        "text": "Beleza, mas eu entendo e é isso, vamos?"
+      },
+      {
+        "startTime": 1561,
+        "endTime": 1582,
+        "speaker": "Diego Diehl",
+        "text": "E daí minha instrução para minha instrução para ela, não é? Fazer o que não é ficar fazendo o que vocês fazem a ideia é cobrar mais vocês da clareza do que precisa ser feito ajudar em dúvidas ajudar a ter filho de ajudar o Fernando fazer acelerar esses pontos eu poder voltar para o comercial, né? Porque eu tô se eu paro no comercial."
+      },
+      {
+        "startTime": 1582,
+        "endTime": 1585,
+        "speaker": "Johnny Fernandes",
+        "text": "Ter que sair do comercial, né você"
+      },
+      {
+        "startTime": 1585,
+        "endTime": 1585,
+        "speaker": "Diego Diehl",
+        "text": "é"
+      },
+      {
+        "startTime": 1585,
+        "endTime": 1587,
+        "speaker": "Johnny Fernandes",
+        "text": "sair do comercial para ficar."
+      },
+      {
+        "startTime": 1587,
+        "endTime": 1588,
+        "speaker": "Diego Diehl",
+        "text": "Exato se eu tô mais tempo com"
+      },
+      {
+        "startTime": 1588,
+        "endTime": 1588,
+        "speaker": "Johnny Fernandes",
+        "text": "tá"
+      },
+      {
+        "startTime": 1590,
+        "endTime": 1604,
+        "speaker": "Diego Diehl",
+        "text": "do que com novos clientes. Mas faz parte passa acho que você tinha ideia as árvores, eu ainda fico bem próximo até para aproximar essa pessoa e depois eu fecho e essa pessoa já vai em paralelo ali com a gente."
+      },
+      {
+        "startTime": 1604,
+        "endTime": 1622,
+        "speaker": "Johnny Fernandes",
+        "text": "Tá é bom a gente já tem as demandas da setinha ali para entregar hoje. Amanhã tem demandamento tem demanda do Vitor, né? O Vitor já livro de as árvores que ele vai habilitar a conexão também, né? Você acha que consegue é que na"
+      },
+      {
+        "startTime": 1622,
+        "endTime": 1622,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou falar com a ideias árvores,"
+      },
+      {
+        "startTime": 1622,
+        "endTime": 1623,
+        "speaker": "Johnny Fernandes",
+        "text": "é?"
+      },
+      {
+        "startTime": 1623,
+        "endTime": 1626,
+        "speaker": "Diego Diehl",
+        "text": "Caio já tá ok com emoji, pode seguir o mesmo. Já falei com ele agora, então já"
+      },
+      {
+        "startTime": 1626,
+        "endTime": 1628,
+        "speaker": "Johnny Fernandes",
+        "text": "Pode seguir o mesmo."
+      },
+      {
+        "startTime": 1628,
+        "endTime": 1629,
+        "speaker": "Diego Diehl",
+        "text": "foi dado o cheque o ai das Armas eu"
+      },
+      {
+        "startTime": 1629,
+        "endTime": 1630,
+        "speaker": "Johnny Fernandes",
+        "text": "tá"
+      },
+      {
+        "startTime": 1631,
+        "endTime": 1648,
+        "speaker": "Diego Diehl",
+        "text": "falo com eles hoje já pego Ok se a gente Segue o mesmo fluxo da setinha que eu vou tentar que seja isso. Que ele já que a gente habilite os livros da hora já aborda automático, ele já sentem que tá começando agregar valor eu falo que aí ela tá aprendendo com os registros que a gente pega do cara da ponta."
+      },
+      {
+        "startTime": 1648,
+        "endTime": 1652,
+        "speaker": "Johnny Fernandes",
+        "text": "Se for seguir por esse caminho a gente consegue avançar."
+      },
+      {
+        "startTime": 1652,
+        "endTime": 1653,
+        "speaker": "Diego Diehl",
+        "text": "Isso eu sei"
+      },
+      {
+        "startTime": 1653,
+        "endTime": 1676,
+        "speaker": "Johnny Fernandes",
+        "text": "Porque tipo assim a coisa que já estão prontas, né? Aí eu já sei agora que eu tenho que ajustar lá algumas automações, eu já sei que eu tenho que fazer algumas coisas ali, se for seguir, esse caminho dá um cheque amanhã para nós a gente já Teoricamente já era para o Fernando verifico com ele, como tá a ideia as árvores e já dá o start lá com ele nesse"
+      },
+      {
+        "startTime": 1676,
+        "endTime": 1677,
+        "speaker": "Diego Diehl",
+        "text": "Isso que eu quero fazer."
+      },
+      {
+        "startTime": 1677,
+        "endTime": 1699,
+        "speaker": "Johnny Fernandes",
+        "text": "modelo. Ligue chegando abordagem automática do bote ali e essa conexão do bote. Já conecta o bote do cara lá para poder sair do WhatsApp dele o abordagem Inicial. E aí a responder isso. Deixa por um segundo momentinho então, né?"
+      },
+      {
+        "startTime": 1699,
+        "endTime": 1700,
+        "speaker": "Diego Diehl",
+        "text": "Tá isso tem mais um ponto só de"
+      },
+      {
+        "startTime": 1700,
+        "endTime": 1700,
+        "speaker": "Johnny Fernandes",
+        "text": "É um dos possíveis caminhos."
+      },
+      {
+        "startTime": 1703,
+        "endTime": 1716,
+        "speaker": "Diego Diehl",
+        "text": "onde que eu acho que eu peguei, não sei se eu mandei já para ti que é a segunda abordagem quando já quando o lítio da hora lá como segunda eu já mandei para ti."
+      },
+      {
+        "startTime": 1716,
+        "endTime": 1720,
+        "speaker": "Johnny Fernandes",
+        "text": "Eu tinha pedido na quinta semana na sexta mesmo final da tarde ali."
+      },
+      {
+        "startTime": 1720,
+        "endTime": 1720,
+        "speaker": "Diego Diehl",
+        "text": "Então fechou só que"
+      },
+      {
+        "startTime": 1720,
+        "endTime": 1727,
+        "speaker": "Johnny Fernandes",
+        "text": "Aí eu falei para o Vitor aqui que você já mandou aí eu vou pegar e configurar ela, mas já recebi ali, tá bom?"
+      },
+      {
+        "startTime": 1727,
+        "endTime": 1746,
+        "speaker": "Diego Diehl",
+        "text": "Tá aí como o último ponto só para a gente deixar na cabeça. Eu sinto que o que mais vai exigir agregar valor para o cliente que não é o beabá que a gente já sabe. É a criação de automações que fazem Filter feed trabalhar junto do Funil para mim."
+      },
+      {
+        "startTime": 1746,
+        "endTime": 1771,
+        "speaker": "Diego Diehl",
+        "text": "Esse é o estratégico nosso o Vitor me mandou algumas que ele já fez alguns modelos, aí eu acho que Como passo é que eu tô vendo além, né? O básico, eu sei que vai acontecer e ainda mais com o João é João o nome da pessoa que tá entrando aqui para O time ele vai aceitar o do estratégico que eu sei que a gente vai ter que conversar melhor é o que por já de automaçãozinha na setinha da água mais de comunicação, conversa com funil."
+      },
+      {
+        "startTime": 1771,
+        "endTime": 1774,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom? A gente tem como radar aí nossa estratégia."
+      },
+      {
+        "startTime": 1774,
+        "endTime": 1775,
+        "speaker": "Johnny Fernandes",
+        "text": "Identificando ela."
+      },
+      {
+        "startTime": 1775,
+        "endTime": 1777,
+        "speaker": "Victor Figueredo",
+        "text": "Mando para ti também, tá? Tá Johnny?"
+      },
+      {
+        "startTime": 1777,
+        "endTime": 1777,
+        "speaker": "Johnny Fernandes",
+        "text": "show"
+      },
+      {
+        "startTime": 1777,
+        "endTime": 1794,
+        "speaker": "Victor Figueredo",
+        "text": "É são algumas rotinas que a gente construiu de automações aquele mesmo esquema da exatamente igual só muda a regra os filtros. E aí quando ganha o Card quando perde Demorou sete dias aqui no estágio, ele fica mandando as mensagenszinhas e conduz a comunicação, eu vou te mandar isso."
+      },
+      {
+        "startTime": 1794,
+        "endTime": 1799,
+        "speaker": "Johnny Fernandes",
+        "text": "Perfeito. Pode mandar que a gente definindo quais serão a gente já toca Pau."
+      },
+      {
+        "startTime": 1800,
+        "endTime": 1811,
+        "speaker": "Diogo Fernandes",
+        "text": "sim para a gente não sei se lê muito de onde você quer que eu agende uma reunião à tarde com Você e o Vitor para continuar essa parte técnica que você estava falando sobre a ideias."
+      },
+      {
+        "startTime": 1812,
+        "endTime": 1842,
+        "speaker": "Johnny Fernandes",
+        "text": "Ô Diogo como o Diego entrou levantou a mão e pediu para e disse que vai conversar ali com o Thomas de seguir um tipo assim, o Vitor já tá Caminhando com isso já tava testando lá na ISO, sabe a demanda ali. E como o Vitor já tá com acesso a conta eu acho que dá para ele já seguir com a habilitação lá aí dependendo da alinhamento que o Diego fizer com o cliente vai dar os próximos passos de Tom aí com relação a ideias."
+      },
+      {
+        "startTime": 1842,
+        "endTime": 1858,
+        "speaker": "Johnny Fernandes",
+        "text": "O que eu acho que é mais viável de alguma reunião com uma reunião, eu não sei se ele tem disponibilidade para reunião, mas com Fernando para mim saber como que tá a ideia as árvores, talvez eu posso fazer um follow via WhatsApp com ele mesmo, entendeu? Se ele já habilitou."
+      },
+      {
+        "startTime": 1858,
+        "endTime": 1860,
+        "speaker": "Diogo Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1860,
+        "endTime": 1863,
+        "speaker": "Johnny Fernandes",
+        "text": "Você precisa de alguma informação, nossa."
+      },
+      {
+        "startTime": 1863,
+        "endTime": 1865,
+        "speaker": "Diogo Fernandes",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 1865,
+        "endTime": 1866,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou dar ok na ideia das Armas"
+      },
+      {
+        "startTime": 1866,
+        "endTime": 1867,
+        "speaker": "Johnny Fernandes",
+        "text": "beleza"
+      },
+      {
+        "startTime": 1867,
+        "endTime": 1874,
+        "speaker": "Diego Diehl",
+        "text": "daqui a pouquinho já tá? Vou agora. Fechou a gente."
+      },
+      {
+        "startTime": 1874,
+        "endTime": 1874,
+        "speaker": "Diogo Fernandes",
+        "text": "Bom é isso, amanhã a gente"
+      },
+      {
+        "startTime": 1874,
+        "endTime": 1876,
+        "speaker": "Johnny Fernandes",
+        "text": "Acho que é isso."
+      },
+      {
+        "startTime": 1876,
+        "endTime": 1880,
+        "speaker": "Diogo Fernandes",
+        "text": "Amanhã a gente continua ou qualquer tema mais urgente de conversa pelo WhatsApp, tá bom?"
+      },
+      {
+        "startTime": 1880,
+        "endTime": 1882,
+        "speaker": "Diego Diehl",
+        "text": "Deixou valeu, viu gente agora?"
+      },
+      {
+        "startTime": 1882,
+        "endTime": 1884,
+        "speaker": "Diogo Fernandes",
+        "text": "Pessoal, obrigado, boa semana. Tchau, tchau."
+      },
+      {
+        "startTime": 1884,
+        "endTime": 1884,
+        "speaker": "Diego Diehl",
+        "text": "Valeu, vocês também abraço."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 196,
+    "speakers": [
+      "Victor Figueredo",
+      "Diego Diehl",
+      "Johnny Fernandes",
+      "Diogo Fernandes"
+    ],
+    "total_words_estimate": 4520,
+    "duration_start": 1,
+    "duration_end": 1884
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "66ba24fa53bc580013175e57",
+        "timestamp": 550,
+        "text": "Conectar a integração do WhatsApp do gerente de parceria das Árvores.",
+        "topicId": "66ba24fa53bc580013175e4c"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e51",
+        "timestamp": 682,
+        "text": "Cadastro de corretores por meio de envio de emojis no WhatsApp. Ajuste do emoji a ser utilizado.",
+        "topicId": "66ba24fa53bc580013175e49"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e52",
+        "timestamp": 763,
+        "text": "Dois níveis de cadastro: 1) Corretor cadastra com responsável; 2) Corretor já cadastrado, outro solicita como colaborador.",
+        "topicId": "66ba24fa53bc580013175e49"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e53",
+        "timestamp": 885,
+        "text": "Sugestão de registrar interações entre gerentes e corretores para relatório de volume de interações.",
+        "topicId": "66ba24fa53bc580013175e49"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e54",
+        "timestamp": 918,
+        "text": "Automação para adicionar corretor como colaborador quando já cadastrado no sistema e gerente enviar emoji de cadastro.",
+        "topicId": "66ba24fa53bc580013175e4a"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e55",
+        "timestamp": 1058,
+        "text": "Verificar se gerente está cadastrado como responsável ou colaborador do contato antes de registrar a interação.",
+        "topicId": "66ba24fa53bc580013175e4a"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e56",
+        "timestamp": 1096,
+        "text": "Campo de usuário na interação é um campo de usuário, não apenas um texto.",
+        "topicId": "66ba24fa53bc580013175e4b"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e58",
+        "timestamp": 1161,
+        "text": "Prazo de amanhã ou amanhã à tarde para implementar a funcionalidade de registro de interações.",
+        "topicId": "66ba24fa53bc580013175e4c"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e59",
+        "timestamp": 1202,
+        "text": "Validação do emoji a ser usado no cadastro do cliente, preocupação com a escolha para não confundir com o contexto normal da conversa.",
+        "topicId": "66ba24fa53bc580013175e4d"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5a",
+        "timestamp": 1335,
+        "text": "Necessidade de implementar o bot para responder às dúvidas e evoluir o sistema.",
+        "topicId": "66ba24fa53bc580013175e4e"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5b",
+        "timestamp": 1386,
+        "text": "Ativação do bot para que ele possa responder aos corretores e enviar arquivos.",
+        "topicId": "66ba24fa53bc580013175e4e"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5c",
+        "timestamp": 1417,
+        "text": "Preocupação com a implementação do bot para não confundir o cliente.",
+        "topicId": "66ba24fa53bc580013175e4e"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5d",
+        "timestamp": 1452,
+        "text": "Necessidade de definir o processo de implementação do bot com a equipe.",
+        "topicId": "66ba24fa53bc580013175e4e"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5e",
+        "timestamp": 1487,
+        "text": "Contratação de uma nova pessoa para ajudar no atendimento ao cliente.",
+        "topicId": "66ba24fa53bc580013175e4f"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e5f",
+        "timestamp": 1544,
+        "text": "Instruções para a nova pessoa sobre suas responsabilidades.",
+        "topicId": "66ba24fa53bc580013175e4f"
+      },
+      {
+        "segmentId": "66ba24fa53bc580013175e60",
+        "timestamp": 1730,
+        "text": "Necessidade de criar automações que integrem o Filter Feed com o funil de vendas, estratégia de implementar automações de comunicação.",
+        "topicId": "66ba24fa53bc580013175e50"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "66ba24fa53bc580013175e49",
+        "order": 1,
+        "title": "Cadastro de corretores via WhatsApp",
+        "summary": "Discutir o processo de cadastro de corretores via WhatsApp, incluindo a configuração de responsáveis e colaboradores."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4a",
+        "order": 2,
+        "title": "Automação de interações entre gerentes e corretores",
+        "summary": "Discutir a implementação de automações para gerenciar as interações entre gerentes e corretores no sistema."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4b",
+        "order": 3,
+        "title": "Configuração do campo de usuário na interação",
+        "summary": "Discutir a configuração do campo de usuário no registro de interações entre gerentes e corretores."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4c",
+        "order": 4,
+        "title": "Próximos passos e prazos",
+        "summary": "Alinhar os próximos passos e prazos para implementação das funcionalidades discutidas."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4d",
+        "order": 5,
+        "title": "Cadastro através de emoji",
+        "summary": "Discussão sobre a validação do emoji a ser usado para o cadastro do cliente."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4e",
+        "order": 6,
+        "title": "Implementação do bot",
+        "summary": "Discussão sobre a implementação do bot para responder aos corretores e enviar arquivos relevantes."
+      },
+      {
+        "id": "66ba24fa53bc580013175e4f",
+        "order": 7,
+        "title": "Contratação de novo membro da equipe",
+        "summary": "Discussão sobre a contratação de um novo membro da equipe para auxiliar no atendimento ao cliente."
+      },
+      {
+        "id": "66ba24fa53bc580013175e50",
+        "order": 8,
+        "title": "Automações de comunicação com o funil",
+        "summary": "Discussão sobre a criação de automações para integrar o Filter Feed com o funil de vendas."
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 16,
+    "topic_count": 8,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "66ba24fa53bc580013175e49",
+      "order": 1,
+      "title": "Cadastro de corretores via WhatsApp",
+      "summary": "Discutir o processo de cadastro de corretores via WhatsApp, incluindo a configuração de responsáveis e colaboradores."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4a",
+      "order": 2,
+      "title": "Automação de interações entre gerentes e corretores",
+      "summary": "Discutir a implementação de automações para gerenciar as interações entre gerentes e corretores no sistema."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4b",
+      "order": 3,
+      "title": "Configuração do campo de usuário na interação",
+      "summary": "Discutir a configuração do campo de usuário no registro de interações entre gerentes e corretores."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4c",
+      "order": 4,
+      "title": "Próximos passos e prazos",
+      "summary": "Alinhar os próximos passos e prazos para implementação das funcionalidades discutidas."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4d",
+      "order": 5,
+      "title": "Cadastro através de emoji",
+      "summary": "Discussão sobre a validação do emoji a ser usado para o cadastro do cliente."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4e",
+      "order": 6,
+      "title": "Implementação do bot",
+      "summary": "Discussão sobre a implementação do bot para responder aos corretores e enviar arquivos relevantes."
+    },
+    {
+      "id": "66ba24fa53bc580013175e4f",
+      "order": 7,
+      "title": "Contratação de novo membro da equipe",
+      "summary": "Discussão sobre a contratação de um novo membro da equipe para auxiliar no atendimento ao cliente."
+    },
+    {
+      "id": "66ba24fa53bc580013175e50",
+      "order": 8,
+      "title": "Automações de comunicação com o funil",
+      "summary": "Discussão sobre a criação de automações para integrar o Filter Feed com o funil de vendas."
+    }
+  ],
+  "collected_at": "2026-04-06T23:40:59.025629+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:40:59.025629+00:00"
+}

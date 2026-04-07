@@ -1,0 +1,28 @@
+{
+  "id": "68c0802e507e7c001378b1b0",
+  "happenedAt": "2025-09-09T19:30:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "guilherme.hara@opus.inc"
+    }
+  ],
+  "name": "Órulo <> Opus",
+  "duration": 3592.504,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/68c0802e507e7c001378b1b0",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "jst-wndd-djz"
+  }
+}

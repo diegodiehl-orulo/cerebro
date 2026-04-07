@@ -1,0 +1,204 @@
+{
+  "meeting_id": "6931da39731d950013d21ab6",
+  "name": "Zabo (SP - Isenção tributaria)",
+  "happened_at": "2025-12-04T19:00:00.000Z",
+  "duration_seconds": 228.744,
+  "duration_minutes": 3.8,
+  "organizer": {
+    "name": "Paulo Deitos",
+    "email": "pd@cfgroup.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "luciano@zabo.com.br"
+    },
+    {
+      "name": "Matheus Nascimento",
+      "email": "mn@cfgroup.com.br"
+    },
+    {
+      "name": "",
+      "email": "gg@cfgroup.com.br"
+    },
+    {
+      "name": "Carol Pizzano",
+      "email": "carol.pizzano@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/6931da39731d950013d21ab6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "eco-gqjk-sim",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "6931da96120d490013044fa8",
+    "meetingId": "6931da39731d950013d21ab6",
+    "data": [
+      {
+        "startTime": 49,
+        "endTime": 49,
+        "speaker": "Carol Pizzano",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 52,
+        "endTime": 52,
+        "speaker": "Diego Diehl",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 54,
+        "endTime": 55,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Boa tarde"
+      },
+      {
+        "startTime": 76,
+        "endTime": 87,
+        "speaker": "Diego Diehl",
+        "text": "só uma coisa que estou revisitando aqui, tem que deixar claro com a Bia e tal que"
+      },
+      {
+        "startTime": 89,
+        "endTime": 91,
+        "speaker": "Carol Pizzano",
+        "text": "Acabei de conversar com a menina aqui para vaga, né boa?"
+      },
+      {
+        "startTime": 91,
+        "endTime": 108,
+        "speaker": "Diego Diehl",
+        "text": "Eu mudei de ideia. Gostou?"
+      },
+      {
+        "startTime": 109,
+        "endTime": 111,
+        "speaker": "Carol Pizzano",
+        "text": "Ela trabalha ela trabalhava para o bitrix."
+      },
+      {
+        "startTime": 113,
+        "endTime": 118,
+        "speaker": "Diego Diehl",
+        "text": "olha só a tarde"
+      },
+      {
+        "startTime": 118,
+        "endTime": 119,
+        "speaker": "Carol Pizzano",
+        "text": "trabalhava vendendo vitrix"
+      },
+      {
+        "startTime": 123,
+        "endTime": 123,
+        "speaker": "Matheus Nascimento",
+        "text": "Boa tarde pessoal."
+      },
+      {
+        "startTime": 125,
+        "endTime": 127,
+        "speaker": "Carol Pizzano",
+        "text": "Olá, Mateus."
+      },
+      {
+        "startTime": 131,
+        "endTime": 135,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "O Luciano me respondeu agora teve um problema a gente vai ter que adiar."
+      },
+      {
+        "startTime": 138,
+        "endTime": 142,
+        "speaker": "Diego Diehl",
+        "text": "É isso que vamos falar sobre um e vai ser mais caro agora."
+      },
+      {
+        "startTime": 143,
+        "endTime": 150,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Mas foi deve ter sido agora mesmo porque eu confirmei com ele mais cedo. Mas a gente remarca tranquilo."
+      },
+      {
+        "startTime": 151,
+        "endTime": 156,
+        "speaker": "Diego Diehl",
+        "text": "Boa fechou, vai ser ótimo ter uma hora livre aqui. Olha o time. Boa tarde, valeu."
+      },
+      {
+        "startTime": 156,
+        "endTime": 156,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Valeu pessoal"
+      },
+      {
+        "startTime": 157,
+        "endTime": 158,
+        "speaker": "Carol Pizzano",
+        "text": "Alô, tchau"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 17,
+    "speakers": [
+      "Carol Pizzano",
+      "Diego Diehl",
+      "João Vitor Portes da Silva",
+      "Matheus Nascimento"
+    ],
+    "total_words_estimate": 124,
+    "duration_start": 49,
+    "duration_end": 158
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "6931db84163f6400137e8e89",
+        "timestamp": 131,
+        "text": "Luciano reportou problema, levantando questão de reagendamento e possível aumento de custos na próxima discussão.",
+        "topicId": "6931db84163f6400137e8e88"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "6931db84163f6400137e8e88",
+        "order": 1,
+        "title": "Questões com Cronograma e Custos",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 1,
+    "topic_count": 1,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "6931db84163f6400137e8e88",
+      "order": 1,
+      "title": "Questões com Cronograma e Custos",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:49:55.260791+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:49:55.260791+00:00"
+}

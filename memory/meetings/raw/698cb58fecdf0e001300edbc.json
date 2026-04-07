@@ -1,0 +1,36 @@
+{
+  "id": "698cb58fecdf0e001300edbc",
+  "happenedAt": "2026-02-11T17:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "Roberto Rocco",
+      "email": "roberto.rocco@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "guilherme.pitta@numuu.com.br"
+    }
+  ],
+  "name": "GD Órulo Curitiba",
+  "duration": 7428.396,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/698cb58fecdf0e001300edbc",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "xps-gpgp-itu"
+  }
+}

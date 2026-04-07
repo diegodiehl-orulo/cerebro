@@ -1,0 +1,43 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "681293144b7197001367919f",
+      "timestamp": 527,
+      "text": "Equipe planeja realizar treinamento tópico para desenvolvimento interno",
+      "topicId": "681293144b7197001367919c"
+    },
+    {
+      "segmentId": "681293144b719700136791a0",
+      "timestamp": 706,
+      "text": "Reunião remarcada para sexta-feira devido ao clima de véspera de feriado",
+      "topicId": "681293144b7197001367919d"
+    },
+    {
+      "segmentId": "681293144b7197001367919e",
+      "timestamp": 739,
+      "text": "Carolina irá solicitar a mesma agenda para reunião de sexta-feira",
+      "topicId": "681293144b7197001367919b"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "681293144b7197001367919b",
+      "order": 1,
+      "title": "Ações Acordadas",
+      "summary": ""
+    },
+    {
+      "id": "681293144b7197001367919c",
+      "order": 2,
+      "title": "Planejamento de Desenvolvimento",
+      "summary": ""
+    },
+    {
+      "id": "681293144b7197001367919d",
+      "order": 3,
+      "title": "Logística de Reunião",
+      "summary": ""
+    }
+  ]
+}

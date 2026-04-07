@@ -1,0 +1,1592 @@
+{
+  "meeting_id": "68791e04b70ce50013810cdf",
+  "name": "Treinamento Atualizações Z2A",
+  "happened_at": "2025-07-17T16:00:00.000Z",
+  "duration_seconds": 3972.526,
+  "duration_minutes": 66.2,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "Rodrigo Italiano",
+      "email": "rodrigo@z2app.com.br"
+    },
+    {
+      "name": "João Pedro",
+      "email": "joao@z2app.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/68791e04b70ce50013810cdf",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "kcp-vyqf-ndz",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "68791e7ebe848e001375fa97",
+    "meetingId": "68791e04b70ce50013810cdf",
+    "data": [
+      {
+        "startTime": 1,
+        "endTime": 3,
+        "speaker": "Diego Diehl",
+        "text": "Fechou e você foi brifado com o quê?"
+      },
+      {
+        "startTime": 3,
+        "endTime": 26,
+        "speaker": "João Pedro",
+        "text": "Ele falou que não tá com acho que ele não vai conseguir entrar pelo computador agora. Ele falou que vai entrar no durante a Reunião aqui Pelo que eu entendi. Para mostrar aqui no sistema na prática ali algumas melhorias que a gente tem tem atualizado aí. no Z2"
+      },
+      {
+        "startTime": 27,
+        "endTime": 761,
+        "speaker": "Diego Diehl",
+        "text": "cliente que é DL que é tudo 12 horas é o combo estratégico aí da nossa parceria. E aí a gente vai ter que treinar o time todo de qualquer forma. Mas eu puxei esse treinamento primeiro porque tem muita coisa que mudou com a Z2 eu já fiz uma reunião com João foi super legal, ele mostrando todos os pontos que mudaram."
+      },
+      {
+        "startTime": 761,
+        "endTime": 1507,
+        "speaker": "Diego Diehl",
+        "text": "E aí um pedido aqui. A pedido do João e o João Pedro pediu para você serem bem críticos. Brincadeira aí né, João? Mas é para aqui a gente tá em casa, tá? Não é cliente não é bibió, eu quero que você seja aquele cliente c**** que pergunta que entende que viu o problema que isso para a gente tá bem alinhado aqui."
+      },
+      {
+        "startTime": 1507,
+        "endTime": 100,
+        "speaker": "Diego Diehl",
+        "text": "Para a gente aproveitar esse tempo para esclarecer tudo não dá mais para falar que que esse povo Ninguém me avisou. Não sei o que lá, não pergunta aqui"
+      },
+      {
+        "startTime": 100,
+        "endTime": 100,
+        "speaker": "João Pedro",
+        "text": "Não."
+      },
+      {
+        "startTime": 103,
+        "endTime": 733,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente continua aí com as aproximações que a gente tem dos times comerciais, então chamei vocês três aqui porque você já conhecem, mas a Z2 já são um pouco mais críticos já viveram com cliente nisso Zanella, tá tendo usar nela juntar tá recebendo bucha de vários clientes de Curitiba ali ele segura várias."
+      },
+      {
+        "startTime": 733,
+        "endTime": 1894,
+        "speaker": "Diego Diehl",
+        "text": "Nem chega em vocês, mas tem outras também que ele fica mais perdido. O João tá oferecendo o Z2 faz bastante tempo e a pisando aí também tá em contato há um tempo e tá me ajudando a estrutural comercial aqui da orla. Então esse é o contexto. E aí minha sugestão, tá João? Pode ser bem pragmático assim não precisa ser muito didático assim, ó aqui faz isso pá pum pum aí o time vê se tem dúvida se tá claro a gente vai seguindo e se não aparecer algum ponto também precisa avisam que o João pode esclarecer qualquer dúvida em nós fechou."
+      },
+      {
+        "startTime": 1894,
+        "endTime": 164,
+        "speaker": "Diego Diehl",
+        "text": "então"
+      },
+      {
+        "startTime": 164,
+        "endTime": 417,
+        "speaker": "João Pedro",
+        "text": "Depois eu abro a base da Paz e Gregor que mostra para vocês que lá tem diversas organizações. E aí eu mostro. Já funcionando lá?"
+      },
+      {
+        "startTime": 417,
+        "endTime": 420,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eu queria complementar que eu cheguei porque."
+      },
+      {
+        "startTime": 420,
+        "endTime": 433,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "O João deixa eu fazer uma pergunta, tudo bom? Então a gente consegue transferir os contatos daí para outra Imobiliária, por exemplo, tá na imobiliária x eu consigo transferir por aí mesmo para outra imobiliário que está Centralizado e organizações."
+      },
+      {
+        "startTime": 437,
+        "endTime": 444,
+        "speaker": "João Pedro",
+        "text": "Não hoje não quando eu falei de transferir Zanella. O que que está previsto aqui para a gente fazer?"
+      },
+      {
+        "startTime": 451,
+        "endTime": 455,
+        "speaker": "Rodrigo Italiano",
+        "text": "Será que eu tô com delay complementar?"
+      },
+      {
+        "startTime": 455,
+        "endTime": 460,
+        "speaker": "Diego Diehl",
+        "text": "Vai ler o João tá João? Tá embaçado ali também deve tá meio travado."
+      },
+      {
+        "startTime": 461,
+        "endTime": 461,
+        "speaker": "Carol Pizzano",
+        "text": "Tá travando por aqui."
+      },
+      {
+        "startTime": 465,
+        "endTime": 467,
+        "speaker": "Rodrigo Italiano",
+        "text": "Tá legal legal. Ô John, eu queria focar um pouquinho aqui no que a gente já"
+      },
+      {
+        "startTime": 467,
+        "endTime": 467,
+        "speaker": "Carol Pizzano",
+        "text": "sim você"
+      },
+      {
+        "startTime": 468,
+        "endTime": 468,
+        "speaker": "João Pedro",
+        "text": "Agora sim"
+      },
+      {
+        "startTime": 477,
+        "endTime": 538,
+        "speaker": "Rodrigo Italiano",
+        "text": "depois a gente vai procurar aí a tal funcionalidade não vai ter ainda o que que você acha aí. Desculpa aí meu atraso."
+      },
+      {
+        "startTime": 538,
+        "endTime": 544,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho ótimo. Acho que dá até separar depois né? Tipo é legal a gente saber o que tá no radar, porque chegar no"
+      },
+      {
+        "startTime": 544,
+        "endTime": 545,
+        "speaker": "João Pedro",
+        "text": "Não beleza então, vamos focar no que já. tá então só"
+      },
+      {
+        "startTime": 548,
+        "endTime": 550,
+        "speaker": "Diego Diehl",
+        "text": "Está não sei se eu tô com delejo."
+      },
+      {
+        "startTime": 551,
+        "endTime": 553,
+        "speaker": "Rodrigo Italiano",
+        "text": "Cara, tá com um pouquinho de lei. Mas a gente tá Dá para se entender aqui,"
+      },
+      {
+        "startTime": 553,
+        "endTime": 597,
+        "speaker": "Diego Diehl",
+        "text": "tente usando muito e sugerindo coisas então tudo que o cliente ali que nem"
+      },
+      {
+        "startTime": 597,
+        "endTime": 597,
+        "speaker": "Carol Pizzano",
+        "text": "Agora foi o Diego."
+      },
+      {
+        "startTime": 599,
+        "endTime": 602,
+        "speaker": "Diego Diehl",
+        "text": "Agora eu tô travando."
+      },
+      {
+        "startTime": 602,
+        "endTime": 607,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não voltou."
+      },
+      {
+        "startTime": 607,
+        "endTime": 632,
+        "speaker": "Diego Diehl",
+        "text": "Então todo todo o cliente gosta de ficar opinando e acha que ele tem a visão de produto maravilhosa e nossa melhor do mundo. E é legal escutar mas eu acho que para você saberem gente uma comunicação Clara a Z2 com alguns GB com alguns clientes muito próximos que são realmente Power users tem muita clareza do que precisa ser feito do que precisa evoluir, só que precisa por uma coisa na frente da outra igual."
+      },
+      {
+        "startTime": 632,
+        "endTime": 642,
+        "speaker": "Diego Diehl",
+        "text": "Então acho que esse discurso vocês podem enraizar e cara tá melhorando. Estamos desenvolvendo tá evoluindo tudo beleza. Acho que consolidando isso dá para a gente ver o que já existe."
+      },
+      {
+        "startTime": 645,
+        "endTime": 645,
+        "speaker": "João Pedro",
+        "text": "Maravilha Maravilha"
+      },
+      {
+        "startTime": 646,
+        "endTime": 650,
+        "speaker": "Rodrigo Italiano",
+        "text": "Cara, tá com um pouquinho de lei. Mas a gente tá Dá para se entender aqui,"
+      },
+      {
+        "startTime": 650,
+        "endTime": 656,
+        "speaker": "João Pedro",
+        "text": "Tá travando ainda pessoalmente minha internet. Ou melhorou aí se não?"
+      },
+      {
+        "startTime": 658,
+        "endTime": 660,
+        "speaker": "Rodrigo Italiano",
+        "text": "pode tocar aí tranquilo."
+      },
+      {
+        "startTime": 661,
+        "endTime": 2097,
+        "speaker": "João Pedro",
+        "text": "Gerencia que as conexões adiciona o número de WhatsApp que você quer conectar. E aí vai ficar disponível ali o QR code para escanear tá na tela de automações. Você pode marcar aqui a opção de usar puls de chip e aí você escolhe esse esse povo que no caso tava criado ali como demo de demonstração."
+      },
+      {
+        "startTime": 2097,
+        "endTime": 862,
+        "speaker": "João Pedro",
+        "text": "tá No caso aqui eu posso pegar. E fazer um disparo com base nesse Pou de chips aqui para base. aí"
+      },
+      {
+        "startTime": 862,
+        "endTime": 1741,
+        "speaker": "Rodrigo Italiano",
+        "text": "pouco separada ali do gerente para fazer um negócio mais institucional, então é um dos dos pontos ali que que a gente minou com esse povo e aí mesmo tendo a fidelização de algum gerente fazendo essa automação pelo público. Em nome dado ninguém Berg quem for respondendo quem for interagindo direcionado por gerente."
+      },
+      {
+        "startTime": 1741,
+        "endTime": 929,
+        "speaker": "Rodrigo Italiano",
+        "text": "Então é muito com esse viés também de a possibilidade de porque é Incorporadora, às vezes que ela fazer ali o a comunicação. Enfim, a gente tá mudando um pouco esse esse jogo, né? Eles ficava tudo na mão do gerente. Agora não é Incorporadora tá querendo ter um pouco mais de controle também isso vem para contribuir."
+      },
+      {
+        "startTime": 929,
+        "endTime": 933,
+        "speaker": "Diego Diehl",
+        "text": "E a famosa? Chipera aí, né, gente? Dá para por lá compra 4 chips 10 pila cada. Tenta dar uma aquecidinha de"
+      },
+      {
+        "startTime": 933,
+        "endTime": 933,
+        "speaker": "Rodrigo Italiano",
+        "text": "isso aí"
+      },
+      {
+        "startTime": 938,
+        "endTime": 955,
+        "speaker": "Diego Diehl",
+        "text": "nosso problema então tem esses dois lados aí."
+      },
+      {
+        "startTime": 955,
+        "endTime": 975,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu eu confesso que eu ainda não entendi, como que funcionaria a dinâmica do WhatsApp que seria disparado então, por exemplo o que eu entendi tá a Incorporadora teria uma chips com mais números com uma possível conexão ao WhatsApp de um dos gerentes. Que no caso ele não teria o WhatsApp business."
+      },
+      {
+        "startTime": 975,
+        "endTime": 982,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E aí ele conectaria esse chip comprado nesse WhatsApp Faria conexão para ser disparado no WhatsApp dele."
+      },
+      {
+        "startTime": 984,
+        "endTime": 1006,
+        "speaker": "Rodrigo Italiano",
+        "text": "É assim usando ele entende ou pude chips aqui como mais um gerente. O gerente incorporador o gerente institucional. E aí esse disparo vai ser feito desse novo número desse WhatsApp. E aí se houver a interação a gente consegue jogar para o gerente que tá que é o proprietário. Sim, tem ó, vamos imaginar que o que a gente tem aqui uma Instância do Ouro"
+      },
+      {
+        "startTime": 1006,
+        "endTime": 1019,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "porque o WhatsApp digamos nosso WhatsApp sendo disparado."
+      },
+      {
+        "startTime": 1019,
+        "endTime": 1039,
+        "speaker": "Rodrigo Italiano",
+        "text": "fazendo uma comunicação institucional. E aí cada Incorporadora ali que levantasse a mão e ia falar Opa essa Incorporadora aqui tá na gestão da pisando essa do Zanella. E aí a gente direciona então no primeiro momento centraliza. Essa comunicação no que seria um WhatsApp institucional da Incorporadora."
+      },
+      {
+        "startTime": 1039,
+        "endTime": 1041,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Entendi entendi, tá beleza."
+      },
+      {
+        "startTime": 1045,
+        "endTime": 1054,
+        "speaker": "Rodrigo Italiano",
+        "text": "Aí vai lá Johnson, é importante a gente fazer essa observação porque são formas da gente utilizar o povo aí, né?"
+      },
+      {
+        "startTime": 1057,
+        "endTime": 2252,
+        "speaker": "João Pedro",
+        "text": "Porque aí já faz mesmo na prática ali abordagem dos parceiros que navegaram pelo produto dele no órgão e tudo mais tá? Então a gente desenvolveu esse essa opção. E aí você pode transferir para um usuário específico? Ou transferir para roleta então todas as pessoas que estiverem marcadas ali para receber parceiros de origem."
+      },
+      {
+        "startTime": 2252,
+        "endTime": 1172,
+        "speaker": "João Pedro",
+        "text": "Tá então aqui ó, eu tenho cinco contatos representados, eu posso selecionar todos e transferir para roleta. Ou transferir para usuários específicos ali. beleza Alguém quer fazer alguma pergunta sobre esse?"
+      },
+      {
+        "startTime": 1172,
+        "endTime": 1200,
+        "speaker": "Rodrigo Italiano",
+        "text": "gente pediu para o deve. Falou galera. Tem uma galera represa foi na praia. Não não é eu confundi aqui diagão a gente ainda tá lá naquele naquele"
+      },
+      {
+        "startTime": 1200,
+        "endTime": 1206,
+        "speaker": "Diego Diehl",
+        "text": "Eu nem sei se tá habilitado a criação de corretores. Não sei se habilitaram de novo."
+      },
+      {
+        "startTime": 1212,
+        "endTime": 1212,
+        "speaker": "Rodrigo Italiano",
+        "text": "combinado lá."
+      },
+      {
+        "startTime": 1214,
+        "endTime": 1215,
+        "speaker": "Diego Diehl",
+        "text": "Tá é parceiro Osório, mas está parado não tá não tá jogando o corretor"
+      },
+      {
+        "startTime": 1215,
+        "endTime": 1216,
+        "speaker": "Rodrigo Italiano",
+        "text": "Eu não sei pelo menos eu."
+      },
+      {
+        "startTime": 1221,
+        "endTime": 1223,
+        "speaker": "Diego Diehl",
+        "text": "para não tá abordando o corretor não, né?"
+      },
+      {
+        "startTime": 1224,
+        "endTime": 1226,
+        "speaker": "Rodrigo Italiano",
+        "text": "Posso eu posso ver aqui, eu lembro que a gente tinha combinado."
+      },
+      {
+        "startTime": 1226,
+        "endTime": 1228,
+        "speaker": "Diego Diehl",
+        "text": "O Alexandre pediu para travar porque"
+      },
+      {
+        "startTime": 1228,
+        "endTime": 1229,
+        "speaker": "João Pedro",
+        "text": "não, tá"
+      },
+      {
+        "startTime": 1232,
+        "endTime": 1255,
+        "speaker": "Diego Diehl",
+        "text": "portal eu posso exportar para eles é o esporte eles de dizem de qual coordenador que é importa na Z2."
+      },
+      {
+        "startTime": 1255,
+        "endTime": 1289,
+        "speaker": "Rodrigo Italiano",
+        "text": "Beleza, beleza. Mas enfim aí essa esse recurso veio porque antes a gente podia para o deve ter um problema que tem Integração represou contato, a gente é lá deve Solta aí só que era um negócio que tava meio sem regra lá, enfim, aconteceu aquele aquela enxurrada lá que a gente viu então esse recurso vem justamente para cadenciar então quando entrar e represar vai ser distribuído."
+      },
+      {
+        "startTime": 1289,
+        "endTime": 1298,
+        "speaker": "Rodrigo Italiano",
+        "text": "de forma cadenciada Beleza, então, beleza. Acho que é isso. Tá anotado aí, tá? Se tiver falando."
+      },
+      {
+        "startTime": 1299,
+        "endTime": 2401,
+        "speaker": "João Pedro",
+        "text": "desenvolvimento. Redistribuir só que como eles faziam direto no banco de dados ali acabou que a gente mandou um volume muito grande. Para as contas que tinham bastante parceiros. Até porque a gente identificou o erro ali com dois dias dois dias após então acabou que eles receberam muitos contatos, então a gente criou esse menu aqui justamente para minimizar ali."
+      },
+      {
+        "startTime": 2401,
+        "endTime": 1352,
+        "speaker": "João Pedro",
+        "text": "Quando acontecer algum tipo de Algum caso de parceiros ficarem represados eles vão ser distribuídos de uma forma cadenciada evitando ali o risco do bloqueio dessa abordagem ativa do órgão que está desativada na Hype até então. solicitação dele"
+      },
+      {
+        "startTime": 1352,
+        "endTime": 2803,
+        "speaker": "Diego Diehl",
+        "text": "alertinha a janela, vamos vamos tocar com eles essa exportação dos corretores de Portal deles que ele já devem ter todo mundo a gente manda uma planilha eles preenchem. Quem é o coordenador responsável? E aí João você ficou de me retornar? Como é que eu poderia preencher a imobiliária? Da nossa última conversa tá? Aí quando você puder me dizer tipo se eles conseguem eu quero que eles criem as organizações."
+      },
+      {
+        "startTime": 2803,
+        "endTime": 1401,
+        "speaker": "Diego Diehl",
+        "text": "E eu preciso saber como é que eu vou dizer de que mobiliária que é com alguma coisa."
+      },
+      {
+        "startTime": 1401,
+        "endTime": 1408,
+        "speaker": "João Pedro",
+        "text": "É não assim, eu comentei que você podia mandar uma base que a gente fazia essa esse vínculo direto pelo banco aqui, né? Posso passar aqui para o time."
+      },
+      {
+        "startTime": 1408,
+        "endTime": 1423,
+        "speaker": "Diego Diehl",
+        "text": "Ah então beleza então, você não ficou me devendo nada, então é isso janela a gente vai pegar a base. Daí eles dizem de qual é o coordenador. Qual é a Imobiliária e dá na mão da Z2 para subir vincular Imobiliária com tudo?"
+      },
+      {
+        "startTime": 1425,
+        "endTime": 1446,
+        "speaker": "João Pedro",
+        "text": "parceiro e marcar ele na organização. Ele faz um processo de primeiro cria a organização depois vincula os demais contatos. Aí Você comenta como ele já tem essa base. Acho que já organizada lá a gente pode fazer esse vínculo aqui em massa."
+      },
+      {
+        "startTime": 1446,
+        "endTime": 1446,
+        "speaker": "Diego Diehl",
+        "text": "fechou"
+      },
+      {
+        "startTime": 1448,
+        "endTime": 2601,
+        "speaker": "João Pedro",
+        "text": "qualificador ali na no formulário. Então ele meio que qualificou todo mundo aí a gente consegue corrigir isso tá? Então se algum cliente pediu para vocês a gente reseta esse número de qualificados. De acordo com o campo dinâmico que o cliente definiu tá a gente nos novos clientes, a gente já faz durante a implantação, mas se algum cliente já passou já um tempo e vocês precisarem é só marcar aqui o campo de qualificado."
+      },
+      {
+        "startTime": 2601,
+        "endTime": 1658,
+        "speaker": "João Pedro",
+        "text": "Vamos qualificador o cara quer saber se é Imobiliária ou se é autônomo. Esse aqui qualifica o parceiro dele quando ele definir a regra uma única vez a gente vai lá e faz um roda um script aqui para ajustar aquele número de parceiros qualificados da base dele com base nesses Campos dinâmicos."
+      },
+      {
+        "startTime": 1658,
+        "endTime": 1742,
+        "speaker": "Rodrigo Italiano",
+        "text": "representa de fato ali o que tá qualificado para a gente zerar essa qualificação e começar ela novamente, tá?"
+      },
+      {
+        "startTime": 1742,
+        "endTime": 3064,
+        "speaker": "João Pedro",
+        "text": "Tá além disso agora a gente não limita a quantidade de arquivos que serão disparados pelos é e o texto ele é sempre desenvolvido pela própria Inteligência Artificial. Então antes a gente programar. Olha segue aqui a tabela isso esse texto já estava pronto agora cada cada solicitação, ele manda um texto diferente, tá? E aí só para não sei se vocês já algum cliente já reclamou para vocês? Ah."
+      },
+      {
+        "startTime": 3064,
+        "endTime": 1941,
+        "speaker": "João Pedro",
+        "text": "O Zé não tá respondendo não tá mandando não tá não tá me enviando o arquivo que eu pedi é porque provavelmente ele tá sem a intenção configurada. Tá então nosso time aqui, tá?"
+      },
+      {
+        "startTime": 1941,
+        "endTime": 1949,
+        "speaker": "Carol Pizzano",
+        "text": "minha assim É o arquivo, ele tá puxando o tamanho da hora Lu ou ele pode ter arquivo também. Extra dentro do Zé que não tá na hora."
+      },
+      {
+        "startTime": 1951,
+        "endTime": 1959,
+        "speaker": "João Pedro",
+        "text": "Ele pode ter arquivos extras que não estão dentro do órgão. Tá mas a gente busca."
+      },
+      {
+        "startTime": 1961,
+        "endTime": 1962,
+        "speaker": "Carol Pizzano",
+        "text": "Você pode voltar?"
+      },
+      {
+        "startTime": 1962,
+        "endTime": 1962,
+        "speaker": "João Pedro",
+        "text": "A gente puxa a tabela."
+      },
+      {
+        "startTime": 1964,
+        "endTime": 1964,
+        "speaker": "Diego Diehl",
+        "text": "João tá travando, né?"
+      },
+      {
+        "startTime": 1966,
+        "endTime": 1966,
+        "speaker": "João Pedro",
+        "text": "travou"
+      },
+      {
+        "startTime": 1967,
+        "endTime": 2006,
+        "speaker": "Diego Diehl",
+        "text": "Tá travando eu tô de volta os janela, esse daí essa daí para mim foi a principal mudança. Porque a gente eu falei isso já precisa saber que a gente treinava e vendia muito em torno da gente preparar um script estratégico para enviar. E agora tem que mudar o pit porque de uma forma geral as incorporadoras não atualizavam não montavam e aí como a Iah você consegue dar mais inteligência? Para envio, né? E então mudou completamente isso aí não tem mais script lá"
+      },
+      {
+        "startTime": 2006,
+        "endTime": 2012,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Pode ir Ju."
+      },
+      {
+        "startTime": 2012,
+        "endTime": 3241,
+        "speaker": "João Pedro",
+        "text": "comentar de revisar o script Colocar. Um textinho ali bem legal durante o envio dos arquivos, então a gente tá recebendo bastante chamada aqui de clientes que estão reclamando dessa. Em tese melhoria, né? E aí o Júnior a gente já fez uma reunião com o time de desenvolvimento. A ideia é que a gente vai manter essa melhoria no ar."
+      },
+      {
+        "startTime": 3241,
+        "endTime": 2060,
+        "speaker": "João Pedro",
+        "text": "Só que a gente também vai voltar a versão antiga do script como era antes para alguns clientes que forem que vão reclamar e que já estão reclamando. tá"
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2062,
+        "speaker": "Diego Diehl",
+        "text": "Amor, eu avisei eu avisei quando eu mudar, o Junior falou não vai dar boa é"
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2062,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "boa"
+      },
+      {
+        "startTime": 2062,
+        "endTime": 2064,
+        "speaker": "João Pedro",
+        "text": "mas"
+      },
+      {
+        "startTime": 2067,
+        "endTime": 2084,
+        "speaker": "Diego Diehl",
+        "text": "super inteligente. Falei cara. O João você que está em contato com a galera e cliente dando a minha perspectiva de todos que eu atendi. Para mim tá excelente ter uma e a mais ativa. Porque sendo sinceras entre nós não tinha e a né, tipo era chatbot é e beleza a gente sabia que tava no Road"
+      },
+      {
+        "startTime": 2084,
+        "endTime": 2088,
+        "speaker": "João Pedro",
+        "text": "não era um"
+      },
+      {
+        "startTime": 2090,
+        "endTime": 2113,
+        "speaker": "Diego Diehl",
+        "text": "map legal t&a o que eu deixaria é só o script com a intenção informações. E aí quando quando as pessoas pedirem informações ou mandar a roubar Zé e o número manda o script padronizado que eles configuram e o resto toca assim que eu faria tá e não ligar o desligar porque eu como cliente vai falar não quero olhar funcionando."
+      },
+      {
+        "startTime": 2113,
+        "endTime": 2128,
+        "speaker": "Diego Diehl",
+        "text": "Só que eu quero ter um comando específico para ativar o script que eu fiz específico, tá te dando um repórter aí do como eu acho que a galera vai pedir. Real assim não é um ou outro é os dois."
+      },
+      {
+        "startTime": 2129,
+        "endTime": 2414,
+        "speaker": "João Pedro",
+        "text": "melhoria foi que o Zé ele ficava buscando as intenções dentro do empreendimento solicitado e quando ele não encontrava ele falava, olha não encontrei a tabela. Não. Encontrei a apresentação. Não encontrei a planta não encontrei a disponibilidade. Não encontrei o memorial. Enfim, ele ficava dedurando que que não tinha de arquivo e aí como até a Carol questionou já aproveitando para responder a pergunta dela esses arquivos a maioria vem do órgão."
+      },
+      {
+        "startTime": 2414,
+        "endTime": 2613,
+        "speaker": "João Pedro",
+        "text": "Só que aí por exemplo não tem Às vezes a disponibilidade lá no órgão como arquivo. Às vezes o empreendimento é um breve lançamento lá no Aurora, eles ainda não disponibilizaram todas as informações para vocês então quando não tinha intenção configurada ele falava, olha não tenho isso. Não. Tenho isso."
+      },
+      {
+        "startTime": 2613,
+        "endTime": 2905,
+        "speaker": "João Pedro",
+        "text": "Não tenho isso, mas tem a tabela e tenho sei lá. O book aí ele mandava, só que ele ficava dedurando que que não tinha quando ele pedia assim, ó, Zé me envia informações do empreendimento Residencial amarula isso já foi corrigido. Então agora ele não fala o que não tem então quando você pede informações do empreendimento Residencial amarula ele vem pega as intenções que existem dentro dos arquivos e envia com Um textinho."
+      },
+      {
+        "startTime": 2905,
+        "endTime": 3185,
+        "speaker": "João Pedro",
+        "text": "diferenciado cada solicitação ele bola um texto novo com o contexto GPT E ele prepara essas respostas adicione emojis então agora sim tem uma inteligência artificial por trás dessa montagem de envio de informações. O que a gente tem recebido de reclamação é a questão da ordenação de como essas informações são disponibilizadas no WhatsApp? Ah eu quero mandar a tabela primeiro depois o book depois a planta isso era possível antes."
+      },
+      {
+        "startTime": 3185,
+        "endTime": 3384,
+        "speaker": "João Pedro",
+        "text": "Agora não é mais porque a inteligência artificial fala assim ó, você quer informações do empreendimento. Então olha segue aqui a planta segue aqui a tabela e ele nunca vai seguir essa ordem. Ele manda cada vez de uma forma diferente, mas com todos os arquivos que tem a intenção configurada."
+      },
+      {
+        "startTime": 3384,
+        "endTime": 3614,
+        "speaker": "João Pedro",
+        "text": "Quando o cliente reclama que não tá enviando nada, é porque de fato quando a gente fez essa mudança. Todas essas marcações de intenções ela se perderam a única marcação de intenção que vem automática é a da tabela. Porque como a tabela vem de vocês lá do órgão a tabela entra aqui já entra com essa intenção tabela."
+      },
+      {
+        "startTime": 3614,
+        "endTime": 2325,
+        "speaker": "João Pedro",
+        "text": "Então a ideia ela substituir a tabela antiga pela Nova já com a intenção de tabela. Tá. E aí uma coisa que a gente tem que aproveitar o conversa que eu sei que não tá no radar aqui não tava previsto para pauta de hoje, mas que a gente recebe muita solicitação de cliente pedindo para não enviar pelo Zé aquela tabela disponibilidade que eu acho que Posso estar enganado, mas acho que são vocês que preparam esse material, né? Dentro do empreendimento me corrijam."
+      },
+      {
+        "startTime": 2325,
+        "endTime": 2330,
+        "speaker": "Carol Pizzano",
+        "text": "sim"
+      },
+      {
+        "startTime": 2330,
+        "endTime": 2346,
+        "speaker": "João Pedro",
+        "text": "Mas ambos com a intenção tabela né? Aí no Z2 ela já entra com essa intenção marcada e a gente não consegue por exemplo se eu desmarcar Amanhã quando ele sincronizar com ouro ele já volta para o script já com a intenção tabela configurar."
+      },
+      {
+        "startTime": 2347,
+        "endTime": 2367,
+        "speaker": "Carol Pizzano",
+        "text": "Esse que eu ia te perguntar, quanto tempo de sincronização que acontece o meu Deploy ele acontece às 0 horas, né? Que eu rodo todas as atualizações de tabela, seja via api via atualização time humano ou cliente especial do cliente. Quanto tempo que demora para aparecer dentro do Zé?"
+      },
+      {
+        "startTime": 2369,
+        "endTime": 2401,
+        "speaker": "João Pedro",
+        "text": "Olha a sincronização, ela tá programada para acontecer em tempo real, então você mudou lá no ouro no Arquivo, ele já muda aqui na intenção. O que pode acontecer é que a sincronização de arquivos ela pode estar desabilitada para uma incorporadora específica? E a gente configura isso no bake Office aqui então, se não tiver atualizando a primeira coisa que a gente olha é back office tá ativa sincronia, vamos entender se deu algum erro."
+      },
+      {
+        "startTime": 2401,
+        "endTime": 2420,
+        "speaker": "João Pedro",
+        "text": "Aí o segundo passo é vamos conferir se a tabela tá atualizada no órgão, né no caso ali. Acho que até a praia de reclamou chamei usa nela aqui no privado porque a tabela no órgão tava desatualizada. Mas ele tava sincronizando ali em tempo real. E aí conforme?"
+      },
+      {
+        "startTime": 2420,
+        "endTime": 2431,
+        "speaker": "Carol Pizzano",
+        "text": "Pode ser i***** e quando o cliente esconde a tabela no módulo vocês também estão escondendo."
+      },
+      {
+        "startTime": 2432,
+        "endTime": 2453,
+        "speaker": "João Pedro",
+        "text": "Não a gente não esconde no Zé, a gente não tem nenhuma. Isso é até um ponto mega importante tá Carol do time técnico de ambas as empresas discutirem porque quando a gente faz uma implantação de um cliente muitas ações que a gente faz aqui por mais que a gente receba informações do órgão, elas são feitas manualmente pelo meu time."
+      },
+      {
+        "startTime": 2453,
+        "endTime": 2472,
+        "speaker": "João Pedro",
+        "text": "Você pega aqui número de dormitórios, às vezes não tem no Orla, às vezes não tem sei lá valores. Ou às vezes o cliente aconteceu recentemente do cliente querer ocultar ali o preço o valor máximo, só que vem automático aí sincroniza e a gente não consegue. Encontrar uma forma de atender o cliente aqui no Z2."
+      },
+      {
+        "startTime": 2472,
+        "endTime": 2490,
+        "speaker": "João Pedro",
+        "text": "Tem linguiça que A maioria das informações vem automática, só que é de qualquer forma a gente tem que parametrizar os arquivos então quando o cliente implanta um empreendimento no Oro a gente sempre pede e avisa para ele avisar aqui para o time da Z2 se não a gente não consegue."
+      },
+      {
+        "startTime": 2490,
+        "endTime": 2509,
+        "speaker": "João Pedro",
+        "text": "Colocar para rodar e quando ele faz alguma alteração lá isso acontece com frequência. A gente bater aqui o número de empreendimentos e não ser o mesmo que tá lá no oro aí eu não sei se é porque quando acaba o estoque você já desativam lá no ouro automaticamente. Esse cara fica ativo aqui no Z2."
+      },
+      {
+        "startTime": 2510,
+        "endTime": 2518,
+        "speaker": "Carol Pizzano",
+        "text": "Quando acaba estoque zera, né? Ele manda também ali zera, ele já é removido. E dá como removido. Entendeu?"
+      },
+      {
+        "startTime": 2518,
+        "endTime": 2525,
+        "speaker": "João Pedro",
+        "text": "É aqui aquele fica entendeu? Ele fica e se tiver tabela ele fica com a tabela antiga e tudo mais. seria legal, talvez a gente inativar ele no Z2 porque aí ele para de"
+      },
+      {
+        "startTime": 2525,
+        "endTime": 2539,
+        "speaker": "Carol Pizzano",
+        "text": "O que acontece o ideal seria também essa comunicação? Removeu remove aí?"
+      },
+      {
+        "startTime": 2539,
+        "endTime": 2578,
+        "speaker": "João Pedro",
+        "text": "sim Exatamente aqui a gente não consegue remover Empreendimentos a gente só consegue inativar. Porque tem muita coisa que fica registrada no Z2. Que a interação o histórico tá tudo atrelado a um empreendimento então a gente não consegue por exemplo no histórico que aí vamos falar sobre mais uma melhoria eu vou sair dessa tela que vou para mais uma melhoria seriam a questão do score do ranking, né? Então a gente subiu uma melhoria na qual antigamente a gente só mapeava o comportamento do parceiro no órgão."
+      },
+      {
+        "startTime": 2578,
+        "endTime": 2600,
+        "speaker": "João Pedro",
+        "text": "Ah o cara consultou a tabela tudo mais a gente recebeu um evento de vocês e registrava aqui no score essa pontuação. Aqui essa pontuação ela mudou agora, a gente vai registrando os pontos dos parceiros, conforme eles vão consultando no órgão conforme eles vão consultando direto no WhatsApp com o Zé."
+      },
+      {
+        "startTime": 2600,
+        "endTime": 2624,
+        "speaker": "João Pedro",
+        "text": "A gente registra quando ele tá verificado quando ele tá qualificado quando ele marca visita quando ele registra uma venda. Então tudo isso influencia diretamente na pontuação. Desse desse parceiro tá e fica tudo registrado aqui no histórico dele então se eu excluísse o empreendimento eu como se eu tirasse um ponto de consulta."
+      },
+      {
+        "startTime": 2624,
+        "endTime": 2650,
+        "speaker": "João Pedro",
+        "text": "Do histórico desse parceiro então, por isso que a gente não remove os Empreendimentos, mas o ideal seria assim ó, excluiu esse ID lá no órgão inativa aqui no Z2 que aí o cara já não tem o trabalho de mandar lá no grupo ó time. Esse empreendimento não faz mais parte aqui do nosso portfólio já acabou e tal."
+      },
+      {
+        "startTime": 2650,
+        "endTime": 2682,
+        "speaker": "João Pedro",
+        "text": "então, a gente fica muito receptiva aqui no canal de atendimento com relação, a isso tá Carol, mas assim a gente pega com Hoje mesmo na reunião com a Canopus. Olhamos aqui tinha um empreendimento que não tava no órgão aí a gente achou que era que talvez a gente teria que pedir para vocês incluirem lá, só que na verdade a gente tinha que tirar aqui, ele tava sobrando aqui no Z2."
+      },
+      {
+        "startTime": 2682,
+        "endTime": 2709,
+        "speaker": "João Pedro",
+        "text": "Então essa questão do score também foi uma melhoria recente Além da questão do score, a gente tem hoje os links de visita. E o link de qualificação? Tá esse link de qualificação você pode copiar. Ele é o único para cada parceiro ou você pode clicar aqui em enviar e ele vai usar? Nas mensagens do Zé a mensagem de qualificação de parceiros."
+      },
+      {
+        "startTime": 2709,
+        "endTime": 2746,
+        "speaker": "João Pedro",
+        "text": "Então uma das mensagens do Zé é a qualificação de parceiros então, se você clicar aqui no link sem enviar a qualificação, ele já manda com aquele textinho aquele script que já tá pronto. Só que o que que a gente fala muito com os clientes, principalmente os clientes GDS ali da hora Rio te faz de tudo mais a gente habilita o recurso de qualificação automática para ele não ter esse trabalho de ter que ficar mandando o link manualmente para os parceiros dele."
+      },
+      {
+        "startTime": 2746,
+        "endTime": 2779,
+        "speaker": "João Pedro",
+        "text": "Então quando ele entra na coluna qualificação e ele recebe esse selo de verificado a gente já consegue startar esse link já envia pelo WhatsApp do gerente mesmo para ele. E conforme ele vai se qualificando né, ele preenche o campo qualificador ele avança para colorir. E a gente adicionou recentemente esse link de visita também, porque ele só mandava o link de visita quando ele identificava algum diálogo do tipo a roupa, Zé."
+      },
+      {
+        "startTime": 2779,
+        "endTime": 2812,
+        "speaker": "João Pedro",
+        "text": "Preciso agendar uma visita ou algo do tipo agora ele não ele não precisa esperar ele já pode falar assim. Ah, quero agendar uma visita. Toma aqui o link, aí ele vai lá e manda o link. Deixa eu voltar aqui então falamos sobre as intenções. sobre os contatos representados as configurações dos Empreendimentos aqui no Z2 Tem uma melhoria também recente que seriam os pontos de visita justamente para esse conceito de agendar visitas pelo WhatsApp."
+      },
+      {
+        "startTime": 2812,
+        "endTime": 2835,
+        "speaker": "João Pedro",
+        "text": "Funcionar para ele conseguir abrir o portal e conseguir agendar a visita dele esse ser Empreendimentos precisam ter um ponto de visita cadastrado. E aí o meu time ele faz o cadastro do ponto de visita exatamente igual ao endereço do empreendimento. Então se o cliente precisar mudar o ponto de visita."
+      },
+      {
+        "startTime": 2835,
+        "endTime": 2861,
+        "speaker": "João Pedro",
+        "text": "O meu time é justo aqui durante a utilização tá normalmente quem faz esses pontos de visita. Com os clientes antigos é o nosso time de CS então, entra lá ver se ele tá usando o recurso de agendar visita pelo WhatsApp. Que agora tem uma relevância porque além de trazer a facilidade para agendar visita isso agrega lá no score."
+      },
+      {
+        "startTime": 2861,
+        "endTime": 2892,
+        "speaker": "João Pedro",
+        "text": "do parceiro Tá então o time de CS ele faz isso tá no roteiro no Script ali de perguntar para ele. Você tá usando não porque Ah não tem um ponto de visita cadastrado. tá Deixa eu só conferir aqui do que eu mandei a gente subiu o bimmer também a ideia é que o bimba ele vai começar a ser utilizado para subir tutoriais e materiais ali relacionados às atualizações."
+      },
+      {
+        "startTime": 2892,
+        "endTime": 2918,
+        "speaker": "João Pedro",
+        "text": "tá A ideia que a gente prepare o material o time de desenvolvimento mesmo vai ter uma equipe para fazer isso e eles vão documentar que todas as mudanças que acontecerem no Z2. tá Bom aqui na tela de automações o que que mudou recentemente né? Que agora também a gente permite a pessoa utilizar o modelo de automação."
+      },
+      {
+        "startTime": 2918,
+        "endTime": 2940,
+        "speaker": "João Pedro",
+        "text": "Então o que acontecia bastante é que cada gerente criava sua automação uma mensagem específica hoje eu consigo. Deixar isso previamente parametrizado aqui no sistema e escolher aqui o script ele já manda. Qual mensagem vai ser enviada com base nesse modelo de mensagem? Aí aonde ele configura os modelos de mensagens."
+      },
+      {
+        "startTime": 2940,
+        "endTime": 2945,
+        "speaker": "João Pedro",
+        "text": "ele consegue deixar mensagem com Utiliza esse modelo como exemplo."
+      },
+      {
+        "startTime": 2948,
+        "endTime": 2953,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "João eu acho que deu uma travada aqui para mim, eu não consegui ouvir travou para vocês também pessoal."
+      },
+      {
+        "startTime": 2956,
+        "endTime": 2956,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Deu uma travada assim ali."
+      },
+      {
+        "startTime": 2957,
+        "endTime": 2959,
+        "speaker": "Carol Pizzano",
+        "text": "Meu Deus."
+      },
+      {
+        "startTime": 2959,
+        "endTime": 2961,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Você consegue repetir a parte dos modelos por gentileza?"
+      },
+      {
+        "startTime": 2966,
+        "endTime": 2991,
+        "speaker": "João Pedro",
+        "text": "Claro com certeza aqui em automações. A gente tinha os modelos de mensagens. Só que eles não podiam ser utilizados para as automações. Então o que a gente fez foi hoje eu consigo deixar uma mensagem padronizada. Com vídeos textos. tudo mais Mensagem pronta vem aqui depois em automações e eu consigo adicionar esse modelo de mensagem."
+      },
+      {
+        "startTime": 2991,
+        "endTime": 3026,
+        "speaker": "João Pedro",
+        "text": "Aí ele já vem para cá. Não preciso configurar. Essa automação de novo. Tá. E outra coisa também. É que eu consigo criar uma automação para mais de um coordenador de parcerias isso facilitou a vida de quem faz a Gestão do canal porque você consegue fazer um disparo para toda a base de todos os coordenadores sendo feito disparo de cada um do número de cada um deles para os seus respectivos parceiros, eu crio uma automação só."
+      },
+      {
+        "startTime": 3026,
+        "endTime": 3053,
+        "speaker": "João Pedro",
+        "text": "E depois ela vem aqui para a tela de automações já dividida. Cada parceira vai ter seu ID de automação. Mas eu posso criar uma única automação inicialmente. Depois ele já divide. pessoal Existiram outras mudanças aqui outras atualizações também no Z2, mas eu queria deixar esse espaço aqui o finalzinho da reunião para vocês perguntarem aqui tirarem as dúvidas."
+      },
+      {
+        "startTime": 3053,
+        "endTime": 3082,
+        "speaker": "João Pedro",
+        "text": "Talvez Os questionamentos que os clientes fazem para vocês, principalmente tem muita coisa no radar aqui. Para a gente atualizar tá? Eu não sei até qual Sprint era para a gente ter ter mostrado aqui as melhorias, mas eu peguei bem lá de trás quando eu entrei aqui há uns quatro meses atrás até hoje as principais mudanças ali e a última e mais significativa."
+      },
+      {
+        "startTime": 3082,
+        "endTime": 3111,
+        "speaker": "João Pedro",
+        "text": "Tá girando ali uma certa polêmica é a dos scripts, tá? Foi a que eu mostrei para vocês então no meu time tá aqui. A prontidão aqui para corrigir caso algum cliente precisa né? No caso ele a praia de Por Exemplo foi um caso que a gente atuou aqui emergencialmente que a Raquel tava comentando que o Zé não tava servindo mais a gente."
+      },
+      {
+        "startTime": 3111,
+        "endTime": 3117,
+        "speaker": "João Pedro",
+        "text": "Atuou rapidamente. Mas fique à vontade aí para perguntar se tiver alguma dúvida."
+      },
+      {
+        "startTime": 3119,
+        "endTime": 3131,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Eu tenho uma dúvida em relação a essa nova ferramenta onde a ia cada texto de cada empreendimento a gente tem. Alguma chance de alucinar nessas Comunicações?"
+      },
+      {
+        "startTime": 3139,
+        "endTime": 3144,
+        "speaker": "João Pedro",
+        "text": "Você diz deixar ali um algumas orientações para comunicação."
+      },
+      {
+        "startTime": 3144,
+        "endTime": 3161,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Não no caso por exemplo se é a começa a falar de algumas outras coisas sem contexto nenhum. Que que do contexto do empreendimento do que ele tem que ser mandado? A gente teve um erro em relação à envio dessas mensagens."
+      },
+      {
+        "startTime": 3162,
+        "endTime": 3186,
+        "speaker": "João Pedro",
+        "text": "Não na verdade todos os Empreendimentos que a gente configura no Z2 a gente já fazia o contexto GPT deles O contexto GPT ele era limitado a falar quantos dormitórios tinha região e tudo mais. Agora além de registrar informações sobre o empreendimento a gente pode criar ali meio que um roteiro de respostas."
+      },
+      {
+        "startTime": 3186,
+        "endTime": 3215,
+        "speaker": "João Pedro",
+        "text": "Trazer embasamento técnico sobre o Empreendimentos diferenciais tudo isso para o contexto GPT, ele ficou muito mais avançado agora então a gente por exemplo a gente fez a existe um recurso no Z2. Esse daqui vou pedir para vocês não passarem para os clientes ainda, tá que é o alto atendimento que é quando ele não aciona uma arroba Zé na conversa de WhatsApp."
+      },
+      {
+        "startTime": 3215,
+        "endTime": 3237,
+        "speaker": "João Pedro",
+        "text": "E tem um cliente nosso que a condição para ele continuar era com o autoatendimento funcionando. Então a gente fez um contexto GPT para cada empreendimento dele absurdo assim o cara pede. Cara, fala com o coordenador, só que no final das contas quem tá respondendo 100% lá é o Zé."
+      },
+      {
+        "startTime": 3237,
+        "endTime": 3253,
+        "speaker": "João Pedro",
+        "text": "Sem ser acionado. Ele fala. Quais são os Empreendimentos que o cliente tem na zona sul ele fala quais tem dois dormitórios, ele manda a tabela, manda espelho tudo. em formato de link em formato de texto"
+      },
+      {
+        "startTime": 3253,
+        "endTime": 3255,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "E como que tá esse cliente João? ele tá"
+      },
+      {
+        "startTime": 3255,
+        "endTime": 3267,
+        "speaker": "João Pedro",
+        "text": "cara a gente A gente finalizou começamos os testes essa semana. E a gente deu o prazo para ele definir se ele vai seguir ou não até quarta-feira da semana que vem."
+      },
+      {
+        "startTime": 3270,
+        "endTime": 3282,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Consegue manter comunicado porque assim eu tenho uma negociação com a real marca que foi exatamente a mesma perspectiva. A gente não fechou porque não tinha um auto atendimento. E a gente não tinha segurança da resposta, né? Não."
+      },
+      {
+        "startTime": 3283,
+        "endTime": 3289,
+        "speaker": "Diego Diehl",
+        "text": "Não auto atendimento está em desenvolvimento, tem que testar não sei João. Vocês já estão vendendo autoatendimento não, né?"
+      },
+      {
+        "startTime": 3290,
+        "endTime": 3303,
+        "speaker": "João Pedro",
+        "text": "Não não é que esse daqui foram Promessas de muitos meses era um cliente que já tava aqui com a gente e aí com essas mudanças que a gente fez no Script é justamente para a gente avançar para o auto atendimento."
+      },
+      {
+        "startTime": 3304,
+        "endTime": 3305,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "Entendi, tá, beleza."
+      },
+      {
+        "startTime": 3305,
+        "endTime": 3307,
+        "speaker": "Diego Diehl",
+        "text": "Deixaria de molho mais um pouquinho tá a janela."
+      },
+      {
+        "startTime": 3308,
+        "endTime": 3309,
+        "speaker": "Luiz Gustavo Zanella",
+        "text": "fechou"
+      },
+      {
+        "startTime": 3312,
+        "endTime": 3314,
+        "speaker": "Diego Diehl",
+        "text": "João esse aí, tá?"
+      },
+      {
+        "startTime": 3314,
+        "endTime": 3332,
+        "speaker": "João Pedro",
+        "text": "Só o último detalhe que eu esqueci. A gente tem um portal do Z2, né? Não sei se todos sabem, mas tem um portalzinho que a gente disponibiliza ele ele vem com as informações dos Empreendimentos cadastrados aqui no Z2 e esse Portal ele além de conseguir agendar visita a gente ele serve para capturar parceiros também."
+      },
+      {
+        "startTime": 3332,
+        "endTime": 3339,
+        "speaker": "João Pedro",
+        "text": "Então, eu quero mandar o link ali para o meu parceiro se cadastrar no Z2 antes não tinha essa possibilidade."
+      },
+      {
+        "startTime": 3343,
+        "endTime": 3377,
+        "speaker": "Diego Diehl",
+        "text": "Esse aí tá bem complicado, tá tá em reunião de fundadores ali Júnior e Eduardo vão falar amanhã. porque por contrato vocês tem que usar o nosso portal, vocês desenvolveram de vocês, então tá uma Tá uma tá um problema aí entre nós isso daí e vocês avançaram com o portal a gente tá? O Edu e o Júnior vão conversar amanhã para ver o que fazer se o portal de vocês vai ser oficial ou não, mas essa quebra aí da hora do tempo Portal vocês terem Portal tá gerando um super ruído, tá só para você saber."
+      },
+      {
+        "startTime": 3377,
+        "endTime": 3386,
+        "speaker": "João Pedro",
+        "text": "Não beleza então, acho que não vale nem a pena eu mostrar mas eu ia só falar sobre esse link que pode ter. Pode parecer confuso para vocês aqui porque é novo."
+      },
+      {
+        "startTime": 3386,
+        "endTime": 3420,
+        "speaker": "Diego Diehl",
+        "text": "É sim, eu acho que até você poderia ter um cuidado no CS para quando o cliente vier da gente a gente tiver distribuindo nosso portal, vocês vão ter que fazer uma lambarismo aí no CS de vocês. Porque se vocês se o nosso cliente tiver o nosso portal e você começar a oferecer de vocês, a gente vai criar um problema no nível 2 ainda então até a gente se resolver toma um cuidado com isso tá João eu tô eu tô como corretor na história que eu tô cara, vamos conversar vamos ajustar precisamos fazer."
+      },
+      {
+        "startTime": 3420,
+        "endTime": 3424,
+        "speaker": "Diego Diehl",
+        "text": "Mas tá um ruidinho aí, tá? Só para você saber meu time tá aí."
+      },
+      {
+        "startTime": 3424,
+        "endTime": 3424,
+        "speaker": "João Pedro",
+        "text": "Tá não."
+      },
+      {
+        "startTime": 3425,
+        "endTime": 3432,
+        "speaker": "Carol Pizzano",
+        "text": "Aqui já a ideia as árvores tem a paz e gregos tem a Canopus tem portal órgão. Então eu não sei como é que usa."
+      },
+      {
+        "startTime": 3432,
+        "endTime": 3452,
+        "speaker": "Diego Diehl",
+        "text": "Então é isso que rolou de problema pisando daí o Júnior ou alguém da Z2 começou a vender a ideia do portal deles daí tem gente que quer trocar de Portal, daí virou um fuzuê para gente aqui da ponta meio que não muda nada agora tá? Eu tô me colocando como ponto aqui por mais que eu esteja discutindo estratégia."
+      },
+      {
+        "startTime": 3452,
+        "endTime": 3469,
+        "speaker": "Diego Diehl",
+        "text": "O ponto é que a Z2 para vocês saberem desenvolver um portal bacana simples que tem um agendador de visita que tem um link o link João eu não sei se você sabe tá? Mas eu acho que vale você só bater o olho aqui na hora. Esse link aqui ó, você tá vendo ó?"
+      },
+      {
+        "startTime": 3470,
+        "endTime": 3470,
+        "speaker": "João Pedro",
+        "text": "Aí quando ele preenche ali o capturou o contato hoje ali no órgão ele."
+      },
+      {
+        "startTime": 3470,
+        "endTime": 3490,
+        "speaker": "Diego Diehl",
+        "text": "O link a gente tem faz muito tempo aqui, ó. Que o cara selecionar o portal da Hype e ele clica e pega um link. Que justamente já seta tudo só que não tá conectando com a Z2. Então tá uma baguncinha isso aí, tá? Para você saber."
+      },
+      {
+        "startTime": 3497,
+        "endTime": 3502,
+        "speaker": "João Pedro",
+        "text": "Ele tem acesso a extrair por exemplo isso. Eu escutei você comentando."
+      },
+      {
+        "startTime": 3502,
+        "endTime": 3523,
+        "speaker": "Diego Diehl",
+        "text": "Tem exatamente todo todo corretor originado no portal da Incorporadora, o corretor é da Incorporadora. Então ela pode extrair. Só que tudo o corretor que é da hora a Incorporadora não pode ficar extraindo tudo, né? Porque dela não leva de novo para orla ouvir essa bagunça, então a gente tenta dar uma freadinha para não atrapalhar o crescimento do negócio em si."
+      },
+      {
+        "startTime": 3523,
+        "endTime": 3524,
+        "speaker": "Diego Diehl",
+        "text": "mas"
+      },
+      {
+        "startTime": 3524,
+        "endTime": 3526,
+        "speaker": "João Pedro",
+        "text": "Eu escutei você falando isso hoje e foi justamente uma solicitação que a"
+      },
+      {
+        "startTime": 3526,
+        "endTime": 3526,
+        "speaker": "Diego Diehl",
+        "text": "tu"
+      },
+      {
+        "startTime": 3529,
+        "endTime": 3538,
+        "speaker": "João Pedro",
+        "text": "gente teve aqui de clientes que estão entrando e falando assim. Ah, eu queria pegar os contatos que navegaram no meus produtos no órgão. aí"
+      },
+      {
+        "startTime": 3538,
+        "endTime": 3574,
+        "speaker": "Diego Diehl",
+        "text": "É todo mundo quer isso tá João, só que a galera não tem responsabilidade sobre o dado quer acha que é tipo Facebook. Ah, me dá todo mundo que visitou aqui o meu anúncio. Tipo não é assim, né? Então mas aqui eu João na página da hora todo mundo que Cadê Aqui, ó? o meu tem muito contato, daí demora um pouco para carregar todo mundo que Se cadastrar pelo portal cai direto aqui na carteira."
+      },
+      {
+        "startTime": 3574,
+        "endTime": 3585,
+        "speaker": "Diego Diehl",
+        "text": "Dos corretores e aqui embaixo vai aparecer ó. Ó exportar corretores portal de parcerias é só clicar aqui exportar. Deu para ver João."
+      },
+      {
+        "startTime": 3585,
+        "endTime": 3587,
+        "speaker": "João Pedro",
+        "text": "Deu sim"
+      },
+      {
+        "startTime": 3587,
+        "endTime": 3607,
+        "speaker": "Diego Diehl",
+        "text": "E só que daí quando o cara entra como como o link do Coordenador no portal. Uma coisa que muda é que quando ele entrar em qualquer produto aqui, ó. Tipo Tô entrando aqui no produto da construtora pessoa muda o contato que vai aparecer aqui, ó. O contato que aparece aí Aqui é do coordenador."
+      },
+      {
+        "startTime": 3607,
+        "endTime": 3607,
+        "speaker": "João Pedro",
+        "text": "Ah legal"
+      },
+      {
+        "startTime": 3611,
+        "endTime": 3623,
+        "speaker": "Diego Diehl",
+        "text": "Tipo cada corretor que entrar vai aparecer um nome aqui se tiver na carteira de um coordenador, entendeu? O cara meio que defende a carteira dele para não para não ir para outro que tá com o nome. Mas eu acho que logo."
+      },
+      {
+        "startTime": 3623,
+        "endTime": 3628,
+        "speaker": "João Pedro",
+        "text": "é isso acontece aqui a gente por mais que a gente faz uma abordagem ativa com"
+      },
+      {
+        "startTime": 3628,
+        "endTime": 3629,
+        "speaker": "Diego Diehl",
+        "text": "Pode falar tá travando."
+      },
+      {
+        "startTime": 3632,
+        "endTime": 3647,
+        "speaker": "João Pedro",
+        "text": "os outra pessoa Aí eu fui até um questionamento do Edu para mim uma reunião, ele perguntou mas esse contato muda quando o cara já tá cadastrado no Z2. aí eu acho que não né o contato da"
+      },
+      {
+        "startTime": 3647,
+        "endTime": 3679,
+        "speaker": "Diego Diehl",
+        "text": "Não é essa discussão João a gente precisa integrar as bases de corretores. Inclusive, vocês estão querendo qualificar corretor, só que vocês não tem dado quem tem dado de pesquisa de corretor é a gente né de uma forma mais brutal mesmo, tipo a gente sabe tudo que os corretores pesquisam na orla e pode preencher dizendo que esse corretor trabalha alto padrão trabalha tal região visse Total produto e aí vocês têm a solicitações de WhatsApp, né? O cara solicitou atual produto então a gente tá nessa parte mais estratégica justamente juntando as empresas."
+      },
+      {
+        "startTime": 3679,
+        "endTime": 3683,
+        "speaker": "Diego Diehl",
+        "text": "Tá mas tá Tá num processo aí tá para você saber."
+      },
+      {
+        "startTime": 3684,
+        "endTime": 3698,
+        "speaker": "João Pedro",
+        "text": "Tá bom eu ia comentar sobre esse link aqui porque era o link do portal. Do Coordenador. Mas como você já tem isso? Acho que a gente consegue integrar com Z2 ali tranquilamente. O cara mandar o link quando ele preencher já se cadastrado no Z2"
+      },
+      {
+        "startTime": 3698,
+        "endTime": 3698,
+        "speaker": "Diego Diehl",
+        "text": "sim"
+      },
+      {
+        "startTime": 3702,
+        "endTime": 3705,
+        "speaker": "João Pedro",
+        "text": "automaticamente mandar uma abordagem ativa ali para ele."
+      },
+      {
+        "startTime": 3708,
+        "endTime": 3716,
+        "speaker": "Diego Diehl",
+        "text": "Sim, fechou. Obrigado, viu, João pela Ele explicação vocês curtiram a gente deu uma clareza maior aí da Z2."
+      },
+      {
+        "startTime": 3717,
+        "endTime": 3718,
+        "speaker": "João Vitor Portes da Silva",
+        "text": "Muito bom, muito bom. Obrigado João."
+      },
+      {
+        "startTime": 3718,
+        "endTime": 3738,
+        "speaker": "Diego Diehl",
+        "text": "Cara, é isso, a gente tem que entender mastigandinho vendo apareceu uma coisa. Pergunta a gente vai trocando aí o João tá sendo solícito aí e eu vou daqui a pouco dai treinar todo o time em relação. O que que a gente faz e tal, beleza? Talvez até dele. Só não ela tá na ponta."
+      },
+      {
+        "startTime": 3738,
+        "endTime": 3760,
+        "speaker": "João Pedro",
+        "text": "E assim ó, eu combinei com o Júnior que a gente vai a cada entrega do time de desenvolvimento que a gente separa aqui em Sprint. Tanto de melhorias às vezes é principalmente os avanços, né? Isso que a gente quer mostrar para vocês e não o que tá o que não tá funcionando está sendo corrigido, mas as melhorias."
+      },
+      {
+        "startTime": 3760,
+        "endTime": 3781,
+        "speaker": "João Pedro",
+        "text": "Criei uma apresentação que tinha Sprint acho que 14 e 15 ou 15 16 por Diego, mas as próximas sprints a gente já vai se fazer um recorte dela mandando para vocês, o que que vai acontecer, só que como é uma Projeção de melhoria, não vou conseguir apresentar em tela porque não vai estar pronto muitas coisas."
+      },
+      {
+        "startTime": 3781,
+        "endTime": 3813,
+        "speaker": "João Pedro",
+        "text": "Mas a gente vai vai tá sempre atualizando vocês ali sobre. Sobre tudo que a gente tá fazendo muitas coisas, às vezes se arrastam de uma Sprint para outra também. Mas além do que eu posso mostrar visualmente para vocês muitas coisas. A gente fez muita obra de esgoto que a gente chama aqui tá muita coisa por trás ali de uma coisa assim que me chamava muita atenção é que o dashboard o número do dashboard ele era diferente do número que apresentava na tela de contato."
+      },
+      {
+        "startTime": 3813,
+        "endTime": 3834,
+        "speaker": "João Pedro",
+        "text": "Isso é uma coisa que incomodava quase todos os clientes, então a gente fez uma série de mudanças criamos o lei que tudo mais que eu comecei apresentando aqui que a gente trouxe esses cards aqui para tela inicial, então tem muita obra de esgoto também que a gente tá melhorando e a gente vai dar visibilidade para vocês."
+      },
+      {
+        "startTime": 3834,
+        "endTime": 3838,
+        "speaker": "João Pedro",
+        "text": "Mesmo não conseguindo mostrar em tela né? Essas melhorias aí porque"
+      },
+      {
+        "startTime": 3839,
+        "endTime": 3856,
+        "speaker": "Diego Diehl",
+        "text": "É bom essa informação de dentro da empresa, ela é muito válida. Eu vi o Marcelo falando que eles trocaram todo todo toda a base de dados gente toda de armazenado o banco de dados desenvolveram uma pi específica tá bem mais rápido, vocês lembram que antes às vezes entravam os contatos quando tinha muito contato demorava para carregar."
+      },
+      {
+        "startTime": 3856,
+        "endTime": 3886,
+        "speaker": "Diego Diehl",
+        "text": "Tudo isso está sendo resolvido aí então, acho que é esse o Tom assim que tem que ficar é Ah, mas não sei o que antes que sim cara, não é perfeito. Nem os seus force é perfeito. A gente tá o que importa é que a gente tá evoluindo é solução específica para o teu business, não existe outras solução específica para o teu negócio conectado a uma fonte de leads ainda que a órgão então não sou discurso tá muito potente e por isso que você só vai pagar dois k meu amigo, senão você ia pagar cinco."
+      },
+      {
+        "startTime": 3886,
+        "endTime": 3892,
+        "speaker": "Diego Diehl",
+        "text": "Né? Porque aí você tá pegando no período de lançamento ainda então esses bits aí a gente tá alinhando."
+      },
+      {
+        "startTime": 3893,
+        "endTime": 3918,
+        "speaker": "João Pedro",
+        "text": "Tem só um detalhe que eu esqueci de comentar com vocês também. É que foi até uma solicitação do Eduardo para a gente tá antes a gente fazer uma abordagem única do parceiro que entrava pelo órgão. Olá sou o Diego gerente de parcerias aqui da Hype. Vi que você visitou o produto x lá no ouro, agora a gente faz duas a gente manda."
+      },
+      {
+        "startTime": 3918,
+        "endTime": 3929,
+        "speaker": "João Pedro",
+        "text": "Sempre uma abordagem adicional então além dessa se o cara ficar 30 dias sem interação e navegar no produto do órgão, ele já vai receber uma segunda mensagem de boas-vindas também. tá"
+      },
+      {
+        "startTime": 3931,
+        "endTime": 3933,
+        "speaker": "Diego Diehl",
+        "text": "Espera eu não entendi isso aí, como que é?"
+      },
+      {
+        "startTime": 3935,
+        "endTime": 3946,
+        "speaker": "João Pedro",
+        "text": "A mensagem de boas-vindas do órgão do Z2 ela era disparada uma única vez. Então se o parceiro navegasse no produto dessa Incorporadora no órgão de novo, ele não recebia essa abordagem ativa pelo WhatsApp. Agora a gente criou"
+      },
+      {
+        "startTime": 3946,
+        "endTime": 3948,
+        "speaker": "Diego Diehl",
+        "text": "Valeu João"
+      },
+      {
+        "startTime": 3948,
+        "endTime": 3967,
+        "speaker": "João Pedro",
+        "text": "uma segunda abordagem então navegou de novo. Olá de novo a gente criou isso daqui na última Sprint também tá? A gente adicionou aqui na última Sprint que é essa segunda mensagem de Tá bom."
+      },
+      {
+        "startTime": 3970,
+        "endTime": 3972,
+        "speaker": "Diego Diehl",
+        "text": "Obrigado aí pelo teu tempo pela tua explicação."
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 203,
+    "speakers": [
+      "João Pedro",
+      "João Vitor Portes da Silva",
+      "Carol Pizzano",
+      "Rodrigo Italiano",
+      "Luiz Gustavo Zanella",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 6992,
+    "duration_start": 1,
+    "duration_end": 3972
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "68792e3acd3fbf001387e7cc",
+        "timestamp": 40,
+        "text": "Diego ministrará treinamento interno sobre sistema Z2, buscando feedback crítico de João",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d5",
+        "timestamp": 422,
+        "text": "Luiz questiona transferência de contatos entre imobiliárias, João confirma limitação atual do sistema",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d6",
+        "timestamp": 660,
+        "text": "Sistema permite gerenciar conexões e adicionar número de WhatsApp para automações",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d7",
+        "timestamp": 700,
+        "text": "QR code para conexão ficará disponível na tela de automações",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d8",
+        "timestamp": 740,
+        "text": "Opção de usar pool de chips pode ser configurada nas automações",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d9",
+        "timestamp": 930,
+        "text": "Discutido compra de 4 chips por 10 reais cada para comunicação",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7cf",
+        "timestamp": 954,
+        "text": "Luiz solicita esclarecimentos sobre dinâmica de comunicação via WhatsApp com chips da Incorporadora",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d0",
+        "timestamp": 983,
+        "text": "Definir estratégia de disparo de WhatsApp usando novos chips para gerentes incorporadores e institucionais.",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d1",
+        "timestamp": 1030,
+        "text": "Centralizar comunicação inicial em WhatsApp institucional da Incorporadora.",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d2",
+        "timestamp": 1091,
+        "text": "Desenvolver opção de transferir contatos para usuário específico ou roleta de parceiros.",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d3",
+        "timestamp": 1254,
+        "text": "Novo recurso criado para distribuir contatos represados de forma cadenciada e evitar problemas de integração.",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7d4",
+        "timestamp": 1330,
+        "text": "Implementar distribuição cadenciada de parceiros para minimizar risco de bloqueio em abordagem ativa.",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7cd",
+        "timestamp": 1415,
+        "text": "Diego preparará base de coordenadores e imobiliárias para vinculação no sistema Z2",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7da",
+        "timestamp": 1658,
+        "text": "Necessidade de zerar e reiniciar qualificação de parceiros",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7db",
+        "timestamp": 1742,
+        "text": "Sem limite de arquivos disparados, texto gerado por Inteligência Artificial",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e0",
+        "timestamp": 1878,
+        "text": "Possível problema: Parceiro sem intenção configurada pode não responder solicitações",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e1",
+        "timestamp": 1974,
+        "text": "Mudança estratégica: Envio de scripts não depende mais de preparação manual",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e2",
+        "timestamp": 2011,
+        "text": "João propõe revisar script e adicionar texto durante envio de arquivos",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e3",
+        "timestamp": 2044,
+        "text": "Plano de manter nova melhoria e manter versão antiga do script para clientes insatisfeitos",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e4",
+        "timestamp": 2089,
+        "text": "Diego sugere padronizar script para responder automaticamente a solicitações de informações.",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e5",
+        "timestamp": 2124,
+        "text": "Diego quer comando específico para ativar script personalizado de resposta.",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e8",
+        "timestamp": 2324,
+        "text": "Confirmar tempo de sincronização de tabelas entre sistemas após deploy",
+        "topicId": "68792e3acd3fbf001387e7ca"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e9",
+        "timestamp": 2382,
+        "text": "Incorporadora busca maior controle de comunicação e processos internos",
+        "topicId": "68792e3acd3fbf001387e7ca"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ea",
+        "timestamp": 2431,
+        "text": "Necessidade de alinhar processos manuais entre times técnicos durante implantação de clientes",
+        "topicId": "68792e3acd3fbf001387e7ca"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7eb",
+        "timestamp": 2490,
+        "text": "Solicitar comunicação de alterações no Orô para time Z2 durante implementação de empreendimentos",
+        "topicId": "68792e3acd3fbf001387e7ca"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ec",
+        "timestamp": 2538,
+        "text": "Z2 só consegue inativar empreendimentos, não remover completamente devido ao histórico",
+        "topicId": "68792e3acd3fbf001387e7ca"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7dc",
+        "timestamp": 2570,
+        "text": "Nova funcionalidade de score: registrar pontuação de parceiros baseado em diferentes interações",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7dd",
+        "timestamp": 2690,
+        "text": "Implementar link único de qualificação de parceiros que pode ser enviado automaticamente",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ed",
+        "timestamp": 2775,
+        "text": "Sistema Zé atualizado: novo recurso permite envio de link de visita independente",
+        "topicId": "68792e3acd3fbf001387e7cb"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ee",
+        "timestamp": 2840,
+        "text": "Time de CS responsável por configurar pontos de visita para clientes antigos",
+        "topicId": "68792e3acd3fbf001387e7cb"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ce",
+        "timestamp": 2886,
+        "text": "Equipe documentará mudanças no Z2 e implementará modelo de automação de mensagens",
+        "topicId": "68792e3acd3fbf001387e7c7"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e6",
+        "timestamp": 2917,
+        "text": "Nova inteligência artificial gera respostas contextualizadas com GPT e adiciona emojis.",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7ef",
+        "timestamp": 2976,
+        "text": "Nova funcionalidade permite criar automações com mensagens padronizadas para múltiplos coordenadores",
+        "topicId": "68792e3acd3fbf001387e7cb"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7f0",
+        "timestamp": 3062,
+        "text": "Reclamações recebidas sobre ordenação de informações no WhatsApp.",
+        "topicId": "68792e3acd3fbf001387e7cb"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7e7",
+        "timestamp": 3162,
+        "text": "Contexto GPT para empreendimentos foi expandido com mais informações e roteiros de respostas.",
+        "topicId": "68792e3acd3fbf001387e7c9"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7f1",
+        "timestamp": 3201,
+        "text": "Recurso de autoatendimento em desenvolvimento, ainda não disponível para clientes.",
+        "topicId": "68792e3acd3fbf001387e7cb"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7de",
+        "timestamp": 3315,
+        "text": "Portal Z2 permite cadastro de parceiros e agendamento de visitas.",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      },
+      {
+        "segmentId": "68792e3acd3fbf001387e7df",
+        "timestamp": 3907,
+        "text": "Sistema implementará segunda abordagem para parceiros que revisitam produtos após 30 dias.",
+        "topicId": "68792e3acd3fbf001387e7c8"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "68792e3acd3fbf001387e7c7",
+        "order": 1,
+        "title": "Ações Definidas e Responsabilidades",
+        "summary": ""
+      },
+      {
+        "id": "68792e3acd3fbf001387e7c8",
+        "order": 2,
+        "title": "Funcionalidades do Sistema Z2A",
+        "summary": ""
+      },
+      {
+        "id": "68792e3acd3fbf001387e7c9",
+        "order": 3,
+        "title": "Estratégias de Comunicação e Scripts",
+        "summary": ""
+      },
+      {
+        "id": "68792e3acd3fbf001387e7ca",
+        "order": 4,
+        "title": "Integração e Processos entre Sistemas",
+        "summary": ""
+      },
+      {
+        "id": "68792e3acd3fbf001387e7cb",
+        "order": 5,
+        "title": "Desenvolvimento de Recursos",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 38,
+    "topic_count": 5,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "68792e3acd3fbf001387e7c7",
+      "order": 1,
+      "title": "Ações Definidas e Responsabilidades",
+      "summary": ""
+    },
+    {
+      "id": "68792e3acd3fbf001387e7c8",
+      "order": 2,
+      "title": "Funcionalidades do Sistema Z2A",
+      "summary": ""
+    },
+    {
+      "id": "68792e3acd3fbf001387e7c9",
+      "order": 3,
+      "title": "Estratégias de Comunicação e Scripts",
+      "summary": ""
+    },
+    {
+      "id": "68792e3acd3fbf001387e7ca",
+      "order": 4,
+      "title": "Integração e Processos entre Sistemas",
+      "summary": ""
+    },
+    {
+      "id": "68792e3acd3fbf001387e7cb",
+      "order": 5,
+      "title": "Desenvolvimento de Recursos",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:46:59.910860+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:46:59.910860+00:00"
+}

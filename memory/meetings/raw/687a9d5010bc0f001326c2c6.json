@@ -1,0 +1,32 @@
+{
+  "id": "687a9d5010bc0f001326c2c6",
+  "happenedAt": "2025-07-18T19:15:28.010Z",
+  "invitees": [
+    {
+      "name": "Gustavo Zanella",
+      "email": "gustavozanella00@gmail.com"
+    },
+    {
+      "name": "João Vitor Portes da Silva",
+      "email": "joaovitor.silva@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    }
+  ],
+  "name": "ForeCast e Pitchs",
+  "duration": 2690.1,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/687a9d5010bc0f001326c2c6",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "cda-kkou-mjn"
+  }
+}

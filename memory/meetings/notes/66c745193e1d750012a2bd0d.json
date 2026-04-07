@@ -1,0 +1,169 @@
+{
+  "structuredNotes": [
+    {
+      "segmentId": "66c74d80da039400137ae61e",
+      "timestamp": 143,
+      "text": "Importância de evitar cadastros duplicados para não prejudicar os relatórios. Sugestão de realizar uma reunião específica para higienizar a base.",
+      "topicId": "66c74d80da039400137ae616"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae620",
+      "timestamp": 184,
+      "text": "Identificação de que algumas imobiliárias foram cadastradas como corretores, dificultando a distinção entre eles.",
+      "topicId": "66c74d80da039400137ae617"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae621",
+      "timestamp": 376,
+      "text": "Necessidade de separar cadastros de imobiliárias e corretores para obter número exato de corretores. Número atual é 32.521, mas pode diminuir devido a cadastros duplicados.",
+      "topicId": "66c74d80da039400137ae617"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae61f",
+      "timestamp": 440,
+      "text": "Proposta de realizar uma reunião de uma hora apenas para higienizar a base de dados, a fim de começar corretamente com os negócios.",
+      "topicId": "66c74d80da039400137ae616"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae622",
+      "timestamp": 480,
+      "text": "Início do cadastro de uma oportunidade de negócio, com a seleção de um corretor e solicitação de informações sobre o produto, tipologia e valor estimado.",
+      "topicId": "66c74d80da039400137ae618"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae623",
+      "timestamp": 619,
+      "text": "Orientações sobre como preencher os campos do cadastro da oportunidade, como produtos relacionados e tipologia da unidade.",
+      "topicId": "66c74d80da039400137ae618"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae624",
+      "timestamp": 680,
+      "text": "Solicitação de um valor estimado para a oportunidade e informação sobre a origem da mesma, sendo indicação da gerente da imobiliária.",
+      "topicId": "66c74d80da039400137ae618"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae625",
+      "timestamp": 700,
+      "text": "Apresentação das opções de origem de oportunidades já configuradas no sistema, com a sugestão de criar uma opção específica para a situação apresentada.",
+      "topicId": "66c74d80da039400137ae619"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae626",
+      "timestamp": 804,
+      "text": "Explicação sobre a origem da oportunidade, sendo que a corretora foi indicada pela gerente da imobiliária para atender o cliente.",
+      "topicId": "66c74d80da039400137ae619"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae627",
+      "timestamp": 850,
+      "text": "Proposta de realizar uma reunião específica para discutir as opções de origem de oportunidades, a fim de melhor entender e registrar essa informação.",
+      "topicId": "66c74d80da039400137ae619"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae628",
+      "timestamp": 1086,
+      "text": "Informação de que o Agnaldo, responsável pela imobiliária Arca Espetáculo, acumulou a carteira de diversos gerentes de parcerias que saíram da empresa ao longo dos anos.",
+      "topicId": "66c74d80da039400137ae61a"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae629",
+      "timestamp": 1119,
+      "text": "Esclarecimento de que a base de dados do Agnaldo não necessariamente reflete um relacionamento direto com todas as imobiliárias, pois alguns corretores criaram vínculos com outros gerentes.",
+      "topicId": "66c74d80da039400137ae61a"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62a",
+      "timestamp": 1203,
+      "text": "Explicação sobre o processo de vendas e como configurar as informações no sistema.",
+      "topicId": "66c74d80da039400137ae61b"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62b",
+      "timestamp": 1296,
+      "text": "Detalhamento das etapas do processo de vendas, como agendamento de visitas e preenchimento de informações.",
+      "topicId": "66c74d80da039400137ae61b"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62c",
+      "timestamp": 1369,
+      "text": "Discussão sobre os tipos de visitas e a necessidade de atribuir responsabilidades aos colaboradores.",
+      "topicId": "66c74d80da039400137ae61b"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62d",
+      "timestamp": 1639,
+      "text": "Caio compartilha a pressão da liderança e a necessidade de agilidade na implementação da plataforma.",
+      "topicId": "66c74d80da039400137ae61c"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62e",
+      "timestamp": 1720,
+      "text": "Caio ressalta que ainda não estão usando a plataforma e a necessidade de apresentar resultados.",
+      "topicId": "66c74d80da039400137ae61c"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae62f",
+      "timestamp": 1802,
+      "text": "Alinhamento de reuniões semanais para avançar no processo de implementação da plataforma.",
+      "topicId": "66c74d80da039400137ae61d"
+    },
+    {
+      "segmentId": "66c74d80da039400137ae630",
+      "timestamp": 1838,
+      "text": "Planejamento de concluir o processo de configuração na próxima semana e liberar os processos.",
+      "topicId": "66c74d80da039400137ae61d"
+    }
+  ],
+  "markdownContent": null,
+  "topics": [
+    {
+      "id": "66c74d80da039400137ae616",
+      "order": 1,
+      "title": "Higienização da base de dados",
+      "summary": "Necessidade de realizar uma segunda higienização na base de dados para evitar cadastros duplicados e problemas nos relatórios."
+    },
+    {
+      "id": "66c74d80da039400137ae617",
+      "order": 2,
+      "title": "Identificação de corretores e imobiliárias",
+      "summary": "Desafio em diferenciar corretores de imobiliárias na base de dados importada, com a necessidade de uma segunda higienização."
+    },
+    {
+      "id": "66c74d80da039400137ae618",
+      "order": 3,
+      "title": "Cadastro de oportunidade de negócio",
+      "summary": "Exemplo de cadastro de uma oportunidade de negócio, incluindo informações sobre o corretor, produto, tipologia e valor estimado."
+    },
+    {
+      "id": "66c74d80da039400137ae619",
+      "order": 4,
+      "title": "Personalização do sistema de origem de oportunidades",
+      "summary": "Discussão sobre a importância de personalizar as opções de origem de oportunidades no sistema, para melhor entendimento e análise dos dados."
+    },
+    {
+      "id": "66c74d80da039400137ae61a",
+      "order": 5,
+      "title": "Histórico de gerentes de parcerias",
+      "summary": "Explicação sobre a rotatividade de gerentes de parcerias ao longo do tempo, resultando em uma base de dados com informações de diversos gerentes."
+    },
+    {
+      "id": "66c74d80da039400137ae61b",
+      "order": 6,
+      "title": "Configuração do processo de vendas",
+      "summary": "Discussão sobre a configuração do processo de vendas, incluindo etapas, tipos de visitas e atribuição de responsabilidades."
+    },
+    {
+      "id": "66c74d80da039400137ae61c",
+      "order": 7,
+      "title": "Pressão da liderança e necessidade de agilidade",
+      "summary": "Caio expressa a pressão da liderança para visualizar informações e a necessidade de agilidade na implementação da plataforma."
+    },
+    {
+      "id": "66c74d80da039400137ae61d",
+      "order": 8,
+      "title": "Próximos passos e alinhamento de reuniões",
+      "summary": "Discussão sobre a agenda de reuniões para avançar no processo de implementação da plataforma."
+    }
+  ]
+}

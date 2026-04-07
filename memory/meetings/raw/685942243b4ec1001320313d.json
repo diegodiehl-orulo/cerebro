@@ -1,0 +1,24 @@
+{
+  "id": "685942243b4ec1001320313d",
+  "happenedAt": "2025-06-23T12:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Boas Vindas Gustavo",
+  "duration": 3755.673,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/685942243b4ec1001320313d",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "dex-mbqa-jau"
+  }
+}

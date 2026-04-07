@@ -1,0 +1,28 @@
+{
+  "id": "66b36fc92879660013d2f02c",
+  "happenedAt": "2024-08-07T13:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Fernando Florêncio",
+      "email": "fernando.florencio@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "name": "Fernando / Diego",
+  "duration": 2802.52,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/66b36fc92879660013d2f02c",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "eub-vbxi-uma"
+  }
+}

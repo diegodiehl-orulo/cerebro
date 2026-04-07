@@ -1,0 +1,2737 @@
+{
+  "meeting_id": "695bfc1ee9b88d0013912e2b",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2026-01-05T18:00:00.000Z",
+  "duration_seconds": 4908.514,
+  "duration_minutes": 81.8,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "invitees": [
+    {
+      "name": "Alejandro Olchik",
+      "email": "alejandro@orulo.com.br"
+    },
+    {
+      "name": "Eduardo Stringhini",
+      "email": "eduardo@orulo.com.br"
+    },
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Marcelo Rodrigues",
+      "email": "marcelo@orulo.com.br"
+    },
+    {
+      "name": "Carolina Campos",
+      "email": "carolina.campos@orulo.com.br"
+    },
+    {
+      "name": "Diego Diehl",
+      "email": "diego.diehl@orulo.com.br"
+    }
+  ],
+  "url": "https://tldv.io/app/meetings/695bfc1ee9b88d0013912e2b",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "conference_id": "rra-szub-wdu",
+  "transcript_status": "available",
+  "notes_status": "available",
+  "analysis_status": "ready",
+  "transcript": {
+    "id": "695bfc5eac3c1f001340efe3",
+    "meetingId": "695bfc1ee9b88d0013912e2b",
+    "data": [
+      {
+        "startTime": 0,
+        "endTime": 19,
+        "speaker": "Diego Diehl",
+        "text": "É por isso que agora todo pedido de integração com a quase dois a gente tá tentando passar por CS, né? Porque a gente consegue é não mas chegar todas né? Porque algumas ainda dá umas escapadinha. Para poder entender mais essa casa antigo, né? Então agora é só resolver a treta ali com Hudson ou talvez ver se o pessoal da da com que ele se eles querem efetuar o pagamento, né? Hoje é feito por ele."
+      },
+      {
+        "startTime": 20,
+        "endTime": 23,
+        "speaker": "Diego Diehl",
+        "text": "Escapar alguma você me avisa imediatamente."
+      },
+      {
+        "startTime": 23,
+        "endTime": 23,
+        "speaker": "Carolina Campos",
+        "text": "beleza"
+      },
+      {
+        "startTime": 24,
+        "endTime": 24,
+        "speaker": "Diego Diehl",
+        "text": "Não é?"
+      },
+      {
+        "startTime": 24,
+        "endTime": 25,
+        "speaker": "Eduardo Stringhini",
+        "text": "E aí pessoal, tudo bem?"
+      },
+      {
+        "startTime": 25,
+        "endTime": 32,
+        "speaker": "Felipe Goettems",
+        "text": "Na prática é o seguinte, né? Ou Hudson vira pagante do Z2 ou esse outro cara vira pagante dela."
+      },
+      {
+        "startTime": 33,
+        "endTime": 35,
+        "speaker": "Carolina Campos",
+        "text": "Não vai."
+      },
+      {
+        "startTime": 35,
+        "endTime": 35,
+        "speaker": "Diego Diehl",
+        "text": "E não é?"
+      },
+      {
+        "startTime": 35,
+        "endTime": 37,
+        "speaker": "Felipe Goettems",
+        "text": "O Hudson não vai o Hudson não vai bancar isso daí."
+      },
+      {
+        "startTime": 39,
+        "endTime": 42,
+        "speaker": "Diego Diehl",
+        "text": "Ou eles dividirem, né? Bota o Hudson bota a roleta. Os dois têm controle da Z2"
+      },
+      {
+        "startTime": 42,
+        "endTime": 45,
+        "speaker": "Felipe Goettems",
+        "text": "E aí turma algum recado alguma coisa aí de ano novo?"
+      },
+      {
+        "startTime": 45,
+        "endTime": 49,
+        "speaker": "Diego Diehl",
+        "text": "a O melhor seria essa misturinha ainda."
+      },
+      {
+        "startTime": 51,
+        "endTime": 65,
+        "speaker": "Carolina Campos",
+        "text": "Aí cada um paga paga 50% ele é alto aqui por ele pagar sozinho ele paga 3,5, né? Então e já paga um bom tempo então é um cara bem engajadinho assim com a gente."
+      },
+      {
+        "startTime": 68,
+        "endTime": 83,
+        "speaker": "Diego Diehl",
+        "text": "Em tese envolvendo não é com qual que é o nome mesmo. E com Tecnicamente paga. 3800 de ouro e 10"
+      },
+      {
+        "startTime": 83,
+        "endTime": 93,
+        "speaker": "Carolina Campos",
+        "text": "É então que o som tá sendo prejudicado. Porque eles devem pagar meu Exatamente porque já pagavam alto no da né alto naquelas né."
+      },
+      {
+        "startTime": 94,
+        "endTime": 97,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que foi negociação canelada mesmo deles."
+      },
+      {
+        "startTime": 98,
+        "endTime": 98,
+        "speaker": "Carolina Campos",
+        "text": "sim"
+      },
+      {
+        "startTime": 108,
+        "endTime": 110,
+        "speaker": "Diego Diehl",
+        "text": "Ele tá viajando."
+      },
+      {
+        "startTime": 110,
+        "endTime": 116,
+        "speaker": "Felipe Goettems",
+        "text": "Não vem. Ele não tá nem nessa nem na próxima."
+      },
+      {
+        "startTime": 119,
+        "endTime": 120,
+        "speaker": "Diego Diehl",
+        "text": "Deixou vamos duplicar."
+      },
+      {
+        "startTime": 122,
+        "endTime": 145,
+        "speaker": "Carolina Campos",
+        "text": "Eu dei um recado aqui, a Laís me procurou hoje gente, ela está grávida. Então só contando aí para todos vocês. Ela me trouxe a notícia, já tá ali de 15 semanas previsão de nascimento para junho julho junho, finalzinho de Junho, então teremos uma pessoa aí do time de licença maternidade em breve ela tá muito feliz que foi algo planejado aí."
+      },
+      {
+        "startTime": 145,
+        "endTime": 147,
+        "speaker": "Felipe Goettems",
+        "text": "E Marcelo, como é que tudo certo aí família?"
+      },
+      {
+        "startTime": 147,
+        "endTime": 148,
+        "speaker": "Carolina Campos",
+        "text": "Mais um baby."
+      },
+      {
+        "startTime": 158,
+        "endTime": 161,
+        "speaker": "Felipe Goettems",
+        "text": "Como é que foi as coisas da Jéssica tocando ainda?"
+      },
+      {
+        "startTime": 162,
+        "endTime": 173,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Estamos esperando."
+      },
+      {
+        "startTime": 173,
+        "endTime": 175,
+        "speaker": "Felipe Goettems",
+        "text": "Tá na praia ainda não?"
+      },
+      {
+        "startTime": 175,
+        "endTime": 177,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tô voltando hoje, vou voltar a final da tarde."
+      },
+      {
+        "startTime": 179,
+        "endTime": 184,
+        "speaker": "Diego Diehl",
+        "text": "Melhor coisa, ele é um trânsito ontem. Você Mudou"
+      },
+      {
+        "startTime": 185,
+        "endTime": 185,
+        "speaker": "Felipe Goettems",
+        "text": "entrou"
+      },
+      {
+        "startTime": 187,
+        "endTime": 189,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu ia ontem à noite, eu existia muito trânsito."
+      },
+      {
+        "startTime": 191,
+        "endTime": 203,
+        "speaker": "Diego Diehl",
+        "text": "Eu voltei da praia sábado à tarde para Curitiba e de Curitiba para São Paulo ontem à tarde. volume gigantesco da gente"
+      },
+      {
+        "startTime": 205,
+        "endTime": 213,
+        "speaker": "Felipe Goettems",
+        "text": "Eu voltei dia primeiro de noite quinta-feira da mesma praia que tu tá aí, tava um Country."
+      },
+      {
+        "startTime": 214,
+        "endTime": 218,
+        "speaker": "Eduardo Stringhini",
+        "text": "É hoje já vai estar tranquilo que foi diluído, muita gente voltou sábado também."
+      },
+      {
+        "startTime": 223,
+        "endTime": 226,
+        "speaker": "Felipe Goettems",
+        "text": "Bom vamos lá não sei dizer o que é transmitir aí para gente."
+      },
+      {
+        "startTime": 226,
+        "endTime": 228,
+        "speaker": "Eduardo Stringhini",
+        "text": "Que dia que é o nosso planejamento é?"
+      },
+      {
+        "startTime": 230,
+        "endTime": 232,
+        "speaker": "Felipe Goettems",
+        "text": "Já vamos falar aqui do planejamento?"
+      },
+      {
+        "startTime": 234,
+        "endTime": 246,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que eu botei na agenda não. Bom eu ia pôr na agenda. Botei contra o diretor e adicionei diretoria o nosso encontro eu botei do dia 26"
+      },
+      {
+        "startTime": 246,
+        "endTime": 247,
+        "speaker": "Felipe Goettems",
+        "text": "tá"
+      },
+      {
+        "startTime": 247,
+        "endTime": 267,
+        "speaker": "Diego Diehl",
+        "text": "a 29. Na agenda e aí o bode aqui. reunião de lideranças E produtos eu não participei, né?"
+      },
+      {
+        "startTime": 269,
+        "endTime": 269,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não não aconteceu."
+      },
+      {
+        "startTime": 273,
+        "endTime": 282,
+        "speaker": "Diego Diehl",
+        "text": "Feedback Melo, acho que a gente falou sobre Marquei com o Marcelo na quarta. Marcelo"
+      },
+      {
+        "startTime": 283,
+        "endTime": 2027,
+        "speaker": "Carolina Campos",
+        "text": "Melo ela participou ela primeiro ela quis vir para vaga de CS tinha conversado tinha até alinhado já com Diego, né? Que é ia ter a passagem da Melo. Depois ela falou que ela tinha conversado com alguém internamente acredito que foi com a pisando ela resolveu ficar porque ela teve a sensação de que o naipe ele ia atender Vitória e ela ia poder ficar com toda a praça ali atender sozinha e com isso poder vender muito e talvez não foi essa realidade."
+      },
+      {
+        "startTime": 2027,
+        "endTime": 320,
+        "speaker": "Carolina Campos",
+        "text": "Então ela tem"
+      },
+      {
+        "startTime": 320,
+        "endTime": 320,
+        "speaker": "Diego Diehl",
+        "text": "foi"
+      },
+      {
+        "startTime": 321,
+        "endTime": 332,
+        "speaker": "Carolina Campos",
+        "text": "unidade de vida isso aí algumas vezes tá Marcelo, inclusive com aumento de salário mostrando que ia ter promoção mostrando tudo e ela tinha optado. Não não vi porque ela achava que ela ia ganhar bem mais no comercial."
+      },
+      {
+        "startTime": 334,
+        "endTime": 336,
+        "speaker": "Diego Diehl",
+        "text": "Ela ganhou efetivamente."
+      },
+      {
+        "startTime": 336,
+        "endTime": 338,
+        "speaker": "Carolina Campos",
+        "text": "Nossa não aí eu acho que deve ter outra coisa por trás."
+      },
+      {
+        "startTime": 338,
+        "endTime": 340,
+        "speaker": "Diego Diehl",
+        "text": "Ela pegou a praça de São Paulo toda."
+      },
+      {
+        "startTime": 344,
+        "endTime": 361,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Ela não Dela não ir mas na prática aconteceu que ela foi para uma vaga de CS em outra empresa por mil reais."
+      },
+      {
+        "startTime": 361,
+        "endTime": 362,
+        "speaker": "Felipe Goettems",
+        "text": "Por mil reais total."
+      },
+      {
+        "startTime": 363,
+        "endTime": 364,
+        "speaker": "Marcelo Rodrigues",
+        "text": "bruto bruto"
+      },
+      {
+        "startTime": 364,
+        "endTime": 378,
+        "speaker": "Carolina Campos",
+        "text": "Mas é porque aqui ó ela ela tava com quase três quando ela ia vir para ser essa ela ia ganhar 1300 a mais se ela saísse do comercial e viesse para CS. Tá então."
+      },
+      {
+        "startTime": 379,
+        "endTime": 380,
+        "speaker": "Diego Diehl",
+        "text": "Ela agora."
+      },
+      {
+        "startTime": 381,
+        "endTime": 388,
+        "speaker": "Felipe Goettems",
+        "text": "Cara, ela não ela não nem ninguém corta em um terço seu salário um terço"
+      },
+      {
+        "startTime": 388,
+        "endTime": 388,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Não não não não não. Espera aí, espera aí, espera aí não ela não foi"
+      },
+      {
+        "startTime": 388,
+        "endTime": 389,
+        "speaker": "Felipe Goettems",
+        "text": "não dois terço."
+      },
+      {
+        "startTime": 393,
+        "endTime": 399,
+        "speaker": "Marcelo Rodrigues",
+        "text": "por r$ 1000, ela foi por mais r$ 1000, entendeu? O de três e meio para 4:30."
+      },
+      {
+        "startTime": 399,
+        "endTime": 399,
+        "speaker": "Felipe Goettems",
+        "text": "Entendi."
+      },
+      {
+        "startTime": 402,
+        "endTime": 424,
+        "speaker": "Carolina Campos",
+        "text": "conhecimento que ela tinha de Ouro no INSS, ela ia mandar super bem. Mas aí não sei."
+      },
+      {
+        "startTime": 424,
+        "endTime": 440,
+        "speaker": "Diego Diehl",
+        "text": "Aqui ok. Eu apresentei o calendário do workshop. Estou aliando com Ayumi para aproximada. Vem me ver, eu acho que não tem muito. que discutir depois eu volto na"
+      },
+      {
+        "startTime": 440,
+        "endTime": 446,
+        "speaker": "Felipe Goettems",
+        "text": "Só um comentário eu tô um pouco distante, mas também não sei se precisamos perder muito tempo nisso, mas como vocês estão sentindo a maior."
+      },
+      {
+        "startTime": 452,
+        "endTime": 465,
+        "speaker": "Eduardo Stringhini",
+        "text": "Olha ela estava em um boarding até então, né? Eu também não interagi muito com ela porque ela tava fazendo assumindo as questões de marketing, mas que eu tiver que eu tenho que tá indo bem. Tá empolgada também."
+      },
+      {
+        "startTime": 465,
+        "endTime": 467,
+        "speaker": "Felipe Goettems",
+        "text": "ela tá com ela, ela tá com"
+      },
+      {
+        "startTime": 469,
+        "endTime": 2075,
+        "speaker": "Diego Diehl",
+        "text": "calendário. Tá certo? E tal. Eu falei eu acho que é legal você compartilhar a gente trocar uma ideia porque tem uns eventos para a gente sincronizar o calendário do marketing conversar com o comercial antes. Não marketing monta um calendário e apresenta porque vocês não tem não estão pegando impulso do que a gente tá fazendo."
+      },
+      {
+        "startTime": 2075,
+        "endTime": 553,
+        "speaker": "Diego Diehl",
+        "text": "Ela é verdade, então parece que tá recebendo feedback."
+      },
+      {
+        "startTime": 553,
+        "endTime": 553,
+        "speaker": "Eduardo Stringhini",
+        "text": "É agora agora a virada de ano acaba acabou o período de um border digamos"
+      },
+      {
+        "startTime": 553,
+        "endTime": 558,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que Campos da parte de cs."
+      },
+      {
+        "startTime": 558,
+        "endTime": 569,
+        "speaker": "Eduardo Stringhini",
+        "text": "assim, né? Que tinha estabelecido coisas bem limitadas para ela fazer né? Então agora ela vai ter que entrar com os dois pelo comercial. Acabou a passagem de bastão."
+      },
+      {
+        "startTime": 574,
+        "endTime": 618,
+        "speaker": "Felipe Goettems",
+        "text": "não sabemos exatamente. Mas tá saindo então só para deixar. Quem não tava Então as pessoas envolvidas aí de comercial já estão. Já estão sabendo e é isso?"
+      },
+      {
+        "startTime": 618,
+        "endTime": 632,
+        "speaker": "Diego Diehl",
+        "text": "Para mim o que tiver de demandas comerciais. Pode pedir para centralizar em mim que daí eu vou redistribuindo e vou ver como é que cada coisa vai parar até aproveitar para tentar tirar coisa que não faz sentido o que que tava na pisando por histórico."
+      },
+      {
+        "startTime": 633,
+        "endTime": 634,
+        "speaker": "Carolina Campos",
+        "text": "O time já foi comunicado sobre a saída da Pisano."
+      },
+      {
+        "startTime": 634,
+        "endTime": 645,
+        "speaker": "Diego Diehl",
+        "text": "É só ir comunicando. e a gente vai se eu tô"
+      },
+      {
+        "startTime": 645,
+        "endTime": 651,
+        "speaker": "Felipe Goettems",
+        "text": "não só Mas eu acho que ela tá autocomunicando porque ela tá saindo dos grupos ela por"
+      },
+      {
+        "startTime": 651,
+        "endTime": 651,
+        "speaker": "Diego Diehl",
+        "text": "nos grupos"
+      },
+      {
+        "startTime": 652,
+        "endTime": 653,
+        "speaker": "Felipe Goettems",
+        "text": "por ela ela."
+      },
+      {
+        "startTime": 653,
+        "endTime": 666,
+        "speaker": "Carolina Campos",
+        "text": "Eu levantei essa bola para o Diego nas férias dela, eu vi que ela saiu de um grupo. Eu mandei Diego um alerta aqui porque eu vi que a Melo Pediu para sair aí veio a pisando saindo de um dos grupos que não é um tão movimentado que é de prazo."
+      },
+      {
+        "startTime": 666,
+        "endTime": 670,
+        "speaker": "Carolina Campos",
+        "text": "Eu falei Diego saiu de um grupo um alerta aqui. Acho que vale um papo com ela. Então acho que"
+      },
+      {
+        "startTime": 671,
+        "endTime": 699,
+        "speaker": "Felipe Goettems",
+        "text": "O que acabou acontecendo o seguinte ela Ela pediu demissão para mim no dia 22? E eu não recebi essa até mostrei para ela. Olha. Ela mostrou para mim que enviou e eu mostrei para ela que não recebi. Então, então já é já faz 10 dias isso né mais de 10 dias acontece que ninguém tinha lido ninguém tinha recebido."
+      },
+      {
+        "startTime": 699,
+        "endTime": 707,
+        "speaker": "Felipe Goettems",
+        "text": "E daí na sexta-feira dia 2, ela veio perguntar Felipe, vocês tem alguma resposta para mim sobre mim?"
+      },
+      {
+        "startTime": 707,
+        "endTime": 709,
+        "speaker": "Carolina Campos",
+        "text": "Coitada ainda deve ter ficado ansiosa até agora."
+      },
+      {
+        "startTime": 710,
+        "endTime": 731,
+        "speaker": "Felipe Goettems",
+        "text": "Então foram 10 dias entre a comunicação dela e a gente ficar sabendo realmente foi na sexta-feira. E hoje eu só não me engano, falei com a Bia agora pouco hoje ela voltaria de férias, tu não pode pedir ou não conta ou sei lá o quê? Não pode efetivo ou dar seguimento num pedido de demissão ou demitir durante as férias então"
+      },
+      {
+        "startTime": 731,
+        "endTime": 733,
+        "speaker": "Carolina Campos",
+        "text": "né"
+      },
+      {
+        "startTime": 733,
+        "endTime": 737,
+        "speaker": "Felipe Goettems",
+        "text": "acho que começa a valer a partir de hoje, mas não sei passei para mim aqui para me ajudar."
+      },
+      {
+        "startTime": 748,
+        "endTime": 755,
+        "speaker": "Diego Diehl",
+        "text": "Foi eu não assim. Se alguém quiser falar comentar e conversar comigo sobre eu nem queria gastar muito tempo aqui nisso."
+      },
+      {
+        "startTime": 757,
+        "endTime": 758,
+        "speaker": "Carolina Campos",
+        "text": "Ela e a Melo foram para a mesma empresa."
+      },
+      {
+        "startTime": 761,
+        "endTime": 772,
+        "speaker": "Felipe Goettems",
+        "text": "Acredito que não porque ela estaria aí avisando estaria indo para uma empresa de mercado imobiliário. E pelo que a gente sabe a Melo foi para app Max, não tem nada a ver com o"
+      },
+      {
+        "startTime": 772,
+        "endTime": 773,
+        "speaker": "Marcelo Rodrigues",
+        "text": "Não mas não não tem como ela é presencial."
+      },
+      {
+        "startTime": 773,
+        "endTime": 778,
+        "speaker": "Felipe Goettems",
+        "text": "mercado imobiliário não é ap Max."
+      },
+      {
+        "startTime": 780,
+        "endTime": 781,
+        "speaker": "Diego Diehl",
+        "text": "É engraçado que a Melo reclamava da pisando para mim precisando reclamar da"
+      },
+      {
+        "startTime": 781,
+        "endTime": 787,
+        "speaker": "Carolina Campos",
+        "text": "É que é muita coincidência, né para mim. Parece que as duas possam podem ter ido para a mesma oportunidade."
+      },
+      {
+        "startTime": 789,
+        "endTime": 792,
+        "speaker": "Felipe Goettems",
+        "text": "A princípio não mas não."
+      },
+      {
+        "startTime": 796,
+        "endTime": 800,
+        "speaker": "Carolina Campos",
+        "text": "Ah, mas ela tá indo para presencial para ganhar r$ 1000 a mais nossa não sabe fazer contas da vida, né?"
+      },
+      {
+        "startTime": 807,
+        "endTime": 816,
+        "speaker": "Diego Diehl",
+        "text": "Melo. E aí ela saiu por falta de oportunidade sendo que agora ela ia assumir uma cadeira boa."
+      },
+      {
+        "startTime": 816,
+        "endTime": 839,
+        "speaker": "Carolina Campos",
+        "text": "Que estranho"
+      },
+      {
+        "startTime": 839,
+        "endTime": 840,
+        "speaker": "Eduardo Stringhini",
+        "text": "O Diego ela chegou ela chegou a falar alguma coisa contigo de algum sinal para"
+      },
+      {
+        "startTime": 840,
+        "endTime": 842,
+        "speaker": "Felipe Goettems",
+        "text": "Estão todos avisados."
+      },
+      {
+        "startTime": 844,
+        "endTime": 845,
+        "speaker": "Eduardo Stringhini",
+        "text": "ti alguma coisa?"
+      },
+      {
+        "startTime": 845,
+        "endTime": 854,
+        "speaker": "Diego Diehl",
+        "text": "Mandou um e-mail para o Felipe. eu acho que Ah não, quero desabafar aqui, mas para mim."
+      },
+      {
+        "startTime": 854,
+        "endTime": 858,
+        "speaker": "Felipe Goettems",
+        "text": "Eu já conversei com o Diego a respeito, já conversei com"
+      },
+      {
+        "startTime": 861,
+        "endTime": 886,
+        "speaker": "Diego Diehl",
+        "text": "Para mim ótimo. Ótimo ela eu tinha que gerenciar as emoções dos impactos da pisando do time inteiro pela S coisas mas eu não eu gosto de gente mais objetiva que fala e tal. Mas sair assim conversar tipo pouca transparência falsidade gigante."
+      },
+      {
+        "startTime": 887,
+        "endTime": 2081,
+        "speaker": "Felipe Goettems",
+        "text": "Ela fez um ela esse nome, ela deixou uma mensagem na ouvidoria no dia 22. Eu não sei a que horas Marcelo sabe que horas ela deixou. E as 10:59 da manhã ela teria mandado aquele e-mail que nunca chegou. Tá então. E ela fez o esse mensagem na ouvidoria. Não de maneira anônima de maneira aberta."
+      },
+      {
+        "startTime": 2081,
+        "endTime": 949,
+        "speaker": "Felipe Goettems",
+        "text": "Na minha cabeça minha cabeça, ninguém reclama numa ouvidoria. De nome aberto para pedir demissão. Talvez uma hora depois duas horas, depois não sei que horas ela fez isso."
+      },
+      {
+        "startTime": 949,
+        "endTime": 950,
+        "speaker": "Carolina Campos",
+        "text": "da reclamação"
+      },
+      {
+        "startTime": 950,
+        "endTime": 950,
+        "speaker": "Marcelo Rodrigues",
+        "text": "uma hora"
+      },
+      {
+        "startTime": 954,
+        "endTime": 965,
+        "speaker": "Felipe Goettems",
+        "text": "Aí depois eu posso até comentar um pouco mais por hora a gente quer deixar esse assunto ver o Campos um pouquinho mais. Of the records, mas depois eu posso te contar a respeito."
+      },
+      {
+        "startTime": 970,
+        "endTime": 972,
+        "speaker": "Eduardo Stringhini",
+        "text": "É o que eu acho que a gente tem que estar bem preparado aí é?"
+      },
+      {
+        "startTime": 974,
+        "endTime": 979,
+        "speaker": "Felipe Goettems",
+        "text": "Eventualmente tem uma trabalhista aqui. Ela tá pedindo ela tá pedindo uma uma rescisão unilateral que eu nunca tinha"
+      },
+      {
+        "startTime": 979,
+        "endTime": 979,
+        "speaker": "Eduardo Stringhini",
+        "text": "Que a gente tem."
+      },
+      {
+        "startTime": 979,
+        "endTime": 987,
+        "speaker": "Carolina Campos",
+        "text": "Depois você comenta."
+      },
+      {
+        "startTime": 987,
+        "endTime": 988,
+        "speaker": "Eduardo Stringhini",
+        "text": "O que nós temos?"
+      },
+      {
+        "startTime": 997,
+        "endTime": 1007,
+        "speaker": "Felipe Goettems",
+        "text": "ouvido falar desse tema mas basicamente é tu. Sofrer as consequências de ser demitido por mais que seja tu que esteja pedindo demissão."
+      },
+      {
+        "startTime": 1008,
+        "endTime": 1015,
+        "speaker": "Carolina Campos",
+        "text": "Ah então estava se sentindo coagida a ser demitida algo assim, né?"
+      },
+      {
+        "startTime": 1015,
+        "endTime": 1019,
+        "speaker": "Felipe Goettems",
+        "text": "Ou quer os direitos de ser demitido?"
+      },
+      {
+        "startTime": 1019,
+        "endTime": 1022,
+        "speaker": "Carolina Campos",
+        "text": "E vai ter negociação com ela."
+      },
+      {
+        "startTime": 1022,
+        "endTime": 1047,
+        "speaker": "Felipe Goettems",
+        "text": "Não sei não sei eu da minha parte eu normalmente não faço isso mas Não veio não veio falar comigo sempre teve liberdade para falar comigo. Ter essa questão da ouvidoria que faz uma hora depois pede demissão sem feedback. Basicamente nos ameaça. Isso é uma ameaça, né lateral não deixa de ser uma lógica."
+      },
+      {
+        "startTime": 1048,
+        "endTime": 1061,
+        "speaker": "Felipe Goettems",
+        "text": "Quanto menos se falar melhor segue certo?"
+      },
+      {
+        "startTime": 1064,
+        "endTime": 1845,
+        "speaker": "Eduardo Stringhini",
+        "text": "O jeito que ela fez foi completamente errado. Então assim não deu nenhuma razão para forma como ela fez de mandar. Uma um e-mail e mandar na ouvidoria etc fazer um poderia ter o tempo dela de empresa, se ela quiser sair tem uma oportunidade para poder ter feito algo diferente, né, mas enfim, não é o caso."
+      },
+      {
+        "startTime": 1845,
+        "endTime": 2586,
+        "speaker": "Eduardo Stringhini",
+        "text": "Só que a pessoa ela sai e ela vai fazer questão de deixar estrago assim sabe? Então eu acho que a gente tem que avaliar que como não habilidade na equipe com relação as coisas que podem vir aí dela, já tá vindo, né? Ficou duas semanas vendo coisa provavelmente entre as pessoas na empresa."
+      },
+      {
+        "startTime": 2586,
+        "endTime": 1115,
+        "speaker": "Eduardo Stringhini",
+        "text": "Teve a saída da Melo tem a saída dela, né? São duas pessoas de tempo de casa, eu acho que isso."
+      },
+      {
+        "startTime": 1115,
+        "endTime": 1116,
+        "speaker": "Carolina Campos",
+        "text": "Vai dar um barulhinho, né?"
+      },
+      {
+        "startTime": 1116,
+        "endTime": 2364,
+        "speaker": "Eduardo Stringhini",
+        "text": "E a gente também tem a questão, né do ano de 2026 de aumentar a força comercial, né? Então querendo ou não, eu acho que depois eu quero conversar um pouco melhor que o Diego sobre isso, né? Eu acho que também não são pessoas assim que Eu acho que elas têm seus problemas e tal não são excepcionais, né? Mas querendo ou não é uma perda de força e agora não curtisse um prazo importante para a gente, né? De gente que sabe vender e eu acho que a gente tem que pensar num plano aí mais agressivo de reestruturação da área comercial."
+      },
+      {
+        "startTime": 2364,
+        "endTime": 1178,
+        "speaker": "Eduardo Stringhini",
+        "text": "antes que depois a gente pode falar um pouco maior no mundo essa semana aí para Que o nosso ano é duro, né? A gente precisa ter gente vendendo tem que ter time, né? E a gente tá perdendo duas pessoas agora na largada do ano. e"
+      },
+      {
+        "startTime": 1178,
+        "endTime": 1194,
+        "speaker": "Carolina Campos",
+        "text": "O Diego também."
+      },
+      {
+        "startTime": 1194,
+        "endTime": 1331,
+        "speaker": "Diego Diehl",
+        "text": "o show do eu adoraria acho que para mim no comercial. A pessoa que tá muito tempo ou ela aprende a compartilhar. E cria processo junto. Ou ela atrapalha o desenvolvimento comercial de processos então agora tem não sei se você sabe mas hoje começaram três pessoas no comercial. Então são dois bdr/ S10."
+      },
+      {
+        "startTime": 1331,
+        "endTime": 1331,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não, sabia."
+      },
+      {
+        "startTime": 1338,
+        "endTime": 2306,
+        "speaker": "Diego Diehl",
+        "text": "O João tá animadaço também porque a oportunidade para ele Só se os locais eu vou falar com naipe hoje da tarde usa nela, tá? Também então, quem tá o único risco que eu tenho hoje é a Mirla. O sal vai conversar com ela hoje, então agora é entender agora o principal é Abrir seria abrir uma vaga para repor a Melo de Closer."
+      },
+      {
+        "startTime": 2306,
+        "endTime": 1420,
+        "speaker": "Diego Diehl",
+        "text": "E tentar fazer isso conversar com Sócio local, né? Eu tô pensando em estratégias. Por exemplo. Para mim seria sei lá se eu acho um closet em Goiânia. Tipo keep e o cara entra performance amadurecer e vira sócio local para mim seria o mundo perfeito. Então tô pensando como é que eu Venço essa barreira de trazer."
+      },
+      {
+        "startTime": 1420,
+        "endTime": 1425,
+        "speaker": "Eduardo Stringhini",
+        "text": "a função da pisando atualmente na empresa ela ela era closet uma coordenadora"
+      },
+      {
+        "startTime": 1428,
+        "endTime": 2300,
+        "speaker": "Diego Diehl",
+        "text": "Então a Melo às vezes não conseguia tracionar o cliente não conseguia ser tão objetiva e forçar. O cliente falar cara. Vamos ou não vamos sabe essa parada o imóvel tem muito isso, né? O cara fica esse ensebando. Tem que entrar um gerente às vezes para a pisando fazer esse papel, mas o objetivo pragmático de autoridade para conseguir fechar."
+      },
+      {
+        "startTime": 2300,
+        "endTime": 3172,
+        "speaker": "Diego Diehl",
+        "text": "Esse era o papel dela principal e era para ser uma coordenadora para ir me ajudando a estrutura a dados estruturar processos que nada avançou só avançou a correria do dia a dia ali que avançou bem então para mim eu tenho que repensar isso. Eu tô pensando hoje assim porque Eu tô pensando como é que é a estrutura ideal."
+      },
+      {
+        "startTime": 3172,
+        "endTime": 1481,
+        "speaker": "Diego Diehl",
+        "text": "Agora pensando no ano."
+      },
+      {
+        "startTime": 1481,
+        "endTime": 1486,
+        "speaker": "Eduardo Stringhini",
+        "text": "Por hora a reposição é uma closed, então é para mela que a pisando fazia Tríade repensar."
+      },
+      {
+        "startTime": 1488,
+        "endTime": 2482,
+        "speaker": "Diego Diehl",
+        "text": "E como é que o João performa enfim, eu tenho que conversar com cada um ver como é que eu vou posicionar o João se ele vai curtir liderar se ele quer virar um closer vou fazer uma Pinha de pessoas, né ver como é que mas o básico seria repor pelo menos um closer porque com os SDR e o mecanismo que a gente está de escala agora."
+      },
+      {
+        "startTime": 2482,
+        "endTime": 1542,
+        "speaker": "Diego Diehl",
+        "text": "Tem muita reunião para fazer. Muita reunião para fazer. E aí eu já o Gustavo vai absorver um pouco João pouco é um pouco usar nela, que naipe já se puseram a apoiar se precisar. Eduardo Felipe Campos São Closer Podia ser também um testezinho atender o cliente. E daí contratar um closet um ou dois?"
+      },
+      {
+        "startTime": 1542,
+        "endTime": 1553,
+        "speaker": "Felipe Goettems",
+        "text": "Abarrotado de reunião não é o que todo mundo quer."
+      },
+      {
+        "startTime": 1553,
+        "endTime": 1561,
+        "speaker": "Diego Diehl",
+        "text": "É o que a Melo teve no último. nos últimos trimestres ali"
+      },
+      {
+        "startTime": 1567,
+        "endTime": 2815,
+        "speaker": "Carolina Campos",
+        "text": "ver se bater um papo. Não sei se faz mais sentido também, mas conhecendo um pouquinho dela dos três anos ali que eu trabalhei do lado. Acho que isso pode ter sido uma quebra muito grande para ela. Até porque ela vem da Laís ali hoje tendo uma posição de coordenadora realmente tendo a importância de uma coordenadora dentro da empresa."
+      },
+      {
+        "startTime": 2815,
+        "endTime": 1644,
+        "speaker": "Carolina Campos",
+        "text": "Acho que ela esperava ter isso para ela também de alguma maneira, sabe e elas comparava muito falar isso em tudo elas eram uma se comparando com a outra."
+      },
+      {
+        "startTime": 1644,
+        "endTime": 1737,
+        "speaker": "Diego Diehl",
+        "text": "porque você tinha que ficar se adaptando todo dia."
+      },
+      {
+        "startTime": 1737,
+        "endTime": 1752,
+        "speaker": "Eduardo Stringhini",
+        "text": "Até no time comercial única pessoa que pode se impactar um pouco é o naipe trabalhava muito com ela isso era muito ligados, tá? O resto é todo time meio novo. É time até mais montado por ti do que time a gente tem amila, né? Mas a Mila é uma é né, então."
+      },
+      {
+        "startTime": 1752,
+        "endTime": 1761,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu falo mais no impacto nos outros times mais antigos, né? No time do Marcelo um time de CS ali que ela vai fazer. Esses uns Zoom aí né para os outros."
+      },
+      {
+        "startTime": 1764,
+        "endTime": 1783,
+        "speaker": "Carolina Campos",
+        "text": "Ainda não chegou em nada tive reunião hoje de manhã com a Laís. E elas só comentou da Melo ausente, você ficou sabendo? Enfim pessoal ainda não sabe talvez o comercial sim, mas de outras áreas."
+      },
+      {
+        "startTime": 1784,
+        "endTime": 1870,
+        "speaker": "Eduardo Stringhini",
+        "text": "para sair não que ela sair para mim. Seja uma coisa ruim agora ela tem que passar. enfim"
+      },
+      {
+        "startTime": 1870,
+        "endTime": 1935,
+        "speaker": "Diego Diehl",
+        "text": "Campus nas cidades que a gente diverte Às vezes o evento chamar o cliente pagante já para o evento. E aí a gente eu como comercial não precisa. Acionar exatamente os pagantes para o sucesso desenvolver essa relação mas eu aviso vocês também animado com esses eventos aqui."
+      },
+      {
+        "startTime": 1935,
+        "endTime": 1948,
+        "speaker": "Felipe Goettems",
+        "text": "Os só como dica, né? Tem cidades que o verão. É o alto intensidade que o verão é o baixo. Então, eu sei que João Pessoa É alto o verão."
+      },
+      {
+        "startTime": 1949,
+        "endTime": 1950,
+        "speaker": "Diego Diehl",
+        "text": "Então, mas é alto para a gente será?"
+      },
+      {
+        "startTime": 1952,
+        "endTime": 1957,
+        "speaker": "Felipe Goettems",
+        "text": "Mas precisou virar o ano para perguntar o que que ele vai fazer?"
+      },
+      {
+        "startTime": 1957,
+        "endTime": 1982,
+        "speaker": "Diego Diehl",
+        "text": "Vou ver o que que vem. eu não sei lá é uma incógnita mas E aí eu vou perguntar também, como é que é."
+      },
+      {
+        "startTime": 1982,
+        "endTime": 1992,
+        "speaker": "Felipe Goettems",
+        "text": "Cara, aproveita se tiver começar a fazer uma limpa, aí vamos fazer limpa. Não sei, né? Mudou alguma coisa com Filipe, não sei se mudou mudou."
+      },
+      {
+        "startTime": 1994,
+        "endTime": 2015,
+        "speaker": "Diego Diehl",
+        "text": "Eu vou tô marcando Philippe e o Felipe vai fazer o webinar, né com a gente, mas é ele tá com posicionamento de Embaixador assim. Enfim, vou sentir. Ah o que eu queria o Wagner até eu acho que eu falei com você, né do eu sugerido roco falar com Wagner."
+      },
+      {
+        "startTime": 2015,
+        "endTime": 2041,
+        "speaker": "Diego Diehl",
+        "text": "O Wagner é apaixonado por ser gestor comercial, ele podia ser o maeso lá. Assim ó, eu confio oito vezes mais nele sendo maeso do que você não sócio local. Então, só que o roco veio falar que queria empresa pronta que já tivesse atuando e tal. A gente tem rede lá o Felipe e o Wagner 5 incorporadores."
+      },
+      {
+        "startTime": 2041,
+        "endTime": 2047,
+        "speaker": "Diego Diehl",
+        "text": "Que era o combo, né? Era Filipe é Wagner na no grupo Acqua."
+      },
+      {
+        "startTime": 2047,
+        "endTime": 2060,
+        "speaker": "Felipe Goettems",
+        "text": "É podiam, não sei se eles sabem do tamanho da Bronca que é né? Porque é cara é vender milho na praia. Caberrando e todo dia das 8 às 8 horas, mas é o que?"
+      },
+      {
+        "startTime": 2060,
+        "endTime": 2064,
+        "speaker": "Diego Diehl",
+        "text": "Tinha uma pessoa diferente porque?"
+      },
+      {
+        "startTime": 2064,
+        "endTime": 2066,
+        "speaker": "Felipe Goettems",
+        "text": "É mas o cara que faz isso vende mais."
+      },
+      {
+        "startTime": 2069,
+        "endTime": 2069,
+        "speaker": "Diego Diehl",
+        "text": "todo lugar no comercial"
+      },
+      {
+        "startTime": 2069,
+        "endTime": 2069,
+        "speaker": "Felipe Goettems",
+        "text": "Entendeu?"
+      },
+      {
+        "startTime": 2074,
+        "endTime": 2084,
+        "speaker": "Diego Diehl",
+        "text": "Mas esse é uma alavanca ali. Tá do tá liberado assim você ocupar o Wagner de algo, se você quiser desenvolver negócio lá eu ajudo. E aí a gente vai se alinhar."
+      },
+      {
+        "startTime": 2084,
+        "endTime": 2096,
+        "speaker": "Felipe Goettems",
+        "text": "Era isso."
+      },
+      {
+        "startTime": 2096,
+        "endTime": 2105,
+        "speaker": "Diego Diehl",
+        "text": "fechou Eu acho que do planejamento além, né? A gente tá nessa parte aqui. A gente tá aqui."
+      },
+      {
+        "startTime": 2105,
+        "endTime": 2111,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente ficou de fazer mais uns dois encontros presenciais, eu não me lembro recordo. E quando é que ficou marcado isso aí?"
+      },
+      {
+        "startTime": 2111,
+        "endTime": 2111,
+        "speaker": "Diego Diehl",
+        "text": "online"
+      },
+      {
+        "startTime": 2112,
+        "endTime": 2112,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vou apresentar online."
+      },
+      {
+        "startTime": 2114,
+        "endTime": 2115,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho que é nessa semana."
+      },
+      {
+        "startTime": 2115,
+        "endTime": 2120,
+        "speaker": "Felipe Goettems",
+        "text": "Deixa eu ver aqui. eu não sei se ele vai participar de alguma mas"
+      },
+      {
+        "startTime": 2120,
+        "endTime": 2120,
+        "speaker": "Marcelo Rodrigues",
+        "text": "dia 19"
+      },
+      {
+        "startTime": 2122,
+        "endTime": 2122,
+        "speaker": "Felipe Goettems",
+        "text": "seria"
+      },
+      {
+        "startTime": 2122,
+        "endTime": 2124,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que a gente tem que fazer dois encontros de duas horas, no mínimo cada"
+      },
+      {
+        "startTime": 2124,
+        "endTime": 2129,
+        "speaker": "Felipe Goettems",
+        "text": "Dia 15 seria 19, não sei se é dois um certamente, mas poderia fazer um 19 e um"
+      },
+      {
+        "startTime": 2129,
+        "endTime": 2131,
+        "speaker": "Diego Diehl",
+        "text": "Tem um dia 19 já na agenda das 4 às 6 horas na segunda."
+      },
+      {
+        "startTime": 2131,
+        "endTime": 2132,
+        "speaker": "Felipe Goettems",
+        "text": "22, sei lá alguma coisa assim."
+      },
+      {
+        "startTime": 2141,
+        "endTime": 2145,
+        "speaker": "Diego Diehl",
+        "text": "E podia ser na quarta na Quinta da manhã, qualquer dia a gente se ajusta com o tempo."
+      },
+      {
+        "startTime": 2147,
+        "endTime": 2150,
+        "speaker": "Felipe Goettems",
+        "text": "Tu chega quando?"
+      },
+      {
+        "startTime": 2150,
+        "endTime": 2154,
+        "speaker": "Diego Diehl",
+        "text": "Eu chego domingo para aniversário do meu afilhado não irmão do meu afilhado."
+      },
+      {
+        "startTime": 2154,
+        "endTime": 2154,
+        "speaker": "Felipe Goettems",
+        "text": "em Porto Alegre"
+      },
+      {
+        "startTime": 2155,
+        "endTime": 2157,
+        "speaker": "Diego Diehl",
+        "text": "Então já tô aí segunda às 6 da manhã."
+      },
+      {
+        "startTime": 2166,
+        "endTime": 2170,
+        "speaker": "Eduardo Stringhini",
+        "text": "um. antes do presencial"
+      },
+      {
+        "startTime": 2174,
+        "endTime": 2174,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu tentar."
+      },
+      {
+        "startTime": 2174,
+        "endTime": 2178,
+        "speaker": "Felipe Goettems",
+        "text": "Essa semana eu pretendo fechar o lugar mesmo. Tô vendo aqui algum lugar."
+      },
+      {
+        "startTime": 2180,
+        "endTime": 2186,
+        "speaker": "Diego Diehl",
+        "text": "Ó na quarta as duas da tarde, tá todo mundo livre. Vou duplicar o evento jogar lá, qualquer coisa a gente cancela, pode ser?"
+      },
+      {
+        "startTime": 2186,
+        "endTime": 2188,
+        "speaker": "Felipe Goettems",
+        "text": "É joga joga. Qualquer coisa a gente tira."
+      },
+      {
+        "startTime": 2188,
+        "endTime": 2332,
+        "speaker": "Diego Diehl",
+        "text": "produto"
+      },
+      {
+        "startTime": 2332,
+        "endTime": 2362,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que tu escreveu bem é uma massaroca isso aí, né? Pessoal. Acho que é um assunto bem grande assim não evoluiu nada semana passada a gente parado. O Júnior tava fora também tava viajando aí. Quem segue Ele viu ele tá completamente afastado e viajando com a família. Mas realmente é um assunto grande aí para ser esse mês, né que tem as nossas questões societárias com ele tem as questões desses investidores que entraram."
+      },
+      {
+        "startTime": 2362,
+        "endTime": 2377,
+        "speaker": "Eduardo Stringhini",
+        "text": "E tem o próprio produto, né? Um exemplo então a própria estabilidade do produto. eu acho que é um assunto bem grande assim que É o assunto. Dos mais importantes ser resolvido, eu acho. breve ao nosso planejamento"
+      },
+      {
+        "startTime": 2379,
+        "endTime": 2380,
+        "speaker": "Diego Diehl",
+        "text": "Alguém chegou a mandar mensagem para ele já?"
+      },
+      {
+        "startTime": 2383,
+        "endTime": 2404,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu também tava semana passada tava. É isso não tem nenhuma evolução da nossa reunião anterior não tem nenhuma evolução semana passada não teve nenhuma evolução."
+      },
+      {
+        "startTime": 2404,
+        "endTime": 2413,
+        "speaker": "Diego Diehl",
+        "text": "e na última na última vez que a gente falou a gente tinha comentado de fazer alguma coisa, não sei se eu falo com Felipe ou com você do Não lembro realmente."
+      },
+      {
+        "startTime": 2413,
+        "endTime": 2426,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu assim ó não eu fiquei de cobrar ele sobre o morro, mas cara não não fiz vou deixar para fazer agora nesse retorno aí. e"
+      },
+      {
+        "startTime": 2429,
+        "endTime": 2441,
+        "speaker": "Felipe Goettems",
+        "text": "Vamos lá, né? Eu acho que tem algumas coisas que a gente pode falar aqui eu e o Eduardo. Fomos até São Paulo. Tá eu comentei com esqueci já com quem eu comentei isso."
+      },
+      {
+        "startTime": 2442,
+        "endTime": 2442,
+        "speaker": "Diego Diehl",
+        "text": "comigo"
+      },
+      {
+        "startTime": 2443,
+        "endTime": 2444,
+        "speaker": "Felipe Goettems",
+        "text": "Comentei contigo comentei contigo Marcelo."
+      },
+      {
+        "startTime": 2447,
+        "endTime": 2449,
+        "speaker": "Diego Diehl",
+        "text": "Comigo com o Marcelo na segunda passada que só tava nós três."
+      },
+      {
+        "startTime": 2450,
+        "endTime": 2475,
+        "speaker": "Felipe Goettems",
+        "text": "Ah tá, foi exatamente foi só nós três na semana passada me reunião e daí eu comentei com você tinha esquecido disso. Então eu já dei uma antecipada viu? O Eduardo sobre os nossos descobertas lá. Campos Tentar fazer um resumo aqui muito breve. O Júnior tá captando um dinheiro com os caras."
+      },
+      {
+        "startTime": 2475,
+        "endTime": 2482,
+        "speaker": "Felipe Goettems",
+        "text": "Que são? Foi no escritório dos caras tá? Não é difícil de escrever até."
+      },
+      {
+        "startTime": 2482,
+        "endTime": 2482,
+        "speaker": "Diego Diehl",
+        "text": "pouco"
+      },
+      {
+        "startTime": 2486,
+        "endTime": 2530,
+        "speaker": "Felipe Goettems",
+        "text": "Tá então a gente confrontou o Júnior com isso. Vou dar um exemplo bem simples, tá um escritório gigantesco que tem 20% se isso ocupado, tá? Porque que tu gasta dinheiro com os outros 80% às vezes é porque tu tem que gastar."
+      },
+      {
+        "startTime": 2530,
+        "endTime": 2531,
+        "speaker": "Carolina Campos",
+        "text": "Tem que gastar, né?"
+      },
+      {
+        "startTime": 2532,
+        "endTime": 2633,
+        "speaker": "Felipe Goettems",
+        "text": "A gente fica olhando o quanto vem."
+      },
+      {
+        "startTime": 2633,
+        "endTime": 2634,
+        "speaker": "Diego Diehl",
+        "text": "Não é meu papel."
+      },
+      {
+        "startTime": 2634,
+        "endTime": 2645,
+        "speaker": "Felipe Goettems",
+        "text": "Sabe não é cada um com a sua responsabilidade, né? Então enfim, mas a gente ficou com essa impressão de que? É muito fácil a coisa. muito fácil"
+      },
+      {
+        "startTime": 2648,
+        "endTime": 2665,
+        "speaker": "Eduardo Stringhini",
+        "text": "É não é só uma impressão tem algumas evidências assim, né? Ainda mais do jeito que as coisas têm acontecido no Brasil aí de lavagem de dinheiro de PCC de Olá Faria Lima, fizeram um rapa lá um monte de empresa igual a que a gente foi fazendo lavagem de dinheiro para o PCC, né, então."
+      },
+      {
+        "startTime": 2665,
+        "endTime": 2674,
+        "speaker": "Eduardo Stringhini",
+        "text": "Então tem é um assunto bem sério assim digamos né? Não dá para ficar tão apreensivo, mas a gente tem que estar bem embasado, juridicamente em cima dessas que Se torna alguma coisa."
+      },
+      {
+        "startTime": 2676,
+        "endTime": 2678,
+        "speaker": "Carolina Campos",
+        "text": "Falar que nem o jornal não sabia. Da onde veio esse dinheiro, né?"
+      },
+      {
+        "startTime": 2678,
+        "endTime": 2683,
+        "speaker": "Eduardo Stringhini",
+        "text": "é Não sabia mas recebeu 20 milhões aqui de investimento então."
+      },
+      {
+        "startTime": 2684,
+        "endTime": 2685,
+        "speaker": "Carolina Campos",
+        "text": "Você não quis nem saber da onde que essa empresa."
+      },
+      {
+        "startTime": 2687,
+        "endTime": 2688,
+        "speaker": "Eduardo Stringhini",
+        "text": "Assim pessoal não é um assunto simples."
+      },
+      {
+        "startTime": 2691,
+        "endTime": 2692,
+        "speaker": "Felipe Goettems",
+        "text": "cara a gente"
+      },
+      {
+        "startTime": 2692,
+        "endTime": 2693,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que a gente conhece."
+      },
+      {
+        "startTime": 2695,
+        "endTime": 2697,
+        "speaker": "Diego Diehl",
+        "text": "E seja interessaram algo já nisso."
+      },
+      {
+        "startTime": 2699,
+        "endTime": 2701,
+        "speaker": "Eduardo Stringhini",
+        "text": "A gente tá pedindo muito."
+      },
+      {
+        "startTime": 2703,
+        "endTime": 2706,
+        "speaker": "Felipe Goettems",
+        "text": "Tá pedindo muito desde sempre."
+      },
+      {
+        "startTime": 2706,
+        "endTime": 2724,
+        "speaker": "Eduardo Stringhini",
+        "text": "Deus acredita que desde o dia que a gente foi lá, né? A gente a gente pediu muito duas vezes a gente chegar antes de chegar duas vezes no dia. Depois depois lá pessoalmente depois depois de lá e esse é um outro, esse é uma outra coisa que não tá me achando estranho ele não mandar."
+      },
+      {
+        "startTime": 2725,
+        "endTime": 2725,
+        "speaker": "Carolina Campos",
+        "text": "tipo Júnior"
+      },
+      {
+        "startTime": 2729,
+        "endTime": 2729,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não."
+      },
+      {
+        "startTime": 2729,
+        "endTime": 2731,
+        "speaker": "Felipe Goettems",
+        "text": "É tá deliberadamente não respondendo, né? Quando a gente pede."
+      },
+      {
+        "startTime": 2731,
+        "endTime": 2742,
+        "speaker": "Diego Diehl",
+        "text": "E a gente vai assinar e a gente vai. E a gente vai assinar o contrato social sem ver o outro. então"
+      },
+      {
+        "startTime": 2744,
+        "endTime": 2838,
+        "speaker": "Felipe Goettems",
+        "text": "cara não não vem para patrimônio. da pf Fica bem exatamente para isso iniciar exatamente para isso. Então, nós temos que nos cercar de gente. Que quer entendido por outro lado, não precisa dar material para esses caras e o material não chega."
+      },
+      {
+        "startTime": 2838,
+        "endTime": 2843,
+        "speaker": "Diego Diehl",
+        "text": "Tá bom então, o foco é obter."
+      },
+      {
+        "startTime": 2843,
+        "endTime": 2848,
+        "speaker": "Felipe Goettems",
+        "text": "Eu já mandaria de novo hoje, tá? Mandaria para ele hoje."
+      },
+      {
+        "startTime": 2849,
+        "endTime": 2851,
+        "speaker": "Eduardo Stringhini",
+        "text": "Vou mandar o nosso grupo."
+      },
+      {
+        "startTime": 2852,
+        "endTime": 2877,
+        "speaker": "Diego Diehl",
+        "text": "discutir com aquela tem 18 convidados na reunião. Ou se a gente quer."
+      },
+      {
+        "startTime": 2877,
+        "endTime": 2885,
+        "speaker": "Felipe Goettems",
+        "text": "Aí eu acho que tem que aí acho que tem que pedir assim pessoal preciso vou pedir licença para vocês. A gente tem um assunto para tratar aqui com o Júnior."
+      },
+      {
+        "startTime": 2885,
+        "endTime": 2888,
+        "speaker": "Diego Diehl",
+        "text": "Até bom isso né? Vai ser vai casar bem pela seriedade."
+      },
+      {
+        "startTime": 2890,
+        "endTime": 2899,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu vou pedir no grupo com todo mundo ali se tá confirmado a reunião e aí a gente faz isso aí de pessoal sair e eu resolvo a questão do contrato."
+      },
+      {
+        "startTime": 2899,
+        "endTime": 2904,
+        "speaker": "Diego Diehl",
+        "text": "É se o Júnior tá confirmado na reunião, né? Porque se ele tá se esquivando ele vai deixar o time dele na reunião não vai aparecer."
+      },
+      {
+        "startTime": 2907,
+        "endTime": 2915,
+        "speaker": "Eduardo Stringhini",
+        "text": "Mas eu vou mandar uma mensagem para ele sobre o muto e perguntando se ele já voltou, eu não sei se ele voltou no Instagram dele, ele tava viajando até ontem."
+      },
+      {
+        "startTime": 2915,
+        "endTime": 2917,
+        "speaker": "Felipe Goettems",
+        "text": "Não interessa, ele voltou não manda."
+      },
+      {
+        "startTime": 2917,
+        "endTime": 2929,
+        "speaker": "Diego Diehl",
+        "text": "Ele Olha quando ele quiser, eu tentaria ligar também. Então faz dois não tem que ficar. Então vamos meter o pé logo então liga vamos ligar para ele, vamos jogar uma"
+      },
+      {
+        "startTime": 2929,
+        "endTime": 2940,
+        "speaker": "Eduardo Stringhini",
+        "text": "Mas aqui é um assunto que a gente precisa endereçar ele eu diria que no primeiro bimestre agora para não perder o ano, né? Porque ele não é mais um assunto que a gente pode seguir tocando assim meio que"
+      },
+      {
+        "startTime": 2942,
+        "endTime": 2946,
+        "speaker": "Felipe Goettems",
+        "text": "Eu acho que é mais sério do que isso, a gente tem que ir para o planejamento."
+      },
+      {
+        "startTime": 2947,
+        "endTime": 2947,
+        "speaker": "Eduardo Stringhini",
+        "text": "resolvido"
+      },
+      {
+        "startTime": 2951,
+        "endTime": 2952,
+        "speaker": "Felipe Goettems",
+        "text": "com a possibilidade de"
+      },
+      {
+        "startTime": 2952,
+        "endTime": 2952,
+        "speaker": "Eduardo Stringhini",
+        "text": "que"
+      },
+      {
+        "startTime": 2952,
+        "endTime": 2953,
+        "speaker": "Felipe Goettems",
+        "text": "Tirar o plugue."
+      },
+      {
+        "startTime": 2959,
+        "endTime": 2960,
+        "speaker": "Diego Diehl",
+        "text": "real, vamos."
+      },
+      {
+        "startTime": 2961,
+        "endTime": 2964,
+        "speaker": "Felipe Goettems",
+        "text": "É eu não gostaria de ter reunião de trabalho."
+      },
+      {
+        "startTime": 2965,
+        "endTime": 2966,
+        "speaker": "Diego Diehl",
+        "text": "Não tá cansado."
+      },
+      {
+        "startTime": 2966,
+        "endTime": 2973,
+        "speaker": "Felipe Goettems",
+        "text": "não se fala mais nada não se fala mais nada enquanto isso não não entregar o"
+      },
+      {
+        "startTime": 2974,
+        "endTime": 2976,
+        "speaker": "Eduardo Stringhini",
+        "text": "sim"
+      },
+      {
+        "startTime": 2976,
+        "endTime": 2984,
+        "speaker": "Diego Diehl",
+        "text": "E está interessado contigo isso? Posso avançar?"
+      },
+      {
+        "startTime": 2984,
+        "endTime": 2984,
+        "speaker": "Eduardo Stringhini",
+        "text": "pode"
+      },
+      {
+        "startTime": 2985,
+        "endTime": 2985,
+        "speaker": "Felipe Goettems",
+        "text": "forte"
+      },
+      {
+        "startTime": 2986,
+        "endTime": 3003,
+        "speaker": "Diego Diehl",
+        "text": "Acho que alguém tava querendo puxar algo quando a Campo estava. não sei se era o Eles querem puxar algo daqui Campos. Quer compartilhar o que?"
+      },
+      {
+        "startTime": 3003,
+        "endTime": 3030,
+        "speaker": "Carolina Campos",
+        "text": "Não eu compartilhei com um colegandro até durante esse período. Quais foram os números do pronto atendimento tá e ele falou que não é o retorno deles é a gente vai montar um relatório para entender. Como que o de destaque vai conseguir dar as informações que a gente precisa porque ele não não é muito bom de relatório não, tá? Então a gente vai vai montar juntos, ele já tem os números macros do que a gente tem hoje de pronto atendimento, mas isso vai ser feito com ele."
+      },
+      {
+        "startTime": 3032,
+        "endTime": 3035,
+        "speaker": "Diego Diehl",
+        "text": "Eles pagaram a volta."
+      },
+      {
+        "startTime": 3035,
+        "endTime": 3050,
+        "speaker": "Carolina Campos",
+        "text": "Tem ali até outubro que foi o relatório eu te incluído o percentual por passa que tava faltando tá? Então tem ali e agora eu vou fazer a centralização do ano. Então agora eu vou pegar o charme de 2025 todo e colocar no documento."
+      },
+      {
+        "startTime": 3051,
+        "endTime": 3054,
+        "speaker": "Felipe Goettems",
+        "text": "A gente teve alguma coisa significativa em novembro dezembro não?"
+      },
+      {
+        "startTime": 3055,
+        "endTime": 3082,
+        "speaker": "Carolina Campos",
+        "text": "Não não teve nada significativo. O que a gente teve até uma levantada aqui de um alerta, tá Diego são hoje foram vendidas 12 contas do da base. Em dezembro três cancelaram tá então foram três cancelamentos de da base que Em dezembro por falta de retorno. Então acho que é um ponto legal retorno, o cara não teve nenhum retorno falou que não compensava ficar pagando os 313."
+      },
+      {
+        "startTime": 3082,
+        "endTime": 3098,
+        "speaker": "Carolina Campos",
+        "text": "Então é um alerta que acho para a gente acompanhar, né? Acho que de 12 não passou nem seis meses três. Acho que no contrato de base que acho que não tinha multa, tá Diego, tem que dar uma olhada lá."
+      },
+      {
+        "startTime": 3100,
+        "endTime": 3114,
+        "speaker": "Diego Diehl",
+        "text": "quando não fechou pelo preço."
+      },
+      {
+        "startTime": 3114,
+        "endTime": 3114,
+        "speaker": "Carolina Campos",
+        "text": "beleza é que"
+      },
+      {
+        "startTime": 3114,
+        "endTime": 3123,
+        "speaker": "Diego Diehl",
+        "text": "E não faz sentido ficar baixando o preço para topo de funil meio de funil, então a gente não tá mais rodando. Não tá mais rodando."
+      },
+      {
+        "startTime": 3124,
+        "endTime": 3142,
+        "speaker": "Carolina Campos",
+        "text": "É não eu trago aqui porque é uma visão de turning por mais que não vai rodar o da base que é um número que conta ali nas nossas perdas e que desses 12 provavelmente os próximos também vão cancelar tá? Então a Laís está fazendo reunião tá buscando fazer acompanhamento com essas contas tem pouco retorno, tá? Então ela vai."
+      },
+      {
+        "startTime": 3145,
+        "endTime": 3146,
+        "speaker": "Diego Diehl",
+        "text": "Argumentar que não teve retorno."
+      },
+      {
+        "startTime": 3146,
+        "endTime": 3161,
+        "speaker": "Carolina Campos",
+        "text": "Tempo. O cara tá pagando Basic. E ele fala que ele não tem retorno nenhum. Então é uma conta aqui por mais deu desconto. O cara não tava engajado para uso para mim. Porque não ele contratou porque ganhou um desconto, mas não era algo que ia trazer resultado para ele."
+      },
+      {
+        "startTime": 3163,
+        "endTime": 3164,
+        "speaker": "Felipe Goettems",
+        "text": "Tem o nome de cabeça aí?"
+      },
+      {
+        "startTime": 3165,
+        "endTime": 3168,
+        "speaker": "Carolina Campos",
+        "text": "Deixa pegar aqui ó, os três que cancelaram. Deixa eu só"
+      },
+      {
+        "startTime": 3173,
+        "endTime": 3176,
+        "speaker": "Eduardo Stringhini",
+        "text": "O que que tem diferença o Basic dos outros é 100 m?"
+      },
+      {
+        "startTime": 3176,
+        "endTime": 3176,
+        "speaker": "Carolina Campos",
+        "text": "Tava aqui eu falei nas minhas férias, a gente levantou o nome deles."
+      },
+      {
+        "startTime": 3177,
+        "endTime": 3180,
+        "speaker": "Diego Diehl",
+        "text": "mas foi uma campanha de"
+      },
+      {
+        "startTime": 3185,
+        "endTime": 3188,
+        "speaker": "Carolina Campos",
+        "text": "E o detalhe que são as três de São Paulo, né? Teoricamente era para ter"
+      },
+      {
+        "startTime": 3188,
+        "endTime": 3190,
+        "speaker": "Felipe Goettems",
+        "text": "Não tem nada."
+      },
+      {
+        "startTime": 3195,
+        "endTime": 3198,
+        "speaker": "Carolina Campos",
+        "text": "resultado, né? Mas porque ele não pode nem argumentar."
+      },
+      {
+        "startTime": 3198,
+        "endTime": 3200,
+        "speaker": "Felipe Goettems",
+        "text": "A qual São Paulo São Paulo capital?"
+      },
+      {
+        "startTime": 3201,
+        "endTime": 3209,
+        "speaker": "Carolina Campos",
+        "text": "São Paulo capital eles não podem nem argumentar que ai não foi por falta de de audiência"
+      },
+      {
+        "startTime": 3209,
+        "endTime": 3216,
+        "speaker": "Diego Diehl",
+        "text": "estudar o diferencial de AIDS Como mostrar para o cara que pagando tem diferença do gratuito?"
+      },
+      {
+        "startTime": 3217,
+        "endTime": 3227,
+        "speaker": "Carolina Campos",
+        "text": "Até da Sergel que foi que a gente conseguiu conversar, ele falou que ele não teve nenhum resultado que ele fez promoção. Ele entrou em contato com a lista."
+      },
+      {
+        "startTime": 3227,
+        "endTime": 3229,
+        "speaker": "Diego Diehl",
+        "text": "É de Campinas."
+      },
+      {
+        "startTime": 3229,
+        "endTime": 3239,
+        "speaker": "Carolina Campos",
+        "text": "Que ele entrou em contato, isso é Sete Campinas entrou em contato com a lista dos corretores mais ativos, mas ele não conseguiu coletar um."
+      },
+      {
+        "startTime": 3241,
+        "endTime": 3241,
+        "speaker": "Diego Diehl",
+        "text": "E o outro nome."
+      },
+      {
+        "startTime": 3242,
+        "endTime": 3242,
+        "speaker": "Carolina Campos",
+        "text": "Oi"
+      },
+      {
+        "startTime": 3243,
+        "endTime": 3244,
+        "speaker": "Diego Diehl",
+        "text": "E outro nome é qual?"
+      },
+      {
+        "startTime": 3245,
+        "endTime": 3247,
+        "speaker": "Carolina Campos",
+        "text": "O outro nome deixa eu pegar aqui de novo."
+      },
+      {
+        "startTime": 3247,
+        "endTime": 3250,
+        "speaker": "Felipe Goettems",
+        "text": "Eu suspeito que nenhuma delas era São Paulo capital Campos."
+      },
+      {
+        "startTime": 3252,
+        "endTime": 3257,
+        "speaker": "Carolina Campos",
+        "text": "Não levantei ainda, tá? Cheguei hoje com essa notícia. É golani e com o céu."
+      },
+      {
+        "startTime": 3257,
+        "endTime": 3258,
+        "speaker": "Felipe Goettems",
+        "text": "Marcelinho não tem de cabeça isso Marcelo."
+      },
+      {
+        "startTime": 3262,
+        "endTime": 3266,
+        "speaker": "Diego Diehl",
+        "text": "Golani Casa Verde São Paulo e Santana São Paulo, tem que ter?"
+      },
+      {
+        "startTime": 3267,
+        "endTime": 3269,
+        "speaker": "Carolina Campos",
+        "text": "Eu quero de Campinas mesmo."
+      },
+      {
+        "startTime": 3270,
+        "endTime": 3285,
+        "speaker": "Diego Diehl",
+        "text": "um grupo de concorrências Galera ver valor nele."
+      },
+      {
+        "startTime": 3285,
+        "endTime": 3302,
+        "speaker": "Felipe Goettems",
+        "text": "eu tô louco para começar o próximo o próximo Épico de diferenciação Diferenciação e o atendimento automático que os dois acho que se misturam. Na verdade eu acho que tem sobreposição dos dois."
+      },
+      {
+        "startTime": 3308,
+        "endTime": 3334,
+        "speaker": "Diego Diehl",
+        "text": "é dessa parte aqui da análise semanal de projeção de receita, eu acho que é um tópico para Do planejamento Ou até antes eu podia te aceitar uma tarefa do que que você do que que faz sentido trazer aqui, talvez mensal, né? Funil acho que um repórter comercial mensal é o mínimo né? Para mim tá claro isso."
+      },
+      {
+        "startTime": 3334,
+        "endTime": 3334,
+        "speaker": "Diego Diehl",
+        "text": "E sobre esse?"
+      },
+      {
+        "startTime": 3334,
+        "endTime": 3338,
+        "speaker": "Felipe Goettems",
+        "text": "E como é que isso conversa eventualmente com um budgets que tu tinha pedido?"
+      },
+      {
+        "startTime": 3342,
+        "endTime": 3345,
+        "speaker": "Diego Diehl",
+        "text": "dos eventos ou da"
+      },
+      {
+        "startTime": 3345,
+        "endTime": 3349,
+        "speaker": "Felipe Goettems",
+        "text": "Para a gente fazer um bug a partir de do segundo segundo trimestre."
+      },
+      {
+        "startTime": 3351,
+        "endTime": 3374,
+        "speaker": "Diego Diehl",
+        "text": "Acompanhar né faturamento. eu acho que esses dois pontos aqui uma coisa bacana que eu quero deixar pronto para o atraso em sites do planejamento estratégico essa consolidação das vendas a gente tem pouco mais de dados de quem é que Primeiro porque quem é que tá comprando porque tá comprando."
+      },
+      {
+        "startTime": 3374,
+        "endTime": 3402,
+        "speaker": "Diego Diehl",
+        "text": "Isso daqui depois eu mostro para vocês que é visitar cada fechamento. E os saltos galopantes em São Paulo e passos de formiga fora eu acho que é bem relevante aí essa é a realidade da hora hoje nem minha. É minha responsabilidade hoje, mas é hora é como é que a gente traciona o resto a gente conseguiu tracionar Curitiba."
+      },
+      {
+        "startTime": 3402,
+        "endTime": 3405,
+        "speaker": "Diego Diehl",
+        "text": "São Paulo cresce e é o desafio de expandir também mas"
+      },
+      {
+        "startTime": 3405,
+        "endTime": 3418,
+        "speaker": "Felipe Goettems",
+        "text": "Curitiba teve Um Curitiba teve um Teve até um mestre não teve uma coisa um pouco diferente no final do ano que deu uns fechamentos a mais. Do que o normal?"
+      },
+      {
+        "startTime": 3418,
+        "endTime": 3421,
+        "speaker": "Diego Diehl",
+        "text": "os eventos os eventos"
+      },
+      {
+        "startTime": 3422,
+        "endTime": 3423,
+        "speaker": "Felipe Goettems",
+        "text": "Mas teve evento no final do ano."
+      },
+      {
+        "startTime": 3425,
+        "endTime": 3437,
+        "speaker": "Diego Diehl",
+        "text": "é que o evento foi para outubro o evento foi meio segundo quinzena de setembro As vendas vieram em outubro e novembro. E aí a primeira mensalidade é paga Em dezembro por isso que talvez você tenha"
+      },
+      {
+        "startTime": 3437,
+        "endTime": 3440,
+        "speaker": "Felipe Goettems",
+        "text": "Não era."
+      },
+      {
+        "startTime": 3440,
+        "endTime": 3444,
+        "speaker": "Diego Diehl",
+        "text": "visto a comissão dos nela da dezembro que é a primeira mensalidade integral."
+      },
+      {
+        "startTime": 3445,
+        "endTime": 3447,
+        "speaker": "Felipe Goettems",
+        "text": "Isso foi isso."
+      },
+      {
+        "startTime": 3447,
+        "endTime": 3447,
+        "speaker": "Diego Diehl",
+        "text": "É isso aí"
+      },
+      {
+        "startTime": 3449,
+        "endTime": 3468,
+        "speaker": "Carolina Campos",
+        "text": "O pessoal eu coloquei o link aqui na pauta do pronto atendimento, tá? Que é o que tá sendo construído e também do relatório de cherne até outubro e depois eu complemento é só para quem não tem acesso depois poder acessar o que eu tô fazendo aí em paralelo. Que já está em andamento, né?"
+      },
+      {
+        "startTime": 3468,
+        "endTime": 3476,
+        "speaker": "Eduardo Stringhini",
+        "text": "O Diego esse documento aqui do da consolidação das vendas foi foi feito porque foi feito. Desde quando isso aqui."
+      },
+      {
+        "startTime": 3479,
+        "endTime": 3479,
+        "speaker": "Diego Diehl",
+        "text": "Não eu fiz eu comecei a lista."
+      },
+      {
+        "startTime": 3479,
+        "endTime": 3492,
+        "speaker": "Eduardo Stringhini",
+        "text": "Desculpa Isso aqui foi um documento que tu fez ou já disse que o time já fazia isso que eu não entendi."
+      },
+      {
+        "startTime": 3498,
+        "endTime": 3501,
+        "speaker": "Diego Diehl",
+        "text": "Mas cadê esse sumiu o documento que"
+      },
+      {
+        "startTime": 3502,
+        "endTime": 3502,
+        "speaker": "Eduardo Stringhini",
+        "text": "esse"
+      },
+      {
+        "startTime": 3505,
+        "endTime": 3509,
+        "speaker": "Diego Diehl",
+        "text": "É não tá com o link."
+      },
+      {
+        "startTime": 3509,
+        "endTime": 3511,
+        "speaker": "Carolina Campos",
+        "text": "Esse daí é antigo. Esse é o que fazer junto com o financeiro."
+      },
+      {
+        "startTime": 3521,
+        "endTime": 3562,
+        "speaker": "Diego Diehl",
+        "text": "Deixa eu por aqui o link certo. aqui ó deixa eu por o link no Por embaixo, porque vai que a gente usou. Qual que é a minha ideia do aqui, a gente fechou? Tipo, eu quero controlar todas as vendas de alguma forma, né? O ideal é não precisar de Uma planilha tá no CRM consigo trabalhar com os dados para acompanhar performance do time quem fechou papapa, mas o principal é isso aqui, ó."
+      },
+      {
+        "startTime": 3562,
+        "endTime": 3602,
+        "speaker": "Diego Diehl",
+        "text": "Qual foi o gatilho para o cliente vir até nós. Qual o site que a gente tirou porque eu tô fazendo isso na mão meio que reunião pergunta das vendas, né? Um Insight exemplo cara Fulano entrou novo na Incorporadora animado e quer implementar a ferramenta. Daí agora daí a gente padronizou dissesse enviar todos os todas as alterações contato comercial que a gente entra em contato com o cara então é um gatilho."
+      },
+      {
+        "startTime": 3602,
+        "endTime": 3595,
+        "speaker": "Diego Diehl",
+        "text": "É exatamente é pegar os meses aqui, principalmente com e talvez eu quero ligar"
+      },
+      {
+        "startTime": 3595,
+        "endTime": 3604,
+        "speaker": "Eduardo Stringhini",
+        "text": "Essa listagem aí é das vendas do ano de 2000 inteiro de 2025. E aí vocês vão a ideia preencher para trás aquilo que lembra?"
+      },
+      {
+        "startTime": 3609,
+        "endTime": 3630,
+        "speaker": "Diego Diehl",
+        "text": "para alguns clientes também. Para pegar esses esses pontos aqui porque a gente faz muita venda em balde. Que o cliente está decidindo comprar. E eu não sei o que é que faz ele decidir, tipo vem um balde de hoje da onde é que veio. Ele clicou porque ele veio da onde que ele acordou hoje e falou."
+      },
+      {
+        "startTime": 3630,
+        "endTime": 3653,
+        "speaker": "Diego Diehl",
+        "text": "Vou contratar a obra. E aí descobrindo esses gatilhos dá para a gente for mais gasolina nos gatilhos certos, né? Qual foi a principal entrega de valor, né para entender? Ah é o cara de novos negócios. É os dois é um só? Porque decidiu comprar agora, né? O cara já foi abordado normalmente porque ele não comprou antes porque ele quer comprar agora."
+      },
+      {
+        "startTime": 3653,
+        "endTime": 3660,
+        "speaker": "Diego Diehl",
+        "text": "E por que que ele não comprou antes? Ah eu não entendi ou não sei aqui para mim é um ouro preenchendo."
+      },
+      {
+        "startTime": 3661,
+        "endTime": 3662,
+        "speaker": "Carolina Campos",
+        "text": "Já conseguiu preencher de algum?"
+      },
+      {
+        "startTime": 3664,
+        "endTime": 3708,
+        "speaker": "Diego Diehl",
+        "text": "Acho que a gente tava. Tá com filtro? Eu acho que a gente tinha preenchido, só que eu apaguei porque eu mudei as perguntas. Tinham preenchido mas estava aquelas perguntas contra você controversa sabe tipo aquelas respostas que não entregam eu quero resposta escrita. Um cara padrão de resposta, eu quero resposta escrita que daí eu analiso cunhado depois para o cara não poder só preencher lá rapidinho porque quando não tinha a gente fica padronizar o campo, senão a gente não conseguia ler o dado, né? Agora o cara pode escrever do jeito que ele quiser que daí eu compila."
+      },
+      {
+        "startTime": 3708,
+        "endTime": 3722,
+        "speaker": "Carolina Campos",
+        "text": "Dá para você depois pegar todas essas perguntas que às vezes vai ser feita Provavelmente por SDR ou pelo closer colocar como pergunta dentro do Beatrix e depois cruzar em relatório. Não sei se já consigo falar com a Paloma para ela trazer para ti."
+      },
+      {
+        "startTime": 3723,
+        "endTime": 3759,
+        "speaker": "Diego Diehl",
+        "text": "Essa ideia é isso, esse plano, inclusive o meu o meu processo que eu desenhei. É que toda venda fechada o SDR entra em contato com closer pega do closer do cliente para se der poder ter noção do que tá acontecendo da onde é que estão vindo as vendas dele."
+      },
+      {
+        "startTime": 3759,
+        "endTime": 3802,
+        "speaker": "Diego Diehl",
+        "text": "Tipo a Mirla hoje não sabe onde é que vem exatamente as vendas dela porque ela agenda vai só que não volta informação para ela, né? Ela não consegue interar na cabeça dela, porque que tá dando certo. Mas em resumo para a gente fechar essa pauta é? Ter informações das vendas e da não vendas daqui a pouco."
+      },
+      {
+        "startTime": 3802,
+        "endTime": 3847,
+        "speaker": "Diego Diehl",
+        "text": "E trazer funil aqui para diretoria e por estado. E aí um dado que eu peguei acho que vale compartilhar com vocês. Eu apresentei hoje. Deixa eu mostrar rapidinho. Um dado que me chamou atenção, que daí é o desafio do passos de formiga. se eu tirar São Paulo, Rio Grande do Sul e Paraná A gente passou de 54 clientes para 89."
+      },
+      {
+        "startTime": 3847,
+        "endTime": 3886,
+        "speaker": "Diego Diehl",
+        "text": "ou seja A gente não expandir o cliente ideal em praças novas real assim o volume. Esse aqui é o desafio e São Paulo tá batendo no 70 e poucos por cento. Curitiba agora Porto Alegre e que não se mexe é mais vendas caiu uma entra uma caiu outra um desafio é aqui."
+      },
+      {
+        "startTime": 3886,
+        "endTime": 3903,
+        "speaker": "Diego Diehl",
+        "text": "Mas aí tem um assistente de expansão tem os eventos tem marketing agora eu acho que a gente entrou em 2026 já com Não tentando só sair vender que não não deu certo não tá dando certo. Não no passado não tinha vendido quase eu tirei uma foto do meu quadro lá"
+      },
+      {
+        "startTime": 3903,
+        "endTime": 3917,
+        "speaker": "Felipe Goettems",
+        "text": "E tu nota, tu nota a diferença desses aprendizados. a gente pensar no ano atrás a gente lá no Lá na casa e agora muito."
+      },
+      {
+        "startTime": 3923,
+        "endTime": 3946,
+        "speaker": "Diego Diehl",
+        "text": "minha primeira venda. Ideai Curitiba foi em julho? Aí eu trabalhei muito clubes depois um pouco C2. Ano passado viajei bastante, né? Deu para entender um pouco o mecanismo que deu para entender que o Wagner falava muito Wagner, ele tem várias frases, né? Ele usa João Pessoa tem muro baixo onde a pessoa vai o outro vai."
+      },
+      {
+        "startTime": 3946,
+        "endTime": 3966,
+        "speaker": "Diego Diehl",
+        "text": "E aí Alguma parada que eu falei com a Mayumi, ninguém sabe quem é cliente que não é. E a gente não comunica quem tá virando cliente, né? Você tem uma ação que eu falei cara. Vamos postar Stories de todo o contrato assinado posta logo da Incorporadora e das boas vindas."
+      },
+      {
+        "startTime": 3966,
+        "endTime": 3978,
+        "speaker": "Diego Diehl",
+        "text": "Pô, só isso se o mercado começar a ver que a gente fecha 30 contratos mês. A sensação que dá de sucesso é muito grande e o mercado não tem."
+      },
+      {
+        "startTime": 3978,
+        "endTime": 3985,
+        "speaker": "Felipe Goettems",
+        "text": "Fazer isso e não acho que não faz mais e a bloco lá o estúdio continua fazendo isso desde sempre."
+      },
+      {
+        "startTime": 3987,
+        "endTime": 4010,
+        "speaker": "Diego Diehl",
+        "text": "É básica custo zero, quase é custo de meu Deus jogar uma logo no canva. Marcar e o cara publica ainda, né? Ele reposta. Então já divulga para a cidade. Enfim, então acho que tem uma parada de aproveitar o muro baixo que é curado pelo programa de embaixadores pelos eventos."
+      },
+      {
+        "startTime": 4010,
+        "endTime": 4046,
+        "speaker": "Diego Diehl",
+        "text": "Seria bom fazer dois a tivesse forte nisso. Eu acho que a gente enfim, eu já falei isso na virada de ano, né? A gente já tem bastante teste agora da escala. Aqui o campo já trazendo do diabeisic que eu falei. Foi pouco eficaz foram 14 vendas. Mal sucedidos temos pouco a maturidade e também pouca diferenciação de da e DL, né? Tecnicamente se o cara pagasse para virada e DL para da tinha que sentir resultado."
+      },
+      {
+        "startTime": 4046,
+        "endTime": 4072,
+        "speaker": "Diego Diehl",
+        "text": "Ele não sentiu então. Tá aqui. Eu não sei se vocês querem passar aqui, eu acho que não vale passar bagunçado. Acho que para você saberem só a minha P1 é Goiânia. continua sendo organizando aqui E eu Visitei lá continua meio devagar meio travado pouca aderência, mas a galera valoriza ele você come faz um trabalho assim."
+      },
+      {
+        "startTime": 4072,
+        "endTime": 4117,
+        "speaker": "Diego Diehl",
+        "text": "Mas o nosso foco aqui é Goiânia. E aí remoto Recife está crescendo com o embaixador. Mas o cenário aqui que eu vou fazer uma conta é considerando uma curva de crescimento nas praças. O quanto que a gente vai crescer? Se eu não sei o quanto a gente tem. Qual vai ter que ser a velocidade de crescimento de quais praças enquanto para a gente atingir 8 milhões que é a meta esse ano? Pelo menos eu seguindo o mesmo padrão do ano passado foi de 3 milhões para 3 milhões e meio para cinco e 300."
+      },
+      {
+        "startTime": 4117,
+        "endTime": 4122,
+        "speaker": "Diego Diehl",
+        "text": "Se crescer 50% vai de 5 300 para 8."
+      },
+      {
+        "startTime": 4122,
+        "endTime": 4124,
+        "speaker": "Felipe Goettems",
+        "text": "para dizer"
+      },
+      {
+        "startTime": 4127,
+        "endTime": 4158,
+        "speaker": "Diego Diehl",
+        "text": "tirando Acho que 26. Eu vou fazer essa continha assim razoável, mas tem cara de já adiantando para talvez a gente reagir de forma diferente. A gente não fizer algo muito, sei lá certinho, se eu não conseguir fazer algo muito revolucionador assim. Ou de muita escala a tendência a gente crescer várias cidades que estão no zero."
+      },
+      {
+        "startTime": 4158,
+        "endTime": 4173,
+        "speaker": "Diego Diehl",
+        "text": "Ganhar uma certa relevância na praça, mas vai dar tanto trabalho para ganhar essa pouca relevância e pouco cliente que a gente não vai atingir os 8 milhões."
+      },
+      {
+        "startTime": 4174,
+        "endTime": 4179,
+        "speaker": "Felipe Goettems",
+        "text": "Ah eu vejo isso eu também vejo isso porque tu estás aurido em São Paulo."
+      },
+      {
+        "startTime": 4179,
+        "endTime": 4180,
+        "speaker": "Diego Diehl",
+        "text": "São Paulo Curitiba"
+      },
+      {
+        "startTime": 4180,
+        "endTime": 4211,
+        "speaker": "Felipe Goettems",
+        "text": "E tudo que não tá exaurido. É uma aposta é um meia-bomba assim. então sim, os eventos tem que A nossa aposta. E eu acho que eu aposto também é só uma aposta. Que esses dois produtos financeiros que a gente vai. Que vai estar colocando na rua, eles deveriam colaborar com isso."
+      },
+      {
+        "startTime": 4211,
+        "endTime": 4223,
+        "speaker": "Felipe Goettems",
+        "text": "Tanto com receita quanto com engajamento no da propriamente? Mas eu não tenho mais apostas. Essas são as minhas duas apostas."
+      },
+      {
+        "startTime": 4225,
+        "endTime": 4247,
+        "speaker": "Eduardo Stringhini",
+        "text": "É de coisa mais certa que a gente precisa mudar É. O marketing a estrutura comercial né? Mais forte essa cidades aí e talvez ao postar alguma coisa aí em algum ajuste de produto ali da sua questão do diferencial melhora o produto. Seria a terceira via aí após."
+      },
+      {
+        "startTime": 4249,
+        "endTime": 4270,
+        "speaker": "Diego Diehl",
+        "text": "E se for para estratificar só a aposta base, claro que cria apoio dando certo cara, entra Se for para olhar para a linha de lucro a gente Tora né? Porque uma coisa é 8 milhões de receita com o custo crescendo acompanhando órgão outra é com um produto financeiro mais forte."
+      },
+      {
+        "startTime": 4270,
+        "endTime": 4293,
+        "speaker": "Diego Diehl",
+        "text": "Mais estratificando nossas linhas normais para ir dando clareza já de aposta tá sendo evento. mais comunicação de experiência de jornada com todos os DL E alguns embaixadores para acelerar crescimento de corretores que dê Embaixador chama para lançamento tira o drive é baixador que tira o drive a partir de evento que a gente ganha autoridade."
+      },
+      {
+        "startTime": 4293,
+        "endTime": 4296,
+        "speaker": "Diego Diehl",
+        "text": "E aí a gente vê para essas crescendo."
+      },
+      {
+        "startTime": 4299,
+        "endTime": 4366,
+        "speaker": "Felipe Goettems",
+        "text": "Mas é desafiador. então É muito gogó e Gogó aqui é marketing. E esse relacionamento, né? Por exemplo Fortaleza é o exemplo dos caras pedindo para a gente entrar. Então tá dentro do Dentro do gogó, né? E vamos precisar botar esse fundo aí na rua. Porque o TF ele só vem depois."
+      },
+      {
+        "startTime": 4366,
+        "endTime": 4340,
+        "speaker": "Felipe Goettems",
+        "text": "Seria um rio Campinas Recife Floripa."
+      },
+      {
+        "startTime": 4340,
+        "endTime": 4373,
+        "speaker": "Diego Diehl",
+        "text": "É eu acho que uma decisão difícil vai uma decisão numa diretriz que eu vejo é se for para por qualquer nova cidade, tem que avaliar bem daí. Quase que o Marcelo assina embaixo. O Marcelo falou de ter uma análise de negócio ver certo tipo uma fortaleza da vida. Mas garantir que a gente vai pegar fogo nessas aqui tipo nos que já tem, né? Que depois é ela der abaixo, né? Mas é fazer a bola a bola começar a rolar para frente que está em linha reta para começar a entrar na descida."
+      },
+      {
+        "startTime": 4375,
+        "endTime": 4378,
+        "speaker": "Eduardo Stringhini",
+        "text": "Tem que tirar Maceió daí? tirar da cor"
+      },
+      {
+        "startTime": 4381,
+        "endTime": 4386,
+        "speaker": "Diego Diehl",
+        "text": "Tô com esperança ainda. Deixando aqui assim para lembrar que estava."
+      },
+      {
+        "startTime": 4386,
+        "endTime": 4390,
+        "speaker": "Felipe Goettems",
+        "text": "Na cidade que a gente não fatura que a gente mapeia Rio Campinas e Floripa."
+      },
+      {
+        "startTime": 4391,
+        "endTime": 4392,
+        "speaker": "Diego Diehl",
+        "text": "Curitiba João Pessoa"
+      },
+      {
+        "startTime": 4392,
+        "endTime": 4393,
+        "speaker": "Felipe Goettems",
+        "text": "E Goiânia."
+      },
+      {
+        "startTime": 4393,
+        "endTime": 4395,
+        "speaker": "Eduardo Stringhini",
+        "text": "e"
+      },
+      {
+        "startTime": 4399,
+        "endTime": 4428,
+        "speaker": "Felipe Goettems",
+        "text": "Não mas aí já é por opção é por opção. falando em Vale do Itajaí cara bwv paradinho senão caindo Já em João Pessoa, eles estão já tiveram 23. Vou ver aqui na minha. Só um comentário aqui."
+      },
+      {
+        "startTime": 4429,
+        "endTime": 4431,
+        "speaker": "Diego Diehl",
+        "text": "IDH os caras sumiram"
+      },
+      {
+        "startTime": 4432,
+        "endTime": 4443,
+        "speaker": "Felipe Goettems",
+        "text": "Sumiram cara, os cara sumiram até vou dar uma xeretada. eu acho que eles são muito menores o que a gente achou que"
+      },
+      {
+        "startTime": 4444,
+        "endTime": 4458,
+        "speaker": "Diego Diehl",
+        "text": "Um amigo meu que teve contato com dwv com Diogo e tal veio falar cara, por que que vocês não compram? Ainda Bem menos trabalho para Vocês só ouvi eu falei."
+      },
+      {
+        "startTime": 4459,
+        "endTime": 4464,
+        "speaker": "Felipe Goettems",
+        "text": "Quem é esse cara? Olha teve 22 eles estão com 11? Cara isso em João Pessoa uma queda"
+      },
+      {
+        "startTime": 4466,
+        "endTime": 4468,
+        "speaker": "Diego Diehl",
+        "text": "Cara para mim o dwv eu já falei é um A não ser que eles I9. Eles são um"
+      },
+      {
+        "startTime": 4468,
+        "endTime": 4469,
+        "speaker": "Felipe Goettems",
+        "text": "porrada"
+      },
+      {
+        "startTime": 4472,
+        "endTime": 4495,
+        "speaker": "Diego Diehl",
+        "text": "risco para a gente de algo que não existe. Mas hoje eles são um abridor de praça pra gente. Todo mundo é muito fácil chegar para uma incorporadora em Fortaleza. Foi assim, sabia? Daí minha resposta é são tipo um filho nosso na verdade não deu. Tão certo. Às vezes tá mais íntima."
+      },
+      {
+        "startTime": 4495,
+        "endTime": 4512,
+        "speaker": "Diego Diehl",
+        "text": "Mas daí eu falo os números e tal, mas eles entendem muito rápido o conceito eu falei imagina até todos os produtos da cidade daí num lugar só. Daí o cara fala nossa ele incrível então facilita o aprendizado aí."
+      },
+      {
+        "startTime": 4514,
+        "endTime": 4519,
+        "speaker": "Felipe Goettems",
+        "text": "Nossa, maior nosso maior ativo, é também o nosso maior passivo. Eu sempre disse o cara."
+      },
+      {
+        "startTime": 4519,
+        "endTime": 4520,
+        "speaker": "Diego Diehl",
+        "text": "É o Marcelão."
+      },
+      {
+        "startTime": 4521,
+        "endTime": 4524,
+        "speaker": "Felipe Goettems",
+        "text": "Não o ativo é ter todos o passivo é ter que ter todos."
+      },
+      {
+        "startTime": 4524,
+        "endTime": 4539,
+        "speaker": "Diego Diehl",
+        "text": "Quando eu entrei na orla do Marcelo, o Felipe falava assim, cara. Tem um cara aqui que carrega ouro nas costas. E agora eu entendi melhor."
+      },
+      {
+        "startTime": 4540,
+        "endTime": 4559,
+        "speaker": "Felipe Goettems",
+        "text": "mas eu nessa nesse aspecto, eu acho que nós vamos começar é uma É um axioma, né? Da hora ter que ter tudo, mas eu nós vamos acho que Desafiar esse essa verdade esse ano. De alguma forma."
+      },
+      {
+        "startTime": 4560,
+        "endTime": 4566,
+        "speaker": "Diego Diehl",
+        "text": "Eu tô fazendo testes aqui, já que é o que a gente chama de geográfico, né? Que é o meu Marketplace?"
+      },
+      {
+        "startTime": 4566,
+        "endTime": 4574,
+        "speaker": "Felipe Goettems",
+        "text": "Ah mas eu digo o seguinte cara vai aparecer 50% das vezes tá lá."
+      },
+      {
+        "startTime": 4576,
+        "endTime": 4577,
+        "speaker": "Diego Diehl",
+        "text": "Não desafiar o cadastrar todo mundo."
+      },
+      {
+        "startTime": 4577,
+        "endTime": 4591,
+        "speaker": "Felipe Goettems",
+        "text": "Vai aparecer 50. E isso desafiar lógica de que o cara surfa porque surfa de grau pega carona de graça com a gente porque ele sabe do nosso modelo."
+      },
+      {
+        "startTime": 4591,
+        "endTime": 4597,
+        "speaker": "Diego Diehl",
+        "text": "Cara, a gente tem que ser mais inteligente que isso mas isso dá uma solução Bem prática."
+      },
+      {
+        "startTime": 4598,
+        "endTime": 4604,
+        "speaker": "Felipe Goettems",
+        "text": "É não eu tô foi ruim a solução. Só tô dizendo que vai ser desafiado essa ideia."
+      },
+      {
+        "startTime": 4606,
+        "endTime": 4632,
+        "speaker": "Diego Diehl",
+        "text": "Eu acho. Show parceria você vê não evoluiu muito mais né do da reunião lá que tava no passeio. Eu eu posso puxar a parte do apoio do pouco de aproximação de aproximação comercial meio que sem grandes coisas estratégicas, eu conversei um tanto com o Vinícius da vem me ver que eles são bem próximos do CV, né?"
+      },
+      {
+        "startTime": 4633,
+        "endTime": 4637,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu não me recordo que ficou de próximo passo."
+      },
+      {
+        "startTime": 4640,
+        "endTime": 4677,
+        "speaker": "Diego Diehl",
+        "text": "É eles cara entre no nosso programa de parceiros. E nós somos agnósticos. E se vocês quiserem fazer algo a gente pode negociar. Em troca de algo do avendre tipo uma abertura que eles deram é o CV é Deus sua venda é Jesus e você pode conversar com Jesus. Daí tem esse atrito."
+      },
+      {
+        "startTime": 4677,
+        "endTime": 4685,
+        "speaker": "Eduardo Stringhini",
+        "text": "Me lembrei agora a gente ia falar sobre a questão do avendre Pay lá, né? Esse é o grande atrito na verdade."
+      },
+      {
+        "startTime": 4686,
+        "endTime": 4698,
+        "speaker": "Diego Diehl",
+        "text": "E aí é isso se a gente cancelar com o Júnior porta se abrem para alguns lados. Tipo uma Iara decente uma parceria."
+      },
+      {
+        "startTime": 4698,
+        "endTime": 4711,
+        "speaker": "Felipe Goettems",
+        "text": "Eu não tinha ideia, tá? Tu sabe quanto é que os caras estão cobrando por antecipação não por pelo serviço do Da quebra, né das comissões. Vai de 6 a 8% ao mês."
+      },
+      {
+        "startTime": 4713,
+        "endTime": 4714,
+        "speaker": "Diego Diehl",
+        "text": "É grana para o condutor."
+      },
+      {
+        "startTime": 4714,
+        "endTime": 4718,
+        "speaker": "Felipe Goettems",
+        "text": "Cara é muito dinheiro. É muito dinheiro. Isso é muito dinheiro."
+      },
+      {
+        "startTime": 4718,
+        "endTime": 4723,
+        "speaker": "Diego Diehl",
+        "text": "Tanto que a estratégia do Júnior ela nem cobrava. Que a grana não tá aí a grana tá no adiantamento."
+      },
+      {
+        "startTime": 4723,
+        "endTime": 4739,
+        "speaker": "Felipe Goettems",
+        "text": "E eu acho que ainda tem uma tachinha tipo assim 150 para análise mais seis a oito ao mês."
+      },
+      {
+        "startTime": 4742,
+        "endTime": 4768,
+        "speaker": "Diego Diehl",
+        "text": "Mas é isso acho que essa parceria órgão você vê de alguma forma abriu. Essa parada de possíveis parcerias. E aí o ponto Edu também que eu acho que você lembrou é que cara a pagadoria do Júnior não tem nada a ver com nossa negociação com ele, né. Isso mas digo de contrato de exclusividade, né?"
+      },
+      {
+        "startTime": 4768,
+        "endTime": 4788,
+        "speaker": "Felipe Goettems",
+        "text": "A gente estaria junto. Ela tá dentro do da Z2 seria sócios. Não vai fazer. os pressos"
+      },
+      {
+        "startTime": 4791,
+        "endTime": 4820,
+        "speaker": "Diego Diehl",
+        "text": "Sim sim Felipe. Oi Edu. Então eu acho que um próximo passo que ficou comigo ali. Eu vou convidar eles para algum para fazer alguma coisa assim tipo. algum evento o workshop numa cidade que faz sentido Mas vou deixar ali meio que standy by para olhar não vou priorizar super isso agora tomando coisa para fazer."
+      },
+      {
+        "startTime": 4820,
+        "endTime": 4831,
+        "speaker": "Diego Diehl",
+        "text": "E eles não se eles não se interessaram super em promover algo de obra e tal não vejo muita vantagem."
+      },
+      {
+        "startTime": 4832,
+        "endTime": 4855,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu acho que agora que bate pronto e a gente entrar nesse programa de parceiros deles lá pegar os contratos de parceria deles aí a gente avançar porque a parte você a parte. da sociedade Pessoal, vou ter que entrar numa reunião às 4:30 aqui queria dar um tempo no banheiro."
+      },
+      {
+        "startTime": 4855,
+        "endTime": 4858,
+        "speaker": "Eduardo Stringhini",
+        "text": "Não sei se a gente tem mais algum outro assunto. importante"
+      },
+      {
+        "startTime": 4861,
+        "endTime": 4869,
+        "speaker": "Carolina Campos",
+        "text": "Não sei se o felipedu tem uma agendinha ali depois que vocês finalizarem de vocês para bater um papo com vocês. Rapidinho ali umas 556 se puderem."
+      },
+      {
+        "startTime": 4872,
+        "endTime": 4884,
+        "speaker": "Eduardo Stringhini",
+        "text": "Eu preferia que fosse amanhã Campos porque eu preciso pegar a estrada não queria chegar eu queria. Eu posso fazer do celular também para mim seria melhor que eu preciso arrumar minha mala e sair correndo aqui."
+      },
+      {
+        "startTime": 4884,
+        "endTime": 4888,
+        "speaker": "Carolina Campos",
+        "text": "Tá bom. Eu espero vocês então, depois você me dá aquele se pode"
+      },
+      {
+        "startTime": 4888,
+        "endTime": 4890,
+        "speaker": "Felipe Goettems",
+        "text": "Eu tô disponível só o Edu da ok."
+      },
+      {
+        "startTime": 4891,
+        "endTime": 4892,
+        "speaker": "Carolina Campos",
+        "text": "Tá bom."
+      },
+      {
+        "startTime": 4893,
+        "endTime": 4893,
+        "speaker": "Eduardo Stringhini",
+        "text": "Pode ser assim."
+      },
+      {
+        "startTime": 4894,
+        "endTime": 4896,
+        "speaker": "Carolina Campos",
+        "text": "Eu coloco ali rapidinho cinco."
+      },
+      {
+        "startTime": 4896,
+        "endTime": 4897,
+        "speaker": "Eduardo Stringhini",
+        "text": "Valeu boa semana."
+      },
+      {
+        "startTime": 4897,
+        "endTime": 4898,
+        "speaker": "Carolina Campos",
+        "text": "Fechou, valeu até mais."
+      },
+      {
+        "startTime": 4899,
+        "endTime": 4903,
+        "speaker": "Diego Diehl",
+        "text": "Boa semana para todo mundo. Valeu falou"
+      }
+    ]
+  },
+  "transcript_summary": {
+    "entry_count": 395,
+    "speakers": [
+      "Felipe Goettems",
+      "Marcelo Rodrigues",
+      "Eduardo Stringhini",
+      "Carolina Campos",
+      "Diego Diehl"
+    ],
+    "total_words_estimate": 8484,
+    "duration_start": 0,
+    "duration_end": 4903
+  },
+  "transcript_unavailable_reason": null,
+  "notes": {
+    "structuredNotes": [
+      {
+        "segmentId": "695c107c623eee0013ebe816",
+        "timestamp": 12,
+        "text": "Resolver pendência com Hudson sobre pagamento de integração com Z2.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe831",
+        "timestamp": 122,
+        "text": "Laís está grávida, com previsão de nascimento em junho/julho.",
+        "topicId": "695c107c623eee0013ebe814"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe832",
+        "timestamp": 246,
+        "text": "Reunião de diretoria agendada para 26 a 29 de janeiro.",
+        "topicId": "695c107c623eee0013ebe814"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe817",
+        "timestamp": 618,
+        "text": "Diego centralizará demandas comerciais e redistribuirá tarefas.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81f",
+        "timestamp": 671,
+        "text": "Pisano pediu demissão em 22 de dezembro, mas comunicação só foi confirmada em 2 de janeiro.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe820",
+        "timestamp": 1116,
+        "text": "Necessidade de plano agressivo para reestruturação da área comercial em 2026.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe821",
+        "timestamp": 1454,
+        "text": "Diego precisa reestruturar processo e repensar o papel da coordenação na empresa.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe818",
+        "timestamp": 1487,
+        "text": "Diego planeja conversar com João sobre potencial liderança e reposição de closer.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe836",
+        "timestamp": 1538,
+        "text": "Considerar contratação de um ou dois closers para atender demanda de reuniões.",
+        "topicId": "695c107c623eee0013ebe815"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe822",
+        "timestamp": 1587,
+        "text": "Carolina identifica possível impacto emocional da mudança para Melo, considerando expectativas profissionais.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe823",
+        "timestamp": 1770,
+        "text": "Saída de Melo ainda não é amplamente conhecida em diferentes áreas da empresa.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe824",
+        "timestamp": 1880,
+        "text": "Diego planeja substituir Melo e criar processos internos para melhorar desenvolvimento comercial.",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe825",
+        "timestamp": 2040,
+        "text": "Três novas pessoas iniciaram no time comercial hoje",
+        "topicId": "695c107c623eee0013ebe810"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe833",
+        "timestamp": 2108,
+        "text": "Equipe planeja realizar dois encontros presenciais de duas horas cada.",
+        "topicId": "695c107c623eee0013ebe814"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe834",
+        "timestamp": 2129,
+        "text": "Reunião agendada para dia 19, das 4 às 6 horas.",
+        "topicId": "695c107c623eee0013ebe814"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe819",
+        "timestamp": 2260,
+        "text": "Diego pretende conversar com Sócio local sobre a nova contratação.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81a",
+        "timestamp": 2426,
+        "text": "Eduardo não conseguiu realizar cobrança pendente anteriormente, fará contato agora no retorno.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81b",
+        "timestamp": 2929,
+        "text": "Necessário endereçar assunto com Júnior no primeiro bimestre para não perder o ano.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81c",
+        "timestamp": 3031,
+        "text": "Carolina preparará relatório consolidado de pronto atendimento do ano de 2025.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe835",
+        "timestamp": 3065,
+        "text": "Identificados três cancelamentos de contas em dezembro por falta de retorno.",
+        "topicId": "695c107c623eee0013ebe815"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81d",
+        "timestamp": 3141,
+        "text": "Laís realizará acompanhamento com contas com baixo retorno.",
+        "topicId": "695c107c623eee0013ebe80f"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82a",
+        "timestamp": 3534,
+        "text": "Diego busca controle total de vendas no CRM e identificação do gatilho de aquisição de clientes.",
+        "topicId": "695c107c623eee0013ebe812"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82b",
+        "timestamp": 3702,
+        "text": "Carolina sugere melhorias no Beatrix para captura de informações, Diego planeja processo de pós-venda com SDR.",
+        "topicId": "695c107c623eee0013ebe812"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82c",
+        "timestamp": 3780,
+        "text": "Objetivo de criar funil de vendas por estado e compreender informações de vendas e não vendas.",
+        "topicId": "695c107c623eee0013ebe812"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82d",
+        "timestamp": 3959,
+        "text": "Diego propõe postar stories de contratos assinados para aumentar visibilidade no mercado.",
+        "topicId": "695c107c623eee0013ebe812"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe826",
+        "timestamp": 4092,
+        "text": "Meta de atingir 8 milhões de receita em 2026, com crescimento de 50%.",
+        "topicId": "695c107c623eee0013ebe811"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe827",
+        "timestamp": 4191,
+        "text": "Felipe aposta em eventos e novos produtos financeiros para impulsionar receita e engajamento.",
+        "topicId": "695c107c623eee0013ebe811"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe828",
+        "timestamp": 4275,
+        "text": "Estratégia de crescimento focará em eventos, comunicação, jornada de embaixadores e expansão de corretores.",
+        "topicId": "695c107c623eee0013ebe811"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe829",
+        "timestamp": 4349,
+        "text": "Decisão de avaliar criteriosamente a entrada em novas cidades, garantindo crescimento nas praças atuais.",
+        "topicId": "695c107c623eee0013ebe811"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82e",
+        "timestamp": 4647,
+        "text": "Diego sugere parceria agnóstica com CV, propondo negociação flexível",
+        "topicId": "695c107c623eee0013ebe813"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe82f",
+        "timestamp": 4709,
+        "text": "Felipe revela que taxas de antecipação variam de 6 a 8% ao mês",
+        "topicId": "695c107c623eee0013ebe813"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe830",
+        "timestamp": 4790,
+        "text": "Diego planeja convidar CV para evento ou workshop, sem priorização imediata",
+        "topicId": "695c107c623eee0013ebe813"
+      },
+      {
+        "segmentId": "695c107c623eee0013ebe81e",
+        "timestamp": 4831,
+        "text": "Eduardo recomenda análise de programa de parceiros; Carolina solicita reunião complementar com Felipe e Eduardo.",
+        "topicId": "695c107c623eee0013ebe80f"
+      }
+    ],
+    "markdownContent": null,
+    "topics": [
+      {
+        "id": "695c107c623eee0013ebe80f",
+        "order": 1,
+        "title": "Ações Imediatas e Compromissos Definidos",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe810",
+        "order": 2,
+        "title": "Reestruturação da Área Comercial",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe811",
+        "order": 3,
+        "title": "Estratégia de Crescimento e Receita",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe812",
+        "order": 4,
+        "title": "Vendas e CRM",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe813",
+        "order": 5,
+        "title": "Parcerias e Taxas Financeiras",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe814",
+        "order": 6,
+        "title": "Eventos e Encontros",
+        "summary": ""
+      },
+      {
+        "id": "695c107c623eee0013ebe815",
+        "order": 7,
+        "title": "Gestão de Contas e Atendimento",
+        "summary": ""
+      }
+    ]
+  },
+  "notes_summary": {
+    "note_count": 33,
+    "topic_count": 7,
+    "has_markdown": false
+  },
+  "notes_unavailable_reason": null,
+  "topics": [
+    {
+      "id": "695c107c623eee0013ebe80f",
+      "order": 1,
+      "title": "Ações Imediatas e Compromissos Definidos",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe810",
+      "order": 2,
+      "title": "Reestruturação da Área Comercial",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe811",
+      "order": 3,
+      "title": "Estratégia de Crescimento e Receita",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe812",
+      "order": 4,
+      "title": "Vendas e CRM",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe813",
+      "order": 5,
+      "title": "Parcerias e Taxas Financeiras",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe814",
+      "order": 6,
+      "title": "Eventos e Encontros",
+      "summary": ""
+    },
+    {
+      "id": "695c107c623eee0013ebe815",
+      "order": 7,
+      "title": "Gestão de Contas e Atendimento",
+      "summary": ""
+    }
+  ],
+  "collected_at": "2026-04-06T23:50:20.677241+00:00",
+  "meeting_saved_at": null,
+  "_schema_version": "1.0",
+  "_enriched_at": "2026-04-06T23:50:20.677241+00:00"
+}
