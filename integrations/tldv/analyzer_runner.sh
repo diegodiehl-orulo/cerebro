@@ -12,7 +12,7 @@ export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
 export PYTHONPATH="/root/.openclaw/workspace/integrations"
 ANALYZER="/root/.openclaw/workspace/integrations/tldv/analyzer.py"
 LEDGER="/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json"
-PENDING_FILE="/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending.json"
+PENDING_FILE="/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending_2026.json"
 ANALYSIS_DIR="/root/.openclaw/workspace/memory/meetings/analysis"
 LOG="/root/.openclaw/workspace/logs/tldv_analyzer_runner.log"
 
@@ -38,7 +38,7 @@ if analyzed_file.exists():
     with open(analyzed_file) as f:
         analyzed = set(json.load(f).get("analyzed", []))
 
-pending_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending.json")
+pending_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending_2026.json")
 pending_ids = []
 if pending_file.exists():
     all_pending = json.loads(pending_file.read_text())
@@ -120,7 +120,7 @@ for mid in $IDS; do
 
     log "[$count/$TOTAL_PENDING] Processando $mid..."
 
-    output=$(timeout 150 python3 "$ANALYZER" --meeting-id "$mid" 2>&1)
+    output=$(timeout 600 python3 "$ANALYZER" --meeting-id "$mid" 2>&1)
     rc=$?
 
     if echo "$output" | grep -q "\[OK\]"; then
@@ -149,7 +149,7 @@ for mid in $IDS; do
     fi
 
     # Pausa entre chamadas (rate limit)
-    sleep 3
+    sleep 5
 
 done
 

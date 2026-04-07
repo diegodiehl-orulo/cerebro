@@ -1,0 +1,40 @@
+[2026-04-06T23:17:33] Processando 2 análises...
+[2026-04-06T23:17:33] Novos itens únicos: 26 (dedup: -20 duplicatas filtradas)
+[2026-04-06T23:17:33] DRY RUN — nada escrito.
+[2026-04-06T23:17:33]   [decision] 5 itens novos
+[2026-04-06T23:17:33]   [lesson] 2 itens novos
+[2026-04-06T23:17:33]   [pending] 10 itens novos
+[2026-04-06T23:17:33]   [risk] 4 itens novos
+[2026-04-06T23:17:33]   [context] 5 itens novos
+[2026-04-06T23:17:42] Processando 2 análises...
+[2026-04-06T23:17:42] Novos itens únicos: 26 (dedup: -20 duplicatas filtradas)
+[2026-04-06T23:17:42] DRY RUN — nada escrito.
+[2026-04-06T23:17:42]   [decision] 5 itens novos
+[2026-04-06T23:17:42]   [lesson] 2 itens novos
+[2026-04-06T23:17:42]   [pending] 10 itens novos
+[2026-04-06T23:17:42]   [risk] 4 itens novos
+[2026-04-06T23:17:42]   [context] 5 itens novos
+[2026-04-06T23:18:12] Processando 2 análises...
+[2026-04-06T23:18:12] Novos itens únicos: 26 (dedup: -20 duplicatas filtradas)
+[2026-04-06T23:18:12]   [decision] 5 escritos em decisions.md
+[2026-04-06T23:18:12]   [lesson] 2 escritos em lessons.md
+[2026-04-06T23:18:12]   [pending] 10 escritos em pending.md
+[2026-04-06T23:18:12]   [risk] 4 escritos em risks.md
+[2026-04-06T23:18:12]   [context] 5 escritos em commercial_context.md
+[2026-04-06T23:18:12]   Patch gerado: 20260406_231812_decision.md
+[2026-04-06T23:18:12]   Patch gerado: 20260406_231812_lesson.md
+[2026-04-06T23:18:12]   Patch gerado: 20260406_231812_pending.md
+[2026-04-06T23:18:12]   Patch gerado: 20260406_231812_risk.md
+[2026-04-06T23:18:12]   Patch gerado: 20260406_231812_context.md
+[2026-04-06T23:18:12] Persister finalizado. Total escrito: 26 | Total no ledger: 2 | Dedup: 0
+[2026-04-06T23:20:20] Processando 2 análises...
+[2026-04-06T23:20:20] Novos itens únicos: 0 (dedup: 6 duplicatas filtradas)
+[2026-04-06T23:20:20] Persister finalizado. Total escrito: 0 | Total no ledger: 2 | Dedup: 0
+[2026-04-06T23:20:32] Processando 2 análises...
+[2026-04-06T23:20:32] Novos itens únicos: 26 (dedup: -20 duplicatas filtradas)
+[2026-04-06T23:20:32]   [PATCH] decision: 5 → 20260406_232032_decision.md
+[2026-04-06T23:20:32]   [PATCH] lesson: 2 → 20260406_232032_lesson.md
+[2026-04-06T23:20:32]   [PATCH] pending: 10 → 20260406_232032_pending.md
+[2026-04-06T23:20:32]   [PATCH] risk: 4 → 20260406_232032_risk.md
+[2026-04-06T23:20:32]   [PATCH] context: 5 → 20260406_232032_context.md
+[2026-04-06T23:20:32] Persister finalizado. Total escrito: 0 | Total no ledger: 2 | Dedup: 16

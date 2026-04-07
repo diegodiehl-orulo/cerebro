@@ -85,3 +85,5 @@
 ---
 
 *Arquivadas em 28/03/2026 (Onda 1 — Otimização de Sistema): sessões de 05/03 a 16/03. Ver: archive/lessons_antigas_0305-0316.md*
+- Evitar: Sem documentação das técnicas, conhecimento fica preso no Diego e não escala para o time — [6690232be5ccd900129d3e25](/2024-07) | Tipo: operational
+- Evitar: Reunião de diretoria sem registro — histórico institucional incompleto — [669563a15e431f001476e56d](/2024-07) | Tipo: operational

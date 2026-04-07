@@ -1,0 +1,249 @@
+{
+  "meeting_id": "6979fa4507a27300130c12b7",
+  "name": "Treinamento Comercial",
+  "happened_at": "2026-01-28T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T03:28:29.202016+00:00",
+  "executive_summary": "Reuniao de treinamento comercial com time completo. Luiz Zanella treinou equipe sobre abordagem a corretores, uso de inteligencia para identificar oportunidades, diferenciação da plataforma e objeções comuns. Gustavo abriu card no Skydes para rastreabilidade. João Luther King fechou como validacao de contato comercial.",
+  "context": {
+    "purpose": "Treinamento comercial do time com foco em estrategia de abordagem a corretores, uso da plataforma e manejo de objeções.",
+    "main_agenda_items": [
+      "Estrategia de abordagem a corretores",
+      "Integração com CRM e portais inmobiliários",
+      "Diferenciacao da plataforma",
+      "Inteligencia de mercado e análise competitiva",
+      "Objeções comuns e respostas",
+      "Valor e posicionamento"
+    ],
+    "participants_and_roles": {
+      "Pedro Ruza Kneip Navarro": "CEO/sócio - organizou treinamento",
+      "Diego Diehl": "diretor comercial",
+      "Luiz Gustavo Zanella": "instrutor - treinamento prático",
+      "Gustavo Torres": "coordenador comercial",
+      "João Vitor Portes da Silva": "BDR/closer",
+      "Mirla Menezes": "BDR",
+      "Jade Rosa": "BDR",
+      "Ester Elisa de Souza Rodrigues": "comunicacao com corretores",
+      "Elizangela Fernandes Borges": "time comercial"
+    },
+    "meeting_type": "internal",
+    "notes_limitation": null,
+    "duration_minutes": 55.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Gustavo abrir card de agendamento no Skydes para rastreabilidade de negociacoes",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Luiz revisar WhatsApp conforme solicitado por Mirla após término da reunião",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Luiz revisar WhatsApp conforme solicitado por Mirla",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "apos reunião",
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Coordenador de plataforma formalizar lista de corretores com atividade recente para abordagem",
+      "owner": "coordenador de plataforma",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "notes",
+      "blocking_factor": "Lista ainda nao formalizada"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Separar lista de 20 corretores com última atividade inferior a 24 horas para contato direto",
+      "owner": "time comercial",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Manter tabela sempre atualizada para evitar que corretor visualize preços incorretos",
+      "owner": "Incorporadora/cliente",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Incorporadora designar responsável para abordar 5 corretores diários durante 30 minutos",
+      "owner": "Incorporadora/cliente",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Conversar com corretores que já utilizam a plataforma para entender percepção e necessidades",
+      "owner": "time comercial",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo abrir card de agendamento no Skydes para rastreabilidade",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "confirmed",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como garantir que o coordinator de plataforma está dando suporte adequado ao corretor e não compromete a relação?",
+      "context": "Luiz contou caso de corretor que abandonou produto porque coordenador não enviou tabela. Relação corretor-Incorporadora depende de suporte adequado.",
+      "answer_required_by": null,
+      "owner": "time comercial"
+    },
+    {
+      "id": "Q2",
+      "question": "Quantos corretores o time de cada praça está abordando semanalmente? Existe meta?",
+      "context": "Luiz mencionou separar 5 corretores por dia mas não ficou claro se há meta estruturada para todo o time.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Corretor pode abandonar producto se tabela estiver desatualizada - gera frustração no cliente final",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Atualização de tabela deve ser prioridade da Incorporadora. Time deve reforçar importancia na abordagem.",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Se corretor não gosta do coordenador de plataforma, ele não oferece o producto - impacto direto em vendas",
+      "type": "relationship",
+      "severity": "high",
+      "mitigation": "Priorizar relacionamento com corretor. Coordenador deve dar suporte proativo e ágil.",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Rastreabilidade de negociacoes ainda está precária - necessidade de usar Skydes para tracking",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Gustavo abrir card de agendamento no Skydes. Demais membros devem aderir ao processo.",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Inteligência que identifica corretores que acessaram concorrentes mas não acessaram a Incorporadora - oportunidade de abordagem direta via WhatsApp",
+      "potential_impact": "high",
+      "owner": "Luiz Gustavo Zanella",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Case Leila Morati: 12 vendas em 1 mês através de corretores da plataforma - proof of concept para vender valor",
+      "potential_impact": "high",
+      "owner": "time comercial",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Plaenge fechou contrato após argumento de entrega para mais de 500 sites - diferencial de integração com 460 CRMs",
+      "potential_impact": "medium",
+      "owner": "time comercial",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Documentar script de objeções e respostas treinado na reunião como playbook de treinamento para novos membros",
+      "destination": "Drive - pasta WS1 ou treinamento",
+      "priority": "high",
+      "reason": "Script covering objections like 'já tenho CRM', 'já tenho site', 'não gerou venda' is valuable asset for onboarding and consistency."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "João Luther King fechou como validacao de contato comercial - taxa de conversão mais rápida que média. Mirla celebrou. Diego também esteve presente.",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Diferença clave: Órulo não é portal de busca (como Viva Real) - é ferramenta estratégica com comissao atualizada, rastreabilidade via CRM e integração com 460 CRMs. Corretor pesquisa primeiro no CRM da imobiliária antes de consultar portais.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "3 pilares da plataforma: acesso a corretores + integração CRM + dados de mercado. Não é só listagem - é audiência qualificada.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Gustavo abriu card no Skydes para rastreabilidade de negociacoes - processo de melhoria de tracking do time comercial.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Luiz Zanella treinou time: separar 20 corretores com atividade <24h para abordagem pessoal via WhatsApp. Coordenador formaliza lista. Foco em relacionamento - corretor precisa gostar da Incorporadora, não do coordenador.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Implementar processo de separação de 20 corretores com atividade <24h para abordagem direta. Usar inteligência de plataforma para identificar corretores que acessaram concorrentes mas não a Incorporadora. Manter tabela atualizada como responsabilidade prioritária.",
+    "owner": "Gustavo Torres / time comercial",
+    "deadline": null,
+    "reason": "Processo estruturado de abordagem a corretores com rastreabilidade é a principal alavanca de conversão demonstrada no treinamento."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript termina antes do final - conteudo sobre Z2A, CRI e outros módulos do treinamento pode nao ter sido capturado",
+      "Dados quantitativos de meta de abordagem semanal nao ficaram claros"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Acao",
+    "Estrategia de Abordagem a Corretores",
+    "Integracao com CRM e Portais Imobiliarios",
+    "Diferenciacao da Plataforma",
+    "Inteligencia de Mercado e Analise Competitiva",
+    "Recursos e Funcionalidades da Plataforma",
+    "Objecoes Comuns e Respostas",
+    "Valor e Posicionamento",
+    "Casos de Sucesso"
+  ]
+}
