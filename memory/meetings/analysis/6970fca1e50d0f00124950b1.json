@@ -1,0 +1,319 @@
+{
+  "meeting_id": "6970fca1e50d0f00124950b1",
+  "name": "Vanessa/Otimatec Engenharia: (São Paulo-SP) <> Órulo",
+  "happened_at": "2026-01-21T16:20:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:36:35.423643+00:00",
+  "executive_summary": "Pitch para Otimatec (construtora Guarulhos, primeiro lançamento em SP Norte). Lançamento dez/2025: 6 vendas, zero visitas. Oferta: R$655/mês por 2 empreendimentos. Próxima: semana de visitas em 05/02.",
+  "context": {
+    "purpose": "Pitch comercial da plataforma Órulo para Otimatec Engenharia — construtora de Guarulhos Lanzando primeiro empreendimento em São Paulo região norte",
+    "main_agenda_items": [
+      "Apresentação da plataforma e funcionalidades",
+      "Modelo de precificação",
+      "Situação atual de Otimatec",
+      "Estratégia de otimização",
+      "Integração e canais de distribuição"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e apresentador",
+      "Luiz Gustavo Zanella (Zanella)": "Sócio-Local Curitiba — participante",
+      "Elizangela Fernandes Borges (Vanessa)": "representante Otimatec",
+      "Vanessa": "representante Otimatec"
+    },
+    "meeting_type": "client",
+    "notes_limitation": null,
+    "duration_minutes": 19.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego agendar semana de visitas em imobiliárias para 5 de fevereiro",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Diego enviar informações de precificação e material sobre destaque para Otimatec",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "João Diego (especialista) entrar em contato com Otimatec para trocar ideias sobre estratégia",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Otimatec enviar material dos empreendimentos para cadastro rápido na plataforma",
+      "decision_maker": "Elizangela Fernandes Borges",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Otimatec pagará valor mínimo de R$ 655 para dois empreendimentos conforme negociado",
+      "decision_maker": "Elizangela Fernandes Borges",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Otimatec fornecer dados para faturamento: e-mail, data vencimento, forma pagamento, assinante e CNPJ",
+      "decision_maker": "Elizangela Fernandes Borges",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego enviar informações de precificação e material sobre destaque para Otimatec",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "João Diego (especialista) contactar Otimatec para estratégia",
+      "owner": "João Diego",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Otimatec enviar material dos empreendimentos para cadastro",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego agendar semana de visitas em imobiliárias para 05/02",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-05T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O5",
+      "description": "Otimatec enviar dados de faturamento (e-mail, vencimento, CNPJ, etc.)",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego enviar precificação + material destaque para Otimatec",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "João Diego contactar Otimatec para alinhamento estratégico",
+      "owner": "João Diego",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Otimatec enviar material dos empreendimentos",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego agendar semana de visitas em imobiliárias (05/02)",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-05T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T5",
+      "description": "Otimatec enviar dados de faturamento",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Otimatec vai efetivamente contratar a plataforma ou é interesse preliminar?",
+      "context": "Reunião de 19.8 min com apresentação de funcionalidades. Negociação de preço iniciada. Mas não houve close explícito.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Elizangela Fernandes Borges"
+    },
+    {
+      "id": "Q2",
+      "question": "Semana de visitas em 05/02 vai gerar visitas reais e fechamento?",
+      "context": "Lançamento dez/2025 teve 6 vendas e zero visitas. Sem movimento de corretores, Otimatec não renova contrato.",
+      "answer_required_by": "2026-02-12T23:59:00.000Z",
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Otimatec vai conseguir cadastrar e atualizar estoque no aplicativo para ranquear?",
+      "context": "Diego recomendou atualização frequente de estoque. Se não fizer, produto não ranqueia mesmo com pagamento.",
+      "answer_required_by": null,
+      "owner": "Elizangela Fernandes Borges"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Lançamento dez/2025 com apenas 6 vendas e zero visitas — Otimatec pode não ver ROI se visitas não começarem",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Semana de visitas em 05/02 é crítica. Se não gerar resultados, cliente perde confiança rapidamente.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Contrato ainda não formalizado — Otimatec precisa enviar dados de faturamento",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Diego enviar material催促. Reforçar urgência de envio de dados.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Otimatec paga R$655 por 2 empreendimentos — valor mínimo pode não cobrir custo deCS",
+      "type": "financial",
+      "severity": "low",
+      "mitigation": "Avaliar se volume justifica operação. Monitoring de engajamento.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Otimatec como cliente inicial em São Paulo região norte — pode abrir mercado na área",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Integração gratuita com Google + distribuição em 1000+ sites e portais — valor claro para cliente",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "João Diego (especialista) pode adviser estratégia de lançamento — diferenții competițional",
+      "potential_impact": "medium",
+      "owner": "João Diego + Otimatec",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Dashboard de corretores mais ativos por região — assertividade na abordagem",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Otimatec Engenharia — construtora Guarulhos, primeiro lançamento em SP Norte (dez/2025). 6 vendas, zero visitas. Interessada em corretores.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Cliente potencial com problema claro (sem visits) e necessidade de corretores. Acompanhamento crítico."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Preço acordado R$655/mês por 2 empreendimentos. Contrato anual. Cadastro 4-5 dias.",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Parametriza todo o commercial deal. Precisa constar em CRM."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Otimatec Engenharia — construtora Guarulhos. Primeiro lançamento SP Norte em dez/2025. 6 vendas, zero visitas. Prioridade: corretores.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Contrato: R$655/mês por 2 empreendimentos. Mais R$300 por empreendimento adicional. IPCA anual. Contrato anual.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Próxima: semana de visitas em 05/02. João Diego contactar Otimatec para estratégia.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "10 imobiliárias já integradas com plataforma. Google gratis. 1000+ sites e portais. Viva Real, Zap, Chaves.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M5",
+      "memory": "SP = 75% da base da plataforma. 100 mil corretores acessando.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego enviar material de precificação + destaque para Otimatec urgentemente. Confirmar 05/02 para visitas. João Diego agendar contacto. Sem essas ações, oportunidade esfria.",
+    "owner": "Diego Diehl + João Diego + Elizangela Fernandes Borges",
+    "deadline": "2026-01-28T23:59:00.000Z",
+    "reason": "Otimatec sem visitas em 1.5 meses do lançamento. Se semana de 05/02 não acontecer, likelihood de fechar contrato cai significativamente."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Otimatec efetivamente fechou contrato",
+      "Se semana de visitas aconteceu em 05/02",
+      "Quem é a Vanessa (parece ser Juliana mencionado no transcript)",
+      "Se Otimatec enviou dados de faturamento",
+      "Quantos empreendimentos Otimatec tem emGP (foram mencionados 6)"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas",
+    "Solução e Funcionalidades Principais",
+    "Modelo de Precificação",
+    "Situação Atual de Otimatec",
+    "Dicas de Otimização",
+    "Integração e Canais de Distribuição"
+  ]
+}

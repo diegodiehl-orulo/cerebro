@@ -1,0 +1,339 @@
+{
+  "meeting_id": "699f46b285c6ba0013e889b6",
+  "name": "Gustavo / Diego",
+  "happened_at": "2026-02-25T19:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:17:04.570614+00:00",
+  "executive_summary": "Alinhamento semanal Gustavo + Diego. Luan inicia segunda empolgado \u2014 Gustavo prepara trilha primeira semana. Convers\u00e3o atual 14% com 74 reuni\u00f5es gerando ~10 vendas. Ticket m\u00e9dio atual R$ 655, meta R$ 700. Plano 30/60/90 dias focado em estrutura\u00e7\u00e3o do funil closer e CRM. Gustavo: aproximar-se mais dos closers e entender processo de fechamento. Paloma para organizar CRM.",
+  "context": {
+    "purpose": "Reuni\u00e3o semanal entre Diego e Gustavo \u2014 alinhamento sobre Luan, m\u00e9tricas, plano 30/60/90 dias e proximidade com closers",
+    "main_agenda_items": [
+      "Onboarding de Luan \u2014 trilha e start na segunda",
+      "M\u00e9tricas atuais: convers\u00e3o 14%, ticket m\u00e9dio R$ 655",
+      "Plano 30/60/90 dias \u2014 estrutura\u00e7\u00e3o do funil closer e CRM",
+      "Proximidade de Gustavo com os closers",
+      "Gest\u00e3o de pipeline e reorganiza\u00e7\u00e3o do CRM",
+      "Entrevista de candidato a closer"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial \u2014 l\u00edder",
+      "Gustavo Torres": "Coordenador Comercial \u2014 foco da reuni\u00e3o"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 71.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Luan inicia segunda-feira (02/03) empolgado \u2014 Gustavo preparar trilha primeira semana",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Gustavo compartilhar trilha de onboarding de Luan at\u00e9 final do dia",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Plano 30 dias: estrutura\u00e7\u00e3o do funil do closer e CRM",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Gustavo se aproximar mais dos closers e entender processo de fechamento",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Gustavo assistir entrevista do candidato a closer e dar feedback para Diego",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Gustavo atualizar documento estrat\u00e9gico com convers\u00e3o de 14% e valores atualizados",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Diego e Gustavo envolver Paloma para organizar CRM com demandas claras",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Gustavo compartilhar trilha de onboarding de Luan",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-02-25T23:59:00.000Z",
+      "status": "open",
+      "source": "both",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Gustavo assistir entrevista do candidato a closer e dar feedback",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Gustavo enviar documento de reestrutura\u00e7\u00e3o do funil para Jo\u00e3o e Naipe",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Gustavo reativar motivos de perda no CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo limpar CRM e reorganizar cards de negocia\u00e7\u00f5es em aberto",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O6",
+      "description": "Diego e Gustavo definir melibatkan Paloma para organizar CRM",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gustavo compartilhar trilha de onboarding de Luan at\u00e9 final do dia",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-02-25T23:59:00.000Z",
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Gustavo assistir entrevista do candidato a closer e dar feedback para Diego",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Gustavo preparar trilha conte\u00fado para primeira semana de Luan",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-03-02T23:59:00.000Z",
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo atualizar documento estrat\u00e9gico com convers\u00e3o 14%",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo reativar motivos de perda no CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Diego e Gustavo envolvem Paloma para organizar CRM",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Gustavo enviar documento reestrutura\u00e7\u00e3o funil para Jo\u00e3o e Naipe",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual \u00e9 o plano de 30/60/90 dias detalhado de Gustavo?",
+      "context": "Gustavo mencionou o plano mas n\u00e3o apresentou detalhes concretos. Diego pediu para olhar o documento. Sem o plano detalhado, n\u00e3o h\u00e1 como acompanhar execu\u00e7\u00e3o.",
+      "answer_required_by": "2026-03-01T23:59:00.000Z",
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q2",
+      "question": "Como aumentar ticket m\u00e9dio de R$ 655 para R$ 700?",
+      "context": "Diego fechou R$ 786 em 2025. Ticket atual R$ 655 est\u00e1 abaixo. Quais tactics v\u00e3o aumentar ticket sem reduzir convers\u00e3o?",
+      "answer_required_by": "2026-03-15T23:59:00.000Z",
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Gustavo n\u00e3o est\u00e1 suficientemente pr\u00f3ximo dos closers \u2014 dificuldade em entender processo de fechamento",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Plano 30 dias focado em aproxima\u00e7\u00e3o e atua\u00e7\u00e3o como closer \u2014 mas requiere disciplina",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Cards com respons\u00e1vel errado no CRM (ex: Marquise com Mila em vez de Jo\u00e3o)",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Gustavo limpar e reorganizar CRM \u2014 a\u00e7\u00e3o j\u00e1 acordada",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Convers\u00e3o de 14% pode ser insuficiente para atingir metas de crescimento",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Focar em incorporadoras maiores com novos elementos de usabilidade \u2014 mudan\u00e7a de foco acordada",
+      "source": "both"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Luan chega empolgado na segunda \u2014 oportunidade detrein\u00e1-lo bem desde o in\u00edcio com trilha estruturada",
+      "potential_impact": "high",
+      "owner": "Gustavo Torres",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Focar em incorporadoras maiores com novos elementos de usabilidade pode aumentar ticket m\u00e9dio",
+      "potential_impact": "high",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Paloma organizando CRM pode dar visibilidade nova para tomada de decis\u00e3o",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar m\u00e9tricas atuais: convers\u00e3o 14%, 74 reuni\u00f5es, ~10 vendas, ticket m\u00e9dio R$ 655",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Baseline para acompanhamento trimestral \u2014 saber de onde est\u00e1 saindo"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar decis\u00e3o: closer n\u00e3o pode ser apresentador gen\u00e9rico \u2014 tem que conectar solu\u00e7\u00e3o com realidade da incorporadora",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Princ\u00edpio estrat\u00e9gico validado na conversa \u2014 repetir para todo time comercial"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Luan inicia segunda (02/03) muito empolgado. Gustavo preparando trilha primeira semana.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "M\u00e9tricas: convers\u00e3o 14%, 74 reuni\u00f5es \u2192 ~10 vendas, ticket m\u00e9dio R$ 655. Diego fechou R$ 786 em 2025.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Plano 30 dias: estrutura\u00e7\u00e3o funil closer + CRM. Gustavo se aproximar mais dos closers.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Princ\u00edpio: closer n\u00e3o pode ser apresentador gen\u00e9rico \u2014 tem que entender contexto da incorporadora para reverberar na dor dela.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Cada closer/BDR deve vender pelo menos seu custo operacional mensal \u2014 meta de cobertura.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Gustavo compartilhar trilha de onboarding de Luan + assistir entrevista do candidato a closer",
+    "owner": "Gustavo Torres",
+    "deadline": "2026-02-25T23:59:00.000Z",
+    "reason": "Trilha \u00e9 bloqueadora para in\u00edcio de Luan na segunda. Feedback do candidato \u00e9 bloqueador para decis\u00e3o de contrata\u00e7\u00e3o."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Plano 30/60/90 dias detalhado n\u00e3o foi apresentado em detalhes no transcript",
+      "Naipe e Jo\u00e3o n\u00e3o tiveram pap\u00e9\u660e\u786eado no transcript",
+      "Candidatura de closer: nome do candidato e resultado da entrevista n\u00e3o mencionados"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de A\u00e7\u00e3o",
+    "Onboarding e Desenvolvimento de Luan",
+    "Estrat\u00e9gia de Convers\u00e3o e Ticket M\u00e9dio",
+    "Plano de 30, 60 e 90 Dias",
+    "Gest\u00e3o de Pipeline e CRM",
+    "Desenvolvimento de Gustavo como L\u00edder",
+    "Indicadores e M\u00e9tricas",
+    "Estrutura e Processo de Vendas",
+    "Pr\u00f3ximas Reuni\u00f5es"
+  ]
+}

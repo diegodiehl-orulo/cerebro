@@ -1,0 +1,347 @@
+{
+  "meeting_id": "69a8812d22b1f60013518707",
+  "name": "Ramiro Sinduscon Litoral / Felipe Órulo",
+  "happened_at": "2026-03-04T19:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:29:45.545308+00:00",
+  "executive_summary": "Panorama Litoral 04/03: parceria Sinduscon + Alfaplan + Órulo. Ramiro domina Capão/Vertical (70 edifícios, 1.500 unidades, VGV R$2,1bi). Evento 14/05 confirmado. Ramiro elected presidente Sinduscon posse 04/05.",
+  "context": {
+    "purpose": "Alinhamento estratégico sobre expansão do Panorama para o litoral — parceria Sinduscon, dados de mercado e evento de 14 de maio",
+    "main_agenda_items": [
+      "Evento Panorama Litoral 14/05",
+      "Panorama e dados do mercado",
+      "Base de dados do litoral",
+      "Contexto histórico do projeto",
+      "Eleições Sinduscon"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Diretor Produtos Financeiros — responsável pela parceria Panorama",
+      "Diego Diehl": "Diretor Comercial",
+      "Ramiro Laurent": "Presidente Sinduscon — domínio do mercado de Capão e Vertical",
+      "Rafael Garcia": "Equipe Sinduscon/Alfaplan",
+      "Tiago Jung": "Alfaplan"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 31.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Evento Panorama Litoral confirmado para 14 de maio em formato similar ao de Porto Alegre",
+      "decision_maker": "Felipe Goettems + Ramiro Laurent",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Felipe enviar informações de unidades e VGV de Xangri-lá e Capão para Tiago e Rafael",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Ramiro enviar planilha com dados de 70 edifícios de Capão e Vertical para Felipe",
+      "decision_maker": "Ramiro Laurent",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Rafael enviar modelo de sondagem do mercado imobiliário para Ramiro avaliar aplicabilidade no litoral",
+      "decision_maker": "Rafael Garcia",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Felipe e Tiago elaborarem Panorama 2025 e primeiro trimestre 2026 consolidado para o litoral",
+      "decision_maker": "Felipe Goettems + Tiago Jung",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Rafael coordenar apresentações e formato do evento de 14 de maio com equipe",
+      "decision_maker": "Rafael Garcia",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Ramiro levantar patrocínio com fornecedores para cobrir custos do evento",
+      "decision_maker": "Ramiro Laurent",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Prefeito e secretario serão convidados para entender tamanho do mercado imobiliário",
+      "decision_maker": "Ramiro Laurent",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Ramiro validar base de dados de incorporadoras e empreendimentos do litoral",
+      "decision_maker": "Ramiro Laurent + Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Felipe enviar unidades e VGV de Xangri-lá e Capão para Tiago e Rafael",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Ramiro enviar planilha com 70 edifícios de Capão e Vertical",
+      "owner": "Ramiro Laurent",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Rafael enviar modelo de sondagem para Ramiro",
+      "owner": "Rafael Garcia",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Felipe e Tiago elaborarem Panorama 2025 + Q1 2026 consolidado",
+      "owner": "Felipe Goettems + Tiago Jung",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Rafael coordenar formato do evento de 14/05",
+      "owner": "Rafael Garcia",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Ramiro levantar patrocínio com fornecedores para evento",
+      "owner": "Ramiro Laurent",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Eleições Sinduscon em 16 de março",
+      "owner": "Ramiro Laurent",
+      "deadline": "2026-03-16T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Felipe: enviar unidades e VGV para Tiago e Rafael",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Ramiro: enviar planilha 70 edifícios Capão/Vertical",
+      "owner": "Ramiro Laurent",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Rafael: enviar modelo sondagem para Ramiro",
+      "owner": "Rafael Garcia",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Felipe + Tiago: Panorama 2025 + Q1 2026 consolidado",
+      "owner": "Felipe Goettems + Tiago Jung",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Rafael: coordenar formato evento 14/05",
+      "owner": "Rafael Garcia",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Ramiro: patrocínio fornecedores evento",
+      "owner": "Ramiro Laurent",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Panorama Litoral vai conseguir engajamento do mercado após falha em 2024?",
+      "context": "Tentativa anterior não evoluiu. Mercado precisa ver valor para participar.",
+      "answer_required_by": null,
+      "owner": "Felipe Goettems + Ramiro Laurent"
+    },
+    {
+      "id": "Q2",
+      "question": "Ramiro consegue levantar patrocínio suficiente para cobrir custos do evento?",
+      "context": "Se não cobrir custos, evento pode não acontecer ou gerar prejuízo.",
+      "answer_required_by": null,
+      "owner": "Ramiro Laurent"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Tentativa anterior de levar Panorama para litoral não evoluiu em 2024",
+      "type": "strategic",
+      "severity": "medium",
+      "mitigation": "Ramiro agora com posição de presidente Sinduscon dá mais força para execução.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Falta de engajamento anterior ocorreu durante período de férias de março",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Evento em maio evita férias. Formato descontraído com vinho pode aumentar adesão.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Ramiro domina mercado de Capão e Vertical — 70 edifícios, 1.500 unidades, VGV R$2,1 bilhões",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems + Ramiro Laurent",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "40 incorporadoras identificadas com unidades ativas na rua",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Prefeito e secretary querem entender tamanho do mercado — visibilidade para Órula",
+      "potential_impact": "medium",
+      "owner": "Ramiro Laurent",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Ramiro como presidente Sinduscon dá força institucional para o Panorama",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Panorama Litoral expandindo. Ramiro presidente Sinduscon posse 04/05. Evento 14/05. Dados: 70 edifícios Capão/Vertical, 1.500 unidades, VGV R$2,1bi.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Expansão de produto com dados concretos e evento confirmado."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Panorama: parceria Sinduscon + Alfaplan + Órulo rodando há 6 anos. Dados mensais de vendas e estoque de constructors.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Ramiro domina mercado Capão e Vertical: 70 edifícios, 1.500 unidades, VGV R$2,1 bilhões.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "40 incorporadoras com unidades ativas identificadas na região.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Evento Panorama Litoral 14/05 confirmado. Formato descontraído com vinho para ~100 pessoas.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Ramiro será eleito presidente Sinduscon. Posse 04/05. Eleições 16/03.",
+      "category": "project",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Felipe enviar unidades e VGV para Tiago e Rafael. Ramiro enviar planilha de 70 edifícios. Felipe + Tiago elaborarem Panorama 2025 + Q1 2026. Rafael coordenar formato evento 14/05.",
+    "owner": "Felipe Goettems + Ramiro Laurent + Rafael Garcia + Tiago Jung",
+    "deadline": null,
+    "reason": "Evento 14/05 exige preparação prévia. Dados de Ramiro são a base do projeto. Sem esses envios, Panorama Litoral não sai do papel."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Felipe enviou dados para Tiago e Rafael",
+      "Se Ramiro enviou planilha de 70 edifícios",
+      "Se Panorama Litoral foi elaborado",
+      "Se evento 14/05 aconteceu",
+      "Se elections Sinduscon 16/03 ocorreram",
+      "Se patrocínio foi levantado"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Evento Panorama Litoral",
+    "Panorama e Dados do Mercado",
+    "Base de Dados Litoral",
+    "Contexto Histórico do Projeto",
+    "Eleições Sinduscon"
+  ]
+}

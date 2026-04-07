@@ -1,0 +1,422 @@
+{
+  "meeting_id": "69ab191ceef3be0013324da1",
+  "name": "1:1 - Diego - Gustavo",
+  "happened_at": "2026-03-06T18:12:44.238Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:33:09.864310+00:00",
+  "executive_summary": "1:1 Diego-Gustavo 06/03: Time engajado e menos resistente. Jade desafiando positivamente. Gustavo focado topo funil demais. CRM precisa melhorar preenchimento. Evento Curitiba: 6 agendamentos, 3 reuniões. POA e Capão em abril.",
+  "context": {
+    "purpose": "One-on-one semanal entre Diego e Gustavo sobre desenvolvimento do time, gestão de projetos e estratégia de funil",
+    "main_agenda_items": [
+      "Desenvolvimento do time e engajamento",
+      "Estratégia de funil e geração de demanda",
+      "Governança e organização",
+      "Estratégia de eventos",
+      "Desenvolvimento de habilidades"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e mentor",
+      "Gustavo Torres": "Coordenador Comercial — responsável por CRM, eventos e time BDR"
+    },
+    "meeting_type": "one_on_one",
+    "notes_limitation": null,
+    "duration_minutes": 47.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Gustavo agendar reuniões com Luan para formação e execução de apresentações de Closer",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Gustavo estabelecer meta de duas reuniões de Closer por semana",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Gustavo杭周二和周五上午处理CRM e atualizar CRM",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Trabalhar base de Porto Alegre a partir do dia 15 com validação de contatos",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Gustavo baixar base de usuários de Incorporadora em POA com último acesso em janeiro",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Gustavo fazer disparo via Meta para convidar diretores e donos ao evento em POA",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Gustavo ligar para prospects de POA e Capão da Canoa para qualificar participação",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Limitar duas pessoas por Incorporadora no evento com presença obrigatória de gestão",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Fazer disparo em grupo com ligações simultâneas para aumentar taxa de conversão",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Gustavo杭做ligações junto com time para demonstrar na prática",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Gustavo杭limpar base de contatos desativados e pedir validação ao João",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Gustavo杭garantir que gerente de parcerias participe das primeiras reuniões com incorporadoras",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Gustavo杭posicionar projetos por dia da semana para melhor execução",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Gustavo: reuniões com Luan para formação de Closer",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Gustavo:杭周二和周五上午处理CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O3",
+      "description": "Trabalhar base POA a partir do dia 15",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-03-15T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O4",
+      "description": "Gustavo: baixar base usuários Incorporadora POA",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo: disparo Meta para evento POA",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Gustavo: ligações prospects POA e Capão",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Gustavo:杭ligações junto com time",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Gustavo: limpar base de contatos desativados",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "CRM: melhorar preenchimento de etapa do funil e dados de temperatura",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Time não preenche corretamente"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gustavo: reuniões com Luan",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Gustavo:杭周二周五 CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Gustavo:杭trabalhar base POA a partir 15",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-03-15T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo: ligação com time para demonstrar",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo: disparo Meta evento POA",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Gustavo: limpar base desativados + pedir validação João",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Gustavo vai conseguir equilibrar múltiplos projetos simultaneamente?",
+      "context": "Historicamente focado em topo do funil. Precisará杭posicionar projetos por dia para não perder foco.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q2",
+      "question": "CRM vai melhorar preenchimento de etapa e temperatura?",
+      "context": "Sem dados corretos, gestão de pipeline fica comprometido.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Gustavo estava muito focado no topo do funil e pouco no fundo",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Meta de 2 reuniões Closer/semana. CRM杭周二周五 atualizado.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "CRM precisa melhorar preenchimento de etapa do funil e dados de temperatura",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Gustavo杭cobrar preenchimento correto do time. Estabelecer rotina de validação.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Time sentindo que 'cada hora surge uma coisa nova' — risco de sobrecarga",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Gustavo杭posicionar projetos por dia da semana. Equilibrar sem gerar sensação de caos.",
+      "source": "both"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Time menos resistente a mudanças e abraçando nova cultura",
+      "potential_impact": "high",
+      "owner": "Gustavo Torres",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Jade desafiando processos e contribuindo positivamente",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "both"
+    },
+    {
+      "id": "OP3",
+      "description": "Mirla e BDRs bem engajadas e gerando bons resultados",
+      "potential_impact": "high",
+      "owner": "Gustavo Torres",
+      "source": "both"
+    },
+    {
+      "id": "OP4",
+      "description": "Evento Curitiba gerou 6 agendamentos com 3 reuniões já realizadas",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Luan dedicado, estudando e participando ativamente",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Time engajado. Jade desafiando positivamente. Gustavo equilibrando topo/fundo funil. CRM周二周五. Evento Curitiba: 6 agendamentos, 3 reuniões.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Desenvolvimento de Gustavo e gestão de time com métricas."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Time menos resistente a mudanças e abraçando nova cultura organizacional.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Jade desafiando processos e contribuindo positivamente para o time.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Mirla e BDRs bem engajadas e gerando bons resultados.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Gustavo focado demais no topo do funil, pouco no fundo. Equilibrar杭trabalhar fundo.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "CRM precisa melhorar preenchimento de etapa e dados de temperatura.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Luan dedicado, estudando e participando ativamente das atividades.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Evento Curitiba: 6 agendamentos, 3 reuniões já realizadas.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Gustavo杭posicionar projetos por dia da semana para melhor execução.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Gustavo杭agendar reuniões com Luan esta semana. Gustavo杭definir dia周二周五 para CRM. Gustavo杭trabalhar base POA a partir do dia 15. Gustavo杭fazer ligações junto com time para demonstrar na prática.",
+    "owner": "Gustavo Torres",
+    "deadline": "2026-03-15T23:59:00.000Z",
+    "reason": "Luan precisa de formação urgente em apresentação. CRM desatualizado prejudica gestão. POA é próxima praça prioritária para evento em abril."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Luan teve formação de Closer",
+      "Se CRM foi atualizado corretamente",
+      "Se ligações POA foram feitas",
+      "Se evento POA aconteceu em abril",
+      "Se time equilibrou projetos por dia",
+      "Se 2 reuniões Closer/semana foram atingidas"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Desenvolvimento do Time e Engajamento",
+    "Estratégia de Funil e Geração de Demanda",
+    "Governança e Organização",
+    "Estratégia de Eventos",
+    "Desenvolvimento de Habilidades"
+  ]
+}

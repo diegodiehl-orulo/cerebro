@@ -1,0 +1,452 @@
+{
+  "meeting_id": "698e071b1bcf5d0012a314f4",
+  "name": "Parceria Consultoria p/ Imobs",
+  "happened_at": "2026-02-12T17:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:32:49.234252+00:00",
+  "executive_summary": "Gisele Vilela oferecerá consultoria opcional de atualização de anúncios para imobiliárias (curadoria imagens, preços, descrições). Reação unânime: não querem pagar附加serviço. Modelo vai ser testado com 5-7 clientes médio porte. Curitiba identificada como mercado estratégico para exclusividades com rebate para Gisele.",
+  "context": {
+    "purpose": "Avaliar serviço de consultoria de enriquecimento de anúncios para imobiliárias e modelo de exclusividades em Curitiba",
+    "main_agenda_items": [
+      "Servicio de consultoria para imobiliárias",
+      "Parceria de exclusividades em Curitiba",
+      "Desafios de integração com CRMs (40 CRMs)",
+      "Resistência de imobiliárias a serviços adicionais",
+      "Suporte técnico e priorização"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador e director comercial",
+      "Bruno Zucchetti Rodrigues": "Parceiro comercial",
+      "Luiz Gustavo Zanella": "Sócio-Local Curitiba",
+      "Gisele Vilela": "Prestadora de serviço de consultoria"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 41.6
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Consultoria de enriquecimento de anúncios será opcional e cobrada separadamente da integração",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Serviço será testado com clientes de médio porte, não com plano mínimo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Diego e Bruno indicarão 5 a 7 clientes para Gisele testar serviço de consultoria",
+      "decision_maker": "Diego Diehl + Bruno Zucchetti Rodrigues",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Modelo de exclusividades em Curitiba: imobiliária coloca obra exclusiva na plataforma, plataforma divulga para mercado. Gisele recebe rebate por exclusividades captadas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Bruno entregar apresentação comercial atualizada com novos valores e fluxo após Carnaval",
+      "decision_maker": "Bruno Zucchetti Rodrigues",
+      "deadline": "2026-02-18T00:00:00.000Z",
+      "status": "open",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Bruno agendar treinamento com Gisele sobre integrações, catálogo e exclusividades após apresentação pronta",
+      "decision_maker": "Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript"
+    },
+    {
+      "id": "D7",
+      "description": "Gisele preparar documento detalhado com serviços oferecidos para imobiliárias e valores",
+      "decision_maker": "Gisele Vilela",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript"
+    },
+    {
+      "id": "D8",
+      "description": "Fernando é o responsável por reuniões de homologação com CRMs para validar consumo de dados",
+      "decision_maker": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Clientes de catálogo pago recebem prioridade no atendimento técnico sobre clientes de catálogo gratuito",
+      "decision_maker": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Bruno entregar apresentação comercial atualizada com novos valores e fluxo após Carnaval",
+      "owner": "Bruno Zucchetti Rodrigues",
+      "deadline": "2026-02-18T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": "após Carnaval — prazo elástico",
+      "source": "transcript"
+    },
+    {
+      "id": "O2",
+      "description": "Bruno agendar treinamento com Gisele sobre integrações, catálogo e exclusividades",
+      "owner": "Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "depende de apresentação pronta",
+      "source": "transcript"
+    },
+    {
+      "id": "O3",
+      "description": "Gisele preparar documento detalhado com serviços e valores de consultoria",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "precisa feedback de Bruno e Diego para definir preço",
+      "source": "transcript"
+    },
+    {
+      "id": "O4",
+      "description": "Gisele receber tabela com preços e funcionamento de exclusividades para contatar imobiliárias",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "tabela ainda não criada",
+      "source": "transcript"
+    },
+    {
+      "id": "O5",
+      "description": "Diego e Bruno selecionar 5-7 clientes de médio porte para testar consultoria",
+      "owner": "Diego Diehl + Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "ainda não definidos",
+      "source": "transcript"
+    },
+    {
+      "id": "O6",
+      "description": "Gisele definir preço do serviço de consultoria baseado em feedback do Bruno e Diego",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "sem dados de pricing",
+      "source": "transcript"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Bruno entregar apresentação comercial atualizada com novos valores e fluxo do delimitador após Carnaval",
+      "owner": "Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Bruno indicar 5-7 clientes de médio porte para Gisele testar consultoria",
+      "owner": "Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Diego indicar 5-7 clientes de médio porte para Gisele testar consultoria",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Bruno agendar treinamento com Gisele sobre integrações, catálogo e exclusividades",
+      "owner": "Bruno Zucchetti Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T5",
+      "description": "Gisele preparar documento detalhado com serviços oferecidos e valores para imobiliárias",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T6",
+      "description": "Gisele criar tabela com preços e funcionamento de exclusividades para contatar imobiliárias",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T7",
+      "description": "Gisele definir preço do serviço de consultoria",
+      "owner": "Gisele Vilela",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T8",
+      "description": "Fernando acompanhar mudanças nos 40 CRMs integrados (funcionalidades e preços)",
+      "owner": "Fernando",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Imobiliárias rejeitaram publicamente pagar por serviço adicional. Como Gisele vai convencer 5-7 clientes a pagar pelo piloto?",
+      "context": "Reação foi unânime: não querem pagar valor adicional por serviço. Se o modelo é opcional e pago, a adesão pode ser zero.",
+      "answer_required_by": null,
+      "owner": "Gisele Vilela"
+    },
+    {
+      "id": "Q2",
+      "question": "Quem são os 5-7 clientes de médio porte que Diego e Bruno vão indicar?",
+      "context": "Sem lista de clientes, o piloto não sai do papel. Precisa de ação concreta.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Bruno Zucchetti Rodrigues"
+    },
+    {
+      "id": "Q3",
+      "question": "Quando exatamente é o 'após Carnaval' do Bruno — qual é a data máxima para apresentação atualizada?",
+      "context": "Prazo 'após Carnaval' é vago. Carnaval 2026 é 17/02. Semana seguinte é 23/02. Need hard deadline.",
+      "answer_required_by": null,
+      "owner": "Bruno Zucchetti Rodrigues"
+    },
+    {
+      "id": "Q4",
+      "question": "Fernando está acompanhando 40 CRMs com mudanças frequentes. Ele tem capacidade para validar todos sem gargalo?",
+      "context": "Fernando faz reuniões de homologação sozinho. Equipe técnica são 4 pessoas para 11 estados. Risco de overload.",
+      "answer_required_by": null,
+      "owner": "Fernando"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Imobiliárias não querem pagar por serviço de consultoria adicional — rejeição unânime pode levar piloto a zero adesão",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Posicionar como valor agregado demonstrável, não como custo adicional. Acompanhar de perto primeiras conversas.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "40 CRMs integrados com funcionalidades e preços variáveis que mudam frequentemente — rastreabilidade difícil",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Fernando precisa de sistema de rastreamento de mudanças. Avaliar se todos os 40 CRMs são estratégicos.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Equipa técnica de apenas 4 pessoas para 11 estados e múltiplos CRMs — capacidade limitada",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Priorizar clientes de catálogo pago no suporte. Definir SLA realista.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Integração com CRMs subscreve dados personalizados (ex: configurações de fotos apagadas após atualização)",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Mapear quais CRMs subscrevem e avisar clientes sobre risco antes de customização",
+      "source": "transcript"
+    },
+    {
+      "id": "R5",
+      "description": "Modelo de exclusividades em Curitiba enfrenta resistência de mercado local",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Rebate para Gisele pode ser insuficiente para vencer resistência. Acompanhar feedback inicial",
+      "source": "notes"
+    },
+    {
+      "id": "R6",
+      "description": "CRM Loft não libera credenciais como outros — operação mais morosa, dependente de atualização de homologação",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Avaliar se Loft é estratégico frente ao custo operacional de integração",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Gisele pode criar canal YouTube com vídeos dos empreendimentos para incorporar no site das imobiliárias",
+      "potential_impact": "medium",
+      "owner": "Gisele Vilela",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Curitiba identificada como mercado com potencial para exclusividades — rebate para Gisele pode ativar parcerias",
+      "potential_impact": "high",
+      "owner": "Gisele Vilela + Luiz Gustavo Zanella",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Enriquecimento de anúncios (dados completos, imagens, descrições) diferencia plataforma e atrai investidores sérios",
+      "potential_impact": "medium",
+      "owner": "Gisele Vilela",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Fernando pode usar reunioes de homologação para criar rating de CRMs por funcionalidade e fiabilidade",
+      "potential_impact": "low",
+      "owner": "Fernando",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar que Gisele Vilela oferece consultoria opcional de atualização de anúncios para imobiliárias (curadoria imagens, preços, descrições). Teste com 5-7 clientes médio porte.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Novo parceiro de serviço identificado — perlu registry para acompanhamento"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar modelo de exclusividades: imobiliária coloca exclusividade na obra, plataforma divulga, Gisele recebe rebate por captação",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Novo modelo de negócio definido para Curitiba — perlu documentar para evitar mal-entendidos"
+    },
+    {
+      "id": "DS3",
+      "action": "Fernando é o DRI de homologação de CRMs. Mapa de 40 CRMs integrados com funcionalidades variáveis.",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Informação técnica importante para governança de integrações"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar que clientes catálogo pago têm prioridade no suporte técnico sobre gratuito",
+      "destination": "memory/decisions.md",
+      "priority": "medium",
+      "reason": "Regra de priorização de suporte definida — perlu estar acessível para equipe"
+    },
+    {
+      "id": "DS5",
+      "action": "Nota: Gisele mudou-se para Rio Negrinho SC, próximo a Curitiba. Mãe tem restaurante em fazenda-camping em SC.",
+      "destination": "memory/people.md",
+      "priority": "low",
+      "reason": "Contexto pessoal pode ser relevante para logisticad de reuniões presenciais"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Gisele Vilela é parceira de consultoria para imobiliárias: curadoria de imagens, atualização de preços/tabelas/descrições. Serviço opcional e pago separado da integração. Teste com 5-7 clientes médio porte.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Gisele Vilela mora em Rio Negrinho SC, próximo a Curitiba. Mãe tem restaurante em fazenda camping em SC.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Modelo exclusividades: imobiliária coloca exclusividade na obra, plataforma divulga. Gisele recebe rebate por cada exclusividade captada.",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Fernando é responsável por reuniões de homologação com CRMs (40 integrados). Equipe técnica: 4 pessoas para 11 estados.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Clientes de catálogo pago recebem prioridade no atendimento técnico sobre clientes de catálogo gratuito",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Imobiliárias não querem pagar por consultoria adicional — reação unânime. Modelo vai ser testado com clientes médio porte.",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "CRM Loft é operação mais morosa (não libera credenciais como outros) — dependente de atualização de homologação",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M8",
+      "memory": "Bruno Zucchetti Rodrigues: apresentar novos valores e fluxo do delimitador após Carnaval",
+      "category": "decision",
+      "confidence": "likely"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego e Bruno devem definir lista de 5-7 clientes de médio porte para testar consultoria Gisele. Sem essa lista, piloto não sai.",
+    "owner": "Diego Diehl + Bruno Zucchetti Rodrigues",
+    "deadline": "2026-04-10T00:00:00.000Z",
+    "reason": "Maior risco: imobiliárias rejeitaram pagar pelo serviço. Piloto precisa começar com clientes selecionados antes de escalar. Prioridade nos próximos 3 dias úteis."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Transcript truncado — última seção (após 2432s) sem correspondência no transcript",
+      "Prazo 'após Carnaval' para apresentação Bruno é vago — não há datahard",
+      "Rebate exato para Gisele por exclusividade não foi definido com valor",
+      "Quem é Fernando completo (papel e contato) não totalmente documentado",
+      "Gisele não estava na lista de participantes oficiais do meeting — apenas no transcript",
+      "Luiz Gustavo Zanella aparece como participante mas não tem falas registradas no transcript"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Serviço de Consultoria para Imobiliárias",
+    "Parceria de Exclusividades em Curitiba",
+    "Desafios de Integração com CRMs",
+    "Resistência de Imobiliárias a Serviços Adicionais",
+    "Informações Incompletas em Anúncios",
+    "Suporte Técnico e Priorização",
+    "Informações Pessoais"
+  ]
+}

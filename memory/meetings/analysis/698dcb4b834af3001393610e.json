@@ -1,0 +1,455 @@
+{
+  "meeting_id": "698dcb4b834af3001393610e",
+  "name": "Mkt + Comercial",
+  "happened_at": "2026-02-12T12:44:59.683Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:25:19.179560+00:00",
+  "executive_summary": "Alinhamento apresentação comercial e conteúdo. Apresentação precisa mostrar 14 anos de experiência (não parecer startup). Formato vertical para mobile. Z2A como integração importante. Programa embaixadores prioritário. Primeiro evento Vitória início de março.",
+  "context": {
+    "purpose": "Alinhar apresentação comercial, conteúdo de marketing e programa de embaixadores",
+    "main_agenda_items": [
+      "Apresentação comercial — 14 anos de experiência",
+      "Formato mobile/vertical",
+      "Z2A na apresentação",
+      "Digital activation como pacote",
+      "Programa embaixadores",
+      "Eventos e calendário",
+      "Conteúdo para Curitiba"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador — revisando apresentação",
+      "Mayumi Takeda": "Marketing — feedback e execução",
+      "Ester": "Mencionada — foco operacional"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 37.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego revisar apresentação comercial e ajustar slides para reduzir espaços em branco e aumentar impacto visual",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Apresentação deve transmitir 14 anos de experiência — não parecer startup de 6 meses",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Incluir números grandes de corretores acessando para criar sensação de volume e escala",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Contrato de 12 meses sem fidelidade deve ser comunicado proativamente antes de perguntas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Incluir passos do processo de implementação na apresentação",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Z2A como integração importante na apresentação para incorporadoras",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Digital activation oferecida como pacote adicional no momento da venda",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Bloqueio de tabela já foi desenvolvido — incluir na apresentação",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Diego consolidar versão final do material completo de embaixadores para segunda quinzena de fevereiro",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Comercial vende, CS toca, marketing apoia no programa de embaixadores",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Produtos financeiros mencionados como gancho para cliente perguntar detalhes",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Slides consolidados para menos slides com mais informação",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego revisar apresentação comercial e ajustar slides",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Diego consolidar material completo de embaixadores",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-28T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego conversar com Janela sobre temas relevantes para Curitiba durante visita sábado",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-15T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": "Depende de visita de Diego",
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Mayumi dar feedback sobre landing page após análise",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego enviar material de ações por e-mail para Mayumi",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Mayumi trabalhar com Ester na parte estratégica de conteúdo",
+      "owner": "Mayumi Takeda + Ester",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Preparar 4 temas de conteúdo para gravação com agência de Curitiba",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Mayumi solicitar calendário atualizado de eventos para Bruna",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Compartilhar calendário de eventos por praça para alinhamento",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Vídeos precisam de mais pessoas, voz e música animada — atualmente muito calmos",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego revisar apresentação comercial (14 anos, volume, mobile)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego consolidar material embaixadores",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-28T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego conversar com Janela sobre temas Curitiba",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-15T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego enviar material de ações para Mayumi",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Mayumi dar feedback landing page",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Mayumi + Ester estratégico conteúdo",
+      "owner": "Mayumi Takeda + Ester",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "4 temas de conteúdo para Curitiba",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Calendário eventos para Bruna",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T9",
+      "description": "Melhorar vídeos (mais pessoas, voz, música)",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Apresentação atual transmite 14 anos de experiência ou parece startup de 6 meses?",
+      "context": "Diego identificou que apresentação tem 'cara de startup'. Se não corrigir, clientes não entendem maturidade e escala da Órulo.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Formato vertical para mobile é necessário? Muitos clientes abrem no celular?",
+      "context": "Se sim, precisa redesign. Se não, mantém formato atual.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Mayumi Takeda"
+    },
+    {
+      "id": "Q3",
+      "question": "Z2A deve ter destaque na apresentação comercial?",
+      "context": "Diego disse que 4 de 7 vendas em fevereiro foram de Z2A. Parece subdimensionado na apresentação.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Apresentação parece startup de 6 meses — não transmite 14 anos de experiência",
+      "type": "strategic",
+      "severity": "high",
+      "mitigation": "Diego revisar apresentação. Incluir números de volume, histórico, integrações.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Muitos espaços em branco na apresentação — não passa sensação de volume e escala",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diego ajustar slides. Repetir números grandes. Mostrar logos de CRM/integrações.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Vídeos muito calmos — não geram engajamento",
+      "type": "marketing",
+      "severity": "medium",
+      "mitigation": "Adicionar mais pessoas, voz e música animada.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Programa embaixadores é prioritário — pode gerar vendas qualificadas com baixo CAC",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Mayumi Takeda",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "4 temas de conteúdo para Curitiba — chance de marcar presença como autoridade",
+      "potential_impact": "medium",
+      "owner": "Mayumi Takeda",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Z2A foi 4 de 7 vendas em fevereiro — pode ser maior se destacado na apresentação",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Z2A = 4 de 7 vendas em fevereiro. Usar como proof point na apresentação.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Z2A está performando bem mas não está destacado. Incluir como diferencial na apresentação."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: concorrentes principal é Google Drive, não outras plataformas imobiliárias. Messaging deve addresses isso.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Reposicionamento competitivo importante. Apresentação deve mostrar porque Órulo > Google Drive."
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: apresentação comercial: 14 anos, volume (corretores acessando), Z2A, implementação steps, 12 meses sem fidelidade.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Estrutura de apresentação definida. Documentar para equipe de vendas."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Apresentação comercial: transmitir 14 anos experiência, não parecer startup. Incluir números grandes de corretores. Formato mobile/vertical.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Z2A = 4 de 7 vendas em fevereiro. Integração importante na apresentação.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Concorrente principal é Google Drive, não outras plataformas imobiliárias.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Programa embaixadores: comercial vende, CS toca, marketing apoia. Diego consolida material até 28/02.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Contrato 12 meses sem fidelidade — comunicar proativamente antes de perguntas.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Primeiro evento Vitória: início de março.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Bloqueio de tabela já desenvolvido. Compartilhamento de unidade em desenvolvimento.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego revisar apresentação comercial HOJE focusing em: (1) 14 anos de experiência, (2) números de volume, (3) Z2A como destaque, (4) mobile/vertical. Apresentação atual está perdendo vendas.",
+    "owner": "Diego Diehl",
+    "deadline": "2026-02-14T00:00:00.000Z",
+    "reason": "Apresentação é a primeira impressão com clientes. Se parecer startup de 6 meses, perde credibilidade. Z2A está hot mas não está destacado."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — seção final pode estar incompleta",
+      "Participantes não identificados além de Diego e Mayumi",
+      "Decisão sobre formato vertical não fechada",
+      "Detalhes de implementação steps não especificados"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Apresentação Comercial",
+    "Estrutura de Produtos e Serviços",
+    "Conteúdo e Marketing",
+    "Programa de Embaixadores",
+    "Eventos e Calendário",
+    "Estratégia de Conteúdo e Treinamento"
+  ]
+}

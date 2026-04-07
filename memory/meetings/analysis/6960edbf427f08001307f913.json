@@ -1,0 +1,378 @@
+{
+  "meeting_id": "6960edbf427f08001307f913",
+  "name": "João <> Diego (Comunicação com Corretores)",
+  "happened_at": "2026-01-09T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:09:07.614805+00:00",
+  "executive_summary": "Alinhamento 09/01: João sente ansiedade de gestão com múltiplos projetos. Diego vai contratar 1-2 closers para 160 reuniões/mês. Ester onboarding com João — reunião sexta 9h. Recife 150% comissão. Webinar 19/01.",
+  "context": {
+    "purpose": "One-on-one de alinhamento entre Diego e João sobre comunicação com corretores, expansão, gestão de ansiedade e próximos passos",
+    "main_agenda_items": [
+      "Ações acordadas e próximos passos",
+      "Estratégia de expansão e crescimento",
+      "Desenvolvimento comercial",
+      "Perfil e preferências profissionais"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "João Vitor Portes da Silva (João)": "Closer — reporte direto"
+    },
+    "meeting_type": "one_on_one",
+    "notes_limitation": null,
+    "duration_minutes": 45.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego contratar um ou dois closers para atender 160 reuniões mensais",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "João responsável pelo onboarding e estruturação inicial das atividades da Ester",
+      "decision_maker": "Diego Diehl + João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Reunião na sexta às 9h para Ester apresentar progresso ao time",
+      "decision_maker": "Diego Diehl + João Vitor Portes da Silva + Ester",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Comissão de Recife definida em 150% da mensalidade",
+      "decision_maker": "Diego Diehl + João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "João preparar visão estratégica macro e plano de ação para área de corretores",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Diego combinar com Mirla e Knight projeto de um mês para reduzir reuniões de João",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D7",
+      "description": "Diego combinar horário fixo semanal com João para alinhamento",
+      "decision_maker": "Diego Diehl + João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D8",
+      "description": "Webinar dia 19 com Philip, Wagner e Diego",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Mensagem de Ano Novo para embaixadores enviada na próxima semana",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "João acionar SDRs para suportar eventos locais",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "João preparar visão estratégica macro e plano de ação para área de corretores",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Diego contratar 1-2 closers para 160 reuniões mensais",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O3",
+      "description": "Diego combinar com Mirla e Knight projeto de redução de reuniões de João",
+      "owner": "Diego Diehl + Mirla + Knight",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O4",
+      "description": "Reunião sexta 9h — Ester apresenta progresso ao time",
+      "owner": "Ester + João + Diego",
+      "deadline": "2026-01-10T09:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O5",
+      "description": "Enviar mensagem de Ano Novo para embaixadores",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-01-16T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Webinar 19/01 — agendar com Philip, Wagner e Diego",
+      "owner": "Diego Diehl",
+      "deadline": "2026-01-19T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Duas reuniões na próxima semana: João/Gustavo + Diego/João",
+      "owner": "Diego Diehl + João Vitor Portes da Silva + Gustavo Torres",
+      "deadline": "2026-01-16T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João: plano de ação área de corretores",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego: contratar 1-2 closers",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Diego: combinar projeto Mirla/Knight para reduzir reuniões João",
+      "owner": "Diego Diehl + Mirla + Knight",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Ester: apresentar progresso sexta 9h",
+      "owner": "Ester + João",
+      "deadline": "2026-01-10T09:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T5",
+      "description": "Mensagem Ano Novo embaixadores",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-01-16T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Webinar 19/01 com Philip, Wagner e Diego",
+      "owner": "Diego Diehl",
+      "deadline": "2026-01-19T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Reuniões próximas semana: João/Gustavo + Diego/João",
+      "owner": "Diego + João + Gustavo",
+      "deadline": "2026-01-16T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como resolver sobrecarga de João sem perder qualidade de atendimento?",
+      "context": "João sente ansiedade de gestão com múltiplos projetos. 160 reuniões/mês é volume alto. Se não resolver, burnout e turnover.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Ester vai conseguir assumir parte das demandas de João para liberá-lo?",
+      "context": "Onboarding de Ester está com João. Se não der certo, sobrecarga continua.",
+      "answer_required_by": "2026-01-10T09:00:00.000Z",
+      "owner": "João Vitor Portes da Silva + Ester"
+    },
+    {
+      "id": "Q3",
+      "question": "Comissão de Recife em 150% é competitiva o suficiente para motivar?",
+      "context": "João definiu 150% da mensalidade. Não há benchmark de mercado mencionado.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + João Vitor Portes da Silva"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "João com ansiedade de gestão de múltiplos projetos — risco de burnout",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diego contratar closers. Mirla/Knight reduzirem reuniões. Horário fixo semanal.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Incorporadoras não entendem processo de cadastro da Órula — objeção recorrente",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "João frizar processo de cadastro na comunicação. Time CS apoiar.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "João se isola no remoto — Diego não consegue passar na cadeira",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego cobrado maior comunicação proativa. Horário fixo semanal.",
+      "source": "both"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "João preparado para ser suporte de SDRs em eventos locais — escala prospecção",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes da Silva + SDRs",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Expansão Recife com comissão 150% — modelo testável",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Webinar 19/01 com Philip, Wagner e Diego — autoridade e geração de leads",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: João ansiedade de gestão — múltiplos projetos. Diego contratando closers para分担. Reunião fixa semanal.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "João é peça-chave mas está sobrecarregado. Risco de turnover se não resolver."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "João sente ansiedade de gestão com múltiplos projetos. Diego contratar 1-2 closers para 160 reuniões/mês.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "João responsável por onboarding Ester. Reunião viernes 9h com progresso.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Comissão Recife: 150% da mensalidade.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Incorporadoras têm dúvidas sobre processo de cadastro — objeção recorrente.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M5",
+      "memory": "Horário fixo semanal Diego + João combinado.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Webinar 19/01 com Philip, Wagner e Diego.",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M7",
+      "memory": "Mensagem Ano Novo para embaixadores próxima semana.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego contratar closers ainda esta semana. Reunião fixa semanal Diego+João definida. Ester apresenta progresso sexta 9h. Mirla/Knight projeto redução reuniões.",
+    "owner": "Diego Diehl + João Vitor Portes da Silva + Ester",
+    "deadline": "2026-01-10T09:00:00.000Z",
+    "reason": "João está com ansiedade de gestão e risco de burnout. Sem ajuda, pode perder peça-chave. Contratar closers resolve volume. Reunião fixa dá ritmo."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se closers foram contratados",
+      "Se reunião fixa semanal começou",
+      "Se projeto Mirla/Knight reducing reuniões saiu",
+      "Se Ester apresentou progresso viernes",
+      "Se Recife fechou com commission 150%",
+      "Se webinar 19/01 aconteceu",
+      "Se João preparou plano de ação corretores"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas e Próximos Passos",
+    "Estratégia de Expansão e Crescimento",
+    "Desenvolvimento Comercial",
+    "Perfil e Preferências Profissionais"
+  ]
+}

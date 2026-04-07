@@ -1,0 +1,374 @@
+{
+  "meeting_id": "69cc039014bbdc00133e2a6a",
+  "name": "Gustavo / Diego - WS2 e WS4 Kickoff",
+  "happened_at": "2026-03-31T17:25:36.166Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:12:14.060491+00:00",
+  "executive_summary": "Kickoff WS2 (jornada DL Pago) e WS4 (infraestrutura CRM). D\u00e9ficit atual: 7k em vendas, meta abril: 19. Precis\u00e3o: 26 zera o buraco. WS2 = jornada estrat\u00e9gica e valida\u00e7\u00e3o de contato comercial. WS4 = CRM, disciplina operacional e capacita\u00e7\u00e3o do time. Diego e Gustavo ter\u00e3o pulso quinzenal. Gustavo fazer curso de IA na pr\u00e1tica (IFPM, 12h, inicia dia 13).",
+  "context": {
+    "purpose": "Kickoff dos workstreams WS2 e WS4 \u2014 alinhar escopo, DRI, metas e pr\u00f3ximos passos",
+    "main_agenda_items": [
+      "Kickoff WS2: jornada DL pago e valida\u00e7\u00e3o de contato comercial",
+      "Kickoff WS4: infraestrutura CRM e disciplina operacional",
+      "Diagn\u00f3stico do d\u00e9ficit atual (7k) e meta de abril (19 vendas)",
+      "Automa\u00e7\u00e3o com N8N para valida\u00e7\u00e3o de contato comercial",
+      "Pulso quinzenal e painel de dados",
+      "Curso de IA de Gustavo"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial \u2014 l\u00edder do kickoff",
+      "Gustavo Torres": "Coordenador Comercial \u2014 DRI WS2 e WS4"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 89.6
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "WS2 foca em jornada estrat\u00e9gica e valida\u00e7\u00e3o de contato comercial com incorporadoras",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "WS4 foca em infraestrutura CRM, disciplina operacional e consist\u00eancia do time",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "WS2 e WS4 s\u00e3o projetos complementares que se conversam \u2014 WS2 estrat\u00e9gico, WS4 t\u00e1tico",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Disciplina operacional = consist\u00eancia + capacita\u00e7\u00e3o do time no CRM",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Diego criar regra de atualiza\u00e7\u00e3o obrigat\u00f3ria do Bitrix e medir conformidade",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego criar painel atualizado com acesso restrito e login para coordenador",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Gustavo apresentar estrutura WS2/WS4 para closers, BDRs, Diego e time do Marcelo",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Diego e Gustavo ter\u00e3o pulso quinzenal para acompanhamento",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego criar regra de atualiza\u00e7\u00e3o obrigat\u00f3ria do Bitrix e medir conformidade",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Diego criar painel atualizado com acesso restrito para coordenador",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Gustavo apresentar estrutura WS2/WS4 para closers, BDRs e time Marcelo",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Diego enviar convite do Telegram para Gustavo para apoio cont\u00ednuo dos projetos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O5",
+      "description": "Diego enviar cronograma de a\u00e7\u00f5es para eventos e estrutura de documentos por e-mail",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O6",
+      "description": "Gustavo registrar plano de a\u00e7\u00e3o dos dois projetos WS2 e WS4",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego criar regra de atualiza\u00e7\u00e3o obrigat\u00f3ria do Bitrix",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego criar painel atualizado com acesso restrito",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Gustavo apresentar estrutura WS2/WS4 para times",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo fazer curso de IA na pr\u00e1tica (IFPM, 12h, inicia dia 13)",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-04-13T23:59:00.000Z",
+      "priority": "medium",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo criar automa\u00e7\u00e3o N8N para gerar cards de valida\u00e7\u00e3o de contato comercial",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Diego agendar coffee operacional com time para comunicar padr\u00e3o m\u00ednimo de CRM",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Gustavo revisar estrutura criada e documentos WS2 e WS4",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como garantir que o time comercial est\u00e1 capacitado no CRM antes de escalar processos?",
+      "context": "Gustavo trouxe que o time n\u00e3o est\u00e1 capacitado para operar no CRM. Sem capacita\u00e7\u00e3o, qualquer automa\u00e7\u00e3o ou processo vai falhar. \u00c9 a funda\u00e7\u00e3o do WS4.",
+      "answer_required_by": "2026-04-15T23:59:00.000Z",
+      "owner": "Gustavo Torres + Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual \u00e9 o plano de recupera\u00e7\u00e3o do d\u00e9ficit de 7k em vendas?",
+      "context": "D\u00e9ficit de 7k com meta de 19 em abril. Se vender 26, zera. Precisa de plano concreto para n\u00e3o apenas esperan\u00e7a.",
+      "answer_required_by": "2026-04-07T23:59:00.000Z",
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q3",
+      "question": "Como gerar volume suficiente de contatos comerciais para os BDRs operarem?",
+      "context": "Diego identificou dificuldade em gerar volume de contatos comerciais. Sem volume, BDRs n\u00e3o t\u00eam o que operar.",
+      "answer_required_by": "2026-04-10T23:59:00.000Z",
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Time comercial n\u00e3o est\u00e1 capacitado e aperfei\u00e7oado para operar no CRM \u2014 funda\u00e7\u00e3o fr\u00e1gil",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Capacita\u00e7\u00e3o do time como prioridade dentro do WS4 antes de escalar processos",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "D\u00e9ficit de 7k em vendas \u2014 meta de abril (19) n\u00e3o cobre buraco sozinho",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Precisa de 26 vendas para zerar buraco. Plano de recupera\u00e7\u00e3o necess\u00e1rio.",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "Falta clareza em crit\u00e9rios de passagem de est\u00e1gios na jornada DL",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Definir crit\u00e9rios claros de est\u00e1gio vs etapa/fase do CRM",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Goi\u00e2nia e Jo\u00e3o Pessoa precisam de estrat\u00e9gias diferenciadas \u2014 pra\u00e7as mais dif\u00edceis",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Abordagem local com vendedor presencial + valida\u00e7\u00e3o priorit\u00e1ria de contatos",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Automa\u00e7\u00e3o com N8N para valida\u00e7\u00e3o de contato comercial \u2014 escala sem aumentar headcount",
+      "potential_impact": "high",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Painel de dados com acesso restrito para coordena\u00e7\u00e3o \u2014 visibilidade para tomar decis\u00f5es",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Curso de IA na pr\u00e1tica do IFPM (Gustavo) \u2014 pode aplicar langsung nos projetos",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "both"
+    },
+    {
+      "id": "OP4",
+      "description": "Valida\u00e7\u00e3o de contato comercial trimestral como processo replic\u00e1vel em todas as pra\u00e7as",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar WS2 e WS4 como funda\u00e7\u00e3o do comercial \u2014 WS2 estrat\u00e9gico (jornada), WS4 t\u00e1tico (CRM)",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Framework de WS2/WS4 definido por Diego e Gustavo com DRI e escopo claros \u2014 base para governan\u00e7a"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar disciplina operacional = consist\u00eancia + capacita\u00e7\u00e3o do time no CRM",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Defini\u00e7\u00e3o operacional validada por Diego \u2014 fundamento para WS4"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "WS2: jornada DL pago (jornada estrat\u00e9gica, valida\u00e7\u00e3o de contato comercial). WS4: infraestrutura CRM (disciplina operacional, consist\u00eancia, capacita\u00e7\u00e3o). S\u00e3o complementares.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "D\u00e9ficit atual: 7k em vendas. Meta abril: 19 vendas. Precisa de 26 para zerar o buraco.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Diego e Gustavo: pulso quinzenal para WS2 e WS4. Coffee operacional com time para padr\u00e3o CRM.",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Gustavo fazendo curso IA na pr\u00e1tica (IFPM, 12h, inicia dia 13/04)",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Gustavo: valida\u00e7\u00e3o de contato comercial trimestral para cada incorporadora. Prioridade: Goi\u00e2nia e Jo\u00e3o Pessoa.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Diego: painel atualizado com acesso restrito + regra de atualiza\u00e7\u00e3o obrigat\u00f3ria do Bitrix",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego criar regra de atualiza\u00e7\u00e3o obrigat\u00f3ria do Bitrix + Gustavo apresentar estrutura WS2/WS4 para o time",
+    "owner": "Diego Diehl + Gustavo Torres",
+    "deadline": "2026-04-07T23:59:00.000Z",
+    "reason": "Regra do Bitrix \u00e9 bloqueador para WS4. Apresenta\u00e7\u00e3o para o time \u00e9 bloqueador para WS2. Sem esses dois, os workstreams n\u00e3o saem do papel."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Plano de recupera\u00e7\u00e3o do d\u00e9ficit de 7k n\u00e3o foi detalhado \u2014 apenas n\u00famero e meta",
+      "N8N automation details n\u00e3o foram definidos \u2014 apenas inten\u00e7\u00e3o",
+      "Quem \u00e9 o novo BDR que precisa ser adicionado n\u00e3o foi mencionado",
+      "Painel de dados: spec e tecnologia n\u00e3o definidos"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de A\u00e7\u00e3o",
+    "Objetivos dos Projetos WS2 e WS4",
+    "Estrutura de Opera\u00e7\u00e3o e Processos",
+    "Metas e M\u00e9tricas Comerciais",
+    "Desafios e Solu\u00e7\u00f5es Identificadas",
+    "Fontes de Leads e Gatilhos",
+    "Comunica\u00e7\u00e3o e Alinhamento",
+    "Ferramentas e Tecnologia"
+  ]
+}

@@ -1,0 +1,318 @@
+{
+  "meeting_id": "697a63ad970d0100136de235",
+  "name": "CRI Vitaurbana Captable",
+  "happened_at": "2026-01-28T19:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:09:17.593470+00:00",
+  "executive_summary": "Estrutura\u00e7\u00e3o de CRI para Vita Urbana. Termo global de R$ 15M, primeira s\u00e9rie de R$ 3M. Separa\u00e7\u00e3o por empreendimento recomendada para isolar riscos entre investidores. Nicolau enviar documenta\u00e7\u00e3o (matr\u00edcula, contrato social, SCP) e valores at\u00e9 amanh\u00e3. Vida Investe (Luxemburgo) recebe recursos e investe em SPEs. Taxa primeira s\u00e9rie: 20% a.a. mensal.",
+  "context": {
+    "purpose": "Alinhamento operacional e estrutural para emiss\u00e3o de CRI via CVM 88 para Vita Urbana",
+    "main_agenda_items": [
+      "Estrutura do termo de emiss\u00e3o global (R$ 15M) e primeira s\u00e9rie",
+      "Separa\u00e7\u00e3o por empreendimento vs s\u00e9rie \u00fanica",
+      "Fluxo operacional: Vita Investe \u2192 SCP \u2192 SPEs",
+      "Documenta\u00e7\u00e3o necess\u00e1ria e prazos",
+      "Taxas e remunera\u00e7\u00e3o das s\u00e9ries",
+      "Plataforma de investidores"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Fundador/Diretor \u2014 Produtos Financeiros",
+      "Paulo Deitos": "Especialista em estrutura\u00e7\u00e3o CRI \u2014 l\u00edder t\u00e9cnico",
+      "Diego Diehl": "Diretor Comercial \u2014 \u00e2ncora da reuni\u00e3o",
+      "Nicolau Sarquis": "Vita Urbana \u2014 decision maker",
+      "Caroline Rezende de Lima": "Equipe Vita Urbana",
+      "Alessandra Martins de Souza": "Equipe Vita Urbana",
+      "Gabriel Garibotti": "Investidor \u2014 interno",
+      "Carol Pizzano": "Equipe Vita Urbana"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 27.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Termo de emiss\u00e3o global de R$ 15M com primeira s\u00e9rie de R$ 3M",
+      "decision_maker": "Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Separa\u00e7\u00e3o por empreendimento em s\u00e9ries distintas \u2014 reduz risco de contamina\u00e7\u00e3o entre investidores",
+      "decision_maker": "Paulo Deitos + Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Todas as integraliza\u00e7\u00f5es n\u00e3o precisam ocorrer no momento zero \u2014 pode ter m\u00faltiplas integraliza\u00e7\u00f5es em datas diferentes",
+      "decision_maker": "Paulo Deitos",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Primeira s\u00e9rie: 20% a.a., pago mensalmente, independente de resultados",
+      "decision_maker": "Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Nicolau enviar rascunho da primeira emiss\u00e3o para Paulo revisar",
+      "decision_maker": "Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Paulo preparar documenta\u00e7\u00e3o: CCB e termo de securitiza\u00e7\u00e3o",
+      "decision_maker": "Paulo Deitos",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D7",
+      "description": "Nicolau enviar matr\u00edcula, contrato social e SCP em formato adequado para Paulo",
+      "decision_maker": "Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D8",
+      "description": "Nicolau enviar valor total do CRI e primeira s\u00e9rie at\u00e9 amanh\u00e3",
+      "decision_maker": "Nicolau Sarquis",
+      "confidence": "confirmed",
+      "source": "both"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Nicolau enviar matr\u00edcula do im\u00f3vel, contrato social e SCP para Paulo",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "status": "open",
+      "source": "both",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Nicolau informar valor total do CRI e tamanho da primeira s\u00e9rie",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "status": "open",
+      "source": "both",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Nicolau informar onde primeira s\u00e9rie ser\u00e1 investida e remunera\u00e7\u00e3o",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "status": "open",
+      "source": "both",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Paulo preparar CCB e termo de securitiza\u00e7\u00e3o",
+      "owner": "Paulo Deitos",
+      "deadline": null,
+      "status": "open",
+      "source": "both",
+      "blocking_factor": "Documenta\u00e7\u00e3o de Nicolau pendente"
+    },
+    {
+      "id": "O5",
+      "description": "Definir prazo de pagamento final para investidor",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Nicolau enviar documenta\u00e7\u00e3o (matr\u00edcula, contrato social, SCP) para Paulo",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Nicolau informar valor total CRI e primeira s\u00e9rie",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Paulo preparar CCB e termo de securitiza\u00e7\u00e3o",
+      "owner": "Paulo Deitos",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Paulo revisar rascunho da primeira emiss\u00e3o",
+      "owner": "Paulo Deitos",
+      "deadline": null,
+      "priority": "medium",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Definir onde primeira s\u00e9rie ser\u00e1 investida e remunera\u00e7\u00e3o exata",
+      "owner": "Nicolau Sarquis",
+      "deadline": "2026-01-29T23:59:00.000Z",
+      "priority": "medium",
+      "status": "assigned",
+      "source": "both"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual o valor exato da primeira s\u00e9rie e quantas integraliza\u00e7\u00f5es ter\u00e1?",
+      "context": "Sem o valor definido, Paulo n\u00e3o consegue finalizar o termo de emiss\u00e3o global. Neces\u00e1rio para avanzar a estrutura\u00e7\u00e3o.",
+      "answer_required_by": "2026-01-29T23:59:00.000Z",
+      "owner": "Nicolau Sarquis"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual o ticket m\u00ednimo por investidor para a plataforma?",
+      "context": "Paulo precisa saber o ticket m\u00ednimo para dimensionar a s\u00e9rie e a opera\u00e7\u00e3o da plataforma.",
+      "answer_required_by": "2026-01-29T23:59:00.000Z",
+      "owner": "Nicolau Sarquis"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "SCP fragmentado em peda\u00e7os menores pode dificultar o ciclo de movimenta\u00e7\u00e3o financeira para CRI",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Quebrar s\u00e9ries em peda\u00e7os menores para acelerar ciclo \u2014 solu\u00e7\u00e3o j\u00e1 acordada",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Misturar investidores de diferentes empreendimentos na mesma s\u00e9rie aumenta risco de contamina\u00e7\u00e3o judicial",
+      "type": "compliance",
+      "severity": "medium",
+      "mitigation": "Separa\u00e7\u00e3o por empreendimento em s\u00e9ries distintas \u2014 decis\u00e3o tomada",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "Ciclo de movimenta\u00e7\u00e3o entre SCP e CRI leva 1 dia \u00fatil \u2014 pode criar gap de caixa",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Planejar datas de integraliza\u00e7\u00e3o com anteced\u00eancia para evitar atrasos",
+      "source": "both"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Convers\u00e3o de SCP para CRI via CVM 88 regulariza estrutura e pode atrair novos investidores",
+      "potential_impact": "high",
+      "owner": "Paulo Deitos",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Plataforma de investidores com acesso a integraliza\u00e7\u00e3o e acompanhamento de pagamentos \u2014 diferencial operacional",
+      "potential_impact": "medium",
+      "owner": "Paulo Deitos",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Investidor estrangeiro com CPF pode investir via plataforma \u2014 expande base",
+      "potential_impact": "medium",
+      "owner": "Paulo Deitos",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar estrutura CRI Vita Urbana: global R$ 15M, s\u00e9rie 1 R$ 3M, 20% a.a. mensal, separa\u00e7\u00e3o por empreendimento",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Estrutura concreta com n\u00fameros e decis\u00f5es definidas \u2014 seguir evolu\u00e7\u00e3o do deal"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar papel de Paulo Deitos como l\u00edder t\u00e9cnico de estrutura\u00e7\u00e3o CRI",
+      "destination": "memory/people.md",
+      "priority": "medium",
+      "reason": "Paulo \u00e9 o DRI t\u00e9cnico\u5728\u8fd9\u4e9btransa\u00e7\u00f5es \u2014 refer\u00eancia para futuros deals"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "CRI Vita Urbana: Termo global R$ 15M, s\u00e9rie 1 R$ 3M, 20% a.a. mensal. Separa\u00e7\u00e3o por empreendimento recomendada. Nicolau envia docs at\u00e9 29/01.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Paulo Deitos lidera estrutura\u00e7\u00e3o CRI. decisor: Nicolau Sarquis (Vita Urbana). Felipe\u53c2\u4e0e\u4e86\u4f46\u4e0d\u4e3b\u5bfc\u3002 Diego\u7ec4\u7ec7\u4e86\u4f1a\u8bae\u3002",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Ciclo operacional: Vita Investe (Luxemburgo) recebe recursos \u2192 investe em SPEs (SCP) \u2192 prazo 6 meses a 1 ano \u2192 remunera\u00e7\u00e3o via plataforma",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Pagamentos idealmente via PIX para reconhecimento autom\u00e1tico. Cadastro: nome, email, telefone, endere\u00e7o, chave PIX.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Nicolau enviar documenta\u00e7\u00e3o completa (matr\u00edcula, contrato social, SCP) + valores e destinos da primeira s\u00e9rie",
+    "owner": "Nicolau Sarquis",
+    "deadline": "2026-01-29T23:59:00.000Z",
+    "reason": "Documenta\u00e7\u00e3o \u00e9 bloqueador para Paulo preparar CCB e termo de securitiza\u00e7\u00e3o. Sem isso, estrutura\u00e7\u00e3o n\u00e3o avan\u00e7a."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Valor exato da primeira s\u00e9rie n\u00e3o definido por Nicolau",
+      "Destino exato do investimento da primeira s\u00e9rie n\u00e3o informado",
+      "Ticket m\u00ednimo por investidor n\u00e3o definido",
+      "Prazo final de pagamento do investidor n\u00e3o definido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "A\u00e7\u00f5es Acordadas",
+    "Estrutura da Emiss\u00e3o",
+    "Fluxo Operacional e Financeiro",
+    "Documenta\u00e7\u00e3o Necess\u00e1ria",
+    "Plataforma e Investidores",
+    "Considera\u00e7\u00f5es de Risco e Estrutura",
+    "Taxas e Custos"
+  ]
+}

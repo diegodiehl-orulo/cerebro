@@ -1,0 +1,405 @@
+{
+  "meeting_id": "698334ce7d83e400138dc05b",
+  "name": "Treinamento Comercial",
+  "happened_at": "2026-02-04T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:31:42.536235+00:00",
+  "executive_summary": "Treinamento comercial focou em feedback dos últimos módulos e planejamento do próximo. Time pediu menos slides e mais cases práticos. Diego comprometeu-se a reformatar training prático e agendar training de inteligência de mercado com Pedro para abril. Cultura de feedback respeitoso e desenvolvimento contínuo reforçada. Meta 451 unidades 2026 e comissões por categoria definidos. Risco: déficit de 7k em vendas sinalizado.",
+  "context": {
+    "purpose": "Revisar treinamento anterior, coletar feedback da equipe e planejar próximos módulos de treinamento comercial",
+    "main_agenda_items": [
+      "Feedback dos treinamentos anteriores",
+      "Planejamento dos próximos módulos",
+      "Princípios organizacionais",
+      "Case de planejamento estratégico",
+      "Discussão sobre ferramentas e tecnologia",
+      "Insights de mercado"
+    ],
+    "participants_and_roles": {
+      "Pedro Ruza Kneip Navarro": "Sócio-Local Vitória e líder de treinamento",
+      "Diego Diehl": "Organizador e director comercial",
+      "Mirla Menezes": "BDR - participante",
+      "João Vitor Portes da Silva": "Closer - participante",
+      "Luiz Gustavo Zanella": "Sócio-Local Curitiba - participante",
+      "Gustavo Torres": "Coordenador Comercial - participante",
+      "Jade Rosa": "BDR - participante",
+      "Ester Elisa de Souza Rodrigues": "Comunicação com corretores - participante",
+      "Elizangela Fernandes Borges": "participante"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 61.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Treinamento prático será reformatado por Diego baseado no feedback da equipe para a próxima semana",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Próximo treinamento será sobre planejamento estratégico de canal de parcerias com case real",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Semana seguinte incluirá Lab Series com workshop prático, roleplay e reenactment",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "Diego enviará apresentação de evolução organizacional para o time",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Time revisará apresentação de planejamento estratégico como lição de casa",
+      "decision_maker": "time",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Diego agendará treinamento de inteligência de mercado com Pedro para abril",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D7",
+      "description": "Diego removerá nome de cliente da apresentação antes de compartilhar com o time",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D8",
+      "description": "Zanella prefere manter duas reuniões semanais sem adicionar mais treinamentos",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D9",
+      "description": "Desentendimentos devem ser resolvidos um a um sem envolver terceiros",
+      "decision_maker": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Comissões varían por categoria: mercado 4%, premium 5%, super 6%",
+      "decision_maker": null,
+      "confidence": "likely",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego reformular treinamento prático baseado em feedback (menos slides, mais cases)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "ainda não definido prazo para novo formato",
+      "source": "transcript"
+    },
+    {
+      "id": "O2",
+      "description": "Diego agendar training inteligência de mercado com Pedro para abril",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "transcript"
+    },
+    {
+      "id": "O3",
+      "description": "Time revisar apresentação de planejamento estratégico como homework",
+      "owner": "time",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "não há prazo definido para entrega",
+      "source": "transcript"
+    },
+    {
+      "id": "O4",
+      "description": "Quiz dos treinamentos com prêmio (vale iFood ou similar) — a implementar",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "não definido quem cria o quiz",
+      "source": "transcript"
+    },
+    {
+      "id": "O5",
+      "description": "Déficit de 7k em vendas — tema recorrente, sem plano de ação concreto definido",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "causa raiz não debatida em profundidade",
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego enviar apresentação de evolução organizacional para o time",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Diego remover nome de cliente da apresentação de planejamento estratégico",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Diego remodelar training prático com feedback do time (menos slides, mais cases)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Diego agendar training Pedro sobre inteligência de mercado para abril",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-30T00:00:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T5",
+      "description": "Time revisar apresentação de planejamento estratégico como lição de casa",
+      "owner": "time",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T6",
+      "description": "Pedro revisar plataforma 2.0 e configurações de agentes com GPT Mini",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T7",
+      "description": "Criar quiz dos treinamentos com premio para gamificar feedback",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "low",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual é a causa raiz do déficit de 7k em vendas identificado?",
+      "context": "Déficit foi mencionado nas notas estruturadas como risco recorrente, mas não foi debatido em profundidade na reunião. Sem causa raiz, não há plano de ação.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Quando exatamente será o próximo treinamento prático reformulado?",
+      "context": "Diego comprometeu reformatar, mas não definiu data. Sem prazo, pode não acontecer.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Pedro conseguirá resolver configurações da plataforma 2.0 (GPT Mini para agentes)?",
+      "context": "Pedro mencionou que versão 2.0 está fraca e CPU está livre, mas ainda não identificou gargalo. Precisa de suporte?",
+      "answer_required_by": null,
+      "owner": "Pedro Ruza Kneip Navarro"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Déficit de 7k em vendas mencionado como tema recorrente sem plano de ação definido",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Debater causa raiz na próxima reunião comercial e definir plano de recuperação",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "119 tarefas sem dono no CRM (dado externo) sinalizam falta de accountability estrutural no time",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Revisar processo de alocação de tarefas com Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Treinamentos podem perder effectiveness se formato não mudar (time pediu menos slides, mais cases)",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Implementar feedback de Mirla e Ester nos próximos módulos",
+      "source": "transcript"
+    },
+    {
+      "id": "R4",
+      "description": "Arcplan integra apenas com 50 CRM de imobiliárias em vez dos 1050 esperados — frustração potencial em clientes",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Revisar promessa comercial e comunicar diferença para clientes afetados",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Lab Series com workshop prático, roleplay e reenactment na semana seguinte — pode aumentar engajamento do time",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Training de inteligência de mercado com Pedro em abril — pode fortalecer visão estratégica do time",
+      "potential_impact": "medium",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Integração Arcplan com 50 CRM já mostra valor em demonstração práctica — usar como gancho comercial",
+      "potential_impact": "low",
+      "owner": "Luiz Gustavo Zanella",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Meta 451 unidades 2026 com foco em velocidade de atendimento — time alinhado com objetivo",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar comissões por categoria (mercado 4%, premium 5%, super 6%) e meta 451 unidades 2026",
+      "destination": "memory/projects.md ou planilha de KRs",
+      "priority": "high",
+      "reason": "Dado de governança de comissão que precisa estar acessível para todos os closers"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar princípios organizacionais discutidos (feedback respeitoso, resolver um a um, responsabilidade individual de comunicar)",
+      "destination": "memory/decisions.md",
+      "priority": "medium",
+      "reason": "Cultura organizacional definida coletivamente — precisa ficar documentada"
+    },
+    {
+      "id": "DS3",
+      "action": "Documentar feedback do time sobre treinamentos (menos slides, mais cases práticos, sala de aula invertida)",
+      "destination": "WS1 — arquivo de treinamentos",
+      "priority": "medium",
+      "reason": "Input direto para melhoria contínua dos módulos de training"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar que Arcplan integra apenas com 50 CRM (não 1050) como limiteknown da ferramenta",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Evitar promessa comercial incorreta para clientes"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Comissões por categoria de imóvel: mercado 4%, premium 5%, super 6%",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Meta de vendas Órulo 2026: 451 unidades. Foco em velocidade de atendimento",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Princípios organizacionais definidos: feedback e confrontações respeitosas; desentendimentos resolvidos um a um; cada pessoa responsável por comunicar o que precisa acontecer; decisões via aconselhamento coletivo",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Pedro Ruza lidera training de inteligência de mercado e visão do mercado imobiliário, agendado para abril 2026",
+      "category": "person",
+      "confidence": "confirmed"
+    },
+    {
+      "id": "M5",
+      "memory": "Treinamento comercial: time pediu menos slides e mais cases práticos; Mirla propôs sala de aula invertida com trechos de reuniões reais",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Arcplan integração real: apenas 50 CRM de imobiliárias (não 1050 como esperado)",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Diego: deficit de 7k em vendas é tema recorrente — risco de estagnação do pipeline",
+      "category": "project",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego deve definir data concreta para próximo treinamento prático reformulado e confirmar cronograma de abril com Pedro",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-10T00:00:00.000Z",
+    "reason": "Compromissos assumidos na reunião estão sem prazo. Sem data,.training prático reformulado e training de Pedro correm risco de não acontecer. Priorizar nos próximos 3 dias."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Transcript truncado — última seção (após 2883s) sem correspondência em transcript",
+      "119 tarefas sem dono no CRM são dado externo (TL;DV 07/04) não mencionado na reunião",
+      "Déficit de 7k aparece apenas em notas estruturadas, não debatido em transcript",
+      "Proprietário de Elizangela Fernandes Borges não واضح — nome não mencionado nas falas"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas",
+    "Treinamentos Planejados",
+    "Feedback sobre Treinamentos Anteriores",
+    "Princípios Organizacionais",
+    "Case de Planejamento Estratégico",
+    "Discussões sobre Ferramentas e Tecnologia",
+    "Insights de Mercado"
+  ]
+}

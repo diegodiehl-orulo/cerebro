@@ -1,0 +1,48 @@
+{
+  "meeting_id": "69a07c1e738ec900132a9bfd",
+  "name": "Bitrix Órulo",
+  "happened_at": "2026-02-26T17:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:05:50.180440+00:00",
+  "executive_summary": "Reunião técnica sobre Bitrix (CRM). Transcript, notas e topics indisponíveis — impossível analisar conteúdo.",
+  "context": {
+    "purpose": "Bitrix Órulo — reunião técnica de CRM",
+    "main_agenda_items": [],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial",
+      "Gustavo Torres": "Coordenador Comercial — host",
+      "Paloma TI": "Responsável TI Bitrix"
+    },
+    "meeting_type": "internal",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 33.8
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [],
+  "risks_and_alerts": [],
+  "opportunities": [],
+  "documentary_suggestions": [],
+  "memories_to_register": [],
+  "recommended_next_step": {
+    "action": "Gustavo Torres registrar resultado da reunião Bitrix. Sem registro, informação se perde.",
+    "owner": "Gustavo Torres",
+    "deadline": null,
+    "reason": "Reunião aconteceu mas sem nenhum dado. Necessário documentar manualmente."
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "Transcript não gerado",
+      "Notas estruturadas indisponíveis",
+      "Topics não gerados",
+      "Conteúdo completamente indisponível",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": []
+}

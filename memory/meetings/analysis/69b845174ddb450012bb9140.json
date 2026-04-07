@@ -1,0 +1,440 @@
+{
+  "meeting_id": "69b845174ddb450012bb9140",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2026-03-16T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:36:25.644860+00:00",
+  "executive_summary": "Diretoria 16/03: CS contrata 2 pessoas (aprovado). Feb: 1.432 atendimentos WhatsApp. Z2 deve por implantações. Preço integração: testar R$12. Paraguai não suportado pelo sistema. 15 embaixadores meta ano.",
+  "context": {
+    "purpose": "Alinhamento semanal de diretoria — CS, White Label, KRs, embaixadores, pricing, Z2 e expansão internacional",
+    "main_agenda_items": [
+      "Expansão do time de CS",
+      "White Label e captação de corretores",
+      "Indicadores e KRs",
+      "Projeto de Embaixadores",
+      "Questões financeiras",
+      "Portal Z2 e funcionalidades",
+      "Suporte internacional e expansão",
+      "Pricing de integração",
+      "Reconhecimento e bônus"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Alejandro Olchik": "CTO",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Eduardo Stringhini": "COO",
+      "Marcelo Rodrigues": "Diretor de Operações/CS"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 103.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Equipe aprova liberação de duas posições para CS",
+      "decision_maker": "Diego Diehl + diretoria",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Marcelo preparar documento de KRs ao longo dessa semana",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Alejandro propõe eliminar KR3 e focar em fluxo de pagamento e qualidade",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Felipe cobrar Z2 sobre implantações não faturadas",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Eduardo questionar Bruno sobre preço mínimo de integração",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego enviar página de captação de investidor para assinatura do Junior",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Felipe e Alejandro reunir com Mayumi e Nemo sobre estratégia de divulgação White Label",
+      "decision_maker": "Felipe Goettems + Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Necessário reunião específica sobre projeto de embaixadores e GD",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Eduardo enviou e-mail para Junior pedindo assinatura da lista de funcionalidades",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Testar preço de integração com novos clientes primeiro, depois expandir para existentes",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Meta é 15 embaixadores no ano, começando mais devagar",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Eduardo propõe pessoa dedicada para suportar embaixadores com foco em vendas",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Indicadores devem focar em críticos: atualização, integrações e qualidade",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Marcelo adicionar tag 'atrito' nos KRs para rastrear resolução até fim do ano",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Marcelo: preparar documento de KRs esta semana",
+      "owner": "Marcelo Rodrigues",
+      "deadline": "2026-03-23T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Felipe: cobrar Z2 sobre implantações não faturadas",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Z2 历史问题"
+    },
+    {
+      "id": "O3",
+      "description": "Eduardo: questionar Bruno sobre preço mínimo de integração",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego: enviar página de captação para assinatura do Junior",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Felipe + Alejandro: reunião com Mayumi e Nemo sobre White Label",
+      "owner": "Felipe Goettems + Alejandro Olchik",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Reunião específica sobre projeto de embaixadores e GD",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "João como candidato a embaixador mas quer se desenvolver como closer",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Conflito de interesse entre papéis"
+    },
+    {
+      "id": "O8",
+      "description": "Sistema não suporta Paraguai — requer mudanças em base monetária, endereço e cadastro",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Mudanças técnicas necessárias"
+    },
+    {
+      "id": "O9",
+      "description": "Cliente ano passado ainda tem discussões abertas sobre pagamento",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Passivo jurídico"
+    },
+    {
+      "id": "O10",
+      "description": "Super Lógica não responde há dois meses sobre categorização de despesas",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Fornecedor sem resposta"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Marcelo: preparar documento de KRs",
+      "owner": "Marcelo Rodrigues",
+      "deadline": "2026-03-23T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Felipe: cobrar Z2 implantações",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Eduardo: perguntar Bruno preço mínimo",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego: página captação para Junior",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Felipe + Alejandro: reunião Mayumi Nemo White Label",
+      "owner": "Felipe Goettems + Alejandro Olchik",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Reunião embaixadores e GD",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "João como embaixador vs closer — qual роль?",
+      "context": "João é candidato ideal para embaixador mas quer se desenvolver como closer. Se escolher closer, quem faz embaixadores?",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Sistema vai suportar internacionalização (Paraguai)?",
+      "context": "Incorporadora quer cadastrar empreendimentos do Paraguai. Sistema não tem campo país, só UFs brasileiras. Requer investimento técnico.",
+      "answer_required_by": null,
+      "owner": "Alejandro Olchik"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Z2 tem implantações não faturadas — risco de receita não reconhecida",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Felipe cobrar ativamente. Eduardo questionar Bruno sobre price.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Clientes do ano passado ainda têm discussões abertas sobre pagamento",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Felipe resolver passivos jurídicos遗留.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Super Lógica não responde há dois meses sobre categorização",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Felipe pressionar por resposta.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Internacionalização (Paraguai) não suportada pelo sistema",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Avaliar custo-benefício de implementar campo país.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Fevereiro teve 1.432 atendimentos via WhatsApp em Campos — volume significativo",
+      "potential_impact": "high",
+      "owner": "Marcelo Rodrigues",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "CS contratando 2 pessoas — possibilidade de melhorar atendimento",
+      "potential_impact": "high",
+      "owner": "Marcelo Rodrigues",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Meta 15 embaixadores no ano — crescimento sustentável",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Testar preço integração R$ 12 com novos clientes",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: CS contrata 2 posições (aprovado). Feb: 1.432 atendimentos WhatsApp. Z2 deve por implantações. Preço integração: testar R$ 12. Paraguai não suportado.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Decisões operacionais com impacto financeiro direto."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "CS aprova 2 contratações: pessoa nível Amanda R$ 6.500 + pessoa Dandara.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Fevereiro: 1.432 atendimentos via WhatsApp em Campos.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Z2 deve por implantações não faturadas desde abril 2025. Felipe cobrindo.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Teste preço integração: R$ 12 para novos clientes, depois expandir.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Sistema não suporta Paraguai — campo país não existe, só UFs brasileiras.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Meta 15 embaixadores no ano, começando devagar.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "João candidato embaixador mas quer closer — decisão pendente.",
+      "category": "person",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Marcelo preparar documento KRs esta semana. Felipe cobrar Z2 sobre implantações. Eduardo perguntar Bruno sobre preço mínimo R$ 12. Reunião específica sobre embaixadores marcada.",
+    "owner": "Marcelo Rodrigues + Felipe Goettems + Eduardo Stringhini + Diego Diehl",
+    "deadline": "2026-03-23T23:59:00.000Z",
+    "reason": "KRs precisam ser definidos para trimestral. Z2 tem dívida antiga. Preço de integraçãoimpacta receita. Embaixadores sem líder definido."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se KRs foram preparados por Marcelo",
+      "Se Z2 pagou as implantações",
+      "Se preço R$ 12 foi aprovado",
+      "Se reunião embaixadores aconteceu",
+      "Se João decidiu entre embaixador e closer",
+      "Se Paraguay foi implementado"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Expansão do Time de Customer Success",
+    "White Label e Captação de Corretores",
+    "Indicadores e KRs",
+    "Projeto de Embaixadores",
+    "Questões Financeiras",
+    "Portal Z2 e Funcionalidades",
+    "Suporte Internacional e Expansão",
+    "Pricing de Integração",
+    "Reconhecimento e Bônus"
+  ]
+}

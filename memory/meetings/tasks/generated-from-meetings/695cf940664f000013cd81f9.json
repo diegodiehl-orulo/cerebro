@@ -1,0 +1,371 @@
+{
+  "meeting_id": "695cf940664f000013cd81f9",
+  "name": "Check In Onboarding  ",
+  "happened_at": "2026-01-06T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T05:21:58.434405+00:00",
+  "executive_summary": "Reuni\u00e3o de onboarding da Jade e Elizangela. Foco em esclarecer entregas para corretores, imobili\u00e1rias e incorporadoras. Diego define papel do s\u00f3cio local como guardi\u00e3o da marca e provocador estrat\u00e9gico da pra\u00e7a. Jade ser\u00e1 respons\u00e1vel por alavancar opera\u00e7\u00f5es no RJ. Meta: contatar 200 pessoas por semana para gerar oportunidades. Planejamento de 25 eventos em 14 cidades.",
+  "context": {
+    "purpose": "Check-in de onboarding de novas membros da equipe e alinhamento de estrat\u00e9gia comercial",
+    "main_agenda_items": [
+      "Onboarding Jade Rosa e Elizangela",
+      "Papel do s\u00f3cio local e guardi\u00e3o da marca",
+      "Estrat\u00e9gia de expans\u00e3o e eventos",
+      "Clarifica\u00e7\u00e3o de entregas para diferentes players",
+      "Metas de expans\u00e3o e prospec\u00e7\u00e3o"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial \u2014 lidera onboarding e define estrat\u00e9gia",
+      "Gustavo Torres": "Coordenador Comercial \u2014 apoio no onboarding",
+      "Jade Rosa": "Nova membra \u2014 responsabilidade por RJ",
+      "Elizangela Fernandes Borges": "Nova membra \u2014 time de cadastro"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": null,
+    "duration_minutes": 69.7
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Jade ser\u00e1 respons\u00e1vel por alavancar opera\u00e7\u00f5es da \u00d3rulo no Rio de Janeiro",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "S\u00f3cio local \u00e9 guardi\u00e3o da marca e provocador estrat\u00e9gico da pra\u00e7a \u2014 n\u00e3o \u00e9 vendedor tradicional",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Meta de expans\u00e3o: contatar 200 pessoas por semana para gerar oportunidades de ativa\u00e7\u00e3o",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Planejamento de 25 eventos em 14 cidades durante o ano, dois eventos por cidade",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Modelo atual: cadastrar incorporadora, gerar resultado e depois converter para plano pago",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Elizangela tem diversas d\u00favidas pendentes do primeiro dia de onboarding",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Ester n\u00e3o foi adicionada corretamente na \u00e1rea de conte\u00fado do onboarding",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Jade precisa esclarecer d\u00favidas sobre perguntas estrat\u00e9gicas para apresenta\u00e7\u00e3o de sexta-feira",
+      "owner": "Jade Rosa",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Aguardando suporte de Gustavo/Diego"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Realizar perguntas relevantes para entender a pra\u00e7a de Jo\u00e3o Pessoa",
+      "owner": "Jade Rosa",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Time de cadastro atualizar e enriquecer dados da base para disponibiliza\u00e7\u00e3o via integra\u00e7\u00e3o",
+      "owner": "Elizangela Fernandes Borges",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Jade usar Yato (ferramenta de IA) para estudo estrat\u00e9gico do mercado imobili\u00e1rio",
+      "owner": "Jade Rosa",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Equipe de CS focar em clientes pagantes e conect\u00e1-los internamente para gerar neg\u00f3cios",
+      "owner": "Marcelo",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego definir meta de expans\u00e3o para empresa inteira, n\u00e3o apenas equipe comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Departamento de vendas abrir vagas para pessoas com habilidades de comunica\u00e7\u00e3o e influ\u00eancia",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Estrat\u00e9gia de conex\u00e3o entre corretores e incorporadoras para fortalecer relacionamento",
+      "owner": "S\u00f3cio Local",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Empresa tratar funcion\u00e1rios internamente melhor do que trata clientes externos",
+      "owner": "Diretoria",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O que exatamente a Jade deve entregar como respons\u00e1vel por alavancar opera\u00e7\u00f5es no Rio de Janeiro?",
+      "context": "Jade foi designada para o RJ mas escopo de entrega ainda n\u00e3o ficou totalmente definido",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Como qualificar o diagn\u00f3stico de uma empresa incorporadora de forma estruturada?",
+      "context": "Equipe precisa de m\u00e9todo para investigar mercado antes de propor solu\u00e7\u00e3o",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual o plano estrat\u00e9gico para a pra\u00e7a de Jo\u00e3o Pessoa e o que \u00e9 necess\u00e1rio para ter um s\u00f3cio local l\u00e1?",
+      "context": "Jade trouxe curiosidade sobre requisitos para abrir nova pra\u00e7a",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q4",
+      "question": "A empresa deve focar menos em vendas diretas e mais em relacionamento com incorporadores \u2014 como mensurar isso?",
+      "context": "Estrat\u00e9gia de foco em relacionamento foi definida mas m\u00e9trica de sucesso n\u00e3o foi discutida",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Elizangela e Jade t\u00eam diversas d\u00favidas pendentes do onboarding \u2014 risco de\u5979\u4eec n\u00e3o estarem preparadas para executar",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Dedicar tempo nas pr\u00f3ximas sess\u00f5es para esclarecer d\u00favidas restantes",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Ester n\u00e3o foi inclu\u00edda corretamente na \u00e1rea de conte\u00fado \u2014 pode atrasar seu onboarding",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Gustavo adicionar Ester na \u00e1rea correta de conte\u00fado",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Jade trouxe d\u00favida sobre especificidades de cidades menores como Juiz de Fora \u2014 amea\u00e7a de sobre-expans\u00e3o para pra\u00e7as com baixo potencial",
+      "type": "strategic",
+      "severity": "medium",
+      "mitigation": "Definir crit\u00e9rios claros de sele\u00e7\u00e3o de pra\u00e7as antes de expansionar",
+      "source": "transcript"
+    },
+    {
+      "id": "R4",
+      "description": "Empresa precisa abrir vagas mas o processo de contrata\u00e7\u00e3o pode ser lento \u2014 impacto no crescimento",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Iniciar processo de recrutamento com crit\u00e9rios definidos",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Jade usando Yato (IA) para estudo personalizado do mercado imobili\u00e1rio \u2014 pode acelerar curva de aprendizado",
+      "potential_impact": "medium",
+      "owner": "Jade Rosa",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Planejamento de 25 eventos em 14 cidades \u2014 oportunidade enorme de capta\u00e7\u00e3o de novos clientes e expans\u00e3o territorial",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Jade investigar especificidades de mercado para cidades menores como Juiz de Fora \u2014 pode revelar pra\u00e7as inexploradas",
+      "potential_impact": "medium",
+      "owner": "Jade Rosa",
+      "source": "transcript"
+    },
+    {
+      "id": "OP4",
+      "description": "Estrat\u00e9gia de conex\u00e3o entre corretores e incorporadoras \u2014 pode criar efeito rede na pra\u00e7a",
+      "potential_impact": "medium",
+      "owner": "S\u00f3cio Local",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Modelo de cadastrar incorporadora primeiro e converter depois \u2014 reduz risco de venda for\u00e7ada e aumenta confian\u00e7a",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar o papel do s\u00f3cio local definido por Diego: guardi\u00e3o da marca e provocador estrat\u00e9gico da pra\u00e7a",
+      "destination": "crm/pessoas.md ou memory/people.md",
+      "priority": "high",
+      "reason": "Defini\u00e7\u00e3o estrat\u00e9gica que deve guiar contrata\u00e7\u00e3o e avalia\u00e7\u00e3o de s\u00f3cios locais"
+    },
+    {
+      "id": "DS2",
+      "action": "Documentar m\u00e9todo de diagn\u00f3stico para qualificar incorporadoras antes da abordagem comercial",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Equipe identificou necessidade de m\u00e9todo estruturado de investiga\u00e7\u00e3o de mercado"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar que Jade ser\u00e1 respons\u00e1vel por alavancar opera\u00e7\u00f5es no RJ",
+      "destination": "crm/pessoas/Jade-Rosa.md",
+      "priority": "high",
+      "reason": "Decis\u00e3o de responsabilidade territorial que impacta planejamento de expans\u00e3o"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Jade Rosa \u00e9 nova membra do time com responsabilidade de alavancar opera\u00e7\u00f5es no RJ \u2014 usa ferramenta Yato (IA) para estudo estrat\u00e9gico",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Elizangela Fernandes Borges est\u00e1 no time de cadastro \u2014 primeiro dia com muitas informa\u00e7\u00f5es e d\u00favidas pendentes",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Papel do s\u00f3cio local definido por Diego: guardi\u00e3o da marca, provocador estrat\u00e9gico da pra\u00e7a, respons\u00e1vel por cuidar da pra\u00e7a \u2014 n\u00e3o \u00e9 vendedor",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Diego ensina t\u00e9cnica de vendas: falar pouco e escutar mais para balizar a conversa e ser receptivo",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Meta de expans\u00e3o: contatar 200 pessoas por semana para gerar oportunidades de ativa\u00e7\u00e3o",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Planejamento de 25 eventos em 14 cidades durante 2026, dois eventos por cidade",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Modelo atual de convers\u00e3o: cadastrar incorporadora, gerar resultado, depois converter para plano pago",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Diego acredita que empresa deve tratar funcion\u00e1rios internamente melhor do que trata clientes externos",
+      "category": "preference",
+      "confidence": "medium"
+    },
+    {
+      "id": "M9",
+      "memory": "Jade trouxe curiosidade sobre especificidades de pra\u00e7as menores como Juiz de Fora \u2014 necessidade de definir crit\u00e9rios de expans\u00e3o",
+      "category": "project",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego definir escopo e metas claras para Jade no RJ e finalizar esclarecimento das d\u00favidas pendentes de Elizangela",
+    "owner": "Diego Diehl",
+    "deadline": null,
+    "reason": "Jade foi designada para RJ mas escopo n\u00e3o est\u00e1 totalmente definido; Elizangela tem d\u00favidas que podem impactar execu\u00e7\u00e3o. Clarificar antes de avan\u00e7ar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcri\u00e7\u00e3o parcialmente truncada no final \u2014 poss\u00edvel perda de decis\u00f5es dos \u00faltimos minutos",
+      "Deadline para tarefas n\u00e3o foram mencionados explicitamente",
+      "Nome de Marcelo como dono de algumas tarefas foi inferido das notas"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "A\u00e7\u00f5es e Compromissos Definidos",
+    "Estrat\u00e9gia de Mercado e Relacionamento",
+    "Prepara\u00e7\u00e3o e Investiga\u00e7\u00e3o de Mercado",
+    "Processo de Cadastro e Atualiza\u00e7\u00e3o",
+    "Status da Equipe e Onboarding"
+  ]
+}

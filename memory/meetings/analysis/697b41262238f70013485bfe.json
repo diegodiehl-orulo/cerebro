@@ -1,0 +1,83 @@
+{
+  "meeting_id": "697b41262238f70013485bfe",
+  "name": "Update: Z2 + Orulo",
+  "happened_at": "2026-01-29T11:15:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:54:35.694041+00:00",
+  "executive_summary": "REUNIAO SEM DADOS SUFICIENTES PARA ANALISE. Topics, notas e transcript indisponiveis. Reuniao durou 11.8 minutos com 17 participantes. Apenas 4 palavras de transcript.",
+  "context": {
+    "purpose": "Atualização sobre Z2 + Órulo — propósito não confirmou via dados disponíveis",
+    "main_agenda_items": [
+      "Dado não disponível"
+    ],
+    "participants_and_roles": {
+      "Roberto Rocco": "Único nome mencionado no transcript",
+      "Outros 16 participantes": "Não identificados no transcript disponível"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 11.8
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O que foi discutido nesta reunião?",
+      "context": "4 palavras de transcript + topics/notes indisponíveis = análise impossível. Necesário confirmar com Diego o conteúdo e desdobramentos.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reunião sem registro estruturado — histórico perdido. Apenas 4 palavras de transcript.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Verificar se há gravação integral ou pedir resumo a participante.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Reunião Z2 + Órulo de 29/01 sem dados suficientes. Verificar se há gravação ou resumo alternativo.",
+      "destination": "memory/pending.md",
+      "priority": "high",
+      "reason": "Reunião com 17 participantes pode ter gerado decisões importantes. Dados perdidos."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Reunião Z2 + Órulo 29/01 sem dados — topics/notes/transcript indisponíveis. Necesário validar conteúdo.",
+      "category": "process",
+      "confidence": "low"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego confirmar o que foi decidido nesta reunião. Verificar se há gravação ou resumo alternativo.",
+    "owner": "Diego Diehl",
+    "deadline": null,
+    "reason": "17 participantes + topics indisponíveis = risco de decisões perdidas. Impossível analisar sem validação."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "O que foi discutido nesta reunião",
+      "Quais decisões foram tomadas",
+      "Quem eram os 17 participantes e seus papéis",
+      "Houve algum follow-up combinado",
+      "Há gravação integral disponível"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "DADO INDISPONIVEL — reuniao sem topics registrados"
+  ]
+}

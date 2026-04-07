@@ -1,0 +1,466 @@
+{
+  "meeting_id": "698b9011657ae90013b40ee1",
+  "name": "Forecast Closer + Padrão de Perdido",
+  "happened_at": "2026-02-10T20:07:45.752Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:29:46.435113+00:00",
+  "executive_summary": "João vai reduzir carteira de 66 para 50 clientes. Diego cobra padrão de perdido: campo 'analisar falha',区分'perdido' vs 'não vai comprar agora'. Reunião forecast semanal na terça. Gustavo define critérios XL e dá feedback. João testar vídeos curtos personalizados.",
+  "context": {
+    "purpose": "Definir padrão de lost deals, forecast semanal e papéis BDR vs Closer",
+    "main_agenda_items": [
+      "Padrão de perdido",
+      "Previsão de forecast",
+      "Papéis e responsabilidades",
+      "Critérios para reuniões XL",
+      "Follow-up com vídeos",
+      "CRM e organização"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador — cobranças e definições",
+      "Gustavo Torres": "Coordenador — critérios XL e feedback",
+      "João Vitor Portes da Silva": "Closer — execução e forecast"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 42.6
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "João reduzir carteira de negócios de 66 para 50 clientes nos próximos 10 dias",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Diferenciar 'perdido' de 'não vai comprar agora' para melhor gestão de carteira",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Criar padrão de cadência de contatos antes de marcar cliente como perdido",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "João documentar perdidos em planilha com situação, chance de compra e prazo",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "João preencher campo 'analisar falha' antes de marcar negócio como perdido",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Negócios perdidos ficam em área separada com histórico completo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Closer focado em atividade, reuniões e contratos fechados — não volume de CRM",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Reunião semanal de forecast na terça-feira",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Gustavo definir critérios claros para reuniões XL que vão para closer",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Gustavo enviar feedback a João sobre qualidade e andamento das reuniões XL",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Reunião XL com sócio ou decisor deve ter closer presente obrigatoriamente",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Validação de cargo e expectativa do cliente deve ser feita pelo BDR antes de reunião XL",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Implementar campo de observações para documentar motivo da perda de negócio",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "João testar vídeos curtos personalizados para apresentar solução a decisores",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "João reduzir carteira de 66 para 50 clientes",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-20T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "João documentar perdidos em planilha (situação, chance, prazo)",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "João preencher campo 'analisar falha' antes de marcar perdido",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Gustavo definir critérios para reuniões XL",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo enviar feedback a João sobre reuniões XL",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Implementar campo de observações no CRM para documentar perda",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "João testar vídeos curtos personalizados",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Corrigir problema de visualização do funil de BDR na plataforma",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Corrigir problema de permissão do histórico de atividades do João",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Pode ser permissão",
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Paloma revisar processo de follow-up com e-mails",
+      "owner": "Paloma",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João reduzir carteira para 50 clientes",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-20T00:00:00.000Z",
+      "priority": "critical",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "João documentar perdidos em planilha",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "João usar campo 'analisar falha' antes de marcar perdido",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo definir critérios reuniões XL",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo implementar campo observações no CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "João testar vídeos curtos personalizados",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Corrigir visualização funil BDR",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Corrigir permissão histórico João",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Por que histórico de atividades do João não aparece? É permissão ou bug?",
+      "context": "Se for permissão, dados de CRM estão incompletos. Precisa corrigir urgently.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual é a cadência padrão de contatos antes de marcar como perdido?",
+      "context": "Se não houver padrão, cada um faz diferente. Impossível medir e comparar.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Quando começa a reunião semanal de forecast na terça?",
+      "context": "Diego disse toda terça mas não deu data de início.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Carteira de João com 66 clientes está grande demais — não consegue dar atenção adequada",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Reduzir para 50 em 10 dias. Priorizar hot deals.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Sem padrão de perdido, negócios ficam em limbo — nem ativos nem cerrados",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Campo 'analisar falha' +区分'perdido' vs 'não vai agora'.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Histórico de atividades do João não aparece — dados de CRM incompletos",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Gustavo verificar permissão. Se bug, corrigir.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "BDRs não validam cargo e expectativa antes de reuniões XL — resulta em meetings ineficazes",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "BDR faz validação antes. Só então passa para closer.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Vídeos curtos personalizados podem aumentar conversão em decisões",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Forecast semanal vai melhorar visibilidade de pipeline e antecipar problemas",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Jade e Mila com trabalho excelente — podem ser benchmark para altri BDRs",
+      "potential_impact": "medium",
+      "owner": "Jade Rosa + Mirla Menezes",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: padrão de perdido definido — campo 'analisar falha' +区分'perdido' vs 'não vai comprar agora' + área separada com histórico.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Processo de lost deal definido. Documentar para treinar其他人 e medir."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: carteira máxima de closer = 50 clientes. Redução de 66 para 50 em 10 dias.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Número máximo de clientes por closer definido. Baseline para scalability."
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: reunião forecast semanal na terça. Critérios XL definidos por Gustavo.",
+      "destination": "memory/decisions.md",
+      "priority": "medium",
+      "reason": "Rito estabelecido — importante para gestão de pipeline."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Padrão de perdido: campo 'analisar falha' +区分'perdido' vs 'não vai comprar agora'. Área separada com histórico. João documenta em planilha.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Carteira máxima closer = 50 clientes. João reduze de 66 para 50 em 10 dias.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Closer focado em: atividade, reuniões, contratos fechados. Não volume de CRM.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Reunião forecast semanal na terça. Gustavo define critérios XL e dá feedback a João.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "XL com sócio/decisor: closer presente obrigatoriamente. BDR valida cargo/expectativa antes.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "João testando vídeos curtos personalizados para apresentar solução a decisores.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M7",
+      "memory": "Jade e Mila: trabalho excelente com agendamentos e contexto de clientes.",
+      "category": "person",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "João reduzir carteira de 66 para 50 clientes HOJE E Gustavo verificar problema de permissão do histórico no CRM. Sem histórico, não há como auditar trabalho do closer.",
+    "owner": "João Vitor Portes da Silva + Gustavo Torres",
+    "deadline": "2026-02-20T00:00:00.000Z",
+    "reason": "Carteira grande é problema de foco. Histórico quebrado é problema de governance. Ambos precisam ser endereçados esta semana."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — seção final pode estar incompleta",
+      "Detalhes técnicos do campo 'analisar falha' não especificados",
+      "Cadência padrão de contatos não totalmente definida",
+      "Data início forecast semanal não especificada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Padrão de Perdidos",
+    "Estrutura de Papéis e Responsabilidades",
+    "Estratégia de Follow-up e Engajamento",
+    "Questões Técnicas e Operacionais",
+    "Feedback Positivo"
+  ]
+}

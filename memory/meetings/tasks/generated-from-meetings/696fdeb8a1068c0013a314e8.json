@@ -1,0 +1,278 @@
+{
+  "meeting_id": "696fdeb8a1068c0013a314e8",
+  "name": "Tarcisio PE + Diego \u00d3rulo",
+  "happened_at": "2026-01-20T20:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:04:29.582307+00:00",
+  "executive_summary": "Demo da plataforma para Tarcisio (Yune \u2014 Pernambuco). Modelo freemium: lan\u00e7amento gratuito para imobili\u00e1rias, R$ 10/m\u00eas por empreendimento p\u00f3s-lan\u00e7amento. Cadastro piloto com incorporadora tecnol\u00f3gica deve ser conclu\u00eddo at\u00e9 quinta. Diego enviar proposta para Batista e Tarcisio analisar. Crescimento: Para\u00edba 2.500 corretores, Vit\u00f3ria 2.000. Pernambuco ainda inicial.",
+  "context": {
+    "purpose": "Demo da plataforma e alinhamento de modelo de neg\u00f3cio com Tarcisio da Yune (PE)",
+    "main_agenda_items": [
+      "Demo da plataforma e funcionalidades",
+      "Modelo freemium e pricing",
+      "Processo de integra\u00e7\u00e3o com incorporadoras",
+      "Piloto e pr\u00f3ximos passos"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial \u2014 l\u00edder da reuni\u00e3o e demo",
+      "Tarcisio Marques": "Yune \u2014 Pernambuco \u2014 potential parceiro",
+      "Roberto Rocco": "Diretor de Gest\u00f5es Comerciais \u2014 presente na liga\u00e7\u00e3o"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 65.6
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Tarcisio escolher uma incorporadora tecnol\u00f3gica para iniciar cadastro piloto na plataforma",
+      "decision_maker": "Tarcisio Marques",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Diego realizar treinamento com time de Tarcisio ap\u00f3s cadastro da primeira incorporadora",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Tarcisio validar solu\u00e7\u00e3o com imobili\u00e1ria ap\u00f3s treinamento e fornecer feedback",
+      "decision_maker": "Tarcisio Marques",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Cadastro piloto deve ser conclu\u00eddo at\u00e9 quinta-feira",
+      "decision_maker": "Tarcisio Marques",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Diego enviar proposta padr\u00e3o para Batista e outra incorporadora para Tarcisio analisar",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego incluir valor na proposta e Tarcisio efetua pagamento para formalizar rela\u00e7\u00e3o",
+      "decision_maker": "Tarcisio Marques",
+      "confidence": "likely",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Tarcisio escolher incorporadora tecnol\u00f3gica para piloto e finalizar cadastro",
+      "owner": "Tarcisio Marques",
+      "deadline": "2026-01-23T23:59:00.000Z",
+      "status": "open",
+      "source": "both",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Diego enviar proposta padr\u00e3o para Batista + outra incorporadora",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Diego realizar treinamento com time de Tarcisio ap\u00f3s piloto",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "both",
+      "blocking_factor": "Piloto ainda n\u00e3o conclu\u00eddo"
+    },
+    {
+      "id": "O4",
+      "description": "Tarcisio validar solu\u00e7\u00e3o com imobili\u00e1ria e dar feedback",
+      "owner": "Tarcisio Marques",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "both",
+      "blocking_factor": "Treinamento ainda n\u00e3o realizado"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Tarcisio escolher incorporadora tecnol\u00f3gica e concluir piloto at\u00e9 quinta",
+      "owner": "Tarcisio Marques",
+      "deadline": "2026-01-23T23:59:00.000Z",
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego enviar proposta para Batista + outra incorporadora para Tarcisio analisar",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego realizar treinamento com time de Tarcisio ap\u00f3s conclus\u00e3o do piloto",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Diego incluir valor na proposta e Tarcisio formalizar pagamento",
+      "owner": "Tarcisio Marques",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual incorporadora Tarcisio vai escolher para o piloto \u2014 tecnol\u00f3gica e com volume?",
+      "context": "Sem escolha da incorporadora, o piloto n\u00e3o avan\u00e7a e a parceria n\u00e3o se formaliza. Tarcisio precisa indicar a incorporadora ainda esta semana.",
+      "answer_required_by": "2026-01-23T23:59:00.000Z",
+      "owner": "Tarcisio Marques"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual o volume de incorporadoras de Tarcisio em Pernambuco e qual o potencial de receita?",
+      "context": "Diego precisa saber o tamanho real da opera\u00e7\u00e3o de Tarcisio para dimensionar o esfor\u00e7o de integra\u00e7\u00e3o e o potencial de receita.",
+      "answer_required_by": null,
+      "owner": "Tarcisio Marques"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Pernambuco ainda est\u00e1 em fase inicial \u2014 volume de corretores e incorporadoras pequeno",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Focar no piloto bem executado antes de escalar \u2014 validar processo em PE",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Tarcisio pode demorar para escolher incorporadora e formalizar pagamento \u2014 risco de estagna\u00e7\u00e3o",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego fazer follow-up em 3 dias se n\u00e3o houver retorno",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Time de 40 pessoas cadastra manualmente empreendimentos faltantes \u2014 processo depende de volume de equipe",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Escalar automatiza\u00e7\u00f5es \u00e0 medida que volume aumenta",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Yune tem 1.000+ imobili\u00e1rias integradas \u2014 potencial grande de escala em Pernambuco via parceria",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Modelo freemium de Tarcisio pode se casar com modelo da \u00d3rulo \u2014 distribui\u00e7\u00e3o gratuita no lan\u00e7amento, R$ 10 emp no p\u00f3s-lan\u00e7amento",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Tarcisio em PE (For\u00e7a\u7684\u4efb\u52a1) pode abrir pra\u00e7a no Nordeste com parceiro local j\u00e1 estabelecido",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar Tarcisio Marques (Yune \u2014 PE) como potencial parceiro/fornecedor com piloto em andamento",
+      "destination": "CRM/bitrix ou memory/people.md",
+      "priority": "high",
+      "reason": "Parceria ativa com piloto definido e compromissos m\u00fatuos \u2014 seguir pipeline"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar modelo freemium: lan\u00e7amento gratuito, R$ 10/empreendimento p\u00f3s-lan\u00e7amento",
+      "destination": "memory/process.md",
+      "priority": "medium",
+      "reason": "Valida\u00e7\u00e3o de pricing com mercado em conversa real \u2014 dado para refer\u00eancia"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Tarcisio Marques \u2014 Yune \u2014 Pernambuco. Modelo freemium: lan\u00e7amento gratuito para imobili\u00e1rias, R$ 10/emp p\u00f3s-lan\u00e7amento. Time 40 pessoas faz cadastro manual. Piloto com primeira incorporadora at\u00e9 quinta.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "M\u00e9tricas de crescimento: Para\u00edba 2.500 corretores (set/24), Vit\u00f3ria 2.000 (mesma fase), Pernambuco inicial",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Diego demonstrar: integra\u00e7\u00e3o CRM, atualiza\u00e7\u00e3o autom\u00e1tica, link compartilh\u00e1vel sem login, marca personalizada, bloqueio de tipologias",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M4",
+      "memory": "Tarcisio colhe dados de incorporadoras manualmente: tabela + Google Drive atualizados mensalmente (dia 3-5)",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego enviar proposta para Batista + outra incorporadora + Tarcisio escolher incorporadora para piloto",
+    "owner": "Diego Diehl + Tarcisio Marques",
+    "deadline": "2026-01-23T23:59:00.000Z",
+    "reason": "Piloto \u00e9 bloqueador para todo o resto. Sem cadastro de uma incorporadora, n\u00e3o h\u00e1 treinamento, n\u00e3o h\u00e1 valida\u00e7\u00e3o, n\u00e3o h\u00e1 formaliza\u00e7\u00e3o."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Volume exato de incorporadoras de Tarcisio n\u00e3o foi mencionado",
+      "Pre\u00e7o exato que Tarcisio cobraria n\u00e3o definido",
+      "Prazo de follow-up de Diego n\u00e3o ficou expl\u00edcito"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "A\u00e7\u00f5es Acordadas",
+    "Modelo de Neg\u00f3cio e Estrat\u00e9gia",
+    "Funcionalidades da Plataforma",
+    "Crescimento e M\u00e9tricas",
+    "Processo de Integra\u00e7\u00e3o com Incorporadoras",
+    "Diferencial Competitivo",
+    "Pr\u00f3ximos Passos Operacionais"
+  ]
+}

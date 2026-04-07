@@ -1,0 +1,385 @@
+{
+  "meeting_id": "699de717fc507800135cebf6",
+  "name": "Órulo + PodConfra's",
+  "happened_at": "2026-02-24T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:16:27.625861+00:00",
+  "executive_summary": "Diego apresentou solução CRI para Isenção tributária a Douglas, Andressa e Rafael (advogados/contadores de Curitiba). Lei de altas rendas afeta terrenistas e incorporadoras. João Biasi é autoridade em CRI em Curitiba — Douglas agenda reunião quando Diego visitar em março.",
+  "context": {
+    "purpose": "Apresentar solução CRI para parceiros potenciais em Curitiba — advogados e contadores que atendem incorporadoras",
+    "main_agenda_items": [
+      "Impacto da lei de tributação de altas rendas em incorporadoras",
+      "Solução CRI para economia de impostos",
+      "Parceiros em Curitiba para distribuir solução",
+      "Agenda de visita de Diego a Curitiba em março",
+      "Podcast PodConfra's"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador — apresentador da solução CRI",
+      "Felipe Goettems": "Founder Órulo — mentioned",
+      "Douglas Vilar": "Advogado — contato em Curitiba, vai agendar reunião com João Biasi",
+      "Andressa Magalhães": "Presidenta Confraria das Mulheres Corretoras — vai estudar proposta",
+      "Rafael Micheviz": "Contador — coordena área tributária mas não atua em imobiliário"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 61.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Douglas agendar reunião com João Biasi quando Diego visitar Curitiba (semana de 16 de março)",
+      "decision_maker": "Douglas Vilar",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Diego enviar apresentação enxuta sobre CRI para Andressa",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Diego enviar agenda detalhada para Douglas e Andressa organizarem reuniões em Curitiba",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Andressa estudar proposta de Diego antes da próxima semana",
+      "decision_maker": "Andressa Magalhães",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Diego visitar Curitiba semana de 16 de março (segunda a sexta)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego participar de homenagem na ALESP em São Paulo dia 18 de março",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Possível almoço entre Diego, Douglas e Andressa após podcast",
+      "decision_maker": "Diego Diehl + Douglas Vilar + Andressa Magalhães",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Rafael não é o contato certo — atua com tributação de dividendos e indústria, não imobiliário",
+      "decision_maker": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego enviar apresentação enxuta sobre CRI para Andressa",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Diego enviar agenda detalhada para Douglas e Andressa",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Douglas agendar reunião com João Biasi (quando Diego visitar Curitiba)",
+      "owner": "Douglas Vilar",
+      "deadline": "2026-03-16T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": "Depende da visita de Diego a Curitiba",
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Andressa estudar proposta de Diego antes da próxima semana",
+      "owner": "Andressa Magalhães",
+      "deadline": "2026-03-03T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego visitar Curitiba semana de 16 de março",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-16T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Organizar almoço Diego + Douglas + Andressa após podcast",
+      "owner": "Diego Diehl + Douglas Vilar + Andressa Magalhães",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Depende de agendamento de podcast",
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Andressa compartilhar contatos de incorporadoras com Diego",
+      "owner": "Andressa Magalhães",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego enviar apresentação enxuta sobre CRI para Andressa",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego enviar agenda detalhada para Douglas e Andressa",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Douglas agendar reunião com João Biasi",
+      "owner": "Douglas Vilar",
+      "deadline": "2026-03-16T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Andressa estudar proposta de Diego",
+      "owner": "Andressa Magalhães",
+      "deadline": "2026-03-03T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego organizar agenda de reuniões em Curitiba",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-14T00:00:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Andressa compartilhar contatos de incorporadoras",
+      "owner": "Andressa Magalhães",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Andressa vai aceitar ser parceira/indicadora da solução CRI em Curitiba?",
+      "context": "Andressa é presidentA da Confraria das Mulheres Corretoras e conhece incorporadoras. Se entrar, abre porta para network inteiro.",
+      "answer_required_by": "2026-03-03T00:00:00.000Z",
+      "owner": "Andressa Magalhães"
+    },
+    {
+      "id": "Q2",
+      "question": "João Biasi vai aceitar meeting com Diego e Douglas? Ele é autoridade em CRI em Curitiba.",
+      "context": "João Biasi fez apresentações na OAB Curitiba. Se validar solução, pode ser endorser importante.",
+      "answer_required_by": "2026-03-16T00:00:00.000Z",
+      "owner": "Douglas Vilar"
+    },
+    {
+      "id": "Q3",
+      "question": "Diego consegue agendar mais reuniões com incorporadoras em Curitiba além de João Biasi?",
+      "context": "Visita de uma semana — precisa maximizar retorno agendando mais encontros.",
+      "answer_required_by": "2026-03-14T00:00:00.000Z",
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Incorporadoras em Curitiba estão demorando para se mexerem após lei de altas rendas — urgência não é clara para eles",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Mostrar caso Vitor Urbana (economia de R$ 900k). Foco em advogados/contadores como influencers.",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Curitiba evita palavra 'permuta' — linguagem precisa ser adaptada para 'parcelamento'",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Usar vocabulário local em todas as comunicações.",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Rafael não atua com imobiliário — não é contato útil para esta solução",
+      "type": "relationship",
+      "severity": "low",
+      "mitigation": "Focar em Douglas e Andressa. Rafael pode indicar outro contato.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Andressa é presidentA da Confraria das Mulheres Corretoras — acesso a network inteiro de corretoras",
+      "potential_impact": "high",
+      "owner": "Andressa Magalhães",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "João Biasi é autoridade em CRI em Curitiba — validação dele pode abrir mercado",
+      "potential_impact": "high",
+      "owner": "Douglas Vilar + Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Migração SCP para CRI economiza até R$ 900k em impostos — argumento forte de venda",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Maria Eugênia é nova presidentA da ADM e trabalhou com Diego na Hype —可能的 parceira",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Podcast PodConfra's pode ser canal de distribuição de conteúdo sobre CRI",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: linguagem em Curitiba — não usar 'permuta', usar 'parcelamento'. Mercado local tem resistência psicológica ao termo.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Adaptação de linguagem é crucial para abordagem em Curitiba. Registrar para equipe de vendas."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: João Biasi — autoridade em estruturação de CRI em Curitiba. Fez apresentações na OAB. Contato via Douglas.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Key opinion leader em Curitiba para solução CRI. Prioridade de contacto na visita."
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: Andressa Magalhães — presidentA da Confraria das Mulheres Corretoras. Conhece incorporadoras. Vai estudar proposta.",
+      "destination": "memory/people.md",
+      "priority": "medium",
+      "reason": "Possível parceira estratégica em Curitiba. Manter acompanhamento."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Lei de tributação de altas rendas (novembro) impacta terrenistas, empreendedores e investidores. Incorporadoras precisam migrar de SCP para CRI para economizar impostos.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Curitiba: não usar 'permuta' — mercado prefere 'parcelamento'. Resistência psicológica ao termo.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "João Biasi: autoridade em estruturação de CRI em Curitiba. Fez apresentações na OAB. Contato via Douglas Vilar.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Andressa Magalhães: presidentA da Confraria das Mulheres Corretoras. Vai estudar proposta de CRI. Conhece incorporadoras.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Migração SCP para CRI economiza até R$ 900k em impostos. Vitor Urbana contratou grande escritório para validar — aprovou.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Diego visita Curitiba semana de 16 de março. Agenda: ALESP dia 18, almoço com Douglas e Andressa, reuniões com João Biasi.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Rafael Micheviz atua com tributação de dividendos e indústria — não é contato útil para CRI em imobiliário.",
+      "category": "person",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego enviar apresentação enxuta de CRI para Andressa HOJE. Depois enviar agenda detalhada de Curitiba. Andressa é porta de entrada para network de incorporadoras em Curitiba.",
+    "owner": "Diego Diehl",
+    "deadline": "2026-02-25T00:00:00.000Z",
+    "reason": "Andressa vai estudar proposta antes da próxima semana. Quanto antes receber material, mais tempo tem para avaliar. E ela é presidentA da Confraria — acesso a incorporadoras."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — seção final pode estar incompleta",
+      "Conteúdo específico da apresentação de CRI não detalhado",
+      "Valores exatos de economia de impostos não especificados (apenas 'até 900k')",
+      "Número de incorporadoras que já migraram para CRI no mercado não mencionado"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Contexto da Reunião e Oportunidade de Negócio",
+    "Insights de Mercado",
+    "Próximos Passos e Cronograma",
+    "Contatos e Relacionamentos"
+  ]
+}

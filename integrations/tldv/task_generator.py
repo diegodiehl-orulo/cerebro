@@ -34,7 +34,7 @@ from pathlib import Path
 WORKSPACE = Path("/root/.openclaw/workspace")
 ANALYSIS_DIR = WORKSPACE / "memory/meetings/analysis"
 TASKS_DIR = WORKSPACE / "tasks"
-GENERATED_DIR = TASKS_DIR / "generated-from-meetings"
+GENERATED_DIR = WORKSPACE / "memory/meetings/tasks"  # per-meeting task outputs
 CONSOLIDATED_DIR = TASKS_DIR / "consolidated"
 LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/tasks_ledger.json"
 LOG_FILE = WORKSPACE / "logs/tldv_task_generator.log"

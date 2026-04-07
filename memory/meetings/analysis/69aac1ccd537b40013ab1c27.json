@@ -1,0 +1,428 @@
+{
+  "meeting_id": "69aac1ccd537b40013ab1c27",
+  "name": "Mkt + Comercial",
+  "happened_at": "2026-03-06T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:54:07.874461+00:00",
+  "executive_summary": "Alinhamento Mkt + Comercial: vídeo geral via fornecedor nacional. Calendário atualizado. Momento crítico = alavanca principal. Curitiba: evento conteúdo para incorporadoras + permuta Hype. Congress 14-16/04.",
+  "context": {
+    "purpose": "Alinhamento semanal entre Marketing (Mayumi) e Comercial (Diego, Gustavo) sobre eventos, conteúdo, funil e estratégia por praça",
+    "main_agenda_items": [
+      "Estratégia de geração de demanda",
+      "Eventos e ativações",
+      "Conteúdo e produção",
+      "Parcerias e relacionamento",
+      "Comunicação e alinhamento"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Mayumi Takeda": "Marketing e Comunidade — DRI WS1/WS5"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 59.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Fornecedor geral de vídeo vai enviar materiais para qualquer lugar do Brasil",
+      "decision_maker": "Mayumi Takeda",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Calendário interno Orlando atualizado com datas organizadas e cidades confirmadas",
+      "decision_maker": "Mayumi Takeda",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Mayumi revisar apresentação comercial e validar estrutura com Diego",
+      "decision_maker": "Mayumi Takeda + Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Marketing deve ser específico nas demandas para execução mais rápida",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Estratégia deve focar em conteúdo específico por praça, não generalista",
+      "decision_maker": "Mayumi Takeda",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Diego atualizar linhas do funil comercial com dados de clientes",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Diego trazer proposta de vídeo com Júnior para evento Curitiba",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Diego criar grupo para organizar conversas sobre eventos",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Mayumi enviar vídeo do evento Curitiba para compartilhar comercialmente",
+      "decision_maker": "Mayumi Takeda",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Closers devem postar Stories com prints de reuniões com incorporadoras",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego definir tema de apresentação para corretores no congresso",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Gustavo apresentar alavancas e gatilhos para Mayumi construir conteúdo",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Mayumi revisar apresentação comercial e validar estrutura com Diego",
+      "owner": "Mayumi Takeda + Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Diego atualizar linhas do funil comercial com dados de clientes",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego trazer proposta de vídeo com Júnior para evento Curitiba",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego criar grupo para organizar conversas sobre eventos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Mayumi enviar vídeo do evento Curitiba para compartilhar comercialmente",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Diego definir tema de apresentação para corretores no congresso",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Mayumi criar conteúdo por praça com base em alavancas e gatilhos do Gustavo",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O8",
+      "description": "Permuta com Hype para evento Curitiba em discussão com Mari",
+      "owner": "Diego Diehl + Mari",
+      "deadline": null,
+      "status": "pending_response",
+      "blocking_factor": "Aguardando retorno de Mari sobre permuta",
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego atualizar linhas funil comercial com dados de clientes",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Mayumi validar apresentação comercial com Diego",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Diego propor vídeo com Júnior para Curitiba",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego criar grupo de organização de eventos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Mayumi enviar vídeo Curitiba para uso comercial",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Diego definir tema apresentação congresso",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Closers postar Stories com prints de reuniões",
+      "owner": "Diego Diehl + time",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Mayumi criar conteúdo por praça baseado em alavancas Gustavo",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "both"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como aumentar conversão de novos usuários — momento crítico é alavanca mas como acionar?",
+      "context": "Diego disse momento crítico é alavanca principal. Gustavo tem gatilhos de usabilidade. Mayumi pode criar conteúdo baseado nisso.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres + Mayumi Takeda"
+    },
+    {
+      "id": "Q2",
+      "question": "Congresso 14-16/04 — Diego definiu tema de apresentação para corretores?",
+      "context": "Congresso é em ~8 dias. Tema precisa estar definido para Mayumi produzir material.",
+      "answer_required_by": "2026-03-10T23:59:00.000Z",
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Permuta com Hype para evento Curitiba vai fechar?",
+      "context": "Hype fará evento para 1.500 corretores na Ópera de Arame. Se permuta não fechar, custo muda.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Mari"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Qualidade de vídeo em Vitória foi fraca — sem profissionalismo não escala",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Fornecedor geral nacional. Proposta de vídeo com Júnior para Curitiba.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Compartilhamento Instagram com usuários não-hora é complicado",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Ajustar processo de compartilhamento. Definir melhores práticas.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Evento Vitória focou em redes sociais sem anúncio — alcance pode ter sido baixo",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Disparo WhatsApp BDR + look-alike para próximos eventos.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Mazzini como incorporadora embaixadora com 500 corretores — conteúdo focado pode alavancar",
+      "potential_impact": "high",
+      "owner": "Mayumi Takeda + Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Curitiba com mídia real-time focada em geração de conteúdo",
+      "potential_impact": "medium",
+      "owner": "Mayumi Takeda + Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Congresso 14-16/04 com workshop e debate — momento de visibilidade para marca",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Mayumi Takeda",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Alavancas e gatilhos do Gustavo para criar conteúdo escalável por praça",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres + Mayumi Takeda",
+      "source": "both"
+    },
+    {
+      "id": "OP5",
+      "description": "Hype evento 1.500 corretores na Ópera de Arame — permuta pode gerar alto alcance",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Mari",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Momento crítico = alavanca principal de conversão. Novo usuário sem momento crítico não compra. Gatilhos de usabilidade identificados.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Alavanca principal validada entre Comercial e Marketing para criar conteúdo."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Evento Curitiba — permuta Hype em discussão, 1.500 corretores na Ópera de Arame.",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Evento grande em Curitiba com potencial de permuta."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Momento crítico = alavanca principal de conversão. Gustavo tem gatilhos de usabilidade. Mayumi vai criar conteúdo por praça.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Calendário Orlando atualizado com datas e cidades. Fornecedor geral pode enviar vídeo para qualquer lugar.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Congresso 14-16/04 — Diego definir tema para corretores. Closers postar Stories de reuniões.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Curitiba: evento conteúdo para incorporadoras + permuta Hype 1.500 corretores na Ópera de Arame.",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M5",
+      "memory": "Mazzini = incorporadora embaixadora com comunidade 500 corretores.",
+      "category": "person",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Diego cobrar especificidade do marketing nas demandas para execução mais rápida.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego definir tema de apresentação para congresso (mais urgente — 8 dias). Mayumi validar apresentação comercial com Diego. Gustavo preparar material de alavancas para Mayumi criar conteúdo por praça.",
+    "owner": "Diego Diehl + Mayumi Takeda + Gustavo Torres",
+    "deadline": "2026-03-10T23:59:00.000Z",
+    "reason": "Congresso em ~8 dias sem tema definido = risco de material não ficar pronto. Momento crítico como alavanca é a maior oportunidade de conteúdo escalável."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Diego definiu tema do congresso",
+      "Se permuta Hype fechou",
+      "Se vídeo Júnior foi contratado para Curitiba",
+      "Se apresentação comercial foi validada",
+      "Se grupo de eventos foi criado",
+      "Se closers começaram a postar Stories"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Estratégia de Geração de Demanda",
+    "Eventos e Ativações",
+    "Conteúdo e Produção",
+    "Parcerias e Relacionamento",
+    "Comunicação e Alinhamento"
+  ]
+}

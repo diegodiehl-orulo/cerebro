@@ -1,0 +1,201 @@
+[2026-04-07T08:00:41]   695cf940664f000013cd81f9: 18 tarefas geradas
+[2026-04-07T08:00:41]   696102ceba41f90013f01bc6: 7 tarefas geradas
+[2026-04-07T08:00:41]   6967853db5963c0013b55312: 16 tarefas geradas
+[2026-04-07T08:00:41]   696f83508e65ee001308f578: 13 tarefas geradas
+[2026-04-07T08:00:41]   696fdeb8a1068c0013a314e8: 13 tarefas geradas
+[2026-04-07T08:00:41]   6979fa4507a27300130c12b7: 13 tarefas geradas
+[2026-04-07T08:00:41]   697a63ad970d0100136de235: 14 tarefas geradas
+[2026-04-07T08:00:41]   6980adfcc547420013ede25e: 15 tarefas geradas
+[2026-04-07T08:00:41]   6984d38d922a6d0013ac69e6: 12 tarefas geradas
+[2026-04-07T08:00:41]   6985db365e4d110013684396: 17 tarefas geradas
+[2026-04-07T08:00:41]   698656450f9b520013d4b1a8: 11 tarefas geradas
+[2026-04-07T08:00:41]   698c8f0c6f43fb001351e1fb: 11 tarefas geradas
+[2026-04-07T08:00:41]   699f46b285c6ba0013e889b6: 17 tarefas geradas
+[2026-04-07T08:00:41]   69a0435446f1b600120eec2f: 23 tarefas geradas
+[2026-04-07T08:00:41]   69a965a5857a4c001356cc3b: 4 tarefas geradas
+[2026-04-07T08:00:41]   69aad6cb6a12da00133feb4e: 26 tarefas geradas
+[2026-04-07T08:00:41]   69bd75fea6d8bc0013db5b94: 15 tarefas geradas
+[2026-04-07T08:00:41]   69c3ea62dbc75500136ae5ab: 9 tarefas geradas
+[2026-04-07T08:00:41]   69c6864fc212f3001399e8f9: 17 tarefas geradas
+[2026-04-07T08:00:41]   69cc039014bbdc00133e2a6a: 21 tarefas geradas
+[2026-04-07T08:00:41]   69ce63fd8ca95a001348d020: 13 tarefas geradas
+[2026-04-07T08:00:41] Consolidado: 622 tarefas | Sem dono: 119 | Sem prazo: 446
+
+# tl;dv — Resumo de Tarefas Geradas
+**Reuniões processadas:** 21
+**Gerado em:** 07/04/2026 08:00
+
+---
+
+## Visão Geral (622 tarefas)
+
+| Prioridade | Qtd |
+|---|---|
+| 🔴 HIGH | 74 |
+| 🟡 MEDIUM | 348 |
+| 🟢 LOW | 0 |
+
+---
+
+## 🔴 Críticas (HIGH + sem dono ou sem prazo)
+
+- **Diego definir escopo e metas claras para Jade no RJ e finalizar esclarecimento d**
+  - ID: `T695cf940-012` | Sem dono: False | Sem prazo: True
+  - Área: Geral | Origem: [695cf940664f...](/2026-01-06)
+- **[RISCO] Time pode focar excessivamente em uso da ferramenta — cliente pode cance**
+  - ID: `T6967853d-014` | Sem dono: True | Sem prazo: True
+  - Área: Comercial | Origem: [6967853db596...](/2026-01-14)
+- **Implementar processo de separação de 20 corretores com atividade <24h para abord**
+  - ID: `T6979fa45-008` | Sem dono: False | Sem prazo: True
+  - Área: WS1 | Origem: [6979fa4507a2...](/2026-01-28)
+- **[RISCO] Corretor pode abandonar producto se tabela estiver desatualizada - gera **
+  - ID: `T6979fa45-011` | Sem dono: True | Sem prazo: True
+  - Área: WS1 | Origem: [6979fa4507a2...](/2026-01-28)
+- **[RISCO] Se corretor não gosta do coordenador de plataforma, ele não oferece o pr**
+  - ID: `T6979fa45-012` | Sem dono: True | Sem prazo: True
+  - Área: WS1 | Origem: [6979fa4507a2...](/2026-01-28)
+- **Aguardar Luigi testar plataforma Orulo e dar feedback. Se positivo, agendar nova**
+  - ID: `T6980adfc-008` | Sem dono: False | Sem prazo: True
+  - Área: Geral | Origem: [6980adfcc547...](/2026-02-02)
+- **[RISCO] Luigi sente-se refem de parceiro unico e busca diversificar - risco de l**
+  - ID: `T6980adfc-011` | Sem dono: True | Sem prazo: True
+  - Área: Geral | Origem: [6980adfcc547...](/2026-02-02)
+- **[RISCO] Time de coordenadores foi perdido - necessidade de reforms estrutural an**
+  - ID: `T6980adfc-012` | Sem dono: True | Sem prazo: True
+  - Área: Gente | Origem: [6980adfcc547...](/2026-02-02)
+- **[RISCO] Bloqueio de parcerias esta impedindo corretores de vender quando ha inte**
+  - ID: `T6980adfc-013` | Sem dono: True | Sem prazo: True
+  - Área: WS1 | Origem: [6980adfcc547...](/2026-02-02)
+- **Diego acompanhar Felipe para garantir envio da apresentação e cobrar retorno de **
+  - ID: `T6984d38d-006` | Sem dono: False | Sem prazo: True
+  - Área: Geral | Origem: [6984d38d922a...](/2026-02-05)
+
+## ⚠️ Sem Dono (priorizar atribuição)
+
+- 🔴 **[RISCO] Time pode focar excessivamente em uso da ferramenta — cliente pode cance**
+  - `T6967853d-014` | Comercial | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Corretor pode abandonar producto se tabela estiver desatualizada - gera **
+  - `T6979fa45-011` | WS1 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Se corretor não gosta do coordenador de plataforma, ele não oferece o pr**
+  - `T6979fa45-012` | WS1 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Luigi sente-se refem de parceiro unico e busca diversificar - risco de l**
+  - `T6980adfc-011` | Geral | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Time de coordenadores foi perdido - necessidade de reforms estrutural an**
+  - `T6980adfc-012` | Gente | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Bloqueio de parcerias esta impedindo corretores de vender quando ha inte**
+  - `T6980adfc-013` | WS1 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Região Sul tem mercado fechado — corretores antigos não compartilham inf**
+  - `T6985db36-016` | WS1 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Time comercial não se sente ouvido pelo time de produto — moral baixa af**
+  - `T698c8f0c-010` | WS3 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Gustavo não está suficientemente próximo dos closers — dificuldade em en**
+  - `T699f46b2-015` | Geral | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Mayumi presa em ajustes do Bitrix impedindo andamento do robô — gargalo **
+  - `T69a04354-021` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Dados insuficientes para análise — reunião não pode ser processada adequ**
+  - `T69a965a5-004` | Geral | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Roleta automática conflita com Z2 — risco de canibalização de produto se**
+  - `T69aad6cb-024` | Produto | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Time comercial não está capacitado e aperfeiçoado para operar no CRM — f**
+  - `T69cc0390-018` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Déficit de 7k em vendas — meta de abril (19) não cobre buraco sozinho**
+  - `T69cc0390-019` | WS3 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Mari com tubarão 12% — age lentamente sem processo estruturado. Pode ger**
+  - `T69ce63fd-011` | Geral | Tipo: OBSERVACAO
+
+## ⚠️ Sem Prazo (definir urgência)
+
+- 🔴 **Diego definir escopo e metas claras para Jade no RJ e finalizar esclarecimento d** @(Diego Diehl)
+  - `T695cf940-012` | Área: Geral
+- 🔴 **Implementar processo de separação de 20 corretores com atividade <24h para abord** @(Gustavo Torres / time comercial)
+  - `T6979fa45-008` | Área: WS1
+- 🔴 **Aguardar Luigi testar plataforma Orulo e dar feedback. Se positivo, agendar nova** @(Luigi Gubert)
+  - `T6980adfc-008` | Área: Geral
+- 🔴 **Diego acompanhar Felipe para garantir envio da apresentação e cobrar retorno de ** @(Diego Diehl + Felipe Goettems)
+  - `T6984d38d-006` | Área: Geral
+- 🔴 **Alejandro + Diego alinharem decisão sobre roleta automática (conflito Z2) e crit** @(Alejandro Olchik + Diego Diehl)
+  - `T69aad6cb-016` | Área: Financeiro
+- 🔴 **Diego cobrar Lucas e Matheus para enviarem documentos (escritura de terrenos, VG** @(Diego Diehl + Felipe Goettems)
+  - `T69c6864f-010` | Área: Financeiro
+- 🔴 **Implementar processo de separação de 20 corretores com atividade <24h para abord** @(Gustavo Torres / time comercial)
+  - `T6979fa45-008` | Área: WS1
+- 🔴 **Aguardar Luigi testar plataforma Orulo e dar feedback. Se positivo, agendar nova** @(Luigi Gubert)
+  - `T6980adfc-008` | Área: Geral
+- 🔴 **Diego definir escopo e metas claras para Jade no RJ e finalizar esclarecimento d** @(Diego Diehl)
+  - `T695cf940-012` | Área: Geral
+- 🔴 **Alejandro + Diego alinharem decisão sobre roleta automática (conflito Z2) e crit** @(Alejandro Olchik + Diego Diehl)
+  - `T69aad6cb-016` | Área: Financeiro
+- 🔴 **Diego acompanhar Felipe para garantir envio da apresentação e cobrar retorno de ** @(Diego Diehl + Felipe Goettems)
+  - `T6984d38d-006` | Área: Geral
+- 🔴 **Diego cobrar Lucas e Matheus para enviarem documentos (escritura de terrenos, VG** @(Diego Diehl + Felipe Goettems)
+  - `T69c6864f-010` | Área: Financeiro
+- 🟡 **Realizar perguntas relevantes para entender a praça de João Pessoa** @(Jade Rosa)
+  - `T695cf940-001` | Área: WS3
+- 🟡 **Time de cadastro atualizar e enriquecer dados da base para disponibilização via ** @(Elizangela Fernandes Borges)
+  - `T695cf940-002` | Área: Gente
+- 🟡 **Jade usar Yato (ferramenta de IA) para estudo estratégico do mercado imobiliário** @(Jade Rosa)
+  - `T695cf940-003` | Área: Geral
+
+## 🗳️ Decisões Pendentes
+
+- **[RISCO] Timing de decisão depende de Fernando — pode atrasar ou descarteimar**
+  - Dono não definido | Geral
+- **[RISCO] Timing de decisão depende de Fernando — pode atrasar ou descarteimar**
+  - Dono não definido | Geral
+
+## 🔄 Follow-ups
+
+- **Tarcisio validar solução com imobiliária e dar feedback**
+  - Tarcisio Marques | Deadline: a definir
+- **Luigi testar acesso a plataforma Orulo e dar feedback**
+  - Luigi Gubert | Deadline: a definir
+- **Aguardar Luigi testar plataforma Orulo e dar feedback. Se positivo, agendar nova**
+  - Luigi Gubert | Deadline: a definir
+- **Marcos modelar operação e retornar com contas nos próximos dias**
+  - Marcos Moraes | Deadline: a definir
+- **Marcos modelar operação e retornar com contas detalhadas nos próximos dias**
+  - Marcos Moraes | Deadline: a definir
+- **Diego acompanhar Felipe para garantir envio da apresentação e cobrar retorno de **
+  - Diego Diehl + Felipe Goettems | Deadline: a definir
+- **Diego puxar feedback estruturado do time sobre DL**
+  - Diego Diehl | Deadline: a definir
+- **Diego puxar feedback estruturado do time comercial sobre DL**
+  - Diego Diehl | Deadline: a definir
+- **Neno agendar conversa com Gustavo sobre templates de DL + Diego puxar feedback d**
+  - Neno Andrade + Diego Diehl | Deadline: 2026-02-18T23:59:00.000Z
+- **Gustavo assistir entrevista do candidato a closer e dar feedback para Diego**
+  - Gustavo Torres | Deadline: a definir
+
+## 🚧 Bloqueios Recorrentes
+
+- (2x) Aguardando suporte de Gustavo/Diego
+- (2x) Terceira pessoa não está respondendo mensagens nem atendendo ligações
+- (2x) Contato com terceira pessoa pendente
+- (2x) Decisão de participar ainda não tomada
+- (2x) Piloto ainda não concluído
+- (2x) Treinamento ainda não realizado
+- (2x) Lista ainda nao formalizada
+- (2x) Link ainda nao foi acessado/testado
+- (2x) Nao ha equipe atual para tocar operacao
+- (2x) Parceiro atual esta bloqueando canais
+
+## 👤 Por Responsável
+
+- **_SEM_DONO_**: 119 tarefas 🔴32 HIGH
+- **Diego Diehl**: 118 tarefas 🔴10 HIGH
+- **Gustavo Torres**: 57 tarefas 🔴2 HIGH
+- **Nicolau Sarquis**: 20 tarefas 🔴2 HIGH
+- **Ester Elisa de Souza Rodrigues**: 20 tarefas 🔴2 HIGH
+- **João Vitor Portes da Silva**: 18 tarefas 🔴2 HIGH
+- **Luigi Gubert**: 18 tarefas 🔴2 HIGH
+- **time**: 16 tarefas 🔴2 HIGH
+- **Mayumi Takeda**: 16 tarefas
+- **Felipe Goettems**: 16 tarefas 🔴2 HIGH
+- **Neno Andrade**: 16 tarefas
+- **Marcos Moraes**: 14 tarefas
+- **Rodrigo Zilli**: 14 tarefas
+- **Mari**: 14 tarefas
+- **Tarcisio Marques**: 12 tarefas
+
+*Gerado por Morfeu | 622 tarefas de 21 reuniões*
+[2026-04-07T08:00:41] Task generator finalizado. Processados: 21 | Total tarefas: 622

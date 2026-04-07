@@ -1,0 +1,428 @@
+{
+  "meeting_id": "69a19c4b7ac8c80013e360e1",
+  "name": "Product Planning",
+  "happened_at": "2026-02-27T13:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:07:26.907261+00:00",
+  "executive_summary": "Product planning focado em UX: permissões, aba audiência, listagem corretores, diferenciação pagantes/não pagantes. Muitos clientes sem administrador é risco operacional. Neno ajustar fluxos.",
+  "context": {
+    "purpose": "Refinar funcionalidades do produto: permissões, audiência, listagem de corretores e display de preços",
+    "main_agenda_items": [
+      "Permissões e controle de acesso",
+      "Comunicação e frequência de envio",
+      "Listagem de corretores",
+      "Aba de audiência",
+      "Detalhes do empreendimento",
+      "Contatos e responsáveis",
+      "Diferenciação de corretores pagantes",
+      "Informações de preço e atualização",
+      "Integração web e aplicativo"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Alejandro Olchik": "CTO",
+      "Eduardo Stringhini": "Diretor",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Marcelo Rodrigues": "Diretor de Operações",
+      "Neno Andrade": "Tech — responsável por implementação",
+      "Bruna Soares": "Comunicação",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Amanda Santos": "Tech",
+      "Talita Campos": "Produto",
+      "Lais Santos Soares": "Produto",
+      "Guilherme Andrade Lacerda": "Tech",
+      "Mariana Marins": "Participou",
+      "Beatriz Fusquino": "Participou",
+      "Rubem Rocha": "Participou",
+      "Fernando Florêncio": "Participou",
+      "Bruno Zucchetti Rodrigues": "Participou"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 63.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Mensagens incluem últimos 4 dígitos do contato do corretor para instigar",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Usuário sem permissão recebe mensagem informando restrição e opção de solicitar acesso",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Editor não consegue alterar responsável — replica permissões da web",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Imobiliárias com exclusividade configuradas como leitoras, não editoras",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "E-mails planejados semanalmente compilando dados de visibilidade",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Título alterado para 'Acessos Recentes' para direcionar comunicação ao recente",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Redirect para web requer login automático para melhor fluidez",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Quantidade de corretores acessando aparece em destaque sem minimizar nomes",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Consulta limitada a 90 dias sem permitir usuário editar período inicialmente",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "CTA para incentivar contratação de plano avançado na aba audiência",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Tabela digital destacada com botão primário em vez de secundário",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Tipologias e características reordenadas para posição superior na tela",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Campos sem dados exibem tracinho para indicar possibilidade de preenchimento",
+      "decision_maker": "Talita Campos",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Corretores não pagantes aparecem no final da listagem com menos destaque",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D15",
+      "description": "Sinalização visual de credibilidade para diferenciar pagantes de não pagantes",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D16",
+      "description": "Suporte para até dois contatos com interface de rotação",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D17",
+      "description": "Última atualização aparece junto ao preço para facilitar visualização",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Neno validar regra de mais de 10 acessos para frequência de envio",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Neno revisar nomenclatura de abas de corretores para maior clareza",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Alejandro definir critérios de diferenciação visual entre pagantes e não pagantes",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Neno detalhar cenário de múltiplos contatos e interface de rotação",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Neno ajustar fluxo de atribuição de responsável para cenários sem administrador",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Talita validar se informações sem dados devem ser ocultadas ou exibidas com tracinho",
+      "owner": "Talita Campos",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Discutir percepção de baixa atualização e apresentação",
+      "owner": "Diego Diehl + Neno",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Neno validar regra 10 acessos",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Neno revisar nomenclatura abas",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Alejandro definir diferenciação visual pagantes/não pagantes",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Neno detalhar múltiplos contatos + rotação",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Neno ajustar fluxo sem administrador",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Talita validar campos com tracinho",
+      "owner": "Talita Campos",
+      "deadline": null,
+      "priority": "low",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como resolver o problema de muitos clientes sem administrador definido?",
+      "context": "Risco operacional. Se ninguém é admin, quem aprova solicitações?",
+      "answer_required_by": null,
+      "owner": "Alejandro + Neno"
+    },
+    {
+      "id": "Q2",
+      "question": "Quando a percepção de baixa atualização será endereçada?",
+      "context": "Se cliente achar que dado está desatualizado, perde confiança no produto.",
+      "answer_required_by": null,
+      "owner": "Neno + Diego"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual é o critério exato de diferenciação visual entre pagantes e não pagantes?",
+      "context": "Se não ficar claro, experiência do usuário sofre.",
+      "answer_required_by": null,
+      "owner": "Alejandro Olchik"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Muitos clientes não possuem administrador definido — risco operacional alto",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Quando não há admin, encaminhar para atendimento. Não perder oportunidade de DL.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Percepção de baixa atualização pode gerar desconfiança no produto",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Mostrar última atualização junto ao preço. Comunicar claramente.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Editor pode tentar roubar corretor de outro gerente se tiver permissões",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Padrão: editor não consegue atribuir responsável. Permissão limitada.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "CTA para plano avançado na aba audiência — potencial upsell",
+      "potential_impact": "medium",
+      "owner": "Neno Andrade",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Diferenciação visual clara pode aumentar percepção de valor",
+      "potential_impact": "medium",
+      "owner": "Alejandro Olchik",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Suporte a 2 contatos com rotação — melhor experiência para imobiliárias grandes",
+      "potential_impact": "low",
+      "owner": "Neno Andrade",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Risco operacional — muitos clientes sem admin. Fluxo: encaminhar para atendimento quando não há admin.",
+      "destination": "memory/processos.md",
+      "priority": "high",
+      "reason": "Decisão de produto que impacta operação."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Corretores não pagantes no final com menos destaque. Diferenciação visual por credibilidade.",
+      "destination": "memory/processos.md",
+      "priority": "medium",
+      "reason": "UX decision importante."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Produto: editor não consegue alterar responsável — replica permissões web. Imobiliárias exclusividade = leitoras.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Risco operacional: muitos clientes sem administrador. Quando sem admin, encaminhar para atendimento.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "UX: não pagantes no final com menos destaque. Diferenciação visual por credibilidade.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M4",
+      "memory": "Preço + última atualização juntos na tela. Campos sem dado = tracinho.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Neno avançar com regra de 10 acessos e fluxo sem admin. 同时, Alejandro definir diferenciação visual pagantes/não pagantes. Sem essas definições, desenvolvimento trava.",
+    "owner": "Neno Andrade + Alejandro Olchik",
+    "deadline": null,
+    "reason": "Decisões técnicas bloqueiam implementação. Sem它们, equipe não consegue avanzar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Critério exato de diferenciação visual não definido",
+      "Solução final para cenário sem admin não completamente detalhada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Permissões e Controle de Acesso",
+    "Comunicação e Frequência de Envio",
+    "Listagem de Corretores",
+    "Aba de Audiência",
+    "Detalhes do Empreendimento",
+    "Contatos e Responsáveis",
+    "Diferenciação de Corretores Pagantes",
+    "Informações de Preço e Atualização",
+    "Integração Web e Aplicativo"
+  ]
+}

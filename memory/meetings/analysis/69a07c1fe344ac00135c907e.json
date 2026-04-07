@@ -1,0 +1,546 @@
+{
+  "meeting_id": "69a07c1fe344ac00135c907e",
+  "name": "Órulo + Apolar",
+  "happened_at": "2026-02-26T17:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:34:11.269497+00:00",
+  "executive_summary": "Parceria Órulo + Apolar fechando: 14 empreendimentos novos via Apolar com carência de 90 dias. 5 construtoras já com comissão maior (5% vs 4%). Portal Apolar exibirá só lançamentos com gestão exclusiva Órulo. Expansão Paraguai confirmada com 5 lojas. Workshop em Curitiba em 3 semanas.",
+  "context": {
+    "purpose": "Alinhar partnership de distribuição entre Órulo e Apolar, definir modelo de comissões, carência e integração tecnológica",
+    "main_agenda_items": [
+      "Termos da parceria e exclusividades",
+      "Integração tecnológica (página radar)",
+      "Portfólio de empreendimentos",
+      "Comissões e precificação",
+      "Expansão geográfica (Paraguai)",
+      "Próximos passos e workshop"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador e director comercial Órulo",
+      "Luiz Gustavo Zanella": "Sócio-Local Curitiba e DRI operacional da parceria",
+      "Felipe Steberl": "Representante Apolar (provável Sócio)",
+      "Werner Winter": "Representante Apolar (dados e números)"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 51.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "14 empreendimentos novos serão adicionados à plataforma Apolar via Órulo com 90 dias de carência antes de começar a pagar",
+      "decision_maker": "Diego Diehl + Felipe Steberl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Comissão de 5% para Apolar em negociações diretas com construtoras, versus 4% via plataforma Órulo",
+      "decision_maker": "Diego Diehl + Felipe Steberl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Portal Apolar exibirá apenas lançamentos com gestão exclusiva de Órulo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Contratos serão assinados separadamente para cada incorporadora",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Modelo de exclusividade total para pequenas e médias construtoras — Apolar divulga e Órulo faz gestão comercial",
+      "decision_maker": "Felipe Steberl + Werner Winter",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Luiz enviará mensagem para Werner solicitando atualização dos empreendimentos",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Diego enviará proposta padrão em minuta para Werner",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Luiz enviará minuta padrão para Werner, removendo dados do último contratante",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Diego criar grupo para discussão exclusiva de lançamentos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Felipe fará contato com João para incluir Paraguai no pacote",
+      "owner": "Felipe Steberl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Workshop em Curitiba em três semanas para 150 incorporadoras sobre parcerias",
+      "owner": "Órulo + Apolar",
+      "deadline": null,
+      "status": "open",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Imóveis não vendidos em 10-15 dias serão enviados para Apolar Busca",
+      "decision_maker": "Felipe Steberl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Paraguai incluído na plataforma com possível tradução do site",
+      "decision_maker": "Órulo",
+      "confidence": "likely",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Werner enviar lista de todas as incorporadoras e empreendimentos para Diego e Luiz",
+      "owner": "Werner Winter",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "sem essa lista, não é possível iniciar precificação",
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Luiz mandar mensagem para Werner solicitando atualização dos empreendimentos",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego mandar proposta padrão em minuta para Werner",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Luiz mandar minuta padrão para Werner, removendo dados do último contratante",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego criar grupo para discussão exclusiva de lançamentos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Felipe contatar João para incluir Paraguai no pacote",
+      "owner": "Felipe Steberl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Workshop em Curitiba em 3 semanas — 150 incorporadoras — organizar conteúdo e logística",
+      "owner": "Diego Diehl + Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "3 semanas é prazo apertado para organizar evento com 150 pessoas",
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Precificação exata dos 14 empreendimentos novos — ainda não definida claramente",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Tabela de precificação da Órulo não totalmente discutida no transcript",
+      "source": "transcript"
+    },
+    {
+      "id": "O9",
+      "description": "Órulo definir se leva representantes ao Paraguai para aprender estruturação de parcerias",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Werner enviar lista completa de incorporadoras e empreendimentos para Diego e Luiz",
+      "owner": "Werner Winter",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Luiz enviar mensagem para Werner solicitando atualização dos empreendimentos",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego enviar proposta padrão em minuta para Werner",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Luiz enviar minuta padrão para Werner, limpando dados do último contratante",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego criar grupo WhatsApp para discussão exclusiva de lançamentos",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Felipe contatar João para incluir Paraguai no pacote",
+      "owner": "Felipe Steberl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Organizar workshop em Curitiba (3 semanas) para 150 incorporadoras",
+      "owner": "Diego Diehl + Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Treinamento personalizado de rastreabilidade para Apolar via Luiz",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T9",
+      "description": "Órulo avaliar se manda representantes ao Paraguai para aprender estruturação de parcerias",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "low",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual é o valor exato da precificação para os 14 novos empreendimentos (além dos 5 com comissão maior)?",
+      "context": "Transcript truncou na discussão de preços. Órulo tem tabela de precificação por produto, mas valores específicos não foram registrados.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Quem é o João que Felipe vai contatar sobre Paraguai? Qual é o pacote de expansão?",
+      "context": "Paraguai tem 5 lojas, uma delas própria de Felipe. Inclusão no paquete precisa de contato e definição de termos.",
+      "answer_required_by": null,
+      "owner": "Felipe Steberl"
+    },
+    {
+      "id": "Q3",
+      "question": "90 dias de carência — começa de quando? Data de início efetiva dos contratos?",
+      "context": "Carência foi acordada mas data de início não została definida. Pode gerar discussão futura se não for formalizada.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Werner Winter"
+    },
+    {
+      "id": "Q4",
+      "question": "Workshop em 3 semanas — já tem data, local e logística definidos?",
+      "context": "150 incorporadoras em 3 semanas é agressivo. Precisa de confirmação rápida ou extensão de prazo.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Luiz Gustavo Zanella"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Precificação dos 14 empreendimentos novos não ficou clara no transcript — risco de mal-entendido posterior",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Formalizar valores em documento antes de Werner assinar minuta",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Apolar atualiza 70% dos lançamentos do Brasil — poder de barganha alto pode pressionar comissão",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Manter gestão exclusiva como diferencial. Não ceder controle de precificação",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Contratos assinados separadamente por incorporadora podem gerar retrabalho e inconsistências",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Usar minuta padrão para todos. Revisar com equipe jurídica se necessário",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Paraguai tem time próprio de Felipe — possível conflito de interesse em negociação de pacote",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Definir claramente o que entra no pacote internacional e o que fica só no Brasil",
+      "source": "notes"
+    },
+    {
+      "id": "R5",
+      "description": "5 construtoras com comissão de 5% vs 4% padrão — pode criar precedente para outras construtoras exigirem o mesmo",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Documentar que essas 5 já tinham negociação prévia. Não generalizar para novos contratos",
+      "source": "both"
+    },
+    {
+      "id": "R6",
+      "description": "Apolar integra 40 CRMs — pode haver sobreposição com integrações existentes da Órulo gerando conflito de dados",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Verificar compatibilidade antes de ativar integração full",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Parceria Órulo + Apolar pode posicionar Órulo como Pit comercial para incorporadoras — modelo Remax replicado",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Apolar divulga para 600 imobiliárias e 5 mil corretores — alcance que nenhuma outra parceria oferece",
+      "potential_impact": "high",
+      "owner": "Órulo",
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Expansão Paraguai com 5 lojas e loja própria de Felipe — mercado internacional acessível",
+      "potential_impact": "high",
+      "owner": "Felipe Steberl + Felipe (fundador)",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Workshop em Curitiba para 150 incorporadoras — oportunidade de captação de novos clientes em única sessão",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Luiz Gustavo Zanella",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Modelo de exclusividade total para pequenas e médias construtoras pode ser replicado em outras praças",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar termos da parceria Apolar: 14 empreendimentos novos, 90 dias carência, comissão 5% Apolar vs 4% plataforma, exclusividade total",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Parceria estratégica com alto impacto em MRR — termos precisam estar documentados com clareza"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: 5 construtoras já com comissão maior negociada (5%) — não generalize",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Precedente de comissão diferente — perlu documentar para evitar exigências de outras construtoras"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: Werner Winter é o DRI de dados e números da Apolar. Mandará lista de incorporadoras e empreendimentos",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Novo contato-chave na Apolar identificado"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar: Felipe Steberl representa Apolar na parceria. João (a definir) é contato para Paraguai",
+      "destination": "memory/people.md",
+      "priority": "medium",
+      "reason": "Novo parceiros identificados — perlu registry com papel e alcance"
+    },
+    {
+      "id": "DS5",
+      "action": "Registrar: Workshop em Curitiba em 3 semanas para 150 incorporadoras sobre parcerias",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Evento futuro com prazo definido — perlu rastrear para não perder deadline"
+    },
+    {
+      "id": "DS6",
+      "action": "Registrar: Modelo Remax como referência — divulga para 600 imobiliárias e 5 mil corretores",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Benchmark competitivo importante para argumentação comercial"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Parceria Apolar + Órulo: 14 empreendimentos novos com 90 dias carência. Comissão 5% Apolar (negociada), 4% plataforma. Portal exibe só lançamentos com gestão exclusiva Órulo.",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "5 construtoras já têm comissão maior (5%) negociada antes desta parceria — precedente documentado",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Werner Winter (Apolar): DRI de dados e números. Vai enviar lista completa de incorporadoras e empreendimentos para Diego e Luiz",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Felipe Steberl: representante Apolar na parceria. Propôs 90 dias de carência, integração radar, exclusividade total",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Apolar atualiza 70% dos lançamentos do Brasil com time de 30 pessoas — poder de barganha alto",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Luiz Gustavo Zanella: DRI operacional da parceria Apolar + responsável por mandar mensagens e minutas para Werner",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Workshop em Curitiba em 3 semanas para 150 incorporadoras sobre parcerias",
+      "category": "project",
+      "confidence": "likely"
+    },
+    {
+      "id": "M8",
+      "memory": "Paraguai: 5 lojas Apolar, uma loja própria de Felipe. Possible tradução do site. Felipe vai contatar João.",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M9",
+      "memory": "Órulo comprou domínio internacional após 15 anos de operação — preparação para expansão",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M10",
+      "memory": "Imóveis não vendidos em 10-15 dias serão redirecionados para Apolar Busca — ciclo virtuoso de distribuição",
+      "category": "decision",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Luiz enviar mensagem para Werner HOJE solicitando lista de incorporadoras e empreendimentos + Diego enviar minuta padrão. Sem a lista, precificação não avança.",
+    "owner": "Luiz Gustavo Zanella + Diego Diehl",
+    "deadline": "2026-04-08T00:00:00.000Z",
+    "reason": "Todos os próximos passos dependem da lista de Werner. Se Luiz e Diego não agirem amanhã, a parceria para no aguardo. Prioridade máxima nos próximos 2 dias úteis."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Transcript truncado na discussão de precificação — valores específicos não registrados",
+      "90 dias de carência: data de início não confirmada",
+      "Precificação exata dos 14 empreendimentos não definida",
+      "Felipe Steberl papel exato (título) não mencionado no transcript",
+      "João do Paraguai aparece apenas como referência, sem contexto completo",
+      "Apolar integra com aproximadamente 40 CRMs — quais exatamente não detalhado",
+      "Contratos separados por incorporadora — existe minuta padrão ou precisam criar do zero"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Termos Acordados da Parceria",
+    "Integração de Plataforma e Tecnologia",
+    "Portfólio e Empreendimentos",
+    "Estratégia de Distribuição e Comissões",
+    "Expansão Geográfica",
+    "Próximos Passos e Eventos"
+  ]
+}

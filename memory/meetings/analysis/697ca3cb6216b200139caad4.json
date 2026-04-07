@@ -1,0 +1,490 @@
+{
+  "meeting_id": "697ca3cb6216b200139caad4",
+  "name": "CCR Corretores",
+  "happened_at": "2026-01-30T12:27:55.206Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:43:07.353926+00:00",
+  "executive_summary": "CCR semanal com foco em João Pessoa: Ester approachou 24-26 cadastrados semana 18-24jan com áudio + material educativo (mais efetivo que mensagem genérica). Identificada necessidade de corredor ponte na zona sul. Sistema de pontuação 0-10 para incorporadoras em desenvolvimento. Parceria Creci Paraíba em curso. Foco em retenção nas primeiras 3-4 semanas.",
+  "context": {
+    "purpose": "CCR semanal — revisar resultados de abordagem de novos cadastrados, identificar problemas de produto e oportunidades de retenção",
+    "main_agenda_items": [
+      "Resultado da abordagem de 24-26 cadastrados",
+      "Problemas de produto (filtros, tabelas desatualizadas)",
+      "Estratégia zona sul de João Pessoa",
+      "Sistema de pontuação para incorporadoras",
+      "Parceria Creci Paraíba",
+      "Retenção nas primeiras semanas"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador e director comercial (parcial)",
+      "João Vitor Portes da Silva": "Closer — apresentador",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Ester Elisa de Souza Rodrigues": "Comunicação com Corretores"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 65.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Ester abordar 24-26 corretores cadastrados entre 18-24 janeiro para aumentar retenção nas primeiras semanas",
+      "decision_maker": "Ester Elisa de Souza Rodrigues",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Usar abordagem pessoal com áudio e material educativo em vez de mensagens genéricas",
+      "decision_maker": "Ester Elisa de Souza Rodrigues",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Implementar sistema de pontuação 0-10 para incentivar atualização de anúncios de incorporadoras",
+      "decision_maker": "time de produto",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "João contatar Wagner Felipe solicitando indicação de corretor da zona sul de João Pessoa",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Ester identificar corretor com forte atuação na zona sul de João Pessoa para ser ponte com incorporadoras",
+      "decision_maker": "Ester Elisa de Souza Rodrigues",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Desenvolver hotsite para apresentar plataforma a novos corretores mais efetivamente",
+      "decision_maker": "time de produto",
+      "confidence": "uncertain",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Criar vídeos educativos focando em elementos do modelo de negócio, não apenas funcionalidades",
+      "decision_maker": "Ester Elisa de Souza Rodrigues + time de conteúdo",
+      "confidence": "uncertain",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Gustavo definir cartilha de comunicação para processar indicações de incorporadoras não cadastradas",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Parceria com Creci Paraíba em projeto 'Índice Cresce'",
+      "decision_maker": "Ester Elisa de Souza Rodrigues",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Adicionar botão de WhatsApp integrado para facilitar contato direto com corretores",
+      "decision_maker": "time de produto",
+      "confidence": "uncertain",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Ester testar recebimento de contatos proativos via WhatsApp para validar modelo",
+      "decision_maker": "Ester Elisa de Souza Rodrigues",
+      "confidence": "uncertain",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "João contatar Wagner Felipe pedindo indicação de corretor da zona sul de João Pessoa",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "transcript"
+    },
+    {
+      "id": "O2",
+      "description": "Ester identificar corretor ponte na zona sul de João Pessoa",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "depende de contato com Wagner Felipe",
+      "source": "both"
+    },
+    {
+      "id": "O3",
+      "description": "Sistema de pontuação 0-10 para incorporadoras — implementar",
+      "owner": "time de produto",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "já tem desenho mas não implementado",
+      "source": "transcript"
+    },
+    {
+      "id": "O4",
+      "description": "Hotsite para novos corretores — desenvolver",
+      "owner": "time de produto",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Atualização de tabelas de preço junto às construtoras — melhorar processo",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "tabelas desatualizadas causam frustração",
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Ester enviar apresentação para Diego revisar antes de compartilhar com diretoria",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Parceria Creci Paraíba 'Índice Cresce' — desenvolver",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "em desenvolvimento",
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Gustavo definir cartilha de comunicação para processar indicações de incorporadoras não cadastradas",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Ester testar recebimento de contatos proativos via WhatsApp",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Banner ou email marketing direcionado para João Pessoa estimulando contato",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João contatar Wagner Felipe pedindo indicação de corretor da zona sul de João Pessoa",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Ester identificar corretor ponte na zona sul de João Pessoa",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Ester enviar apresentação para Diego revisar antes de compartilhar com diretoria",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo criar cartilha de comunicação para processar indicações de incorporadoras não cadastradas",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Ester testar recebimento de contatos proativos via WhatsApp",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Ester criar vídeos educativos focando em modelo de negócio",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Melhorar processo de atualização de tabelas de preço com construtoras",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Ester engajar segunda safra de corretores (semana 31 agosto) com foco em features e valor agregado",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Wagner Felipe respondeu com indicação de corretor da zona sul?",
+      "context": "Sem essa resposta, zona sul continua sem cobertura. Depende de ação de João.",
+      "answer_required_by": null,
+      "owner": "João Vitor Portes da Silva"
+    },
+    {
+      "id": "Q2",
+      "question": "Quem é o corretor com forte atuação na zona sul identificado pela Ester?",
+      "context": "Corretor ponte é chave para acessar incorporadoras da zona sul. Precisa de nome e contato.",
+      "answer_required_by": null,
+      "owner": "Ester Elisa de Souza Rodrigues"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual é o prazo para implementação do sistema de pontuação 0-10 das incorporadoras?",
+      "context": "Feature já tem desenho mas não saiu. Impacta qualidade de anúncios e ranking.",
+      "answer_required_by": null,
+      "owner": "time de produto"
+    },
+    {
+      "id": "Q4",
+      "question": "Apresentação da Ester foi revisada por Diego e compartilhada com diretoria?",
+      "context": "Se ainda não foi revisada, diretoria não tem visibilidade das análises da Ester.",
+      "answer_required_by": null,
+      "owner": "Ester Elisa de Souza Rodrigues"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Zona sul de João Pessoa tem demanda grande sem cobertura atual — oportunidade sendo perdida",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "João contatar Wagner Felipe HOJE. Ester identificar corretor ponte na próxima semana.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Corretores não encontram filtros disponíveis na plataforma — frustração por desconhecimento do produto",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Vídeos educativos e abordagem pessoal com áudio. Melhorar onboarding.",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "Tabelas de preço desatualizadas causam frustração quando imóvel custa mais que informado",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Melhorar processo de atualização com construtoras. Comunicar prazos realistas.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Usuários ativos desconhecem filtros e funcionalidades — produto subutilizado",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Criar conteúdo educativo (vídeos, hotsite). Focar nas primeiras 3-4 semanas.",
+      "source": "notes"
+    },
+    {
+      "id": "R5",
+      "description": "Hábitos consolidados com Google Drive dificultam adoção de novas ferramentas",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Integração com Google Drive para facilitar transição. Gradualidade na adoção.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Corretor ponte na zona sul pode abrir portas para incorporadoras que a Órulo ainda não acessa",
+      "potential_impact": "high",
+      "owner": "Ester Elisa de Souza Rodrigues + João Vitor Portes da Silva",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Sistema de pontuação 0-10 para incorporadoras pode melhorar qualidade de anúncios e rankeamento",
+      "potential_impact": "high",
+      "owner": "time de produto",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Parceria com Creci Paraíba ('Índice Cresce') pode abrir nova frente de relacionamento institucional",
+      "potential_impact": "medium",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Hotsite para novos corretores pode aumentar conversão no onboarding",
+      "potential_impact": "medium",
+      "owner": "time de produto",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Contatos proativos via WhatsApp podem validar modelo de engajamento",
+      "potential_impact": "low",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: zona sul de João Pessoa sem cobertura. Wagner Felipe a indicar corretor ponte. Ester buscar nas próximas semanas.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Oportunidade territorial concreta perdida sem ação. Perlu tracking."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar método: áudio + material educativo mais efetivo que mensagem genérica para abordagem de novos cadastrados",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Insight de processo com resultado comprovado — replicar em outras praças"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: 24-26 cadastrados abordados por Ester na semana 18-24jan. Retenção nas primeiras 3-4 semanas é foco.",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Métrica de retenção e método de abordagem documentados para scale"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar: sistema de pontuação 0-10 para incorporadoras já tem desenho mas não saiu — implementar",
+      "destination": "memory/pending.md",
+      "priority": "medium",
+      "reason": "Feature desenhada mas travada — perlu cobrar do time de produto"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Zona sul de João Pessoa: demanda grande sem cobertura atual. João vai contatar Wagner Felipe pedindo indicação de corretor ponte.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Método comprovado: abordagem com áudio + material educativo é mais efetiva que mensagem genérica para novos cadastrados",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Ester abordou 24-26 cadastrados semana 18-24jan. Identificou que zona sul precisa de corretor ponte.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Sistema de pontuação 0-10 para incorporadoras já está desenhado mas não implementado — cobrar do time de produto",
+      "category": "process",
+      "confidence": "likely"
+    },
+    {
+      "id": "M5",
+      "memory": "Parceria Creci Paraíba em projeto 'Índice Cresce' em desenvolvimento",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Foco de retenção: primeiras 3-4 semanas após cadastro são críticas",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Neno (usuário super ativo da Jampa Life) não conhecia filtros da plataforma — problema recorrente de UX",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Tabelas desatualizadas geram frustração quando preço real difere do anunciado — processo de atualização precisa melhorar",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "João contatar Wagner Felipe HOJE pedindo indicação de corretor da zona sul. Sem isso, zona sul continua sem acesso a incorporadoras. Prioridade máxima.",
+    "owner": "João Vitor Portes da Silva",
+    "deadline": "2026-02-03T00:00:00.000Z",
+    "reason": "Zona sul é demanda grande sem cobertura. Oportunidade sendo perdida a cada dia sem corretor ponte. Ação concreta mais impactante que dá início ao trabalho na zona sul."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — última seção (3657-3703s) sobre autonomia da Ester sem correspondência",
+      "Neno: nome completo não confirmado no transcript",
+      "24-26 cadastrados: nomes específicos não listados",
+      "Corretor ponte zona sul: ainda não identificado (a buscar)",
+      "Apresentação da Ester: não anexa, conteúdo unknown",
+      "Projeto 'Índice Cresce' — detalhes e escopo não conhecidos"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas",
+    "Problemas Identificados com Usuários",
+    "Oportunidades de Produto e Comunicação",
+    "Estratégia de Retenção e Engajamento",
+    "Parceria e Integração com Incorporadoras",
+    "Desenvolvimento de Autonomia da Equipe"
+  ]
+}

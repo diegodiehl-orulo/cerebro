@@ -1,0 +1,407 @@
+{
+  "meeting_id": "698c6f356979ef0013b83ce5",
+  "name": "Treinamento Comercial",
+  "happened_at": "2026-02-11T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:02:51.504575+00:00",
+  "executive_summary": "Treinamento 11/02: IGSA apresenta isenção tributária a terrenistas hoje. Gustavo socio+arquiteto fechou. VSO = exposição de caixa = lucratividade. Prompt padrão criado para calcular velocidade. Boulevard Zanella: 4 uni em 12 anos.",
+  "context": {
+    "purpose": "Treinamento semanal sobre Bitrix, inteligência de mercado, velocidade de vendas, estrutura de proposta e processos comerciais",
+    "main_agenda_items": [
+      "Atualizações comerciais",
+      "Estratégia comercial e inteligência de mercado",
+      "Análise de casos específicos",
+      "Ferramentas e processos",
+      "Aprendizados e feedback"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e ministrante",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Pedro Ruza Kneip Navarro (Kneip)": "Sócio-Local Vitória",
+      "Luiz Gustavo Zanella (Zanella)": "Sócio-Local Curitiba",
+      "João Vitor Portes da Silva (João)": "Closer",
+      "Jade Rosa": "BDR",
+      "Mirla Menezes": "BDR",
+      "Ester Elisa de Souza Rodrigues": "Comunicação com Corretores",
+      "Elizangela Fernandes Borges": "Não identificado"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 63.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Laura do cadastro direcionada para suporte Bitrix ou Marcelo (novo dono do processo)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Marcelo investigar e entender mais sobre Bitrix para suportar equipe comercial",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Luiz avançar para contratação se proposta de isenção tributária IGSA for aprovada",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Luiz atualizar CRM com informações sobre proposta de isenção tributária",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Diego criar infraestrutura automatizada para apoiar análises comerciais",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego testar abordagem estratégica com dados em follow-up com incorporadora hoje",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Marcelo adicionar data de entrega ao banco de dados de propostas comerciais",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Diego priorizar aprofundamento em conceitos-chave ao invés de cobertura superficial",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D9",
+      "description": "Conteúdo do treinamento será transcrito e consolidado para agente de IA futuro",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Diego refinará prompt de análise de velocidade de vendas com estratégias de abordagem diplomática",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego aprofundará em três vertentes: lançamentos, estoque acumulado e vendas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Marcelo investigar e entender Bitrix para suportar equipe",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Marcelo adicionar data de entrega ao banco de dados de propostas",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Luiz atualizar CRM com proposta de isenção tributária",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O4",
+      "description": "Diego testar abordagem estratégica com dados em follow-up",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-11T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego refinar prompt de velocidade de vendas",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Diego criar infraestrutura automatizada para análises",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "IGSA: apresentar isenção tributária a terrenistas",
+      "owner": "IGSA",
+      "deadline": "2026-02-11T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Marcelo: investigar Bitrix para suportar equipe",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Marcelo: adicionar data de entrega no banco de dados",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Luiz: atualizar CRM com proposta isenção",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T4",
+      "description": "Diego: testar abordagem com dados em follow-up",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-11T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego: refinar prompt velocidade de vendas",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Diego: criar infraestrutura automatizada análises",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "IGSA aprovou proposta de isenção tributária para terrenistas?",
+      "context": "Luiz disse que avança para contratação se aprovado. Se aprovado, pode gerar contrato significativo.",
+      "answer_required_by": "2026-02-13T23:59:00.000Z",
+      "owner": "Luiz Gustavo Zanella"
+    },
+    {
+      "id": "Q2",
+      "question": "Por que incorporadoras vendem abaixo da velocidade ideal mesmo com estoque?",
+      "context": "Diego explicou que exposição de caixa = lucratividade. VSO baixo = mais tempo exposto = menos lucro. Por que o mercado não otimiza?",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + João Vitor Portes da Silva"
+    },
+    {
+      "id": "Q3",
+      "question": "Boulevard Zanella vendeu 4 unidades em 12 anos — o que está errado?",
+      "context": "Caso extrema demonstração de VSO baixo. Dados existem mas não geraram ação. Qual é o gap: informação, decisão, ou execução?",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Luiz Gustavo Zanella"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Boulevard Zanella: 4 unidades em 12 anos — caso extrema de VSO baixo",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diego explicando VSO = exposição de caixa. Informação sem ação não resolve.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "IGSA: dois terrenistas podem não aprovar proposta de isenção",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Aguardar resultado de hoje. Luiz avanzar apenas se aprovado.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Laguna Curitiba: 11 unidades em estoque de 48 — vendas lentas mesmo com 77% vendido",
+      "context": "Projeto com entrega abril, 82% tempo, 77% vendido. Ritmo abaixo do ideal.",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego testando abordagem estratégica com dados.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Prompt padrão para calcular velocidade de vendas — escala análise",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Coordenador comercial: reativação estruturada de base via dados, não pressão",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + time",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Produtos parados geram vendas via cauda longa de corretores",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + time",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Transcrição do treinamento para agente de IA futuro — knowledge base",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: VSO = exposição de caixa = lucratividade. Quanto mais tempo exposto, mais juros pagos = menos lucro. Conceito-chave para treinamento.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Conceito central validado por Diego e equipe — fundamento para inteligência de mercado."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Prompt padrão criado para calcular velocidade de vendas. Refinar com abordagem diplomática.",
+      "destination": "memory/process.md",
+      "priority": "medium",
+      "reason": "Ferramenta criada para escalar análise de VSO."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "VSO = exposição de caixa = lucratividade. Projeto parado = juros acumulam = menos lucro.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "IGSA apresenta isenção tributária a terrenistas HOJE. Luiz avança se aprovado.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Gustavo socio+arquiteto fechou contrato — enviou para assinatura.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Prompt padrão criado para calcular VSO. Diego vai refinar com abordagem diplomática.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Marcelo novo dono do processo Bitrix — responsável por suportar equipe.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Boulevard Zanella: 4 unidades em 12 anos — caso VSO baixo extrema.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M7",
+      "memory": "Diego: aprofundamento > cobertura superficial em conceitos.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M8",
+      "memory": "Conteúdo treinamentos serão transcritos para agente de IA.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Aguardar resultado IGSA de hoje (isenção tributária terrenistas). Diego testar abordagem com dados. Marcelo assumir Bitrix e adicionar data de entrega. Luiz fechar CRM.",
+    "owner": "Luiz Gustavo Zanella + Diego Diehl + Marcelo Rodrigues",
+    "deadline": "2026-02-13T23:59:00.000Z",
+    "reason": "IGSA é a operação mais quente do dia — se aprovar, contratação avança. Diego explicando VSO = conceito central que precisa ser praticado."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se IGSA aprovou isenção",
+      "Se Diego testou abordagem com dados",
+      "Se prompt de VSO foi refinado",
+      "Se Marcelo adicionou data de entrega",
+      "Se infraestrutura automatizada foi criada",
+      "Se conteúdo foi transcrito para IA",
+      "Se Jade organizou etiquetas WhatsApp"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Atualizações Comerciais",
+    "Estratégia Comercial e Inteligência de Mercado",
+    "Análise de Casos Específicos",
+    "Ferramentas e Processos",
+    "Aprendizados e Feedback"
+  ]
+}

@@ -1,0 +1,459 @@
+{
+  "meeting_id": "69ca73c524b2440013ebe436",
+  "name": "Semanal Comercial",
+  "happened_at": "2026-03-30T13:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:28:26.283256+00:00",
+  "executive_summary": "Time batendo meta março. Jade 6k, Mirla 3k (perto da meta), João 8.6k como closer, Janela 3.6k (subiu de 2.5k). Patamar mínimo 20k/mês. Meta anual 250k. Diego cobra disciplina e aumentar volume de reuniões. Feriado 21/04 e Sexta Santa.",
+  "context": {
+    "purpose": "Check-in semanal comercial — resultados março, metas abril, disciplina e processos",
+    "main_agenda_items": [
+      "Resultados de março por vendedor",
+      "Metas e patamares",
+      "CRM e organização",
+      "Eventos e pós-eventos",
+      "Feriados",
+      "Incorporadoras e planos de aceleração",
+      "Disciplina comercial"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador — metas e disciplina",
+      "Gustavo Torres": "Coordenador — migração CRM",
+      "João Vitor Portes da Silva": "Closer — 8.6k, vai ligar para Salazar",
+      "Luiz Gustavo Zanella": "Sócio-Local — 3.6k",
+      "Jade Rosa": "BDR — 6k em Vitória (destaque)",
+      "Mirla Menezes": "BDR — 3k perto da meta",
+      "Luan Felipe de Souza": "Novo Closer — 5k ( benchmark)",
+      "Pedro Ruza Kneip Navarro": "Tech"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 51.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Patamar mínimo mensal é 20k com 2.5k por sócio local",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Meta anual aproximadamente 250k em receita",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Se meta atingida na sexta, time emenda segunda e terça de feriado",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Gustavo realizar migração de cards do CRM local para fundo de executivo de contas",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Felipe transferir dados de PDR no CRM para melhor organização",
+      "decision_maker": "Felipe",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "João ligar para Salazar sobre proposta de 50% até sexta-feira",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Não closetizar vendas pequenas para não confundir — foco em S10 ou closers",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Diego marcar reunião de 15 minutos sobre disciplina comercial",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Vitória agendar reunião com Marcelo para revisar clientes e próximos passos",
+      "decision_maker": "Luiz Gustavo Zanella + Marcelo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Janela postar material sobre evento em Instagram e Stories",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Treinamento final de mês: quarta-feira às 10h56",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Sócios locais devem fazer contato pessoal com novas incorporadoras na praça",
+      "decision_maker": "Luiz Gustavo Zanella + socios locais",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "João ligar para Salazar sobre proposta 50%",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-04-03T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Gustavo migrar cards CRM local para fundo de executivo",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Felipe transferir dados de PDR no CRM",
+      "owner": "Felipe",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego marcar reunião 15min sobre disciplina comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Vitória agendar reunião com Marcelo (clientes e próximos passos)",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Janela postar material evento em Instagram/Stories",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Comunizar planos de aceleração aos clientes em plano gratuito",
+      "owner": "Time comercial",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Criar automações e processos para não sobrecarregar sócio local",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Pós-evento melhor executado em Porto Alegre e Capão",
+      "owner": "Time",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "João analisar vendas CBR para extrair aprendizados (BDR vendendo como closer)",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João ligar para Salazar (proposta 50%)",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-04-03T00:00:00.000Z",
+      "priority": "critical",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Gustavo migrar cards CRM",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego marcar reunião disciplina comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Vitória reunião com Marcelo",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Janela postar evento Instagram/Stories",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Felipe transferir dados PDR CRM",
+      "owner": "Felipe",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "João analisar vendas CBR para aprendizado",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Comunizar planos de aceleração",
+      "owner": "Time comercial",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Vitória vai conseguir manter patamar mínimo de 2.5k/mês given o volume atual?",
+      "context": "Diego disse que patamar é 2.5k por sócio local, mas Vitória está em 3.6k com Jade. Precisa validar se sustentável.",
+      "answer_required_by": null,
+      "owner": "Luiz Gustavo Zanella"
+    },
+    {
+      "id": "Q2",
+      "question": "Como aumentar volume de reuniões given que time está occupied com eventos?",
+      "context": "Diego disse que precisa de mais volume de reuniões. Se eventos tomam tempo, não há como crescer.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Salazar vai aceitar proposta de 50%?",
+      "context": "Se não, perdemos mais um deal. João vai ligar.",
+      "answer_required_by": "2026-04-03T00:00:00.000Z",
+      "owner": "João Vitor Portes da Silva"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Realiza em Curitiba não sabia sobre planos de aceleração — informação não está chegando aos clientes",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Comunicar planos de aceleração proativamente. Treinar sócios locais.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Sócios locais podem sobrecarregar se não tiver automações/processos",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Criar automações. Não depender só de contato pessoal.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Paisagem Corporal pediu remoção de empreendimentos — perdemos conta?",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego ou Gustavo fazer follow-up urgente para reverter.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Volume de reuniões precisa aumentar para bater meta anual de 250k",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Eficientizar eventos. Foco em conversão pós-reunião.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Goiânia gerou venda com Inovar — surpresa positiva para expandir",
+      "potential_impact": "high",
+      "owner": "Time comercial",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Jade 6k em Vitória — melhor BDR. Pode ser benchmark para其他人",
+      "potential_impact": "high",
+      "owner": "Jade Rosa",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Team bem distribuído — vários vendedores performando vs concentração anterior",
+      "potential_impact": "medium",
+      "owner": "Time comercial",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Jade Rosa — destaque em Vitória com 6k em volume. Possível benchmark de onboarding e performance.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Jade está performando muito acima. Analisar o que ela faz diferente para replicar."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: patamar mínimo mensal 20k total, 2.5k por sócio local. Meta anual 250k.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Metas definidas — importante para tracking e cobrança."
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: Realiza (Curitiba) não sabia de planos de aceleração. Comunicação é gap crítico.",
+      "destination": "memory/pending.md",
+      "priority": "high",
+      "reason": "Se cliente não sabe o que existe, não compra. Gap de comunicação que mata vendas."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Resultados março: Jade 6k (destaque Vitória), Mirla 3k (perto meta), João 8.6k (closer), Janela 3.6k (subiu de 2.5k). Time bem distribuído.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Patamar mínimo: 20k/mês total, 2.5k por sócio local. Meta anual: 250k.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Goiânia gerou venda com Inovar — surpresa positiva. Praça requer mais tempo de tracionamento.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "CRM: Gustavo migrando cards local para executivo. Felipe transferindo PDR.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Realiza (Curitiba) não sabia de planos de aceleração — gap crítico de comunicação.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Paisagem Corporal pediu remoção de empreendimentos — requer follow-up urgente.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M7",
+      "memory": "Feriados: 21/04 (Tiradentes) e Sexta Santa. Se meta batida, time emenda segunda e terça.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego ou Gustavo fazer follow-up urgente com Paisagem Corporal HOJE para reverter pedido de remoção. Se perder conta, impacta MRR. 同时, João ligar para Salazar sobre 50%.",
+    "owner": "Diego Diehl + Gustavo Torres + João Vitor Portes da Silva",
+    "deadline": "2026-04-01T00:00:00.000Z",
+    "reason": "Paisagem Corporal pediu remoção — se for ignorado, perdemos conta. Follow-up rápido pode reverter. 同时, Salazar é deal quente que não pode esfriar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — seção final pode estar incompleta",
+      "Valor exato de cada venda não detalhado",
+      "Maioria das decisions sobre planos de aceleração não totalmente especificadas",
+      "Automations being created: detalhes desconhecidos"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Performance e Metas",
+    "Estratégia Comercial e Processos",
+    "Eventos e Pós-Eventos",
+    "Feriados e Calendário",
+    "Questões de Incorporadoras",
+    "Desenvolvimento e Treinamento"
+  ]
+}

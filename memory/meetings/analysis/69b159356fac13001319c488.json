@@ -1,0 +1,417 @@
+{
+  "meeting_id": "69b159356fac13001319c488",
+  "name": "Reunião Comercial - Alinhamento OKRs",
+  "happened_at": "2026-03-11T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:26:33.179835+00:00",
+  "executive_summary": "Alinhamento OKRs 11/03: 7 workstreams definidos (WS1-WS7). WS6 = embaixadores. Ativar rede de audiência qualificada = maior lacuna. Diego enviar slides via WhatsApp. Time enviar feedback até meio-dia.",
+  "context": {
+    "purpose": "Alinhamento de OKRs e estratégia comercial com time completo — 7 workstreams, embaixadores, modelo econômico por praça",
+    "main_agenda_items": [
+      "Estratégia comercial e objetivos",
+      "Workstreams identificados",
+      "Programa de embaixadores",
+      "Operação e execução",
+      "Oportunidades comerciais",
+      "Desafios e pontos de melhoria"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e estrategista",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Pedro Ruza Kneip Navarro (Kneip)": "Sócio-Local Vitória",
+      "Luiz Gustavo Zanella (Zanella)": "Sócio-Local Curitiba",
+      "João Vitor Portes da Silva (João)": "Closer",
+      "Jade Rosa": "BDR",
+      "Mirla Menezes": "BDR",
+      "Ester Elisa de Souza Rodrigues": "Comunicação com Corretores",
+      "Luan Felipe de Souza": "Closer"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 64.5
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego enviar apresentação dos workstreams para o time via WhatsApp",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Diego consolidar feedbacks da reunião e ajustar redação final de cada KR até meio-dia",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Time enviar áudio ou mensagem com feedback sobre estratégia até meio-dia",
+      "decision_maker": "Time comercial",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Diego definir claramente o que é embaixador e outras definições de termos-chave",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Diego fechar os donos de apoio por frente de trabalho",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "WS1: Comunicação com corretores — Ester responsável",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "WS3: Execução territorial com fórmula de lançamento — eventos e embaixadores",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "WS4: Estrutura comercial — amadurecer indicadores e automações",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "WS5: Marketing direcionado por eventos em ciclos conforme execução",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "WS2: Jornada DL pago — cadastro até compra para incorporadoras",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "WS6: Programa de embaixadores com incorporadoras como aposta para crescimento",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "WS7: Modelo econômico por praça — receita para sustentar operações locais",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "João responsável por sucesso estratégico e tracionamento de embaixadores",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Time dedicar 10% do tempo a projetos fora da zona de atuação padrão",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D15",
+      "description": "Cadência operacional quinzenal por praça para abordar novos usuários de incorporadoras",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego enviar apresentação dos workstreams via WhatsApp",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-11T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Time enviar feedback sobre estratégia até meio-dia",
+      "owner": "Time comercial",
+      "deadline": "2026-03-11T12:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego consolidar feedbacks e ajustar KR até meio-dia",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-11T12:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego definir claramente o que é embaixador e termos-chave",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego fechar donos de apoio por frente de trabalho",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Jade abordar 10 litros com 8 novos contatos em Goiânia",
+      "owner": "Jade Rosa",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Revisar jornada DL pago com time comercial ao ativar outras praças",
+      "owner": "Gustavo Torres + Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego: enviar apresentação workstreams via WhatsApp",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-11T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego: consolidar feedback e ajustar KR até meio-dia",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-11T12:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Time: enviar feedback sobre estratégia",
+      "owner": "Time comercial",
+      "deadline": "2026-03-11T12:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego: definir embaixador e termos-chave",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego: fechar donos de apoio por frente",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Jade: abordar 10 litros em Goiânia",
+      "owner": "Jade Rosa",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Como ativar rede de audiência qualificada que é a maior lacuna atual?",
+      "context": "Diego identificou que ativar rede de audiência qualificada é a maior lacuna de recursos. Sem isso, estratégia falha.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + time comercial"
+    },
+    {
+      "id": "Q2",
+      "question": "Volume de vendas mensal de 3x o custo comercial é alcançável?",
+      "context": "Meta: volume mensal = 3x custo do time comercial. Se não atingir, modelo econômico por praça não se sustenta.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Ativar rede de audiência qualificada é a maior lacuna de recursos",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Definir estratégia clara para embaixadores e roll-out por praça.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Comunicação com corretores é um dos pontos mais frágeis da estratégia atual",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "WS1 com Ester como DRI deve endereçar isso.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Falta visualização de quais ações geraram aumento de corretores ativos em Curitiba",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Implementar tracking de ações por praça.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Brasal é gigante do mercado imobiliário de Goiânia — muitas oportunidades",
+      "potential_impact": "high",
+      "owner": "Jade Rosa + Luan Felipe de Souza",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Dois contatos em Goiânia indicaram outros contatos dentro de incorporadoras",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Embaixadores trazem maior densidade de corretores e geram mais confiança",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Evento com corretores dia 24 com André fazendo propaganda",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + Mayumi Takeda",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Jade abordou 10 litros e 8 são novos contatos com potencial",
+      "potential_impact": "medium",
+      "owner": "Jade Rosa",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: 7 workstreams definidos (WS1-WS7). WS6 = embaixadores. Maior lacuna = ativar rede de audiência qualificada.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Arquitetura de OKRs definida com DRIs e gaps claros."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "7 workstreams definidos: WS1 Comunicação Corretores (Ester), WS2 DL Pago, WS3 Execução Territorial, WS4 Estrutura Comercial, WS5 Marketing, WS6 Embaixadores, WS7 Modelo Econômico Praça.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Maior lacuna: ativar rede de audiência qualificada.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "João responsável por sucesso estratégico e tracionamento de embaixadores.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Cadência operacional quinzenal por praça.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Brasal = gigante do mercado imobiliário de Goiânia. Jade com 8 novos contatos de 10 abordados.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Volume mensal deve ser 3x custo do time comercial.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego enviar apresentação dos workstreams via WhatsApp ainda hoje. Diego consolidar feedbacks e ajustar KR até meio-dia. Diego fechar donos de apoio por frente. Time enviar feedback sobre estratégia.",
+    "owner": "Diego Diehl + Time comercial",
+    "deadline": "2026-03-11T12:00:00.000Z",
+    "reason": "OKRs definidos mas sem comunicação para o time, não há execução. Feedback até meio-dia permite ajuste antes de seguir."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se apresentação foi enviada via WhatsApp",
+      "Se KR foi ajustado",
+      "Se time enviou feedback",
+      "Se DRIs foram finalizados",
+      "Se embaixadores foram definidos",
+      "Se volume 3x foi atingido",
+      "Se lacuna de audiência foi endereçada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Estratégia Comercial e Objetivos",
+    "Workstreams Identificados",
+    "Programa de Embaixadores",
+    "Operação e Execução",
+    "Oportunidades Comerciais",
+    "Desafios e Pontos de Melhoria"
+  ]
+}

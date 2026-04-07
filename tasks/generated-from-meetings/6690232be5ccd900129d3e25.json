@@ -1,182 +1,221 @@
 {
   "meeting_id": "6690232be5ccd900129d3e25",
-  "meeting_name": "11/07/2024-Meeting",
+  "name": "11/07/2024-Meeting",
   "happened_at": "2024-07-11T18:23:39.793Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T00:43:36.104626+00:00",
+  "executive_summary": "Diego conduziu treinamento de t\u00e9cnicas de vendascovering loss aversion, secretary rapport, familiarity bias, and first impression. T\u00e9cnicas aplic\u00e1veis ao time comercial da \u00d3rulo.",
+  "context": {
+    "purpose": "Treinar t\u00e9cnicas de prospec\u00e7\u00e3o e vendas",
+    "main_agenda_items": [
+      "Vi\u00e9s da perda em vendas",
+      "Relacionamento com secret\u00e1rias",
+      "Efeito da familiaridade",
+      "Rapport e conex\u00e3o emocional",
+      "Linguagem do setor",
+      "Energia e primeira impress\u00e3o",
+      "Pesquisa e prepara\u00e7\u00e3o"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Instrutor \u2014 Compartilhou t\u00e9cnicas e hist\u00f3rias de prospec\u00e7\u00e3o"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": null,
+    "duration_minutes": 13.1
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Usar linguagem espec\u00edfica do setor do cliente (ex: 'vidas' em vez de 'funcion\u00e1rios' para planos de sa\u00fade)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Trabalhar o vi\u00e9s da familiaridade criando rapport antes de apresentar solu\u00e7\u00e3o",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Usar t\u00e9cnica de loss aversion (medo de perder oportunidade) para cualificar inter\u00e9s do cliente",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "Fazer amizade com a secret\u00e1ria como parte do processo de compra",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Vendedor deve fazer o cliente trabalhar para ele (entregar valor antes de fechar)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Formalizar t\u00e9cnicas ensinadas em playbook de vendas para time comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Sem prazo definido para cria\u00e7\u00e3o do playbook"
+    },
+    {
+      "id": "O2",
+      "description": "Mapear jarg\u00f5es por setor para uso nas approachs do time",
+      "owner": null,
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "N\u00e3o identificado dono desta a\u00e7\u00e3o"
+    }
+  ],
   "tasks": [
     {
-      "id": "T6690232b-001",
-      "title": "Criar playbook com 5 técnicas de vendas (loss aversion, secretary rapport, familiaridade, rapport, l",
-      "description": "Criar playbook com 5 técnicas de vendas (loss aversion, secretary rapport, familiaridade, rapport, linguagem setor)",
+      "id": "T1",
+      "description": "Criar playbook com 5 t\u00e9cnicas de vendas (loss aversion, secretary rapport, familiaridade, rapport, linguagem setor)",
       "owner": "Diego Diehl",
       "deadline": null,
       "priority": "medium",
-      "area": "WS3",
-      "project": null,
-      "type": "EXPLICITA",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "task",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.983431+00:00"
+      "status": "generated",
+      "source": "transcript"
     },
     {
-      "id": "T6690232b-002",
-      "title": "Preparar casos de sucesso/prova social para usar em abordagens",
+      "id": "T2",
       "description": "Preparar casos de sucesso/prova social para usar em abordagens",
       "owner": null,
       "deadline": null,
       "priority": "medium",
-      "area": "Geral",
-      "project": null,
-      "type": "EXPLICITA",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "task",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.983698+00:00"
-    },
-    {
-      "id": "T6690232b-003",
-      "title": "Formalizar técnicas ensinadas em playbook de vendas para time comercial",
-      "description": "Formalizar técnicas ensinadas em playbook de vendas para time comercial",
-      "owner": "Diego Diehl",
-      "deadline": null,
-      "priority": "MEDIUM",
-      "area": "WS3",
-      "project": null,
-      "type": "OBSERVACAO",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "open_item",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": "Sem prazo definido para criação do playbook",
-      "created_at": "2026-04-07T02:37:18.983902+00:00"
-    },
-    {
-      "id": "T6690232b-004",
-      "title": "Mapear jargões por setor para uso nas approachs do time",
-      "description": "Mapear jargões por setor para uso nas approachs do time",
-      "owner": null,
-      "deadline": null,
-      "priority": "MEDIUM",
-      "area": "Gente",
-      "project": null,
-      "type": "OBSERVACAO",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "open_item",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": "Não identificado dono desta ação",
-      "created_at": "2026-04-07T02:37:18.983938+00:00"
-    },
-    {
-      "id": "T6690232b-005",
-      "title": "Criar versão resumida do treinamento em documento Playbook de Vendas para compartilhar com time come",
-      "description": "Criar versão resumida do treinamento em documento Playbook de Vendas para compartilhar com time comercial",
-      "owner": "Diego Diehl",
-      "deadline": "2026-04-30",
-      "priority": "HIGH",
-      "area": "WS3",
-      "project": null,
-      "type": "EXPLICITA",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "recommended_next_step",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.983952+00:00"
-    },
-    {
-      "id": "T6690232b-006",
-      "title": "O time comercial da Órulo está usando essas técnicas na prospecção ativa?",
-      "description": "O time comercial da Órulo está usando essas técnicas na prospecção ativa?",
-      "owner": "Gustavo Torres",
-      "deadline": null,
-      "priority": "MEDIUM",
-      "area": "Gente",
-      "project": null,
-      "type": "OBSERVACAO",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "critical_question",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.983973+00:00"
-    },
-    {
-      "id": "T6690232b-007",
-      "title": "Existe base de casos de sucesso da Órulo para uso como prova social?",
-      "description": "Existe base de casos de sucesso da Órulo para uso como prova social?",
-      "owner": null,
-      "deadline": null,
-      "priority": "MEDIUM",
-      "area": "Geral",
-      "project": null,
-      "type": "OBSERVACAO",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "critical_question",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.983994+00:00"
-    },
-    {
-      "id": "T6690232b-008",
-      "title": "[RISCO] Sem documentação das técnicas, conhecimento fica preso no Diego e não escala para o time",
-      "description": "[RISCO] Sem documentação das técnicas, conhecimento fica preso no Diego e não escala para o time",
-      "owner": null,
-      "deadline": null,
-      "priority": "MEDIUM",
-      "area": "Gente",
-      "project": null,
-      "type": "OBSERVACAO",
-      "status": "OPEN",
-      "source_meeting": "6690232be5ccd900129d3e25",
-      "source_category": "risk",
-      "source_date": "2024-07-11",
-      "dependencies": [],
-      "completion_criteria": null,
-      "confidence": "MEDIUM",
-      "blocking_factor": null,
-      "created_at": "2026-04-07T02:37:18.984015+00:00"
+      "status": "generated",
+      "source": "transcript"
     }
   ],
-  "summary": {
-    "total": 8,
-    "by_priority": {
-      "HIGH": 1,
-      "MEDIUM": 5,
-      "LOW": 0
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O time comercial da \u00d3rulo est\u00e1 usando essas t\u00e9cnicas na prospec\u00e7\u00e3o ativa?",
+      "context": "Verificar se t\u00e9cnicas de rapport, loss aversion e linguagem de setor s\u00e3o aplicadas no dia a dia do time",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
     },
-    "by_type": {
-      "EXPLICITA": 3,
-      "OBSERVACAO": 5
+    {
+      "id": "Q2",
+      "question": "Existe base de casos de sucesso da \u00d3rulo para uso como prova social?",
+      "context": "T\u00e9cnica requer casos documentados para ser aplicada na abordagem",
+      "answer_required_by": null,
+      "owner": null
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Sem documenta\u00e7\u00e3o das t\u00e9cnicas, conhecimento fica preso no Diego e n\u00e3o escala para o time",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Criar playbook ou gravar sess\u00e3o como material de treinamento",
+      "source": "transcript"
     },
-    "without_owner": 4,
-    "without_deadline": 7
+    {
+      "id": "R2",
+      "description": "Abordagem desanimada ou com baixa energia prejudica primeira impress\u00e3o",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Treinar energia do time na abordagem inicial",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Aplicar t\u00e9cnica de perda de oportunidade (FOMO) em campanhas de onboarding de novos clientes",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Criar biblioteca de jarg\u00f5es por setor para usar na qualifica\u00e7\u00e3o de leads",
+      "potential_impact": "medium",
+      "owner": null,
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Gravar este conte\u00fado como material de onboarding para novos membros do time comercial",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar as 5 t\u00e9cnicas de vendas ensinadas nesta sess\u00e3o em documento oficial",
+      "destination": "Playbook de Vendas \u2014 \u00d3rulo",
+      "priority": "high",
+      "reason": "Conhecimento de alto valor que precisa ser documentado para escalar o time"
+    },
+    {
+      "id": "DS2",
+      "action": "Arquivar transcri\u00e7\u00e3o completa da sess\u00e3o com t\u00f3picos e notas estruturadas",
+      "destination": "Drive: 06_REPORTS ou pasta de treinamentos",
+      "priority": "medium",
+      "reason": "Material de refer\u00eancia para treinamentos futuros"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Diego Diehl conduziu sess\u00e3o de treinamento de t\u00e9cnicas de vendas em 11/07/2024 \u2014 cobre vi\u00e9s da perda, rapport com \u0441\u0435\u043a\u0440\u0435\u0442\u0430\u0440\u044f, efeito familiaridade, linguagem do setor, energia na abordagem",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "T\u00e9cnica: usar jarg\u00e3o do setor\uff0c\u5ba2\u6237percebe que vendedor entende o neg\u00f3cio (ex: 'vidas' vs 'funcion\u00e1rios' para planos de sa\u00fade)",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Diego acredita que 80% dos neg\u00f3cios fechados nos EUA envolvem contato interruptivo (cold call)",
+      "category": "preference",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Criar vers\u00e3o resumida do treinamento em documento Playbook de Vendas para compartilhar com time comercial",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-30",
+    "reason": "Evitar perda de conhecimento e garantir que t\u00e9cnicas cheguem ao time"
   },
-  "generated_at": "2026-04-07T02:37:18.984058+00:00"
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Participantes n\u00e3o identificados",
+      "Sem confirma\u00e7\u00e3o de a\u00e7\u00f5es pr\u00e1ticas derivadas",
+      "N\u00e3o h\u00e1 dados de CRM ou m\u00e9tricas do meeting",
+      "Prazo para playbook n\u00e3o definido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "T\u00e9cnicas de vendas: Discuss\u00e3o sobre t\u00e9cnicas para melhorar as vendas como trabalhar com a percep\u00e7\u00e3o de perda, familiaridade e primeiras impress\u00f5es",
+    "Pesquisa e prepara\u00e7\u00e3o: Discuss\u00e3o sobre a import\u00e2ncia de pesquisar sobre o cliente e o setor para causar boa primeira impress\u00e3o",
+    "Linguagem do setor: Recomenda\u00e7\u00e3o de usar a linguagem e os jarg\u00f5es espec\u00edficos de cada setor para mostrar conhecimento",
+    "Contato inicial: Dicas para a abordagem inicial como criar conex\u00e3o emocional, usar energia e mostrar interesse real no cliente",
+    "Contato subsequente: Manter contato ap\u00f3s a abordagem inicial, envolver a in\u00famerasecret\u00e1ria e trabalhar para o vendedor entregar valor ao cliente"
+  ]
 }

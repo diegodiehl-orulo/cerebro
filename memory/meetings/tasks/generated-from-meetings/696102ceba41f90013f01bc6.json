@@ -1,0 +1,117 @@
+{
+  "meeting_id": "696102ceba41f90013f01bc6",
+  "name": "Zabo (SP - Isen\u00e7\u00e3o tributaria)",
+  "happened_at": "2026-01-09T13:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:30:58.706146+00:00",
+  "executive_summary": "Chamada de follow-up entre Paulo Deitos e Jo\u00e3o Vitor sobre reuni\u00e3o Zabo (isen\u00e7\u00e3o tribut\u00e1ria SP). Jo\u00e3o tentou contato sem sucesso \u2014 terceira pessoa n\u00e3o respondeu mensagens nem atendeu liga\u00e7\u00f5es. Reuni\u00e3o remarcada. Sem resolu\u00e7\u00e3o concreta.",
+  "context": {
+    "purpose": "Follow-up sobre reuni\u00e3o Zabo de isen\u00e7\u00e3o tribut\u00e1ria em SP \u2014 third party n\u00e3o respondeu",
+    "main_agenda_items": [
+      "Tentar contato com terceira pessoa para reuni\u00e3o Zabo",
+      "Reuni\u00e3o remarcada"
+    ],
+    "participants_and_roles": {
+      "Paulo Deitos": "Organizador \u2014 aguardando retorno",
+      "Jo\u00e3o Vitor Portes da Silva": "Operacional \u2014 tentando contato",
+      "Diego Diehl": "Diretor Comercial \u2014 presente",
+      "Marcos Knewitz": "presente",
+      "Matheus Nascimento": "presente"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": null,
+    "duration_minutes": 18.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Reuni\u00e3o Zabo remarcada \u2014 Jo\u00e3o aguardar\u00e1 novidades da terceira pessoa e informar\u00e1 Paulo",
+      "decision_maker": "Jo\u00e3o Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Jo\u00e3o informar Paulo sobre novidades da terceira pessoa",
+      "owner": "Jo\u00e3o Vitor Portes da Silva",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": "Terceira pessoa n\u00e3o est\u00e1 respondendo mensagens nem atendendo liga\u00e7\u00f5es"
+    },
+    {
+      "id": "O2",
+      "description": "Nova reuni\u00e3o Zabo (isen\u00e7\u00e3o tribut\u00e1ria SP) a ser reagendada",
+      "owner": "Paulo Deitos + Jo\u00e3o Vitor",
+      "deadline": null,
+      "status": "blocked",
+      "source": "transcript",
+      "blocking_factor": "Contato com terceira pessoa pendente"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Jo\u00e3o continuar tentando contato com a terceira pessoa",
+      "owner": "Jo\u00e3o Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Jo\u00e3o informar Paulo assim que tiver retorno",
+      "owner": "Jo\u00e3o Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Quem \u00e9 a terceira pessoa que Jo\u00e3o est\u00e1 tentando contatar? Qual o contexto dela no projeto Zabo?",
+      "context": "Sem saber quem \u00e9, n\u00e3o h\u00e1 como avaliar urg\u00eancia ou import\u00e2ncia do n\u00e3o-contato.",
+      "answer_required_by": "2026-04-10T23:59:00.000Z",
+      "owner": "Jo\u00e3o Vitor Portes da Silva"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Terceira pessoa n\u00e3o responde mensagens nem atende liga\u00e7\u00f5es h\u00e1 mais de 20 min \u2014 risco de desengajamento",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Jo\u00e3o continuar tentando por outro canal (WhatsApp, e-mail, LinkedIn) antes de escalar",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [],
+  "memories_to_register": [],
+  "recommended_next_step": {
+    "action": "Jo\u00e3o informar Paulo sobre retorno da terceira pessoa ou confirmar que vai remarcar",
+    "owner": "Jo\u00e3o Vitor Portes da Silva",
+    "deadline": "2026-04-10T23:59:00.000Z",
+    "reason": "Sem esse follow-up, o projeto Zabo fica parado. \u00c9 a \u00fanica pend\u00eancia concreta desta reuni\u00e3o."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Terceira pessoa n\u00e3o identificada \u2014 nome e papel no projeto Zabo ausentes",
+      "Contexto completo do projeto Zabo n\u00e3o disclosed \u2014 reuni\u00e3o era sobre in\u00famera\u00e7\u00e3o tribut\u00e1ria SP mas sem detalhes",
+      "Diego, Marcos Knewitz e Matheus Nascimento appeared as participants but didn't speak in transcript",
+      "Prazo para nova reuni\u00e3o n\u00e3o definido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Comunica\u00e7\u00e3o e Acompanhamento"
+  ]
+}

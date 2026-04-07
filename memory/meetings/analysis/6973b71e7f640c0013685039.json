@@ -1,0 +1,342 @@
+{
+  "meeting_id": "6973b71e7f640c0013685039",
+  "name": "Órulo/Goiania -GO",
+  "happened_at": "2026-01-23T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:57:42.750697+00:00",
+  "executive_summary": "Pitch Órulo para José (Goiânia) que tem background em B3/Tech. José validou modelo como 'democratização de dados' e quer desenvolver projeto local focado em corretores com acesso à diretora Beatriz Gomes. Próximo passo: José visitar imobiliárias, eventos e construir relacionamento presencial.",
+  "context": {
+    "purpose": "Apresentar modelo Órulo para José em Goiânia — validar interesse em parceria ou projeto local",
+    "main_agenda_items": [
+      "Modelo de negócio Órulo (pizza sem queijo)",
+      "Estratégia de expansão para Goiânia",
+      "Perfil do incorporador médio",
+      "Papel do marketplace e audiência",
+      "Feedback de José sobre solução",
+      "Próximos passos para Goiânia"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Fundador — apresentador do pitch",
+      "José Antônio Freitas": "Potencial parceiro/operador em Goiânia — background B3 e tech"
+    },
+    "meeting_type": "strategy",
+    "notes_limitation": null,
+    "duration_minutes": 60.1
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "José desenvolverá projeto em Goiânia focado em corretores com acesso à diretora comercial Beatriz Gomes",
+      "decision_maker": "José Antônio Freitas",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Estratégia local em Goiânia: visitas a imobiliárias, eventos e relacionamento próximo com corretores",
+      "decision_maker": "José Antônio Freitas",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Integração da solução Órulo com CRM, portfólio e site das imobiliárias é fundamental",
+      "decision_maker": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Abordagem segmentada para incorporadoras via ADEMI e empresas grandes com diretores de inteligência",
+      "decision_maker": "José Antônio Freitas",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "José enviar mensagem para Diego informando sobre a conversa com Felipe",
+      "decision_maker": "José Antônio Freitas",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "José visitar imobiliárias em Goiânia para apresentar solução Órulo",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "José construir relacionamento com corretores em Goiânia via eventos e presença física",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Beatriz Gomes (diretora comercial) viabilizar acesso para José",
+      "owner": "Beatriz Gomes",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "depende de agendamento",
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "José integrar solução Órulo com CRM/portfólio/site das imobiliárias em Goiânia",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "José contatar Diego após conversa com Felipe",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "José abordar incorporadoras via ADEMI e empresas grandes com diretores de inteligência",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "José enviar mensagem para Diego após conversa com Felipe",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "José iniciar visitas a imobiliárias em Goiânia",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Beatriz Gomes viabilizar acesso e briefing para José",
+      "owner": "Beatriz Gomes",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "José identificar eventos locais em Goiânia para construir presença",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "José estruturar piloto de integração CRM/portfólio em 1-2 imobiliárias",
+      "owner": "José Antônio Freitas",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "José já conhece alguma incorporadora ou imobiliária em Goiânia para iniciar abordagem?",
+      "context": "Sem network inicial, projeto pode tardar. Precisa de pontos de entrada.",
+      "answer_required_by": null,
+      "owner": "José Antônio Freitas"
+    },
+    {
+      "id": "Q2",
+      "question": "Beatriz Gomes tem capacidade de dar suporte a José em breve? Qual é a disponibilidade?",
+      "context": "José precisa de acesso a materiais, briefings e possibly treinamento.",
+      "answer_required_by": null,
+      "owner": "Beatriz Gomes"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual é o modelo de parceria/revenue share proposto para José em Goiânia?",
+      "context": "Se José vai operar local, precisa ter incentivação clara. Sem isso, não há comprometimento.",
+      "answer_required_by": null,
+      "owner": "Felipe Goettems + Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Mercado de Goiânia pode ser diferente de SP/Porto Alegre — comportamento e culture local unknown",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "José validar percepções com visitas presenciais. Aprendizado rápido com erros.",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "José não tem histórico em mercado imobiliário — curva de aprendizado pode ser longa",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Acompanhar de perto. Reforçar importância de presença física e relacionamento presencial.",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Sem acesso direto a Beatriz Gomes, José pode perder tempo esperando alinhamento interno",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego garantir que Beatriz tenha bandwidth para suportar José nas primeiras semanas.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Modelo 'pizza sem queijo' pode não funcionar em praça com baixa concorrência de incorporadoras",
+      "type": "financial",
+      "severity": "low",
+      "mitigation": "Validar interesse de 2-3 incorporadoras antes de investir em operação local.",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Goilândia: José tem acesso a Beatriz Gomes e pode construir rede local de corretores/imobiliárias",
+      "potential_impact": "high",
+      "owner": "José Antônio Freitas",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Centro-Oeste oferece grande capacidade de atendimento e relacionamento — mercado menos saturado",
+      "potential_impact": "medium",
+      "owner": "José Antônio Freitas",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "José vem de B3/Tech — pode aportar visão de dados e tecnologia少见",
+      "potential_impact": "medium",
+      "owner": "José Antônio Freitas",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "ADEMI e empresas grandes podem ser porta de entrada para incorporadoras de ticket alto",
+      "potential_impact": "medium",
+      "owner": "José Antônio Freitas",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: José Antônio Freitas — potencial operador em Goiânia. Background B3 (Bolsa) + empresa Tech de dados. Recebeu acesso a Beatriz Gomes.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Potencial parceiro em praça nova — perlu trackear e dar suporte inicial"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Modelo Órulo 'pizza sem queijo': produto grátis para todos, conversion em receita via features premium. Validado por José como 'democratização de dados'.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Framework de comunicação do modelo — replicável em outras praças"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: Goiânia — presença física, abraços, apertos de mão são requisitos básicos. Mercado exige relacionamento presencial.",
+      "destination": "memory/decisions.md",
+      "priority": "medium",
+      "reason": "Insight de mercado: digital não substitui presença física em praça nova"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "José Antônio Freitas: potencial operador em Goiânia. Background: B3 (Bolsa de Valores) + empresa Tech de dados. Quer desenvolver projeto focado em corretores.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Modelo Órulo validado por José: 'pizza sem queijo' — produto grátis para todos, conversion via features premium. José viu como 'democratização de dados'.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Beatriz Gomes: diretora comercial. José terá acesso a ela para briefings e alinhamento em Goiânia.",
+      "category": "person",
+      "confidence": "medium"
+    },
+    {
+      "id": "M4",
+      "memory": "Estratégia Goiânia: visitas a imobiliárias, eventos, relacionamento presencial com corretores. Integração CRM/portfólio/site fundamental.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Mercado exige presença física, abraços e apertos de mão. Relacionamento presencial é requisito básico, não vantagem.",
+      "category": "lesson",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Incorporador médio: familiar com 1-2 empreendimentos, proficient em Excel. Profissionalização aumentando.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego responder mensagem de José HOJE e agendar call de alinhamento. Em paralelo, garantir que Beatriz Gomes tenha bandwidth para dar suporte inicial nas próximas semanas.",
+    "owner": "Diego Diehl + Beatriz Gomes",
+    "deadline": "2026-01-27T00:00:00.000Z",
+    "reason": "José está motivado e quer começar. Sem resposta rápida, interesse esfria. Beatriz precisa estar alinhada para não criar gargalo no suporte."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — final da reunião não completado",
+      "Modelo de revenue share/compensação para José não definido",
+      "Beatriz Gomes: nome completo e contato não registrados",
+      "ADEMI: qual ADEMI (local)? Como acessar?",
+      "Network inicial de José em Goiânia: desconhecido",
+      "Timeline de início do projeto não definida"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Modelo de Negócio Órulo",
+    "Estratégia de Expansão em Goiânia",
+    "Dinâmica do Mercado Imobiliário",
+    "Experiência Prévia de José",
+    "Feedback de Corretores"
+  ]
+}

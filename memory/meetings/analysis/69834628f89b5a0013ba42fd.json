@@ -1,0 +1,459 @@
+{
+  "meeting_id": "69834628f89b5a0013ba42fd",
+  "name": "Sócios Locais CCR",
+  "happened_at": "2026-02-04T13:14:16.540Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:27:31.127691+00:00",
+  "executive_summary": "Sócios Locais 04/02: Luiz 3 reuniões, Pedro 6 treinos. Evento Curitiba 25/02 com Paulo. Pedro: meta 5 reuniões até 20/02. Evento Vitória março workshop. Sprint semanal. Portal Z2 canibalizando audiência.",
+  "context": {
+    "purpose": "Reunião de sprint com sócios locais Luiz (Curitiba) e Pedro (Vitória) — revisão do Sprint 1, planejamento do Sprint 2 com compromissos e evidências",
+    "main_agenda_items": [
+      "Revisão sprint anterior",
+      "Planejamento sprint atual",
+      "Evento Curitiba 25/02",
+      "Evento Vitória março",
+      "Indicadores e métricas",
+      "Estrutura de reuniões e sprints"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e facilitador",
+      "Luiz Gustavo Zanella (Zanella)": "Sócio-Local Curitiba — 3 reuniões com incorporadoras no Sprint 1",
+      "Pedro Ruza Kneip Navarro (Kneip)": "Sócio-Local Vitória — 6 treinamentos com imobiliárias no Sprint 1"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 80.4
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "One page deve ser enviado até 17h do dia anterior à reunião",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Reunião de GTM para conectar marketing, CS e cadastro",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Evento de Curitiba 25/02 focado em incorporadoras — local confirmado pelo IBPQ",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Luiz trazer estimativa de custo do evento de 25/02 para orçamento",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Luiz abordar mínimo 100 incorporadores para convite do evento de março",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Comunicação com incorporadores deve começar até 10/02",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Meta de Luiz é atingir 30 incorporadoras no evento de 25/02",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Evento de março em Vitória será workshop com foco em incorporadoras",
+      "decision_maker": "Pedro Ruza Kneip Navarro",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Pedro solicitar relatório de requisições do Espírito Santo dos últimos três meses",
+      "decision_maker": "Pedro Ruza Kneip Navarro",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Diego agendar reunião com Mayumi para sexta às 11h30",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Pedro agendar cinco reuniões com incorporadoras até 20/02",
+      "decision_maker": "Pedro Ruza Kneip Navarro",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Pedro enviar mensagem para 30 corretores pedindo produtos faltantes",
+      "decision_maker": "Pedro Ruza Kneip Navarro",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Pedro treinar corretores para pressionar incorporadoras a entrarem na plataforma",
+      "decision_maker": "Pedro Ruza Kneip Navarro",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Diego reforçar pauta de Portal Z2 em reunião com Z2 amanhã cedo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D15",
+      "description": "Sprints devem ser semanais com foco em planejado, executado e resultados",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Luiz: estimativa de custo do evento de 25/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Luiz: confirmar disponibilidade de Paulo para evento 25/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O3",
+      "description": "Luiz: comunicar incorporadores até 10/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-10T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Pedro: relatório requisições Espírito Santo 3 meses",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "João da Z2: alinhar links de portal com corretores",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Pedro: 5 reuniões com incorporadoras até 20/02",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": "2026-02-20T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Pedro: enviar mensagens para 30 corretores pedindo produtos",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Diego: reunião com Mayumi sexta 11h30",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-06T11:30:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Diego: reunião Z2 amanhã cedo sobre Portal Z2",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-05T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Artes, vídeos, flyers e conteúdo do evento devem sair essa semana",
+      "owner": "Mayumi Takeda",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Luiz: estimativa de custo evento 25/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Luiz: confirmar Paulo para evento 25/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Luiz: comunicação incorporadores até 10/02",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-10T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Pedro: relatório requisições ES 3 meses",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Pedro: 5 reuniões incorporadoras até 20/02",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": "2026-02-20T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Pedro: mensagens para 30 corretores",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Diego: reunião Mayumi sexta 11h30",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-06T11:30:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Diego: reunião Z2 sobre Portal Z2",
+      "owner": "Diego Diehl",
+      "deadline": "2026-02-05T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Evento de Curitiba 25/02 vai confirmar com 30 incorporadoras?",
+      "context": "Meta de 30 incorporadoras para o evento. Se não atingir, evento perde força.",
+      "answer_required_by": "2026-02-20T23:59:00.000Z",
+      "owner": "Luiz Gustavo Zanella"
+    },
+    {
+      "id": "Q2",
+      "question": "Portal Z2 está canibalizando audiência da plataforma — como resolver?",
+      "context": "Diego mencionou que Portal Z2 está canibalizando audiência. Se não resolver, plataforma perde traffic.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + João Vitor Portes da Silva"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Portal Z2 está canibalizando audiência da plataforma — pode prejudar conversão",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diego reforçar pauta em reunião com Z2 amanhã cedo.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Pedro executou apenas 25-30% das requisições de integração do ES",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Solicitar relatório de requisições. Identificar bloqueios.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Problema sistêmico de Vitória: baixo número de incorporadoras cadastradas",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Focar em relacionamento com incorporadoras e evento workshop.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Dispersão de audiência em diferentes aplicativos prejudica conversão em Vitória",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Consolidar base de clientes não pagantes antes de focar em vendas.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Parceria com Lopes vai trazer força significativa para Vitória",
+      "potential_impact": "high",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "André é franqueado importante da Remax para relacionamento em Vitória",
+      "potential_impact": "medium",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Luiz: meta 30 incorporadoras no evento de Curitiba",
+      "potential_impact": "medium",
+      "owner": "Luiz Gustavo Zanella",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Ester desenvolvendo insights sobre comunicação com corretores",
+      "potential_impact": "medium",
+      "owner": "Ester Elisa de Souza Rodrigues",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Luiz 3 reuniões Sprint 1, Pedro 6 treinos. Evento Curitiba 25/02. Pedro meta 5 reuniões até 20/02. Portal Z2 canibalizando audiência.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Sprint com métricas e bloqueios definidos."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Luiz (Curitiba): 3 reuniões com incorporadoras no Sprint 1. Pedro (Vitória): 6 treinamentos com imobiliárias.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Evento Curitiba 25/02 com Paulo como estrela principal. Meta 30 incorporadoras.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Pedro: meta 5 reuniões com incorporadoras até 20/02. Mensagens para 30 corretores.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Portal Z2 canibalizando audiência da plataforma. Diego reforçar pauta na reunião Z2.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Pedro executou apenas 25-30% das requisições de integração do ES.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Parceria com Lopes vai trazer força para Vitória.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego reforçar pauta Portal Z2 na reunião Z2 amanhã cedo. Luiz confirmar Paulo e custo do evento 25/02. Pedro agendar 5 reuniões até 20/02. Luiz começar comunicação com incorporadores até 10/02.",
+    "owner": "Diego Diehl + Luiz Gustavo Zanella + Pedro Ruza Kneip Navarro",
+    "deadline": "2026-02-10T23:59:00.000Z",
+    "reason": "Portal Z2 canibalizando é risco sistêmico. Evento Curitiba 25/02 precisa de confirmação. Comunicação com incorporadores começa 10/02 — não pode atrasar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se evento Curitiba 25/02 aconteceu",
+      "Se 30 incorporadoras confirmaram",
+      "Se Portal Z2 foi resolvido",
+      "Se Pedro fez 5 reuniões até 20/02",
+      "Se comunicação incorporadores começou em 10/02",
+      "Se relatório requisições ES foi entregue"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas",
+    "Objetivos e Indicadores do Sprint",
+    "Evento de Curitiba (25/02)",
+    "Evento de Vitória (Março)",
+    "Problemas e Oportunidades Identificados",
+    "Estratégia de Relacionamento e Vendas",
+    "Problemas de Integração e Suporte",
+    "Treinamentos e Capacitações",
+    "Estrutura de Reuniões e Sprints",
+    "Contatos e Relacionamentos Importantes"
+  ]
+}

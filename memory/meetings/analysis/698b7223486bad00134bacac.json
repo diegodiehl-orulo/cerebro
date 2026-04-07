@@ -1,0 +1,325 @@
+{
+  "meeting_id": "698b7223486bad00134bacac",
+  "name": "Processos BDRs",
+  "happened_at": "2026-02-10T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:35:20.518835+00:00",
+  "executive_summary": "Processos BDRs 10/02: Foco em qualidade de reunião = % venda/reunião. Abordagem massificada não é problema se não for insistente. Diego compartilhar DOC com Gustavo como editor. Meta: crescer corretores ativos e integrações.",
+  "context": {
+    "purpose": "Alinhamento sobre processos de BDRs, métricas de qualidade, playbooks e estruturação comercial",
+    "main_agenda_items": [
+      "Estratégia de BDRs e processos",
+      "Diferenciação e playbooks",
+      "Educação e onboarding",
+      "Métricas e qualidade",
+      "Metas e crescimento"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e mentor",
+      "Gustavo Torres": "Coordenador Comercial — responsável por BDRs e estrutura comercial"
+    },
+    "meeting_type": "one_on_one",
+    "notes_limitation": null,
+    "duration_minutes": 77.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego compartilhar documento com Gustavo como editor para sugestões conjuntas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Diego organizar e limpar arquivos do drive comercial com Gustavo",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Gustavo revisar playbooks antigos e organizar conhecimentos estruturados da equipe",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Gustavo mapear educação antes da venda e elementos-chave para incorporadoras",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Gustavo formalizar projeção salarial e mudança de função similar ao documento de Mila",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego compartilhar DOC com Gustavo como editor para sugestões",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D7",
+      "description": "Playbooks devem ser revisados mensalmente com contribuições da equipe",
+      "decision_maker": "Diego Diehl + Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "SDRs devem trazer cases de sucesso em reuniões para enriquecer conhecimento coletivo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Gustavo杭revisar playbooks antigos e organizar conhecimentos",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego: compartilhar DOC com Gustavo como editor",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Diego: organizar e limpar arquivos do drive comercial com Gustavo",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Gustavo: revisar playbooks antigos e organizar conhecimentos",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Gustavo: mapear educação antes da venda e elementos para incorporadoras",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo: formalizar projeção salarial e mudança de função",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Diego: separar e limpar arquivos do drive comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego: compartilhar DOC com Gustavo como editor",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego + Gustavo: organizar e limpar drive comercial",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Gustavo: revisar playbooks antigos",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo: mapear educação antes da venda",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo: formalizar projeção salarial e função",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qualidade de reunião = % venda por reunião — métrica adequada?",
+      "context": "Se não houver métrica clara, gestão de BDRs fica comprometida.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Gustavo Torres"
+    },
+    {
+      "id": "Q2",
+      "question": "Volume de reuniões cresceu mas vendas não acompanharam — por quê?",
+      "context": "Se não entender o gap, meta de 2026 fica em risco.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Volume de reuniões cresceu mas vendas não acompanharam — incongruência",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Foco em qualidade = % venda/reunião. Gustavo mapear educação antes da venda.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Não existe métrica de qualidade ou assertividade ainda",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Implementar % venda/reunião como KPI principal. CRM precisa melhorar preenchimento.",
+      "source": "both"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Histórico 2023 mostra conversão de 153 para 520 contratos — potencial de escala",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Automação e fluxos inteligentes com IA para personalização",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "SDRs trazerem cases de sucesso em reuniões — enriquecimento coletivo",
+      "potential_impact": "medium",
+      "owner": "Gustavo Torres",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Foco em qualidade reunião = % venda/reunião. Abordagem massificada ok se não insistente. Playbooks mensais. Diego compartilhar DOC com Gustavo.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Processos BDRs com métricas e responsabilidades definidos."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Qualidade de reunião = % venda por reunião — não apenas volume ou show rate.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Abordagem massificada não é problema — problema é ser insistente/chato.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Volume reuniões cresceu mas vendas não acompanharam — gap a investigar.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Histórico 2023: conversão de 153 para 520 contratos assinados.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Playbooks devem ser revisados mensalmente com contribuições da equipe.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Diego compartilhar DOC com Gustavo como editor para sugestões conjuntas.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego compartilhar DOC com Gustavo como editor. Gustavo revisar playbooks antigos e organizar conhecimentos. Diego + Gustavo organizar drive comercial. Gustavo mapear educação antes da venda.",
+    "owner": "Diego Diehl + Gustavo Torres",
+    "deadline": null,
+    "reason": "Sem processos estruturados e playbooks documentados, equipe não consegue escalar. Drive limpo é pré-requisito para organização."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se DOC foi compartilhado",
+      "Se playbooks foram revisados",
+      "Se drive foi organizado",
+      "Se % venda/reunião foi implementado como KPI",
+      "Se educação antes da venda foi mapeada",
+      "Se projeção salarial foi formalizada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Estratégia de BDRs e Processos",
+    "Diferenciação e Playbooks",
+    "Educação e Onboarding",
+    "Métricas e Qualidade",
+    "Metas e Crescimento"
+  ]
+}

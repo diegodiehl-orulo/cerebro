@@ -1,0 +1,365 @@
+{
+  "meeting_id": "69b2f1112c298800128eafa1",
+  "name": "Órulo + Porto Camargo",
+  "happened_at": "2026-03-12T17:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:11:15.085245+00:00",
+  "executive_summary": "Parceria Porto Camargo: CRI setup 60k (pode 100k), economia 1M em obra 17M. 2-4% para securitizadora. Diego+Felipe vão a Curitiba. Enviar contrato modelo.",
+  "context": {
+    "purpose": "Discutir estrutura de CRI para Porto Camargo — custos, prazos e processo",
+    "main_agenda_items": [
+      "Estrutura e funcionamento do CRI",
+      "Custos e taxas do CRI",
+      "Prazos e processo de implementação",
+      "Infraestrutura e regulação",
+      "Vantagens fiscais e de captação",
+      "Desafios e considerações legais",
+      "Contexto de mercado e mudanças regulatórias"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Rodrigo (Porto Camargo)": "Empreendedor"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 57.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Porto Camargo utiliza modelo SCP para todos empreendimentos — 100% dinheiro investidores",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "CRI pode ser emitido em 15 dias com documentos prontos (prazo comercial 30 dias)",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Setup CRI custa 60k (pode aumentar para 100k em breve)",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Securitizadora cobra 2-4% da economia gerada pelo CRI",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Custo total estimado em 100k ao longo de 3 anos (incluindo carry 1.2k-1.5k/mês)",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Porto Camargo tem bancarizador in-house e acordo de bancarização",
+      "decision_maker": "Porto Camargo",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "CFG é securitizadora que emitiu 5a maior quantidade de CRIs no ano passado",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "CRI pode ser estruturado para evitar que dívida apareça formalmente no balanço",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "CRI isenta ganho de capital do terrenista — margem de 10% no terreno",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Processo: análise de contrato, assinatura em 30 dias, emissão e captação",
+      "decision_maker": "Porto Camargo + Felipe",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Porto Camargo agenda próxima reunião com contador e advogado da empresa",
+      "decision_maker": "Porto Camargo (Rodrigo)",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Diego enviar convite do evento em Curitiba para Porto Camargo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Diego e Felipe reunião presencial em Curitiba com advogado de Porto Camargo",
+      "decision_maker": "Diego Diehl + Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Diego e Felipe enviam modelo de contrato para Porto Camargo analisar",
+      "decision_maker": "Diego Diehl + Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Porto Camargo agendar reunião com contador e advogado",
+      "owner": "Porto Camargo (Rodrigo)",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Diego + Felipe reunião presencial em Curitiba com advogado Porto Camargo",
+      "owner": "Diego Diehl + Felipe Goettems",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego + Felipe enviar modelo de contrato para Porto Camargo",
+      "owner": "Diego Diehl + Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Porto Camargo analisar contrato modelo e dar feedback",
+      "owner": "Porto Camargo (Rodrigo)",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego + Felipe enviar modelo de contrato para Porto Camargo",
+      "owner": "Diego Diehl + Felipe Goettems",
+      "deadline": null,
+      "priority": "critical",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego + Felipe reunião presencial Curitiba com advogado Porto Camargo",
+      "owner": "Diego Diehl + Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Porto Camargo reunião contador + advogado",
+      "owner": "Porto Camargo (Rodrigo)",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Porto Camargo analisar contrato modelo",
+      "owner": "Porto Camargo (Rodrigo)",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Porto Camargo vai aceitar estrutura de CRI com setup 60-100k + 2-4% da economia?",
+      "context": "Se não aceitar, perdemos deal. Custo precisa fazer sentido para cliente.",
+      "answer_required_by": null,
+      "owner": "Porto Camargo (Rodrigo)"
+    },
+    {
+      "id": "Q2",
+      "question": "Quando será o primeiro empreendimento para estruturar com CRI?",
+      "context": "Sem projeto definido, não dá para começar estruturação.",
+      "answer_required_by": null,
+      "owner": "Porto Camargo (Rodrigo)"
+    },
+    {
+      "id": "Q3",
+      "question": "Advogado e contador do Porto Camargo vão validar CRI?",
+      "context": "Se não validarem, não avançamos. Precisamos do aceite técnico.",
+      "answer_required_by": null,
+      "owner": "Porto Camargo (Rodrigo)"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Mercado imobiliário Curitiba é mais tradicional e lento na adoção de CRI",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Focar em vantagens fiscais. Expectativa de adoção acelerar no final do ano.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Advogados e contadores ainda não dominam CRI — pode gerar resistência",
+      "type": "compliance",
+      "severity": "medium",
+      "mitigation": "Fornecer suporte técnico via securitizadora. Enviar modelo de contrato.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Setup pode aumentar de 60k para 100k em breve —犹豫 pode custar mais caro",
+      "type": "financial",
+      "severity": "low",
+      "mitigation": "Fechar acordo antes do aumento. Enviar contrato modelo logo.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "CRI: economia 1M em obra de 17M (exemplo prático)",
+      "potential_impact": "high",
+      "owner": "Porto Camargo",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "CRI isenta ganho de capital terrenista — margem 10% no terreno",
+      "potential_impact": "high",
+      "owner": "Porto Camargo",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "CRI evita dívida formal no balanço — vantagem contábil",
+      "potential_impact": "medium",
+      "owner": "Porto Camargo",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Vida Urbana rodou primeiro CRI em 15 dias — processo validado",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "CRI pode captar via mercado institucional ou retail com mesma estrutura",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Porto Camargo usa SCP. CRI setup 60k (pode 100k). Securitizadora 2-4% economia. Processo 30 dias.",
+      "destination": "memory/relationships.md",
+      "priority": "high",
+      "reason": "Perfil de cliente estratégico. Acompanhar evolução."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: CRI pode evitar dívida no balanço. Isenta ganho capital terrenista — margem 10% no terreno.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Vantagem fiscal key selling point."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Porto Camargo: SCP para todos empreendimentos. 100% dinheiro investidores. Sócios: Rodrigo + irmão.",
+      "category": "relationship",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "CRI: setup 60k (pode 100k), 2-4% economia, carry 1.2k-1.5k/mês, total ~100k/3 anos.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "CRI pode ser emitido em 15 dias. Processo: análise → assinatura 30d → emissão → captação.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "CRI isenta ganho capital terrenista — margem 10% no terreno. Evita dívida no balanço.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Porto Camargo tem bancarizador in-house. CFG como securitizadora (5a maior volume).",
+      "category": "relationship",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego + Felipe enviar modelo de contrato para Porto Camargo HOJE. 同时, agendar reunião presencial em Curitiba. Sem contrato, Porto Camargo não consegue analisar e avançar.",
+    "owner": "Diego Diehl + Felipe Goettems",
+    "deadline": null,
+    "reason": "Porto Camargo está engaged. Se não enviarmos contrato rápido, momentum esfria e advogado pode criar objeções."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Valor exato do primeiro empreendimento a ser estruturado",
+      "Quando exatamente vão se reunir em Curitiba",
+      "Se contador/advogado vão validar CRI sem resistência"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Estrutura e Funcionamento do CRI",
+    "Custos e Taxas do CRI",
+    "Prazos e Processo de Implementação",
+    "Infraestrutura e Regulação",
+    "Vantagens Fiscais e de Captação",
+    "Desafios e Considerações Legais",
+    "Contexto de Mercado e Mudanças Regulatórias"
+  ]
+}

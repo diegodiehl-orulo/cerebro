@@ -1,0 +1,482 @@
+{
+  "meeting_id": "699c4f44e344ac00135beff1",
+  "name": "Semanal Comercial",
+  "happened_at": "2026-02-23T13:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:58:24.103392+00:00",
+  "executive_summary": "Semanal 23/02: 82% do mês com menos de 50% da meta. Faltam ~10 vendas médias. João 13 contratos em assinatura. SENAT 524 fecha semana. Luiz 1.704 em 3 incorporadoras. Jade: follow-up rápido com CRM atualizado. Meta Z2A: 12 contratos.",
+  "context": {
+    "purpose": "Review semanal de resultados comerciais — funil, metas,天气预报s e próximos passos",
+    "main_agenda_items": [
+      "Resultados comerciais e metas",
+      "Estratégia de prospecção e funil",
+      "Distribuição geográfica",
+      "Produto Z2A",
+      "Iniciativas tecnológicas",
+      "Feedback da company",
+      "Alinhamentos operacionais"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Gustavo Torres": "Coordenador Comercial",
+      "Pedro Ruza Kneip Navarro (Kneip)": "Sócio-Local Vitória",
+      "Luiz Gustavo Zanella (Zanella)": "Sócio-Local Curitiba",
+      "João Vitor Portes da Silva (João)": "Closer",
+      "Jade Rosa": "BDR",
+      "Mirla Menezes": "BDR",
+      "Ester Elisa de Souza Rodrigues": "Comunicação com Corretores",
+      "Elizangela Fernandes Borges": "Não identificado"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 43.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Luiz enviar orçamentos dos locais para evento até hoje",
+      "decision_maker": "Luiz Gustavo Zanella",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Z2A deve ser tratado como prioridade real, não acessório — meta de 12 contratos no período",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Eliminar etapa de formulário; enviar contrato após aprovação da proposta",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Definir ação em escala semanal com Zanella, Knight, Gustavo, Mirla e João",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Diego estruturar desdobramento de metas para conversa com Gustavo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego apresentar desdobramento de metas na semana que vem",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Gustavo e time validar iniciativa de vídeo follow-up com decisores ausentes",
+      "decision_maker": "Gustavo Torres + time",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "João enviar vídeo resumido da reunião ao grupo",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Follow-up rápido é essencial; 'bom dia tudo bem' é amadorismo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D10",
+      "description": "Prospectar grandes incorporadoras para trazer contratos de ticket maior",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Todos negócios devem ter próximo passo com data definida",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Luiz enviar orçamentos dos locais para evento",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-23T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "SENAT 524 fecha essa semana (Gustavo)",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Lagon (Luiz) — assinar essa semana",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Marquise (Kneip) — assinatura entre hoje e amanhã",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": "2026-02-24T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Parkside (João) — 2 contratos embassy + 953 com Gaby",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Hunter Engenharia 524 (João) — jurídica validando, Roni responde sexta",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-27T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Esdras 327 (João) — em assinatura",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Anton e Bosque (Luiz) — decisão de diretor",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": null,
+      "status": "pending_response",
+      "blocking_factor": "Aguardando decisão do diretor",
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Diego desdobramento de metas para Gustavo",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-02T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "João enviar vídeo resumido da reunião ao grupo",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O11",
+      "description": "Gustavo + time validarem vídeo follow-up com decisores ausentes",
+      "owner": "Gustavo Torres + time",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Luiz enviar orçamentos evento hoje",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-23T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "SENAT 524 fecha essa semana",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Lagon assina essa semana",
+      "owner": "Luiz Gustavo Zanella",
+      "deadline": "2026-02-28T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Marquise assina entre hoje e amanhã",
+      "owner": "Pedro Ruza Kneip Navarro",
+      "deadline": "2026-02-24T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Hunter Engenharia 524 — cobrar Roni",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": "2026-02-27T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Diego desdobramento de metas para Gustavo",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-02T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "João enviar vídeo reunião ao grupo",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Time validar vídeo follow-up decisores ausentes",
+      "owner": "Gustavo Torres + time",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T9",
+      "description": "Eliminar etapa formulário — enviar contrato após aprovação",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T10",
+      "description": "Explorar mais praças além de São Paulo (Paraná, ES)",
+      "owner": "Diego Diehl + time",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Paraná e ES vão crescer em abril e maio como planejado?",
+      "context": "Diego disse que eventos em março vão gerar crescimento. Mas fevereiro está em 47% da meta. Se eventos não converterem, mês fecha abaixo do esperado.",
+      "answer_required_by": "2026-04-30T23:59:00.000Z",
+      "owner": "Pedro Ruza Kneip Navarro + Luiz Gustavo Zanella"
+    },
+    {
+      "id": "Q2",
+      "question": "Imobiliária terceirizada tem exclusividade de um ou todos os produtos?",
+      "context": "Se for apenas um produto, outros produtos podem ser vendidos diretamente. Se for todos, não há oportunidade.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Anton e Bosque: qual é a resistência do diretor para decidir?",
+      "context": "Luiz disse que coordenadores curtiram mas diretor tem犹豫. Se não houver intervenção, negócio arrasta.",
+      "answer_required_by": null,
+      "owner": "Luiz Gustavo Zanella"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Mês em 82% do tempo com menos de 50% da meta atingida — ritmo insuficiente",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Foco em fechar SENAT, Lagon, Marquise esta semana. 10 vendas médias necessárias.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Follow-up com 'bom dia tudo bem' sem conteúdo é amadorismo eafasta cliente",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego proibiu esse tipo de mensagem. Time precisa de templates melhores.",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "Etapa de formulário entre aprovação e contrato atrasa fechamento",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Eliminar formulário. Enviar contrato direto após aprovação.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Jade: follow-up em 10-20 min após fala-up gerou vários agendamentos em 2 dias",
+      "potential_impact": "high",
+      "owner": "Jade Rosa + time BDR",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Novos usuários de incorporadoras são ouro — abordagem imediata pode converter",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + time",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Grandes incorporadoras = tickets maiores — focar em prospectar acima da média",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Gustavo Torres",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Automações baseadas em comportamento de usuários permitem abordagem inteligente",
+      "potential_impact": "medium",
+      "owner": "Alejandro Olchik",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "IA para reconhecimento de fotos otimiza cadastro — diferencial competitivo",
+      "potential_impact": "medium",
+      "owner": "Alejandro Olchik",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Jade gerou vários agendamentos em 2 dias com follow-up rápido + CRM atualizado. Velocidade de follow-up é diferencial.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Prática replicável: follow-up em 10-20 min após fala-up + CRM atualizado."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Follow-up com 'bom dia tudo bem' sem conteúdo = proibido. Template profissional requerido.",
+      "destination": "memory/process.md",
+      "priority": "medium",
+      "reason": "Cultura de follow-up profissional é diferencial competitivo."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "82% do mês / <50% da meta. Faltam ~10 vendas médias. SENAT, Lagon, Marquise, Hunter, Esdras são principais.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Jade: follow-up em 10-20 min + CRM atualizado = diferencial. Vários agendamentos em 2 dias.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Diego proibiu 'bom dia tudo bem' sem conteúdo. Follow-up precisa ter conteúdo e contexto.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Meta Z2A: 12 contratos no período. Eliminar formulário entre aprovação e contrato.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Luiz 1.704: Lagon para assinar, Anton e Bosque com diretores decidindo.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "João 13 contratos em assinatura. Parkside 2+953, Hunter 524, Esdras 327.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Diego: novos usuários de incorporadoras = ouro. Abordar imediatamente.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Fechar as 5 principais operações dessa semana: SENAT 524 (Gustavo), Lagon (Luiz), Marquise (Kneip), Hunter 524 (João), Esdras 327 (João). Luiz enviar orçamentos evento hoje.",
+    "owner": "Gustavo Torres + Luiz Gustavo Zanella + Pedro Ruza Kneip Navarro + João Vitor Portes da Silva",
+    "deadline": "2026-02-28T23:59:00.000Z",
+    "reason": "Mês fechando em 47% da meta com 82% do tempo gasto. Essas 5 operações representam ~R$2.400 em MRR potencial — fechando 4 de 5 já muda cenário do mês."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Anton e Bosque fecharam",
+      "Se formulário foi eliminado",
+      "Se vídeo follow-up foi implementado",
+      "Se desdobramento de metas foi apresentado",
+      "Se imobiliária terceirizada exclusividade foi esclarecida",
+      "Se eventos Paraná/ES de março geraram crescimento em abril"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Resultados Comerciais e Metas",
+    "Estratégia de Prospecção e Funil",
+    "Distribuição Geográfica",
+    "Produto Z2A",
+    "Iniciativas Tecnológicas",
+    "Feedback da Company",
+    "Alinhamentos Operacionais"
+  ]
+}

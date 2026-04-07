@@ -1,0 +1,515 @@
+{
+  "meeting_id": "69a5d01885c6ba0013e91d47",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2026-03-02T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:28:49.754271+00:00",
+  "executive_summary": "Diretoria 02/03: Quinto Andar propôs piloto integração com carteira gratuita. Proposta: cobrar R$10-15/mês por integração ativa. Feb venda R$3.800 (meta R$15k). 2k integrações inativas. Terceirização RH mais atrativa que contratar.",
+  "context": {
+    "purpose": "Alinhamento semanal de diretoria — Quinto Andar, monetização de integrações, OKRs, RH terceirizado, desempenho comercial",
+    "main_agenda_items": [
+      "Parceria com Quinto Andar",
+      "Monetização de integrações",
+      "Desempenho comercial",
+      "Gestão de pessoas e RH terceirizado",
+      "OKRs e transformação em ações práticas",
+      "Automação e integração universal"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Alejandro Olchik": "CTO",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Eduardo Stringhini": "COO",
+      "Marcelo Rodrigues": "Diretor de Operações/CS"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 89.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Eduardo organizar reunião com Quinto Andar esta semana",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Cobrar entre R$ 10 a R$ 15 por integração ativa mensalmente",
+      "decision_maker": "Felipe Goettems + Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Marcelo rodar relatórios de dimensionalidade com tabela de preços 2026",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Marcelo começar reajuste de preços pelos clientes baratos e locais",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Felipe conversar com equipe financeira sobre cobrança de integrações",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Eduardo conversar com imobiliárias sobre valor mínimo de integração",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Diego apresentar OKRs para todo time segunda-feira",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Alejandro fazer reunião com Mari sobre gestão de demandas",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Alejandro continuar campanha de integrações ativas para desabilitar ou reativar",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Eduardo sugerir contratar pessoa sênior para estruturar processos por 6 meses",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Alejandro prefere terceirização a contratação full time de RH",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Marcelo pesquisar mais empresas terceirizadas de RH",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Eduardo responder Mateus da Universal com postura fria e reconstruir relação",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Diego mandar mensagem para pessoas que falaram sobre integração Universal",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D15",
+      "description": "Diego fazer alinhamento com João em Vitória amanhã",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D16",
+      "description": "Estratégia: focar em lançamentos e fortalecer canal de distribuição com Quinto Andar",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Eduardo: reunião com Quinto Andar esta semana",
+      "owner": "Eduardo Stringhini",
+      "deadline": "2026-03-07T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Felipe: conversar com equipe financeira sobre cobrança de integrações",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Eduardo: conversar com imobiliárias sobre valor mínimo de integração",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Marcelo: rodar relatórios de dimensionalidade com tabela 2026",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Marcelo: reajuste de preços clientes baratos e locais",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Marcelo: pesquisar empresas terceirizadas de RH",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Eduardo: responder Mateus da Universal com postura fria",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Diego: mensagem para pessoas sobre integração Universal",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Diego: alinhamento com João em Vitória amanhã",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-03T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Alejandro: reunião com Mari sobre gestão de demandas",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O11",
+      "description": "Alejandro: campanha de integrações ativas",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O12",
+      "description": "2 mil integrações inativas para resolver",
+      "owner": "Time",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Time de imobiliárias não é incentivado a cuidar de catálogo gratuito"
+    },
+    {
+      "id": "O13",
+      "description": "Bruno: falta de motivação e objetividade nas comunicações",
+      "owner": "Bruno",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Não demonstrando urgência"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Eduardo: reunião Quinto Andar esta semana",
+      "owner": "Eduardo Stringhini",
+      "deadline": "2026-03-07T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Felipe: conversar financeira sobre cobrança integrações",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Eduardo: conversar imobiliárias sobre valor mínimo",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Marcelo: relatórios dimensionalidade + tabela 2026",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Marcelo: pesquisar terceirizadas de RH",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Eduardo: responder Mateus Universal",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Diego: mensagem sobre integração Universal",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Diego: OKRs para time segunda",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-09T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Quinto Andar vai aceitar integração padrão ou vai exigir customizações que dão trabalho?",
+      "context": "Se exigir customizações, pode demandar recursos sem retorno proporcional. Precisa definir escopo antes de aceitar piloto.",
+      "answer_required_by": "2026-03-07T23:59:00.000Z",
+      "owner": "Eduardo Stringhini + Felipe Goettems"
+    },
+    {
+      "id": "Q2",
+      "question": "2 mil integrações inativas — como resolver sem custo excessivo?",
+      "context": "Time de imobiliárias não é incentivado para cuidar de catálogo gratuito. Se não resolver, receita não cresce.",
+      "answer_required_by": null,
+      "owner": "Alejandro Olchik + Felipe Goettems"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Feb venda R$ 3.800 vs meta R$ 15k — 75% abaixo da meta",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Diego apresentar OKRs segunda. Felipe conversar com financeiras. Eduardo com imobiliárias.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "2 mil integrações inativas sem resolução — receita estagnada",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Campanha de ativações. Cobrar por integração ativa. Alejandro continuar campanha.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Bruno não demonstrando urgência e falta objetividade — risco para time",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Alejandro conversar diretamente com Bruno. Se não melhorar, avaliar substituição.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Universal: PH com histórico de não responder e não colaborar",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Eduardo responder com postura fria. Diego enviar mensagem para envolvidos.",
+      "source": "notes"
+    },
+    {
+      "id": "R5",
+      "description": "Knight não colaborou com BDRs — atrapalha performance do time",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diego alinhar com João em Vitória.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Quinto Andar propôs piloto de integração com carteira gratuita — fortalece canal de distribuição",
+      "potential_impact": "high",
+      "owner": "Eduardo Stringhini",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Cobrar R$ 10-15 por integração ativa mensal — monetização de base inativa",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems + Eduardo Stringhini",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Contratar pessoa sênior por 6 meses para estruturar processos",
+      "potential_impact": "medium",
+      "owner": "Eduardo Stringhini",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Terceirização RH mais atrativa: 4h/semana por R$ 6k vs R$ 7k CLT",
+      "potential_impact": "medium",
+      "owner": "Marcelo Rodrigues + Alejandro Olchik",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Jade nova closadora com bom desempenho em janeiro",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Feb venda R$ 3.800 vs meta R$ 15k. Quinto Andar piloto proposto. Cobrar R$ 10-15/mês por integração ativa. 2k integrações inativas. Terceirização RH avaliada.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Análise financeira e operacional com decisões concretas para próximo ciclo."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Fevereiro fechou com R$ 3.800 em vendas, meta R$ 15 mil — 75% abaixo.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Proposta: cobrar R$ 10-15 por integração ativa mensal. Cobrança via cartão automático.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "2 mil integrações inativas para resolver. Time não é incentivado para catálogo gratuito.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Quinto Andar propôs piloto integração com carteira gratuita para imobiliárias.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Terceirização RH mais atrativa: R$ 6k por 4h/semana vs R$ 7k CLT.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M6",
+      "memory": "Bruno sem urgência e prolixo. Jade closadora nova com bom desempenho.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Ticket médio Feb R$ 780 vs R$ 699 ano passado.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Eduardo marcar reunião com Quinto Andar ainda esta semana. Felipe e Eduardo conversarem com financeiras e imobiliárias sobre cobrança de integrações. Marcelo pesquisar terceirizadas de RH. Diego alinhar com João em Vitória amanhã.",
+    "owner": "Eduardo Stringhini + Felipe Goettems + Marcelo Rodrigues + Diego Diehl",
+    "deadline": "2026-03-07T23:59:00.000Z",
+    "reason": "Feb muito abaixo da meta exige ação imediata. Quinto Andar não pode esperar. 2k inativas sem resolução constante. RH terceirizado é oportunidade de economia."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se reunião Quinto Andar aconteceu",
+      "Se cobrança de integrações foi implementada",
+      "Se 2k inativas foram resolvidas",
+      "Se RH foi terceirizado ou contratado",
+      "Se Diego apresentou OKRs na segunda",
+      "Se Bruno melhorou urgência",
+      "Se Knight colaborou com BDRs"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Parceria com Quinto Andar",
+    "Monetização de Integrações",
+    "Desempenho Comercial",
+    "Gestão de Pessoas",
+    "Terceirização de RH",
+    "Integração Universal",
+    "Iniciativas de Automação",
+    "Treinamento e Desenvolvimento",
+    "Gestão de OKRs"
+  ]
+}

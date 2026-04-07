@@ -1,0 +1,107 @@
+{
+  "meeting_id": "6968cc27290b3e0013fc3d86",
+  "name": "Update: Z2 + Orulo",
+  "happened_at": "2026-01-15T11:15:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T13:39:24.625307+00:00",
+  "executive_summary": "REUNIAO SEM DADOS — transcript, notas e topicos indisponiveis. Analise limitada. Participantes listados mas sem contexto de发生了什么. Não há como extrair decisões, pendências ou riscos.",
+  "context": {
+    "purpose": "[DADOS INDISPONIVEIS]",
+    "main_agenda_items": [],
+    "participants_and_roles": {
+      "Alejandro Olchik": " CTO — presente",
+      "Eduardo Stringhini": "COO — presente",
+      "Felipe Goettems": "Fundador — presente",
+      "Mariana Marins": "presente",
+      "Pedro Ruza Kneip Navarro": "presente",
+      "Carolina Campos": "presente",
+      "Fernando Florêncio": "presente",
+      "CHARLES AUGUSTO DA SILVA": "presente",
+      "Marcelo Tadeu": "presente",
+      "João Pedro": "presente",
+      "Wallace Guimarães": "presente",
+      "Roberto Rocco": "presente",
+      "Diego Diehl": "Organizador"
+    },
+    "meeting_type": "unknown",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 8.6
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O que foi discutido nesta reunião?",
+      "context": "Sem transcript não há como saber qualquer conteúdo. Reunião pode ter sido cancelada, técnicos falharam, ou dados foram perdidos.",
+      "answer_required_by": null,
+      "owner": null
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hilang. Impossível analisar, rastrear ou documentar.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Verificar com Diego ou participantes o que foi discutido. Reconstruir ata manualmente se necessário.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Se esta reunião foi relevante para decisões de janeiro/2026, esas decisões não estão documentadas em nenhum lugar acessível ao Morfeu.",
+      "type": "strategic",
+      "severity": "medium",
+      "mitigation": "Conferir com Diego se houve output alternativo (e-mail, ata em outro lugar, decisão verbal).",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Verificar com Diego ou participantes (Alejandro, Eduardo, Felipe) o que foi decidido nesta reunião. Reconstruir memória se necessário.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Reunião de atualização Z2+Orulo com liderança OKR — conteúdo precisa existir em algum lugar."
+    },
+    {
+      "id": "DS2",
+      "action": "Checar se transcript foi salvo em outro lugar (Drive, e-mail, arquivo local).",
+      "destination": "N/A",
+      "priority": "medium",
+      "reason": "Transcripts tl;dv às vezes falham — pode haver backup."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Reunião Update Z2+Orulo 15/01/2026 — TODOS OS DADOS INDISPONIVEIS (transcript, notas, tópicos). Conteúdo desconhecido.",
+      "category": "decision",
+      "confidence": "low"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Perguntar a Diego o que foi decidido nesta reunião de Update Z2+Orulo. Sem o conteúdo, não há como gerar análise ou registrar memórias.",
+    "owner": "Diego Diehl",
+    "deadline": "IMEDIATO",
+    "reason": "Esta reunião envolveu CTO, COO e Fundador. Teve duração de 8.6 minutos. O conteúdo pode incluir decisões críticas sobre Z2 e Órulo que precisam estar documentadas. Sem input de Diego, não há como avanzar."
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "Transcript indisponível — 0 palavras",
+      "Notas estruturadas indisponíveis",
+      "Tópicos da IA indisponíveis",
+      "Duração de 8.6 minutos — reunião curta pode ter sido cancelada ou técnicos falharam",
+      "Não há como identificar decisões, tarefas ou pendências",
+      "Participantes conhecidos mas sem contexto de falas",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": []
+}

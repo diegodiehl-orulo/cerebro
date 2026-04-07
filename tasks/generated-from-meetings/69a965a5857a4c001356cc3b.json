@@ -1,0 +1,103 @@
+{
+  "meeting_id": "69a965a5857a4c001356cc3b",
+  "meeting_name": "Update: Z2 + Orulo",
+  "happened_at": "2026-03-05T11:15:00.000Z",
+  "tasks": [
+    {
+      "id": "T69a965a5-001",
+      "title": "Revisar gravação da reunião para extrair conteúdo real — dados não disponíveis no input",
+      "description": "Revisar gravação da reunião para extrair conteúdo real — dados não disponíveis no input",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "EXPLICITA",
+      "status": "OPEN",
+      "source_meeting": "69a965a5857a4c001356cc3b",
+      "source_category": "open_item",
+      "source_date": "2026-03-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": "Dados de Topics, Notes e Transcript ausentes no input",
+      "created_at": "2026-04-07T13:06:19.065710+00:00"
+    },
+    {
+      "id": "T69a965a5-002",
+      "title": "Verificar gravação da reunião ou solicitar resumo direto a participante que tenha contexto",
+      "description": "Verificar gravação da reunião ou solicitar resumo direto a participante que tenha contexto",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-06T23:59:00.000Z",
+      "priority": "HIGH",
+      "area": "Geral",
+      "project": null,
+      "type": "FOLLOW_UP",
+      "status": "OPEN",
+      "source_meeting": "69a965a5857a4c001356cc3b",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-03-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-07T13:06:19.065745+00:00"
+    },
+    {
+      "id": "T69a965a5-003",
+      "title": "O que foi discutido nesta reunião de 7.8 minutos?",
+      "description": "O que foi discutido nesta reunião de 7.8 minutos?",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-05T23:59:00.000Z",
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "69a965a5857a4c001356cc3b",
+      "source_category": "critical_question",
+      "source_date": "2026-03-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-07T13:06:19.065768+00:00"
+    },
+    {
+      "id": "T69a965a5-004",
+      "title": "[RISCO] Dados insuficientes para análise — reunião não pode ser processada adequadamente",
+      "description": "[RISCO] Dados insuficientes para análise — reunião não pode ser processada adequadamente",
+      "owner": null,
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "69a965a5857a4c001356cc3b",
+      "source_category": "risk",
+      "source_date": "2026-03-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-07T13:06:19.065804+00:00"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "by_priority": {
+      "HIGH": 2,
+      "MEDIUM": 2,
+      "LOW": 0
+    },
+    "by_type": {
+      "EXPLICITA": 1,
+      "FOLLOW_UP": 1,
+      "OBSERVACAO": 2
+    },
+    "without_owner": 1,
+    "without_deadline": 2
+  },
+  "generated_at": "2026-04-07T13:06:19.065830+00:00"
+}

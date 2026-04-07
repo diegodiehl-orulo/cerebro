@@ -1,0 +1,475 @@
+{
+  "meeting_id": "69caba140da323001306119a",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2026-03-30T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:31:05.026643+00:00",
+  "executive_summary": "Diretoria 30/03: Meta 40% MRR = +R$360k. SP, POA, Curitiba = 94% receita. São Paulo crescimento viável em Barueri, Guarulhos, ABC. Z2 deve R$50k. Playbook 30 dias. Evento POA 14/04.",
+  "context": {
+    "purpose": "Alinhamento semanal de diretoria — metas, Z2, embaixadores, automações, eventos e problemas de produto",
+    "main_agenda_items": [
+      "Alinhamento de metas e crescimento",
+      "Programa de embaixadores",
+      "Eventos e ativações",
+      "Questões com Z2",
+      "Automações e integrações",
+      "Reajustes de preço",
+      "Atritos e problemas de produto",
+      "Compartilhamento de dados"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Alejandro Olchik": "CTO",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Eduardo Stringhini": "COO",
+      "Marcelo Rodrigues": "Diretor de Operações/CS"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 137.9
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Marcelo repor pessoa removida da atualização no início de abril",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Marcelo iniciar processo seletivo para contratar substituto em automações",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Diego apresentar proposta do playbook na próxima semana para decisão",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Diego atualizar planilha de faturamento quando virar o mês",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Marcelo rodar teste para relatório de reajuste sair automaticamente",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Diego conectar marketing e CS no projeto de embaixadores",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Eduardo pegar sala para reunião de diretoria no dia 13 às 14h",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Relatório de causas de não fechamento de integrações pronto até segunda",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Diego se encontrar com Z2 na quarta para resolver pendências",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Diego trazer lista de atividades do programa de embaixadores para quarta",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego definir estratégia para receber 50 mil de implantações da Z2",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Diego negocia 20% adicional para pagar sócio local em novas praças",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Cobrança de valor simbólico em integrações está sendo encaminhada com Bruno",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Marcelo: processo seletivo para substituto em automações",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Diego: planilha de faturamento",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Diego: proposta playbook para próxima semana",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego: lista de atividades do programa de embaixadores para quarta",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-01T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Diego: encontro com Z2 na quarta sobre pendências",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-01T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Marcelo: relatório de causas de não fechamento de integrações",
+      "owner": "Marcelo Rodrigues",
+      "deadline": "2026-04-06T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Marcelo: estudar modelo de transações financeiras com Z2",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Z2 deve R$ 50 mil de implantações atrasadas desde abril de 2025",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Z2 não paga há um ano apesar de política formalizada"
+    },
+    {
+      "id": "O9",
+      "description": "Contrato social, e-mail de parcerias e débitos financeiros pendentes",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Passivos jurídicos e financeiros"
+    },
+    {
+      "id": "O10",
+      "description": "Vendedor local em Goiânia e João Pessoa",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Marcelo: processo seletivo substituto automações",
+      "owner": "Marcelo Rodrigues",
+      "deadline": "2026-04-01T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego: atualizar planilha faturamento",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego: proposta playbook",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego: lista atividades embaixadores para quarta",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-01T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Diego: encontro Z2 quarta",
+      "owner": "Diego Diehl",
+      "deadline": "2026-04-01T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Marcelo: relatório causas não fechamento",
+      "owner": "Marcelo Rodrigues",
+      "deadline": "2026-04-06T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Marcelo: estudar modelo transações Z2",
+      "owner": "Marcelo Rodrigues",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Eduardo: sala diretoria dia 13 às 14h",
+      "owner": "Eduardo Stringhini",
+      "deadline": "2026-03-13T23:59:00.000Z",
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Z2 vai pagar os R$ 50 mil de implantações atrasadas?",
+      "context": "Z2 não paga há um ano. Se não pagar, impacto financeiro significativo. Diego definiu estratégia na reunião.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Playbook de automação vale o investimento vs time interno?",
+      "context": "Entrega em 30 dias vs time levar mais. Custo e benefício precisam ser validados.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Modelo de sociedade com Z2 funciona operacionalmente?",
+      "context": "Diego disse que não funciona no dia a dia. Se não funcionar, qual alternativa?",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Eduardo Stringhini"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Z2 deve R$ 50 mil de implantações e não paga há um ano",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Diego definir estratégia de cobrança. Encontrar com Z2 na quarta.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Modelo de sociedade com Z2 não funciona operacionalmente",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diego negociar 20% adicional para pagar sócios locais. Avaliar estrutura alternativa.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Passivos jurídicos e financeiros pendentes bloqueiam novas pautas",
+      "type": "compliance",
+      "severity": "high",
+      "mitigation": "Priorizar resolução de contrato social, e-mail parcerias e débitos.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Corretores reclamam que não existe book para empreendimento",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Estruturar processo para criação de book quando incorporadora não faz.",
+      "source": "notes"
+    },
+    {
+      "id": "R5",
+      "description": "Cyrela tem problema com comissão que diminui quando vende bem",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Revisar modelo de comissão com Cyrela.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Meta 40% MRR = +R$ 360k mensais — crescimento significativo se atingido",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Crescimento em Grande SP viável em Barueri, Guarulhos e ABC",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "São Paulo, Porto Alegre e Curitiba = 94% da receita — potencial de expansão",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Playbook 30 dias entrega mais rápido que time interno",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Embaixadores com automação para escala nacional",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Marcelo Rodrigues",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Meta 40% MRR = +R$ 360k. SP, POA, Curitiba = 94% receita. Z2 deve R$ 50k. Playbook 30 dias. Evento POA 14/04.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Análise estratégica com metas e bloqueios definidos."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Meta crescimento 40% MRR = +R$ 360k mensais.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "SP, POA, Curitiba = 94% da receita total.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Crescimento em Grande SP viável em Barueri, Guarulhos e ABC.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Z2 deve R$ 50k de implantações atrasadas desde abril 2025. Não paga há um ano.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Modelo de sociedade com Z2 não funciona operacionalmente. Diego negocia 20% adicional para sócios locais.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Playbook entrega em 30 dias vs time de automações levaria muito mais.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Embaixadores: CS elogiados e criticados. Precisa de pessoa dedicada ou processo estruturado.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego encontro com Z2 na quarta para resolver pendências e definir estratégia de cobrança dos R$ 50k. Diego trazer lista de atividades do programa de embaixadores para quarta. Marcelo relatório de causas de não fechamento até segunda. Diego proposta playbook para próxima semana.",
+    "owner": "Diego Diehl + Marcelo Rodrigues",
+    "deadline": "2026-04-01T23:59:00.000Z",
+    "reason": "Z2 deve R$ 50k e não paga há um ano — risco financeiro alto. Embaixadores precisam de direcionamento. Playbook precisa de decisão. Relatório de integrações é base para下一步."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Z2 pagou os R$ 50k",
+      "Se encontro Z2 aconteceu na quarta",
+      "Se playbook foi decidido",
+      "Se vendedor local foi contratado em Goiânia e João Pessoa",
+      "Semeta 40% MRR foi atingida",
+      "Se relatório de causas ficou pronto segunda",
+      "Se evento POA 14/04 aconteceu"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Alinhamento de Metas e Crescimento",
+    "Programa de Embaixadores",
+    "Eventos e Ativações",
+    "Questões com Z2",
+    "Automações e Integrações",
+    "Reajustes de Preço",
+    "Atritos e Problemas de Produto",
+    "Compartilhamento de Dados"
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "meeting_id": "69b406bf6fac1300131a22fb",
+  "name": "Gustavo / Mayumi",
+  "happened_at": "2026-03-13T12:45:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:01:16.324933+00:00",
+  "executive_summary": "REUNIAO SEM DADOS SUFICIENTES PARA ANALISE. Topics, notas e transcript indisponiveis. Reuniao durou 63.3 minutos entre Gustavo Torres e Mayumi Takeda. Dados completamente ausentes.",
+  "context": {
+    "purpose": "Alinhamento entre Gustavo Torres e Mayumi Takeda — propósito não confirmado via dados disponíveis",
+    "main_agenda_items": [
+      "Dado não disponível"
+    ],
+    "participants_and_roles": {
+      "Gustavo Torres": "Coordenador Comercial — organizador",
+      "Mayumi Takeda": "Marketing e Comunidade — DRI WS1/WS5"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 63.3
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O que foi discutido nesta reunião de 63 minutos entre Gustavo e Mayumi?",
+      "context": "63 minutos de reunião sem qualquer registro. Poderia ter sido sobre WS1, WS5, презентации comercial, eventos ou qualquer outro tema.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres + Mayumi Takeda"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reuniao de 63 minutos sem registro — histórico completamente perdido. Impossível auditar.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Verificar se há gravação ou pedir resumo direto a Gustavo e Mayumi.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Reunião Gustavo/Mayumi 13/03 sem dados — topics/notes/transcript indisponíveis. Verificar se há gravação ou resumo alternativo.",
+      "destination": "memory/pending.md",
+      "priority": "high",
+      "reason": "63 minutos entre DRI WS1/WS5 e Coordenador Comercial pode ter gerado decisões importantes. Dados perdidos."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Reunião Gustavo/Mayumi 13/03 sem dados — 63 minutos completamente sem registro. Necesário validar conteúdo.",
+      "category": "process",
+      "confidence": "low"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Gustavo e Mayumi confirmarem o que foi decidido nesta reunião. Verificar se há gravação ou resumo alternativo.",
+    "owner": "Gustavo Torres + Mayumi Takeda",
+    "deadline": null,
+    "reason": "63 minutos entre coordenadores de WS1/WS5 sem registro = risco de decisões perdidas. Impossível analisar sem validação."
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "O que foi discutido nesta reunião",
+      "Quais decisões foram tomadas",
+      "Quais foram os próximos passos combinados",
+      "Sobre quais temas (eventos, marketing, comercial)",
+      "Há gravação disponível",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "DADO INDISPONIVEL — reunião sem topics registrados"
+  ]
+}

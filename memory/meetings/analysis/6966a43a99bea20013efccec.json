@@ -1,0 +1,503 @@
+{
+  "meeting_id": "6966a43a99bea20013efccec",
+  "name": "Planilha Comercial (Ação Vendas)",
+  "happened_at": "2026-01-13T20:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:13:20.127437+00:00",
+  "executive_summary": "Diego e Gustavo alinharam hiring de Closer (CLT 3-6, PJ 4-8 + comissão), criticaram Jade por estar 'relaxada' e vão dar volumão com checklist de 4 pontos. Gustavo tem 300+ currículos para triar. Eventos: POA 14/04 e Capão 16/04. 24 eventos planejados em 12 cidades.",
+  "context": {
+    "purpose": "Alinhar hiring, eventos, indicadores comerciais e operação do time",
+    "main_agenda_items": [
+      "Contratação de Closer (salário, comissionamento)",
+      "Performance da Jade e plano de ação",
+      "Triagem de 300+ currículos",
+      "Eventos em praças (POA, Capão, 12 cidades)",
+      "Indicadores e planilha comercial",
+      "Distribuição de leads"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Organizador — definiu estratégia e incentive model",
+      "Gustavo Torres": "Coordenador Comercial — executa hiring, triagem, eventos"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 55.5
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Jade precisa de volumão + checklist de 4 pontos por ligação + reunião de check todo dia 9h",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Gustavo vai triar 300+ currículos e agendar entrevistas para vaga de Closer",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Faixa salarial Closer: CLT 3-6, PJ 4-8 + comissionamento (modelo atual mantido temporariamente)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Modelo de incentivo: mensalidade de custo por colaborador + mínimo garantido para Closer",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Diego pode pedir apoio de Gustavo em reuniões com clientes enquanto contrata novos closers",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Gustavo distribui ~100 leads por pessoa na equipe",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Entrevistas de emprego vão direto para Diego (não só para Gustavo)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Praças prioritárias: Goiânia, São Paulo, Porto Alegre, Floripa, João Pessoa, Recife, Campinas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D9",
+      "description": "Eventos: Porto Alegre 14/04 e Capão da Canoa 16/04 — 3 empresas já confirmadas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Plano: 24 eventos em 12 cidades, 50 pessoas por evento, workshops de manhã",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego apresentar planejamento estratégico detalhado ao time nas próximas duas semanas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Gustavo criar tutorial rápido sobre vinculação de agendamentos aos cards do CRM",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Validação de contato comercial deve ocorrer 2 meses antes de cada evento",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Gustavo triar 300+ currículos e agendar entrevistas para Closer",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Volume alto de currículos",
+      "source": "transcript"
+    },
+    {
+      "id": "O2",
+      "description": "Gustavo dar volumão para Jade com checklist de 4 pontos e check diário 9h",
+      "owner": "Gustavo Torres + Jade Rosa",
+      "deadline": "2026-01-14T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "transcript"
+    },
+    {
+      "id": "O3",
+      "description": "Diego ajustar modelo de incentivo (mensalidade de custo por colaborador)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego apresentar planejamento estratégico ao time (2 semanas)",
+      "owner": "Diego Diehl",
+      "deadline": "2026-01-27T00:00:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo criar tutorial vinculação de agendamentos aos cards",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Gustavo distribuir ~100 leads por pessoa",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Mila puxar dados de diferentes canais e processar",
+      "owner": "Mirla Menezes",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Gustavo reagendar reunião com Laís (help desk)",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Diego dar apoio em reuniões com clientes se necessário (enquanto contrata closers)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Depende de demanda do time S10",
+      "source": "transcript"
+    },
+    {
+      "id": "O10",
+      "description": "Gustavo adicionar eventos à agenda Google para rastreamento",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O11",
+      "description": "Diego confirmar eventos em Porto Alegre e Capão da Canoa conforme avançar",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O12",
+      "description": "Time enviar foco operacional semanal, ajustes CRM e aprendizados no grupo",
+      "owner": "Time comercial",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O13",
+      "description": "Reabrir leads de reuniões do último trimestre que não fecharam",
+      "owner": "Time comercial",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O14",
+      "description": "Identificar canais ativos de vendas e detalhes da operação de André",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Gustavo triar 300+ currículos para Closer",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "critical",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Gustavo dar volumão + checklist para Jade",
+      "owner": "Gustavo Torres + Jade Rosa",
+      "deadline": "2026-01-14T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Diego ajustar modelo de incentivo",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego apresentar planejamento estratégico ao time",
+      "owner": "Diego Diehl",
+      "deadline": "2026-01-27T00:00:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Gustavo criar tutorial vinculação agendamentos-cards",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Gustavo distribuir ~100 leads por pessoa",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Gustavo adicionar eventos à agenda Google",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Diego apoiar em reuniões se time S10 precisar",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T9",
+      "description": "Mila puxar dados de canais e setores",
+      "owner": "Mirla Menezes",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Jade está apta para a função? Ela foi evaluada como 'relaxada' e 'crua' — Diego deu volumão mas e se não melhorar?",
+      "context": "Se Jade não responde ao volumão, é preciso decidir: training adicional ou substituição. 影响 pipeline de vendas.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres + Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Modelo de comissão para Closer vai mudar ou manter o atual?",
+      "context": "Diego mencionou que vai ajustar mas ainda não definiu. Time precisa de clareza para fechar contratos.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Quem é o candidato a sócio local em Goiânia? Progresso?",
+      "context": "Goiânia é praça prioritária. Sem替代 local, evento não terá força.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Jade está 'relaxada' e 'crua' — não sabe ler playbook. Risco de pipeline lento se não melhorar rápido",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Checklist de 4 pontos + reunião 9h diária. Se não melhorar em 2 semanas, considerar substituição.",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "300+ currículos para triar — Gustavo vai perder muito tempo se fizer manualmente",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Usar IA com prompt ajustado para triagem. Diego ofereceu apoio para discutir dúvidas.",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Closer ainda não contratado — time está 'gargalado'",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Priorizar triagem e entrevistas. Diego pode apoiar em reuniões temporariamente.",
+      "source": "transcript"
+    },
+    {
+      "id": "R4",
+      "description": "Volume de leads está baixo (Mila precisa expandir)",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Distribuir 100 leads por pessoa. Reabrir leads do último trimestre.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "24 eventos em 12 cidades — chance de marcar presença nacional e aquisições",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "3 empresas já confirmadas para eventos de abril — validar e expandir lista",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + Pedro Kneip",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Divisão de custos de evento entre 3 empresas (6-7k por evento) — viabiliza evento",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Jade 'relaxada' e 'crua' — volumão com checklist 4 pontos + check 9h. Se não melhorar, replanejar.",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "Performance de Jade está sendo monitorada de perto. Registrar para trackear evolução."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: Modelo de incentivo Closer — CLT 3-6, PJ 4-8, comissão sobre custo 3 meses, mínimo garantido",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Parâmetros de hiring definidos — importante para futuras contratações"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar: Praças prioritárias 2026 — Goiânia, São Paulo, Porto Alegre, Floripa, João Pessoa, Recife, Campinas, Natal, Fortaleza",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Foco geográfico definido — guia planejamento de eventos e expansão"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Jade Rosa: evaluada como 'relaxada' e 'crua' por Gustavo. Não sabe ler playbook e aplicar. Diego mandou dar volumão com checklist 4 pontos + check diário 9h.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Modelo de incentivo Closer: CLT 3-6, PJ 4-8 + comissão (90% do custo em 3 meses como mínimo garantido)",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Gustavo Torres: 300+ currículos para triar. Vai precisar de ajuda ou usar IA com prompt ajustado.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Eventos 2026: POA 14/04, Capão 16/04. Plano: 24 eventos em 12 cidades, 50 pessoas por workshop de manhã.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Praças prioritárias: Goiânia, São Paulo, Porto Alegre, Floripa, João Pessoa, Recife, Campinas, Natal, Fortaleza",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Indicadores: reuniões realizadas, propostas enviadas, contratos fechados. CRM: % contatos com próximo passo.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M7",
+      "memory": "Meta estratégica: 30 contratos/mês = 120 reuniões necessárias (15 só local, 15 Knight, 90 BDRs)",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Gustavo focar em triar os 10-20 melhores currículos dos 300+ HOJE e agendar primeiras entrevistas para esta semana. Sem Closer, time está gargalado. Prioridade máxima.",
+    "owner": "Gustavo Torres",
+    "deadline": "2026-01-15T00:00:00.000Z",
+    "reason": "300+ currículos é volumealto. Focar nos top 10-20 reduz tempo de triagem e permite iniciar entrevistas ainda esta semana. Closer é gargalo crítico."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado — final pode estar incompleto",
+      "Modelo de comissão exato não totalmente definido (Diego said vai ajustar)",
+      "Detalhes de operação de André não conocidos",
+      "Cronograma exato de 24 eventos não definido (além de POA 14/04 e Capão 16/04)",
+      "Prazo específico para triagem dos currículos no definido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Definidas e Compromissos",
+    "Eventos e Estratégia de Expansão",
+    "Contratação e Recursos Humanos",
+    "Processamento de Dados e Canais",
+    "Documentação e Organização"
+  ]
+}

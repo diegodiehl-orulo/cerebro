@@ -1,0 +1,421 @@
+{
+  "meeting_id": "69c58224f2dd940013643f4d",
+  "name": "Forecast Closer",
+  "happened_at": "2026-03-26T19:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:25:42.663240+00:00",
+  "executive_summary": "Forecast 26/03: Modelo Closer = pro rata. W3 Rio aguardando assinatura. Luli Goiânia travada na diretoria. Salazar: proposta R$ 1.897 até 31/03. João integrar tldv no CRM. 430 imobiliárias aguardando ativação.",
+  "context": {
+    "purpose": "Reunião semanal de forecast da equipe Closer — pipeline, processos, contratos e negociação",
+    "main_agenda_items": [
+      "Negociações em andamento",
+      "Definições de processo e padrões",
+      "Estratégias de vendas e parcerias",
+      "Modelo de negócio Closer"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host e decisor",
+      "João Vitor Portes da Silva (João)": "Closer — responsável por negociações Rio e Goiânia",
+      "Gustavo Torres": "Coordenador Comercial — contratos e padrão",
+      "Luan Felipe de Souza": "Closer — novo na equipe"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 83.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Contratos workshop salvos com nomenclatura padrão 'combo workshop'",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Gustavo ajustar contrato MDI conforme modelo padrão definido",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Modelo de cobrança Closer: pro rata do dia de assinatura até data de vencimento mensal",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "Faturamento deve ser emitido no CNPJ da Incorporadora para evitar alterações",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D5",
+      "description": "Dividir por SPA apenas se cliente solicitar — não oferecer como padrão",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D6",
+      "description": "Estado deve aparecer no título do contrato e no card de visualização",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D7",
+      "description": "Primeira cobrança será junto com primeira mensalidade no segundo mês",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D8",
+      "description": "Cláusula padrão para workshop: plataforma disponibilizada a partir da assinatura",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D9",
+      "description": "João atualizar proposta e enviar para Salazar com novo valor acordado",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D10",
+      "description": "João integrar tldv no sistema de CRM e Beatles com contexto GPT",
+      "decision_maker": "João Vitor Portes da Silva",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego validar cláusula de contrato com Bia e confirmar padrão para workshop",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Diego enviar proposta para Salazar com valor de R$ 1.897 até 31 de março",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "W3 Rio: aguardando assinatura dos dois sócios após validação",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "pending_response",
+      "blocking_factor": "Validação de faturamento por SPA"
+    },
+    {
+      "id": "O2",
+      "description": "Luli Goiânia: negociação travada aguardando aprovação da diretoria",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "blocked",
+      "blocking_factor": "Aprovação da diretoria"
+    },
+    {
+      "id": "O3",
+      "description": "Denise São Paulo: material entregue aguardando aprovação da diretoria de parcerias",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "pending_response",
+      "blocking_factor": "Aprovação da diretoria de parcerias"
+    },
+    {
+      "id": "O4",
+      "description": "Salazar: proposta de R$ 1.897 até 31/03",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-31T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "João tentar contato com Salazar para avançar negociação travada",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Gustavo ajustar contrato MDI",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O7",
+      "description": "430 imobiliárias aguardando ativação para receber produtos quando botão habilitado",
+      "owner": "Time comercial",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Botão não habilitado ainda"
+    },
+    {
+      "id": "O8",
+      "description": "João integrar tldv no CRM e Beatles",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João: atualizar proposta e enviar para Salazar",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego: enviar proposta para Salazar R$ 1.897 até 31/03",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-31T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "João: tentar contato com Salazar",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Gustavo: ajustar contrato MDI",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T5",
+      "description": "Diego: validar cláusula com Bia",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "João: integrar tldv no CRM e Beatles",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "João: adicionar estado no título do contrato Luli Goiânia",
+      "owner": "João Vitor Portes da Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "both"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Luli Goiânia vai conseguir aprovar na diretoria para destravar negociação?",
+      "context": "Negociação travada. Se não aprovar, perde três contratos de Goiânia.",
+      "answer_required_by": null,
+      "owner": "João Vitor Portes da Silva + diretoria"
+    },
+    {
+      "id": "Q2",
+      "question": "W3 Rio vai assinar após mudança de faturamento para CNPJ da Incorporadora?",
+      "context": "Cliente pediu faturamento por SPA. Se manter, pode travar novamente.",
+      "answer_required_by": null,
+      "owner": "João Vitor Portes da Silva"
+    },
+    {
+      "id": "Q3",
+      "question": "Salazar vai aceitar proposta de R$ 1.897?",
+      "context": "Cliente hesitante com orçamento. Se não aceitar, perde oportunidade no Rio.",
+      "answer_required_by": "2026-03-31T23:59:00.000Z",
+      "owner": "Diego Diehl + João Vitor Portes da Silva"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Negociação Luli Goiânia travada na diretoria — risco de perder três contratos",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "João pressionar por aprovação. Diego pode interferir diretamente.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "W3 Rio aguardando assinatura — faturamento por SPA pode travar novamente",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Faturamento direto no CNPJ da Incorporadora. Dividir por SPA apenas se cliente solicitar.",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "430 imobiliárias aguardando ativação — botão não habilitado",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Aguardar habilitação do botão. Time comercial já sabe.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Denise SP aguardando aprovação da diretoria de parcerias",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Aguardar retorno da diretoria.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Caso de sucesso: cliente vendeu 70 unidades usando a plataforma Hora — usar como proof",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes da Silva + Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Roselita bem engajada após reunião com incorporador — possível conversão",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Parceria Rio estruturada com 12 gerentes alto padrão e 500 corretores",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Mercado Rio tem confusão entre imobiliárias — oportunidade para acelerar adoção",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes da Silva",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Diego pode fazer Facebook ads para gerar corretores para Salazar",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Modelo Closer = pro rata. W3 Rio aguardando assinatura. Luli Goiânia travada na diretoria. Salazar: R$ 1.897 até 31/03.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Pipeline com valores e bloqueios definidos para follow-up."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Modelo de cobrança Closer: pro rata do dia de assinatura até data de vencimento mensal. Primeira cobrança no segundo mês.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "W3 Rio: contrato aguardando assinatura após validação de faturamento.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Luli Goiânia: três contratos travados na diretoria.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Salazar: proposta R$ 1.897 até 31/03. João tentar contato para avançar.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Caso de sucesso: cliente vendeu 70 unidades usando Hora.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "430 imobiliárias aguardando ativação para receber produtos.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Funil Closer começa no meio, diferente de outros que começam no topo.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "João tentar contato com Salazar ainda hoje para avançar negociação travada. Diego enviar proposta R$ 1.897 até 31/03. Gustavo ajustar contrato MDI. João adicionar estado nos contratos de Goiânia.",
+    "owner": "João Vitor Portes da Silva + Diego Diehl + Gustavo Torres",
+    "deadline": "2026-03-31T23:59:00.000Z",
+    "reason": "Prazo de 31/03 para Salazar é crítico. W3 Rio e Luli Goiânia travados exigem follow-up urgente. Contrato MDI precisa entrar no padrão antes de enviar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se Salazar aceitou a proposta",
+      "Se W3 Rio assinou",
+      "Se Luli diretoria aprovou",
+      "Se contrato MDI foi ajustado",
+      "Se tldv foi integrado no CRM",
+      "Se botão de 430 imobiliárias foi habilitado"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Negociações em Andamento",
+    "Definições de Processo e Padrões",
+    "Estratégias de Vendas e Parcerias",
+    "Discussões sobre Modelo de Negócio"
+  ]
+}

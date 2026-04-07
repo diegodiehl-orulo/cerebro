@@ -1,0 +1,286 @@
+{
+  "meeting_id": "69bd75fea6d8bc0013db5b94",
+  "name": "Estrat\u00e9gia Tribut\u00e1ria Imobili\u00e1ria (Rodrigo Zilli  Zilli)",
+  "happened_at": "2026-03-20T16:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T07:03:07.571282+00:00",
+  "executive_summary": "Reuni\u00e3o com Rodrigo Zilli (N\u00f3rdica Im\u00f3veis) sobre CRI via CVM 88. Rodrigo tem projeto de VGV R$ 15M, busca evitar descapitaliza\u00e7\u00e3o na aquisi\u00e7\u00e3o de terrenos, e tem dezenas de investidores no multifamily/office. CVM 88 = custo R$ 60 mil, emiss\u00e3o em 10 dias, economia fiscal de R$ 240 mil no exemplo. Pr\u00f3xima reuni\u00e3o: Felipe apresentar estrutura\u00e7\u00e3o completa. Potencial alto.",
+  "context": {
+    "purpose": "Qualificar oportunidade CRI para Rodrigo Zilli \u2014 developer com projeto R$ 15M e rede de investidores",
+    "main_agenda_items": [
+      "Contexto do projeto de Rodrigo (VGV, terreno, investors)",
+      "Solu\u00e7\u00e3o CRI vs SCP \u2014 benef\u00edcios tribut\u00e1rios e operacionais",
+      "CVM 88 como estrutura simplificada",
+      "Simula\u00e7\u00f5es e pr\u00f3ximos passos"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Fundador/Diretor \u2014 Produtos Financeiros \u2014 l\u00edder t\u00e9cnica",
+      "Diego Diehl": "Diretor Comercial \u2014 \u00e2ncora da rela\u00e7\u00e3o",
+      "Luiz Gustavo Zanella": "S\u00f3cio-Local \u2014 PR \u2014 presente na reuni\u00e3o",
+      "Rodrigo Zilli": "Potencial cliente \u2014 developer N\u00f3rdica Im\u00f3veis, multifamily/office"
+    },
+    "meeting_type": "client",
+    "notes_limitation": null,
+    "duration_minutes": 47.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "CRI via CVM 88 como \u0441\u0442\u0440\u0443\u043a\u0442\u0443\u0440\u0430 preferencial para o projeto de Rodrigo \u2014\u53d6\u4ee3 SCP",
+      "decision_maker": "Rodrigo Zilli",
+      "confidence": "likely",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Felipe e Rodrigo agendar pr\u00f3xima reuni\u00e3o para analisar estrutura\u00e7\u00e3o tribut\u00e1ria completa do projeto R$ 15M",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Rodrigo vai estudar Instru\u00e7\u00e3o CVM 88 em detalhes",
+      "decision_maker": "Rodrigo Zilli",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Rodrigo vai negociar terrenos via estrutura CRI para otimizar impostos de ganho de capital",
+      "decision_maker": "Rodrigo Zilli",
+      "confidence": "likely",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Terrenista pode fazer permuta via CRI \u2014 otimiza tributa\u00e7\u00e3o sobre ganho de capital",
+      "decision_maker": "Rodrigo Zilli",
+      "confidence": "likely",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Felipe agendar pr\u00f3xima reuni\u00e3o com Rodrigo para apresentar estrutura\u00e7\u00e3o tribut\u00e1ria completa",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Rodrigo estudar Instru\u00e7\u00e3o CVM 88 detalhadamente",
+      "owner": "Rodrigo Zilli",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Rodrigo fornecer informa\u00e7\u00f5es de VGV, lucro estimado e participa\u00e7\u00f5es para simula\u00e7\u00f5es",
+      "owner": "Rodrigo Zilli",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "notes",
+      "blocking_factor": "Dados n\u00e3o entregues ainda"
+    },
+    {
+      "id": "O4",
+      "description": "Rodrigo negociar dois terrenos via estrutura CRI",
+      "owner": "Rodrigo Zilli",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Felipe agendar reuni\u00e3o de follow-up com Rodrigo para estrutura\u00e7\u00e3o tribut\u00e1ria",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Rodrigo estudar CVM 88 e aplica\u00e7\u00f5es pr\u00e1ticas",
+      "owner": "Rodrigo Zilli",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Rodrigo levantar VGV, lucro estimado e % de participa\u00e7\u00f5es para simula\u00e7\u00f5es",
+      "owner": "Rodrigo Zilli",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Felipe preparar simula\u00e7\u00f5es de economia fiscal com dados de Rodrigo",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": " Rodrigo vai de fato estruturar o projeto via CRI ou est\u00e1 apenas em fase de estudo?",
+      "context": "Rodrigo demonstrou interesse forte mas n\u00e3o fechou compromisso. Sem follow-up estruturado, a oportunidade esfria. Neces\u00e1rio definir data de pr\u00f3xima reuni\u00e3o agora.",
+      "answer_required_by": "2026-03-27T23:59:00.000Z",
+      "owner": "Felipe Goettems"
+    },
+    {
+      "id": "Q2",
+      "question": "Os dois terrenos adicionais est\u00e3o em negocia\u00e7\u00e3o ativa ou apenas em fase de interesse?",
+      "context": "Se os terrenos ainda n\u00e3o t\u00eam propriet\u00e1rio definido ou acordo preliminar, o uso do CRI para otimiza\u00e7\u00e3o fiscal pode n\u00e3o se concretizar neste ciclo.",
+      "answer_required_by": "2026-03-27T23:59:00.000Z",
+      "owner": "Rodrigo Zilli"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual o tamanho real da rede de investidores de Rodrigo \u2014 dezenas ou centenas?",
+      "context": "Se a rede \u00e9 pequena, o argumento de distribui\u00e7\u00e3o interna via CRI perde for\u00e7a. A tese depende de volume de investidores para justificar a estrutura\u00e7\u00e3o.",
+      "answer_required_by": "2026-03-27T23:59:00.000Z",
+      "owner": "Rodrigo Zilli"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Rodrigo ainda est\u00e1 em fase de estudo \u2014 sem compromisso de fechar, a oportunidade pode esfriar",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Felipe deve agendar pr\u00f3xima reuni\u00e3o ainda em mar\u00e7o para n\u00e3o perder momentum",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Projeto ainda em an\u00e1lise de viabilidade \u2014 se n\u00e3o for vi\u00e1vel, n\u00e3o h\u00e1 CRI",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Aguardar dados de VGV e lucro estimado de Rodrigo para validar cen\u00e1rio",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Terrenos adicionais ainda n\u00e3o t\u00eam acordo \u2014 sem terreno n\u00e3o h\u00e1 projeto, sem projeto n\u00e3o h\u00e1 CRI",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Priorizar entendimento do status de negocia\u00e7\u00e3o dos dois terrenos",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Projeto VGV R$ 15M com possibilidade de CRI estruturado via CVM 88 \u2014 economia de R$ 240 mil em impostos",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "both"
+    },
+    {
+      "id": "OP2",
+      "description": "Rede de dezenas de investidores no multifamily/office de Rodrigo \u2014 distribui\u00e7\u00e3o interna via CRI sem custo de capta\u00e7\u00e3o externa",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Terrenista pode estruturar permuta via CRI \u2014 reduz carga fiscal sobre ganho de capital",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Caso Rodrigo funcione, pode abrir novos neg\u00f3cio com investidores do multifamily/office dele",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar Rodrigo Zilli como oportunidade CRI ativa \u2014 potencial R$ 15M, decis\u00e3o esperada mar\u00e7o/2026",
+      "destination": "CRM/bitrix ou memory/projects.md",
+      "priority": "high",
+      "reason": "Oportunidade concreta com decision maker identificado e interesse confirmado \u2014 pipeline CRI"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar argumento CRI vs SCP: governan\u00e7a + flexibilidade + economia fiscal + in\u00edcio de obra antecipado",
+      "destination": "memory/process.md",
+      "priority": "medium",
+      "reason": "Framework de argumenta\u00e7\u00e3o validado na reuni\u00e3o \u2014 base para outras conversas CRI"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Rodrigo Zilli \u2014 N\u00f3rdica Im\u00f3veis \u2014 developer com projeto VGV R$ 15M, terreno principal j\u00e1 adquirido, dois terrenos adicionais em negocia\u00e7\u00e3o. Rede de investidores no multifamily/office. Interessado em CRI via CVM 88.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "CVM 88: custo R$ 60 mil, emiss\u00e3o em 10 dias, economia fiscal expressiva (exemplo R$ 240 mil em projeto R$ 15M). Limite atual R$ 15M, expands to R$ 50-75M end 2026.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "CRI paga investidores como juros/premios \u2014 n\u00e3o dividendos \u2014 por isso n\u00e3o tributa como lucro. SCP tributa distribui\u00e7\u00f5es de lucro.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Felipe + Diego + Zanella = equipe que faz a abordagem CRI junto com securitizadora. Felipe lidera aspecto t\u00e9cnico-financeiro.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Felipe agendar reuni\u00e3o de follow-up com Rodrigo esta semana + enviar materiais de CVM 88",
+    "owner": "Felipe Goettems",
+    "deadline": "2026-03-27T23:59:00.000Z",
+    "reason": "Rodrigo demonstrou interesse concreto. Sem follow-up r\u00e1pido, o momentum da reuni\u00e3o se perde e a oportunidade esfria."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Dados financeiros do projeto (VGV exato, lucro, %) n\u00e3o foram fornecidos por Rodrigo ainda",
+      "Status de negocia\u00e7\u00e3o dos dois terrenos n\u00e3o est\u00e1 claro \u2014 apenas interesse declarado",
+      "Valor exato da rede de investidores n\u00e3o quantificado por Rodrigo"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de A\u00e7\u00e3o",
+    "Estrutura do Projeto Imobili\u00e1rio",
+    "Solu\u00e7\u00e3o CRI (Certificado de Receb\u00edveis Imobili\u00e1rios)",
+    "Benef\u00edcios Tribut\u00e1rios do CRI",
+    "Compara\u00e7\u00e3o SCP versus CRI",
+    "Estrutura de Investimento Interno",
+    "Contexto da Reuni\u00e3o"
+  ]
+}

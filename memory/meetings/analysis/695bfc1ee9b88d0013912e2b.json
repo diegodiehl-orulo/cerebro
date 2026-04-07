@@ -1,0 +1,482 @@
+{
+  "meeting_id": "695bfc1ee9b88d0013912e2b",
+  "name": "Diretoria: Alinhamento Semanal",
+  "happened_at": "2026-01-05T18:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:10:15.507765+00:00",
+  "executive_summary": "Diretoria 05/01: Meta 2026 R$8M (+50%). Reestruturação comercial: Pisano saiu, Diego centraliza demandas. Contratar 1-2 closers. 3 cancelamentos por falta de retorno. Laís grávida (jun/jul). Evento 26-29 jan.",
+  "context": {
+    "purpose": "Alinhamento semanal de diretoria sobre reestruturação comercial, metas 2026, team changes e estratégia de crescimento",
+    "main_agenda_items": [
+      "Reestruturação da área comercial",
+      "Estratégia de crescimento e receita",
+      "Vendas e CRM",
+      "Parcerias e taxas financeiras",
+      "Eventos e encontros",
+      "Gestão de contas e atendimento"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Felipe Goettems": "Diretor de Produtos Financeiros",
+      "Alejandro Olchik": "CTO",
+      "Eduardo Stringhini": "COO",
+      "Marcelo Rodrigues": "Diretor de Operações/CS",
+      "Carolina Campos": "Coordenadora de CS"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 81.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego centralizará demandas comerciais e redistribuirá tarefas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Diego contratar um ou dois closers para atender demanda de reuniões",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Diego conversar com João sobre potencial liderança e reposição de closer",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Diego substituir Melo e criar processos internos para melhorar desenvolvimento comercial",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Reunião de diretoria agendada para 26 a 29 de janeiro",
+      "decision_maker": "Diego Diehl + diretoria",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "Dois encontros presenciais de duas horas cada — reunião dia 19 das 16 às 18h",
+      "decision_maker": "Diego Diehl + diretoria",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Meta 2026: R$8 milhões de receita com crescimento de 50%",
+      "decision_maker": "Diego Diehl + diretoria",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Diego centralizar controle total de vendas no CRM",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Carolina preparar relatório consolidado de pronto atendimento de 2025",
+      "decision_maker": "Carolina Campos",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Laís fará acompanhamento com contas de baixo retorno",
+      "decision_maker": "Laís",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Diego propor parceria agnóstica com CV com negociação flexível",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Diego postar stories de contratos assinados para visibilidade no mercado",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Felipe criar grupo de trabalho nas associações de classe",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Diego centralizar demandas comerciais que serão redistribuídas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "both"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego centralizar demandas comerciais e redistribuir",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O2",
+      "description": "Diego contratar 1-2 closers para demanda de reuniões",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "both"
+    },
+    {
+      "id": "O3",
+      "description": "Diego conversar com João sobre liderança e reposição",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego criar processos internos para desenvolvimento comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Eduardo fazer cobrança pendente da Hudson (retorno)",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Felipe: falar com Hobson sobre grupo de trabalho",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Carolina: relatório consolidado de pronto atendimento 2025",
+      "owner": "Carolina Campos",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Diego criar processo de pós-venda com SDR",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Felipe: análise de programa de parceiros",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Felipe + Eduardo + Carolina: reunião complementar",
+      "owner": "Felipe Goettems + Eduardo Stringhini + Carolina Campos",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego: centralizar demandas comerciais",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T2",
+      "description": "Diego: contratar 1-2 closers",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "both"
+    },
+    {
+      "id": "T3",
+      "description": "Diego: conversar com João sobre liderança",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Diego: criar processos internos para desenvolvimento comercial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Eduardo: cobrar Hudson (retorno)",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Carolina: relatório pronto atendimento 2025",
+      "owner": "Carolina Campos",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Diego: processo pós-venda com SDR",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Diego: stories de contratos assinados",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T9",
+      "description": "Felipe: grupo trabalho associações",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Por que 3 contas cancelaram em dezembro por falta de retorno?",
+      "context": "Se não houver processo de follow-up, mais contas vão cancelar. Laís vai fazer acompanhamento mas sem processo estruturado, é remendo.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Carolina Campos"
+    },
+    {
+      "id": "Q2",
+      "question": "Como Diego vai operacionalizar centralização de demandas comerciais sem sobrecarregar?",
+      "context": "Diego disse que vai centralizar demandas e redistribuir. Se for hub pessoal, vira gargalo. Precisa de processo, não só de vontade.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q3",
+      "question": "Crescimento de 50% (R$8M) é realistagiven Pisano saiu + reestruturação?",
+      "context": "Meta ambiciosa mas Pisano saiu sem reposição clara. Diego contratando closers mas timeline não definida.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + diretoria"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Três cancelamentos de contas em dezembro por falta de retorno — processo de follow-up fraco",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Laís acompanha contas baixo retorno. Diego criar processo pós-venda com SDR.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Pisano pediu demissão 22/12 mas comunicação só confirmada 02/01 — 10 dias sem comunicação",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Processo de offboarding mais rigoroso. Comunicación imediata ao time.",
+      "source": "both"
+    },
+    {
+      "id": "R3",
+      "description": "Laís grávida (previsão junho/julho) — licença maternidade vai impactar time",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Planejar substituta ou redistribuir tarefas com antecedência.",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Diego sem processo claro de coordenação — risco de ser gargalo",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Criar processos internos em vez de depender de voluntarismo.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Meta R$8M com 50% crescimento — ambicioso mas motivador",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + diretoria",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Felipe: eventos + novos produtos financeiros para impulsionar receita",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Diego postar stories de contratos — visibilidade no mercado",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "Funil de vendas por estado no CRM — visibilidade de informação",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + Alejandro Olchik",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Meta 2026 = R$8M (+50%). Crescimento via eventos, comunicação, jornada embaixadores, expansão corretores.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Meta estratégica que precisa ser rastreada nos KRs."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: 3 cancelamentos por falta de retorno em dezembro. Processo de follow-up fraco.",
+      "destination": "memory/process.md",
+      "priority": "high",
+      "reason": "Indicador de falha operacional que precisa de correção."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Meta 2026: R$8M (+50%). Diego centraliza demandas comerciais.",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Pisano saiu 22/12, comunicação só 02/01 — 10 dias sem comunicação ao time.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "3 cancelamentos dezembro por falta de retorno. Laís vai acompanhar.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Laís grávida — licença maternidade junho/julho.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Diego contratar 1-2 closers. Conversar com João sobre liderança.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Reunião diretoria 26-29 janeiro. Encontros presenciais dia 19 16-18h.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Taxas antecipação: 6-8% ao mês. Diego proponer parceria agnóstica com CV.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego centralizar demandas comerciais ainda esta semana + contratar closers. Laís fazer acompanhamento com contas de baixo retorno. Criar processo pós-venda com SDR.",
+    "owner": "Diego Diehl + Laís + Carolina Campos",
+    "deadline": "2026-01-12T23:59:00.000Z",
+    "reason": "3 cancelamentos por falta de retorno = sinal de processo fraco. Diego centralizando sem processo vira gargalo. Contratar closers Libera João para gestão."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se closers foram contratados",
+      "Se Diego centralizou demandas",
+      "Se processo pós-venda SDR foi criado",
+      "Se contas de baixo retorno foram recuperadas",
+      "Se reunião 26-29 janeiro aconteceu",
+      "Se encontros presenciais foram realizados",
+      "Se Hobson foifalado por Felipe"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Imediatas e Compromissos Definidos",
+    "Reestruturação da Área Comercial",
+    "Estratégia de Crescimento e Receita",
+    "Vendas e CRM",
+    "Parcerias e Taxas Financeiras",
+    "Eventos e Encontros",
+    "Gestão de Contas e Atendimento"
+  ]
+}

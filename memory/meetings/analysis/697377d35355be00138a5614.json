@@ -1,0 +1,467 @@
+{
+  "meeting_id": "697377d35355be00138a5614",
+  "name": "Product Planning",
+  "happened_at": "2026-01-23T13:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:54:02.483004+00:00",
+  "executive_summary": "Product planning focado em visibilidade e intermediação de contatos. Trocar 'ver contato' por 'quero falar com gerente'. Neno refina copy. App over WhatsApp. Ester: 26-27 indicações em João Pessoa. Gustavo coordena teste com 27 incorporadoras.",
+  "context": {
+    "purpose": "Refinar fluxo de intermediação de contatos e visibilidade para DL vs incorporadores regulares",
+    "main_agenda_items": [
+      "Fluxo de contato e intermediação",
+      "Visibilidade e percepção de valor",
+      "Melhorias na interface",
+      "Estratégia de incorporadores e corretores",
+      "Comunicação e mensagens",
+      "Considerações estratégicas"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — host",
+      "Alejandro Olchik": "CTO",
+      "Eduardo Stringhini": "Diretor",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Marcelo Rodrigues": "Diretor de Operações",
+      "Neno Andrade": "Tech — refinar fluxo e copy",
+      "Bruna Soares": "Comunicação",
+      "Gustavo Torres": "Coordenador — teste campo",
+      "Laura": "Execução outreach João Pessoa",
+      "Lais Santos Soares": "Produto",
+      "Guilherme Andrade Lacerda": "Tech",
+      "Mariana Marins": "Participou",
+      "Beatriz Fusquino": "Participou",
+      "Rubem Rocha": "Participou",
+      "Talita Campos": "Participou",
+      "Fernando Florêncio": "Participou",
+      "Bruno Zucchetti Rodrigues": "Participou"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 71.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Trocar 'ver contato' para 'quero falar com gerente de parcerias' — mais claro e alinhado com intenção",
+      "decision_maker": "Marcelo Rodrigues",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Neno refinar fluxos e criar copy detalhada para intermediação de contatos",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Priorizar notificações via app/push sobre WhatsApp — reduzir custos",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Sistema detectar instalação de app e enviar push em vez de WhatsApp quando possível",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Botão de contato mais visível e destacado no portal",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "DL deve ter muito menos visibilidade de audiência que incorporadores regulares — criar percepção de valor",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Gustavo coordenar outreach com Laura em João Pessoa — 27 incorporadoras",
+      "decision_maker": "Gustavo Torres + Laura",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Gustavo e Laura refinarem copy da Ester — pedir contato de gerente de parcerias, não número geral",
+      "decision_maker": "Gustavo Torres + Laura",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Diego identificar contatos-chave de corretores em cada região",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "Bruna compartilhar lista centralizada de contatos-chave com Diego",
+      "decision_maker": "Bruna Soares",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Bruna alinhar cartilha de comunicação com Laura e Mayumi",
+      "decision_maker": "Bruna Soares + Laura + Mayumi",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D12",
+      "description": "Mensagem deve enfatizar benefícios gratuitos da plataforma — evitar linguagem repetitiva de vendas",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D13",
+      "description": "Testar primeiro com 5-7 incorporadoras antes de масштабировать para todas 27",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D14",
+      "description": "Epic focado em visibilidade e valor percebido — não só intermediação",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D15",
+      "description": "Epic pequeno e focado para entregar resultados concretos rapidamente",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D16",
+      "description": "Template WhatsApp aprovado para continuar conversas após janela de 24h",
+      "decision_maker": "Neno Andrade",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Neno refinar fluxo e criar copy detalhada para intermediação",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "in_progress",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Gustavo coordenar outreach João Pessoa (27 incorporadoras)",
+      "owner": "Gustavo Torres + Laura",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "Gustavo testar abordagem com 5-7 primeiro antes de масштабировать",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Diego identificar contatos-chave de corretores por região",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Bruna compartilhar lista centralizada de contatos com Diego",
+      "owner": "Bruna Soares",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Bruna alinhar cartilha com Laura e Mayumi",
+      "owner": "Bruna Soares + Laura + Mayumi",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Refinar copy da Ester para pedir contato de gerente de parcerias",
+      "owner": "Gustavo Torres + Laura",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O8",
+      "description": "Neno documentar ajustes no fluxo de contato — remover pontos de atrito",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O9",
+      "description": "Trocar botão 'ver contato' para 'quero falar com gerente de parcerias'",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O10",
+      "description": "Tornar botãocontato mais visível no portal",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "status": "pending",
+      "blocking_factor": null,
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Neno refinar fluxo e criar copy intermediação",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "critical",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Gustavo coordenar outreach João Pessoa (5-7 primeiro)",
+      "owner": "Gustavo Torres + Laura",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego identificar contatos-chave por região",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Bruna compartilhar lista centralizada com Diego",
+      "owner": "Bruna Soares",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Bruna alinhar cartilha com Laura e Mayumi",
+      "owner": "Bruna Soares + Laura + Mayumi",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Gustavo refinar copy da Ester",
+      "owner": "Gustavo Torres + Laura",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Neno documentar ajustes fluxo de contato",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Trocar botão 'ver contato' para 'quero falar com gerente'",
+      "owner": "Neno Andrade",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Qual é o copy exato da mensagem de intermediação?",
+      "context": "Sem copy validada, não dá para testar. Neno precisa entregar logo.",
+      "answer_required_by": null,
+      "owner": "Neno Andrade"
+    },
+    {
+      "id": "Q2",
+      "question": "DL vai aceitar ter menos visibilidade que incorporadores regulares?",
+      "context": "Se DL perceber que está sendo penalizado, pode gerar reclamação. Precisamos posicionar como 'recompensa' por usar plataforma.",
+      "answer_required_by": null,
+      "owner": "Alejandro Olchik"
+    },
+    {
+      "id": "Q3",
+      "question": "Ester vai conseguir manter taxa de 26-27 indicações/semana масштабируя?",
+      "context": "Se taxa cair, modelo não funciona. Testar com 5-7 primeiro.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "DL recebe menos informações que incorporadores regulares — pode gerar percepção de injustiça",
+      "type": "relationship",
+      "severity": "high",
+      "mitigation": "Posicionar como recompensa por usar plataforma, não punição. Comunicar bem o porquê.",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "WhatsApp gera custos altos — se não migrar para app, Margens sofrem",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Priorizar push notifications. Desenvolver fluxo app-first.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Fluxo de intermediação complexo demais afasta corretores",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Simplificar. Testar com 5-7 antes de масштабировать.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Ester: 26-27 indicações em João Pessoa em uma semana — modelo funciona",
+      "potential_impact": "high",
+      "owner": "Ester",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Copy focada em benefícios gratuitos aumenta conversão",
+      "potential_impact": "medium",
+      "owner": "Bruna Soares",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Cartilha de comunicação padronizada ajuda масштабирование para outras regiões",
+      "potential_impact": "medium",
+      "owner": "Bruna Soares + Laura + Mayumi",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Ester 26-27 indicações/semana em João Pessoa. Copy: pedir contato gerente de parcerias, não número.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Resultado validado. Usar como benchmark para outros SDRs."
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar: produto — DL com menos visibilidade que regulares. App over WhatsApp. Epic focado em visibilidade.",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Decisões de produto. Impactam roadmap."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Ester: 26-27 indicações/semana em João Pessoa via outreach. Modelo validado.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "DL deve ter menos visibilidade que incorporadores regulares — criar percepção de valor.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "App over WhatsApp — reduzir custos. Push notification quando app instalado.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Epic focado em visibilidade e valor percebido, não só intermediação. Pequeno e entregável.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Copy: benefícios gratuitos, não linguagem de vendas. Cartilha padronizada por região.",
+      "category": "process",
+      "confidence": "medium"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Neno entregar copy validada HOJE. Gustavo iniciar teste com 5-7 incorporadoras João Pessoa esta semana. Sem copy, outreach não avança.",
+    "owner": "Neno Andrade + Gustavo Torres",
+    "deadline": null,
+    "reason": "Ester provou que modelo funciona. Precisamos масштабировать agora enquanto momentum está alto."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Copy exata da mensagem de intermediação não totalmente definida",
+      "DL vai aceitar menos visibilidade?",
+      "Detalhe se copy foi ou não validada com Diego"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas",
+    "Fluxo de Contato e Intermediação",
+    "Visibilidade e Percepção de Valor",
+    "Melhorias na Interface e Funcionalidades",
+    "Estratégia de Incorporadores e Corretores",
+    "Comunicação e Mensagens",
+    "Considerações Estratégicas"
+  ]
+}

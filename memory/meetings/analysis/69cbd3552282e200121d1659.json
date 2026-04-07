@@ -1,0 +1,72 @@
+{
+  "meeting_id": "69cbd3552282e200121d1659",
+  "name": "Revenue Growth",
+  "happened_at": "2026-03-31T14:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:41:07.021403+00:00",
+  "executive_summary": "REUNIÃO DUPLICADA — ID 69cbd3552282e200121d1659 já analisada 2x neste turno (16:36 e 16:38). Usar análise original.",
+  "context": {
+    "purpose": "AVISO: reunião ID 69cbd3552282e200121d1659 é duplicada — mesmo conteúdo enviado 3 vezes.",
+    "main_agenda_items": [
+      "AVISO: dados idênticos às análises anteriores"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Participante",
+      "Alejandro Olchik": "Participante",
+      "Eduardo Stringhini": "Participante",
+      "Felipe Goettems": "Participante",
+      "Mariana Marins": "Participante",
+      "Marcelo Rodrigues": "Participante",
+      "Beatriz Fusquino": "Participante",
+      "Rubem Rocha": "Participante",
+      "Talita Campos": "Participante",
+      "Bruna Soares": "Participante",
+      "Lais Santos Soares": "Participante",
+      "Fernando Florêncio": "Participante",
+      "Mariana Carneiro": "Participante",
+      "Bruno   Zucchetti Rodrigues": "Participante",
+      "Pamela Zanellato": "Participante",
+      "Gustavo Torres": "Participante",
+      "Amanda Caroline Dos Santos": "Participante",
+      "Mayumi Takeda": "Participante"
+    },
+    "meeting_type": "duplicate",
+    "notes_limitation": null,
+    "duration_minutes": 67.9
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reunião ID 69cbd3552282e200121d1659 enviada 3 vezes neste turno (16:36, 16:38, 16:40)",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Usar análise original das 16:36.",
+      "source": "internal"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [],
+  "memories_to_register": [],
+  "recommended_next_step": {
+    "action": "Nenhuma — usar análise do turno 16:36.",
+    "owner": "Morfeu",
+    "deadline": null,
+    "reason": "Reunião duplicada 3x. Mesmo ID, mesmo conteúdo."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Análise duplicada — ver turno original 16:36"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "AVISO: reunião duplicada — usar análise anterior"
+  ]
+}

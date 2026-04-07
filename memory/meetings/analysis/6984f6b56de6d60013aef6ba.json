@@ -1,0 +1,76 @@
+{
+  "meeting_id": "6984f6b56de6d60013aef6ba",
+  "name": "Processo Seletivo Closer <> Case Carla",
+  "happened_at": "2026-02-05T20:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T16:41:48.360395+00:00",
+  "executive_summary": "DADOS INDISPONÍVEIS — transcript, notas e tópicos ausentes. Reunião não pode ser analisada.",
+  "context": {
+    "purpose": "Processo seletivo de closer com case Carla — contexto indisponível",
+    "main_agenda_items": [
+      "INDISPONÍVEL — sem dados"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial",
+      "Gustavo Torres": "Coordenador Comercial — organizador"
+    },
+    "meeting_type": "operational",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 55.9
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Quais foram os critérios do processo seletivo e por que Carla foi selecionada ou não?",
+      "context": "Sem transcript não há como documentar decisões ou aprendizados desta reunião.",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres + Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Reunião sem transcript, notas ou tópicos — risco de perda de conhecimento institucional",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Gustavo ou Diego registrar resumo manualmente da conversa.",
+      "source": "internal"
+    }
+  ],
+  "opportunities": [],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Gustavo ou Diego registrar resumo do processo seletivo e case Carla manualmente",
+      "destination": "memory/people.md ou e-mail",
+      "priority": "high",
+      "reason": "Reunião sem registro automático. Risco de perda de informação sobre seleção de closer."
+    }
+  ],
+  "memories_to_register": [],
+  "recommended_next_step": {
+    "action": "Gustavo Torres: registrar resumo do processo seletivo e outcome (Carla foi hired ou não) em memory/people.md",
+    "owner": "Gustavo Torres",
+    "deadline": "2026-04-07T23:59:00.000Z",
+    "reason": "Reunião crítica para gestão de people — sem registro automático, é necessário registro manual para não perder contexto."
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "TRANSCRIPT INDISPONÍVEL",
+      "NOTAS INDISPONÍVEIS",
+      "TOPICS INDISPONÍVEIS",
+      "Sem nenhum dado não é possível extrair decisões, tarefas, riscos ou oportunidades",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "DADOS INDISPONÍVEIS"
+  ]
+}

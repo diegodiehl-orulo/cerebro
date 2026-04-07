@@ -1,0 +1,274 @@
+{
+  "meeting_id": "698656450f9b520013d4b1a8",
+  "name": "Diogo / BluePrint DealMakers <> \u00d3rulo",
+  "happened_at": "2026-02-06T21:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T06:42:41.512981+00:00",
+  "executive_summary": "Pitch de venda para Diogo Tibirica (BluePrint DealMakers) sobre plataforma \u00d3rulo. Diego apresentou cobertura de 70% do mercado prim\u00e1rio brasileiro, modelo de intelig\u00eancia de mercado e dados puros sem filtro de incorporadora. Diogo interessado \u2014 vai comparar regi\u00f5es de cobertura com seus empreendimentos e conversar com Fernando sobre timing de parceria. Diego ofereceu pacote combinado de cidades com pre\u00e7o especial.",
+  "context": {
+    "purpose": "Pitch comercial para Diogo Tibirica (BluePrint DealMakers) apresentar plataforma \u00d3rulo e iniciar parceria",
+    "main_agenda_items": [
+      "Apresenta\u00e7\u00e3o da plataforma \u00d3rulo e diferencial",
+      "Cobertura geogr\u00e1fica e dados de mercado",
+      "Modelo de neg\u00f3cio e precifica\u00e7\u00e3o",
+      "Contexto da Ram\u00e3 (empresa de Diogo) e oportunidades",
+      "Pr\u00f3ximos passos para parceria"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial \u2014 apresentador",
+      "Jade Rosa": "BDR \u2014 participa\u00e7\u00e3o",
+      "Diogo Tibirica": "BluePrint DealMakers \u2014 potencial cliente"
+    },
+    "meeting_type": "client",
+    "notes_limitation": null,
+    "duration_minutes": 41.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego enviar grava\u00e7\u00e3o da reuni\u00e3o e print das regi\u00f5es cobertas para Diogo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Diogo comparar regi\u00f5es de cobertura da \u00d3rulo com empreendimentos em an\u00e1lise e retornar posicionamento",
+      "decision_maker": "Diogo Tibirica",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "Diogo conversar com Fernando sobre timing ideal para iniciar parceria com \u00d3rulo",
+      "decision_maker": "Diogo Tibirica",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D4",
+      "description": "Diego preparar pacote combinado de cidades com pre\u00e7o especial para Diogo",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Contratos anuais para evitar cancelamento ap\u00f3s entrega de dados",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Diego enviar grava\u00e7\u00e3o e print das regi\u00f5es cobertas para Diogo",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Diogo comparar regi\u00f5es de cobertura da \u00d3rulo com empreendimentos em an\u00e1lise",
+      "owner": "Diogo Tibirica",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Diogo conversar com Fernando sobre timing de parceria",
+      "owner": "Diogo Tibirica",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Diego preparar pacote combinado de cidades com pre\u00e7o especial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Diego enviar grava\u00e7\u00e3o + print das regi\u00f5es cobertas para Diogo",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Diego preparar pacote combinado de cidades com pre\u00e7o especial",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diogo analisar\u8986\u76d6\u7387 das regi\u00f5es \u00d3rulo vs empreendimentos em estudo",
+      "owner": "Diogo Tibirica",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "A cobertura da \u00d3rulo abarca os empreendimentos que a Ram\u00e3 est\u00e1 analisando?",
+      "context": "Diogo vai analisar se os empreendimentos em estudo est\u00e3o nas regi\u00f5es cobertas pela \u00d3rulo. Se n\u00e3o houver overlap, a parceria n\u00e3o faz sentido. Se houver, \u00e9 o primeiro passo para negocia\u00e7\u00e3o.",
+      "answer_required_by": "2026-02-20T23:59:00.000Z",
+      "owner": "Diogo Tibirica"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual \u00e9 o timing ideal para a Ram\u00e3 iniciar parceria com a \u00d3rulo?",
+      "context": "Diogo mencionou que precisa conversar com Fernando. A decis\u00e3o de timing impacta quanto antes a \u00d3rulo consegue contractar. Oportunidade: primeiro e segundo est\u00e1gio de empreendimentos.",
+      "answer_required_by": "2026-02-28T23:59:00.000Z",
+      "owner": "Diogo Tibirica"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Ram\u00e3 analisa empreendimentos principalmente em S\u00e3o Paulo \u2014 pra\u00e7a onde a \u00d3rulo j\u00e1 tem alta penetra\u00e7\u00e3o e 70% pagantes",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Focar na intelig\u00eancia de mercado e dados puros como diferencial para demonstrar valor al\u00e9m da distribui\u00e7\u00e3o",
+      "source": "notes"
+    },
+    {
+      "id": "R2",
+      "description": "Timing de decis\u00e3o depende de Fernando \u2014 pode atrasar ou descarteimar",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Diego preparar pacote com pre\u00e7o especial para facilitar aprova\u00e7\u00e3o interna",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Ram\u00e3 estuda oportunidades no Sul, Nordeste e S\u00e3o Paulo \u2014 todas regi\u00f5es de alta cobertura da \u00d3rulo",
+      "potential_impact": "high",
+      "owner": "\u00d3rulo",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Ram\u00e3 em fase inicial de incorpora\u00e7\u00e3o (est\u00e1gios 1-2) \u2014 produto \u00d3rulo especialmente relevante no est\u00e1gio 2 para afinamento de produto",
+      "potential_impact": "high",
+      "owner": "\u00d3rulo",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Mercado pulverizado favorece \u00d3rulo \u2014 mais dif\u00edcil para incorporadoras distribu\u00edrem sozinhas",
+      "potential_impact": "medium",
+      "owner": "\u00d3rulo",
+      "source": "notes"
+    },
+    {
+      "id": "OP4",
+      "description": "BluePrint como porta de entrada para outros developers no Sul e Nordeste via confian\u00e7a de Diogo",
+      "potential_impact": "medium",
+      "owner": "\u00d3rulo",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar Diogo Tibirica (BluePrint DealMakers) como lead quente \u2014 parceria potencial com Ram\u00e3",
+      "destination": "crm/pessoas/DIOGO_TIBIRICA.md",
+      "priority": "high",
+      "reason": "Lead qualificado com acesso a empreendimentos em m\u00faltiplas pra\u00e7as \u2014 criar perfil CRM"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar proposta de pacote combinado de cidades com pre\u00e7o especial para Diogo",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Oferta comercial customizada para fechar parceria \u2014 refer\u00eancia para futuras negocia\u00e7\u00f5es"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Diogo Tibirica \u2014 BluePrint DealMakers, conectado a Fonseca (fundadora Coelha da Fonseca), prima de Fernando. Ram\u00e3: empresa de hotelaria expandindo para incorpora\u00e7\u00e3o com terrenos em Sergipe.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "\u00d3rulo cobre 70% do mercado prim\u00e1rio brasileiro \u2014 capitais: Porto Alegre, Florian\u00f3polis, Curitiba, S\u00e3o Paulo, Rio, Goi\u00e2nia, Recife",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Ram\u00e3 analisa 12 empreendimentos em fase inicial e 15 filtrados para an\u00e1lise \u2014 interesse maior em S\u00e3o Paulo",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M4",
+      "memory": "\u00d3rulo: dado puro sem filtro de incorporadora vs Gel Im\u00f3vel (com filtro) \u2014 diferencial de credibilidade",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Precifica\u00e7\u00e3o: R$ 2,50 por empreendimento ativo + contrato anual",
+      "category": "decision",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Diogo vai comparar\u8986\u76d6\u7387 das regi\u00f5es cobertas com seus empreendimentos + conversar com Fernando sobre timing",
+      "category": "decision",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego enviar grava\u00e7\u00e3o da reuni\u00e3o + print das regi\u00f5es cobertas para Diogo + preparar pacote combinado de cidades",
+    "owner": "Diego Diehl",
+    "deadline": "2026-02-10T23:59:00.000Z",
+    "reason": "Diogo \u00e9 lead quente mas precisa de material para mostrar a Fernando. Sem envio r\u00e1pido, o momentum esfria e a decis\u00e3o atrasa."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Resultado da compara\u00e7\u00e3o de Diogo (regi\u00f5es vs empreendimentos) ainda n\u00e3o conhecido",
+      "Conversa de Diogo com Fernando sobre timing n\u00e3o aconteceu ainda \u2014 aguardando retorno"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "A\u00e7\u00f5es Acordadas",
+    "Plataforma e Funcionalidades da \u00d3rulo",
+    "Cobertura Geogr\u00e1fica",
+    "Modelo de Neg\u00f3cio e Precifica\u00e7\u00e3o",
+    "Estrat\u00e9gia e Contexto da Ram\u00e3",
+    "Casos de Uso e Est\u00e1gios de Desenvolvimento",
+    "Diferencial Competitivo de \u00d3rulo",
+    "Contexto de Mercado Imobili\u00e1rio"
+  ]
+}

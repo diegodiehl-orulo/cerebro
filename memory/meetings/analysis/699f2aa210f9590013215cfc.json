@@ -1,0 +1,386 @@
+{
+  "meeting_id": "699f2aa210f9590013215cfc",
+  "name": "SIMM + Tríade (Órulo+VMV+Z2A)",
+  "happened_at": "2026-02-25T17:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T15:59:33.078218+00:00",
+  "executive_summary": "Evento Capão dias 15-16: patrocínio R$80k (50% desconto) por empresa. Espaço Murano condomínio 380 casas. Dia 15: Órulo 30min + painel 50min das 8h30-18h. Dia 16: workshop. Sugestão noite 18h30.",
+  "context": {
+    "purpose": "Alinhamento de logística do evento Capão da Canoa com SIMM/Tríade — espaço, programação, patrocínio e próximos passos",
+    "main_agenda_items": [
+      "Estrutura do evento Capão dias 15 e 16",
+      "Detalhes do local",
+      "Próximos passos em discussão",
+      "Eventos em andamento"
+    ],
+    "participants_and_roles": {
+      "André Battú Mentor Imobiliário": "Parceiro de evento SIMM — organizador local Capão",
+      "Diego Diehl": "Diretor Comercial Órulo — host",
+      "Bruna Almeida": "Time VMV — apoio em eventos e marketing",
+      "Luana": "Time VMV — orçamento de eventos"
+    },
+    "meeting_type": "partner",
+    "notes_limitation": null,
+    "duration_minutes": 17.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Patrocínio de R$80k por empresa com 50% de desconto já acordado",
+      "decision_maker": "Diego Diehl + André Battú",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D2",
+      "description": "Dia 15: Órulo palestra 30min focada em corretores + painel 50min com três empresas das 8h30-18h",
+      "decision_maker": "Diego Diehl + Bruna Almeida + André Battú",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D3",
+      "description": "Dia 16: workshop próprio usando apenas espaço e estrutura básica do local",
+      "decision_maker": "Diego Diehl + Bruna Almeida",
+      "confidence": "confirmed",
+      "source": "both"
+    },
+    {
+      "id": "D4",
+      "description": "André passar Instagram da imobiliária e/ou fazer vídeo do espaço para equipe",
+      "decision_maker": "André Battú",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Bruna enviar logomarca, fotos dos palestrantes e materiais para André até dia 15",
+      "decision_maker": "Bruna Almeida",
+      "deadline": null,
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D6",
+      "description": "André conversar com Cauã Machado no sábado sobre horário do evento dia 16",
+      "decision_maker": "André Battú",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D7",
+      "description": "Gustavo continuar procurando local em Curitiba e Luana adaptar orçamento para 150 pessoas",
+      "decision_maker": "Gustavo Torres + Luana",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D8",
+      "description": "Criar grupo separado para sincronizar comunicação e marketing do evento",
+      "decision_maker": "Diego Diehl + Bruna Almeida",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D9",
+      "description": "Diego ajustar passagem para ficar até sexta-feira em Capão",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D10",
+      "description": "André apresentar espaço e condomínios locais para Diego conhecer mercado",
+      "decision_maker": "André Battú",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D11",
+      "description": "Sugestão André: evento à noite (18h30) em Capão para não tirar construtores da rotina",
+      "decision_maker": "André Battú",
+      "confidence": "likely",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "André passar Instagram e/ou vídeo do espaço Murano",
+      "owner": "André Battú",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O2",
+      "description": "Bruna enviar logomarca, fotos palestrantes e materiais para André",
+      "owner": "Bruna Almeida",
+      "deadline": "2026-03-15T23:59:00.000Z",
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O3",
+      "description": "André conversar com Cauã Machado sábado sobre horário evento dia 16",
+      "owner": "André Battú",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O4",
+      "description": "Definir se evento dia 16 será de manhã ou à noite",
+      "owner": "Diego Diehl + André Battú",
+      "deadline": null,
+      "status": "pending_response",
+      "blocking_factor": "Aguardando feedback de Cauã Machado",
+      "source": "notes"
+    },
+    {
+      "id": "O5",
+      "description": "Gustavo + Luana definir local Curitiba para 150 pessoas",
+      "owner": "Gustavo Torres + Luana",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O6",
+      "description": "Criar grupo sincronização comunicação e marketing do evento",
+      "owner": "Diego Diehl + Bruna Almeida",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": null,
+      "source": "notes"
+    },
+    {
+      "id": "O7",
+      "description": "Programação fechada das três empresas no painel (além da Órulo)",
+      "owner": "Bruna Almeida + André Battú",
+      "deadline": null,
+      "status": "open",
+      "blocking_factor": "Programação ainda não definida",
+      "source": "notes"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "André: Instagram e/ou vídeo do espaço Murano para Diego",
+      "owner": "André Battú",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Bruna enviar materiais (logomarca, fotos, materiais) para André",
+      "owner": "Bruna Almeida",
+      "deadline": "2026-03-15T23:59:00.000Z",
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "André conversar com Cauã sobre horário evento dia 16",
+      "owner": "André Battú",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T4",
+      "description": "Definir programação completa painel dia 15",
+      "owner": "Bruna Almeida + André Battú",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T5",
+      "description": "Definir manhã ou noite para evento dia 16",
+      "owner": "Diego Diehl + André Battú",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T6",
+      "description": "Gustavo + Luana: local Curitiba 150 pessoas",
+      "owner": "Gustavo Torres + Luana",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T7",
+      "description": "Criar grupo sincronização marketing evento",
+      "owner": "Diego Diehl + Bruna Almeida",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T8",
+      "description": "Diego ajustar passagem para ficar até sexta em Capão",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "notes"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Horário do evento dia 16: manhã ou noite?",
+      "context": "André sugeriu 18h30 para não tirar construtores da rotina. Mas Diego perguntou se manhã funciona em Capão. Aguardando retorno de Cauã Machado.",
+      "answer_required_by": null,
+      "owner": "André Battú + Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "Programação completa do painel dia 15 — quais são as outras duas empresas além da Órulo?",
+      "context": "Bruna perguntou se programação já estava fechada e André disse que não. Sem definição, marketing não consegue começar.",
+      "answer_required_by": "2026-03-01T23:59:00.000Z",
+      "owner": "Bruna Almeida + André Battú"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual estrutura audiovisual usar — LED de dia, data show à noite?",
+      "context": "André disse data show à noite é melhor. De dia precisaria de LED. Custo e logística mudam.",
+      "answer_required_by": null,
+      "owner": "Diego Diehl + Bruna Almeida"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Programação do painel dia 15 ainda não definida — compromete marketing e comunicação",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Bruna e André fecharem programação o quanto antes. Sem pauta, não há material de divulgação.",
+      "source": "both"
+    },
+    {
+      "id": "R2",
+      "description": "Evento no condomínio Murano é plantão de vendas adaptado — pode ter limitações de estrutura",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "André vai enviar vídeo do espaço. Diego vai conhecer in loco.",
+      "source": "notes"
+    },
+    {
+      "id": "R3",
+      "description": "Horário de evento pode conflitar com rotina de construtores se for de manhã",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "André sugeriu 18h30. Aguardar validação de Cauã Machado.",
+      "source": "notes"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Espaço Murano com apoio gourmet — possibilidade de evento premium com petiscos/vinho",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + André Battú",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Diego conhecer mercado de Capão in loco via André — networking com incorporadores locais",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + André Battú",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Ciclogeventos: Vitória → Curitiba → Capão em sequência — momentum de prospecção",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + time",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar: Evento SIMM+Tríade Capão dias 15-16. Patrocínio R$80k por empresa (50% desc). Espaço condomínio Murano 380 casas. Programação: Órulo 30min + painel 50min.",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Evento com 3 empresas parceiras em praça nova — desdobramentos comerciais importantes."
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Evento Capão dias 15-16. Patrocínio R$80k por empresa (50% desc).",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Espaço Murano — condomínio 380 casas, apoio gourmet, bem localizado.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Dia 15: Órulo 30min corretores + painel 50min 3 empresas 8h30-18h. Dia 16: workshop próprio.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "André sugeriu evento à noite (18h30) para não tirar construtores da rotina.",
+      "category": "process",
+      "confidence": "medium"
+    },
+    {
+      "id": "M5",
+      "memory": "Ciclo: Vitória semana que vem → Curitiba outra semana → Capão terceira semana.",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "André enviar vídeo do espaço Murano + fechar com Cauã Machado o horário do dia 16. Bruna fechar programação do painel dia 15 e enviar materiais até dia 15. Grupo de sincronização de marketing criado.",
+    "owner": "André Battú + Bruna Almeida",
+    "deadline": "2026-03-01T23:59:00.000Z",
+    "reason": "Sem vídeo do espaço, Diego não consegue validar. Sem programação fechada, marketing não divulga. Sem grupo, comunicação fragmenta entre 3 empresas."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Se programação painel dia 15 foi definida",
+      "Se horário dia 16 foi definido (manhã vs noite)",
+      "Se vídeo do espaço Murano foi enviado",
+      "Se local Curitiba foi definido",
+      "Se grupo de marketing foi criado",
+      "Se Cauã Machado respondeu sobre horário",
+      "Se materials foram enviados até dia 15"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Estrutura do Evento Capão (dias 15 e 16)",
+    "Detalhes do Local (Capão)",
+    "Próximos Passos em Discussão",
+    "Eventos em Andamento"
+  ]
+}

@@ -1,0 +1,333 @@
+{
+  "meeting_id": "6984d38d922a6d0013ac69e6",
+  "name": "Isen\u00e7\u00e3o Dividendos / Ganho Capital via Estrutura de CRI",
+  "happened_at": "2026-02-05T17:30:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T05:29:54.037920+00:00",
+  "executive_summary": "Reuni\u00e3o de demonstra\u00e7\u00e3o do produto CRI para Marcos Moraes (Rio). Felipe apresenta estrutura de CRI via CVM 88 para economia fiscal em opera\u00e7\u00f5es imobili\u00e1rias. CRI elimina IR sobre distribui\u00e7\u00f5es via classifica\u00e7\u00e3o como juros, n\u00e3o dividendos. Economia estimada em ~R$2,5 milh\u00f5es por opera\u00e7\u00e3o. Estrutura\u00e7\u00e3o custa ~R$100 mil. Diego participa como comercial. Marcos vai receber modelo detalhado de Marcos para an\u00e1lise.",
+  "context": {
+    "purpose": "Demonstrar produto CRI como instrumento de economia fiscal para opera\u00e7\u00e3o imobili\u00e1ria de Marcos Moraes",
+    "main_agenda_items": [
+      "Estrutura CRI via CVM 88 para isen\u00e7\u00e3o fiscal",
+      "Vantagens para terrenista, incorporador e investidor",
+      "Exemplo pr\u00e1tico com VGV R$100MM",
+      "Custos de estrutura\u00e7\u00e3o e timeline",
+      "Pr\u00f3ximos passos comerciais"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Diretor de Produtos Financeiros \u2014 apresenta\u00e7\u00e3o t\u00e9cnica do CRI",
+      "Diego Diehl": "Diretor Comercial \u2014 acompanhamento comercial da reuni\u00e3o",
+      "Marcos Moraes": "Potencial cliente \u2014 empreendedor imobili\u00e1rio do Rio com lan\u00e7amento previsto para S2/2026"
+    },
+    "meeting_type": "client",
+    "notes_limitation": null,
+    "duration_minutes": 65.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Marcos vai modelar a opera\u00e7\u00e3o e retornar com contas detalhadas nos pr\u00f3ximos dias",
+      "decision_maker": "Marcos Moraes",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D2",
+      "description": "Felipe enviar apresenta\u00e7\u00e3o com slides t\u00e9cnicos para Marcos",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D3",
+      "description": "CRI estruturado via CVM 88 como oferta p\u00fablica restrita aos s\u00f3cios \u2014 n\u00e3o necessita de 100 cotistas como fundo imobili\u00e1rio",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "S\u00e9rie do incorporador e s\u00e9rie do investidor com regras independentes de remunera\u00e7\u00e3o e tempo",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    },
+    {
+      "id": "D5",
+      "description": "Classes S\u00eanior e Subordinada funcionam como cascata de pagamento \u2014 S\u00eanior recebe primeiro, Subordinada por \u00faltimo",
+      "decision_maker": "Felipe Goettems",
+      "confidence": "confirmed",
+      "source": "notes"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Marcos modelar opera\u00e7\u00e3o e retornar com contas detalhadas nos pr\u00f3ximos dias",
+      "owner": "Marcos Moraes",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": "Aguardando modelagem de Marcos"
+    },
+    {
+      "id": "O2",
+      "description": "Felipe enviar apresenta\u00e7\u00e3o com slides t\u00e9cnicos do CRI para Marcos",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "status": "open",
+      "source": "notes",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Marcos definir se vai usar estrutura CRI no lan\u00e7amento do S2/2026",
+      "owner": "Marcos Moraes",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": "Depende das contas que Marcos vai modelar"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Marcos modelar opera\u00e7\u00e3o e retornar com contas nos pr\u00f3ximos dias",
+      "owner": "Marcos Moraes",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T2",
+      "description": "Felipe enviar apresenta\u00e7\u00e3o com slides t\u00e9cnicos do CRI para Marcos",
+      "owner": "Felipe Goettems",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "notes"
+    },
+    {
+      "id": "T3",
+      "description": "Diego dar sequ\u00eancia comercial ap\u00f3s retorno de Marcos com modelagem",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "Marcos vai decidir usar CRI no lan\u00e7amento do S2/2026? Qual o ticket m\u00e9dio do pr\u00f3ximo lan\u00e7amento?",
+      "context": "Se confirmar, \u00e9 um potencial cliente de R$100 mil de estrutura\u00e7\u00e3o de CRI. Necess\u00e1rio entender timing do lan\u00e7amento para antecipar abordagem.",
+      "answer_required_by": null,
+      "owner": "Marcos Moraes"
+    },
+    {
+      "id": "Q2",
+      "question": "Qual o formato de participa\u00e7\u00e3o do terrenista no CRI \u2014 direto ou via empresa intermedi\u00e1ria?",
+      "context": "Afeta a economia fiscal e a complexidade da estrutura\u00e7\u00e3o. Neces\u00e1rio entender perfil do terrenista de Marcos.",
+      "answer_required_by": null,
+      "owner": "Marcos Moraes"
+    },
+    {
+      "id": "Q3",
+      "question": "Qual o volume de VGV do lan\u00e7amento do S2/2026?",
+      "context": "Para dimensionar o potencial de economia fiscal e o valor da estrutura\u00e7\u00e3o do CRI",
+      "answer_required_by": null,
+      "owner": "Marcos Moraes"
+    },
+    {
+      "id": "Q4",
+      "question": "O terreno do pr\u00f3ximo lan\u00e7amento j\u00e1 foi adquirido ou ainda est\u00e1 em negocia\u00e7\u00e3o?",
+      "context": "Se j\u00e1 tem terreno, o CRI pode ser estruturado para a opera\u00e7\u00e3o. Se ainda n\u00e3o, pode ser timing para incluir na estrutura\u00e7\u00e3o.",
+      "answer_required_by": null,
+      "owner": "Marcos Moraes"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "Transcri\u00e7\u00e3o com falhas t\u00e9cnicas \u2014 \u00e1udio cortou v\u00e1rias vezes durante a reuni\u00e3o. Algumas informa\u00e7\u00f5es podem ter sido perdidas.",
+      "type": "operational",
+      "severity": "low",
+      "mitigation": "Confirmar dados cr\u00edticos diretamente com Felipe ou Marcos antes de usar para decis\u00e3o",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Marcos \u00e9 prospect com lan\u00e7amento no S2/2026 \u2014semelhours de\u8f6c\u5934 para neg\u00f3cio fechar este ano",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Acompanhamento comercial pr\u00f3ximo para n\u00e3o perder timing",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Custo de R$100 mil de estrutura\u00e7\u00e3o pode ser\u963b\u529b para Marcos se n\u00e3o perceber valor claro da economia fiscal",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Felipe precisa apresentar claramente o ROI \u2014 economia de R$2,5MM vs custo de R$100 mil",
+      "source": "notes"
+    },
+    {
+      "id": "R4",
+      "description": "Discuss\u00e3o sobre modelo de compra de terreno \u2014 Marcos prefere comprar sozinho para n\u00e3o dividir resultado",
+      "type": "relationship",
+      "severity": "low",
+      "mitigation": "Diego entender se h\u00e1 espa\u00e7o para parceria com investidor no CRI do pr\u00f3ximo lan\u00e7amento",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Economia fiscal de ~R$2,5MM por opera\u00e7\u00e3o com CRI \u2014 valor significativo que justifica investimento em estrutura\u00e7\u00e3o",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP2",
+      "description": "Aumento de lucratividade na \u00faltima linha entre 20% e 30% com estrutura CRI",
+      "potential_impact": "high",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP3",
+      "description": "Marcos Moraes \u00e9 empreendedor do Rio com lan\u00e7amento S2/2026 \u2014 pot\u00edssimo cliente para CRI",
+      "potential_impact": "high",
+      "owner": "Diego Diehl",
+      "source": "transcript"
+    },
+    {
+      "id": "OP4",
+      "description": "CRI via CVM 88 n\u00e3o requer m\u00ednimo de 100 cotistas como fundo imobili\u00e1rio \u2014 mais flex\u00edvel para opera\u00e7\u00f5es menores",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    },
+    {
+      "id": "OP5",
+      "description": "Flexibilidade de s\u00e9ries independentes permite customizar remunera\u00e7\u00e3o para cada participante do neg\u00f3cio",
+      "potential_impact": "medium",
+      "owner": "Felipe Goettems",
+      "source": "notes"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar que Marcos Moraes (Rio) \u00e9 prospect de CRI com lan\u00e7amento S2/2026 \u2014 decis\u00e3o esperada ap\u00f3s modelagem",
+      "destination": "crm/pessoas/Marcos-Moraes.md",
+      "priority": "high",
+      "reason": "Prospect ativo com alto potencial de fechamento para produto CRI \u2014 necess\u00e1rio tracking comercial"
+    },
+    {
+      "id": "DS2",
+      "action": "Documentar caso de economia fiscal com n\u00fameros: VGV R$100MM, terreno R$20MM, capex R$70MM, lucro R$30MM, economia CRI ~R$2,5MM",
+      "destination": "memory/projects.md ou Google Drive \u2014 Docs \u00d3rulo/CRI",
+      "priority": "high",
+      "reason": "Exemplo concreto com n\u00fameros que pode ser usado em outras abordagens comerciais de CRI"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar n\u00fameros de custo/benef\u00edcio do CRI: estrutura\u00e7\u00e3o ~R$100 mil, custo representa 3% do benef\u00edcio fiscal",
+      "destination": "memory/projects.md",
+      "priority": "medium",
+      "reason": "Dados de pricing do produto financeiro que devem guiar abordagem comercial"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Marcos Moraes \u00e9 empreendedor imobili\u00e1rio do Rio com lan\u00e7amento previsto para S2/2026 \u2014 prospect de CRI",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "Terreno do pr\u00f3ximo lan\u00e7amento de Marcos foi comprado com 70MM de constru\u00e7\u00e3o e VGV estimada em 110MM",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M3",
+      "memory": "Marcos prefere comprar terreno sozinho para n\u00e3o ter que dividir resultado \u2014 s\u00f3 faz joint venture quando n\u00e3o tem sa\u00edda",
+      "category": "preference",
+      "confidence": "medium"
+    },
+    {
+      "id": "M4",
+      "memory": "CRI via CVM 88: distribui\u00e7\u00f5es s\u00e3o classificadas como juros (isentos de IR), n\u00e3o dividendos",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Custo de estrutura\u00e7\u00e3o CRI via CVM 88: aproximadamente R$100 mil (setup) + carrego mensal",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Economia fiscal com CRI estimada em R$2,5MM por opera\u00e7\u00e3o \u2014 20-30% de aumento na \u00faltima linha",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "CRI n\u00e3o requer 100 cotistas como fundo imobili\u00e1rio \u2014 oferta p\u00fablica restrita aos s\u00f3cios \u00e9 suficiente",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Marcos vai modelar opera\u00e7\u00e3o e retornar com contas \u2014 pr\u00f3ximo passo comercial",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M9",
+      "memory": "Felipe \u00e9 o DRI do produto CRI \u2014 respons\u00e1vel por estrutura\u00e7\u00e3o t\u00e9cnica e abordagem comercial",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M10",
+      "memory": "Classes S\u00eanior (recebe primeiro, menor risco) e Subordinada (recebe por \u00faltimo, maior retorno) \u2014 l\u00f3gica similar a d\u00edvida banc\u00e1ria",
+      "category": "process",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Diego acompanhar Felipe para garantir envio da apresenta\u00e7\u00e3o e cobrar retorno de Marcos com modelagem",
+    "owner": "Diego Diehl + Felipe Goettems",
+    "deadline": null,
+    "reason": "Marcos \u00e9 prospect ativo com alto potencial. Garantir que apresenta\u00e7\u00e3o t\u00e9cnica chegue e que o follow-up seja feito para n\u00e3o perder o timing do S2/2026."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcri\u00e7\u00e3o com falhas t\u00e9cnicas \u2014 \u00e1udio cortou diversas vezes. Informa\u00e7\u00f5es podem ter sido perdidas.",
+      "Alguns n\u00fameros espec\u00edficos de VGV e Terreno foram inferidos do contexto \u2014 confirmar com Felipe."
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "A\u00e7\u00f5es Acordadas",
+    "Estrutura de CRI para Isen\u00e7\u00e3o Fiscal",
+    "Vantagens Fiscais para Terrenista",
+    "Fluxo de Recursos e Tributa\u00e7\u00e3o",
+    "Exemplo Pr\u00e1tico de Economia Fiscal",
+    "Custos de Estrutura\u00e7\u00e3o",
+    "Administra\u00e7\u00e3o e Regula\u00e7\u00e3o",
+    "Estrutura de S\u00e9ries e Classes"
+  ]
+}

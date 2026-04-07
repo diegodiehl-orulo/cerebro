@@ -1,0 +1,48 @@
+{
+  "meeting_id": "6977c7b7764dcd0013dc6ea3",
+  "name": "Tamira <> Processo Seletivo | AE Órulo",
+  "happened_at": "2026-01-26T20:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-07T14:46:43.397971+00:00",
+  "executive_summary": "Reunião curta (6.7 min) sobre Tamira em processo seletivo para AE Órulo. Dados completos indisponíveis — transcript, notas e topics não foram gerados.",
+  "context": {
+    "purpose": "Processo seletivo com Tamira para cargo de Account Executive na Órulo",
+    "main_agenda_items": [],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — decisor",
+      "Gustavo Torres": "Coordenador — realizador do processo seletivo",
+      "Tamira": "Candidata"
+    },
+    "meeting_type": "internal",
+    "notes_limitation": "Transcript e notas estruturadas indisponiveis. Dados muito limitados para analise confiavel.",
+    "duration_minutes": 6.7
+  },
+  "decisions": [],
+  "open_items": [],
+  "tasks": [],
+  "critical_questions": [],
+  "risks_and_alerts": [],
+  "opportunities": [],
+  "documentary_suggestions": [],
+  "memories_to_register": [],
+  "recommended_next_step": {
+    "action": "Gustavo ou Diego registrar resultado do processo seletivo com Tamira — se foi approved, rejected ou pending next step. Sem esse registro, informação se perde.",
+    "owner": "Gustavo Torres + Diego Diehl",
+    "deadline": null,
+    "reason": "Reunião aconteceu mas sem registro formal do resultado. Precisa ser documentado para rastreamento de hiring."
+  },
+  "analysis_confidence": {
+    "transcript_available": false,
+    "notes_available": false,
+    "topics_available": false,
+    "overall": "low",
+    "gaps": [
+      "Transcript não foi gerado — ferramenta pode ter falhado ou reunião foi muito curta",
+      "Notas estruturadas não disponíveis",
+      "Topics não gerados",
+      "Resultado do processo seletivo não documentado",
+      "Transcript e notas indisponiveis -- analise limitada"
+    ]
+  },
+  "raw_topics_from_tldv": []
+}
