@@ -4,3 +4,5 @@
 [2026-04-07T02:26:07.427Z] [INFO] Webhook server started {"port":18788,"QUEUE_DIR":"/root/.openclaw/workspace/memory/meetings/queue"}
 [2026-04-07T02:26:09.422Z] [INFO] Evento enfileirado {"id":"1fa96d53-1da0-4611-a4fd-34d1398b2c7a","eventType":"TranscriptReady","meetingId":"69d3f49884d30500130092c2","file":"1775528769422_69d3f49884d30500130092c2_TranscriptReady.json"}
 [2026-04-07T02:26:09.422Z] [INFO] Webhook processado {"status":"queued","eventId":"1fa96d53-1da0-4611-a4fd-34d1398b2c7a","meetingId":"69d3f49884d30500130092c2","eventType":"TranscriptReady","elapsedMs":1}
+[2026-04-08T00:43:43.513Z] [INFO] SIGTERM received, shutting down {}
+[2026-04-08T00:43:43.542Z] [INFO] Server closed {}

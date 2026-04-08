@@ -87,3 +87,42 @@
 *Arquivadas em 28/03/2026 (Onda 1 — Otimização de Sistema): sessões de 05/03 a 16/03. Ver: archive/lessons_antigas_0305-0316.md*
 - Evitar: Sem documentação das técnicas, conhecimento fica preso no Diego e não escala para o time — [6690232be5ccd900129d3e25](/2024-07) | Tipo: operational
 - Evitar: Reunião de diretoria sem registro — histórico institucional incompleto — [669563a15e431f001476e56d](/2024-07) | Tipo: operational
+
+---
+
+## 🔑 Sessão: 10 Regras Invioláveis — ratificação e integração
+*Data: 2026-04-08 | Sessão: Nova sessão + msg direta*
+
+Diego reelaborou as 10 regras fundamentais do sistema. Todas ratificadas — nenhuma contradiz o que já estava em SOUL.md/AGENTS.md/TOOLS.md. Status de integração:
+
+| # | Regra | Status | Onde está |
+|---|-------|--------|-----------|
+| 1 | isolated + agentTurn em crons | ✅ já em TOOLS.md + cron skill | — |
+| 2 | Credenciais em .env | ✅ política existente | DRIVE_POLICY.md |
+| 3 | dmPolicy allowlist | ✅ já configurado | IDENTITY.md |
+| 4 | Extrair lessons antes de compactação | ✅ já em SOUL.md (Strict Write) | lessons.md |
+| 5 | Agente novo = L1 observer | ✅ já em AGENTS.md | Subagent Contract |
+| 6 | Split de modelos por tarefa | ✅ já em TOOLS.md | MODEL_GUIDE.md |
+| 7 | Backup antes de mudança estrutural | ✅ já em AGENTS.md | SELF_HEALING_RUNBOOKS.md |
+| 8 | Sub-agent retry 2x → alerta | ✅ já em AGENTS.md | Subagent Contract |
+| 9 | SOUL.md genérico = agente genérico | ✅ centro do SOUL.md v4 | SOUL.md |
+| 10 | Creators = skills dentro do agente, não agentes separados | ✅ já em AGENTS.md (skills) | SKILL.md |
+
+**Ação tomada:** Adicionado entry em lessons.md.
+
+*Revisado: 2026-04-08*
+
+---
+
+## 🔑 Bônus: 3 Regras Operacionais — ratificação
+*Data: 2026-04-08 | Sessão: msg direta*
+
+| # | Regra | Status | Onde está |
+|---|-------|--------|-----------|
+| B1 | Espaçar crons 15-30 min (colisão = rate limit) | ✅ já em TOOLS.md + cron skill | — |
+| B2 | config.patch em horário sem crons | ✅ já em TOOLS.md | — |
+| B3 | systemEvent não notifica no Telegram — usar agentTurn + message send | ✅ já em TOOLS.md + cron skill | — |
+
+**Ação tomada:** Adicionado entry em lessons.md.
+
+*Revisado: 2026-04-08*
