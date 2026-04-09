@@ -49,7 +49,6 @@ LOG_DIR = WORKSPACE / "logs"
 os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
 os.environ.setdefault("PYTHONPATH", str(INTEGRATIONS.parent)
 
-
 def log(msg, verbose_only=False):
     ts = datetime.now().isoformat(timespec="seconds")
     line = f"[{ts}] {msg}"

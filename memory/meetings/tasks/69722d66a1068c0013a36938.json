@@ -1,0 +1,102 @@
+{
+  "meeting_id": "69722d66a1068c0013a36938",
+  "meeting_name": "Samantha <> Processo Seletivo | AE Órulo",
+  "happened_at": "2026-01-22T14:00:00.000Z",
+  "tasks": [
+    {
+      "id": "T69722d66-001",
+      "title": "Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise impossível.",
+      "description": "Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise impossível.",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Financeiro",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "69722d66a1068c0013a36938",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.199278+00:00"
+    },
+    {
+      "id": "T69722d66-002",
+      "title": "Samantha foi aprovada ou reprovada no processo seletivo?",
+      "description": "Samantha foi aprovada ou reprovada no processo seletivo?",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "69722d66a1068c0013a36938",
+      "source_category": "critical_question",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.199307+00:00"
+    },
+    {
+      "id": "T69722d66-003",
+      "title": "Qual era a vaga ou posição que Samantha pleiteava?",
+      "description": "Qual era a vaga ou posição que Samantha pleiteava?",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "69722d66a1068c0013a36938",
+      "source_category": "critical_question",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.199337+00:00"
+    },
+    {
+      "id": "T69722d66-004",
+      "title": "AE Órulo расшифровывается como qué?",
+      "description": "AE Órulo расшифровывается como qué?",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "INFO_NEEDED",
+      "status": "OPEN",
+      "source_meeting": "69722d66a1068c0013a36938",
+      "source_category": "critical_question",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.199358+00:00"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "by_priority": {
+      "HIGH": 1,
+      "MEDIUM": 3,
+      "LOW": 0
+    },
+    "by_type": {
+      "OBSERVACAO": 3,
+      "INFO_NEEDED": 1
+    },
+    "without_owner": 0,
+    "without_deadline": 4
+  },
+  "generated_at": "2026-04-09T13:11:15.199383+00:00"
+}

@@ -73,3 +73,6 @@
 ---
 
 *Revisado em 06/04/2026*
+
+- [ ] **[TLDV — Cron Polling 6h]** Cron criado (e1ab5bf1) ✅ — vigiando se coleta roda a cada 6h
+- [ ] **[TLDV — Webhook Server]** Servidor parou em 08/04 00:43. Precisa restart ou migrar para polling. DRI: Claudinei | Prazo: 10/04.

@@ -1,0 +1,4 @@
+  File "/root/.openclaw/workspace/integrations/tldv/pipeline.py", line 50
+    os.environ.setdefault("PYTHONPATH", str(INTEGRATIONS.parent)
+                         ^
+SyntaxError: '(' was never closed

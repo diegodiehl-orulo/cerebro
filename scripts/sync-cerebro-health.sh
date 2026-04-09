@@ -16,30 +16,37 @@ try:
         print('ERRO: log não encontrado')
         sys.exit(1)
 
-    # 2. Última linha com data
     with open(LOG) as f:
         lines = f.readlines()
 
-    last_line = ''
+    # 2. Procurar última linha com [YYYY-MM-DD HH:MM] — formato novo do sync-cerebro.sh
+    last_ts = None
     for l in reversed(lines):
-        l = l.strip()
-        if any(m in l for m in ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']):
-            last_line = l
+        m = re.findall(r'\[(\d{4}-\d{2}-\d{2} \d{2}:\d{2})\]', l)
+        if m:
+            last_ts = datetime.datetime.strptime(m[0], '%Y-%m-%d %H:%M')
+            last_ts = last_ts.replace(tzinfo=datetime.timezone(datetime.timedelta(hours=-3)))
             break
 
-    if not last_line:
+    # 3. Se não achou formato novo, cairback para mês abreviado
+    if last_ts is None:
+        for l in reversed(lines):
+            l = l.strip()
+            if any(mon in l for mon in ['Jan','Feb','Mar','Apr','May','Jun','Jul','Aug','Sep','Oct','Nov','Dec']):
+                last_line = re.sub(r'[\[\]]', '', l)
+                parts = last_line.split()
+                if len(parts) >= 6:
+                    parts[4] = parts[4] + '00'
+                    ts_str = ' '.join(parts[:6])
+                    last_ts = datetime.datetime.strptime(ts_str, '%a %b %d %H:%M:%S %z %Y')
+                    break
+
+    if last_ts is None:
         print('ERRO: nenhuma linha com data no log')
         sys.exit(1)
 
-    # 3. Parse data
-    last_line = re.sub(r'[\[\]]', '', last_line)
-    parts = last_line.split()
-    parts[4] = parts[4] + '00'  # -03 -> -0300
-    ts_str = ' '.join(parts[:6])
-    last_epoch = datetime.datetime.strptime(ts_str, '%a %b %d %H:%M:%S %z %Y').timestamp()
-
-    now_epoch = datetime.datetime.now().timestamp()
-    diff_h = int((now_epoch - last_epoch) / 3600)
+    now_epoch = datetime.datetime.now(datetime.timezone(datetime.timedelta(hours=-3))).timestamp()
+    diff_h = int((now_epoch - last_ts.timestamp()) / 3600)
 
     if diff_h > WINDOW_HOURS:
         print(f'ERRO: último sync há {diff_h}h (máximo {WINDOW_HOURS}h)')

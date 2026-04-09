@@ -1,0 +1,41 @@
+{
+  "meeting_id": "6996f0a540e61f0013935ff4",
+  "meeting_name": "Update: Z2 + Orulo",
+  "happened_at": "2026-02-19T11:15:00.000Z",
+  "tasks": [
+    {
+      "id": "T6996f0a5-001",
+      "title": "INDISPONÍVEL — Sem dados, não é possível determinar próximos passos.",
+      "description": "INDISPONÍVEL — Sem dados, não é possível determinar próximos passos.",
+      "owner": null,
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6996f0a540e61f0013935ff4",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-02-19",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.258335+00:00"
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "by_priority": {
+      "HIGH": 1,
+      "MEDIUM": 0,
+      "LOW": 0
+    },
+    "by_type": {
+      "OBSERVACAO": 1
+    },
+    "without_owner": 1,
+    "without_deadline": 1
+  },
+  "generated_at": "2026-04-09T13:11:15.258368+00:00"
+}

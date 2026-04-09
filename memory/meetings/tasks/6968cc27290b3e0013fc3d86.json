@@ -1,0 +1,102 @@
+{
+  "meeting_id": "6968cc27290b3e0013fc3d86",
+  "meeting_name": "Update: Z2 + Orulo",
+  "happened_at": "2026-01-15T11:15:00.000Z",
+  "tasks": [
+    {
+      "id": "T6968cc27-001",
+      "title": "Perguntar a Diego o que foi decidido nesta reunião de Update Z2+Orulo. Sem o conteúdo, não há como g",
+      "description": "Perguntar a Diego o que foi decidido nesta reunião de Update Z2+Orulo. Sem o conteúdo, não há como gerar análise ou registrar memórias.",
+      "owner": "Diego Diehl",
+      "deadline": "IMEDIATO",
+      "priority": "HIGH",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6968cc27290b3e0013fc3d86",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-01-15",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.169530+00:00"
+    },
+    {
+      "id": "T6968cc27-002",
+      "title": "O que foi discutido nesta reunião?",
+      "description": "O que foi discutido nesta reunião?",
+      "owner": null,
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "INFO_NEEDED",
+      "status": "OPEN",
+      "source_meeting": "6968cc27290b3e0013fc3d86",
+      "source_category": "critical_question",
+      "source_date": "2026-01-15",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.169572+00:00"
+    },
+    {
+      "id": "T6968cc27-003",
+      "title": "[RISCO] Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hilang. Impossível ana",
+      "description": "[RISCO] Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hilang. Impossível analisar, rastrear ou documentar.",
+      "owner": null,
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Financeiro",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6968cc27290b3e0013fc3d86",
+      "source_category": "risk",
+      "source_date": "2026-01-15",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.169607+00:00"
+    },
+    {
+      "id": "T6968cc27-004",
+      "title": "[RISCO] Se esta reunião foi relevante para decisões de janeiro/2026, esas decisões não estão documen",
+      "description": "[RISCO] Se esta reunião foi relevante para decisões de janeiro/2026, esas decisões não estão documentadas em nenhum lugar acessível ao Morfeu.",
+      "owner": null,
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6968cc27290b3e0013fc3d86",
+      "source_category": "risk",
+      "source_date": "2026-01-15",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.169638+00:00"
+    }
+  ],
+  "summary": {
+    "total": 4,
+    "by_priority": {
+      "HIGH": 2,
+      "MEDIUM": 2,
+      "LOW": 0
+    },
+    "by_type": {
+      "OBSERVACAO": 3,
+      "INFO_NEEDED": 1
+    },
+    "without_owner": 3,
+    "without_deadline": 3
+  },
+  "generated_at": "2026-04-09T13:11:15.169692+00:00"
+}

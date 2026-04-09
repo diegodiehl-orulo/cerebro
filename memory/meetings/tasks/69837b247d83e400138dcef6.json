@@ -1,0 +1,41 @@
+{
+  "meeting_id": "69837b247d83e400138dcef6",
+  "meeting_name": "Processo Seletivo AE <> Case Fernanda",
+  "happened_at": "2026-02-04T17:00:00.000Z",
+  "tasks": [
+    {
+      "id": "T69837b24-001",
+      "title": "Verificar com Gustavo Torres o resultado do processo seletivo com Fernanda. Se aprovada, registrar d",
+      "description": "Verificar com Gustavo Torres o resultado do processo seletivo com Fernanda. Se aprovada, registrar decisão de contratação e status de onboarding.",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Gente",
+      "project": null,
+      "type": "FOLLOW_UP",
+      "status": "OPEN",
+      "source_meeting": "69837b247d83e400138dcef6",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-02-04",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.225267+00:00"
+    }
+  ],
+  "summary": {
+    "total": 1,
+    "by_priority": {
+      "HIGH": 1,
+      "MEDIUM": 0,
+      "LOW": 0
+    },
+    "by_type": {
+      "FOLLOW_UP": 1
+    },
+    "without_owner": 0,
+    "without_deadline": 1
+  },
+  "generated_at": "2026-04-09T13:11:15.225303+00:00"
+}

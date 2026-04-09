@@ -1,0 +1,81 @@
+{
+  "meeting_id": "6984f6b56de6d60013aef6ba",
+  "meeting_name": "Processo Seletivo Closer <> Case Carla",
+  "happened_at": "2026-02-05T20:00:00.000Z",
+  "tasks": [
+    {
+      "id": "T6984f6b5-001",
+      "title": "Gustavo Torres: registrar resumo do processo seletivo e outcome (Carla foi hired ou não) em memory/p",
+      "description": "Gustavo Torres: registrar resumo do processo seletivo e outcome (Carla foi hired ou não) em memory/people.md",
+      "owner": "Gustavo Torres",
+      "deadline": "2026-04-07T23:59:00.000Z",
+      "priority": "HIGH",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6984f6b56de6d60013aef6ba",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-02-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.232994+00:00"
+    },
+    {
+      "id": "T6984f6b5-002",
+      "title": "Quais foram os critérios do processo seletivo e por que Carla foi selecionada ou não?",
+      "description": "Quais foram os critérios do processo seletivo e por que Carla foi selecionada ou não?",
+      "owner": "Gustavo Torres + Diego Diehl",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Financeiro",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6984f6b56de6d60013aef6ba",
+      "source_category": "critical_question",
+      "source_date": "2026-02-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.233031+00:00"
+    },
+    {
+      "id": "T6984f6b5-003",
+      "title": "[RISCO] Reunião sem transcript, notas ou tópicos — risco de perda de conhecimento institucional",
+      "description": "[RISCO] Reunião sem transcript, notas ou tópicos — risco de perda de conhecimento institucional",
+      "owner": null,
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Financeiro",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6984f6b56de6d60013aef6ba",
+      "source_category": "risk",
+      "source_date": "2026-02-05",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.233065+00:00"
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "by_priority": {
+      "HIGH": 1,
+      "MEDIUM": 2,
+      "LOW": 0
+    },
+    "by_type": {
+      "OBSERVACAO": 3
+    },
+    "without_owner": 1,
+    "without_deadline": 2
+  },
+  "generated_at": "2026-04-09T13:11:15.233091+00:00"
+}

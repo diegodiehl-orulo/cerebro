@@ -1,0 +1,81 @@
+{
+  "meeting_id": "6972853543e33a00133a3e06",
+  "meeting_name": "Fernanda <> Processo Seletivo | AE Órulo",
+  "happened_at": "2026-01-22T20:15:00.000Z",
+  "tasks": [
+    {
+      "id": "T69728535-001",
+      "title": "Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise impossível.",
+      "description": "Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise impossível.",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "HIGH",
+      "area": "Financeiro",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6972853543e33a00133a3e06",
+      "source_category": "recommended_next_step",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.200826+00:00"
+    },
+    {
+      "id": "T69728535-002",
+      "title": "Fernanda foi aprovada ou reprovada no processo seletivo?",
+      "description": "Fernanda foi aprovada ou reprovada no processo seletivo?",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6972853543e33a00133a3e06",
+      "source_category": "critical_question",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.200852+00:00"
+    },
+    {
+      "id": "T69728535-003",
+      "title": "Qual era a vaga ou posição que Fernanda pleiteava?",
+      "description": "Qual era a vaga ou posição que Fernanda pleiteava?",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "MEDIUM",
+      "area": "Geral",
+      "project": null,
+      "type": "OBSERVACAO",
+      "status": "OPEN",
+      "source_meeting": "6972853543e33a00133a3e06",
+      "source_category": "critical_question",
+      "source_date": "2026-01-22",
+      "dependencies": [],
+      "completion_criteria": null,
+      "confidence": "MEDIUM",
+      "blocking_factor": null,
+      "created_at": "2026-04-09T13:11:15.200870+00:00"
+    }
+  ],
+  "summary": {
+    "total": 3,
+    "by_priority": {
+      "HIGH": 1,
+      "MEDIUM": 2,
+      "LOW": 0
+    },
+    "by_type": {
+      "OBSERVACAO": 3
+    },
+    "without_owner": 0,
+    "without_deadline": 3
+  },
+  "generated_at": "2026-04-09T13:11:15.200890+00:00"
+}
