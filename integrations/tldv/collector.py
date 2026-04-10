@@ -32,6 +32,7 @@ logger = logging.getLogger("tldv.collector")
 
 WORKSPACE = Path("/root/.openclaw/workspace")
 RAW_DIR = WORKSPACE / "memory/meetings/raw"
+TRANSCRIPT_DIR = WORKSPACE / "memory/meetings/transcripts"
 LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/processed_meetings.json"
 LEDGER_LOCK = WORKSPACE / "memory/meetings/ledger/.processing_lock"
 
@@ -112,6 +113,73 @@ def save_meeting(meeting_data: dict) -> bool:
     return True
 
 
+def _backfill_all_transcripts(client) -> dict:
+    """
+    Varre todas as reuniões salvas em raw/ e coleta transcript
+    para qualquer uma que ainda não tenha sido salva em transcripts/.
+    Retorna dict com 'saved' e 'total'.
+    """
+    RAW_DIR = Path("/root/.openclaw/workspace") / "memory/meetings/raw"
+    TX_DIR = Path("/root/.openclaw/workspace") / "memory/meetings/transcripts"
+    TX_DIR.mkdir(parents=True, exist_ok=True)
+
+    existing = set(p.stem for p in TX_DIR.glob("*.txt"))
+    raw_ids = [p.stem for p in RAW_DIR.glob("*.json")]
+    need_tx = [mid for mid in raw_ids if mid not in existing]
+
+    saved = 0
+    for mid in need_tx:
+        if save_transcript(client, mid):
+            saved += 1
+
+    return {"saved": saved, "total": len(need_tx)}
+
+
+def save_transcript(client, meeting_id: str) -> bool:
+    """
+    Busca transcript completo via GET /meetings/{id}/transcript e salva.
+    Retorna True se salvou, False se já existia ou falhou.
+    """
+    TRANSCRIPT_DIR.mkdir(parents=True, exist_ok=True)
+    out_file = TRANSCRIPT_DIR / f"{meeting_id}.txt"
+
+    if out_file.exists():
+        logger.debug("  ○ Transcript já existe: %s", meeting_id)
+        return False
+
+    try:
+        raw = client.get_transcript(meeting_id)
+        if not raw:
+            logger.warning("  ○ Transcript vazio/pendente: %s", meeting_id)
+            return False
+
+        # get_transcript retorna dict com chave 'data': list of entries
+        entries = raw.get("data") or []
+
+        lines = []
+        for entry in entries:
+            text = entry.get("text", "") if isinstance(entry, dict) else str(entry)
+            speaker = entry.get("speaker", "?") if isinstance(entry, dict) else "?"
+            start = entry.get("startTime", 0) if isinstance(entry, dict) else 0
+            if text:
+                m, s = divmod(start, 60)
+                lines.append(f"[{m:02d}:{s:02d}] {speaker}: {text}")
+
+        content = "\n".join(lines)
+        if content.strip():
+            with open(out_file, "w", encoding="utf-8") as f:
+                f.write(content)
+            logger.info("  ★ Transcript salvo: %s (%d entries, %d chars)",
+                        meeting_id, len(entries), len(content))
+            return True
+        else:
+            logger.warning("  ○ Transcript vazio: %s", meeting_id)
+            return False
+    except Exception as e:
+        logger.warning("  ✗ Erro transcript %s: %s", meeting_id, e)
+        return False
+
+
 def run(max_pages: int | None = None, dry_run: bool = False, page_size: int = 50):
     """
     Rotina principal de coleta.
@@ -172,8 +240,23 @@ def run(max_pages: int | None = None, dry_run: bool = False, page_size: int = 50
         logger.info("  → Novas nesta execução: %d", len(new_ids))
 
         if not new_ids:
-            logger.info("Nenhuma reunião nova. Ledger mantido.")
-            return
+            logger.info("Nenhuma reunião nova.")
+
+        # ── Backfill: transcripts de reuniões já salvas que ainda não têm ───────────
+        logger.info("Passo 3b/3b: Backfill de transcripts pendentes...")
+        tx_saved = 0
+        tx_skipped = 0
+        for meeting_id in new_ids:
+            if save_transcript(client, meeting_id):
+                tx_saved += 1
+            else:
+                tx_skipped += 1
+        logger.info("  → %d transcripts salvos (%d já existiam)", tx_saved, tx_skipped)
+
+        # ── Também fazer backfill de TODAS as reuniões já salvas em raw/ ──────────
+        tx_backfill = _backfill_all_transcripts(client)
+        logger.info("  → Backfill total: %d transcripts salvos de %d reuniões em raw/",
+                    tx_backfill["saved"], tx_backfill["total"])
 
         # ── Passo 3: Buscar detalhes e salvar ─────────────────────────────────
         logger.info("Passo 3/3: Buscando detalhes e salvando (%s)...", 
@@ -196,6 +279,10 @@ def run(max_pages: int | None = None, dry_run: bool = False, page_size: int = 50
             saved = save_meeting(detail)
             if saved:
                 new_count += 1
+            # Sempre buscar transcript — mesmo se meeting já existia
+            tx_saved = save_transcript(client, meeting_id)
+            if tx_saved:
+                logger.info("  ★ Transcript novo: %s", meeting_id)
 
             # Atualizar ledger incrementally (a cada 10 itens)
             if new_count % 10 == 0:

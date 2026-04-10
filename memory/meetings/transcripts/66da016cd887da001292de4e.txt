@@ -1,0 +1,457 @@
+[00:36] Victor Figueredo: Legal, Diego, é muito importante isso e legal a gente ter pego esse caso logo no comecinho para a gente fazer algumas melhorias já de partida normalmente vai um e-mail de conexão.
+[00:48] Caio Gomes: Desculpa te interromper. Mas é só para você entender que a nossa reunião a gente não pegou isso logo no comecinho, tá? Faz três meses que a gente tá em plantação, gente. Eu só quero deixar claro é a pressão que eu tô tomando aqui então. O que você tá interpretando como comecinho para mim é bem no finalzinho tá não tô enfim é questionando-se foi falha de um ou de outro, mas como que a gente está bem atrasado em relação à implantação do sistema.
+[01:17] Caio Gomes: Então mas tudo bem segue se A Guerra Não é só em ciência que eu hoje meu meio de comunicação é 100% Diego e tem mais outras áreas envolvidas então. Quero que todos entendam que a pessoinha que tá forte, então eu sei que depende do dia que depende do Joe depende do Vítor do João filho do Lucas de todos envolvidos aqui então tá, mas pode pode seguir aí com a sua com a sua explicação.
+[01:41] Caio Gomes: Obrigado.
+[01:43] Victor Figueredo: Eu agradeço também o seu posicionamento e a gente entende? A gente tá fazendo o melhor para te atender nesse sentido e você pode contar conosco também para Promover todas as melhorias que você precisa com a maior urgência possível. Esse ponto que a gente identificou então normalmente vai um e-mail de desconexão para o usuário então o usuário recebe eu queria confirmar depois com usuário estavam desconectados eles receberam.
+[02:12] Victor Figueredo: Esse e-mail é um e-mail que segue a automação da turma é mais ou menos como na mesma padrão de visitas aí de meios também que a gente está construindo na outra frente e
+[02:23] Diego Diehl: Victor só sobre isso rapidinho não dá para a gente por um usuário tipo geral para receber também isso porque às vezes essa pessoa não vai ver a gente podia por acaso ou o Caio para receber esse e-mail de conexão.
+[02:37] Victor Figueredo: A gente pode pode incluir alguns algumas có?
+[02:40] Caio Gomes: Kátia deixa na carta
+[02:41] Diego Diehl: João anota isso por gentileza então tarefa combinada de adicionar a Kátia ao e-mail que caso alguém desconecte chegue para cá te decati, você fica ligado no e-mail ali se acontecer a gente busca entender o que aconteceu também para não ficar desconectando toda hora também.
+[02:57] Victor Figueredo: Isso é a tendência é que o número ele preserva a conexão né? Mas para uma razão ou outra né? Pode pode acontecer normalmente isso vai notificado a gente promove essa melhoria de incluir. Uma cópia para de redundância e uma outra melhoria também que a gente discutir um pouco também mais recentemente agora mais cedo.
+[03:20] Victor Figueredo: Incluir um status dentro do próprio usuário na conta da do próprio cliente no caso a cetim de quem está conectado ou não para a gente considerar isso já na distribuição da roleta então na distribuição da roleta a gente tem esse cuidado de não vincular um contato a um responsável que eventualmente possa estar desconectado.
+[03:41] Diego Diehl: Perfeito Victor esse bloqueio esse essa melhoria Kátia bloqueia. Corretores que deveriam ir para Cláudio estão sendo do teu WhatsApp como Cláudia. Tá bom. E daí eu troco uma ideia também com a Cláudia para explicar para ela. Preciso saber gente há uma há um ponto muito importante para os gerentes terem segurança na cabeça deles que as conversas pessoais deles não serão craqueadas, eu vou ter uma conversa com a Cláudia para tranquilizar ela que só serão traqueadas os contatos que tiveram cadastrados no clubes e ela tem autonomia também de mandar os dois emojis, na hora que ela quiser parar de rastrear conversa de quem ela quiser.
+[04:20] Diego Diehl: Beleza, eu tô reforçando isso só para cátiar também dessa reforço quando alguém te sente inseguro lembrar que tem um emoji lá que eu acho que é duas casinhas que é como se fosse isso aqui é pessoal meu para pausar o traqueamento, beleza? Show do Vitor foi minha sugestão gente, eu acho que eu queria guardar para segunda metade da reunião, eu acho que uma visão mais Geral do projeto eu conversei um pouco com o Caio que já conversava depois.
+[04:48] Diego Diehl: Sobre um pouco dessa demora essa sensação de não tá andando de não tá aqui evoluindo pouca coisa implementada, eu vou estar mais presente aqui na Cetim. Para ir tirando dúvidas. Tô pegando alguns pontos. Mas eu queria deixar essa parte mais para o final porque desde a gente já mostra o que tanto a gente evoluiu da automação de e-mail e tal para o Caio para Cátia já validar entenderem e no final a gente passa um overview de York isso aqui que já foi feito isso aqui está sendo feito próximo passo é esse já se compromete com alguns prazos também, pode ser?
+[05:22] Johnny Fernandes: perfeito
+[05:25] Diego Diehl: Sugestão daí eu acho que o Johnny a pessoa mais experiente para mostrar o processo ali de onde de funil. De explicar certinho aqui para o Caio para Cátia entenderem? Essa reunião vai ficar gravada caso Elisa queira ver ou João a gente recortar algum vídeo clipe e deixar como padrão ali para as pessoas entenderem o processo.
+[05:45] Diego Diehl: Então Caio só para dar o contexto e Kátia hoje, a gente tem um funil que eu li desorum. A gente vai ter um funil que é de prospecção de corretores, por sinal. Já testei um disparo aqui com o Barbosa e com Datena, botei lá para disparar para alguns corretores já funcionou foi legal a ideia que a gente automatiza isso para dar volume, mas o tema de hoje é o filho de negócios para conseguir avançar a perspectiva do Caio de negócios ele possa começar a controlar os negócios dele dentro da ferramenta.
+[06:15] Diego Diehl: Beleza então Johnny, pode mandar.
+[06:19] Johnny Fernandes: Perfeito. Então vou compartilhar aqui, tá bom? a gente fazer esse overview e já mostrar como que Está funcionando. Perfeito então aqui Caio e Kátia, nós temos esse funil que é o funil de corretores. Todas as demandas corretores da audiência órgão e vai disparando as mensagens ali através do WhatsApp dos gerentes, tá bom? Fica tudo registrado aqui.
+[06:57] Johnny Fernandes: quando Essa esse oportunidade é qualificada como Ok existe um potencial negócio. negócio. A ideia é que ele venha para o futuro de negócio, né? E aí vai começar a partir da o agendamento de visita. Isso daqui também pode ser iniciado, manualmente tá pelo aplicativo e pelo pelo pela web aqui tá então iniciei uma conversa porque a audiência da obra.
+[07:27] Johnny Fernandes: Ele trouxe uma oportunidade aqui de corretor que tava navegando naquele empreendimento conversei no WhatsApp com ele. Vamos fazer uma visita. Ok então eu vou iniciar diretamente desse processo aqui ajuda bastante de visita. E nós temos alguns Campos aqui a serem preenchidos quando ele vem lá do Funil de solo, tudo praticamente já vem preenchido aqui tá? Você vai só preencher os dados de visita como eu tô fazendo um do zero ou seja.
+[07:57] Johnny Fernandes: Alguém me ligou aqui agora e eu conversei foi por telefone. Ele tem interesse em visitar um certo empreendimento, tá bom? Então, eu vou selecionar aqui, por exemplo. Aleatoriamente, vou pegar. Pegar um contato aqui vou pegar. O nome daqui tá bom. como exemplo
+[08:26] Caio Gomes: No caso é corretora é isso, né?
+[08:29] Johnny Fernandes: Aqui nós temos os dois cenários.
+[08:31] Caio Gomes: É porque ali em cima tá escrito cliente, não é isso aí.
+[08:37] Johnny Fernandes: Mas aqui o cliente ele é o corretor é o parceiro tá o cliente da imobiliária. O cliente é procuradora é o parceiro, tá bom?
+[08:46] Caio Gomes: A gente consegue alterar isso daí para pode ser essa nomenclatura porque no caso de visita pode confundir o gerente porque tem o parceiro e tem o cliente final também que vai fazer a visita.
+[09:00] Johnny Fernandes: Caio A princípio eu não consigo trocar esse nome aqui tá mas a gente não tá pegando os dados do cliente final nesse momento aqui agora tá eu vou mostrar o processo para você, eu acho que vai ficar claro quando a gente seguir. frente, tá bom? Mas o cliente
+[09:17] Diego Diehl: Só para te explicar só para te explicar um ponto cara, tem alguns Campos nativos da clubes que eles conectam a teia toda esses nativos a gente não consegue mudar, mas todos os outros a gente consegue ajustar tá?
+[09:31] Johnny Fernandes: É eu vou mostrar um conceito aqui. Caio que vai ficar bem interessante você entender então o meu cliente é procuradora, ele é o corretor, né? Então, eu posso vincular o corretor especificamente já esse processo aqui. E eu também posso vincular aí Imobiliária. E amarrar o corretor também, como contar dessa Imobiliária caso tenha esse cenário.
+[09:57] Johnny Fernandes: Tá bom então, por exemplo quando seleciona aqui um cliente do tipo pessoa. Eu não tenho como se acionar o contato porque o meu contato já é o corretor pessoa física aqui no caso. Quando seleciono aqui imobiliária? aqui Há dois pei Imóveis quando selecionei Imobiliária automaticamente já posso vincular aqui o corretor.
+[10:25] Johnny Fernandes: Que estava que eu estou atendendo aqui como cliente está dois pay Imóveis isso para todas as imobiliárias, tá bom? Eu vou até seguir esse exemplo aqui. Vinculando a imobiliária evitando corretor isso aqui Caio e Kátia interessante porque lá em relatório a gente consegue saber quais vendas quais visitas quais negócios foram vinculados ao corretor autônomo aquele corretor que é independente e as corretoras que são vinculadas imobiliárias, fica bem legal essa arquitetura de relatórios.
+[11:03] Johnny Fernandes: Deixa eu pegar aqui o corretor eu vou pegar aqui aleatoriamente. Vou pegar o aroma aqui.
+[11:11] Diego Diehl: Me tira uma dúvida a gente consegue buscar o corretor aí pelo telefone. telefone.
+[11:18] Johnny Fernandes: Pelo telefone pelo e-mail pelo CPF.
+[11:20] Diego Diehl: Ah então isso é legal tá Caio Cat para vocês saberem na hora de treinar o time a gente mostra. Mas é difícil também saber que nome. Tá salvo vai ter nome de um jeito o nome do outro e uma fonte mais. Única que a gente tem provavelmente seja o telefone então daí a gente já treina a galera jogar tipo.
+[11:38] Diego Diehl: Entra no WhatsApp. Copia o telefone do corretor entra para criar um negócio aí já cola o nome do corretor, ele já foi o corretor. Tá bom.
+[11:45] Johnny Fernandes: Perfeito, inclusive nesse sentido também no nosso trabalho de vincular os corretores as imobiliárias. Tá quando seleção Imobiliária aqui por padrão quando fica aqui ele só vai listar os corretores dessa Imobiliária como esse vídeo quando não tá feito nós não tínhamos esse veículo feito lá na base, ele traz em branco porque não encontrou nenhum.
+[12:10] Johnny Fernandes: Mas a forma de digitar aí ele vai toda a base aqui, ele vai percorrer toda a base de corretores, tá bom?
+[12:16] Diego Diehl: É uma forma de vinculado aí né? Não tá vinculado, mas na hora de registrar o negócio você acha ele já faz o vínculo certo Johnny.
+[12:24] Johnny Fernandes: Se o cara já está cadastrado, ele não faz o vínculo porque ela está
+[12:28] Diego Diehl: Ah entendi
+[12:28] Johnny Fernandes: cadastrado, entendeu?
+[12:30] Diego Diehl: Tá bom, daí a gente ajustaria.
+[12:30] Johnny Fernandes: Eu tenho que ir lá.
+[12:31] Diego Diehl: depois o vínculo tá? Eu ajusto.
+[12:34] Johnny Fernandes: Isso Beleza, é bem tranquilo de fazer esse vínculo tá é bem simples.
+[12:37] Caio Gomes: Não estiver na base aí dá para preencher manualmente.
+[12:42] Johnny Fernandes: Então, por exemplo vou colocar aqui ó, o Lucas Vicente como corretor, eu nem preciso sair da tela por aqui mesmo aí nesse caso já vai ficando automático o Lucas lá da SP Imóveis. Entendeu, Diego? Ou seja eu tô criando aqui agora, ele até vincula aí eu coloco aqui ó, ele é um parceiro.
+[13:02] Johnny Fernandes: O tipo de cadastro é de parceiro qualquer tipo de parceiro corretor imobiliário, ele autônomo nesse caso é o corretor de imobiliária.
+[13:11] Caio Gomes: Só uma dúvida quando a gente faz o disparo. Pela lista de transmissão a gente mandou lá para vários números a lista de transmissão não entende que o celular 935460022 não é do Lucas Vicente. Mas porém ele já está na nossa base. Como que a gente faz daí nesse caso.
+[13:39] Caio Gomes: Você entende o que eu tô falando.
+[13:40] Diego Diehl: Acho que você vai procurar assim, por isso que eu falei aquele ponto Caio que eu eu acho que pelo tamanho da nossa base, como é que tá organizado muita gente. Ali no contato do Lucas Johnny vai até de olho aperta um control + duas vezes que eu acho que vai facilitar aqui, ele não vai distorcer tanto aí fica um pouquinho melhor nesse momento do Lucas ali que até tá escrito diferente não ia ter a primeira coisa, eu acho que vai ser procurar pelo número de telefone.
+[14:10] Diego Diehl: E daí se já tá cadastrado você seleciona ele pelo número de telefone. Entendeu cara
+[14:16] Caio Gomes: É isso seria melhor então daí não pelo nome sim pelo número de telefone e daí a hora que coloca o número de telefone e já puxa automaticamente o corretor. Ou se não tiver.
+[14:27] Diego Diehl: É isso.
+[14:29] Johnny Fernandes: Tô digitando o telefone aqui. Ó, eu consigo pesquisar por telefone foi que o Diego perguntou. eu tô no processo tá e de negócios tá e
+[14:39] Caio Gomes: Não entendi mas é exato assim, ó, porque assim ó, pensa que nem todos os corretores estão planejados ou seja com responsáveis aí dentro do nosso do nosso CRM do nosso CRM, entrou um corretor novo para mim aqui agora, por isso que eu sou um dos gerente então corretor novo eu vou lá e vou mandar aqueles dois emojis para cadastrar esse corretor para mim para ele vir para mim como corresponsável como responsável.
+[15:09] Caio Gomes: Esse corretor quando eu mando os dois emojis salva o número dele na minha base, mas ninguém sabe não tem como identificar. Qual que é o nome efetivo dele? Efe?
+[15:21] Johnny Fernandes: alguns casos sim
+[15:22] Caio Gomes: Você entende o que eu tô falando daí, por exemplo o número esse.
+[15:25] Johnny Fernandes: perfeito
+[15:27] Caio Gomes: número agendou visita, eu sei que o nome desse cara é João Vicente
+[15:34] Johnny Fernandes: você
+[15:35] Caio Gomes: Lucas Vicente mas a o CRM não sabe. Então os dados que eu preciso, né? Eu acho que talvez seria até. Melhor se a gente criasse até mais um campo aí então no campo contato tem um campo de telefone e um campo de nome porque daí caso ele não esteja cadastrado ainda esse contato você atualiza o nome dele automaticamente.
+[16:11] Caio Gomes: Entende o que eu tô falando.
+[16:16] Johnny Fernandes: telefone buscar o contato, beleza?
+[16:19] Caio Gomes: beleza
+[16:20] Johnny Fernandes: Caso eu tenha aí só voltando naquele ponto você colocou os dois emoji, ele foi cadastrado automaticamente da ferramenta. Ok eu acredito pelo que eu acompanhei, eu acho que 80% dos casos. O eles conseguem pegar o nome do cara lá no WhatsApp. Porque quando ele responde a
+[16:40] Caio Gomes: Tá ok.
+[16:41] Johnny Fernandes: o robô já pega o nome dele e já salva aqui tá?
+[16:46] Caio Gomes: Ok mas é que geralmente quando salva
+[16:46] Johnny Fernandes: Simulamos inclusive, tá?
+[16:49] Caio Gomes: no WhatsApp aparece Sei lá Pedro Fonseca. Sei lá tá ou o Lucas Vicente só que para eu mandar uma autorização para o prédio, eu tenho que colocar o nome inteiro é Pedro Fonseca Silveira da Silva.
+[17:04] Johnny Fernandes: certo
+[17:05] Caio Gomes: Com o RG dele, então, eu não posso assim, eu tô tentando fazer da forma mais completa possível. É claro que já aconteceu de né, eu nunca tive esse tipo de problema não nunca tive mas eu já tive é quer dizer eu já tive situações onde a portaria me deu eu entrei mas ela me deu dor de cabeça porque tava faltando sobrenome tava faltando sei lá algum dado.
+[17:32] Caio Gomes: Das pessoas que entrariam no prédio, entendeu?
+[17:38] Diego Diehl: Mas se a gente der o nome sobrenome e o RG.
+[17:42] Caio Gomes: eu acho que pode eu acho que pode mas
+[17:44] Diego Diehl: Você acha que a portaria encrencaria?
+[17:44] Caio Gomes: eu acho que no WhatsApp às vezes só vai aparecer Lucas. É muitas pessoas que deixam salvo no
+[17:50] Diego Diehl: Ah tá.
+[17:51] Caio Gomes: WhatsApp lá o nome certinho só coloca Lucas não coloca o sobrenome no meu por exemplo.
+[17:57] Johnny Fernandes: Mas o tá pronto para isso, já inclusive vamos até simular aqui, se precisar ajustar eu acho que agora com você é dois minutos, mas vou te mostrar que é possível alterar viu? Caio de forma simples, mas não aqui na criação do negócio. É isso.
+[18:27] Diego Diehl: Vai é vamos seguindo eu acho que até pode ir seguindo o cara que a gente pensou em várias coisas dessas já mas ficou um pouquinho ele para frente então.
+[18:34] Caio Gomes: Ok vamos seguindo. Aí a gente faz os depois os ajustes.
+[18:38] Johnny Fernandes: Essa parte aí cara, já mapeou que você pode editar o nome dele, você pode colocar o RG tudo bonitinho na fase específica que eu tô fora ele ser uma oportunidade, entendeu? E aqui eu não posso ser burocrático aqui, entendeu? Aí eu coloco aqui Imobiliária o contato que é o corretor, né o produto que ele tá interessado.
+[19:02] Johnny Fernandes: Se eu estiver tipologia unidade eu posso colocar se não tiver não precisou mencionar aqui agora, eu só preciso mencionar quem vai ser o como que ele chegou essa oportunidade chegou até você esse corretor foi na hora ele veio lá da empresa artificial foi a divulgação de meio Marques fez uma lista de transmissão com ele.
+[19:22] Johnny Fernandes: Né? Nós já validamos com vocês você me passou as opções aqui, tá bom anteriormente. Então vou colocar aqui ó gerente da
+[19:28] Caio Gomes: ok
+[19:28] Johnny Fernandes: imobiliária, ok? Ele que indicou esse corretor para você lá, tinha um relacionamento e ter essa oportunidade. Aqui nesse caso a dois tá no nome da Cláudia. Tá eu vou seguir com exemplo como se fosse a Cláudia mesmo. Então, eu criei aqui essa oportunidade. Já criei no processo de visita.
+[19:51] Johnny Fernandes: Tá bom então, qualquer tipo de visita nós temos em obras lançamento e pronto porque você mandou lá no áudio que dependendo de como você seleciona algumas perguntas são necessárias e outras não. Correto. Então vou simular aqui, pode falar.
+[20:14] Caio Gomes: tipo do produto, mas tudo bem.
+[20:16] Diego Diehl: Eu botei Caio. Eu botei o tipo de visita porque pode ter uma visita num produto pronto que não é no produto pronto que é no escritório por exemplo. Então o tipo de produto não determina o tipo da visita esse tipo da visita.
+[20:32] Caio Gomes: Pode pode.
+[20:36] Johnny Fernandes: Pode ser? Qualquer coisa a gente ajusta aqui o dinheiro não vai colocando aquele pessoal também.
+[20:42] Diego Diehl: É tudo sugestão, tá? Caio que eles entenderam eu fiz um refinamento.
+[20:49] Caio Gomes: operação, né?
+[20:52] Johnny Fernandes: Eu vou pegar o cenário do produto
+[20:56] Diego Diehl: Exatamente. Só usando que vocês vão entender mesmo. Daí a gente vai ajustando o que?
+[21:03] Johnny Fernandes: pronto, porque ele é mais complexa então quando eu coloco o produto pronto. Ele pede aqui ó dados para criação de visita do cliente nome do corretor aqui. Acho que pode editar o nome do corretor completo, né? Tipo Lucas, você pode colocar Lucas? se a gente mudar aqui só para explicar o comportamento.
+[21:33] Johnny Fernandes: para lançamento Ó já não tem não há necessidade de solicitar aqueles dados lá do
+[21:42] Caio Gomes: Perfeito exatamente, ok?
+[21:42] Johnny Fernandes: cliente, tá bom? Então quando eu coloco aqui agora em obras. Provavelmente, eu acho que ele pede também em obras também é necessário formar os dados do cliente. ok
+[21:57] Caio Gomes: necessário informar os dados do cliente previamente porque nós temos um instante de vendas para fazer as visitas. Enfim então pedir acesso a ninguém, mas para a questão do meu relatório pós visita é necessário o dado do cliente. O Lucas corretor levou o cliente que é o Johnny eu vou precisar de um campo preencher.
+[22:23] Diego Diehl: Tá uma pergunta daí Caio quando for nesse caso de obra. É o que a gente tem que pensar o que a gente tem que saber então é o qual dado você não quer pegar. Tipo até a gente pode olhar aqui já por exemplo, você quer o RG do cliente?
+[22:41] Johnny Fernandes: É tipo e pronto pega nome RG, é
+[22:41] Diego Diehl: cliente já fala que a gente tira.
+[22:48] Johnny Fernandes: em obra pega só o nome por exemplo.
+[22:49] Diego Diehl: ou define
+[22:53] Caio Gomes: Pronto e obra. São os mesmos dados nome e RG do cliente quando é em lançamento. Eu só preciso do nome não preciso do RG.
+[23:08] Diego Diehl: Quando é lançamento tá perfeito
+[23:08] Johnny Fernandes: perfeito
+[23:10] Diego Diehl: seguir assim? Podemos seguir assim?
+[23:12] Caio Gomes: tem mais um campo que eu coloco daí no feedback das visitas que é Bairro que o cliente mora isso a gente extrai na visita. Então a primeira coisa que eu não
+[23:24] Diego Diehl: Lá na frente daí?
+[23:24] Caio Gomes: tenho primeira coisa que eu não entendi a visitar um empreendimento nosso eu quero entender da onde que ele da vida, você tá me querendo de outro bairro seja do bairro de outra cidade.
+[23:35] Johnny Fernandes: Beleza então só para te alinhar o que tá aqui já tá certo, então tá quando a gente coloca em obras ou pronto. Ele pede o nome do cliente o evangelho do cliente aqui ó, nós temos dados dos demais clientes relacionados. Tem mas o cara quer levar a esposa quer levar o irmão a gente deixou o canto do texto livre, você pode colocar o que você quiser aqui, tá bom? Inclusive tem aquele comportamento você pode falar e como transcreve para você, tá bom? Então, vou fazer um exemplo aqui, tá? Vou colocar aqui o nome do que botar na ordem para ficar legal aqui então tipo de visita em obras origem da visita indicação retorno.
+[24:21] Johnny Fernandes: Eu vou colocar indicação. Gerente conexões cetim isso aqui são os direitos colaboradores é cruzeirense que a Cláudia é responsável. Mas eu vi que você tem a opção de colocar vários gerentes para ficar a cobrir a Cláudia caso ela. Não possa ir ali, né? Então você pode colocar um ou mais tá? Eu vou colocar aqui.
+[24:45] Johnny Fernandes: O Agnaldo vou colocar. Barbosa tudo bem? E eles vão eles vão ter também.
+[24:49] Caio Gomes: ok
+[24:55] Johnny Fernandes: beleza O produto já é automático já preencher anteriormente que era o essencial Perdizes. Aí aqui eu vou colocar a data do agendamento. Vou colocar aqui segunda-feira. E o horário do agendamento eu vou colocar 10 horas posso digitar eu posso clicar aqui? beleza preencher os dados da visita aqui, agora, vou colocar os dados do Vou colocar os Cliente o cliente eu vou colocar aqui é o João Vitor.
+[25:43] Johnny Fernandes: João Vitor ao cliente O RG ou pouquinho qualquer coisa só para gente poder passar. Ao João Vitor vai levar lá a esposa e mais alguém então, vamos colocar. esposa Y De outros né pessoas que vão acompanhar também ali o João. Eu vou colocar aqui o RG do corretor aí aqui então.
+[26:31] Johnny Fernandes: Quando eu colocar se esse corretor aqui que eu selecionei o Lucas Vicente já tivesse RG cresci já vira automático para cá, então isso aqui você faz uma vez só tá porque quando você fizer isso aqui
+[26:43] Caio Gomes: Ótimo ótimo.
+[26:45] Johnny Fernandes: na próxima visita do corretor automático o RG 3D inclusive muitos a maioria deles. Então eu preciso já ver automático aqui para você, tá bom? Só o RG que não tinha daquelas daquelas bases que você vai colocar uma vez só para o corretor, tá bom?
+[27:04] Caio Gomes: Tá bom perfeito.
+[27:05] Johnny Fernandes: Vou colocar aqui que o corretor o RG dele é esse e o crescimento.
+[27:11] Caio Gomes: Não necessariamente o crescido ele não precisa necessariamente ser obrigatório tá ou é ou RG ou
+[27:17] Johnny Fernandes: Não é obrigatório.
+[27:20] Caio Gomes: cresce?
+[27:23] Johnny Fernandes: ou um ou outro
+[27:25] Caio Gomes: sim
+[27:26] Johnny Fernandes: Tá então só para estudar não perder tempo Ô João. Você é justo anota para mim fazer uma obrigatoriedade condicional aqui, por favor.
+[27:35] Caio Gomes: A gente prefere que não tem o RG.
+[27:35] João Vitor Portes da Silva: beleza
+[27:37] Caio Gomes: como principal tá é
+[27:39] Johnny Fernandes: Vamos fazer assim então Caio o RG ficou obrigatório e o crescer fica como opcional.
+[27:44] Caio Gomes: Tá bom perfeito. Beleza, ótimo perfeito.
+[27:48] Johnny Fernandes: Que a gente já não deixa não deixa a ponta solta para depois da reunião. 30 segundos já faz.
+[28:06] Diego Diehl: caiu O colaborador lá gerente colaborador, pode ser o Vini?
+[28:19] Caio Gomes: Desculpa?
+[28:20] Diego Diehl: Ali tem os gerentes colaboradores que podem visitar lá também e tal. É um deles, o principal é o vídeo não é? Eu acho que a gente passou batido nisso aí. Isso daí é legal notar também.
+[28:35] Johnny Fernandes: tá
+[28:36] Diego Diehl: João é como padrão já bota o vídeo em todos os e-mails e os dados do vinho caso ele que vá para visita já tá tudo lá aí no e-mail. Acho que é legal um padrão de dizer. O Ville vai quando não vai o teu gerente certo, cara. Então daí é legal pensar no modelo do padrão que deixa claro isso no e-mail, talvez de alguma forma.
+[28:59] Diego Diehl: Talvez de
+[29:00] Caio Gomes: Tem o gerente que você pode colocar um dois três, mas deixa o vídeo sempre travado que ele sempre vai estar.
+[29:10] Diego Diehl: É interessante o Ville receber e-mails desses agendamentos ele em cópia também.
+[29:15] Caio Gomes: Sim todos.
+[29:17] Diego Diehl: Então João mais isso O Ville acho que uma coisa legal da gente pensar a gente e perguntar sempre para o Caio Caio você quer que como padrão mais gente seja informado sobre esses agendamentos. Por exemplo Caio você quer receber e-mails de agendamento ou não?
+[29:33] Caio Gomes: Sim, sim.
+[29:33] Johnny Fernandes: É possível você pegar o e-mail? Eu lembro que a diretoria também recebe da confirmação, né? Se você puder mandar o e-mail.
+[29:39] Caio Gomes: Proposta é proposta.
+[29:41] Diego Diehl: André é proposta lá para frente então ó para visita só para amadurecer o vidro tem que estar no e-mail como autorizado para entrar na obra e ele acompanhar esses e-mails também porque ele é o dono do produto. Ele tá interessado nas visitas que estão rolando é isso.
+[29:57] Caio Gomes: Tem que copiar todos da hierarquia, né? Então se o Datena Elisa são os cinco gerentes aqui com exceção do Barbosa. O Leandro tem que estar copiado. Se é o Barbosa ou a Daniela, né que a outra gerente Nossa o Rodrigo tem que estar copiado. a Daniela não vai entrar porque ela
+[30:14] Diego Diehl: Mais uma evolução.
+[30:16] Caio Gomes: é interior.
+[30:19] Diego Diehl: Tá fechou, entendeu isso João e vi Johnny tem hierarquia que é gerentes um superintendente em cada liderança desse gerentes, o Caio em cima e o vídeo lateral. O Ville é tudo. O Caio é tudo aí, o Leandro e os Rodrigo é só da hierarquia. Daí a gente vai ter que ver como organizar isso e talvez para esse momento agora a gente já está tudo aí, depois a gente ajusta também, deixa anotadinho.
+[30:46] Johnny Fernandes: Dessa forma que eu fiz o pessoal o corretor aqui o gerente vai enviar o e-mail. e-mail. Por departamento interno com todos esses dados aqui. Ok quando o departamento interno responde o e-mail o gerente ele é informado ó, o seu e-mail foi respondido favor verificar urgente. O Retorno lá para essa pessoa é aprovado ou não só autorizado não aquela visita naquele dia.
+[31:14] Caio Gomes: 100% é autorizada. Tá mas ok vamos lá a gente a gente
+[31:17] Johnny Fernandes: Tá bom.
+[31:19] Caio Gomes: só formaliza com eles. Que vamos visitar não sei quando a gente pede alguma coisa de exceção ao cliente quer entrar na obra num domingo às 6 horas da tarde. Daí. Pode ser que dê uma recusa. Mas no geral a gente já sabe e daí quando é extrema exceção assim a nossa comunicação.
+[31:40] Caio Gomes: Daí a gente formaliza apenas para engenharia ter ciência, mas até o Ok vem via telefone ela deu não deu enfim a gente sabe. como proceder
+[31:50] Johnny Fernandes: Eu vou explicar aqui o processo a gente já chega nesse ponto aí. Tá bom? Então aqui ó. Ficou só obrigatório o RG. E o cresci na maioria dos casos ela vem preenchido porque já tem mas ele não é obrigatório, ele é desejável. Tá bom então, vou colocar o RG aqui.
+[32:08] Johnny Fernandes: E aí Aqui tem dois pontos que cria alinhar com você tá aí com os demais também. Aqui nós estamos pedindo o gerente do corretor e o RG do gerente do corretor. Para tomar automático o que que eu pensei né? O gerente aqui não seria para Cláudia que é responsável nesse caso.
+[32:31] Caio Gomes: Mas eu acho que como você colocou aí, pode ser que você tá pensando que talvez o corretor vai acompanhando do gerente da imobiliária dele. Então seria um corretor 2 pode até
+[32:44] Johnny Fernandes: Eu não confundi, né?
+[32:44] Caio Gomes: mudar a nomenclatura para corretor 2 RG do corretor 2 e daí corretor 3 RG do corretor 3.
+[32:53] Johnny Fernandes: beleza
+[32:53] Diego Diehl: É Johnny. A nomenclatura para a gente também, tá alinhado a gente é? O gerente de parcerias do corretor Esse é Cláudio Datena e tal A gerente de parcerias da Incorporadora que atende o corretor o corretor ele tem o seu gerente na Imobiliário. Também por isso que ficou ambígua.
+[33:11] Johnny Fernandes: O que nós podemos fazer aqui ou colocar gerente do corretor imobiliário na frente vai ficar bem claro. Ou eu coloco o corretor 2. Que que você acha melhor? corretor 2
+[33:28] Diego Diehl: corretor 2
+[33:28] Caio Gomes: corretor 2
+[33:30] Johnny Fernandes: Tá tchau. Pode ser três.
+[33:40] Diego Diehl: para não ficar muito grande o formulário não faz sentido a gente por como um dado dos demais que
+[33:49] Caio Gomes: observação ali que pode preencher qualquer coisa.
+[33:52] Diego Diehl: É bota como de cima ali é exatamente Johnny Johnny. Dá um dois contra o mais aí só para também dá para enxergar um pouquinho melhor. obrigado
+[34:07] Johnny Fernandes: vou colocar aqui mais corretores da imobiliária, porque aí você pode colocar o gerente lá, pode pôr o terceiro não fica travado, tudo bem.
+[34:18] Diego Diehl: os demais corretores só
+[34:20] Johnny Fernandes: Só tem mais corretores, eu vou
+[34:21] Diego Diehl: Não sei se vai ser da imobiliário que foi.
+[34:24] Johnny Fernandes: agora isso aqui tá? Aí eu vou precisar fazer um pequeno ajuste no modelo de e-mail se dá tempo de fazer agora eu passo na sequência da reunião. Tá bom? Mas já?
+[34:33] Diego Diehl: Eu até eu tô preocupado com horário tá de olho. Se você quiser que eu Anote te mande esse aí faz mas o outro vamos com medo não dá tempo.
+[34:42] Johnny Fernandes: Tá então a nota esse ponto aqui essa que faz isso aqui rapidinho então, espera aí. Você quer dois minutos também? Perfeito, já fiz aqui já tá pronto. top 5 aqui Eu posso colocar aqui os nomes os dados dos demais do gerente dele lá e o que for necessário, tá bom? Beleza então não é obrigatório porque pode ser que não tenha tá então.
+[36:09] Caio Gomes: Exato 90% 95% não terá Mas é bom
+[36:13] Johnny Fernandes: Beleza aí, qual que é a ideia aqui,
+[36:13] Caio Gomes: Mas é bom obrigado.
+[36:15] Johnny Fernandes: cara? Preenche os dados tá eles configurou aqui um e-mail um modelo de e-mail padrão para ser enviado por departamento interno, tá? Ele já vem com assunto preenchido automaticamente visita coloca o nome do produto a data que foi agendado e o horário que foi agendado. E no modelo de e-mail ele já vai naquele modelo que você passou ali, tá? Com todos os dados já preenchidos automaticamente como mexer aqui nos campos, vou precisar assim que acabar a reunião fazer uma uma organizada aqui, tá? Mas ele vai trazer o produto.
+[36:56] Johnny Fernandes: A data o horário o corretor. E aí eu já coloquei do lado o número da imobiliário caso estava vinculado lá tiver só ouvido só o corretor ele vem só o corretor se tiver Imobiliária vinculada, ele traz o nome da imobiliária na frente também.
+[37:11] Caio Gomes: É só uma dúvida porque assim aí eu vi que a gente pegou um corretor que é responsável Cláudio, né? Mas os gerentes aqui com a gente já sabe mas é carteira aberta. Então por mais que o responsável seja Cláudia, mas ele tá interagindo bastante com o Datena é o Datena que vai solicitar esse e-mail.
+[37:33] Diego Diehl: Você pode mudar lá?
+[37:36] Caio Gomes: Como que vai ficar essa essa
+[37:38] Johnny Fernandes: tranquilo
+[37:40] Caio Gomes: assinatura?
+[37:40] Diego Diehl: só vem para
+[37:42] Johnny Fernandes: Ó aqui é o seguinte, ó dois pontos quando eu vou simular aqui novamente ó, vou criar zero aqui, tá? Quando estiver a criar ele vai trazer automático responsável. Aqui de acordo com corretor Imobiliário. Vou pegar dois peitos de novo, ó, vai trazer a Claudia. vai trazer a Cláudia. Mas eu sou Datena, eu que tô fazendo aqui.
+[38:07] Johnny Fernandes: Então eu coloco.
+[38:08] Caio Gomes: Todos vão ter acessos de quem todos vão ter acesso ao responsável hoje que tá na parte deles.
+[38:17] Johnny Fernandes: se a gente não segmentou porque
+[38:18] Diego Diehl: quando
+[38:19] Johnny Fernandes: você falou para ti aberto, né?
+[38:21] Caio Gomes: É mas acho que pode me gerar um ruído aqui se desse para ocultar esse responsável.
+[38:27] Diego Diehl: Ah entendi não vir preenchido Johnny selecionou Imobiliária, não vem alto preenchido.
+[38:33] Caio Gomes: exato exato
+[38:35] Diego Diehl: Entendeu?
+[38:35] Johnny Fernandes: Entendi, entendi.
+[38:36] Caio Gomes: Porque será ele vai falar pô, pode tirar o qualquer gerentena há muito tempo. Como é que é o responsável dele, tá como ele? Desculpa É principalmente o Agnaldo que tá aqui ele vai falar assim, pô, já fala que esse corretor era oito anos, como é que ele tá falando com Elenice agora? Como que é responsável no início? Quem mudou para Elenice? Então pode me gerar desnecessário, acho que eles não terem acesso ao responsável efetivo, enfim, porque assim o responsável só nomenclatura.
+[39:21] Caio Gomes: Exato, deixa como obrigatório quem tá preenchendo, ele tá preenchendo. O Datena que tá preenchendo ele coloca lá, você pode colocar aqui gerente da da visita ao invés de responsabilidade. assinatura do e-mail, vai que
+[39:40] Johnny Fernandes: o seguinte então como você sempre o criador não vou por obrigatório quando ele salvar eu peço que tá criando automaticamente.
+[39:49] Caio Gomes: Ok porque vai acontecer inclusive
+[39:49] Johnny Fernandes: Beleza então perfeito, eu vou fazer Beleza e ele pode trocar lá, se ele quiser tá? Então eu tava aqui com exemplo.
+[39:56] Caio Gomes: porque às vezes o pessoal tá na rua fala Caio eu tô chegando no empreendimento x pelo amor de Deus, manda a atualização de visita, eu vou preencher com os dados dele, entendeu? Eu Leandro quem tiver no escritório pode agendar uma visita para um colega, entendeu?
+[40:11] Johnny Fernandes: Automação vou pedir para o João anotar para mim fazendo a sequência João. E aí ó, agora ele vai vir automático? Não vou perder tempo com isso. Depois eu edito aqui. Coloca aqui só por favor para deixar isso aqui em branco novo peixe do automático, tá bom?
+[40:47] João Vitor Portes da Silva: beleza
+[40:50] Johnny Fernandes: E aí Caio mesmo já tendo preenchido? Aqui dentro. A gente pode ó, tá Cláudia, eu posso vir aqui trocar a qualquer momento? Entendeu?
+[41:08] Caio Gomes: Entendeu?
+[41:08] Johnny Fernandes: Eu posso quase necessário, mas já vai ter essa lógica aí de vinho branco, pega quem tá criando mesmo. Colocando aqui você pode alterar, tá bom? Beleza então Seguindo aqui alterar o modelo tiver automático uma dúvida que eu vi agora aqui tá? Esse modelo eu peguei do seu print lá que você mandou do WhatsApp.
+[41:30] Johnny Fernandes: O crescimento ele não precisa estar aqui no modelo de e-mail é só RG mesmo.
+[41:38] Caio Gomes: porque o RG ou é cresce.
+[41:42] Johnny Fernandes: Tá então eu vou deixar os dois, né?
+[41:44] Caio Gomes: Pode ser, pode ser.
+[41:46] Johnny Fernandes: Que no modelo que eu tinha pegado de meio-dia. Vou colocar o cresci aqui tá aí do gerente para não ter que ficar preenchendo. Eu coloquei eles colocou o campo no cadastro do gerente mesmo um campo RG cada vez pode possui o RG que já é automático. Tá bom você troca um
+[42:04] Diego Diehl: Beleza, é isso daí a gente toca João a gente dá uma cobradinha de cada gerente. Mostra onde é que faz para cada um preencher.
+[42:15] Johnny Fernandes: Qualquer dúvida é bem tranquilo, só clicar aqui no nome e tal nome perfil a pessoa pode pôr sua própria foto e pode postar o RG. E o senhor cresci também, né? O gerente. Pode pôr o senhor crescer aqui também, beleza?
+[42:29] Diego Diehl: O Johnny com conta de mim a gente consegue alterar.
+[42:33] Johnny Fernandes: Ouvir que alguém colocou uma
+[42:33] Diego Diehl: É mas eu acho que eu prefiro que eles altere tá junto eles terem contato com a ferramenta entre na ferramenta altere seu cadastro, tá?
+[42:43] Johnny Fernandes: já ficou legal, né? Então eles podem pôr a foto deles também da ferramenta nome completo deles, tá bom? Beleza perfeito aí, qualquer ideia aqui quem enviar e-mail. O modelo de veja tá pronto dá para configurar assinatura de e-mail de cada um dos gerentes também no perfil deles, tá? Tudo bonitinho tudo preenchido.
+[43:10] Johnny Fernandes: E aí aqui a gente vai deixar um e-mail cadastrado que é o do setor interno que é não lembro agora. meio do setor interno.
+[43:23] João Vitor Portes da Silva: proposta@setinha
+[43:33] Diego Diehl: Pera aí, esse não é para proposta está falando de visita. Então é o mesmo.
+[43:40] Caio Gomes: É visita mesmo visitas vai para a proposta roupa cetim.com.br. mesmo?
+[43:45] Diego Diehl: uma dúvida Johnny esse quando você seleciona o assunto não deveria vir
+[43:48] Johnny Fernandes: Então, tô mandando aqui para eles, tá? E aí?
+[43:59] Diego Diehl: o destinatário preenchido já ou não vem?
+[44:02] Johnny Fernandes: Ele não vem preenchido não, vem.
+[44:04] Diego Diehl: Ah tá, beleza.
+[44:04] Johnny Fernandes: vem tudo pronto modelinho tudo pronto o assunto vai pronto.
+[44:07] Diego Diehl: tá, eles tem que
+[44:09] Johnny Fernandes: só se a senhora deixa de
+[44:11] Diego Diehl: Fechou fechou para saber para
+[44:12] Johnny Fernandes: Tá bom aí? bom?
+[44:13] Diego Diehl: treinar.
+[44:16] Caio Gomes: Depois tem um relatório daí de visitas do dia alguma coisa assim que já tá bom.
+[44:27] Johnny Fernandes: Beleza, tranquilo. Aí aqui só para alinhar aqui está fazendo o agendamento, tá? Tá caindo no agendamento aqui, a gente vai fazer agendamento.
+[44:39] Caio Gomes: A previsão de visitas do final de semana toda sexta-feira às 6 horas da tarde, eu quero saber quantas vidas tem agendada para o final de semana, eu já tenho esse número né? Mas hoje de uma forma manual perguntando um a um então por aí
+[44:54] Johnny Fernandes: legal
+[44:55] Caio Gomes: eu consigo ver tudo ó, eu tenho
+[44:56] Johnny Fernandes: Muito bom não aqui dá para fazer
+[44:57] Caio Gomes: três me envia até duas lojas. quatro.
+[45:02] Johnny Fernandes: automático. Esse controle aí tá bom aí aqui ó. Eu tô no processo de venda ali, né do corretor, sou gerente e o teu etapa de visita, depois a gente vai criar um registro de interação automático de visita mesmo, você tem o relatório das visitas efetuadas? Então aqui eu coloco o e-mail da proposta, tá? Não vou mandar para eles agora para não receber isso já vai meditar.
+[45:27] Johnny Fernandes: Vou mandar aqui para mim mesmo. enviar Aí a pergunta que eu quero fazer. pandei.
+[45:52] Caio Gomes: Ali nos dados dos gerentes que apareceu nesse e-mail não tá os dados efetivos do gerente seu caráter precisa deixar automático aí Datena, é que o nome dele é a gente coloca Datena. Traço José Eduardo erival que é o nome dele. E o Creci dele O Agnaldo automático também Barbosa automaticamente porque se ele chegar lá só dá pena da conexão científica pode Lógico que deixa né? Mas se for um porteiro novo não vai não vai autorizar porque não tem os dados do direito.
+[46:23] Caio Gomes: Acho que os dados do gerentes tem que estar pronto já para nessa importação que você fez aqui, né? Já apareceu os dados dos gerentes, entendeu? Ficou claro, né.
+[46:38] Johnny Fernandes: ficou Eu vou vou trabalhar em cima disso, tá essa regrinha aí de trazer o nome completo, porque aqui eu peguei o nome do cadastro. Nós colocou só o primeiro nome por causa do WhatsApp. Vai ficar legal lá. Quando abordagem no bote a borda
+[46:54] Caio Gomes: é só que além do nome é o único
+[46:55] Johnny Fernandes: ficar chamando o sobrenome, entendeu?
+[47:01] Caio Gomes: que tem apelido é mas precisa colocar o nome de todos completo, né ou o nome sobrenome e o cresci ou o
+[47:06] Johnny Fernandes: Eu cresci.
+[47:09] Caio Gomes: RG.
+[47:10] Lucas Vicente: Johnny confirma no cadastro do usuário para mim, se não tem um campo lá chamado o nome completo. Que eu tinha criado com o João se eu não me engano.
+[47:21] João Vitor Portes da Silva: Já foi criado já foi criado esses campos tá caiu então o nome completo é o nome, né? Que seria só aquele apelido e o
+[47:29] Lucas Vicente: E o RG?
+[47:29] João Vitor Portes da Silva: Creci RG então.
+[47:31] Johnny Fernandes: já
+[47:32] Lucas Vicente: isso
+[47:32] João Vitor Portes da Silva: O gerente atualizando esses dados ele já conseguiria trazer ali preenchido.
+[47:37] Johnny Fernandes: fazer essa regra. De trazer aqui que é fazer uma configuração específica em cima disso aqui, tá?
+[47:46] Diego Diehl: Show então só para ver se entendi tudo sempre que for falar gerente, talvez participe tem que ter nome nome completo apelido nome completo e RG e aí cheque o modelo de e-mail. Tati.
+[47:59] Caio Gomes: Cresce gente usa mais cresce para os gerentes aqui, mas pode ser o RG também não tem problema. Isso ótimo.
+[48:05] Johnny Fernandes: os dois O que tiver vai aparecer. Então aqui qualquer ideia Diego como a gente coloca aqui esses nomes. A ideia é que ele vai lá no cadastro usuário e busca que o nome completo dele o RG dele
+[48:21] Diego Diehl: Isso entendi.
+[48:22] Johnny Fernandes: E ele veio aqui poderia tá bom?
+[48:24] Diego Diehl: Só faltou embaixo, né, Johnny? Faz uma gentileza, envia esse e-mail já. Para o Caio e talvez para Cátia porque depois Eles olham vai que Surge mais uma coisa.
+[48:39] Johnny Fernandes: É Caio.
+[48:46] Caio Gomes: Isso cetim cetim.com.br da Kátia Cátia. Não é com c o k.
+[49:04] Diego Diehl: Aí gente, vocês puderem dar só uma olhadinha mais um cheque. Se quiser mudar a água interaja pode responder ele para mim para a gente que a gente já faz essa alteração se for necessário.
+[49:14] Johnny Fernandes: É a ideia Nossa que Caio é que você começa a usar amanhã deve ser hoje. Se tivesse nenhuma ajuste. Seria hoje mesmo, como vai ter esses ajustes. A ideia é usar amanhã, tá bom? Deixa eu só procurar aqui que eu perdi vocês aqui. Ó, eu ia mostrar aqui também eu recebendo né, mas você recebeu também então.
+[49:43] Johnny Fernandes: beleza
+[49:44] Diego Diehl: Eu pedi para ajustar eu não sei quem O Lucas está mexendo nesse meio hein Lucas. Quem que tá mexendo nesse meio?
+[49:50] Johnny Fernandes: Eu refiz ele hoje, eu refiz.
+[49:52] Diego Diehl: Tá só no título ali também. Dá um espacinho entre o horário e o asa ali que faltou.
+[49:59] Johnny Fernandes: beleza aí
+[50:06] Caio Gomes: é porque Imobiliária ou é porque? Às vezes o corretor vai estar com cadastro desatualizado e nem sempre Mas pode colocar atrás da imobiliária corretor traço imobiliário porque é bom que a gente encontra também pelas imobiliárias, tudo bem? Isso é um passo dois, mas se colocar um tracinho aí só para separar.
+[50:36] Johnny Fernandes: tá Beleza se ela tem jogo, por favor. beleza? Boa deixa eu só fazer um negócio aqui. beleza Vou simular aqui ó, um ok autorizado, tá? Já o departamento interno respondendo o corretor tá bom o gerente. Departamento Terra respondeu ok está autorizado aí aqui que é legal aqui cara fazer assim.
+[51:52] Johnny Fernandes: Ó, você como um gestor você vai conseguir verificar que horas que dia que hora que foi solicitado esse e-mail para o departamento interno vai ficar registrado no histórico aqui, tá bom? Você pode vir aqui você pode
+[52:04] Caio Gomes: legal
+[52:05] Johnny Fernandes: visualizar. Você visualiza aqui. Tá bom, tudo bonitinho. E aí você já atualizou aqui? beleza Ele já criou aqui para mim, eu odeio ok lá no e-mail, né? Respondendo dando ok, ele já cria para mim. Para o gerente responsável um aviso de que o retorno Foi recebido. Tá E ele avisa no aplicativo do celular dele e já cai na agenda porque para ele já vir no clube.
+[52:46] Johnny Fernandes: OK? Recebi beleza. Fui notificado. Qual que é a ideia? Quando ele receber esse aviso aqui ele venha e forma aqui, ó. confirmado. Ele vem falar que sim, agendamento confirmado que que vai acontecer aqui agora nesse caso cai duas coisas vai acontecer quando ele confirma primeiro. O próprio sistema já vai criar uma agenda para ele no calendário dele.
+[53:14] Johnny Fernandes: tá Falando nesse dia específico com os dados todos da reunião, tá bom? É que como tá no caso da Cláudia, ele foi pra Claro. Acho que coloquei dos outros Da semana que vem que eu coloquei, né? Enfim, vamos dar um exemplo aqui só para mostrar o que que eu faço então quando ele coloca confirmar cai.
+[53:59] Johnny Fernandes: O próprio sistema já cria uma tarefa. Com aquele corretor com aquela Imobiliária para Aquele gerente naquele dia com o título bonitinho, tá? Isso já vai para agenda dele automaticamente para ele saber que tem que fazer aquela visita. Ou seja a criação de tarefas de visita é feito pelo próprio sistema automaticamente para o gerente, tá bom? Essa é a primeira coisa que acontece segunda coisa que acontece quando ele coloca que a confirmação foi confirmada.
+[54:34] Johnny Fernandes: É enviado um e-mail automaticamente para o departamento interno, você pediu que fosse né? Eu só não sei para que que é esse meio você falou que a diretoria né? pretendente.
+[54:45] Caio Gomes: É porque assim o e-mail proposta vai para todo o setor do comercial, então, às vezes tem um gerente comercial responsável por aquele empreendimento, mas sei lá, ele tá de folga alguma coisa todos recebem para responder por ele, então todos podem responder esse e-mail de proposta. Entendeu não?
+[55:03] Johnny Fernandes: Não, mas aqui nesse caso é da visita não é da proposta ainda.
+[55:06] Caio Gomes: Eu sei mas é aquele meio proposta@cetim é de visita.
+[55:11] Johnny Fernandes: Então mas assim entendi quando ele manda.
+[55:16] Diego Diehl: Explicar Johnny deixa eu pegar adicionar um ponto só o primeiro ponto eu Pelo que eu entendi o e-mail que a gente envia para propostas que é para confirmar a visita. Não é muito uma autorização em si é mais um informativo certo, cara. O teu time espera receber o e-mail.
+[55:34] Diego Diehl: Tava somando aí sucesso.
+[55:37] Caio Gomes: A gente manda um e-mail e basicamente sucesso basicamente isso, mas tem alguns empregos por exemplo em obras que a gente espera confirmação hiperinheiros abaut e daí a gente a
+[55:50] Diego Diehl: Ah então beleza Tá então.
+[55:53] Caio Gomes: gente já fala coisa OK? Agendado e tal a gente não espera essa confirmação. Mas é bom a gente ter esse e-mail confirmado recebido.
+[56:02] Johnny Fernandes: Ele fica salvo aqui ó a resposta do
+[56:04] Caio Gomes: Sim, excelente É isso aí, porque?
+[56:07] Johnny Fernandes: retorno.
+[56:10] Diego Diehl: Beleza pode
+[56:11] Caio Gomes: isso é para você entender a gente manda para proposta que vai para o pessoal do comercial. O comercial ele vai mandar um e-mail ele não é ele que autoriza ele pega esse e-mail encaminha para cortar e ela da obra ou da do prédio ele copiando todos nós então. histórico também ele vai mandar para todos.
+[56:32] Caio Gomes: A portaria que vai responder a todos. visita autorizada, entendeu?
+[56:40] Johnny Fernandes: Beleza, aí, ele vai o comercial vai responder aqui com o gerente. Né, provavelmente. E aí o cara ele veio aqui e confirma a visita o agendamento. Quando ele confirma julgamento, então o pai não vai para ninguém mais não é necessário mandar e-mail automático, né?
+[57:01] Caio Gomes: É bom é bom é bom visitar Lógico
+[57:02] Johnny Fernandes: É bom.
+[57:04] Caio Gomes: é bom tudo que tiver.
+[57:05] Johnny Fernandes: Beleza, porque aqui são duas coisas três coisas acontecem aqui de forma automática, na verdade, cara. Primeiro é criado a tarefa de agendamento para o corretor para o gerente.
+[57:17] Caio Gomes: ok
+[57:18] Johnny Fernandes: Segundo vai ser envelhecimento automático. Só precisava saber novamente para a proposta. É para outra pessoa.
+[57:28] Caio Gomes: O gerente manda para o propósito.
+[57:31] Johnny Fernandes: ok
+[57:31] Caio Gomes: O propósito responde a todos copiando a portaria. a portaria da Ok para todos a partir
+[57:40] Johnny Fernandes: perfeito
+[57:40] Caio Gomes: do ok da portaria é que efetivamente está autorizada visita nessa obra, mas quando a gente nunca teve problema a gente manda mais já sei lá de 100% dos e-mails. Sei lá eu acredito que 50% tem uma resposta efetiva da portaria. O restante é uma mera formalização ó, eu solicito visita e a proposta mandar autorização é só comunicando.
+[58:11] Caio Gomes: só comunicando ó. visita Entendeu? Autorizada e eu tenho um problema lá na frente. na frente. Eu tenho que mostrar ou do engenheiro da obra.
+[58:37] Johnny Fernandes: Tá bom perfeito. Então aconteceu isso vou mandar um e-mail aqui novamente quando é Confirmado aqui e a gente vai disparar um WhatsApp para o corretor também confirmando a visita para ele. Nesse momento aqui, tá bom?
+[58:53] Caio Gomes: ok
+[58:55] Johnny Fernandes: então quando ele recebe lá o e-mail tá autorizado, ele vem aqui informa que foi confirmado o agendamento quando ele confirmar que vai disparar um e-mail novamente confirmação vai agendar a tarefa no calendário dele para aquele dia especificamente e vai ser reparado um WhatsApp pelo bote para o corretor
+[59:16] Caio Gomes: Eu não gostaria de burocratizar respondeu não dá para automaticamente colocar com visita agendada aí. Sem ser ele precisa alterar manualmente.
+[59:28] Johnny Fernandes: Olha é esse ponto a gente tava conversando sobre isso, né que acontece o sistema ele não consegue ler. O que tá dentro do e-mail para saber se foi atualizado ou não eu consigo saber que foi recebido o e-mail? Entendeu?
+[59:46] Caio Gomes: Então então, acho que não precisa
+[59:47] Johnny Fernandes: Como esse?
+[59:48] Caio Gomes: deixar essa esse campo agendamento. Foi confirmado sim ou não e sim tipo mandou o e-mail vai virar a resposta, né? Ele consegue ler a resposta e daí depois já podemos pular para o campo feedback da visita. Porque se foi recusado é o que eu falei pouquíssimos casos eu os caras vão ligar e falar não pode não vai dar tá errado, entendeu?
+[60:13] Johnny Fernandes: Ah entendi
+[60:14] Caio Gomes: O restante 99,9% das visitas são autorizadas.
+[60:20] Johnny Fernandes: tá
+[60:21] Diego Diehl: É um ponto de One, eu acho que reduz o processo de uma forma interessante nesse nessa região final que ele entrou aí uma vez preencheu os campos e enviou o e-mail e acabou a receber uma notificação olhou o e-mail dele e tal foi para visita. Quando ele foi para visita daí ele vai voltar e dar o feedback da visita.
+[60:44] Diego Diehl: Mas não precisava voltar só para mexer no campo de visita confirmada porque Eu acho que é isso que o cara quis dizer não precisa a gente vai fazer o cara entrar mais uma vez na ferramenta só para mexer no campo, né?
+[60:57] Johnny Fernandes: E vai ser necessário mandar esse WhatsApp para o corretor. Ou não Porque para mim mandar WhatsApp.
+[61:05] Diego Diehl: Ah esse é o ponto. Esse é o ponto, né, Johnny Caio para você entender é se ele entrar aqui e dizer que é o agendamento. Foi confirmado algo assim, a gente consegue enviar um WhatsApp ou Johnny uma sugestão já misturando eu caio pode validar. O cara pode enviar o e-mail aqui e na hora já colocar confirmado enviar para enviar WhatsApp, não precisa ser depois pode ser já desde o começo que daí o corretor sabe ó, já solicitei e avisei a obra da nossa visita até para dar mais peso na visita ali.
+[61:40] Diego Diehl: Ó, já avisei Incorporadora tá tudo certo, viu? Vamos aí, que que você acha?
+[61:46] Johnny Fernandes: Então beleza
+[61:46] Diego Diehl: Tem algum problema no sistema se a gente entrar preencher enviar o e-mail e nesse mesmo momento já dizer que foi confirmado?
+[61:55] Johnny Fernandes: Não não.
+[61:56] Diego Diehl: Então pegou né? Caio? Enviou e-mail deu cheque.
+[61:59] Caio Gomes: do e-mail
+[62:01] Diego Diehl: A gente já vai. já vai sair um WhatsApp automático do gerente para facilitar a
+[62:09] Johnny Fernandes: Beleza comportamento aqui para não ser manual.
+[62:15] Caio Gomes: muito mais daí a mensagem que vamos enviar para o corretor, depois você discutir uma próxima Renovo. O Diego aqui é isso, né?
+[62:22] Diego Diehl: Isso.
+[62:22] Johnny Fernandes: porque só assim visita confirmada
+[62:23] Diego Diehl: Cadê a mensagem.
+[62:26] Johnny Fernandes: gente pode melhorar essa mensagem aí, tá bom?
+[62:32] Diego Diehl: Eu preciso só eu preciso só saber Johnny. Quais são as variáveis que eu posso usar?
+[62:38] Johnny Fernandes: É a princípio são os dados do próprio corretor ali.
+[62:43] Caio Gomes: Acho que você pode colocar visita
+[62:43] Johnny Fernandes: mas
+[62:45] Caio Gomes: agendado em empreendimento x está o horário.
+[62:49] Johnny Fernandes: O trabalho em cima disso eu grave força acionar Diego eu levo o empreendimento e levo o horário e o dia.
+[62:59] Diego Diehl: Isso mas me diz que variável que eu posso ter todos esses campos da esquerda, se eu posso usar na mensagem ou não.
+[63:04] Johnny Fernandes: Pode pode pode.
+[63:06] Diego Diehl: Posso então daí monta uma primeira
+[63:06] Johnny Fernandes: pode
+[63:08] Diego Diehl: depois amadureça que o Caio porque pode ser uma mensagemzinha legalzinha para o corretor olhar com o que robusto sabe que empresa organizada. Acho que é legal esse momento Caio para a gente mostrar como vocês da empresa sistemática.
+[63:23] Johnny Fernandes: Levar tudo tá? Pode fazer isso. Beleza então, eu vou criar essa vontade padrão com o máximo de dados possíveis aqui conforme o cara teve um exemplo aí. E no processo aqui de visita. Realizada é onde ele coloca o feedback da visita tá? Deixa eu só Ah tá, o nome imobiliário aqui não precisa ter de manual já vai estar preenchido.
+[63:53] Johnny Fernandes: Esse aqui eu vou.
+[63:54] Caio Gomes: autônomo
+[63:57] Johnny Fernandes: Sim sim, ele vai automático. Aí o bairro que você comentou, né? O bairro de residência atual do cliente. Ó, ele tá inclusive olhando para o Maps aqui, depois você pode ter um
+[64:19] Caio Gomes: show
+[64:20] Johnny Fernandes: relatório disso geograficamente. tá? E aí aqui eu sugiro até ficar obrigatório esse campo aqui que vai dar o feedback da visita.
+[64:28] Caio Gomes: É obrigatório.
+[64:30] Johnny Fernandes: Ou seja, ele pode falar, entendeu?
+[64:31] Caio Gomes: ok
+[64:32] Johnny Fernandes: Fiz a visita no predimento junto com o corretor do cliente. O cliente está muito interessado vai conversar com a esposa e nos retornar. Então isso aqui pelo aplicativo é a mesma coisa ele abre lá prende fala o feedback. E aí, colocou os dados do feedback da visita?
+[64:57] Caio Gomes: Tá excelente.
+[64:58] Johnny Fernandes: Colocou visita, ele entraria para a etapa de propósito, tá bom? E aí automaticamente.
+[65:07] Diego Diehl: Johnny pode terminar bom deixa eu só falar uma coisa ali na parte do feedback da visita. Dá para a gente por um campo com mais informações porque caiu uma sugestão que eu daria ali no feedback da visita por um parente assim, ó. Nos digo que o cliente achou que ele gostou que ele não gostou que a objeção você acha se ele tá quente ou frio.
+[65:29] Caio Gomes: Eu só queria colocar um campo ali também que eu usava na outra Incorporadora que eu não coloco que é três selecionar três status dessa visita frio, morno quente. E daí, depois a gente fazer um filtro dos daí, depois a gente se lembra mas os mornos concretizou a compra. Acho que só colocar mais um campo ali daí com essas três opções já para ele legal se é frio morno quente.
+[66:04] Johnny Fernandes: Além disso
+[66:06] Caio Gomes: Que você falou digo pode repetir, por favor.
+[66:08] Diego Diehl: Eu falei eu falei que assim ó, pensa que escrever feedback da visita não vai encher de coisas na cabeça do teu time. Mas se a gente escreve feedback da visita daí bota entre parentes. O que o cliente gostou que ele não gostou se tem algum elemento de vapore conexão que foi dito naquele momento é cara vários itens que você acha que faz sentido para o teu time.
+[66:32] Diego Diehl: Porque pensa que mistura um monte de visita quando ele olhar esse cliente de novo lembrar Ô lembra que esse cliente viajou para Europa que ele curte cachorro sabe esses elementos bem de vendas, eu acho que é legal ter uma sugestões ali, mas daí é mais na tua gestão. Que que você acha que a galera responderia como feedback?
+[66:51] Caio Gomes: OK, tá bom, mas você quer que eu fale já é isso, coloca algumas coisas.
+[66:54] Diego Diehl: Não eu discuto contigo lista e eu só peço para o Johnny ajustar o campo. Ou até eu sei pegar e mudar o campo
+[67:02] Johnny Fernandes: Beleza então, por enquanto vai
+[67:02] Diego Diehl: ali.
+[67:04] Johnny Fernandes: colocar a temperatura quente morno frio e a gente pode customizar mais esses outros Campos. Bom o nosso a nossa pauta especificamente era validar com essas automações com todo esse esse. automações com todo esse esse. Essas regras de negócios que a gente fez aqui, né? E o próximo passo aqui, cara.
+[67:24] Johnny Fernandes: É seguir aqui o funil de vendas mesmo, né acompanhar ali o corretor junto ao cliente para ter essa venda aconteça tá então Teoricamente aqui a gente fez você realizou nós fica posicionado aqui no interesse confirmado caso tenha um interesse confirmado nesse cliente e aqui vai ficar alguns dias semana.
+[67:51] Johnny Fernandes: Meses dependendo do time do cliente tá bom Claro aqui cai nessa e Kátia também, né? O intuito é elevar para a etapa de geração de proposta. Tá. Inclusive, a gente já tem o modelinho de propostas aqui no sistema tá uma simplificada em uma mais completa. Onde você pode ser só um documento interno tá ou você pode usar se você gera alguma proposta para o corretor para imobiliária?
+[68:24] Caio Gomes: Sim a gente tem um tem uma proposta em
+[68:28] Johnny Fernandes: E Word.
+[68:30] Caio Gomes: Não é nem hoje é Excel e tem uma outra que é em PDF editável que daí a gente manda para o corretor preenchê-la e o legal que aqui na
+[68:37] Johnny Fernandes: então isso aí
+[68:39] Caio Gomes: setinha que não é obrigatório assinar então o cliente. Colocou lá os dados já pode devolver essa.
+[68:49] Johnny Fernandes: Legal, então o bom desse recurso. aqui Claro.
+[68:51] Diego Diehl: Fazer uma pergunta, deixa eu fazer uma pergunta nisso Caio você acha que agora é o momento interessante da gente avaliar criar um documento uma proposta por dentro do sistema aqui ou quando chega a proposta vocês vão para um outro caminho cigarro. Sei lá o sistema que vocês têm.
+[69:11] Caio Gomes: Eu acho que nesse momento não assim, ó, é lógico que no futuro podemos pensar em começar a evoluir por aqui e tal, mas acho que nesse momento o que eu preciso é startar até a proposta quando chega no assunto de proposta. Acho que daí a gente não precisa não nesse momento agora e colocar internamente podemos fazer da forma como está então até a visita legal que a gente sinalizou a proposta hoje, viu? A proposta a gente pode até colocar os números manuais aí sem documento sem nada para
+[69:41] Diego Diehl: isso são
+[69:43] Caio Gomes: Eu preciso tratar essa operação o quanto antes ainda hoje. Quem? Segunda-feira enfim e para começar e depois a gente vai vai aprimorando as funcionalidade.
+[70:00] Johnny Fernandes: tá aqui só
+[70:00] Diego Diehl: Tá Johnny, pode continuar foi só para dar o tom de não ter que enviar para o cliente algo assim. Mas explica que precisa ser feito
+[70:06] Johnny Fernandes: Concordo perfeitamente.
+[70:06] Diego Diehl: para a gente ter dados.
+[70:08] Johnny Fernandes: Então essa simplificada aqui cara. É só algo interno mesmo. Só para você ter no sistema a proposta que foi gerada, mas assim eu fiz aqui em 20 segundos tá? É nova proposta produto valor e x pronto.
+[70:23] Caio Gomes: Fechou excelente.
+[70:25] Johnny Fernandes: Tá e com que os loucos de vocês aqui tanto que não tem nem informações aqui muito específicas, tá? Porque quando você gera proposta aqui em 20 segundos igual eu fiz aqui, né nesse primeiro momento, você já tem uma proposta vinculada no sistema e quando você Eu vou até para o final aqui, você aconteceu a venda quando você dá um ganho ele já abre tudo preenchido o formulário de venda para registrar a venda já veio o valor que você colocou já vê um produto já vem tudo.
+[70:53] Johnny Fernandes: E aí quando você dá um ganho nessa nesse negócio? Que ele só com uma visita. Você tem a proposta que foi gerada e você tem a venda que foi gerada e aí eu alimento relatórios aqui no sistema Caio de negócio de proposta de venda de forma automática. Tá bom depois se você quiser aprimorar essa proposta.
+[71:18] Johnny Fernandes: Para ser compartilhada por dentro do sistema você consegue mandar ela, ó? Você pode baixar o pdf você vai mandar por e-mail por aqui mesmo, tá você pode ter um modelo de e-mail aqui para envio de proposta já com os textos padronizados. usando. Aqui ó o exemplo de visita e você pode mandar pelo WhatsApp por aqui também é que o meu tá conectado.
+[71:43] Johnny Fernandes: E se você quiser assinar digitalmente você consegue mandar por aqui também, tá? Claro que fica em Passo 2, tá bom? Só queria mostrar esse.
+[71:51] Caio Gomes: É passo dois que daí acho que sim, a gente pode vir depois né? Acho que vai demorar ainda alguns meses. Enfim, a gente pode vincular com a nossa Secretaria de vendas junto com o dockside pra gente rastrear tudo por lá para aparecer no nosso
+[72:03] Johnny Fernandes: Boa e muito bom, beleza?
+[72:04] Caio Gomes: relatório. Acho que é legal passo três isso aí faço quatro sei lá, né?
+[72:10] Johnny Fernandes: Tranquilo então essa proposta
+[72:11] Caio Gomes: beleza
+[72:13] Johnny Fernandes: simplificada aqui que é 20 segundos, tá bom? Só para ter os dados no sistema do que foi gerado de proposta e o das vendas realizadas.
+[72:26] Caio Gomes: em relação a isso daí é só fazer os ajustes então feitos que a gente falou agora em reunião, o Diego continua conosco aqui, eu quero amanhã já começar a fazer alguns testes. A gente já tem visitas para amanhã para sábado para domingo para semana que vem. Quero já começar a fazer esses testes já para inclusive para reunião que eu vou ter com a nossa VP aqui mostrar para ela.
+[72:49] Caio Gomes: Já que já está operando.
+[72:51] Johnny Fernandes: Tem mais um ponto que que eu coloquei como pauta também, Diego só mais dois minutos. Deixa eu aproveitar essa cal aqui.
+[72:58] Caio Gomes: Tá bom.
+[72:58] Johnny Fernandes: Aqui em relatórios Caio já deixei configurado um relatório de gestão de base. Tá eu vi que você mandou ontem para o Diego mais alguma sugestões que o gelo me passou a gente vai.
+[73:11] Diego Diehl: Eu vou revisar ali. Eu quero agora o Caio vai conseguir meia hora comigo, a gente vai olhar com o tempo de qualidade. O que já é claro é que o mapeamento de responsável, ele é meio abstrato para carteira o que a gente quer ver principalmente são os usuários colaboradores lá da automação que com quantos corretores Cada um fala tá interagindo e tal esse é que ele se sobrepõe, ele vai ser maior do que o número total do parceiros a gente precisa contabilizar colaborador.
+[73:44] Johnny Fernandes: Eu deixei pronto por responsável e também por colaborador, tá bom?
+[73:49] Diego Diehl: Aonde que tá o colaborador?
+[73:50] Johnny Fernandes: É preciso que ele tá vazio aqui. carrego. Mas a ideia que
+[73:59] Diego Diehl: E aí tem um relatório que a gente só para já formalizar aqui que é alguma leitura sobre registros de interação ou mensagens enviadas e recebidas que a gente vai ter.
+[74:12] Johnny Fernandes: Legal, beleza aqui tem essa timeline.
+[74:15] Diego Diehl: Isso e por que só da hora e os
+[74:17] Johnny Fernandes: aqui de por dia, quantos corretores da ordem foram cadastrados aqui tá dia a dia.
+[74:27] Diego Diehl: outros?
+[74:27] Caio Gomes: Eu queria saber.
+[74:28] Johnny Fernandes: O Geraldo aqui embaixo o Geraldo aqui embaixo.
+[74:31] Caio Gomes: Quantas interações tivemos?
+[74:33] Johnny Fernandes: aqui é
+[74:34] Caio Gomes: hoje
+[74:37] Johnny Fernandes: interações
+[74:39] Diego Diehl: Olha só dia 26 foi cadastrado 1.700 corretores.
+[74:43] Johnny Fernandes: Teve algumas importações aqui, não tem jeito teve mais. Quer ver ó?
+[74:48] Diego Diehl: Deixa eu ver isso é ouvir o Vitor saiu, né? Eu acho que uma coisa mais importante Johnny que eu queria que João Johnny Vitor que o Vitor saiu agora que a gente olhasse é só validar exatamente a parte dos emojis se tá cadastrando. Tá porque não sei se já tá cadastrado e tal para a gente ficar seguro.
+[75:10] Diego Diehl: Eu dei essa tarefa para o João ali para pegar uma amostra na segunda-feira com eles a gente reforçar o demores para a gente vai lidar a carteira aí principalmente daí caiu a parte das interações. Eu tô desenvolvendo com o Johnny tá? A gente desenhou esse relatório já né, Johnny? Daí a gente amadurece para enxergar registros de interação por gerente.
+[75:31] Diego Diehl: Que é conversas?
+[75:35] Johnny Fernandes: Mas hoje por exemplo, eu tô vendo aqui ó hoje dia 5 foram cadastrar 15 novos corretores do sistema. Tá então esse daqui que foi feito pelo Barbosa. Fiquei aqui na latani e vou clicar
+[75:50] Diego Diehl: Clica nesse aí por sinal.
+[75:55] Johnny Fernandes: aqui também. Só para confirmar que se ele veio ver hoje ou se ele veio de outra.
+[76:06] Diego Diehl: Não tem outra forma, né?
+[76:06] Johnny Fernandes: Entrada, né?
+[76:08] Diego Diehl: Não tem outra.
+[76:08] Johnny Fernandes: Ó aqui ó. Foi a interação passado criou esse daqui. Ele não tem aqui o nome porque esse cara não deve ter respondido ainda o Barbosa.
+[76:21] Diego Diehl: Tá. E aí, não vem o Primeiro Registro também, né? A gente tava em dúvida disso, mas a mensagem do registro não vai.
+[76:32] Caio Gomes: Mensagem eu não entendi que mensagem digo.
+[76:34] Diego Diehl: Tipo provavelmente se a mensagem com os emojis Que serviu para cadastro ela não tá registrado aqui só as próximas, vê se track tá ligado e só para ver se hoje já para validade.
+[76:48] Johnny Fernandes: tá
+[76:50] Diego Diehl: Então gente, é isso evoluímos agora.
+[76:58] Caio Gomes: passo a passo
+[77:05] Diego Diehl: Tá. Deixa eu aproveitar para fazer um fichamento só Caio aqui contigo sei que a reunião foi longa, mas Acho que para todo mundo alinhado aqui. A ideia em setembro acelerar bastante focado muito na setinha, falei para o João quinta e sexta foco organizar tudo ele está E aí passar mais esse Portes mais recorrentes.
+[77:24] Diego Diehl: Talvez não no grupo João mas para o Caio ali a gente tá inteirando o que tá fazendo que não tá. E aí eu a gente eu e você junto a gente já viu uma forma de já treinar o time para ele registrar as primeiras visitas, beleza? E para o Vitor a gente o próximo
+[77:40] João Vitor Portes da Silva: combinado
+[77:42] Diego Diehl: passo mais cor importante é ligar o bote para responder alguns arquivos já começar a enviar material para a gente dar velocidade nisso. Para deixar claro no plano básico, daí eu vou estratificar com o Caio aqui com mais. Valeu, abraço.
+[78:01] João Vitor Portes da Silva: Valeu Caio
+[78:01] Johnny Fernandes: obrigado
+[78:02] Lucas Vicente: Aqui ó pessoal, boa tarde.
+[78:02] Diego Diehl: Falou.

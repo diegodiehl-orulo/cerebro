@@ -1,0 +1,121 @@
+{
+  "meeting_id": "693185da1ba2ae0013e7d5ae",
+  "generated_at": "2026-04-09T15:02:23.711032",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl",
+      "Paulo Deitos"
+    ],
+    "duration_min": 2
+  },
+  "blocks": [
+    {
+      "start_sec": 95,
+      "speakers": [
+        "Paulo Deitos"
+      ],
+      "topic_hint": "não tem ninguém na reunião hoje.",
+      "content_preview": "Não tem ninguém na reunião hoje.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 98,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tem dois.",
+      "content_preview": "Tem dois.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 104,
+      "speakers": [
+        "Paulo Deitos"
+      ],
+      "topic_hint": "rapaz",
+      "content_preview": "rapaz",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 111,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "o time",
+      "content_preview": "o time",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 112,
+      "speakers": [
+        "Paulo Deitos"
+      ],
+      "topic_hint": "tu não vai estar lá em?",
+      "content_preview": "Tu não vai estar lá em?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 115,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não vou dar em fortaleza.",
+      "content_preview": "Não vou dar em Fortaleza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 120,
+      "speakers": [
+        "Paulo Deitos"
+      ],
+      "topic_hint": "tá bom. marca hype para mim. acho que vai ser uma.",
+      "content_preview": "Tá bom. Marca Hype para mim. Acho que vai ser uma.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 124,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "já estou marcando. mas os anella vai ter um vai ter uma gema legal aí.",
+      "content_preview": "Já estou marcando. Mas os anella vai ter um vai ter uma gema legal aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 151,
+      "speakers": [
+        "Paulo Deitos"
+      ],
+      "topic_hint": "tá bom.",
+      "content_preview": "Tá bom.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Paulo Deitos",
+      "timestamp": 112,
+      "text": "Tu não vai estar lá em?"
+    },
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 115,
+      "text": "Não vou dar em Fortaleza."
+    },
+    {
+      "speaker": "Paulo Deitos",
+      "timestamp": 120,
+      "text": "Tá bom. Marca Hype para mim. Acho que vai ser uma."
+    },
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 124,
+      "text": "Já estou marcando. Mas os anella vai ter um vai ter uma gema legal aí."
+    }
+  ],
+  "transcript_length": 429,
+  "block_count": 9
+}

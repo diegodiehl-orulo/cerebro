@@ -15,7 +15,7 @@
 | `HEARTBEAT fim do dia` | Checagens 7–10 + Saída obrigatória fim do dia |
 | `HEARTBEAT semanal` | Checklist semanal completo + Saídas weekly |
 | `Gerar fila de e-mails internos` | Fila de rascunhos de e-mail com disclosure DD-Code |
-| `Gerar lista de cobranças por dono` | Lista A (ver Formatos de Saída) filtrada por dono |
+| `analisa [reunião]` | Análise LLM da reunião (estágio 3) — ver como usar abaixo |
 
 **Saídas padrão de qualquer heartbeat:**
 1. Lista de Cobrança (por dono)

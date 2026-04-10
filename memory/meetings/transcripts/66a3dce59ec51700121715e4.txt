@@ -1,0 +1,455 @@
+[00:00] Diego Diehl: Agora E participar de algumas semanas. Então Felipe, fica à vontade é estérildo o Hugo até apresentando. Eu acho que o Hugo é. Ti não precisa apresentar certo tá? Mas pelo que eu entendi isso.
+[00:24] Esther Fleury Rocha Koschewski: Eu apresento a gente aqui tá certo?
+[00:26] Diego Diehl: obrigado.
+[00:28] Esther Fleury Rocha Koschewski: Prazer aí Felipe, Diego a gente já teve oportunidade de conversar, né? Em outro momento, eu sou gestor é de ti inovação aqui da GT build e o Hugo. Ele é nosso analista sénior aqui de tecnologia inovação também da empresa e quando nós recebemos essa acho que a gente teve a primeira apresentação, faz o que uns 15 dias mais ou menos, né? Diego até o CN férias e daí não podemos falar na semana passada.
+[00:56] Esther Fleury Rocha Koschewski: O Diego apresentou aí a ideia do projeto para nossa equipe nosso time comercial e eu pedi para o Diego para ele fazer uma demonstração porque ele só Ele só comentou das funcionalidades do sistema, né que era uma Inovação de vocês uma coisa nova do mercado. Enfim em conjunto com a até me fugir um nome agora do sistema que vocês estão em conjunto que a hora ali mais um sistema é como que é o nome Diego.
+[01:23] Diego Diehl: lumes lumes do grupo
+[01:24] Felipe Goettems: É a plumis/ Plus na verdade é de propriedade
+[01:26] Esther Fleury Rocha Koschewski: Perfeito perfeito.
+[01:27] Felipe Goettems: hoje da santia, tá que é aquela que de alguma é um RP não é um RP grande que concorre com a totos então é sangue a plumes e órgão essa esse projeto.
+[01:40] Esther Fleury Rocha Koschewski: pediu uma demonstração porque ele falou das funcionalidades falou do projeto, mas a gente queria visualizar. Aí é por isso que a gente pediu
+[01:46] Felipe Goettems: Claro, vamos lá.
+[01:47] Esther Fleury Rocha Koschewski: essa reunião, beleza? Vamos lá então.
+[01:53] Diego Diehl: Vamos lá gente, eu vou. Você Eu não abri ferramenta no dia não. Fiquei na apresentação, né? Tá então assim vou falar óbvio,
+[02:04] Esther Fleury Rocha Koschewski: exatamente
+[02:06] Diego Diehl: né? Se quiserem me interromper perguntar me explica melhor ali e aquilo lá podem. Podem me perguntando. Tá eu vou. Talvez para vocês eu não vou focar tanto em até em algum eu vou dar poucos exemplos operacionais ali comerciais, porque às vezes eu apresento para o time de plataforma, né? Daí eu dou um tom para vocês eu vou dar um caráter mais estrutura uma parte que talvez um pouquinho mais.
+[02:33] Esther Fleury Rocha Koschewski: Mas tranquilo.
+[02:34] Diego Diehl: Talvez um pouquinho mais técnica. Tá bom.
+[02:35] Esther Fleury Rocha Koschewski: Tranquilo que a gente entende no negócio também, você que sabe, do jeito que você quiser conduzir
+[02:38] Diego Diehl: show
+[02:39] Esther Fleury Rocha Koschewski: tranquilo.
+[02:40] Diego Diehl: Beleza então aqui já a gente falou da lumes, essa aqui é a cara da luz que a gente está desenvolvendo mais ou menos um ano. A gente fecha uma parceria com eles personalizou para o mercado imobiliário e eu acho que nesse ponto aqui é legal a gente destacar sobre a decisão, né de a gente desenvolver ou pegar uma plataforma pronta quando a gente desenvolve a gente tem um potencial de lucro maior empresa tem a imagem toda a gente se associano a um sistema.
+[03:14] Diego Diehl: Fica um pouco menor só que Em contrapartida um dos objetivos que a gente tem é colocar trazer mais tecnologia do ponto para o mercado imobiliário então o mercado imobiliário às vezes se associa de ferramentas específicas para o mercado só que dessas ferramentas só tem o próprio mercado imobiliário, vira uma bolha, às vezes passa dois três anos a ferramenta fica defasada e a gente escolheu por estratégia se conectar um grupo maior que tem clientes como Unimed como 99 Táxi.
+[03:44] Diego Diehl: Como assim grandes empresas? Porque por exemplo há umas três semanas desenvolver uma feature para Unimed e está disponível para a gente a gente começa a aplicar no mercado imobiliário então. A ideia é fazer esse Hub que a gente se mantenha num Grande Circuito num grande Rubi que tá atualizado que tá robusto para poder beber da fonte ali de tecnologia, tá? Então acho que esse ponto é legal porque tem gente que olha e acha ruim não sei da hora, mas a parceria que a gente Fechou tá sendo ótimo porque A Globo tem mais de 2.000 clientes e aí não tem problemas níveis nível instabilidade de sistema bug essas coisas já tá muito estável, tá? Esse é um ponto legal aqui é cara principal resumo aqui da ferramenta.
+[04:29] Diego Diehl: Que onde você pode deixa eu já ir clicando aqui nos elementos que eu um dos itens principais pelo qual a gente escolheu trabalhar com eles é pela praticidade de personalização. Então você consegue configurar aqui alguns dados principais por exemplo Card criado proposta gerado venda realizada aqui em que período você quer? O meu não tá aparecendo muita coisa aqui.
+[04:51] Diego Diehl: Porque eu não tenho atividade aqui ó no meu usuário, essa aqui é uma operação de Porto Alegre, então é uma operação que tá rodando. Que é a Sócio é a orla sócia dessa operação. Então vou mostrar uma operação na prática para vocês que não é uma um caráter de teste é uma que tá rodando, por exemplo aqui ó foi registrado já que a Patrícia é uma coordenadora do plataforma online, Porto Alegre, ela conversou com o Vitor aqui, na verdade só recebeu um olho e o Vitor é da imobiliária comer lá.
+[05:26] Diego Diehl: E aqui já tem um histórico de registro de atividades aqui o Henrique que é o nosso IDR lá aqui é o bote falando. Por exemplo lá, manda só o Henrique da exigeção comercial estão enviando contato, por exemplo se interessou pelo like pode receber algumas perguntas. Ele não respondeu ainda aqui por exemplo.
+[05:45] Diego Diehl: A órgão criou um lead automaticamente dentro do sistema porque as pessoas que visitarem a GT tanto no quanto no nosso portal se portal se Associar em divulgar o nosso portal que eu expliquei para o Bruno sobre a relação do drive, né? Tem muita gente que divulga o drive o drive não é rastreado.
+[06:06] Diego Diehl: Você não sabe quem entrou. Então a gente tem um uma entrada de leads. Do portal se vocês optarem pelo Portal A maioria optando. optando. Do CRM dados imobiliárias que estão integrado aqui em Curitiba. São mais ou menos 300 imobiliárias Integradas e o corretor entrar pelo CRM acessar um produto da GT vocês vão saber também e também pelo aplicativo do celular que tem corretores mexendo também então é Portal da hora no aplicativo da Hora Portal da GT e CRM das imobiliárias como entrada de traqueamento de livros.
+[06:45] Esther Fleury Rocha Koschewski: Diz assim o portal da GT pensando aqui a gente hoje tem uma entrada via site da GT. Que aí a gente tem um bote específico só para eu entender assim, porque às vezes né? Você tá mostrando a ferramenta. Eu preciso situar para entender tudo.
+[07:04] Diego Diehl: É líderes corretores não House a
+[07:04] Esther Fleury Rocha Koschewski: todas as entradas aí dentro
+[07:09] Diego Diehl: gente nem tá trazendo o sistema para House é plataforma especializada em plataforma os vídeos entre aspas aspas da plataforma são corretores
+[07:18] Esther Fleury Rocha Koschewski: Tá só plataforma, a gente não vai
+[07:18] Diego Diehl: gente chama.
+[07:19] Esther Fleury Rocha Koschewski: falar de rosa é verdade, tá bom? Eu lembrei disso, tá?
+[07:22] Hugo Enes: Beleza. E então a documentação que hoje nós disponibilizamos externamente, né através do do nosso drive, ele seria migrado para dentro da hora
+[07:32] Esther Fleury Rocha Koschewski: Vendo toda hora.
+[07:35] Hugo Enes: para daí a gente ter esse trechinho de quem pediu quem solicitou quem quem movimentou? Quem visualizou ele.
+[07:45] Diego Diehl: Exatamente se assim, isso é
+[07:46] Hugo Enes: Tem pode falar.
+[07:48] Diego Diehl: independente da solução é mais como vocês estão vocês estão implementando você vê ainda, né? Quando vocês implementar a cerveja tem uma integração nativa da hora no curso CV que se vocês mudarem o preço de uma unidade hoje na hora agora na hora não atualiza agora então a gente garante os dados atualizados o portal.
+[08:08] Diego Diehl: Por exemplo. Eu vou dar um exemplo do portal aqui do nosso primeiro cliente que é que em Curitiba foi à praia, esse aqui é um portal da oro que eles personalizaram com O design deles com a identidade visual quando você clica aqui para acessar um conteúdo. Olha já deu os três pontinhos daquele Lobão tem os produtos da praia de conectados.
+[08:32] Diego Diehl: Automaticamente com a órgão e atualizados o centro aqui por exemplo em qualquer produto você já tem uma interface parecida com Interface da orla que esse é um dos score um dos envolvido a melhor página possível para o corretor a gente ficou anos vendo o que que faz sentido. Por exemplo o corretor bate olho na fachada, ele dá uma descida de tela, ele já tem as principais informações do produto.
+[08:58] Diego Diehl: Data de entrega preço metro quadrado metragem diferenciais, ele pode clicar aqui entrar em contato e já vai entrar em contato com um gerente com o coordenador de plataforma que vocês quiserem deixar para cada produto ou mesmo para todos já tem informação de comissão e daí aqui embaixo vocês podem por o material que vocês quiserem aqui, por exemplo, eles não botaram Mais Materiais, eles deixaram só a tabela.
+[09:23] Esther Fleury Rocha Koschewski: Sobe um pouquinho que você falou.
+[09:24] Diego Diehl: E apresentação.
+[09:24] Esther Fleury Rocha Koschewski: informação de comissão, sobe um pouquinho. Ah tá aqui o valor, né? Tipologia disponível Garden a partir.
+[09:30] Diego Diehl: isso
+[09:34] Esther Fleury Rocha Koschewski: Porque aqui no caso seria o portal da especifico para os corretores, é isso?
+[09:42] Diego Diehl: produto Ester como se a gente pegasse a tecnologia da órgão e jogar-se para um portal Incorporadora, porque as incorporadoras tem que ficar
+[09:52] Esther Fleury Rocha Koschewski: Não entendi
+[09:52] Diego Diehl: desenvolvendo Portal sozinhos. E aí a gente
+[09:55] Esther Fleury Rocha Koschewski: drive
+[09:57] Diego Diehl: Exato e o drive vira aquele negócio de cara não tem traqueamento que é o ouro do estratégico. E não tem um traqueamento, esse é o principal, né? Daí o time fica no escuro sobre como agir se eu tenho craqueamento como um exemplo prático operacional. Começa a semana o coordenador de plataforma já vê quem baixou arquivo, quem acessou quem entrou em mais de um produto.
+[10:22] Diego Diehl: Liga para o cara e fala. Oi posso te ajudar em algo está com algum cliente a chance dele falar assim, eu tô com cliente é alta, você apoia aumenta vendas, tá bom?
+[10:32] Esther Fleury Rocha Koschewski: um portal. Que foi feito na praia?
+[10:34] Diego Diehl: É esse aqui é o portal da praia e assim é um White Label. Programável por vocês é tipo. já virou?
+[10:44] Esther Fleury Rocha Koschewski: Outros jovens eu não conheço.
+[10:46] Diego Diehl: É tipo. Como se você pudesse personalizar
+[10:50] Hugo Enes: Para ver ele é basicamente modular
+[10:51] Diego Diehl: seu site?
+[10:53] Hugo Enes: é um site modular que você vai ah.
+[10:55] Esther Fleury Rocha Koschewski: E você?
+[10:57] Hugo Enes: Ah, eu escolho aqui na esquerda um sumário na centralização que era imagens em cima ou imagens por baixo, então, ele é todo mundo lá. É nesse sentido que você disse.
+[11:09] Diego Diehl: É louco bem louco hoje.
+[11:11] Hugo Enes: isso E 100% api com você?
+[11:22] Diego Diehl: É que espera aí 100% eu não posso
+[11:23] Hugo Enes: mesmo
+[11:27] Diego Diehl: 100% é difícil falar mas atualização de preço tabela informação de produto disponibilidade toda essa linha SIM. E daí o 100% começa a ficar complexo que é a reservou sabe? Mas dá para a gente olhar com calma até agora as necessidades que a gente teve dá para dizer que foram 100% atendidos.
+[11:47] Diego Diehl: Tá então voltando tá voltando para o sistema então aqui a cara principal tarefa. Porque não tá aparecendo aqui. Quero mostrar ali já na visão inicial. É que você já bate o olho no funil que tá acontecendo lá em Porto Alegre. Você consegue aqui começar a ter previsibilidade de receita que é algo da plataforma que hoje provavelmente vocês não têm vocês têm previsibilidade quando vocês enxergam a partir de visita.
+[12:29] Diego Diehl: Só que a partir de visita é aqui, ó. Tipo não tem visibilidade de agendamento de visita ou de oportunidade qualificada ou de volume de consulta de informações esse desdobramento de funil você consegue começar a prever um pouquinho de como é que tá o comportamento daquele produto. beleza
+[12:48] Esther Fleury Rocha Koschewski: Sim, daí como você falou, só que daí ele vai pegar todas as informações que você falou dos portais, né?
+[12:55] Diego Diehl: Ah tá.
+[12:55] Esther Fleury Rocha Koschewski: das plataformas e esse WhatsApp ali. Em que momento porque assim a gente tem que ter várias várias inputs no sistema para ele trazer todas as informações aqui, então só me recapitula, quais são os impulsos. Quais.
+[13:09] Diego Diehl: Vai estar conectado ao WhatsApp?
+[13:11] Esther Fleury Rocha Koschewski: o WhatsApp do WhatsApp dos coordenadores
+[13:18] Diego Diehl: árvore cronológico o corretor vai entrar em qualquer canal em qualquer canal. Nos canais que eu te falei Portal da hora no aplicativo da hora no CRM da imobiliária Portal da GT. Com isso a gente tem a gente tem o traqueamento. os web hulks ali sobre as ações deles lá dentro Com isso a gente pode programar o sistema.
+[13:46] Diego Diehl: Como que é o default do sistema? O cara visitou o produto da GT? A gente gera um lide corretor para o coordenador de plataforma. Olha a carteira se tem uma divisão de carteira se já tem alguém falando com ele ou não para direcionar para qual coordenador que faz sentido direcionou por um coordenador dispara um oi para esse corretor do WhatsApp do Coordenador automático, por exemplo.
+[14:12] Diego Diehl: Oi tudo bom pa pa ou criou uma tarefa para ele ou ou o que a gente faz é mandar uma mensagem direto do WhatsApp dele. A partir disso é já tá o corretor já tá no funil. E aí Tem uma galera consultando informações só oi Papa legal daí ele vai por exemplo identificar uma oportunidade.
+[14:36] Diego Diehl: Esse é um desenvolvimento atual que a gente está tendo sobre o amadurecimento automático dele já entender que tem uma oportunidade. oportunidade. Um exemplo prático se o corretor falar tem um cliente para o aço já Move para oportunidade para oportunidade de identificada a gente então tá estudando estudando não tá desenvolvendo ainda.
+[14:58] Diego Diehl: Eu vou falar algumas coisas que já estão consolidadas que é o Pareto feijão com arroz e coisas que vem pela frente tá? Porque isso tudo é muito novo as
+[15:06] Esther Fleury Rocha Koschewski: É legal.
+[15:07] Diego Diehl: possibilidades daí há seis meses atrás quando era 3.5 tava muito mais limitado. Aí lançou quatro, o processamento ficou gigante caiu pela metade do preço 4 ficou melhor ainda agora semana passada liberou mais uma versão do 4 alguma coisa que ficou mais barato ainda então a gente consegue rodar operações mais complexas, tá? Tem um acho que vou usar 20 segundos aqui só para a gente descontrair um pouquinho, não sei se vocês viram um vídeo do Duma ya há um ano atrás fazendo um vídeo do Will Smith comendo macarrão e um vídeo daí agora você já viu isso? Olha o vídeo de cima e o vídeo de baixo.
+[15:53] Diego Diehl: Olha a qualidade e o realismo que tem o vídeo hoje.
+[15:58] Diego Diehl's Presentation: What the f*** my?
+[15:59] Diego Diehl: Eu gosto de trazer isso só para a gente lembrar da linha do tempo que a gente tá porque eu falo em abre algumas pessoas você começa assim vocês não vão porque são da área de inovação, vocês entendem já mas para a gente posicionar que tem coisas que eu tô falando, cara.
+[16:12] Diego Diehl: Agora é possível e está no nosso Road map. Eu prometo para vocês que no máximo três meses tem tem outras coisas que não foram desenvolvidas e eu vou focar principalmente aqui no que já está funcionando rodando a três quatro meses, tá bom Ester.
+[16:27] Esther Fleury Rocha Koschewski: Beleza, entendi.
+[16:30] Diego Diehl: Importante esse alinhamento Aí segundo módulo aqui o módulo de clientes no sistema, esse aqui já é um módulo que atua num corda plataforma que se chama gestão de carteira. Você ter todos os corretores registrados você ter todos os Deixa eu tirar um pouco. Aqui no módulo de carteira a gente tem por exemplo a estrutura de imobiliárias.
+[16:55] Diego Diehl: Eu tô na internet do celular aqui, então, tá um pouquinho lento. Tá eu tô num hotel em Londrina. Explicar para vocês o sistema normalmente, ele é bem rápido aí por exemplo, eu tenho cadastro das imobiliárias aqui. Eu tô travando para vocês.
+[17:13] Hugo Enes: Tá um pouco sim.
+[17:15] Diego Diehl: Tá eu vou deixa eu só fazer um teste tentar conectar na internet do hotel aqui em 30 segundos, talvez fique melhor. Voltei gente.
+[18:10] Esther Fleury Rocha Koschewski: beleza Desliga o vídeo às vezes não.
+[18:15] Hugo Enes: Será que vai ficar melhor? Qualquer coisa também. desliga.
+[18:22] Diego Diehl: Pode desligar, por favor, eu desliguei o meu aqui já. Aí perfeito, então, eu tava mostrando aqui. Deixa eu recarregar. O módulo de clientes onde a gente organiza imobiliárias corretores então no nível aqui imobiliárias eu tenho por exemplo a foxter que é uma imobiliária Grande. De Porto Alegre no cadastro da imobiliária eu tenho aqui na parte da esquerda os dados que vocês quiserem, mas a gente já deixou alguns dados que fazem sentido para o mercado como por exemplo dia de reunião comercial horário de reunião comercial importante saber isso zona de atuação.
+[19:08] Diego Diehl: Que zona que eles trabalham. Que tipo de produto que eles trabalham essa Imobiliária com 400 corretores lá, então, eles trabalham de tudo, mas esses
+[19:18] Esther Fleury Rocha Koschewski: imobiliária.
+[19:20] Diego Diehl: Exatamente aplicação prática quanto mais? Quanto mais relevante for a mensagem que você envia para o teu parceiro. Maior a relevância que você vai ter para ele então se eu só tenho listas de transmissão sem segmentação disparo tudo para todo mundo. Eu mando um alto padrão para uma imobiliária Econômica.
+[19:44] Diego Diehl: Lá começa a ficar exatamente
+[19:44] Esther Fleury Rocha Koschewski: Que não tem nada a ver.
+[19:46] Diego Diehl: aqui eu começo a foco de atuação, eu posso ter uma unidade pronta que eu faço um disparo para Imobiliários que vendem usados. E aí eles usado na verdade não usaram mas é pronto então você pode ter diversas estratégias segundo estratégia um sistema de classificação. E você pode ter um sla aí dentro da GT dizendo assim é Imobiliária a
+[20:05] Esther Fleury Rocha Koschewski: É uma classificação, nossa.
+[20:08] Diego Diehl: Tem que visitar toda semana Imobiliária B é todo mês Imobiliária. E aí você consegue controlar indicador e criar regra em cima disso então ó. O coordenador de plataforma se você não visitar e a visita por check-in GPS pelo aplicativo, se você não digitar você perdeu imobiliária. E aí os cara se mexem então?
+[20:27] Esther Fleury Rocha Koschewski: Sim, tem que estar presente ainda mais quando os caras são bons e são bem parceiros. Nossa.
+[20:31] Diego Diehl: Exatamente e aqui a gente tem tudo que foi registrado, ó, foi criado uma tarefa hoje clientes. Deram um prazo de até sexta-feira para definir se iriam se irão fazer proposta da unidade 303, o Eduardo registrou isso aqui então você consegue ter um histórico uma visão histórico completo que é legal também a visão de pessoas vinculadas Imobiliária os gerentes os diretores a gente tem uma nomenclatura que a gente
+[20:56] Esther Fleury Rocha Koschewski: São as pessoas da imobiliária são tipo os corretores imobiliária que
+[20:58] Diego Diehl: É exato.
+[20:59] Esther Fleury Rocha Koschewski: atendem a gente aí da imobiliária
+[21:01] Diego Diehl: A gente pode.
+[21:02] Esther Fleury Rocha Koschewski: que atendem a GT, tá?
+[21:04] Diego Diehl: Exato.
+[21:04] Esther Fleury Rocha Koschewski: poderia
+[21:05] Diego Diehl: foi falado no WhatsApp com cada uma dessas pessoas contribui para Os indicadores daquela Imobiliária, por exemplo, a gente falou com 20 corretores da Fox era essa semana o corretores líderes são corretores mais seniores ou que vendem mais a gente cria uma segmentação também dá para enxergar todos os cards que estão aqui dentro, já vou mostrar isso para vocês.
+[21:30] Diego Diehl: Que proposta que tá rolando, por exemplo. Talvez vocês. Utilizem as propostas mais você vê mas daí a gente pode criar uma integração para só acompanhar a proposta aqui para ter o dado consolidado aqui também.
+[21:43] Esther Fleury Rocha Koschewski: Porque aí no caso o sistema ele também dá para fazer embutido de proposta, pelo que eu tô vendo, né?
+[21:49] Diego Diehl: Dá mas ó. Eu recomendo estar que vocês centralizem no CV, tá?
+[21:54] Esther Fleury Rocha Koschewski: Ah, não com certeza.
+[21:54] Diego Diehl: Porque né?
+[21:55] Esther Fleury Rocha Koschewski: gente vai ficar louco.
+[21:57] Diego Diehl: Aqui é exatamente aqui é mais para acompanhar assim em geral é até você cobra o cara que coloca aqui porque aqui é que o Bruno vai olhar o indicador dele, por exemplo que é o time de plataforma.
+[22:07] Hugo Enes: Emitir uma dúvida depois Essa
+[22:09] Diego Diehl: Pode falar.
+[22:10] Hugo Enes: gestão de usuários é dentro dessas imobiliárias, né? Ela seria realizada por nós nesse cadastro das imobiliárias esse cadastro dos usuários internos dessas imobiliárias ou esse cadastro, ele já é pré-existente dentro do sistema.
+[22:29] Diego Diehl: Olha só Google.
+[22:29] Hugo Enes: e vocês, apenas vinculam ele com o painel da
+[22:40] Diego Diehl: que mais de uma pessoa já me pediu. Hoje aqui ó, por exemplo lá em Porto Alegre, a gente tem aqui já segmentado 1.300 corretores. E 458 imobiliárias, só que é uma operação. Nossa então eu poderia vender essa base por exemplo, porque a gente que na verdade fez ela hoje eu não entrego separadinho isso porque cada Incorporadora tem a sua base.
+[23:12] Diego Diehl: Então é como se fosse de responsabilidade de cada Incorporadora segmentar enriquecer o dado. Mas eu acredito que para o futuro não muito distante. Aí talvez seis meses um ano a gente vai acabar consolidando isso, né? Porque até uma parceria de vocês.
+[23:30] Hugo Enes: Foi só uma dúvida mesmo para ver.
+[23:30] Diego Diehl: É isso.
+[23:33] Hugo Enes: digamos assim. Ah, beleza nós vamos subir os nossos contatos digamos assim segmentar esses contatos aí só para a gente poder se organizar internamente para fazer e realizar esse cadastro já vem pronto então adiciona, né ao
+[23:49] Diego Diehl: é
+[23:54] Hugo Enes: nosso old map assim uma parte de cadastro de usuários.
+[24:03] Diego Diehl: que se cadastro de corretores. Já mostrando os corretores tem alguns que são vinculados com a ordem então ó, já vem com uma fotinho da pessoa já tá validado. Já veio da hora não tem e-mail tem o cresce dele até CPF que eu por exemplo o ID da orla, a gente tá sempre integrando com a hora no porque a gente vai a gente manda informações para o sistema que é uma pontuação do corretor o quão ativo ele tá o comativo.
+[24:33] Diego Diehl: Ele tá nos teus produtos para a gente enriquecer uma qualificação dele e a gente tava testando só para te falar em rodenectar a gente testou lá em Porto Alegre aí há de vez em quando fazer um aquecimento de dados. Ele pergunta para o corretor por exemplo, Doutor. Você pode me confirmar que Imobiliária você tá aí ele fala o nome daí a gente Verifica se tem alguma parecido e fala você pode confirmar se essa primeira ou a segunda Imobiliária ele falar essa segunda.
+[24:58] Diego Diehl: E aí já preenche no campo da imobiliária, qual ele tá mas isso também para o futuro e um outro mecanismo de registro. De corretores fogo é que por exemplo os coordenadores de plataforma de vocês. Provavelmente tem lista de transmissão, né e fala com os corretores a gente criou um mecanismo que quando você manda em qualquer lugar da mensagem dois emojis dois emotions de casinha junto.
+[25:27] Diego Diehl: Ele registra todos do sistema. Então quando a gente for por o sistema eles vão lá e fazem um disparo na lista de transmissão, bota uma casinha lá para os dois as duas casinhas e já cadastra todo mundo automático. Tá mas não o nosso desafio é vincular o corretor Imobiliário.
+[25:47] Diego Diehl: Eu acho que o
+[25:56] Esther Fleury Rocha Koschewski: Você falou que os É eu vi ele desculpa é você comentou que quando a gente usa esses dois emojis de duas casinhas juntas, ele já faz essa essa integração automática, ele já faz o cadastro automático. interessante
+[26:11] Diego Diehl: E aí isso para dar privacidade também para os corretores que tem o número pessoal que tem outros mecanismos.
+[26:21] Esther Fleury Rocha Koschewski: Pois é porque assim né?
+[26:21] Diego Diehl: Porque a gente pode.
+[26:23] Esther Fleury Rocha Koschewski: a maioria dos nossos corretores, né? Ele usa o celular tanto profissional como pessoal, imagine tudo que tem do WhatsApp dele vindo para cá,
+[26:34] Diego Diehl: perfeito todo mundo pergunta, isso é
+[26:35] Esther Fleury Rocha Koschewski: entendeu? Então como que é essa seria uma pergunta minha para você, você já tá respondendo então duas casinhas. essas duas casinhas. Olha aí, que legal.
+[26:45] Diego Diehl: pergunta importante. Sim, é exatamente na verdade tem Incorporadora menor, por exemplo. Teve uma que eu vendi agora que o cara que tá pagando o sistema para ele, ele é sozinho. ele falou cara, pode rastrear tudo
+[26:57] Esther Fleury Rocha Koschewski: certo
+[26:59] Diego Diehl: que tá no celular vai até me ajudar a me organizar com as minhas coisas, porque queria tarefa justa. Ele falou esses dias tinha tarefa que minha mulher tinha pedido para eu lembrar de sei lá passar no mercado e eu lembrei daí ele tá usando lá do jeito dele, mas incorporadoras a
+[27:12] Esther Fleury Rocha Koschewski: É porque ele é sozinho, mas a gente que é grande, né? Não tem como.
+[27:18] Diego Diehl: gente só rastreia, o que tá cadastrado no sistema. E aí para cadastrar no sistema, você manda as duas casinhas. Claro e aí você pode também no meio da casinha por mais que esteja cadastrado, você manda outros dois outro comando para ele parar de rastrear por um momento para pausar e depois você pode mandar um comando para voltar.
+[27:40] Diego Diehl: Por exemplo, vai que eu tô
+[27:40] Esther Fleury Rocha Koschewski: Porque o comando o comando para
+[27:40] Diego Diehl: coordenador.
+[27:42] Esther Fleury Rocha Koschewski: cadastrar sempre as duas casinhas são ele mandou uma vez cadastrar
+[27:44] Diego Diehl: É a casinha.
+[27:45] Esther Fleury Rocha Koschewski: qualquer interação a partir do momento Putz, não vou mais não. Preciso mais que essa interação é vá para o sistema. Aí você falou que tem uma para pausar.
+[27:54] Diego Diehl: E é como se fosse assim um start. um pause e um resume tipo assim start cadastra todo mundo Beleza, cadastrou, tá ligado o traqueamento. Mas putz eu tô falando ali com o Bruno e cara. A gente tá marcando de sei lá e para praia comprar cerveja, eu vou lá e mando dois emojis ele para de rastrear aí segunda-feira, eu ligo de novo, então o coordenador tem a autonomia de controlar porque se você pressiona muito disso que você vai controlar tudo ele não tem autonomia dele as pessoas ficam com medo e na verdade a ferramenta quando elas entendem é para ajudar elas ninguém vai ficar olhando mensagem por mensagem é muita mensagem não dá tempo, entendeu? Mas a gente entrega essa autonomia essa liberdade para ele se sentirem Seguros.
+[28:43] Diego Diehl: Ficou claro
+[28:46] Esther Fleury Rocha Koschewski: É sempre as duas casinhas tanto para startar quanto para parar?
+[28:50] Diego Diehl: Não não são diferentes casinha para cadastrar daí tem um outro dois que é pausar e outro Para retomar. retomar.
+[28:58] Esther Fleury Rocha Koschewski: Tá.
+[28:58] Diego Diehl: Mas eles aprendem são três comando.
+[28:58] Esther Fleury Rocha Koschewski: Depois a gente vai saber qual a experiência, tá?
+[29:00] Diego Diehl: então aqui corretores que já vem
+[29:00] Esther Fleury Rocha Koschewski: Beleza.
+[29:05] Diego Diehl: todo mundo que tá acessando as coisas e tal prioridade, o que eu acho legal para vocês olharem. É novamente aquela facilidade, por exemplo tem a facilidade do mapa, né? Você pode aqui olhar aí não tem corretor diferente. Eu vou aqui Imobiliária, eu abro o mapa. Ó é legal se o sistema de mapa também.
+[29:40] Diego Diehl: Então aqui para o coordenador que vai visitar algumas às vezes ele cara faz uma rotina para ele aqui. Ele bate o olho clica e consegue ter uma ideia das imobiliárias, mas que eu queria mostrar para vocês é o mecanismo de Nova abra muito fácil criar tanto criar um filtro que é um novo filtro, você vai lá ó, tem o filtro simples tem um filtro avançado que a gente pode criar os principais na implantação e tem uma nova aba.
+[30:10] Diego Diehl: É legal isso aqui porque você pode editar tantos em massa, eu já vou explicar uma coisinha para vocês que ela é muito valiosa é o seguinte. Eu tenho a conexão com a gente de Whatsapp, vocês estão vendo aqui. agente. Isso aqui comanda o WhatsApp e depois eu vou explicar melhor para vocês, o que que é cada coisa mais, por exemplo.
+[30:37] Diego Diehl: Vou dar vou dar esse caso para vocês. Vocês querem fazer um filtro de corretores que não falaram comigo nos últimos 90 dias você vai lá faz um filtro e edita em massa tornando esse contato um Target. Quando você coloca esse contato como um target eu já vou pular aqui para essa parte do WhatsApp só para seguir o fluxo de operação mesmo.
+[31:03] Diego Diehl: Quando eu coloco ele como target eu vim aqui na nossa ferramenta de WhatsApp, eu tenho três mecanismos. Vou usar aqui o mecanismo de mensagem padrão, eu posso criar uma mensagem aqui para ele, por exemplo usar esse exemplo aqui faz tempo que não fala contigo. sei lá Você ainda tá focando em vender lançamentos, você me avisa.
+[31:33] Diego Diehl: Que eu quero te trazer uma novidade, sei lá. Eu posso por exemplo quebrar ela em três? Fica aqui eu vou em próximo. Ah, eu não botei nenhum target aqui aparece os contatos que são target aqui. aqui. E eu boto enviar ó seleciono todos da lista e bota enviar aqui é o mecanismo que começa a disparar a mensagem com o espaçamento de tempo com espaçamento de mensagem para as pessoas ali que você citou então tem uma forma prática de você ativar a base utilizando um filtro aqui como esse como uma aba de não falei a mais de 90 dias ou quem visitou no último mês mandar um reconhecimento para pessoa que vendeu ou quem vocês quiserem baseado nos filtros que vocês vão ter e nos dados que vocês vão ter no corretor que tem vários que são cadastrados automáticos, por exemplo aqui ó.
+[32:32] Diego Diehl: Presta status, deixa eu por aqui. Ó a preferência de produtos zona de atuação cidade de atuação com data da última venda nos últimos 12 meses eu consigo usar se tiver preenchido eu faço um disparo junto aquela ferramenta que eu acabei de mostrar. Ficou claro isso que a gente foi muito.
+[32:55] Diego Diehl: Pode falar.
+[32:55] Hugo Enes: Ficou somente uma dúvida, você tem algum tipo de ranqueamento? Desses corretores ou imobiliárias.
+[33:04] Diego Diehl: Se assim já tá com estrutura para fazer isso, só que as operações que a gente pegou eles não quiseram focar nisso ainda, mas vou te dar um exemplo aqui em relatório, já a gente tem um ranking de corretores aqui, ó. Quem vendeu mais ranking de Imobiliária, esse aqui é o que a gente fez já de bate pronto dá para você fazer de tudo quem visitou mais.
+[33:24] Diego Diehl: Ah tem o traqueamento agora de mensagem recebida mensagem enviada. Então qual foi o corretor que mais falou com a gente? Qual foi a imobiliário que Somando todos os corretores mais falou com a gente? Quem vendeu mais quem visitou mais dá para você fazer um ranking que você quiser aquilo.
+[33:39] Diego Diehl: Ficou claro
+[33:41] Hugo Enes: Ficou ficou assim e esse painel de é
+[33:42] Diego Diehl: Era isso.
+[33:43] Hugo Enes: isso mesmo esse painel de relatórios aí você rolou a barra na esquerda temos alguns.
+[33:52] Diego Diehl: Tá posso já pular para essa parte esses aqui são os que a gente tá usando lá em Porto Alegre, tá? Tem algumas variações para outros clientes. Qual que é o mecanismo que a gente entrega só para falar já da solução? Eu já entrego esses aqui. Ajustado com implementação de pode ajustar pode olhar e aí, por exemplo aqui, ó.
+[34:11] Diego Diehl: Nesse caso eu tenho imobiliárias estão ativas se estão em prospecção se foram descartadas um gráficozinhos Imobiliária, volume de cadastro de imobiliárias por mês. Imobiliária por responsável para ver tamanho de carteira de cada um Aqui um gráficozinho mais bonitinho volume de visitas nas imobiliárias lá Fox, será que eles mais visitaram lá volume de visitas por imobiliária aqui, por exemplo, você pode clicar editar.
+[34:43] Diego Diehl: Esse aqui é uma vantagem de pegar uma solução mais robusta já as coisas já são mais personalizadas. Você vai lá ó métrica do gráfico. Eu posso adicionar uma métrica selecionar agora que por exemplo é venda. Eu quero uma soma seleciona o campo daí eu boto aqui, cara. Eu quero o valor de venda daí eu já boto mais um filtro, entendeu? Praticidade que já visualiza aqui na esquerda, como é que vai ficar? E eu posso também colocar outros gráficos.
+[35:14] Diego Diehl: cruzar. Assim falando para você Hugo obviamente isso aqui não é tipo você tem uma possibilidade de tratar o dado de higienizado fazer várias coisas não é uma proposta. Você pode tirar os dados daqui jogar por viagem, se você quiser mas para gráficos mais simples de operação para a galera olhar todo dia tá sincronizado já funciona e já atende.
+[35:37] Diego Diehl: Já tem atendido o que a gente está trazendo, tá?
+[35:40] Hugo Enes: Interessante.
+[35:40] Diego Diehl: aqui
+[35:41] Hugo Enes: Então tem uma forma de extração desses dados em geral, eu posso querer extrair tudo ao mesmo tempo.
+[35:46] Diego Diehl: tem
+[35:47] Hugo Enes: mas ele vem cru para eu poder tratar ele no nomear e num Python da vida.
+[35:50] Diego Diehl: Isso você pode sincronizar. E tratando se vocês têm estrutura, imagina que a gente Provavelmente queira já organizar as bases deixar os dados estruturado para consolidar. Talvez House plataforma, tá bom? Que a gente consegue dar o gráfico para o operador para pessoa da ponta daí ele vai lá ver como é que ele tá ver se ele tá acima.
+[36:23] Diego Diehl: Vê se ele tá baixo ele começa ele a olhar. Tá bom? Eu tô indo abrindo aqui, ó, por produto por Incorporadora volume de negócios assinados cada um. Ass. Olhe em Porto Alegre até ficou Júnior porque deu. Deu enchente lá. Foi bem crítico aí a produtividade interações do mês os relatórios aqui são vários a gente tem alguns que a gente usa mais aqui, ó, principalmente retorno análise das vendas, tá claro aqui ver mais algo sobre
+[36:57] Hugo Enes: beleza Não tá claro isso. Gostei interessante. Se quiser seguir manda ver.
+[37:03] Diego Diehl: Então, a gente falou sobre cliente aqui as bases as abas deixar um filtro aqui, ó, por exemplo. A gente pega se entra aqui e falou Fulano. Você tá faltando aqui você ajustar os dados dos seus corretores, você vai lá acompanhando queria algum Alerta. E aí aqui é a parte do Funil a parte do Funil a gente tem esses três principais aquele desoram que já vem é um esquema ali que eu falei do cara.
+[37:29] Diego Diehl: Tá acessando algum produto para a gente abordar automático tem um funil de negócios. que Aqui a gente acompanha básico. Você já conhece né? A gente bota as etapas que a gente quer os dados que a gente quer. Por exemplo aqui ó.
+[37:44] Hugo Enes: Basicamente um cambão mesmo.
+[37:46] Diego Diehl: Prático. Não tem melhor do que acompanhar funil a gente programa aqui alguma algum Campo. Obrigatório para ele mover de fase a gente acompanha histórico e é bem prático aqui bem é relativamente minimalista aqui para o corretor. Tipo ele bate o olho ó, botou esse azulzinho para ver se está atualizado o cardio não o gestor bate olho e fala galera.
+[38:11] Diego Diehl: Fala que eu Patricia. Ah você precisa atualizar o like lá da Sandra, né? O produto João Menezes é corretor a gente não traz a gente tenta não trazer dado pelo menos na maioria das operações de clientes aqui para dentro tá para não ficar sensível. Não tem aqueles problemas. Às vezes a gente tem.
+[38:35] Diego Diehl: Que mais então aqui tarefa atrasada ou não Ó que tarefa atrasada tarefa para hoje tá sem tarefa, eu tinha puxado mais os caras porque não podia estar vazio aqui se tem. Funil você precisa ter uma próxima tarefa uma próxima atividade, né? Então entrando aqui você vê. Então entrando aqui você vê.
+[38:53] Diego Diehl: Aqui as interações ó. Ele registrou uma visita. E aí automação já jogou aqui para dentro do card a gente fez esse esquema de estrutura também então registra no contato registrando cardio que eles estão atuando tem valor do apartamento se a proposta foi gerada valor da comissão. Essa parte que eu mais commodit assim, né? É funil tem eu acho que uma coisa legal que olhar os vídeos da hora no que cadastra o novo líder aqui.
+[39:23] Diego Diehl: Ó, esse aqui por exemplo foi cadastrado. Hoje 11:15 no início a gente se apresenta. Vamos ver se ele respondeu aqui, ó, olha ele não respondeu esse corretor. Vou jogar aqui já em conversa. Olha isso aqui há dois dias em conversa. Ó, o Alencar tá falando com ele, vamos ver como é que chegou ele foi criado.
+[39:47] Diego Diehl: Ou a gente falou aí eu a Patrícia. O Thiago falou Estou aqui no Barão na Barão do Tefé. Então, a Patrícia tá conversando com ele tem um resuminho. E ele já dá alguns insights também aqui com a yaki vocês têm na mão pronto para poder treinar eu já mostro pronto para vocês também, né? Às vezes uma especificidade de vocês que eu lembro da GT.
+[40:16] Diego Diehl: Ela tava conversando com a minha mãe ontem, ela falou que te conhece, minha mãe é só trabalhou há
+[40:20] Esther Fleury Rocha Koschewski: Sério?
+[40:22] Diego Diehl: tempo. Como coordenadora do Seven? Ela falou a estéria é antenada ela
+[40:29] Esther Fleury Rocha Koschewski: Eu acho que eu conheço ela mesmo.
+[40:35] Diego Diehl: Ela sempre estava ligado em tecnologia em mídia e tal. Eu falei que legal agora que eu vou conversar.
+[40:41] Esther Fleury Rocha Koschewski: Oh que legal.
+[40:41] Diego Diehl: Eu estudava eu fazia cursinho na época do Seven e eu estudava no plantão do Sérvia lá que minha mãe ia dar treinamento para os corretores. Eu ficava no cantinho estudando lá naquela época, eu tava escutando o
+[40:51] Esther Fleury Rocha Koschewski: Nossa Manda um abração para ela.
+[40:52] Diego Diehl: treinamento. Vou mandar naquela época, eu tava
+[40:55] Esther Fleury Rocha Koschewski: Você imagina.
+[40:55] Diego Diehl: escutando nos primeiros treinamentos de corretores.
+[40:58] Esther Fleury Rocha Koschewski: Ô que legal.
+[40:59] Diego Diehl: Daí fui parar nesse mercado aqui sem querer sem querer querendo.
+[41:03] Esther Fleury Rocha Koschewski: Você vê como que o mundo é pequeno, né?
+[41:06] Diego Diehl: Esses dias eu agradeci ela falei mãe, eu não entendia como é que eu entendo. O mercado imobiliário de um outro ângulo que uma galera que tá ao mesmo tempo que eu não entendi daí ela falou filho, você ficava todo
+[41:18] Esther Fleury Rocha Koschewski: Graças
+[41:18] Diego Diehl: dia escutando eu contar a história do cliente de mercado, né? Então aqui ó que eu queria mostrar para vocês É registro as conversas, dá um resumo e você pode até programar que ele queria tarefas automáticos automáticas também. Conforme você programa e a é tipo. pronto de É tipo não é um chat.
+[41:39] Esther Fleury Rocha Koschewski: Eu lembro que você eu lembro que você comentou que daí a partir dessas dessa criação de tarefas que ele pode estar disparando algum comunicado algum material essas essas informações, né?
+[41:55] Diego Diehl: também. Deixa eu ir abrindo aqui uma outra coisa, então eu como é que vocês estão de tempo gente que daí eu vejo o seu acelerose. Você tem que sair três e pouquinho,
+[42:05] Esther Fleury Rocha Koschewski: Olha eu tenho
+[42:07] Diego Diehl: né Ester
+[42:08] Esther Fleury Rocha Koschewski: Eu tenho que sair umas 3:40, tem umas 3:40 tranquilo.
+[42:11] Diego Diehl: Beleza então não dá tempo que demonstrar então assim eu vou passando vocês me interrom, por favor, tá? Fala Diego, não entendi nada eu porque eu tô vivendo isso aqui o dia inteiro daí às vezes eu resumo.
+[42:23] Esther Fleury Rocha Koschewski: Não tranquilo tá bem tá bem legal.
+[42:23] Diego Diehl: fica tão claro então.
+[42:25] Esther Fleury Rocha Koschewski: a gente interrom bastante não entendeu?
+[42:30] Diego Diehl: A gente pode gerar uma proposta automática pode gerar venda automática pode gerar relatório automático lá a gente manda um relatório de visitas por exemplo para Incorporadora óculos feedbacks, cada visita que lá a gente tem um time de plataforma que tem 10 incorporadoras é o modelo do negócio diferente. Então a gente desenvolveu algumas coisas para isso.
+[42:49] Diego Diehl: Ah isso aqui em documento por produto. Dá para vocês mandarem um relatório automático para o gerente de produto sobre o que que tá rolando sobre o produto para ele estudar, entendeu do produto pegar feedback. Aqui os produtos já integrado com a hora então, por exemplo que o Algarve. A gente já sincroniza com a órgão e sabe essa tela aqui.
+[43:08] Diego Diehl: Ó, deixa eu abrir aquela tela. essa tela aqui ó, por exemplo do as Toda essas informações aqui, ó. selecionar assim não sabe. Como selecionasse todas elas aqui jogassem linguagem do código? Para ferramenta aqui ela joga aqui embaixo, então, ele já tá em Jason aqui, qual que é o preço a partir de quantos banheiros qualquer tipologia.
+[43:39] Diego Diehl: Qual que é a área se tá pronto data de entrega? Qual que é o endereço? Código postal imagens ou com links imagem da fachada imagem do apartamento então tem aqui as informações que estão na hora não. Essas são as básicas. a partir desse ponto mensagem.
+[44:03] Felipe Goettems: eu só que isso colaborar aqui e e
+[44:03] Esther Fleury Rocha Koschewski: O Felipe pediu.
+[44:06] Felipe Goettems: esse esse é o iniciado, né?
+[44:06] Diego Diehl: Tinha até esquecido que você tava aí, cara.
+[44:08] Felipe Goettems: Eu voltei agora a pouco tá? Eu consegui pegar uma uma conexão mais estável isso aqui poderia. Esse é o bem básico, tá pessoal isso aqui evoluiria para entendimento do memorial descritivo, para que pudesse ter um nível de profundidade na pergunta nas perguntas. Caso vocês quisessem isso poderia ser automatizado também, tá? Claro que muitas vezes a gente quer manter aquele relacionamento com o com o parceiro, mas é só tô dizendo que é possível, né? Isso seria possível ser.
+[44:47] Felipe Goettems: pode ser que
+[44:51] Esther Fleury Rocha Koschewski: legal Diego você tá sem o
+[45:02] Diego Diehl: Eu joguei só para vocês baterem o olho aqui do que a gente está falando aqui, ó, o que mudou já tinha 34 10 vezes mais rápido. O gpt-4 possui o limite de 32 mil tokens enquanto o gpt3 tinha 4 mil tokens. Então a gente está acompanhando essa evolução gigantesca.
+[45:23] Diego Diehl: De velocidade da Iara é isso que o Felipe tá trazendo hoje é complicado a gente ler todos os memoriais descritivos. Mas a gente tem praticamente certeza que crescendo aiada que seis meses um ano no máximo por todos os memoriais descritivos e até o que o cliente perguntar a gente já verifica no memorial.
+[45:42] Diego Diehl: Dá em que página do memorial que tá respondendo? Tá bom, esse aqui já é a tecnologia para jogar isso aqui para dentro do sistema e o chatbot usar isso para responder é o que já tá feito basta e a continuar evoluindo. produto eu já vou conectado aí com
+[45:59] Esther Fleury Rocha Koschewski: fechou
+[46:00] Diego Diehl: o chatbot, eu queria só bater o olho aqui nessa parte que eu lembro que sempre que eu mexi em Sistemas eu gostava de ir para Parque de configurações porque lá que eu entendi a robustez e o quanto eu podia mexer naquilo e aqui você você depois podem a gente pode dar uma olhada com calma.
+[46:21] Diego Diehl: Eu gosto de olhar principalmente essa parte aqui ó uma coisa que me perguntou, às vezes é sobre equipe tabela do usuário e perfil de usuário que é importante a gente pode criar vários perfis e cada perfil. E cada perfil a gente disponibiliza é exato para ele ver o que se pode cadastrar.
+[46:46] Diego Diehl: Pode excluir pode acessar a gente vai ajustando isso é importante e uma parte de automações aqui que isso aqui na mão de quem mexe é muito importante aqui a gente já entrega com 40 automações que é para dar visibilidade para facilitar coisas, então você pode aqui facilmente criar uma automação escolher o gatilho que você quer usar um filtro.
+[47:06] Diego Diehl: E adicionar uma ação qualquer aqui que você quer que faça. E aí tem um mecanismo lá, lembra que ela voltar rapidinho aqui, ó, por exemplo, a gente tem um mecanismo aqui. que Nos corretores quando eu entro no corretor aqui. Tem um campo do corretor que está aqui embaixo o agente.
+[47:30] Diego Diehl: E eu posso por aqui ó, se eu colocar. Se eu colocar aqui uma Custom nessas E escrever qualquer coisa aqui, deixa eu fazer um teste que eu já mostrei para vocês. Vou buscar eu aqui. Ó tem eu aqui a minha fotinha antiga lá que tava na hora. Se eu buscar aqui o agente e mandar um Custom Messenger.
+[48:02] Diego Diehl: Eu posso por aqui também para a gente engajar ou não se ele é um time ou não? Como assim? E aí se eu na hora que Eu preencho. preenchonete. Deixa eu compartilhar outra coisa aqui porque ela chegue só para vocês baterem. No meu WhatsApp aqui ó, já chegou uma mensagem da Enzo.
+[48:37] Diego Diehl: Falando que teste de mensagem então pense pense nisso. Com você criando qualquer tipo de automação, né? Você vai lá e compartilhar outra coisa, você vai lá e falar se o corretor se qualquer coisa acontecer preencha o campo com os promessas. como. E a gente consegue daí tá disparando alguma mensagem tá mandando Ficou claro também.
+[49:03] Diego Diehl: O Ester mostrei rapidinho ali um teste.
+[49:05] Esther Fleury Rocha Koschewski: Sim, sim.
+[49:06] Hugo Enes: então
+[49:07] Diego Diehl: Tá beleza então, gente essa parte aqui. Esse é um ângulo aqui do sistema. A parte principal eu quero mostrar uma segunda parte, agora eu vou abrir a minha conta aqui, essa aqui é a minha conta. aqui ó Já vou usar estão vendo a minha conta já? Aqui ó, já registrou a nossa conversa sério, a conversa e a cliente está revela alguns pontos importantes atrasos tanto dinheiro, quanto está a informação dele atrasos 5 minutos.
+[49:43] Diego Diehl: rela. Colaboração Diego estava acompanhado pelo seu da hora uma chamada de quando abordagem flexibilidade Diego, demonstrou, flexibilidade comunicação eficiente a troca de mensagens super Clara e direta então aqui eu já tô testando um outro modelo de resumo, eu quero que ele traga alguns pontos principais para depois analisar toda essa massa de informação.
+[50:08] Diego Diehl: Então aqui já tá registrando meu WhatsApp. Eu queria o que eu ia mostrar aqui é só para vocês verem no caso de vocês. Já cadastrou aqui teu número. E ele já começa ele começa a registrar e trazer alguns pontos eu queria ver se ele criou alguma tarefa, ele não criou.
+[50:34] Diego Diehl: Obrigado um sócio local meu que eu fechei negócio de Goiânia, o Juliano falou comigo agora. de Goiânia. O Juliano falou comigo agora. Que ele falou consegue me ajudar a montar a proposta para óculos e ouro America que são duas grandes ali de Goiânia. Eu falei assim te ajudo tem reunião tá 15 e 15.
+[50:59] Diego Diehl: Atrasado para ele ali mas tudo bem e já criou uma tarefa aqui, ó, criou tinha criado aqui de quinta-feira para me lembrar de criar de enviar a apresentação para ele do terreno para outra Incorporadora. Então se quis mostrar essa parte aqui de registro que realmente está funcionando com a Ester registra resume.
+[51:17] Diego Diehl: E cria algumas tarefas no nosso caso ali sério, a gente não falou nada que deixou em aberto, né? Não foi a Ester foi uma semana que vem a gente conversa, provavelmente já teria criado. Uma conversa exatamente senão não
+[51:26] Esther Fleury Rocha Koschewski: A gente resolveu na hora.
+[51:29] Diego Diehl: é para ficar criando tarefa que não tem nada, né? E eu queria passar para uma última parte da apresentação que Em algumas reuniões estão me perguntando e para vocês que são de certa forma mais técnicos. Eu quero já mostrar essa parte que é uma parte da conexão da inteligência artificial.
+[51:51] Diego Diehl: A interface para vocês eu mostrei esse primeiro essa primeira parte aqui que é o modo de disparo então para ficar claro para vocês. A gente tem o modo de disparo que eu mostrei aqui a mensagem padrão eu posso filtrar com algum dado lá na base. E aí trazer aqui por disparar no número de cada gerente.
+[52:12] Diego Diehl: Beleza tem essa outra parte aqui. Que é a parte do prompt então aqui ó, tem um prompt aqui que a gente sentou como a gente dá erro. Sua responsabilidade corretor de imóveis primeiro de tudo, ele traz uma parte mais já técnica em seguida, então tem algumas coisas aqui ó, que o bote de cada pessoa ler isso daqui.
+[52:40] Diego Diehl: E aí você pode ajustar o bote e realizar refinamentos aqui por esse bote aqui, por exemplo, ele tá no modo de conectado ao WhatsApp do coordenador de plataforma, então a ideia não é que ele fique respondendo. Eu acho que eu tô logado no mundo e coordenador de plataforma, então a ideia que ele não fique respondendo muita coisa, eu tava testando aqui se ele ia responder, olha a ideia ele não responder e daí.
+[53:07] Diego Diehl: Sobre esse não respondeu, eu queria explicar uma coisa técnica não técnica, mas um modelo de negócio para vocês que é o seguinte. A gente tá com três módulos. principais de três um chamado dois módulos para simplificar tem um módulo que é o padrão chatbot com o Que é basicamente assim, ele tá conectado aos produtos, ele vai estar conectado aos produtos da GT ele vai estar conectado a tabela do preços, ele vai estar conectado ao que você ao que a gente colocar ali na informação e ele pode por exemplo seu número central da GT que as pessoas podem perguntar qualquer coisa para ele, ele vai responder qualquer coisa conectado.
+[53:53] Diego Diehl: Então ele pode mandar um áudio falando assim. Ô GT. Eu tô com um cliente para o asa aqui, eu gostaria que você me ajudasse com uma mensagem de abordagem para ele e levantasse algumas argumentos porque ele falou ali que aquela que é Padre Agostinho que a Padre Agostinho tem muito barulho e ele tá preocupado.
+[54:13] Diego Diehl: Sei lá, o que me ajuda a contornar essa objeção pt4, pode ajudar ele a ter uma resposta vinculado até a base do conhecimento que vocês trouxerem como por exemplo lá no OAS, a gente tem. Esquadrias com o vidro duplo reforçado para isolamento acústico e você pode ir lá visitar o nosso decorado e testar isso para que a gente fecha a janela e você vai ver que o barulho não atrapalha.
+[54:35] Diego Diehl: Então esse é o módulo 1 Que a gente chama de a gente com o engajamento ligado. Beleza então esse aqui vocês podem brincar deixar aberto, qual que tá sendo mais efetivo para as pessoas para alteração no dia a dia um segundo um segundo formato que a gente desenvolveu que a gente chama de robô do coordenador de plataforma.
+[55:00] Diego Diehl: Que a gente atua com o que a gente está chamando aqui de perguntas controladas. Qual que é o mecanismo que ele funciona a gente seta uma faca de perguntas e respostas e a gente programa pronto? Para o bote só responder quando ele tiver 100% de certeza que aquela é uma pergunta que ele foi programada para responder.
+[55:21] Diego Diehl: porque quando a gente conectar no WhatsApp do coordenador de plataforma de vocês, por exemplo da Esqueci o nome do pessoal aí sei lá diz o nome do coordenador.
+[55:33] Esther Fleury Rocha Koschewski: a Leila Leila Cibele
+[55:34] Diego Diehl: Isso o WhatsApp da Leila tem corretor que cara já tem um relacionamento com a Leila. A gente não quer o impacto. Talvez de já ter um bote respondendo qualquer coisa para ela ela cuida do WhatsApp dela, só que a gente programa algumas perguntas principais como por exemplo. Se algum corretor pedir assim você consegue me mandar a tabela de preço atualizada do Oz.
+[55:58] Diego Diehl: Cara é uma coisa determinística é uma coisa factível principal. Aí a gente é exato da gente faz o
+[56:04] Esther Fleury Rocha Koschewski: Operacional, né?
+[56:07] Diego Diehl: bote e enviar a tabela já automático, mas se o bote Pergunta assim aí Leila você vai conseguir dar uma passada aqui na imobiliária essa semana. Que vai olhar lá e vai desenvolver o relacionamento com ele ou até Ah, eu quero ajudar uma visita. Não fazer nada ou pode ser que a gente Programe algo como pô, que legal e quem é o teu cliente.
+[56:30] Diego Diehl: Tem algum empreendimento específico, você quer me ligar a gente pode responder algo assim por exemplo. Então eu queria dar essa clareza sobre um bote que trabalha com uma fonte de conhecimento engajam responde tudo pode ser um número central. E tem o segundo que é para os coordenadores e plataforma e é para responder o que a gente treinar o bote para dar uma vazão ao volume operacional deles e não deixar o corretor esperando para reduzir o tempo de resposta de perguntas básicas e reduzir o esforço do coordenador de plataforma ficar buscando arquivo ficar buscando o material.
+[57:03] Esther Fleury Rocha Koschewski: Certo esse segundo bote que a gente
+[57:04] Diego Diehl: Faz sentido.
+[57:05] Esther Fleury Rocha Koschewski: deixa mais faz sentido esse segundo bote que a gente delimita mais aí até. Vamos dizer assim estrutura, o que que ele pode responder? Como você acabou de explicar. Ele seria um bom e ficou para os coordenadores, então é um bote que a gente programa para os coordenadores e os coordenadores poderiam usar esse mesmo bote ou não que a gente tá falando hoje de quatro.
+[57:33] Esther Fleury Rocha Koschewski: o Carlão e a Cibele
+[57:36] Diego Diehl: A gente deixa segmentado pronto por pronto de pessoa a pessoa. Então, você pode dar um copiar e deixar uma versão básica programada para todo mundo, por exemplo que tem o Eduardo. sistema.
+[57:58] Esther Fleury Rocha Koschewski: Ah tranquilo, então seria um tipo
+[57:58] Diego Diehl: Por exemplo, a Leila a Leila quer
+[58:00] Esther Fleury Rocha Koschewski: quatro Bots dá um só que vai ter alguma coisa específica para outro faz mal.
+[58:09] Diego Diehl: não quer dar bom dia. Ela quer falar. Olá dela programa o bote dela para ficar falando lá e não bom dia. E o Fulano gosta de falar? Diga aí então até para dar uma personalizada, mas é assim, a Leila passou básico, cara, já tem um bote programado desenvolvido. para atuar nas principais frentes e o que que a gente tá começando a se
+[58:31] Esther Fleury Rocha Koschewski: assim
+[58:33] Diego Diehl: posicionar tá Ester. Então eu não sei se é o caso da GT mas É o ouro agora na nossa visão aqui da Obra É treinar aliar, né, cara e ela tá com poderes cada vez maiores e o desafio você treinar ela e programar ela e aí a gente presta esse suporte específico, daí pós implementação daqui três meses falam cara.
+[58:58] Diego Diehl: A gente quer dar um up aqui na nossa e a gente presta essa conexão para vocês. Pode prestar de consultoria de implementação de programação da especificamente para vocês para vocês irem evoluindo conforme aí a vai evoluindo também conforme vocês estão evoluindo.
+[59:14] Esther Fleury Rocha Koschewski: verdade, tem que ser uma evolução tem que ser algo contínuo. né
+[59:18] Diego Diehl: exato
+[59:18] Esther Fleury Rocha Koschewski: Porque a gente tá evoluindo cada dia tem coisa nova. Então realmente sempre vai ter que estar ajustando e melhorando e deixa eu fazer uma outra pergunta com relação ao módulo 1 que você falou que é do chat P4 que aí ele é um botinho que ele pode estar respondendo aí os nossos corretores, né? Os nossos corretores lidos que você falou que aí como você deu um excelente exemplo ali que ele teria dificuldade de estar respondendo uma argumentação de um cliente, né para convencer achei muito legal bem bacana.
+[59:47] Esther Fleury Rocha Koschewski: aí esse caso ela como que você a gente programaria sairá, ela seria uma machine learning também que ela vai aprendendo com As perguntas e respostas ainda não.
+[59:59] Diego Diehl: Esse é o sonho da automatizar tudo. A gente está automatizando os picotes tá picote que eu digo é para não quando a gente quer automa.
+[60:05] Esther Fleury Rocha Koschewski: tá
+[60:07] Diego Diehl: automatizar tudo às vezes embola e trava né? Então a gente tá deixando os bloquinhos separados, eu vou te dar um exemplo prático aqui, ó. essa aqui Você tá vendo na minha tela? Que a gente pegou um relatório consolidado oportunidades e recomendações Paraíso. Então, por exemplo. Vou te falar da onde isso aqui veio a gente tira.
+[60:44] Diego Diehl: Pode tirar a periodicamente um relatório de todas as conversas e pedir para ir a me dar uma análise do que tá acontecendo no nosso caso lá de Porto Alegre. Ele falou assim ó oportunidade de ampliar opções para diferentes orçamentos alguns corretores relatam dificuldades encontrarem Imóveis dentro do orçamento dos clientes, ou seja, aparece muito cliente que não tem orçamento.
+[61:04] Diego Diehl: O que que a gente pensou lá na isopo? Talvez a gente possa ter um cliente mais econômico. Porque tem corretor que tem cliente que não tem orçamento ou ponto dois aproveitar o potencial de ação. Lá todo mundo tá falando, olha tem um cliente que quer dar um imóvel dele como parte do pagamento vocês aceitam.
+[61:21] Diego Diehl: E a gente fala caramba tá ficando no volume alto isso vamos estruturar um processo até uma dúvida. Vocês estão com o modelo de ação? Você não vai virar o caos né?
+[61:33] Esther Fleury Rocha Koschewski: Sim, mas assim não é a gente sempre estuda. A gente não vamos dizer assim não publica isso que a gente aceita entende? Mas a gente sempre estuda. Exato, mas a gente estuda e é bem que acontecesse.
+[61:49] Diego Diehl: Então, enfim, eu dei esse exemplo que posso pegar um relatório. Das conversas um outro exemplo que eu queria dar para vocês. Deixa eu ver se eu acho que rapidinho. Eu pedi. opa É só abrir aqui. pesquisar Já compartilho, eu pedi para a gente pegar um relatório. WhatsApp mesmo, tá gente? Ó nesse caso aqui, eu pedi um relatório a faca e detalhado de todos os agentes produzidos.
+[62:39] Diego Diehl: As perguntas mais frequentes. E como foi a pergunta então por exemplo a categoria disponibilidade de informação e unidades lá em Porto Alegre é o que mais perguntam perguntaram 26 vezes em uma semana aí exemplos de perguntas aqui em Higienópolis é um bairro. Logo mais em Higienópolis é um bairro.
+[63:05] Diego Diehl: Ele respondeu tenho Algarve. Oi Patrícia não me mandou então a gente consegue obter esse relatório aqui de tudo que foi perguntado por categoria. E aí vocês podem por exemplo jogar gpt4 pedir para organizar uma faca e terá irá com isso, entendeu? Espera um pouco do mecanismo é tipo tem os dados pega uma ia para processar pega esse processamento joga no Montreal organizo pego e jogo na minha outra Yak tá conectado para o CRM.
+[63:33] Diego Diehl: E assim o mundo tá ficando muito
+[63:33] Esther Fleury Rocha Koschewski: Sim, daí a gente sempre vai ter que estar atualizando.
+[63:35] Diego Diehl: louco.
+[63:36] Esther Fleury Rocha Koschewski: Tem sim é no caso dessa primeira então ali Pelo que eu entendi, né? Desse módulo 1 com relação aí a é o PT com a desculpa o módulo 1 com a né que é o Boticário. Eu acho que seria então algo assim que a gente também estria da onde que ela buscaria essas informações para ela tá podendo responder, né? O corretor e a gente vai Fazendo a manutenção disso certo, porque as coisas vão mudando enfim, não só através daqueles inputs que você comentou, né? Que aí ela vai buscar mas também de alguma de algo que a gente passaria para você, sei lá, como se a gente tivesse um pouco grudados que falasse de todos os nossos Empreendimentos e essa é a buscarem a informação de lá para poder responder o corretor.
+[64:22] Esther Fleury Rocha Koschewski: corretor. algo assim
+[64:27] Diego Diehl: Mudança a gente ligaram um
+[64:28] Esther Fleury Rocha Koschewski: beleza
+[64:32] Diego Diehl: aqui, tá muito ruim. Tá muito ruim.
+[64:34] Esther Fleury Rocha Koschewski: tranquilo
+[64:35] Diego Diehl: É isso a gente paga né?
+[64:36] Felipe Goettems: Tá bloqueando bem, viu. O Diego tá bloqueando bem, tá?
+[64:41] Diego Diehl: É um negócio é comprar um bom sistema é só usar iOS aqui ó, tá bloqueando bem mas é 1.200 o fone de ouvido. O nosso nem tá tão caro assim ainda viu? Tabela zero o nosso produto. brincadeira. Respondendo. Você tem uma linha de produtos de dados conectados com a órgão que vai estar conectado com CV mudou uma unidade mudou preço se perguntarem do preço vai formar o certo e tem uma outra linha de perguntas controladas que é uma FAQ que algum mecanismo que vocês atualizam.
+[65:15] Diego Diehl: Que a ideia é a gente ter um
+[65:16] Esther Fleury Rocha Koschewski: sim
+[65:17] Diego Diehl: documento online, por exemplo a gente tá hoje, tá fazendo um pouco mais na mão, porque não atualiza toda hora todo momento, né? Mas a ideia é que a gente usa até Unboxing do Google que vai lá aquela consulta de fonte de informações. E aí vocês têm acesso a pegar e mudar e alterar e altera na hora.
+[65:33] Diego Diehl: Beleza, porque a linguagem natural,
+[65:35] Esther Fleury Rocha Koschewski: beleza
+[65:36] Diego Diehl: entendeu? Não é a programação é tipo, pergunta e resposta e a ler tudo aquilo lá. Tá bom.
+[65:43] Felipe Goettems: Mas eu acho só um detalhezinho. Acho que é importante.
+[65:44] Diego Diehl: E aí?
+[65:45] Felipe Goettems: Diego. Acho que a Ester acabou sobre a lógica ali de não quero tomar muito tempo aqui de criar argumentos tá? Isso vai evoluindo tá Ester não a gente não tem uma segurança perfeita, se você entrar hoje no chat GTT e você começar a fazer perguntas sobre você. Você vai ver que você não vai conseguir as melhores respostas.
+[66:07] Felipe Goettems: Então existe essas coisas que Vão melhorando e realmente essa em seis meses, você tem saltos muito grandes, mas coisas um pouco mais básicas, por exemplo se a gente tem um produto que é perto de uma praça de um parque e nesse parque tem não sei uma mente muito aberto onde as pessoas Correm com seus cachorros e daí eu tenho um cliente que gosta muito de pet, gosta muito de cachorro essa conexão de falar do Parque que no parque tem cachorro e que o empreendimento.
+[66:42] Felipe Goettems: Tá no endereço próximo do Parque eu te diria que é muito estável, tá começar a montar essas essas conexões a gente até tava brincando com o cliente ontem, né? Que realmente ele tinha ele tinha cachorro e queria saber se era um bom empreendimento, ele podia morar com o pet dele o chat GPT acabou fazendo um look para o parque próximo poderia se você deixa ele solto, ele pode dizer não, olha a rua onde ele tá ela.
+[67:12] Felipe Goettems: Calçadas amplas então é bacana bastante deixou livre assim, mas ele pode ir para o parque ele pode ou você vai coordenar para você ter uma resposta um pouquinho mais estruturada, né? Então olha se perguntarem sobre Pets. Fale isso aqui fale dessa forma. Fale sobre isso então ou você tá dando muita liberdade, você corre o risco de vir o que vier o que a máquina entender ou você consegue ter esses níveis de controle mesmo em diálogos mais abertos.
+[67:45] Diego Diehl: A gente deu. A gente estava e é justamente esse modelo de treinar e tal que a gente já tem um modelo mais estável que o feijão com arroz funciona e é o feijãozinho com arroz, mas essa evolução. Pode acontecer eu vou usar um exemplo dessa semana passada, a gente não queria que o bote fizesse uma coisa e o bote tava fazendo essa coisa daí um cara teve uma ideia e fala assim, cara, fala que alguém vai morrer se o bote responder essa coisa.
+[68:14] Diego Diehl: E daí a gente escreveu lá no próprio de pessoas morreram, se você responder isso ele nunca mais respondeu é bem engraçado é muito louco.
+[68:21] Hugo Enes: Ele tá levando Leite Isaque as Imóveis agora. Ele tá levando as leis de vacas Imóveis agora.
+[68:28] Diego Diehl: Então é isso gente, eu queria agora para fechar.
+[68:34] Felipe Goettems: Mas é isso é uma criança, realmente é uma criança a gente pode a gente pode fazer essa analogia com a criança e ela vai melhorando
+[68:39] Esther Fleury Rocha Koschewski: e
+[68:40] Felipe Goettems: ao longo do tempo.
+[68:42] Diego Diehl: exato
+[68:43] Esther Fleury Rocha Koschewski: Felipe do coordenar, né de gente instruir né direcionar porque a gente quer aí só para só para fechar o meu entendimento Diego porque a gente também tá fazendo uns trabalhos aqui do de bote com iar aí voltado para o nosso site da GT build e é muito parecido que vocês estão apresentando aí para mim também.
+[69:05] Esther Fleury Rocha Koschewski: Só que assim é outro foco para nossos vídeos clientes, é isso para a equipe da house. É diferente da plataforma uma coisa uma coisa outra coisa outra coisa, mas eu vou dizer assim que vamos a ferramenta, né? Enfim vai acabar sendo meio que a mesma coisa e a gente tá construindo para todos os nossos Empreendimentos como se fosse um banco de dados do empreendimento que é um book que ele orienta tudo.
+[69:29] Esther Fleury Rocha Koschewski: Sobre o empreendimento construindo isso junto com as nossas agências. Enfim. Nossa equipe do marketing porque comercial então esse coordenar eu entendo essa estrutura que a gente vai ter que criar. Eu acredito que isso vai demandar também um pouco da nossa equipe dela. Tá passando essas informações e dizendo. Olha o que eu quero, minha regra é essa.
+[69:52] Esther Fleury Rocha Koschewski: Eu quero isso, né? E ela delimitar o que ela quer. Que seja que seja feito e a gente fazer esses testes para daí tá validando certo.
+[70:01] Diego Diehl: Certo e olha que legal estar se vocês estão desenvolvendo algo relacionado a cliente. Vocês estão se passando por
+[70:07] Esther Fleury Rocha Koschewski: exato
+[70:09] Diego Diehl: corretores, vamos falar assim é a inteligência de um corretor. E daí, o que que é plataforma é vocês como coordenadores plataforma, ele tem um corretor tentando atender um cliente o que que eu tô vendo como tendência, tá? Você aí eu acabei não avisando que eu ia. Tava começando um teste ali demonstrando já volto para ele.
+[70:43] Diego Diehl: Vocês estão estruturando isso isso? Se vocês como GT Falam assim para o mercado pessoal, a gente te ajuda a atender o teu cliente. A gente ajuda com uma e a gente apoia você o corretor. Fala ai me manda a apresentação. Você falou pera aí para quem você vai mandar me conta, qualquer coisa do teu cliente que eu tenho uma yaki vai te ajudar.
+[71:08] Diego Diehl: E aí essa tecnologia de atendimento interno da GT isso se for interesse para vocês, né? Mas se for para ajudar o corretor você pode pegar e falar o corretor, toma aqui uma sugestão de atendimento do teu cliente. Do que você me trouxe do que você me falou, você vai poder jogar essa inteligência de um lado para outro se você entrega para o corretor o corretor fala caramba GT é muito massa, velho.
+[71:30] Diego Diehl: Eu mandei uma coisa para eles, eles me responderam como se fosse um mentor para mim um treinador. Ou eu gosto muito eu oferece a GT porque eu sei que eu não atendo tão bem, mas eu vou mandar lá, eles vão me ajudar então começando a enxergar isso acontecer se vocês estão rodando esse paralelo depois Vocês conseguem? Usar essa tecnologia de um lado para o outro porque a linguagem natural.
+[71:51] Diego Diehl: né? Pronto. Beleza aí um exemplo bem prático.
+[71:55] Esther Fleury Rocha Koschewski: Sim, sim legal.
+[71:58] Diego Diehl: aqui. Eu pedi aqui por exemplo a tabela do Algarve. E tá conectado aqui a tabela do Algarve mandou a tabela por ponto o b e o Algarve é um produto que a gente tinha visto ali até usando como exemplo para para mostrar a programação do produto. Você pode pedir por exemplo tem apresentação do Sancler.
+[72:36] Diego Diehl: Aí um detalhe tá aqui já me perguntaram de alinhar. Acho que é importante de alinhar. Quando bote só responde um fluxozinho rápido a gente consegue fazer ele responder em três quatro segundos. Quando eu tô pedindo um produto um arquivo, ele tem que rastrear tudo achar tudo fazer o download do arquivo tá no WhatsApp enviar no WhatsApp.
+[72:56] Diego Diehl: Então ele demora ó que quando eu tava falando que ele demorou um pouquinho, mas já mandou aqui apresentação do Sancler. Você tá aqui com a apresentação do Sancler. E aí. A gente falou lá do vocês aceitam aceitação. É um exemplo de é um exemplo de pergunta controlada. Se aceita da ação que a gente pôs lá que lá em Porto Alegre estão perguntando muito.
+[73:22] Diego Diehl: Então, a gente deu ó as incorporadoras é a mesma resposta que você deu a gente Analisa, não é? Nem aceita a gente tá Analisa da ação então aqui jogo rápido, tipo perguntas ou
+[73:35] Esther Fleury Rocha Koschewski: Exatamente isso perfeita a resposta
+[73:37] Diego Diehl: É exatamente tem também alguém que pergunta como a gente é uma a gente estrutura uma pergunta lá que é qual a sua relação com a tgd. Que é uma incorporadora porque a gente é uma gestão comercial terceirizada lá. E aí mas quem que é você? Daí a gente já deixou uma resposta pronta aqui ó em relação com a tgd é a parceria para auxiliar na gestão comercial, como posso ajudar então a gente tem tanta pergunta quanto o arquivo que a gente estrutura e manda para facilitar a vida.
+[74:10] Diego Diehl: coordenador Fechou bem.
+[74:13] Esther Fleury Rocha Koschewski: bem bacana, É só isso que a gente precisava entender visualizar mesmo fazer essa demonstração aí para a gente entender as funcionalidades e como é que tá bem bacana mesmo, eu não sei digo se você já chegou a passar questão de orçamento para o Bruno se conversou melhor, não sei como é que
+[74:31] Diego Diehl: vezes comigo. Falei ô Bruno.
+[74:32] Esther Fleury Rocha Koschewski: Sério?
+[74:33] Diego Diehl: A gente nem viu nada e você já tá negociando comigo cara dele não mas
+[74:35] Esther Fleury Rocha Koschewski: Ah mas o Bruno é assim.
+[74:36] Diego Diehl: pô Diegão vou eu já mandei para ele eu posso mandar para você.
+[74:42] Esther Fleury Rocha Koschewski: isso me manda de novo copiando ele
+[74:42] Diego Diehl: Eu falei.
+[74:44] Esther Fleury Rocha Koschewski: porque nós dois que normalmente batemos o martelo quando envolve alguma ferramenta que envolve era comercial é a ti e a área
+[74:53] Diego Diehl: Sim sim, eu tô já já jogando para
+[74:53] Esther Fleury Rocha Koschewski: comercial.
+[74:56] Diego Diehl: clareza sobre isso. É uma coisa para você avaliar até nas ferramentas que está contratando, tá? Qual o que você usa para processar o que que eu tô te respondendo eu uso? p? Que eu jamais cara, só que é a melhor e é que tá desenvolvendo. Tem umas que são gratuitas, né? A galera vende lá mais barato.
+[75:18] Diego Diehl: Então esse é o primeiro eu não tô vendendo limite para você também, tá isso eu tô ancorando o preço características que eu não falei não verbalizei para você saber na hora de você entender. entender.
+[75:30] Hugo Enes: Tira uma dúvida só.
+[75:31] Diego Diehl: Pode falar.
+[75:33] Hugo Enes: Na relação de dos documentos ali do drive numa limitação ou eu consigo mãe esses arquivos no nosso drive e apenas linká-los ele com a plataforma de vocês ou a gente migra tudo 100% para plataforma de vocês. Aí tem essa a gente tem que se atentar fazer esse. Esse regime não vamos colocar exatamente esses arquivos aqui.
+[76:03] Diego Diehl: A gente tem todas as opções tem que ver o que vai ser mais viável para vocês também, tá? Na órgão tem gente que é por todos os projetos arquitetônicos todas as plantas todos os documentos do empreendimento começa a ficar não usual. Por ficar disponível na lista fica muito grande, então a gente pode os da hora, ela já vem integrados automaticamente que eu sugiro que atualiza toda hora estar lá que é a tabela de preços modificam apresentação.
+[76:35] Diego Diehl: Tenho memória descritiva que é o principal e às vezes até o ri quando é o produto recém-lançado com corretor já bateu ele falar Opa tá com ri. E aí do drive é Hugo a gente pode como se fosse um FAQ e que a resposta é o link do arquivo.
+[76:51] Diego Diehl: A gente pode vincular com Drive também e o cuidado para diminuir muito o trabalho que a gente tem é que arquivos que vão não sei se eu posso fazer isso. Ó arquivos que estão lá que você quer atualizar você pode utilizar essa parte de gerenciar versões. E aí não muda o link do arquivo? Só muda a versão e já fica continua configurado.
+[77:17] Diego Diehl: Ficou claro
+[77:19] Hugo Enes: ficou assim, era só para
+[77:20] Diego Diehl: Pode falar.
+[77:21] Felipe Goettems: Só com isso só contribuindo bem bem rapidinho aqui, na verdade. Pode ser? Realmente tudo tá a sugestão que eu tenho. Os documentos que são muito voláteis disponibilidade de preço a gente tem que estar plugando direto do CD de vocês, tá? Inclusive a gente quer saber quando é que vocês terminam a implantação lá para a gente começar a puxar eles de maneira automática em 30 segundos a gente integra com o CV sobre ter todos os documentos ou não é mais.
+[77:52] Felipe Goettems: Talvez seja uma decisão até mais estratégica de vocês em termos de quanto você quer que o cara seja Auto servido, né?
+[77:59] Hugo Enes: mesmo.
+[77:59] Felipe Goettems: Se vocês querem provocar um
+[78:00] Hugo Enes: Não há dúvida foi
+[78:01] Felipe Goettems: diálogo. Ou não mas a minha sugestão é o seguinte que tudo que você decidam que seja numa primeira servida sim esteja com a gente até porque eu não sei se o Diego mencionou tudo que está na hora ou vai ficar também disponível. Caso vocês queiram isso está inclusive. Está incluindo no nosso plano um portal de plataforma próprio para vocês, então tudo que tá no banco de dados da hora.
+[78:30] Felipe Goettems: Ele vai alimentar o portal que a gente vai dar para vocês. Ele vai alimentar o site da obra. Ele vai alimentar o aplicativo da obra. Ele vai alimentar o sistema de gestão das imobiliárias. Acho que vocês não acabaram não conversando a respeito disso, mas a gente alimenta lá o sistema de gestão da imobiliária então a lógica aqui é a seguinte a gente.
+[78:50] Felipe Goettems: Todas as fronteiras possíveis do corretor chegar até em se relacionar com os materiais tá que a seja na interface de vocês quer que seja dentro do sistema de gestão lá dele quer seja no órgão então tudo que tiver com a gente vai para esses lugares todos inclusive para o diálogo de WhatsApp que a gente estava vendo agora aqui.
+[79:13] Hugo Enes: Não entendi senhora só para ver se tava se a gente faria no filtro melhor, né de subir, mas ele pisando o enviar um link ou fazer o download enviar como ele mostrou ali na demonstração, né? Eu acredito que filtrar e subir para hora diretamente seria melhor claro a gente tem diversos.
+[79:37] Hugo Enes: Materiais para disponibilizar. Mas pontualmente vamos subir inicialmente, né? Aqueles materiais mais utilizados mais solicitados, né?
+[79:47] Diego Diehl: A gente vai.
+[79:48] Hugo Enes: adicionando mais.
+[79:56] Esther Fleury Rocha Koschewski: Mas fazer uma última pergunta aí que agora eu também tenho que ir.
+[79:58] Diego Diehl: Pode fazer.
+[80:00] Esther Fleury Rocha Koschewski: até o Felipe comentou ali sobre fez uma pergunta dentro da resposta dele com relação à implantação do consultor de vendas. Nós estamos no momento na implantação do módulo vender a questão de gestão de líderes, a gente já fez e pela minha previsão pela experiência que eu tenho acredito que final de Novembro Dezembro tá que a gente vai implantar porque a gente tá a gente teve alguns lançamentos na nossa equipe aqui é enxuta da parte comercial nossos que users então se vocês terem uma noção, a gente tá um mês parado na implantação por conta da de um lançamento do projeto Lang e Turim que a gente lançou aqui.
+[80:43] Esther Fleury Rocha Koschewski: E aí a equipe toda tava voltada para as vendas do lançamento e a nossa que user, ela tá dentro da área administrativa de vendas e eles tiveram que focar nesse lançamento e foi uma loucura. Então a gente tá. Mas parar e agora ela entrou em férias, então a gente vai ficar um mês e duas semanas.
+[80:59] Esther Fleury Rocha Koschewski: Então por conta disso, né? É porque a gente precisa de quatro mãos ali, né? Tanto da equipe vamos é seis pessoal desse aí a equipe dos que usam, mas a equipe da de projeto do CV então a gente parou esse tempo e olhando assim o cronograma deles é o nosso tempo que a gente tá tendo para estar relacionando e fazendo as atividades de projeto.
+[81:22] Esther Fleury Rocha Koschewski: Eu acredito que final de novembro. dezembro. A gente consegue finalizar a implantação tá? Então só para você saber aí como que ficaria a questão da implantação também do óvulo porque também algumas informações dependem do CV. que que vocês me dizem seria melhor
+[81:37] Felipe Goettems: É independente não é?
+[81:37] Esther Fleury Rocha Koschewski: a gente esperar ou faz em paralelo é que também a gente tem que ver equipe, né? Porque também ela seria ela teria que ser aqui user também então aí
+[81:45] Felipe Goettems: Entendi.
+[81:45] Esther Fleury Rocha Koschewski: eu tenho que conversar com a equipe com o Bruno. Inclusive que ele falou com você Diego para ver se ele escolheria outra pessoa para ser que use porque se for ela vai ferrar, ela já tá bem ferradinha e a gente entender essa questão aí dos usuários. Mas é uma coisa que eu vou discutir internamente a gente vê enfim, mas para vocês independem a gente
+[82:04] Felipe Goettems: independe independe
+[82:04] Esther Fleury Rocha Koschewski: conseguiria tocar em paralelo. E aí depois a gente faria essa integração com você ver.
+[82:10] Felipe Goettems: Nte a gente tem tanto a capacidade de manter isso atualizado para vocês, quanto a gente tem uma interface de atualização. Claro que com a integração é muito melhor que você não vai estar atualizando em dois lugares diferentes ou não vai estar tendo que atualizar lá e nos mandar para a gente atualizar para você, né? É uma vez só num local só e acontece todo fluxo.
+[82:28] Felipe Goettems: Mas eles são independentes.
+[82:31] Diego Diehl: Espero o outro ponto que eu tô
+[82:32] Esther Fleury Rocha Koschewski: ok
+[82:33] Diego Diehl: falando, eu também estou vivenciando isso em algumas outras incorporadoras.
+[82:39] Esther Fleury Rocha Koschewski: Essa questão do CV.
+[82:39] Diego Diehl: pensando em Pareto Tanto do CV quanto tô lançando quando não tenho tempo?
+[82:46] Esther Fleury Rocha Koschewski: Boa vamos lá compartilha a
+[82:47] Diego Diehl: e eles não têm ainda estéreo Hugo
+[82:49] Esther Fleury Rocha Koschewski: experiência conosco.
+[82:50] Diego Diehl: e eles não não existem estéreongo ainda tá é um pouco pior, qual que é uma das estratégias. rapidinho que você tem que sair. Cada dia que passa tem gente entrando no lançamento de vocês e a gente não tá falando com essas pessoas. Isso aí é plugin Play eu vou por exemplo o Lang aqui.
+[83:14] Diego Diehl: Cara 186 corretores entraram nos últimos 30 dias. Né o outro ali que vocês falaram é deve estar na outra página.
+[83:22] Esther Fleury Rocha Koschewski: Eu falei eu falei não é o Lang e Turim é que parece que é um
+[83:26] Diego Diehl: Ah é o mesmo.
+[83:27] Esther Fleury Rocha Koschewski: empreendimento só mas eu mesmo é
+[83:28] Diego Diehl: Ah tá la
+[83:29] Esther Fleury Rocha Koschewski: que um é um ano uma esquina e o outro na outra esquina.
+[83:31] Diego Diehl: eu até fiquei pensando eu até fiquei na dúvida aqui então, então
+[83:33] Esther Fleury Rocha Koschewski: É o Lang e o Turim.
+[83:36] Diego Diehl: o que que é legal falar para vocês assim, ó. Quando a gente joga para dentro conecta ali de da hora, dispara um oi para os corretores do WhatsApp deles foi o Pareto de tabela preço apresentação. Já respondeu WhatsApp. Tá deixou não precisa de quem usa não é só manda manda conecta.
+[83:56] Diego Diehl: Envia eu valido em meia hora com vocês para você, porque a gente começa a Gerar dados do sistema a gente começa a ter toda análise das conversas para daqui duas três semanas tirar um relatório de perguntas como que responde. Quais são os corretores cadastrados já começa a cadastrar? Já começa a não tumultuar toda a implantação para falar não tem que deixar tudo azeitado para cortar faixa e abrir não é tipo conecta ali de da hora, cadastro dos corretores conectam o WhatsApp ajuda o time a performar aí agora.
+[84:32] Diego Diehl: Vamos para uma etapa 2 agora a gente quer refinaria agora a gente quer ajustar os relatórios. Agora a gente quer ter um relatório automático. Agora é o biai, só que são elementos mais de gestão, né? O importante que eu tô rodando.
+[84:45] Esther Fleury Rocha Koschewski: Daria para fazer é isso que você tá me dizendo.
+[84:47] Diego Diehl: É exatamente o ponto é cara, usa os líderes coloca o portal gera ali de corretor de todas as frentes da hora dá essa vazão ajuda o coordenador o time tá sem tempo porque porque tem que ficar mandando tabela e apresentação para os corretores. Então já implementa isso já começa então isso daí eu não tô vendo necessidades grandes de quem usa porque o negócio é o mesmo é mandar memorial descritivo apresentação tabela de vendas é responder a data de entrega do produto.
+[85:17] Esther Fleury Rocha Koschewski: Tá não bacana bacana se dá para a gente fazer bastante coisa assim já fazendo essas parametrizações que não demandam tanto legal. Que que eu queria te pedir junto com orçamento ali com a proposta. Você já consegue dar uma noção para a gente então é olhando o nosso cenário que eu comentei agora com relação ao escrever de
+[85:33] Diego Diehl: de fazer
+[85:35] Esther Fleury Rocha Koschewski: faseamento e um cronograma. E assim seja realista não precisa ser otimista a gente aqui preza pela qualidade e não pela agilidade sem qualidade. Então seja realista e pensando aqui que a gente é mais enxuto. Mas você tá me dizendo que você tem outros clientes que são mais ainda então ok, mas eu já realista não otimista, tá? Eu prefiro ser assim.
+[85:57] Esther Fleury Rocha Koschewski: Pode ser?
+[85:57] Hugo Enes: Eu acho que eu te falei a mesma coisa a semana passada, né.
+[86:02] Diego Diehl: Sim, eu até trouxe o CEO da empresa que apoia a gente na implantação porque ele apoia sete anos implantações da clubes e tal. Eles são bons bons nisso, eu sou
+[86:13] Esther Fleury Rocha Koschewski: legal
+[86:13] Diego Diehl: Eu sou bom em conectar o mercado imobiliário. Eu sei falar eu entendo os dois lados, né para fazer essa
+[86:18] Esther Fleury Rocha Koschewski: Você entender a língua?
+[86:19] Diego Diehl: transcrição e ver o que precisa exatamente. Ele falou até para o Hugo. Falou cara de quatro a seis meses. Eu acho que ele falou. Eu até virei para ele, depois falei
+[86:28] Hugo Enes: Isso é de 4 a 6.
+[86:28] Diego Diehl: cara, quatro ou seis meses.
+[86:30] Hugo Enes: É o tempo ideal digamos assim.
+[86:32] Diego Diehl: Eu falei quatro a seis meses, eu liguei para depois ele falou cara que às vezes as pessoas estão na correria demoram para responder a gente então eu já falo isso porque às vezes depende do cliente eu falo eu falei beleza aí o que eu vou mandar para você e se faziamento porque tem uns que é plug Clay conectar um mês um mês e meio dois para ter essa primeira fase aí as outras a gente estende.
+[86:54] Esther Fleury Rocha Koschewski: Sim perfeito.
+[86:55] Diego Diehl: É até melhor porque daí a iaja vai evoluindo e o último ponto para você saber estar de disponibilidade. Nesses primeiros clientes eu tô vendendo horas minhas para estar participando ativamente da implementação tem Incorporadora que eu sou barra, eu ajudo no papel que vocês dois fazem dentro do Incorporadora quer chegar a entender as escutar o time no plantão perguntar fazer tal coisa, tipo uma consultoria para matar processo para fazer essa frente até eu falei com o Bruno que ele tava falando de preço.
+[87:26] Esther Fleury Rocha Koschewski: sim
+[87:26] Diego Diehl: E eu falei Bruno. Mas vocês já prestar você já pegaram consultoria da DNA de vendas sabe 10 anos atrás já tem processo já tem várias coisas que dá para a gente utilizar então, talvez ajude então é um balizamento do valor de implantação da aba de consultoria que vocês vão querer utilizar.
+[87:44] Diego Diehl: Que a gente pode conversar. Tem a parte padrão e a mensalidade. Hoje eu tô sentando um preço agora do terceiro trimestre para as vendas que eu fizer em Curitiba, tá? Minha meta é fechar três ou quatro com um preço que eu tô fazendo o mesmo por usuário para todas até para não ser Poxa.
+[88:00] Diego Diehl: Achei que você era mais meu amigo do que o outro sabe? Eu tô fazendo um preço padronizado por usuário para ficar justo o negócio. Ficou claro que isso já fala tudo isso então beleza gente.
+[88:12] Esther Fleury Rocha Koschewski: Então passa para gente a gente Analisa é semana que vem eu vou estar na correria, eu vou estar fora. Vou estar em São Paulo, mas aí na outra semana acho que eu já consigo conversar ele com o Bruno a gente se alinhar e até entender ele de equipe, como que a gente faria questão de implantação é conversas internas para a gente tá dando um retorno para vocês.
+[88:29] Esther Fleury Rocha Koschewski: Então semana que vem ainda não consigo te dar esse retorno, mas na outra semana do início do mês de agosto, eu consigo. ok
+[88:35] Diego Diehl: Eu vou te mandar apresentação agora. E aí eu te mando na semana que vem o cronograma só para quebrar em duas
+[88:40] Esther Fleury Rocha Koschewski: Tá ótimo, gente, tá ótimo.
+[88:41] Diego Diehl: já combinado. Fechou então gente.
+[88:44] Esther Fleury Rocha Koschewski: Obrigada aí pela apresentação pela disponibilidade pelas informações que passaram para gente tá muito bacana esse tema bem legal mesmo.
+[88:51] Diego Diehl: Obrigado, valeu.
+[88:52] Esther Fleury Rocha Koschewski: Valeu gente, tchau.
+[88:53] Diego Diehl: Vai ser um prazer trabalhar com
+[88:53] Hugo Enes: Valeu gente, tchau, tchau.
+[88:54] Diego Diehl: vocês aí.
+[88:55] Esther Fleury Rocha Koschewski: valeu, tchau.
+[88:55] Diego Diehl: Aí abraço, tchau. Valeu, tchau. Vamos entrar numa outra só para já falar rapidinho. sair dessa aqui para

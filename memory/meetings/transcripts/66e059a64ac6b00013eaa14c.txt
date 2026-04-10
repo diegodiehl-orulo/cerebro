@@ -1,0 +1,505 @@
+[00:02] Lucas Vicente: preenchido. Em algum momento que é o corretor. Para finalizar o nosso processo certo. Talvez não tenha nesse momento Inicial, mas posteriormente ele vai ser preenchido. processo para ele não puxar do
+[00:14] Diego Diehl: O contato quando a gente não tem Imobiliária, a gente tem um campo cliente o campo contato, né?
+[00:18] Lucas Vicente: contato então quando tiver sem contato, ele vai correr normalmente. Só que eu fiquei até com uma dúvida eu ia deixar para ver na perfeito reunião de tarde, mas já pergunto
+[00:20] Diego Diehl: O campo contato é o que tava puxando para as automações.
+[00:23] Lucas Vicente: certo
+[00:24] Diego Diehl: Só que eu seleciono o cliente corretor no campo cliente.
+[00:31] Lucas Vicente: tá
+[00:33] Diego Diehl: Aí o ponto é eu poderia adicionar ele já em contato é o mesmo. Ou poderia adicionar um como cliente e o outro como contato acho que assim na hora do cadastro tem que sair certo já eu não entendi, qual que foi a solução na verdade Lucas.
+[00:49] Lucas Vicente: Eu criei um outro. Quer falar alguma coisa?
+[00:53] Johnny Fernandes: Não pode falar.
+[00:54] Lucas Vicente: Eu criei um outro campo para ele não ficar associado ao cliente. Ele é um campo como se ele fosse Genérico e aí a gente vai conseguir atribuir o corretor, entendeu?
+[01:04] Johnny Fernandes: O que a gente definiu ali na eso e
+[01:04] Lucas Vicente: O cliente o campo pode falar perdão?
+[01:08] Johnny Fernandes: Rodolfo super bem e essa é uma lógica do produto mesmo tá do produto quando eu falo da solução do prm tá vou startar um futuro de negócios ali tá? Seja através de uma visita carta Interessado ou de um lixo que eu acabei de qualificar. Se eu já tiver se eu souber que esse corretor é dessa imobiliária.
+[01:31] Johnny Fernandes: Eu posso identificar imobiliária do cliente o corretor como como contato? Ok só para ter os dados de vgv na imobiliária, porque quando eu faço uma venda naquele corretor eu acumulo veja bem do corretor daquela imobiliária. Beleza, é isso é interessante para algumas versões BG, vem outras coisas quantidade de vendas daquela Imobiliária até os outros dados lá.
+[01:57] Johnny Fernandes: Quando por algum motivo você já é mil motivos, eu vou fazer uma não ter Imobiliária ou é o corretor autônomo que em São Paulo acontece bastante no campo cliente, o corretor vai entrar como cliente. Entendeu? E no checklists e perguntas e regras a gente tem que ter. A condicional lá ou seja, tem que ter o check list para quando eu tiver Imobiliária e corretor.
+[02:24] Johnny Fernandes: Vai ser imobiliária em contato que o meu corretor vai ser o contato do card nessa situação. E eu tenho que ter o mesmos Campos para cliente que é quando meu corretor for meu cliente de fato. Entendeu? Claro não
+[02:42] Diego Diehl: Não.
+[02:43] Johnny Fernandes: Claro
+[02:44] Diego Diehl: Não é que foi mal, tava meio que
+[02:45] Johnny Fernandes: Lucas
+[02:47] Diego Diehl: criando um card em paralelo que eu não entendi, mas acho que é para o Lucas, entendeu?
+[02:51] Lucas Vicente: Entendi fazer duas condicionais, né, Johnny? Acho que é mais ou menos o que a gente faz quando o cliente é tipo CNPJ e tipo PF, né?
+[02:57] Johnny Fernandes: É a mesma coisa, sabe quando a
+[02:58] Lucas Vicente: CPF? Ah
+[02:59] Johnny Fernandes: os tipos de vendas lá que se for cliente a pessoa física, a gente segue com uma lista de perguntas e
+[03:04] Lucas Vicente: perfeito
+[03:04] Johnny Fernandes: quando é cliente sua agenda jurídicas.
+[03:07] Lucas Vicente: perfeito
+[03:08] Johnny Fernandes: É a mesma coisa, só que a gente vai olhar para o tipo do cliente também aqui, entendeu?
+[03:13] Lucas Vicente: tá
+[03:13] Johnny Fernandes: Então por exemplo. Eu preciso pegar o RG do corretor. Certo se o tipo do cliente do
+[03:19] Lucas Vicente: certo
+[03:21] Johnny Fernandes: negócio for. empresa Eu vou gravar isso esse RG no contato.
+[03:28] Lucas Vicente: tá
+[03:28] Johnny Fernandes: Que ele é o meu corretor. Se o tipo do cliente é pessoa eu vou gravar o RG no cliente do negócio porque ele é o meu corretor.
+[03:40] Lucas Vicente: tá
+[03:41] Johnny Fernandes: É exatamente essa lógica aí, entendeu?
+[03:43] Lucas Vicente: Entendi.
+[03:44] Johnny Fernandes: Só para ficar claro aqui, Diego só para você entender também. Acho que para todos aqui rapidinho agora vou aprofundar não só vou passar um peixe aqui porque essa foi a lógica de produto que a gente definiu aí um tempo atrás. E deu super certo ali na Depois de alguns meses, né? Então é bom Compartilhar esse conhecimento aqui.
+[04:06] Johnny Fernandes: Então aqui é o seguinte, ó, eu tô no fundo de negócios, ok? Então, nós temos alguns controles quando a gente vai gerenciar o parceiro que é o veja evento corretor o vgb da imobiliária, quantas vendas essa imobiliária já gerou aqui quantas vezes esse corretor já gerou aqui, né? E para mim gerar as informações na imobiliária.
+[04:32] Johnny Fernandes: Eu preciso que ela esteja vinculada no cards, não tem como não tem como adivinhar, né? Que aquele Estava envolvido no processo então quando eu faço aqui o novo negócio. E eu coloco aqui a imobiliária. pegar Deixa eu pegar aqui vai qualquer coisa aqui.
+[04:57] Diego Diehl: O Johnny eu não sei o que que exatamente eu só para deixar claro o problema tá hoje, a gente não tem as imobiliárias cadastradas. A gente só tem o corretor a gente precisa agendar uma visita. Como é que eu faço isso?
+[05:10] Johnny Fernandes: Não é exatamente, esse é o tema mesmo.
+[05:13] Diego Diehl: Tá bom.
+[05:17] Johnny Fernandes: Só pegar aqui.
+[05:44] Diego Diehl: Eu acho melhor é um caso real tem
+[05:46] Johnny Fernandes: Beleza, só queria explicar o
+[05:48] Diego Diehl: corretor com o número de telefone. Como é que eu crio?
+[05:54] Johnny Fernandes: seguinte. Ó, se eu tenho só o corretor não tem problema do corretor porque ele é autônomo ou porque eu não tenho informação o corretor entra aqui ó e cliente.
+[06:02] Diego Diehl: Sim, é isso que a gente fez.
+[06:03] Johnny Fernandes: Então bugou porque porque foi que eu
+[06:04] Diego Diehl: bugou.
+[06:07] Johnny Fernandes: acabei de usar para o Lucas lá nas perguntas, ele tem que tratar os dois cenários.
+[06:13] Diego Diehl: Ah dá para automatizar ou pega da
+[06:17] Lucas Vicente: diferentes
+[06:18] Johnny Fernandes: Entendeu? Porque tem que estar pronto Diego para quando ele fizer o corretor direto e quando ele fizer Imobiliária corretor.
+[06:25] Diego Diehl: Então é se não tiver contato
+[06:26] Johnny Fernandes: o clube
+[06:28] Diego Diehl: preenchido ou se o cliente for se o cliente for corretor. Não tem contato e pega dados do
+[06:34] Johnny Fernandes: Vai essas perguntas aqui.
+[06:36] Diego Diehl: cliente se o cliente for
+[06:37] Johnny Fernandes: E é isso aí?
+[06:38] Diego Diehl: conecta o corretor.
+[06:39] Johnny Fernandes: Essa é lógico, então assim eu
+[06:40] Lucas Vicente: perfeito
+[06:41] Johnny Fernandes: exibo condicional o check list, entendeu?
+[06:44] Diego Diehl: E uma pergunta não é mais fácil deixar liberado o campo contato.
+[06:50] Johnny Fernandes: É isso é uma regra é um arquitetura do Clube. Se o contato já tá entrando como cliente, ele já é o meu contato direto, não precisa alimentar o contato o contato do cliente que já é uma pessoa física, entendeu?
+[07:04] Diego Diehl: É que o que eu quero dizer se a gente for higienizar esses dados depois. Não seria melhor a gente ter uma imobiliária geral que é imob geral, ele selecione modo geral e aí ele coloca qualquer corretor dentro desse Mob geral e depois a gente é justa.
+[07:21] Johnny Fernandes: Não não acho que não não porque daqui a pouco Caio vai querer saber dados da imobiliária. Ele já tem algumas obrigações cadastradas.
+[07:28] Diego Diehl: Isso mas eu tô falando assim, ó, só para deixar o exemplo Claro, tá? Hoje os gerentes não eu tenho a sensação que a gente não consegue pegar e cadastrar todas as imobiliárias e fazer com calma eles querem registrar. Tá então vou registrar lá sem visitas de um corretor está no
+[07:50] Johnny Fernandes: Não.
+[07:51] Diego Diehl: campo, não é autônomo ele participa de imobiliárias.
+[07:55] Johnny Fernandes: tá
+[07:56] Diego Diehl: Ou como autônomo se quiser, mas ele vai ser preenchido no campo cliente certo?
+[08:03] Johnny Fernandes: perfeito
+[08:03] Diego Diehl: E ele é de imobiliário, ele é autônomo tem de todos os tipos. Daqui dois meses aí eu vou virar para Cátia e a gente vai começar a saber cada corretor de que Imobiliária é?
+[08:17] Johnny Fernandes: beleza
+[08:18] Diego Diehl: Pergunta se eu pegar esse corretor. E associar ele a uma imobiliária. Os dados vão ser corrigidos. Porque eu tenho a sensação que essa sem visitas não vai ter espaço para eu ter clareza de qual imobiliária que esse corretor é? Ou f***-se o histórico vamos dizer assim a partir do momento que o social corretor é Imobiliária correta.
+[08:45] Diego Diehl: As próximas visitas eu vou registrar certo e aí eu vou começar a mapear com base em imobiliárias.
+[08:52] Johnny Fernandes: beleza
+[08:52] Diego Diehl: Por hora só tô baseando só tô mapeando com base em corretores. Como se todos fossem autônomos? Essa é real?
+[09:01] Johnny Fernandes: Não entendi Dá para você também digo mas acho que essa lógica é para sempre ter aqui o cliente PJ aqui e colocar corretor aqui, né? Pode ser ou seja? Aqui internamente a gente vai deixar preparado para os dois cenários para não dar banho na operação. Tá bom? Mas a gente pode pegar todos os corretores desse primeiro momento e vincular a imobiliária geral.
+[09:26] Diego Diehl: Ah não a gente vincularia eles.
+[09:28] Johnny Fernandes: Não precisaria é que quando a gente vincula quando o que que contato ele já vai estar automaticamente. Mas aí você pesquisa ele acha entendeu?
+[09:42] Diego Diehl: É porque se for vincular todos para achar todos de uma vez é melhor pesquisar, ele vai ter que pesquisar de qualquer forma. exatamente
+[09:49] Johnny Fernandes: Pode criar uma imobiliária.
+[09:51] Diego Diehl: O que que você acha melhor na tua experiência?
+[09:55] Johnny Fernandes: Na minha experiência eu não criar essa Imobiliária Padrão.
+[09:58] Diego Diehl: tá
+[09:59] Johnny Fernandes: Tá e eu falaria o seguinte se você já sabe que esse corretor é da Imobiliária Lopes, coloca Lopes como cliente o corretor aqui como contato. Porque eu já vou computar essa venda no vgb da Lopes GV do cara, se você não tem essa informação, coloca o corretor como cliente normalmente e
+[10:18] Diego Diehl: E aí Segue normal não vai bugar o
+[10:18] Johnny Fernandes: segue o fluxo.
+[10:20] Diego Diehl: relatórios?
+[10:20] Johnny Fernandes: Não vai bugar nada e internamente
+[10:22] Diego Diehl: tá
+[10:23] Johnny Fernandes: vou tratar isso no checklist lá, entendeu? Isso é muito comum refrigerante.
+[10:26] Diego Diehl: É sim
+[10:28] Johnny Fernandes: empresa que vende a pessoa física jurídica, já trato isso mesmo ali
+[10:31] Diego Diehl: tá
+[10:33] Johnny Fernandes: porque independente mesmo que o cara coloca aqui eu tenho que gravar certo lá no funil, entendeu?
+[10:38] Diego Diehl: Assim resolve. Então desde que eu coloco um corretor aí como cliente automação funciona? Então, ok é que eu acho que só voltando no tempo para a gente aprender quando você falou. Ah, é só por o corretor como cliente faltou a gente verificar se essa automação está preparada, né?
+[10:55] Johnny Fernandes: Na verdade.
+[10:56] Diego Diehl: Porque daí eu tava lá na frente do cliente treinando a galera e bugou a p**** do sistema todo. Tá, mas beleza eu vou só atender uma ligação e pode seguir.
+[11:05] Johnny Fernandes: Tá aí do nosso lado no casei sempre sempre é bom.
+[11:12] Lucas Vicente: Tá bom.
+[11:13] Johnny Fernandes: Sempre tratar tipo de quem porque como eu não consigo evitar. Que seja entrado o cliente ou uma empresa ou Já criei sempre tem que estar olhando para os dois cenários.
+[11:23] Lucas Vicente: aí eu coloco duas filtragens na minha condicional, se cliente for igual a contato foi igual vazio É algumas perguntas e se
+[11:31] Johnny Fernandes: Olha o tipo do cliente, só isso o
+[11:32] Lucas Vicente: Tá perfeito tipo do cliente.
+[11:34] Johnny Fernandes: tipo do cliente for empresa.
+[11:37] Lucas Vicente: perfeito
+[11:37] Johnny Fernandes: Eu vou gravar os dados do contato da do negócio se o tipo do cliente for pessoa eu gravo os dados da pessoa.
+[11:46] Lucas Vicente: tá
+[11:47] Johnny Fernandes: Tá bom aí automação vai seguir
+[11:48] Lucas Vicente: beijo
+[11:49] Johnny Fernandes: certinho então Claro.
+[11:54] Diego Diehl: Ficou cara então, beleza o rápido
+[11:55] Johnny Fernandes: Isso é rápido.
+[11:59] Diego Diehl: O rápido é hoje ainda, né?
+[12:00] Johnny Fernandes: É não hoje ainda é rapidinho.
+[12:00] Lucas Vicente: Sim, sim.
+[12:02] Diego Diehl: Então, a gente está falando só para a gente voltar no corda daí juntos, pode retomar. A gente tava com problemas a gente está no processo de implementação de visitas de registro de visitas, vamos chamar assim de funil de negócios, né na etapa de agendamento de visitas. A gente não tava com e-mail habilitado João já resolveu vai treinar o time vai lidar com o Caio ali, tá de boa.
+[12:28] Diego Diehl: Ponto dois eles precisam eles travaram e cadastrar e pesquisar o contato. Tem que achar o contato deles lá ou criar um novo e registrar a visita. certo E aí a gente tem que conseguir enviar o e-mail. Que tinha alguns ajustes também para ir o Creci do gerente para tal vida na conversa.
+[12:55] Diego Diehl: E recebeu o e-mail retornar ao e-mail e ter um passo a passo aí claro como processo final uma documentaçãozinha João do processo de visitas para o time poder consultar depois que a gente tiver mais longe. Mas no início treinar todo time vai na força mesmo, depois que der uma estabilizadinha a gente registra para eles e grava um vídeo também.
+[13:17] Diego Diehl: O que que falta para isso daí?
+[13:25] Lucas Vicente: falaram
+[13:27] João Vitor Portes da Silva: É a gente tá tá finalizando esses pontos estão até trouxe no início da reunião, Diego foi foi já realizado 50% dessas alterações que faltavam relacionados a esse processo de registro de visita. Hoje à tarde eu pretendo já me reunir com o Lucas já para a gente validar e ter essas alterações finais realizadas e confirmadas que tá tudo ok mesmo e passa esse feedback para ti, tá? Então é esse é o meu compromisso com essa demanda hoje.
+[13:55] João Vitor Portes da Silva: Em paralelo a isso o que que a gente tem? A configuração do dos e-mails então eu me propus a sentar com gerentes a gente fazer essa configuração produzir um vídeo novamente validar com o Caio e
+[14:07] Diego Diehl: tá
+[14:08] João Vitor Portes da Silva: treinar os Como configurar tá isso? Como configurar tá isso?
+[14:10] Johnny Fernandes: O João só um ponto o Diego falou que já estava feito na verdade. Vai ser feito vai ser feito ainda isso.
+[14:16] João Vitor Portes da Silva: Isso eu vou fazer eu a gente fez essa primeira configuração com a Kátia na sexta-feira, tá?
+[14:21] Lucas Vicente: é que a gente fez um
+[14:21] Johnny Fernandes: tá
+[14:22] João Vitor Portes da Silva: usuário.
+[14:23] Lucas Vicente: grande a ideia do João é fazer um vídeo mais bem direto para disponibilizar para todo mundo e ficar mais fácil foi mais tempo a gente explicando para Cátia, então, acho que não fica muito dinâmico.
+[14:34] Johnny Fernandes: Tá bom, tá bom, beleza.
+[14:36] João Vitor Portes da Silva: Isso aí eu vou me reunir com gerentes chamar eles e a gente fazer essa configuração.
+[14:41] Diego Diehl: O João desculpa pode economizar usa o jogo Johnny e o Lucas essa parte de ir até e desdobrar, vamos bater o que falta, eles eles a gente desenvolvendo para aplicar no cliente que daí eu toco contigo essa esse plano com cliente. Senão a gente vai gastar muito tempo. Quando tiver mais tempo a gente pode até ir atualizando tudo, mas o teu papel é pegar pronto.
+[15:05] Diego Diehl: E lá treinar o time explicado comentar e tirar dúvida e tal e se tiver algum problema voltar aqui para pedir ajuda. Tá o que falta, então faltam 9
+[15:13] João Vitor Portes da Silva: beleza
+[15:15] Diego Diehl: itens lá que tá com Lucas para agendamento de visita cheque tá com
+[15:18] João Vitor Portes da Silva: Exatamente beleza 9 itens.
+[15:19] Diego Diehl: isso. Mas assim.
+[15:22] João Vitor Portes da Silva: A gente tem que finalizar aquela parte de higienização Johnny dos dados ainda da base, né? Que faltaram daquela daquela importação que foi feita, né voltado atrás de empresa. A gente conseguiria dar andamento nisso hoje, como é que como é que a gente consegue dar andamento?
+[15:39] Johnny Fernandes: Consegue sim eu vou levar uma agenda aqui ó das 14 às 16. Da Tarde de hoje. E aí assim se alguém de vocês me chamar nesse período fazer alguma casa, vou falar pessoal. Tô com uma demanda aqui, não posso entrar porque eu tô. Nessa atividade porque assim. Da semana passada recebemos dois horários, eu tive que interromper para Claro, né? Porque ele foi desnecessário foi as outros assuntos importantes que eu acabei atendendo a ideia as árvores a orla ali a ISO vou reservar aqui
+[16:09] Diego Diehl: Tá só uma coisa para mim, não é
+[16:09] Johnny Fernandes: agora a tarde e aí se alguém me perguntar pessoal. Tô cansada aqui muito urgente. Daria para esperar para amanhã ou vocês querem que eu de roupa aqui?
+[16:19] Diego Diehl: gente essa p**** aí, tá? Por que que a gente
+[16:26] Johnny Fernandes: Aí vocês podem me Me direcionar, entendeu?
+[16:29] Diego Diehl: Não é urgente isso cara é mais urgente os relatórios. Que eu acabei de entrar aqui e não tá funcionando ainda os relatórios por colaborador.
+[16:40] Johnny Fernandes: Eu também
+[16:40] Diego Diehl: É um pouco mais para baixo da fila. de higienização o tempo do Johnny
+[16:50] Diogo Fernandes: Eu vou pegar de volta aqui tá a tela.
+[16:53] Johnny Fernandes: beleza
+[16:54] Diego Diehl: Pode para Para de compartilhar aí voltou o jogo.
+[16:59] Diogo Fernandes: Isso Diego, a gente colocou o número de prioridades aqui para a gente identificar dos projetos.
+[17:04] João Vitor Portes da Silva: tá
+[17:11] Diego Diehl: Eu tava passando linha linha com João e olhando eu que ajudei o João a criar essa planilha Ótimo, vamos seguir.
+[17:21] Johnny Fernandes: prioridade de um aqui é aquilo que você tem que fazer tipo hoje, entendeu? Hoje essa semana pois é. Eu entendo também o meu ponto de vista que essa higienização final ali não é tão crítico assim porque toda a base é tá lá, ele está dando polimento na base dele, entendeu?
+[17:38] Diego Diehl: Põe prioridade 3 isso aí de cetim pelo que mais tem.
+[17:46] João Vitor Portes da Silva: Aí vai ficar essa questão do relatório.
+[17:49] Diego Diehl: o relatório
+[17:49] Johnny Fernandes: Posso colocar hoje?
+[17:51] João Vitor Portes da Silva: gestão de carteira
+[17:52] Diego Diehl: Só o relatório. Espera aí o relatório de ônibus só para a gente ter clareza aqui, ó. Eu acho que quando eu olho o relatório. Eu já vejo que aqui ó isso aqui, talvez não dever estar equilibrado, né? Porque tem é porque tem um problema da hora o lado e não tá verificando.
+[18:16] Diego Diehl: Se o corretor é da Carteira de alguém, essa é a prioridade tá só para reforçar por idade máxima de não mandar corretor de um para o outro tá gerando um caos lá e o cara tá deixando correr o caos. cadastro de parceiros Seria bem legal, João. A gente tá ligado se eles estão mandando lá o Emoji tá realmente realizando o cadastro.
+[18:42] Diego Diehl: Então beleza 12 parece pouco, né? Parece pouco dá uma pergunta quando o cara manda para fazer o cadastro Johnny. Tá atribuindo como usuário colaborador, né? E se não tem responsável como responsável e o usuário colaborador? Então beleza
+[19:08] Johnny Fernandes: Isso aí tá com cheque. Tá validado, só deu aquele problema lá na semana passada do requestrar aqui, né? Mas isso aí tá funcionando certinho.
+[19:20] Diego Diehl: Daí a gente tem que atuar nessa redução dos vazios aqui. Barbosa Agnaldo beleza daí esse aqui ó é o gráfico que
+[19:32] Johnny Fernandes: Isso aí para ver um bug, tá? Vou resolver isso aí porque quando eu olho na base os colaboradores estão vinculados, eu acho que ele não tá conseguindo ler aqui do relatório, mas eu lembro que anotei os pontos do relatório de eu vou até revisar com você, vou abrir aqui.
+[19:46] Diego Diehl: tá
+[19:46] Johnny Fernandes: O que o que nós tínhamos definido como prioridade para ajustar aí nos relatórios?
+[19:52] Lucas Vicente: Se botar diferente de vazio ali ele já não some não. Pelo menos aquele ali de cima.
+[19:57] Johnny Fernandes: Não. Mas é interessante saber quem
+[19:58] Lucas Vicente: Não esse de baixo não aquele outro ali que tem várias informações e tem o vazio.
+[20:06] Johnny Fernandes: são os nazistas também, entendeu? Lucas?
+[20:08] Lucas Vicente: Entendi.
+[20:11] Diego Diehl: estão sem responsáveis, né?
+[20:14] Johnny Fernandes: sim
+[20:15] Diego Diehl: daí tem um relatório que a gente anotou Johnny que é volume de interações
+[20:22] Johnny Fernandes: Vou abrir aqui eu bato com você, pera aí. Tô abrindo aqui agora.
+[20:30] Lucas Vicente: Vitor quer falar alguma coisa João quer dizer?
+[20:35] João Vitor Portes da Silva: Com relação a essa questão de colaboradores corretores sem responsável Diego naquele naquela planilha que você me mandou ontem dos parceiros do datenas. fala. Eu encontrei diversas situações corretor sem responsável sem colaborador corretores que estão triplicado dentro da ferramenta em nome de um em nome de outro e isso vai ter um impacto no relatório certamente.
+[21:05] Diego Diehl: Que qual que é são os dois
+[21:07] João Vitor Portes da Silva: Do comentei. Eu não analisei as 12 planilhas, né? Mas analisei situações pontuais e tem os exemplos aqui.
+[21:15] Diego Diehl: principais problemas que você encontrou?
+[21:18] João Vitor Portes da Silva: Eu tenho Tem situações que eles estão sem responsável.
+[21:24] Diego Diehl: E era do Datena.
+[21:24] João Vitor Portes da Silva: E era do Datena Tem situações.
+[21:27] Diego Diehl: mas
+[21:27] João Vitor Portes da Silva: Tem situações que era do Datena e estão três cadastro no sistema em nome da Elise o nome do Agnaldo em nome dele nisso, então eles estão cadastrado diversas formas.
+[21:36] Diego Diehl: E ele tá como usuário colaborador?
+[21:38] João Vitor Portes da Silva: Não.
+[21:40] Diego Diehl: Uma pergunta o que a gente tinha que validar só e daí eu tô um pouco preocupado é das planilhas que a gente enviou para o Johnny. Da aba do Datena lá para ver se ele foi realmente alocado com Datena. Entendeu? Porque essa lista João pode ser que seja nova que ele pegou do WhatsApp dele.
+[22:05] Diego Diehl: O Johnny Diogo Lucas só precisa entender a gente teve uma coisa nova que é o cadastro pela lista de transmissão não funciona. Certo, então o que que eu tô querendo ver com o João se a gente consegue pegar essa lista deles de número. E atribuir eles como responsável ou usuário colaborador? Só que eu não quero ter aquele caos de novo de subir dados e tudo bagunçado, o que o que o Datena nos enviou é uma um dado que ele os dados que ele tirou da lista que é do Google do Google contas então meio que parece que vem mais organizadinho.
+[22:49] Diego Diehl: E aí a gente tinha que ver uma forma de dar uma atualizada ou Tipo, como é que a gente faria o serviço do emoji das listas de transmissão? Porque não veio nas listas do Caio, né? E principalmente do Datena que eu quero testar isso com o João porque é o mais problemático lá.
+[23:09] Diego Diehl: O cara que mais causa que influencia o grupo é o mais velho.
+[23:12] Johnny Fernandes: mais velho
+[23:16] Diego Diehl: Mais velho, cara e ontem eu tava falando da até na eu falei da terra. Eu tô te explicando você não tá você não tá entendendo? Ele não não importa eu sou chato mesmo. Eu falei então, beleza? Se você perguntar vou te explicar você não entender você vai me perguntar de novo.
+[23:30] Diego Diehl: Vou parar de te responder você vê o nível que eu tava daí ele não porque é uma relação meio que de brincadeira, mas é verdade. Então eu tô ali nesse jogo com Datena. E ele mandou uma lista de números lá com lista dos parceiros dele.
+[23:45] Johnny Fernandes: Tem de que dá para fazer assim, ó, a gente pega essa lista. Eu vou ter que fazer aquela padronização já tá pronto, mas vou ter que rodar aqui na Power no telefones, porque o Google táxi qualquer coisa de novo ele aceitar.
+[23:59] Diego Diehl: Sim, qualquer padrão.
+[24:00] Johnny Fernandes: Qualquer padrão então vou fazer um padrão padronizar essa esses contatos. Ok e faz aquele esqueminha usar o contato como chave e mandar subir forçando ele como como colaborador como responsável?
+[24:18] Diego Diehl: Se tiver, se não tiver responsável ele entra como responsável dá para fazer isso.
+[24:24] Johnny Fernandes: importação não ao ter que fazer é
+[24:25] Diego Diehl: é
+[24:26] Johnny Fernandes: porque importação é o seguinte eu estou importando. Cara, ele vai pegar aqui e vai substituir o que está lá, entendeu? Ou criar se não existir. Então mas o colaborador é acrescenta como o colaborador ele é. Ator é colaboradores acrescenta. Entendeu agora o responsável não tem como um só né?
+[24:50] Diego Diehl: E se não existir cria e entra como
+[24:51] Johnny Fernandes: Então já tiver.
+[24:54] Diego Diehl: responsável ou não dá para fazer assim?
+[24:57] Johnny Fernandes: Não no novo já é automático. Entendeu? O meu problema é mas eu acho que não é problema para protetor estou entendendo estou entendendo se esse contato já estiver com outra pessoa como responsável Teria algum problema trocar por Datena.
+[25:12] Diego Diehl: daí eu mexo no
+[25:15] Johnny Fernandes: Entendeu?
+[25:16] Diego Diehl: Tem um problema.
+[25:16] Johnny Fernandes: Porque tipo assim tá mandando a lista dele, né? Porque isso aconteceu Diego só para ficar claro assim tio na hora das planilhas, enfim que pegou por último acabou sendo um pouco de vantagem porque a mesma pessoa estava em várias planilhas.
+[25:31] Diego Diehl: tá
+[25:31] Johnny Fernandes: Aí quando entrava só que aí o bom que todos os caras como colaborador menos mal, mas o responsável ele foi trocando a cada vez que ele repetia.
+[25:39] Diego Diehl: Cara eu acho que nem coloca como responsável, só bota como colaborador.
+[25:42] Johnny Fernandes: só colaborador
+[25:44] Diego Diehl: É. E aí teria como numa automação se eu vou só mapear devagarzinho, porque esse é um problemão ali que tá rolando tá falar devagar. Subimos todos os contatos, o Datena é colaborador e não tem responsável. Como que é automação mesmo de se houver o cadastro e rolar um registro de interação, ele consegue colocar
+[26:08] Johnny Fernandes: Consegue.
+[26:09] Diego Diehl: como responsável se não houver responsável?
+[26:13] Johnny Fernandes: Mas acho que vai ser muito lento.
+[26:14] Diego Diehl: Mas é que é só responde essa parte assim do lento, tudo bem de ficar
+[26:14] Johnny Fernandes: Eu tenho uma ideia. todo mundo, né? Responsável, né?
+[26:23] Diego Diehl: como usar o colaborador porque hoje responsável não é p**** nenhuma. E aí o campo fica preenchido então
+[26:28] Johnny Fernandes: Se ele falar com a pessoa ele vira o responsável.
+[26:32] Diego Diehl: o primeiro falar com a pessoa vai
+[26:33] Johnny Fernandes: é
+[26:34] Diego Diehl: virando responsável.
+[26:35] Johnny Fernandes: exatamente
+[26:36] Diego Diehl: Hoje já tá configurado assim.
+[26:38] Johnny Fernandes: Já já tá assim.
+[26:40] Diego Diehl: Ah então a gente poderia subir a base do Datena só colocando ele como colaborador nos que existem e nos que não existem colocar ele como responsável colaborador. Ah não, só como colaborador também f***-se.
+[26:52] Johnny Fernandes: é porque daria para fazer também
+[26:53] Diego Diehl: Tá eu acho que é isso então. uma saída
+[27:00] Johnny Fernandes: só que assim já é mais trabalho que eu vou puxar para o meu lado, mas deve fazer assim, ó. Eu subo. Todos que ele dessa lista aí com ele como colaborador se já existe em letra como colaborador se não existia esse cadastro. Cria ele como colaborador também e vai ficar responsável em branco.
+[27:23] Diego Diehl: Mas esse vai dar mais trabalho, não é?
+[27:25] Johnny Fernandes: Não calma, calma, calma, beleza?
+[27:26] Diego Diehl: O que seria ve. Esse até aí ok, né?
+[27:29] Johnny Fernandes: Até ok ok faremos tranquilo, o que eu poderia fazer eu faço um filtro. de cadastro de corretores que o Datena
+[27:40] Diego Diehl: Não não não já para já para
+[27:41] Johnny Fernandes: Vou fazer isso então, beleza?
+[27:42] Diego Diehl: não. Quero você com muito trabalho desse jeito. Quero vamos. Só só tem que subir porque para já ter o requestrar só isso.
+[27:53] Johnny Fernandes: Você já tá ok?
+[27:53] Diego Diehl: E daí a gente começa a Gerar registros de interação, porque daí no fim. A gente precisa daquele relatório de quem tá falando mais com quem para daí sim a gente rever os responsáveis. tá
+[28:06] Johnny Fernandes: Show Sales tinha aí você quer estar com vocês aí já? Vocês querem mudar aqui?
+[28:12] João Vitor Portes da Silva: Tá eu te mando Johnny.
+[28:13] Johnny Fernandes: Manda que aí o processo nos telefones padronizam eles e aí só para mim entender João os telefones. Tá com o telefone para cada corretora ou tem mais de um telefone ali para cada corretor? Vai ter um beleza. gente já
+[28:34] Diego Diehl: Só uma dúvida. É eu tô preocupado porque quando a o cadastro é feito direto pela Filter feed. O padrão de telefone é outro. Você pegou não faria sentido a gente está com o padrão que vem do WhatsApp que é Filter feed faz.
+[28:56] Johnny Fernandes: Como que tá o padrão da
+[28:58] Diego Diehl: Eu tenho a impressão. Cara pega João o meu cadastro, tá?
+[29:09] Johnny Fernandes: Pegar uma aqui.
+[29:13] Diego Diehl: como 5541. Tá o número corridão sem traço sem espaço sem nada. Aí Victor.
+[29:36] Victor Figueredo: Aí tem que ver Johnny. Qual que é o atributo que você normalmente checa para bater o número? Que tem tanto sorte, tem alguns que às vezes vai com a máscara vai sem. Mas a gente só cria via emoji, se a gente consultar lá e ver que não tem nenhum formatado do jeito atual, né, formatado do jeito B quando a gente cria que o número realmente não existe.
+[30:09] Johnny Fernandes: Muito bom.
+[30:10] Victor Figueredo: Agora em cima do número que já existe que é o nosso lá que a gente cadastrou. Teoricamente se você consultar Ele de uma forma ou de outra dentro das duas variações que são possíveis aí você pode criar um cadastro. Né, mas mesmo assim nas interações lá vai ser priorizado o nosso que é exatamente igual ao que vem do WhatsApp, se a gente não encontrar o número exatamente igual do WhatsApp que veio cadastrado na promis que é tipo o padrão do nosso registro que é exatamente igual ao WhatsApp.
+[30:44] Victor Figueredo: A gente testa uma variação que aí poderia pegar o que você criou lá que pode ser de um jeito diferente.
+[30:50] Diego Diehl: Mas não faz é eu acho que o a melhoria de processo o Johnny já fez o esquema do powercure lá, só que eu acho que você Johnny escolheu um modelo que não era o do padrão, né? Se pegou o padrão bonito que é lindo aquele formato Ali é maravilhoso.
+[31:08] Diego Diehl: Só que não é o padrão de cadastro hoje pela Filter feed.
+[31:15] Johnny Fernandes: Não a gente na verdade, o a gente
+[31:18] Diego Diehl: Eu sei que deve ter batido uma tristezinha agora de animais, eu só acredito.
+[31:25] Johnny Fernandes: pegou te pegar o padrão do Universal ali só que não tem o 55 não mais 55 igual só que
+[31:35] Diego Diehl: É que eu acho que você tem que lembrar sempre agora da Filter feed, cara. Que é?
+[31:40] Johnny Fernandes: É que toda hora o da hora esse padrãozinho aqui, entendeu?
+[31:44] Diego Diehl: Ah então a gente tem mais um problema, né? tem
+[31:50] Johnny Fernandes: Agora eu preciso ver pode falar então.
+[31:55] Victor Figueredo: É que isso que eu falei é para gente a gente trata isso do nosso lado também, entendeu? O único ponto é só o cadastro que for não não o número é com o DDI ou sem o DDI tudo isso a gente trata a única coisa que que a gente trata também mas normalmente, né? Órgão não trata hoje e eu acredito que o Johnny também não é a variação possível do DVD do DVD não do nono disto no Brasil.
+[32:26] Victor Figueredo: Essa é a única variação a gente trata do nosso lado. Exclusivamente que é o número no WhatsApp. Tem oito dígitos, só que a regra lá do Alejandro que é 9123. Tá total um dois três quatro o número é isso se a gente inclui por exemplo um nono dígito que é o capune, faz esse é o padrão da Puma.
+[32:45] Victor Figueredo: Inclusive na conta deles mesmo, eles incluem 9 dígito forçadamente se o número já não tiver. Isso é uma mudança tipo alteração no número. Né para padronizar com a outra interação para fazer a ligação coisas do tipo, isso é uma modificação no número esse tipo de modificação pode causar uma discrepância.
+[33:06] Victor Figueredo: De cadastro do nosso lado a gente me tira isso bastante porque a gente testa ó o número que chegou aqui do WhatsApp exatamente como tá tem no plumes exatamente como como tá vindo tem esse pode ser o caso tanto que o Johnny cadastrou tanto que a gente cadastrou Total se a gente não encontrar.
+[33:27] Victor Figueredo: A gente tenta mudando ele fala tá? E se eu botar o nome disso aqui ou se eu tirar eventualmente, né? Eu encontro um cadastro na pomes encontro então todas as interações e os registros do nosso lado são
+[33:37] Diego Diehl: tá
+[33:40] Victor Figueredo: integrados com esse contato. Então a gente não cria um contato a mais para um que pode estar diferente e a gente sempre vincula as interações dos registros. Aquele contato específico, mas a criação Esse é o detalhe.
+[33:53] Johnny Fernandes: Eu acho que tá mais fácil.
+[33:53] Victor Figueredo: Esse é o detalhe que tá
+[33:54] Johnny Fernandes: Se o Vitor já trata a máscara ali na hora que ele vai verificar se o contato existe ou não. Ao invés de criar eu acho que seria possível Victor você cadastrar com a máscara. O contato porque é o que você falou ali, você tá castrando que o Diego falou tá gastando tipo tudo junto, né? Tipo assim poderia de e o número da pessoa.
+[34:21] Johnny Fernandes: Sem traço sem parentes, né? Seu espaço também.
+[34:26] Victor Figueredo: é que o plugs tem dois atributos de número ele tem o search for Number o search é extremamente importante para a gente que seja o padrão internacional até para viabilizar o produto aqui em outras situações, né no México lá coisa do tipo até da própria carteira da plugs e tem o Fow Number que é a máscara mesmo né? Esse pode ser editados eu não modificaria a forma que a gente escreve lá muito até porque esse WhatsApp ele vem no padrão internacional para a gente é mais conveniente deixar o padrão internacional mesmo não ter que tratar porque aí a gente tem que descobrir quando que o número é brasileiro, quando que não é que não é a realidade de todos os
+[35:08] Johnny Fernandes: só para Visualizar aqui rapidinho, esse aqui é um cliente cadastrado aqui para integração tarde assim, esse aqui foi o telefone que foi gravado aqui para vocês, tá? esse aqui eu criei agora só para testar aqui a O preenchimento né? Então se eu coloquei ó DDD e vou digitar. Um dois três quatro.
+[35:35] Johnny Fernandes: cinco seis sete ou seja o telefone com 8 dígitos Aí ele já ele já meio que coloca nesse padrão aqui, ó. Quando eu gravo aí ele fica formatado aqui. Se eu colocar um outro telefone só para teste mesmo tá pessoal e colocar aqui outros aí ele Teoricamente ele me libera colocar deixa eu ver aqui é por aqui, ele sempre aplica a máscara, né? De qualquer forma.
+[36:05] Johnny Fernandes: Via front-end ele sempre coloca a máscara não consigo eu não consigo burlar aqui só quando é via ou importação mesmo, né? mesmo, né?
+[36:15] Diego Diehl: o Vitor você Viu, você tava presente na reunião quando a gente falou que uma das soluções que a gente viu seria a hora no bater na Plus e ver se esse cadastro já existe pelo número ao invés pela lei da hora.
+[36:34] Victor Figueredo: Sim, esse é o jeito melhor jeito de fazer isso.
+[36:36] Diego Diehl: É isso que a gente tá tentando viabilizar, tá? Eu acho gente que a gente pode tem alguma decisão que a gente quer tomar agora porque pelo que foi então esquece. O Datena tá Johnny. Por hora esquece padronizar número a gente precisa refletir mais estratégico que a gente vai fazer este tem o número da hora.
+[36:57] Diego Diehl: Acho que tem o número da Plus e a gente tem um que foi cadastrado todos os cadastros da Cetim e a gente tem o número da Filter feed. Né? E aí, a gente tem que ver eu se fosse para escolher. Eu usaria internacional sempre que tem algo internacional para mim é o melhor porque é mais simples é padronizado.
+[37:22] Diego Diehl: Só que tem os cadastros da hora. Que daí eu não sei como é que vai vir de lá se a gente conseguiria fazer um tratamento nesse meio do caminho. Quando for a hora acessar plumes a gente fazer o tratamento por Internacional e mexer na plumes daí na plumes a gente padroniza internacional.
+[37:40] Diego Diehl: Só que a galera também cadastra, enfim é esse bolo aí que eu queria saber quem que pode ficar responsável por resolver isso. Se é o João se é o Johnny se é o Vitor.
+[37:54] Johnny Fernandes: eu
+[37:56] Victor Figueredo: A gente tem o principal seria aólogo checar o número se o número do jeito que tiver lá com algumas variações e assim no escrito você coloca a máscara você adiciona você coloca umas variações, você coloca o 55 do Brasil ser checou number.
+[38:15] Diego Diehl: Não faça o que você fez aí, né?
+[38:19] Victor Figueredo: O ideal seria fazer exatamente como a gente faz mas não precisa fazer exatamente como a gente faz Pode. Só checar se existe se checar se existe já vai ser um grande passo que a gente não duplica.
+[38:32] Diego Diehl: checar nas várias variações, né?
+[38:37] Victor Figueredo: Sim, mas isso.
+[38:37] Johnny Fernandes: Ó, esse aqui é o caso que eu falei da hora lá. Na hora da vida assim, por isso que eu tive o padrão eu não tinha eu não na verdade. Realmente eu não tinha imaginado a expectativa ali do mas realmente temos que
+[38:56] Diego Diehl: Eu acho que essa é uma. Demanda de produto, né?
+[39:07] Johnny Fernandes: Vou te perguntar isso para você já já falar também. O Vitor você tá com uma demanda lá do México. Você comentou né? o telefone lá é o clubes quando você muda o idioma ele já trata Essa Máscara aqui do telefone Ainda não peguei nenhuma conta fora do Brasil
+[39:27] Victor Figueredo: Não pelo menos não trata isso não, mas assim Diego do da tela lá que o Johnny estava mostrando. A máscara do número o formato do número não é um problema aqui para a gente relevante, ele deve ser o problema de terceira ordem. A primeira coisa é porque a hora ele já tá escrevendo número lá e o número tá batendo exatamente igual então o número da forma como número que a hora do tá escrevendo já é exatamente igual porque a gente tem no clube hoje.
+[39:54] Victor Figueredo: O número já é igual na mesma máscara não tem problema e essa máscara ou a forma como está escrito é indiferente para fita Fit tanto que escreveu no contato novo lá a gente disparou. Então o ponto um mesmo é checar se esse número lá do jeito que tá pode ser exatamente igual tem variações, né? Mas se ele checado o número exatamente igual antes de escrever já é o primeiro a nossa primeira vitória, entendeu?
+[40:21] Diego Diehl: Mas isso aí eu sei a primeira
+[40:21] Victor Figueredo: O?
+[40:23] Diego Diehl: vitória tá mapeada, né? Só que o problema é ter uma primeira vitória e passa um minuto já tá 2 a 1 para outro time de novo. Daí eu preciso voltar. Eu tô querendo já resolver isso assim só para lembrar do que a gente tá querendo resolver. Primeiro para o usuário Seria muito bom que ele tivesse algum padrão para ele pesquisar ainda mais que ele tá usando pesquisa de telefone tá um saco pesquisar.
+[40:47] Diego Diehl: Você tem parentes não tem parentes tem traço não tem traço. É hoje, a gente tá salvando de formas diferentes, então a plugs tem uma forma Filter feed. Tá salvando outra. E a orla ainda o desafio maior para o cliente, hoje é a hora ou não criar um contato duplicado e mandar um gerente diferente falar com o corretor.
+[41:09] Diego Diehl: Essa é a dor. Que o que você tá querendo me dizer pelo que eu tô entendendo é se há órgão quando for verificar se já existe o cadastro verificar em diferentes máscaras ou se verificar uma verificação já é uma primeira vitória. Beleza, porque já tem 30 mil contatos lá?
+[41:29] Johnny Fernandes: Ele tá pareado a máscara da
+[41:32] Diego Diehl: Beleza, só que a gente já fica
+[41:33] Johnny Fernandes: Orlando.
+[41:35] Diego Diehl: descoberto em alguns casos, né? E aí qual que é a tua solução para resolver os outros casos?
+[41:43] Victor Figueredo: Aí teria que ser teria que ser exatamente como a gente faz teria que Primeiro a primeira coisa antes de tudo validar o número se o número que a orla tem é exatamente igual ao número do WhatsApp. Esse é o primeiro primeira coisa. Aí Tem que repetir os mesmos procedimentos que a gente faz aí pega esse número exatamente, como tá no WhatsApp, esquece máscara por enquanto que não é tão relevante nesse momento, mas o número mesmo o padrão do número o número é válido.
+[42:12] Victor Figueredo: O número é um dois três e o número ele a forma como ele tá salvo na orla é a forma correta a representação correta desse número internacionalmente no Whatsapp. Sim ou não. Então a primeira coisa é validar o número aí a segunda coisa é pegar esse número e consultar na plug se esse número dessa forma ele tá lá, se ele não tiver tem que voltar ver a variação do número e checar de novo só nessa segunda.
+[42:38] Diego Diehl: Continua desculpa.
+[42:41] Victor Figueredo: Só nessa segunda checagem que aí você vai ser possível determinar que o contato que aquele número não está presente na Puma mesmo, porque isso quer dizer que nenhuma das duas possibilidades de números válidos estão lá ou seja um número não tá? Essa é a forma que determina de forma absoluta que não tem um contato lá
+[43:04] Johnny Fernandes: Eu acho que ele resolveria.
+[43:06] Diego Diehl: não padroniza para o usuário, né? A gente tem.
+[43:09] Victor Figueredo: Só que o ponto é o seguinte
+[43:10] Diego Diehl: E você?
+[43:18] Victor Figueredo: primeiro válida que o número existe na hora de salvar o número que é o segundo passo que ela tá eu não tenho contato. Eu tenho que criar um coletor lá na hora de criar aí formata a máscara e passa o número, entendeu?
+[43:37] Diego Diehl: Tá assim. Tecnicamente a gente precisa decidir. Então se a gente altera todos os padrões para o internacional. Ou não assim tem dois problemas, tá? Eu acho que eu vou mapear e a gente depois vai resolver. Problema um tá vou até de trás para frente problema um a base com vários tipos de número.
+[44:00] Diego Diehl: A gente tem que definir se vai por parentes e 11 9 1 2 3 4. quatro. Ou Qualquer que seja para o usuário poder pesquisar do número prático. Tá minha sugestão já entregando para vocês o movimento que a gente vai fazer que o usuário vai fazer a minha sugestão é que ele faça isso aqui, ó.
+[44:26] Diego Diehl: Pensa a gente tem que pensar no usuário, né. Ó Fernanda Porto Camargo tá aqui certo. Opa, tô aqui falando com ele eu vou clicar no Fernando da Porto Camargo, eu vou clicar aqui em copiar. Eu vou abrir a plumes e eu vou dar um control V. É isso é que eu gostaria e nenhum tá salvando dessa forma.
+[44:50] Diego Diehl: Porque o Vitor tira os traços não tem mais E usuário daí não vai conseguir pesquisar fácil tá? Essa é minha solicitação na Perspectiva do cliente. Ele entra no WhatsApp clica em copiar o número entra na plames dá um control v e acha exatamente o usuário para mim. Isso é e usa Experience que é o meu norte como a gente vai resolver eu não sei.
+[45:15] Diego Diehl: Porque ninguém tá salvando nesse padrão. ou eu ensino ou eu ensino eles a que
+[45:19] Victor Figueredo: Isso é verdade.
+[45:23] Diego Diehl: gostaria, né? Mas eu ensino eles a fazer assim, ó. Se eu jogo aqui eu vou ensinar eles a fazer isso. A fazer o cara ó o usuário já tentando apagar e já errando, né? E daí eu pesquiso assim. Que para mim não é o mais inteligente ou não precisa de inteligente ou mais.
+[45:50] Diego Diehl: Preguiçoso, vamos falar assim, mas prático né para mim esse é o ideal.
+[45:58] Victor Figueredo: Tá agora agora é isso. Diego são dois duas situações diferentes. A primeira é a gente garantir pelos pela checagem de número que esse contato não tá lá duas vezes. Para fazer isso aí tem uma série de procedimento que seria essa a
+[46:12] Diego Diehl: Eu quero bloquear ele causa eu quero
+[46:13] Victor Figueredo: a gente.
+[46:15] Diego Diehl: bloqueio de causa Vitor se a gente ajusta aqui o qual o padrão que a gente vai usar o Johnny faz um trabalho de edição em massa de algum porte padronizado do WhatsApp, você passa a salvar conforme o padrão a hora ele só tem que verificar um tratamento pegar o número dele transformar no padrão e verificar então a gente simplifica tudo.
+[46:40] Victor Figueredo: É que o resolver essa questão do
+[46:40] Diego Diehl: Tipo, eu quero.
+[46:47] Victor Figueredo: padrão de número a gente tem outras formas, a gente tem muitas possibilidades de como fazer isso e embora a gente tenha que checar também, o que que se a máscara do plumas dá suporte para essa para esse porque o número na pomes ele tem que estar em um de dois Campos ou ele tá no sertão.
+[47:06] Victor Figueredo: Number que é um índice. Que é um que é um tipo de dado de números ou seja? Não pode nem ter espaço nem ter caracteres especiais. Esse é o sertão. E o fonada, aí ele sim recebe uma string se a gente formatar essa string de um jeito específico, ele fica na máscara lá que tem o do número brasileiro.
+[47:28] Victor Figueredo: então A primeira coisa Teria que validar se o púbis deixa a gente representar na string dele o mais com espaço no formato internacional. E se sim aí, a gente tem diferentes possibilidades de como formatar esse deixar Sempre consistente com esse padrão que eu acho que faz sentido ponto de vista, mas a princípio a questão da validação tá um pouco deslocada desse desse.
+[47:57] Victor Figueredo: Pode ser resolvido junto, mas mas eles são são temas.
+[48:02] Diego Diehl: Para mim não tá deslocado Victor a
+[48:03] Victor Figueredo: diferentes
+[48:04] Diego Diehl: gente tem que validar. Entendendo algum padrão dá para a gente criar ter que verificar vários tipos de padrões ou a gente Ajusta a nossa base para a gente verificar de uma forma só.
+[48:16] Johnny Fernandes: Ó aqui no clube eu até agora eu consegui achar o campo não tava encontrando. A máscara que a gente pode usar aqui no clube São essas né brasileira essa aqui que o padrão que eu usei. tá para
+[48:31] Diego Diehl: as paredes
+[48:33] Johnny Fernandes: Ou sem massa que é o que o vídeo tá usando hoje a vida tá dançando
+[48:36] Diego Diehl: então
+[48:37] Johnny Fernandes: máscara.
+[48:40] Diego Diehl: Experimenta clicar em máscara e põe o mais aí.
+[48:42] Johnny Fernandes: É ele fica.
+[48:45] Diego Diehl: Esse vai falar o mais deixa eu ver aqui sem máscara. control V salvar I Sem Máscara igual padrão do Whatsapp que para mim o padrão do Whatsapp é o padrão que o usuário tem acesso
+[49:16] Johnny Fernandes: Uma coisa que eu vejo aqui como chata.
+[49:22] Diego Diehl: Tem algum contra dele Vitor?
+[49:26] Victor Figueredo: Mas a estética do número acho que tem algumas coisas de cliques na pomes coisas assim, mas não tem muita grande Impacto não.
+[49:35] Diego Diehl: clicks da
+[49:37] Johnny Fernandes: Deixa eu ver aqui.
+[49:38] Victor Figueredo: Tem alguns números que formatados do padrão brasileiro com a máscara, eles tem um você clica redireciona para algumas coisas.
+[49:45] Diego Diehl: Ni você consegue bloquear? para cadastro de números a plumes e só deixar sem máscara
+[49:55] Johnny Fernandes: Tenho que verificar a direção demanda aqui no nunca chegou aqui para nós.
+[49:59] Diego Diehl: Assim vamos.
+[49:59] Johnny Fernandes: Eu acho que eu acho que Eu tenho que ver eu não tenho essa resposta agora.
+[50:06] Diego Diehl: Pensar. Vamos só pensar vou tentar resumir numa forma aqui, tá? Uma ação Johnny a gente pode. Uma ação mais opção a gente pode olhar o padrão que o Vitor está salvando hoje. E salvar todos assim.
+[50:31] Johnny Fernandes: posso só te interromper rapidinho e
+[50:32] Diego Diehl: Pode pode.
+[50:33] Johnny Fernandes: se eu não sei se é possível, mas se o Vitor salvasse na máscara não estaria resolvido todo o nosso problema. Ou não é possível salvar na máscara ou não é interessante?
+[50:46] Victor Figueredo: Qual má?
+[50:48] Johnny Fernandes: a máscara brasileira Que é parentes DDD fecha parentes 9 ou 8 dígitos na sequência? contratinho ali depois do antes do antes dos quatro últimos
+[51:02] Diego Diehl: Que a base toda tá assim, né? A gente só justaria os que estão bugados agora e aí se você passa
+[51:07] Johnny Fernandes: sim
+[51:09] Diego Diehl: cadastrar Vitor, já que você tem controle de todas as variações. Você pode colocar e tem dois Campos. Ainda não sei qual que é a relação desses dois Campos que você falou um você pode usar mas o que fica no front para o cliente para ele pesquisar que siga um padrão daí que é o que já tá os 33 mil lá.
+[51:37] Victor Figueredo: números é muito sensível porque ele envolve justamente essa questão da sincronização desses contatos.
+[51:44] Diego Diehl: Então eu acho que é bom assim, vou Resumindo tá? A gente tá com o padrão Vitor. Tanto na hora. Quanto na Plus? E agora a gente tá salvando o número diferente lá que é no teu padrão. Aí é negociar tipo ver o que que a gente pode fazer de um lado do outro.
+[52:06] Diego Diehl: Que é melhor eu falei o que que é melhor para o usuário. É ele copiar do WhatsApp. Se bem que às vezes ele abre pelo celular daí digita no computador, tipo f***-se ali o usuário não precisa ajustar isso desde que ele saiba. Qual o padrão que tem né?
+[52:22] Johnny Fernandes: Ele tem que ter um padrão se ele tiver um padrão. Porque eu penso assim, se tiver.
+[52:29] Diego Diehl: Só uma coisa o padrão do é que o padrão do Whatsapp que ele dá um control c ele pode apagar os risquinho o padrão do Johnny do Johnny do Vitor. Se a gente só tirar o tracinho e o parênteses dá para deixar com DDD e número sem separações porque quando usar pesquisar não vai bugar.
+[52:53] Diego Diehl: Eu não sei só vamos assim o problema do cliente a gente precisa não criar o contato duplicado se a ideia que a gente deu lá para o Alejandro Johnny. Já vai bugar? Né? Porque o Alejandro não tem a não ser que a gente desenvolva ali essa tecnologia que o tecnologia essa verificação dupla tripla ali, ele vai e volta que o Vitor falou ele fica no Tipo ele fica no outro, tipo ele fica no outro, tipo ele fica no outro tipo daí sim dá certo.
+[53:25] Diego Diehl: Para hoje a gente poderia deixar os números bagunçados o usuário ia sofrer para encontrar eles. E o Alejandro quando fosse verificar na plumes.
+[53:34] Johnny Fernandes: É para hoje, eu esqueci o caminho, Diego é o Alejandro.
+[53:37] Diego Diehl: O Vitor sabe como verificado um jeito do outro do outro do outro você só precisa verificar aí fala com o Vitor daí Victor. Você dá um help ali para ver como que o Alejandro verifica dessa forma que você verificou faz sentido assim.
+[53:52] Johnny Fernandes: Eu acho que esse para hoje eu acho que esse é o caminho que tem que tomar para resolver já o vazamento do cano tava o cano tava zoando água. Vamos tacar é isso é ou seja.
+[54:03] Diego Diehl: Você se o Alejandro te acionar você consegue dar um Norte para ele? Porque eu acho que tem uns minutos de pensamento que você já economizou aí né?
+[54:13] Johnny Fernandes: Passa na lógica ali, eu acho que ele já consegue reaproveitar. reaproveitar.
+[54:16] Diego Diehl: Johnny dá para esse Você tá
+[54:21] Johnny Fernandes: Que aí já resolve um problema agora, Diego é esse outro problema aí da máscara, a gente ganha um tempinho aí que não é tão assim urgente, entendeu?
+[54:31] Diego Diehl: puxando.
+[54:32] Johnny Fernandes: Dá eu vou encabeçar essa frente
+[54:33] Diego Diehl: Então João anota esse aí que é o
+[54:35] Johnny Fernandes: aí.
+[54:37] Diego Diehl: problema dos cadastros duplicados, eu queria só dar um cheque meio minuto. No resto gente.
+[54:42] Johnny Fernandes: Tá só para puxar rapidinho o Vitor.
+[54:42] Diego Diehl: posso puxar de
+[54:46] Diogo Fernandes: No cronograma agora a segunda fase ele é categorizar essa tarefa, como que vocês entendem de 1 a 3, como que a gente prioriza?
+[54:55] Diego Diehl: Um um esse aí tá causando o maior caos.
+[55:02] Diogo Fernandes: Então, eu vou colocar aqui.
+[55:03] Diego Diehl: Tá é só rapidinho. Porto Camargo O que falta João?
+[55:12] Diogo Fernandes: Do lado do João que o João tem a reunião parece que na sexta com eles.
+[55:17] Diego Diehl: E aí a gente vai conectar um pouco conectar os WhatsApps? bordar.
+[55:23] Diogo Fernandes: isso
+[55:24] João Vitor Portes da Silva: Isso só para mim a Diego a reunião voltada ali a hora né, mas eu acredito que a gente consiga pegar a parte ali já para conectar o WhatsApp.
+[55:31] Diego Diehl: Já conecta ou avisa que vai conectar dá uma visão, vou mandar um áudio para o Fernando ali antes agora. ali antes agora.
+[55:36] João Vitor Portes da Silva: Isso boa a questão de roleta. Acho que deles vai ser bem prático, vai ser só a Gabi, né?
+[55:42] Diego Diehl: tá
+[55:42] João Vitor Portes da Silva: Então isso a gente já consegue definir tá Lucas e a questão de
+[55:45] Diego Diehl: Viu?
+[55:45] João Vitor Portes da Silva: mensagem. tá eu jogo eu já posso confirmar
+[55:48] Diego Diehl: tá
+[55:50] João Vitor Portes da Silva: isso.
+[55:50] Diego Diehl: Então beleza, eles vão lançar semana que vem seria bom essa semana a gente ou na sexta a gente conseguir ligar segunda ligar o WhatsApp para já pelo menos começar a traquear essa galera registrar no sistema e pode daí a gente tem que validar o recast tracking se a gente consegue deixar tudo ligado ou seu número pessoal da Gabi ou se eles têm um número que é profissional e daria para deixar o track.
+[56:12] Diego Diehl: Aquele ligado direto uma pergunta Johnny Vitor a gente consegue ligar e desligar recast tracking por número de telefone. Ou é por contato, só tipo número telefone assim, ó, eu tenho um número profissional no na hora e a gente é um cliente. O João tem o número pessoal o meu WhatsApp pode traquear tudo o do João só os contatos já tem essa essa.
+[56:41] Diego Diehl: Possibilidade ou não?
+[56:43] Victor Figueredo: Já o seu é?
+[56:45] Diego Diehl: Então beleza João, a gente tem que descobrir qual é o profissional. Mas é por conta. Ou dá para ter dentro de uma conta uma configuração entre a configuração. Então perfeito, entendeu João? Vê na Porto Camargo se dá para deixar um liberado para traquear tudo e o pessoal deixar mais fechado.
+[57:03] Diego Diehl: Tá ideias árvores. A gente precisa avançar de alguma forma lá tá resolvido já o problema dos duplicados não né? Ser mapeou tá resolvido.
+[57:18] João Vitor Portes da Silva: Não tá resolvido ainda a questão
+[57:19] Diego Diehl: Gente, deixa desmontado, vamos
+[57:20] João Vitor Portes da Silva: ali.
+[57:21] Diego Diehl: falando aí.
+[57:22] João Vitor Portes da Silva: Questão ali do que eu comentei hoje Johnny é de ter o mesmo corretor caindo duas vezes para os dois gerentes na roleta para estar
+[57:28] Johnny Fernandes: Já resolvi entre a reunião
+[57:30] João Vitor Portes da Silva: resolvido.
+[57:30] Johnny Fernandes: e essas já resolvi.
+[57:31] João Vitor Portes da Silva: Ah beleza
+[57:32] Diego Diehl: Tá então comunicar lá esse problema. Falar das abordagens dar um Norte sobre o robô ó, estamos treinando aí a conectando talvez. Podia dar uma tarefa para eles João de pedir para eles verificar esses arquivos na hora eles estão todos corretos. Para a gente poder daqui a pouco ligar o robô.
+[57:55] Diego Diehl: tá Enzo a gente vai testar internamente lá João eu queria que você se aproximasse do cair da Patrícia entendesse? Como que eles registram as coisas? Como é que tá rolando para você aprender melhor sobre isso também. E daí falta, eu acho que isso foi ideia das Árvores a gente vai avançar.
+[58:18] Diego Diehl: Ser TIM a gente já falou de problema de cadastro já falou. Já falou da processo de visitas já falou do relatório? Ah o relatório de eu não sei se eu notou um crescimento de parceiros ao longo do tempo tem que ter um gráfico, não sei se a gente consegue isso.
+[58:37] Diego Diehl: É tipo acumulado por data de criação da data de hoje para trás da data de hoje para trás tipo um crescimento sabe de acumulado de vendas. Eu tô com medo que não dê Isso você já viu, isso dá certo.
+[58:49] Johnny Fernandes: Acumulado é Um Desafio mesmo. mesmo. normalmente a gente faz só de criação de cadastro de
+[58:56] Diego Diehl: Não é?
+[58:58] Lucas Vicente: criação acho que
+[59:00] Johnny Fernandes: Quantos tinham até o dia nove? é. /9 tá numa Barra.
+[59:12] Diego Diehl: Eu acho que não vai ter cara você
+[59:13] Johnny Fernandes: né
+[59:13] Diego Diehl: já viu.
+[59:18] Lucas Vicente: outras coisas, por exemplo o valor mas eu não sei se foi criação daria, entendeu? O agregado de valor que eu
+[59:22] Diego Diehl: agregado
+[59:25] Lucas Vicente: De é obrigado valor que eu digo é por exemplo a o cliente vendeu 10 mil no ano e aí toda vez que entrar Venda Nova vai somar esse valor, entendeu?
+[59:33] Diego Diehl: não é um número que a gente quer a gente quer o número não é a falha
+[59:35] Lucas Vicente: Isso entendi
+[59:38] Diego Diehl: dos biais desses lugares normalmente é não ter isso.
+[59:41] Johnny Fernandes: o acumulador
+[59:41] Diego Diehl: Eles não conseguem olhar a foto. Tipo assim hoje quanto tinha até hoje daí amanhã quando tinha até amanhã. Eu posso falar que não vai ter. ter. Não não vai ter tempo não, esquece f***-se aí passa o dois o passo 2 só para a gente ver se consegue avançar porque o cara a gente vai conseguir resolver isso para todos os clientes a gente consegue por alguns dados em Campos para o Vitor ler e criar uma automação para enviar essas informações via WhatsApp.
+[60:18] Diego Diehl: Sim, então de onde você finalizando o relatório? Eu já te dou alguns números para a gente poder por em algum campo para o Vitor enviar periodicamente por relatório por WhatsApp.
+[60:31] Johnny Fernandes: beleza
+[60:32] Diego Diehl: A gente só se for muito fácil, tá? Porque eu tô pensando. Às vezes a gente faz 90% 95% e tem 5% que se a gente fizer a percepção de valor para o cliente é muito maior. Um exemplo prático quando for agendado uma visita. Hoje a gente não consegue enviar essa mensagem por WhatsApp.
+[61:00] Diego Diehl: para um grupo de pessoas
+[61:02] Johnny Fernandes: um grupo
+[61:03] Diego Diehl: Tipo assim, ó, agendei uma visita dispara uma mensagem no WhatsApp do Caio e do superintendente que foi realizado uma visita.
+[61:12] Johnny Fernandes: O Vitor acho que isso aqui você só ajuda para responder essa pergunta para o corretor. Eu já até tá configurado ali, ok? Só que a ideia é mandar uma mensagem para outras pessoas que não é o cliente da Dill ali, sabe?
+[61:27] Diego Diehl: É o usuário usuário da conta.
+[61:31] Johnny Fernandes: Não sei se teria como.
+[61:33] Diego Diehl: Cara se abrir essa porta a gente tem uma porta de possibilidades muito grande para agregar valor para o cliente.
+[61:39] Johnny Fernandes: Eu teria que tipo colocar esses usuários em algum canto ali da Dill. né? Como falei o seu pensamento sobre isso?
+[61:50] Victor Figueredo: Deixa eu pensar aqui o grande ponto é o seguinte a gente precisa pegar e primeiro é o esses usuários, a gente está falando deles a gente entende eles como usuários, mas para essa lógica a gente tá falando de contatos tá sempre de contatos nesse momento. Então, o Caio ele a gente está enxergando ele até para envio de relatórios mesmo, tipo amanhã o Caio enquanto o contato do Caio um contato esse pto que tem um aí de lá, a gente cria uma automação para ele mandando algumas
+[62:21] Diego Diehl: É só criar em contato, né criar?
+[62:22] Victor Figueredo: informações.
+[62:23] Diego Diehl: Criar um contato cai.
+[62:24] Victor Figueredo: Isso isso só para a gente e o que que é o requisito da gente habilitar uma. Automação é a gente passar uma Flag. Para esse contato sinalizar. Olha eu quero falar com esse contato aqui normal e acessar algumas algumas. Informações do contexto ali então normalmente o disparo ele tá envolvido ele ele tá relacionado com o cliente do negócio, né? Eu acredito que o contato também a gente teria acesso a alguma informação
+[63:00] Johnny Fernandes: Ah eu poderia fazer assim, ó, eu posso usar o campo ou usar o campo contatos relacionados do Parque que um campeonato Darei o nome lá é usuários internos para receber mensagem.
+[63:18] Diego Diehl: Mas isso é um campo por cliente.
+[63:22] Johnny Fernandes: Não por negócio.
+[63:23] Diego Diehl: por negócio
+[63:25] Johnny Fernandes: Por visita no caso, né?
+[63:27] Diego Diehl: por visita para
+[63:27] Johnny Fernandes: Por visita por visita e se for o caso automático. Esses campos entendeu?
+[63:36] Diego Diehl: Também vamos nessa.
+[63:36] Johnny Fernandes: A gente precisa subir esse horário mais cedo, cara, porque tá atrapalhando nosso almoço aí tá?
+[63:43] Diego Diehl: Tá tranquilo, pode finalizar e eu que eu me ajusto no horário do almoço, vocês não a gente se adequa no horário.
+[63:49] Johnny Fernandes: com reuniões 1:30 aqui e aí já começa a atrapalhar o
+[63:52] Diego Diehl: Tranquilo, cara. Guarda esse ponto aí, vamos finalizar o que a gente tem para hoje que a gente tem deles.
+[63:56] Johnny Fernandes: Tá bom, ele fala sobre isso na quinta pode ser afinal. Pode ser?
+[64:00] Diego Diehl: Tá quinta eu vou ver como é que eu vou conseguir que eu vou estar no conecta imob, né? Que é o evento, mas o jogo quarta e
+[64:04] Johnny Fernandes: e Quando que você vai me chamar para
+[64:06] Diego Diehl: quinta.
+[64:07] Johnny Fernandes: o homem para jantar ou quinta? É parto ou quinta?
+[64:09] Diego Diehl: Eu acho que é quarta ou quinta eu vou ver se vai rolar tá? Vou sentir ele quarta eu já te aviso durante o dia.
+[64:16] Johnny Fernandes: Fechou, mas qualquer se você quiser que eu esteja com a sua visita lá também. No evento você me avisa.
+[64:22] Diego Diehl: A gente já marcou dia 25, né? Tá na tua agenda.
+[64:26] Johnny Fernandes: Não dia 25 já tá aqui é que dessa semana que eu precisaria me animar porque eu tenho outro a outra outra feira, né que aconteceu, né? Que Que a feira das Esquadrias aqui. Aí eu precisava me alinhar para poder participar das duas entendeu? Não marcar as duas no mesmo dia.
+[64:42] Diego Diehl: Não entendi as duas o quê?
+[64:44] Johnny Fernandes: Eu tenho outra feira essa semana para participar também.
+[64:46] Diego Diehl: Não não fica à vontade esse de hoje dessa semana tá mais miado ainda não tem muito cliente que vai fica tranquilo, eu toco lá. Tá bom.
+[64:56] Johnny Fernandes: Tá bom não beleza. Não beleza. Agora você tá falando que tá frio.
+[65:02] Diego Diehl: Faz parte eu sou vendedor, meu amigo. amigo.
+[65:07] Johnny Fernandes: A melhor coisa que ele falou para
+[65:07] Diego Diehl: Valeu gente
+[65:09] Johnny Fernandes: mim, ele falou para umas 15 pessoas aí só eu e ele tá ligado?
+[65:14] Diego Diehl: É isso.
+[65:15] Lucas Vicente: Acabou acabou os convites.
+[65:16] Victor Figueredo: Não e semana passada você tava. Olha eu tenho esse quadril, o pai é escritor tal tal e agora não. Cadê meus ingressos.
+[65:22] Diego Diehl: É isso eu sou difícil.
+[65:24] Johnny Fernandes: Aí ele falou não foi na minha 7.000 clientes a potencial do mercado. Isso aí é só 5.000 só o dinheiro tá aqui comigo e eu faço tudo na parte do aí chega agora tá vendo? Como é que é assim, ó.
+[65:38] Diego Diehl: valeu
+[65:39] Johnny Fernandes: Beleza pessoal.
+[65:40] Victor Figueredo: Desse ponto aí da automação vamos vamos tentar para conversar ver se a gente consegue resolver. Porque a plumes tinha uma demanda justamente disso daí de confirmar a reunião que aconteceu online mesmo instituição.
+[65:53] Johnny Fernandes: não entrar com você.
+[65:55] Diego Diehl: é mais importante enviar o relatório diário. Antes tá eu sou os dois um é relatórios diários que a gente lê a base envia uma informativa que é às vezes total de visitas total de inteira é o básico é total de parceiros total de interações total de visitas. Esse é o básico diário para uma série de pessoas usuários aí se a gente for aprimorar o processo de visitas é um outro nível.
+[66:23] Diego Diehl: Mas a gente pode deixar para depois porque vamos fazer funcionar primeiro processo de visitas. E daí o relatório a parte mais de relatórios tá claro então, beleza?
+[66:31] Victor Figueredo: Combinado toma à disposição.
+[66:33] Diego Diehl: Valeu gente.
+[66:33] Johnny Fernandes: Falou na pauta de quinta só para esses dois pontos aqui na pauta para a gente não esquecer desses dois pontos eu falo os dois.
+[66:39] Diego Diehl: Valeu gente
+[66:40] Lucas Vicente: Tá bom.
+[66:41] Johnny Fernandes: Valeu pessoal, obrigado aí tchau,
+[66:41] Lucas Vicente: Falou. Tchau, tchau. Tchau.
+[66:42] Johnny Fernandes: tchau.
+[66:43] João Vitor Portes da Silva: valeu
+[66:44] Victor Figueredo: Tchau, tchau.

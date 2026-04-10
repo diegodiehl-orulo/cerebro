@@ -1,0 +1,326 @@
+[01:17] Alejandro Olchik: Olá, olá!
+[01:22] Diego Diehl: bom
+[01:30] Gabriel Teixeira Sales de França: Bom dia
+[01:32] Alejandro Olchik: Bom dia Acabou de ter filho.
+[02:01] Diego Diehl: Parabéns.
+[02:03] Gabriel Teixeira Sales de França: Obrigado para vocês aí.
+[02:08] Alejandro Olchik: Ah Para ti também.
+[02:09] Gabriel Teixeira Sales de França: obrigado
+[02:15] Alejandro Olchik: Tudo certo tudo certo contigo.
+[02:19] Victor Figueredo: Olá tudo bem? Maravilha
+[02:27] Alejandro Olchik: Bom dia João bem-vindo.
+[02:31] Joao Vitor: Bom dia obrigado
+[02:39] Alejandro Olchik: Bem-vindo ao time. Mundo pequeno as pessoas ficam se fechando o tempo todo.
+[02:49] Diego Diehl: E que você fechando essa essa Gaúcha. E fechou eu lembro jogando videogame com joguinho de carro assim aí meus primos.
+[03:15] Alejandro Olchik: Falta só Fernanda. Que caixa de ego, vamos começar pelo começo que ela vai fazer condição pelo bode para sistematizar um pouco e depois toca mais fibra pauta, pode
+[03:44] Diego Diehl: Por favor, né?
+[03:46] Alejandro Olchik: mais pode ser? Eu vou puxando aqui. Tá o que tinha validação aqui era essa parte tem uma aqui de adicionar todos os arquivos dos Henrique tá faltando aqui também, mas adicionar todos os arquivos dos Empreendimentos. Acho que isso era uma. acabou ficando todo atribuído aqui Diego, mas acho que o Henrique né
+[04:23] Diego Diehl: Sim. O Henrique tá saindo, né?
+[04:24] Alejandro Olchik: que tem que fazer isso.
+[04:29] Diego Diehl: Então, eu vou ver se eu consigo garantir essa última atividade com ele. Mas eu acho que a maioria foi solicitado e tal, eu queria que a gente não se limitasse a isso tá isso não é gargalo, isso é só uma. Preciosidade ali para Final se não tiver arquivo não enviar Ok só tem que enviar o que tiver.
+[04:51] Alejandro Olchik: Tá mas isso na verdade é isso que tem que mandar para o time do Marcelo, né?
+[04:56] Diego Diehl: Isso exatamente eu vou garantir.
+[04:56] Alejandro Olchik: Fazer o cada.
+[04:59] Diego Diehl: aqui?
+[05:01] Alejandro Olchik: Então na verdade Então na verdade. Tá então está contigo mesmo. Tá em validação. Depois a gente tinha aqui em testes tem três tem um suporte em vídeo materiais e múltiplos arquivos. Uma melhoria mostrar o nome de arquivo e não link. indivíduo de arquivos específicos solicitados no WhatsApp Aí eu tô colocando eles em conjunto por causa que eles estão correlacionados, né? E tinha ainda um bugzinho que o agente não entende o contexto.
+[05:56] Alejandro Olchik: Envia arquivo de empreendimentos são citados na conversa Fernanda consegue comentar como é que foi a evolução disso.
+[06:06] Victor Figueredo: Consigo sim, eu diria que o nome dos arquivos já está em validação. a gente já subiu a versão para pród. Essa última versão onde de envio de arquivos e nela já tem não manda mais o pedaço, né do caminho da URL e sim o nome específico, né que a gente definir.
+[06:33] Victor Figueredo: Então tá invalidação esse último.
+[06:36] Alejandro Olchik: A URL ela continua sendo registrada na interação?
+[06:41] Victor Figueredo: É só o nome o nome do arquivo que vai para frente do usuário que tá lá e segue o Segue o mesmo padrão como tá definido na hora.
+[06:53] Diego Diehl: Isso que eu ia te perguntar Vitor primeiro. Parabéns aí eu lembro que você tirou essa daí do bolso em um dia lá um teste. Você o padrão é pegar o nome que estiver na hora. Ou vai estar no prompt?
+[07:06] Victor Figueredo: isso
+[07:09] Diego Diehl: Na hora tá bom, beleza.
+[07:09] Victor Figueredo: na hora Ele tá ele tá usando a descrição, né? Eu acredito que no futuro o ideal seria a gente bifurcar ali título descrição. Se a gente quiser fazer algo a que ele caption, né? Que o Eduardo tinha comentado mais rápido, eu acho que o ideal seria a gente ter ali título e descrição usar o título para informar o nome do arquivo e a descrição para dizer.
+[07:38] Victor Figueredo: Olha aqui, você vai encontrar xptoide para até deixar isso definido, mas é só como um ponto para o futuro imediato mais imediato. Vamos dizer assim que o ideal seria a gente abrir a própria. aí.
+[07:51] Diego Diehl: tá, tá
+[07:51] Victor Figueredo: Pode demorar um pouco mais tem que construir a funcionalidade?
+[07:53] Diego Diehl: Que que você acha? Que que você acha Alejandro sobre esse ponto tá trazendo Para o Futuro? Acho que vale deixar a linha backlog já a gente não tá? Quer que eu anote?
+[08:04] Alejandro Olchik: Desculpa, qual é a melhoria que tu gostaria de registrar? registrar?
+[08:12] Diego Diehl: É que futuramente a gente vai pôr uma descrição do arquivo para ir como. Não sei se em arquivos e você não manda descrição, né na verdade Vitor mais mandaria uma mensagem em seguida. É isso.
+[08:30] Victor Figueredo: é poderia ir como como a gente poderia usar até já e para formulário descrição do arquivo,
+[08:35] Diego Diehl: e
+[08:35] Victor Figueredo: proposta seria.
+[08:38] Diego Diehl: padronizar primeiro
+[08:40] Victor Figueredo: isso
+[08:42] Diego Diehl: Pode falar.
+[08:44] Victor Figueredo: Teria te basicamente o título e descrição hoje, a gente tem a descrição que tá servindo como título do arquivo.
+[08:56] Diego Diehl: O que que é descrição para você?
+[09:00] Victor Figueredo: O atributo que tem lá descrição. Hoje ele guarda o título do arquivo então a apresentação underline samclair ponto PDF é só um ponto né para no futuro caso a gente queira fazer um caption bem rápido. O ideal seria a gente ter ali o title a gente usar. Olha aqui tem a tabela do Algarve.
+[09:24] Victor Figueredo: tal.
+[09:26] Diego Diehl: Show show. E aí ele já poderia enviar junto.
+[09:31] Victor Figueredo: sim
+[09:31] Diego Diehl: Tá então acho que é esse nível um ali onde você ficou Claro.
+[09:36] Alejandro Olchik: Tá registrei lá já registrei lá.
+[09:37] Diego Diehl: Tá tem um que eu quero já tirar da minha cabeça para saber que vai estar em algum momento a gente vai avaliar. Vitor que quando a gente roda uma envio uma função certa forma o bote tá lendo o contexto da conversa certo? E aí uma coisa que tá acontecendo você tinha já.
+[10:06] Diego Diehl: É que eles estão treinando os corretores a da contexto do cliente dar algum contexto. então o futuro Eu vejo que o envio desses arquivos ele poderia estar enviando algum tipo de inteligência comercial. Utilizando o contexto que tiver da conversa que isso bote já fazia né? Mas esse nem precisa Anotar na verdade, pode passar para o próximo isso eu não vou esquecer porque vai rolar e a gente vê o momento adequado, pode avançar.
+[10:41] Victor Figueredo: Tá conectado também com essa.
+[10:45] Diego Diehl: Exato futuro a gente vai MVP mais voltado para essa linha. língua.
+[10:51] Alejandro Olchik: Uma pergunta. Só essa parte do nome já tem produção.
+[10:55] Victor Figueredo: Já tem produção sim.
+[10:59] Alejandro Olchik: E em relação a bom Então na verdade. Em relação ao envio de arquivos específicos isso também já em qual é o estágio que a gente está?
+[11:16] Victor Figueredo: Também subiu uma versão para produção. Isso envolve também o evals que a gente fez na semana passada usando data 7 de perguntas direcionadas para os arquivos. E a gente tem o Evaldo para olhar também, mas teve um bom retorno um pedido de arquivos específicos que era o cenário 1, né? Que o Eduardo trouxe categorizou dessa forma, que essa eu pedi tabela do Algarve ele tiver tabela do Algarve, vou mandar a tabela do Algarve, então a gente conseguiu reproduzir no evals a taxa de assertividade que a gente tava esperando no conto geral lá da contabilização das perguntas.
+[11:59] Victor Figueredo: A métrica geral não está refletindo isso porque ainda tem no data 7 perguntas que estão. Fora do padrão desse cenário até comentei com o Fernando na semana passada, acho que na quarta na quinta. Para a gente ter uma ajuda ali para formular esse data 7 perguntas para ele ter nesse padrão.
+[12:24] Alejandro Olchik: Então que tá pendente é ajuste. do conjunto de perguntas Para medir a taxa efetiva. De sucesso e quem tá com isso daqui é o Fernando.
+[12:44] Victor Figueredo: Eu tinha comentado com ele tinha pedido uma ajuda específica para
+[12:47] Alejandro Olchik: tá
+[12:48] Victor Figueredo: nesse sentido, mas a gente não não necessariamente atribuições.
+[12:54] Alejandro Olchik: Então isso daqui são duas além do da taxa efetiva, né? Então acho que é interessante escolher feedback bom o Henrique vai ser vai entrar alguém a gente vai ter que ter feedback específico, né? De como é que tá funcionando o envio de arquivos e o nome dos gerentes ali da EXO.
+[13:19] Alejandro Olchik: Feedback interessante pegar também.
+[13:22] Diego Diehl: O primeiro envio do arquivo segundo. Você falou o quê de
+[13:25] Alejandro Olchik: Na verdade tá tudo relacionado em vindo arquivo, né em vídeo o nome do arquivo arquivo específico é interessante validar com o gerentes coordenadores. funcionando.
+[13:38] Diego Diehl: Sim, eu quero colocar o João Alejandro é para estar implementando o prm na eso.
+[13:47] Alejandro Olchik: legal
+[13:47] Diego Diehl: Entendeu? Então vai ser uma perspectiva de implantar que é isso, né? No final do dia a gente está implementando num projeto que a gente tem mais proximidade, mas que é isso? Então João se quiser notar isso que depois eu explico melhor para ti é a gente. Implementar o chatbot para os executivos da ISO.
+[14:14] Diego Diehl: E Estar atento aos feedbacks do funcionamento e antes disso até você e eu a gente rodar um teste. E daí, Victor, eu tô com uma dificuldade. Eu tô com uma dificuldade de De rodar ali eu rodar teste a partir do meu número. Para o número da eso lá para eu rodar as demos e eu não sei se foi adicionado como.
+[14:44] Diego Diehl: Como o cliente ou algo assim tá bugando lá da eso eu tô até olhando se eu tenho algum Card criado algo assim.
+[14:53] Victor Figueredo: Sim, tá ok.
+[14:54] Diego Diehl: Tá você vê aí para mim me dá um ok depois.
+[14:58] Victor Figueredo: Sim. Dou sim, a gente vai a gente rodou mais localmente, eu acredito que tá Tá desligado nesse momento, mas a gente vai trocar o ambiente lá e deixar ele ligado Full para você, tá?
+[15:07] Diego Diehl: Tá.
+[15:08] Victor Figueredo: E aí Diego?
+[15:08] Diego Diehl: E aí, o João vai pode falar?
+[15:11] Victor Figueredo: Não e aí, sempre que você tiver demo pode pingar na gente aqui que a gente né Vira e Mexe a gente aponta local e faz alguns testes só para você para a gente garantir que vai estar vai estar ligado para você, tá bom?
+[15:26] Diego Diehl: Tá cara, eu preferia a gente anotar isso como alguma ação de bloqueio de causo que até a gente cria um número da órgão. Que a gente tem a logo da hora no número não aquela logo da flutterfit que a gente começa a dar uma cara melhor do nosso produto vai te pedir isso antes, mas eu falei Ah, beleza deixa mas como você tá falando que liga desliga que liga Desliga desliga, cara.
+[15:49] Diego Diehl: Qualquer momento eu posso estar rodando uma demo com alguém, mas tem cliente que sei lá eu encontro em algum lugar algum evento. Abra o prefeito. Então eu preciso dessa. Na verdade agora, daqui a pouco o João vai estar rodando. Daqui a pouco vai ter uma outra pessoa rodando vai ter outra pessoa do comercial da hora, eu vou mostrando.
+[16:07] Diego Diehl: Eu preciso disso estável para a gente rodar muitas vezes. Como que você acha? Que que a gente poderia viabilizar isso?
+[16:17] Victor Figueredo: A gente pode criar um card aqui, inicialmente para alocar um número fixo para para as demos. E aí a gente faz todos os procedimentos, deixei ele ativo.
+[16:31] Diego Diehl: tá
+[16:31] Victor Figueredo: E aí a gente não se preocupa com isso mais.
+[16:34] Diego Diehl: Tá depois eu vou a gente tem um elemento Vitor que é esse amadurecimento da demo que impacta diretamente nas nossas conversões na nossa receita e na nossa todo o nosso negócio aqui, aí eu converso com você, depois melhor tá idealmente eu quero conseguir um cliente. É se for rápido.
+[16:58] Diego Diehl: Tem que mapear os processos e tal, mas idealmente eu já integra com o cara e já roda com o produto dele, quando é fundo de funil, mas eu tenho que ver os cursos disso horas é muito caro ou não, mas para o futuro eu vou conversando contigo tá? Depois que o Fernando também é o que a gente viabiliza para amadurecer a demo.
+[17:16] Victor Figueredo: Não perfeito e porque não a gente cria esse Card e faz uma conversa específica sobre isso porque uma vez com o número alocado a gente só migra o número né para conta do cliente lá naquele momento naquela janela e depois a gente migra de volta para eles. Se for o caso, entendeu? É bem tranquilo fazer isso.
+[17:33] Diego Diehl: Tá beleza, eu converso contigo daí por hora, só liga para mim que eu vou rodar demo e quero testar eu aqui como é que estão as coisas também.
+[17:43] Victor Figueredo: Ok combina
+[17:44] Diego Diehl: obrigado
+[17:48] Alejandro Olchik: O João e o Fernando se conhecem?
+[17:51] Diego Diehl: Não eu até Mandar mensagem para o Fernando. Mas eu vi que ele não tava no WhatsApp. Acho que é uma boa apresentar Fernando tá aí.
+[17:59] Fernando Florêncio: Tava sem energia pessoal.
+[18:01] Diego Diehl: é
+[18:01] Fernando Florêncio: Que acabou de voltar eu entrei aqui. aqui.
+[18:03] Alejandro Olchik: A energia elétrica ou energia motivacional?
+[18:06] Fernando Florêncio: elétrica mesmo
+[18:09] Alejandro Olchik: E a tua câmera meu tu vai agora vai te apresentar para o João ele não vai te ver vai achar que tem um Ghost.
+[18:15] Fernando Florêncio: Vou ter que plugar aqui só um.
+[18:18] Diego Diehl: O Fernando é Nossa e a João
+[18:21] Alejandro Olchik: Não é de verdade. E tá com latência tu viu, né? Olha só aqui então só para alinhar. Eu já te mandei o link ali João do porte tá para tentar entrar no chicote e eu já te coloquei aqui tem que pegar feedback dos coordenadores em relação aos a gente ver o que tá funcionando que não tá funcionando para esse cara.
+[18:53] Alejandro Olchik: De arquivos, tá?
+[18:55] Victor Figueredo: E só sobre esse ponto aí também, Alejandro. Um item de check list que é importante que a gente Ativar. O esse procedimento no só deixar registrado, né? Porque aí a gente ativa como o Diego falou selecionar um outro cumprir o rito.
+[19:13] Alejandro Olchik: Tá ativo eu achei que tava. Ah tá, então vou deixar aqui em testes tá? Tem que ativar então então tem que fazer tem que fazer o depósito e colocar em produção ativar, né? E aí dá para colher o feedback. tá
+[19:29] Victor Figueredo: isso Que aí a gente.
+[19:31] Alejandro Olchik: Quem é que ativa isso é normalmente é o Fernando tu que tá ativando.
+[19:35] Victor Figueredo: Somos nós somos nós são dois.
+[19:37] Alejandro Olchik: tá
+[19:37] Victor Figueredo: procedimentos a gente tem que incluir o poder de enviar arquivo e de perguntas controladas para Instância do cliente e colocar aquele pronto na instrução do usuário são essas duas etapas, mas é importante a gente sinalizar esse processo.
+[19:55] Alejandro Olchik: Fechado, então faz as honras aí te apresenta Fernando.
+[20:00] Fernando Florêncio: Bem João Fernando atualmente tô tocando time de antigamente Integração em suporte. Tentando colocar esse projeto com junto com a Filter produção. basicamente João Pessoa, Paraíba E qualquer coisa que precisar comer à disposição.
+[20:24] Joao Vitor: show de bola Fernando
+[20:24] Alejandro Olchik: O João te apresenta um pouquinho. Fala aí também de por onde tu passou. Acho que
+[20:30] Joao Vitor: Legal, bom dia a todos. Tenho 27 anos, sou aqui de Floripa, né famoso manezinho da ilha. Famos? Passei tive uma carreira aí principalmente voltada ao mercado imobiliário, né? Foi na vista software que foi adquirida até pela Loft 36 anos então. Passei por diversas áreas desde relacionamentos CS a partir de gestão de carteira, acompanhei diversas imobiliárias aí do Brasil inteiro e entra aí para o time da hora com o papel aí de auxiliar nesse processo principalmente das implementações do prn, né? E espero somar né? Tô à disposição também para a gente trocar ideia evoluir bastante e vamos juntos aí colocar esse projeto aí para rodar o quanto antes.
+[21:22] Alejandro Olchik: Apresenta aí também, cara.
+[21:27] Gabriel Teixeira Sales de França: Beleza então João eu sou Gabriel, sou da equipe de integração. Também que precisar tô aqui para ajudar para apresentar mais tenho 28 anos e moro aqui em Volta Redonda no Rio.
+[21:45] Alejandro Olchik: Valeu também se tiver aí dúvidas de como é que funciona os negócios vistas software Fernanda aí tu dá uma olhada para o João aí que ele vai ter todas as os mistérios Tudo bem seguindo então depois outro que tava. Em testes é o suporte em vídeo materiais e múltiplos arquivos, né?
+[22:12] Diego Diehl: Alejandro eu só aproveitar para somar o contexto aqui porque a gente se apresentou e não deu o contexto. Meu alinhamento com João tinha é que a meta principal dele é implementar os dois clientes que estão rodando agora e mapear esse processo de implementação, então ele vai jogar com o Johnny ali dava de Vai jogar com o Fernando com Teixeira agora com o Vitor e que me ajude a dar mais abraço, principalmente é uma parte de entender o cliente atender o cliente e também ali rodar alguns testes e aí validar o produto muito sobre uma ótica do cliente também.
+[22:53] Diego Diehl: Então é uma pessoa que vai estar junto comigo. Sabendo ali testar buscar informação com o cliente do que precisar então ali Fernando naquelas tarefas que a gente entende. Fazer alguma coisa com a Enzo pegar uma informação da setinha algo assim, você pode contar com o João tá para fazer essa ponte para chegar também as demandas mais organizadas para vocês tanto para o Vitor para Fernando para o Johnny lá.
+[23:19] Diego Diehl: Eu vou fazer o João ficar bem em cima ali da árvore nesse começo para garantir os nossos prazos essas execuções e até a validação do que está sendo feito, tá bom isso? Como passo um daí como isso vai evoluir a gente vai sentindo por hora a gente está gargalado nessa implementação e ter mais clientes, então o João como objetivo principal, tá? Com implementação.
+[23:43] Diego Diehl: E aí o que surgir de bug algo assim, ele também vai conseguir atuar aqui com a gente para ajudar nesses treinamento do desenvolvimento do produto com foco e resolver realmente a demanda que precisa para o cliente. Acho que é isso de contexto assim Inicial, tá?
+[24:02] Victor Figueredo: Maravilha João
+[24:03] Diego Diehl: Acrescentar algo fica à vontade.
+[24:06] Alejandro Olchik: Não paixão. O importante está?
+[24:11] Diego Diehl: Fala Vitor
+[24:15] Victor Figueredo: Não só falei para o João contar conosco que precisar. A gente especialmente nesse começo, né? A gente tá entendendo o produto entendendo o cliente tudo ao mesmo tempo, mas continuousco aí sempre que precisar quiser uma reunião tratar de pontos específicos ou coisas mais Gerais só chamar. só chamar.
+[24:40] Alejandro Olchik: Tudo bem em relação a muitos arquivos conseguiram evoluir alguma coisa, como é que está a situação?
+[24:47] Victor Figueredo: Também tá na mesma situação do dos indios específicos tem um outro cenário que aí Vale também incluir o data 7 de perguntas, né? Que nesse caso é o suporte a nível de produto já está desenvolvido e em produção ou seja o produto suporta já os múltiplos arquivos aí nessa parte, a gente tem uma questão de instrução de prompt que é dizer quando múltiplos arquivos devem ser enviados na versão do pronto atual que a gente tem já algo nesse sentido então, ele tá instruído para quando a demanda for imprecisa.
+[25:26] Victor Figueredo: Enviar todos não tem um Evaldo específico disso, mas a gente testou de forma bem estruturada. Conseguiu né identificar esses pontos então a eu peço os materiais do tal tal. Ele tá enviando os múltiplos arquivos com os nomes certinho então. É mais uma questão de alinhamento de pronto nesse sentido o suporte da funcionalidade está em produção.
+[26:01] Diego Diehl: cara errando travou
+[26:08] Victor Figueredo: E o Evaldo o teste bem específico disso. Só aguardar um pouquinho só fazer essa separação. De pedir os apresentação do Sancler veio só o único arquivo e pedir. único arquivo e pedir. Leandro voltou Pedi todos os materiais e de todos. Mas agora Diego também é uma questão de prompt mesmo tá identificar.
+[26:39] Victor Figueredo: Quais são os cenários lá? Eu acho que tem uma instrução que é tipo se pedir materiais kit de vendas ou eu acredito também. Com Fernando aqui para a gente dar uma olhada nisso, ele tá direcionado também para algum nível de precisão. Em precisão e a ausência também do produto da demanda por exemplo, eu tô pedindo a tabela e não tem tabela.
+[27:04] Victor Figueredo: Então são casos que a gente precisa olhar certinho. Quais são as regras que a gente quer definir para esse envio de múltiplos arquivos. Quais são os cenários disso? E basicamente agora é no pronto e no Evaldo construir e testar na funcionalidade está disponível já.
+[27:22] Diego Diehl: Victor não sei se eu entendi eu me distrair um pouquinho. Eu tentar Direcionar para simplificar se ver se não serve essa minha simplificação. Se o corretor pedir alguma forma de múltiplos arquivos e Vi todos. É esse padrão que a gente tinha combinado para simplificar e rodar. MVP. Daí eu não entendi daí agora a partir disso me disse tem algum ponto que precisa esclarecer ou de definição?
+[27:54] Alejandro Olchik: É uma sugestão uma sugestão para deixar mais concreto, quais as perguntas que a gente está testando? Qual o retorno que a gente tá tendo? tendo? Porque não sei eu acho que aí com isso a gente vai ter uma noção, né? Do que que tá cobrindo e o que que tá faltando, o que que O que que vocês?
+[28:08] Diego Diehl: Eu não entendi o que que o Vitor trouxe na verdade. Mas eu acho que isso é concreto.
+[28:13] Alejandro Olchik: Mas se a gente olhar se a gente olhar Talvez as perguntas a gente dá uma olhadinha a gente vê como é que tá retornando e com base nelas. Acho que fica mais fica claro para todo mundo seria uma sugestão.
+[28:23] Diego Diehl: Eu gosto muito sempre que vem esse pedido, eu acho que até a gente pode amadurecer o formato de reunião para começar sempre abrindo que tá rolando que teste foi feito. Que pergunta foi feita até para todo mundo e amadurecendo o contexto de negócio, né? Senão a gente vai ficando muito abstrato e de longe, né?
+[28:44] Alejandro Olchik: Não sei se é algo que tu tem a mão que vocês têm a mão Victor o Fernando as perguntas utilizadas para o teste dos arquivos.
+[28:55] Victor Figueredo: Tem tem sim, deixa deixa eu abrir aqui.
+[28:58] Alejandro Olchik: show
+[29:02] Victor Figueredo: Deixa eu abrir aqui. tá no kit leve, eu não sei se Ah legal, eu não sei se o João tá lá já mas seria legal também, ele dá uma olhada.
+[29:17] Alejandro Olchik: Podemos adicionar?
+[29:19] Fernando Florêncio: eu vi que de alguns imóveis ali que tava dando dando erro de Arquivos não enviados, eu notei que muito que alguns deles pelo menos o que eu tava validando hoje mais cedo antes, faltou energia era. Que eles não eles não estão removidos na hora. E mesmo assim eles constam dentro do dentro do dentro do clube.
+[29:50] Fernando Florêncio: A gente tem alguma. Alguma forma de sinalizar que aquele move não tá disponível. mas Ou também possa ser que as URL não estejam funcionando.
+[30:13] Alejandro Olchik: Fernando. Eu tô aqui no setor.
+[30:17] Victor Figueredo: Eu acho que tá na minha Branch Alejandro. Não sei se ela foi foi medido.
+[30:24] Alejandro Olchik: Essa aqui Light mais trouxa. Claro.
+[30:31] Victor Figueredo: bem Específico e ele é só levemente otimizado mesmo. Tá eu acho que ali tem uma tem uma pasta. semi específicas que esse é o conjunto Eu acho que talvez seja esse. Esse aí é o são os Evaldo de cada um dos produtos cada uma das perguntas.
+[31:08] Alejandro Olchik: E aí tá jogando as perguntas de múltiplos arquivos dentro do revólver de cada um deles ou tu criam algum aqui separado?
+[31:15] Victor Figueredo: Nesse específico são as perguntas que a ideia dessas perguntas elas serem mais específicas mesmo. Manda a apresentação. Manda a tabela manda o memorial descritivo. São mais essas perguntas aí esse esse data 7 para essas perguntas. O Retorno é um arquivo só. O esperado né? Então ali tem.
+[31:37] Alejandro Olchik: tá o Fernando mandou esse daqui, eu não sei ser mas é esse daqui Fernando de muitos desculpa vitória só para
+[31:44] Victor Figueredo: Não não embora em alguns casos dessas perguntas pode existir arquivos retornando pode existir cenários e tornando múltiplos arquivos especialmente nessas perguntas que vão se tornando mais imprecisas. mas esse
+[31:59] Alejandro Olchik: E tem tá então a gente não vai encontrar um arquivo com sódio de múltiplas, né? É isso que eu tô tentando entender.
+[32:06] Victor Figueredo: Isso não não tem esse cenário aí.
+[32:10] Alejandro Olchik: Tá e a gente consegue encontrar em algum lugar? um exemplo de alguma pergunta Que não. Que vai ser mais difícil, né? É tudo.
+[32:24] Victor Figueredo: É pelo pelo markdão, a gente vai ter acho que vai ter uma ideia mais clara ali.
+[32:31] Alejandro Olchik: pelo
+[32:45] Victor Figueredo: Eu acho que ele está acima. Organizando aí que já tem muito.
+[32:55] Alejandro Olchik: Que não tá? Ah tá, então era isso que essa
+[32:59] Victor Figueredo: S2 o vale deixe um cenário checklist 2
+[33:05] Alejandro Olchik: Fernando tinha mandado mesmo.
+[33:07] Victor Figueredo: Isso é isso mesmo, é isso mesmo. A gente ordenou pela taxa de assertividade. De envio na verdade, então ele a pergunta é Existe alguma apresentação do sanclete disponível, aí ele mandou cinco vezes. O arquivo 1 e 5 vezes o de baixo ali então mandou a apresentação corretamente 10 vezes para essa pergunta para esse produto.
+[33:33] Victor Figueredo: Tem apresentação e o título é esse daí mesmo? Pode enviar.
+[33:36] Alejandro Olchik: tá e de múltiplos arquivos só para a gente tem alguma que Mostra de muitos arquivos.
+[33:46] Victor Figueredo: eu acredito que deve ter alguma aí Achar eles a gente até separou também esse esse dado para atualizar o relatório mas não tem
+[33:58] Alejandro Olchik: Tá eu vou eu vou dar uma sugestão. Tá eu vou dar uma atenção aqui, tá? Acho o seguinte ó, tá. Vamos lá, pode acabar.
+[34:11] Victor Figueredo: Não Nessa versão aí de relatório não tá tão fácil achar essa informação Acredito que até exista situações dessas aí a gente separou esse dado acho que cabe uma um card específico para a gente atualizar o relatório e conseguir que a gente está colocando ali, né É totalmente. A gente tá contando basicamente quando uma url um arquivo foi enviado dentro de um mesmo de um mesmo chat, então pode ser que enviou uma vez ou pode ser que enviou duas tá contabilizando nessa métrica aí como se fosse uma vez só mas a gente tem essa métrica de mais de uma vez para identificar músculos arquivos, só não tá bem.
+[34:53] Victor Figueredo: Estruturado no relatório acho que vale um carro de presente atualizar e ficar mais simples a gente ler essas duas situações.
+[35:03] Alejandro Olchik: Então o que eu vou fazer também o que eu tô entendendo o que tá pendente, né aqui vou botar aqui na parte de testes. A gente está pendente aqui suporte. a validação de envio de vários arquivos Pelo Herval. Né? Eu acho que nesse é isso, né? Victor? Quem está falando?
+[35:39] Victor Figueredo: É para a gente colocar múltiplos arquivos no Evaldo, a gente vai precisar formular um data 7 que vai retornar esse tipo de resultado e e também atualizar o script que gera o relatório para a gente ter a métrica de da separação de arquivos totais enviados dentro de uma conversa para a gente saber né? Preciso saber né? Foi mais.
+[36:03] Alejandro Olchik: Por hora a único tipo de pergunta que a gente está considerando é variações de cima dessa poderia me enviar os materiais do Barão de Tefé. E vocês tem algum outro termo Diego tem mais algum outro que você já identificar.
+[36:20] Diego Diehl: Dentre. Qual os materiais?
+[36:23] Alejandro Olchik: Para teste para testar né? Quais são os tipos de pergunta que demandariam um vídeo de materiais? né? Acho que isso são coisas que a gente poderia já colocar aqui se você já tem.
+[36:36] Fernando Florêncio: aquela lista de sinônimo de
+[36:40] Diego Diehl: acabo de variação de pergunta ou de
+[36:43] Alejandro Olchik: De termos pode ser qualquer coisa que ajude a formular perguntas, né? Para ter uma bateria mais completa, pode ser termos, pode ser?
+[36:54] Diego Diehl: também depois? apresentação material book Folder
+[37:03] Alejandro Olchik: Só que eu vou deixar fazer um negócio quando tu pede uma apresentação, às vezes tu tem um arquivo com apresentação. Aí aqui a gente tá perguntando quando é que ele vai enviar múltiplos arquivos.
+[37:17] Diego Diehl: Ah tá, tá.
+[37:17] Alejandro Olchik: Se eu pedir uma apresentação. Me manda uma apresentação, ele vai buscar representação e vai mandar.
+[37:21] Diego Diehl: materiais
+[37:23] Alejandro Olchik: os arquivos
+[37:31] Diego Diehl: kit de vendas quando
+[37:31] Victor Figueredo: de venda marketing
+[37:40] Diego Diehl: Informações quando fala assim me manda informações sobre o produto as informações estão consolidadas nos arquivos. Que essa não é tão óbvio. Materiais arquivos ou Vitor para rodar esse teste aí beleza, né? Para eu tava pensando em como a gente vai implementar diferentes lugares no Brasil e tal daqui a pouco Daí em São Paulo, Curitiba, Porto Alegre muda.
+[38:15] Diego Diehl: Eu pensei em a gente a gente ajustar aquele prompt para tirar um relatório novamente da eso até para amadurecer aqui com João algumas coisas ele entender mais as perguntas e tal. Você acha que faz sentido a gente tirar um novo relatório ali da ex agora que tá conectada a mais tempo.
+[38:32] Diego Diehl: tempo. Até solicitando esse tipo de coisa no relatório, quais perguntas são feitas? Como que você vê isso assim ó para eu porque eu tô falando isso para não tirar da minha cabeça ou perguntar uma mostra meio aleatória para o time para pegar realmente do relatório e fazer o João dar uma olhada ali começar a entender melhor tudo que a pergunta sabe Fernando aquela planilha que você tava organizando, eu acho que é uma atribuição que o João pode atuar agora que é bem.
+[39:02] Diego Diehl: fonte do produto para o cliente organizar Que pergunta que tem que por que resposta que tem que dar que que vocês acham que daí não agora eu posso amadurecer essas outras perguntas mas Você acha viável Victor a gente tirar um novo relatório e daí eu faço um trabalho com João em torno de perguntas termos sinônimos bem completo sobre isso.
+[39:27] Diego Diehl: Que a gente vai precisar daqui a pouco né?
+[39:31] Victor Figueredo: Se possível colocar um card também ou algo desse sentido para a gente extrair isso. E aí de alguma coisa interessante que você falou que esse seria o seria uma. Melhoria dentro do que a gente está imaginando né? Tipo melhorar sair de tirar da nossa cabeça e tirar do cliente.
+[39:50] Victor Figueredo: O ideal do ponto de vista de pronto também além de ter as perguntas específicas como você falou pode ter variação Regional, isso é aquilo a forma como as pessoas mudam, né a própria amostra da ESA específica o ideal é a gente construir também do nosso lado no pronto uma instrução.
+[40:08] Victor Figueredo: Que consiga atender esse tipo de situação então uma coisa que você falou mais cedo que é interessante a gente querer colocar é o cliente pedir no plural. Isso é muito importante tipo. Ah. Me manda as apresentações do tal e tal coisa me manda os materiais. Me manda as tabelas me manda.
+[40:23] Diego Diehl: É que eu não tenho poder de pedir para o cliente, eu não tenho o poder de controlar o que o cliente pede Vitor.
+[40:30] Victor Figueredo: generalização
+[40:31] Diego Diehl: Mas eu tô entendendo que o teu Desafio o que você está Mirando é em escala, né? Eu ainda não eu ainda estou num passo atrás, tá? Se precisar dar uma ajustada para cada cliente ou para região de São Paulo para região de Curitiba. Eu faria isso Óbvio que não dá eu acho que são três níveis, né? Um cara vamos desenvolver já de uma forma que dê escala a gente consiga vender para mil incorporadoras.
+[40:57] Diego Diehl: Esse é o mundo perfeito. Do outro extremo que a gente não quer vamos fazer uma coisa para cada Incorporadora e o modelo não é replicável que a gente não quer. Eu tô no modelo intermediário que é cara, vamos dar um jeito de fazer funcionar por mais que não seja altamente escalável.
+[41:15] Diego Diehl: Eu tô com João aqui para a gente dar uma. Que até estratégia hoje da setinha da ideia das Árvores tá que eu tô vendendo para eles conecta os WhatsApp, se a gente vai começar a registrar tudo com isso. Eu vou tirar um relatório e a gente vai poder dar uma organizada no teu pronto.
+[41:31] Diego Diehl: Então eu só queria tá alinhado contigo nesse a gente tá nesse meio do caminho por hora assim sabe? Vamos fazer funcionar por mais que não seja. Contra você controver para muita gente, depois a gente vai aprender na como da escala. Até tendo dois três, tipos a gente vê como.
+[41:50] Diego Diehl: Como que seria um modelo que funcionaria para São Paulo, Curitiba, Porto Alegre, a gente tem até teste daí para isso, né? Enfim nesse sentido. chão nesse sentido.
+[42:01] Victor Figueredo: Tá bom, tá ótimo.
+[42:03] Diego Diehl: Tá eu posso dedicar esforço a isso a gente dá uma amadurecida. Em resumo então Vamos definir Você Me manda a instrução do último relatório. Aí eu dou uma interada troco uma ideia com João chamando um retorno de qual instrução você manda para ir lá fornecer o relatório. Aí a gente pega esse relatório para a gente fazer um trabalho mais consolidado já na exo imediatamente que eu preciso correr com isso que em seguida vai ter sentido das árvores e daí eu faço um kit de perguntas um kit de várias coisas que a gente não fez ainda.
+[42:38] Diego Diehl: A gente fez só cinco seis perguntas, né? E variações delas, né? Não sei se eu tô atravessando pode me dizer se não é isso o passo agora.
+[42:49] Alejandro Olchik: Eu acho que não dá para fazer só que eu acho que o primeiro ponto é o feedback direto, né? Então o João conversando e o uso já teria que apontar uma situação de satisfatório tá eu acho que o
+[43:05] Diego Diehl: Pode ser um passo.
+[43:05] Alejandro Olchik: quanto mais porque a gente porque na prática sendo bem direta, quanto menos esforço a gente alocar em coisas que não se a gente já sabe o problema é melhor o jogo falando resolver o problema do que desenvolver uma investigação do problema. A hora que vai para um não vai para outro, né do ponto de vista de otimização do tempo se a gente não sabe o problema se investigar o próximo não faz sentido, mas vamos fechar só esses caras que a gente avaliar os próximos só mas e aí a gente pode.
+[43:33] Diego Diehl: Pode ser?
+[43:34] Alejandro Olchik: E aí Decide aí que faz mais
+[43:36] Diego Diehl: beleza
+[43:37] Alejandro Olchik: sentido, tá? Pessoal em relação aqui é o envio dos arquivos, então tô entendendo que faltam formatar os testes tá para validar. Essa parte aqui eu tava pensando assim, eu acho que depois tem uma questão de padronização, né? Vitor que a gente tem que evoluir. Eu fiquei na dúvida. O que que faz mais sentido eu no começo, achei que validar por empreendimento.
+[44:03] Alejandro Olchik: Talvez não fosse interessante, depois eu achei que pode ser porque quando a mãe Incorporadora ela tá colocando empreendimento. Ela quer ver que todos os casos estão sendo cobertos para ele, né e vão entrar novos Empreendimentos então pode ser um tipo de organização. Interessante. Então enfim vamos amadurecer um pouco aqui essa quebra, né? Porque a gente tem o fluxo de uso e empreendimento, né? Não sei qual é a hierarquia que faz mais sentido ainda.
+[44:31] Alejandro Olchik: Entre os dois. Aqui a gente tá colocando mais por. Aqui eu só acho que esses nomes aqui. Esse daqui são a gente tá Enzo.
+[44:45] Fernando Florêncio: Cuidado com a frente Alejandro. que ser aqui.
+[44:50] Alejandro Olchik: Ah, eu tô aqui, né? Aprendi abrange, tá? Só que o que que tá acontecendo a gente tem aqui esse daqui são prontos. E esse daqui são resultados de provas, é isso?
+[45:06] Victor Figueredo: esse esse outro Mark Down são os produtos na hora o que tem arquivos, então tem uma um detalhamento ali de quais Tom com e sem porque a combinação com Esse Jason aí de New questions específico, ele mostra por exemplo os resultados Zero onde que onde que tem ou não tem produto para Quais produtos foram formulados perguntas.
+[45:33] Alejandro Olchik: New questions
+[45:38] Victor Figueredo: Aí estão só os produtos os produtos que tem arquivos. então ele usa o aquela informação do outro lá, é só para a gente não perder a referência, mas vale dar uma organizada no
+[45:51] Alejandro Olchik: Tá mas esse daqui são as perguntas como se fossem os testes, esse daqui é são os prompts. isso daqui que é
+[46:04] Victor Figueredo: Aí é o detalhamento de por produto e os arquivos que ele tem disponíveis que o data 7 ele pode consultar qualquer um desses arquivos aí formular perguntar. Tem tal e tal coisa de estar empreendimento.
+[46:16] Alejandro Olchik: Isso daqui é para geração das dos Testes, é isso? É como se fosse um sítio está que que vocês acham da gente organizar um pouco diferente aqui, eu tô perdendo quando navega, né? Porque talvez fazer a gente tem para mim isso daqui é parte dos evals, né? A gente tem reservar esse daqui é parte do intervalos aqui são os prompts esse daqui eu acho que também é resultado dos ews conferem não.
+[46:49] Alejandro Olchik: Também resultado. Então como se não importa, só que eu acho que o intervalos eles podem ser divididos em mais de um folder para ficar mais organizado, né Talvez né? Porque tu tem os testes os dentes e depois tu tem as execuções mesmo, né? Tipo? os logs Talvez a gente pudesse fazer uma quebra nos ervar na organização do diretórios você faz sentido o que escrever? rapidão só para Faz sentido qualquer coisa porque vai começar a crescer vai ficar muito arquivo, né? Para quem não tá acompanhando vai se acabar daí como as notas técnicas, né? A gente poderia ter uma estrutura que é dentro da válvulas.
+[47:43] Alejandro Olchik: A gente poderia ter o slogs que são das execuções, né? poderia ter A gente tem os logs só separando os logs, né? Porque depois a gente tem os testes os dados temos os testes os dados, né? E aqui ficaria. O teste vai ter que ter um nome que a gente tem que colocar testes MD.
+[48:14] Alejandro Olchik: E algo assim talvez né, que seria um tenta contra o Jason, né ou perguntas, quais o Jason são as perguntas, né? Mas Eles teriam tudo aqui dentro de nós que vocês acham porque quem deixa só o pronto lá no primeiro nível. Não sei estou organiza dessa forma um dos outros, como é que tá fazendo os projetos?
+[48:45] Victor Figueredo: Pode ser pode ser dessa forma. Esses são os maiores lotes que a gente tem o daeso. É o maior aqui em termos de quantidade de perguntas cenário envolve produtos. arquivos.
+[49:03] Alejandro Olchik: Sim, tá porque a minha dúvida é vamos testando aqui sem muita variação, a única coisa que me incomodou. Agora não chegou ainda, estamos localizar. Mas começar a colocar nome mais específico, depois a gente.
+[49:17] Victor Figueredo: Tá bom.
+[49:17] Alejandro Olchik: Pode dar uma risada tá pessoal. Então aqui tem testes. a gente esse daqui tá junto tá junto com arquivos específicos Entende o contexto e arquivos de empreendimentos não citados na conversa. Pode falar.
+[49:54] Victor Figueredo: Esse seria um teste específico que a gente tem que for lá também. o que que acontece se pedir isso se tratar do produto em mais acima na conversa coisa do
+[50:09] Alejandro Olchik: Show tá então com isso, a gente está com status do que está em andamento. Tem alguma outra coisa que começou a ser feito, eu tenho andamento assim que você tem colocando a mão e não tá registrado aqui.
+[50:20] Victor Figueredo: Tem eu tenho alguns pontos aqui. A gente fechou na semana passada um lixo relacionado às hora a data e hora do das testes. Das criações de tarefas a gente fechou isso tinha um lixo reportado pelo Diego sobre isso, a gente resolveu estudar semana passada.
+[50:44] Diego Diehl: Tá só você tá listado aí que eu posso ser só pontuando isso.
+[50:49] Victor Figueredo: Pode pode falar eu acredito não tá
+[50:50] Diego Diehl: Tá Eu Tenho.
+[50:51] Victor Figueredo: tá ligado.
+[50:53] Diego Diehl: Um item aí para a gente pôr no backlog Alessandro que é o amadurecimento do prompt de criação de tarefas. Porque tem um prompt do bot. Tem um pronto te dá funcionalidade de criação de tarefas. Acho que isso daí vai ser bem simples. Talvez eu consiga. Ali. Alexa parar Enfim é um item de produto que a gente não olhou ainda e para a gente determinar para o nosso cliente isso.
+[51:28] Diego Diehl: A gente precisa direcionar, né as criações e tarefas.
+[51:35] Alejandro Olchik: Tá mas isso daqui era um bugzinho porque eu tô entendendo.
+[51:40] Victor Figueredo: Era era um bug ele tava colocando todas as tarefas às 9 da manhã alguma coisa assim, a gente já colocou a data e hora das tarefas. Dentro do contexto correto então lá Marco, vamos vamos falar amanhã 3:42 da tarde. Ele tá colocando isso agora de forma específica no clube era um bug que o Diego me cortou.
+[52:05] Alejandro Olchik: Tá que mais.
+[52:09] Victor Figueredo: É um outro bug que havia sido reportado sobre a transcrição o registro da transcrição dos áudios. Dos registros de interação também foi resolvido.
+[52:22] Alejandro Olchik: Qual o problema?
+[52:27] Victor Figueredo: tá faltando o a transcrição do áudio em si não tava subindo no registro de interação agora já está
+[52:37] Diego Diehl: Boa eu recortei isso aí também.
+[52:45] Alejandro Olchik: Isso já está em produção.
+[52:48] Victor Figueredo: Já já está?
+[52:50] Alejandro Olchik: Tá esses casos aqui eles precisam de alguma etapa adicional porque é só é só um. Isso daqui não robô do gerente, né que a gente tá falando em todos em todos.
+[53:03] Diego Diehl: Isso daí é Filter físico Plus.
+[53:04] Victor Figueredo: Só para a gente deixar registrado.
+[53:07] Alejandro Olchik: tá E a mesma coisa aqui tá mas essa daqui eu tô entendendo então que não precisa fazer mais nada pronto é isso?
+[53:16] Victor Figueredo: Isso isso mesmo.
+[53:18] Alejandro Olchik: tá
+[53:21] Victor Figueredo: tem também a questão do A gente validou o cadastro dos corretores com emoji. Que é o que a gente comentou ontem na dele.
+[53:32] Diego Diehl: A boa isso tá certo com o responsável Victor.
+[53:36] Victor Figueredo: As duas coisas são coisas diferentes, mas as duas coisas estão.
+[53:40] Diego Diehl: Tá.
+[53:41] Victor Figueredo: A gente colocou então.
+[53:43] Diego Diehl: E você já conectou com o Johnny para ele até o fim.
+[53:47] Victor Figueredo: Do da questão de pegar o responsável dali e jogar no colaborador.
+[53:53] Diego Diehl: Isso e jogar também no responsável. São duas coisas aí, né? Só para a gente pontuar quando solicita o cadastro se o cadastro já tiver. Já existir adicionar a pessoa que solicitou o cadastro como colaborador. Esse foi.
+[54:11] Victor Figueredo: Esse não esse é com Automação com Johnny mesmo.
+[54:15] Diego Diehl: Tá o primeiro que é quando não houver o registro do corretor cadastrar e colocar quem pediu o registro como responsável.
+[54:23] Victor Figueredo: Isso exatamente.
+[54:27] Diego Diehl: Tá tá falta esse segundo então que é com o Johnny.
+[54:31] Victor Figueredo: isso
+[54:31] Diego Diehl: E você solicitou para ele já?
+[54:34] Victor Figueredo: Eu pedi uma cor com ele aqui para a gente falar disso e outros temas. mas eu vou transmitir a ele que
+[54:38] Diego Diehl: tá
+[54:41] Victor Figueredo: Que já está em produção.
+[54:44] Diego Diehl: Eu acho que é legal deixar aí para a gente acompanhar tá suporte avaliação.
+[54:49] Alejandro Olchik: Só para entender o ideal é criar essas cards lá como parte do processo de comunicação e não a posteriori tá porque a gente fica
+[54:57] Diego Diehl: com
+[54:57] Alejandro Olchik: aí é meio perda de tempo assim, então todo mundo já foi feito tipo iria precisar instrumento de Guiar o desenvolvimento da solução. Seria o ideal é porque eu tô entendendo. Aqui é quando coordenador. Envia emoji. E contato já cadastrado Antunes. Então coordenador. Passa a ser o responsável. Pelo contato é isso, né?
+[55:33] Diego Diehl: Não é passa a ser um colaborador. Nesse caso.
+[55:39] Alejandro Olchik: e que
+[55:40] Diego Diehl: É um campo que são corresponsáveis. É tipo quem fala com esse corretor. passa a ser um colaborador do contato e não e quando Quando não quando já calma aí quando o que você colocou aí o contato já cadastrado quando não tiver cadastrado, esse já tá resolvido. Acho que
+[56:16] Alejandro Olchik: Então é suporte a vinculação. do cadastro dos corretores existentes E esse daqui? Qual é em que estádio tá?
+[56:33] Victor Figueredo: Isso tá no início do desenvolvimento dele, mas já foi refinado. Tecnicamente como que a gente vai fazer isso via automações no púbis e o A base da funcionalidade também já foi?
+[56:49] Alejandro Olchik: Algo mais ele.
+[56:51] Diego Diehl: Victor uma confirmação é independente de quem manda o Emoji, né?
+[56:58] Victor Figueredo: Tem que ser O Agente, né? O gerente tem que sempre partido do gerente.
+[57:03] Diego Diehl: Ah tá bom só porque eu ia testar que eu enviando para Algum deles lá, mas eu sou gerente enviando Então beleza.
+[57:11] Alejandro Olchik: Tá são três para as 11 só para quase 11 horas, tá só para alinhar sua vida. Tem alguma coisa ainda na tua bandeja aí no teu prato?
+[57:23] Victor Figueredo: Eu acho que esses são os pontos principais aí a gente está acompanhando. Também ideias árvores e árvores e cetim é mais.
+[57:32] Diego Diehl: e 10 árvores É que são a Gente Tá misturando, né? A gente aqui fala de desenvolvimento, mas a gente tem um desafio de implementação daí é como que essas duas coisas andam tem planos de ação de implementação rodando e aqui a gente está se concentrando em planos de desenvolvimento de produto e resolução de bugs.
+[57:56] Diego Diehl: Aí João sem entender, já que aqui a gente está concentrando o desenvolvimento produto a gente tem que ter muito bem consolidado, né? Que a tarefa que eu já te dei, né? Os planos de ação consolidados das implementações que hoje às vezes se perde uma coisa ou outra.
+[58:13] Alejandro Olchik: O que que eu pegaria tá? Como é que eu faria eu não ficaria colocando mais coisa que a gente acha que precisa nesse momento. Eu acho que nesse momento a gente tem que deixar o Vitor e Fernando focar em deixar um vídeo de arquivos, tem que estar melhor possível que a gente consiga fazer, né? E aí Diego e João tem que ver na linha de frente, o que que pega para fechar a venda e deixar o cliente satisfeito, entendeu? Aí e esses casos que estão pegando para deixar ele satisfeitos nesse primeiro momento que vocês têm que trazer aqui para que eles possam tocar com velocidade máxima é o que eu tentaria fazer esse espaço de encher.
+[58:48] Diego Diehl: Perfeito, eu tô alinhado para mim desenvolver a demo que a gente falou, né? E resolveu os problemas de cetim das Árvores. E exo são três clientes a minha dúvida de próximos passos sobre não pôr mais coisas para Vitor e Fernando. Com certeza tô alinhadasso, né? Tive uma ideia f***-se a minha ideia anota aqui não bota nem no backlog.
+[59:15] Diego Diehl: Ou bota no backlog que sabe que não vai olhar tão cedo para lá a minha. A minha sensação de como que a gente dá isso, eu queria definir uma estratégia que nossa daí pedindo bem para você Leandro. Que que você acha melhor e para os outros também. A minha sensação.
+[59:36] Diego Diehl: E o meu medo é da gente ficar vendo coisinha por coisinha e começar a criar uma colcha de retalhos. Mas que olhando do outro ângulo, parece que a gente divide em problemas menores vai resolver um problema um. O meu ângulo que eu faria é a gente falar de forma prática tirar o relatório da Êxodo fazer um trabalho com o João ele fala são essas 40 perguntas aqui que a gente sabe que não é só dar mesmo que é nas outras lá também.
+[60:05] Diego Diehl: São esses arquivos e a gente tem esse bloco para resolver. Porque eu tenho a sensação que parece que a gente tá andando andando e quando é que a gente vai chegar nesse estágio, mas eu não sei a resposta que é se resolvendo pequenas e pequenas tarefas não é uma colcha de retalhos assim, a gente vai resolvendo se é bom ruim isso ou seja.
+[60:26] Diego Diehl: Olha a situação atual como um todo e o que falta para estar funcional para Ponta. Aí eu não sei como que vocês
+[60:33] Alejandro Olchik: o ponto até até dá para olhar mas
+[60:33] Diego Diehl: melhor.
+[60:35] Alejandro Olchik: a funcionalidades ela nem entrou no ar, entendeu? Os arquivos para a gente olhar as perguntas de uma forma bem prática, tá?
+[60:41] Diego Diehl: Então é por no aro o quanto antes da Enzo na minha visão, não
+[60:45] Alejandro Olchik: Exato eu acho que tem que pôr no ar
+[60:46] Diego Diehl: esperar nada.
+[60:47] Alejandro Olchik: porque isso é o próximo tópico, por isso que eu não Tiraria foco deles nesse momento, entendeu? Tem que pôr no ar para testar envio de arquivos é a coisa mais importante, eu acho que teria que ser mais importante que o suporte a vinculação do cadastro ali que o Vitor A mão, entendeu em outra coisa já e
+[61:05] Diego Diehl: tá é
+[61:05] Alejandro Olchik: não entrou no ar os testes, entendeu? Ainda do envio de arquivos. Então para mim assim esse board é o seguinte a prioridade é da direita para esquerda de cima para baixo então. No lugar de fazer vinculação bota no ar esse vídeo de arquivos e deixa o pessoal rodar já deixa isso rodando que a gente vai ter uma base de como tá funcionando vê que os testes estão rodando e bota no ar e depois acaba a vinculação,
+[61:27] Diego Diehl: necessidade da setinha em ordem mesmo
+[61:28] Alejandro Olchik: entendeu?
+[61:31] Diego Diehl: na ordem da implementação foi conectada e começar a abordar eles surgiram bugs a gente resolveu alguns.
+[61:39] Alejandro Olchik: Mas tá certo isso tu quer que ele
+[61:39] Diego Diehl: aí
+[61:41] Alejandro Olchik: soque em primeiro no vinculação de cadastro ou que faça um vídeo de arquivos?
+[61:46] Diego Diehl: Falhou bem na hora a internet fala de novo.
+[61:49] Alejandro Olchik: focar na envio de arquivos ou não vinculação do cadastro cadastro.
+[61:58] Diego Diehl: Cara é para minha vinculação é a vinculação de cadastro olhando para cetim e que tem que ser é tipo
+[62:04] Alejandro Olchik: tá
+[62:06] Diego Diehl: Tecnicamente gera uma funcionalidade que estava funcional. Então na verdade é tipo um bug ou uma defasagem, ele não é uma coisa nova que a gente está desenvolvendo. Então é passar por essa rápido e voltar ao foco dos arquivos.
+[62:24] Alejandro Olchik: Beleza eu vou botar outros para discutir mais para frente, tá que é. O que eu queria ter eu vou colocar aqui avaliação. avaliação A gente volta assim a gente para. avaliação da qualidade Das respostas mas mais para frente porque a gente tem que escalar né, mas depois a gente conversa com mais calma.
+[63:03] Alejandro Olchik: calma. A gente pode ter métricas que
+[63:06] Diego Diehl: Acho que nossa tarefa então eu com
+[63:06] Alejandro Olchik: estão.
+[63:10] Diego Diehl: João é implementar na eso e começar a ver o que acontece. Daí a gente faz sem organizando tendo visão do que falta como MVP mesmo assim só enviar o básico de resolver. fechou
+[63:24] Alejandro Olchik: Então tá fechamos.
+[63:30] Diego Diehl: Valeu gente, valeu falou.
+[63:36] Alejandro Olchik: Obrigado todo mundo até mais.
+[63:38] Victor Figueredo: Obrigado tchau, tchau.
+[63:39] Joao Vitor: Valeu pessoal

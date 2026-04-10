@@ -1,0 +1,66 @@
+{
+  "meeting_id": "6821e30d5714830013869e08",
+  "generated_at": "2026-04-09T15:02:22.521022",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Rodrigo Italiano",
+      "Ruilce Neto"
+    ],
+    "duration_min": 5
+  },
+  "blocks": [
+    {
+      "start_sec": 318,
+      "speakers": [
+        "Ruilce Neto"
+      ],
+      "topic_hint": "nada hoje.",
+      "content_preview": "Nada hoje.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 320,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "e aí mano, tudo bem? acabei de mandar mensagem aqui para o diego, mano. aí eu já",
+      "content_preview": "E aí mano, tudo bem? Acabei de mandar mensagem aqui para o Diego, mano. Aí eu já Por que você vai conseguir entrar já tô dando um xeque-mate nele aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 343,
+      "speakers": [
+        "Ruilce Neto"
+      ],
+      "topic_hint": "está bem mano, tá com uma carinha aí.",
+      "content_preview": "Está bem mano, tá com uma carinha aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 347,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "correndo aqui, né de jeito as coisas mano fazer preciso. acelerar aqui para o fi",
+      "content_preview": "Correndo aqui, né de jeito as coisas mano fazer preciso. Acelerar aqui para o final da semana, né? Bom o que que eu fiz aqui? Deixa eu te mostrar.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Rodrigo Italiano",
+      "timestamp": 320,
+      "text": "E aí mano, tudo bem? Acabei de mandar mensagem aqui para o Diego, mano. Aí eu já Por que você vai conseguir entrar já tô dando um xeque-mate nele aqui."
+    },
+    {
+      "speaker": "Rodrigo Italiano",
+      "timestamp": 347,
+      "text": "Correndo aqui, né de jeito as coisas mano fazer preciso. Acelerar aqui para o final da semana, né? Bom o que que eu fiz aqui? Deixa eu te mostrar."
+    }
+  ],
+  "transcript_length": 441,
+  "block_count": 4
+}

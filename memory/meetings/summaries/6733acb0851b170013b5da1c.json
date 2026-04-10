@@ -1,0 +1,66 @@
+{
+  "meeting_id": "6733acb0851b170013b5da1c",
+  "generated_at": "2026-04-09T15:02:25.092872",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl",
+      "Eduardo Stringhini"
+    ],
+    "duration_min": 9
+  },
+  "blocks": [
+    {
+      "start_sec": 489,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "ligou para ele?",
+      "content_preview": "Ligou para ele?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 494,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "fala diego, deixa eu não não tá aí. caramba",
+      "content_preview": "Fala Diego, deixa eu não não tá aí. caramba",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 507,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "vou tô caminhando para pegar umas roupas ali na lavanderia para ir à noite. mas",
+      "content_preview": "Vou tô caminhando para pegar umas roupas ali na lavanderia para ir à noite. Mas liga para ele ligar converte. Ou naipe trouxe um site hoje no final de uma reunião. Falou assim para sucesso ao invés de | Clientes ficam p*** e aí eu voltei para ele, sabe? Como que eu treinava, eu tinha um time de gera",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 578,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "bom, vamos esperar ele aí, cara. vou tocar outras coisas aqui. feito",
+      "content_preview": "Bom, vamos esperar ele aí, cara. Vou tocar outras coisas aqui. feito",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 507,
+      "text": "Vou tô caminhando para pegar umas roupas ali na lavanderia para ir à noite. Mas liga para ele ligar converte. Ou naipe trouxe um site hoje no final de uma reunião. Falou assim para sucesso ao invés de enviar uma mensagem fizesse uma ligação de 3 minutos, a gente teria mais clientes."
+    },
+    {
+      "speaker": "Eduardo Stringhini",
+      "timestamp": 578,
+      "text": "Bom, vamos esperar ele aí, cara. Vou tocar outras coisas aqui. feito"
+    }
+  ],
+  "transcript_length": 1101,
+  "block_count": 4
+}

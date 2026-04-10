@@ -1,0 +1,33 @@
+{
+  "meeting_id": "685c0104b393f00013622b4f",
+  "generated_at": "2026-04-09T15:02:22.389595",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl"
+    ],
+    "duration_min": 3
+  },
+  "blocks": [
+    {
+      "start_sec": 182,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "fala jefferson. tá montado aí? alô não tá ou eu vou eu vou voltar aqui, eu preci",
+      "content_preview": "Fala Jefferson. Tá montado aí? alô Não tá ou eu vou eu vou voltar aqui, eu preciso de 5 10 minutos, tá bom? Entrei só para te avisar. Já venho aqui, beleza?",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 182,
+      "text": "Fala Jefferson. Tá montado aí? alô Não tá ou eu vou eu vou voltar aqui, eu preciso de 5 10 minutos, tá bom? Entrei só para te avisar. Já venho aqui, beleza?"
+    }
+  ],
+  "transcript_length": 177,
+  "block_count": 1
+}

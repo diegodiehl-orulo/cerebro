@@ -1,0 +1,1556 @@
+{
+  "meeting_id": "66b38863362f270012db32ab",
+  "generated_at": "2026-04-09T15:02:23.442755",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl",
+      "Diogo Fernandes",
+      "Johnny Fernandes"
+    ],
+    "duration_min": 26
+  },
+  "blocks": [
+    {
+      "start_sec": 14,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "que legal.",
+      "content_preview": "Que legal.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 17,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "vinculado da lopes e assim eu só fui conseguir pegar isso é tipo ontem",
+      "content_preview": "vinculado da Lopes e assim eu só fui conseguir pegar isso é tipo ontem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 22,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "no final",
+      "content_preview": "no final",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 23,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "quando tava pronto para subir aí eu falei p***, cara, tem esse detalhe aqui. né?",
+      "content_preview": "quando tava pronto para subir aí eu falei p***, cara, tem esse detalhe aqui. Né? E eu tive que fazer uma adequação também na cidade porque nem todos estavam com a cidade preenchido. E quando você vai ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 41,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "entendi.",
+      "content_preview": "Entendi.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 42,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "aí eu tive que pegar ali o estado tal e preencher os que estava sem cidade preen",
+      "content_preview": "Aí eu tive que pegar ali o estado tal e preencher os que estava sem cidade preenche todos.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 48,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 51,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e eu tive que fazer também uma adequação no gerentes. porque foi tipo assim na p",
+      "content_preview": "E eu tive que fazer também uma adequação no gerentes. porque foi tipo assim na planilha tava com nome e quando caio passou a lista alguns estavam com sobrenome é uma coisa besta para caramba, mas se",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 65,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "deus eu imagino.",
+      "content_preview": "Deus eu imagino.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 65,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "você faz o próprio ver ele não não vincula lá no clube, né?",
+      "content_preview": "você faz o próprio ver ele não não vincula lá no clube, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 68,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "buga",
+      "content_preview": "buga",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 70,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "então até peço desculpa, mas já tô subindo já tá já tá já começou a subir para o",
+      "content_preview": "Então até peço desculpa, mas já tô subindo já tá já tá já começou a subir para o sistema. Essa base de dados.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 79,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "johnny para colocar uma razão aqui pela trás dessa data o que você considera",
+      "content_preview": "Johnny para colocar uma razão aqui pela trás dessa data o que você considera",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 86,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu acho que o layout do dos diversos arquivos enviados, né. e adequação eu posso",
+      "content_preview": "Eu acho que o layout do dos diversos arquivos enviados, né. E adequação eu posso falar adequação ou eu posso falar a consolidação? Desses dados para importar no sistema.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 112,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom. você acha que tem uma solução para as próximas do tipo? para o próximo c",
+      "content_preview": "Tá bom. Você acha que tem uma solução para as próximas do tipo? para o próximo cliente tem como corrigir isso uma maneira de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 123,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "na prática de jogo como que a gente faz né? que acho que não vai ser o caso aqui",
+      "content_preview": "Na prática de jogo como que a gente faz né? Que acho que não vai ser o caso aqui no nosso projeto normalmente, eu passo um layout de arquivo para o cliente e ele fica responsável e me mandar os dados ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 142,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "legal legal a gente.",
+      "content_preview": "legal Legal a gente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 144,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas não sei se para esse cenário aqui de mobiliária, né? porque não são empresas",
+      "content_preview": "Mas não sei se para esse cenário aqui de mobiliária, né? Porque não são empresas, né? Tipo não tem um perfil de empresa, né? Não tem um ti ali muitas vezes que apoia eles né? Eu que acho que a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 160,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu vou me virar no próximo tá",
+      "content_preview": "Eu vou me virar no próximo tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 160,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "pode falar.",
+      "content_preview": "Pode falar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 161,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "johnny. eu acho que eu vou tentar eu já sei disso. eu vou balizar isso aí já eu",
+      "content_preview": "Johnny. Eu acho que eu vou tentar eu já sei disso. Eu vou balizar isso aí já eu falo assim, cara, preciso de uma aba de corretores de uma aba de imobiliárias com tudo organizado que vai subir assim. T",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 176,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 178,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "acho que eu entendia acho que para registrar aqui a houveram diferentes datas de",
+      "content_preview": "Acho que eu entendia acho que para registrar aqui a Houveram diferentes datas de envio de planilha surgiram planilhas ao longo do tempo que geraram retrabalhos a gente quis fazer uma over delivery par | Eles terão trabalho de alinhar e conectando o corretor com imobiliária lá depois também.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 224,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "um outro ponto por exemplo que tá me dando um pouquinho de trabalho. legal que o",
+      "content_preview": "Um outro ponto por exemplo que tá me dando um pouquinho de trabalho. Legal que o Caio já fez um detalhe de zonas, né? Só que do jeito que ele fez, eu ainda vou precisar tratar porque ele colocou assim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 248,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "outra",
+      "content_preview": "outra",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 248,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "três colunas, né? eu achei que ele ia só falar assim, ó isso aqui você coloca a",
+      "content_preview": "três colunas, né? Eu achei que ele ia só falar assim, ó isso aqui você coloca a zona sul isso aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 254,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu não vi essa planilha tinha que ser ele não tinha outra opção tinha que ter pa",
+      "content_preview": "Eu não vi essa planilha tinha que ser ele não tinha outra opção tinha que ter para ele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 260,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é mas ele colocou ele melhorou pouco o que tava, mas mesmo assim, ele colocou al",
+      "content_preview": "É mas ele colocou ele melhorou pouco o que tava, mas mesmo assim, ele colocou algumas com três com quatro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 266,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá, beleza.",
+      "content_preview": "Tá, beleza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 268,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "aí assim.",
+      "content_preview": "Aí assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 268,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que pode falar.",
+      "content_preview": "Eu acho que pode falar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 271,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é uma mão de obra que a gente às vezes não tá estimando eu não tava estimando né",
+      "content_preview": "É uma mão de obra que a gente às vezes não tá estimando eu não tava estimando né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 276,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "sim, sim.",
+      "content_preview": "Sim, sim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 277,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "essa mão de obra de tratar isso no excel não tá fazendo né? né?",
+      "content_preview": "Essa mão de obra de tratar isso no Excel não tá fazendo né? né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 282,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 282,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "o formato de telefone do conexão certinho estava de um jeito tipo um ddd com ent",
+      "content_preview": "O formato de telefone do Conexão certinho estava de um jeito tipo um DDD com entre parentes do corretor não tinha 11 o outro tava tudo junto os números então eu tive que fazer um trabalho de formatar ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 302,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "usando ia para tratar esses dados, cara.",
+      "content_preview": "usando ia para tratar esses dados, cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 306,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "não fazer parte mesmo do excel.",
+      "content_preview": "Não fazer parte mesmo do Excel.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 308,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "porque cara eu fiz alguns tratamentos pelo chat do e ele tem me surpreendido em",
+      "content_preview": "porque Cara eu fiz alguns tratamentos pelo chat do E ele tem me surpreendido em algumas coisas que demoram tipo tipo de telefone. Fala assim ó, ele foi no Brasil é assim tenho mais 55 é do Brasil tem  | Ele tem me dado.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 332,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "vou testar vou testar acho que",
+      "content_preview": "Vou testar vou testar acho que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 334,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "enfim tá só para te dar.",
+      "content_preview": "enfim Tá só para te dar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 337,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "a claro pô, fica à vontade. que tiver.",
+      "content_preview": "a Claro pô, fica à vontade. que tiver.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 341,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tem trabalho de horas velho, eu tô a minha namorada. ela é consultora do bcg, né",
+      "content_preview": "Tem trabalho de horas velho, eu tô a minha namorada. Ela é consultora do BCG, né? E cara. Os cara tão arregaçando, tipo eles demoravam às vezes 10 horas para fazer um trabalho de planilha. Eles estão  | Considere os estados do Brasil, Cidade do Brasil. Nossa uma loucura tá mas só tem site para a gen",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 378,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "com certeza já vai ser vai ser colocado.",
+      "content_preview": "Com certeza já vai ser Vai ser colocado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 382,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá então importação de corretores tivemos dificuldades avançamos agora.",
+      "content_preview": "Tá então importação de corretores tivemos dificuldades avançamos agora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 389,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "exatamente",
+      "content_preview": "exatamente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 391,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "vocês demais está concluído para hoje johnny essa atividade.",
+      "content_preview": "Vocês demais está concluído para hoje Johnny essa atividade.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 394,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "para hoje já tá subindo já?",
+      "content_preview": "Para hoje já tá subindo já?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 396,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá. e aí, você já consegue fazer a importação dos dados? ou como é que é?",
+      "content_preview": "Tá. E aí, você já consegue fazer a importação dos dados? Ou como é que é?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 401,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "já tô fazendo isso já já configurei o de cima que é configurar o excel. e já est",
+      "content_preview": "Já tô fazendo isso já já configurei o de cima que é configurar o Excel. E já estou importando já os dados e os contatos.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 411,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "então essa tá completo de configuração.",
+      "content_preview": "Então essa tá completo de configuração.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 417,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "vamos colocar em prol desse jogo porque tem essa última do de vincular. 44 conta",
+      "content_preview": "Vamos colocar em prol desse jogo porque tem essa última do de vincular. 44 contatos do gerente eles estão andando em conjunto, tá?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 429,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom.",
+      "content_preview": "Tá bom.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 429,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu tô configurando.",
+      "content_preview": "Eu tô configurando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 433,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "e tá as outras atividades aqui o diego você teve reunião ontem com o pessoal da",
+      "content_preview": "e tá as outras atividades aqui o Diego você teve reunião ontem com o pessoal da",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 440,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "sim foi um caos. mas deu tudo certo ou melhor. deu certo ok. tô aprendendo com e",
+      "content_preview": "sim Foi um caos. Mas deu tudo certo ou melhor. Deu certo ok. Tô aprendendo com esse processo. Vou mapear essa parte, mas assim cobrei aqui o não deixa um dono não tá em Progress já três dois ou três c | No fim feedback do Caio foi cara o discurso tá muito bom. Eu quero ver só os bugs que vão ter ent",
+      "turn_count": 6
+    },
+    {
+      "start_sec": 572,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "isso continua ainda diego.",
+      "content_preview": "Isso continua ainda Diego.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 574,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "então eu não sei agora tipo até. um a gente vai testar o corretores da hora. que",
+      "content_preview": "Então eu não sei agora tipo até. Um a gente vai testar o corretores da hora. Quer ver aqui, ó. tipo Foi criado. a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 589,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "foi criado. esse foi criado esse filtro de olho no funil de leads ali de cada um",
+      "content_preview": "Foi criado. Esse foi criado esse filtro de olho no funil de leads ali de cada um poder ver o seu negócio.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 598,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "foi. foi sim, eu fiz uma dele na segunda sexta ou segunda com o diego aqui. aí o",
+      "content_preview": "Foi. Foi sim, eu fiz uma dele na segunda sexta ou segunda com o Diego aqui. Aí o Diego já pediu para fazer esse bloqueio, né? E eu havia feito isso já no início da semana. Tanto de uso de clientes. In",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 620,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "pode deixar sem nada de visualização por hora, tá? é",
+      "content_preview": "Pode deixar sem nada de visualização por hora, tá? é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 625,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e isso funciona super bem viu? essa questão.",
+      "content_preview": "E isso funciona super bem viu? Essa questão.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 627,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "o tá, beleza.",
+      "content_preview": "o Tá, beleza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 630,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas se você quiser se tiver com dúvida. ou eu posso morar com algum usuário dele",
+      "content_preview": "Mas se você quiser se tiver com dúvida. Ou eu posso morar com algum usuário deles aqui eu posso cadastrar um usuário e validar isso para você.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 642,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que é importante validar e a gente vai ter que ver qual eu precisava de",
+      "content_preview": "Eu acho que é importante validar e a gente vai ter que ver qual eu precisava de umas etapas de processo. processo. De como é que agora os líderes que estão parados lá que não estão conectados ao Whats | E daí via automático, enfim tem esse ponto em aberto, mas gente como a gente tá com pouco tempo, ",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 685,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom.",
+      "content_preview": "Tá bom.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 685,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "olhar mais o macro molhar o macro aqui.",
+      "content_preview": "olhar mais o macro molhar o macro aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 689,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "johnny o que falta para fazer para fechar essa essa fase",
+      "content_preview": "Johnny o que falta para fazer para fechar essa essa fase",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 697,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sobe lá, por favor. roleta. essa roleta está configurada já? o que eu acho que é",
+      "content_preview": "Sobe lá, por favor. roleta. Essa roleta está configurada já? O que eu acho que é interessante, só agora que tô importuna na base é só validar. Já configurei essa roleta. E aí agora que a gente tá subi | Dentro da base dos gerentes lá tudo Atena um para cada um para Liliane, né? Ô Diego, tem que ver ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 738,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu vou eu vou eu vou validar depois",
+      "content_preview": "Eu vou eu vou eu vou validar depois",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 740,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "estão vendo os deles mesmo, tá? acho que eles não estão vendo um do outro não. é",
+      "content_preview": "estão vendo os deles mesmo, tá? Acho que eles não estão vendo um do outro não. É porque caiu uns 30 ali de se eu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 745,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "disso.",
+      "content_preview": "disso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 747,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "não me engano já.",
+      "content_preview": "não me engano já.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 748,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 749,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "então deve ter cada um deve ter recebido mais do que cinco ali.",
+      "content_preview": "Então deve ter Cada um deve ter recebido mais do que cinco ali.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 752,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu tô preocupado, se não tá parado ali porque tem 67 leads. faz tempo. o último",
+      "content_preview": "Eu tô preocupado, se não tá parado ali porque tem 67 leads. Faz tempo. o último Foi criado ontem 3:23. Tá então assim para a gente não validar agora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 775,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "hoje caiu hoje.",
+      "content_preview": "Hoje caiu hoje.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 776,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "caiu hoje",
+      "content_preview": "caiu hoje",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 779,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "11:39",
+      "content_preview": "11:39",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 782,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "ele nem reagiu com emoji.",
+      "content_preview": "Ele nem reagiu com emoji.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 783,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "paula",
+      "content_preview": "Paula",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 792,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá então assim ó mais macro tá de jogo. dá um cheque na subida de base de corret",
+      "content_preview": "Tá então assim ó mais macro tá de jogo. Dá um cheque na subida de base de corretores e tal. e a gente tem que definir, qual a instrução para o time sobre atualização de Corretor com imobiliário tá o m | o funil de carteira O filho da carteira a roleta no funil eu acho que a entrega de vocês me avise",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 866,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e",
+      "content_preview": "e",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 869,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "entraram que eu vou ter que abordar, eles de alguma forma eu vou eu vou rodar co",
+      "content_preview": "entraram que eu vou ter que abordar, eles de alguma forma eu vou eu vou rodar com a Kátia. E tipo quem não abordou como é que ela vai fazer para abordar? Que é lá encosto messenger, eu vou ter que lig | E lá mandar o Emoji ver se vai cadastrar um novo ver se vai ser atribuído responsável correto. Qu",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 941,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "para mim pessoal para mim pessoal, só do que eu vi até agora e as outras coisas",
+      "content_preview": "Para mim pessoal para mim pessoal, só do que eu vi até agora e as outras coisas elas já funciona mais uma questão de organização de implantação que a gente não conseguiu fazer agora esse ponto aí que ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 957,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "o do cadastro básico já tem daí são dois níveis o que nós já temos que a gente p",
+      "content_preview": "O do cadastro básico já tem daí são dois níveis o que nós já temos que a gente pode rodar que é o Vitor falou que já tem o cadastro. Aí eu tô preocupado de onde você validar se o cadastro já é atribuí",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 974,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 976,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "então dá para a gente rodar assim no nível 1 o nível 2 é e um segundo gerente pe",
+      "content_preview": "Então dá para a gente rodar assim no nível 1 o nível 2 é e um segundo gerente pedir para cadastrar se vai atribuir como colaborador que daí se dá para a gente deslocar no segundo nível.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 990,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "tá só para a gente não perder aqui o raciocínio. colocou linha subtec que valida",
+      "content_preview": "Tá só para a gente não perder aqui o raciocínio. Colocou linha subtec que validar base. Beleza depois que vai dar a base é legal fazer um treinamento com eles de como que eles editam o cadastro dos co",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1012,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "perfeito",
+      "content_preview": "perfeito",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1012,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "colocar aqui a subtec depois de validade. é isso aí o diego a gente pode fazer c",
+      "content_preview": "colocar aqui a subtec depois de validade. É isso aí o Diego a gente pode fazer conjunto. Mas se quiser eu posso ministrar esse como é uma tarefa do sistema mesmo. Se você não aí você que manda, tá? Eu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1034,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho johnny como a gente não tá",
+      "content_preview": "Eu acho Johnny como a gente não tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1034,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "clientes",
+      "content_preview": "clientes",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1041,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "dando acesso para eles ainda. eles nem vão conseguir configurar. a gente tá com",
+      "content_preview": "dando acesso para eles ainda. Eles nem vão conseguir configurar. A gente tá com a outro mecanismo lá de ver como é que vai ser a permissão de visualização de cada um então esse é um item que entra num | A não ser que eu der na mão da Kátia isso mas eu vou galar e não vai gerar valor agora.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1064,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mais uma dúvida. o que ele tá como responsável? ele pode visualizar? entendeu?",
+      "content_preview": "Mais uma dúvida. O que ele tá como responsável? Ele pode visualizar? Entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1072,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "mas aí se tiver daqui a pouco outro gerente falando com eu pedir para não visual",
+      "content_preview": "Mas aí Se tiver daqui a pouco outro gerente falando com eu pedir para não visualizar nada tá joia? Porque porque se tiver outro gerente de parcerias falando com esse corretor vai registrar lá e o cara",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1090,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "o histórico ele não vai ver,",
+      "content_preview": "O histórico ele não vai ver,",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1090,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "gerente está conversando. ah então fechou.",
+      "content_preview": "gerente está conversando. Ah então fechou.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1095,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "entendeu?",
+      "content_preview": "entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1096,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "então fechou",
+      "content_preview": "Então fechou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1096,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é porque vocês bloquear pensa assim caiu um líder lá, se ele não conseguir ver o",
+      "content_preview": "É porque vocês bloquear pensa assim caiu um líder lá, se ele não conseguir ver o cliente ele não haver telefone não o nome da pessoa do corretor não vê nada, entendeu? O que eu bloqueei é tipo assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1107,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "isso mas agora tá",
+      "content_preview": "isso mas agora tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1111,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "vamos pôr tem duas pessoas falando com a mesma o mesmo corretor. ambos só vão ve",
+      "content_preview": "Vamos pôr tem duas pessoas falando com a mesma o mesmo corretor. Ambos só vão ver informações cadastrais desse corretor, eles não vão ter histórico de conversa nenhuma do WhatsApp.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1124,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "perfeito, tá bom, tá, tá bom.",
+      "content_preview": "Perfeito, tá bom, tá, tá bom.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1125,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "entendeu? eu acho que esse ponto de saberem ed.",
+      "content_preview": "Entendeu? Eu acho que esse ponto de saberem Ed.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1130,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1135,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "editar o cadastro para vincular na imobiliária. eu penso que depois que a gente",
+      "content_preview": "editar o cadastro para vincular na imobiliária. Eu penso que depois que a gente vai lhe dar essa base completa. Tipo assim, pode ser um ponto para essa semana semana que vem no início já assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1147,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é que não agrega valor johnny para eles.",
+      "content_preview": "É que não agrega valor Johnny para eles.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1150,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "não, tá",
+      "content_preview": "não, tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1152,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não é aquela parada do desafio que a gente vai ter de algum momento, eu vou ter",
+      "content_preview": "Não é aquela parada do desafio que a gente vai ter de algum momento, eu vou ter que criar um mecanismo de Como agregar valor. Para eles ou do Caio, vê um relatório em relação a isso para dar eles vere | Acho que a prioridade Nossa sendo bem geral, é como cadastrar o resto da galera que tá no WhatsAp",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1179,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1181,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "para para responder uma outra pergunta que a gente solta um mvp na mão deles, el",
+      "content_preview": "para Para responder uma outra pergunta que a gente solta um MVP na mão deles, ele já verem alguma coisa rolando. rolando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1190,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "perfeito então perfeito é só para",
+      "content_preview": "Perfeito então perfeito é só para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1191,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "então tá bom.",
+      "content_preview": "Então tá bom.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1195,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "esse ponto de aconselhamento. usabilidade. pode remover essa linha e jogar lá pa",
+      "content_preview": "esse ponto de aconselhamento. usabilidade. Pode remover essa linha e jogar lá para fazer dois ou três lá para frente. Essa linha 37.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1204,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que vai ser uma linha nossa",
+      "content_preview": "Eu acho que vai ser uma linha Nossa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1206,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "pode colocar ali para baixo.",
+      "content_preview": "Pode colocar ali para baixo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1209,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "com a super feed johnny. a gente se aproximar e fazer uma reunião de quais são a",
+      "content_preview": "com a super feed Johnny. A gente se aproximar e fazer uma reunião de quais são as etapas isso que é f***. Tem que hoje em dia teria que integrar Vitor Fernando Johnny e eu Daí a gente vê como que a ge",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1230,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "ok beleza vou entrando aqui, valeu.",
+      "content_preview": "Ok beleza vou entrando aqui, valeu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1232,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1234,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "beleza, só para a gente perder aqui outro ponto coloca ali jogo. de baixo a subt",
+      "content_preview": "Beleza, só para a gente perder aqui outro ponto coloca ali jogo. De baixo a subtec de validar a roleta depois que eu por favor só para não ficar. Quieto que o Diego falou vamos valer a nós antes de pa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1258,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1260,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "validar roleta e documentar para o cliente o comportamento isso é mesmo validar",
+      "content_preview": "validar roleta e documentar para o cliente o Comportamento Isso é mesmo validar roleta e documentar o comportamento da v1 para o cliente. Que é isso, aí a gente garantir que tá fazendo certo agora e f",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1284,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá tá tem um ponto daí do produto",
+      "content_preview": "Tá tá tem um ponto daí do produto",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1284,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "caio ali saber né?",
+      "content_preview": "Caio ali saber né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1287,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "johnny que é sobre e não tá aqui numa lista, eu acho que a gente teve que rodar",
+      "content_preview": "Johnny que é sobre e não tá aqui numa lista, eu acho que a gente teve que rodar de processo que é. Ajustar a mensagem padrão de abordagem dos vídeos da orla. Tanto que subiu errado, lembra?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1302,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sim, sim perfeito.",
+      "content_preview": "Sim, sim perfeito.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1303,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "bate em algum lugar aí?",
+      "content_preview": "Bate em algum lugar aí?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1304,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu tentei mape. eu jogo um pouquinho aí ali onde está na fase dois no caso habil",
+      "content_preview": "Eu tentei mape. Eu jogo um pouquinho aí ali onde está na fase dois no caso habilitar. aqui ó conectar habilitar. Conectar bote a no PRF cedinho aí embaixo da 42.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1325,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1330,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas posso substituir? por favor você coloca ali sobre teste escrito assim, ó. co",
+      "content_preview": "Mas posso substituir? por favor Você coloca ali sobre teste escrito assim, ó. configurar mensagem do específica do cliente mas acho que Acho que ele também não sabia de todo o processo dele, ele não m",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1373,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom. desculpa diego.",
+      "content_preview": "Tá bom. Desculpa Diego.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1377,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não nada vamos só uma parada que dessa uma ação mesmo johnny. tô preocupado que",
+      "content_preview": "Não nada vamos só uma parada que dessa uma ação mesmo Johnny. Tô preocupado que o corretor ele entra pode entrar pensa o corretor que entrar em produto da Cetim. todo dia",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1392,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "certo",
+      "content_preview": "certo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1393,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "vai abordar ele todo dia não vai?",
+      "content_preview": "Vai abordar ele todo dia não vai?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1397,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1398,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "e aí vai abordar como se fosse? sabe aquela vibe de primeira mensagem se apresen",
+      "content_preview": "E aí vai abordar como se fosse? Sabe aquela vibe de primeira mensagem se apresentando a gente falou de quando ele já",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1408,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "para mim falar com o vitor que é pode ser abaixo da linha 40? coloca assim, ó, a",
+      "content_preview": "para mim falar com o Vitor que é Pode ser abaixo da linha 40? coloca assim, ó, aí vai ser uma ação minha com o Vitor de configurar mensagem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1430,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "isso é em relação da fase certo",
+      "content_preview": "isso é em relação da fase certo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1430,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "diferente",
+      "content_preview": "diferente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1431,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "que a gente precisa entregar.",
+      "content_preview": "que a gente precisa entregar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1433,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "na verdade acho que o diego depois a gente vai ter que atualizar um pouco esse c",
+      "content_preview": "Na verdade acho que o Diego Depois a gente vai ter que atualizar um pouco esse cronograma. Porque alguns itens da fase 2 puxamos para fase 1 para entregar o valor para o cliente, entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1445,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom e configurar.",
+      "content_preview": "Tá bom e configurar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1448,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "a mensagem depois que o corretor está cadastrado. aí só para ficar bem específic",
+      "content_preview": "a mensagem Depois que o corretor está cadastrado. Aí só para ficar bem específico",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1467,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "procurar mensagem",
+      "content_preview": "Procurar mensagem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1467,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mensagem. de abordagem aí você coloca entre parentes lide só para saber que",
+      "content_preview": "mensagem. de abordagem Aí você coloca entre parentes lide só para saber que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1476,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "para o corretor ainda nem que já",
+      "content_preview": "Para o corretor ainda nem que já",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1477,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "lidera só para saber que é",
+      "content_preview": "lidera só para saber que é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1483,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "está cadastrada, depois que o corretor é após a primeira entrada como lidiólogo.",
+      "content_preview": "está cadastrada, depois que o corretor é após a primeira entrada como lidiólogo. Fica mais claro porque está cada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1493,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "configurar mensagem abordagem de",
+      "content_preview": "configurar mensagem abordagem de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1494,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "cadastrado ou não?",
+      "content_preview": "cadastrado ou não?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1495,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "líder após",
+      "content_preview": "líder após",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1498,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é primeira.",
+      "content_preview": "É primeira.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1498,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "abordagem",
+      "content_preview": "abordagem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1503,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "abordagem é daí pode pôr a primeira abordagem?",
+      "content_preview": "abordagem é Daí pode pôr a primeira abordagem?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1531,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "outra mensagem é só ou outra ou",
+      "content_preview": "Outra mensagem é só ou outra ou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1536,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "configurar mensagem após primeira",
+      "content_preview": "Configurar mensagem após primeira",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1536,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "nova mensagem?",
+      "content_preview": "nova mensagem?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1538,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "abordagem. sendo outra mensagem para não ficar repetitivo. sendo outra sendo uma",
+      "content_preview": "abordagem. Sendo outra mensagem para não ficar repetitivo. Sendo outra sendo uma segunda mensagem uma um segundo modelo. modelo. Por aqui do ladinho. Para não ficar repetidamente. Se apresentando ao c",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1565,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom, beleza jones. precisa de algum apoio do diego para execução de hoje para",
+      "content_preview": "Tá bom, beleza Jones. Precisa de algum apoio do Diego para execução de hoje para fazer entregas.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1575,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "por enquanto não jogo por enquanto não, estou bem ligado.",
+      "content_preview": "Por enquanto não jogo por enquanto não, estou bem ligado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1578,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "tá bom a gente já passou um pouco do tempo é assim que a gente continua pelo wha",
+      "content_preview": "Tá bom a gente já passou um pouco do tempo é assim que a gente continua pelo WhatsApp para qualquer alinhamento menor, tá bom? Então tá bom, obrigado Diego.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1586,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "fechou gente, obrigado.",
+      "content_preview": "Fechou gente, obrigado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1588,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "obrigado",
+      "content_preview": "obrigado",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1588,
+      "speakers": [
+        "Diogo Fernandes"
+      ],
+      "topic_hint": "e tchau, tchau.",
+      "content_preview": "e tchau, tchau.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 23,
+      "text": "quando tava pronto para subir aí eu falei p***, cara, tem esse detalhe aqui. Né? E eu tive que fazer uma adequação também na cidade porque nem todos estavam com a cidade preenchido. E quando você vai subir o campo cidade, ele se torna obrigatório para toda a lista. Porque entendeu?"
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 51,
+      "text": "E eu tive que fazer também uma adequação no gerentes. porque foi tipo assim na planilha tava com nome e quando caio passou a lista alguns estavam com sobrenome é uma coisa besta para caramba, mas se"
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 86,
+      "text": "Eu acho que o layout do dos diversos arquivos enviados, né. E adequação eu posso falar adequação ou eu posso falar a consolidação? Desses dados para importar no sistema."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 123,
+      "text": "Na prática de jogo como que a gente faz né? Que acho que não vai ser o caso aqui no nosso projeto normalmente, eu passo um layout de arquivo para o cliente e ele fica responsável e me mandar os dados prontos só para mim importar, entendeu?"
+    },
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 160,
+      "text": "Eu vou me virar no próximo tá"
+    },
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 161,
+      "text": "Johnny. Eu acho que eu vou tentar eu já sei disso. Eu vou balizar isso aí já eu falo assim, cara, preciso de uma aba de corretores de uma aba de imobiliárias com tudo organizado que vai subir assim. Tá então deixa comigo."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 224,
+      "text": "Um outro ponto por exemplo que tá me dando um pouquinho de trabalho. Legal que o Caio já fez um detalhe de zonas, né? Só que do jeito que ele fez, eu ainda vou precisar tratar porque ele colocou assim a b c d Mais, Zona Sul mais então tipo assim, beleza? Ele colocou ali, eu vou ter que separar isso em três tipo assim"
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 332,
+      "text": "Vou testar vou testar acho que"
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 378,
+      "text": "Com certeza já vai ser Vai ser colocado."
+    },
+    {
+      "speaker": "Diego Diehl",
+      "timestamp": 382,
+      "text": "Tá então importação de corretores tivemos dificuldades avançamos agora."
+    }
+  ],
+  "transcript_length": 23279,
+  "block_count": 165
+}

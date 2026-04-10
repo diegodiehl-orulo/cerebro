@@ -1,0 +1,43 @@
+{
+  "meeting_id": "68483a8327ae9a00135ad91e",
+  "generated_at": "2026-04-09T15:02:23.476827",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Eduardo Stringhini",
+      "Rafael Cardoso"
+    ],
+    "duration_min": 0
+  },
+  "blocks": [
+    {
+      "start_sec": 2,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "vocês mandaram. aonde isso?",
+      "content_preview": "Vocês mandaram. Aonde isso?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3,
+      "speakers": [
+        "Rafael Cardoso"
+      ],
+      "topic_hint": "tá o diego te mandou aí, tô saindo aí.",
+      "content_preview": "Tá o Diego te mandou aí, tô saindo aí.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Eduardo Stringhini",
+      "timestamp": 2,
+      "text": "Vocês mandaram. Aonde isso?"
+    }
+  ],
+  "transcript_length": 118,
+  "block_count": 2
+}

@@ -1,0 +1,43 @@
+{
+  "meeting_id": "68643981922ad7001375f712",
+  "generated_at": "2026-04-09T15:02:22.775192",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl",
+      "Jullyene Bart"
+    ],
+    "duration_min": 4
+  },
+  "blocks": [
+    {
+      "start_sec": 4,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não tô te ouvindo. tá ju?",
+      "content_preview": "Não tô te ouvindo. Tá Ju?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6,
+      "speakers": [
+        "Jullyene Bart"
+      ],
+      "topic_hint": "fala de tudo bem. você tá me ouvindo? oi, tá me ouvindo? tá me ouvindo? agora nã",
+      "content_preview": "fala de Tudo bem. Você tá me ouvindo? Oi, tá me ouvindo? Tá me ouvindo? agora Não. Mas que c******. Tá me ouvindo? Oi, oi oi. de Cara não sei que tá rolando essa bosta. Tudo certo tá no celular, né? E | Que daí eu vou para compartilhar telas para ficar melhor.",
+      "turn_count": 2
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Jullyene Bart",
+      "timestamp": 254,
+      "text": "Que daí eu vou para compartilhar telas para ficar melhor."
+    }
+  ],
+  "transcript_length": 477,
+  "block_count": 2
+}

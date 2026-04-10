@@ -1,0 +1,1565 @@
+{
+  "meeting_id": "66f4439e3c9eaf00132de915",
+  "generated_at": "2026-04-09T15:02:25.456936",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Diego Diehl",
+      "Erick Luz",
+      "Johnny Fernandes"
+    ],
+    "duration_min": 59
+  },
+  "blocks": [
+    {
+      "start_sec": 1,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é o suficiente, né? vamos entender. qual que é o escopo ali e tal, eu acho que é",
+      "content_preview": "é o suficiente, né? Vamos entender. Qual que é o escopo ali e tal, eu acho que é o suficiente. Talvez sobre ainda, né? Porque muita coisa já vai estar pronto. Só que essa conversa ficou perdida, né? A | Também não aconteceu com a ideia 40 horas aqui de implementação de das Árvores não aconteceu com ",
+      "turn_count": 5
+    },
+    {
+      "start_sec": 116,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "que vai ser implementado, né?",
+      "content_preview": "Que vai ser implementado, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 120,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "bem o que ele vai receber eu tô percebido que quando vai trazer nossos clientes",
+      "content_preview": "bem o que ele vai receber eu tô percebido que quando vai trazer nossos clientes nos grupos. Os clientes vem fazendo pergunta assim cara muito desconectado com o produto muito conectado pelo sistema fa | Mas a essência não muda muito, né? Eu já vendi bastante em RP também e o processo é basicamente o",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 249,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "quando tem expectativa, né? fica muito aberto e a gente não consegue conduzir de",
+      "content_preview": "Quando tem expectativa, né? Fica muito aberto e a gente não consegue Conduzir de forma Clara ali mais ou menos, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 257,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "aí fica o joão pedindo coisa, aí, eu acho que a gente tem que assim realmente é.",
+      "content_preview": "Aí fica o João pedindo coisa, aí, eu acho que a gente tem que assim realmente é. eu falei Eric, foi feita ali com o Diego um processo de Demonstrar como que é feito o processo de venda. Qual que é o p | Só que isso aqui não tá legal porque você é pressão que eu tenho às vezes é cara. Não quer vender",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 303,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "deixa eu fazer um comentário é que assim a plumas tem um processo de o processo",
+      "content_preview": "Deixa eu fazer um comentário é que assim a plumas tem um processo de o processo de conversão de clientes que é da plugs, mas isso não quer dizer que esse processo de conversão do processo comercial da | Isso aí não quer dizer eu acho que o que é importante a gente discutir, É claro que eu posso acho",
+      "turn_count": 6
+    },
+    {
+      "start_sec": 453,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "não exatamente né, a gente tem outros parceiros vendendo também. que a gente faz",
+      "content_preview": "Não exatamente né, a gente tem outros parceiros vendendo também. Que a gente faz o processo de escopo faz a demo ali, né? Quando o parceiro não pode fazer e a gente. Cara, a gente coloca ali 10 horas  | Nessa essas implementações porque nós estamos indo ó um dois três no quarto já né? e assim",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 502,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "o bom que é o quarto, né, que bom que tá isso.",
+      "content_preview": "O bom que é o quarto, né, que bom que tá isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 506,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas é sim, eu tô bem animado.",
+      "content_preview": "Mas é sim, eu tô bem animado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 508,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "precisa ajustar isso logo.",
+      "content_preview": "Precisa ajustar isso logo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 509,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu tô muito animado assim, né? só que a gente tem que ajustar isso porque senão",
+      "content_preview": "Eu tô muito animado assim, né? Só que a gente tem que ajustar isso porque senão a empresa que só fica vira um peso, entendeu? O negócio que é super a gente gosta de dar um show ali na implementação é ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 530,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "perfeito",
+      "content_preview": "perfeito",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 531,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "negócio aqui é só cobrança. é só peso não tem um escopo cara, não. acho que prec",
+      "content_preview": "negócio aqui é só cobrança. É só peso não tem um escopo cara, não. Acho que precisa levar para ninguém isso eu acho que o Diego ficar recebendo pressão do cliente. O Diego não fica legal para ele o cl | A gente vai acabar criando uma bola de neve. E para mim também cara, isso aqui é o seguinte, ó. E",
+      "turn_count": 6
+    },
+    {
+      "start_sec": 666,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "obrigado pela transparência. acho que foi muito bom, cara você ter falado com es",
+      "content_preview": "Obrigado pela transparência. Acho que foi muito bom, cara você ter falado com essa franqueza toda. O momento de ver o que que ele acha de tudo isso que ele se ele vê isso com bons olhos o que a gente  | Ele tem certo nem errado. A gente tá só batendo esse papo mesmo.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 703,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que tem vários pontos aí para a gente trazer. e até diferente para mim f",
+      "content_preview": "Eu acho que tem vários pontos aí para a gente trazer. E até diferente para mim ficar 20 minutos na reunião escutando. Eu acho que assim lá do pessoal Johnny Eric, tô bem tranquilo com vocês, a gente s | educado. Acho que tá todo mundo se dando bem. O João tá se dando bem a gente tá falando agora de ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 749,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sim claro",
+      "content_preview": "Sim claro",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 750,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que trazendo vou pensar mais numa timeline, tá? quando eu fui fechar o p",
+      "content_preview": "Eu acho que trazendo vou pensar mais numa timeline, tá? Quando eu fui fechar o primeiro cliente. A gente fez uma reunião sobre como seria como que era isso, eu perguntei Johnny você que tem experiênci | E aí a gente ficou eu vou começar a pontuar algumas coisas porque transparência é legal, mas acho",
+      "turn_count": 7
+    },
+    {
+      "start_sec": 916,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "aqui pessoal só tô só tirei o meu rosto.",
+      "content_preview": "Aqui pessoal só tô só tirei o meu rosto.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 919,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é que tava travando na internet. então acho que vale esse só recapitulação assim",
+      "content_preview": "É que tava travando na internet. Então acho que vale esse só recapitulação assim sem chover no molhado, mas agora estão virando para mim e falando que precisa do escopo fechado. Numa ideia no combinad | O que o cliente pediu falar? Não não faz eu controlo o cliente porque ele não sabe o que que ele ",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 1018,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "só posso fazer um ponto a vírgula diego? eu acredito que essas questões acontece",
+      "content_preview": "Só posso fazer um ponto a vírgula Diego? Eu acredito que essas questões acontecem assim são erros. A gente precisa ajustar é muito bom que você fale, mas assim enquanto a gente estava no mvzão ali pri | Talvez essa conversa seja para a gente recapitular assim porque é importante ouvir erros no proce",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 1059,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "molhado acho que o ponto só de vulnerabilidade de trazer. esses pontos principal",
+      "content_preview": "Molhado acho que o ponto só de vulnerabilidade de trazer. Esses pontos principalmente pra tijone que eu consigo conversar e virar a página suave, só que se a gente virar a página sem a gente reconhece",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1082,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "sim, não tranquilo, ó sobre o escopo, eu demorei para caramba de fato. mas eu já",
+      "content_preview": "Sim, não tranquilo, ó sobre o escopo, eu demorei para caramba de fato. Mas eu já mandei isso duas vezes, eu mandei no dia 18 de junho. Teve uma semana atrás aí que o João pediu. Nós estava reunião, ma | Até porque isso aí eu tive que cara entrar na conta olhar as configurações olhar o que tinha de a",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1125,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "olá 18 de junho esse aqui.",
+      "content_preview": "Olá 18 de junho esse aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1128,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "exatamente",
+      "content_preview": "exatamente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1129,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu vou salvar isso aqui para olhar.",
+      "content_preview": "Eu vou salvar isso aqui para olhar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1130,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e o joão pediu de novo no grupo, eu tinha mandado de novo já entendeu?",
+      "content_preview": "E o João pediu de novo no grupo, eu tinha mandado de novo já entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1134,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "acho que o ponto johnny.",
+      "content_preview": "Acho que o ponto Johnny.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1134,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "então o escopo foi feito com atraso, mas já fazem três meses isso. as planilhas",
+      "content_preview": "Então o escopo foi feito com atraso, mas já fazem três meses isso. As planilhas cara, eu peço desculpa novamente, porém tipo assim, cara aquilo dali foi mais de 100 mil registros algo que nunca aconte | Foi um negócio que de outro mundo assim caiu do nosso colo aqui conforme peguei uma planilha, bel",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 1213,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "sim, acho que um alinhamento de onde então é quando chegar algo que eu quero ter",
+      "content_preview": "Sim, acho que um alinhamento de onde então é quando chegar algo que eu quero ter a partir de agora. É que a gente defina o custo que isso vai ter ou uma clareza de coco se chegou a planilha. O João é ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1230,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "no final do processo de",
+      "content_preview": "no final do processo de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1231,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não que tô falando é a partir de agora falando se as coisas que a gente for comb",
+      "content_preview": "Não que tô falando é a partir de agora falando se as coisas que a gente for combinar agora. Tanto que você tava eu acho que na reunião com o Caio ele falou não tranquilo, vamos fazer porque a gente já | Lembra que a gente foi mas virou. uma planilha",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1255,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "acho que aquela aquilo né? eu subestimei. ninguém imaginou que seria isso daí, n",
+      "content_preview": "Acho que aquela aquilo né? Eu subestimei. Ninguém imaginou que seria isso daí, né? Um negócio tão. Desformatado e sem padrão e tantos arquivos, né? Então esse esse do arquivo aí. Porque esse Normalmen",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1288,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é assim que eu acho que a gente tem que trabalhar agora, se for aparecer algo. e",
+      "content_preview": "É assim que eu acho que a gente tem que trabalhar agora, se for aparecer algo. Eu preciso que vocês time não subestime nem super time vocês time. Que daí é o nosso trabalho vou te dar a planilha você  | O maior ponto de dúvida e de objeção e de redução e de tudo é no curso da implantação. Todos semp",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1322,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "sempre",
+      "content_preview": "sempre",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1325,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "então tá f***, tá? mas beleza eu acho que meu ponto claro já uma vez. eu até bri",
+      "content_preview": "Então tá f***, tá? Mas beleza eu acho que meu ponto claro já uma vez. Eu até brinquei que estava com uma tela de agilidade atrás, eu falei p**** Johnny. Vamos vamos trabalhar nisso, né? Porque é teu t | Fala que vai ser até amanhã não entrega cara, então estimar os prazos mais claro e ver se vai faz",
+      "turn_count": 8
+    },
+    {
+      "start_sec": 1498,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "no break",
+      "content_preview": "no break",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1498,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tipo tá lá 70 horas na cetim e o que que a gente entregou para eles? a gente ent",
+      "content_preview": "Tipo tá lá 70 horas na cetim e o que que a gente entregou para eles? A gente entregou alguns desenvolvimentos de produto, talvez que até eu tô pedindo para a gente separar porque na setinha que tem qu | Eu acho que tá tudo tanto que mais uma vez eu lembro que o Eric falou algo assim, eu falei olha q",
+      "turn_count": 11
+    },
+    {
+      "start_sec": 1725,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "eu vou sempre estar lá.",
+      "content_preview": "Eu vou sempre estar lá.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1726,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é assista lá a reunião de ontem de ontem, pega minha parte falando que eu falei",
+      "content_preview": "É assista lá a reunião de ontem de ontem, pega minha parte falando que eu falei há quatro meses. Eu falei vocês estão querendo desenvolver um negócio mais complexo que ninguém fez sem dinheiro, por qu | O Vitor falou cara na real, não conseguimos estabilizar eu não sei o que acontece. A gente vai te",
+      "turn_count": 10
+    },
+    {
+      "start_sec": 1970,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1971,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "fizer que não for essa versão light light light absurda que é só as horas lá que",
+      "content_preview": "fizer que não for essa versão Light Light Light absurda que é só as horas lá que eu até quero ver as 7 horas lá para mim é? p**** duplicar conta tá f*** aquilo lá também, porque eu não tô cobrando imp | Então compreendendo essa versão que a gente pode fechar o escopo certinho, beleza? Sete horas par",
+      "turn_count": 5
+    },
+    {
+      "start_sec": 2078,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "o diego eu vou ter uma conversa com",
+      "content_preview": "O Diego eu vou ter uma conversa com",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2080,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "cliente que é 14 dias para que se 10 atrasar o décimo primeiro vai cobrar vocês.",
+      "content_preview": "cliente que é 14 dias para que se 10 atrasar o décimo primeiro vai cobrar vocês.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2088,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "edu às 15:00, depois que eu terminar essa que eu tenho um corredor para a gente",
+      "content_preview": "Edu às 15:00, depois que eu terminar essa que eu tenho um corredor para a gente discutir contrato. Dentro do contrato da hora de parcerias é o Edu sugeriu um sla. Só que cara, a gente não consegue hoj | Vou esperar o Thiago chegar o Tiago volta, amanhã vou falar para ele, como é que a gente consegue",
+      "turn_count": 6
+    },
+    {
+      "start_sec": 2179,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "a eric para mim quando for assim tá tranquilo, sabe qual que é o meu problema é",
+      "content_preview": "A Eric para mim quando for assim tá tranquilo, sabe qual que é o meu problema é a pessoa nem responder.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2186,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "não isso é inadmissível.",
+      "content_preview": "Não isso é inadmissível.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2188,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é isso eu atendo o cliente é na",
+      "content_preview": "É isso eu atendo o cliente é na",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2189,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "inadmissível",
+      "content_preview": "inadmissível",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2191,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "admissível responder cobrar e não dá fala nada então assim para mim o que que me",
+      "content_preview": "admissível responder cobrar e não dá fala nada então assim para mim o que que me atende tá para você saber eu nem sabia que o Eduardo ia falar desse la com você para mim a gente assinar o contrato e é | Tudo bem 15 dias para as coisas normais, tá Eric? Ah e um banco de dados. Qual que é o problema q",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2218,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é o campo multilinhas quando a gente",
+      "content_preview": "é o campo multilinhas quando a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2221,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "se isso daí, entendeu?",
+      "content_preview": "Se isso daí, entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2222,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "leva lá para o e-mail assim.",
+      "content_preview": "Leva lá para o e-mail assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2223,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tem que dar dois espaços agora esse banco vai ser corrigido em um mês esse eric,",
+      "content_preview": "Tem que dar dois espaços agora esse banco vai ser corrigido em um mês esse Eric, pode dizer um mês, desde que quando foram um problema que tá f****** o meu cliente e ele não consegue trabalhar me aten",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2244,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "que foi aquele caso lá da lentidão que você comentou comigo?",
+      "content_preview": "Que foi aquele caso lá da lentidão que você comentou comigo?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2249,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não eu não sou sem noção também que eu quero que tenha ah, eu sou o cliente chat",
+      "content_preview": "não eu não sou sem noção também que eu quero que tenha Ah, eu sou o cliente chatão que precisa de uma equipe dedicada para hora do que tem 20 usuários, não é isso? É sistema se vocês do tamanho que vo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2275,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "25",
+      "content_preview": "25",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2280,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "trava e o cara não loga que p****, manda errado. sei lá cara três dias o cara me",
+      "content_preview": "trava e o cara não loga que p****, manda errado. Sei lá cara três dias o cara me responde no dia ou em 24 horas, você terá uma resposta, sabe?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2294,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "a gente é obrigado. a disponibilizar o software para vocês para os seus clientes",
+      "content_preview": "a gente é obrigado. A disponibilizar o software para vocês para os seus clientes por 99,50 do tempo cara, então assim isso é uma questão contratual. Vocês poderiam acionar a gente entendeu? Então está | Eu tô com um cliente que tá com lentidão é com você mesmo que eu falo. Você mesmo falou isso naqu",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 2353,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu não quero eu vou abrir direto eu",
+      "content_preview": "Eu não quero eu vou abrir direto eu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2353,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "assim eu me compro.",
+      "content_preview": "assim eu me compro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2356,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "vou abrir direto do sistema agora. se demorar e não responder eu vou mandar o ti",
+      "content_preview": "vou abrir direto do sistema agora. Se demorar e não responder eu vou mandar o ticket para você.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2363,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "isso perfeito.",
+      "content_preview": "Isso perfeito.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2363,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "e é isso o que eu tô falando de suporte ali para ficar claro. é assim. eu estou",
+      "content_preview": "E é isso o que eu tô falando de suporte ali para ficar claro. É assim. Eu estou utilizando eu acho estou me ouvindo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2374,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "normal normal",
+      "content_preview": "Normal normal",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2378,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "a minha conversa com vocês o principal é? a gente eu tô desenvolvendo um produto",
+      "content_preview": "A minha conversa com vocês o principal é? A gente eu tô desenvolvendo um produto na Plus pagando todas as horas da avod. E eu não tô vendo ninguém da plumes. É esse o ponto que eu tava trazendo para v | É a Filter feed reclamando que não conseguia fazer as coisas e daí esse a ponte Eu já fui fazer. ",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 2451,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "algumas vezes e não veio só de você veio também, eduardo. falou cara, como é que",
+      "content_preview": "Algumas vezes e não veio só de você veio também, Eduardo. Falou cara, como é que eu estou nos ajuda, eu também quero saber. Eu também. Porque esses pontos eles não chegam em mim, por exemplo a fim de  | Ah. Ah vou chamar o Tiago mesmo que ele seja o diretor, mas ele é técnico, ele tem entrada vou ch",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 2485,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "como é que está isso?",
+      "content_preview": "Como é que está isso?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2486,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "qual?",
+      "content_preview": "qual?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2487,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "você acha que tá alugando com o vitor?",
+      "content_preview": "Você acha que tá alugando com o Vitor?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2488,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "na verdade é eu como eu percebi que estava travando muito. e muitos pontos a gen",
+      "content_preview": "Na verdade é eu como eu percebi que estava travando muito. E muitos pontos a gente conversou eu Diego Eduardo, eu vou me aproximar mais. Até para contribuir com configurações até eu posso mexer alguma | Que que tá acontecendo, né? Então algumas coisas e dando também visibilidade de Arquitetura do cl",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 2598,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "das coisas de infraestrutura",
+      "content_preview": "das coisas de infraestrutura",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2604,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "então. avançou bastante eu percebi que eles deu uma acelerada só que tipo assim",
+      "content_preview": "então. Avançou bastante eu percebi que eles deu uma acelerada só que tipo assim voltou a um ponto que agora. É mais deles mesmo assim é do produto deles, entendeu? Tanto que ontem eu até mandei um áud | Ele falou que tinha. Né? E e eu acho que não melhorou porque fica mensagem travada algumas mensag",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2642,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu tô com isso também, então assim eric te respondendo. acho que bem claro sim.",
+      "content_preview": "Eu tô com isso também, então assim Eric te respondendo. Acho que bem claro sim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2650,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "hoje pode ser bem claro claro. pode falar.",
+      "content_preview": "Hoje pode ser bem claro claro. Pode falar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2653,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é como você pode me ajudar a trazer? daqui dois meses mais 200 usuários. ajudand",
+      "content_preview": "É como você pode me ajudar a trazer? Daqui dois meses mais 200 usuários. Ajudando a Filter feed a resolver o BO deles. Ah não vai desenvolver o produto cara não, mas talvez algo em relação a plugs. É ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2684,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu acho que nesse nessa linha do",
+      "content_preview": "Eu acho que nesse nessa linha do",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2685,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "esse é um pouco.",
+      "content_preview": "Esse é um pouco.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2686,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "diego, aí eu acho que da mesma forma que eu fiz e tenho feito aqui, mas voltado",
+      "content_preview": "Diego, aí eu acho que da mesma forma que eu fiz e tenho feito aqui, mas Voltado com front-end eu acho que tem que ver com vitors em relação a pi se ele se ele tem alguma. Alguma apontamento eu acho qu | Mas",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2708,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu mando ele procurar vocês. daí vocês já estão alinhados para o cara poder. que",
+      "content_preview": "Eu mando ele procurar vocês. Daí vocês já estão alinhados para o cara poder. Que só uma coisa para você entender do produto uma coisa que eu acho que às vezes falta uma clareza para vocês. É que a bas",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2725,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "todos",
+      "content_preview": "todos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2726,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "a base do nosso produto é filtro feed. então não é um escopo de ficar ajustando",
+      "content_preview": "A base do nosso produto é filtro feed. Então não é um escopo de ficar ajustando relatório e funil e Campos e tal é legal, pô, se eu fosse o cara com certeza. Mas não é o ponto e aí lá a gente desenvol",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2748,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "então, digo mas aí que tá o ponto que eu sempre falo, por exemplo, o nosso produ",
+      "content_preview": "Então, digo mas aí que tá o ponto que eu sempre falo, por exemplo, o nosso produto é o Plus. E toda vez que eu fui chamado para participar de reuniões, a gente estava discutindo pronto de comando. Eu  | Eu já falei para você e ninguém aqui na plunis é especialista disso. A gente é muito forte sem el",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2771,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu já te respondi isso eric, eu tô",
+      "content_preview": "Eu já te respondi isso Eric, eu tô",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2773,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "eu sei mas eu tô tipo.",
+      "content_preview": "Eu sei mas eu tô tipo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2774,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "falando desenvolver e a não tô falando para vocês terem especialista. estou fala",
+      "content_preview": "falando desenvolver e a não tô falando para vocês terem especialista. Estou falando nada disso um ponto específico é dificuldades e alinhamentos para o produto do Vitor conseguir. Melhor com o produto | Que bom que tem o Johnny então Talvez seja isso, talvez seja um caminho o outro problema é sim o ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2807,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "inclusive eu falei para o eduardo já há uns dois meses atrás, eu falei assim edu",
+      "content_preview": "Inclusive eu falei para o Eduardo já há uns dois meses atrás, eu falei assim Eduardo, você quer trocar o fornecedor, cara, eu vou atrás do mercado eu pego todo mundo aqui na folha a gente vai consegui | Né? Eu concordo com você, se tiver alguma coisa, a gente tem que ajudar a gente vai ajudar eu vou",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2837,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "você vai conversar com eduardo agora, né?",
+      "content_preview": "Você vai conversar com Eduardo agora, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2838,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "vou conversar com ele. vou sugerir de novo.",
+      "content_preview": "Vou conversar com ele. Vou sugerir de novo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2841,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "assim é claro contigo. converse comigo junto, tem um grupo onde você conversa co",
+      "content_preview": "Assim é claro contigo. Converse comigo junto, tem um grupo onde você conversa comigo e com o Eduardo. O Eduardo tá Às vezes em outras questões e não tá enxergando e não tá usando o sistema eu estou us | Tá então assim por mim. Eu não posso depender. De uma empresa tão pequena e frágil quanto a filte",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2882,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "eu também acho.",
+      "content_preview": "Eu também acho.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2884,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "pode e eu vou ficar feliz. ah, se eu vou mandar um eu vi que o vitor agora tá co",
+      "content_preview": "pode e eu vou ficar feliz. Ah, se eu vou mandar um eu vi que o Vitor agora tá com uma foto de uma moto maior bonitona no WhatsApp. Eu vou mandar um capacete novo para ele, quando a gente ganhar dinhei | Eu três vezes eu tava na frente do cliente abri a Fronte da feed travou velho, não carregava. Eu ",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 2953,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "a gente torce pessoal, mas em",
+      "content_preview": "A gente torce pessoal, mas em",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2955,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas é que assim eu trouxe pela eu torço pelo pelo histórico.",
+      "content_preview": "mas é que assim eu trouxe pela eu torço pelo Pelo histórico.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2961,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "negócios a gente não pode agir por emoção.",
+      "content_preview": "negócios a gente não pode agir por emoção.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2962,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "só que tem uma a gente tá? quando o cliente eu tô no grupo aqui com os clientes",
+      "content_preview": "Só que tem uma a gente tá? Quando o cliente eu tô no grupo aqui com os clientes da Porto Camargo e tal quando o cliente manda alguma coisa e é algo envolvida Filter feed o que me mata é que eu não con",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2977,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "nem eu entendeu. esse é o ponto aí que tem um ponto tipo assim o ponto de ter fe",
+      "content_preview": "Nem eu entendeu. Esse é o ponto aí que tem um ponto tipo assim o ponto de ter feito já",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2981,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "mas eu acho que",
+      "content_preview": "mas eu acho que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2982,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "estou fazendo um comentário de o ponto deve estar nesse negócio ela se a base do",
+      "content_preview": "estou fazendo um comentário de o ponto deve estar nesse negócio ela se a base do produto e me deixa vulnerável também pessoal. Eu preferia eu já sugeriu Johnny tava nessa conversa de Vamos colocar out | Que a gente não tem condições de ir lá e mexer no código, não tem como a gente se responsabilizar",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3024,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "demorou, já demorou cara, porque eu",
+      "content_preview": "Demorou, já demorou cara, porque eu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3026,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "bora fazer isso. então eu vou atrás.",
+      "content_preview": "Bora fazer isso. Então eu vou atrás.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3027,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "vou te pedir de verdade eric veja. o início da reunião demora um pouquinho para",
+      "content_preview": "vou te pedir de verdade Eric veja. O início da reunião demora um pouquinho para entrar de terça. Escute o comecinho escutando duas vezes rapidinho e veja que o Vitor traz e veja como é que eu respondo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3047,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "com certeza",
+      "content_preview": "Com certeza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3047,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "beleza. tô show, mas assim o volume que eu preciso e de tecnologia que eu precis",
+      "content_preview": "Beleza. Tô show, mas assim o volume que eu preciso e de tecnologia que eu preciso a Letícia saiu da footer feed, né? Tipo quem que tá vendendo lá.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3059,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "pelo que eu entendi lá a flutterfit também eu falei com o vidro esses dias, olha",
+      "content_preview": "Pelo que eu entendi lá a flutterfit também eu falei com o vidro esses dias, olha pessoal, eu falo com o Vitor ele não me traz um ar de verdade pessoal, não sei se tem medo de mim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3069,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é vulnerabilidade em nome disso.",
+      "content_preview": "É vulnerabilidade em nome disso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3071,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "ou se ele acha que eu não vou atender ele que eu vou simplesmente falar nada, ma",
+      "content_preview": "Ou se ele acha que eu não vou atender ele que eu vou simplesmente falar nada, mas enfim, eu falei com ele esses dias. Ele falou que ele tá trabalhando quase exclusivamente com o projeto da aula não en",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3087,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "né, ele liga o modo discurso. pode contar sempre comigo. qualquer coisa eu não q",
+      "content_preview": "Né, ele liga o modo discurso. Pode contar sempre comigo. Qualquer coisa eu não quero dedicação dele. Eu quero resultado dele ele falar",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3094,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "perfeitos",
+      "content_preview": "perfeitos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3095,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "para mim que vai morar do meu lado aqui legal, mas é sobre entregar o projeto em",
+      "content_preview": "para mim que vai morar do meu lado aqui legal, mas é sobre entregar o projeto em dois dias na versão Light é sobre resultado, não é sobre comprometimento então legal. Comprometimento mas quase que eu  | Próxima é tarefas para gente tá definição Claro do escopo da versão Light. Nossa. E eu me comprom",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3168,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3169,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é novo fornecedor eric, já fala com o edu.",
+      "content_preview": "É novo fornecedor Eric, já fala com o Edu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3172,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "perfeito",
+      "content_preview": "perfeito",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3175,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "da minha parte cara vocês podem ficar vocês não trouxeram nada pontual, mas se v",
+      "content_preview": "Da minha parte Cara vocês podem ficar vocês não trouxeram nada pontual, mas se vier algo que um cliente está pedindo que é sem noção vocês me avisam porque eu não tenho problema em mudar de ideia com  | Então continue fica quieto. Tipo, eu não tenho problema com cliente, eu só preciso de itens pontu",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3220,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "porto",
+      "content_preview": "Porto",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3222,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "entregar mais tá vendo johnny, só precisa funcionar o que a gente tá tá prometen",
+      "content_preview": "entregar mais tá vendo Johnny, só precisa funcionar o que a gente tá tá prometendo entregar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3230,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "gente com esse corpo a gente se protege de algum eventualidade que surja no meio",
+      "content_preview": "gente com esse corpo a gente se protege de algum eventualidade que surja no meio do projeto então desenvolve light do Diego Diego vende aquilo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3240,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e só para quando eles falam escopo por exemplo funil de negócio johnny. quantas",
+      "content_preview": "E só para quando eles falam escopo por exemplo funil de negócio Johnny. Quantas horas é possível de negócio? Cara, pode ser uma hora e pode ser cinco furo de negócio, por exemplo se o cara fala o cara | Negócio cara roleta, qual cenário eu pego o cenário que já tá pronto?",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3273,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não eu vou vender o básico júnior, esse é o básico e quando você pedir algo. iss",
+      "content_preview": "Não eu vou vender o básico Júnior, esse é o básico e quando você pedir algo. Isso aqui vai ser considerado eu combino com você, seu absurdo ou se a gente cobra do cliente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3284,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "perfeito pessoal.",
+      "content_preview": "Perfeito pessoal.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3284,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "tranquilo e assim só que essa claro também digo o meu intuito não é eu já falei",
+      "content_preview": "Tranquilo e assim só que essa claro também Digo o meu intuito não é eu já falei isso algumas vezes, né? Não é e falar horas não é aumentar volume, cara. O meu intuito é a escala é o cliente feliz e vo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3304,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "Não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3304,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "Não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3306,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "tanto que dificilmente acontece para que não aconteceu, mas dificilmente alguém",
+      "content_preview": "tanto que dificilmente acontece para que não aconteceu, mas dificilmente alguém questiona os apontamentos a consultoria as horas me justifica isso aqui cara isso nunca acontece quando acontece é porqu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3322,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3324,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "ele teve uma coisa que que não tá entendeu?",
+      "content_preview": "ele teve uma coisa que que não tá Entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3326,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é a conta direta lá o corretor",
+      "content_preview": "É a conta direta lá o corretor",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3327,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "entendeu?",
+      "content_preview": "Entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3329,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "direto é desenvolvimento de produto e tem que coisa para lá, cara. o resumo tá e",
+      "content_preview": "direto é desenvolvimento de produto e tem que coisa para lá, cara. O resumo tá eu não ligo Johnny de você gastar três horas para fazer algo cobrar 10 porque você soube, qual o botão apertar. Ponto pon | E é isso que eu quero conversar contigo.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3365,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "eu quero reafirmar o projeto de powerbiai ele ia ficar um r$ 7000 eu cobrei três",
+      "content_preview": "Eu quero reafirmar o projeto de powerbiai ele ia ficar um r$ 7000 eu cobrei três. Do Eduardo porque eu tô pensando na escala dos outros incorporadores que vão querer o biai, entendeu? O projeto da exo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3394,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "investindo também.",
+      "content_preview": "Investindo também.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3395,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "é eu tô investindo e por mais que tá 60 horas, eu não apontei tudo porque eu não",
+      "content_preview": "É eu tô investindo e por mais que tá 60 horas, eu não apontei tudo porque eu não entendo que cara, não quero estourar que tornar inviável.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3405,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu acho que você tem que receber aquilo lá tá joia, só tem que estratificar põe",
+      "content_preview": "Eu acho que você tem que receber aquilo lá tá joia, só tem que estratificar põe umas horas já no Porto Camargo. Põe umas horas, tu tá zerado, meu amigo, tipo a gente configurou lá.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3415,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "nós é",
+      "content_preview": "nós é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3417,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "e põe umas horas no corretor direto a mais porque é desenvolvimento produto e de",
+      "content_preview": "E põe umas horas no corretor direto a mais porque é desenvolvimento produto e deixa a setinha lá que vai ter um bolinho que é planilha. Beleza o alí que o Eduardo e cara bora bora para cima.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3430,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "coisa. o diego cara, obrigado. acho que você foi muito f***, tipo questões pontu",
+      "content_preview": "coisa. O Diego cara, obrigado. Acho que você foi muito f***, tipo questões pontuais, vamos trazer mesmo pessoal, eu vou deixar esse fórum aberto, cara. Errei alguma coisa joga mesmo, porque se a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3446,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá louco?",
+      "content_preview": "Tá louco?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3446,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "chega maria, fala a verdade mesmo, cara. você vendeu o negócio errado não promet",
+      "content_preview": "Chega Maria, fala a verdade mesmo, cara. Você vendeu o negócio errado não prometeu não foi legal. Você é Diego para mim também que a gente vai tomando na cara e vai aprendendo entendeu? Vamos marcar u",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3475,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "fechou conta comigo.",
+      "content_preview": "Fechou conta comigo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3475,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "posso verificar a agenda de vocês aí depois porque vocês estão corridos aí?",
+      "content_preview": "Posso verificar a agenda de vocês aí depois porque vocês estão corridos aí?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3479,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "pode sim, eu tô atrasado aqui",
+      "content_preview": "Pode sim, eu tô atrasado aqui",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3479,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu tenho reunião agora, vamos",
+      "content_preview": "Eu tenho reunião agora, vamos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3481,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "também.",
+      "content_preview": "também.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3482,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "presencial para a gente almoçar com calma.",
+      "content_preview": "presencial para a gente almoçar com calma.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3484,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "pode",
+      "content_preview": "pode",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3486,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "fechou a gente.",
+      "content_preview": "Fechou a gente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3486,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "e fechou e diego, se for necessário a gente conversa sobre sei lá uma possível s",
+      "content_preview": "e fechou e Diego, se for necessário a gente conversa sobre Sei lá uma possível sociedade aí ou uma parceria mais.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3498,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "amigo? tô falando isso comigo.",
+      "content_preview": "amigo? Tô falando isso comigo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3499,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "perguntou eu respondi.",
+      "content_preview": "Perguntou eu respondi.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3503,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "depois que o negócio dá certo.",
+      "content_preview": "Depois que o negócio dá certo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3505,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tá fazendo negócio velho, você tá",
+      "content_preview": "Tá fazendo negócio velho, você tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3506,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "deu certo não tem que dar certo.",
+      "content_preview": "Deu certo não tem que dar certo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3506,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "velho, imagina quando você for velho, que horas você vai vender velho, você vai",
+      "content_preview": "velho, imagina quando você for velho, que horas você vai vender velho, você vai produzir nada. produzir nada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3513,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "não o onde é que você fez uma pergunta você na segunda reunião. como que você é",
+      "content_preview": "Não o onde é que você fez uma pergunta você na segunda reunião. Como que você é o seu trabalho? Hoje? Eu falei eu trabalho é assim e morreu, entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3524,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "vamos vamos pensar para frente.",
+      "content_preview": "Vamos vamos pensar para frente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3524,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "mas assim.",
+      "content_preview": "Mas assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3527,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "tirar da frente esse caminhão, não tem problema cara, mas é quando a gente veste",
+      "content_preview": "tirar da frente esse caminhão, não tem problema cara, mas é quando a gente veste a camisa e tá ganhando um negócio algo maior não trabalha. Bora para cima.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3538,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "e eu vou ter sociedade também. negócio aí.",
+      "content_preview": "E eu vou ter sociedade também. negócio aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3540,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "você nem vai nem entrar na reunião, cara. falou gente? tamo junto. abraço, fui v",
+      "content_preview": "Você nem vai nem entrar na reunião, cara. Falou gente? Tamo junto. Abraço, fui valeu falou.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3545,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "até mais. beleza, valeu.",
+      "content_preview": "Até mais. Beleza, valeu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3551,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "tá bom, joguei um pouquinho sendo fogo ali, mas assim foi necessário.",
+      "content_preview": "Tá bom, joguei um pouquinho sendo fogo ali, mas assim foi necessário.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3554,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "fechou mano, tô à disposição aí o que precisar.",
+      "content_preview": "Fechou mano, tô à disposição aí o que precisar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3560,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "porque a gente já fala logo foi bom que você mostrou. quais são suas dores? acho",
+      "content_preview": "Porque a gente já fala logo foi bom que você mostrou. Quais são suas dores? Acho que é uma forma como a gente consegue resolver muita politicagem. A gente não vai falar o que tem que ser falado aí tam",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3576,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "beleza, obrigado luz estamos juntos",
+      "content_preview": "beleza, obrigado luz estamos juntos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3578,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "valeu um abraço cara.",
+      "content_preview": "Valeu um abraço cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3578,
+      "speakers": [
+        "Johnny Fernandes"
+      ],
+      "topic_hint": "valeu, tchau.",
+      "content_preview": "Valeu, tchau.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3580,
+      "speakers": [
+        "Erick Luz"
+      ],
+      "topic_hint": "tchau.",
+      "content_preview": "Tchau.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 1,
+      "text": "é o suficiente, né? Vamos entender. Qual que é o escopo ali e tal, eu acho que é o suficiente. Talvez sobre ainda, né? Porque muita coisa já vai estar pronto. Só que essa conversa ficou perdida, né? A gente não seguiu com essa questão de quantas horas o meu time vai ter para disponibilizar para esse projeto aqui."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 20,
+      "text": "Também não aconteceu com a ideia 40 horas aqui de implementação de das Árvores não aconteceu com a cor do Camargo e também não aconteceu consultoria do seu time. Né? E aí, eu tô pensando aqui no valor com a Canopus, né? Então assim. A gente não sabe o que de fato, nós na hora que você cobrou X para mim no Nazo."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 31,
+      "text": "Vamos negociar aqui, né? Só que falei não cara, eu acho que temos que nós não temos uma proposta comercial que chegue para nós determinando, o que que vai ser entregue. Para esses clientes aqui, né? Eu até compartilhei com João na segunda-feira, eu tinha pedido para fazer essa semana passada, aí eu mesmo fiz com Jonas."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 100,
+      "text": "Né até os do catela também. Quer dizer pouquinho as horas é 20 a 15 que eu participo ali. A gente faz esse processo de alinhar o que vai ser vendido para o cliente e Normalmente também. O cliente ele sabe e o cliente sabe"
+    },
+    {
+      "speaker": "Erick Luz",
+      "timestamp": 116,
+      "text": "Que vai ser implementado, né?"
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 196,
+      "text": "E assim eu acho que a gente tem que isso tá ficando no produto da órulo, eu tô contribuindo com esse produto da orla. E isso vai ficar com a órgão, entendeu? Só que esse processo aqui de venda se a Orna tem interesse de continuar usando uma consultoria para implementar eu acho que a gente tem que ajustar esse processo de venda, né? Eu até tava olhando aqui a reunião que o Diego fez com os clientes aqui para entender como que tá o pit ali, né? Como que tá o que tá fazendo? Porque assim."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 235,
+      "text": "Isso aqui não tá muito legal, né? E na real o que tá acontecendo ali, tipo, eu acho que não tá legal também implementação não tá nos melhores da forma que a gente gosta de conduzir as implementações, entendeu? Perceba que tá um pouco."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 257,
+      "text": "Aí fica o João pedindo coisa, aí, eu acho que a gente tem que assim realmente é. eu falei Eric, foi feita ali com o Diego um processo de Demonstrar como que é feito o processo de venda. Qual que é o procedimento qual que é o processo? Como que é o que o Diego sabe vender isso tá claro, ele é um ótimo vendedor, né? Isso aí é inegável e um ótimo especialista do mercado."
+    },
+    {
+      "speaker": "Johnny Fernandes",
+      "timestamp": 287,
+      "text": "Só que isso aqui não tá legal porque você é pressão que eu tenho às vezes é cara. Não quer vender a hora de implementação. Ou tem que ser algo muito tipo. Tá um pouco confuso assim não tá muito claro para mim o que tá acontecendo essas vendas aqui, entendeu? Tá chegando cliente."
+    },
+    {
+      "speaker": "Erick Luz",
+      "timestamp": 303,
+      "text": "Deixa eu fazer um comentário é que assim a plumas tem um processo de o processo de conversão de clientes que é da plugs, mas isso não quer dizer que esse processo de conversão do processo comercial da ponte seja. O melhor de todos ou o que a gente vai por exemplo também colocar como exigência para o Diego."
+    }
+  ],
+  "transcript_length": 59126,
+  "block_count": 166
+}

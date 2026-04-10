@@ -1,0 +1,230 @@
+[00:18] Paulo Cesar: Bom dia pessoal, tudo bom?
+[00:22] Diogo Fernandes: João Lucas, tudo bom?
+[00:23] João Vitor Portes da Silva: Bom dia
+[00:25] Lucas Vicente: Bom dia pessoal.
+[00:29] Diogo Fernandes: Beleza acho que a gente já pode
+[00:29] João Vitor Portes da Silva: Deixa eu compartilhar aqui minha
+[00:30] Diogo Fernandes: iniciar, tá bom?
+[00:31] João Vitor Portes da Silva: tela. Vamos lá time é iniciante aqui pela pelos pontos da TIM. Até vi que você mandou ali o retorno, né Paulo com relação. Primeiramente aquela demora correto.
+[00:52] Paulo Cesar: sim
+[00:53] João Vitor Portes da Silva: corretores eles estão em fase final de implementação, eles chegaram a te passar um prazo que essa fase final vai ser implementada até hoje até amanhã.
+[00:59] Paulo Cesar: Não eu usou cobrir já esse braço deles aqui hoje assim que eles me deram esse retorno de uma data.
+[01:06] João Vitor Portes da Silva: Beleza, é importante a gente ter
+[01:06] Paulo Cesar: Tanto para essa e quanto dos relatórios também.
+[01:10] João Vitor Portes da Silva: essa clareza ali de prazo, né? Para a gente conseguir trocar outras demandas aqui em paralelo.
+[01:16] Paulo Cesar: beleza
+[01:18] João Vitor Portes da Silva: boa Com relação ali automação do Funil até a gente já tinha sido implementado, né? Você ficou de acompanhar na última semana já tá rodando como é que tá isso?
+[01:36] Paulo Cesar: Sim já tá rodando eu só tô aplicando mesmo a higienização porque é aquilo que eu te falei tem algumas mensagens que estão sendo salvas, como tem contatos duplicados tem um tal de Diogo só esse cara ele tem mais de 40 contatos e tem Card criado para quase todos então eu tô tentando tô fazendo a higienização, tô aqui na água de hoje.
+[01:57] Paulo Cesar: Eu tô trabalhando nela para facilitar me deu pausei a automação da Cetim nas outras tá rodando normal.
+[02:04] João Vitor Portes da Silva: tá
+[02:06] Paulo Cesar: Beleza, porque senão para não apagar cards também que estão com um negócio em andamento, né? Para não perder na verdade.
+[02:16] João Vitor Portes da Silva: Entendi então isso aí tem relação com a higienização que vocês estão fazendo ali certamente.
+[02:21] Paulo Cesar: Contatos né cadastrados e algum complicado tem negócios duplicados? também dentro do mesmo contato. Daí você vai interferir um pouquinho nessa automação ali, mas eu já finalizo já a higienização tô trabalhando nela.
+[02:37] João Vitor Portes da Silva: Beleza uma dúvida Paulo essa higienização que vocês estão fazendo ela já tá contemplando também aqueles leads que estavam duplicados a partir da hora.
+[02:45] Paulo Cesar: Sim, sim isso mesmo.
+[02:47] João Vitor Portes da Silva: Tá. E nesse tipo de cenário, qual estratégia vocês estão utilizando né para aquele cadastro que tava antigo já na base que veio de importação, por exemplo e surgiu no segundo momento que ficou duplicado.
+[03:00] Paulo Cesar: Isso daí eu tô eu fiz um eu exportei os dados e exportei para ver se eles têm Negócios. Eu tô olhando os negócios é meio chatinho que o mesmo cliente tem mais de um negócio em cards em situações diferentes, mas Estou finalizando.
+[03:19] João Vitor Portes da Silva: Tá é o Diego nesse tipo de situação até para a gente. Talvez pensar em uma estratégia em conjunto. A gente mantém o último que foi foi atualizado que chegou recente o antigo é apagado o que que você entende aí sobre sobre essa melhor alternativa para gente seguir como uma prática para manter apenas um na base.
+[03:40] Diego Diehl: Não entendi qual que era a estratégia que o Paulo ia seguir a princípio. Qual que é a proposta?
+[03:45] Paulo Cesar: Então, eu não deletei nenhum ainda até porque eu fiquei com vocês a gente tem tipo, vou pegar um caso de um cliente que a gente tem ali não na setinha um tal de Diego, ele tem 40 contatos duplicados ali em três deles, ele tem um negócio em andamento. Só que Pelo que eu entendi é o mesmo é Seria a mesma conversa na verdade só na hora de armazenar.
+[04:09] Paulo Cesar: Em contato duplicados. daí qual seria a melhor maneira que que vocês acham que eu posso transferir também o negócio para um contato só deixar
+[04:18] Diego Diehl: Tá acho que olhando a timeline a
+[04:19] Paulo Cesar: tudo em um
+[04:22] Diego Diehl: gente subiu a base de corretores. Com os devidos responsáveis que veio pela cetim os vídeos que foram criados na Orlando como não verificavam essa base. Eles acabaram indo para gerentes. diferentes. Pela roleta que não deveria
+[04:40] Paulo Cesar: sim
+[04:41] Diego Diehl: acontecer então com relação a quem deve ser o responsável é o primeiro é o cadastro mais antigo que deve valer. Com relação a dados eu acho que quando eu acho que você pode acima de forma prática Paulo, eu acho que você pode excluir todos os contatos que foram criados pela órulo ou automação se eles existirem já anteriormente.
+[05:09] Diego Diehl: Então quando for duplicado né?
+[05:10] Paulo Cesar: sim
+[05:11] Diego Diehl: Porque se esse cara entrar de novo na hora e tiver algum dado adicional. Ele ele vai criar ele vai adicionar de novo o dado não não vai adicionar o dado eu acho é uma pergunta.
+[05:27] Paulo Cesar: Não seria para adicionar, né?
+[05:29] Diego Diehl: Só uma pergunta quando dado é quando eu posso ir abrindo aqui não não vou abrir em paralelo para não perder tempo quando um contato é registrado a partir da hora ele vem com algum dado adicional. Acho que vem com o ID da hora não vem com umas coisas não vem.
+[05:46] João Vitor Portes da Silva: Vem ele sobre escreve tudo o Diego eu testei agora pela manhã.
+[05:50] Diego Diehl: Achou show então Paulo, você pode.
+[05:51] João Vitor Portes da Silva: ele
+[05:54] Diego Diehl: excluir? todos os duplicados Que a hora do criou. quando é duplicado tá quando o
+[06:07] Paulo Cesar: Não tranquilo, beleza.
+[06:07] Diego Diehl: não existe interiormente de não exclui.
+[06:16] João Vitor Portes da Silva: ok Com relação essa parte de duplicidade Paulo tem mais algum ponto mais alguma validação que você queira fazer?
+[06:29] Paulo Cesar: Não agora fica mais claro tranquilo.
+[06:31] João Vitor Portes da Silva: Beleza, é com relação ali os relatórios também, Diego. A gente tem aquela aquele entendimento, né? Uma clareza maior ali do que que foi feito como você vê que a gente consegue validar esses pontos aí.
+[06:49] Diego Diehl: A gente já teve essa conversa, né? Eu Acho que o primeiro ponto que eu pedi é para não existir a palavra cliente. Nos relatórios então ou é corretor ou é Imobiliária ou é corretor imobiliária? Eu acho que eu vou vai passando para o próximo que eu vou abrir rapidinho, já passo um instrução eu vou usar a conta da Cetim, tá?
+[07:18] João Vitor Portes da Silva: Tá, beleza.
+[07:21] Diego Diehl: O João está digitando mais rápido, cara.
+[07:25] João Vitor Portes da Silva: Tô treinando.
+[07:27] Diego Diehl: É moleque e uma dica.
+[07:29] João Vitor Portes da Silva: sim Beleza aí com relação ali. A setinha a gente tem duas demandas envolvendo também a Filter feed com relação a notificação de mensagens no WhatsApp e até nesse caso Vitor, vocês ficaram de fazer uma análise ali com suporte. ali com su. Para a gente descobrir né? Porque que quando ele conecta o WhatsApp na ferramenta ele não notifica as mensagens ali no celular do gerente.
+[07:58] João Vitor Portes da Silva: A gente conseguiu ter algum tipo de evolução com relação a isso.
+[08:02] Diego Diehl: Esse é para o Vitor.
+[08:03] João Vitor Portes da Silva: isso
+[08:05] Victor Figueredo: A gente está tratando com suporte se de plataforma mesmo, né de fornecimento de conexão no WhatsApp se existe alguma possibilidade da gente não enviar. O a leitura do nosso lado isso não é feito. De forma específica pela gente né, então. É um estudo técnico que tá em andamento para a gente nesse é possível ou não a gente dentro do nosso processo.
+[08:36] Victor Figueredo: Não enviar o como se a gente tivesse lido a mensagem, né? Mas dependente e está em andamento não tem uma solução assim não tem uma resposta. Do nosso lado nem do parceiro, por enquanto eles estão estudando junto com a gente aqui a situação e as possibilidades.
+[09:03] João Vitor Portes da Silva: Você acredita que a gente conseguir ter alguma espécie de prazo para alinhar até expectativa com cliente porque isso aí é um ponto bem importante, né, Diego? Surgiu bastante impeditivo lá com o gerente da setinha. Porque a notificação é um é um é um guia para eles de situações mais importantes ali de corretores que estão no momento da negociação, talvez mais avançado.
+[09:26] João Vitor Portes da Silva: Então eu vejo que é um ponto que gera bastante preocupação e tem uma certa importância bem elevada para eles.
+[09:34] Victor Figueredo: sim, não compreendo mas eu não consigo não consigo dar um status porque Uma visibilidade com relação a tempo porque a gente não tem necessariamente. Um entendimento muito claro do ponto de vista técnico nem de origem nem de solução ou alternativa nesse momento.
+[09:59] Diego Diehl: Tá o Vitor uma um ponto sobre isso, aí eu acho deixa validar se foi a Elisa. Elisa Aparece como Connection status como sim, mas ela falou que tinha desconectado o WhatsApp dela para dar um mini cheque aí só para ver se tá certo aproveitar para bater se o conecte um status tá correto.
+[10:28] Diego Diehl: um outro ponto esqueci Outro ponto o Conection status Whatsapp Ah o outro ponto para a gente validar esse problema João seria a gente entender se Todo mundo para de receber notificação. Ou se é só a Elisa e o Datena. Porque se for isso pode ser um bom um bom rastreio para o Vitor pode ser um comparativo, né? Porque que um para o outro Não Para pode ser que a gente enxerga uma solução ali faz sentido Victor.
+[11:15] Victor Figueredo: faz
+[11:16] Diego Diehl: Tá então João.
+[11:17] João Vitor Portes da Silva: Com relação a isso até complementando que eu já consegui de feedback do lado deles Elenice também reportou que isso acontece. Tá então foi mais um gerente. O Agnaldo ficou de me dar uma posição porque ele não utiliza muito esse recurso de notificação. Talvez para ele não faça tanto sentido, mas para os demais sim, mas para três já teve esse impacto.
+[11:42] Diego Diehl: Tá por hora é assim tá João? A gente tem um problema que o robô não tá habilitado para eles ainda. Né? Se tivesse o robô eles ficariam. Talvez um pouco mais tranquilos. O direcionamento É cara, se for urgente me liga. E aí os gerentes podem sair dessa urgência estando no WhatsApp? E o aviso é esse ó não vai notificar a princípio.
+[12:10] Diego Diehl: Porque o robô o robô tá ligando e a gente tá verificando soluções, mas hoje a gente pode arriscar dizer para eles assim, ó. Nenhuma solução que faz o que a nossa fé é não. Não. Fale isso esquece. Tá podemos voltar podemos voltar no relatório ali.
+[12:33] João Vitor Portes da Silva: Podemos sim
+[12:35] Diego Diehl: Tá o relatório com relação à gestão da base, eu vou compartilhar minha tela aqui rapidinho, tá? Quem que tá com isso é o Lucas.
+[12:43] Paulo Cesar: Sou eu.
+[12:44] Diego Diehl: Tá eu vou dar um cheque aqui, ó. gestão da base distribuição de aqui corretores do show distribuição de corretores no show Aqui cadastro de parceiros é corretora é parceiro? Imobiliárias por responsável show corretor por responsável show esse corretor corretor por responsável em pizza corretora responsável por tabela imobiliária. Beleza mobiliária por colaborador esse aqui, será que tá certo mesmo esse 33 para 31 que é um pouquinho.
+[13:26] Paulo Cesar: Eu vou dar uma verificada mais. Provavelmente tem a ver com a chamada que a gente abriu também já digo.
+[13:31] Diego Diehl: Tá porque parece assim minha sensação e assim normalmente eu não erro nesses números tá deveria ser maior esse número aqui.
+[13:39] Paulo Cesar: sim
+[13:39] Diego Diehl: Tá porque deve ter corretor com mais de um de um colaborador tem vários ali, mas dá para a gente só dar um cheque tá nesse ponto. Contagem por cliente daí é o que Corretor Parceiro ou cliente? Aqui beleza imobiliárias Corretores e Total então contagem de parceiros corretores daí aqui é? Corretor ou parceiros Imobiliários.
+[14:13] Diego Diehl: Então é só uma padronização, tá?
+[14:16] Paulo Cesar: beleza
+[14:17] Diego Diehl: Daí aqui mensagens. É que mensagens é cliente por nome a contagem de cliente por nome o nosso cliente não entende nada isso o nosso cliente na verdade só para deixar claro o cliente o nosso cliente é Incorporadora, né? O cliente da Incorporadora é o cliente final? E a gente não vai usar muito cliente agora porque o cliente na verdade a gente vai usar quando a gente vai falar de visita então quantos clientes nós tivemos visitando daí sim então aqui provavelmente seja Ó aqui tá cliente e aqui embaixo tá corretora então provavelmente que seja.
+[14:59] Diego Diehl: Corretor e outra a gente não esse
+[15:00] Paulo Cesar: corretor
+[15:03] Diego Diehl: corretor de imobiliária São corretores Associados a uma imobiliária. Esse esse beleza. Só que aqui tem vazio. Então Tecnicamente, todo mundo deveria estar vazio, né? Não deveria ser 33 aqui. E daí aqui é contagem de cliente que o que que teve mensagem enviada porque aqui é ABA de mensagem parece parece uma tabela que estaria em gestão da base aqui deu eu não entendi o que faz tá eu nem tô é só dar uma clareza vocês podem até às vezes criar um Word tirar um print e explicar em baixo que deixa com material para a gente instruir o cliente.
+[15:49] Diego Diehl: Aqui na direita contagem de cliente por usuários colaboradores é que tá dando 17. É 17 a 33, qual que é eu também não sei. Mensagens por gerente isso aqui é mensagem ou é registro de interação. Registro de interação não é?
+[16:13] Paulo Cesar: isso
+[16:13] Diego Diehl: Registro de interação Vitor dá um cheque aqui ele cria mais mais de um registro de interação por dias vezes não cria.
+[16:26] Victor Figueredo: É uma possibilidade sim, não deveria. Mas existe a possibilidade.
+[16:29] Diego Diehl: Tá então a gente só tem que entender a gente pode. Ah se há um intervalo grande entre as conversas no mesmo dia daí vai criar dois então a gente dá para chamar assim. É fluxos de conversa a gente inventa o nome ensino cliente que nome que a gente está chamando isso.
+[16:49] Diego Diehl: Beleza mensagem por corretor. mensagens por corretor ou é conversas por corretora então aqui chama de conversa que chama por mensagem Daí não dá para não dá para saber certo aqui. uma pergunta O gerentes tem acesso a esse a esse Dash?
+[17:17] Paulo Cesar: Ainda não somente você.
+[17:19] Diego Diehl: Não deixa assim, deixa de ser investe. E cria uma coluna aqui de qual é? o responsável
+[17:28] Paulo Cesar: sim
+[17:33] Diego Diehl: Tá bom.
+[17:34] Paulo Cesar: Beleza você sente falta de algum
+[17:35] Diego Diehl: tá
+[17:37] Paulo Cesar: Diego, você acha que deveria ter?
+[17:43] Diego Diehl: A gente tinha falado. Em ter uma separação entre. mensagens que o corretor teve interação ou não E aí eu queria saber que variável que a gente tem eu acho que a gente não tem a variável se o corretor respondeu de tempo eu sei que a gente tem uma variável que alguém é a última a responder algo assim.
+[18:13] Diego Diehl: Tem essa, né? Mas essa não serve muito bem. A que serviria é se o corretor já interagiu ou não? Mas a gente não tem essa variável certo Vitor?
+[18:34] Victor Figueredo: Dessa forma não assim.
+[18:38] Diego Diehl: Tá o que serviria para a gente como negócio? seria uma variável de Cara, nem vou pensar nisso. É novo produto. Deixa assim, só vamos arrumar esse daí tá?
+[18:54] Paulo Cesar: beleza
+[18:55] Diego Diehl: Sucesso uma dúvida, só se só o corretor mandar eu só o gerente mandar mensagem já vai contar como conversa, né? Então o que a gente tem hoje é com quantos corretores diferentes hoje gerente está conversando? Monólogamente ou não a gente só não importa a gente não tem essa diferenciação.
+[19:20] Diego Diehl: é para o futuro seria legal, porque senão o cara manda mensagem para uma galera e o cara não responde e a gente teria essa métrica mas Tudo bem, não precisamos ter agora. Não precisa.
+[19:35] Paulo Cesar: Beleza então eu vou fazer.
+[19:40] Diego Diehl: É o teu fone tá dando uma chiado aí.
+[19:47] Diogo Fernandes: um pouco
+[19:51] Diego Diehl: Não sei se melhorou tá dando uma chiado. Aí talvez tá com mal contato. É então em resumo Paulo é mais não sei se era o Paulo Lucas, mas vocês dois em resumo é só a gente ser coerente congruente com os termos. E deixar mais claro, que é que tá sendo contabilizado ali, tá bom? Ou é mensagem ou é conversa? E daí a gente saber se a conversa ou mensagem se é por registro de interação se tem mais de um no mesmo dia.
+[20:25] Diego Diehl: E aí se é cliente se é corretor se é parceiro. E aí tinha um gestão de base. Mas eu sinto que a plumes não consegue nos entregar isso. Que é um gráfico de acumulado de parceiros ao longo do tempo? Porque o que que o diretor quer mostrar para empresa ele quer mostrar o crescimento de parceiros? então Talvez o gráfico que eu sinto que a gente poderia ter deixa eu mostrar aqui que daí a gente fecha essa parte de parceiros.
+[21:02] Diego Diehl: É esse aqui. Se a gente não vai ter. Ó esse gráfico de parceiros aqui. Poderia ter acho que tem um tabela aqui, ó. Tem esse aqui, ó? que Tecnicamente Se a gente tivesse uma tabela. A gente consegue fazer conta de uma coluna com a outra a gente consegue criar uma coluna com Conta aí ou não não.
+[21:38] Diego Diehl: Não é tá então, se a gente tiver essa tabela. Mais uma tabela como essa aqui. Só que por semana. Que é como se fosse tem uma aqui que é por semana que é essa aqui, ó. Como se fosse esse da hora por semana duplica? Ela ali embaixo e cria por semana porque daí eu ensino o nosso cliente a pegar o total de parceiros hoje.
+[22:12] Diego Diehl: E reduzir por semana, ele sabe quando tinha por semana ele criou o gráfico dele lá ele se vira se caso contrário ele paga para a gente fazer um viado para ele.
+[22:22] Paulo Cesar: beleza
+[22:24] Diego Diehl: Fechou da minha parte aqui. Aí dá setinha, só tinha mais um ponto né, João?
+[22:31] João Vitor Portes da Silva: Que seria abordar os disparos, né?
+[22:31] Diego Diehl: Eu acho que
+[22:33] João Vitor Portes da Silva: Diego?
+[22:34] Diego Diehl: Ah esse aí o Vitor Já respondeu lá falou que até o dia de hoje a gente consegue resolver. Então a duplicidade de corretor está resolvida tão limpando a base. Vai diminuir o número de parceiros então, né? A beleza. uma dúvida Automação lá do Funil já tá funcionando do Funil de isólogo de descartar e de ganhar do que é de descartar todo mundo a partir após um tempo.
+[23:15] Diego Diehl: acho que
+[23:15] Paulo Cesar: Na parte da setinha, eu tô fazendo a higienização ali para ficar melhor a automação.
+[23:23] Diego Diehl: Ah tá, porque lá tem. Ah tem vários aqui exibir qualificados qualificados tiver em andamento Ó tem cinco em conversa tem 230. Então beleza Paulo numa próxima quando você finalizar a gente vê e testa.
+[23:40] Paulo Cesar: beleza
+[23:44] João Vitor Portes da Silva: Boa acho que você tinha isso mesmo. A gente consegue daí avançar agora para para Canopus. É para ver como é que tá o estágio lá das abordagens do Lead, né? Que a gente teve até aquela situação ali que ele não abordou. Eu fiz um teste agora pela manhã, ele mandou duas mensagens, né? Foi como no Lucas você consegue falando do que
+[24:06] Lucas Vicente: Show Canopus a roleta tá concluída
+[24:07] João Vitor Portes da Silva: que aconteceu?
+[24:09] Lucas Vicente: já tinha passado esse parâmetro, né? Porém eu tô verificando a parte da mensagem e do envio assim que tiver 100% eu aviso vocês, mas eu tô verificando, tá? aquela parte do
+[24:23] João Vitor Portes da Silva: Tá você acredita que a gente consegue finalizar isso hoje ainda?
+[24:26] Lucas Vicente: Acredito que sim, acredito que sim. Só uma dúvida, minha câmera tá aparecendo para vocês.
+[24:31] João Vitor Portes da Silva: sim
+[24:32] Diego Diehl: tá Ô, Lucas.
+[24:36] Lucas Vicente: Pode falar.
+[24:38] Diego Diehl: Eu acho que isso talvez mais para o Diogo é Diogo, eu queria que vocês Vissem, depois isso um pouco mais profundamente para a gente não ter mais clientes sendo abordados como o número.
+[24:52] Diogo Fernandes: Claro Diego eu a gente já já coloquei isso no radar a gente vai tentar e o Lucas Paulo e Johnny para Fazer uma revisão sobre o porquê que tá passando isso ainda eu
+[25:05] Diego Diehl: tá
+[25:06] Diogo Fernandes: entendo que Já devia ser assunto superado.
+[25:08] Diego Diehl: Beleza, daí, vocês escutem isso internamente para ver e como resolver isso um Último Ponto daí mais validando um ponto aqui ó, eu no ponto da Canopus, eu acabei percebendo que a integração da hora lutava configurado só para um horário comercial lá das 8 às 8 horas assim, o João já viu uma forma da gente alterar isso.
+[25:33] Diego Diehl: E daí, qual que é o meu ponto é quando eu quiser entregar uma capacidade máxima um volume máximo para o cliente. Eu Tecnicamente, deixaria 24 horas a integração da hora, só que daí queria saber se a gente tem algum freio de horário pela Luz. Exemplo prático eu vou criar ali de 24 horas por dia, mas eu gostaria que eles fossem abordados em horário comercial só de forma automaticamente aí quem for criado no horário não comercial.
+[26:07] Diego Diehl: Talvez ele rodasse pela automação, né? As 10 ou 16 você já viram isso sabe se isso existe na luz.
+[26:17] Paulo Cesar: a criação do Lead não Daí seria necessário é automação que ia fazer o disparo da mensagem, mas para a criação do lide não tem limite de horário, ele vai criar o líder no momento que ele entrar.
+[26:30] Diego Diehl: Tá check 1. Mas hoje se ele entrar à meia-noite. Vai disparar do celular do cara meia-noite não vai?
+[26:43] Victor Figueredo: vai
+[26:45] Diego Diehl: tá
+[26:47] Lucas Vicente: tipo assim já
+[26:48] Diego Diehl: E a gente tem algum mecanismo por aí Vitor? Já criado?
+[26:54] Victor Figueredo: Teria que represar né a automação. E fazer isso envolveria. filtrar a execução da automação automação Muito provavelmente Muito provavelmente não com certeza havia a fórmula.
+[27:16] Diego Diehl: Via fórmula ali com a água aqui,
+[27:17] Victor Figueredo: Com código e tudo mais.
+[27:18] Diego Diehl: né? Tá bom vamos deixar isso anotado João por um momento futuro, tá? Quando der uma descarga lá daí na Abadia a gente vê uma uma automação que deve funcionar da seguinte forma. Ele diz que foram criados fora do horário comercial. Não abordar. Cara, talvez é um é um if bem simples, tipo só executar se o negócio foi criado.
+[27:54] Diego Diehl: No horário comercial. Porque daí a outra automação das 10:16, puxa eles né?
+[28:02] Victor Figueredo: Sim, sim, na verdade não mas e
+[28:03] Diego Diehl: tá
+[28:07] Victor Figueredo: esse filtro ele não é tão simples porque o horário atual só pode ser pego dentro do ambiente de JavaScript que embora a gente tem ali o horário da criação a gente não sabe da promis fora do JavaScript. Que hora é agora? Porque a gente teria comparar né? Segunda a sexta das 8 às 10 cruzar com horário atual e pegar então isso tem que ser feito via ambiente de forma e ambiente de fórmula, não entra na janela de filtro lá em cima, não dá para você filtrar diretamente.
+[28:45] Victor Figueredo: Então é meio que horários assim é algo não tão simples e O engatilhamento ele ele serve apenas para mensagens que já foram escritas. Então, enfim, teria que gastar uma
+[29:02] Diego Diehl: Voto no Vitor para trabalhar na
+[29:02] Victor Figueredo: energia para entender.
+[29:07] Diego Diehl: de viu
+[29:10] Victor Figueredo: Eu queria eu queria só 100 horas de desenvolvimento da Pluma e só e um api e restrita apenas.
+[29:19] Diego Diehl: Apenas eu volto, qual que é teu número de voto aí, tá bom? Deixa isso para depois então a gente João dá uma validada com o cliente e ver qual cliente quer que aborda. Semana provavelmente ser TIM provavelmente todo mundo queira daí a gente só perde os horários de madrugada e de noite que a gente Tecnicamente está perdendo um corretor e a gente dá um cheque com o Fernando daí João se a gente não consegue representar do lado da hora.
+[29:52] Diego Diehl: Tá bom, fica contigo um cheque com
+[29:52] João Vitor Portes da Silva: Beleza beleza Diego.
+[29:55] Diego Diehl: Fernando com a solução de como nós podemos não perder estes corretores. Principalmente se forem novos ainda idealmente para a gente não tumultuar o volume. Seriam corretores novos, se você quiser depois a gente troca uma ideia sobre isso. Tá e uma dúvida gente técnica é os gerentes foram cadastrados na Canopus certo contas com os e-mails.
+[30:28] Diego Diehl: Eles recebem um convite para entrar na ferramenta etc nesse momento.
+[30:35] Paulo Cesar: Sim eles recebem um e-mail no e-mail.
+[30:37] Diego Diehl: E a gente sabe E a gente sabe?
+[30:37] Paulo Cesar: que foi cadastrado.
+[30:39] Diego Diehl: E a gente sabe se ele já usaram ou se já alugaram?
+[30:42] Paulo Cesar: Sim a gente consegue ver lá pelos registros. Se eles Entraram na ferramenta ou não, tem como colocar uma aba na tabela de último acesso a gente consegue ver quando a pessoa acessou pela última vez.
+[30:53] Diego Diehl: O aplicativo né? Qual tabela de usuários?
+[30:56] Paulo Cesar: Isso só eu coloco lá para vocês.
+[30:56] Diego Diehl: fechou Fechou, obrigado Paulo.
+[31:01] Paulo Cesar: De nada.
+[31:08] João Vitor Portes da Silva: Vou avançando aqui então pessoal. Outro ponto com relação a isso, né? O que a gente tá fazendo ali agora do @hotno que é uma situação bem importante, então eu tô bem focado nessa demanda junto com o Vitor. Nós identificamos ali com os testes feitos na última sexta-feira duas situações de forma geral.
+[31:27] João Vitor Portes da Silva: Que consiste implementar para que o envio dos materiais dos arquivos ele seja mais consistente, então estava acontecendo ali situações onde a gente mandava o arquivo em alguns momentos@hot enviava em outros não. E outros momentos, né? Quando solicitava mais de um material ele mandava apenas a tabela não foram duas situações que mais apareceram ali nos testes.
+[31:54] João Vitor Portes da Silva: O Vitor já implementou ali uma alteração até de com relação a isso foi liberado uma nova versão do prompt. Com algumas mudanças para que a gente consiga fazer o envio desses materiais de forma mais consistente baseado na análise de contexto das últimas três interações e no último um minuto antes de inserir o comando do arroba oro então eu já vou conseguir hoje novamente reproduzir esses testes para identificar se foram de fato resolvido e tudo mais a gente vai conseguir também.
+[32:27] João Vitor Portes da Silva: Hoje mesmo já validar esses pontos no final da tarde.
+[32:31] Diego Diehl: tá O Vitor você não quer então? Tá vamos testar só vou deixar uma uma parte aqui no ar. Cara um minuto é nada, né? Tipo é capaz de ainda confundir o robô se o cara pedir três coisas no mesmo minuto, não é mais fácil a gente deixar para funcionar no momento um só com o comando sem contexto.
+[33:03] Victor Figueredo: mas a ideia é basicamente essa mesmo é basicamente locais exclusivamente
+[33:05] Diego Diehl: com o
+[33:07] Victor Figueredo: no que foi pedido.
+[33:08] Diego Diehl: Menu tá então João você os teus testes tem que ser alguns com três minutos de intervalo que daí a gente vê como é que se comporta nas últimas é últimas três mensagens ou um minuto. e
+[33:25] Victor Figueredo: Ele vai cortar as duas situações
+[33:27] Diego Diehl: Tá então se eu te mandar uma mensagem a cada cinco minutos, ele vai olhar as últimas três ou ele não vai olhar.
+[33:36] Victor Figueredo: Ele vai cortar um minuto se tiver por exemplo 10 mensagens dentro de um minuto, ele vai pegar só três.
+[33:43] Diego Diehl: Tá e se tiver uma mensagem a cada 5 minutos, ele não vai pegar nenhuma. nenhuma.
+[33:48] Victor Figueredo: exatamente
+[33:49] Diego Diehl: Perfeito. Então tá bom, João tá contigo daí os testes, né? Tá multado o jogo.
+[34:00] João Vitor Portes da Silva: Opa desculpa e daí eles também a gente ficou de finalizar ali as mudanças na roleta um chamado você comentou ali conseguiu avançar me deu um retorno pela manhã, a gente conseguiu já finalizar isso.
+[34:12] Lucas Vicente: Me contextualizaram, né? De qual seria o problema já fiz algumas alterações, mas ainda não foi eu vou entrar em contato com ele de novo, tá?
+[34:24] João Vitor Portes da Silva: Beleza, aí, se você conseguir me posicionar hoje mesmo se conseguiu algum avanço lá com eles prazos.
+[34:28] Lucas Vicente: Perfeito perfeito sem que eles me retornarem eu te dou a resposta.
+[34:33] João Vitor Portes da Silva: beleza E eu acredito que seria esses pontos não sei se tem mais alguma situação. Diego mais alguma algum ponto aí que gente consiga também encaixar já.
+[34:43] Lucas Vicente: O João ali na Oliveira Melo já tem
+[34:44] João Vitor Portes da Silva: também encaixar já.
+[34:47] Lucas Vicente: quem vai estar na roleta?
+[34:52] João Vitor Portes da Silva: Uma pessoa só vai ser um único
+[34:53] Lucas Vicente: Tá e a mensagem e a mensagem vai
+[34:54] João Vitor Portes da Silva: coordenador.
+[34:56] Lucas Vicente: já sabe qual que vai ser também.
+[34:59] João Vitor Portes da Silva: Não ainda não foi definida vou Val.
+[35:00] Lucas Vicente: Tá perfeito
+[35:01] Diego Diehl: Valida mesmo então válida mensagem
+[35:01] João Vitor Portes da Silva: validar isso com eles também.
+[35:03] Diego Diehl: ali. tá Cara eu acho que é de principal é Canopus começar a abordar já começou a bordar. Tá funcionando abordau? não?
+[35:20] João Vitor Portes da Silva: Ele abordou, mas teve aquela situação ali do Nuno, né?
+[35:22] Diego Diehl: Beleza da gente vai resolver e bloqueio de casa para amanhã. Você tinha relatórios, beleza? om vai entrar Está assinando com a City? então vai ter mais um cliente. É Porto Camargo, a gente tá com os vídeos sendo abordados, eles querem robô cara, então foco continua sendo um robô e os novos clientes, pode falar.
+[35:49] Victor Figueredo: é só sobre essa questão do Dos disparos lá do que o da modificação que o André fez.
+[35:58] Diego Diehl: boa Eu não entendi.
+[36:04] Victor Figueredo: Tá é basicamente o seguinte ele. A gente mudou a gente fez o ajuste, né? A gente vai conseguir disparar todo o contingente ali que a gente tinha. O único ponto é que ao invés da gente fazer uma chamada sincro na nossa p.i. Ou seja a gente apertou o usuário apertou o botão lá foi para nossa api a nossa api começa a processar ao invés de ser dessa forma, a gente tá fazendo de forma Simples, então o único ponto é que o usuário tem que ficar com a página aberta lá até enviar o último.
+[36:41] Diego Diehl: Qual página a página da filterfly?
+[36:42] Victor Figueredo: A página do disparo a página do disparo da Filter feed é aquela enquanto tá ele aperta o botão e vai mandando. Manda o primeiro manda o segundo até o último terminou de mandar o último ele pode fechar.
+[36:55] Diego Diehl: Tá uma pergunta só para validar eu preciso. Eu tenho que entrar pelo computador da Kátia e disparar para quatro gerentes. E aí como é que a gente fazia a gente entrava na pi selecionava o usuário e botava disparar. Se eu der um contratei ali. Ele vai deslogar de um ele vai bugar o outro.
+[37:29] Victor Figueredo: Para deslogar deslogar de um usuário.
+[37:32] Diego Diehl: É que eu preciso criar eu preciso entrar em alguns usuários Diferentes, né? Para aí que que a Kátia faz ela entra e vai participar para quatro gerentes. Como é que eu posso fazer isso? Vai ter que ser usado anônimo será?
+[37:47] Victor Figueredo: Aí você conseguiria fazer com dois, né? Mas realmente assim a solução para isso a gente precisa urgentemente de um processo melhor mais eficiente de fazer esse disparo. A gente tem que construir o processo automatizado mesmo, entendeu?
+[38:02] Diego Diehl: Tá E qual?
+[38:03] Victor Figueredo: Porque é o paliativo em cima do paliativo. Que ela só vai só vai dar para fazer dois e os dois vão ter que ficar abertos até o final terminou o primeiro aí já pode fazer o outro, entendeu? Aí desloga.
+[38:14] Diego Diehl: E ela vai saber quando terminou.
+[38:18] Victor Figueredo: Eu acredito que exibe uma mensagem ou o último disparo, né pelo pelo número a quantidade ali parou de enviar.
+[38:26] Diego Diehl: Não dá para saber né? Qual que tá o intervalo de envio?
+[38:31] Victor Figueredo: São alguns segundos randomizados de 3 a 6.
+[38:34] Diego Diehl: Ah então vai dar vai dar um disparo meio rápido assim do 50 e poucos.
+[38:39] Victor Figueredo: Não é para ser tão longo assim não.
+[38:41] Diego Diehl: Tá então vou pedir para Kátia testar hoje.
+[38:44] Victor Figueredo: Tá ok.
+[38:45] Diego Diehl: beleza
+[38:51] João Vitor Portes da Silva: Fechamos. Então pessoal, é isso.
+[38:56] Diogo Fernandes: Obrigado pessoal Bom trabalho para vocês.
+[39:02] Diego Diehl: valeu
+[39:02] João Vitor Portes da Silva: Valeu pessoal
+[39:04] Paulo Cesar: Tchau, tchau.

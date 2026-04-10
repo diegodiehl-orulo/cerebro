@@ -1,0 +1,396 @@
+[00:58] HENRIQUE DE CARLI PAGNAN: Bom dia
+[01:01] Diego Diehl: Fala enriquei bom dia.
+[02:23] Letícia Borges: Bom dia pessoal, tudo bom?
+[02:27] Diego Diehl: E ele tudo bem?
+[02:51] Fernando Florêncio: Bom dia pessoal.
+[02:53] Diego Diehl: Bom dia Victor
+[04:07] Letícia Borges: acho que
+[05:08] Eduardo Stringhini: Bom dia pessoal, tudo bem?
+[05:13] Diego Diehl: Tudo certo fala Vitor. Fala Vito.
+[05:16] Letícia Borges: Bom dia.
+[05:17] Eduardo Stringhini: Bom dia
+[05:17] HENRIQUE DE CARLI PAGNAN: um dia
+[05:17] Letícia Borges: Bom dia Edu.
+[05:18] Eduardo Stringhini: Bom dia Vitor Fernando. Diego Henrique
+[05:21] Fernando Florêncio: Bom dia
+[05:24] Eduardo Stringhini: O Alejandro não vai participar hoje, né? Acho que ele tinha falado no grupo ali.
+[05:30] Diego Diehl: Beleza acho que dá para começar, né? Tô só terminando de escrever um já compartilhar eu. Tô com minha cabeça em funcionalidade daí por mais que vocês queiram discutir algo. Eu quero ter como Norte alguns itens. Podemos começar Vitor tá por aí? Não recebi o ok.
+[06:27] Victor Figueredo: Oi eu saí e voltei aqui.
+[06:29] Diego Diehl: A gente Eu Posso sugerir da gente
+[06:32] Victor Figueredo: Mas tá legal, eu acho que a gente eu tenho algumas coisas para compartilhar aqui também.
+[06:42] Diego Diehl: hoje nessa reunião a gente tentar passar uma visão geral. E aí depois entrar em detalhes. Que eu acho que nas últimas reuniões a gente acaba trazendo um ponto entrando em vários detalhes, daí é difícil enxergar o todo. Enxe. Eu posso dar uma guiada nesse todo para saber como é que tá mais em perguntas, daí a gente entra em detalhes.
+[07:09] Diego Diehl: Tá a gente tá focando bastante no robô de parceria do gerente de parcerias, né? Que é a capacidade ali das perguntas controladas e tal e aí a gente ficou o Seu Fernando Victor. Fizeram alguns testes evoluíram em alguns aspectos e daí eu acho que um ponto da reunião a gente entender.
+[07:34] Diego Diehl: Em que situação a gente tá? E aí eu não sei como é que vocês estão se organizando. Mas eu tô com essa visão de testar perguntas que pegam do produto tem os informações detalhes. informações adicionais de algum outro lugar que eu acho que ficou no segundo momento Em Vida arquivos e imagens que estão diretamente no produto que são os arquivos que estão na hora envio de arquivos e imagens que estão em outro lugar.
+[08:08] Diego Diehl: Vocês têm mais algum item aqui que separa essa esses tipos de respostas antes da gente ir para cada uma. Seria bom sim ou não do Vitor e do Fernando.
+[08:28] Victor Figueredo: Não eu acho que não.
+[08:29] Diego Diehl: Não então, beleza. Vocês querem repassar? Então eu vi que vocês estão estavam testando perguntas de detalhes do produto que estão lá em prol do The Tails em Jason e tal que já está integrado no plus, né? Se quiser Vitor, dá uma visão geral aí do que que vocês avançaram de terça para terça.
+[08:52] Victor Figueredo: Que eu acho que eu tenho aqui. Que eu acho que Eu acho que eu tenho aqui um cenário. Esses aí talvez a maioria deles aqui mapeado já. Deixa eu compartilhar. Mas de um modo geral, eu acredito que os casos básicos. Que é a pergunta bem construída, Tipo, olha, eu quero a apresentação do tgd.
+[09:24] Victor Figueredo: Me mande a apresentação ou tem apresentação essas perguntas esse cenários a gente tem um grau de confiabilidade muito grande no ambiente de teste e que a gente tem uma assertividade muito boa com relação a isso então na desde o nosso último nossa, última reunião, a gente trabalhou nos casos que a gente considera mais complexos que são justamente os casos de produção da forma como usuário.
+[09:48] Victor Figueredo: Pergunta das palavras que ele utiliza, principalmente a complexidade da forma como ele coloca então a gente testou alguns desses cenários aqui também, fizemos algumas alguns ajustes algumas modificações do produto também. Resolvendo minha tela aqui. Tá a gente testou cenários com o usuário o corretor vinculado ao produto e a um DIU e as perguntas direcionadas aquele produto e a gente testou o cenário também.
+[10:17] Diego Diehl: sim
+[10:20] Victor Figueredo: Do que que o educa até comentou né que é o mais seria o mais comum que é o corretor de desacompanhado de um card, né? Ele vem totalmente. Então esse cenário de perguntas construídas, a gente teve uma assertividade Total então perguntei exatamente tem um memorial descritivo tem apresentação tem a tabela.
+[10:46] Victor Figueredo: Aí a gente tem aqui. né Acho que não ficou bem referenciado. A gente tem aqui o histórico, né? A gente consegue ver que ele manda. Que tem tem apresentação do Sancler aí o link que ele manda.
+[11:10] Diego Diehl: show
+[11:12] Victor Figueredo: É a apresentação do sampler, então tem aqui esses casos também. Vou só ajustar as referências para a gente conseguir acessar esses arquivos. melhor
+[11:26] Diego Diehl: Você tá falando que a gente já teve respostas. com grau de assertividade legal para perguntas bem construídas E como é que tá o plano para perguntas não tão bem construídas?
+[11:42] Victor Figueredo: Tá a gente tem esses resultados aqui também. Sobre os usuários desvinculados a um DIU sem o produto de referência a gente também conseguiu ter uma boa assertividade. Mudou aqui alguma coisa no nome do produto que o usuário perguntava. Estamos aqui no memorial descritivo acertou 9 de 10. variação mas a gente fez uma mudança aqui no produto também para aumentar a assertividade disso independente do produto que O que o usuário buscou esses aqui são cenários mais complexos.
+[12:21] Victor Figueredo: Então Aqui já são as perguntas que foram feitas efetivamente que a gente coletou da fac que o Fernando tabuleiro. Então essa daqui é a mais complexa de todas mas vamos lá essa aqui antes Opa, boa tarde tudo tranquilo consegue mandar o material do bem da tgd para mim, por favor.
+[12:42] Victor Figueredo: Essa é exatamente mensagem que foi enviada para Patrícia, eu acredito. E aí A gente tem que consegue o material do dia da tgd foi enviado. Esse arquivo então aqui também o demanda exata, já tá mais incerto. Ele não falou a apresentação. Ele falou material. Inclusive se eu não me engano o material do b o único arquivo que tem lá ou talvez o único seja a tabela, então ele associou material com um arquivo que ele tinha a gente pode até olhar aqui consultar de Fato, né? Mas ele pegou um arquivo que ele tinha lá do Bem.
+[13:32] Victor Figueredo: Mandou eu acredito que esse é o único, se não for o único tem um outro só e a pergunta foi essa mais genérica, né, foi? genérica, né, foi? Me mandou o material que a gente viu que é bastante comum, né? Material também a gente fez um ajuste uma instrução no pronto para direcionar para apresentação para voltar.
+[13:47] Victor Figueredo: Então aqui se a gente for observar. no material do Beco Eu vou até pegar o URL todo aqui até o finalzinho dela aqui ó, eu tô pesquisando. A gente consegue ver que tem 10 ocorrências disso tem 10 perguntas e tem 10 materiais exatamente esses aqui do b então é esse.
+[14:13] Victor Figueredo: Esse histórico aqui de 10 de 10 então para essa pergunta, a gente mandou o material do B nas 10 vezes que ele perguntou ele recebeu o material. E o material correto? pergunta sobre um produto incerto essa daqui é a mais complexa de todas a gente a princípio não tinha uma referência em si do que Do que fazer nesse caso? Temos alguma coisa em Canoas com essa configuração apartamento até 500 mil dois dormitórios tal tal tal tal.
+[14:48] Victor Figueredo: Por que que tá amarelo aqui, né Amarelo? Quer dizer que não foi enviada uma resposta nessa nessa interface que a gente está falando não foi a mensagem que foi formulada não foi enviada até por instrução do perguntas controladas tal tal que poderia ser tratado como ou não mas Nessa versão a gente tá priorizando o envio dos arquivos em si, mas nessas oito aqui, deixa eu ver se ele vai abrir.
+[15:16] Victor Figueredo: nessas oito ele Ele encontrou exatamente as duas unidades na hora o que tem o que são de Canoas. E que cumprem esse Esse requisito que é o life Park. e
+[15:35] Diego Diehl: Legal, ele já buscou então ele entendeu. De certa forma, né?
+[15:39] Victor Figueredo: O entendeu. Ele é se a gente for na hora são
+[15:43] Diego Diehl: e
+[15:45] Victor Figueredo: esses dois que estão em Canoas e são esses dois que cumprem o requisito que que aconteceu aqui ele encontrou. Esse foi uma modificação que a gente fez no produto para ficar mais sofisticado e mais correta essa esse retorno, então teve a mudança de produto aqui nesse nessa virada. Ele encontrou o life Park e o estelato.
+[16:07] Victor Figueredo: Deixou oito vezes em duas vezes, ele incluiu um outro que não tinha nada a ver então foram a gente colocou em vermelho porque é um erro. Né as oito aqui se ele enviasse ele teria acertado às 8 horas. E teria errado. Então esse foi o resultado que a gente Obteve aqui, deixa eu pegar aqui.
+[16:35] Victor Figueredo: Então esse é o caso mais que acho que não tá mapeado aí Diego no seu ícone que é. São buscas mais incertas, ele não tem um produto certo em mente. Ele tá buscando uma configuração. Que pode envolver múltiplos produtos? Então aqui a gente consegue ver o início do Live.
+[17:00] Victor Figueredo: Tá disponível aqui vocês podem pegar depois de olhar então nove vezes, ele é oito vezes ele encontra exatamente o life Park estelato que são os dois produtos corretos na hora e em outras duas ocasiões, ele inclui dois produtos que não não cumprem o requisito que o usuário. pediu
+[17:20] Diego Diehl: Qual que você falou que não tá Vitor quando? Qual que foi o tipo que você chamou isso?
+[17:28] Victor Figueredo: Quando tem um produto incerto.
+[17:30] Diego Diehl: Ah tá, tá eu deixei aqui já.
+[17:31] Victor Figueredo: quando ele
+[17:35] Diego Diehl: Ele tá pedindo ele não tá falando o nome do produto. Ele tá pedindo para você buscar um produto, né?
+[17:41] Victor Figueredo: Isso ele te passa uma configuração um requisito. e
+[17:46] Diego Diehl: Tá eu acho que já para na verdade fala antes eu ia finalizar isso já. já.
+[17:55] Eduardo Stringhini: Para mim esse é o caso de pergunta, não é uma pergunta ser respondida. respondida.
+[18:01] Diego Diehl: É isso que eu ia falar é Vitor, se você nesse ponto. Assim a gente está correndo contra o tempo agora, né? A gente tá na mesma página então. quando tiver esse ponto de vários amarelinhos, por exemplo e Um dois três vermelhos a gente pode sentar que não vai responder ou configurar para não responder.
+[18:27] Diego Diehl: E eu alinhe o cliente que não vai responder. Eu só quero o meu ponto sempre de tentar chamar atenção aqui, é claro que tiver difícil. A gente troca aqui e vocês pergunta Cara é possível você por essa barreira aí para o cliente ou uma expectativa muito grande dele. Daí eu falo não cara, eu vou falar que não vai responder não, sou um buscador personalizado com ia que responde Ver arquivo não a gente só tá agora não passo um enviando as coisas mais básicas que perguntam de uma forma Clara, tá? Eu tô pondo essa barreira aí na expectativa dos clientes que eles acham que há é um bagulho.
+[19:07] Diego Diehl: Infinitamente inteligente perfeito.
+[19:10] Victor Figueredo: Não maravilha ótimo a gente também não tinha nessa fase aqui das perguntas a gente usou as perguntas reais para ver também onde é que a gente tá né? Então isso foi foi importante para dar um pouco mais de robustez para o teste em si e a gente não tinha uma expectativa também antes disso estava aqui definir qualquer expectativa com relação a essa pergunta e nesse caso com essa expectativa a gente estaria ok? Porque ele de fato não respondeu nenhuma delas.
+[19:38] Victor Figueredo: Ele só formulou então para a gente foi interessante ver que conseguiu encontrar o produto, né? Em qual grau de assertividade, mas ele não responderia.
+[19:47] Eduardo Stringhini: O que que é o vermelho mesmo?
+[19:50] Diego Diehl: Respondeu errado.
+[19:51] Victor Figueredo: Ele incluiu. um produto que não faz parte dessa configuração
+[19:56] Diego Diehl: Amarelo é não respondeu que ok. E vermelho respondeu errado, né?
+[20:02] Victor Figueredo: isso
+[20:03] Diego Diehl: tá
+[20:04] Eduardo Stringhini: Então aqui no caso o verde para a gente seria garantir que ele não responda. É um tipo de pergunta que não pode responder.
+[20:15] Victor Figueredo: Isso sim.
+[20:16] Eduardo Stringhini: Não tá claro.
+[20:16] Victor Figueredo: Então nesse caso.
+[20:17] Eduardo Stringhini: Qual é o produto é uma localização genérica e nós não vamos trabalhar com perguntas Gerais assim de dorme valor. coisas específicas específicas.
+[20:38] Victor Figueredo: Ok do ponto de vista de teste são um grau de assertividade tem uma legendazinha aqui, mas de fato ele não ia ser enviado. Ele é diferente de todos aqueles tem uma característica bem diferente esse teste. esse daqui também veio do Do fac como todos né? Então tem apresentação desse empreendimento, não, encontrei da hora veio exatamente.
+[21:02] Victor Figueredo: Dessa forma, não sei se tem um contexto prévio na conversa.
+[21:04] Diego Diehl: que legal esse que
+[21:06] Victor Figueredo: Mas a gente assumiu, que que não tinha então a gente fez o teste também aquilo que a gente tinha combinado na semana passada de o próprio humano direcionar aí aqui eu escolhi um produto aleatório, você diz do b. Sim, quando o usuário Confirma aí a gente tem um envio de fato.
+[21:26] Victor Figueredo: do
+[21:35] Diego Diehl: Como que se chama a gente chama de agente a gente mesmo a gente chama de a gente a gente e o outro você tá chamando do que o usuário não usuário. o cliente
+[21:48] Victor Figueredo: É o usuário e o agente que pode ser?
+[21:53] Diego Diehl: O usuário é o quem tá falando com a gente isso tá minha pergunta
+[21:56] Victor Figueredo: É isso.
+[21:57] Diego Diehl: então. Se o você conseguiu fazer o agente direcionar. O robô para enviar ou usuário que tem que confirmar.
+[22:10] Victor Figueredo: O agente que nesse caso aqui é humano. Na simulação, né? Ele tá se comportando como se fosse humano e o usuário confirma então.
+[22:19] Diego Diehl: tá
+[22:21] Victor Figueredo: Então você tem uma apresentação desse empreendimento. Não encontrei na hora aí o mano, escreve você diz do b. E aí porque se ele só mandar aqui isso não bate né hoje?
+[22:33] Diego Diehl: É isso é isso que eu queria saber que você ficou de validar isso, né,
+[22:38] Victor Figueredo: Você pode pedir mas a mensagem que
+[22:38] Diego Diehl: Então o Bate Eu não posso eu não posso pedir para ir a enviar algo.
+[22:47] Victor Figueredo: vai ser processada vai ser a confirmação do usuário para
+[22:50] Diego Diehl: Então eu preciso sempre fazer uma pergunta.
+[22:54] Victor Figueredo: Que o usuário confirme né? É possível que a gente mude arquitetura para processar ou a gente aquele aquela terceira camada que a gente falou.
+[23:01] Diego Diehl: Mas não é simples agora não é bate pronto.
+[23:06] Victor Figueredo: Não e vai vai envolver mais chamadas de opinião.
+[23:10] Diego Diehl: Então tá validado que se Tiver numa conversa ali papapa com o usuário aí, eu entendo eu como humano e mando ali tá então tipo o que você quer que eu te mande isso isso isso. Daí se o corretor falar sim aí atende a responder.
+[23:34] Victor Figueredo: Isso. Exatamente exatamente então acontece isso daqui também. Acho que 9 de 10 vezes. Você diz do B sim. Aí Ele pega e manda o Arquivo inclusive o Alejandro.
+[23:53] Eduardo Stringhini: Ô Victor o que que ele ele manda o link do arquivo e mais ele escreve mais algum texto, só envia o link sem falar nada.
+[24:00] Victor Figueredo: Ele só envia o link. Uma tem duas melhorias já mapeadas aqui uma é essa que a gente conversou, né de ter o capitãozinho de ter a legenda, né informando, o que que fez? Tá total que isso pode ser interessante. E um segundo é isso que você comentou também de que faz parte do outro teste que a gente fez que são múltiplos, né? É especialmente relacionado a imagem que é exatamente esse cenário aqui o próximo.
+[24:28] Victor Figueredo: Tem mais imagens do like veio exatamente essa pergunta aqui e aqui também a gente fez esse esse. o direcionamento
+[24:38] Diego Diehl: Tá. E daí ele enviou várias.
+[24:40] Victor Figueredo: Ele enviou uma.
+[24:42] Diego Diehl: Ah entendi, então não envia mais de uma E dá para confirmar dá para fazer pergunta que se o cara Responde se o corretor respondeu que sim, ele vai avançar. tá
+[25:02] Victor Figueredo: ele mandou a Nesse aqui é nesse aqui, ele mandou todas então, ele mandou todos mandou a imagem principal do item. Mas a questão de mandar vários porque esses materiais poderia a gente poderia construir uma instrução no pronto toda vez que ele pedir materiais indefinidos a gente manda todos por exemplo.
+[25:26] Diego Diehl: Tá, beleza.
+[25:29] Victor Figueredo: Imagens também tem muitas né? Então, eu acredito que do cenário que a gente tem. A gente conseguiu testar. conseguiu testar que Alguns dos diferentes cenários que vieram de produção já com relação à informação de produto e garantir primeira coisa que a gente acerta o produto que que na conversa do contexto que a gente encontra esse produto segundo que a gente encontra informação a URL que o usuário tá buscando dentro desses detalhes de produto e terceiro que a gente manda essa URL como um arquivo.
+[26:18] Victor Figueredo: Seguindo o formato do próprio arquivo então.
+[26:21] Diego Diehl: sim Show demais, eu acho que avançamos bastante, né? Parabéns aí. Eu tenho uma. Você fechou aí Victor?
+[26:36] Victor Figueredo: sim
+[26:38] Diego Diehl: Tá umas perguntas só antes da gente avançar. você A gente tá vendo que é Um Desafio ali as perguntas. construídas conforme o que a gente citou nas perguntas controladas para que o robô responda Imediatamente né? Esse é um Desafio. E aí eu queria entender. Como é que qual que é o nosso processo ou qual qual o método que a gente usa? Para expandir essa variação de pergunta que os corretores fazem.
+[27:22] Diego Diehl: Desde modelo de pergunta eu não exemplo prático. Você pode me enviar o material do produto? B Você pode me enviar apresentação do produto B. Me envia aí apresentação do produto b, então a gente tem tanto. A configuração da pergunta quanto o nome que ele dá? Ao que ele quer, né? Então pode ser apresentação material book, sei lá o que mais as pessoas podem chamar então tem sinônimos de da palavra do que ele quer.
+[28:02] Diego Diehl: E tem estruturas de perguntas, né? Como que hoje a gente evolui nisso? Vocês estão programando expandindo ali no prompt, vocês estão colocando sinônimos já se estão pondo variações de perguntas. Como que é esse mecanismo de expansão?
+[28:22] Victor Figueredo: Ah legal, eu posso até compartilhar de novo para a gente olhar ali basicamente. A gente qual que é o processo tá? O processo é? Definir o padrão básico elementar sem muito contexto, mas até por uma economia de esforço e energia a princípio a gente coloca instrução que a gente quer da melhor forma que a gente consegue mas sem sem colorir muito.
+[28:52] Victor Figueredo: A gente testa com o cenário que a gente espera a o cenário perfeito que a gente colocou, né? Quero a apresentação quero memorial descritivo, seu nome já bem próximos na descrição que acompanha o produto que acompanha o produto de Deus. E aí por isso também que é importante a gente olhar as perguntas o cenário de produção mesmo, tá? A gente pegou e pega o que que aconteceu lá, como tá escrito lá, qual que é a forma de lá e cruza e bate no teste no prompt roda para ver se a gente dá suporte ou não.
+[29:29] Victor Figueredo: Então essa versão de prompt que a gente tem já é uma versão que ela tá mais afinada com esses pequenos detalhes. Mas a gente não tá precisando entrar muito na avaliação criar diversas formas de perguntas coisas do tipo. A gente tá mais diversificando que é cada coisa e escrevendo enquanto conceito.
+[29:48] Victor Figueredo: porque a gente até conversou na semana passada sobre isso também com o Launcher aí de gpt4 ou mini que é uma isso passa já foi implementado em todos os Em todos os agentes da Hora. Ou seja todos da hora, já estão usando uma variação do modelo 4 até semana passada, a gente estava usando avaliar avaliação mais sofisticada do modelo 3.5.
+[30:16] Victor Figueredo: Como base então o modelo ele está se tornando mais inteligente, mas capaz também de lidar com essa incerteza.
+[30:22] Diego Diehl: tá então você tá me dizendo que A gente na parte de variações de perguntas. A gente não precisa se hoje não é um problema porque a IATA ficando mais inteligente ainda mais com esse update do GPT. Então não é algo problemático hoje.
+[30:43] Victor Figueredo: Isso exatamente.
+[30:44] Diego Diehl: E sobre o nome nome dos arquivos? uma primeira pergunta Hoje vocês botam hoje o nome do arquivo ele pega. Você diz no prompt. O que é ou ele pega do nome do arquivo mesmo do link ou os dois?
+[31:05] Victor Figueredo: as duas coisas
+[31:07] Diego Diehl: Pega o que vem antes do dois pontos, né? Provavelmente você mostram aí para sua validade.
+[31:14] Victor Figueredo: Deixa eu pegar aqui. Meio ruim para ler. aqui ó, esse aqui é o Esse é o Sancler.
+[31:58] Diego Diehl: ali matrícula PDF
+[32:05] Victor Figueredo: isso então ele usa o description que é matrícula e ao
+[32:10] Diego Diehl: Que é o nome é o nome do arquivo a descrição então.
+[32:16] Victor Figueredo: é o nome é uma descrição específica porque os arquivos eles estão com mais de aqui na verdade essa URL tá fornecendo aqui para o modelo o Formato do arquivo e o nome também. Tá informando as duas coisas então. Tá informando as duas coisas então. É a apresentação também Memorial.
+[32:36] Diego Diehl: Perguntando isso porque do nosso lado se a gente deixa um então válidas. Me confirma. O nome do arquivo quanto mais claro ele tiver melhor para nossa aí a certo.
+[32:55] Victor Figueredo: sim
+[32:56] Diego Diehl: E eu poderia até por mais de um nome se a gente tiver problema numa falta de clareza de sinônimo e não tiver no prompt. Por exemplo, né? Por exemplo a lista a apresentação. apresentação. Talvez Facilite, se tiver apresentação Sancler é igual tá aí esse nome tá ótimo, né?
+[33:16] Victor Figueredo: Tá perfeito
+[33:17] Diego Diehl: Apresentação tá então, eu acho que como um próximo passo já. Daí talvez eu contigo e com Henrique a gente precisa avançar como que vai ser essa troca de informação com a órgão para deixar o nome dos arquivos mais corretos dentro dos produtos. Ficou claro Henrique para ti. Então acho que como ação já não precisa esperar nada é a gente verificar o nome dos arquivos dos produtos da exo ver se tá com o nome adequado e fazer esse fluxo de informação com órgão funcionar para ver como que ele vai funcionar se a gente vai renomear se a gente vai subir de novo o nome do arquivo com o nome certo.
+[34:03] Diego Diehl: Que daí a gente explora isso que depois a gente vai ter que fazer com a setinha com as árvores a mesma coisa. Daí o Henrique pode. Avançar com esse fluxo de informações com a órgão Fernando. Você tem algum ponto sobre isso sobre como que seria melhor tipo arrumar o nome do arquivo?
+[34:25] Fernando Florêncio: Atualmente que a gente tem seria mas talvez colocar um capsional na imagem que Jesus daria. não sei se dá para fazer isso que
+[34:38] Diego Diehl: na imagem
+[34:39] Fernando Florêncio: é tipo um peixezinho que vai junto com a imagem como se fosse uma observação, eu não sei se tem esse campo hoje, mas para agora inicialmente a gente pode adotar uma nomenclatura mais clara, né assim
+[34:51] Diego Diehl: Tá principalmente.
+[34:53] Fernando Florêncio: complexos de de mídia a gente pode avançar para uma observação.
+[35:02] Eduardo Stringhini: Mas ele se perdeu em algum caso aí já? Não achava aquilo.
+[35:08] Victor Figueredo: Para o que a gente estava buscando a nossa expectativa, foi? Ok como estava teve alguns casos, né? Tipo belgrave acredito tava sem sem o files a gente estava olhando lá e tipo não tava retornando arquivo, a gente achou estranho quando a gente foi olhar não tinha mas fora isso a gente conseguiu retornar da forma, como está organizada aqui hoje e para os produtos que a gente analisou para os testes que a gente fez mesmo com o cenário de produção, tá? Ok?
+[35:38] Diego Diehl: É que vocês não fizeram com todos os produtos, né?
+[35:41] Victor Figueredo: Não não fizemos.
+[35:42] Diego Diehl: Então, tipo, se o nome lá não tiver escrito a apresentação certinho ou talvez a apresentação em tabela de preços esteja mais correto memorados criativo também não deve ter erro. O que eu acho que vai ter erro é nas fotos. Tipo não vai dar para ter foto um dois três quatro cinco, então, eles tem que dar uma clareza em foto é planta dois quartos com suíte planta subsolo.
+[36:07] Victor Figueredo: planta e planta também envolve essa
+[36:07] Diego Diehl: Talvez as fotos não tem o nome correto lá.
+[36:12] Victor Figueredo: questão do dos múltiplos arquivos que eu acredito que pode ser uma prioridade logo na sequência para gente porque a planta tá aqui, ó, planta três ele vai escolher uma dessas plantas, ele não sabe exatamente, qual que é a planta que ele que ele vai ter que mandar planta três planta quatro o ideal seria mandar todas aqui, por exemplo.
+[36:29] Diego Diehl: tá então eu acho que dessa parte de Para aumentar a assertividade das perguntas a gente tem que primeiro por ela no prompt como pergunta controlada de uma forma mais elementar. Você falou que não a gente não tá tendo problema na estrutura dela e com relação a especificidade do nome do arquivo o título do arquivo é o que comanda isso, né? Então a gente tem garantia que esteja correto ou a gente vai lá e verifica.
+[37:01] Diego Diehl: De cara ou a gente começa a rodar teste, eu acho que é melhor Henrique você olhar as incorporadoras que são da exo e bateu o olho na hora o lá ver se o nome dos arquivos está tipo minimamente coerente. E aí a gente vai ter alguma dificuldade nisso sobre saber qual o nome pôr para se tornar mais assertivo, né?
+[37:22] Victor Figueredo: Sim, é uma coisa que a gente observou também. Tem uma instrução aqui também que é importante porque a gente colocou trate buscas genéricas por materiais. Como buscas por apresentação ou mídia similares que eles não pedem especificamente o nome do arquivo é muito difícil, eles pedem esses materiais eles dizem ó, eu quero o material tem o material.
+[37:49] Diego Diehl: E deixa eu te fazer uma segunda pergunta já que eu anotei aqui. Quando a gente tiver Que eu tô entendendo que a pergunta que a gente está configurando. O robô para quando tiver uma clareza muito grande do que que estão pedindo responder. E aí Quando não tá tão alta a clareza ou ele responde errado ou ele não responde no primeiro momento é bom que ele não responda.
+[38:20] Diego Diehl: E aí a gente Vai avançando ali aumentando a área das perguntas controladas a minha dúvida a minha pergunta específica que a gente falou na semana passada. É quando não tiver muito claro. Uma das soluções é o próprio humano ali. tentar clarear né falar de uma forma mais clara que o corretor respondendo aí a já vai ler os dois e vai responder com arquivo algo que fica mais claro a minha pergunta é se Eu acho que ficou de semana passada.
+[39:01] Diego Diehl: Essa é o nosso modelo, ele pode fazer essa interação por exemplo. O cara pergunta dá um nome que tá. Dúbio ou tá com duas opções ou da forma que ele pergunta. Me manda os materiais daí a vai ver. Ah, eu tenho apresentação. Eu tenho memória descritiva, eu tenho a tabela de preços.
+[39:22] Diego Diehl: Se ele se a gente tá com algum mecanismo de perguntar para o usuário, o que que ele quer? Ou se assim o que eu tô a minha pergunta é bem simples, pergunta controlada está a única exclusivamente responde ou não? Responde, né? A gente não tem uma interação intermediária. Pode falar Fernando se for desse contexto já?
+[39:46] Fernando Florêncio: Sobre a afirmação que ele o responde errado ou não. Responde só para deixar claro ele daí sem perguntas que ele descer em testes que a gente fez só em duas situações ele ele respondeu errado tá na maioria das vezes eles não ele não respondeu. tá
+[40:07] Diego Diehl: Não beleza a minha pergunta é.
+[40:10] Fernando Florêncio: E sobre o outro ponto que você falou sobre sobre ter mais interação, eu acho que a gente Trio. Para ele não interagir é porque ele observar e responder pontualmente o que ele conseguir.
+[40:25] Diego Diehl: se tiver clareza Essa é
+[40:26] Fernando Florêncio: Se tiver clareis. Então vai ser essa interação dele, ele não vai interagir com pelo menos pelo que eu lido pronto que a gente programa para você não vai não foi essa a intenção da gente.
+[40:38] Diego Diehl: Tá então beleza. Então, eu nem vou explorar esse ponto aí, vamos assim.
+[40:44] Victor Figueredo: A gente a gente aqui só para complementar esse ponto. Acho que é importante nessas discussões a gente entender muito bem. Onde é que vai qualquer limitação de quem está a gente estudou a possibilidade durante dessa sequência de teste dessa versão do pronto de colocar uma pergunta controlada na sequência para informar.
+[41:05] Victor Figueredo: Para fazer o direcionamento que o humano fez ali nos nossos testes. Só que a grande dificuldade é que não necessaria por exemplo naquela pergunta se a gente tivesse escrito isso como um procedimento padrão para a gente no prompt naquela pergunta. Que que ele faz de você, tem um material desse aqui desse empreendimento.
+[41:28] Victor Figueredo: Não encontrei na hora ele não tem nenhuma informação do que confirmar porque a primeira confirmação é o produto. Ele não sabe qual que é o produto então ele ele estaria em uma grande dificuldade de direcionar a pergunta. Talvez o direcionamento dele não fosse efetivo também. Porque faltam ali.
+[41:43] Diego Diehl: Não, mas exatamente isso Victor. A minha pergunta é se não tá claro o produto não É só perguntar o produto. tipo assim, não tá claro o produto
+[41:59] Victor Figueredo: Nesse caso sim.
+[42:00] Diego Diehl: se não estiver Claro o produto peça para especificar melhor, qual o produto que ele está se referindo.
+[42:08] Victor Figueredo: Sim nesse caso ele teria que informar exatamente, qual que é o produto e o ideal o ideal mesmo o ideal do direcionamento seria a gente até nessas interações que a gente fez o agente informar o produto ou a gente informar qual que é o Tipo de material porque aí o usuário só confirma.
+[42:30] Diego Diehl: o agente se diz humano
+[42:33] Victor Figueredo: o agente
+[42:35] Diego Diehl: Ah então então é isso que eu tô perguntando tipo. Me manda os materiais. Daí é como se fosse assim, a gente manda uma pergunta. Pode me confirmar de qual produto você quer? Ou manda uma ou a vibe bote né? Que manda uma lista de produtos e o cara seleciona, qual ele quer algo nesse sentido, né?
+[42:59] Victor Figueredo: isso
+[42:59] Diego Diehl: Mas enfim, não é prioridade. Deixa assim, tipo eu respondo que estamos evoluindo, o que importa é a gente ter. Uma versão um já consolidada por mais que tenha limitações eu ali umas limitações. Eu não quero agora expandir as nossas limitações. Eu só quero que a gente consiga ter alguma confiável.
+[43:20] Diego Diehl: Tá então deixa isso para daqui a pouco quando tiver dois três clientes a gente avalia até quando for para prática a gente vai avaliar a realidade, né?
+[43:29] Victor Figueredo: Mesmo isso mesmo.
+[43:29] Diego Diehl: Tá então para eu confirmar. é dúvidas sobre detalhes de produto a gente avançou deu o cheque lá em prol do The Tails na hora do Envio de arquivos e imagens que estão na hora. Também certo.
+[43:51] Victor Figueredo: também sim, que que estão dentro de detalhes de produtos também, mas
+[43:56] Diego Diehl: aí
+[43:57] Eduardo Stringhini: Um ponto que eu não peguei ali as imagens ele manda uma ou está mandando várias imagens.
+[44:03] Victor Figueredo: Ele manda Sempre uma mídia hoje.
+[44:07] Eduardo Stringhini: É isso é um ponto. na real
+[44:10] Diego Diehl: a imagem cara não é Core imagem agora eu acho do
+[44:15] Eduardo Stringhini: mas mandar uma imagem eu acho que é Um teste vocês fizeram com imagem a imagem a única coisa que eu fiquei com que eu fiquei um pouco para trás aí. Tu vê um teste.
+[44:25] Victor Figueredo: a imagem a gente fez com o
+[44:33] Eduardo Stringhini: Qual é a pergunta que fizeram
+[44:39] Victor Figueredo: Tem mais imagens do like aí, a gente direcionou aqui como humano, vou te mandar as que tem um aqui também de forma genérica. aí ele manda o
+[44:50] Diego Diehl: Manda uma imagem.
+[44:51] Victor Figueredo: Manda imagem uma imagem só imagem principal do humano aqui ele pode
+[44:54] Eduardo Stringhini: Por que que foi?
+[44:56] Victor Figueredo: Hoje como é que funcionaria? E também o nosso objetivo sair dessa versão com guia que de como que a coisa funciona, como que o produto pode ser utilizado. Quais são os cenários até para a gente informar isso para cliente e também entender. Hoje o procedimento qual seria para ele mandar mais imagens? Ele ou ir confirmar você quer a cozinha? Quero ficar a planta do três seria esse tipo de interação, mas o ideal aqui para imagens mesmo que ficou claro que a gente precisa desenvolver múltiplos múltiplos envios.
+[45:32] Eduardo Stringhini: Pessoal, eu vejo o seguinte ó, pelo que eu me lembro da prática. Aí quando pede imagem não é uma imagem, geralmente é todas as imagens do empreendimento. Então a gente tem que dar um jeito de enviar algum link de acesso que ele acesse todas as imagens o que eu vejo eventualmente é imagens do decorado que é uma coisa que o cara pede Extra.
+[45:51] Eduardo Stringhini: E aí eu não sei que resposta a gente vai dar mas eu acho que o padrão que a gente fez de enviar uma imagem.
+[45:59] Diego Diehl: De uma forma mais geral o que o mercado quer o corretor ele já tem apresentação às vezes. Ele tem a tabela de preços e aí ele tá pedindo para pessoa da Incorporadora falando assim, cara, você tem mais alguma? ferramenta de vendas para mim Porque imagens vídeos tudo que é coisas são ferramentas de venda? Então acho que só para deixar mais claro e o que eu tô falando, né? O corretor, ele tá pedindo mais alguma.
+[46:30] Diego Diehl: ferramenta para Incorporadora que não é o básico E aí a gente tem que ver o que é que a gente tem de ferramenta. E enviar para o corretor, então eu preferiria como solução. Porque eu acho que as pessoas não são tão específicas assim é melhor a gente enviar um bloco.
+[46:54] Diego Diehl: Várias coisas do que enviar uma só e ficar limitada assim se for para configurar algo. Seria cara enviar tudo mesmo enviar e aí a gente cuidar só porque o problema do dançando agora é que as imagens que estão na Orlando, às vezes são recortes da apresentação, não é legal na ferramenta de venda é às vezes um desdobramento da própria apresentação.
+[47:20] Diego Diehl: Da gente ter que ver como. Como dar essa clareza assim de não poluir também enviando um monte de imagem recortada da apresentação?
+[47:29] Eduardo Stringhini: Eu só acho que não vai ter perguntas imagens da cozinha, né? Tipo assim uma imagem da sala. Acho que essa pergunta não existe. Então é o que o que a gente vê a imagens do decorado, né? Que é tipo umas fotos que eu não tenho achado ali na apresentação.
+[47:47] Eduardo Stringhini: Então eu acho que a resposta padrão para imagens é um link que acesse todas as imagens do empreendimento não é uma específica, entendeu? Nós vamos errar 90% das vezes. E aí depois assim a gente tá desenvolvendo um épico dentro da Olo que é a edição de imagens pelo anunciante, tá? Aí ali sim, a gente vai conseguir ter depois por isso que eu me preocupo para depois a gente vai conseguir ter essa capacidade interna de melhorar as imagens por conta própria.
+[48:16] Diego Diehl: Antes disso tem que sincronizar com o eda, né do Então acho que a solução mais simples é enviar um link.
+[48:23] Eduardo Stringhini: o link de todas as imagens do produto
+[48:25] Diego Diehl: Daí a gente instrui Incorporadora de ter todas as imagens no Drive.
+[48:30] Eduardo Stringhini: Bem organizado.
+[48:31] Diego Diehl: E aí manda o link.
+[48:35] Eduardo Stringhini: É isso aí
+[48:35] Diego Diehl: Tá claro, Victor e Fernando dá para resolver dessa forma.
+[48:43] Victor Figueredo: Sim, desde que se o link estiver no pudesse incluído nesse objeto aí de produto de Deus. A gente pode pode criar uma instrução para direcionar também e testar a valida.
+[48:55] Diego Diehl: Daí a minha próxima pergunta, eu tô vendo que o que tá em prol do The Tail está show. E aí a gente falou sobre detalhes de produto adicionais em outro local que a gente até falou de uma planilha de algo assim decorado, se não tem que dia que ele visita algumas informações e também viu de arquivos imagens que não estão como é que tá isso.
+[49:18] Diego Diehl: Vocês testaram algo tipo arquivo informações e arquivos, por exemplo que estão no prompt. Ou que estão em algum local adicional.
+[49:30] Victor Figueredo: Os que estão no pronto, a gente a gente tinha testado nas versões anteriores, né que seria a versão mais elementar de todas. e não envolve né chamar essa outra função de get produtos e a gente eu até A gente até removeu o os arquivos que estavam lá para a gente colocar outros, né mais próprios que eles eram arquivos basicamente pela Escola deles também de teste, mas acredito que isso foi isso foi testado na outra versão então, por exemplo.
+[49:59] Victor Figueredo: Se tiver um drive de todas as fotos Drive dos decorados coisas do tipo de todos os Empreendimentos. A gente pode incluir novo na raiz aqui também testar embora. A gente já validou que a gente consegue informar isso.
+[50:15] Diego Diehl: Dá para deixar lá, né? tá
+[50:18] Fernando Florêncio: Para poder dentro da hora para poder ter informado.
+[50:29] Diego Diehl: Tá o Fernando.
+[50:30] Victor Figueredo: O próprio Deus o ideal o ideal a solução de imagens do produto de teus são as múltiplas imagens que daria suporte também para os arquivos até para eu acho que a dinâmica de tem materiais Eu acho que o ideal seria mandar também os vários arquivos e a gente nesse caso é o desenvolvimento da feature no produto de enviar múltiplos arquivos e dois no prompt de instruir ó, quando vier em determinado ao invés da frase que a gente tem hoje lá que é quando vier determinado, mande apresentação ou o que tiver é quando vier em determinado manda tudo ou manda todos ou manda os que achar pertinente.
+[51:06] Diego Diehl: Tá Victor, a gente tá alinhado nisso. Tanto a gente tem uma limitação do lado de vocês nessa funcionalidade de Enviar vários arquivos e a gente tem uma limitação do nosso lado da hora que o cliente não tem autonomia para ajustar as imagens que estão na hora do hoje. A gente não consegue resolver essa essa limitação na hora do rápido está nesse ano desenvolvendo isso um negócio complexo e do teu lado.
+[51:35] Diego Diehl: Eu acho que nem precisa gastar energia nisso agora. Vamos vamos deixar esse ponto para depois e ver essa solução mais prática de talvez enviar um link do drive por exemplo, porque assim qualquer minha preocupação máxima, tá? Como é que o cliente vai ter autonomia de ajustar essas coisas? Então exemplo se tiver um link da pasta no Drive.
+[52:01] Diego Diehl: Ele pode ajustar ele mesmo os arquivos no Drive, tá tudo certo. Tá. Se tiver link do drive também. Eu ensino eles a gerenciar versões do arquivo que daí não muda o link, a gente não precisa mexer no prompt, por exemplo, a setinha parece ele sempre tem uma tabela promocional um tabelão.
+[52:22] Diego Diehl: Aí a gente vai ter no Drive lá um link setado no prompt que ele vai gerenciando versão. E não muda, o arquivo a gente não precisa mexer no pronto então minha preocupação tá mais nisso assim, tipo eu vou implementar cinco clientes diferentes. Como é que a gente vai fazer isso de uma forma relativamente organizada, eu queria perguntar se faz sentido para todos a gente ter links lá e tentar não mudar o link tentar ter o link do drive por produto e tal.
+[52:50] Diego Diehl: E aí por segundo uma pergunta para ti. Fernando a gente comentou a uma semanas atrás. Sobre a hora a gente ter um campo adicional de informações que não aparece na hora mas que sincronizaria com a plumes estaria lá na área do cliente, como é que ficou isso? Tipo foi cancelado foi pausado foi dado andamento.
+[53:13] Fernando Florêncio: Não é a gente deu na digitar dando prioridade mais as outras mais as outras fontes do prompt, né? Que é o envio de imagens ensinou questão de psdr, mas ele não saiu do meu World Map aqui assim quando eu tiver um pouquinho mais tempo eu vou estar utilizando.
+[53:35] Diego Diehl: Eu acho que isso daí. É a gente podia conversar no segundo momento Fernando para a gente definir. Se é mesmo prioridade só para discutir logo para ver se vai ou não vai e se vai desde que você tá um prazo para eu entender se eu posso contar com isso para implementação da setinha da ideia das Árvores ou não? Porque isso daí com relação a ao CS do cliente para mim, tá? Claro que vai precisar de algum lugar que o cliente possa enviar e atualizar informações.
+[54:12] Diego Diehl: Vamos deixar combinado de conversar no segundo momento. Daí pode ser você e o Edu.
+[54:18] Fernando Florêncio: Sim, sim.
+[54:18] Diego Diehl: Então beleza
+[54:20] Victor Figueredo: E sobre o link do drive eu acho que é fantástico essa abordagem aí porque a gente não precisa alterar o pronto ou seja. Né, a gente não vai ter nenhum delay diversão de versionamento atualizei total e o cliente tem uma forma de ele estar sempre constantemente ajustando acho que a solução seria ideal a gente bota na raiz do pronto esse link.
+[54:41] Diego Diehl: Tá uma o Vitor vou te perguntar uma coisa só para validar. Qual que é a chance? De você buscar arquivos no Drive. Qual que é a viabilidade disso, tipo você entendeu? O que eu quis dizer de forma Clara?
+[55:04] Victor Figueredo: Sim para lá e pegar né?
+[55:06] Diego Diehl: É assim. Ah, o cara tem um link que é a pasta do produto B. E aí lá, tem arquivos fotos dele, abre a pasta fotos e envia, sei lá.
+[55:21] Victor Figueredo: Dessa forma específica não seria muito viável porque a gente teria que Navegar com curso ou na página fazer coisas nesse sentido, mas o drive pode ser organizado de forma que pastas e subpastas possam manter esse padrão. Então, a gente pode colocar reproduzir essa essa estrutura na raiz do próprio também, então, sei lá tem uma pasta principal que tem tudo.
+[55:44] Victor Figueredo: Acho que a exo tem Exatamente Essa característica. Tem uma pasta principal. Então se o cara quiser informações de um modo geral ou quiser só a pasta tem uma pasta disso uma pasta daquilo que todas somos. Dentro de uma hierarquia maior que elas podem ser descritas ou o cara cai direto naquela lá específica ou na mais Ampla pode ser as duas
+[56:04] Diego Diehl: Tá tá beleza, vamos não
+[56:04] Victor Figueredo: coisas.
+[56:07] Diego Diehl: não. Vamos evoluir nisso agora. Sabe o que eu tô de uma forma geral assim, eu entendendo as necessidades dos clientes, se vendo como é que a gente está estruturando as coisas. É duas duas formas, eu tô vendo que se a gente desenvolvesse daria muita velocidade praticidade para gente. É a primeira é esse retorno do cliente saber o que ele pode pedir não o cliente o corretor.
+[56:39] Diego Diehl: Por exemplo. Quando a gente quando ele fala materiais a gente retornar com as opções para ele. Isso daí eu tô achando que daria uma. Uma praticidade para a gente muito clara, mas a gente tá deixando perguntas controladas primeiro. Eu acho que eu nem vou entrar nesse ponto vamos seguir em perguntas controladas.
+[57:08] Diego Diehl: Deixa eu ver o que eu anotei aqui capacidade de responder quando eu solicitado então. Que a terceira nível lá Victor o quando não tá claro e o robô não responde o gerente de parcerias entra tenta dar mais clareza a pergunta se o corretor confirmar e ela responde já tá claro.
+[57:30] Diego Diehl: Pode falar do Eu acho que eu vou para o plano de ação. Depois dessa.
+[57:35] Eduardo Stringhini: Não o materiais ali ao meu ver a gente tem que mandar um kit com tudo assim, a gente tem que ser bem bem prático o ideal realmente. Inclusive a gente deveria ter um padrão meio que Sabe aqueles estruturado com texto links e emoji assim sabe uma coisa Segue como se fosse um kit é um kit de tudo todo tudo que a gente tem mandar um kit de materiais todos que existentes no produto.
+[58:02] Diego Diehl: Tá você entendeu? O Vitor e Fernando que eu quis dizer mais do que enviar de forma muito assertiva um arquivo, às vezes é corretor, toma aqui.
+[58:15] Eduardo Stringhini: Toma o kit leva tudo, entendeu?
+[58:16] Diego Diehl: E aí? É toma o kit atualizado.
+[58:25] Fernando Florêncio: Entendi, entendi sim, agora eu acho que o Vitor pode falar melhor, talvez que ainda caiba um desenvolvimento em relação a isso, né que a gente tá conseguindo mandar multiplas.
+[58:33] Diego Diehl: Tá eu acho que a prioridade vai ser múltiplas mídias mesmo. Porque o estado? Que eu vejo que é viável e que gera muito valor para o cliente. É eu dar uma instrução. Sobre como que eu envio algo para ele, esse é o nosso desafio tipo. Esse é o O corretor Pergunta assim.
+[59:01] Diego Diehl: Ah, me manda. Não eu vou entrar numa outra Seara, não vou nem abrir essa caixa gente. Vamos fechar esse vamos deixar assim então próximo passo a gente testar com todos os produtos da exo ou perguntando para vocês, qual? Que próximo passo vocês têm relacionado a testes de estabilização ainda?
+[59:24] Victor Figueredo: Colocar essa versão na no ambiente de integração, ela já tá parcialmente colocada lá então no WhatsApp a gente conseguir fazer esses testes produzir nosso próximo passo é reproduzir exatamente os cenários que a gente testou no WhatsApp com diversos números diversas situações. né direcionando não direcionando porque aí também você vai ter esse veículo para utilizar em reuniões apresentações já fica definido então nosso próximo passo é a é a Passagem né a consolidação desse ambiente de teste para um ambiente de integração já?
+[59:59] Diego Diehl: Tá vocês eu acho que esse é o meu ponto principal, tá? Vocês lembram que semana passada eu tinha uma porque Tecnicamente isso semana passada, a gente teria esse esse ambiente de teste e eu tinha uma reunião com o cliente de tarde, né? Eu consegui dar uma ajustada falar que não podia.
+[60:17] Diego Diehl: Eu tenho um cliente hoje à tarde e dois outros dois clientes amanhã. Que tem um fundo de funil só querem ver algo funcionando. Aí eu precisava. De alguma eu acho que até aquela aquele conteúdo ali Vitor que você colocou eu precisava assim de forma simples. saber
+[60:46] Fernando Florêncio: não, tá
+[60:49] Victor Figueredo: acho
+[61:07] Eduardo Stringhini: Bom Pessoal, vocês vão colocar? Então aquela para a gente conseguir testar no WhatsApp ali, né?
+[61:13] Victor Figueredo: Isso esse é o foco máximo de desenvolvimento tem alguns ajustes que a gente está fazendo, mas a ideia que a gente entrega mais rápido possível para a gente ter essa experiência no WhatsApp.
+[61:23] Eduardo Stringhini: tá voltou
+[61:30] Diego Diehl: Vocês escutaram resumo eu tenho que apresentar para clientes hoje e amanhã. Eu preciso de uma instrução para eu saber caminhar numa demonstração do tipo, qual o produto tá conectado que eu posso perguntar que perguntas eu posso fazer que arquivos ele envia eu vi que tá meio espalhado no teu repórter ali, daí tem que entrar ver.
+[61:52] Diego Diehl: Qual pergunta eu precisava disso para hoje de tarde. Eu não sei quem pode me ajudar nisso.
+[61:58] Victor Figueredo: Qual o horário da reunião?
+[62:01] Diego Diehl: Deixa eu ver. duas e meia
+[62:06] Victor Figueredo: Eu acho que para essa talvez não esteja essas funcionalidades, não esteja no WhatsApp ainda.
+[62:13] Diego Diehl: Mas não tá no WhatsApp. Primeira pergunta não tá no WhatsApp da Filter feed.
+[62:21] Victor Figueredo: Acho que tem algumas coisas lá, por exemplo, a gente modificou no a gente pode restaurar uma versão do prompt que tem os arquivos raiz que ele mostra.
+[62:31] Diego Diehl: Não não deixa eu dar uma opção 2 hoje eu posso focar só no jurídico falar que eu não tenho tempo e marcar uma reunião para amanhã daí com esse cliente daí amanhã a gente teria.
+[62:45] Victor Figueredo: Eu acho que o ideal seria a gente ter um intervalo entre um teste interno e um teste externo com cliente. Para todos usarem validarem para a gente passar talvez na quinta seria uma estimativa que eu daria para a gente ter hoje e amanhã a janela de teste com interno.
+[63:06] Victor Figueredo: Todos aqui validando eventualmente corrigindo alguma situação fazendo algum ajuste a partir de quinta-feira a gente tem essa versão. Dentro do contexto dela para poder apresentar para poder. Passar para um cliente ele usar de forma independente.
+[63:27] Diego Diehl: Ah eu tenho um desespero nessas coisas que a gente pede dois dias e se a gente fosse rápido a gente faria em Porque tipo três reuniões com diretor com gestor para conseguir agenda, isso é um saco vai aumentar a desconfiança deles de uma forma muito drástica. Eu já postei uma semana.
+[63:48] Diego Diehl: Será que a gente consegue enxergar de uma forma mais enxuta porque a gente sabe a gente uma coisa que é. Para hoje para amanhã se todo mundo for sincronizado testar e for rápido a gente consegue algo. Eu tô preocupado porque são três clientes tipo importantes tão em fundo de funil.
+[64:06] Diego Diehl: Já tô enrolando porque a gente tá atrasando aqui. O que que é exatamente precisa fazer Vitor vamos falar nesse plano de ação e tentar sincronizar e ser rápido. E eu tentar não mudar a minha reunião é às três da tarde. Amanhã, a gente tem tipo 28 horas gente. Sei lá, quantas horas? horas.
+[64:29] Diego Diehl: Qual que é a sequência de ações
+[64:29] Victor Figueredo: sim
+[64:30] Diego Diehl: para a gente conseguir evoluir tipo? Três Quatro Passos
+[64:37] Victor Figueredo: Eu acho que primeiro seria o seguinte, o que seria o maior impacto. Vamos fazer o teste fumo que é esse do produto imagens do b.
+[64:52] Diego Diehl: Cara não muda nada não expandir nada, só quero o que vocês tiveram uma semana para testar que vocês me deem isso até Ah, mas aquela não deu certo não precisa ajustar sua fala Diego não faça essa pergunta que não deu certo eu faça essa essa pergunta que vai funcionar isso isso tipo não expande não muda nada.
+[65:12] Diego Diehl: Só para deixar claro.
+[65:12] Victor Figueredo: eu acho que a gente pode a gente pode se organizar para fazer o teste interno amanhã amanhã pela manhã e
+[65:19] Diego Diehl: Qual que é a diferença do teste interno para o Que Vocês Fizeram não tô entendendo.
+[65:23] Victor Figueredo: Não é só uma é só um estágio da gente passar por isso antes de soltar na mão do cliente.
+[65:32] Diego Diehl: Tá aí porque amanhã de manhã e não hoje à tarde por exemplo.
+[65:36] Victor Figueredo: para a gente conseguir validar cada um dos pontos dessa dessa desse ajuste do produto para conseguir entregar essa informação do Mais específico com relação aos produtos. Então teve uma mudança no Produto em si então tem alguns steps aqui de homologação para jogar essa versão no WhatsApp.
+[65:59] Diego Diehl: Ah então tá vocês rodaram o
+[65:59] Victor Figueredo: Então é só algumas confirmações.
+[66:02] Diego Diehl: ambiente de teste e aí você precisa homologar fazer um processo para por direto no WhatsApp aí do WhatsApp, a gente testa para eu poder mostrar para o cliente isso. E quando é que você consegue pôr no WhatsApp isso quantas horas vão você consegue focar entregar isso hoje ainda?
+[66:22] Victor Figueredo: Sim, o WhatsApp já tá em andamento já tá parcial ou essa implementação? A gente só tá testando alguns outros pontos alguns outros ajustes. Mas a ideia é que a gente vai assim que tiver Ok no WhatsApp a gente consegue testar. Pode ser que fique hoje mesmo, fique pronto hoje, mas a gente conversa e fica com essa com essa possibilidade de fazer isso pela manhã, porque a gente tem condições também de testar no período fora do horário comercial, tem menos fluxo a gente consegue isolar mais algumas ações.
+[66:54] Diego Diehl: Tá para ver se eu entendi, vocês vão dar ok que eu o prompt que você e o Fernando testaram agora evoluíram está no WhatsApp da Filter feed. Possivelmente hoje ou amanhã 8 horas da manhã, até amanhã de manhã vai estar Ok para a gente testar Isso daí amanhã de manhã e assim a
+[67:15] Victor Figueredo: isso
+[67:18] Diego Diehl: entrega é OK e o que o prompt está executando corretamente é isso? Pode ser porque não é só ok é preciso ter um direcionamento do que testar.
+[67:31] Victor Figueredo: E a gente usa o direcionamento do que para ficar. Tranquilo, eu acho que o seu usuário específico seu contato do seu número ele vai acessar exclusivamente o Sancler, mas a gente passa esses pontos amanhã mesmo.
+[67:45] Diego Diehl: Eu excluo o meu DIU lá tipo.
+[67:47] Victor Figueredo: Pronto, OK.
+[67:49] Diego Diehl: Tá então eu tenho que excluir o fio, até amanhã de manhã vocês dão ok que tá no WhatsApp e um direcionamento do Qual que é o roteiro de demonstração para não ter erro certo.
+[67:59] Victor Figueredo: Isso há exatamente.
+[68:01] Diego Diehl: Variações que eu posso perguntar a gente testa de manhã e Tecnicamente amanhã à tarde eu posso apresentar para o cliente certo?
+[68:08] Victor Figueredo: Isso isso.
+[68:10] Diego Diehl: Tá então essa parte estamos combinados algum ponto sobre isso gente, se não tem uma última pauta que eu preciso. validar Tá ok.
+[68:23] Eduardo Stringhini: Toca ficha toca.
+[68:27] Diego Diehl: É seguinte lá na cetim. Tem uma notícia boa tá ou mais ou menos na setinha especificamente. Eu consegui criar uma estratégia com eles que a gente vai implementar o chatbot daqui duas semanas. Então, a gente ganhou um prazo que ele já fecharam o contrato, faz um mês e meio, né? E a gente ali tá enrolando na implementação enrolando nisso para poder desenvolver internamente então cetim que a gente já tava atrasado.
+[68:58] Diego Diehl: Eu fui no cliente ontem e foi para daqui duas semanas. tá E aí o que que eu preciso lá na setinha, eu preciso entender contigo que aquele papo entre você lumes e Johnny preciso entender o seguinte. Quando eu conectar vou perguntar numa versão Enzo tá? Estamos conectados ali Patrícia kerber.
+[69:25] Diego Diehl: Cleiton também ou não? A gente tem Patrícia e kerber na ISO conectados. Para uma gestão de carteira para todos os clientes que tem mais gerentes de parcerias, o que que eu preciso? De alguma forma Vitor eu preciso saber. Quais é deixa eu falar de uma forma estruturada? Vou falar numa versão cliente, tá? Depois a gente fala mais interno.
+[70:01] Diego Diehl: O cliente ele quer saber. Da base de parceiros que ele tem que são lá 20 mil corretores. Quais desses corretores receberam mensagem do time dele? ou seja Desses corretores quem teve mensagem enviada ou seja. Vamos pensar que que aqui é a base de corretor, a gente tem uma base corretores, eu preciso saber para quem eu enviei mensagem.
+[70:33] Diego Diehl: Quem enviou a mensagem para ele? E quem é esse corretor respondeu? Responde? Ou seja, eu preciso tipo daquele registro de interações. organizado por gerente de parcerias Como é que tá essa limitação Vitor? Você ainda tá com uma limitação de clareza de quem viu a mensagem? Quem recebeu?
+[71:04] Victor Figueredo: Para esses casos, eu acho que a gente tem Flex o suficiente para mapear.
+[71:11] Diego Diehl: Mas e aquela limitação que você tinha comentado comigo para eu pedir para Plus.
+[71:16] Victor Figueredo: Aquilo não não tá relacionado necessariamente a esse ponto aí.
+[71:20] Diego Diehl: O que que aquilo tá relacionado?
+[71:22] Victor Figueredo: A tá relacionado a uma imposição da gente criar um usuário espelho Então a gente tem o Alejandro tem o Alejandro. A questão da plumis é basicamente essa porque na hora de criar o registro de interação. Ele amarra o registro de interação. com a Com as credenciais de quem pediu.
+[71:54] Diego Diehl: do integrador
+[71:56] Victor Figueredo: É de quem pediu?
+[71:56] Diego Diehl: Usuário de integração, né?
+[71:58] Victor Figueredo: pedindo um registro de interação para você, ele vai marcar em mim. Então eu não consigo.
+[72:06] Diego Diehl: Em você é o quê Filter? Feed geral, né?
+[72:09] Victor Figueredo: É um fio ter feito de cópia do seu usuário que a gente tem então a gente tem uma cópia do seu usuário que é Para justamente manter as características do seu e na hora de identificar os registros. A gente tem uma marca visual, né mais clara de que essa é uma conversa do Diego não um dois três.
+[72:27] Victor Figueredo: Então esse é o ponto do Esse é um dos pontos da plumas lá que gera uma duplicação de usuários e na hora de ter os registros a gente vai ter métricas relacionados ao seu usuário e métricas relacionadas ao seu usuário copy.
+[72:44] Diego Diehl: Tá E que implicação de limitação isso gera? Que que isso implica de forma prática?
+[72:55] Victor Figueredo: De forma prática isso a gente precisa ter sempre como requisito uma chave de integração de tipo admin. isso nem todos os
+[73:07] Diego Diehl: Falando muito técnico Vitor de forma prática. Qual a limitação que isso gera?
+[73:13] Victor Figueredo: De forma prática a gente tem que ter um nível de acesso da conta Master entendeu? Superá de mim, né? Nem todos estão confortáveis com isso, não é o caso aqui do cenário que a gente tá a gente também porque a conta de mim achava que a gente precisa ter para criar esses usuários é a chave que pode fazer basicamente qualquer coisa na conta.
+[73:29] Victor Figueredo: na conta.
+[73:32] Diego Diehl: Isso daí é interno nosso né? Deixa eu perguntar de novo na perspectiva de funcionalidade do cliente que vou repetir o que eu preciso eu preciso numa carteira de corretores. saber E Quem enviou a mensagem para ele nos últimos 90 dias. Quem enviou a mensagem para ele por último? Quem o corretor respondeu porque tem mais de um gerente falando com ele tem mais de um usuário da plumes tem mais de um número de WhatsApp que é da Incorporadora falando com o mesmo corretor o que eu preciso ter o mapa é dessa dessa massa de corretores.
+[74:19] Diego Diehl: Quem tá falando com ele e quem ele está respondendo e datas? Isso hoje existe a gente tem eu consigo obter com o Johnny isso a partir dos registros que vocês fazem.
+[74:34] Victor Figueredo: Sim conseguiria assim, ele entende assim mapear né? Por contato ali e montar um mini histórico. Né com as métricas?
+[74:41] Diego Diehl: É entender a gestão de carteira, tipo assim. Tem um cara um gerente de parcerias do Incorporadora que tem 8 mil corretores na base dele e ele fala assim os corretores são meus. E aí a empresa precisa expandir precisa dividir isso de uma forma que o cara não se frustra então o gestor tá tentando criar algumas regras assim, ó, cara, se você não falar com esse corretor dentro de 90 dias, ele não vai mais ser teu.
+[75:11] Diego Diehl: Entendeu ponto? Ou eu preciso criar uma regra que eu direciono alguma ação falando assim, quem tem mais direito esse corretor. Daí eu preciso de alguns mecanismos para dizer. Ah, quem que esse corretor respondeu? Quem falou mais com esse corretor? Quem falou por último com esse corretor quem o corretor respondeu por último esses mecanismos.
+[75:36] Diego Diehl: Você acha que a gente já tem e eu posso desenvolver com o Johnny a partir dos registros que a gente já tem certo?
+[75:43] Victor Figueredo: Estudar certinho qualquer um
+[75:44] Diego Diehl: Eu tô validando mesmo.
+[75:47] Victor Figueredo: interesse sentir cria isso na regra de usuário responsável Total, mas é possível assim alguma versão
+[75:53] Diego Diehl: Daí é o Johnny, né?
+[75:54] Victor Figueredo: disso. Sim, né? A gente pode acompanhar também, né? Mas é bastante com
+[75:58] Diego Diehl: tá Eu tô vendo acho que podemos fechar a reunião e eu vejo de conversar com você com o Johnny especificamente disso tá só para dar o grau de importância disso Claro. importância disso Claro. Agora eu tô com seis sete clientes para fundo de funil que estão fechando. Eu acho que não sei se para quatro.
+[76:25] Diego Diehl: quatro. O mecanismo de gestão de carteira é um uma das funcionalidades score dos quais Eles pagam muito para a gente ter se organizado. A gestão de carteira é a lista de corretores e quem é responsável por cada um. Qual que é a limitação que eu tenho disso hoje para você entender Victor? Parece-me que a gente está desbravando.
+[76:54] Diego Diehl: a relação Filter feed Plus relação à gestão de carteira Tipo, como que a Filter feed pode dar insumos para direcionar a gestão de carteira? É verdade, isso na tua visão, Victor, a gente que está desbravando isso.
+[77:13] Alejandro Olchik: O que que é desbravando a gestão de
+[77:16] Diego Diehl: O que que está abstrato?
+[77:19] Alejandro Olchik: carteira?
+[77:21] Diego Diehl: Desbravando é ninguém utiliza ainda nenhum cliente da plumes com vocês utilizam Putz da Filter Feet para gerir carteira.
+[77:29] Victor Figueredo: Assim dessa forma dessa forma. Acho que não tem outros a gente tem ali uma. uma operação que envolve Né esse ambiente mais competitivo entre corretores para atribuir a responsabilidade. Mas isso tem alguns impactos, né
+[77:46] Diego Diehl: tá
+[77:49] Victor Figueredo: Especialmente de quem parte as mensagens aqui do nosso lado a gente até observou isso essa semana com a Patrícia sendo responsável por um é na hora que a mensagem lá é disparado pela pelo número dela.
+[78:04] Diego Diehl: Tá a gente pode conversar daí
+[78:04] Victor Figueredo: consequências nesse sentido que o produto.
+[78:08] Diego Diehl: então a gente Vitor e aí eu entender o que que você já faz enquanto o cliente para ver se essa esse mecanismo que já foi desenvolvido eu posso desenhar algo que já existe para eu suprir a necessidade do cliente. E daí, eu quero entender muito essa relação. O que que a Filter feed manda de dados que podem ser direcionadores que o Johnny pode programar regras para criar regras de carteira, tá claro esse processo de registro.
+[78:39] Diego Diehl: Com base na leitura do WhatsApp. Eu olho para isso e crio regras e políticas de gestão de carteira com o cliente. É isso que eu preciso desenvolver com meu cliente. Tá bom pode falar Leandro.
+[78:53] Alejandro Olchik: Vou dar uma sugestão monta um dashboard. Diego dashboard gestão de carteira para ti. Que seria um relatório, né? Tu vai que que tu vai olhar balanceamento de corretores por
+[79:03] Diego Diehl: perfeito
+[79:04] Alejandro Olchik: coordenador tempo de atendimento tempo de atendimento dos últimos 30 dias tenta fazer um rascunho. A saída é o relatório. Depois tu chega para o Johnny Johnny consegue gerar isso para mim, o que que tu consegue gerar isso para mim? Ele vai dizer eu consigo ou não consigo porque falta tal coisa, né? Aí quando faltar tal coisa vai chegar no Vitor, entendeu? Se tiver faltando alguma coisa.
+[79:27] Alejandro Olchik: Mas foca na saída Primeiro vai ficar mais claro para todo mundo.
+[79:34] Diego Diehl: intermediário que você já viu. você já viu. Tipo, ah no meu cliente eu tô fazendo assim, eu já vi que funcionou assim só para me dar uma. Primeira visão aí eu faço esse teste, pode ser? Tá multado.
+[79:55] Victor Figueredo: Eu tô caiu aqui minha.
+[79:57] Diego Diehl: Tá eu vou falar contigo, tá?
+[80:01] Victor Figueredo: Tá tá bom, tá bom a gente conversa.
+[80:05] Diego Diehl: eu acho que Então só para recapitular nosso plano de ação, é hoje até amanhã de manhã. Vitor entregar o ok de que O número X está com o ambiente de teste Y, então é esse número e o teste ele é composto por isso aqui que tá validado esses produtos essas perguntas.
+[80:33] Diego Diehl: Aí amanhã de manhã a gente testa e se tudo der certo amanhã de tarde eu posso apresentar para dois clientes. É isso.
+[80:42] Victor Figueredo: Isso mesmo.
+[80:47] Diego Diehl: Beleza eu falo contigo da gestão de carteira. E aí o ponto que tá solto ainda? é como é que o nosso cliente pode de forma prática inserir novas informações e ajustar coisas já que a gente não tem o Que daí ficou entre eu.
+[81:07] Fernando Florêncio: De tentar colocar isso no driver inicialmente. e linkar ele dentro do
+[81:16] Diego Diehl: Não drive arquivo daí Fernando.
+[81:20] Fernando Florêncio: Mas não poderia entrar também esses esses dados.
+[81:24] Diego Diehl: Não porque a gente não lê, né? O drive. O ponto específico a gente tem eu tô visualizando 104 eixos quatro blocos um é informações de arquivo que já vem para Tails que já tá integrado com a orla. A gente vai lidar que daí é daquela forma lá. Geisa arquivos que estão na orla a gente pedir.
+[81:47] Diego Diehl: A gente testar e validar que os arquivos que estão na hora não são enviados certo esses dois. Aí tem arquivos adicionais. Que é por exemplo tabelão da Cetim o a imagem sei lá, o que que a gente já viu que dá para pôr no prompt e eu vou ensinar o cliente a fazer gerenciamento de versões no Drive daí o link não muda a gente não precisa ajustar o prompt.
+[82:15] Diego Diehl: Para atualização do arquivo aí o último ponto que falta. é informações adicionais tipo uma mini base de conhecimento que o cliente precisa imputar de informação E Atualizar de forma geral, por exemplo tem decorado ou não tem? Se tem algum evento ou não tem tipo uma base de conhecimento para ir a consultar que não seja o prompt.
+[82:45] Diego Diehl: que talvez seja por produto que o cliente tem acesso para inserir como se fosse o produto só que numa versão para o cliente inserir e que aí a Consulte lembra que a gente falou disso dessa tabela Eduardo até fez na semana passada uma versão dessa tabela, é isso que falta.
+[83:06] Diego Diehl: Mas assim não é prioridade.
+[83:07] Alejandro Olchik: Falou de jogar no prompt, por enquanto pessoal, a gente não falou de jogar no prompt disso daí.
+[83:14] Diego Diehl: isso para essa então é só isso que tá em aberto que não é prioridade agora a gente pode falar semana que vem de como ir para cliente ver o que
+[83:19] Alejandro Olchik: só jogar no chromet, se quiser ter
+[83:21] Diego Diehl: que
+[83:21] Alejandro Olchik: um Google Docs para jogar isso no Google Docs que cada vez que altera gera um alerta para pessoa atualizar no Chrome te dá o que fazer, mas a gente inclusive dá para ter um Job
+[83:29] Diego Diehl: ah
+[83:30] Alejandro Olchik: de atualização do prompt com base na atualização do Google Docs que nem o Fernando tá falando pode ser no próprio drive Google Docs. que atualiza mas por enquanto é um
+[83:38] Diego Diehl: vai ter um
+[83:40] Alejandro Olchik: dado que tem que ser enviado a questão de processos, manda atualizar.
+[83:50] Diego Diehl: Então a princípio a gente tem um Google Docs a gente testa mas antes disso ainda a gente põe tudo no prompt para rodar o primeiro segundo cliente. Beleza algum ponto mais pessoal?
+[84:04] Fernando Florêncio: Minha parte não.
+[84:07] Diego Diehl: Beleza amanhã de manhã, eu não entendi só como que vai ser a operação a partir do Vitor entregar. O teste e tal validado é a gente consegue fazer uma força-tarefa para testar amanhã de manhã? Quem que pode testar quem que vai testar? Eu não entendi se por exemplo.
+[84:34] Fernando Florêncio: Eu acho que é tudo quando ele quis falar de teste não necessariamente para todo mundo testar que todo mundo pode testar.
+[84:40] Diego Diehl: Isso mas todo mundo poder testar ninguém testado e não vai funcionar. Eu queria saber se Assim gente eu vou falar de forma Clara, eu tenho que apresentar para dois clientes amanhã de tarde, eu tô pedindo ajuda. Como que a gente pode garantir que amanhã uma da tarde a gente tenha feito uma porcentarefa para testar e ver a partir da instrução? tipo dá para a gente com
+[85:04] Fernando Florêncio: Eu posso te ajudar?
+[85:04] Alejandro Olchik: E se não funcionar o prompt, desculpa gente, se não funcionar a gente vai cancelar apresentação com o cliente.
+[85:11] Diego Diehl: Daí eu vou. Daí eu vou provavelmente.
+[85:14] Alejandro Olchik: Então o cenário porque me parece que a apresentação o roteiro de teste tem que ser tem que ver exatamente o roteiro de teste que tu vai apresentar para o cliente, ele tem que estar funcionando. Se tu quiser fazer uma demo, né na frente do cliente, né?
+[85:32] Diego Diehl: É isso que eu tô pedindo tô
+[85:34] Alejandro Olchik: E é a primeira vez que a gente vai
+[85:34] Diego Diehl: pedindo.
+[85:35] Alejandro Olchik: entrar no ar.
+[85:37] Diego Diehl: eu tô pedindo isso que amanhã de manhã assim eu tô Amanhã de manhã eu tenho uma outra reunião com o cliente lá de eu tenho as nove só eu tenho das Eu tenho um Brainstorm de marketing lá, mas das 11 e as duas da tarde eu posso testar mas eu queria que a gente Que alguém se responsabilizasse também acho que Fernando você pode olhar isso, então quando o Vitor subir vocês dois testam vocês dois que estão com a cabeça dentro daí me consegue entregar o roteiro para mim.
+[86:09] Diego Diehl: Tipo 11:30 meio-dia que daí eu valido esse roteiro.
+[86:11] Fernando Florêncio: Roteiro meio que já tem né? Acho que eu brinquei que mandei para vocês estão lá foram os testes de voz feito pelo Vitor a gente pode só reproduzir o que ele já fez no ambiente dele. Testar no ambiente em produção respondendo se ele tá tendo a mesma eficácia nas respostas que ele fez ali no Evaldo.
+[86:36] Fernando Florêncio: Tendo tendo esse roteiro que você pode usar esse teste aqui que a gente fez como Como essas perguntas aqui que eles fez aqui, como já como um roteiro para apresentação?
+[86:49] Diego Diehl: O Fernando você falou Eu caí quando você falou o roteiro meio que já tem o desafio é justamente tirar esse e-mail. a gente
+[86:58] Fernando Florêncio: Não já tem o roteiro já tem isso a gente precisa testar. Que vai ser no casamento que são as
+[87:04] Diego Diehl: achou
+[87:05] Fernando Florêncio: mesmas perguntas que estão dentro dentro daquele documento que o que eu fico compartilhado aqui com a gente que os marcadores azuis verdes. Pode fazer aquelas perguntas?
+[87:18] Diego Diehl: Perfeito então, daí você testa amanhã de manhã, me dá um ok que daí eu tenho aquelas perguntas para fazer. E eu só preciso saber exatamente onde é que estão que eu não tenho esse link.
+[87:31] Fernando Florêncio: Eu acabei de mandar no chat, eu não sei se você vai conseguir ver as
+[87:33] Diego Diehl: eu caí
+[87:34] Fernando Florêncio: que ter usuário. está tentar visualizar não sei se sem usuário dá para ver mas
+[87:48] Diego Diehl: Eu acho que eu tenho que usar mas a gente se fala pelo WhatsApp para não tomar tempo todo mundo aqui. Valeu pessoal
+[87:58] HENRIQUE DE CARLI PAGNAN: valeu
+[87:59] Diego Diehl: até
+[87:59] Fernando Florêncio: Beleza pessoal.
+[88:01] Diego Diehl: Amanhã para alguns terça-feira a gente se vê.
+[88:04] Eduardo Stringhini: feito pessoal

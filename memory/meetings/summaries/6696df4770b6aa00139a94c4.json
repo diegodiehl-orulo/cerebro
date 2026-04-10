@@ -1,0 +1,5077 @@
+{
+  "meeting_id": "6696df4770b6aa00139a94c4",
+  "generated_at": "2026-04-09T15:02:23.879010",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Alejandro Olchik",
+      "Eduardo Stringhini",
+      "Felipe Goettems",
+      "Guilherme Rocha",
+      "Junior Silva"
+    ],
+    "duration_min": 101
+  },
+  "blocks": [
+    {
+      "start_sec": 112,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "guilherme não sei chegar nisso, mas",
+      "content_preview": "Guilherme não sei chegar nisso, mas",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 113,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "comentar?",
+      "content_preview": "comentar?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 114,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "só uma pergunta essa busca, ela é uma busca textual no whatsapp.",
+      "content_preview": "só uma pergunta essa busca, ela é uma busca textual no WhatsApp.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 121,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "isso",
+      "content_preview": "isso",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 122,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 123,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "texto áudio né felipe, só que ele começa o áudio em texto.",
+      "content_preview": "Texto áudio né Felipe, só que ele começa o áudio em texto.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 127,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "tem eu até comentei com alejandro que pode ter ali na tela também alguma forma d",
+      "content_preview": "Tem Eu até comentei com Alejandro que pode ter ali na tela também alguma forma de consultar, mas o nosso foco é levar para o Zé, né? Para ele fazer pelo WhatsApp por mais que tenha uma interface de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 139,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 139,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "mas o que a gente falou, né? o que eu tinha entendido que era justamente o contr",
+      "content_preview": "Mas o que a gente falou, né? O que eu tinha entendido que era justamente o contrário, né de por isso até o que ia ter uma interface web com filtros com mapa. Como primeira forma de consulta e depois e | O a interface mesmo com o corredor.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 167,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "não a gente não pretende expor mapa nem nada no modelo portal, não é mais um mod",
+      "content_preview": "Não a gente não pretende expor mapa nem nada no modelo Portal, não é mais um modelo pronto mesmo. Ele vai ter que consultar de alguma forma e a gente acredita que a maior parte das interações será fei | Aí ele vai gerar um resultado que aí provavelmente ele vai continuar na interface web.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 203,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o que seria legal no futuro, né, alejandro é o cara permitir ele lá dentro do ou",
+      "content_preview": "O que seria legal no futuro, né, Alejandro é o cara permitir ele lá dentro do Ouro jogar esses produtos numa sessão Z2 dele aqui, né? Então essa interface web dele. Navegar e encontrar produtos para m | Nossa aqui que se chama de Favorito de carrinho e precisa pensar depois mas aí poderia ser um out",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 231,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "na verdade o que você tá falando é mais o fluxo anterior que a gente tinha desen",
+      "content_preview": "Na verdade o que você tá falando é mais o fluxo anterior que a gente tinha desenhado e depois abandonamos. abandonamos.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 237,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não eu sei assim. ó, esse caminho que a gente tá desenhando ok mas no futuro com",
+      "content_preview": "Não eu sei assim. Ó, esse caminho que a gente tá desenhando Ok mas no futuro com a integração com óleo tudo certinho, ele poderia ter uma experiência lá dentro lá, ele tá vendo aquele produto e ele ad",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 260,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não, mas é que olha só toda todo o emblema, eu acho que é esse fluxo, eu acho qu",
+      "content_preview": "Não, mas é que olha só toda todo o emblema, eu acho que é esse fluxo, eu acho que o detalhe dele tá é o que tá gerando a dificuldade do entendimento. E saber exatamente como vai funcionar a parte web  | Tá assim do ponto de vista de modelo, né? E agora aparentemente não estaria embedado. Então talve",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 320,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ah entendi, o gui o que eu entendi aqui é o que ele quer, por exemplo, o correto",
+      "content_preview": "Ah entendi, o Gui o que eu entendi aqui é o que ele quer, por exemplo, o corretor logou lá criou a conta dele, né? Hoje ele cai lá naquela conta hoje do Z2 normal, né? Eu acho que se vale mostrar aqui | Acho que dá até para mostrar um pouco do visual aqui do que que a gente pensou. E aí a gente pode",
+      "turn_count": 5
+    },
+    {
+      "start_sec": 443,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tranquilo, não precisa simular não precisa nem simular júnior, tá claro a minha",
+      "content_preview": "Tranquilo, não precisa simular não precisa nem simular Júnior, tá claro a minha dúvida quando voltar vamos supor que ele faz a consulta aqui quando volta esses Imóveis eles voltam. Pessoalmente né aqu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 457,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então aqui tem que voltar um link para ele fazer a curadoria, né? porque imagina",
+      "content_preview": "Então aqui tem que voltar um link para ele fazer a curadoria, né? Porque imagina aqui ó, se eu der uma roupa Zé aqui texto, olha o tanto de imóveis que ele vai listar. Então o que a gente sugerir é co | Ele vai cair numa página dele igual como se eu tivesse aqui no ouro mais hotsite, né que tem aqui",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 526,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "que vão ser os produtos nossos e vitaminas que ele cadastrou no crm de vocês.",
+      "content_preview": "Que vão ser os produtos nossos e vitaminas que ele cadastrou no CRM de vocês.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 530,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e aí podem ser os produtos também de origem, não no nosso crm, mas amanhã ele po",
+      "content_preview": "E aí podem ser os produtos também de origem, não no nosso CRM, mas amanhã ele pode ter o Keno lá cadastrando imóveis de locação de móveis prontos aí pode vir de lá, mas essa primeira versão a gente tá | O que vai acontecer então então o cara vai ter aqui o robô dele lá o Z2 dele vai ter todos os pas",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 590,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "isso era o que eu tinha imaginado, inicialmente quando a gente fez aquela primei",
+      "content_preview": "Isso era o que eu tinha imaginado, inicialmente quando a gente fez aquela primeira avaliação, entendeu? Aquela primeira o mapeamento porque aqui nesse contexto até poderia ter aqui salvar uma pasta fa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 609,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "produtos",
+      "content_preview": "produtos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 610,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "produtos de interesses até salvar esse texto aqui produto de interesse se tivess",
+      "content_preview": "produtos de interesses até Salvar esse texto aqui produto de interesse Se tivesse um produto de interesses, né com os nossos Imóveis aqui, tô até poderia salvar em pasta favoritos na água até poderia ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 631,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque seria um favorito para",
+      "content_preview": "É porque seria um favorito para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 631,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "mas",
+      "content_preview": "Mas",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 632,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "cliente, tá dele em tese né?",
+      "content_preview": "cliente, tá dele em tese né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 636,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "mal a dúvida esses imóveis onde é",
+      "content_preview": "mal a dúvida esses Imóveis onde é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 636,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "só tem outro.",
+      "content_preview": "Só tem outro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 640,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "que eles estariam, né? o que a gente acabou chegando ali no impasse, né? de onde",
+      "content_preview": "que eles estariam, né? O que a gente acabou chegando ali no impasse, né? De onde viria esses Imóveis.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 647,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "exato exato, é tipo a qual a carteira que vai estar sendo composta aqui, né? é f",
+      "content_preview": "Exato exato, É tipo a qual a carteira que vai estar sendo composta aqui, né? É foi nesse impasse porque foi aí que a gente começou a conversar da última vez uma interface de pesquisa filtragem, né em  | Foi aí que aí se entrei num nó aqui com o restante.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 670,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "informação que colocar ali do perfil do cliente vai voltar uma listagem gigantes",
+      "content_preview": "informação que colocar ali do perfil do cliente vai voltar uma listagem gigantesca de imóveis. Botar a zona leste, por exemplo ali três dormitórios vai voltar muito imóvel.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 681,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não a gente não vai voltar tudo a gente vai fazer um pré-filtro sempre tá edu, m",
+      "content_preview": "Não a gente não vai voltar tudo a gente vai fazer um pré-filtro sempre tá Edu, mas ainda a gente não definiu se vai limitar em 1520 se vai trazer uma relevância por mais acessado que a gente não tem e | Aí ele vai filtrando aqui, ó. Esse filtro que ele faz na mão aqui e hoje não consegue gerar nenhu",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 771,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "júnior eu acho que seria legal a gente passar aqui esse fluxo cara que",
+      "content_preview": "Júnior eu acho que seria legal a gente passar aqui esse fluxo cara que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 777,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "acho que o alejandro entendeu agora mais ou menos do que seria, né? como ele est",
+      "content_preview": "acho que o Alejandro Entendeu agora mais ou menos do que seria, né? Como ele estaria ali, aí vamos passar o fluxo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 784,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é a gente tem que entender, como é que vai evoluir essa interface depois né? por",
+      "content_preview": "É a gente tem que entender, como é que vai evoluir essa interface depois né? Porque vai vir naturalmente demandas lá do corretor, a gente tem que entender. Qual é o caminho técnico para resolver essas",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 801,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "eu comentei.",
+      "content_preview": "Eu comentei.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 802,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "vamos arrumar um caso específico, né? ele quer refinar essa seleção feita. como",
+      "content_preview": "Vamos arrumar um caso específico, né? Ele quer refinar essa seleção feita. Como é que ele vai refinar e adicionar ou remover Imóveis? É eu tô pegando um caso de uso bem tranquilo, próximo que vai ter ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 821,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "eu acho que o exemplo até que o júnior deu ele já é mais avançado assim porque o",
+      "content_preview": "Eu acho que o exemplo até que o Júnior deu ele já é mais avançado assim porque o Júnior já comentou dos produtos já que tem Fit com ele de interesse de acordo com o perfil dele meio que uma busca auto | Só que o que pegou aqui no nosso papo foi assim de onde virão esses Imóveis aqui a gente está con",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 875,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é a mesma que tá com a própria. origem.",
+      "content_preview": "É a mesma que tá com a própria. origem.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 878,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "mas é outra essa que é a questão é outra, né?",
+      "content_preview": "Mas é outra essa que é a questão é outra, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 882,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "crm isso aí a gente já tinha",
+      "content_preview": "CRM isso aí a gente já tinha",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 882,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "o alejandro.",
+      "content_preview": "O Alejandro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 885,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "falado, né? é a mesma assim ó de onde vem vem do ouro da pi que ele usa com 56 c",
+      "content_preview": "falado, né? É a mesma assim ó de onde vem vem do Ouro da pi que ele usa com 56 CRM que ele mandou.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 893,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "fluxo agora é igual do crm.",
+      "content_preview": "Fluxo agora é igual do CRM.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 897,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não beleza então, mostra o fluxo aí que é igualzinho, cara, aí aqui é a gente va",
+      "content_preview": "Não beleza então, mostra o fluxo aí que é igualzinho, cara, aí aqui é a gente vai ter uma interface web que se a dúvida a gente desenha um mockup dela aqui com Gabriel. Mostra como é que a gente a foc | Exatamente. Essa interface que é igualzinha aqui",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 918,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "eu acho que vai nos tirar vários",
+      "content_preview": "Eu acho que vai nos tirar vários",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 918,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "igualzinho é um",
+      "content_preview": "igualzinho é um",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 922,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "dúvidas, tá? porque eu acho que a gente está no fluxo alto nível e tem detalhes",
+      "content_preview": "dúvidas, tá? Porque eu acho que a gente está no fluxo alto nível e tem detalhes ali que é um bretor que nos ajuda a tomar essas decisões de uma forma mais objetiva. Distante vai ficar viajando muito a",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 942,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "alguém mostra o teu fluxo. e aí a gente caminha para o mockup desse fluxo que aí",
+      "content_preview": "Alguém mostra o teu fluxo. E aí a gente caminha para o mockup desse fluxo que aí vai ficar mais fácil.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 946,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "eu concordo vai ajudar porque a gente mesmo tá desenhando isso, né? a gente tem",
+      "content_preview": "Eu concordo vai ajudar porque a gente mesmo tá desenhando isso, né? A gente tem uma ideia, mas não está nada decidido.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 953,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim, eu percebi não não eu percebi não. ficou claro isso aí também não queria co",
+      "content_preview": "Sim, eu percebi não não eu percebi não. Ficou claro isso aí também não queria como a gente ia começar a fazer a parte dos favoritos. A gente foi só e aí viu que tem coisa ainda ser resolvida assim não",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 967,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "isso",
+      "content_preview": "isso",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 967,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eu não sei se o edu queria falar alguma coisa, eu só eu eu confesso que eu ainda",
+      "content_preview": "Eu não sei se o Edu queria falar alguma coisa, eu só eu eu confesso que eu ainda não entendi o motivo pelo qual a gente abandonou o projeto da pasta. Né? Eu vi que Vocês decidiram Alejandro Guilherme ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 991,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "possibilidade por conta da usabilidade a gente teria que embebedar hora no dentr",
+      "content_preview": "possibilidade por conta da usabilidade a gente teria que embebedar hora no dentro do Z2. E aí não sei como seria sabe para o usuário essa funcionaria, né? Essa questão, né? Então de usabilidade.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1004,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "já foi por causa disso. o impede de órgão dentro do da plataforma de vocês, foi?",
+      "content_preview": "Já foi por causa disso. O impede de órgão dentro do da plataforma de vocês, foi?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1009,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "isso que hora ele estaria no z2, daqui a pouco ele estaria no oro lá, ele tinha",
+      "content_preview": "Isso que hora ele estaria no Z2, daqui a pouco ele estaria no oro lá, ele tinha que autenticar no Oreo também o que a gente pensou que pudesse ficar confuso, né isso? Alejandro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1018,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é mostra o teu desenho que eu acho que fica claro também, né?",
+      "content_preview": "É mostra o teu desenho que eu acho que fica claro também, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1020,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "na verdade o seguinte, ó sobre a nossa interface o corretor ele pode fazer busca",
+      "content_preview": "Na verdade o seguinte, ó sobre a nossa interface o corretor ele pode fazer busca em qualquer imóvel da nossa carteira em qualquer imóvel da nossa Carteira o acesso a carteira gratuita é diferente do q | Ele vai. E ele pode fazer filtros com relação a tudo que não são os imóveis quem está disponibili",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1056,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "deixa eu só falar um pouquinho que confundiu um pouco a tua frase, quer dizer o",
+      "content_preview": "Deixa eu só falar um pouquinho que confundiu um pouco a tua frase, quer dizer o seguinte ó no órgão.com.br existem 100% dos produtos independente do status dele. No sistemas na api que vai para o CRM  | No sistemas. Depende de uma configuração de geografia de uma configuração de status daquele empre",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1113,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "existe uma outra variação do que a gente poderia fazer tá? que é que é o seguint",
+      "content_preview": "Existe uma outra variação do que a gente poderia fazer tá? Que é que é o seguinte? no lugar de rodar sobre a sincronização da carteira gratuita Né, vocês gerariam uma consulta em cima da nossa base di | Não usando a Z2 esse detalhe. Porque vocês querem que ele o problema tá em criar uma carteira com",
+      "turn_count": 5
+    },
+    {
+      "start_sec": 1243,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "essa essa opção que você colocou. agora complica. só se a gente falar do inventá",
+      "content_preview": "Essa essa opção que você colocou. Agora complica. Só se a gente falar do inventário próprio, né do corretor, né a gente levar para a hora. Ele não vai ter né o inventário completo dele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1253,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é outro problema. aí, a gente tem um problema de inventar mas aí para o inventár",
+      "content_preview": "É outro problema. Aí, a gente tem um problema de inventar mas aí para o inventário o próprio teria contratar entendeu? Na verdade, né? Tem que para ter o inventário o próprio aí o ctai de contratação ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1267,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o gui vamos vamos focar não na api que tem para imobiliárias que eles integram a",
+      "content_preview": "O Gui vamos vamos focar não na api que tem para imobiliárias que eles integram aos produtos gratuitos. Vamos focar exatamente nesse igual faz com vivalista e com outros RMS, a gente vai ser mais um na | Ah, cara, o cara tem que pagar r$ 25 por produto. Ele tem que entrar na central do órgão e pegar ",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 1364,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "esse é o fluxo que tá aqui, viu? o que você tá falando?",
+      "content_preview": "Esse é o fluxo que tá aqui, viu? O que você tá falando?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1366,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então e aí, depois a gente escuta cara, poxa, mas ó não vem todos os produtos. q",
+      "content_preview": "Então e aí, depois a gente escuta cara, poxa, mas ó não vem todos os produtos. Que que dá para fazer para vir todos aí a discussão estratégica que eu acho que a gente vai ter que é aonde vai aumentar ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1387,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "vamos lá, eu também fiquei animado assim com a última conversa, eu acho que esse",
+      "content_preview": "vamos lá, eu também fiquei animado assim com a última conversa, eu acho que esse último modelo que a gente desenhou aqui para mim funciona mesmo, que limitado a carteira não tá completa, mas o resulta",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1397,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é bom que a gente faz o cara pagar o",
+      "content_preview": "É bom que a gente faz o cara pagar o",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1398,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "gente espera.",
+      "content_preview": "gente espera.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1399,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ouro aí o que a gente pode fazer o bicho por tudo z2. você tem uma condição lá o",
+      "content_preview": "ouro aí o que a gente pode fazer o bicho por tudo Z2. Você tem uma condição lá o plano Chuck Norris lá do órgão que você contrata tudo e vem todos os produtos. Aí a gente Agora pensa um produto novo,  | O cara segue mas eu acho que é uma ideia que funciona bem tá Alejandro não complica para vocês. A",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 1457,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "vamos passar aqui então. pode ser acho que o eduardo quer",
+      "content_preview": "Vamos passar aqui então. Pode ser acho que o Eduardo quer",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1460,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "acho que a gente tem que ver a gente",
+      "content_preview": "Acho que a gente tem que ver a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1461,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "falar alguma coisa.",
+      "content_preview": "falar alguma coisa.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1461,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tem que ver homocape, eu acho que importante a gente ter um ok como vai funciona",
+      "content_preview": "tem que ver homocape, eu acho que importante a gente ter um ok como vai funcionar é o grau de interface, o corretor vai ter em cima da busca desses Imóveis.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1473,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "mas",
+      "content_preview": "mas",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1474,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a gente vai desenhar mas é igualzinho aqui, ó, ó, se fosse para te dizer se você",
+      "content_preview": "A gente vai desenhar mas é igualzinho aqui, ó, ó, se fosse para te dizer se você quiser chamar isso aqui você pode chamar de mocaico o site da própria menu, eu tenho todos os produtos do Ouro a carga  | A um lead é um parceiro então todos os eventos que acontecer depois desse link que eu compartilha",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1520,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "do diego campos não o que que é a busca em cima.",
+      "content_preview": "Do Diego Campos não o que que é a busca em cima.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1527,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "eu não sei se ficou claro para z2 o que o alejandro tá dizendo sobre querer ver",
+      "content_preview": "Eu não sei se ficou Claro para Z2 o que o Alejandro tá dizendo sobre querer ver o mockup. O que eu tô se for para resumir e trazendo mais. Esse ponto assim que eu vejo mais geral é ao invés do correto | Eu não sei quais implicações tem. Para dar isso a princípio que eu tô entendendo que já era uma d",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1567,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não para mim tá assim ó, se tiver conflito aqui em algum momento tem que desinte",
+      "content_preview": "Não para mim tá assim ó, se tiver conflito aqui em algum momento tem que desintegrar esse 56 RMS aqui, ó, porque é a mesma coisa que a gente vai fazer.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1575,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "é que o corretor ele não entra ele não é diferente, né?",
+      "content_preview": "É que o corretor ele não entra ele não é diferente, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1578,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "m lá ele entra lá ele busca os produtos tá no site do cara, ele pode entrar lá é",
+      "content_preview": "M lá ele entra lá ele busca os produtos tá no site do cara, ele pode entrar lá é a mesma coisa de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1586,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "olha, só hoje não não só para",
+      "content_preview": "Olha, só hoje não não só para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1586,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "independente só tô trazendo a clareza.",
+      "content_preview": "Independente só tô trazendo a clareza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1588,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "explicar. acho que o júnior não tem a clareza assim hoje em dia não tem nenhum c",
+      "content_preview": "explicar. Acho que o Júnior não tem a clareza assim hoje em dia não tem nenhum CRM que receba a carteira gratuita para todos os corretores cada corretor. Tem que solicitar sua integração de forma inde",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1627,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o alejandro eu sou um corretor eu fui lá contratei o rivalista. beleza quando eu",
+      "content_preview": "O Alejandro eu sou um corretor eu fui lá contratei o rivalista. Beleza quando eu contratei o viva a lista eu fui lá integrei com os imóveis do Ouro automaticamente ali é além de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1638,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "teve que se identificar tem que pedir uma credencial de integração. teve que diz",
+      "content_preview": "Teve que se identificar tem que pedir uma credencial de integração. Teve que dizer quais são as Praças que tu atua para tu poder receber a carteira.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1645,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "tudo bem, isso a gente vai fazer também não tem problema.",
+      "content_preview": "Tudo bem, isso a gente vai fazer também não tem problema.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1649,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "se tu fizer tu vai fazer isso para cada um que quiser testar a pesquisa em cima",
+      "content_preview": "Se tu fizer tu vai fazer isso para cada um que quiser testar a pesquisa em cima da Z2 porque eu tinha",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1654,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não é infância z2 o corretor ele",
+      "content_preview": "Não é infância Z2 o corretor ele",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1655,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "entendido que isso não ia.",
+      "content_preview": "entendido que isso não ia.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1659,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "vai ter se identificar para vocês igual acontece em todos é eu não vejo problema",
+      "content_preview": "vai ter se identificar para vocês igual acontece em todos é eu não vejo problema nisso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1664,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "não, mas olha só no fluxo que a gente falou aqui, né, alessandro teria até botei",
+      "content_preview": "Não, mas olha só no fluxo que a gente falou aqui, né, Alessandro teria até botei vermelho, que essa essa não sei se vocês estão vendo a tela aí mas essa credencial padrão que é coisa que não existe ho | E aí",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 1681,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não existe eu acho que é isso que não tá se entendendo exatamente.",
+      "content_preview": "Não existe eu acho que é isso que não tá se entendendo exatamente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1685,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "não mas cara para mim vamos fazer assim. vamos fazer assim.",
+      "content_preview": "Não mas cara para mim vamos fazer assim. Vamos fazer assim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1688,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "olá pessoal, qualquer um que chega e pede uma integração com crm ele como alejan",
+      "content_preview": "Olá pessoal, qualquer um que chega e pede uma integração com CRM ele como Alejandro disse ele vai dizer quem ele é. Né da onde? Ele é qual é o nome dele as informações dele e ele vai ser ele vai recor | E esse pacotinho vamos dizer que aqui o pacote é Moema tá poderia ser uma por esse Moema e Pinhei",
+      "turn_count": 5
+    },
+    {
+      "start_sec": 1801,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "para mim a gente vai.",
+      "content_preview": "Para mim a gente vai.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1802,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "e isso essa é uma diferença bem grande tá júnior é uma diferença bem grande.",
+      "content_preview": "E isso essa é uma diferença bem grande tá Júnior é uma diferença bem grande.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1806,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "e essa só para esclarecer é só com base nisso que a gente consegue chegar para i",
+      "content_preview": "E essa só para esclarecer é só com base nisso que a gente consegue chegar para Incorporadora e dizer olha a gente tem tantas imobiliárias na sua região de atuação e elas estão Integradas aqui, entende",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 1819,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "para mim a gente tem que seguir o mesmo fluxo nesse desenho nosso aqui a gente d",
+      "content_preview": "Para mim a gente tem que seguir o mesmo fluxo nesse desenho nosso aqui a gente deveria te dizer de passar quem é quais as regiões do cara quer mesmo fluxo. Eu não mudaria nada aqui. Não daria nada aí  | Eu quero tem 56 Serra, eu quero 57. 57. Vai ter book conseguiu que vocês mandarem. Tem que criar ",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 1880,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "está discutindo um negócio aqui que é muito simples, eu não tô entendendo mais d",
+      "content_preview": "Está discutindo um negócio aqui que é muito simples, eu não tô entendendo mais dificuldade, sabe porque é exatamente a integração que vocês fazem com CRM. A gente conversou na semana passada Alexandre | Não sei se tá todo mundo vendo a minha tela. Todo mundo vendo aí, pera aí, deixa eu parar e compa",
+      "turn_count": 6
+    },
+    {
+      "start_sec": 2021,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que é o site que eu gostei da própria.l?",
+      "content_preview": "Que é o site que eu gostei da própria.l?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2025,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "independente de ser parecido ou não. acho que a gente tá discutindo mais aqui é",
+      "content_preview": "Independente de ser parecido ou não. Acho que a gente tá discutindo mais aqui é a integração e a disponibilidade do inventário, né? Então cara como um CRM eu vou baixar aqui esse inventário e vou mani | Aí é diferente. Aí ele vai ter que se credenciar no órgão responder lá todas as perguntas que voc",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2085,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e a caixinha laranja que eu o gui",
+      "content_preview": "E a caixinha laranja que eu o Gui",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2086,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "reinventando.",
+      "content_preview": "reinventando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2088,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "criou foi pensando em vez de criar usar uma credencial z2 é usar uma parcial fra",
+      "content_preview": "criou foi pensando em vez de criar usar uma credencial Z2 é usar uma parcial frameword que aí até que foi onde o Alejandro citou isso não existe a gente pode avaliar se existe a possibilidade de criar",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2108,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "então essa credencial não poderia ser nossa acho que não fere nada do que você j",
+      "content_preview": "Então essa credencial não poderia ser nossa acho que não fere nada do que você já fazem hoje aí que a gente seria um CRM que tem uma credencial eu vou deixar os corretores usarem minha credencial aqui",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2119,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "o ponto aqui de é o seguinte a",
+      "content_preview": "o ponto aqui de é o seguinte a",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2119,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "que o frio me acaba.",
+      "content_preview": "que o frio me acaba.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2122,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "gente tem muito cuidado com isso porque a primazia. de ter no mesmo ambiente que",
+      "content_preview": "gente tem muito cuidado com isso porque a primazia. de ter No mesmo ambiente quem em quem nos paga e quem não paga é da hora. Tá a gente faz um esforço aqui muito grande de colocar o inventário de uma | hora. E todo funciona muito bem com crms, porque eles não têm essa primazia de ter todos os produ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2168,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ele não vai ter tabela ele não vai",
+      "content_preview": "Ele não vai ter tabela ele não vai",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2169,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "mas ele não vai ter.",
+      "content_preview": "Mas ele não vai ter.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2171,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ter tabela ele não tem comissão, ele é o cara é um site para lide, eu acho que t",
+      "content_preview": "ter tabela ele não tem comissão, ele é o cara é um site para lide, eu acho que todo mundo tem que entender isso se o cara acessar o nosso portal lá do Z2 ele não tem tabela ele não tem nada é um site ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2185,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "não perfeito júnior perfeito, mas não pode estar os produtos dl. a não ser que e",
+      "content_preview": "Não perfeito Júnior perfeito, mas não pode estar os produtos DL. A não ser que ele seja pagante. Como é o padrão de todas?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2195,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ah não, beleza. não bem isso aí estamos ok é o que o gui falou cara, a gente vai",
+      "content_preview": "Ah não, beleza. Não bem isso aí estamos Ok é o que O Gui falou cara, a gente vai usar os mesmos moldes que vocês aplicam hoje se o cara não é DDA, cara o produto dele não vai estar nessa carga. E aí p",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2214,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "para mim ok.",
+      "content_preview": "Para mim ok.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2215,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "linha a gente quer seguir. aí depois ele vai discutir de pontos de sinergia e fa",
+      "content_preview": "linha a gente quer seguir. Aí depois ele vai discutir de pontos de sinergia e falar assim cara, o que que pode fazer um diferenciada aí, eu acho que é uma discussão.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2226,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "ô felipe eu acho que a gente vai gerar muito opção para vocês aí com isso porque",
+      "content_preview": "Ô Felipe eu acho que a gente vai gerar muito opção para vocês aí com isso porque a gente vai dar essa conveniência para ele consultar a gente vai dar uma amostra, ele vai ter um gostinho de que é cons | Vem aqui conversa com a hora. Vai lá libera mais porque é esse credenciamento aqui que vai fazer ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2258,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "pode ver direitinho um número de acesso. enfim, mas é só importante entender gui",
+      "content_preview": "pode ver direitinho um número de acesso. Enfim, mas é só importante entender Guilherme que o seguinte o nosso esforço ele é um esforço bem orgulho assim da gente mapear por exemplo um abraço do tamanh | Antes de consolidar essa audiência audiência não vem de um dia para noite é um algo bem difícil d",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 2317,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "não eu tô de acordo, eu acho que nessa consulta inicial aqui ó, essa credencial",
+      "content_preview": "Não eu tô de acordo, eu acho que nessa consulta Inicial aqui ó, essa credencial ela vai ser limitada é como eu falei só para ele ter um gostinho aqui e essa limitação do modelo frame a gente também nã | A gente pode definir junto isso aqui né aí.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2334,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e ela não tem nada mais do que vocês entregam hoje, não é?",
+      "content_preview": "E ela não tem nada mais do que vocês entregam hoje, não é?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2337,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "e outra coisa outra coisa importante tá a gente identificando aí que que é esse",
+      "content_preview": "E outra coisa outra coisa importante tá a gente identificando aí que que é esse acesso. Extra isso é outra coisa que tem que ficar muito fora do radar. Porque nenhum outro CRM tem isso? Então, a gente | A gente quer trabalhar junto exatamente por questões de energia, mas só tem que ter um cuidado aí",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2369,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas por enquanto não tem acesso a essa quando a gente for falar, né? que esse aq",
+      "content_preview": "Mas por enquanto não tem acesso a essa quando a gente for falar, né? Que esse aqui não é?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2376,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "nessa questão que o gui tá falando agora de por um frame um ali mesmo. isso não",
+      "content_preview": "Nessa questão que o Gui tá falando agora de por um frame um ali mesmo. Isso não existe tá nos outros RM.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2383,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "deixa eu só entender foi lá contratou o rivalista não paga nada, p****.",
+      "content_preview": "Deixa eu só entender foi lá contratou o rivalista não paga nada, p****.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2389,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "ele só recebe ideia.",
+      "content_preview": "Ele só recebe ideia.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2392,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então beleza é aqui é o que a gente quer, ele só vai receber da aqui, filha. é c",
+      "content_preview": "Então beleza é aqui é o que a gente quer, ele só vai receber da aqui, filha. É cara é exatamente o que vocês fazem hoje com todos eu não quero nada diferente. Nessa primeiro momento então se ele só re",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2407,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "não beleza é que a gente estava discutindo um passo, além que era dar algum níve",
+      "content_preview": "Não beleza é que a gente estava discutindo um passo, além que era dar algum nível de DL para esse cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2414,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu acho que é d2 aí tá bem",
+      "content_preview": "Eu acho que é D2 aí tá bem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2415,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "aí é futuro.",
+      "content_preview": "Aí é futuro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2416,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a gente tem que estar bem seguros",
+      "content_preview": "a gente tem que estar bem Seguros",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2416,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "para",
+      "content_preview": "para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2418,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "como vai monetizado vai impactar nada, o edu quer falar aí?",
+      "content_preview": "como vai monetizado vai impactar nada, o Edu quer falar aí?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2421,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não não é isso pessoal o que tá dando a mais é a credencial aberta para os corre",
+      "content_preview": "Não não é isso pessoal o que tá dando a mais é a credencial aberta para os corretores poderem acessar com acesso limitado. Enfim isso ninguém tem essa essa diferença, mas não tô dizendo que não podemo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2436,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "com acesso ilimitado.",
+      "content_preview": "Com acesso ilimitado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2436,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é um crm que vai ter aquela liberar credencial padrão essa credencial padrão. tá",
+      "content_preview": "É um CRM que vai ter aquela liberar credencial padrão essa credencial padrão. Tá onde o corretor consegue fazer a busca com zero atrito é zero atrito eles se cadastra na Z2 e faz a busca dos Empreendi",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2460,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o alejandro se isso for um pênalti ou gui. eu não sei mas a gente pode fazer um",
+      "content_preview": "O Alejandro Se isso for um pênalti ou Gui. Eu não sei mas a gente pode fazer um formulário ali que o cara determina que regiões ele quer também, né? Na hora que ele tá criando a conta do Z2 lá e cria ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2481,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim, é que se fizer isso não vai atender a demo que vocês querem fazer ali, ente",
+      "content_preview": "Sim, é que se fizer isso não vai atender a demo que vocês querem fazer ali, entendeu? Porque vai ficar tretado o teste. Imagina um monte de gente querendo acessar e tem que obter a credencial foi para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2495,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "deixa eu fazer uma pergunta só para deixar mais claro aqui uma dúvida minha você",
+      "content_preview": "Deixa eu fazer uma pergunta só para deixar mais claro aqui uma dúvida minha vocês estão pensando em ter um modelo gratuito para o corretor ou ele vai ter um frio temporário. E depois inspira o tempo e",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2513,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a gente quer ir construindo por tempo primeiro.",
+      "content_preview": "A gente quer ir construindo por tempo primeiro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2515,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "por tempo então não vai ter gratuito, você digamos assim, a gente vai integrar a",
+      "content_preview": "Por tempo então não vai ter gratuito, você digamos assim, a gente vai integrar a base de ideais da aula que é gratuito para vocês o corretor.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2523,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é um trio então é o nome até não é um frime é um troy.",
+      "content_preview": "É um trio então é o nome até não é um frime é um Troy.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2529,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "é porque não tem um modelo frio. né? então é um",
+      "content_preview": "É porque não tem um modelo frio. né? Então é um",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2532,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não sei que a gente identifica que é um excelente oportunidade a gente manter um",
+      "content_preview": "Não sei que a gente identifica que é um excelente oportunidade a gente manter um frio, mas porque a gente não viu o valor e manter um crime com funcionalidades limitadas a gente quer dar um turbo no T | Tchau e Bença.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2547,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "então, ele teria duas fases de excel, por exemplo, ele entraria no trailer. que",
+      "content_preview": "Então, ele teria duas fases de Excel, por exemplo, ele entraria no trailer. que tem além da iase 2 ele vai ter os imóveis que são gratuitos da orla que são pagos pelas incorporadoras que são os Então, | Ele vai ter que ir lá no Orla e",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2579,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "essa ideia aí eu penso até a gente",
+      "content_preview": "Essa ideia aí eu penso até a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2580,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "por imóvel essa ideia.",
+      "content_preview": "por imóvel essa ideia.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2585,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "colocar um link lá para ele clicar e cair lá na página de vocês lá de upcell fal",
+      "content_preview": "colocar um link lá para ele clicar e Cair lá na página de vocês lá de upcell falar com",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2590,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "a gente pode incentivar né? a gente também pode fazer publicidade de melhores su",
+      "content_preview": "A gente pode incentivar né? A gente também pode fazer publicidade de melhores sua carteira algo do tipo para ele cair na hora e fazer outro céu ali.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2597,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "qual é a ideia de precificação de vocês desse do trying para o assinante? o que",
+      "content_preview": "Qual é a ideia de precificação de vocês desse do trying para o assinante? O que que vocês vão pensar? Para ele desfrutar da Z2 mais carteira gratuita Aurora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2608,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "cara, nossa projeção aqui no bp tá cento e tu com ele aberto? acho que é 129. de",
+      "content_preview": "Cara, nossa projeção aqui no BP tá cento e tu com ele aberto? Acho que é 129. Deixa eu só confirmar aqui mês.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2618,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "lembrando que tem outras funcionalidades aqui, né, ele vai ter um crm ali para e",
+      "content_preview": "Lembrando que tem outras funcionalidades aqui, né, ele vai ter um CRM ali para ele, ele vai ter os plugins ali de ar que ele vai poder.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2626,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "é bem mais complexo bem mais",
+      "content_preview": "É bem mais complexo bem mais",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2626,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "utilizar também.",
+      "content_preview": "Utilizar também.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2630,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "completo do que eu falei para poder conectar a carteira dele.",
+      "content_preview": "completo do que eu falei para poder conectar a carteira dele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2631,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "por mês",
+      "content_preview": "por mês",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2636,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "quanto?",
+      "content_preview": "Quanto?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2637,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "130",
+      "content_preview": "130",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2638,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "130 entendi.",
+      "content_preview": "130 Entendi.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2643,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "outro ponto importante",
+      "content_preview": "Outro ponto importante",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2643,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "vocês estão trabalhando com que volume de cadastros assim que questão imaginando",
+      "content_preview": "Vocês estão trabalhando com que volume de cadastros assim que questão imaginando né? Que é o objetivo de vocês contas pagas tá?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2652,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "contos pagas a gente está projetando finalizar o ano. aqui de corretores. finali",
+      "content_preview": "Contos pagas a gente está projetando finalizar o ano. Aqui de corretores. Finalizar o ano aqui com 699 contas pagas. Para nós isso assim, cara. É relativamente pelos eventos que a gente tem em setembr | A ideia a gente tá falando ali de vender para dois por cento dessa base. Em tese nesse volume nes",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2705,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "esse é outro ponto que a gente vai ter que estar atento, né? se bombar, tomara q",
+      "content_preview": "Esse é outro ponto que a gente vai ter que Estar atento, né? Se bombar, tomara que bombe né, mas a gente hoje lida com volume de 100 novas integrações por mês mais ou menos, né? Porque é um processo q | Palma não se a capacidade de atendimento, né? Da liberação e da liberação das cretenciais é um ne",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2765,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "ponto importante. e aí reforça essa credencial padrão aqui, né, leandro? porque",
+      "content_preview": "Ponto importante. E aí reforça essa credencial padrão aqui, né, Leandro? Porque pelo que você tava lá então a gente não conseguiria utilizar de imediato.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2772,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não se fosse gratuito, se fosse gratuito ter que liberar a credencial, eu acho q",
+      "content_preview": "Não se fosse gratuito, se fosse gratuito ter que liberar a credencial, eu acho que vai ter um atrito gigante assim, porque aí não são 600 aí tu vai ter sei lá para até 600 precisa ter sei lá, não cinc",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2789,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu acho que os caras então deve ter respondido os caras da própria menu.",
+      "content_preview": "Eu acho que os caras então deve ter respondido os caras da própria menu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2790,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "liberar esse volume.",
+      "content_preview": "liberar esse volume.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2792,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "falou que não falou com ninguém do ouro já comprou o viva lixo, já vem com os pr",
+      "content_preview": "falou que não falou com ninguém do Ouro já comprou o viva lixo, já vem com os produtos. Eles devem ter viajado aí tem alguma coisa no meio do caminho.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2798,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "viajaram completamente",
+      "content_preview": "viajaram completamente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2801,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então o cara que me falou isso, não é o cara que fez.",
+      "content_preview": "Então o cara que me falou isso, não é o cara que fez.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2804,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não existe isso.",
+      "content_preview": "Não existe isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2805,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não existe.",
+      "content_preview": "Não existe.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2806,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "a não ser que ele copiou a base não tá atualizando.",
+      "content_preview": "A não ser que ele copiou a base não tá atualizando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2809,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "isso é uma dificuldade que a gente tem às vezes, né? se tem alguém que tá copian",
+      "content_preview": "Isso é uma dificuldade que a gente tem às vezes, né? Se tem alguém que tá copiando e liberando assim que a gente perceba tá não tá respeitando os termos que a gente assinou, mas a gente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2826,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu vou ligar para ele para entender. como é que foi que porque ele falou",
+      "content_preview": "Eu vou ligar para ele para entender. Como é que foi que porque ele falou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2829,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "boa",
+      "content_preview": "boa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2830,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "junior foi muito simples. eu comprei o rivalista tal. não sei o quê no outro dia",
+      "content_preview": "Junior foi muito simples. Eu comprei o rivalista tal. Não sei o quê no outro dia tá com a base inteira no meu site.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2836,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "ah não não deveria.",
+      "content_preview": "Ah não não deveria.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2837,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "dá para ser júnior dá para fazer em um dia dependendo do sistema dá para fazer u",
+      "content_preview": "Dá para ser Júnior dá para fazer em um dia dependendo do sistema dá para fazer um dia pegou?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2841,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "ah não a liberação ela é rápida,",
+      "content_preview": "Ah não a liberação ela é rápida,",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2844,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "ela é rápida.",
+      "content_preview": "Ela é rápida.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2844,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "né? sincroniza ela libera, só que a",
+      "content_preview": "né? Sincroniza ela libera, só que a",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2846,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "mas o ponto é o seguinte tem duas ou",
+      "content_preview": "Mas o ponto é o seguinte tem duas ou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2846,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "gente não tá pronto para o volume.",
+      "content_preview": "gente não tá pronto para o volume.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2848,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "três perguntinhas tem um termo que é assinado só só essa lógica de eu te dar oi,",
+      "content_preview": "três perguntinhas tem um termo que é assinado só só essa lógica de eu te dar oi, tu me dá Oi eu te mandar uma coisa mandar outra coisa eu te dar tchau, tu me dá tchau multiplica por 6000 é tchau e Oi ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2865,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não entendi então, eu acho que ele deve ter exagerado aí foi uns dias a mais eu",
+      "content_preview": "Não entendi então, eu acho que ele deve ter exagerado aí foi uns dias a mais eu não sabia que tinha que assinar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2870,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "mas pode mas pode pode pode ser em um dia pode ser um dia tá não é que não possa",
+      "content_preview": "Mas pode mas pode pode pode ser em um dia pode ser um dia tá não é que não possa ser mas mas o cara às vezes né para ler o termo. Tem meia página. Tá mas ainda assim é um termo, né para o cara abrir p",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2884,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "no mínimo um termo assinado digitalmente tem que passar entendeu? senão isso par",
+      "content_preview": "No mínimo um termo assinado digitalmente tem que passar entendeu? Senão isso para todo mundo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2891,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "beleza, aqui é o fluxo. ficou claro aí.",
+      "content_preview": "Beleza, aqui é o fluxo. Ficou claro aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2897,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "é só um detalhe aqui que a gente não passou né? isso aqui seria informações bási",
+      "content_preview": "É só um detalhe aqui que a gente não passou né? Isso aqui seria informações básicas, né? A gente até falou errado na semana passada de cara para ele ir lá consultar o todo ele tem que ele tem que esta | O que a gente ia trazer de inventário aqui seria a parte básica dos Empreendimentos, né? De forma",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 2934,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "ou seja deixou só agora, eu peguei um detalhe aqui esse upcell. o segundo oficia",
+      "content_preview": "Ou seja deixou só agora, eu peguei um detalhe aqui esse upcell. O segundo oficial na verdade, né que ele vai querer contratar a carteira paga da hora. Ele vai contratar uma carteira paga só da informa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2950,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "para ele integrar no site dele que é o que ele faz hoje lá, mas vocês não mandam",
+      "content_preview": "Para ele integrar no site dele que é o que ele faz hoje lá, mas vocês não mandam tabela, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2954,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "então",
+      "content_preview": "então",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2955,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não manda nada.",
+      "content_preview": "Não manda nada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2956,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não ele pode. ele tem para poder baixar. os anexos ele tem que fazer um acesso d",
+      "content_preview": "Não Ele Pode. Ele tem para poder baixar. Os anexos ele tem que fazer um acesso de forma identificada com cadastro estabelecido aí aí ele eventualmente, vocês não podem botar os anexos nem comissão nad",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2975,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é isso.",
+      "content_preview": "É isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2979,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "book imagens não imagens estão",
+      "content_preview": "Book imagens não imagens estão",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2980,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é as imagens voltando.",
+      "content_preview": "É as imagens voltando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2984,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "disponíveis.",
+      "content_preview": "disponíveis.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2985,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não beleza tá os arquivos não precisa",
+      "content_preview": "Não beleza tá os arquivos não precisa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 2992,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "cliente é para o corretor quando ele fizer essencial de contratar a carteira da",
+      "content_preview": "cliente é para o corretor quando ele fizer essencial de contratar a carteira da obra. A ideia a ideia do modelo aqui é ter o arquivo não ter o arquivo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3002,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ele tem que ir no aqui.",
+      "content_preview": "ele tem que ir no aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3005,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "então na verdade ele então na verdade ele.",
+      "content_preview": "Então na verdade ele Então na verdade ele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3006,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "não tem jeito para consultar que eu completar aqui ó nesse quadradinho visualiza",
+      "content_preview": "Não tem jeito para consultar que eu completar aqui ó nesse quadradinho visualiza os dados básicos dos produtos, mas a o cara corretor não o cliente né? Ah, eu quero saber mais informações sobre o preç",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3020,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "bota um cta ali mesmo ali poderia",
+      "content_preview": "Bota um CTA ali mesmo ali poderia",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3020,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "botaria, sabe?",
+      "content_preview": "botaria, sabe?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3022,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "botar um cta para ir para",
+      "content_preview": "botar um CTA para ir para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3023,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "consultar completo dados completos aqui fica lá no z2 lá dentro z2 ele ia para o",
+      "content_preview": "Consultar completo dados completos aqui fica lá no Z2 lá dentro Z2 ele ia para o ouro. Até por isso que a gente falou, pô, se tiver Essa dupla autenticação já ficaria até mais fluido para ele daquele  | Seria um problema violaria aí os termos de vocês Z2 tendo uma credencial padrão que só recebe ide",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3070,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "hoje os nossos termos eles limitam isso né? porque mas enfim alguém está entende",
+      "content_preview": "Hoje os nossos termos eles limitam isso né? Porque mas enfim alguém está entendendo? É que pelo que ficou Claro aqui para todo mundo, né? O que a gente teria que resolver Para viabilizar esse negócio.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3082,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "o meu entendimento é o seguinte, tá gui, a gente não faz isso com nenhum outro s",
+      "content_preview": "O meu entendimento é o seguinte, tá Gui, a gente não faz isso com nenhum outro sistema a gente estaria fazendo com vocês pela proximidade, né que a gente tem e porque não é porque a gente não consegui | A gente tá tentando não travar. Dar esse benefício de outros sistemas não tem de novo por proximi",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3133,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "também que faz parte de um processo comercial quando tem essa solicitação tá ind",
+      "content_preview": "Também que faz parte de um processo comercial quando tem essa solicitação tá Independente de gratuito ou não? Passa por todo um processo assim contigo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3139,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "até porque neste diálogo a gente tenta empurrar o plano pago para o cara e daí é",
+      "content_preview": "Até porque neste diálogo a gente tenta empurrar o plano pago para o cara e daí é mais um atrito.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3146,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "por isso aí",
+      "content_preview": "por isso aí",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3147,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "e o cara pode dizer que sim ou que não então tenho tem uma comunicação aí que em",
+      "content_preview": "E o cara pode dizer que sim ou que não então tenho tem uma comunicação aí que em escala. É o inferno é o inferno e se vocês estão trazendo aí mil caras num dia p***. Não tem não tem braço para atender",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3165,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "é mas mesmo assim é uma preocupação, né? porque se ele experimenta aqui nessa cr",
+      "content_preview": "É mas mesmo assim é uma preocupação, né? Porque se ele Experimenta aqui nessa credencial padrão, tudo bem, talvez ele estaria mais ele aceitaria melhor esse processo comercial já que Ele experimentou,",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3195,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não mas ele assinando rapaz, manda uns 10 chin.",
+      "content_preview": "Não mas ele assinando Rapaz, manda uns 10 Chin.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3201,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "o que acontece é o seguinte ó dos",
+      "content_preview": "O que acontece é o seguinte ó dos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3202,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "mas não seria assim seria.",
+      "content_preview": "Mas não seria assim seria.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3202,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "caras que assinarem os caras que",
+      "content_preview": "caras que assinarem os caras que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3204,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "lá e isso é um problema bom de",
+      "content_preview": "lá e isso é um problema bom de",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3205,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "assinarem com vocês que vai ser um",
+      "content_preview": "assinarem com vocês que vai ser um",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3205,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "resolver.",
+      "content_preview": "resolver.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3206,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "percentual, talvez uns 5% converta com a gente tá entendendo? então é uma cascat",
+      "content_preview": "percentual, talvez uns 5% converta com a gente tá entendendo? Então é uma cascata de 5% para você assim, mas depois 5% aqui. diminu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3219,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas é um problema bom de resolver, imagina mil caras no dia bora, bora rapaz par",
+      "content_preview": "Mas é um problema bom de resolver, imagina mil caras no dia bora, bora rapaz para a gente aqui família inteira.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3228,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "vai ter um processo, né? ele vai solicitar vai aguardar um tempo. funcionando, n",
+      "content_preview": "Vai ter um processo, né? Ele vai solicitar vai aguardar um tempo. funcionando, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3238,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas a gente pensa aqui, pô, igual o ifood no início lá pediu o restaurante, eu t",
+      "content_preview": "Mas a gente pensa aqui, pô, igual o iFood no início lá pediu o restaurante, eu tinha um cara do outro lado ligando pô e era rápido ninguém vê vai ser a mesma coisa aqui no ar cara, bombou, p****, vai ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3257,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "eu peguei um outro ponto com detalhe só para tirar uma dúvida aqui. vamos lá te",
+      "content_preview": "Eu peguei um outro ponto com detalhe só para tirar uma dúvida aqui. Vamos lá te libera essa essa credencial nome de vocês para não ter esse atrito, ele vai lá Experimenta navega 10 dias 5 dias 20 dias | Tô falando ainda na carteira gratuita tá falando gratuita.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3287,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "no segundo momento a gente vai precisar dessa autenticação, porque senão a gente",
+      "content_preview": "No segundo momento a gente vai precisar dessa autenticação, porque senão a gente precisa informar o incorporador, né do segundo momento. No segundo momento.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3293,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não ele vai ter um acesso limitado na vinagre cada corretor, por exemplo a poder",
+      "content_preview": "Não ele vai ter um acesso limitado na vinagre cada corretor, por exemplo a poder acessar 10 vezes a gratuita de forma identificada a partir daí ele tem que ser convertido, ele não consegue mais utiliz",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3313,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o que a gente vai fazer do então, ele vai ter que entrar lá no órus se identific",
+      "content_preview": "O que a gente vai fazer do então, ele vai ter que entrar lá no órus se identificar fazer todo o papel o que a gente vai em algumas coisas aqui, pô, vamos mandar no WhatsApp. Olha esgotou suas credenci",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3328,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "tá tem?",
+      "content_preview": "Tá tem?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3329,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "para automatizar e fazer o cara comprar logo, né? beleza, não sei se tem mais al",
+      "content_preview": "para automatizar e fazer o cara comprar logo, né? Beleza, não sei se tem mais algum",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3335,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "exatamente",
+      "content_preview": "exatamente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3339,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ponto alguém eu queria passar umas coisas aqui que eu acho que é legal a gente.",
+      "content_preview": "ponto alguém eu queria passar umas coisas aqui que eu acho que é legal a gente. Falar aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3347,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "passos aqui se está claro, o que que a gente espera aí para os próximos dias. se",
+      "content_preview": "passos aqui se está claro, o que que a gente espera aí para os próximos dias. Se a gente vai você acha que vai seguir nessa linha ou não, né? Até para a gente também se preparado do nosso lado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3362,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não sei tem dúvidas. acho que vocês quiserem.",
+      "content_preview": "Não sei tem dúvidas. Acho que vocês quiserem.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3367,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eu não tenho mais dúvida. eu acho que claro para todo mundo para mim isso dos po",
+      "content_preview": "Eu não tenho mais dúvida. Eu acho que Claro para todo mundo para mim isso dos pontos que são o seguinte ele a gente está fazendo um desvio aqui que seria de Rota normal por esses dois motivos que eu e",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3400,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e o felipe eu ia te perguntar assim, depois a gente pode discutir essa identific",
+      "content_preview": "E o Felipe eu ia te perguntar assim, depois a gente pode discutir essa identificação, o que que é essa identificação? Às vezes a gente pode antecipar ela, tá? Porque se for de onde o cara é a gente va | Mas api você já tem né?",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3437,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "só para avisar você está você assinaram um contrato que não tem essa possibilida",
+      "content_preview": "Só para avisar você está você assinaram um contrato que não tem essa possibilidade de fazer o que a gente está falando para vocês fazerem tá? Então gravem aí essa reunião porque senão vocês estão desa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3449,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "você fala da identificação, né?",
+      "content_preview": "Você fala da identificação, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3452,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "brincadeiras à parte",
+      "content_preview": "Brincadeiras à parte",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3454,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é não, mas eu acho que essa identificação é importante e a gente vai ter ela aqu",
+      "content_preview": "É não, mas eu acho que essa identificação é importante e a gente vai ter ela aqui de uma forma na identificar Imobiliária. A hora que ele criar conta Z2, tem um pré-cadastro a gente adicionar mais doi",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3471,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "eu acho que esse cadastro mais completo essa segmentação lá da carteira, ela vai",
+      "content_preview": "Eu acho que esse cadastro mais completo essa segmentação lá da carteira, ela vai acontecer no momento que ele se tornar assinante, né? Então acabou ali o trailer dele, beleza? Ele vai ter que informar | Às vezes ele desiste de testar, né? Um tanto de coisa que eu preciso para começar a testar larga ",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3496,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "bom distamo ok então com vocês ok",
+      "content_preview": "Bom distamo ok então com vocês ok",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3496,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "então é o problema.",
+      "content_preview": "Então é o problema.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3502,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "felipe.",
+      "content_preview": "Felipe.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3504,
+      "speakers": [
+        "Guilherme Rocha"
+      ],
+      "topic_hint": "só a última dúvida, né? não são as mesmas apis, né que a gente tá consumindo lá",
+      "content_preview": "Só a última dúvida, né? Não são as mesmas apis, né que a gente tá consumindo lá os dados das incorporadoras, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3510,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "são o seguinte, vocês tem que homologar como crm, então a gente o que acontece.",
+      "content_preview": "São o seguinte, vocês tem que homologar como CRM, então a gente o que acontece. A gente tem um processo que a gente tem que abrir interface tudo para gente a gente vai avalidar quem está conseguindo t | de corretor que Vai estar olhando como é que roda o processo de sincronização de você essa quanto",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3590,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "no caso da precificação ele vai ter a precificação do z2 e ele também tem uma pr",
+      "content_preview": "No caso da precificação ele vai ter a precificação do Z2 e ele também tem uma precificação por exemplo, se ele quiser cadastrar um exclusividade dele pensando no CRM, como montar. E se ele quiser rece",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3606,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "botou o teu áudio.",
+      "content_preview": "Botou o teu áudio.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3607,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "campo se quando muda problema.",
+      "content_preview": "Campo se quando muda problema.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3614,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "me ouvindo agora.",
+      "content_preview": "Me ouvindo agora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3614,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "agora sim",
+      "content_preview": "Agora sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3617,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que",
+      "content_preview": "que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3619,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "na precificação e depois ia falar alguma coisa exclusividades.",
+      "content_preview": "Na precificação e depois ia falar alguma coisa exclusividades.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3624,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "do z2 e aqui por exemplo se ele tem um crm ele quer integrar ele quer pagar uma",
+      "content_preview": "do Z2 e aqui por exemplo se ele tem um CRM ele quer integrar ele quer pagar uma exclusividade, ele quer contratar é um catálogo que não seja o que é da que é o que ele não paga, como que vai funcionar",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3641,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu acho que melhor ele acessar direto lá, viu campus lá na página lá e negociar",
+      "content_preview": "Eu acho que melhor ele acessar direto lá, viu Campus lá na página lá e negociar com vocês.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3645,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "ele vai ter acesso a quais ele vai ter tudo que é dl ou tudo que é dela, quais e",
+      "content_preview": "Ele vai ter acesso a quais ele vai ter tudo que é DL ou tudo que é dela, quais Empreendimentos que ele vai ter acesso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3654,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "perdão, perdão tudo que",
+      "content_preview": "perdão, perdão tudo que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3655,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3656,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tudo",
+      "content_preview": "tudo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3658,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "só dá e aí o que obviamente no teste falou sentiu falta de algum empreendimento",
+      "content_preview": "Só dá e aí o que obviamente no teste falou sentiu falta de algum empreendimento que tá tal tal aí a gente vai fazer algumas chamadas, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3668,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "pena, talvez nesse começo seria deixar nesse teste tudo o que é da e o que é dl",
+      "content_preview": "pena, talvez nesse começo seria deixar nesse teste tudo o que é da e o que é DL para ele, porque aí sim, ele vai sentir falta dos Empreendimentos.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3677,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é o nosso sonho aqui, mas não quis abalar muito aqui não existe isso.",
+      "content_preview": "É o nosso sonho aqui, mas não quis abalar muito aqui não existe isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3680,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "para gente isso só jogando aqui para ver se faria sentido porque nesse teste se",
+      "content_preview": "Para gente isso só jogando aqui para ver se faria sentido porque nesse teste se ele tiver acesso a tudo quando ele for pago ele vai saber que tudo que ele tinha acesso. Era só o que é gratuito. Depois",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3694,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eu concordo com a conta se a gente",
+      "content_preview": "Eu concordo com a conta se a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3694,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "isso",
+      "content_preview": "isso",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3695,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "está indo podemos pensar um pouquinho mais a respeito, mas se a gente está indo",
+      "content_preview": "está indo podemos pensar um pouquinho mais a respeito, mas se a gente está indo para uma limitação de X acessos x dias sei lá o quê? Sei lá o E se a gente está indo para uma lógica de não credenciar o | Mas enfim isso inclusive é importante Alejandro alguma coisa que a gente discutiu sobre praças no",
+      "turn_count": 4
+    },
+    {
+      "start_sec": 3788,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "então, talvez comercialmente",
+      "content_preview": "Então, talvez comercialmente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3789,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "então",
+      "content_preview": "então",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3791,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "depois ele tendo acesso a tudo, depois a gente vai trazer limitações, ele vai en",
+      "content_preview": "depois ele tendo acesso a tudo, depois a gente vai trazer limitações, ele vai entender aqui para ele ter o que ele precisa em alguns casos ele vai ter que pagar porque os de graça estão lá aí entra o  | Então ficaria Acho que daria um cheirinho ali bom.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 3808,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "também dá para dar um te- dá para dar um plus no meio do caminho dele, né? ele p",
+      "content_preview": "Também dá para dar um te- dá para dar um plus no meio do caminho dele, né? Ele pagou daí a gente libera um bônus de tipo pagou ele ganha duas semanas de carteira toda. Precisa dar para todo mundo frio",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3823,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "sim, porque sou recife.",
+      "content_preview": "Sim, porque sou Recife.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3825,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "a minha preocupação é menos do dl mais do dm. tá dm para mim é uma preocupação.",
+      "content_preview": "A minha preocupação é menos do DL mais do DM. Tá DM para mim é uma preocupação. Eu não tenho preocupação.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3833,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "pessoal a gente pessoal, vamos lá a gente vai liberar o que tá marcado com integ",
+      "content_preview": "Pessoal a gente Pessoal, vamos lá a gente vai liberar o que tá marcado com integração gratuita habilitada. Abstrai o nome do nosso plano tá é como a gente faz com todas as integrações. Não vai ser só ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3855,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "fica mais fácil, vocês vão receber de m tá pessoal.",
+      "content_preview": "Fica mais fácil, vocês vão receber de m tá pessoal.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3858,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não beleza beleza, então o gui da p i você tem tudo lá, né? já tudo cara, eu ach",
+      "content_preview": "Não beleza Beleza, então o Gui da p i você tem tudo lá, né? Já tudo cara, eu acho que a gente começar os testes desenhar um mocado para ver se a gente talvez nessa na próxima ou na outra, né? A gente  | A gente tá com algumas dificuldades de evento tipo acontece o evento no Oro o parceiro não nasce ",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 3940,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "a gente precisa ver os casos júnior. assim fica difícil não tem nada que",
+      "content_preview": "A gente precisa ver os casos Júnior. Assim fica difícil não tem nada que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3943,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não então aí eu tô com tudo",
+      "content_preview": "Não então aí eu tô com tudo",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3944,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "eu sei.",
+      "content_preview": "eu sei.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3945,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "evidenciado aqui, né? aí eu não sei eu peguei a url do ouro lá dentro onde fica",
+      "content_preview": "evidenciado aqui, né? Aí eu não sei eu peguei a URL do Ouro lá dentro onde fica aberto lá e tudo de fato, qual era o cara aí, eu não sei se eu te passo no grupo, se quer que eu te passo por e-mail",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3958,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "pode mandar por e-mail que a gente",
+      "content_preview": "Pode mandar por e-mail que a gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3959,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é que",
+      "content_preview": "é que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3960,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "dá uma olhada não tem problema, eu ainda não tem quando a gente botou a parte de",
+      "content_preview": "dá uma olhada não tem problema, eu ainda não tem quando a gente botou a parte de login, eu pedi feedback lá ver se estava entrando até o teve",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3968,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu vou falar.",
+      "content_preview": "Eu vou falar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3969,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "alguém que vale o carlos, né? foi que testou tava dando problema",
+      "content_preview": "Alguém que vale o Carlos, né? Foi que testou tava dando problema",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3971,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "isso não é do portal ainda, tá",
+      "content_preview": "Isso não é do portal ainda, tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3972,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "depois.",
+      "content_preview": "depois.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3973,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "alejandro, estou falando hora normal mesmo, tá?",
+      "content_preview": "Alejandro, estou falando hora normal mesmo, tá?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3976,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "só tem que ver se esse evento não é de um produto do grupo de comparação, né?",
+      "content_preview": "Só tem que ver se esse evento não é de um produto do grupo de comparação, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3982,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "Não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3982,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não mas não anda manda a gente dá uma olhada, tipo, talvez tem algum",
+      "content_preview": "Não mas não anda manda a gente dá uma olhada, tipo, talvez tem algum",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3985,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "se for no produto.",
+      "content_preview": "Se for no produto.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3987,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "bug, mas acho que não tem mas enfim,",
+      "content_preview": "bug, mas acho que não tem mas enfim,",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3988,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "e foi no produto o acesso do produto",
+      "content_preview": "e foi no produto o acesso do produto",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3989,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "podemos dar uma olhada.",
+      "content_preview": "podemos dar uma olhada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3991,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "do incorporador tem que",
+      "content_preview": "do incorporador tem que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3994,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque assim ó na verdade.",
+      "content_preview": "É porque assim ó na verdade.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 3997,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tu não pode não ter evento tem alguma coisa errada.",
+      "content_preview": "Tu não pode não ter evento tem alguma coisa errada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4001,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "tem",
+      "content_preview": "tem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4002,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu percebi que tem um tempo então por exemplo esse cara aqui ó, assessor tem sei",
+      "content_preview": "Eu percebi que tem um tempo então por exemplo esse cara aqui ó, assessor tem seis dias visualizou dados do contato do empreendimento. Groelândia. É da Lindemberg e tal tudo certo o evento. Ele não foi",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4018,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "então",
+      "content_preview": "então",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4020,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e tem atividade eventos também que não veio todos esses eventos que eu faço algu",
+      "content_preview": "E Tem atividade eventos também que não veio todos esses eventos que eu faço algum outros parceiros aqui, eu sou mantive ele aberto aqui, ó.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4033,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não aquele lá é um bom exemplo aquele lá deveria ter ido júnior tem que ver o qu",
+      "content_preview": "Não aquele lá é um bom exemplo aquele lá deveria ter ido Júnior tem que ver o que aconteceu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4038,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o evento dele não foi o último evento dele. foi no dia quatro do cinco, né?",
+      "content_preview": "O evento dele não foi o último evento dele. Foi no dia quatro do cinco, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4047,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "do anderson, acho que foi dia 11 junior cinco dias atrás.",
+      "content_preview": "Do Anderson, acho que foi dia 11 Junior cinco dias atrás.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4051,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "tô falando lá no z2, só registrou",
+      "content_preview": "Tô falando lá no Z2, só registrou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4053,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "isso",
+      "content_preview": "isso",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4056,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "esse evento aqui, ó.",
+      "content_preview": "esse evento aqui, ó.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4057,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "é só registrou primeiro.",
+      "content_preview": "É só registrou primeiro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4060,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "esses outros aqui não foi.",
+      "content_preview": "Esses outros aqui não foi.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4067,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não ele deveria ter ah, mas olha só é tudo no mesmo dia não é tudo não em dias d",
+      "content_preview": "Não ele deveria ter Ah, mas olha só é tudo no mesmo dia não é tudo não em dias diferentes não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4073,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mesmo que esse",
+      "content_preview": "mesmo que esse",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4074,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "os últimos são",
+      "content_preview": "os últimos são",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4074,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "Não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4076,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a gente não recebeu nenhum evento nesse dia, né?",
+      "content_preview": "a gente não recebeu nenhum evento nesse dia, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4081,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "podemos dar uma olhada deveria ter entrado não tem tempo não tem não tem razão p",
+      "content_preview": "Podemos dar uma olhada deveria ter entrado não tem tempo não tem não tem razão para não estar entrando tipo deve ser.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4087,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "criar uns logs do que que a gente está recebendo do que que ele tá processando c",
+      "content_preview": "Criar uns logs do que que a gente está recebendo do que que ele tá processando com para saber se adoro eu vou te mandar lá. Aí assim tem outros pontos que que a gente anotou aqui, né? Cara? Que aí eu ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4102,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4103,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "portal, né? da ibm, ok a carol me mandou a proposta tá carol, a gente vai tentar",
+      "content_preview": "portal, né? Da IBM, Ok A Carol me mandou a proposta tá Carol, a gente vai tentar ver aqui, eu não sei se consegue um desconto ou não lá em cima daquela proposta.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4115,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "já passou ali com desconto tá? você vê que tem o valor cheio o valor com descont",
+      "content_preview": "Já passou ali com desconto tá? Você vê que tem o valor cheio o valor com desconto.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4119,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "aí que vocês manda aí para todo mundo aí tem mandar uma especial aí z2 aí. mas v",
+      "content_preview": "Aí que vocês manda aí para todo mundo aí tem mandar uma especial aí Z2 aí. Mas vamos lá.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4128,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "trabalha comigo ela campos trabalha comigo essa proposta a gente vê porque eu se",
+      "content_preview": "Trabalha comigo ela Campos trabalha comigo essa proposta a gente vê porque eu sei que eles eles mataram três produtos eu acho agora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4137,
+      "speakers": [
+        "Carolina Campos"
+      ],
+      "topic_hint": "beleza",
+      "content_preview": "beleza",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4139,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu acho que eles não estão com esse tanto de produto com estoque lá a gente só p",
+      "content_preview": "Eu acho que eles não estão com esse tanto de produto com estoque lá a gente só precisa atualizar lá, tá? tá?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4144,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "a gente tá no anápolis. mas eles estão indo para o",
+      "content_preview": "A gente tá no Anápolis. Mas eles estão indo para o",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4149,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas você vê. é já migraram, acho já o portal.",
+      "content_preview": "Mas você vê. É já migraram, acho já o portal.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4155,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "então, tu descobre para mim se ele já estão todos os produtos você vê que a gent",
+      "content_preview": "Então, tu descobre para mim se ele já estão todos os produtos você vê que a gente já muda para você ver automaticamente aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4161,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "oita nota isso aí, responde, por favor o felipe.",
+      "content_preview": "Oita nota isso aí, responde, por favor o Felipe.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4165,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "eu já eu perguntei isso para o felipe hoje, inclusive ele me respondendo aqui, e",
+      "content_preview": "Eu já eu perguntei isso para o Felipe hoje, inclusive ele me respondendo aqui, eu já aviso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4171,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "você fala.",
+      "content_preview": "Você fala.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4171,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tá ótimo.",
+      "content_preview": "Tá ótimo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4172,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "felipe da ibm se ele já tinha finalizado as implantações lá estava tudo certo co",
+      "content_preview": "Felipe da IBM se ele já tinha finalizado as implantações lá estava tudo certo com cerveja.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4177,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "aí do portal aleandro eu vou te mandar por e-mail tá cara tem algumas questões m",
+      "content_preview": "Aí do portal Aleandro eu vou te mandar por e-mail tá cara tem algumas questões minhas lá a gente não tá o Carlos testou funcionou. Eu acho que alguma coisa deu pau em evento que parou de vir os evento",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4193,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "estranho é pois é estranho. deve ter alguma outra coisa ali que tá pegando de um",
+      "content_preview": "Estranho é pois é estranho. Deve ter alguma outra coisa ali que tá pegando de uma forma mais geral ali, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4201,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o que eu fiquei na dúvida aqui também, né? pessoal tem reclamado alguns que fez",
+      "content_preview": "O que eu fiquei na dúvida aqui também, né? Pessoal tem reclamado alguns que fez o teste lá até a gente não conseguiu ver se tá tendo acesso ou não era até tentar pegar o saber depois de vocês. Eu não  | É que eu não sei o evento não tá vindo? Mas eu fiquei na dúvida ali, como é que faz. E ele pergun",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 4245,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "já consegue era um banco que tinha corrido. eu tenho que ver se foi atualizado",
+      "content_preview": "Já consegue era um banco que tinha corrido. Eu tenho que ver se foi atualizado",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4249,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "testou",
+      "content_preview": "testou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4251,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "aqui não mas era um bug conhecido",
+      "content_preview": "aqui não mas era um bug conhecido",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4252,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ele",
+      "content_preview": "ele",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4255,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "deixa eu ver. talvez não tenha sido colocado na hora ainda, mas são bem conhecid",
+      "content_preview": "Deixa eu ver. Talvez não tenha sido colocado na hora ainda, mas são bem conhecido tá? A gente já tava tão resolvendo. sei.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4262,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não beleza não, então você está direcionado aqui. o cara o outro ponto é aqui al",
+      "content_preview": "Não beleza não, então você está direcionado aqui. O cara o outro ponto é aqui Alejandro eu te passar na api, deixa eu abrir aqui. Eu te passar na api o coordenador do cara que você exibe o contato que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4293,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não entendi nada.",
+      "content_preview": "Não entendi nada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4293,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "se eu entrar na mascan aqui agora o coordenador desse cara aqui desse parceiro q",
+      "content_preview": "Se eu entrar na mascan aqui agora o coordenador desse cara aqui desse parceiro que eu estou logado que é o Júnior é o Adão eu vou logar aqui para você entender. Eu sou um parceiro cadastrado lá, eu tô | Então eu posso te passar isso aqui na pi e você exibir o contato certo aqui dentro.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 4348,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é que a gente tem uma interface diretamente do nosso lado, né?",
+      "content_preview": "É que a gente tem uma interface diretamente do nosso lado, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4353,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas é que não é ele muda, né no",
+      "content_preview": "Mas é que não é ele muda, né no",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4353,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "gente tem que ver.",
+      "content_preview": "gente tem que ver.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4355,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "caso aqui depende do parceiro, né?",
+      "content_preview": "caso aqui depende do parceiro, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4359,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim sim, a gente tu tem tu tem como atribuir um responsável para cada corretor d",
+      "content_preview": "Sim sim, a gente tu tem tu tem como atribuir um responsável para cada corretor do nosso lado lá da máscara, tu coloca que é um responsável pelo atendimento no nosso dashboard. E aí o contato ele apare",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4374,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu vim aqui um por um e dizer que é um cara aqui.",
+      "content_preview": "Eu vim aqui um por um e dizer que é um cara aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4379,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "entrar no corretor ali que tu muda entendeu? aí tu diz que é o responsável. pelo",
+      "content_preview": "Entrar no corretor ali que tu muda entendeu? Aí tu diz que é o responsável. Pelo atendimento.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4385,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas aí tu tá dizendo que o portal dele tá atualizado, eu vou ter que buscar o ca",
+      "content_preview": "Mas aí tu tá dizendo que o portal dele tá atualizado, eu vou ter que buscar o cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4392,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "e nem todos os coordenadores estão cadastrados no ouro. um bom exemplo é a própr",
+      "content_preview": "E nem todos os coordenadores estão cadastrados no ouro. Um Bom exemplo é a própria Lindenberg aí o Klaus tá cadastrado, mas o time dele não tá né.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4403,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é",
+      "content_preview": "é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4404,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é hoje é assim que é hoje é",
+      "content_preview": "É hoje é assim que é hoje é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4404,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eu acho que a gente precisa de uma solução.",
+      "content_preview": "Eu acho que a gente precisa de uma solução.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4405,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "que a gente funciona, né? só tô explicando para vocês que a gente tem um dashboa",
+      "content_preview": "que a gente funciona, né? Só tô explicando para vocês que a gente tem um dashboard, né? Os coordenadores, eles estão",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4411,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "igual eu fiz aqui é isso eu venho",
+      "content_preview": "Igual eu fiz aqui é isso eu venho",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4412,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "cadastrados.",
+      "content_preview": "cadastrados.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4414,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que é o júnior.",
+      "content_preview": "que é o Júnior.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4415,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "como usuários ali tá vendo? coordenadores como usuários ali, tá vendo? tem usuár",
+      "content_preview": "Como usuários ali tá vendo? coordenadores como usuários ali, tá vendo? Tem usuários ali à direita?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4424,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então, se eu disser que é o júnior silva lá na lindenberg, é isso?",
+      "content_preview": "Então, se eu disser que é o Júnior Silva lá na Lindenberg, é isso?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4429,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "exatamente vai aparecer tu quando tu entrar para o pré esse corretor vai aparece",
+      "content_preview": "Exatamente vai aparecer tu quando tu entrar para o pré esse corretor vai aparecer tu como contato responsável lá no portal na hora no aplicativo nas integrações em todos os lugares.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4442,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "como é que eu digo aqui? eu não tenho mascan aqui nesse time. estou na relação d",
+      "content_preview": "Como é que eu digo aqui? Eu não tenho mascan aqui nesse time. estou na relação da",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4447,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tu não tá como um gestor da mascama. já estou apareceria aqui dá para sentar aqu",
+      "content_preview": "Tu não tá como um gestor da mascama. Já estou apareceria aqui dá para sentar aqui o coordenador direto dá para ficar distribuindo os corretores por aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4457,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "a gente testa aqui juliana. tá como?",
+      "content_preview": "A gente testa aqui Juliana. tá como?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4459,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não funciona não funciona. tá doido.",
+      "content_preview": "Não funciona não funciona. Tá doido.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4463,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "futuramente",
+      "content_preview": "futuramente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4465,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é não dá. então imagina o cara muda aqui aí vai ter que lembrar de ir lá no órgã",
+      "content_preview": "É não dá. Então imagina o cara muda aqui aí vai ter que lembrar de ir lá no órgão mudar lá também. Não vai rolar, né, então. Dá um jeito aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4476,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "z2. tem que atualizar a nossa integração devia atualizar ali no",
+      "content_preview": "Z2. Tem que atualizar a nossa integração devia atualizar ali no",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4480,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "te atualizar isso. isso?",
+      "content_preview": "Te atualizar isso. isso?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4483,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tem que dar uma olhada ali, como é que tá?",
+      "content_preview": "Tem que dar uma olhada ali, como é que tá?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4486,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que aí eu posso vir aqui.",
+      "content_preview": "Que aí eu posso vir aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4487,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "se eu consigo liberar.",
+      "content_preview": "Se eu consigo liberar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4489,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu posso vir aqui na pi atualizar o responsável do júnior?",
+      "content_preview": "Eu posso vir aqui na pi atualizar o responsável do Júnior?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4493,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "não tá dizendo que a gente consegue fazer isso rápido, mas é um caminho é esse,",
+      "content_preview": "Não tá dizendo que a gente consegue fazer isso rápido, mas é um caminho é esse, né? é",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4498,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é eu viria aqui a ideia do edu é bom porque aí ela tu me der um api eu vou na ap",
+      "content_preview": "É eu viria aqui a ideia do Edu é bom porque aí ela tu me der um api eu vou na api e mando o responsável do Júnior aqui agora é o Fulano. Aí eu também vou garantir que no órgão todo mundo esteja cadast",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4517,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "vou dar uma olhada.",
+      "content_preview": "Vou dar uma olhada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4521,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o cara tem que estar aqui para eu setar ele.",
+      "content_preview": "O cara tem que estar aqui para eu setar ele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4525,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim, eles tem que ser na interface da p.i da incorporadora, né na peida incorpor",
+      "content_preview": "Sim, eles tem que ser na interface da p.i da Incorporadora, né na peida Incorporadora, eu tenho que liberar tu poder setar Quem é o responsável por aquele corretor? Tu já tem o ID do corretor porque t",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4549,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "seria o ideal no caso do portal fica difícil, né de passar só na p&g. que quem e",
+      "content_preview": "Seria o ideal no caso do portal fica difícil, né de passar só na p&g. que quem era.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4557,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "por",
+      "content_preview": "por",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4560,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque enquanto não tem isso daí, né? é porque aqui eu poderia te devolver na",
+      "content_preview": "É porque enquanto não tem isso daí, né? É porque aqui eu poderia te devolver na Penha. Que quando o parceiro tá logado? Se você for lá na minha pi e dizer",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4572,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4574,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "assim, ó, quem é o coordenador desse cara? eu consigo te devolver, entendeu? que",
+      "content_preview": "assim, ó, quem é o coordenador desse cara? Eu consigo te devolver, entendeu? Que você já me passou o evento quando você me passa o evento dele louvor.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4586,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "como é que tu senta aqui é um responsável. em que momento? responsável?",
+      "content_preview": "Como é que tu senta aqui é um responsável. Em que momento? responsável?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4590,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "já faz a roleta ou ele cadastrado",
+      "content_preview": "já faz a roleta ou ele cadastrado",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4591,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "agora tem uma gestão de carteira.",
+      "content_preview": "Agora tem uma gestão de carteira.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4594,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas ele é sempre é obrigatório. ele tá vinculado. alguém não tem nenhum.",
+      "content_preview": "mas ele é sempre é obrigatório. Ele tá vinculado. Alguém não tem nenhum.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4598,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "mas em que momento em que momento tu vamos supor eu tô te mandando agora.",
+      "content_preview": "Mas Em que momento em que momento tu vamos supor eu tô te mandando agora.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4604,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "na mesma hora eu já faço a roleta eu direciono ele para alguém.",
+      "content_preview": "Na mesma hora eu já faço a roleta eu direciono ele para alguém.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4610,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "então, ele se programou pensar que um cara entra pelo portal, né? ele entrou pel",
+      "content_preview": "Então, ele se programou pensar que um cara entra pelo Portal, né? Ele entrou pelo Portal, eu mandei ele para vocês.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4617,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu já defini quem é o coordenador já?",
+      "content_preview": "Eu já defini quem é o coordenador já?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4619,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "já definiu e tu poderia acertar o coordenador para a gente na hora?",
+      "content_preview": "Já definiu e tu poderia acertar o coordenador para a gente na hora?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4623,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu poderia acertar na hora na hora",
+      "content_preview": "Eu poderia acertar na hora na hora",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4624,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "aí quando ele for entrar no",
+      "content_preview": "Aí quando ele for entrar no",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4625,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4626,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "empreendimento, ele já vai ver o coordenador citado.",
+      "content_preview": "empreendimento, ele já vai ver o coordenador citado.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4629,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não na hora isso aí eu já tenho eu só que eu não sei se você tem api onde eu man",
+      "content_preview": "Não na hora isso aí eu já tenho eu só que eu não sei se você tem api onde eu mandaria isso, entendeu?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4635,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim, mas é isso que a gente tem que resolver. não é a gente tá falando a mesma c",
+      "content_preview": "Sim, mas é isso que a gente tem que resolver. Não é a gente tá falando a mesma coisa, não é não só tô. Não sou.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4641,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o cara hoje ele entra lá, ele se cadastra aqui já no z2 já faz tudo escaneia chi",
+      "content_preview": "O cara hoje ele entra lá, ele se cadastra aqui já no Z2 já faz tudo escaneia chip, né? Aí eu vou ter que vir aqui cadastrar ele aqui também. Na mão, né? Aí eu venho cadastro ele né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4658,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "vou poder cadastrar.",
+      "content_preview": "Vou poder cadastrar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4660,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "eu posso liberar para tu adicionar um usuário aqui também.",
+      "content_preview": "Eu posso liberar para tu adicionar um usuário aqui também.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4665,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "mas seria lindo ver a pena porque eu não tenho que acertar ele aqui, né. aqui, n",
+      "content_preview": "Mas seria lindo ver a pena porque eu não tenho que acertar ele aqui, né. aqui, né? Que o problema hoje cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4670,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "pega",
+      "content_preview": "pega",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4672,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "acho que da maioria das empresas aqui ó, ele foi olinda em berg soltar o klaus,",
+      "content_preview": "Acho que da maioria das empresas aqui ó, ele foi Olinda em Berg soltar o Klaus, vamos ver aqui. Não tem nenhum aqui na verdade. verdade. metaforma",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4686,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "é a maioria aí, tá? só o gestor cadastrado. acho que nenhuma vai ter todos os co",
+      "content_preview": "É a maioria aí, tá? Só o gestor cadastrado. Acho que nenhuma vai ter todos os coordenadores aí.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4695,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "já seria bom que daí a gente já cadastra o gerente aqui, ele já passa a receber.",
+      "content_preview": "Já seria bom que daí a gente já cadastra o gerente aqui, ele já passa a receber. audiência dos produtos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4701,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "assim que elas estão a fim que elas estão cadastra.",
+      "content_preview": "Assim que elas estão a fim que elas estão cadastra.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4708,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que eu faço aqui agora do corretor deu setar quando ele logar lá na página do ór",
+      "content_preview": "que eu faço aqui agora do corretor deu setar quando ele logar lá na página do órgão aqui. Uma página qualquer aparece o contato dele.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4718,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim",
+      "content_preview": "sim",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4721,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não sabia disso não.",
+      "content_preview": "Não sabia disso não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4722,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "aparece contato aí, eles atribui em contato por aí, entendeu? aí ficam trocando",
+      "content_preview": "Aparece contato aí, eles atribui em contato por aí, entendeu? Aí ficam trocando responsáveis tudo pelo painel.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4730,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eita deixa até mudar lá saber disso não. eu vou mudar lá que eu botei meu nome a",
+      "content_preview": "Eita deixa até mudar lá saber disso não. Eu vou mudar lá que eu botei meu nome aqui vai aparecer meu contato, né, então.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4738,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim, vai para esse corretor.",
+      "content_preview": "Sim, vai para esse corretor.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4751,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "esse",
+      "content_preview": "esse",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4761,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "até que sou eu mesmo então até pode aparecer para eu ver depois como é que tá. s",
+      "content_preview": "Até que sou eu mesmo então até pode aparecer para eu ver depois como é que tá. Se eu for lá isso tem delay não já tá rodando.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4769,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "pode ter cash agora pode ter cash de autorização.",
+      "content_preview": "Pode ter Cash agora pode ter cash de autorização.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4774,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu não sabia não.",
+      "content_preview": "Eu não sabia não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4774,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "eu vou eu vou ter que ver essa parte",
+      "content_preview": "eu vou eu vou ter que ver essa parte",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4777,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "bom",
+      "content_preview": "bom",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4780,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "da cash para na hora que lugar entrar direto já vem, entendeu? essa",
+      "content_preview": "da Cash para na hora que lugar entrar direto já vem, entendeu? Essa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4786,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a política do portal outra coisa que a másca me perguntou, né? tá com o nome do",
+      "content_preview": "A política do portal outra coisa que a másca me perguntou, né? Tá com o nome do órgão não tem o nome dele os dados dele, ele será que ele deveria dar aceite, porque lá nos outros portais eles personal | Será que não deveria adicionar os dados da mascami na política?",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 4808,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "talvez tivesse que ter uma política da própria mascan também, só tem que ver com",
+      "content_preview": "Talvez tivesse que ter uma política da própria mascan também, só tem que ver como é que a gente vai organizar isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4817,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque a galera tem pedido para personalizar essa política eu falei cara. pers",
+      "content_preview": "É porque a galera tem pedido para personalizar essa política eu falei cara. Personalizar eu falei assim tá padrão. Aí ele falou mas tá os dados do órgão. Bloqueada aqui cara das referências aqui eu pe | integrado Aí eu até pedi para o Charles lá fechar disse que não fala de monitorar e nos avisar.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 4863,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "nada não tá recebendo nada nada nada nada nada.",
+      "content_preview": "Nada não tá recebendo nada nada nada nada nada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4866,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "assim eu consegui ver na mão aqui eu não viu na mão, eu não achei nenhum evento",
+      "content_preview": "Assim eu consegui ver na mão aqui eu não viu na mão, eu não achei nenhum evento recente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4872,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "se não está recebendo nada",
+      "content_preview": "Se não está recebendo nada",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4872,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e",
+      "content_preview": "e",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4874,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tranquilo, mas para mim é melhor se tu me mostrar já tem um exemplo capturado e",
+      "content_preview": "tranquilo, mas para mim é melhor se tu me mostrar já tem um exemplo capturado e manda um exemplo que para mim é facilita a ver dentro dela, tipo eu vou olhar mas manda um exemplo por exemplo. deixa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4896,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "vou mandar um exemplo, eu vou mandar logo aqui no grupo. e vou te mandar o link",
+      "content_preview": "Vou mandar um exemplo, eu vou mandar logo aqui no grupo. E vou te mandar o link que eu peguei dele. Eu acho que pelo link também fica mais fácil.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4921,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "termos de usos? só para a gente tem isso daqui, né? então temos de uso e concord",
+      "content_preview": "termos de usos? só para A gente tem isso daqui, né? Então temos de uso e concordo com os termos juros e confirma que ele é o nosso né? Você também está concordando com os termos de uso da mascam é iss",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4955,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque quando você clica ali em continuar com o google, você faz o cadastro tu",
+      "content_preview": "É porque quando você clica ali em continuar com o Google, você faz o cadastro tudo você exibir um termo de uso lá que acho que é o mesmo que tá ali embaixo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4963,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não são são tem duas coisas, né que temos de uso de política de privacidade depo",
+      "content_preview": "Não são são tem duas coisas, né que temos de uso de política de privacidade depois tem a parte de política de compartilhamento.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4973,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então é essa é a política de compartilhamento que exibe.",
+      "content_preview": "Então é essa é a política de compartilhamento que exibe.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4976,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "mas por que que acontece a política? ah tá a política de compartilhamento que tá",
+      "content_preview": "Mas por que que acontece a política? Ah tá a política de compartilhamento que tá pegando?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4982,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é porque essa ali embaixo ele nem vê, né? ele tá falando daquela política lá no",
+      "content_preview": "É porque essa ali embaixo ele nem vê, né? Ele tá falando daquela política lá no fluxo que ele seguiu.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4988,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "sim que na verdade é essa.",
+      "content_preview": "Sim que na verdade é essa.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4992,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "dele compartilhar.",
+      "content_preview": "Dele compartilhar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 4995,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "é o que é o que na verdade a gente pega de acesso para para justamente poder com",
+      "content_preview": "É o que é o que na verdade a gente pega de acesso para Para justamente poder compartilhar os dados com a própria Incorporadora. então Se a gente for olhar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5020,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "aqui que eu consigo.",
+      "content_preview": "aqui que eu consigo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5021,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não peguei. é uma política de compartilhamento e ela",
+      "content_preview": "Não peguei. é uma política de compartilhamento e ela",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5042,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "tem mesmo tentei os dados no meio dela, né?",
+      "content_preview": "Tem mesmo tentei os dados no meio dela, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5047,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "lá nos dados vinculados. aqui está dizendo que nós fazemos o compartilhamento co",
+      "content_preview": "Lá nos dados vinculados. Aqui está dizendo que nós fazemos o compartilhamento com os dados do produto que ele acessou é o que nós estamos pedindo Permissão. Para justamente dar o dado do corretor para",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5078,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "e a gente começou o lance do portal também, a gente mostrou e até da ibm, né? só",
+      "content_preview": "E a gente começou o lance do portal também, a gente mostrou e até da IBM, né? Só que a IBM eu vi que ela não é eu não sei se ela vai entrar primeiro com só o portal. A gente vai discutir lá com eles l",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5114,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "sim, sim.",
+      "content_preview": "Sim, sim.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5115,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "que foi integrar lá e falou não dá porque não é da e eva eu já não sei mãe. que",
+      "content_preview": "que foi integrar lá e falou não dá porque não é da e Eva eu já não sei mãe. Que até a Carol responde.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5122,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "não são coisas independentes é integração, só tem que cuidar. a nomenclatura int",
+      "content_preview": "Não são coisas Independentes é integração, só tem que cuidar. A nomenclatura integrar os produtos para vocês. Tá liberado sempre teve Aliás o nosso compromisso inclusive fora de cidades lá no discutiu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5150,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "os corretoras",
+      "content_preview": "os corretoras",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5151,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eles não tem é tem que cuidar só o nome integração de corretores, mas a integraç",
+      "content_preview": "Eles não tem é tem que cuidar só o nome integração de corretores, mas a integração de produtos tá liberado Claro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5158,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ah então tem que o carlão tá aí carlão, depois você chama carol lá, pede para o",
+      "content_preview": "Ah então tem que o Carlão tá aí Carlão, depois você chama carol lá, pede para o Felipe, talvez só formalizar isso lá para com ela, não sei quem que seria. Que é o que a gente falou lá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5168,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "tá bom.",
+      "content_preview": "Tá bom.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5169,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "discutindo de ideal lá e aí eu vou",
+      "content_preview": "discutindo de ideal lá e aí eu vou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5172,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "combinado",
+      "content_preview": "combinado",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5172,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "colocar lá ibm. o felipe eu vou te mandar. tá vou falar com marcelinho. vamos pe",
+      "content_preview": "colocar lá IBM. O Felipe eu vou te mandar. Tá vou falar com Marcelinho. Vamos pensar numa contra ali.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5179,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "até porque eu acho que ali teve um problema, né uma coisa ótima, vocês fecharam",
+      "content_preview": "Até porque eu acho que ali teve um problema, né uma coisa ótima, vocês fecharam 11 mil reais lá. lá.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5184,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é mas tem plugin tem outras coisas lá, não é só z2 né parcerias. só z2 né parcer",
+      "content_preview": "É mas tem plugin tem outras coisas lá, não é só Z2 né parcerias. Só Z2 né parcerias. Parceria.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5189,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eu não sei o que que mais tem.",
+      "content_preview": "Eu não sei o que que mais tem.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5190,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é a gente fez o plugin lá, né? cara agora de crm que o cara integra o follow up",
+      "content_preview": "É a gente fez o plugin lá, né? Cara agora de CRM que o cara integra o follow up do corretor em qualquer CRM pinomox e você vem em qualquer um. Então hoje o corretor conversa no WhatsApp com Lídia, ele",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5206,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "dos caras",
+      "content_preview": "dos caras",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5207,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "a gente criou o plugin que ele escaneia o whatsapp agora eu vou lá no crm mundo",
+      "content_preview": "A gente criou o plugin que ele escaneia o WhatsApp agora eu vou lá no CRM mundo funil do cara e Registro falou que sim, estamos aqui mais",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5220,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "novos",
+      "content_preview": "novos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5222,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é a becanton.",
+      "content_preview": "é a becanton.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5224,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "cara tem um etec também tem outras evoluindo também aqui.",
+      "content_preview": "Cara tem um Etec também tem outras evoluindo também aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5227,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é o plugin do c****** felipe porque a gente não brigou com nenhum crm. ficamos a",
+      "content_preview": "É o Plugin do c****** Felipe porque a gente não brigou com nenhum CRM. Ficamos amigos de todos eles são uma onda no meio dessa guerra. E aí o cara fala assim bicho, quanto que é o plugin é 29,90 por u",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5240,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "até os caras quiserem fazer alguma coisa, né?",
+      "content_preview": "Até os caras quiserem fazer alguma coisa, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5242,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não pode fazer tentar fazer tá preocupado não é? mas cara, a gente tá com tanto",
+      "content_preview": "Não pode fazer tentar fazer tá preocupado não é? Mas cara, a gente tá com tanto valor agregado que não tem porque o cara brigar e é É assim, pode se eles quiserem assumir todas as guerras, eles vão pe",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5266,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tá olha.",
+      "content_preview": "Tá olha.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5268,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "alinhado o texto e aí a gente vai tentar conduzir aqui porque ele falou cara, qu",
+      "content_preview": "alinhado o texto e aí a gente vai tentar conduzir aqui porque ele falou cara, quem tá sumindo não tem meus dados não tem nada o cara tá no meu site, como é que eles põem Soldados do Ouro. Falei cara,  | Mas foi uma bola que ele levantou, se ele mudar o texto lá aí eu acho que vale a gente eu te mand",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5306,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "vende.",
+      "content_preview": "vende.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5308,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é o que era importante agora é só os eventos cara que não tá vendendo portal e n",
+      "content_preview": "É o que era importante agora é só os eventos cara que não tá vendendo Portal e nem do Ouro.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5314,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tá, beleza.",
+      "content_preview": "Tá, beleza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5315,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "tá aí, se você conseguir nos dar o que é porque por enquanto eu pedi para o time",
+      "content_preview": "Tá aí, se você conseguir nos dar o que é porque por enquanto eu pedi para o time acessar aqui na mão, né, cara. Agora ele fica vendo se o cara entrou ou não. Então o negócio de louco aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5327,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tá beleza, vou dar uma olhada.",
+      "content_preview": "Tá beleza, vou dar uma olhada.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5330,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "beleza, eu acho que vocês atualizaram da última o nosso melhor mês desse ano foi",
+      "content_preview": "Beleza, eu acho que vocês atualizaram da última o nosso melhor mês desse ano foi junho tá fechando 16 novos clientes. Então foi uma baita entrada aqui para nós cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5341,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "15 15",
+      "content_preview": "15 15",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5342,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é um 15 novos, né? então foram 15 novos clientes a gente de recorrência foram in",
+      "content_preview": "É um 15 novos, né? Então foram 15 novos clientes a gente de recorrência foram incremento De quanto em 33 k32. De quanto em foi? Isso de recorrência, né? Somando todos os clientes, então estamos faland",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5359,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "é praticamente dobrar aqui, né questão de faturamento.",
+      "content_preview": "É praticamente dobrar aqui, né questão de faturamento.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5363,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então foi o melhor mês nosso aqui cara. teve a ibm disparada com ticket médio al",
+      "content_preview": "Então foi o melhor mês nosso aqui cara. Teve a IBM disparada com ticket médio ali de 11k, mas todos os outros também tem um ticket médio considerável, então foi para nós a gente ficou bem feliz assim  | É mas o ITA também deu um gás aqui enquanto eu estava fora já tem alguns clientes já fechamos qua",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5387,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "5. esse mês já estamos com cinco note 5 toca 55. soma uma arte e abc empreendime",
+      "content_preview": "5. Esse mês já estamos com cinco note 5 toca 55. soma uma arte e ABC Empreendimentos",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5398,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "te falei lá de santa catarina. santa catarina. então e aí tapeima né?",
+      "content_preview": "Te falei lá de Santa Catarina. Santa Catarina. Então e aí tapeima né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5405,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "ficou",
+      "content_preview": "ficou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5407,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "balneário ali.",
+      "content_preview": "Balneário ali.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5411,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "especial lá porque a gente tem que fazer.",
+      "content_preview": "Especial lá porque a gente tem que fazer.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5414,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "cara ainda não a gente vai começar lá, eles estão querendo muito focado na autom",
+      "content_preview": "Cara ainda não a gente vai começar lá, eles estão querendo muito focado na automação, né? né? Eles não têm.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5425,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "como a gente tem eles eles não tem a",
+      "content_preview": "Como a gente tem eles eles não tem a",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5426,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "pagam",
+      "content_preview": "pagam",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5428,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "gente.",
+      "content_preview": "gente.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5429,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eles não pagam ouro paga só dwv é isso.",
+      "content_preview": "Eles não pagam ouro paga só dwv é isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5432,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "eles devem pagar só da wv a gente não a gente não tem esforço comercial dedicado",
+      "content_preview": "Eles devem pagar só da wv a gente não a gente não tem esforço comercial dedicado lá em Balneário Camboriú, a gente tem em Floripa e tem Curitiba. A gente não tem lá na",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5442,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é como é que tá a audiência itapema balneário?",
+      "content_preview": "É como é que tá a audiência Itapema Balneário?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5447,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "cara, ela é ela é ela não é boa comparar com outras cidades, ela não é não é boa",
+      "content_preview": "Cara, ela é ela é Ela não é boa comparar com outras cidades, ela não é não é boa.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5457,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "ainda não tem nada de novidade lá com eles, não isso avançou a gente tá numa con",
+      "content_preview": "Ainda não tem nada de novidade lá com eles, não isso avançou a gente tá numa conversa bem. E ele tá muito mais interessado na Iá no relacionamento na comunicação, que hoje ele não tem essa gestão, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5473,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "para nós ali é uma coisa que",
+      "content_preview": "para nós ali é uma coisa que",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5473,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "não.",
+      "content_preview": "Não.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5478,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "a gente poderia tentar fazer algo diferente ali porque ela é uma praça é aquilo",
+      "content_preview": "A gente poderia tentar fazer algo diferente ali porque ela é uma praça é aquilo que eu te falei é muito complicado uma vez. estabelecido na cidade como prática normal Nada dos profissionais daquela da",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5507,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o cara que tá lá agora é muito amigo meu era do grupo cap. chama chi francisco.",
+      "content_preview": "O cara que tá lá agora é muito amigo meu era do grupo Cap. Chama chi Francisco. Não sei se tu conhecer que é o Chico e tal. Ele foi também, Alphaville então um cara muito próximo aqui muito próximo, e | Aí contei história para ele em uma hora, ele fechou o negócio então tá fechado. Vamos embora.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5531,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "e a b c, ela é especialmente próxima do wv tá? especialmente próximo acho que é",
+      "content_preview": "E a b c, ela é especialmente próxima do wv tá? Especialmente próximo acho que é um dos fizeram eventos juntos já alguma coisa assim mais especial, então enfim. Mas é bacana, né a gente pegar e ter ess",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5553,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "quebrar as pernas do dwv assim a gente pegar e botar para dar uma bombada o óleo",
+      "content_preview": "Quebrar as pernas do dwv assim a gente pegar e botar para dar uma bombada o óleo lá em Balneário com ABC.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5560,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "é uma coisa que a gente está pensando assim é uma coisa que a gente poderia tent",
+      "content_preview": "É uma coisa que a gente está pensando assim é uma coisa que a gente poderia tentar trabalhar de jeito diferente para porque é uma situação diferente, né? É diferente de em Goiânia a gente forçar a bar | A gente tem que pensar algo diferente.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5591,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "essa praça ali acho que vale uma reunião estratégica aí para a gente pensar como",
+      "content_preview": "Essa Praça ali Acho que vale uma reunião estratégica aí para a gente pensar como abordar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5596,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "vamos pensar felipe, porque cara se for o caso lá eu piso no acelerador aqui e n",
+      "content_preview": "Vamos pensar Felipe, porque cara se for o caso lá eu piso no acelerador aqui e nem que a gente faça um plano Z2 e o conjunto lá e cara.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5607,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "é aqui.",
+      "content_preview": "É aqui.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5607,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "balançar roseira mesmo, eu acho que a gente consegue fazer e fazer talvez um cas",
+      "content_preview": "Balançar Roseira mesmo, eu acho que a gente consegue fazer e fazer Talvez um case com ABC. O Chico é muito próximo cara, assim, talvez eles também são próximos do bwv. Não sei qual é a relação, mas ca | Com a iaca.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5632,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "é uma oportunidade é uma janela, tá? eu acho que é uma janela para fazer algo di",
+      "content_preview": "é uma oportunidade é uma janela, tá? Eu acho que é uma janela para fazer algo diferente então.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5637,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "embraed também a relação superbow novo diretor que entrou lá super próximo cara,",
+      "content_preview": "Embraed também a relação superbow novo diretor que entrou lá super próximo cara, dá para a gente fazer um negócio legal, eu tenho relação com o pessoal da procave.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5645,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "quem a gente tem quem a gente tem quem a gente tem um que a gente é próximo lá é",
+      "content_preview": "quem a gente tem quem a gente tem quem a gente tem um Que a gente é próximo lá é FG, né? Que é a mais importante.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5654,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "então a gente pega embraed abc fg. se forçar uma barra vai na pasta com a luto.",
+      "content_preview": "Então a gente pega Embraed ABC FG. Se forçar uma barra vai na pasta com a luto. Eu acho que dá para a gente fazer um barulho que incomoda. Faz um evento lá organiza um bem bolado, não sei.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5671,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "é aqui eu já tô pensando uma outra lógica, né? se a gente não consegue. enfim ac",
+      "content_preview": "É aqui eu já tô pensando uma outra lógica, né? Se a gente não consegue. Enfim acho que tem que pensar a respeito, mas daqui a pouco tem alguma coisa que poderia. Vamos pensar o seguinte uma pergunta,  | Acho que pode valer a pena. Inclusive, a gente está convidado, eu nem falei para vocês, mas a gen",
+      "turn_count": 3
+    },
+    {
+      "start_sec": 5730,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "estou sofrendo aqui em porto belo.",
+      "content_preview": "Estou sofrendo aqui em Porto Belo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5734,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "quem?",
+      "content_preview": "Quem?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5735,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "abc esse produto",
+      "content_preview": "ABC esse produto",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5737,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "sofrendo o que não estão vendendo.",
+      "content_preview": "Sofrendo o que não estão vendendo.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5739,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "é nesse produto aqui não tá as mil maravilhas não, ele é gigante.",
+      "content_preview": "É nesse produto aqui não tá as mil maravilhas não, ele é gigante.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5743,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "cara porto belo, itapema",
+      "content_preview": "cara Porto Belo, Itapema",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5749,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "peço real",
+      "content_preview": "peço real",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5750,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tem cara vai travar tá vai travar tem 9 mil unidades numa bahia do tamanho de co",
+      "content_preview": "Tem cara vai travar tá vai travar tem 9 mil unidades numa Bahia do tamanho de Copacabana, nem isso menor. Tá é mais que Porto Alegre mais que Curitiba é estoque de Goiânia numa numa Baía de 3 km. é br",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5769,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "c******",
+      "content_preview": "c******",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5773,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "de são paulo um décimo de são paulo numa prainha desse tamanho não tô falando de",
+      "content_preview": "de São Paulo um décimo de São Paulo numa Prainha desse tamanho não tô falando de boa não. Tô falando de Bombinhas. Não tô falando de Balneário Camboriú, não tô falando de Itajaí, eu tô só falando de t",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5791,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "rapaz e unidade e balneário não aguenta mais, né? e vão crescer para essas outra",
+      "content_preview": "Rapaz e Unidade e balneário não aguenta mais, né? E vão crescer para essas outras regiões, mas eu acho que cara é região de segunda residência.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5802,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "é mas já passou vai no inverno em balneário camboriú.",
+      "content_preview": "É mas já passou vai no inverno em Balneário Camboriú.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5806,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não tem ninguém, né?",
+      "content_preview": "Não tem ninguém, né?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5807,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tá tudo apagado, cara, tu olha para cima é um idade chinesa e balneário",
+      "content_preview": "tá tudo apagado, cara, tu Olha para cima é um idade chinesa e balneário",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5818,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "eu enfim mas ok.",
+      "content_preview": "Eu enfim mas ok.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5820,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "enfim, vamos pensar alguma coisa de novo, eu não acho que a gente eu só acho que",
+      "content_preview": "Enfim, vamos pensar alguma coisa de novo, eu não acho que a gente eu só acho que a gente não pode não fazer alguma coisa diferente, se a gente fizer se a gente perder essa",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5829,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "eu acho que a gente não pode sair",
+      "content_preview": "Eu acho que a gente não pode sair",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5829,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "oportunidade.",
+      "content_preview": "oportunidade.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5830,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "mexendo lá sem de forma estratégica, tá? que temos que fazer uma reunião aí para",
+      "content_preview": "mexendo lá sem de forma estratégica, tá? Que temos que fazer uma reunião aí para pensar os movimentos?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5836,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tá",
+      "content_preview": "tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5837,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "vamos falar você tem algum pagante ali na região de santa catarina?",
+      "content_preview": "Vamos falar você tem algum pagante ali na região de Santa Catarina?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5842,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "de incorporadora de imobiliária",
+      "content_preview": "de Incorporadora de imobiliária",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5844,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "o dwv não integra com as",
+      "content_preview": "O dwv não integra com as",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5845,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "tem",
+      "content_preview": "tem",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5852,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "imobiliárias igual tu faz.",
+      "content_preview": "imobiliárias igual tu faz.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5857,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "integração, tá ele tem. ele tem um. eu não vou saber da tecnologia deles. tá, ma",
+      "content_preview": "integração, tá ele tem. Ele tem um. Eu não vou saber da tecnologia deles. Tá, mas eles eu acho que ele tem uma dificuldade maior dessa seleção desse pacote que a gente falou aqui esse pacotinho de del | A imobiliária que quer receber tem que pagar igual ele não tem essa dinâmica de ser um serviço pa",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5896,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "felipe isso seria um gol de placa, se a gente conseguir limpar vamos falar de fo",
+      "content_preview": "Felipe isso seria um gol de placa, se a gente conseguir limpar vamos falar de forma estratégico maior que se a gente fizer um trabalho de um lado de falar das imobiliárias da vantagem do Óleo integrad | Não sei eu acho que tem um caminho aqui para a gente entrar lá, mas vamos pensar nele.",
+      "turn_count": 2
+    },
+    {
+      "start_sec": 5926,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "de novo, eu acho que a gente tem que pensar e não dá para não usar essa oportuni",
+      "content_preview": "De novo, eu acho que a gente tem que pensar e não dá para não usar essa oportunidade, não dá para fazer bobagem também. Mas não dá para não usar a oportunidade.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5934,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "lá de início, a gente tá muito focado, ele quer automatizar a gestão hoje o rela",
+      "content_preview": "Lá de início, a gente tá muito focado, ele quer automatizar a gestão hoje o relacionamento dele tá 100% no Excel. 100% do Excel ele não tem uma base não tem lugar nenhum que centraliza isso. Então, el",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5954,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "perfeito, tá vamos falar essa semana ainda sobre isso.",
+      "content_preview": "Perfeito, tá vamos falar essa semana ainda sobre isso.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5959,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "fechado. não beleza senhoras é isso então. acho que não passa ali a alejandro a",
+      "content_preview": "Fechado. Não beleza senhoras é isso então. Acho que não passa ali a Alejandro a gente formaliza por e-mail ali dos erros. Eu te mandei no WhatsApp. Né? Eu pedi para o Charles fazer a consulta ali ele ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5976,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "fechado",
+      "content_preview": "fechado",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5982,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "tá bom. eita obrigado senhor",
+      "content_preview": "Tá bom. Eita Obrigado Senhor",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5985,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "valeu",
+      "content_preview": "valeu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5989,
+      "speakers": [
+        "Diego Diehl"
+      ],
+      "topic_hint": "valeu pessoal, boa noite.",
+      "content_preview": "Valeu pessoal, boa noite.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5990,
+      "speakers": [
+        "Rodrigo Italiano"
+      ],
+      "topic_hint": "fechou",
+      "content_preview": "fechou",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5991,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "gente",
+      "content_preview": "gente",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 5992,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "aqui um detalhezinho. eu tô entrando agora tá? eu tô vendo tipo. tô vendo evento",
+      "content_preview": "aqui um detalhezinho. Eu tô entrando agora tá? Eu tô vendo tipo. Tô vendo evento sendo encaminhado enfim Mob aqui né Lindenberg Lindemberg 7. 732 tem dois aqui, depois tem outro tem bastante coisa sen",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6012,
+      "speakers": [
+        "Felipe Goettems"
+      ],
+      "topic_hint": "consegue entrar na expo aí alejandro?",
+      "content_preview": "Consegue entrar na Expo aí Alejandro?",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6015,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "não não consigo. tá vendo só os logs tá? então só dá uma olhadinha. se não tem n",
+      "content_preview": "Não não consigo. Tá vendo só os logs tá? Então só dá uma olhadinha. Se não tem nada do lado de vocês tá Júnior? Porque aqui tá",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6025,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "hoje foi chá às vezes não é c***** aí do teu lado aí chefe tá tal tal e vou fala",
+      "content_preview": "hoje foi chá às vezes não é c***** aí do teu lado aí chefe tá tal tal e vou falar seis para ver se o Alemão tem algum indício de alguma coisa se mudou.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6033,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "aqui eu olhei tô olhando os logs assim. tô vendo ele foi mal, né? então os blog",
+      "content_preview": "Aqui eu olhei tô olhando os logs assim. Tô vendo ele foi mal, né? Então os blog está aparecendo é só assim, tá gerando logo e não tá enviando para vocês, né, mas em algum ponto aí tá se perdendo. mas ",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6048,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "não beleza comentou que está gerando logo. eu vou pedir para ele criar uma tela",
+      "content_preview": "Não beleza comentou que está gerando logo. Eu vou pedir para ele criar uma tela para a gente mesmo consultar aqui, mas beleza Alejandro obrigado, eu vou falar com ele aqui também.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6062,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "e a princípio, né? porque quando a gente manda e tem algum erro. ele retorna ass",
+      "content_preview": "E a princípio, né? Porque quando a gente manda e tem algum erro. Ele retorna assim e não tá dando erro como se tivesse sendo aceito tá do lado de vocês uma informação que está sendo enviada. Então, eu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6081,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "perfeito perfeito, já mandei mensagem aqui. ele falou que vai olhar.",
+      "content_preview": "Perfeito perfeito, já mandei mensagem aqui. Ele falou que vai olhar.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6085,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "tá, beleza.",
+      "content_preview": "Tá, beleza.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6086,
+      "speakers": [
+        "Junior Silva"
+      ],
+      "topic_hint": "valeu",
+      "content_preview": "valeu",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6087,
+      "speakers": [
+        "Eduardo Stringhini"
+      ],
+      "topic_hint": "valeu pessoal, até mais.",
+      "content_preview": "Valeu pessoal, até mais.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6088,
+      "speakers": [
+        "Alejandro Olchik"
+      ],
+      "topic_hint": "valeu, até logo. tchau.",
+      "content_preview": "Valeu, até logo. Tchau.",
+      "turn_count": 1
+    },
+    {
+      "start_sec": 6090,
+      "speakers": [
+        "Carlos Stoppa"
+      ],
+      "topic_hint": "valeu gente, tchau, tchau.",
+      "content_preview": "Valeu gente, tchau, tchau.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Alejandro Olchik",
+      "timestamp": 139,
+      "text": "Mas o que a gente falou, né? O que eu tinha entendido que era justamente o contrário, né de por isso até o que ia ter uma interface web com filtros com mapa. Como primeira forma de consulta e depois eventualmente ia para o Zé essa parte aqui para mim tá um pouco confusa em relação a como vai funcionar."
+    },
+    {
+      "speaker": "Guilherme Rocha",
+      "timestamp": 198,
+      "text": "Aí ele vai gerar um resultado que aí provavelmente ele vai continuar na interface web."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 203,
+      "text": "O que seria legal no futuro, né, Alejandro é o cara permitir ele lá dentro do Ouro jogar esses produtos numa sessão Z2 dele aqui, né? Então essa interface web dele. Navegar e encontrar produtos para mim é o órgão então ele vai lá vai encontrar os produtos e ele vai adicionar isso não é interface."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 237,
+      "text": "Não eu sei assim. Ó, esse caminho que a gente tá desenhando Ok mas no futuro com a integração com óleo tudo certinho, ele poderia ter uma experiência lá dentro lá, ele tá vendo aquele produto e ele adicionar ele num carrinho Z2, sabe? É mas aí depende de n coisas lá de integração, mas eu acho que é um é um futuro que é legal que funciona bem sabe também."
+    },
+    {
+      "speaker": "Alejandro Olchik",
+      "timestamp": 260,
+      "text": "Não, mas é que olha só toda todo o emblema, eu acho que é esse fluxo, eu acho que o detalhe dele tá é o que tá gerando a dificuldade do entendimento. E saber exatamente como vai funcionar a parte web de vocês, eu acho que é o que tá incerto aqui, né? Como vai funcionar porque a gente abandonou a ideia do modelo anterior pela necessidade de estar embedado na parte web de vocês."
+    },
+    {
+      "speaker": "Alejandro Olchik",
+      "timestamp": 290,
+      "text": "Tá assim do ponto de vista de modelo, né? E agora aparentemente não estaria embedado. Então talvez não precisa ser abandonar do outro modelo, mas é o ponto é como é que vai funcionar. Exatamente esse fluxo, né? Tipo cadastro corretor entrou né? Como é que ele vai interagir para fazer a primeira pesquisa, o que que volta para ele? Como é que ele joga esses negócios no Website? É o que? Eu tô sentindo falta de ver de uma forma mais concreta."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 320,
+      "text": "Ah entendi, o Gui o que eu entendi aqui é o que ele quer, por exemplo, o corretor logou lá criou a conta dele, né? Hoje ele cai lá naquela conta hoje do Z2 normal, né? Eu acho que se vale mostrar aqui, né? Eu sei que Mas o que a gente vai fazer ali? É o que o alerta tá perguntando é depois que ele foi lá, beleza? Logo criou a conta dele, ele tem os líderes dele lá, ele quer criar um produto na minha visão."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 344,
+      "text": "Acho que dá até para mostrar um pouco do visual aqui do que que a gente pensou. E aí a gente pode até trazer algo desenhado, mas o Gui desenhou o fluxo geral, né pegar um Cara logar ele vai cair exatamente numa página igual a essa tá? Então é o crmd na minha visão aqui dentro dele, se eu entrar num lei de qualquer aqui eu tenho o perfil daquele cliente."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 376,
+      "text": "E aqui a gente vai ter os produtos de interesse dele então os produtos de interesse dele vão trazer já. Com base no perfil do cliente. Então eu disse aqui, por exemplo que o Alejandro sei lá que é na zona leste um imóvel de X mil reais isso aqui dá para parceiros tá esse Campo São personalizados, mas isso aqui é o perfil do cliente dele que é buscar na zona leste."
+    },
+    {
+      "speaker": "Junior Silva",
+      "timestamp": 426,
+      "text": "E falar que vou fazer diferente. no Aí manda aquele áudio aqui que é um bom exemplo assim, ó. Ele vai vir num prompt, fala assim."
+    }
+  ],
+  "transcript_length": 100580,
+  "block_count": 556
+}

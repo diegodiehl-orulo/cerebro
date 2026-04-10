@@ -1,0 +1,33 @@
+{
+  "meeting_id": "697b41262238f70013485bfe",
+  "generated_at": "2026-04-09T15:02:22.432029",
+  "stage": "summary_v1",
+  "metadata": {
+    "title": "Reunião",
+    "date": null,
+    "participants": [
+      "Roberto Rocco"
+    ],
+    "duration_min": 2
+  },
+  "blocks": [
+    {
+      "start_sec": 139,
+      "speakers": [
+        "Roberto Rocco"
+      ],
+      "topic_hint": "nossa vai batendo aí.",
+      "content_preview": "Nossa vai batendo aí.",
+      "turn_count": 1
+    }
+  ],
+  "action_items_raw": [
+    {
+      "speaker": "Roberto Rocco",
+      "timestamp": 139,
+      "text": "Nossa vai batendo aí."
+    }
+  ],
+  "transcript_length": 44,
+  "block_count": 1
+}
