@@ -126,3 +126,11 @@ Diego reelaborou as 10 regras fundamentais do sistema. Todas ratificadas — nen
 **Ação tomada:** Adicionado entry em lessons.md.
 
 *Revisado: 2026-04-08*
+
+**B4** | Jobs Cron isolated sessions falham com timeout (60-90s) + groq 401 | 2026-04-11 | — |
+**Causa:** groq/llama-3.3-70b-versatile retorna HTTP 401 em todas as isolated sessions agentTurn. Timeout adicional de ~90s.
+**Fix aplicado (Fase 1):** Trocar groq → minimax/MiniMax-M2.7 em todos os 10 jobs.
+**Fix aplicado (Fase 2):** Aumentar timeout para 120-300s conforme complexidade.
+**Jobs afetados:** polling, summarizer, tldv-digest, sync-cerebro-health, sync-cerebro system, validacao_p1a, auditoria_pending, self_improving_review, KAIROS watchdog, autoDream.
+**Verificado:** sync-cerebro health check OK (exit 0).
+
