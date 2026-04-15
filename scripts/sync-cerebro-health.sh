@@ -6,7 +6,7 @@ Saída: 0 = OK, 1 = problema
 """
 import datetime, subprocess, os, re, sys
 
-LOG = '/root/.openclaw/logs/sync-cerebro.log'
+LOG = '/root/.openclaw/workspace/logs/sync-cerebro.log'
 WORKSPACE = '/root/.openclaw/workspace'
 WINDOW_HOURS = 25
 
