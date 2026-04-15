@@ -38,3 +38,15 @@
 [2026-04-06T23:20:32]   [PATCH] risk: 4 → 20260406_232032_risk.md
 [2026-04-06T23:20:32]   [PATCH] context: 5 → 20260406_232032_context.md
 [2026-04-06T23:20:32] Persister finalizado. Total escrito: 0 | Total no ledger: 2 | Dedup: 16
+[2026-04-14T22:13:28] Processando 99 análises...
+[2026-04-14T22:13:28] Novos itens únicos: 3338 (dedup: -3041 duplicatas filtradas)
+[2026-04-14T22:13:29]   [WRITE] 828 → decisions.md
+[2026-04-14T22:13:29]   [PATCH] decision: 828 → 20260414_221329_decision.md
+[2026-04-14T22:13:29]   [WRITE] 274 → lessons.md
+[2026-04-14T22:13:29]   [PATCH] lesson: 274 → 20260414_221329_lesson.md
+[2026-04-14T22:13:29]   [PATCH] pending: 1403 → 20260414_221329_pending.md
+[2026-04-14T22:13:29]   [WRITE] 295 → risks.md
+[2026-04-14T22:13:29]   [PATCH] risk: 295 → 20260414_221329_risk.md
+[2026-04-14T22:13:29]   [WRITE] 538 → commercial_context.md
+[2026-04-14T22:13:29]   [PATCH] context: 538 → 20260414_221329_context.md
+[2026-04-14T22:13:29] Persister finalizado. Total escrito: 1935 | Total no ledger: 101 | Dedup: 16

@@ -146,7 +146,7 @@
 | File watcher | ❌ Sem daemon próprio | FASE 3 |
 | Bitrix24 API | ❌ Sem integração direta | FASE 3 |
 | WhatsApp send | ❌ Bloqueado por política | Aguardar Nível 1 |
-| tl;dv API | ⚠️ Parcial (scripts existem) | Manter |
+| tl;dv API | ✅ Registrada | Manter — key: `69f9a...01576`, base: `https://pasta.tldv.io/v1alpha1`, var: `TLDV_API_KEY`, locals: `/etc/environment` + `integrations/tldv/.env` |
 
 ---
 

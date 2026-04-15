@@ -6,3 +6,298 @@
 - [LOW] [operational] Abordagem desanimada ou com baixa energia prejudica primeira impressão — [6690232be5ccd900129d3e25](/2024-07) | Severidade: low | Tipo: operational
 - [MEDIUM] [operational] Reunião de diretoria sem registro — histórico institucional incompleto — [669563a15e431f001476e56d](/2024-07) | Severidade: medium | Tipo: operational
 - [LOW] [strategic] Dados de julho/2024 podem estar desatualizados ou ser irrelevant para contexto atual (abril/2026) — [669563a15e431f001476e56d](/2024-07) | Severidade: low | Tipo: strategic
+- [HIGH] [operational] H Station não usa CRM para incorporadora — processo de vendas é manual (contrato na mão, controle em planilha). Implementação do Z2A pode encontrar resistência de processo. — [6745b87129016500130d9262](/2024-11) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Telefone obrigatório no Z2A é para autenticação — sem telefone válido, usuário não acessa. Risco de onboarding bloqueado. — [6745b87129016500130d9262](/2024-11) | Severidade: medium | Tipo: operational
+- [HIGH] [strategic] Reunião de novembro 2024 — 17 meses de décalage. Status real completamente desconhecido. — [6745b87129016500130d9262](/2024-11) | Severidade: high | Tipo: strategic
+- [MEDIUM] [operational] João Pessoa é mercado de corretores externos — diferente de outras praças. Estratégia de venda e treinamento precisa ser adaptada para esse perfil. — [6745b87129016500130d9262](/2024-11) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Video de julho 2025 pode não ter sido formalmente distribuído — risco de conhecimento não chegar ao time — [688155a73ead900013f0436f](/2025-07) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Prompt criado via iteração pode ter limite de caracteres — configuração pode ter sido truncada — [688155a73ead900013f0436f](/2025-07) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Equipe não está fazendo follow-up em massa com corretores —gap entre discurso e execução — [68c091be0972b500130a0529](/2025-09) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Corretores estão conduzindo visitas com qualidade desigual — impacto na conversão — [68c091be0972b500130a0529](/2025-09) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Produto Z2A ainda não tem capacidade de ver quem são os 232 corretores que acessaram — visibilidade limitada — [68c091be0972b500130a0529](/2025-09) | Severidade: medium | Tipo: operational
+- [LOW] [strategic] Reunião de setembro 2025 — contexto desatualizado. Muitas decisões podem já estar implementadas ou obsoletas. — [68c091be0972b500130a0529](/2025-09) | Severidade: low | Tipo: strategic
+- [HIGH] [financial] 63% do VGV (R$ 56k de R$ 89k) ainda está pendente — risco de recebimento — [68d52426dd73370013fde50a](/2025-09) | Severidade: high | Tipo: financial
+- [MEDIUM] [operational] Corretores de grupo de concorrência representam 50% dos ativos — dependência de canal único de captação — [68d52426dd73370013fde50a](/2025-09) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Baixa conversão de corretores — base de dados tem volume mas qualificação é fraca — [68d52426dd73370013fde50a](/2025-09) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] CRM CV tem muitos problemas internos — Junior mencionou que 'tem muitos problemas para resolver' — [68d52426dd73370013fde50a](/2025-09) | Severidade: medium | Tipo: operational
+- [MEDIUM] [relationship] Desbalanceamento e impressão negativa entre equipes (Eduardo levantou) — risco culture — [68d52426dd73370013fde50a](/2025-09) | Severidade: medium | Tipo: relationship
+- [HIGH] [operational] João manifestou desejo de otimizar tempo — especificamente sobre reuniões sem resultado e projeto ISO tomando 2h/semana. Pode indicar insatisfação ou sinyal de burnout — [68efb4bd79b4280013204146](/2025-10) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Expansão sem dono formal — Diego identificou que estava 'muito comigo e gargalo em mim'. Se João não foi empowered corretamente, o gargalo persiste — [68efb4bd79b4280013204146](/2025-10) | Severidade: high | Tipo: operational
+- [MEDIUM] [strategic] Praças prioritárias definidas (João Pessoa, Goiânia, Campinas, Rio, Recife) —semfollow-up sobre priorização. Pode ter havido diluição de foco — [68efb4bd79b4280013204146](/2025-10) | Severidade: medium | Tipo: strategic
+- [MEDIUM] [relationship] João vê potencial como futuro diretor regional de expansão — sem plano de desenvolvimento formalizado, pode ser perda de talento — [68efb4bd79b4280013204146](/2025-10) | Severidade: medium | Tipo: relationship
+- [HIGH] [financial] Prazo de distribuição de lucros para PF era 31/12/2025 — oportunidadede tax planning pode ter sido perdida se não structurada a tempo — [6911e83237437f0013102674](/2025-11) | Severidade: high | Tipo: financial
+- [MEDIUM] [operational] Iara (IA) treinada em CRI — se não foi implemented, equipe continua dependente de Diego para dúvidas técnicas — [6911e83237437f0013102674](/2025-11) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Modelo de CRI 88 é pouco diffundido no mercado — time pode enfrentar objeções de incorporadores que já receberam proposta cara anterior — [6911e83237437f0013102674](/2025-11) | Severidade: medium | Tipo: operational
+- [LOW] [strategic] Reunião de novembro 2025 — 5 meses de décalage. Muitas decisions podem ter sido superadas por eventos — [6911e83237437f0013102674](/2025-11) | Severidade: low | Tipo: strategic
+- [HIGH] [strategic] Reunião de planning anual sem nenhum dado gravado — risco de decisões estratégicas perdidas — [695657252ab9160013645599](/2026-01) | Severidade: high | Tipo: strategic
+- [MEDIUM] [operational] Se reunião foi em 01/01/2026, possibilidade alta de ter sido cancelada ou remarcada — [695657252ab9160013645599](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Três cancelamentos de contas em dezembro por falta de retorno — processo de follow-up fraco — [695bfc1ee9b88d0013912e2b](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Pisano pediu demissão 22/12 mas comunicação só confirmada 02/01 — 10 dias sem comunicação — [695bfc1ee9b88d0013912e2b](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Laís grávida (previsão junho/julho) — licença maternidade vai impactar time — [695bfc1ee9b88d0013912e2b](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Diego sem processo claro de coordenação — risco de ser gargalo — [695bfc1ee9b88d0013912e2b](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Sem Embaixador, audiência não cresce — é um loop que precisa ser quebrado — [695c285567410d0013fd37f1](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Time spreads too thin — fazendo várias praças ao mesmo tempo sem foco — [695c285567410d0013fd37f1](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Expansão sem estratégia documentada resulta em ação sem direção — [695c285567410d0013fd37f1](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Recife pode não tracionar se não houver follow-up consistente — [695c285567410d0013fd37f1](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Corretor pode não entender valor da plataforma vs portal genérico — [695e4ac3e9b88d00139173a0](/2026-01) | Severidade: medium | Tipo: operational
+- [LOW] [financial] Empresas pequenas precisam de presença digital mas podem não ter orçamento — [695e4ac3e9b88d00139173a0](/2026-01) | Severidade: low | Tipo: financial
+- [CRITICAL] [operational] Sistema instável — clientes reclamando todos os dias. Vitor Urbana com risco de cancelar. — [695f91a6828894001391e6e0](/2026-01) | Severidade: critical | Tipo: operational
+- [HIGH] [operational] Mascam cancelou possivelmente por saída de SDR e falta de visibilidade — risco de efeito dominó — [695f91a6828894001391e6e0](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Saída de Wallace requer realinhamento estratégico — conhecimento pode ser perdido — [695f91a6828894001391e6e0](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [relationship] Construtoras em SP não são fieis a um único escritório — exige modelo diferenciado — [695f91a6828894001391e6e0](/2026-01) | Severidade: medium | Tipo: relationship
+- [HIGH] [operational] João com ansiedade de gestão de múltiplos projetos — risco de burnout — [6960edbf427f08001307f913](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Incorporadoras não entendem processo de cadastro da Órula — objeção recorrente — [6960edbf427f08001307f913](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] João se isola no remoto — Diego não consegue passar na cadeira — [6960edbf427f08001307f913](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] João sobrecarregado — 15 reuniões + atualizar cards + treinar Ester + limpar funil — [6964f0693d76f900137fb719](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] CRM desorganizado — cards desatualizados, leads frios sem limpeza — [6964f0693d76f900137fb719](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [strategic] Processo CXDL não está claro — 'receita do bolo' ainda precisa ser descoberta — [6964f0693d76f900137fb719](/2026-01) | Severidade: high | Tipo: strategic
+- [HIGH] [operational] Complexidade de gerenciar múltiplos cotistas com valores e prazos diferentes — [696528960245ea00136ccc1d](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [compliance] Mudanças na legislação tributária após sanção presidencial em dezembro — incerteza — [696528960245ea00136ccc1d](/2026-01) | Severidade: medium | Tipo: compliance
+- [MEDIUM] [financial] Alíquota 10% flat aplica-se apenas acima de R$ 1,2M — risco de tributação se investimento abaixo — [696528960245ea00136ccc1d](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [relationship] Proprietário de terreno pode não aceitar receber em CRI em vez de dinheiro — [696528960245ea00136ccc1d](/2026-01) | Severidade: medium | Tipo: relationship
+- [HIGH] [operational] Jade está 'relaxada' e 'crua' — não sabe ler playbook. Risco de pipeline lento se não melhorar rápido — [6966a43a99bea20013efccec](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] 300+ currículos para triar — Gustavo vai perder muito tempo se fizer manualmente — [6966a43a99bea20013efccec](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Closer ainda não contratado — time está 'gargalado' — [6966a43a99bea20013efccec](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Volume de leads está baixo (Mila precisa expandir) — [6966a43a99bea20013efccec](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hilang. Impossível analisar, rastrear ou documentar. — [6968cc27290b3e0013fc3d86](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [strategic] Se esta reunião foi relevante para decisões de janeiro/2026, esas decisões não estão documentadas em nenhum lugar acessível ao Morfeu. — [6968cc27290b3e0013fc3d86](/2026-01) | Severidade: medium | Tipo: strategic
+- [MEDIUM] [financial] Banco pode questionar estrutura se parecer engenharia para fugir de dívida — [6968f2f67ab7870013a596e4](/2026-01) | Severidade: medium | Tipo: financial
+- [LOW] [financial] Sócios podem querer migrar para CRI — impacto no volume da primeira série — [6968f2f67ab7870013a596e4](/2026-01) | Severidade: low | Tipo: financial
+- [HIGH] [operational] Rodrigo Italiano pode não estar usando a ferramenta em BH — pode indicar problemas de adoção — [69691d10290b3e0013fc4c42](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] Sem contrato de fidelidade — cliente pode cancelar fácil se não ver resultado rápido — [69691d10290b3e0013fc4c42](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] BH não tem integração com Ouro — base de corretores precisa ser preenchida manualmente — [69691d10290b3e0013fc4c42](/2026-01) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Conhecimento de otimização de IA ficou preso entre usuários sem compartilhamento — valor não capturado — [696c11393259e40013346e82](/2026-01) | Severidade: low | Tipo: operational
+- [HIGH] [financial] R$ 13k em dívidas Z2 (R$ 9k de 1 cliente) — contrato 30 dias impede cobrança — [696e712f500a210013c24a52](/2026-01) | Severidade: high | Tipo: financial
+- [HIGH] [compliance] Funcionária abandonou emprego há 14 dias — risco de processo trabalhista — [696e712f500a210013c24a52](/2026-01) | Severidade: high | Tipo: compliance
+- [MEDIUM] [operational] Brasal com contrato parado há 2 meses — empresa burocrática de Goiânia — [696e712f500a210013c24a52](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [relationship] Felipe tem reputação de difícil — afasta pessoas e cria medo na equipe — [696e712f500a210013c24a52](/2026-01) | Severidade: high | Tipo: relationship
+- [MEDIUM] [compliance] Relógio de ponto: lei exige acima de 20 funcionários desde 2022 — [696e712f500a210013c24a52](/2026-01) | Severidade: medium | Tipo: compliance
+- [MEDIUM] [operational] Empresa sem transparência — comunicação indireta prevalece — [696e712f500a210013c24a52](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Valor do apartamento está em discussão (4.5M vs 6M) — sem acordo, não há como fechar estrutura — [696f8356ee25fd0013b6ac94](/2026-01) | Severidade: high | Tipo: financial
+- [MEDIUM] [financial] Imposto sobre aluguel vai aumentar de 6.73% para 10-16% em 2026 — [696f8356ee25fd0013b6ac94](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [financial] IBS e CBS vão aumentar de 6% para 10% sobre receita de aluguel — [696f8356ee25fd0013b6ac94](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [relationship] José perdeu CPFL por falta de firmeza em acompanhamento de retornos — verificar se não é padrão — [696fc2aba1068c0013a3116d](/2026-01) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [operational] Candidato não conhece detalhes do modelo (percentual, projeções) — sem dados pode não decidir — [696fc2aba1068c0013a3116d](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Produto em menos de 1.000 imobiliários = receita perdida enorme — [6970bfcbe50d0f0012494508](/2026-01) | Severidade: high | Tipo: financial
+- [MEDIUM] [operational] 70% das 3.600 integrações inativas (mencionado em reunião prévia) — mesma dinâmica pode estar em treinamentos — [6970bfcbe50d0f0012494508](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Curitiba superou Porto Alegre em uso — mas sem dados de receita correlatos — [6970bfcbe50d0f0012494508](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Falta de CTA claro para corretores — baixo clique e conversão — [6970d3346d38bb00139bbcb1](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Integração com imobiliárias sem treinamento de onboarding — baixa ativação — [6970d3346d38bb00139bbcb1](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [strategic] Sem sincronização de movimentos por praça, ações ficam isoladas e marca não acumula força — [6970d3346d38bb00139bbcb1](/2026-01) | Severidade: high | Tipo: strategic
+- [MEDIUM] [operational] Problemas técnicos do webinar (fone) prejudicaram apresentação do Felipe — [6970d3346d38bb00139bbcb1](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Diego acumulando gestão interna + 25 viagens este ano — risco de overload — [6970d3346d38bb00139bbcb1](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Lançamento dez/2025 com apenas 6 vendas e zero visitas — Otimatec pode não ver ROI se visitas não começarem — [6970fca1e50d0f00124950b1](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] Contrato ainda não formalizado — Otimatec precisa enviar dados de faturamento — [6970fca1e50d0f00124950b1](/2026-01) | Severidade: medium | Tipo: financial
+- [LOW] [financial] Otimatec paga R$655 por 2 empreendimentos — valor mínimo pode não cobrir custo deCS — [6970fca1e50d0f00124950b1](/2026-01) | Severidade: low | Tipo: financial
+- [MEDIUM] [operational] Pedro busca renda passiva com mínimo trabalho operacional — se não conseguir, pode perder engagement — [6971292de4d717001331d562](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Custo de crédito CDI+10 a CDI+12 é alto — pode afastar clientes — [6971292de4d717001331d562](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Exclusividade em mercado secundário gera baixo volume — modelo pode não escalar — [6971292de4d717001331d562](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Integração Z2+Ouro 50% incompleta — clientes podem ficar confusos — [697214b6e4d717001331f32f](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Teste free sem follow-up pode não mostrar ROI real — [697214b6e4d717001331f32f](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Cadência de treino pode perder momentum se não houver prática — [697214b6e4d717001331f32f](/2026-01) | Severidade: medium | Tipo: operational
+- [CRITICAL] [operational] ANÁLISE IMPOSSÍVEL — transcript, notas e topics todos ausentes. Qualquer decisão baseada nesta reunião precisa de validação direta. — [69722d66a1068c0013a36938](/2026-01) | Severidade: critical | Tipo: operational
+- [HIGH] [operational] Número WhatsApp banido impediu contato com alguns potenciais clientes — risco de perda de pipeline — [69736636913cb900132bd0eb](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Bug na solicitação de integração não abre formulário no navegador para alguns CRMs — atrito no funil — [69736636913cb900132bd0eb](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Nova leva de inscritos no final de segunda-feira não foi importada na Meta a tempo dos disparos — [69736636913cb900132bd0eb](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Retenção em João Pessoa é 23-24% em 5 meses — abaixo do ideal — [69736636913cb900132bd0eb](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Impossibilidade de responder via número oficial da Meta sem template — limita interação em tempo real — [69736636913cb900132bd0eb](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [relationship] DL recebe menos informações que incorporadores regulares — pode gerar percepção de injustiça — [697377d35355be00138a5614](/2026-01) | Severidade: high | Tipo: relationship
+- [MEDIUM] [financial] WhatsApp gera custos altos — se não migrar para app, Margens sofrem — [697377d35355be00138a5614](/2026-01) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Fluxo de intermediação complexo demais afasta corretores — [697377d35355be00138a5614](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Mercado de Goiânia pode ser diferente de SP/Porto Alegre — comportamento e culture local unknown — [6973b71e7f640c0013685039](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] José não tem histórico em mercado imobiliário — curva de aprendizado pode ser longa — [6973b71e7f640c0013685039](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Sem acesso direto a Beatriz Gomes, José pode perder tempo esperando alinhamento interno — [6973b71e7f640c0013685039](/2026-01) | Severidade: medium | Tipo: operational
+- [LOW] [financial] Modelo 'pizza sem queijo' pode não funcionar em praça com baixa concorrência de incorporadoras — [6973b71e7f640c0013685039](/2026-01) | Severidade: low | Tipo: financial
+- [HIGH] [operational] Corretor pode abandonar producto se tabela estiver desatualizada - gera frustração no cliente final — [6979fa4507a27300130c12b7](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [relationship] Se corretor não gosta do coordenador de plataforma, ele não oferece o producto - impacto direto em vendas — [6979fa4507a27300130c12b7](/2026-01) | Severidade: high | Tipo: relationship
+- [MEDIUM] [operational] Rastreabilidade de negociacoes ainda está precária - necessidade de usar Skydes para tracking — [6979fa4507a27300130c12b7](/2026-01) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Reunião sem registro estruturado — histórico perdido. Apenas 4 palavras de transcript. — [697b41262238f70013485bfe](/2026-01) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Zona sul de João Pessoa tem demanda grande sem cobertura atual — oportunidade sendo perdida — [697ca3cb6216b200139caad4](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Corretores não encontram filtros disponíveis na plataforma — frustração por desconhecimento do produto — [697ca3cb6216b200139caad4](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Tabelas de preço desatualizadas causam frustração quando imóvel custa mais que informado — [697ca3cb6216b200139caad4](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Usuários ativos desconhecem filtros e funcionalidades — produto subutilizado — [697ca3cb6216b200139caad4](/2026-01) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Hábitos consolidados com Google Drive dificultam adoção de novas ferramentas — [697ca3cb6216b200139caad4](/2026-01) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Kaique precisa aprovar gerente — decisão fora do alcance direto da Orla. Risco de travamento. — [697cbcd6697b570013ec88f3](/2026-01) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Contrato anual pode ser barreira para primeira contratação — manager pode hesitAR em comprometer 12 meses — [697cbcd6697b570013ec88f3](/2026-01) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Mune descobriu Orla via ChatGPT — cliente ainda está validando. Pode estar em paralelo com outros fornecedores. — [697cbcd6697b570013ec88f3](/2026-01) | Severidade: medium | Tipo: operational
+- [LOW] [financial] 6 empreendimentos com 80 unidades totais é volume baixo — Mune pode ser cliente borderline em valor — [697cbcd6697b570013ec88f3](/2026-01) | Severidade: low | Tipo: financial
+- [HIGH] [strategic] Luigi sente-se refem de parceiro unico e busca diversificar - risco de lock-in atual e perda de controle comercial — [6980adfcc547420013ede25e](/2026-02) | Severidade: high | Tipo: strategic
+- [HIGH] [operational] Time de coordenadores foi perdido - necessidade de reforms estrutural antes de cualquier aktivacao — [6980adfcc547420013ede25e](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Bloqueio de parcerias esta impedindo corretores de vender quando ha interessados - impacto direto em receita — [6980adfcc547420013ede25e](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Desalinhamento de incentivos entre corretores internos e externos prejudica abertura de mercado — [6980adfcc547420013ede25e](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Automove: Revenda apos entrega deprimiu precos - recuperacao iniciando — [6980adfcc547420013ede25e](/2026-02) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Déficit de 7k em vendas mencionado como tema recorrente sem plano de ação definido — [698334ce7d83e400138dc05b](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] 119 tarefas sem dono no CRM (dado externo) sinalizam falta de accountability estrutural no time — [698334ce7d83e400138dc05b](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Treinamentos podem perder effectiveness se formato não mudar (time pediu menos slides, mais cases) — [698334ce7d83e400138dc05b](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Arcplan integra apenas com 50 CRM de imobiliárias em vez dos 1050 esperados — frustração potencial em clientes — [698334ce7d83e400138dc05b](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Portal Z2 está canibalizando audiência da plataforma — pode prejudar conversão — [69834628f89b5a0013ba42fd](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Pedro executou apenas 25-30% das requisições de integração do ES — [69834628f89b5a0013ba42fd](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Problema sistêmico de Vitória: baixo número de incorporadoras cadastradas — [69834628f89b5a0013ba42fd](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Dispersão de audiência em diferentes aplicativos prejudica conversão em Vitória — [69834628f89b5a0013ba42fd](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Reforma tributária aumenta carga — cautela com litígio após Instrução 227 — [6984a262c8ca580013150c28](/2026-02) | Severidade: high | Tipo: financial
+- [MEDIUM] [compliance] Limite 50k mensais por CNPJ aplica-se ao total — planejamento tributário precisa ser cuidadoso — [6984a262c8ca580013150c28](/2026-02) | Severidade: medium | Tipo: compliance
+- [MEDIUM] [operational] Torreão nunca captou via CRI — pode haver resistência institucional — [6984a262c8ca580013150c28](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [strategic] Incorporadoras ainda tratam canal de parcerias como mal necessário, não como ativo estratégico — [6984c57ba0c380001332dc21](/2026-02) | Severidade: high | Tipo: strategic
+- [HIGH] [operational] Falta de rastreabilidade e continuidade no trabalho de parcerias — [6984c57ba0c380001332dc21](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Treinamentos presenciais não escalam — corretores trocam frequentemente — [6984c57ba0c380001332dc21](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Reunião sem transcript, notas ou tópicos — risco de perda de conhecimento institucional — [6984f6b56de6d60013aef6ba](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [compliance] Não há controle total sobre mensagem de cada corretor — [6989ef6383febd0013d31918](/2026-02) | Severidade: high | Tipo: compliance
+- [MEDIUM] [operational] Potencial canibalização com base de clientes diretos da Vitacom — [6989ef6383febd0013d31918](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Samanta só 2 semanas no projeto — pode ter gaps de informação — [6989ef6383febd0013d31918](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Volume de reuniões cresceu mas vendas não acompanharam — incongruência — [698b7223486bad00134bacac](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Não existe métrica de qualidade ou assertividade ainda — [698b7223486bad00134bacac](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Carteira de João com 66 clientes está grande demais — não consegue dar atenção adequada — [698b9011657ae90013b40ee1](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Sem padrão de perdido, negócios ficam em limbo — nem ativos nem cerrados — [698b9011657ae90013b40ee1](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Histórico de atividades do João não aparece — dados de CRM incompletos — [698b9011657ae90013b40ee1](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] BDRs não validam cargo e expectativa antes de reuniões XL — resulta em meetings ineficazes — [698b9011657ae90013b40ee1](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Boulevard Zanella: 4 unidades em 12 anos — caso extrema de VSO baixo — [698c6f356979ef0013b83ce5](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] IGSA: dois terrenistas podem não aprovar proposta de isenção — [698c6f356979ef0013b83ce5](/2026-02) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Laguna Curitiba: 11 unidades em estoque de 48 — vendas lentas mesmo com 77% vendido — [698c6f356979ef0013b83ce5](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Mercado aponta possível queda nas vendas para próximos meses — [698cb58fecdf0e001300edbc](/2026-02) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Difícil convencer incorporadores a usar plataforma em vez de Google Drive — [698cb58fecdf0e001300edbc](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [compliance] WhatsApp enfrenta riscos regulatórios que afetam estratégia de mensageria — [698cb58fecdf0e001300edbc](/2026-02) | Severidade: medium | Tipo: compliance
+- [MEDIUM] [operational] Rafael possui produto com problemas de precificação e posicionamento — [698cb58fecdf0e001300edbc](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [relationship] Guilherme precisa de abertura com incorporadoras — competência difícil de desenvolver rápido — [698cb58fecdf0e001300edbc](/2026-02) | Severidade: medium | Tipo: relationship
+- [HIGH] [strategic] Apresentação parece startup de 6 meses — não transmite 14 anos de experiência — [698dcb4b834af3001393610e](/2026-02) | Severidade: high | Tipo: strategic
+- [HIGH] [operational] Muitos espaços em branco na apresentação — não passa sensação de volume e escala — [698dcb4b834af3001393610e](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [marketing] Vídeos muito calmos — não geram engajamento — [698dcb4b834af3001393610e](/2026-02) | Severidade: medium | Tipo: marketing
+- [HIGH] [operational] Processo seletivo sem registro — se Luan foi contratado, sua integração não está documentada — [698ddce91bcf5d0012a30d2c](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Se decisão foi contrária (Luan não aprovado), essa informação também está perdida — [698ddce91bcf5d0012a30d2c](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Imobiliárias resistem a pagar custo adicional por consultoria — response foi unânime. Positioning do serviço opcional pode não converter — [698e071b1bcf5d0012a314f4](/2026-02) | Severidade: high | Tipo: financial
+- [HIGH] [operational] Equipe técnica com apenas 4 pessoas atende 11 estados — clientes de catálogo gratuito podem demorar >1 dia. Prioridade para pagos cria atrito — [698e071b1bcf5d0012a314f4](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] ~40 CRMs com regras variáveis — sem monitoramento ativo, regras mudam sem notificação (ex: Mobi Brasil começou a cobrar pacote extra) — [698e071b1bcf5d0012a314f4](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] CRM subscendo edições feitas pela equipe — trabalho de curadoria da Gisele pode ser apagado na próxima atualização automática — [698e071b1bcf5d0012a314f4](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Integração com plantas de unidades às vezes puxa apenas uma planta, causando inconsistência com preço — Dado técnico que afeta qualidade do catálogo — [698e071b1bcf5d0012a314f4](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] REUNIÃO NÃO OCORREU — 0.1min de duração. Possível cancelamento ou erro de registro. Necessária confirmação. — [698e3137ecdf0e00130126b6](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Tela de login completa com muitos campos causa atrito significativo — corretor abandona — [698f6d9bacd46d001342c98e](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Usuários mais velhos (50+) preferem PDF e não usam portal — população crescente — [698f6d9bacd46d001342c98e](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Formatação CMS não corresponde ao publicado — frustra gestor de conteúdo — [698f6d9bacd46d001342c98e](/2026-02) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Incorporador precisa de nome e telefone — dados adicionais são fricção — [698f6d9bacd46d001342c98e](/2026-02) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Mês em 82% do tempo com menos de 50% da meta atingida — ritmo insuficiente — [699c4f44e344ac00135beff1](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Follow-up com 'bom dia tudo bem' sem conteúdo é amadorismo eafasta cliente — [699c4f44e344ac00135beff1](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Etapa de formulário entre aprovação e contrato atrasa fechamento — [699c4f44e344ac00135beff1](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Incorporadoras em Curitiba estão demorando para se mexerem após lei de altas rendas — urgência não é clara para eles — [699de717fc507800135cebf6](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Curitiba evita palavra 'permuta' — linguagem precisa ser adaptada para 'parcelamento' — [699de717fc507800135cebf6](/2026-02) | Severidade: medium | Tipo: operational
+- [LOW] [relationship] Rafael não atua com imobiliário — não é contato útil para esta solução — [699de717fc507800135cebf6](/2026-02) | Severidade: low | Tipo: relationship
+- [HIGH] [operational] Luiz não atualizou cards há duas semanas — visibilidade de pipeline comprometida — [699df8a5fc507800135cef6d](/2026-02) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Marcos enrolando há 3 dias para assinar Lagon — pode perder deal — [699df8a5fc507800135cef6d](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] Divergência 180 no consolidado — planejamento financeiro pode ser afetado — [699df8a5fc507800135cef6d](/2026-02) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Anton não está no Bitrix — falta visibilidade de Curitiba — [699df8a5fc507800135cef6d](/2026-02) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Programação do painel dia 15 ainda não definida — compromete marketing e comunicação — [699f2aa210f9590013215cfc](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Evento no condomínio Murano é plantão de vendas adaptado — pode ter limitações de estrutura — [699f2aa210f9590013215cfc](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Horário de evento pode conflitar com rotina de construtores se for de manhã — [699f2aa210f9590013215cfc](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Kowalski não aceitou colaboração via business — apenas Facebook e Instagram — [69a0435446f1b600120eec2f](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Diego perdeu robô corretor ao migrar conta para business — [69a0435446f1b600120eec2f](/2026-02) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Feedback de Curitiba: cliente pediu mais seriedade, autoridade e credibilidade no conteúdo — [69a0435446f1b600120eec2f](/2026-02) | Severidade: low | Tipo: operational
+- [HIGH] [financial] 90 dias de carência gratuita terminam ~final de maio 2026 — se não houver processo de conversão, empreendimentos podem sair sem收费 — [69a07c1fe344ac00135c907e](/2026-02) | Severidade: high | Tipo: financial
+- [MEDIUM] [financial] Precificação segue tabela Apolar — se a tabela Apolar for mais baixa que a Órulo, há risco de subprecificação — [69a07c1fe344ac00135c907e](/2026-02) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Imóveis não vendidos em 10-15 dias vão automaticamente para Apolar Busca — podem criar conflito de exclusividade com outros canais — [69a07c1fe344ac00135c907e](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [strategic] Apolar atualiza 70% dos lançamentos do Brasil — poder de dados grande mas dependencia de partner único — [69a07c1fe344ac00135c907e](/2026-02) | Severidade: medium | Tipo: strategic
+- [HIGH] [operational] Muitos clientes não possuem administrador definido — risco operacional alto — [69a19c4b7ac8c80013e360e1](/2026-02) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Percepção de baixa atualização pode gerar desconfiança no produto — [69a19c4b7ac8c80013e360e1](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Editor pode tentar roubar corretor de outro gerente se tiver permissões — [69a19c4b7ac8c80013e360e1](/2026-02) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Fevereiro foi mês desafiador (chuvas) — equipe manteve foco mas resultados podem ter sido impactados — [69a589c5e344ac00135cecc6](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Luan novo — curva de aprendizado pode impactar resultados de março — [69a589c5e344ac00135cecc6](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Follow-up sem valor contextualizado não gera impacto — time tende a fazer follow-up mecânico — [69a589c5e344ac00135cecc6](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Feb venda R$ 3.800 vs meta R$ 15k — 75% abaixo da meta — [69a5d01885c6ba0013e91d47](/2026-03) | Severidade: high | Tipo: financial
+- [HIGH] [operational] 2 mil integrações inativas sem resolução — receita estagnada — [69a5d01885c6ba0013e91d47](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [relationship] Bruno não demonstrando urgência e falta objetividade — risco para time — [69a5d01885c6ba0013e91d47](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [operational] Universal: PH com histórico de não responder e não colaborar — [69a5d01885c6ba0013e91d47](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Knight não colaborou com BDRs — atrapalha performance do time — [69a5d01885c6ba0013e91d47](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [strategic] Tentativa anterior de levar Panorama para litoral não evoluiu em 2024 — [69a8812d22b1f60013518707](/2026-03) | Severidade: medium | Tipo: strategic
+- [LOW] [operational] Falta de engajamento anterior ocorreu durante período de férias de março — [69a8812d22b1f60013518707](/2026-03) | Severidade: low | Tipo: operational
+- [HIGH] [operational] João fez 8 reuniões na semana — abaixo do número 'bom' de 20. Performando abaixo do target. — [69a9d2aaf0f6080013cc814b](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Tenda 'sempre escorrega' — padrão de perda reiterada. Sem intervenção, histórico vai se repetir. — [69a9d2aaf0f6080013cc814b](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Processo de reporte entre closer e Gustavo não estava acontecendo antes — 'fechar ciclo' era necessário — [69a9d2aaf0f6080013cc814b](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] João fechou 5-7 vendas — mas qual o ticket médio? A meta de R$ 15mil depende de mix de produtos — [69a9d2aaf0f6080013cc814b](/2026-03) | Severidade: medium | Tipo: financial
+- [LOW] [financial] Luan em onboarding — ainda não está gerando revenue, apenas absorvendo custo — [69a9d2aaf0f6080013cc814b](/2026-03) | Severidade: low | Tipo: financial
+- [MEDIUM] [operational] Qualidade de vídeo em Vitória foi fraca — sem profissionalismo não escala — [69aac1ccd537b40013ab1c27](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Compartilhamento Instagram com usuários não-hora é complicado — [69aac1ccd537b40013ab1c27](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Evento Vitória focou em redes sociais sem anúncio — alcance pode ter sido baixo — [69aac1ccd537b40013ab1c27](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Gustavo estava muito focado no topo do funil e pouco no fundo — [69ab191ceef3be0013324da1](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] CRM precisa melhorar preenchimento de etapa do funil e dados de temperatura — [69ab191ceef3be0013324da1](/2026-03) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Time sentindo que 'cada hora surge uma coisa nova' — risco de sobrecarga — [69ab191ceef3be0013324da1](/2026-03) | Severidade: low | Tipo: operational
+- [MEDIUM] [operational] João é novo como apresentador — risco de perder público ou não cobrir conteúdo no tempo — [69b0722b4519e900135b07f9](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Ativar rede de audiência qualificada é a maior lacuna de recursos — [69b159356fac13001319c488](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Comunicação com corretores é um dos pontos mais frágeis da estratégia atual — [69b159356fac13001319c488](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Falta visualização de quais ações geraram aumento de corretores ativos em Curitiba — [69b159356fac13001319c488](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Time de BDR não está usando Z2 corretamente — não sabe usar automação, detecção de diálogos quentes ou auditoria — [69b1bd08c1e9ee0013779ffa](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Bloqueio por spam se exceder 2 mensagens por hora — pode afectar comunicação do evento — [69b1bd08c1e9ee0013779ffa](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [relationship] Felipe está focado em Vitória (fechando 4 contratos grandes) — pode não ter bandwidth para Capão — [69b1bd08c1e9ee0013779ffa](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [operational] Segmentação de blocos pode não atingir público certo — 200 contatos podem não responder — [69b1bd08c1e9ee0013779ffa](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [relationship] Mercado imobiliário Curitiba é mais tradicional e lento na adoção de CRI — [69b2f1112c298800128eafa1](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [compliance] Advogados e contadores ainda não dominam CRI — pode gerar resistência — [69b2f1112c298800128eafa1](/2026-03) | Severidade: medium | Tipo: compliance
+- [LOW] [financial] Setup pode aumentar de 60k para 100k em breve —犹豫 pode custar mais caro — [69b2f1112c298800128eafa1](/2026-03) | Severidade: low | Tipo: financial
+- [HIGH] [operational] WhatsApp de Ester restrito por 24h devido a fluxo de mensagens — [69b3ffb54270ef0013147a6a](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Maioria dos corretores não conhece CRM ou integração — educação de mercado necessária — [69b3ffb54270ef0013147a6a](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Apenas 1.278 de 3.611 integrações têm fluxo de dados — baixa utilização — [69b3ffb54270ef0013147a6a](/2026-03) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Corretora questionou custo de integração mas era cliente não pagante — [69b3ffb54270ef0013147a6a](/2026-03) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Reuniao de 63 minutos sem registro — histórico completamente perdido. Impossível auditar. — [69b406bf6fac1300131a22fb](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] GC Engenharia não avançou despite reunião presencial — pode ser desinteresse real — [69b44bbf7314d6001379cf1c](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Marco da R2 não responde — pode ser perdido — [69b44bbf7314d6001379cf1c](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [relationship] Luciano situation is difficult — relacionamento comprometido — [69b44bbf7314d6001379cf1c](/2026-03) | Severidade: high | Tipo: relationship
+- [MEDIUM] [operational] Quest: Bruno não repassa informações — coordadores enrolados — [69b44bbf7314d6001379cf1c](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Desafio principal: avançar de reunião realizada para negociação ativa — [69b44bbf7314d6001379cf1c](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Reunião de 119.8 minutos sem nenhum dado — impossibilidade total de análise — [69b47ac2e108b900136ad1fd](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [strategic] Se reunião aconteceu e continha decisões estratégicas, essas decisões não estão documentadas em nenhum lugar — [69b47ac2e108b900136ad1fd](/2026-03) | Severidade: medium | Tipo: strategic
+- [HIGH] [financial] Z2 tem implantações não faturadas — risco de receita não reconhecida — [69b845174ddb450012bb9140](/2026-03) | Severidade: high | Tipo: financial
+- [MEDIUM] [financial] Clientes do ano passado ainda têm discussões abertas sobre pagamento — [69b845174ddb450012bb9140](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] Super Lógica não responde há dois meses sobre categorização — [69b845174ddb450012bb9140](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Internacionalização (Paraguai) não suportada pelo sistema — [69b845174ddb450012bb9140](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Levantar 25M em equity para Campinas não é trivial no mercado atual — [69bbe54c50d24b001394c612](/2026-03) | Severidade: high | Tipo: financial
+- [MEDIUM] [financial] Limite de 15M por estrutura pode ser insuficiente para operações maiores — [69bbe54c50d24b001394c612](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [financial] Loteador do interior quer capitalizar para comprar concorrentes — uso de capital pode não gerar retorno esperado — [69bbe54c50d24b001394c612](/2026-03) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Limite de imóveis no plano CRM causa retrabalho e desistência — barreira de produto que empurra corretores para uso direto do Ouro — [69bd3dc6afb4b00013f63364](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Mensagem anterior com hotsite/inteligência de mercado teve 35-40% de resposta — mas pode estar saturando. Testar mensagem nova com abordagem diferente. — [69bd3dc6afb4b00013f63364](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Corretores preferem plataforma gratuita — custo do CRM é barreira real. Se não houver argumento de valor forte, perdem para alternativas gratuitas. — [69bd3dc6afb4b00013f63364](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [operational] De 19 inativos contactados, apenas 1 quer reativar — taxa de sucesso de 5%. Esforço alto para resultado baixo se não segmentar melhor. — [69bd3dc6afb4b00013f63364](/2026-03) | Severidade: medium | Tipo: operational
+- [LOW] [operational] Corretores acham que têm poucos empreendimentos para investir em JP — percepção de baixa oferta compared to other praças — [69bd3dc6afb4b00013f63364](/2026-03) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Se Imobmeet não tiver tabela de vendas estruturada, integração não funciona — [69bd9ef06a28e60013c3eb61](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [relationship] Incorporadoras podem resistir à integração por medo de expor dados — [69bd9ef06a28e60013c3eb61](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [operational] Expansão para capitais depende de Gleybiony resolver problemas técnicos — [69bd9ef06a28e60013c3eb61](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] 4 empreendimentos simultâneos exigem capital próprio significativo — risco de concentração de risco — [69be9d49c1f67b0013e5fa4c](/2026-03) | Severidade: high | Tipo: financial
+- [MEDIUM] [financial] Daniel não financia pós-obra — dependência de capital próprio limita escala — [69be9d49c1f67b0013e5fa4c](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [relationship] Terrenista do Sublime Batel declinou permuta antes — pode resistir novamente — [69be9d49c1f67b0013e5fa4c](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [financial] Locação tem carga tributária de ~30% vs 4% em compra e venda — sem CRI, penaliza investidor — [69be9d49c1f67b0013e5fa4c](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [financial] Greca: 9.892m², 24 pavimentos, 95% capital próprio — obra de alto risco se mercado esfriar — [69be9d49c1f67b0013e5fa4c](/2026-03) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Incorporação imobiliária em Sinop é negocio de alto risco — não aceita amador — [69c3dc5fdbc75500136ae2e6](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [strategic] Mato-grossenses patrimonialistas — 80% não querem revender, difere do perfil SP — [69c3dc5fdbc75500136ae2e6](/2026-03) | Severidade: medium | Tipo: strategic
+- [HIGH] [financial] Sem definição de estrutura (CRI vs SCP), economia de 5M não acontece — [69c3dc5fdbc75500136ae2e6](/2026-03) | Severidade: high | Tipo: financial
+- [HIGH] [operational] Gustavo em tratamento de saúde desde fim de 2024 — projeto pode atrasar — [69c53bda89dd4d0013feab19](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Automação de outbound sem processo validado primeiro pode desperdiçar investimento — [69c53bda89dd4d0013feab19](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] BDRs não sabem usar IA no dia a dia — automação avançada inútil sem treinamento básico — [69c53bda89dd4d0013feab19](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Cada SDR/BDR usa WhatsApp web individual — sem centralização não há controle — [69c53bda89dd4d0013feab19](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Negociação Luli Goiânia travada na diretoria — risco de perder três contratos — [69c58224f2dd940013643f4d](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] W3 Rio aguardando assinatura — faturamento por SPA pode travar novamente — [69c58224f2dd940013643f4d](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] 430 imobiliárias aguardando ativação — botão não habilitado — [69c58224f2dd940013643f4d](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Denise SP aguardando aprovação da diretoria de parcerias — [69c58224f2dd940013643f4d](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Velocidade de 10% da meta mensal insuficiente — 90% do caminho falta — [69c674b5602e260013bbd14c](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Z2 não suporta áudios — comunicação pode ser perdida — [69c674b5602e260013bbd14c](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] João Pessoa uma das piores cidades para integração de corretores — [69c674b5602e260013bbd14c](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Capão da Canoa pode não ter lotação suficiente para evento — [69c67bbe0da323001305d36e](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [operational] Realiza em Curitiba não sabia sobre planos de aceleração — informação não está chegando aos clientes — [69ca73c524b2440013ebe436](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [operational] Sócios locais podem sobrecarregar se não tiver automações/processos — [69ca73c524b2440013ebe436](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] Paisagem Corporal pediu remoção de empreendimentos — perdemos conta? — [69ca73c524b2440013ebe436](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Volume de reuniões precisa aumentar para bater meta anual de 250k — [69ca73c524b2440013ebe436](/2026-03) | Severidade: medium | Tipo: operational
+- [HIGH] [financial] Z2 deve R$ 50 mil de implantações e não paga há um ano — [69caba140da323001306119a](/2026-03) | Severidade: high | Tipo: financial
+- [HIGH] [operational] Modelo de sociedade com Z2 não funciona operacionalmente — [69caba140da323001306119a](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [compliance] Passivos jurídicos e financeiros pendentes bloqueiam novas pautas — [69caba140da323001306119a](/2026-03) | Severidade: high | Tipo: compliance
+- [MEDIUM] [operational] Corretores reclamam que não existe book para empreendimento — [69caba140da323001306119a](/2026-03) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Cyrela tem problema com comissão que diminui quando vende bem — [69caba140da323001306119a](/2026-03) | Severidade: medium | Tipo: financial
+- [LOW] [operational] Reunião ID 69cbd3552282e200121d1659 enviada 3 vezes neste turno (16:36, 16:38, 16:40) — [69cbd3552282e200121d1659](/2026-03) | Severidade: low | Tipo: operational
+- [HIGH] [operational] Guilherme ainda não fechou nenhum contrato assinado — só GFR contratando e Antônio pending — [69cc20acddea5b00135fdc45](/2026-03) | Severidade: high | Tipo: operational
+- [HIGH] [relationship] Conflito potencial entre remuneração de Zanella e Guilherme (ambos querem % do faturamento) — [69cc20acddea5b00135fdc45](/2026-03) | Severidade: high | Tipo: relationship
+- [HIGH] [operational] Mercado Curitiba é fechado por corretores — requer presença física e mística local — [69cc20acddea5b00135fdc45](/2026-03) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] Incorporadoras conversam entre si sobre preços — criam pressão para padronização — [69cc20acddea5b00135fdc45](/2026-03) | Severidade: medium | Tipo: financial
+- [MEDIUM] [relationship] Rafael descartado por comportamento problemático — pode spread negative word-of-mouth — [69cc20acddea5b00135fdc45](/2026-03) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [operational] CRM em avaliação sem decisão — processo pode estar parado — [69cd08ba5339450013b8fd72](/2026-04) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Bianca 80% estoque vendido sem lançamento este ano — não tem momento crítico = não converte agora — [69cd08ba5339450013b8fd72](/2026-04) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Mateus (Sobral) ainda em investigação — sem card robusto não avança — [69cd08ba5339450013b8fd72](/2026-04) | Severidade: medium | Tipo: operational
+- [MEDIUM] [operational] Unitas tem capacidade de distribuição via Samba Office e investidores conhecidos — pode não precisar do Paulo se conseguir deals grandes — [69ce765eddea5b001360288d](/2026-04) | Severidade: medium | Tipo: operational
+- [MEDIUM] [relationship] Parceria ainda não está selada — Raphael vai testar com um caso — [69ce765eddea5b001360288d](/2026-04) | Severidade: medium | Tipo: relationship
+- [MEDIUM] [financial] Fundo imobiliário só vale a pena com originação significativa — Unitas pode não ter volume suficiente — [69ce765eddea5b001360288d](/2026-04) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Maristela (Floripa) parou de responder — contrato de 6 meses pode ser perdido — [69cebf017c8d0800136e9e57](/2026-04) | Severidade: high | Tipo: operational
+- [MEDIUM] [financial] Cumaru recusou taxa de implementação — pode perder Implementation fee — [69cebf017c8d0800136e9e57](/2026-04) | Severidade: medium | Tipo: financial
+- [HIGH] [operational] Dados CRM em caos — campo estado não usado, duplicações, campos conflitantes — [69cebf017c8d0800136e9e57](/2026-04) | Severidade: high | Tipo: operational
+- [MEDIUM] [operational] João tem 89% da carteira com Luan — concentração de risco — [69cebf017c8d0800136e9e57](/2026-04) | Severidade: medium | Tipo: operational
+- [MEDIUM] [financial] Salazar com 50% desconto — margem comprometida se aceitar — [69cebf017c8d0800136e9e57](/2026-04) | Severidade: medium | Tipo: financial

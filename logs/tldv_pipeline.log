@@ -53,3 +53,25 @@
   File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", 
 [2026-04-14T22:08:52]   Erro #3
 [2026-04-14T22:08:57]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)
+[2026-04-14T22:12:56]     FALHOU (rc=1): 
+[2026-04-14T22:12:56]   Erro #4
+[2026-04-14T22:13:01]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)
+[2026-04-14T22:13:28]     FALHOU (rc=1): 
+[2026-04-14T22:13:28]   Erro #5
+[2026-04-14T22:13:28]   5 erros seguidos — abortando enrich
+[2026-04-14T22:13:28]   Total analisadas nesta execução: 10
+[2026-04-14T22:13:28] === ESTÁGIO 4: PERSIST ===
+[2026-04-14T22:13:29]   Novos itens persistidos: 99
+[2026-04-14T22:13:29] === PIPELINE FINALIZADO ===
+[2026-04-14T22:13:29]   collect: 3
+[2026-04-14T22:13:29]   enrich: 50
+[2026-04-14T22:13:29]   analyze: 10
+[2026-04-14T22:13:29]   persist: {'written': 99, 'total': 101}
+[2026-04-14T23:41:59] === PIPELINE tl;dv | stages=['collect', 'enrich', 'analyze', 'persist'] | dry=False ===
+[2026-04-14T23:41:59] === ESTÁGIO 1: COLLECT ===
+[2026-04-14T23:42:43]   Coletadas: 0 reuniões (total: 777)
+[2026-04-14T23:42:43] === ESTÁGIO 2: ENRICH ===
+[2026-04-14T23:43:14] === ESTÁGIO 3: ANALYZE ===
+[2026-04-14T23:43:14]   Analisando: 68c091be0972b500130a0529 (776 pendentes)
+[2026-04-14T23:48:12] === ESTÁGIO 1: COLLECT ===
+[2026-04-14T23:48:12] === ESTÁGIO 4: PERSIST ===
