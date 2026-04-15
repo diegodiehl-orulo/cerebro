@@ -87,9 +87,12 @@ def extract_actions(body):
     return actions
 
 def load_processed():
-    if PROCESSED_LIST.exists():
-        return set(json.loads(PROCESSED_LIST.read_text()))
-    return set()
+    summaries_dir = Path("/root/.openclaw/workspace/memory/meetings/summaries")
+    seen = set()
+    if summaries_dir.exists():
+        for fname in summaries_dir.glob("*.json"):
+            seen.add(fname.stem)
+    return seen
 
 def save_processed(ids):
     PROCESSED_LIST.write_text(json.dumps(list(ids)))
@@ -120,6 +123,13 @@ def main():
     for msg in new[:5]:  # Max 5 por vez
         body, headers = get_email_body(service, msg['id'])
         
+        # Skip se ja processado (summary existe)
+        summary_check = WORKSPACE / "memory/meetings/summaries" / f"{msg['id']}.json"
+        if summary_check.exists():
+            print(f"[{msg['id']}] Ja processado — ignorando")
+            processed.add(msg['id'])
+            continue
+
         # Skip se sem conteúdo
         if 'nenhum som foi detectado' in body.lower():
             processed.add(msg['id'])
