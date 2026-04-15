@@ -507,6 +507,15 @@ def analyze_meeting(
         return {"status": "skipped", "meeting_id": meeting_id,
                 "detail": "Ja analisada"}
 
+    # BLOCK: if API returned 404 (not_found), mark as analyzed so pipeline skips forever
+    if data.get("not_found"):
+        logger.error(f"Meeting {meeting_id} returned 404 in API — blocking permanently")
+        if meeting_id not in ledger["analyzed"]:
+            ledger["analyzed"].append(meeting_id)
+            LEDGER_FILE.write_text(json.dumps(ledger, indent=2))
+        return {"status": "blocked", "meeting_id": meeting_id,
+                "detail": "404_not_found_API"}
+
     if dry_run:
         return {"status": "dry-run", "meeting_id": meeting_id,
                 "detail": "Dry run -- nao executa analise"}

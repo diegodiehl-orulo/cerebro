@@ -141,8 +141,12 @@ def stage_analyze(args) -> int:
         else:
             errors_seq += 1
             log(f"  Erro #{errors_seq}")
+            # MOVE FAILED MEETING TO END OF QUEUE — prevents infinite loop on same ID
+            failed_id = pending.pop(0)
+            pending.append(failed_id)
+            log(f"  {failed_id} movido para final da fila")
             if errors_seq >= 5:
-                log("  5 erros seguidos — abortando enrich")
+                log("  5 erros seguidos — abortando analyze")
                 break
         time.sleep(5)
 
