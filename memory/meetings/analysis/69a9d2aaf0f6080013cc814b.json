@@ -1,0 +1,630 @@
+{
+  "meeting_id": "69a9d2aaf0f6080013cc814b",
+  "name": "Forecast Closer",
+  "happened_at": "2026-03-05T19:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-15T00:54:40.562759+00:00",
+  "executive_summary": "Forecast Closer (mar/2026). Luan em onboarding: semana 1 focada em ecossistema. João fez 8 reuniões (quinta a quinta). Gustavo guardião do método. Diego cobra: closer liga para Gustavo após reunião. SDR preenche planilha. João preencher consolidação fevereiro. Meta mensal: R$ 15mil, funil deve ter R$ 30mil. Esdras travado em Ubatuba. Tenda escorrega. Eventos POA/Capão primeiro, JP/Recife 15-20 dias depois.",
+  "context": {
+    "purpose": "Forecast semanal de comercial: métricas, onboarding Luan, deals quentes, método de reunião do closer, CRM",
+    "main_agenda_items": [
+      "Onboarding Luan — semana 1",
+      "Métricas João: 8 reuniões realizadas",
+      "Método de reunião do closer — Gustavo como guardião",
+      "Processo: closer liga para Gustavo após reunião",
+      "Planilha consolidação fevereiro — João preencher",
+      "SDR Responsible por planilha",
+      "Esdras (Ubatuba): contrato travado",
+      "Tenda: sempre escorrega",
+      "Eventos regionais: POA/Capão primeiro",
+      "Meta mensal: R$ 15mil",
+      "Funil closer: R$ 30mil em negociação",
+      "Revisar CRM: remover etapa Seguir Cadência"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — dirige, cobra, delega",
+      "João Vitor Portes da Silva": "Closer — reporta métricas, deals quentes",
+      "Gustavo Torres": "Coordenador — guardião do método, conecta closer e SDR",
+      "Luan Felipe de Souza": "SDR novo — onboarding semana 1"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 51.8
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Diego marcar reunião mais concentrada com Luan para conversa rica (adiada por viagem de Diego)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Luan começa treinamentos de produto na próxima semana (Z2 + contextos específicos)",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Luan começa a atender com acompanhamento na terceira semana (acompanhamento antes de solo)",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "João trazer números quinzenais de reuniões realizadas (quinta a quinta) —guardião do reporting",
+      "decision_maker": "João Vitor Portes",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Gustavo ser guardião do método de reunião do closer — criar modelo de cadência",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Processo: closer deve ligar para Gustavo após reunião para reportar resultado",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D7",
+      "description": "João preencher planilha de consolidação de vendas de fevereiro",
+      "decision_maker": "João Vitor Portes",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D8",
+      "description": "SDR responsible por preencher planilha após reunião do closer",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D9",
+      "description": "Gustavo passar planilha para Jade e SDRs preencherem também",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D10",
+      "description": "Remover etapa 'Seguir Cadência' do CRM — etapa desnecessária",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D11",
+      "description": "João revisar negociações quentes e remover etapas desnecessárias do CRM",
+      "decision_maker": "João Vitor Portes",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D12",
+      "description": "Diego liga de aeroporto para fechamento final (caso não resolvido antes)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D13",
+      "description": "Gustavo colocar SW a Construções no grupo comercial",
+      "decision_maker": "Gustavo Torres",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D14",
+      "description": "Reunião Bitrix amanhã para ajustar funil e revisar campos",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D15",
+      "description": "João testar processo de pedir indicação na próxima semana",
+      "decision_maker": "João Vitor Portes",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D16",
+      "description": "Usar Stories em vez de e-mail marketing para não sobrecarregar corretores",
+      "decision_maker": "Diego Diehl",
+      "confidence": "likely",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Esdras (Ubatuba): contrato travado, aguardando validação com Marcelo",
+      "owner": "João Vitor Portes + Marcelo",
+      "deadline": null,
+      "status": "blocked",
+      "source": "transcript",
+      "blocking_factor": "Validação de Marcelo pendente"
+    },
+    {
+      "id": "O2",
+      "description": "João compartilhar contrato da Esdras para revisão",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "João dar retorno para Renato sobre Esdras",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "João solicitar dados da Afonso para formalizar troca de anunciante",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O5",
+      "description": "Bia: não fechou — necessário escalar para decisor",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Escala para decisor needed"
+    },
+    {
+      "id": "O6",
+      "description": "React Incorporadora: aguardando formalização de e-mail para troca de anunciante",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O7",
+      "description": "Tenda (Sabrina e Anderson): reunião aconteceu, testaram 30 dias — follow-up para não escorregar",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Diego alertou: sempre escorrega"
+    },
+    {
+      "id": "O8",
+      "description": "João fazer follow-up com Rio Grande do Sul (Sabrina e Anderson)",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O9",
+      "description": "Catarina: contrato enviado, Edu para assinar esta semana",
+      "owner": "Edu",
+      "deadline": "2026-03-08",
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O10",
+      "description": "Orla: proposta enviada, aguardando ok até terça-feira",
+      "owner": "Orla",
+      "deadline": "2026-03-10",
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O11",
+      "description": "Marcos (CEO indicado): aguardando assinatura até sexta-feira",
+      "owner": "Marcos",
+      "deadline": "2026-03-06",
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O12",
+      "description": "João Pessoa e Recife: eventos começam 15-20 dias depois (depende de POA)",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O13",
+      "description": "Diego marcar reunião focada com Luan",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O14",
+      "description": "Reunião Bitrix — ajustar funil e revisar campos",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-06",
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "João: trazer números quinzenais de reuniões realizadas (quinta a quinta)",
+      "owner": "João Vitor Portes",
+      "deadline": "2026-03-12",
+      "priority": "high",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "João: preencher planilha consolidação vendas fevereiro",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Gustavo: criar modelo de cadência de reunião do closer (guardião do método)",
+      "owner": "Gustavo Torres",
+      "deadline": null,
+      "priority": "high",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Closer (João): ligar para Gustavo após cada reunião com resultado",
+      "owner": "João Vitor Portes",
+      "deadline": "após cada reunião",
+      "priority": "high",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T5",
+      "description": "João: revisar negociações quentes e remover etapas desnecessárias do CRM",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "priority": "medium",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T6",
+      "description": "João: follow-up com RS (Sabrina e Anderson — Tenda)",
+      "owner": "João Vitor Portes",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T7",
+      "description": "João: testar processo de pedir indicação na próxima semana",
+      "owner": "João Vitor Portes",
+      "deadline": "2026-03-09",
+      "priority": "medium",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T8",
+      "description": "Diego: ligar de aeroporto para fechamento final (se necessário)",
+      "owner": "Diego Diehl",
+      "deadline": "2026-03-05",
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T9",
+      "description": "Luan: treinamentos de produto Z2 na próxima semana",
+      "owner": "Luan Felipe de Souza",
+      "deadline": "2026-03-09",
+      "priority": "medium",
+      "status": "assigned",
+      "source": "transcript"
+    },
+    {
+      "id": "T10",
+      "description": "Diego: reunião focada com Luan (adiada)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "A meta mensal de R$ 15mil foi atingida? Qual foi o resultado de março?",
+      "context": "Meta clara была поставлена. Sem checkpoint, não há como saber se o funil de R$ 30mil converteu",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q2",
+      "question": "João fez 8 reuniões na semana — qual a taxa de conversão? Quantas viraram proposals?",
+      "context": "8 reuniões é número real. Mas sem tracking de conversão, não há como medir eficiência",
+      "answer_required_by": null,
+      "owner": "João Vitor Portes"
+    },
+    {
+      "id": "Q3",
+      "question": "O caso Esdras (Ubatuba) foi desbloqueado? Qual o status do contrato?",
+      "context": "Travado em Marcelo. Se 2+ meses se passaram, pode estar perdido",
+      "answer_required_by": null,
+      "owner": "João Vitor Portes + Marcelo"
+    },
+    {
+      "id": "Q4",
+      "question": "O modelo de cadência do Gustavo (guardião do método) foi criado? Está sendo seguido?",
+      "context": "D5 era criação de método — se não saiu do papel, não há padronização",
+      "answer_required_by": null,
+      "owner": "Gustavo Torres"
+    },
+    {
+      "id": "Q5",
+      "question": "A etapa 'Seguir Cadência' foi removida do CRM? A reunião de Bitrix aconteceu?",
+      "context": "D10 e D14 tinham prazos definidos. Se não happened, CRM continua com etapas desnecessárias",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "João fez 8 reuniões na semana — abaixo do número 'bom' de 20. Performando abaixo do target.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Diagnosticar: é questão de volume (poucas oportunidades) ou de conversão (muitas perdas)?",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Tenda 'sempre escorrega' — padrão de perda reiterada. Sem intervenção, histórico vai se repetir.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Criar processo de follow-up estruturado com check-in mais frequentes",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Processo de reporte entre closer e Gustavo não estava acontecendo antes — 'fechar ciclo' era necessário",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Garantir que o processo de closer ligar para Gustavo esteja sendo cumprido",
+      "source": "transcript"
+    },
+    {
+      "id": "R4",
+      "description": "João fechou 5-7 vendas — mas qual o ticket médio? A meta de R$ 15mil depende de mix de produtos",
+      "type": "financial",
+      "severity": "medium",
+      "mitigation": "Acompanhar ticket médio pordeal para verificar se mix supports meta",
+      "source": "transcript"
+    },
+    {
+      "id": "R5",
+      "description": "Luan em onboarding — ainda não está gerando revenue, apenas absorvendo custo",
+      "type": "financial",
+      "severity": "low",
+      "mitigation": "Tracking de when Luan starts attending solo e gerando pipeline",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Desconto na primeira mensalidade como incentivo para indicações — testar mecanismo de gamificação",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Bônus de marketing (Stories/App Store) como reward por indicação — canal menos saturado que e-mail",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes",
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Paulo Mauro com possible influenciadora — oportunidade de marketing de conteúdo",
+      "potential_impact": "medium",
+      "owner": "Diego Diehl + marketing",
+      "source": "transcript"
+    },
+    {
+      "id": "OP4",
+      "description": "Cotisa quer mais produtos — upsell natural de 4 para 9 produtos (aumento de R$ 400)",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes",
+      "source": "transcript"
+    },
+    {
+      "id": "OP5",
+      "description": "Imob Luiz com potencial de 5 incorporadoras — expansão significativa de base",
+      "potential_impact": "high",
+      "owner": "João Vitor Portes",
+      "source": "transcript"
+    },
+    {
+      "id": "OP6",
+      "description": "São Paulo e Campinas como aprendizado master — evento pode virar playbook para outras praças",
+      "potential_impact": "medium",
+      "owner": "João Vitor Portes + Diego",
+      "source": "transcript"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar D1-D16 em memory/decisions.md com status",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Reunião densa com 16 decisões — sem registro impossível auditar execução"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar métricas de funil: 8 reuniões realizadas, meta 10/15/20 (ruim/médio/bom), meta R$ 15mil, funil R$ 30mil",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Baseline de performance definida nesta reunião — comparar com resultados reais"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar processo: closer liga para Gustavo após reunião — criar como protocol padrão",
+      "destination": "docs/processo_closer.md",
+      "priority": "high",
+      "reason": "Processo novo criado e documentado — deve virar regra, não exceção"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar lição: 'Tenda sempre escorrega' — padrão histórico. Criar alerta automático para deals Tenda.",
+      "destination": "memory/lessons.md",
+      "priority": "medium",
+      "reason": "Padrão identificadose repete — CRM deve ter tag ou alerta khusus untuk Tenda"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Métricas de performance: ruim = 10 reuniões, médio = 15, bom = 20 por semana (quinta a quinta)",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "João fez 8 reuniões na semana — abaixo do número 'bom'. Restante em remarcação.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Meta mensal: R$ 15mil. Funil do closer deve ter R$ 30mil em negociação — ratio 2:1",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Processo: closer liga para Gustavo após reunião — fecha ciclo de reporte",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Gustavo Torres é guardião do método de reunião do closer — responsável por padronizar",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Luan (SDR novo) em onboarding — semana 1 entender ecossistema, semana 2 treinamentos Z2, semana 3 atender com acompanhamento",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "João fechou 5-7 vendas. Taxa de conversão ~1 venda a cada 2-3 dias",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Tenda (Sabrina + Anderson): 'sempre escorrega' — padrão histórico, requiere follow-up intensivo",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M9",
+      "memory": "Esdras em Ubatuba: contrato travado, aguardando Marcelo. Valor baixo.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M10",
+      "memory": "Cotisa: upsell de 4 para 9 produtos + R$ 400/mês",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M11",
+      "memory": "Imob Luiz: potencial de 5 incorporadoras nuevas",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M12",
+      "memory": "Desconto na primeira mensalidade como incentivo para indicações — mecanismo de gamificação",
+      "category": "process",
+      "confidence": "likely"
+    },
+    {
+      "id": "M13",
+      "memory": "Stories > e-mail marketing para não sobrecarregar — canal mais eficaz por ser menos saturado",
+      "category": "process",
+      "confidence": "likely"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Confirmar com Diego: (1) Meta R$ 15mil — resultado de março? (2) João 8 reuniões — conversão conhecida? (3) Modelo de cadência do Gustavo foi criado? (4) Tenda fechou ou continua escorregando? (5) CRM: etapa 'Seguir Cadência' foi removida? — 5 semanas sem checkpoint.",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-15",
+    "reason": "Reunião de 5 semanas atrás com 16 decisões e 14 open items. Checkpoints críticos necessários para saber se o pipeline está healthy."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "high",
+    "gaps": [
+      "Transcript truncado no final — caso Esdras cortado",
+      "Conversão das 8 reuniões não foi explicitamente stated",
+      "Resultado da reunião de Bitrix (D14) é desconhecido",
+      "Resultado específico de cada deal quente (Orla, Catarina, Marcos, Tenda) não foi actualizado",
+      "Ticket médio dos deals não foi discutido"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Itens de Ação",
+    "Onboarding de Luan",
+    "Negociações Quentes - Próximos Passos",
+    "Estratégia de Indicações e Marketing",
+    "Eventos e Estratégia Regional",
+    "Processo de Vendas e CRM",
+    "Propostas e Descontos",
+    "Reuniões Futuras"
+  ]
+}

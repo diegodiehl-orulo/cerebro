@@ -1,0 +1,553 @@
+{
+  "meeting_id": "68d52426dd73370013fde50a",
+  "name": "Update: Z2 + Orulo",
+  "happened_at": "2025-09-25T11:15:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-15T00:45:29.491096+00:00",
+  "executive_summary": "Update quinzenal Z2 + Órulo (set/2025). Z2 em piloto com Lúcio (Faria Lima) há 30 dias com OK da diretoria. 50% dos corretores ativos vêm de grupos de concorrência. Campanha R$ 2.500 gerou 105 novos corretores. Vendas de R$ 14M → VGV R$ 89k (33k recebidos, 56k pendente). Diego propõe expansão Campinas. Plano empresa: R$ 2M total (R$ 1M cada parte). Próximos: reunião score com Alejandro, Campinas Summit, podcast.",
+  "context": {
+    "purpose": "Update quinzenal sincronizando Z2 e Órulo — métricas, integrações, estratégia de expansão e governança",
+    "main_agenda_items": [
+      "Piloto Z2 com Lúcio (Faria Lima) — 30 dias",
+      "Corretores de grupo de concorrência como canal de captação",
+      "Transição para método de meta com custo por mensagem",
+      "Resultados de campanha de marketing (R$ 2.500 → 105 corretores)",
+      "VGV e métricas de vendas (R$ 14M em vendas, R$ 89k VGV total)",
+      "Expansão Campinas",
+      "Login unificado + antecipação de comissões",
+      "Qualificação separada Z2 vs. Órulo",
+      "Score de incorporadores (classificação em níveis)",
+      "Plano empresa: R$ 2M total (R$ 1M cada parte)",
+      "Eventos e dinâmica de premiação para corretores",
+      "Podcast Diego + Junior"
+    ],
+    "participants_and_roles": {
+      "Diego Diehl": "Diretor Comercial — conduce, propone expansão Campinas",
+      "Junior Silva": "Líder Z2 — reporta piloto, resultados, estratégia",
+      "Eduardo Stringhini": "COO — levanta pontos de governança, sugere qualificação separada",
+      "Alejandro Olchik": "CTO — propõe login unificado e monitoramento",
+      "Felipe Goettems": "Diretor Produtos Financeiros",
+      "Rodrigo Italiano": "Equipe Z2 — discute integração e resultados",
+      "Wallace Guimarães": "Equipe — roda testes de ativação de lista",
+      "Mariana Marins": "Equipe",
+      "Pedro Ruza Kneip Navarro": "Sócio-Local Vitória",
+      "Carolina Campos": "Equipe — observa dinâmica de tognato",
+      "Fernando Florêncio": "Técnico",
+      "Marcelo Tadeu": "Equipe",
+      "João Pedro": "Equipe",
+      "Charles Augusto da Silva": "Equipe"
+    },
+    "meeting_type": "cadence",
+    "notes_limitation": null,
+    "duration_minutes": 111.9
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Piloto Z2 com Lúcio (Faria Lima) approved pela diretoria — 30 dias de implementação, resultado positivo",
+      "decision_maker": "Lúcio (cliente)",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Eduardo envia lista de 3 empreendimentos com grupos de concorrentes para Wallace — rodar teste de ativação metrificado",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "Transição para método de meta com custo por mensagem — novo modelo de precificação",
+      "decision_maker": "Diego Diehl + Junior",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "Qualificação separada para Z2 e Órulo — diferentes perfis de acesso para cada produto",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Sigilo nas qualificações de corretores entre incorporadoras — dado competitivo não pode ser compartilhado",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Desenvolver sistema de classificação de incorporadores em níveis de verificação (1, 2, 3)",
+      "decision_maker": "Equipo técnica",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D7",
+      "description": "Criar interface simples para consulta rápida de zona e status do corretor",
+      "decision_maker": "Equipo técnica",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D8",
+      "description": "Eduardo agenda reunião específica com Alejandro sobre score prototype",
+      "decision_maker": "Eduardo Stringhini",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D9",
+      "description": "Habilitar monitoramento Z2 via plataforma Ouro para consolidar bases de dados",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D10",
+      "description": "Separar na plataforma Z2 dados de eventos internos vs. dados de busca do mercado",
+      "decision_maker": "Equipo técnica",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D11",
+      "description": "Expansão Campinas — Diego propõe explorar mercado local (maior potencial que praça atual)",
+      "decision_maker": "Diego Diehl",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D12",
+      "description": "Junior organiza Campinas Technology Summit — evento para engajar profissionais locais de imobiliário",
+      "decision_maker": "Junior Silva",
+      "confidence": "uncertain",
+      "source": "transcript"
+    },
+    {
+      "id": "D13",
+      "description": "Diego + Junior planejam podcast juntos",
+      "decision_maker": "Diego Diehl + Junior",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D14",
+      "description": "Estratégia de eventos + dinâmicas de premiação para corretores — fidelização",
+      "decision_maker": "Junior Silva",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D15",
+      "description": "Login unificado com potencial de antecipação de comissões para corretores",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "likely",
+      "source": "transcript"
+    },
+    {
+      "id": "D16",
+      "description": "Incluir monitoramento de gestores no relatório mensal",
+      "decision_maker": "Alejandro Olchik",
+      "confidence": "likely",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "Eduardo enviar lista de 3 empreendimentos com grupo de concorrentes para Wallace —sem evidence de envio",
+      "owner": "Eduardo Stringhini",
+      "deadline": "2025-09-25",
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Teste metrificado de ativação com lista de Wallace — depends on lista de Eduardo",
+      "owner": "Wallace Guimarães",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Waiting for Eduardo's list"
+    },
+    {
+      "id": "O3",
+      "description": "Reunião de Eduardo com Alejandro sobre score prototype",
+      "owner": "Eduardo Stringhini + Alejandro",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Plataforma Ouro: habilitar monitoramento Z2 — projeto técnico de Alejandro",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O5",
+      "description": "Sistema de classificação de incorporadores em níveis (1, 2, 3) —depends on reuniões de Eduardo",
+      "owner": "Equipo técnica",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O6",
+      "description": "Campinas Technology Summit — organizado por Junior",
+      "owner": "Junior Silva",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O7",
+      "description": "Podcast Diego + Junior — sem definição de formato, periodicidade ou primeiro episódio",
+      "owner": "Diego Diehl + Junior",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O8",
+      "description": "Reunião para discutir compartilhamento de base e estratégias — aguardando agendamento",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O9",
+      "description": "VGV pendente de R$ 56k — cobrança ou follow-up necessário",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Eduardo: enviar lista de 3 empreendimentos com grupos de concorrentes para Wallace",
+      "owner": "Eduardo Stringhini",
+      "deadline": "2025-09-26",
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "Wallace: rodar teste de ativação metrificado com a lista de grupos de concorrentes",
+      "owner": "Wallace Guimarães",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Junior: criar template para próxima reunião — delinear principais frentes de desenvolvimento",
+      "owner": "Junior Silva",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Eduardo: agendar reunião detalhada sobre score e data lake com Alejandro",
+      "owner": "Eduardo Stringhini",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T5",
+      "description": "Diego: buscar dados de mercado para São Paulo (proposta de podcast)",
+      "owner": "Diego Diehl",
+      "deadline": null,
+      "priority": "low",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T6",
+      "description": "Equipe: separar na plataforma Z2 dados internos vs. dados de mercado",
+      "owner": "Alejandro Olchik",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "O piloto Z2 com Lúcio foi expandido ou virou contrato正式? Qual o status atual?",
+      "context": "Piloto de 30 dias approved pela diretoria — 7 meses depois. Precisa de status real",
+      "answer_required_by": null,
+      "owner": "Junior Silva"
+    },
+    {
+      "id": "Q2",
+      "question": "O teste de ativação com lista de grupos de concorrentes (Wallace + Eduardo) funcionou? Qual o resultado?",
+      "context": "Decisão D2 era para ser executada imediatamente — sem checkpoint, não há como saber se funcionou",
+      "answer_required_by": null,
+      "owner": "Wallace Guimarães"
+    },
+    {
+      "id": "Q3",
+      "question": "O Campinas Summit de Junior aconteceu? Teve resultado em praças?",
+      "context": "D12 foi propuesta mas não há evidência de execução — reunião de setembro 2025, 7 meses atrás",
+      "answer_required_by": null,
+      "owner": "Junior Silva"
+    },
+    {
+      "id": "Q4",
+      "question": "O podcast Diego + Junior saiu? Quantos episódios? Qual o alcance?",
+      "context": "D13 foi mencionada como próximo passo — sem registro de execução",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q5",
+      "question": "O modelo de custo por mensagem foi implementado? Há medição de CAC e LTV?",
+      "context": "D3 era mudança de modelo de precificação — se não foi implementada, métricas estão desatualizadas",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    },
+    {
+      "id": "Q6",
+      "question": "O VGV pendente de R$ 56k foi recebido? Houve cobrança?",
+      "context": "R$ 56k pendentes de R$ 89k totais — 63% do VGV ainda não received",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "63% do VGV (R$ 56k de R$ 89k) ainda está pendente — risco de recebimento",
+      "type": "financial",
+      "severity": "high",
+      "mitigation": "Definir processo de cobrança e follow-up para VGV pendente",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Corretores de grupo de concorrência representam 50% dos ativos — dependência de canal único de captação",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Diversificar canais de captação além de grupos de concorrência",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Baixa conversão de corretores — base de dados tem volume mas qualificação é fraca",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Melhorar qualify de leads antes de ativar — evitar desperdício de esforço",
+      "source": "transcript"
+    },
+    {
+      "id": "R4",
+      "description": "CRM CV tem muitos problemas internos — Junior mencionou que 'tem muitos problemas para resolver'",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Mapear problemas críticos do CV e definir roadmap de remediação",
+      "source": "transcript"
+    },
+    {
+      "id": "R5",
+      "description": "Desbalanceamento e impressão negativa entre equipes (Eduardo levantou) — risco culture",
+      "type": "relationship",
+      "severity": "medium",
+      "mitigation": "Reunião específica para esclarecer tensions",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Campinas como praça de expansão — maior potencial que praça atual segundo Diego",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Junior",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Podcast Diego + Junior — autoridade digital + conteúdo de valor para mercado",
+      "potential_impact": "high",
+      "owner": "Diego Diehl + Junior",
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Login unificado + antecipação de comissões — diferencial competitivo forte para attract corretores",
+      "potential_impact": "high",
+      "owner": "Alejandro Olchik",
+      "source": "transcript"
+    },
+    {
+      "id": "OP4",
+      "description": "Campanhas de marketing com múltiplos canais — modelo testado (R$ 2.500 → 105 corretores = R$ 23,80/corretor)",
+      "potential_impact": "medium",
+      "owner": "Junior Silva",
+      "source": "transcript"
+    },
+    {
+      "id": "OP5",
+      "description": "Automação via WhatsApp para aumentar audiência — modelo replicável em todas as praças",
+      "potential_impact": "medium",
+      "owner": "Junior Silva",
+      "source": "transcript"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar D1-D16 em memory/decisions.md —特别注意 D12 (Campinas Summit), D13 (podcast), D3 (custo por mensagem)",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "16 decisões em uma reunião quinzenal — sem registro, impossible auditar o que saiu do papel"
+    },
+    {
+      "id": "DS2",
+      "action": "Atualizar memory/projects.md — Z2 e Órulo com métricas atualizadas: VGV, conversión, canais de captação",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Métricas desta reunião são as mais completas que temos — registrar como baseline"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar métricas de funil: 140 reservas fechadas, 39 em andamento, 20 perdidas",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Snapshottedo funil em set/2025 — comparar com dados atuais para ver evolução"
+    },
+    {
+      "id": "DS4",
+      "action": "Registrar lição: '50% dos corretores ativos vêm de grupos de concorrência' — dependência de canal único",
+      "destination": "memory/lessons.md",
+      "priority": "medium",
+      "reason": "Métrica importante de concentração de canal — não inventado, observado em set/2025"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Z2 está em piloto com Lúcio (Faria Lima) há 30 dias — OK da diretoria confirmado",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "~50% dos corretores ativos do Z2 vêm de grupos de concorrência — captação concentrada",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Campanha R$ 2.500 → 105 novos corretores (CAC R$ 23,80/corretor)",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "Vendas de R$ 14M geraram VGV total R$ 89k (R$ 33k recebidos, R$ 56k pendente) — 63% pendente",
+      "category": "financial",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "Funil: 140 reservas fechadas, 39 em andamento, 20 perdidas — taxa de conversão importante",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "FIPE integrada ao sistema — 6 vendas totalizando R$ 2M em agosto",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Diego propõe expansão Campinas — maior potencial que praça atual",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Plano empresa: meta R$ 2M total (R$ 1M cada parte — Z2 + Órulo)",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M9",
+      "memory": "Sigilo de qualificação entre incorporadoras — não compartilhar dados de qualify com concorrentes",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M10",
+      "memory": "CRM CV tem muitos problemas internos — Junior explicitou que precisa de muchas correções",
+      "category": "project",
+      "confidence": "medium"
+    },
+    {
+      "id": "M11",
+      "memory": "Login unificado + antecipação de comissões — propuesto por Alejandro como diferencial",
+      "category": "project",
+      "confidence": "likely"
+    },
+    {
+      "id": "M12",
+      "memory": "Diego e Junior planejam podcast juntos",
+      "category": "project",
+      "confidence": "likely"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Confirmar com Diego: das 16 decisões desta reunião (set/2025), quais foram implementadas — especialmente (1) Campinas expansion, (2) podcast, (3) custo por mensagem, (4) VGV pendente R$ 56k, (5) Campinas Summit. 7 meses sem checkpoint = muitas decisões provavelmente engavetadas.",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-15",
+    "reason": "Reunião de 7 meses atrás com 16 decisões e 9 open items. Muitas são projects de médio prazo que podem ter sido abandonadas sem registro. Checkpoint urgentemente necessário antes de cobrar ou reativar."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "medium",
+    "gaps": [
+      "Transcript truncado — bloco final cortado, aproximadamente 30-40% do conteúdo original pode estar faltando",
+      "Não há dados de conversão específicos do teste de grupos de concorrência",
+      "Detalhes do score prototype (classificação em níveis) não estão disponíveis",
+      "Resultado do Campinas Summit é desconhecido",
+      "Status atual do podcast é desconhecido",
+      "VGV pendente de R$ 56k — evolução da cobrança não documentada"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Ações Acordadas e Responsabilidades",
+    "Desempenho de Vendas e Métricas",
+    "Estratégia de Marketing e Captação",
+    "Desenvolvimento Tecnológico e Plataforma",
+    "Expansão de Mercado",
+    "Qualificação e Governança",
+    "Percepções e Desafios Internos"
+  ]
+}

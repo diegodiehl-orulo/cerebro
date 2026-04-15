@@ -21,3 +21,35 @@
 [2026-04-14T21:40:50] === PIPELINE FINALIZADO ===
 [2026-04-14T21:40:50]   digest: None
 [2026-04-14T21:41:00]   Analisando: 6911e83237437f0013102674 (667 pendentes)
+[2026-04-14T21:42:19]   Analisando: 68efb4bd79b4280013204146 (666 pendentes)
+[2026-04-14T21:43:20]   Analisando: 698e071b1bcf5d0012a314f4 (665 pendentes)
+[2026-04-14T21:44:21]   Analisando: 68d52426dd73370013fde50a (664 pendentes)
+[2026-04-14T21:45:34]   Analisando: 69a07c1fe344ac00135c907e (663 pendentes)
+[2026-04-14T21:46:59]   Analisando: 69bd3dc6afb4b00013f63364 (662 pendentes)
+[2026-04-14T21:48:14]   Analisando: 69a9d2aaf0f6080013cc814b (661 pendentes)
+[2026-04-14T21:50:51]     FALHOU (rc=1): Traceback (most recent call last):
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", line 681, in <module>
+    main()
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", 
+[2026-04-14T21:50:51]   Erro #1
+[2026-04-14T21:50:56]   Analisando: 69a9d2aaf0f6080013cc814b (661 pendentes)
+[2026-04-14T21:53:14]     FALHOU (rc=1): 
+[2026-04-14T21:53:14]   Erro #2
+[2026-04-14T21:53:19]   Analisando: 69a9d2aaf0f6080013cc814b (661 pendentes)
+[2026-04-14T21:54:45]   Analisando: 6745b87129016500130d9262 (660 pendentes)
+[2026-04-14T21:55:50]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)
+[2026-04-14T22:00:50]     TIMEOUT (300s)
+[2026-04-14T22:00:50]   Erro #1
+[2026-04-14T22:00:55]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)
+[2026-04-14T22:04:08]     FALHOU (rc=1): Traceback (most recent call last):
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", line 681, in <module>
+    main()
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", 
+[2026-04-14T22:04:08]   Erro #2
+[2026-04-14T22:04:13]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)
+[2026-04-14T22:08:52]     FALHOU (rc=1): Traceback (most recent call last):
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", line 681, in <module>
+    main()
+  File "/root/.openclaw/workspace/integrations/tldv/analyzer.py", 
+[2026-04-14T22:08:52]   Erro #3
+[2026-04-14T22:08:57]   Analisando: 68bf2e3dd13ebb0013ccbc09 (659 pendentes)

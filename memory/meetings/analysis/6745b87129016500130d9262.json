@@ -1,0 +1,421 @@
+{
+  "meeting_id": "6745b87129016500130d9262",
+  "name": "Z2A e H Station - Kickoff",
+  "happened_at": "2024-11-26T12:00:00.000Z",
+  "analysis_version": "1.0",
+  "analysis_generated_at": "2026-04-15T00:55:45.784955+00:00",
+  "executive_summary": "Kickoff Z2A + H Station (nov/2024). Prazo: 7-10 dias úteis + 2 dias treino. Planilha de usuários com telefone obrigatório. Integração com portal Órulo. Base de ~50 parceiros no WhatsApp (Carol exportar). CRM: sem CRM para incorporadora, usam Ciente. João Pessoa = mercado de corretores externos (não equipe própria). Telefones de Bruno e Sara a cadastrar. Grupo WhatsApp para comunicação.",
+  "context": {
+    "purpose": "Kickoff de implantação do Z2A na H Station — definir etapas, cronograma, responsabilidades e processos do projeto",
+    "main_agenda_items": [
+      "Objetivos e etapas do projeto Z2A + H Station",
+      "Cronograma: 7-10 dias úteis + 2 dias treino",
+      "Planilha de usuários (hierarquia, dados cadastrais, telefone obrigatório)",
+      "Integração com portal Órulo",
+      "Verificação de integração com outros sistemas",
+      "Importação da base de parceiros do WhatsApp (~50 parceiros)",
+      "Possível importação de histórico de vendas",
+      "Cadastro de contatos (Bruno + Sara)",
+      "Conexão WhatsApp e treinamento",
+      "Grupo WhatsApp para comunicação"
+    ],
+    "participants_and_roles": {
+      "Felipe Goettems": "Diretor Produtos Financeiros — presente",
+      "Carlos Stoppa": "Diretor de Operações Z2 — conduziu o kickoff, explicou metodologia",
+      "Rodrigo Italiano": "Equipe Z2 —参与了",
+      "Michelle Trajano": "Equipe —参与了",
+      "Jayme Verissimo": "H Station — respondendo por processo e estrutura local",
+      "Bruno Lino": "H Station — contexto de marketing e mercado local"
+    },
+    "meeting_type": "client",
+    "notes_limitation": null,
+    "duration_minutes": 25.7
+  },
+  "decisions": [
+    {
+      "id": "D1",
+      "description": "Implementação Z2A na H Station com prazo de 7-10 dias úteis",
+      "decision_maker": "Carlos Stoppa + H Station",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D2",
+      "description": "Treinamento em 2 dias após implementação",
+      "decision_maker": "Carlos Stoppa + H Station",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D3",
+      "description": "H Station preencher planilha com usuários, hierarquia, dados cadastrais e telefone obrigatório",
+      "decision_maker": "H Station (Carol + equipe)",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D4",
+      "description": "Campos dinâmicos de qualificação do corretor/parceiro definidos pela H Station",
+      "decision_maker": "H Station",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D5",
+      "description": "Carol exportar lista de parceiros do WhatsApp para importação no sistema",
+      "decision_maker": "Carol (H Station)",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D6",
+      "description": "Cadastrar telefones de Bruno e Sara como contatos do projeto",
+      "decision_maker": "H Station",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D7",
+      "description": "Possível importação de histórico de vendas por parceiro para análise de desempenho",
+      "decision_maker": "H Station + Z2",
+      "confidence": "uncertain",
+      "source": "transcript"
+    },
+    {
+      "id": "D8",
+      "description": "Conectar WhatsApp, marcar treinamento e validar ferramenta",
+      "decision_maker": "Carlos Stoppa + H Station",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D9",
+      "description": "Criar grupo WhatsApp para comunicação e alinhamento de próximos passos",
+      "decision_maker": "Carlos Stoppa",
+      "confidence": "confirmed",
+      "source": "transcript"
+    },
+    {
+      "id": "D10",
+      "description": "Integrar portal do Órulo com botão de parcerias na H Station (futuro)",
+      "decision_maker": "Z2 + H Station",
+      "confidence": "uncertain",
+      "source": "transcript"
+    }
+  ],
+  "open_items": [
+    {
+      "id": "O1",
+      "description": "H Station preencher planilha com usuários, hierarquia e telefone obrigatório",
+      "owner": "H Station (Carol)",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O2",
+      "description": "Carol exportar lista de parceiros do WhatsApp (~50 parceiros) para importação",
+      "owner": "Carol",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O3",
+      "description": "Cadastrar telefones de Bruno e Sara como contatos do projeto",
+      "owner": "H Station",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O4",
+      "description": "Verificar integração com outros portais/sistemas da H Station",
+      "owner": "Carlos Stoppa + H Station",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": null
+    },
+    {
+      "id": "O5",
+      "description": "Agendar treinamento (2 dias) após implementação",
+      "owner": "Carlos Stoppa + H Station",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Depends on implementation estar completa"
+    },
+    {
+      "id": "O6",
+      "description": "Possível importação de histórico de vendas — depends on viabilidade técnica",
+      "owner": "Carlos Stoppa + H Station",
+      "deadline": null,
+      "status": "pending_response",
+      "source": "transcript",
+      "blocking_factor": "Precisa avaliar viabilidade"
+    },
+    {
+      "id": "O7",
+      "description": "Integração portal Órulo com botão de parcerias da H Station (para captar parceiros automaticamente)",
+      "owner": "Z2 + H Station",
+      "deadline": null,
+      "status": "open",
+      "source": "transcript",
+      "blocking_factor": "Futuro — definido mas sem prazo"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "T1",
+      "description": "Carol: exportar lista de parceiros do WhatsApp para importação",
+      "owner": "Carol (H Station)",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T2",
+      "description": "H Station: preencher planilha de usuários (hierarquia + telefone)",
+      "owner": "H Station",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T3",
+      "description": "Carlos: cadastrar telefones de Bruno e Sara como contatos do projeto",
+      "owner": "Carlos Stoppa",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T4",
+      "description": "Carlos: conectar WhatsApp e marcar treinamento (2 dias)",
+      "owner": "Carlos Stoppa",
+      "deadline": null,
+      "priority": "high",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T5",
+      "description": "H Station: definir campos dinâmicos de qualificação do corretor (CRECI, região, etc.)",
+      "owner": "H Station",
+      "deadline": null,
+      "priority": "medium",
+      "status": "generated",
+      "source": "transcript"
+    },
+    {
+      "id": "T6",
+      "description": "Carlos + H Station: criar grupo WhatsApp de comunicação do projeto",
+      "owner": "Carlos Stoppa",
+      "deadline": null,
+      "priority": "low",
+      "status": "generated",
+      "source": "transcript"
+    }
+  ],
+  "critical_questions": [
+    {
+      "id": "Q1",
+      "question": "A implementação do Z2A na H Station foi concluída? Os 7-10 dias úteis foram cumpridos? O treinamento aconteceu?",
+      "context": "Kickoff de novembro 2024 — 17 meses atrás. Precisa de status real da implementação",
+      "answer_required_by": null,
+      "owner": "Carlos Stoppa + H Station"
+    },
+    {
+      "id": "Q2",
+      "question": "Os ~50 parceiros foram importados do WhatsApp para o Z2A? A ferramenta está ativa?",
+      "context": "Importação da base era ação crítica — sem evidência, pode ter falhado na execução",
+      "answer_required_by": null,
+      "owner": "H Station"
+    },
+    {
+      "id": "Q3",
+      "question": "A H Station usa CRM? O 'Ciente' foi integrado ao Z2A?",
+      "context": "H Station disse não usar CRM para incorporadora, só Ciente. Se não integrados, dados ficam silos",
+      "answer_required_by": null,
+      "owner": "H Station"
+    },
+    {
+      "id": "Q4",
+      "question": "João Pessoa como praça é estratégica? H Station ainda é parceira ativa?",
+      "context": "Contexto de mercado de JP foi discutido — corretores externos são o canal principal. Se H Station é ключевой партнер, precisa de follow-up",
+      "answer_required_by": null,
+      "owner": "Diego Diehl"
+    }
+  ],
+  "risks_and_alerts": [
+    {
+      "id": "R1",
+      "description": "H Station não usa CRM para incorporadora — processo de vendas é manual (contrato na mão, controle em planilha). Implementação do Z2A pode encontrar resistência de processo.",
+      "type": "operational",
+      "severity": "high",
+      "mitigation": "Garantir que a equipe da H Station entenda o valor da ferramenta antes de implement — evitar que vire mais uma planilha",
+      "source": "transcript"
+    },
+    {
+      "id": "R2",
+      "description": "Telefone obrigatório no Z2A é para autenticação — sem telefone válido, usuário não acessa. Risco de onboarding bloqueado.",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Garantir que todos os parceiros tenham telefone atualizado antes de cadastrar",
+      "source": "transcript"
+    },
+    {
+      "id": "R3",
+      "description": "Reunião de novembro 2024 — 17 meses de décalage. Status real completamente desconhecido.",
+      "type": "strategic",
+      "severity": "high",
+      "mitigation": "Confirmar com Diego se H Station ainda é parceira ativa e se a implementação foi completed",
+      "source": "both"
+    },
+    {
+      "id": "R4",
+      "description": "João Pessoa é mercado de corretores externos — diferente de outras praças. Estratégia de venda e treinamento precisa ser adaptada para esse perfil.",
+      "type": "operational",
+      "severity": "medium",
+      "mitigation": "Não aplicar playbook genérico — criarmaterial específico para corretores externos",
+      "source": "transcript"
+    }
+  ],
+  "opportunities": [
+    {
+      "id": "OP1",
+      "description": "Importação de histórico de vendas por parceiro — análise de performance e qualificação de corretores",
+      "potential_impact": "medium",
+      "owner": "Carlos Stoppa + H Station",
+      "source": "transcript"
+    },
+    {
+      "id": "OP2",
+      "description": "Integração portal Órulo com botão de parcerias na H Station — captação automática de novos parceiros",
+      "potential_impact": "high",
+      "owner": "Z2 + H Station",
+      "source": "transcript"
+    },
+    {
+      "id": "OP3",
+      "description": "Z2A + Órulo comunicação com materiais promocionais customizados por parceiro (ex: Black Friday) — comunicação granular",
+      "potential_impact": "medium",
+      "owner": "H Station",
+      "source": "transcript"
+    }
+  ],
+  "documentary_suggestions": [
+    {
+      "id": "DS1",
+      "action": "Registrar D1-D10 em memory/decisions.md com status —特别注意 D1 (implementação 7-10 dias) e D5 (importação WhatsApp ~50 parceiros)",
+      "destination": "memory/decisions.md",
+      "priority": "high",
+      "reason": "Kickoff de projeto é marco — sem registro, impossível auditar se projetos de implementação saíram do papel"
+    },
+    {
+      "id": "DS2",
+      "action": "Registrar H Station como parceira/cliente: contexto JP, ~50 parceiros, processo manual (sem CRM), Carlos Stoppa como ponto focal Z2",
+      "destination": "memory/people.md",
+      "priority": "high",
+      "reason": "H Station é novo contact — perfil de cliente/parceiro diferente (corretores externos, sem CRM)"
+    },
+    {
+      "id": "DS3",
+      "action": "Registrar lição: 'João Pessoa = mercado de corretores externos, não equipe própria' — diff de outras praças",
+      "destination": "memory/lessons.md",
+      "priority": "medium",
+      "reason": "Padrão de mercado diferente — playbook não genérico"
+    },
+    {
+      "id": "DS4",
+      "action": "Criar registro de projeto Z2A + H Station com timelines e milestones",
+      "destination": "memory/projects.md",
+      "priority": "high",
+      "reason": "Projeto de implementação ativa — sem follow-up, pode ter sido abandonado ou está em standby"
+    }
+  ],
+  "memories_to_register": [
+    {
+      "id": "M1",
+      "memory": "Z2A kickoff com H Station (João Pessoa) — novembro 2024. Prazo: 7-10 dias úteis + 2 dias treino.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M2",
+      "memory": "H Station tem ~50 parceiros no WhatsApp — base para importar no Z2A. Carol exportar lista.",
+      "category": "project",
+      "confidence": "high"
+    },
+    {
+      "id": "M3",
+      "memory": "Telefone é campo obrigatório no Z2A — autenticação via SMS. Sem telefone válido, usuário não acessa.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M4",
+      "memory": "H Station não usa CRM para incorporadora — processo manual (contrato na mão, planilha). CRM 'Ciente' é usado em outra unidade de negócio.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M5",
+      "memory": "João Pessoa é mercado de corretores externos — diferente de praças com equipe própria. Maioria das vendas é via parceiros.",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M6",
+      "memory": "Campos dinâmicos: H Station pode definir CRECI, região (zona sul/norte/litoral), etc. — qualificação granular do parceiro",
+      "category": "process",
+      "confidence": "high"
+    },
+    {
+      "id": "M7",
+      "memory": "Carlos Stoppa é diretor de operações Z2 — responsável por implantação, CS e suporte. Ponto focal para implementations.",
+      "category": "person",
+      "confidence": "high"
+    },
+    {
+      "id": "M8",
+      "memory": "Bruno Lino é de marketing da H Station. Sara é contato do projeto.",
+      "category": "person",
+      "confidence": "high"
+    }
+  ],
+  "recommended_next_step": {
+    "action": "Confirmar com Diego: H Station (João Pessoa) — implementação do Z2A foi concluída? A ferramenta está ativa? Os ~50 parceiros foram importados? Este é um kickoff de 17 meses atrás com status completamente desconhecido.",
+    "owner": "Diego Diehl",
+    "deadline": "2026-04-15",
+    "reason": "Kickoff de 17 meses atrás com 10 decisões e 7 open items. Sem checkpoint, não há como saber se o projeto foi implementado, está em standby ou foi abandonado. Necesita迫切确认."
+  },
+  "analysis_confidence": {
+    "transcript_available": true,
+    "notes_available": true,
+    "topics_available": true,
+    "overall": "low",
+    "gaps": [
+      "Transcript truncado no final — detalhes da exportação do WhatsApp cortados",
+      "Reunião de 17 meses atrás — contexto extremely desatualizado",
+      "Status de implementação completamente desconhecido",
+      "Resultado do treinamento (2 dias) é desconhecido",
+      "Integração portal Órulo (D10) foi realizada ou não?"
+    ]
+  },
+  "raw_topics_from_tldv": [
+    "Objetivos e Escopo do Projeto",
+    "Cronograma de Implementação",
+    "Configuração e Cadastro de Usuários",
+    "Integração e Conectividade",
+    "Importação de Dados",
+    "Comunicação e Próximos Passos"
+  ]
+}
