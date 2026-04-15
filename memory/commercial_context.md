@@ -7,3 +7,541 @@
 - Gravar este conteúdo como material de onboarding para novos membros do time comercial — [6690232be5ccd900129d3e25](/2024-07) | Impacto: high | Dono: Diego Diehl
 - [DOC] Registrar as 5 técnicas de vendas ensinadas nesta sessão em documento oficial — [6690232be5ccd900129d3e25](/2024-07) | Destino: Playbook de Vendas — Órulo | Prioridade: high
 - [DOC] Arquivar transcrição completa da sessão com tópicos e notas estruturadas — [6690232be5ccd900129d3e25](/2024-07) | Destino: Drive: 06_REPORTS ou pasta de treinamentos | Prioridade: medium
+- Importação de histórico de vendas por parceiro — análise de performance e qualificação de corretores — [6745b87129016500130d9262](/2024-11) | Impacto: medium | Dono: Carlos Stoppa + H Station
+- Integração portal Órulo com botão de parcerias na H Station — captação automática de novos parceiros — [6745b87129016500130d9262](/2024-11) | Impacto: high | Dono: Z2 + H Station
+- Z2A + Órulo comunicação com materiais promocionais customizados por parceiro (ex: Black Friday) — comunicação granular — [6745b87129016500130d9262](/2024-11) | Impacto: medium | Dono: H Station
+- [DOC] Registrar D1-D10 em memory/decisions.md com status —特别注意 D1 (implementação 7-10 dias) e D5 (importação WhatsApp ~50 parceiros) — [6745b87129016500130d9262](/2024-11) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar H Station como parceira/cliente: contexto JP, ~50 parceiros, processo manual (sem CRM), Carlos Stoppa como ponto focal Z2 — [6745b87129016500130d9262](/2024-11) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar lição: 'João Pessoa = mercado de corretores externos, não equipe própria' — diff de outras praças — [6745b87129016500130d9262](/2024-11) | Destino: memory/lessons.md | Prioridade: medium
+- [DOC] Criar registro de projeto Z2A + H Station com timelines e milestones — [6745b87129016500130d9262](/2024-11) | Destino: memory/projects.md | Prioridade: high
+- Prompt de ChatGPT de Diego pode virar um ativo replicável para todo o time comercial — padronizar uso de IA com diretrizes claras — [688155a73ead900013f0436f](/2025-07) | Impacto: medium | Dono: Diego Diehl
+- Arquivar e versionar prompts有用的s desenvolvidos internamente — criar biblioteca de prompts Órulo — [688155a73ead900013f0436f](/2025-07) | Impacto: low | Dono: Diego Diehl
+- [DOC] Registrar prompt personalizado de ChatGPT (Diego) em arquivo permanente com data, contexto e diretivas completas — [688155a73ead900013f0436f](/2025-07) | Destino: templates/prompt_chatgpt_diego.md | Prioridade: medium
+- [DOC] Atualizar memory/people.md — incluir nota de que Diego tem configuração avançada de ChatGPT e compartilha conhecimento de IA com o time — [688155a73ead900013f0436f](/2025-07) | Destino: memory/people.md | Prioridade: low
+- Z2A como ferramenta de testagem de mercado —夷 usar automações para coletar interesse antes do lançamento do imóvel — [68c091be0972b500130a0529](/2025-09) | Impacto: high | Dono: Eduardo Buzzi
+- Cauda longa: corretores que já colocaram proposta mas não foram acionados — oportunidade imediata de conversão — [68c091be0972b500130a0529](/2025-09) | Impacto: high | Dono: Equipe comercial
+- Disparos em massa via WhatsApp com link + vídeo + áudio + foto para gerar curiosidade pré-lançamento — [68c091be0972b500130a0529](/2025-09) | Impacto: medium | Dono: Diego Diehl
+- Programa de embaixadores ou prêmios para corretores com maior conversão — gamificação — [68c091be0972b500130a0529](/2025-09) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar decisions D1-D4 em memory/decisions.md com dueños e prazos — [68c091be0972b500130a0529](/2025-09) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Atualizar status do Z2A e TF em memory/projects.md — incluir área de parcerias e automações — [68c091be0972b500130a0529](/2025-09) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar lições aprendidas sobre follow-up telefônico vs. mensagem — comportamento 'óbvio mas não feito' — [68c091be0972b500130a0529](/2025-09) | Destino: memory/lessons.md | Prioridade: medium
+- Campinas como praça de expansão — maior potencial que praça atual segundo Diego — [68d52426dd73370013fde50a](/2025-09) | Impacto: high | Dono: Diego Diehl + Junior
+- Podcast Diego + Junior — autoridade digital + conteúdo de valor para mercado — [68d52426dd73370013fde50a](/2025-09) | Impacto: high | Dono: Diego Diehl + Junior
+- Login unificado + antecipação de comissões — diferencial competitivo forte para attract corretores — [68d52426dd73370013fde50a](/2025-09) | Impacto: high | Dono: Alejandro Olchik
+- Campanhas de marketing com múltiplos canais — modelo testado (R$ 2.500 → 105 corretores = R$ 23,80/corretor) — [68d52426dd73370013fde50a](/2025-09) | Impacto: medium | Dono: Junior Silva
+- Automação via WhatsApp para aumentar audiência — modelo replicável em todas as praças — [68d52426dd73370013fde50a](/2025-09) | Impacto: medium | Dono: Junior Silva
+- [DOC] Registrar D1-D16 em memory/decisions.md —特别注意 D12 (Campinas Summit), D13 (podcast), D3 (custo por mensagem) — [68d52426dd73370013fde50a](/2025-09) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Atualizar memory/projects.md — Z2 e Órulo com métricas atualizadas: VGV, conversión, canais de captação — [68d52426dd73370013fde50a](/2025-09) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar métricas de funil: 140 reservas fechadas, 39 em andamento, 20 perdidas — [68d52426dd73370013fde50a](/2025-09) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar lição: '50% dos corretores ativos vêm de grupos de concorrência' — dependência de canal único — [68d52426dd73370013fde50a](/2025-09) | Destino: memory/lessons.md | Prioridade: medium
+- João como líder de expansão: usar sua capacidade de ensinar para onboardar sócios locais em novas praças — [68efb4bd79b4280013204146](/2025-10) | Impacto: high | Dono: João Vitor Portes
+- Gamificação com pontos por cadastro: modelo replicável em todas as praças — pode virar playbookscale — [68efb4bd79b4280013204146](/2025-10) | Impacto: high | Dono: João Vitor Portes
+- SDR como Buster em volume: identificar incorporadoras através de conversa massiva com corretores — scalável — [68efb4bd79b4280013204146](/2025-10) | Impacto: medium | Dono: SDR
+- Modelo híbrido online→presencial para expansion: online para筛子, presencial para fechar — eficiencia — [68efb4bd79b4280013204146](/2025-10) | Impacto: medium | Dono: João Vitor Portes
+- [DOC] Registrar D1-D10 em memory/decisions.md com status — especialmente D1 (João líder expansão) e D3 (2 S10s) — [68efb4bd79b4280013204146](/2025-10) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar documento de João (programa embaixadores + gamificação) —verificar se foi aprovado e implementado — [68efb4bd79b4280013204146](/2025-10) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Atualizar memory/people.md — João Vitor: líder de expansão de praças, métricas, autonomy Areas — [68efb4bd79b4280013204146](/2025-10) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar lição: 'expansão sem dono formal é gargalo garantido' — padrão identificado por Diego nesta reunião — [68efb4bd79b4280013204146](/2025-10) | Destino: memory/lessons.md | Prioridade: medium
+- CRI modelo 88: falar apenas 'recebíveis' em vez de 'CRI' — reduz barreira psicológica de incorporadores — [6911e83237437f0013102674](/2025-11) | Impacto: high | Dono: Equipe comercial
+- Terrenista pode participar do CRI — pagando 10-15% de imposto sobre lucro (vs. imposto normal). Entrada imediata se o terreno é de alto valor — [6911e83237437f0013102674](/2025-11) | Impacto: high | Dono: Equipe comercial
+- Segmentação de risco por projeto no CRI — não compromete a incorporadora como um todo. Argumento forte de venda — [6911e83237437f0013102674](/2025-11) | Impacto: medium | Dono: Equipe comercial
+- Follow-up em massa com contatos usando gancho de notícia (Lula) — tática replicável para outros momentos denews — [6911e83237437f0013102674](/2025-11) | Impacto: medium | Dono: Equipe comercial
+- [DOC] Registrar decisions D1-D9 em memory/decisions.md com status (implementado/pendente) e data da reunião — [6911e83237437f0013102674](/2025-11) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar 'playbook de objeções de CRI' — Top 5 objeções e respostas conforme debatidas na reunião — [6911e83237437f0013102674](/2025-11) | Destino: docs/playbook_cri.md | Prioridade: high
+- [DOC] Atualizar memory/projects.md — incluir CRI como produto ativo com modelo 88, nomenclatura recomendada e meta de conversion — [6911e83237437f0013102674](/2025-11) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar lições sobre comunicação externa: usar 'recebíveis' em vez de 'CRI' — decisão pragmática de posicionamento — [6911e83237437f0013102674](/2025-11) | Destino: memory/lessons.md | Prioridade: medium
+- [DOC] Verificar com Diego: reunião 'Update Z2+Orulo' de 01/01/2026 — realmente aconteceu? Se sim, o que foi decidido no primeiro dia do ano? — [695657252ab9160013645599](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- Meta R$8M com 50% crescimento — ambicioso mas motivador — [695bfc1ee9b88d0013912e2b](/2026-01) | Impacto: high | Dono: Diego Diehl + diretoria
+- Felipe: eventos + novos produtos financeiros para impulsionar receita — [695bfc1ee9b88d0013912e2b](/2026-01) | Impacto: high | Dono: Felipe Goettems
+- Diego postar stories de contratos — visibilidade no mercado — [695bfc1ee9b88d0013912e2b](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Funil de vendas por estado no CRM — visibilidade de informação — [695bfc1ee9b88d0013912e2b](/2026-01) | Impacto: medium | Dono: Diego Diehl + Alejandro Olchik
+- [DOC] Registrar: Meta 2026 = R$8M (+50%). Crescimento via eventos, comunicação, jornada embaixadores, expansão corretores. — [695bfc1ee9b88d0013912e2b](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: 3 cancelamentos por falta de retorno em dezembro. Processo de follow-up fraco. — [695bfc1ee9b88d0013912e2b](/2026-01) | Destino: memory/process.md | Prioridade: high
+- Recife: Saraiva cadastrou 300+ corretores — base quente para ativar — [695c285567410d0013fd37f1](/2026-01) | Impacto: high | Dono: João Vitor Portes da Silva
+- Goiânia: primeiro piloto Embaixador com Ester — pode servir de template — [695c285567410d0013fd37f1](/2026-01) | Impacto: high | Dono: Ester
+- Curitiba: mapa estratégico como modelo inicial — replicar para outras praças — [695c285567410d0013fd37f1](/2026-01) | Impacto: medium | Dono: Gustavo Torres
+- São Paulo: praça consolidada, feijão com arroz com as meninas — [695c285567410d0013fd37f1](/2026-01) | Impacto: medium | Dono: Ester
+- POA, Capão, Vitória: eventos em abril podem aquecer praças — [695c285567410d0013fd37f1](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: piloto Embaixador em Goiânia com Ester. Recife com 300+ corretores do Saraiva. Curitiba como modelo inicial. — [695c285567410d0013fd37f1](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: sem Embaixador, audiência não cresce. Loop que precisa ser quebrado. — [695c285567410d0013fd37f1](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Gustavo fazer mapa por praça — quem é quem, situação, crescimento. — [695c285567410d0013fd37f1](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- Integração com múltiplos portais (Viva Real, Imóveis Web) como diferencial — [695e4ac3e9b88d00139173a0](/2026-01) | Impacto: high | Dono: Diego Diehl
+- R$400k/mês investidos em portais em Curitiba = potencial de redirect para Órula — [695e4ac3e9b88d00139173a0](/2026-01) | Impacto: high | Dono: Diego Diehl + Luiz Gustavo Zanella
+- Banco de dados centralizado = economia de tempo para imobiliárias — [695e4ac3e9b88d00139173a0](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Plano R$1.000 gera até R$20k em valor para incorporadoras — [695e4ac3e9b88d00139173a0](/2026-01) | Impacto: medium | Dono: Diego Diehl + time
+- [DOC] Registrar: Diferencial central da Órula = tabela + filtros + contatos em um lugar + atualização 70% Brasil. vs portais genéricos. R$400k/mês em portais Curitiba. — [695e4ac3e9b88d00139173a0](/2026-01) | Destino: memory/process.md | Prioridade: high
+- Nova infraestrutura WhatsApp (hook, banco, volume) pode resolver instabilidade permanentemente — [695f91a6828894001391e6e0](/2026-01) | Impacto: high | Dono: Marcelo Tadeu
+- Modelo híbrido em SP (equipe interna + escalabilidade) pode funcionar para contas estratégicas — [695f91a6828894001391e6e0](/2026-01) | Impacto: medium | Dono: Junior Silva
+- Foco em empresas transacionais em capitais — maior ticket e recorrência — [695f91a6828894001391e6e0](/2026-01) | Impacto: medium | Dono: Eduardo Stringhini
+- [DOC] Registrar: Mascam cancelou serviço — possivelmente por saída de SDR e falta de visibilidade. Requer investigação. — [695f91a6828894001391e6e0](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Registrar: saída de Wallace requer realinhamento estratégico da equipe — [695f91a6828894001391e6e0](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Registrar: modelo SP — focar em grandes lançamentos com contrato 6-12 meses. Modelo híbrido interno + escalabilidade. — [695f91a6828894001391e6e0](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- João preparado para ser suporte de SDRs em eventos locais — escala prospecção — [6960edbf427f08001307f913](/2026-01) | Impacto: medium | Dono: João Vitor Portes da Silva + SDRs
+- Expansão Recife com comissão 150% — modelo testável — [6960edbf427f08001307f913](/2026-01) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Webinar 19/01 com Philip, Wagner e Diego — autoridade e geração de leads — [6960edbf427f08001307f913](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: João ansiedade de gestão — múltiplos projetos. Diego contratando closers para分担. Reunião fixa semanal. — [6960edbf427f08001307f913](/2026-01) | Destino: memory/people.md | Prioridade: high
+- Estruturar CXDL = descobrir receita do bolo que pode ser replicada e automatizada — [6964f0693d76f900137fb719](/2026-01) | Impacto: high | Dono: Diego Diehl
+- Contratar 1-2 closers pode dobrar capacidade de absorção de reuniões — [6964f0693d76f900137fb719](/2026-01) | Impacto: high | Dono: Diego Diehl
+- CRM organizado em janeiro vai facilitar resultados o ano todo — [6964f0693d76f900137fb719](/2026-01) | Impacto: medium | Dono: João Vitor Portes da Silva + Gustavo Torres
+- [DOC] Registrar: João sobrecarregado — 15 reuniões absorvidas + atualizar cards + treinar Ester + limpar funil. Verificar se precisa de help. — [6964f0693d76f900137fb719](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Registrar: meta Gustavo — 30 reuniões. Divisão: João 15 hot, Diego/Gustavo/Zanella/Knight 15 restantes (3 cada). — [6964f0693d76f900137fb719](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: CXDL — Diego quer descobrir 'receita do bolo'. Jornada: DL entra → cadastra → resultado → explica gratuito/pago → vincula usuários. Foco: mapear cada etapa. — [6964f0693d76f900137fb719](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- Projeção de R$ 10 milhões de lucro no final do empreendimento — [696528960245ea00136ccc1d](/2026-01) | Impacto: high | Dono: Eduardo + cotistas
+- Economia de R$ 1 milhão em impostos vs custo de R$ 96 mil com estrutura CRI — [696528960245ea00136ccc1d](/2026-01) | Impacto: high | Dono: Paulo Deitos + Empar
+- Proprietário do terreno foge de 15% de ganho de capital via CRI — poder de barganha — [696528960245ea00136ccc1d](/2026-01) | Impacto: high | Dono: Paulo Deitos
+- Série de investimento com regras diferenciadas — flexibilidade para cada investidor — [696528960245ea00136ccc1d](/2026-01) | Impacto: medium | Dono: Paulo Deitos
+- Captação de recursos com custo mínimo de R$ 200 mil e rendimento próximo ao CDI — [696528960245ea00136ccc1d](/2026-01) | Impacto: medium | Dono: Paulo Deitos
+- [DOC] Registrar: Estrutura CRI para Empar — SPE por empreendimento, 4 sócios (R$3,125M cada), aporte ~R$130k/mês, lucro projetado R$10M, economia R$1M vs R$96k custo. — [696528960245ea00136ccc1d](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Recomendação — usar PF como cotistas para isenção de IR. CRI com 80% juros. Terreno via SPE. — [696528960245ea00136ccc1d](/2026-01) | Destino: memory/process.md | Prioridade: medium
+- 24 eventos em 12 cidades — chance de marcar presença nacional e aquisições — [6966a43a99bea20013efccec](/2026-01) | Impacto: high | Dono: Diego Diehl
+- 3 empresas já confirmadas para eventos de abril — validar e expandir lista — [6966a43a99bea20013efccec](/2026-01) | Impacto: medium | Dono: Diego Diehl + Pedro Kneip
+- Divisão de custos de evento entre 3 empresas (6-7k por evento) — viabiliza evento — [6966a43a99bea20013efccec](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Jade 'relaxada' e 'crua' — volumão com checklist 4 pontos + check 9h. Se não melhorar, replanejar. — [6966a43a99bea20013efccec](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Modelo de incentivo Closer — CLT 3-6, PJ 4-8, comissão sobre custo 3 meses, mínimo garantido — [6966a43a99bea20013efccec](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Praças prioritárias 2026 — Goiânia, São Paulo, Porto Alegre, Floripa, João Pessoa, Recife, Campinas, Natal, Fortaleza — [6966a43a99bea20013efccec](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Verificar com Diego ou participantes (Alejandro, Eduardo, Felipe) o que foi decidido nesta reunião. Reconstruir memória se necessário. — [6968cc27290b3e0013fc3d86](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Checar se transcript foi salvo em outro lugar (Drive, e-mail, arquivo local). — [6968cc27290b3e0013fc3d86](/2026-01) | Destino: N/A | Prioridade: medium
+- Estrutura pode ser replicada em próximos empreendimentos após primeira implementação — [6968f2f67ab7870013a596e4](/2026-01) | Impacto: high | Dono: Paulo Deitos + VitaUrbana
+- Primeira série CRI ~R$4M com garantias específicas — modelo testado e comprovado — [6968f2f67ab7870013a596e4](/2026-01) | Impacto: high | Dono: Paulo Deitos + Sala Av. Paulista (VitaUrbana)
+- Relacionamento VitaUrbana com banco facilita aprovação de estrutura — [6968f2f67ab7870013a596e4](/2026-01) | Impacto: medium | Dono: Sala Av. Paulista (VitaUrbana)
+- [DOC] Registrar: Estrutura CRI VitaUrbana — empresa intermediária tomadora, SPEs como lastro, operação em 10-15 dias após docs. — [6968f2f67ab7870013a596e4](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- Amanda tem 500-600 corretores cadastrados — base imediata para ativar — [69691d10290b3e0013fc4c42](/2026-01) | Impacto: high | Dono: Amanda Rocha + Diego Diehl
+- Ouro: 2.000 visualizações, 800 corretores em 4 meses — prova de conceito — [69691d10290b3e0013fc4c42](/2026-01) | Impacto: medium | Dono: Amanda Rocha
+- BH tem equipe menor (9 corretores) — implementação mais rápida e menos complexa — [69691d10290b3e0013fc4c42](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Incorporadora Embaixadora: possibilidade de contrapartidas para gerar cadastros Ouro — [69691d10290b3e0013fc4c42](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: precificação Z2A — R$ 1.674/mês + R$ 7.955 implantação. R$ 50/mil parceiros. Sem fidelidade. — [69691d10290b3e0013fc4c42](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Amanda (Somattos BH) — 500-600 corretores, integração Ouro sem link em BH. — [69691d10290b3e0013fc4c42](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Rodrigo Italiano (BH) possibly not using Z2A — verificar antes de propor. — [69691d10290b3e0013fc4c42](/2026-01) | Destino: memory/pending.md | Prioridade: medium
+- Técnica de otimização de IA em 3 passos pode ser adotada por todo time comercial — ganhos de produtividade — [696c11393259e40013346e82](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Estruturar projetos por área no ChatGPT (vendas, marketing, operações) permite aprendizado cruzado entre chats — [696c11393259e40013346e82](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar método de otimização de IA em 3 passos de Diego: (1) personalizar conta, (2) criar contexto/consolidar documentos, (3) usar memória de projetos — [696c11393259e40013346e82](/2026-01) | Destino: memory/decisions.md ou Biblioteca Estratégica | Prioridade: medium
+- [DOC] Diego: prompt compilado de especialista em YAH está pronto para compartilhar com time — [696c11393259e40013346e82](/2026-01) | Destino: N/A | Prioridade: medium
+- Maceió com 3 clientes atuais — boa oportunidade de crescimento na praça — [696e712f500a210013c24a52](/2026-01) | Impacto: high | Dono: Diego Diehl + Marcelo Zen
+- Usar dívida Z2 como moeda de troca — pode gerar benefícios na negociação — [696e712f500a210013c24a52](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Número WhatsApp BR vai resolver questão de banimento da Meta — [696e712f500a210013c24a52](/2026-01) | Impacto: medium | Dono: Marcelo Rodrigues
+- [DOC] Registrar: R$ 13k dívida Z2 (R$ 9k de 1 cliente). Contrato 30 dias impede cobrança. Usar como moeda de troca. — [696e712f500a210013c24a52](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Felipe tem reputação de difícil — alertado por Marcelo. Diego aberto a feedbacks. — [696e712f500a210013c24a52](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Funcionária abandonou emprego 14 dias. Decisão até 21/01 com advogada. — [696e712f500a210013c24a52](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- Economia de 350k em impostos para este investidor específico — [696f8356ee25fd0013b6ac94](/2026-01) | Impacto: high | Dono: Paulo Deitos + Luciano
+- Conversão SCP→CRI pode gerar economia de 10% para toda a base de clientes — [696f8356ee25fd0013b6ac94](/2026-01) | Impacto: high | Dono: Paulo Deitos
+- Benefício pode ser embutido no preço — permite ofrecer discount mantendo margem — [696f8356ee25fd0013b6ac94](/2026-01) | Impacto: medium | Dono: Paulo Deitos
+- CRI permite distribuição diferenciada entre sócios/herdeiros — caso complexo familiar é oportunidadE — [696f8356ee25fd0013b6ac94](/2026-01) | Impacto: medium | Dono: Paulo Deitos + Luciano
+- [DOC] Registrar: estrutura CRI — pessoa física 100% isenta sobre ganho de capital, custo ~100k (64k + 1k/mês), vinculação a apts específicos, pagamento parcelado. — [696f8356ee25fd0013b6ac94](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: comparativo tributário — SCP paga 350k (10%), PF paga 0 (isento), PJ paga 15%. Diferença de 350k. — [696f8356ee25fd0013b6ac94](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Luciano (Zabo SP) — investidor potential com 3.5M ganho de capital. Paulo estruturando. — [696f8356ee25fd0013b6ac94](/2026-01) | Destino: memory/people.md | Prioridade: high
+- José como sócio local em Goiânia — praça com 90-100 incorporadoras sem cobertura atual — [696fc2aba1068c0013a3116d](/2026-01) | Impacto: high | Dono: José Antônio Freitas
+- Experiência com inteligência comercial e segmentação de mercado pode agregar ao modelo — [696fc2aba1068c0013a3116d](/2026-01) | Impacto: medium | Dono: José Antônio Freitas
+- 38% taxa de conversão na B3 — candidato de alta performance se adaptar ao modelo — [696fc2aba1068c0013a3116d](/2026-01) | Impacto: medium | Dono: José Antônio Freitas
+- José desenvolver equipe própria junto com Gustavo — escala operação Goiânia — [696fc2aba1068c0013a3116d](/2026-01) | Impacto: medium | Dono: José Antônio Freitas + Gustavo Torres
+- [DOC] Registrar: José Júnior (Goiânia) como candidato forte para sócio local. 38% conversão B3. Proposta基准: 10-12k fixo + ajuda custo + %faturamento. — [696fc2aba1068c0013a3116d](/2026-01) | Destino: crm/pessoas/jose_junior.md | Prioridade: high
+- Aba de desempenho com grupo de concorrentes = diferencial principal —拓fortecer uso — [6970bfcbe50d0f0012494508](/2026-01) | Impacto: high | Dono: Diego Diehl + Gustavo Torres
+- Webinar 'Como Vender Mais' pode qualificar centenas de clientes sem custo — [6970bfcbe50d0f0012494508](/2026-01) | Impacto: high | Dono: Diego Diehl
+- Corretores acessando concorrência mas não produto = ativação estratégica via dados — [6970bfcbe50d0f0012494508](/2026-01) | Impacto: high | Dono: Diego Diehl + Jade
+- Laguna com 8 empreendimentos na plataforma — potencial para aprofundar relação — [6970bfcbe50d0f0012494508](/2026-01) | Impacto: medium | Dono: Luiz Gustavo Zanella + Diego Diehl
+- GT Build extraindo 2.500 acessos — replicar práticas para alto padrão — [6970bfcbe50d0f0012494508](/2026-01) | Impacto: medium | Dono: Gustavo Torres
+- [DOC] Registrar: Produto em menos de 1.000 imobiliários = receita perdida. Meta: expandir para +1.000. — [6970bfcbe50d0f0012494508](/2026-01) | Destino: memory/process.md | Prioridade: high
+- [DOC] Registrar: Webinar 'Como Vender Mais' em planejamento. Destinatários: clientes incorporadoras. — [6970bfcbe50d0f0012494508](/2026-01) | Destino: memory/projects.md | Prioridade: medium
+- Cashback ou comissão para corretores via integração com imobiliárias — aquisição sub explorada — [6970d3346d38bb00139bbcb1](/2026-01) | Impacto: high | Dono: Diego Diehl
+- Plantão de dúvidas semanal inspirado em Redrive — treinamento toda segunda-feira — [6970d3346d38bb00139bbcb1](/2026-01) | Impacto: medium | Dono: Mayumi Takeda + Zanella
+- Lives com especialistas de 25 minutos geram mais engajamento que conteúdo genérico — [6970d3346d38bb00139bbcb1](/2026-01) | Impacto: medium | Dono: Mayumi Takeda
+- Transformar conteúdo de webinar em materiais atrativos e reutilizáveis — [6970d3346d38bb00139bbcb1](/2026-01) | Impacto: medium | Dono: Mayumi Takeda
+- Diagnóstico de maturidade de canais — diferencial competitivo via Pluralseios/método — [6970d3346d38bb00139bbcb1](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: 5 prioridades definidas por Diego — (1) aquisição corretores via cashback, (2) inteligência dentro da plataforma, (3) CTA claro, (4) treinamento onboarding, (5) sincronização por praça — [6970d3346d38bb00139bbcb1](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: plantão semanal de dúvidas inspirado em Redrive — segunda-feira, 25min, especialistas — [6970d3346d38bb00139bbcb1](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- [DOC] Registrar: problemas técnicos do webinar (fone Felipe) — precisam ser resolvidos antes do próximo — [6970d3346d38bb00139bbcb1](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- Otimatec como cliente inicial em São Paulo região norte — pode abrir mercado na área — [6970fca1e50d0f00124950b1](/2026-01) | Impacto: high | Dono: Diego Diehl
+- Integração gratuita com Google + distribuição em 1000+ sites e portais — valor claro para cliente — [6970fca1e50d0f00124950b1](/2026-01) | Impacto: high | Dono: Diego Diehl
+- João Diego (especialista) pode adviser estratégia de lançamento — diferenții competițional — [6970fca1e50d0f00124950b1](/2026-01) | Impacto: medium | Dono: João Diego + Otimatec
+- Dashboard de corretores mais ativos por região — assertividade na abordagem — [6970fca1e50d0f00124950b1](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Otimatec Engenharia — construtora Guarulhos, primeiro lançamento em SP Norte (dez/2025). 6 vendas, zero visitas. Interessada em corretores. — [6970fca1e50d0f00124950b1](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Preço acordado R$655/mês por 2 empreendimentos. Contrato anual. Cadastro 4-5 dias. — [6970fca1e50d0f00124950b1](/2026-01) | Destino: memory/projects.md | Prioridade: medium
+- NBA 80M VGV — maior deal potencial identificado — [6971292de4d717001331d562](/2026-01) | Impacto: high | Dono: Pedro Monte + Diego Diehl
+- CRI economia 1.5M em impostos para projeto 40M VGV — [6971292de4d717001331d562](/2026-01) | Impacto: high | Dono: Diego Diehl
+- Super Exposição com 50 corretores — modelo de distribuição escalável — [6971292de4d717001331d562](/2026-01) | Impacto: medium | Dono: Pedro Monte
+- 65% das vendas por indicação — relacionamento forte no mercado — [6971292de4d717001331d562](/2026-01) | Impacto: medium | Dono: Pedro Monte
+- Conexão com Leandro (avaliação imobiliária) pode abrir novas oportunidades — [6971292de4d717001331d562](/2026-01) | Impacto: low | Dono: Pedro Monte + Diego Diehl
+- [DOC] Registrar: NBA 80M VGV com Pedro Monte. CRI economia 1.5M para projeto 40M VGV. — [6971292de4d717001331d562](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Pedro Monte — imobiliária focada em investidores. 65% por indicação. Super Exposição com 50 corretores. — [6971292de4d717001331d562](/2026-01) | Destino: memory/people.md | Prioridade: high
+- Z2A integra CV automaticamente — timeline completa do corretor é diferencial — [697214b6e4d717001331f32f](/2026-01) | Impacto: high | Dono: Rodrigo Italiano
+- Plataforma homologada Meta — templates approved em 24h, sem risco de ban — [697214b6e4d717001331f32f](/2026-01) | Impacto: high | Dono: Rodrigo Italiano
+- Dashboard 360: contatos, impactados, danificados, conversão — gestão facilitada — [697214b6e4d717001331f32f](/2026-01) | Impacto: medium | Dono: Rodrigo Italiano
+- Integração futura Z2 dentro do Ouro — produto cada vez mais completo — [697214b6e4d717001331f32f](/2026-01) | Impacto: medium | Dono: Diego Diehl + Time de Produto
+- [DOC] Registrar: Z2A funcionalidades — score+portal+WhatsApp, roleta, integração CV, dashboard 360, templates Meta. — [697214b6e4d717001331f32f](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: integração Z2+Ouro 50% pronta. Timeline de conclusão pendente. — [697214b6e4d717001331f32f](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: treinamento Z2A toda quarta 9h com Rodrigo Italiano. — [697214b6e4d717001331f32f](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Gustavo: compartilhar conteúdo desta reunião. Sem dados, análise completa impossível e decisões ficam sem rastreabilidade. — [69722d66a1068c0013a36938](/2026-01) | Destino: N/A | Prioridade: critical
+- Webinar com público relevante gerou 26 indicacoes de incorporadoras novas —работа por BDRs — [69736636913cb900132bd0eb](/2026-01) | Impacto: high | Dono: Gustavo Torres + BDRs
+- Disparos Z2 para 250 contatos em 1-2h — escalabilidade comprovada — [69736636913cb900132bd0eb](/2026-01) | Impacto: high | Dono: João Vitor Portes da Silva
+- Dona da Jampa Life com 17 corretores interessada em reunião — potencial parceria ou cliente — [69736636913cb900132bd0eb](/2026-01) | Impacto: high | Dono: João Vitor Portes da Silva + Neno
+- Experimento de ativação com 50% dos cadastrados da semana pode medir impacto antes de escalar — [69736636913cb900132bd0eb](/2026-01) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues + João Vitor Portes da Silva
+- Próximo evento em Capão da Canoa — oportunidade de repetir modelo de João Pessoa — [69736636913cb900132bd0eb](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- Tecnologia de disparos automáticos com agentes respondendo pode escalar operação sem aumento de headcount — [69736636913cb900132bd0eb](/2026-01) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Disparos Z2 para 250 contatos em 1-2h. Escalabilidade comprovada. — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Webinar gerou 26 indicacoes de incorporadoras novas em João Pessoa. Processo: BDRs vão trabalhar conscientização. — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Bug de integração (formulário não abre no navegador). Solução paliativa via app. Time dev notificado. — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Registrar: Número WhatsApp banido — impactou contato com potenciais clientes em João Pessoa — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Registrar: Retenção João Pessoa é 23-24% em 5 meses. Gráfico de coorte mostra padrão de uso semanal por data de cadastro. — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/projects.md | Prioridade: medium
+- [DOC] Documentar processo: sempre importar cadastrados na Meta ANTES de eventos/disparos — [69736636913cb900132bd0eb](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- Ester: 26-27 indicações em João Pessoa em uma semana — modelo funciona — [697377d35355be00138a5614](/2026-01) | Impacto: high | Dono: Ester
+- Copy focada em benefícios gratuitos aumenta conversão — [697377d35355be00138a5614](/2026-01) | Impacto: medium | Dono: Bruna Soares
+- Cartilha de comunicação padronizada ajuda масштабирование para outras regiões — [697377d35355be00138a5614](/2026-01) | Impacto: medium | Dono: Bruna Soares + Laura + Mayumi
+- [DOC] Registrar: Ester 26-27 indicações/semana em João Pessoa. Copy: pedir contato gerente de parcerias, não número. — [697377d35355be00138a5614](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: produto — DL com menos visibilidade que regulares. App over WhatsApp. Epic focado em visibilidade. — [697377d35355be00138a5614](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- Goilândia: José tem acesso a Beatriz Gomes e pode construir rede local de corretores/imobiliárias — [6973b71e7f640c0013685039](/2026-01) | Impacto: high | Dono: José Antônio Freitas
+- Centro-Oeste oferece grande capacidade de atendimento e relacionamento — mercado menos saturado — [6973b71e7f640c0013685039](/2026-01) | Impacto: medium | Dono: José Antônio Freitas
+- José vem de B3/Tech — pode aportar visão de dados e tecnologia少见 — [6973b71e7f640c0013685039](/2026-01) | Impacto: medium | Dono: José Antônio Freitas
+- ADEMI e empresas grandes podem ser porta de entrada para incorporadoras de ticket alto — [6973b71e7f640c0013685039](/2026-01) | Impacto: medium | Dono: José Antônio Freitas
+- [DOC] Registrar: José Antônio Freitas — potencial operador em Goiânia. Background B3 (Bolsa) + empresa Tech de dados. Recebeu acesso a Beatriz Gomes. — [6973b71e7f640c0013685039](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Modelo Órulo 'pizza sem queijo': produto grátis para todos, conversion em receita via features premium. Validado por José como 'democratização de dados'. — [6973b71e7f640c0013685039](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Goiânia — presença física, abraços, apertos de mão são requisitos básicos. Mercado exige relacionamento presencial. — [6973b71e7f640c0013685039](/2026-01) | Destino: memory/decisions.md | Prioridade: medium
+- Inteligência que identifica corretores que acessaram concorrentes mas não acessaram a Incorporadora - oportunidade de abordagem direta via WhatsApp — [6979fa4507a27300130c12b7](/2026-01) | Impacto: high | Dono: Luiz Gustavo Zanella
+- Case Leila Morati: 12 vendas em 1 mês através de corretores da plataforma - proof of concept para vender valor — [6979fa4507a27300130c12b7](/2026-01) | Impacto: high | Dono: time comercial
+- Plaenge fechou contrato após argumento de entrega para mais de 500 sites - diferencial de integração com 460 CRMs — [6979fa4507a27300130c12b7](/2026-01) | Impacto: medium | Dono: time comercial
+- [DOC] Documentar script de objeções e respostas treinado na reunião como playbook de treinamento para novos membros — [6979fa4507a27300130c12b7](/2026-01) | Destino: Drive - pasta WS1 ou treinamento | Prioridade: high
+- [DOC] Registrar: Reunião Z2 + Órulo de 29/01 sem dados suficientes. Verificar se há gravação ou resumo alternativo. — [697b41262238f70013485bfe](/2026-01) | Destino: memory/pending.md | Prioridade: high
+- Corretor ponte na zona sul pode abrir portas para incorporadoras que a Órulo ainda não acessa — [697ca3cb6216b200139caad4](/2026-01) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues + João Vitor Portes da Silva
+- Sistema de pontuação 0-10 para incorporadoras pode melhorar qualidade de anúncios e rankeamento — [697ca3cb6216b200139caad4](/2026-01) | Impacto: high | Dono: time de produto
+- Parceria com Creci Paraíba ('Índice Cresce') pode abrir nova frente de relacionamento institucional — [697ca3cb6216b200139caad4](/2026-01) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues
+- Hotsite para novos corretores pode aumentar conversão no onboarding — [697ca3cb6216b200139caad4](/2026-01) | Impacto: medium | Dono: time de produto
+- Contatos proativos via WhatsApp podem validar modelo de engajamento — [697ca3cb6216b200139caad4](/2026-01) | Impacto: low | Dono: Ester Elisa de Souza Rodrigues
+- [DOC] Registrar: zona sul de João Pessoa sem cobertura. Wagner Felipe a indicar corretor ponte. Ester buscar nas próximas semanas. — [697ca3cb6216b200139caad4](/2026-01) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar método: áudio + material educativo mais efetivo que mensagem genérica para abordagem de novos cadastrados — [697ca3cb6216b200139caad4](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: 24-26 cadastrados abordados por Ester na semana 18-24jan. Retenção nas primeiras 3-4 semanas é foco. — [697ca3cb6216b200139caad4](/2026-01) | Destino: memory/projects.md | Prioridade: medium
+- [DOC] Registrar: sistema de pontuação 0-10 para incorporadoras já tem desenho mas não saiu — implementar — [697ca3cb6216b200139caad4](/2026-01) | Destino: memory/pending.md | Prioridade: medium
+- Mune vai lançar nova torre com 100 unidades no meio do ano — potencial de upsell de volume — [697cbcd6697b570013ec88f3](/2026-01) | Impacto: medium | Dono: Gustavo Torres
+- Mune substituir Google Drive por link Orla — aumentaria engajamento e visibilidade — [697cbcd6697b570013ec88f3](/2026-01) | Impacto: medium | Dono: Kaique Carvalho
+- Mune participa do Minha Casa Minha Vida — acesso a público массivo e possibly mais parcerias — [697cbcd6697b570013ec88f3](/2026-01) | Impacto: low | Dono: Kaique Carvalho
+- Região Anália Franco/Vila Formosa — zona leste de SP com 200M estoque. Mune pode ser case local. — [697cbcd6697b570013ec88f3](/2026-01) | Impacto: low | Dono: Kaique Carvalho
+- [DOC] Registrar: Mune Construtora — 6 empreendimentos, ~80 unidades, zona leste SP (Anália Franco/Vila Formosa). Kaique + gerente comercial decisores. — [697cbcd6697b570013ec88f3](/2026-01) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Preço Orla para Mune: R$ 1.500/mês (desconto volume). Uma venda cobre mensalidade. Contrato anual. — [697cbcd6697b570013ec88f3](/2026-01) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Mune descobriu Orla via ChatGPT — busca orgânica. Resposta rápida via WhatsApp foi decisive para avançar. — [697cbcd6697b570013ec88f3](/2026-01) | Destino: memory/lessons.md | Prioridade: medium
+- Piazza di Roma lancado julho com 300+ unidades - potencial grande para ativar canais de venda via Orulo — [6980adfcc547420013ede25e](/2026-02) | Impacto: high | Dono: Luigi Gubert
+- Luigi conhece Diego da epoca da Hype - confianca ja estabelecida facilita fechamento — [6980adfcc547420013ede25e](/2026-02) | Impacto: high | Dono: Diego Diehl
+- 443 imobilirias integradas ja recebem portfolio automaticamente - alcance imediato ao ativar plataforma — [6980adfcc547420013ede25e](/2026-02) | Impacto: high | Dono: Luigi Gubert
+- Inteligencia de mercado Orulo permite diagnose de performance vs. concorrentes em Balneario Camboriu e regiao — [6980adfcc547420013ede25e](/2026-02) | Impacto: medium | Dono: Luigi Gubert
+- Pacotes de marketing bronze, prata e ouro para acelerar vendas - possivel upgrade futuro — [6980adfcc547420013ede25e](/2026-02) | Impacto: medium | Dono: Luigi Gubert
+- [DOC] Registrar Luigi Gubert como prospect quente. Produtos: Piazza di Roma (300+ unidades, lancado julho) + residuo Automove (20-25 unidades). Contexto: parceiro unico bloqueando canais, time de coordenadores perdido, agua verde desempenho baixo (12/600). Ja conhece Diego da epoca Hype. — [6980adfcc547420013ede25e](/2026-02) | Destino: CRM prospects ou memory/people.md | Prioridade: high
+- Lab Series com workshop prático, roleplay e reenactment na semana seguinte — pode aumentar engajamento do time — [698334ce7d83e400138dc05b](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- Training de inteligência de mercado com Pedro em abril — pode fortalecer visão estratégica do time — [698334ce7d83e400138dc05b](/2026-02) | Impacto: medium | Dono: Pedro Ruza Kneip Navarro
+- Integração Arcplan com 50 CRM já mostra valor em demonstração práctica — usar como gancho comercial — [698334ce7d83e400138dc05b](/2026-02) | Impacto: low | Dono: Luiz Gustavo Zanella
+- Meta 451 unidades 2026 com foco em velocidade de atendimento — time alinhado com objetivo — [698334ce7d83e400138dc05b](/2026-02) | Impacto: high | Dono: Diego Diehl
+- [DOC] Registrar comissões por categoria (mercado 4%, premium 5%, super 6%) e meta 451 unidades 2026 — [698334ce7d83e400138dc05b](/2026-02) | Destino: memory/projects.md ou planilha de KRs | Prioridade: high
+- [DOC] Registrar princípios organizacionais discutidos (feedback respeitoso, resolver um a um, responsabilidade individual de comunicar) — [698334ce7d83e400138dc05b](/2026-02) | Destino: memory/decisions.md | Prioridade: medium
+- [DOC] Documentar feedback do time sobre treinamentos (menos slides, mais cases práticos, sala de aula invertida) — [698334ce7d83e400138dc05b](/2026-02) | Destino: WS1 — arquivo de treinamentos | Prioridade: medium
+- [DOC] Registrar que Arcplan integra apenas com 50 CRM (não 1050) como limiteknown da ferramenta — [698334ce7d83e400138dc05b](/2026-02) | Destino: memory/projects.md | Prioridade: medium
+- Parceria com Lopes vai trazer força significativa para Vitória — [69834628f89b5a0013ba42fd](/2026-02) | Impacto: high | Dono: Pedro Ruza Kneip Navarro
+- André é franqueado importante da Remax para relacionamento em Vitória — [69834628f89b5a0013ba42fd](/2026-02) | Impacto: medium | Dono: Pedro Ruza Kneip Navarro
+- Luiz: meta 30 incorporadoras no evento de Curitiba — [69834628f89b5a0013ba42fd](/2026-02) | Impacto: medium | Dono: Luiz Gustavo Zanella
+- Ester desenvolvendo insights sobre comunicação com corretores — [69834628f89b5a0013ba42fd](/2026-02) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues
+- [DOC] Registrar: Luiz 3 reuniões Sprint 1, Pedro 6 treinos. Evento Curitiba 25/02. Pedro meta 5 reuniões até 20/02. Portal Z2 canibalizando audiência. — [69834628f89b5a0013ba42fd](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Verificar se há gravação ou notas do Processo Seletivo com Fernanda (04/02). Resultado do processo seletivo não está registrado. — [69837b247d83e400138dcef6](/2026-02) | Destino: memory/pending.md | Prioridade: medium
+- Economia potencial de 3% do VGV em impostos para Torreão — [6984a262c8ca580013150c28](/2026-02) | Impacto: high | Dono: Felipe Goettems + Celina Villarim
+- Aumento de 20% na lucratividade do produto com estrutura CRI — [6984a262c8ca580013150c28](/2026-02) | Impacto: high | Dono: Felipe Goettems + Celina Villarim
+- Terrenista evita imposto sobre ganho de capital ao receber via CRI — [6984a262c8ca580013150c28](/2026-02) | Impacto: high | Dono: Felipe Goettems
+- [DOC] Registrar: CRI para Torreão — economia 3% VGV, +20% lucratividade. Limite 50k mensal por CNPJ. — [6984a262c8ca580013150c28](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Torreão Villariim nunca captou via CRI. Financeira com capital próprio até Caixa. — [6984a262c8ca580013150c28](/2026-02) | Destino: memory/people.md | Prioridade: high
+- Hype dobrou vendas em 1 ano — melhor case para mostrar ROI — [6984c57ba0c380001332dc21](/2026-02) | Impacto: high | Dono: Diego Diehl
+- Blue: 50k emails, 16% open rate, 5.600 corretores impactados — [6984c57ba0c380001332dc21](/2026-02) | Impacto: high | Dono: Diego Diehl
+- AYA vendeu 80% em 3 meses com estratégia Orulo — [6984c57ba0c380001332dc21](/2026-02) | Impacto: high | Dono: Diego Diehl
+- 24 eventos programados com VMV em 2026 — relacionamento estratégico — [6984c57ba0c380001332dc21](/2026-02) | Impacto: high | Dono: Diego Diehl + VMV Group
+- Torreão: 164 corretores visitando, 35 compartilhamentos — potencial para converter — [6984c57ba0c380001332dc21](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: cases Órulo — Hype dobrou vendas (8M visualizações, 70k usuários), Blue 50k emails 16% open, AYA 80% em 3 meses. — [6984c57ba0c380001332dc21](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: 24 eventos programados com VMV em 2026. Workshop estruturação canal parcerias. — [6984c57ba0c380001332dc21](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Torreão Vilarinho — 164 corretores, 35 compartilhamentos. Potencial para expandir. — [6984c57ba0c380001332dc21](/2026-02) | Destino: memory/people.md | Prioridade: medium
+- [DOC] Gustavo ou Diego registrar resumo do processo seletivo e case Carla manualmente — [6984f6b56de6d60013aef6ba](/2026-02) | Destino: memory/people.md ou e-mail | Prioridade: high
+- Oferta R$5M primeira série CRI — potencial масштабировать para mais séries — [6989ef6383febd0013d31918](/2026-02) | Impacto: high | Dono: Paulo Deitos + Órulo
+- Base 250k corretores, 100k só em SP — distribuição massiva potencial — [6989ef6383febd0013d31918](/2026-02) | Impacto: high | Dono: Órulo
+- Ticket R$1-10k vs R$200-400k imobiliário — acessibilidade amplia mercado — [6989ef6383febd0013d31918](/2026-02) | Impacto: high | Dono: Paulo Deitos
+- Comissão 6% para corretores — incentivador forte de adesão — [6989ef6383febd0013d31918](/2026-02) | Impacto: medium | Dono: Paulo Deitos
+- White label por corretor — experiência personalizada e rastreável — [6989ef6383febd0013d31918](/2026-02) | Impacto: medium | Dono: Paulo Deitos
+- [DOC] Registrar: Parceria Órulo + Captable + Vitacom. CRI primeira série R$5M. White label por corretor. Ticket R$1-10k. Comissão 6%. — [6989ef6383febd0013d31918](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Riscos — canibalização clientes Vitacom e compliance corretores. — [6989ef6383febd0013d31918](/2026-02) | Destino: memory/risks.md | Prioridade: medium
+- Histórico 2023 mostra conversão de 153 para 520 contratos — potencial de escala — [698b7223486bad00134bacac](/2026-02) | Impacto: high | Dono: Diego Diehl
+- Automação e fluxos inteligentes com IA para personalização — [698b7223486bad00134bacac](/2026-02) | Impacto: high | Dono: Diego Diehl + Gustavo Torres
+- SDRs trazerem cases de sucesso em reuniões — enriquecimento coletivo — [698b7223486bad00134bacac](/2026-02) | Impacto: medium | Dono: Gustavo Torres
+- [DOC] Registrar: Foco em qualidade reunião = % venda/reunião. Abordagem massificada ok se não insistente. Playbooks mensais. Diego compartilhar DOC com Gustavo. — [698b7223486bad00134bacac](/2026-02) | Destino: memory/process.md | Prioridade: high
+- Vídeos curtos personalizados podem aumentar conversão em decisões — [698b9011657ae90013b40ee1](/2026-02) | Impacto: high | Dono: João Vitor Portes da Silva
+- Forecast semanal vai melhorar visibilidade de pipeline e antecipar problemas — [698b9011657ae90013b40ee1](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- Jade e Mila com trabalho excelente — podem ser benchmark para altri BDRs — [698b9011657ae90013b40ee1](/2026-02) | Impacto: medium | Dono: Jade Rosa + Mirla Menezes
+- [DOC] Registrar: padrão de perdido definido — campo 'analisar falha' +区分'perdido' vs 'não vai comprar agora' + área separada com histórico. — [698b9011657ae90013b40ee1](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: carteira máxima de closer = 50 clientes. Redução de 66 para 50 em 10 dias. — [698b9011657ae90013b40ee1](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: reunião forecast semanal na terça. Critérios XL definidos por Gustavo. — [698b9011657ae90013b40ee1](/2026-02) | Destino: memory/decisions.md | Prioridade: medium
+- Prompt padrão para calcular velocidade de vendas — escala análise — [698c6f356979ef0013b83ce5](/2026-02) | Impacto: high | Dono: Diego Diehl
+- Coordenador comercial: reativação estruturada de base via dados, não pressão — [698c6f356979ef0013b83ce5](/2026-02) | Impacto: medium | Dono: Diego Diehl + time
+- Produtos parados geram vendas via cauda longa de corretores — [698c6f356979ef0013b83ce5](/2026-02) | Impacto: medium | Dono: Diego Diehl + time
+- Transcrição do treinamento para agente de IA futuro — knowledge base — [698c6f356979ef0013b83ce5](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: VSO = exposição de caixa = lucratividade. Quanto mais tempo exposto, mais juros pagos = menos lucro. Conceito-chave para treinamento. — [698c6f356979ef0013b83ce5](/2026-02) | Destino: memory/process.md | Prioridade: high
+- [DOC] Registrar: Prompt padrão criado para calcular velocidade de vendas. Refinar com abordagem diplomática. — [698c6f356979ef0013b83ce5](/2026-02) | Destino: memory/process.md | Prioridade: medium
+- Vendas em Curitiba cresceram de R$300M para R$530M — base de crescimento sólido — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: high | Dono: Guilherme + Órulo
+- Porto Alegre opera com média de 1,25% de comissão — modelo testado — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: high | Dono: Guilherme
+- Workshop em março em Curitiba para 50 pessoas — possível virada de chave — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: high | Dono: Guilherme
+- Gamificação com check-in em obras para engajar corretores — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: medium | Dono: Guilherme
+- Sistema de medalhas ouro, prata e bronze para classificar corretores — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: medium | Dono: Guilherme
+- Pacote Plus com destaques, banners, e-mail marketing e push pode robustecer proposta de valor — [698cb58fecdf0e001300edbc](/2026-02) | Impacto: medium | Dono: Guilherme
+- [DOC] Registrar: Vendas Curitiba cresceram de R$300M para R$530M. Guilherme gestor agência. Modelo GDD com coordenador de plataforma. — [698cb58fecdf0e001300edbc](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Modelo de remuneração — 1% faturamento inicial (0,3-0,5% variável). Coordenador 30% da comissão + 5% para equipe. — [698cb58fecdf0e001300edbc](/2026-02) | Destino: memory/projects.md | Prioridade: medium
+- Programa embaixadores é prioritário — pode gerar vendas qualificadas com baixo CAC — [698dcb4b834af3001393610e](/2026-02) | Impacto: high | Dono: Diego Diehl + Mayumi Takeda
+- 4 temas de conteúdo para Curitiba — chance de marcar presença como autoridade — [698dcb4b834af3001393610e](/2026-02) | Impacto: medium | Dono: Mayumi Takeda
+- Z2A foi 4 de 7 vendas em fevereiro — pode ser maior se destacado na apresentação — [698dcb4b834af3001393610e](/2026-02) | Impacto: high | Dono: Diego Diehl
+- [DOC] Registrar: Z2A = 4 de 7 vendas em fevereiro. Usar como proof point na apresentação. — [698dcb4b834af3001393610e](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: concorrentes principal é Google Drive, não outras plataformas imobiliárias. Messaging deve addresses isso. — [698dcb4b834af3001393610e](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: apresentação comercial: 14 anos, volume (corretores acessando), Z2A, implementação steps, 12 meses sem fidelidade. — [698dcb4b834af3001393610e](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Verificar com Gustavo e Diego: resultado do processo seletivo de Luan para Closer (12/02/2026). Se aprovado, documentar data de início e onboarding. — [698ddce91bcf5d0012a30d2c](/2026-02) | Destino: memory/people.md | Prioridade: high
+- Gisele como parceira de curadoria: enriquecimento de descrições + curadoria de imagens — diferencial competitivo para attract inmobiliárias — [698e071b1bcf5d0012a314f4](/2026-02) | Impacto: high | Dono: Gisele Vilela
+- Curitiba como praça-alvo para exclusividades — mercado grande mas resistente. Bruno/Diego indicando clientes pode abrir porta — [698e071b1bcf5d0012a314f4](/2026-02) | Impacto: high | Dono: Bruno + Diego
+- Canal YouTube de Gisele com vídeos dos empreendimentos — conteúdo que imobiliárias podem incorporar no site — [698e071b1bcf5d0012a314f4](/2026-02) | Impacto: medium | Dono: Gisele Vilela
+- Rebate para Gisele por exclusividades trazidas — modelo scalável de partnership que alinha incentivo — [698e071b1bcf5d0012a314f4](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar D1-D8 em memory/decisions.md — especialmente status da parceria com Gisele — [698e071b1bcf5d0012a314f4](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Criar registro de partnership com Gisele em memory/people.md — incluindo serviços, precificação e regras de rebate — [698e071b1bcf5d0012a314f4](/2026-02) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar mapeamento de ~40 CRMs em docs/operacional/ — com funcionalidades, regras de edição, limites e alertas de cobrança — [698e071b1bcf5d0012a314f4](/2026-02) | Destino: docs/operacional/crm_mapping.md | Prioridade: medium
+- [DOC] Registrar lição: 'imobiliária não paga adicionais — serviço opcional deve ter proposta de valor muito clara ou bundled' — [698e071b1bcf5d0012a314f4](/2026-02) | Destino: memory/lessons.md | Prioridade: medium
+- [DOC] Gustavo: confirmar status desta reunião. 0.1min = não aconteceu. Se cancelou, remarcar. Se foi erro de registro, corrigir. — [698e3137ecdf0e00130126b6](/2026-02) | Destino: N/A | Prioridade: high
+- Alexandre defende Órulo em Curitiba — 260M de 360M do grupo. Relacionamento estratégico forte. — [698f6d9bacd46d001342c98e](/2026-02) | Impacto: high | Dono: Alexandre Rodrigues
+- Lançamento André Barros 14/04 com 1.500 corretores na Ópera de Arame — visibilidade máxima — [698f6d9bacd46d001342c98e](/2026-02) | Impacto: high | Dono: Alexandre Rodrigues + Diego Diehl
+- Imersão Hype mensal com 300 corretores — treinamento contínuo gera uso consistente — [698f6d9bacd46d001342c98e](/2026-02) | Impacto: high | Dono: Alexandre Rodrigues
+- Login via WhatsApp pode ser modelo para todos os portais — reduz barreira de entrada — [698f6d9bacd46d001342c98e](/2026-02) | Impacto: medium | Dono: Alejandro Olchik
+- Portal como hub principal de comunicação para corretores — posição consolidada — [698f6d9bacd46d001342c98e](/2026-02) | Impacto: medium | Dono: Alexandre Rodrigues
+- [DOC] Registrar: Prioridades Portal — 1) login simplificado, 2) empreendimentos com filtros na capa, 3) tabela digital multi-empreendimentos. — [698f6d9bacd46d001342c98e](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Alexandre Rodrigues (Hype) — responsável por 260M de 360M do grupo em 2025. Defender da Órulo em Curitiba. — [698f6d9bacd46d001342c98e](/2026-02) | Destino: memory/people.md | Prioridade: high
+- Jade: follow-up em 10-20 min após fala-up gerou vários agendamentos em 2 dias — [699c4f44e344ac00135beff1](/2026-02) | Impacto: high | Dono: Jade Rosa + time BDR
+- Novos usuários de incorporadoras são ouro — abordagem imediata pode converter — [699c4f44e344ac00135beff1](/2026-02) | Impacto: high | Dono: Diego Diehl + time
+- Grandes incorporadoras = tickets maiores — focar em prospectar acima da média — [699c4f44e344ac00135beff1](/2026-02) | Impacto: high | Dono: Diego Diehl + Gustavo Torres
+- Automações baseadas em comportamento de usuários permitem abordagem inteligente — [699c4f44e344ac00135beff1](/2026-02) | Impacto: medium | Dono: Alejandro Olchik
+- IA para reconhecimento de fotos otimiza cadastro — diferencial competitivo — [699c4f44e344ac00135beff1](/2026-02) | Impacto: medium | Dono: Alejandro Olchik
+- [DOC] Registrar: Jade gerou vários agendamentos em 2 dias com follow-up rápido + CRM atualizado. Velocidade de follow-up é diferencial. — [699c4f44e344ac00135beff1](/2026-02) | Destino: memory/process.md | Prioridade: high
+- [DOC] Registrar: Follow-up com 'bom dia tudo bem' sem conteúdo = proibido. Template profissional requerido. — [699c4f44e344ac00135beff1](/2026-02) | Destino: memory/process.md | Prioridade: medium
+- Andressa é presidentA da Confraria das Mulheres Corretoras — acesso a network inteiro de corretoras — [699de717fc507800135cebf6](/2026-02) | Impacto: high | Dono: Andressa Magalhães
+- João Biasi é autoridade em CRI em Curitiba — validação dele pode abrir mercado — [699de717fc507800135cebf6](/2026-02) | Impacto: high | Dono: Douglas Vilar + Diego Diehl
+- Migração SCP para CRI economiza até R$ 900k em impostos — argumento forte de venda — [699de717fc507800135cebf6](/2026-02) | Impacto: high | Dono: Diego Diehl
+- Maria Eugênia é nova presidentA da ADM e trabalhou com Diego na Hype —可能的 parceira — [699de717fc507800135cebf6](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- Podcast PodConfra's pode ser canal de distribuição de conteúdo sobre CRI — [699de717fc507800135cebf6](/2026-02) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: linguagem em Curitiba — não usar 'permuta', usar 'parcelamento'. Mercado local tem resistência psicológica ao termo. — [699de717fc507800135cebf6](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: João Biasi — autoridade em estruturação de CRI em Curitiba. Fez apresentações na OAB. Contato via Douglas. — [699de717fc507800135cebf6](/2026-02) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Andressa Magalhães — presidentA da Confraria das Mulheres Corretoras. Conhece incorporadoras. Vai estudar proposta. — [699de717fc507800135cebf6](/2026-02) | Destino: memory/people.md | Prioridade: medium
+- João confia fechar 4 deals principais em fevereiro — [699df8a5fc507800135cef6d](/2026-02) | Impacto: high | Dono: João Vitor
+- União retomada com estratégia de vídeo — boa resposta — [699df8a5fc507800135cef6d](/2026-02) | Impacto: medium | Dono: João Vitor
+- Parkside (Gabriel) pronto para enviar dados — sinal quente — [699df8a5fc507800135cef6d](/2026-02) | Impacto: medium | Dono: João Vitor
+- Evento Vitória dia 4 com 50 inscrições potenciais — [699df8a5fc507800135cef6d](/2026-02) | Impacto: medium | Dono: Knight
+- Afonso França com boa chance de fechar este mês via parceria — [699df8a5fc507800135cef6d](/2026-02) | Impacto: medium | Dono: João Vitor
+- [DOC] Registrar: Forecast fevereiro 16k realista. Deals quentes: União, Milar, Lagon, Parkside. — [699df8a5fc507800135cef6d](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Luiz 2 semanas sem atualizar cards — risco visibilidade. — [699df8a5fc507800135cef6d](/2026-02) | Destino: memory/processos.md | Prioridade: high
+- Espaço Murano com apoio gourmet — possibilidade de evento premium com petiscos/vinho — [699f2aa210f9590013215cfc](/2026-02) | Impacto: medium | Dono: Diego Diehl + André Battú
+- Diego conhecer mercado de Capão in loco via André — networking com incorporadores locais — [699f2aa210f9590013215cfc](/2026-02) | Impacto: medium | Dono: Diego Diehl + André Battú
+- Ciclogeventos: Vitória → Curitiba → Capão em sequência — momentum de prospecção — [699f2aa210f9590013215cfc](/2026-02) | Impacto: medium | Dono: Diego Diehl + time
+- [DOC] Registrar: Evento SIMM+Tríade Capão dias 15-16. Patrocínio R$80k por empresa (50% desc). Espaço condomínio Murano 380 casas. Programação: Órulo 30min + painel 50min. — [699f2aa210f9590013215cfc](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- Workshops presenciais em Vitória (4/3) e Curitiba (18/3) com possibilidade de replicar formato — [69a0435446f1b600120eec2f](/2026-02) | Impacto: high | Dono: Diego Diehl + Mayumi Takeda
+- Estratégia de geração de demanda focada em momentos da jornada — mais efetiva que outbound frio — [69a0435446f1b600120eec2f](/2026-02) | Impacto: high | Dono: Gustavo Torres + Diego Diehl
+- Conteúdo interativo com moldura da marca para reconhecimento e alcance — [69a0435446f1b600120eec2f](/2026-02) | Impacto: medium | Dono: Mayumi Takeda
+- Stories exclusivas para 5 primeiros clientes que assinarem — mecanismo de incentivo à venda — [69a0435446f1b600120eec2f](/2026-02) | Impacto: medium | Dono: Mayumi Takeda
+- Hotsites para eventos com Stories para clientes compartilharem — [69a0435446f1b600120eec2f](/2026-02) | Impacto: low | Dono: Mayumi Takeda
+- [DOC] Registrar: outbound frio → jornada segmentada. Workshops Vitória (4/3), Curitiba (18/3). Mayumi calendário início semana. Diego apresentação Carli. — [69a0435446f1b600120eec2f](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- Radar page integrada: imóvel não vendido vai para Apolar Busca automaticamente — distribuição para 4k+ corretores instantânea — [69a07c1fe344ac00135c907e](/2026-02) | Impacto: high | Dono: Órulo + Apolar
+- Paraguai: 5 lojas abertas, maior venda é de lançamentos — mercado em expansão, Órulo pode ser primeira plataforma nacional a operar lá — [69a07c1fe344ac00135c907e](/2026-02) | Impacto: high | Dono: Felipe Steberl + Felipe Goettems
+- Workshop Curitiba: 150 incorporadoras em 3 semanas — chance de captar gestão exclusiva de novos clientes — [69a07c1fe344ac00135c907e](/2026-02) | Impacto: high | Dono: Felipe Steberl + Diego Diehl
+- Exclusividade total para pequenas e médias construtoras — argumento forte de venda contra concorrência — [69a07c1fe344ac00135c907e](/2026-02) | Impacto: medium | Dono: Diego Diehl + Felipe Steberl
+- Capacitação: Órulo leva representantes para aprender estruturação de parcerias — investimento com ROI de longo prazo — [69a07c1fe344ac00135c907e](/2026-02) | Impacto: low | Dono: Diego Diehl
+- [DOC] Registrar D1-D16 em memory/decisions.md com status —特别注意 D1 (14 empreendimentos), D5 (Radar page), D11 (workshop), D13 (Paraguai) — [69a07c1fe344ac00135c907e](/2026-02) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Criar arquivo de memória da parceria Apolar: termos, commissions, prazos de carência,empreendimentos inclusos, DRI de cada item — [69a07c1fe344ac00135c907e](/2026-02) | Destino: memory/partnership_apolar.md | Prioridade: high
+- [DOC] Registrar contatos: Felipe Steberl (Apolar), Luiz Gustavo Zanella (gestor Apolar), Werner Winter (lista/minuta) — [69a07c1fe344ac00135c907e](/2026-02) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar métricas: 19 empreendimentos exclusivos, 9 já no sistema Apolar, 14 novos entrando, 5 construtoras com comissão diferenciada — [69a07c1fe344ac00135c907e](/2026-02) | Destino: memory/projects.md | Prioridade: high
+- CTA para plano avançado na aba audiência — potencial upsell — [69a19c4b7ac8c80013e360e1](/2026-02) | Impacto: medium | Dono: Neno Andrade
+- Diferenciação visual clara pode aumentar percepção de valor — [69a19c4b7ac8c80013e360e1](/2026-02) | Impacto: medium | Dono: Alejandro Olchik
+- Suporte a 2 contatos com rotação — melhor experiência para imobiliárias grandes — [69a19c4b7ac8c80013e360e1](/2026-02) | Impacto: low | Dono: Neno Andrade
+- [DOC] Registrar: Risco operacional — muitos clientes sem admin. Fluxo: encaminhar para atendimento quando não há admin. — [69a19c4b7ac8c80013e360e1](/2026-02) | Destino: memory/processos.md | Prioridade: high
+- [DOC] Registrar: Corretores não pagantes no final com menos destaque. Diferenciação visual por credibilidade. — [69a19c4b7ac8c80013e360e1](/2026-02) | Destino: memory/processos.md | Prioridade: medium
+- Jade: 24 agendamentos em 2 meses — melhor BDR em onboarding. Pode virar benchmark. — [69a589c5e344ac00135cecc6](/2026-03) | Impacto: high | Dono: Jade Rosa
+- Pedro app de levantamento automático — se validar, economiza tempo e padroniza propostas — [69a589c5e344ac00135cecc6](/2026-03) | Impacto: medium | Dono: Pedro Ruza Kneip Navarro
+- Vídeos em follow-up (João) — resultados bons, pode replicar para time — [69a589c5e344ac00135cecc6](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Eventos em março (Vitória, Curitiba, POA, Capão) — chance de aquisições e visibilidade — [69a589c5e344ac00135cecc6](/2026-03) | Impacto: high | Dono: Diego Diehl + Time
+- [DOC] Registrar: Jade Rosa — destaque com 24 agendamentos em 2 meses. Usar como benchmark de onboarding para novos BDRs. — [69a589c5e344ac00135cecc6](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Luan Felipe de Souza — novo Closer de Caraguatatuba. Trabalha com crianças carentes. Background diferente — monitorar adaptação. — [69a589c5e344ac00135cecc6](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Pedro desenvolveu app de levantamento automático de empreendimentos. Próxima versão: cálculo automático de valores. — [69a589c5e344ac00135cecc6](/2026-03) | Destino: memory/decisions.md | Prioridade: medium
+- Quinto Andar propôs piloto de integração com carteira gratuita — fortalece canal de distribuição — [69a5d01885c6ba0013e91d47](/2026-03) | Impacto: high | Dono: Eduardo Stringhini
+- Cobrar R$ 10-15 por integração ativa mensal — monetização de base inativa — [69a5d01885c6ba0013e91d47](/2026-03) | Impacto: high | Dono: Felipe Goettems + Eduardo Stringhini
+- Contratar pessoa sênior por 6 meses para estruturar processos — [69a5d01885c6ba0013e91d47](/2026-03) | Impacto: medium | Dono: Eduardo Stringhini
+- Terceirização RH mais atrativa: 4h/semana por R$ 6k vs R$ 7k CLT — [69a5d01885c6ba0013e91d47](/2026-03) | Impacto: medium | Dono: Marcelo Rodrigues + Alejandro Olchik
+- Jade nova closadora com bom desempenho em janeiro — [69a5d01885c6ba0013e91d47](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Feb venda R$ 3.800 vs meta R$ 15k. Quinto Andar piloto proposto. Cobrar R$ 10-15/mês por integração ativa. 2k integrações inativas. Terceirização RH avaliada. — [69a5d01885c6ba0013e91d47](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Ramiro domina mercado de Capão e Vertical — 70 edifícios, 1.500 unidades, VGV R$2,1 bilhões — [69a8812d22b1f60013518707](/2026-03) | Impacto: high | Dono: Felipe Goettems + Ramiro Laurent
+- 40 incorporadoras identificadas com unidades ativas na rua — [69a8812d22b1f60013518707](/2026-03) | Impacto: high | Dono: Felipe Goettems
+- Prefeito e secretary querem entender tamanho do mercado — visibilidade para Órula — [69a8812d22b1f60013518707](/2026-03) | Impacto: medium | Dono: Ramiro Laurent
+- Ramiro como presidente Sinduscon dá força institucional para o Panorama — [69a8812d22b1f60013518707](/2026-03) | Impacto: high | Dono: Felipe Goettems
+- [DOC] Registrar: Panorama Litoral expandindo. Ramiro presidente Sinduscon posse 04/05. Evento 14/05. Dados: 70 edifícios Capão/Vertical, 1.500 unidades, VGV R$2,1bi. — [69a8812d22b1f60013518707](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Desconto na primeira mensalidade como incentivo para indicações — testar mecanismo de gamificação — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: medium | Dono: João Vitor Portes
+- Bônus de marketing (Stories/App Store) como reward por indicação — canal menos saturado que e-mail — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: medium | Dono: João Vitor Portes
+- Paulo Mauro com possible influenciadora — oportunidade de marketing de conteúdo — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: medium | Dono: Diego Diehl + marketing
+- Cotisa quer mais produtos — upsell natural de 4 para 9 produtos (aumento de R$ 400) — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: high | Dono: João Vitor Portes
+- Imob Luiz com potencial de 5 incorporadoras — expansão significativa de base — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: high | Dono: João Vitor Portes
+- São Paulo e Campinas como aprendizado master — evento pode virar playbook para outras praças — [69a9d2aaf0f6080013cc814b](/2026-03) | Impacto: medium | Dono: João Vitor Portes + Diego
+- [DOC] Registrar D1-D16 em memory/decisions.md com status — [69a9d2aaf0f6080013cc814b](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar métricas de funil: 8 reuniões realizadas, meta 10/15/20 (ruim/médio/bom), meta R$ 15mil, funil R$ 30mil — [69a9d2aaf0f6080013cc814b](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar processo: closer liga para Gustavo após reunião — criar como protocol padrão — [69a9d2aaf0f6080013cc814b](/2026-03) | Destino: docs/processo_closer.md | Prioridade: high
+- [DOC] Registrar lição: 'Tenda sempre escorrega' — padrão histórico. Criar alerta automático para deals Tenda. — [69a9d2aaf0f6080013cc814b](/2026-03) | Destino: memory/lessons.md | Prioridade: medium
+- Mazzini como incorporadora embaixadora com 500 corretores — conteúdo focado pode alavancar — [69aac1ccd537b40013ab1c27](/2026-03) | Impacto: high | Dono: Mayumi Takeda + Gustavo Torres
+- Curitiba com mídia real-time focada em geração de conteúdo — [69aac1ccd537b40013ab1c27](/2026-03) | Impacto: medium | Dono: Mayumi Takeda + Diego Diehl
+- Congresso 14-16/04 com workshop e debate — momento de visibilidade para marca — [69aac1ccd537b40013ab1c27](/2026-03) | Impacto: high | Dono: Diego Diehl + Mayumi Takeda
+- Alavancas e gatilhos do Gustavo para criar conteúdo escalável por praça — [69aac1ccd537b40013ab1c27](/2026-03) | Impacto: medium | Dono: Gustavo Torres + Mayumi Takeda
+- Hype evento 1.500 corretores na Ópera de Arame — permuta pode gerar alto alcance — [69aac1ccd537b40013ab1c27](/2026-03) | Impacto: high | Dono: Diego Diehl + Mari
+- [DOC] Registrar: Momento crítico = alavanca principal de conversão. Novo usuário sem momento crítico não compra. Gatilhos de usabilidade identificados. — [69aac1ccd537b40013ab1c27](/2026-03) | Destino: memory/process.md | Prioridade: high
+- [DOC] Registrar: Evento Curitiba — permuta Hype em discussão, 1.500 corretores na Ópera de Arame. — [69aac1ccd537b40013ab1c27](/2026-03) | Destino: memory/projects.md | Prioridade: medium
+- Time menos resistente a mudanças e abraçando nova cultura — [69ab191ceef3be0013324da1](/2026-03) | Impacto: high | Dono: Gustavo Torres
+- Jade desafiando processos e contribuindo positivamente — [69ab191ceef3be0013324da1](/2026-03) | Impacto: medium | Dono: Gustavo Torres
+- Mirla e BDRs bem engajadas e gerando bons resultados — [69ab191ceef3be0013324da1](/2026-03) | Impacto: high | Dono: Gustavo Torres
+- Evento Curitiba gerou 6 agendamentos com 3 reuniões já realizadas — [69ab191ceef3be0013324da1](/2026-03) | Impacto: medium | Dono: Gustavo Torres
+- Luan dedicado, estudando e participando ativamente — [69ab191ceef3be0013324da1](/2026-03) | Impacto: medium | Dono: Gustavo Torres
+- [DOC] Registrar: Time engajado. Jade desafiando positivamente. Gustavo equilibrando topo/fundo funil. CRM周二周五. Evento Curitiba: 6 agendamentos, 3 reuniões. — [69ab191ceef3be0013324da1](/2026-03) | Destino: memory/people.md | Prioridade: high
+- João como potencial sócio-local de Florianópolis — expansão regional — [69b0722b4519e900135b07f9](/2026-03) | Impacto: high | Dono: João Vitor Portes da Silva
+- Cliente Dantas/Lira: 4 lançamentos previstos em 3 meses + recorrência — [69b0722b4519e900135b07f9](/2026-03) | Impacto: high | Dono: João Vitor Portes da Silva
+- João fechando cliente em João Pessoa com potencial de recorrência mensal — [69b0722b4519e900135b07f9](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Hotsite via e-mail após ação — formato testado de conversão — [69b0722b4519e900135b07f9](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- [DOC] Registrar: João preparando palestra Floripa 25-35min. João futuro sócio-local Floripa. João Pessoa 4-8/05. Cliente Dantas/Lira: 4 lançamentos 3 meses. — [69b0722b4519e900135b07f9](/2026-03) | Destino: memory/people.md | Prioridade: high
+- Brasal é gigante do mercado imobiliário de Goiânia — muitas oportunidades — [69b159356fac13001319c488](/2026-03) | Impacto: high | Dono: Jade Rosa + Luan Felipe de Souza
+- Dois contatos em Goiânia indicaram outros contatos dentro de incorporadoras — [69b159356fac13001319c488](/2026-03) | Impacto: medium | Dono: Gustavo Torres
+- Embaixadores trazem maior densidade de corretores e geram mais confiança — [69b159356fac13001319c488](/2026-03) | Impacto: high | Dono: João Vitor Portes da Silva
+- Evento com corretores dia 24 com André fazendo propaganda — [69b159356fac13001319c488](/2026-03) | Impacto: medium | Dono: Diego Diehl + Mayumi Takeda
+- Jade abordou 10 litros e 8 são novos contatos com potencial — [69b159356fac13001319c488](/2026-03) | Impacto: medium | Dono: Jade Rosa
+- [DOC] Registrar: 7 workstreams definidos (WS1-WS7). WS6 = embaixadores. Maior lacuna = ativar rede de audiência qualificada. — [69b159356fac13001319c488](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Automação de validação de contato comercial foi testada com sucesso — pode ser replicada — [69b1bd08c1e9ee0013779ffa](/2026-03) | Impacto: high | Dono: Gustavo Torres
+- Z2 permite detectar diálogos quentes, auditar trabalho e criar automações — uso completo pode dobrar produtividade — [69b1bd08c1e9ee0013779ffa](/2026-03) | Impacto: high | Dono: Gustavo Torres
+- Pós-evento com material e vídeo pode agilizar conversão — reutilizar para próximos eventos — [69b1bd08c1e9ee0013779ffa](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: fluxo pós-contrato — (1) Congratulação via WhatsApp, (2) Avisar CS, (3) Celebrar com coordenador e marketing, (4) Enviar para financeiro — [69b1bd08c1e9ee0013779ffa](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: nomenclatura funis — Corp-BR-BDR e Corp-BR-Closer. Não criar funis separados para Z2A e CDA. — [69b1bd08c1e9ee0013779ffa](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: 5 etapas funil — Descoberta realizada, Jornada em andamento, Negociação, Fechamento, Contrato assinado. 'Obter dados' vira tarefa automática. — [69b1bd08c1e9ee0013779ffa](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- CRI: economia 1M em obra de 17M (exemplo prático) — [69b2f1112c298800128eafa1](/2026-03) | Impacto: high | Dono: Porto Camargo
+- CRI isenta ganho de capital terrenista — margem 10% no terreno — [69b2f1112c298800128eafa1](/2026-03) | Impacto: high | Dono: Porto Camargo
+- CRI evita dívida formal no balanço — vantagem contábil — [69b2f1112c298800128eafa1](/2026-03) | Impacto: medium | Dono: Porto Camargo
+- Vida Urbana rodou primeiro CRI em 15 dias — processo validado — [69b2f1112c298800128eafa1](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- CRI pode captar via mercado institucional ou retail com mesma estrutura — [69b2f1112c298800128eafa1](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- [DOC] Registrar: Porto Camargo usa SCP. CRI setup 60k (pode 100k). Securitizadora 2-4% economia. Processo 30 dias. — [69b2f1112c298800128eafa1](/2026-03) | Destino: memory/relationships.md | Prioridade: high
+- [DOC] Registrar: CRI pode evitar dívida no balanço. Isenta ganho capital terrenista — margem 10% no terreno. — [69b2f1112c298800128eafa1](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- Remax interessada em integração — potencial de alto volume de corretores — [69b3ffb54270ef0013147a6a](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues + Bruno
+- Meta de 20 integrações/mês é alcançável — 6 da semana já vieram das conversas — [69b3ffb54270ef0013147a6a](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Priorizar imobiliárias estruturadas pode gerar mais corretores com menos esforço — [69b3ffb54270ef0013147a6a](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Aumento de 50% em integrações ativas (de 40 para 60/mês) é meta viável — [69b3ffb54270ef0013147a6a](/2026-03) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues
+- Caíque (My Broker) como contato estratégico com ~20 unidades em JP — [69b3ffb54270ef0013147a6a](/2026-03) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues
+- [DOC] Registrar: Diagnóstico JP — 156 contatos, 5 novas integrações, 6 da semana. WhatsApp restrito. Remax interessada. 95 integrações (55 ativas, 40 inativas). — [69b3ffb54270ef0013147a6a](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Roteiro de Ester funciona — perguntar sobre lançamentos + integração CRM. Frisar hotsite/inteligência gratuita. Evitar recursos técnicos iniciais. — [69b3ffb54270ef0013147a6a](/2026-03) | Destino: memory/process.md | Prioridade: medium
+- [DOC] Registrar: Reunião Gustavo/Mayumi 13/03 sem dados — topics/notes/transcript indisponíveis. Verificar se há gravação ou resumo alternativo. — [69b406bf6fac1300131a22fb](/2026-03) | Destino: memory/pending.md | Prioridade: high
+- Knight fechou — modelo de parceria funciona — [69b44bbf7314d6001379cf1c](/2026-03) | Impacto: high | Dono: Diego Diehl
+- Funil cresceu de 18 para 32 incorporadores — momentum — [69b44bbf7314d6001379cf1c](/2026-03) | Impacto: high | Dono: Felipe Goettems
+- Boa Vista confirmou presença no evento via Daniel — [69b44bbf7314d6001379cf1c](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- E-mail para base pode gerar leads qualificados — [69b44bbf7314d6001379cf1c](/2026-03) | Impacto: medium | Dono: Diego Diehl + Mayumi
+- Terracota + Laguna: possibilidade de ponte — [69b44bbf7314d6001379cf1c](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Funil cresceu de 18 para 32 incorporadores. Desafio: avançar de reunião para negociação ativa. — [69b44bbf7314d6001379cf1c](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Knight fechou parceria. Modelo funcionando — replicar. — [69b44bbf7314d6001379cf1c](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Luciano situation is difficult — xingou, relacionamento comprometido. — [69b44bbf7314d6001379cf1c](/2026-03) | Destino: memory/pending.md | Prioridade: high
+- [DOC] Verificar com Diego se reunião 'Placeholder para nosso encontro' de 13/03/2026 aconteceu e o que foi discutido — [69b47ac2e108b900136ad1fd](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- Fevereiro teve 1.432 atendimentos via WhatsApp em Campos — volume significativo — [69b845174ddb450012bb9140](/2026-03) | Impacto: high | Dono: Marcelo Rodrigues
+- CS contratando 2 pessoas — possibilidade de melhorar atendimento — [69b845174ddb450012bb9140](/2026-03) | Impacto: high | Dono: Marcelo Rodrigues
+- Meta 15 embaixadores no ano — crescimento sustentável — [69b845174ddb450012bb9140](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Testar preço integração R$ 12 com novos clientes — [69b845174ddb450012bb9140](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- [DOC] Registrar: CS contrata 2 posições (aprovado). Feb: 1.432 atendimentos WhatsApp. Z2 deve por implantações. Preço integração: testar R$ 12. Paraguai não suportado. — [69b845174ddb450012bb9140](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Campinas: incorporador busca 25M em equity via SCP com margem interessante — [69bbe54c50d24b001394c612](/2026-03) | Impacto: high | Dono: Paulo Deitos
+- Interior São Paulo: loteador com 120M carteira quer levantar 15-30M para capitalizar — [69bbe54c50d24b001394c612](/2026-03) | Impacto: high | Dono: Paulo Deitos + Diego Diehl
+- CVM 88 elimina 6 players e reduz de 6 meses para 10 dias — custo e tempo drasticamente menores — [69bbe54c50d24b001394c612](/2026-03) | Impacto: high | Dono: Paulo Deitos
+- Loteadores de Santa Catarina podem usar CRI para financiar clientes sem criar financeira — [69bbe54c50d24b001394c612](/2026-03) | Impacto: medium | Dono: Paulo Deitos
+- Evento Curitiba: 150 incorporadores gerou 10 agendamentos após apresentação sobre isenção — [69bbe54c50d24b001394c612](/2026-03) | Impacto: medium | Dono: Diego Diehl + Felipe Goettems
+- [DOC] Registrar: CVM 88 = elimina 6 players, 6 meses → 10 dias. Limite 15M→75-100M em 2027. Campinas 25M equity. Loteador SP 15-30M. — [69bbe54c50d24b001394c612](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Figurinhas com IA para contato — diferencial criativo que destaca a Órulo vs. concorrentes que usam abordagem genérica — [69bd3dc6afb4b00013f63364](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Corretores que trabalham com lançamentos são mais engajados — usar como filtro de priorização no outreach — [69bd3dc6afb4b00013f63364](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Funcionalidades gratuitas (vitrine, inteligência de mercado) como porta de entrada — converter free em paid via percepção de valor — [69bd3dc6afb4b00013f63364](/2026-03) | Impacto: medium | Dono: Ester + João
+- Imobiliária digital que atua no BR inteiro — possível parceira ou cliente de alto valor se focar em lançamentos — [69bd3dc6afb4b00013f63364](/2026-03) | Impacto: medium | Dono: Ester + João
+- [DOC] Registrar D1-D6 em memory/decisions.md —特别注意 D4 (teste terça+quinta) e D3 (disparo segunda) — [69bd3dc6afb4b00013f63364](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar lições aprendidas: (1) limite de imóveis é barreira de churn, (2) mensagem com hotsite teve 35-40% resposta, (3) lançamento = maior engajamento — [69bd3dc6afb4b00013f63364](/2026-03) | Destino: memory/lessons.md | Prioridade: high
+- [DOC] Ester criar planilha de follow-up de inativos — registrar: motivo, contato, resposta, próximo passo, status — [69bd3dc6afb4b00013f63364](/2026-03) | Destino: docs/ccr_inativos_tracking.md | Prioridade: medium
+- [DOC] Atualizar memory/people.md — incluir Ester como responsável por CCR Corretores JP com métricas de conversão — [69bd3dc6afb4b00013f63364](/2026-03) | Destino: memory/people.md | Prioridade: medium
+- Corretores são mais engajados com empreendimentos integrados — taxa de cliques maior — [69bd9ef06a28e60013c3eb61](/2026-03) | Impacto: high | Dono: Marcelo Rodrigues
+- Sincronização automática reduz trabalho manual das incorporadoras — [69bd9ef06a28e60013c3eb61](/2026-03) | Impacto: medium | Dono: Gleybiony Camargo
+- Campo de valor promocional gerando alta engajamento — [69bd9ef06a28e60013c3eb61](/2026-03) | Impacto: medium | Dono: Gleybiony Camargo
+- Expansão para capitais: São Paulo, Curitiba, Porto Alegre — [69bd9ef06a28e60013c3eb61](/2026-03) | Impacto: high | Dono: Diego Diehl
+- [DOC] Registrar: Integração Orulo + Imobmeet. API pronta. Token + docs Marcelo envia. Expansão capitais. — [69bd9ef06a28e60013c3eb61](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Campos obrigatórios integração — unidade, status, área, preço. — [69bd9ef06a28e60013c3eb61](/2026-03) | Destino: memory/processos.md | Prioridade: medium
+- CRI via Regulação 88: custo apenas 60k vs 1M na 160, prazo 7-10 dias vs 3-6 meses, limite 15M por instrumento — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: high | Dono: Felipe Goettems
+- CRI para terrenista do Sublime pode reduzir ganho de capital em 600k — facilita futuras aquisições — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: high | Dono: Felipe Goettems + Daniel Ribas
+- Benefício tributário linear via CRI: 50% dos fluxos futuros = 50% do benefício — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: high | Dono: Felipe Goettems + Daniel Ribas
+- Sublime Batel VGV 107-120M — potencial para múltiplos CRIs de 15M — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: high | Dono: Felipe Goettems + Daniel Ribas
+- Água Verde VGV ~220M com propriedade pronta — potencial locação via CRI com benefício tributário — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: medium | Dono: Felipe Goettems + Daniel Ribas
+- Carteira de locação pode começar com volume significativo a partir de janeiro próximo — CRI como veículo — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: medium | Dono: Daniel Ribas + Felipe Goettems
+- Múltiplos CNPJs de 49% caem em regra de 600k anuais sem retenção na fonte — planejamento tributário — [69be9d49c1f67b0013e5fa4c](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- [DOC] Registrar portfólio Daniel Ribas: Greca (9.892m², 24pav), Sublime Batel (VGV 107-120M), Aquarela (7892m², entrega jun/26), La Vista Guaratuba (12.898m², 50% estrutura) — [69be9d49c1f67b0013e5fa4c](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: CRI Regulação 88 CVM — custo 60k, prazo 7-10 dias, limite 15M por instrumento. Diferencial competitivo vs 160. — [69be9d49c1f67b0013e5fa4c](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Benefício CRI é linear — 50% fluxos futuros = 50% benefício tributário. Locação 30% vs compra-venda 4%. — [69be9d49c1f67b0013e5fa4c](/2026-03) | Destino: memory/decisions.md | Prioridade: medium
+- [DOC] Registrar: Terrenista Sublime Batel ganhou ~5M em gain de capital. CRI pode reduzir em 600k em próximo negócio. — [69be9d49c1f67b0013e5fa4c](/2026-03) | Destino: memory/people.md | Prioridade: medium
+- [DOC] Registrar: 95% dos clientes Daniel pagam até entrega das chaves (parcelamento). Público de alto valor. — [69be9d49c1f67b0013e5fa4c](/2026-03) | Destino: memory/people.md | Prioridade: medium
+- Economia potencial de 5M com estrutura fiscal regulada — [69c3dc5fdbc75500136ae2e6](/2026-03) | Impacto: high | Dono: Felipe Goettems + Guilherme
+- Empreendimento de 345M VGV em Sinop — maior deal identificado — [69c3dc5fdbc75500136ae2e6](/2026-03) | Impacto: high | Dono: Guilherme Mendes
+- Empreendimento de 100M vendido em 2 dias — demanda validada — [69c3dc5fdbc75500136ae2e6](/2026-03) | Impacto: high | Dono: Guilherme Mendes
+- CRI mais vantajoso que SCP para esse caso — [69c3dc5fdbc75500136ae2e6](/2026-03) | Impacto: medium | Dono: Felipe Goettems
+- Prazo de obra 36 meses — tempo para estruturar antes de construction — [69c3dc5fdbc75500136ae2e6](/2026-03) | Impacto: medium | Dono: Guilherme Mendes
+- [DOC] Registrar: Projeto Sinop — 345M VGV, ago/2026 lançamento, fev/2030 entrega. Economia potencial 5M via estrutura fiscal. — [69c3dc5fdbc75500136ae2e6](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: CRI > SCP para esse caso. Economia 10% tributação usando PF vs PJ. — [69c3dc5fdbc75500136ae2e6](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- Transformar 3 SDRs em 6 sem contratar — eficiência operacional — [69c53bda89dd4d0013feab19](/2026-03) | Impacto: high | Dono: Diego Diehl
+- Reativação de base de 250 mil corretores com segmentação e enriquecimento — [69c53bda89dd4d0013feab19](/2026-03) | Impacto: high | Dono: Diego Diehl
+- Automação de funil completo: conversão até sequência personalizada — [69c53bda89dd4d0013feab19](/2026-03) | Impacto: high | Dono: Marcelo Rodrigues
+- Qualificação com SDR virtual antes de atendimento humano — [69c53bda89dd4d0013feab19](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Playbook Lab já trabalhou com pharma, shopping, tech, serviços — expertise transferível — [69c53bda89dd4d0013feab19](/2026-03) | Impacto: medium | Dono: Victor Baggio
+- [DOC] Registrar: processo primeiro, automação depois. Validar na mão 2-3 meses antes de automatizar. — [69c53bda89dd4d0013feab19](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: 3 projetos Playbook Lab — prospecção outbound, escala CS, reativação 250k. Priorização pendente. — [69c53bda89dd4d0013feab19](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Gustavo saúde afetando velocidade. Envolver Marcelo mais ativamente. — [69c53bda89dd4d0013feab19](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: BDRs não sabem usar IA — treinar primeiro antes de automatizar. — [69c53bda89dd4d0013feab19](/2026-03) | Destino: memory/lessons.md | Prioridade: medium
+- Caso de sucesso: cliente vendeu 70 unidades usando a plataforma Hora — usar como proof — [69c58224f2dd940013643f4d](/2026-03) | Impacto: high | Dono: João Vitor Portes da Silva + Diego Diehl
+- Roselita bem engajada após reunião com incorporador — possível conversão — [69c58224f2dd940013643f4d](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Parceria Rio estruturada com 12 gerentes alto padrão e 500 corretores — [69c58224f2dd940013643f4d](/2026-03) | Impacto: high | Dono: João Vitor Portes da Silva
+- Mercado Rio tem confusão entre imobiliárias — oportunidade para acelerar adoção — [69c58224f2dd940013643f4d](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Diego pode fazer Facebook ads para gerar corretores para Salazar — [69c58224f2dd940013643f4d](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: Modelo Closer = pro rata. W3 Rio aguardando assinatura. Luli Goiânia travada na diretoria. Salazar: R$ 1.897 até 31/03. — [69c58224f2dd940013643f4d](/2026-03) | Destino: memory/process.md | Prioridade: high
+- Disparos com 45% resposta e 20 integrações — replicar escala em outras praças — [69c674b5602e260013bbd14c](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues + Diego Diehl
+- Custo R$16 por integração capturada — escalável com volume — [69c674b5602e260013bbd14c](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Potencial 1.600 disparos para 100 integrações — ratio 16:1 — [69c674b5602e260013bbd14c](/2026-03) | Impacto: high | Dono: Ester Elisa de Souza Rodrigues
+- Replicar modelo JP em Goiânia (evento 27/05) — [69c674b5602e260013bbd14c](/2026-03) | Impacto: medium | Dono: Ester Elisa de Souza Rodrigues + Diego Diehl
+- Plugin Chrome para organização WhatsApp pode melhorar produtividade — [69c674b5602e260013bbd14c](/2026-03) | Impacto: medium | Dono: João Vitor Portes da Silva
+- [DOC] Registrar: Disparos JP: 800 corretores, 45% resposta, 20 integrações (vs 10 antes). Custo R$16/integração. Ratio 16:1. — [69c674b5602e260013bbd14c](/2026-03) | Destino: memory/process.md | Prioridade: high
+- Meta Vitória 2 vendas, projeção 8 — evento superando expectativa — [69c67bbe0da323001305d36e](/2026-03) | Impacto: high | Dono: Diego Diehl + Gustavo Torres
+- Jantar em Porto Alegre focado em Criptografia — teste de canal alto toque — [69c67bbe0da323001305d36e](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Material personalizado com GPT usando dados e logo da incorporadora — [69c67bbe0da323001305d36e](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Pré-proposta personalizada sem valores — abordagem consultiva — [69c67bbe0da323001305d36e](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- [DOC] Registrar: 3 frentes de acionamento (e-mail, ligações, mensagens S10). Meta Vitória 2 vendas, projeção 8. Tema mantido 1a rodada. Mayumi Sympla segunda. — [69c67bbe0da323001305d36e](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Goiânia gerou venda com Inovar — surpresa positiva para expandir — [69ca73c524b2440013ebe436](/2026-03) | Impacto: high | Dono: Time comercial
+- Jade 6k em Vitória — melhor BDR. Pode ser benchmark para其他人 — [69ca73c524b2440013ebe436](/2026-03) | Impacto: high | Dono: Jade Rosa
+- Team bem distribuído — vários vendedores performando vs concentração anterior — [69ca73c524b2440013ebe436](/2026-03) | Impacto: medium | Dono: Time comercial
+- [DOC] Registrar: Jade Rosa — destaque em Vitória com 6k em volume. Possível benchmark de onboarding e performance. — [69ca73c524b2440013ebe436](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: patamar mínimo mensal 20k total, 2.5k por sócio local. Meta anual 250k. — [69ca73c524b2440013ebe436](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Realiza (Curitiba) não sabia de planos de aceleração. Comunicação é gap crítico. — [69ca73c524b2440013ebe436](/2026-03) | Destino: memory/pending.md | Prioridade: high
+- Meta 40% MRR = +R$ 360k mensais — crescimento significativo se atingido — [69caba140da323001306119a](/2026-03) | Impacto: high | Dono: Diego Diehl
+- Crescimento em Grande SP viável em Barueri, Guarulhos e ABC — [69caba140da323001306119a](/2026-03) | Impacto: high | Dono: Diego Diehl
+- São Paulo, Porto Alegre e Curitiba = 94% da receita — potencial de expansão — [69caba140da323001306119a](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Playbook 30 dias entrega mais rápido que time interno — [69caba140da323001306119a](/2026-03) | Impacto: medium | Dono: Diego Diehl
+- Embaixadores com automação para escala nacional — [69caba140da323001306119a](/2026-03) | Impacto: high | Dono: Diego Diehl + Marcelo Rodrigues
+- [DOC] Registrar: Meta 40% MRR = +R$ 360k. SP, POA, Curitiba = 94% receita. Z2 deve R$ 50k. Playbook 30 dias. Evento POA 14/04. — [69caba140da323001306119a](/2026-03) | Destino: memory/projects.md | Prioridade: high
+- Felipe com Drive + Metropolitan em Silva Jardim — cliente prioritário para fechar logo — [69cc20acddea5b00135fdc45](/2026-03) | Impacto: high | Dono: Guilherme
+- Incorporadora de 80M com operações em Santa Catarina — potencial grande cliente — [69cc20acddea5b00135fdc45](/2026-03) | Impacto: high | Dono: Guilherme
+- Bairro Urbanismo com expertise em loteamentos — diferenciação de mercado — [69cc20acddea5b00135fdc45](/2026-03) | Impacto: medium | Dono: Guilherme
+- Expansão para outras praças se modelo validar em 6 meses — [69cc20acddea5b00135fdc45](/2026-03) | Impacto: medium | Dono: Guilherme
+- Zanella como sócio local pode acelerar aquisição de clientes em Curitiba — [69cc20acddea5b00135fdc45](/2026-03) | Impacto: medium | Dono: Zanella + Guilherme
+- [DOC] Registrar: modelo GD Curitiba — 2.500 base + 14% faturamento. Include: topo funil com imobiliária, qualificação e visita com GD, estudo de mercado na implantação, mística local. — [69cc20acddea5b00135fdc45](/2026-03) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Guilherme como operador GD Curitiba. ainda não fechou contratos assinados. GFR contratando, Antônio pending docs. Felipe (Drive + Metropolitan) prioritário. — [69cc20acddea5b00135fdc45](/2026-03) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: conflito potencial de remuneração entre Zanella (sócio local) e Guilherme (GD). Ambos querem % faturamento. Eduardo/Diego vão mediar. — [69cc20acddea5b00135fdc45](/2026-03) | Destino: memory/pending.md | Prioridade: high
+- WhatsApp conectando direto ao CRM com atualização automática — automação crítica para follow-up — [69cd08ba5339450013b8fd72](/2026-04) | Impacto: high | Dono: Marcelo Rodrigues
+- 2 pessoas dedicadas a automações no time de Marcelo — acelera escala — [69cd08ba5339450013b8fd72](/2026-04) | Impacto: high | Dono: Marcelo Rodrigues
+- Portal em desenvolvimento resolverá visualização de incorporadoras melhor que funil atual — [69cd08ba5339450013b8fd72](/2026-04) | Impacto: medium | Dono: Alejandro Olchik
+- Funil PDR como conscientização para novos leads — pipeline de longo prazo — [69cd08ba5339450013b8fd72](/2026-04) | Impacto: medium | Dono: Diego Diehl + Gustavo Torres
+- [DOC] Registrar: Pré-proposta sem valores → lógica primeiro → proposta oficial com valores após validação estratégica. Vendedor conduz processo. — [69cd08ba5339450013b8fd72](/2026-04) | Destino: memory/process.md | Prioridade: high
+- [DOC] Registrar: Funil PDR = conscientização. Funil AE = incorporadoras conscientes. Um card por empresa. — [69cd08ba5339450013b8fd72](/2026-04) | Destino: memory/process.md | Prioridade: high
+- Parceria Orion + Unitas + Paulo: mapeamento + gestão + securitização — one-stop-shop para incorporadores — [69ce765eddea5b001360288d](/2026-04) | Impacto: high | Dono: Diego Diehl + Raphael Bueno + Paulo Deitos
+- Incorporadores precisando de R$ 2-3M para lançamento — volume acessível para CRI — [69ce765eddea5b001360288d](/2026-04) | Impacto: high | Dono: Raphael Bueno + Américo
+- Paulo é um dos 5 maiores emissores de CRI — expertise comprovada para estruturar deals — [69ce765eddea5b001360288d](/2026-04) | Impacto: high | Dono: Paulo Deitos
+- CRI revolvente para operações pequenas e recorrentes — modelo escalável — [69ce765eddea5b001360288d](/2026-04) | Impacto: medium | Dono: Paulo Deitos + Raphael Bueno
+- Mudança tributária (dividendos) aumenta interesse em CRI como veículo de eficiência — [69ce765eddea5b001360288d](/2026-04) | Impacto: medium | Dono: Paulo Deitos
+- [DOC] Registrar: parceria potencial Orion + Unitas + Paulo Deitos. Raphael testando primeiro caso com incorporador. — [69ce765eddea5b001360288d](/2026-04) | Destino: memory/projects.md | Prioridade: high
+- [DOC] Registrar: Unitas = 25-26 fundos, R$ 3.5 bi, expertise 40 anos, fundos de tijolo, participação criação SFI 1997. — [69ce765eddea5b001360288d](/2026-04) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Paulo Deitos = one-stop-shop securitização, 5º maior emissor CRI. Operações R$ 1M a R$ 50M. — [69ce765eddea5b001360288d](/2026-04) | Destino: memory/people.md | Prioridade: high
+- João puxou 3 incorporadoras via grupo Inovar — networking funcionando — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: high | Dono: João Vitor Portes da Silva
+- João fechou 8 contratos mês passado — potencial comprovado — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: high | Dono: João Vitor Portes da Silva
+- João projetando 30k este mês se equipe bater 26k — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: high | Dono: João Vitor Portes da Silva
+- Z2 cliente top 3 em Floripa últimos 30 dias com crescimento — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: medium | Dono: Roni + João Vitor Portes da Silva
+- Roni 300+ acessos em Floripa — base quente para converter — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: medium | Dono: Roni
+- João conectando com OAB Floripa — abertura comercial potencial — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: medium | Dono: João Vitor Portes da Silva
+- Evento em Recife com Luiz no palco — oportunidade de expansion — [69cebf017c8d0800136e9e57](/2026-04) | Impacto: medium | Dono: Diego Diehl + Luiz Gustavo Zanella
+- [DOC] Registrar: João fechou 8 contratos mês passado e projetando 30k este mês. Pull de 3 incorporadoras via grupo Inovar. — [69cebf017c8d0800136e9e57](/2026-04) | Destino: memory/people.md | Prioridade: high
+- [DOC] Registrar: Diego renomeando closers para executivos de contas. Gustavo responsável por prospectação. — [69cebf017c8d0800136e9e57](/2026-04) | Destino: memory/decisions.md | Prioridade: high
+- [DOC] Registrar: Dados CRM em caos — Diego vai dedicar semana para corrigir dashboards e dados. — [69cebf017c8d0800136e9e57](/2026-04) | Destino: memory/decisions.md | Prioridade: high
