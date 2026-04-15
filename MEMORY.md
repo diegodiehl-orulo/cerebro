@@ -38,12 +38,12 @@
 |---------|----------|---------|
 | memory/archive/daily_2026-Q1/ | Notas brutas Q1/2026 | Jan-Mar 2026 |
 | memory/archive/memory_files_Q1/ | Topic files Q1/2026 | Jan-Mar 2026 |
-| memory/orulo_sistema_operacional.md | Sistema operacional Órulo | 2026-03-11 |
-| memory/projects_orulo.md | Status de projetos por praça | 2026-03-27 |
-| memory/kr_status.md | KRs Órulo H1 2026 | 2026-03-27 |
-| memory/personal_care.md | Cuidados pessoais de Diego | 2026-04-03 |
-| memory/treinos.md | Registro de treinos | 2026-04-03 |
-| memory/vendas_config.md | Config analytics de vendas | 2026-04-01 |
+| memory/orulo_sistema_operacional.md | Sistema operacional Órulo | → ARCHIVE |
+| memory/projects_orulo.md | Status de projetos por praça | → ARCHIVE |
+| memory/kr_status.md | KRs Órulo H1 2026 | → ARCHIVE |
+| memory/personal_care.md | Cuidados pessoais de Diego | → ARCHIVE |
+| memory/treinos.md | Registro de treinos | → ARCHIVE |
+| memory/vendas_config.md | Config analytics de vendas | → ARCHIVE |
 
 > **Regra:** Arquivos em archive/ são pesquisados via `memory_search`, nunca carregados full no context.
 
