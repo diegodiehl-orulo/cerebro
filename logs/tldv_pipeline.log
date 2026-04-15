@@ -1,0 +1,23 @@
+[2026-04-14T21:37:17] === PIPELINE tl;dv | stages=['digest'] | dry=False ===
+[2026-04-14T21:37:17] === ESTÁGIO 5: DIGEST ===
+[2026-04-14T21:37:17]   Nenhuma análise para gerar digest.
+[2026-04-14T21:37:17] === PIPELINE FINALIZADO ===
+[2026-04-14T21:37:17]   digest: None
+[2026-04-14T21:37:29] === PIPELINE tl;dv | stages=['collect', 'enrich', 'analyze', 'persist'] | dry=False ===
+[2026-04-14T21:37:29] === ESTÁGIO 1: COLLECT ===
+[2026-04-14T21:38:19]   Coletadas: 3 reuniões (total: 777)
+[2026-04-14T21:38:19] === ESTÁGIO 2: ENRICH ===
+[2026-04-14T21:38:53] === PIPELINE tl;dv | stages=['digest'] | dry=False ===
+[2026-04-14T21:38:53] === ESTÁGIO 5: DIGEST ===
+[2026-04-14T21:38:53]   Nenhuma análise para gerar digest.
+[2026-04-14T21:38:53] === PIPELINE FINALIZADO ===
+[2026-04-14T21:38:53]   digest: None
+[2026-04-14T21:39:03] === ESTÁGIO 3: ANALYZE ===
+[2026-04-14T21:39:03]   Analisando: 68c091be0972b500130a0529 (669 pendentes)
+[2026-04-14T21:40:19]   Analisando: 688155a73ead900013f0436f (668 pendentes)
+[2026-04-14T21:40:50] === PIPELINE tl;dv | stages=['digest'] | dry=False ===
+[2026-04-14T21:40:50] === ESTÁGIO 5: DIGEST ===
+[2026-04-14T21:40:50]   Nenhuma análise para gerar digest.
+[2026-04-14T21:40:50] === PIPELINE FINALIZADO ===
+[2026-04-14T21:40:50]   digest: None
+[2026-04-14T21:41:00]   Analisando: 6911e83237437f0013102674 (667 pendentes)

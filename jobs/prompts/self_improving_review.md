@@ -1,9 +1,8 @@
 # JOB: Revisão Self-Improving — Sex 18h
 
 **Frequência:** Sexta 18h BRT
-**Gate:** remains ≥ 40
 **Modelo:** minimax/MiniMax-M2.5
-**Timeout:** 120s | **Retry:** 0
+**Timeout:** 90s | **Retry:** 0
 
 ---
 

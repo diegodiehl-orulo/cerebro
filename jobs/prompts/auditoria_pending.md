@@ -1,9 +1,8 @@
 # JOB: Auditoria pending.md — Semanal (P2-A)
 
 **Frequência:** Sexta 17h BRT
-**Gate:** remains ≥ 40 AND horário 08h-22h
 **Modelo:** minimax/MiniMax-M2.5
-**Timeout:** 120s | **Retry:** 0
+**Timeout:** 90s | **Retry:** 0
 
 ---
 

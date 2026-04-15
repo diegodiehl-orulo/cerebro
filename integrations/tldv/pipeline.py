@@ -275,7 +275,7 @@ def stage_digest(args) -> Path:
 
 
 def run(args):
-    stages = args.stages  # comma-separated
+    stages = [s.strip() for s in args.stage.split(",")]
 
     log(f"=== PIPELINE tl;dv | stages={stages} | dry={args.dry_run} ===")
     results = {}
@@ -321,8 +321,6 @@ def main():
 
     if ARGS.verbose:
         logging.getLogger().setLevel(logging.DEBUG)
-
-    stages = [s.strip() for s in ARGS.stage.split(",")]
 
     if ARGS.meeting_id:
         # Executa pipeline completo para 1 reunião

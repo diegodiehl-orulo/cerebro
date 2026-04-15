@@ -1,193 +1,193 @@
 # tl;dv — Resumo de Tarefas Geradas
-**Reuniões processadas:** 89
-**Gerado em:** 09/04/2026 10:11
+**Reuniões processadas:** 1
+**Gerado em:** 14/04/2026 21:40
 
 ---
 
-## Visão Geral (3006 tarefas)
+## Visão Geral (1555 tarefas)
 
 | Prioridade | Qtd |
 |---|---|
-| 🔴 HIGH | 383 |
-| 🟡 MEDIUM | 1712 |
+| 🔴 HIGH | 200 |
+| 🟡 MEDIUM | 884 |
 | 🟢 LOW | 0 |
 
 ---
 
 ## 🔴 Críticas (HIGH + sem dono ou sem prazo)
 
-- **[RISCO] Reunião de planning anual sem nenhum dado gravado — risco de decisões es**
-  - ID: `T69565725-003` | Sem dono: True | Sem prazo: True
-  - Área: Geral | Origem: [695657252ab9...](/2026-01-01)
-- **[RISCO] Três cancelamentos de contas em dezembro por falta de retorno — processo**
-  - ID: `T695bfc1e-023` | Sem dono: True | Sem prazo: True
-  - Área: Geral | Origem: [695bfc1ee9b8...](/2026-01-05)
-- **[RISCO] Pisano pediu demissão 22/12 mas comunicação só confirmada 02/01 — 10 dia**
-  - ID: `T695bfc1e-024` | Sem dono: True | Sem prazo: True
-  - Área: WS1 | Origem: [695bfc1ee9b8...](/2026-01-05)
-- **Gustavo fazer mapa estratégico de Curitiba HOJE como modelo inicial. 同时, Ester i**
-  - ID: `T695c2855-016` | Sem dono: False | Sem prazo: True
-  - Área: Geral | Origem: [695c28556741...](/2026-01-05)
-- **[RISCO] Sem Embaixador, audiência não cresce — é um loop que precisa ser quebrad**
-  - ID: `T695c2855-020` | Sem dono: True | Sem prazo: True
-  - Área: WS6 | Origem: [695c28556741...](/2026-01-05)
-- **[RISCO] Time spreads too thin — fazendo várias praças ao mesmo tempo sem foco**
-  - ID: `T695c2855-021` | Sem dono: True | Sem prazo: True
-  - Área: WS3 | Origem: [695c28556741...](/2026-01-05)
-- **Gustavo Torres preparar treinamento sobre suporte a corretores com dificuldades **
-  - ID: `T695e4ac3-005` | Sem dono: False | Sem prazo: True
-  - Área: WS1 | Origem: [695e4ac3e9b8...](/2026-01-07)
-- **[RISCO] Mascam cancelou possivelmente por saída de SDR e falta de visibilidade —**
-  - ID: `T695f91a6-020` | Sem dono: True | Sem prazo: True
-  - Área: Geral | Origem: [695f91a68288...](/2026-01-08)
-- **[RISCO] Saída de Wallace requer realinhamento estratégico — conhecimento pode se**
-  - ID: `T695f91a6-021` | Sem dono: True | Sem prazo: True
-  - Área: Geral | Origem: [695f91a68288...](/2026-01-08)
-- **[RISCO] João com ansiedade de gestão de múltiplos projetos — risco de burnout**
-  - ID: `T6960edbf-019` | Sem dono: True | Sem prazo: True
-  - Área: Geral | Origem: [6960edbf427f...](/2026-01-09)
+- **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
+  - ID: `T68c091be-014` | Sem dono: True | Sem prazo: True
+  - Área: WS1 | Origem: [68c091be0972...](/2025-09-09)
+- **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
+  - ID: `T68c091be-014` | Sem dono: True | Sem prazo: True
+  - Área: WS1 | Origem: [68c091be0972...](/2025-09-09)
+- **[RISCO] Déficit de 7k em vendas mencionado como tema recorrente sem plano de açã**
+  - ID: `T698334ce-017` | Sem dono: True | Sem prazo: True
+  - Área: WS3 | Origem: [698334ce7d83...](/2026-02-04)
+- **[RISCO] 119 tarefas sem dono no CRM (dado externo) sinalizam falta de accountabi**
+  - ID: `T698334ce-018` | Sem dono: True | Sem prazo: True
+  - Área: WS4 | Origem: [698334ce7d83...](/2026-02-04)
+- **[RISCO] Imobiliárias não querem pagar por serviço de consultoria adicional — rej**
+  - ID: `T698e071b-018` | Sem dono: True | Sem prazo: True
+  - Área: Geral | Origem: [698e071b1bcf...](/2026-02-12)
+- **[RISCO] 40 CRMs integrados com funcionalidades e preços variáveis que mudam freq**
+  - ID: `T698e071b-019` | Sem dono: True | Sem prazo: True
+  - Área: WS4 | Origem: [698e071b1bcf...](/2026-02-12)
+- **[RISCO] Equipa técnica de apenas 4 pessoas para 11 estados e múltiplos CRMs — ca**
+  - ID: `T698e071b-020` | Sem dono: True | Sem prazo: True
+  - Área: WS4 | Origem: [698e071b1bcf...](/2026-02-12)
+- **[RISCO] Precificação dos 14 empreendimentos novos não ficou clara no transcript **
+  - ID: `T69a07c1f-023` | Sem dono: True | Sem prazo: True
+  - Área: Financeiro | Origem: [69a07c1fe344...](/2026-02-26)
+- **[RISCO] Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hi**
+  - ID: `T6968cc27-003` | Sem dono: True | Sem prazo: True
+  - Área: Financeiro | Origem: [6968cc27290b...](/2026-01-15)
+- **[RISCO] Número WhatsApp banido impediu contato com alguns potenciais clientes — **
+  - ID: `T69736636-022` | Sem dono: True | Sem prazo: True
+  - Área: Comercial | Origem: [69736636913c...](/2026-01-23)
 
 ## ⚠️ Sem Dono (priorizar atribuição)
 
+- 🔴 **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
+  - `T68c091be-014` | WS1 | Tipo: FOLLOW_UP
+- 🔴 **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
+  - `T68c091be-014` | WS1 | Tipo: FOLLOW_UP
+- 🔴 **[RISCO] Déficit de 7k em vendas mencionado como tema recorrente sem plano de açã**
+  - `T698334ce-017` | WS3 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] 119 tarefas sem dono no CRM (dado externo) sinalizam falta de accountabi**
+  - `T698334ce-018` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Imobiliárias não querem pagar por serviço de consultoria adicional — rej**
+  - `T698e071b-018` | Geral | Tipo: OBSERVACAO
+- 🔴 **[RISCO] 40 CRMs integrados com funcionalidades e preços variáveis que mudam freq**
+  - `T698e071b-019` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Equipa técnica de apenas 4 pessoas para 11 estados e múltiplos CRMs — ca**
+  - `T698e071b-020` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Precificação dos 14 empreendimentos novos não ficou clara no transcript **
+  - `T69a07c1f-023` | Financeiro | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Reunião sem transcript, notas ou tópicos — 100% dos dados de conteúdo hi**
+  - `T6968cc27-003` | Financeiro | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Número WhatsApp banido impediu contato com alguns potenciais clientes — **
+  - `T69736636-022` | Comercial | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Bug na solicitação de integração não abre formulário no navegador para a**
+  - `T69736636-023` | WS4 | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Reunião de 119.8 minutos sem nenhum dado — impossibilidade total de anál**
+  - `T69b47ac2-003` | Geral | Tipo: OBSERVACAO
+- 🔴 **[RISCO] Zona sul de João Pessoa tem demanda grande sem cobertura atual — oportun**
+  - `T697ca3cb-020` | Geral | Tipo: OBSERVACAO
 - 🔴 **[RISCO] Reunião de planning anual sem nenhum dado gravado — risco de decisões es**
   - `T69565725-003` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Três cancelamentos de contas em dezembro por falta de retorno — processo**
-  - `T695bfc1e-023` | Geral | Tipo: FOLLOW_UP
-- 🔴 **[RISCO] Pisano pediu demissão 22/12 mas comunicação só confirmada 02/01 — 10 dia**
-  - `T695bfc1e-024` | WS1 | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Sem Embaixador, audiência não cresce — é um loop que precisa ser quebrad**
-  - `T695c2855-020` | WS6 | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Time spreads too thin — fazendo várias praças ao mesmo tempo sem foco**
-  - `T695c2855-021` | WS3 | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Mascam cancelou possivelmente por saída de SDR e falta de visibilidade —**
-  - `T695f91a6-020` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Saída de Wallace requer realinhamento estratégico — conhecimento pode se**
-  - `T695f91a6-021` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] João com ansiedade de gestão de múltiplos projetos — risco de burnout**
-  - `T6960edbf-019` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] João sobrecarregado — 15 reuniões + atualizar cards + treinar Ester + li**
-  - `T6964f069-025` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] CRM desorganizado — cards desatualizados, leads frios sem limpeza**
-  - `T6964f069-026` | WS4 | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Processo CXDL não está claro — 'receita do bolo' ainda precisa ser desco**
-  - `T6964f069-027` | WS2 | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Complexidade de gerenciar múltiplos cotistas com valores e prazos difere**
-  - `T69652896-014` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Jade está 'relaxada' e 'crua' — não sabe ler playbook. Risco de pipeline**
-  - `T6966a43a-027` | Comercial | Tipo: OBSERVACAO
-- 🔴 **[RISCO] 300+ currículos para triar — Gustavo vai perder muito tempo se fizer man**
-  - `T6966a43a-028` | Geral | Tipo: OBSERVACAO
-- 🔴 **[RISCO] Closer ainda não contratado — time está 'gargalado'**
-  - `T6966a43a-029` | Gente | Tipo: OBSERVACAO
+- 🔴 **[RISCO] 4 empreendimentos simultâneos exigem capital próprio significativo — ris**
+  - `T69be9d49-018` | Geral | Tipo: OBSERVACAO
 
 ## ⚠️ Sem Prazo (definir urgência)
 
-- 🔴 **Gustavo fazer mapa estratégico de Curitiba HOJE como modelo inicial. 同时, Ester i** @(Gustavo Torres + Ester)
-  - `T695c2855-016` | Área: Geral
-- 🔴 **Gustavo Torres preparar treinamento sobre suporte a corretores com dificuldades ** @(Gustavo Torres + Diego Diehl)
-  - `T695e4ac3-005` | Área: WS1
-- 🔴 **Empar enviar VGV total e prazo para Paulo Deitos. Paulo entregar estudo financei** @(Empar/Eduardo + Paulo Deitos + cotistas)
-  - `T69652896-010` | Área: Financeiro
-- 🔴 **Diego conectar José com sócios locais de Curitiba/Vitória ainda esta semana. Gus** @(Diego Diehl + Gustavo Torres + José Antônio Freitas)
-  - `T696fc2ab-010` | Área: Geral
-- 🔴 **Pedro assinar NBA 80M VGV NA QUARTA. 同时, Diego preparar pitch CRI/SCP para incor** @(Pedro Monte + Diego Diehl)
-  - `T6971292d-013` | Área: Financeiro
-- 🔴 **Diego apresentar estratégia Z2+Ouro HOJE e time produto finalizar integração (50** @(Diego Diehl + Time de Produto)
-  - `T697214b6-010` | Área: Produto
+- 🔴 **Implementar processo de separação de 20 corretores com atividade <24h para abord** @(Gustavo Torres / time comercial)
+  - `T6979fa45-008` | Área: WS1
+- 🔴 **Aguardar Luigi testar plataforma Orulo e dar feedback. Se positivo, agendar nova** @(Luigi Gubert)
+  - `T6980adfc-008` | Área: Geral
 - 🔴 **Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise im** @(Gustavo Torres)
   - `T69722d66-001` | Área: Financeiro
 - 🔴 **Gustavo compartilhar transcript ou notas desta reunião. Sem conteúdo, análise im** @(Gustavo Torres)
   - `T69728535-001` | Área: Financeiro
-- 🔴 **Neno entregar copy validada HOJE. Gustavo iniciar teste com 5-7 incorporadoras J** @(Neno Andrade + Gustavo Torres)
-  - `T697377d3-018` | Área: Geral
+- 🔴 **Gustavo confirmar se reunião aconteceu ou foi cancelada. Se cancelou, remarcar c** @(Gustavo Torres)
+  - `T698e3137-001` | Área: Geral
+- 🔴 **Victor enviar slides E estimates ASAP. Diego + Marcelo analisar e definir priori** @(Victor Baggio + Diego Diehl + Marcelo Rodrigues)
+  - `T69c53bda-014` | Área: Geral
+- 🔴 **Raphael testar caso concreto com incorporador HOJE. Se incorporador aceitar estr** @(Raphael Bueno + Américo)
+  - `T69ce765e-010` | Área: Geral
+- 🔴 **Diego apresentar estratégia Z2+Ouro HOJE e time produto finalizar integração (50** @(Diego Diehl + Time de Produto)
+  - `T697214b6-010` | Área: Produto
+- 🔴 **João enviar contrato Gemini Construtora hoje ou segunda** @(João Vitor Portes da Silva)
+  - `T69cebf01-012` | Área: Geral
 - 🔴 **Gustavo ou Diego registrar resultado do processo seletivo com Tamira — se foi ap** @(Gustavo Torres + Diego Diehl)
   - `T6977c7b7-001` | Área: Geral
-- 🔴 **Diego confirmar o que foi decidido nesta reunião. Verificar se há gravação ou re** @(Diego Diehl)
-  - `T697b4126-001` | Área: Geral
-- 🔴 **Verificar com Gustavo Torres o resultado do processo seletivo com Fernanda. Se a** @(Gustavo Torres)
-  - `T69837b24-001` | Área: Gente
-- 🔴 **Gustavo registrar resultado da reunião com Elizangela — se foi triagem de proces** @(Gustavo Torres)
-  - `T69849465-001` | Área: Geral
+- 🔴 **Verificar se gravação da reunião Z2 + Orulo está disponível. Se transcript foi p** @(Diego Diehl)
+  - `T69a02b25-001` | Área: Financeiro
+- 🔴 **Gustavo fazer mapa estratégico de Curitiba HOJE como modelo inicial. 同时, Ester i** @(Gustavo Torres + Ester)
+  - `T695c2855-016` | Área: Geral
 - 🔴 **Diego acionar Cesar sobre Torreão HOJE e agendar treinamento CS. 同时, Priscila en** @(Diego Diehl + Priscila)
   - `T6984c57b-010` | Área: WS1
-- 🔴 **Diego ou Gustavo registrar resultado do processo seletivo de Keren Lays. Sem reg** @(Diego Diehl + Gustavo Torres)
-  - `T6984e8ad-001` | Área: Geral
+- 🔴 **Gustavo registrar resultado da reunião com Elizangela — se foi triagem de proces** @(Gustavo Torres)
+  - `T69849465-001` | Área: Geral
+- 🔴 **Neno entregar copy validada HOJE. Gustavo iniciar teste com 5-7 incorporadoras J** @(Neno Andrade + Gustavo Torres)
+  - `T697377d3-018` | Área: Geral
 
 ## 🗳️ Decisões Pendentes
 
-- **Diego criar conta Z2 após aprovação**
-  - Diego Diehl | Financeiro
-- **Amanda vai conseguir aprovação do supervisor Gustavo para contratar Z2A?**
-  - Amanda Rocha | Produto
-- **Diego usar dívida Z2 (R$ 13k) como moeda de troca com Júnior HOJE. 동시에, aguardan**
-  - Diego Diehl | Geral
 - **Kaique apresentar proposta à gerente comercial para aprovação**
   - Kaique Carvalho | Geral
 - **Kaique apresentar proposta à gerente comercial e obter aprovação**
   - Kaique Carvalho | Geral
 - **Qual é o prazo para a Mune responder sobre a aprovação?**
   - Gustavo Torres | Geral
-- **Evento de Curitiba 25/02 vai confirmar com 30 incorporadoras?**
-  - Luiz Gustavo Zanella | WS5
-- **Paulo estruturar segunda série de CRI (1-2 dias após aprovação)**
-  - Paulo Deitos | Financeiro
-- **André aprovar proposta no comitê. Sem aprovação, não avanzamos. 同时, Paulo prepar**
-  - André Franklin + Paulo Deitos | WS1
-- **Aguardar resultado IGSA de hoje (isenção tributária terrenistas). Diego testar a**
-  - Luiz Gustavo Zanella + Diego Diehl + Marcelo Rodrigues | WS4
+- **Diego criar conta Z2 após aprovação**
+  - Diego Diehl | Financeiro
+- **Amanda vai conseguir aprovação do supervisor Gustavo para contratar Z2A?**
+  - Amanda Rocha | Produto
+- **Goiânia: contrato enviado aguardando assinatura**
+  - João Vitor Portes da Silva | Geral
+- **Canal: contrato assinado, aguardando testemunha para finalizar**
+  - João Vitor Portes da Silva | Geral
+- **Dourado Parque: proposta enviada aguardando ok da diretoria**
+  - Luan Felipe de Souza | Geral
+- **Cumaru vai aceitar taxa de implementação? Recusou mas Luan aguarda resposta fina**
+  - Luan Felipe de Souza | Geral
+- **Diego usar dívida Z2 (R$ 13k) como moeda de troca com Júnior HOJE. 동시에, aguardan**
+  - Diego Diehl | Geral
 
 ## 🔄 Follow-ups
 
-- **Eduardo: cobrar Hudson (retorno)**
-  - Eduardo Stringhini | Deadline: a definir
-- **[RISCO] Três cancelamentos de contas em dezembro por falta de retorno — processo**
+- **Ligar para os ~5 clientes que já geraram visita ou demostraram interesse (follow**
+  - Equipe comercial | Deadline: a definir
+- **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
   - ? | Deadline: a definir
-- **[RISCO] Recife pode não tracionar se não houver follow-up consistente**
+- **Ligar para os ~5 clientes que já geraram visita ou demostraram interesse (follow**
+  - Equipe comercial | Deadline: a definir
+- **[RISCO] Equipe não está fazendo follow-up em massa com corretores —gap entre dis**
   - ? | Deadline: a definir
-- **Diego acompanhar Vitor Urbana (Caio)**
+- **Diego remodelar training prático com feedback do time (menos slides, mais cases)**
   - Diego Diehl | Deadline: a definir
-- **Diego acompanhar Vitor Urbana (Caio reclamando de instabilidade)**
+- **Diego reformular treinamento prático baseado em feedback (menos slides, mais cas**
   - Diego Diehl | Deadline: a definir
-- **Diego acompanhar rotinas sexta**
-  - Diego Diehl | Deadline: 2026-01-17T00:00:00.000Z
-- **Diego acompanhar rotinas de cada membro na sexta**
-  - Diego Diehl | Deadline: 2026-01-17T00:00:00.000Z
-- **João criar grupo WhatsApp HOJE com Ester, Gustavo e Diego. Sem grupo, comunicaçã**
-  - João Vitor Portes da Silva | Deadline: 2026-01-13T00:00:00.000Z
-- **Amanda verificar situação Rodrigo Italiano (BH)**
-  - Amanda Rocha | Deadline: a definir
-- **Verificar se Rodrigo Italiano (Somattos BH) está usando ferramenta**
-  - Amanda Rocha | Deadline: a definir
+- **Fernando acompanhar mudanças nos 40 CRMs integrados (funcionalidades e preços)**
+  - Fernando | Deadline: a definir
+- **Gisele definir preço do serviço de consultoria baseado em feedback do Bruno e Di**
+  - Gisele Vilela | Deadline: a definir
+- **João verificar com Z2 se é possível responder via número oficial + time dev corr**
+  - João Vitor Portes da Silva + Diego Diehl + Bruno | Deadline: 2026-01-27T00:00:00.000Z
+- **Kaique retornar contrato assinado para Gustavo**
+  - Kaique Carvalho | Deadline: a definir
 
 ## 🚧 Bloqueios Recorrentes
 
-- (4x) Aguardando documentação
-- (2x) Risco de cancelamento
-- (2x) Saída de Wallace
-- (2x) Possível problema sistêmico
-- (2x) Falta informação da Empar
-- (2x) Depende do estudo do Onix
-- (2x) Volume alto de currículos
-- (2x) Depende de demanda do time S10
-- (2x) Aguardando documentos da Sala
-- (2x) Aguardando info de Amanda
+- (2x) Sem definição de escopo e responsável técnico
+- (2x) Aguardando documentação
+- (1x) ainda não definido prazo para novo formato
+- (1x) não há prazo definido para entrega
+- (1x) não definido quem cria o quiz
+- (1x) causa raiz não debatida em profundidade
+- (1x) precisa feedback de Bruno e Diego para definir preço
+- (1x) tabela ainda não criada
+- (1x) ainda não definidos
+- (1x) sem dados de pricing
 
 ## 👤 Por Responsável
 
-- **Diego Diehl**: 524 tarefas 🔴24 HIGH
-- **_SEM_DONO_**: 505 tarefas 🔴193 HIGH
-- **Gustavo Torres**: 243 tarefas 🔴24 HIGH
-- **João Vitor Portes da Silva**: 164 tarefas 🔴6 HIGH
-- **Luiz Gustavo Zanella**: 85 tarefas 🔴4 HIGH
-- **Felipe Goettems**: 82 tarefas
-- **Mayumi Takeda**: 70 tarefas
-- **Paulo Deitos**: 60 tarefas 🔴4 HIGH
-- **Marcelo Rodrigues**: 54 tarefas
-- **Alejandro Olchik**: 52 tarefas
-- **Ester Elisa de Souza Rodrigues**: 48 tarefas
-- **Eduardo Stringhini**: 44 tarefas
-- **Neno Andrade**: 32 tarefas
-- **Pedro Ruza Kneip Navarro**: 32 tarefas 🔴2 HIGH
-- **Guilherme**: 32 tarefas
+- **Diego Diehl**: 272 tarefas 🔴15 HIGH
+- **_SEM_DONO_**: 268 tarefas 🔴101 HIGH
+- **Gustavo Torres**: 123 tarefas 🔴12 HIGH
+- **João Vitor Portes da Silva**: 82 tarefas 🔴3 HIGH
+- **Felipe Goettems**: 49 tarefas
+- **Luiz Gustavo Zanella**: 43 tarefas 🔴2 HIGH
+- **Mayumi Takeda**: 35 tarefas
+- **Paulo Deitos**: 30 tarefas 🔴2 HIGH
+- **Marcelo Rodrigues**: 27 tarefas
+- **Alejandro Olchik**: 26 tarefas
+- **Ester Elisa de Souza Rodrigues**: 24 tarefas
+- **Eduardo Stringhini**: 22 tarefas
+- **Pedro Ruza Kneip Navarro**: 16 tarefas 🔴1 HIGH
+- **Guilherme**: 16 tarefas
+- **Neno Andrade**: 16 tarefas
 
-*Gerado por Morfeu | 3006 tarefas de 89 reuniões*
+*Gerado por Morfeu | 1555 tarefas de 1 reuniões*

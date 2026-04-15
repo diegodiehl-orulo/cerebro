@@ -1,0 +1,32 @@
+{
+  "id": "69de80a243f97900130dab44",
+  "happenedAt": "2026-04-14T18:00:00.000Z",
+  "invitees": [
+    {
+      "name": "Felipe Goettems",
+      "email": "felipe@orulo.com.br"
+    },
+    {
+      "name": "Luiz Gustavo Zanella",
+      "email": "luiz.zanella@orulo.com.br"
+    },
+    {
+      "name": "",
+      "email": "kalil.bhay@bhayemota.com.br"
+    }
+  ],
+  "name": "CRI",
+  "duration": 3565.867,
+  "organizer": {
+    "name": "Diego Diehl",
+    "email": "diego.diehl@orulo.com.br"
+  },
+  "url": "https://tldv.io/app/meetings/69de80a243f97900130dab44",
+  "template": {
+    "id": "ai-topics",
+    "label": "Smart topics"
+  },
+  "extraProperties": {
+    "conferenceId": "duf-kcsf-hqt"
+  }
+}
