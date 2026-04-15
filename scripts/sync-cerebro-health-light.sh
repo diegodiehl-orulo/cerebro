@@ -61,16 +61,17 @@ def check_git_dirty():
     return r.returncode != 0
 
 def main():
-    status_msg, exit_code = check_sync()
+    status_msg, sync_exit = check_sync()
     print(status_msg)
 
-    if exit_code != 0:
+    if sync_exit != 0:
         send_telegram(f'⚠️ *Cron Job Alert*\n\n{status_msg}\n\n👉 Verificar: cron rodou? credencial expirou?')
         sys.exit(1)
 
+    # Sync OK — verifica se tree está suja (só alerta, não bloqueia sync check)
     if check_git_dirty():
         send_telegram(f'⚠️ *Cron Job Alert*\n\n🔴 Alerta: Sync GitHub desativado\n\nATENÇÃO: há alterações locais sem commit\n\n👉 Verificar: cron job está rodando? Script funcionou?')
-        sys.exit(1)
+        sys.exit(1)  #tree suja = alerta, mas sync OK
 
     sys.exit(0)
 
