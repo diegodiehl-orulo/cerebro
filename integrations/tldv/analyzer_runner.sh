@@ -8,7 +8,8 @@
 #
 # Para matar: pkill -f analyzer_runner.sh
 
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
+: "${TLDV_API_KEY:?TLDV_API_KEY não definida no ambiente (ver .env.example)}"
+export TLDV_API_KEY
 export PYTHONPATH="/root/.openclaw/workspace/integrations"
 ANALYZER="/root/.openclaw/workspace/integrations/tldv/analyzer.py"
 LEDGER="/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json"

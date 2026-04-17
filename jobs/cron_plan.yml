@@ -29,8 +29,10 @@ jobs:
   # semana de sprint ou não.
   - name: pracas-sprint-reminder-thu
     description: "Lembrete quinzenal — One-Pager esperado até segunda EOD"
-    status: ATIVO ✅
+    status: REMOVIDO ❌  # Onda 5 (2026-03-28) — timeout crônico 120s
     jobId: "39e87458-f1bc-493c-acf1-6f7503537f5e"
+    removed_date: "2026-03-28"
+    removed_reason: "Timeout crônico 120s — dependia de OAuth interativo"
 
     schedule:
       kind: cron
@@ -62,8 +64,10 @@ jobs:
   # Pergunta a Diego quais One-Pagers chegaram. Gera pré-alertas prontos.
   - name: pracas-sprint-check-mon
     description: "Checagem segunda 18h — recebido? Se não → pré-alerta gerado"
-    status: ATIVO ✅
+    status: REMOVIDO ❌  # Onda 5 (2026-03-28) — timeout crônico 180s
     jobId: "1a8a8f9a-6d03-4533-9007-b15b7f5ba3f5"
+    removed_date: "2026-03-28"
+    removed_reason: "Timeout crônico 180s — excedia SLA do plano Starter"
 
     schedule:
       kind: cron
@@ -234,8 +238,10 @@ jobs:
   # Roda ANTES do check-mon (18h) — sem conflito.
   - name: pracas-weekly-scan
     description: "Escaneamento semanal de praças — alertas de sprint/checkpoint/Matriz em aberto"
-    status: ATIVO ✅
+    status: DESATIVADO ⚫  # Onda 5 (2026-03-28) — substituído pelo pracas-pulse-2xweek
     jobId: "2688a54a-7744-4ed7-a142-a8e5eb736dea"
+    disabled_date: "2026-03-28"
+    disabled_reason: "Substituído por pracas-pulse-2xweek (b9726fbf) — rodada 2x/semana com mais contexto"
 
     schedule:
       kind: cron
@@ -287,22 +293,26 @@ jobs:
     delivery:
       mode: announce
 
----
-
 # ══════════════════════════════════════════════════════════════════
-# RESUMO DE STATUS E ORDEM DE ATIVAÇÃO
+# RESUMO DE STATUS E ORDEM DE ATIVAÇÃO — atualizado em 2026-04-17
+# (reconciliado com ESTADO_DO_SISTEMA.md após Onda 5 de limpeza)
 # ══════════════════════════════════════════════════════════════════
 #
 # | Job                          | Frequência          | Status                     |
 # |------------------------------|---------------------|----------------------------|
-# | pracas-sprint-reminder-thu   | Quinta 09:00        | ATIVO ✅ |
-# | pracas-sprint-check-mon      | Segunda 18:00       | ATIVO ✅              |
-# | pracas-sprint-check-tue-10   | Terça 10:00         | ATIVO ✅              |
+# | pracas-sprint-reminder-thu   | Quinta 09:00        | REMOVIDO ❌ (Onda 5)        |
+# | pracas-sprint-check-mon      | Segunda 18:00       | REMOVIDO ❌ (Onda 5)        |
+# | pracas-sprint-check-tue-10   | Terça 10:00         | ATIVO ✅                   |
 # | pracas-sprint-on-receive     | MANUAL              | PRONTO (sem cron)          |
 # | pracas-sprint-checkin-ter    | Terça 09:00         | PENDENTE (pós 1º sprint)   |
 # | pracas-sprint-checkin-sex    | Sexta 09:00         | PENDENTE (pós 1º sprint)   |
-# | pracas-weekly-scan           | Segunda 08:30       | ATIVO ✅ |
+# | pracas-weekly-scan           | Segunda 08:30       | DESATIVADO ⚫ (substituído) |
 # | pracas-sprint-followup-track | D+3 por sprint (at) | PENDENTE (por sprint)      |
+# | pracas-pulse-2xweek          | Ter+Sex 09:00       | ATIVO ✅                   |
+# | pracas-sprint-watcher        | 2h seg-sex 08-20h   | ATIVO ✅                   |
+# | sprint-email-watcher-mon-tue | 2h seg-ter 08-20h   | REMOVIDO ❌ (Onda 5)        |
+# | pracas-checkin-wed-09        | Quarta 09:00        | ATIVO ✅                   |
+# | pracas-checkin-fri-11        | Sexta 11:00         | REMOVIDO ❌ (Onda 5)        |
 #
 # ORDEM SUGERIDA:
 # 1. pracas-weekly-scan          → visão geral imediata
@@ -384,8 +394,10 @@ jobs:
   # ─── SPRINT EMAIL WATCHER SEG/TER ─────────────────────────────────
   - name: sprint-email-watcher-mon-tue
     description: "Watcher de One-Pager (email) — apenas Seg/Ter, a cada 2h"
-    status: ATIVO ✅
+    status: REMOVIDO ❌  # Onda 5 (2026-03-28) — timeout crônico 90s
     jobId: "8480fd4c-24c5-4b89-9ae1-7ec52b484b4a"
+    removed_date: "2026-03-28"
+    removed_reason: "Timeout crônico 90s — redundante com pracas-sprint-watcher (7a3dc77c)"
     note: "Job separado do pracas-sprint-watcher (7a3dc77c) que também faz tl;dv. Este é email-only."
     schedule:
       kind: cron
@@ -426,8 +438,10 @@ jobs:
   # ─── CHECK-IN SEXTA 11h ───────────────────────────────────────────
   - name: pracas-checkin-fri-11
     description: "Check-in com sócio local — Sexta 11h (rascunho para Diego)"
-    status: ATIVO ✅
+    status: REMOVIDO ❌  # Onda 5 (2026-03-28) — timeout + delivery failure
     jobId: "bbb492e8-dfb7-4e83-825f-392bbd61caea"
+    removed_date: "2026-03-28"
+    removed_reason: "Timeout crônico + delivery failure para tópico Telegram"
     schedule:
       kind: cron
       expr: "0 11 * * FRI"
@@ -452,7 +466,7 @@ jobs:
   # Correção: model_not_found (haiku/sonnet) → minimax/MiniMax-M2.5
   - name: lembrete-tom-de-voz
     description: "One-shot: lembrete tom de voz para o Livro — corrigido modelo"
-    status: ATIVO ✅ (deleteAfterRun: true)
+    status: "ATIVO ✅ (deleteAfterRun: true)"
     jobId: "7e9cef0f-d8dc-4013-9bce-137cbdbf6d0d"
     patch_history:
       - date: "2026-03-07"

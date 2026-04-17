@@ -11,11 +11,14 @@ import json
 LOG = '/root/.openclaw/logs/sync-cerebro.log'
 WORKSPACE = '/root/.openclaw/workspace'
 WINDOW_HOURS = 25
-TELEGRAM_TOKEN = '7812376878:AAEQ4d1SoGQnQPBBxzG1xuIyJPT3VYhbw3k'
-TELEGRAM_CHAT_ID = '8671853499'
+TELEGRAM_TOKEN = os.environ.get('TELEGRAM_TOKEN') or os.environ.get('MORFEU_TELEGRAM_TOKEN')
+TELEGRAM_CHAT_ID = os.environ.get('TELEGRAM_CHAT_ID_DIEGO', '8671853499')
 
 def send_telegram(message):
-    """Envia alerta via Telegram bot."""
+    """Envia alerta via Telegram bot. Silencioso se TELEGRAM_TOKEN ausente."""
+    if not TELEGRAM_TOKEN:
+        print('WARN: TELEGRAM_TOKEN ausente — alerta não enviado', file=sys.stderr)
+        return False
     try:
         conn = http.client.HTTPSConnection('api.telegram.org', timeout=10)
         url = f'/bot{TELEGRAM_TOKEN}/sendMessage'

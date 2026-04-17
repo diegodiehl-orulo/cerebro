@@ -57,7 +57,7 @@ https://seu-servidor:18788/webhook/tldv
 
 ### Pipeline completo (manual)
 ```bash
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
+export TLDV_API_KEY="${TLDV_API_KEY}"
 export PYTHONPATH=/root/.openclaw/workspace/integrations
 
 # Tudo

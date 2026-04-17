@@ -46,7 +46,8 @@ WORKSPACE = Path("/root/.openclaw/workspace")
 INTEGRATIONS = WORKSPACE / "integrations/tldv"
 LOG_DIR = WORKSPACE / "logs"
 
-os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
+if not os.environ.get("TLDV_API_KEY"):
+    raise RuntimeError("TLDV_API_KEY não definida no ambiente (ver .env.example)")
 os.environ.setdefault("PYTHONPATH", str(INTEGRATIONS.parent))
 
 def log(msg, verbose_only=False):

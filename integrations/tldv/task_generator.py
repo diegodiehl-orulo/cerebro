@@ -40,7 +40,8 @@ LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/tasks_ledger.json"
 LOG_FILE = WORKSPACE / "logs/tldv_task_generator.log"
 
 os_environ = __import__('os').environ
-os_environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
+if not os_environ.get("TLDV_API_KEY"):
+    raise RuntimeError("TLDV_API_KEY não definida no ambiente (ver .env.example)")
 
 
 def log(msg):
@@ -596,7 +597,8 @@ def save_ledger(ledger: dict):
 
 def main():
     import os as _os
-    _os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
+    if not _os.environ.get("TLDV_API_KEY"):
+        raise RuntimeError("TLDV_API_KEY não definida no ambiente (ver .env.example)")
 
     parser = argparse.ArgumentParser(description="Task generator from tl;dv analyses")
     parser.add_argument("--dry-run", action="store_true")

@@ -38,7 +38,8 @@ PROCESSED_DIR = WORKSPACE / "memory/meetings/queue/processed"
 FAILED_DIR = WORKSPACE / "memory/meetings/queue/failed"
 LOG_FILE = WORKSPACE / "logs/tldv_queue_processor.log"
 
-os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
+if not os.environ.get("TLDV_API_KEY"):
+    raise RuntimeError("TLDV_API_KEY não definida no ambiente (ver .env.example)")
 os.environ.setdefault("PYTHONPATH", "/root/.openclaw/workspace/integrations")
 
 ENRICH_SCRIPT = WORKSPACE / "integrations/tldv/enricher.py"

@@ -12,7 +12,7 @@ Skills define _how_ tools work. This file is for _your_ specifics — the stuff 
 ## OpenClaw Dashboard
 
 - **URL pública:** https://openclaw.diegodiehl.com
-- **Token:** `Dbn8uL74ZN7pUNEPz3gojh8puPbVPe73`
+- **Token:** Armazenado em Vaultwarden (item `openclaw-dashboard-token`) — nunca commitar em texto aberto. Ver `SECURITY_NOTICE.md` para rotação.
 
 ---
 

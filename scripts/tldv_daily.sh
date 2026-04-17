@@ -2,7 +2,8 @@
 # tldv_daily.sh — rotinas diárias tl;dv (digest + task generation + index)
 # Roda todos os dias às 08h via cron OpenClaw
 
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
+: "${TLDV_API_KEY:?TLDV_API_KEY não definida no ambiente (ver .env.example)}"
+export TLDV_API_KEY
 export PYTHONPATH=/root/.openclaw/workspace/integrations
 WORKDIR=/root/.openclaw/workspace/integrations/tldv
 LOGDIR=/root/.openclaw/workspace/logs

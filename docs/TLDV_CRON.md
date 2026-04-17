@@ -22,14 +22,14 @@ Ou via cron `@reboot`:
 **Objetivo:** Processar eventos webhook + verificar reuniões pendentes de enrichment.
 
 ```
-0 */1 * * * TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/queue_processor.py >> /root/.openclaw/workspace/logs/tldv_queue_processor.log 2>&1
+0 */1 * * * TLDV_API_KEY="${TLDV_API_KEY}" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/queue_processor.py >> /root/.openclaw/workspace/logs/tldv_queue_processor.log 2>&1
 ```
 
 ### A cada 6h (COLLECT + ENRICH + ANALYZE + PERSIST)
 **Objetivo:** Garantir que reuniões novas sejam coletadas e enriquecidas mesmo sem webhook.
 
 ```
-0 */6 * * * TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/pipeline.py --stage collect,enrich,analyze,persist >> /root/.openclaw/workspace/logs/tldv_pipeline.log 2>&1
+0 */6 * * * TLDV_API_KEY="${TLDV_API_KEY}" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/pipeline.py --stage collect,enrich,analyze,persist >> /root/.openclaw/workspace/logs/tldv_pipeline.log 2>&1
 ```
 
 ### 1x ao dia às 08h — DIGEST
@@ -69,7 +69,7 @@ ls /root/.openclaw/workspace/memory/meetings/normalized/*.json | wc -l
 ### Reprocessar reunião específica (webhook processor)
 ```bash
 PYTHONPATH=/root/.openclaw/workspace/integrations \
-TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" \
+TLDV_API_KEY="${TLDV_API_KEY}" \
 python3 /root/.openclaw/workspace/integrations/tldv/queue_processor.py \
   --meeting-id 69d3f49884d30500130092c2
 ```

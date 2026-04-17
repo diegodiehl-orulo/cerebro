@@ -26,7 +26,7 @@ Checar se os jobs críticos executaram recentemente. Se não executaram → aler
 
 ```bash
 # Verificar cron state via health scripts
-python3 /root/.openclaw/workspace/scripts/sync-cerebro-health.sh
+python3 /root/.openclaw/workspace/scripts/sync-cerebro-health.py
 echo "health exit: $?"
 ```
 
