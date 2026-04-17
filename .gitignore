@@ -1,10 +1,16 @@
 
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
 # Auto-generated memory files (tl;dv pipeline)
 memory/meetings/
 memory/commercial_context.md
 logs/tldv_*.log
 integrations/tldv/.env
-integrations/tldv/__pycache__/
 jobs/scripts/
 docs/meeting-derived-updates/
 memory/2026-04-*.md
