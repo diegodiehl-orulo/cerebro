@@ -24,9 +24,11 @@ from pathlib import Path
 from datetime import datetime
 from collections import defaultdict
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-ANALYSIS_DIR = WORKSPACE / "memory/meetings/analysis"
-INDEX_FILE = WORKSPACE / "memory/meetings/ledger/meeting_index.json"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, WORKSPACE  # noqa: E402
+
+ANALYSIS_DIR = DIRS["analysis"]
+INDEX_FILE = DIRS["ledger"] / "meeting_index.json"
 
 # ─────────────────────────────────────────
 # 1. LEITURA

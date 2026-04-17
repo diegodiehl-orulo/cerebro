@@ -1,80 +1,10 @@
 #!/bin/bash
-cd /root/.openclaw/workspace
-export MINIMAX_API_KEY="sk-cp--KdotSlVuQe2kODU0wiSCN1xMwNwrUrd1cgN7rQk8wXYNjhDeG75i9UrCIhFj4EfH4TTxnqTInH41gXNGqvMR-OXUFIfd7bSc9gZ0rk0AXQaZk31Bi4nf8Y"
+# DEPRECATED — mantido apenas como wrapper de compatibilidade.
+# A lista de IDs agora vive em integrations/tldv/id-lists/lote1_2025.txt
+# e a rotina é run_tldv.sh (portável, .env-based).
+#
+# Use diretamente:
+#   ./run_tldv.sh ids --ids-file integrations/tldv/id-lists/lote1_2025.txt
 
-MIDS=(
-695bfc1ee9b88d0013912e2b
-695c285567410d0013fd37f1
-695e4ac3e9b88d00139173a0
-695e6dde1472f50013120335
-695e8cb1aa480d00134aa7cf
-6960edbf427f08001307f913
-696102ceba41f90013f01bc6
-69615e3be425e20013db81ba
-6964f0693d76f900137fb719
-696528960245ea00136ccc1d
-696536ad0245ea00136ccf52
-6967853db5963c0013b55312
-6968cc27290b3e0013fc3d86
-6968f2f67ab7870013a596e4
-69691d10290b3e0013fc4c42
-696e712f500a210013c24a52
-696e86835d8e03001373f53a
-696f8356ee25fd0013b6ac94
-696f83508e65ee001308f578
-696fc2aba1068c0013a3116d
-696fdeb8a1068c0013a314e8
-6970bfcbe50d0f0012494508
-6970fca1e50d0f00124950b1
-6971292de4d717001331d562
-697206a67500600013b7aa8f
-697214b6e4d717001331f32f
-69722d66a1068c0013a36938
-6972853543e33a00133a3e06
-6977c7b7764dcd0013dc6ea3
-697a63ad970d0100136de235
-697b41262238f70013485bfe
-697b9217c887aa0013210f6a
-6980e28ee1a16800131fd261
-698245a97d83e400138da2fc
-69834628f89b5a0013ba42fd
-69837b247d83e400138dcef6
-698494656b8a0100138b0a95
-6984a262c8ca580013150c28
-6984c57ba0c380001332dc21
-6984d38d922a6d0013ac69e6
-6984e8ad922a6d0013ac6d63
-6984f6b56de6d60013aef6ba
-6985061136b8e30013d65fb4
-698656450f9b520013d4b1a8
-6989ef6383febd0013d31918
-698b7223486bad00134bacac
-698b9011657ae90013b40ee1
-698c6f356979ef0013b83ce5
-698c80c6b9aa07001375c17b
-698c8f0c6f43fb001351e1fb
-698cb58fecdf0e001300edbc
-698dcb4b834af3001393610e
-698ddce91bcf5d0012a30d2c
-698e18950cbc590013cbce4d
-698e3137ecdf0e00130126b6
-698f6d9bacd46d001342c98e
-6996f0a540e61f0013935ff4
-699c4f44e344ac00135beff1
-699df8a5fc507800135cef6d
-699f2aa210f9590013215cfc
-699f318dfc507800135d1c02
-699f46b285c6ba0013e889b6
-)
-
-count=0
-for MID in "${MIDS[@]}"; do
-    echo "=== $MID ==="
-    result=$(python3 integrations/tldv/analyzer_v2.py "$MID" 2>&1 | tail -1)
-    echo "$result"
-    if echo "$result" | grep -q "sucesso\| Salvo\|analisado\|Gerado\|Concluído\|OK\|gravado"; then
-        count=$((count + 1))
-    fi
-done
-echo ""
-echo "=== TOTAL ANALISES COM SUCESSO: $count ==="
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$SCRIPT_DIR/run_tldv.sh" ids --ids-file "$SCRIPT_DIR/integrations/tldv/id-lists/lote1_2025.txt" "$@"

@@ -32,7 +32,7 @@ memory/meetings/
 
 **1. Variável de ambiente (obrigatória):**
 ```bash
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
+export TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE"
 ```
 
 **2. Caminho do Python:**
@@ -135,7 +135,7 @@ INFO — === COLETA FINALIZADA | 478s | novas: 769 | erros: 4 ===
 ### Recomendação: a cada 6 horas
 ```bash
 # crontab -e
-TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
+TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE"
 PYTHONPATH=/root/.openclaw/workspace/integrations
 
 0 */6 * * * /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/collector.py >> /root/.openclaw/workspace/logs/tldv_collector.log 2>&1
@@ -158,7 +158,7 @@ Ou via cron job no OpenClaw (Larissa pode agendar).
 
 ```bash
 PYTHONPATH=/root/.openclaw/workspace/integrations \
-TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" \
+TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE" \
 python3 integrations/tldv/enricher.py
 ```
 

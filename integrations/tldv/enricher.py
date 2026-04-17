@@ -29,6 +29,9 @@ import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, LOCKS, WORKSPACE  # noqa: E402
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(levelname)s — %(message)s",
@@ -37,14 +40,14 @@ logger = logging.getLogger("tldv.enricher")
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-RAW_DIR = WORKSPACE / "memory/meetings/raw"
-TX_DIR = WORKSPACE / "memory/meetings/transcripts"
-NOTES_DIR = WORKSPACE / "memory/meetings/notes"
-NORM_DIR = WORKSPACE / "memory/meetings/normalized"
-LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/enriched_ledger.json"
-LEDGER_LOCK = WORKSPACE / "memory/meetings/ledger/.enrich_lock"
-LOG_DIR = WORKSPACE / "logs"
+RAW_DIR = DIRS["raw"]
+TX_DIR = DIRS["transcripts"]
+NOTES_DIR = DIRS["notes"]
+NORM_DIR = DIRS["normalized"]
+LEDGER_FILE = LEDGERS["enriched"]
+LEDGER_LOCK = LOCKS["enricher"]
+LOG_DIR = DIRS["logs"]
+PENDING_RETRY_FILE = LEDGERS["pending_retry"]
 
 # ── Helpers ────────────────────────────────────────────────────────────────────
 
@@ -85,6 +88,43 @@ def save_enriched_ledger(ledger: dict) -> None:
     with open(tmp, "w") as f:
         json.dump(ledger, f, indent=2, ensure_ascii=False)
     tmp.replace(LEDGER_FILE)
+
+
+def load_pending_retry() -> dict:
+    """Lista de reuniões com transcript pending (204) — para reprocessar depois."""
+    if not PENDING_RETRY_FILE.exists():
+        return {}
+    try:
+        with open(PENDING_RETRY_FILE) as f:
+            return json.load(f)
+    except Exception:
+        return {}
+
+
+def save_pending_retry(pending: dict) -> None:
+    PENDING_RETRY_FILE.parent.mkdir(parents=True, exist_ok=True)
+    tmp = PENDING_RETRY_FILE.with_suffix(".tmp")
+    with open(tmp, "w") as f:
+        json.dump(pending, f, indent=2, ensure_ascii=False)
+    tmp.replace(PENDING_RETRY_FILE)
+
+
+def mark_for_retry(meeting_id: str, reason: str) -> None:
+    """Registra meeting como pendente de retry (transcript ainda em processamento)."""
+    pending = load_pending_retry()
+    entry = pending.get(meeting_id, {"attempts": 0})
+    entry["attempts"] = entry.get("attempts", 0) + 1
+    entry["last_attempt"] = now_iso()
+    entry["reason"] = reason
+    pending[meeting_id] = entry
+    save_pending_retry(pending)
+
+
+def clear_retry(meeting_id: str) -> None:
+    pending = load_pending_retry()
+    if meeting_id in pending:
+        del pending[meeting_id]
+        save_pending_retry(pending)
 
 
 def mark_lock():
@@ -320,9 +360,11 @@ def run(max_meetings: int | None = None, dry_run: bool = False, meeting_id: str 
             all_raw = set(load_raw_meetings())
             ledger = load_enriched_ledger()
             already_enriched = set(ledger.get("enriched", []))
-            targets = sorted(all_raw - already_enriched)
-            logger.info("Reuniões em raw/: %d | Já enriquecidas: %d | A processar: %d",
-                        len(all_raw), len(already_enriched), len(targets))
+            # Incluir pendentes (204) para retry — eles saem do raw pool quando enriquecidos.
+            pending_retry = set(load_pending_retry().keys())
+            targets = sorted((all_raw - already_enriched) | pending_retry)
+            logger.info("Reuniões em raw/: %d | Já enriquecidas: %d | Pending retry: %d | A processar: %d",
+                        len(all_raw), len(already_enriched), len(pending_retry), len(targets))
 
         if not targets:
             logger.info("Nenhuma reunião para enriquecer. Ledger mantido.")
@@ -357,7 +399,13 @@ def run(max_meetings: int | None = None, dry_run: bool = False, meeting_id: str 
             if tx == "available" or notes == "available":
                 enriched_count += 1
                 ledger["enriched"].append(mid)
+                clear_retry(mid)
                 logger.info("  [%d/%d] ✓ ENRICHED: %s | tx=%s | notes=%s",
+                            i, len(targets), mid, tx, notes)
+            elif tx == "pending" or notes == "pending":
+                # 204: transcript ainda em processamento — agendar retry, não marcar failed
+                mark_for_retry(mid, f"tx={tx} notes={notes}")
+                logger.info("  [%d/%d] ⏳ PENDING (retry futuro): %s | tx=%s | notes=%s",
                             i, len(targets), mid, tx, notes)
             else:
                 error_count += 1

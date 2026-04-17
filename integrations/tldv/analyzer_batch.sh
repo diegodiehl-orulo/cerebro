@@ -5,11 +5,11 @@ SLICE_NUM=$1
 SLICE_FILE=$2
 LOG_PREFIX="[SLICE-${SLICE_NUM}]"
 
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
-export PYTHONPATH="/root/.openclaw/workspace/integrations"
-ANALYZER="/root/.openclaw/workspace/integrations/tldv/analyzer.py"
-LEDGER="/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json"
-LOG="/root/.openclaw/workspace/logs/tldv_analyzer_slice${SLICE_NUM}.log"
+source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/_boot.sh"
+
+ANALYZER="$TLDV_DIR/analyzer.py"
+LEDGER="$WORKSPACE/memory/meetings/ledger/analyzed_ledger.json"
+LOG="$LOGDIR/tldv_analyzer_slice${SLICE_NUM}.log"
 
 echo "$LOG_PREFIX Iniciando slice ${SLICE_NUM} ($(wc -l < "$SLICE_FILE") meetings)" | tee -a "$LOG"
 echo "$LOG_PREFIX PID=$$" | tee -a "$LOG"

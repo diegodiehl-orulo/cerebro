@@ -25,11 +25,44 @@ const fs = require("fs");
 const path = require("path");
 const { URL } = require("url");
 
-const PORT = process.env.TLDV_WEBHOOK_PORT || 18788;
-const QUEUE_DIR = path.join("/root/.openclaw/workspace/memory/meetings/queue");
+// ── Workspace discovery ────────────────────────────────────────────────────
+// Ordem: CEREBRO_HOME env → ../../.. relativo a este arquivo → legacy path
+function detectWorkspace() {
+  if (process.env.CEREBRO_HOME) return path.resolve(process.env.CEREBRO_HOME);
+  if (process.env.WORKSPACE_ROOT) return path.resolve(process.env.WORKSPACE_ROOT);
+  // integrations/tldv/webhook_server.js → workspace root = ../../..
+  const candidate = path.resolve(__dirname, "..", "..");
+  if (fs.existsSync(path.join(candidate, "integrations", "tldv"))) return candidate;
+  return "/root/.openclaw/workspace";
+}
+
+// Carrega .env da raiz do workspace (sem dependência externa).
+function loadDotEnv(workspaceRoot) {
+  const envFile = path.join(workspaceRoot, ".env");
+  if (!fs.existsSync(envFile)) return;
+  for (const line of fs.readFileSync(envFile, "utf8").split("\n")) {
+    const trimmed = line.trim();
+    if (!trimmed || trimmed.startsWith("#") || !trimmed.includes("=")) continue;
+    const eq = trimmed.indexOf("=");
+    const key = trimmed.slice(0, eq).trim();
+    let value = trimmed.slice(eq + 1).trim();
+    if ((value.startsWith('"') && value.endsWith('"')) ||
+        (value.startsWith("'") && value.endsWith("'"))) {
+      value = value.slice(1, -1);
+    }
+    if (key && !(key in process.env)) process.env[key] = value;
+  }
+}
+
+const WORKSPACE = detectWorkspace();
+loadDotEnv(WORKSPACE);
+
+const PORT = parseInt(process.env.TLDV_WEBHOOK_PORT || "18788", 10);
+const QUEUE_DIR = path.join(WORKSPACE, "memory/meetings/queue");
 const HASH_FILE = path.join(QUEUE_DIR, ".dedup_hashes.txt");
-const LOG_FILE = path.join("/root/.openclaw/workspace/logs", "tldv_webhook.log");
+const LOG_FILE = path.join(WORKSPACE, "logs", "tldv_webhook.log");
 const WEBHOOK_SECRET = process.env.TLDV_WEBHOOK_SECRET || ""; // opcional
+const HASH_FLUSH_INTERVAL_MS = 30_000; // persiste hashes no disco a cada 30s
 
 const SUPPORTED_EVENTS = ["MeetingReady", "TranscriptReady"];
 
@@ -44,22 +77,35 @@ function log(level, msg, meta = {}) {
   } catch (_) {}
 }
 
-// ── Deduplicação ─────────────────────────────────────────────────────────────
+// ── Deduplicação (in-memory cache + flush periódico) ─────────────────────────
+// Antes: loadHashes() e saveHashes() a cada request → I/O alto em rajadas.
+// Agora: carrega uma vez na inicialização, persiste a cada HASH_FLUSH_INTERVAL_MS
+// e no shutdown. Writes só quando dirty.
 
-function loadHashes() {
+const hashCache = new Set();
+let hashCacheDirty = false;
+
+function loadHashesOnce() {
   try {
-    return new Set(fs.readFileSync(HASH_FILE, "utf8").trim().split("\n").filter(Boolean));
+    const raw = fs.readFileSync(HASH_FILE, "utf8");
+    for (const h of raw.split("\n")) {
+      const t = h.trim();
+      if (t) hashCache.add(t);
+    }
+    log("INFO", "Dedup cache carregado", { size: hashCache.size });
   } catch (_) {
-    return new Set();
+    log("INFO", "Dedup cache iniciado vazio", {});
   }
 }
 
-function saveHashes(hashes) {
+function flushHashes() {
+  if (!hashCacheDirty) return;
   try {
     fs.mkdirSync(QUEUE_DIR, { recursive: true });
-    fs.writeFileSync(HASH_FILE, Array.from(hashes).join("\n"));
+    fs.writeFileSync(HASH_FILE, Array.from(hashCache).join("\n"));
+    hashCacheDirty = false;
   } catch (e) {
-    log("ERROR", "Failed to save dedup hashes", { error: e.message });
+    log("ERROR", "Failed to flush dedup hashes", { error: e.message });
   }
 }
 
@@ -69,12 +115,9 @@ function isDuplicate(eventType, meetingId, timestamp) {
     .update(`${eventType}:${meetingId}:${timestamp}`)
     .digest("hex")
     .slice(0, 32);
-  const hashes = loadHashes();
-  if (hashes.has(key)) {
-    return true;
-  }
-  hashes.add(key);
-  saveHashes(hashes);
+  if (hashCache.has(key)) return true;
+  hashCache.add(key);
+  hashCacheDirty = true;
   return false;
 }
 
@@ -209,16 +252,24 @@ const server = http.createServer(async (req, res) => {
 
 // ── Start ─────────────────────────────────────────────────────────────────────
 
+loadHashesOnce();
+const flushTimer = setInterval(flushHashes, HASH_FLUSH_INTERVAL_MS);
+flushTimer.unref?.();
+
 server.listen(PORT, "0.0.0.0", () => {
-  log("INFO", `Webhook server started`, { port: PORT, QUEUE_DIR });
-  console.error(`[tl;dv webhook] listening on port ${PORT}`);
+  log("INFO", `Webhook server started`, { port: PORT, WORKSPACE, QUEUE_DIR });
+  console.error(`[tl;dv webhook] listening on port ${PORT} (workspace: ${WORKSPACE})`);
 });
 
 // Graceful shutdown
-process.on("SIGTERM", () => {
-  log("INFO", "SIGTERM received, shutting down");
+function shutdown(signal) {
+  log("INFO", `${signal} received, shutting down`);
+  clearInterval(flushTimer);
+  flushHashes();
   server.close(() => {
     log("INFO", "Server closed");
     process.exit(0);
   });
-});
+}
+process.on("SIGTERM", () => shutdown("SIGTERM"));
+process.on("SIGINT", () => shutdown("SIGINT"));

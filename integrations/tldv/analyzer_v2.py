@@ -11,21 +11,19 @@ import json, sys, os
 from pathlib import Path
 from datetime import datetime
 
-SUMMARY_DIR = Path("/root/.openclaw/workspace/memory/meetings/summaries")
-ANALYSIS_DIR = Path("/root/.openclaw/workspace/memory/meetings/analysis")
-ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, WORKSPACE, MINIMAX_URL, MINIMAX_MODEL, require_minimax_key, LLM_TIMEOUT  # noqa: E402
 
-MINIMAX_API_KEY = os.environ.get(
-    "MINIMAX_API_KEY",
-    "sk-cp--KdotSlVuQe2kODU0wiSCN1xMwNwrUrd1cgN7rQk8wXYNjhDeG75i9UrCIhFj4EfH4TTxnqTInH41gXNGqvMR-OXUFIfd7bSc9gZ0rk0AXQaZk31Bi4nf8Y"
-)
+SUMMARY_DIR = DIRS["summaries"]
+ANALYSIS_DIR = DIRS["analysis"]
+ANALYSIS_DIR.mkdir(parents=True, exist_ok=True)
 
 # Ler memória relevante se existir
 def load_memory_context() -> str:
     ctx = []
 
     for fname in ["memory/people.md", "memory/pending.md", "memory/lessons.md"]:
-        f = Path("/root/.openclaw/workspace") / fname
+        f = WORKSPACE / fname
         if f.exists():
             content = f.read_text(encoding="utf-8")
             ctx.append(f"=== {fname} ===\n{content[:2000]}")
@@ -34,28 +32,28 @@ def load_memory_context() -> str:
 
 
 def call_llm(prompt: str) -> str:
-    """Chama o LLM MiniMax via API (endpoint /v1/chat/completions, modelo MiniMax-M2.5)."""
+    """Chama o LLM MiniMax via API (endpoint /v1/chat/completions)."""
     try:
         import urllib.request, json
 
-        URL = "https://api.minimaxi.chat/v1/chat/completions"
+        api_key = require_minimax_key()
         payload = json.dumps({
-            "model": "MiniMax-M2.5",
+            "model": MINIMAX_MODEL,
             "messages": [{"role": "user", "content": prompt}],
             "max_tokens": 1500,
             "temperature": 0.3
         }).encode()
 
         req = urllib.request.Request(
-            URL, data=payload,
+            MINIMAX_URL, data=payload,
             headers={
-                "Authorization": f"Bearer {MINIMAX_API_KEY}",
+                "Authorization": f"Bearer {api_key}",
                 "Content-Type": "application/json"
             },
             method="POST"
         )
 
-        with urllib.request.urlopen(req, timeout=30) as resp:
+        with urllib.request.urlopen(req, timeout=LLM_TIMEOUT) as resp:
             result = json.loads(resp.read())
             choice = result.get("choices", [{}])[0]
             return choice.get("message", {}).get("content", "")

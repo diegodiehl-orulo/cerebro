@@ -26,23 +26,25 @@ import logging
 from datetime import datetime
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, WORKSPACE, require_tldv_key  # noqa: E402
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(levelname)s — %(message)s",
 )
 logger = logging.getLogger("tldv.queue_processor")
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-QUEUE_DIR = WORKSPACE / "memory/meetings/queue"
-PROCESSED_DIR = WORKSPACE / "memory/meetings/queue/processed"
-FAILED_DIR = WORKSPACE / "memory/meetings/queue/failed"
-LOG_FILE = WORKSPACE / "logs/tldv_queue_processor.log"
+QUEUE_DIR = DIRS["queue"]
+PROCESSED_DIR = DIRS["queue_processed"]
+FAILED_DIR = DIRS["queue_failed"]
+LOG_FILE = DIRS["logs"] / "tldv_queue_processor.log"
 
-os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
-os.environ.setdefault("PYTHONPATH", "/root/.openclaw/workspace/integrations")
+os.environ.setdefault("PYTHONPATH", str(DIRS["integrations"]))
 
-ENRICH_SCRIPT = WORKSPACE / "integrations/tldv/enricher.py"
-ANALYZE_SCRIPT = WORKSPACE / "integrations/tldv/analyzer.py"
+ENRICH_SCRIPT = DIRS["integrations"] / "tldv" / "enricher.py"
+ANALYZE_SCRIPT = DIRS["integrations"] / "tldv" / "analyzer.py"
+PERSISTER_SCRIPT = DIRS["integrations"] / "tldv" / "persister.py"
 
 
 def log(msg):
@@ -61,15 +63,15 @@ def run_script(script: Path, meeting_id: str, dry_run: bool = False) -> tuple[bo
         return True, f"[dry-run] would run: {' '.join(cmd)}"
 
     try:
+        env = dict(os.environ)
+        env["TLDV_API_KEY"] = require_tldv_key()
+        env.setdefault("PYTHONPATH", str(DIRS["integrations"]))
         result = subprocess.run(
             cmd,
             capture_output=True,
             text=True,
             timeout=300,
-            env={
-                "TLDV_API_KEY": os.environ["TLDV_API_KEY"],
-                "PYTHONPATH": os.environ["PYTHONPATH"],
-            },
+            env=env,
         )
         if result.returncode == 0 and "[OK]" in result.stdout:
             return True, result.stdout.strip()
@@ -126,10 +128,10 @@ def process_event(event: dict, dry_run: bool = False) -> dict:
     # Etapa 3: persist
     if not dry_run and outcome["enrich_ok"]:
         try:
-            persist_cmd = ["python3", str(WORKSPACE / "integrations/tldv/persister.py")]
-            subprocess.run(persist_cmd, capture_output=True, timeout=60, env={
-                "PYTHONPATH": os.environ["PYTHONPATH"],
-            })
+            persist_cmd = ["python3", str(PERSISTER_SCRIPT)]
+            env = dict(os.environ)
+            env.setdefault("PYTHONPATH", str(DIRS["integrations"]))
+            subprocess.run(persist_cmd, capture_output=True, timeout=60, env=env)
             log(f"  ✓ persister OK")
         except Exception as e:
             outcome["errors"].append(f"persister: {e}")

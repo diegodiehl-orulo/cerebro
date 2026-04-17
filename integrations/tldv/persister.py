@@ -24,26 +24,29 @@ import json
 import re
 import sys
 import argparse
+import unicodedata
 from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, WORKSPACE  # noqa: E402
+
 # ── Paths ────────────────────────────────────────────────────────────────────
 
-WORKSPACE     = Path("/root/.openclaw/workspace")
-ANALYSIS_DIR  = WORKSPACE / "memory/meetings/analysis"
-LEDGER_FILE   = WORKSPACE / "memory/meetings/ledger/persisted_ledger.json"
-UPDATES_DIR   = WORKSPACE / "docs/meeting-derived-updates"
-LOG_FILE      = WORKSPACE / "logs/tldv_persister.log"
+ANALYSIS_DIR  = DIRS["analysis"]
+LEDGER_FILE   = LEDGERS["persisted"]
+UPDATES_DIR   = DIRS["updates"]
+LOG_FILE      = DIRS["logs"] / "tldv_persister.log"
 
 # Only DIRECT write targets. pending.md and projects.md have specific formats
 # — we generate patches for them instead.
 DIRECT_TARGETS = {
-    "decision":    WORKSPACE / "memory/decisions.md",
-    "lesson":      WORKSPACE / "memory/lessons.md",
-    "risk":        WORKSPACE / "memory/risks.md",
-    "preference":  WORKSPACE / "memory/preferences.md",
-    "context":     WORKSPACE / "memory/commercial_context.md",
+    "decision":    WORKSPACE / "memory" / "decisions.md",
+    "lesson":      WORKSPACE / "memory" / "lessons.md",
+    "risk":        WORKSPACE / "memory" / "risks.md",
+    "preference":  WORKSPACE / "memory" / "preferences.md",
+    "context":     WORKSPACE / "memory" / "commercial_context.md",
 }
 # These get patches only — do NOT write directly
 PATCH_ONLY = {"pending", "project"}
@@ -62,6 +65,27 @@ def log(msg: str):
 
 # ── Deduplicação ─────────────────────────────────────────────────────────────
 
+def _normalize_text(text: str) -> str:
+    """
+    Normalização mais forte para dedup semântica:
+      - lowercase
+      - sem acentos (NFD + strip combining)
+      - sem pontuação (mantém letras/dígitos/espaço)
+      - colapsa whitespace
+      - remove stopwords muito comuns que não diferenciam sentido
+    """
+    t = text.strip().lower()
+    t = unicodedata.normalize("NFD", t)
+    t = "".join(c for c in t if not unicodedata.combining(c))
+    t = re.sub(r"[^a-z0-9\s]", " ", t)
+    t = re.sub(r"\s+", " ", t).strip()
+    stopwords = {"a", "o", "e", "de", "do", "da", "em", "um", "uma",
+                 "para", "por", "com", "que", "no", "na", "os", "as",
+                 "the", "of", "and", "to", "in", "for", "on", "at"}
+    t = " ".join(w for w in t.split() if w not in stopwords)
+    return t
+
+
 class DedupStore:
     """
     Hash-based dedup: evita registrar mesmo conteúdo duas vezes.
@@ -75,7 +99,9 @@ class DedupStore:
             self.seen = set(hash_file.read_text().splitlines())
 
     def is_new(self, text: str) -> bool:
-        normalized = re.sub(r"\s+", " ", text.strip().lower())
+        normalized = _normalize_text(text)
+        if not normalized:
+            return False
         h = hashlib.sha256(normalized.encode()).hexdigest()[:32]
         if h in self.seen:
             return False
@@ -445,14 +471,16 @@ def run(dry_run: bool = False, limit: int = 0, since: str = ""):
         # Direct write: só para arquivos sem formato fixo
         if path:
             lines = []
+            existing_norm = ""
+            if path.exists():
+                existing_norm = _normalize_text(path.read_text())
             for item in items:
-                if path.exists():
-                    content = path.read_text()
-                    norm = re.sub(r"\s+", " ", item["text"].strip().lower())
-                    if norm in content.lower():
-                        ledger["dedup"] += 1
-                        continue
+                item_norm = _normalize_text(item["text"])
+                if item_norm and item_norm in existing_norm:
+                    ledger["dedup"] += 1
+                    continue
                 lines.append(fmt_map[cat](item))
+                existing_norm += " " + item_norm  # detecta colisões dentro do batch
                 written += 1
             if lines:
                 ensure_header(path, cat.title() + "s", {})

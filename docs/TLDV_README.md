@@ -57,8 +57,8 @@ https://seu-servidor:18788/webhook/tldv
 
 ### Pipeline completo (manual)
 ```bash
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
-export PYTHONPATH=/root/.openclaw/workspace/integrations
+export TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE"
+export PYTHONPATH=$WORKSPACE/integrations
 
 # Tudo
 python3 integrations/tldv/pipeline.py
@@ -138,7 +138,7 @@ pipeline (a cada 6h) → collect + enrich + analyze (polling fallback)
 
 ### Reverter pending.md
 ```bash
-git -C /root/.openclaw/workspace checkout -- memory/pending.md
+git -C $WORKSPACE checkout -- memory/pending.md
 ```
 
 ---

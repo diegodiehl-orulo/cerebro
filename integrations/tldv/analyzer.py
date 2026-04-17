@@ -28,11 +28,13 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Any
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, WORKSPACE  # noqa: E402
+
 # Paths
-WORKSPACE   = Path("/root/.openclaw/workspace")
-NORMALIZED  = WORKSPACE / "memory/meetings/normalized"
-ANALYSIS    = WORKSPACE / "memory/meetings/analysis"
-LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/analyzed_ledger.json"
+NORMALIZED  = DIRS["normalized"]
+ANALYSIS    = DIRS["analysis"]
+LEDGER_FILE = LEDGERS["analyzed"]
 
 DEFAULT_MODEL = "minimax/MiniMax-M2.7"
 FALLBACK_MODEL = "google/gemini-2.0-flash"

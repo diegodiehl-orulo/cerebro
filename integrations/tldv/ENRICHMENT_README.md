@@ -18,7 +18,7 @@ raw/{id}.json  →  enricher.py  →  transcripts/{id}.json
 
 ### Rotina principal — `enricher.py`
 ```bash
-TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" \
+TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE" \
 PYTHONPATH=/root/.openclaw/workspace/integrations \
 python3 integrations/tldv/enricher.py
 ```
@@ -211,7 +211,7 @@ rm /root/.openclaw/workspace/memory/meetings/normalized/*.json
 Recomenda-se rodar a cada 6h para captar transcripts que ficaram pendentes (204):
 ```
 # crontab -e
-0 */6 * * * TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/enricher.py >> /root/.openclaw/workspace/logs/tldv_enricher.log 2>&1
+0 */6 * * * TLDV_API_KEY="YOUR_TLDV_API_KEY_HERE" PYTHONPATH=/root/.openclaw/workspace/integrations /usr/bin/python3 /root/.openclaw/workspace/integrations/tldv/enricher.py >> /root/.openclaw/workspace/logs/tldv_enricher.log 2>&1
 ```
 
 **Log:** `/root/.openclaw/workspace/logs/tldv_enricher.log`

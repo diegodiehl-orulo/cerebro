@@ -3,18 +3,21 @@
 # Roda em foreground ou via nohup; trata erros individualmente, não para.
 #
 # Uso:
-#   nohup bash analyzer_runner.sh >> /root/.openclaw/workspace/logs/tldv_analyzer_runner.log 2>&1 &
-#   tail -f /root/.openclaw/workspace/logs/tldv_analyzer_runner.log
+#   nohup bash analyzer_runner.sh >> "$LOGDIR/tldv_analyzer_runner.log" 2>&1 &
+#   tail -f "$WORKSPACE/logs/tldv_analyzer_runner.log"
 #
 # Para matar: pkill -f analyzer_runner.sh
 
-export TLDV_API_KEY="69f9a821-7286-46e8-a64c-7c1f20a01576"
-export PYTHONPATH="/root/.openclaw/workspace/integrations"
-ANALYZER="/root/.openclaw/workspace/integrations/tldv/analyzer.py"
-LEDGER="/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json"
-PENDING_FILE="/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending_2026.json"
-ANALYSIS_DIR="/root/.openclaw/workspace/memory/meetings/analysis"
-LOG="/root/.openclaw/workspace/logs/tldv_analyzer_runner.log"
+set -u
+
+# Boot: workspace + .env + PYTHONPATH
+source "$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)/_boot.sh"
+
+ANALYZER="$TLDV_DIR/analyzer.py"
+LEDGER="$WORKSPACE/memory/meetings/ledger/analyzed_ledger.json"
+PENDING_FILE="$WORKSPACE/memory/meetings/ledger/analyze_pending_2026.json"
+ANALYSIS_DIR="$WORKSPACE/memory/meetings/analysis"
+LOG="$LOGDIR/tldv_analyzer_runner.log"
 
 mkdir -p "$(dirname "$LOG")" "$ANALYSIS_DIR"
 
@@ -22,23 +25,22 @@ log() {
     echo "[$(date '+%Y-%m-%d %H:%M:%S')] $*" | tee -a "$LOG"
 }
 
-# Carregar pendentes do arquivo
 load_pending() {
     if [ ! -f "$PENDING_FILE" ]; then
         log "Arquivo de pendentes não encontrado: $PENDING_FILE"
         exit 1
     fi
-    python3 - <<'EOF'
-import json
+    PENDING_FILE_ENV="$PENDING_FILE" LEDGER_ENV="$LEDGER" python3 - <<'EOF'
+import json, os
 from pathlib import Path
 
-analyzed_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json")
+ledger_file = Path(os.environ["LEDGER_ENV"])
 analyzed = set()
-if analyzed_file.exists():
-    with open(analyzed_file) as f:
+if ledger_file.exists():
+    with open(ledger_file) as f:
         analyzed = set(json.load(f).get("analyzed", []))
 
-pending_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyze_pending_2026.json")
+pending_file = Path(os.environ["PENDING_FILE_ENV"])
 pending_ids = []
 if pending_file.exists():
     all_pending = json.loads(pending_file.read_text())
@@ -50,43 +52,34 @@ for mid in pending_ids:
 EOF
 }
 
-# Salvar ledger
 save_ledger() {
-    python3 - <<'EOF'
-import json
+    LEDGER_ENV="$LEDGER" python3 - <<'EOF'
+import json, os, datetime
 from pathlib import Path
 
-ledger_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json")
-analyzed_file = Path("/root/.openclaw/workspace/memory/meetings/ledger/analyzed_ledger.json")
-new_analyzed = []
-new_failed = []
-
-# Read existing
-if analyzed_file.exists():
-    with open(analyzed_file) as f:
+ledger_file = Path(os.environ["LEDGER_ENV"])
+if ledger_file.exists():
+    with open(ledger_file) as f:
         data = json.load(f)
 else:
     data = {"analyzed": [], "failed": [], "stats": {"analyzed": 0, "failed": 0}}
 
-# This is sourced from env vars set by the shell
-import os
-analyzed_list = os.environ.get('ANALYZED_IDS', '').split(',')
-failed_list = os.environ.get('FAILED_IDS', '').split(',')
-
-for mid in analyzed_list:
+for mid in os.environ.get('ANALYZED_IDS', '').split(','):
     mid = mid.strip()
     if mid and mid not in data.get('analyzed', []):
-        data['analyzed'].append(mid)
-for mid in failed_list:
+        data.setdefault('analyzed', []).append(mid)
+for mid in os.environ.get('FAILED_IDS', '').split(','):
     mid = mid.strip()
     if mid and mid not in data.get('failed', []):
-        data['failed'].append(mid)
+        data.setdefault('failed', []).append(mid)
 
+data.setdefault('stats', {})
 data['stats']['analyzed'] = len(data.get('analyzed', []))
 data['stats']['failed'] = len(data.get('failed', []))
-data['last_run'] = __import__('datetime').datetime.now().isoformat()
+data['last_run'] = datetime.datetime.now().isoformat()
 
 tmp = ledger_file.with_suffix('.tmp')
+tmp.parent.mkdir(parents=True, exist_ok=True)
 with open(tmp, 'w') as f:
     json.dump(data, f, indent=2, ensure_ascii=False)
 tmp.replace(ledger_file)
@@ -95,9 +88,8 @@ EOF
 }
 
 log "=== ANALYZER RUNNER INICIADO ==="
-log "PID: $$"
+log "WORKSPACE: $WORKSPACE | PID: $$"
 
-# Carregar pendentes
 PENDING_OUTPUT=$(load_pending)
 TOTAL_PENDING=$(echo "$PENDING_OUTPUT" | head -1)
 IDS=$(echo "$PENDING_OUTPUT" | tail -n +2)
@@ -112,7 +104,6 @@ errors_seq=0
 for mid in $IDS; do
     count=$((count+1))
 
-    # Verificar se já foi analisado (race condition protection)
     if [ -f "$ANALYSIS_DIR/${mid}.json" ]; then
         log "[$count/$TOTAL_PENDING] $mid — ja existe (pulando)"
         continue
@@ -138,7 +129,6 @@ for mid in $IDS; do
         fi
     fi
 
-    # Salvar ledger a cada 25
     if [ $((count % 25)) -eq 0 ]; then
         export ANALYZED_IDS="$analyzed_ids"
         export FAILED_IDS="$failed_ids"
@@ -148,12 +138,9 @@ for mid in $IDS; do
         log "Checkpoint salvo ($count processados)"
     fi
 
-    # Pausa entre chamadas (rate limit)
     sleep 5
-
 done
 
-# Salvar final
 if [ -n "$analyzed_ids" ] || [ -n "$failed_ids" ]; then
     export ANALYZED_IDS="$analyzed_ids"
     export FAILED_IDS="$failed_ids"

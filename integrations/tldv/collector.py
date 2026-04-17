@@ -22,6 +22,9 @@ import logging
 from datetime import datetime as dt
 from pathlib import Path
 
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, LOCKS, WORKSPACE  # noqa: E402
+
 logging.basicConfig(
     level=logging.INFO,
     format="%(levelname)s — %(message)s",
@@ -30,11 +33,10 @@ logger = logging.getLogger("tldv.collector")
 
 # ── Paths ────────────────────────────────────────────────────────────────────
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-RAW_DIR = WORKSPACE / "memory/meetings/raw"
-TRANSCRIPT_DIR = WORKSPACE / "memory/meetings/transcripts"
-LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/processed_meetings.json"
-LEDGER_LOCK = WORKSPACE / "memory/meetings/ledger/.processing_lock"
+RAW_DIR = DIRS["raw"]
+TRANSCRIPT_DIR = DIRS["transcripts"]
+LEDGER_FILE = LEDGERS["processed"]
+LEDGER_LOCK = LOCKS["collector"]
 
 # ── Ledger ────────────────────────────────────────────────────────────────────
 
@@ -119,12 +121,11 @@ def _backfill_all_transcripts(client) -> dict:
     para qualquer uma que ainda não tenha sido salva em transcripts/.
     Retorna dict com 'saved' e 'total'.
     """
-    RAW_DIR = Path("/root/.openclaw/workspace") / "memory/meetings/raw"
-    TX_DIR = Path("/root/.openclaw/workspace") / "memory/meetings/transcripts"
-    TX_DIR.mkdir(parents=True, exist_ok=True)
+    tx_dir = DIRS["transcripts"]
+    tx_dir.mkdir(parents=True, exist_ok=True)
 
-    existing = set(p.stem for p in TX_DIR.glob("*.txt"))
-    raw_ids = [p.stem for p in RAW_DIR.glob("*.json")]
+    existing = set(p.stem for p in tx_dir.glob("*.txt"))
+    raw_ids = [p.stem for p in DIRS["raw"].glob("*.json")]
     need_tx = [mid for mid in raw_ids if mid not in existing]
 
     saved = 0

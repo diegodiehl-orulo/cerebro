@@ -42,12 +42,14 @@ import logging
 from datetime import datetime, timezone
 from pathlib import Path
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-INTEGRATIONS = WORKSPACE / "integrations/tldv"
-LOG_DIR = WORKSPACE / "logs"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, WORKSPACE, MAX_CONSECUTIVE_ERRORS, RATE_LIMIT_PAUSE  # noqa: E402
 
-os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
-os.environ.setdefault("PYTHONPATH", str(INTEGRATIONS.parent))
+INTEGRATIONS = DIRS["integrations"] / "tldv"
+LOG_DIR = DIRS["logs"]
+
+# PYTHONPATH para subprocessos (analyzer.py faz `from tldv.client import ...`)
+os.environ.setdefault("PYTHONPATH", str(DIRS["integrations"]))
 
 def log(msg, verbose_only=False):
     ts = datetime.now().isoformat(timespec="seconds")
@@ -90,9 +92,10 @@ def run_python(script: Path, extra_args: list[str] = (), timeout: int = 300) -> 
 def stage_collect(args) -> int:
     """Estágio 1: coleta reuniões novas."""
     log("=== ESTÁGIO 1: COLLECT ===")
-    n_before = len(list((WORKSPACE / "memory/meetings/raw").glob("*.json")))
+    DIRS["raw"].mkdir(parents=True, exist_ok=True)
+    n_before = len(list(DIRS["raw"].glob("*.json")))
     ok = run_python(INTEGRATIONS / "collector.py", ["--dry-run"] if args.dry_run else [])
-    n_after = len(list((WORKSPACE / "memory/meetings/raw").glob("*.json")))
+    n_after = len(list(DIRS["raw"].glob("*.json")))
     collected = n_after - n_before if ok else 0
     log(f"  Coletadas: {collected} reuniões (total: {n_after})")
     return collected
@@ -113,20 +116,20 @@ def stage_analyze(args) -> int:
     if args.dry_run:
         return run_python(INTEGRATIONS / "analyzer.py", ["--dry-run", "--limit", "3"]) or 0
 
-    # Roda analyzer em loop até não haver mais pendentes
     total = 0
     errors_seq = 0
+    # Skip-set: IDs que falharam nesta execução — não reprocessar para evitar loop.
+    skipped_in_run: set[str] = set()
+
     for _ in range(200):  # max 200 iterações
-        # Contar pendentes
         analyzed_set = set()
-        ledger = WORKSPACE / "memory/meetings/ledger/analyzed_ledger.json"
-        if ledger.exists():
-            with open(ledger) as f:
+        if LEDGERS["analyzed"].exists():
+            with open(LEDGERS["analyzed"]) as f:
                 analyzed_set = set(json.load(f).get("analyzed", []))
 
-        norm_dir = WORKSPACE / "memory/meetings/normalized"
-        normalized = [p.stem for p in norm_dir.glob("*.json")]
-        pending = [m for m in normalized if m not in analyzed_set]
+        normalized = [p.stem for p in DIRS["normalized"].glob("*.json")]
+        pending = [m for m in normalized
+                   if m not in analyzed_set and m not in skipped_in_run]
 
         if not pending:
             break
@@ -140,17 +143,14 @@ def stage_analyze(args) -> int:
             errors_seq = 0
         else:
             errors_seq += 1
-            log(f"  Erro #{errors_seq}")
-            # MOVE FAILED MEETING TO END OF QUEUE — prevents infinite loop on same ID
-            failed_id = pending.pop(0)
-            pending.append(failed_id)
-            log(f"  {failed_id} movido para final da fila")
-            if errors_seq >= 5:
-                log("  5 erros seguidos — abortando analyze")
+            skipped_in_run.add(next_id)
+            log(f"  Erro #{errors_seq} em {next_id} — pulado nesta execução")
+            if errors_seq >= MAX_CONSECUTIVE_ERRORS:
+                log(f"  {MAX_CONSECUTIVE_ERRORS} erros seguidos — abortando analyze")
                 break
-        time.sleep(5)
+        time.sleep(RATE_LIMIT_PAUSE)
 
-    log(f"  Total analisadas nesta execução: {total}")
+    log(f"  Total analisadas nesta execução: {total} | Puladas: {len(skipped_in_run)}")
     return total
 
 
@@ -158,19 +158,19 @@ def stage_persist(args) -> dict:
     """Estágio 4: persistir análises em memória."""
     log("=== ESTÁGIO 4: PERSIST ===")
     if args.dry_run:
-        run_python(WORKSPACE / "integrations/tldv/persister.py", ["--dry-run"])
+        run_python(INTEGRATIONS / "persister.py", ["--dry-run"])
         return {}
 
-    ledger = WORKSPACE / "memory/meetings/ledger/persisted_ledger.json"
+    ledger_file = LEDGERS["persisted"]
     before = 0
-    if ledger.exists():
-        with open(ledger) as f:
+    if ledger_file.exists():
+        with open(ledger_file) as f:
             before = len(json.load(f).get("persisted", []))
 
-    run_python(WORKSPACE / "integrations/tldv/persister.py", [], timeout=60)
+    run_python(INTEGRATIONS / "persister.py", [], timeout=60)
 
-    if ledger.exists():
-        with open(ledger) as f:
+    if ledger_file.exists():
+        with open(ledger_file) as f:
             after = json.load(f)
         written = len(after.get("persisted", [])) - before
         result = {"written": written, "total": len(after.get("persisted", []))}
@@ -184,7 +184,7 @@ def stage_digest(args) -> Path:
     log("=== ESTÁGIO 5: DIGEST ===")
 
     # Lê análises recentes
-    analysis_dir = WORKSPACE / "memory/meetings/analysis"
+    analysis_dir = DIRS["analysis"]
     since_dt = None
     if args.since:
         since_dt = datetime.fromisoformat(args.since)
@@ -335,10 +335,9 @@ def main():
         ]:
             log(f"=== {name.upper()} para {ARGS.meeting_id} ===")
             if name == "enrich":
-                # enricher não tem --meeting-id, usa collector → enricher
-                run_python(WORKSPACE / "integrations/tldv/enricher.py", ["--meeting-id", ARGS.meeting_id])
+                run_python(INTEGRATIONS / "enricher.py", ["--meeting-id", ARGS.meeting_id])
             elif name == "analyze":
-                run_python(WORKSPACE / "integrations/tldv/analyzer.py", ["--meeting-id", ARGS.meeting_id])
+                run_python(INTEGRATIONS / "analyzer.py", ["--meeting-id", ARGS.meeting_id])
             else:
                 stage_fn(ARGS)
         return

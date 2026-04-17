@@ -10,8 +10,11 @@ import json, sys, re
 from pathlib import Path
 from datetime import datetime
 
-TRANSCRIPT_DIR = Path("/root/.openclaw/workspace/memory/meetings/transcripts")
-SUMMARY_DIR = Path("/root/.openclaw/workspace/memory/meetings/summaries")
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS  # noqa: E402
+
+TRANSCRIPT_DIR = DIRS["transcripts"]
+SUMMARY_DIR = DIRS["summaries"]
 SUMMARY_DIR.mkdir(parents=True, exist_ok=True)
 
 def extract_metadata(transcript_text: str) -> dict:

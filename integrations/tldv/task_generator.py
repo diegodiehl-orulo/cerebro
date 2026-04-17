@@ -31,16 +31,15 @@ from collections import defaultdict
 from datetime import datetime, timezone
 from pathlib import Path
 
-WORKSPACE = Path("/root/.openclaw/workspace")
-ANALYSIS_DIR = WORKSPACE / "memory/meetings/analysis"
-TASKS_DIR = WORKSPACE / "tasks"
-GENERATED_DIR = WORKSPACE / "memory/meetings/tasks"  # per-meeting task outputs
-CONSOLIDATED_DIR = TASKS_DIR / "consolidated"
-LEDGER_FILE = WORKSPACE / "memory/meetings/ledger/tasks_ledger.json"
-LOG_FILE = WORKSPACE / "logs/tldv_task_generator.log"
+sys.path.insert(0, str(Path(__file__).resolve().parent))
+from config import DIRS, LEDGERS, WORKSPACE  # noqa: E402
 
-os_environ = __import__('os').environ
-os_environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
+ANALYSIS_DIR = DIRS["analysis"]
+TASKS_DIR = DIRS["tasks"]
+GENERATED_DIR = DIRS["per_meeting_tasks"]  # per-meeting task outputs
+CONSOLIDATED_DIR = DIRS["consolidated"]
+LEDGER_FILE = LEDGERS["tasks"]
+LOG_FILE = DIRS["logs"] / "tldv_task_generator.log"
 
 
 def log(msg):
@@ -63,22 +62,42 @@ class TaskClassifier:
       - INFO_NEEDED: precisa de mais contexto antes de virar tarefa
     """
 
+    # Verbos explícitos (PT + EN). Primeira palavra = comando de ação.
     EXPLICT_verbs = {
+        # PT
         "criar", "definir", "agendar", "marcar", "enviar", "mandar",
         "preparar", "elaborar", "desenvolver", "implementar", "revisar",
         "atualizar", "construir", "fazer", "realizar", "conectar",
         "programar", "confirmar", "validar", "testar", "documentar",
         "registrar", "analisar", "estudar", "avaliar", "organizar",
+        "redigir", "propor", "apresentar", "publicar", "subir",
+        # EN
+        "create", "define", "schedule", "send", "prepare", "build",
+        "implement", "review", "update", "do", "run", "connect",
+        "confirm", "validate", "test", "document", "register",
+        "analyze", "evaluate", "organize", "draft", "propose",
+        "present", "publish", "deploy", "write", "add", "remove",
+        "fix", "ship", "investigate", "research", "sync", "set",
     }
 
     FOLLOW_UP_verbs = {
-        "verificar", "checar", "conferir", "acompanhar", "追问",
+        # PT
+        "verificar", "checar", "conferir", "acompanhar",
         "cobrar", "follow-up", "dar retorno", "retornar", "feedback",
+        "alinhar", "dar ciência",
+        # EN
+        "check", "verify", "follow up", "followup", "follow-up",
+        "circle back", "ping", "chase", "sync with", "align with",
     }
 
     DECISION_markers = {
+        # PT
         "depende de", "aguarda", "aguardando", "precisa decidir",
         "decisão do", "aprovação", "confirmar com", "validar com",
+        "a definir", "ainda em aberto",
+        # EN
+        "depends on", "waiting on", "waiting for", "needs decision",
+        "approval", "confirm with", "validate with", "tbd", "pending",
     }
 
     def __init__(self, text: str):
@@ -101,14 +120,16 @@ class TaskClassifier:
         # Verbo explícito no início
         if self.first_word in self.EXPLICT_verbs:
             return True
-        # Padrão "verb [subject]"
-        pattern = r"^(criar|definir|agendar|enviar|preparar|implementar|revisar|atualizar|construir|fazer|realizar|confirmar|validar|documentar|registrar|analisar|programar)"
-        if re.search(pattern, self.lower):
+        # Qualquer verbo explícito no texto (bigram-aware: "vamos criar")
+        words = set(self.lower.split())
+        if words & self.EXPLICT_verbs:
             return True
         # Checklist markers: "- [ ]", "TODO:"
         if re.search(r"^[-*]\s*\[[ x]\]", self.text):
             return True
-        if re.search(r"^todo:", self.lower):
+        if re.search(r"^\s*todo\s*[:\-]", self.lower):
+            return True
+        if re.search(r"\baction\s*item\b", self.lower):
             return True
         return False
 
@@ -125,15 +146,27 @@ class TaskClassifier:
         return False
 
     def _is_info_needed(self) -> bool:
-        question_words = ["quem", "quando", "onde", "como", "por que", "qual", "que "]
+        question_words = [
+            # PT
+            "quem", "quando", "onde", "como", "por que", "qual", "que ",
+            # EN
+            "who ", "when ", "where ", "how ", "why ", "what ", "which ",
+        ]
         if any(w in self.lower for w in question_words):
             return len(self.text) < 40  # Curta + pergunta = precisa contexto
         return False
 
     def priority(self) -> str:
-        """Infere prioridade."""
-        high_markers = ["urgente", "crítico", "bloqueante", "imediato", "hoje", "agora", "[high]"]
-        medium_markers = ["semana", "[medium]", "prioridade média", "em breve"]
+        """Infere prioridade (PT+EN)."""
+        high_markers = [
+            "urgente", "crítico", "bloqueante", "imediato", "hoje", "agora", "[high]",
+            "urgent", "critical", "blocker", "blocking", "asap", "today", "right now",
+            "p0", "p1",
+        ]
+        medium_markers = [
+            "semana", "[medium]", "prioridade média", "em breve",
+            "this week", "next week", "soon", "p2",
+        ]
         if any(m in self.lower for m in high_markers):
             return "HIGH"
         if any(m in self.lower for m in medium_markers):
@@ -141,12 +174,13 @@ class TaskClassifier:
         return "MEDIUM"  # default
 
     def owner(self) -> str | None:
-        """Extrai responsável se mencionado."""
+        """Extrai responsável se mencionado (PT+EN)."""
         patterns = [
-            r"@\(?([A-Z][a-z]+ [A-Z][a-z]+)\)?",  # @(Diego Diehl)
-            r"dono:?\s*([A-Z][a-z]+)",              # Dono: Diego
-            r"responsável:?\s*([A-Z][a-z]+)",
-            r"Owner:?\s*([A-Z][a-z]+)",
+            r"@\(?([A-Z][a-zà-ÿ]+(?:\s[A-Z][a-zà-ÿ]+)?)\)?",  # @(Diego Diehl) ou @Diego
+            r"dono:?\s*([A-Z][a-zà-ÿ]+)",
+            r"respons[aá]vel:?\s*([A-Z][a-zà-ÿ]+)",
+            r"(?:owner|assignee):?\s*([A-Z][a-zà-ÿ]+)",
+            r"\[([A-Z][A-Z]+)\]\s",  # [DIEGO] ao início
         ]
         for p in patterns:
             m = re.search(p, self.text)
@@ -228,14 +262,14 @@ def signature(task: dict) -> str:
 
 
 def load_seen_sigs() -> set:
-    sigs_file = WORKSPACE / "memory/meetings/ledger/task_sigs.txt"
+    sigs_file = LEDGERS["task_sigs"]
     if sigs_file.exists():
         return set(sigs_file.read_text().splitlines())
     return set()
 
 
 def save_seen_sigs(sigs: set):
-    sigs_file = WORKSPACE / "memory/meetings/ledger/task_sigs.txt"
+    sigs_file = LEDGERS["task_sigs"]
     sigs_file.parent.mkdir(parents=True, exist_ok=True)
     sigs_file.write_text("\n".join(sorted(sigs)))
 
@@ -595,9 +629,6 @@ def save_ledger(ledger: dict):
 
 
 def main():
-    import os as _os
-    _os.environ.setdefault("TLDV_API_KEY", "69f9a821-7286-46e8-a64c-7c1f20a01576")
-
     parser = argparse.ArgumentParser(description="Task generator from tl;dv analyses")
     parser.add_argument("--dry-run", action="store_true")
     parser.add_argument("--meeting-id", type=str, default="")

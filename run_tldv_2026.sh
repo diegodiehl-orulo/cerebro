@@ -1,18 +1,10 @@
 #!/bin/bash
-cd /root/.openclaw/workspace
-export MINIMAX_API_KEY="sk-cp--KdotSlVuQe2kODU0wiSCN1xMwNwrUrd1cgN7rQk8wXYNjhDeG75i9UrCIhFj4EfH4TTxnqTInH41gXNGqvMR-OXUFIfd7bSc9gZ0rk0AXQaZk31Bi4nf8Y"
+# DEPRECATED — mantido apenas como wrapper de compatibilidade.
+# A lista de IDs agora vive em integrations/tldv/id-lists/lote2_2026.txt
+# e a rotina é run_tldv.sh (portável, .env-based).
+#
+# Use diretamente:
+#   ./run_tldv.sh ids --ids-file integrations/tldv/id-lists/lote2_2026.txt
 
-IDS="69d8e63a65b9b10014f5db72 6985db365e4d110013684396 69a18ab585c6ba0013e8d6c6 69a19c4b7ac8c80013e360e1 696a2bb639bb030013ac8fcf 697377d35355be00138a5614 69aac1ccd537b40013ab1c27 69aad6cb6a12da00133feb4e 69ab0b85d537b40013ab28ef 69ab191ceef3be0013324da1 69b3ffb54270ef0013147a6a 69b406bf6fac1300131a22fb 69b44bbf7314d6001379cf1c 69b45ea101fdb30013db761e 69b47ac2e108b900136ad1fd 69bd75fea6d8bc0013db5b94 69bd9ef06a28e60013c3eb61 69c674b5602e260013bbd14c 69c67bbe0da323001305d36e 69c6864fc212f3001399e8f9 69d3f49884d30500130092c2 6977c7b7764dcd0013dc6ea3 69a5d01885c6ba0013e91d47 69a5ec397ac8c80013e3a8c6 69aec4443eb59a0013ad25b6 69b7fec44270ef001314af77 69b845174ddb450012bb9140 69ca73c524b2440013ebe436 69caba140da323001306119a 69ce63fd8ca95a001348d020 69ce765eddea5b001360288d 69cebf017c8d0800136e9e57 698494656b8a0100138b0a95 6984e8ad922a6d0013ac6d63 6984f6b56de6d60013aef6ba 698ddce91bcf5d0012a30d2c 698e3137ecdf0e00130126b6 6996f0a540e61f0013935ff4 69a02b25fc507800135d3bd3 69a0435446f1b600120eec2f 69a07c1e738ec900132a9bfd 695657252ab9160013645599 6968cc27290b3e0013fc3d86 69722d66a1068c0013a36938 6972853543e33a00133a3e06 69a965a5857a4c001356cc3b 69a9c49bd537b40013aafd3e 69b2b4393538e30013b2ccb7 69b2f1112c298800128eafa1 69b2ff1b4270ef0013145bcb 69bbe54c50d24b001394c612 69c53bda89dd4d0013feab19 69c58224f2dd940013643f4d 69d4ffd1db975a00136b9b23 69d5575a85b0bd0013da136d 695cf940664f000013cd81f9 69b0722b4519e900135b07f9 69c298dd15faad0013d45c40 69cbd3552282e200121d1659 69cc039014bbdc00133e2a6a 69cd08ba5339450013b8fd72 69cd6b2b2282e200121d4d74 69d64a4820b5ee0013f53829 69d6a5b3911a4a0013a24cb9 69837b247d83e400138dcef6 699f318dfc507800135d1c02 695e6dde1472f50013120335 69a81eb55d91c700121d4be0 69a8812d22b1f60013518707 69b159356fac13001319c488 69c3dc5fdbc75500136ae2e6 69c3ea62dbc75500136ae5ab 69c4180505b6060013043db6"
-
-count=0
-for MID in $IDS; do
-    result=$(python3 integrations/tldv/analyzer_v2.py "$MID" 2>&1)
-    if echo "$result" | grep -q "✅"; then
-        echo "✅ $MID"
-        count=$((count+1))
-    else
-        echo "⚠️ $MID: $(echo "$result" | tail -1)"
-    fi
-done
-echo ""
-echo "=== FINAL: $count análises geradas ==="
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+exec "$SCRIPT_DIR/run_tldv.sh" ids --ids-file "$SCRIPT_DIR/integrations/tldv/id-lists/lote2_2026.txt" "$@"
